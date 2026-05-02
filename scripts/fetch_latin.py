@@ -197,6 +197,26 @@ def parse_perseus_tei(xml_text: str, speech_index: str | None = None) -> str:
             raise RuntimeError(f"speech {speech_index} not found in bundle")
         root = speech
 
+    # Strip critical apparatus before extracting text. TEI variants live
+    # inside <app><rdg>...</rdg></app>; we keep <lem> (the chosen reading)
+    # and discard <rdg>, <witDetail>, <note>, <app>'s loose siglum tails.
+    for tag_name in ("rdg", "witDetail", "note", "app", "lem"):
+        # We have to handle <app> specially: keep inner <lem> text, drop the
+        # rest. Easiest is to replace each <app> with the text of its <lem>.
+        if tag_name == "app":
+            for app in root.find_all("app"):
+                lem = app.find("lem")
+                replacement = lem.get_text(" ", strip=True) if lem is not None else ""
+                app.replace_with(replacement)
+        elif tag_name == "lem":
+            # After <app> processing all remaining <lem>s should be gone, but
+            # protect against malformed XML.
+            for lem in root.find_all("lem"):
+                lem.unwrap()
+        else:
+            for tag in root.find_all(tag_name):
+                tag.decompose()
+
     sections = root.find_all(
         "div", attrs={"type": "textpart", "subtype": "section"}
     )
