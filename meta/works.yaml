@@ -541,7 +541,7 @@
   latin_file: latin/letters/060bc-ad-atticum-01-18.tex
   english_file: english/letters/060bc-ad-atticum-01-18.tex
   headnote_file: headnotes/letters/060bc-ad-atticum-01-18.tex
-  status: pending
+  status: drafted
   notes: 'Early letters: 68-65 BC, before the consulship. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0065-12-31
@@ -559,7 +559,7 @@
   latin_file: latin/letters/060bc-ad-atticum-01-19.tex
   english_file: english/letters/060bc-ad-atticum-01-19.tex
   headnote_file: headnotes/letters/060bc-ad-atticum-01-19.tex
-  status: pending
+  status: drafted
   notes: 'Early letters: 68-65 BC, before the consulship. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0065-12-31
@@ -568,8 +568,8 @@
   title_latin: Ad Atticum 1.20
   title_english: Ad Atticum 1.20
   category: letters
-  date: -0060-01-09
-  date_precision: year
+  date: -0060-05-13
+  date_precision: day
   location_written: Romae post iiii
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
@@ -577,7 +577,7 @@
   latin_file: latin/letters/060bc-ad-atticum-01-20.tex
   english_file: english/letters/060bc-ad-atticum-01-20.tex
   headnote_file: headnotes/letters/060bc-ad-atticum-01-20.tex
-  status: pending
+  status: drafted
   notes: 'Early letters: 68-65 BC, before the consulship. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0065-12-31
