@@ -6,26 +6,25 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 9 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
+- **Drafted**: 10 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
   (80 BC), *Pro Roscio Comoedo* (~76 BC), *Pro Tullio* (71 BC),
   *Divinatio in Caecilium* (Jan 70 BC), *In Verrem Actio Prima*
-  (5 Aug 70 BC), *In Verrem Actio Secunda I* (autumn 70 BC),
-  *In Verrem Actio Secunda II* (autumn 70 BC), and *In Verrem Actio
-  Secunda III* (autumn 70 BC). All awaiting human review.
+  (5 Aug 70 BC), and the four published books of the Actio Secunda
+  (I-IV; autumn 70 BC). All awaiting human review.
 - **In progress**: none.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 947 entries --- the two remaining Verres Actio Secunda
-  books (II.4 *de signis*, II.5 *de suppliciis*), the speeches of the
-  60s (Pro Caecina, Pro Fonteio, Pro Lege Manilia, Pro Cluentio, the
-  Agrarians, the Catilinarians, Pro Murena), the speeches of the 50s
-  and 40s, the 14 Philippics, the 7 rhetorical works, the 17
-  philosophical / poetic works (including *Aratea* (86 BC) and *De
-  Inventione* (85 BC) which precede *Pro Quinctio* and were skipped
-  because *Pro Quinctio* was the agreed test case), and the full
-  letter corpus (873 letters organised by traditional book.letter
-  numbering across Ad Atticum, Ad Familiares, Ad Quintum Fratrem, Ad
-  M. Brutum).
+- **Pending**: 946 entries --- the closing book of the Verres Actio
+  Secunda (II.5 *de suppliciis*, the *civis Romanus sum* book), the
+  speeches of the 60s (Pro Caecina, Pro Fonteio, Pro Lege Manilia,
+  Pro Cluentio, the Agrarians, the Catilinarians, Pro Murena), the
+  speeches of the 50s and 40s, the 14 Philippics, the 7 rhetorical
+  works, the 17 philosophical / poetic works (including *Aratea*
+  (86 BC) and *De Inventione* (85 BC) which precede *Pro Quinctio*
+  and were skipped because *Pro Quinctio* was the agreed test case),
+  and the full letter corpus (873 letters organised by traditional
+  book.letter numbering across Ad Atticum, Ad Familiares, Ad Quintum
+  Fratrem, Ad M. Brutum).
 
 ## Milestones
 
@@ -53,8 +52,15 @@ as milestones are reached.
   drafted end-to-end in one continuous run --- Apronius the bagman,
   the destruction of the lex Hieronica, the assessed-grain swindle,
   the depopulation of the Sicilian plough-lands, the closing argument
-  on Hortensius and the senatorial courts. Nine works now drafted;
-  the resume point moves forward to *Verres II.4 de signis*.
+  on Hortensius and the senatorial courts. *Verres II.4 de signis*
+  (151 sections) drafted next: the Heius collection, the Cibyratan
+  brothers, the candelabrum of Antiochus, the Diana of Segesta, the
+  Mercury of Tyndaris and Sopater bound to the statue of Marcellus,
+  the temple of Hercules at Agrigentum, the Ceres of Henna, the long
+  comparison of the two takings of Syracuse, the dismantling of the
+  Mamertine and Syracusan praises. Ten works now drafted; the resume
+  point moves forward to *Verres II.5 de suppliciis* (the *civis
+  Romanus sum* book).
 
 ## Known follow-ups
 
@@ -110,18 +116,21 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The current resume point is **Verres II.4 *de signis*, section 1**
---- the fourth book of the Actio Secunda, on Verres's plundering of
-Sicilian art and sacred objects. This is the most famous of the
-five for its set-piece narrative passages (the Heius collection at
-Messana, the candelabrum of Antiochus, the sack of Heraclea's
-Diana, the temple of Ceres at Henna, the Syracusan triumphal
-sculptures). Split at section boundaries (~30-40 sections per
-commit) per the timeout discipline below. After II.4 the queue is
-II.5 *de suppliciis* (the Gavius crucifixion --- *civis Romanus
-sum* --- and the most famous passage in the Verrines), then *Pro
-Caecina*, *Pro Fonteio*, *Pro Lege Manilia*, *Pro Cluentio* (the
-longest forensic speech), and forward through the 60s.
+The current resume point is **Verres II.5 *de suppliciis*, section 1**
+--- the fifth and last book of the Actio Secunda, on Verres's
+cruelties: the running of the pretended pirate war, the bribed
+release of pirate captains, the executions of the Roman captains
+of the Sicilian fleet at the column of Achradina, the imprisonment
+and execution of Roman citizens in the Latomiae --- and (the
+single most famous passage in the corpus) the crucifixion of
+Gavius of Consa: *civis Romanus sum*. The book closes the
+prosecution of Verres and the Actio Secunda corpus. Split at
+section boundaries (~30-40 sections per commit) per the timeout
+discipline below. Render the Gavius passage with full weight ---
+this is the moment for which the whole prosecution has been built.
+After II.5 the queue is *Pro Caecina*, *Pro Fonteio*, *Pro Lege
+Manilia*, *Pro Cluentio* (the longest forensic speech), and
+forward through the 60s.
 
 ## Generated index
 

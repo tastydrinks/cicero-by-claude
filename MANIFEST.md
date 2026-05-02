@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 9
-- pending: 947
+- drafted: 10
+- pending: 946
 
 ## Chronological order
 
@@ -29,7 +29,7 @@ Status:
 | 9 | November 70 BC | speeches | Against Verres, Second Hearing, Book I | drafted |
 | 10 | November 70 BC | speeches | Against Verres, Second Hearing, Book II | drafted |
 | 11 | November 70 BC | speeches | Against Verres, Second Hearing, Book III | drafted |
-| 12 | November 70 BC | speeches | Against Verres, Second Hearing, Book IV | pending |
+| 12 | November 70 BC | speeches | Against Verres, Second Hearing, Book IV | drafted |
 | 13 | November 70 BC | speeches | Against Verres, Second Hearing, Book V | pending |
 | 14 | 69-68 BC | speeches | For Aulus Caecina | pending |
 | 15 | 69 BC | speeches | For Marcus Fonteius | pending |
