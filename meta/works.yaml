@@ -424,8 +424,8 @@
   title_latin: Ad Atticum 1.12
   title_english: Ad Atticum 1.12
   category: letters
-  date: -0061-05-01
-  date_precision: year
+  date: -0061-01-01
+  date_precision: day
   location_written: Romae In Ian
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
@@ -433,7 +433,7 @@
   latin_file: latin/letters/061bc-ad-atticum-01-12.tex
   english_file: english/letters/061bc-ad-atticum-01-12.tex
   headnote_file: headnotes/letters/061bc-ad-atticum-01-12.tex
-  status: pending
+  status: drafted
   notes: 'Early letters: 68-65 BC, before the consulship. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0065-12-31
@@ -451,7 +451,7 @@
   latin_file: latin/letters/061bc-ad-atticum-01-13.tex
   english_file: english/letters/061bc-ad-atticum-01-13.tex
   headnote_file: headnotes/letters/061bc-ad-atticum-01-13.tex
-  status: pending
+  status: drafted
   notes: 'Early letters: 68-65 BC, before the consulship. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0065-12-31
@@ -469,7 +469,7 @@
   latin_file: latin/letters/061bc-ad-atticum-01-14.tex
   english_file: english/letters/061bc-ad-atticum-01-14.tex
   headnote_file: headnotes/letters/061bc-ad-atticum-01-14.tex
-  status: pending
+  status: drafted
   notes: 'Early letters: 68-65 BC, before the consulship. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0065-12-31
@@ -487,7 +487,7 @@
   latin_file: latin/letters/061bc-ad-atticum-01-15.tex
   english_file: english/letters/061bc-ad-atticum-01-15.tex
   headnote_file: headnotes/letters/061bc-ad-atticum-01-15.tex
-  status: pending
+  status: drafted
   notes: 'Early letters: 68-65 BC, before the consulship. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0065-12-31
@@ -833,7 +833,7 @@
   latin_file: latin/letters/062bc-ad-familiares-05-05.tex
   english_file: english/letters/062bc-ad-familiares-05-05.tex
   headnote_file: headnotes/letters/062bc-ad-familiares-05-05.tex
-  status: pending
+  status: drafted
   notes: 'Various correspondents: Pompey, Antony, Vatinius, Lucceius, Cato, M. Marius. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0044-12-31
@@ -851,7 +851,7 @@
   latin_file: latin/letters/062bc-ad-familiares-05-06.tex
   english_file: english/letters/062bc-ad-familiares-05-06.tex
   headnote_file: headnotes/letters/062bc-ad-familiares-05-06.tex
-  status: pending
+  status: drafted
   notes: 'Various correspondents: Pompey, Antony, Vatinius, Lucceius, Cato, M. Marius. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0044-12-31
@@ -914,18 +914,17 @@
   title_latin: Ad Familiares 5.10
   title_english: Ad Familiares 5.10
   category: letters
-  date: -0062-07-01
-  date_precision: year_range
+  date: -0051-07-01
+  date_precision: year
   location_written: null
   recipient: null
   latin_source_url: https://www.thelatinlibrary.com/cicero/fam5.shtml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam5.shtml
-  latin_file: latin/letters/062bc-ad-familiares-05-10.tex
-  english_file: english/letters/062bc-ad-familiares-05-10.tex
-  headnote_file: headnotes/letters/062bc-ad-familiares-05-10.tex
+  latin_file: latin/letters/051bc-ad-familiares-05-10.tex
+  english_file: english/letters/051bc-ad-familiares-05-10.tex
+  headnote_file: headnotes/letters/051bc-ad-familiares-05-10.tex
   status: pending
-  notes: 'Various correspondents: Pompey, Antony, Vatinius, Lucceius, Cato, M. Marius. Date assigned at book-level precision;
-    exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
+  notes: Not in Perseus canonical-latinLit phi056 (which jumps 5.9 -> 5.11). Latin source TBD.
   date_range_end: -0044-12-31
 - id: ad-familiares-05-11
   title_latin: Ad Familiares 5.11
@@ -1057,19 +1056,20 @@
   title_latin: Ad Familiares 5.18
   title_english: Ad Familiares 5.18
   category: letters
-  date: -0062-07-01
-  date_precision: year_range
-  location_written: null
-  recipient: null
+  date: -0052-03-20
+  date_precision: month
+  location_written: Rome
+  recipient: T. Fadius
   latin_source_url: https://www.thelatinlibrary.com/cicero/fam5.shtml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam5.shtml
-  latin_file: latin/letters/062bc-ad-familiares-05-18.tex
-  english_file: english/letters/062bc-ad-familiares-05-18.tex
-  headnote_file: headnotes/letters/062bc-ad-familiares-05-18.tex
+  latin_file: latin/letters/052bc-ad-familiares-05-18.tex
+  english_file: english/letters/052bc-ad-familiares-05-18.tex
+  headnote_file: headnotes/letters/052bc-ad-familiares-05-18.tex
   status: pending
   notes: 'Various correspondents: Pompey, Antony, Vatinius, Lucceius, Cato, M. Marius. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0044-12-31
+  speech_index: book:5,letter:18
 - id: ad-familiares-05-19
   title_latin: Ad Familiares 5.19
   title_english: Ad Familiares 5.19
