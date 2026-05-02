@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 47
-- pending: 909
+- drafted: 49
+- pending: 907
 
 ## Chronological order
 
@@ -67,8 +67,8 @@ Status:
 | 47 | 27 January 61 BC | letters | Ad Atticum 1.13 | drafted |
 | 48 | 13 February 61 BC | letters | Ad Atticum 1.14 | drafted |
 | 49 | 15 March 61 BC | letters | Ad Atticum 1.15 | drafted |
-| 50 | 61 BC | letters | Ad Atticum 1.16 | pending |
-| 51 | 5 December 61 BC | letters | Ad Atticum 1.17 | pending |
+| 50 | 61 BC | letters | Ad Atticum 1.16 | drafted |
+| 51 | 5 December 61 BC | letters | Ad Atticum 1.17 | drafted |
 | 52 | 60 BC | letters | Ad Atticum 1.20 | pending |
 | 53 | 1 February 60 BC | letters | Ad Atticum 1.18 | pending |
 | 54 | 15 March 60 BC | letters | Ad Atticum 1.19 | pending |
