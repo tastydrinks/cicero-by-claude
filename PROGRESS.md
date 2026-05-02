@@ -6,29 +6,26 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 7 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
+- **Drafted**: 8 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
   (80 BC), *Pro Roscio Comoedo* (~76 BC), *Pro Tullio* (71 BC),
   *Divinatio in Caecilium* (Jan 70 BC), *In Verrem Actio Prima*
-  (5 Aug 70 BC), and *In Verrem Actio Secunda I* (autumn 70 BC). All
-  awaiting human review.
-- **In progress**: *In Verrem Actio Secunda II* --- sections 1-90 of 192
-  drafted (de iurisdictione book; the Heraclius and Bidis / Epicrates
-  cases done, the Sopater of Halicyae trial done, the Sthenius of
-  Thermae episode opened through section 90, with the trial itself,
-  the censor edicts, the religious-fund extortions, and the closing
-  argument remaining).
+  (5 Aug 70 BC), *In Verrem Actio Secunda I* (autumn 70 BC), and
+  *In Verrem Actio Secunda II* (autumn 70 BC). All awaiting human
+  review.
+- **In progress**: none.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 949 entries --- the four remaining Verres Actio Secunda
-  books, the speeches of the 60s (Pro Caecina, Pro Fonteio, Pro Lege
-  Manilia, Pro Cluentio, the Agrarians, the Catilinarians, Pro Murena),
-  the speeches of the 50s and 40s, the 14 Philippics, the 7 rhetorical
-  works, the 17 philosophical / poetic works (including *Aratea* (86 BC)
-  and *De Inventione* (85 BC) which precede *Pro Quinctio* and were
-  skipped because *Pro Quinctio* was the agreed test case), and the
-  full letter corpus (873 letters organised by traditional book.letter
-  numbering across Ad Atticum, Ad Familiares, Ad Quintum Fratrem, Ad
-  M. Brutum).
+- **Pending**: 948 entries --- the three remaining Verres Actio Secunda
+  books (II.3 *de re frumentaria*, II.4 *de signis*, II.5
+  *de suppliciis*), the speeches of the 60s (Pro Caecina, Pro Fonteio,
+  Pro Lege Manilia, Pro Cluentio, the Agrarians, the Catilinarians,
+  Pro Murena), the speeches of the 50s and 40s, the 14 Philippics,
+  the 7 rhetorical works, the 17 philosophical / poetic works
+  (including *Aratea* (86 BC) and *De Inventione* (85 BC) which
+  precede *Pro Quinctio* and were skipped because *Pro Quinctio* was
+  the agreed test case), and the full letter corpus (873 letters
+  organised by traditional book.letter numbering across Ad Atticum,
+  Ad Familiares, Ad Quintum Fratrem, Ad M. Brutum).
 
 ## Milestones
 
@@ -45,6 +42,14 @@ as milestones are reached.
   critical apparatus, and supports nested textpart selection
   (`speech_index: actio:2,book:5`) for the Verrines. Clickable PDF TOC
   via `hyperref` was also added.
+- **Second continuous session** *(in progress)*: *Verres II.2*
+  completed (sections 91-192 drafted, headnote written, status flipped
+  to `drafted`) --- the de iurisdictione book closes with the Sthenius
+  trial and its aftermath at Rome, the auctioning of Sicilian
+  senatorships and priesthoods, the Cephaloedian intercalation, the
+  censor scandal, the statue extortion, and the scriptura
+  partnership's "Verrucius" forgery. Eight works now drafted; the
+  resume point moves forward to *Verres II.3 de re frumentaria*.
 
 ## Known follow-ups
 
@@ -100,13 +105,17 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The current resume point is **Verres II.2 section 91** --- mid-Sthenius
-episode, at a clean narrative break (Sthenius has been hauled in and is
-demanding to be referred to his own laws; section 91 begins with Verres
-scheduling the trial for the ninth hour). After Verres II.2 is complete,
-the queue is II.3 *de re frumentaria*, II.4 *de signis*, II.5
-*de suppliciis*, then *Pro Caecina*, *Pro Fonteio*, *Pro Lege Manilia*,
-*Pro Cluentio* (the longest forensic speech), and forward through the 60s.
+The current resume point is **Verres II.3 *de re frumentaria*, section 1**
+--- the third book of the Actio Secunda, on Verres's grain administration
+in Sicily (the tithe contracts, the Apronius affair, the assessments
+of the larder, the *aestimatio* abuses). This is the longest of the
+five Actio Secunda books at 226 sections; it should be split at
+section boundaries (~30-50 sections per commit) per the timeout
+discipline below. After II.3 the queue is II.4 *de signis* (the art
+plunderings), II.5 *de suppliciis* (the Gavius crucifixion --- *civis
+Romanus sum* --- and the most famous passage in the Verrines), then
+*Pro Caecina*, *Pro Fonteio*, *Pro Lege Manilia*, *Pro Cluentio* (the
+longest forensic speech), and forward through the 60s.
 
 ## Generated index
 
