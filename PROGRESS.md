@@ -6,11 +6,11 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 1 work --- *Pro Quinctio* (81 BC), Cicero's first surviving
-  speech, awaiting human review.
+- **Drafted**: 2 works --- *Pro Quinctio* (81 BC) and *Pro Roscio Amerino*
+  (80 BC). Both awaiting human review.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 955 entries --- the remaining 57 speeches, 7 rhetorical works,
+- **Pending**: 954 entries --- the remaining 56 speeches, 7 rhetorical works,
   17 philosophical / poetic works, and the full letter corpus (873 letters
   organised by traditional book.letter numbering across Ad Atticum, Ad
   Familiares, Ad Quintum Fratrem, Ad M. Brutum).

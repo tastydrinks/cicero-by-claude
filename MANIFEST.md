@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 1
-- pending: 955
+- drafted: 2
+- pending: 954
 
 ## Chronological order
 
@@ -21,7 +21,7 @@ Status:
 | 1 | 86-84 BC | philosophy | Aratea (Translation of Aratus' Phaenomena) | pending |
 | 2 | 85-84 BC | rhetoric | On Invention | pending |
 | 3 | 81 BC | speeches | For Publius Quinctius | drafted |
-| 4 | 80 BC | speeches | For Sextus Roscius of Ameria | pending |
+| 4 | 80 BC | speeches | For Sextus Roscius of Ameria | drafted |
 | 5 | 76-71 BC | speeches | For Quintus Roscius the Comic Actor | pending |
 | 6 | 71 BC | speeches | For Marcus Tullius | pending |
 | 7 | January 70 BC | speeches | Against Caecilius (Divinatio) | pending |
