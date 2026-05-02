@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 25
-- pending: 931
+- drafted: 26
+- pending: 930
 
 ## Chronological order
 
@@ -86,7 +86,7 @@ Status:
 | 66 | 62-44 BC | letters | Ad Familiares 5.19 | pending |
 | 67 | 62-44 BC | letters | Ad Familiares 5.20 | pending |
 | 68 | 62-44 BC | letters | Ad Familiares 5.21 | pending |
-| 69 | 62 BC | speeches | For the Poet Aulus Licinius Archias | pending |
+| 69 | 62 BC | speeches | For the Poet Aulus Licinius Archias | drafted |
 | 70 | 60-59 BC | letters | Ad Atticum 2.1 | pending |
 | 71 | 60-59 BC | letters | Ad Atticum 2.2 | pending |
 | 72 | 60-59 BC | letters | Ad Atticum 2.3 | pending |
