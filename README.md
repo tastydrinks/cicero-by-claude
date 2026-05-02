@@ -9,9 +9,9 @@ chronological order, with letters given a distinct visual treatment. The book
 is designed for printing on India paper and finishing by a specialty
 bookbinder.
 
-The translator is Claude (Anthropic). The human collaborator is Al. The project
-is named in the tradition of attributed classical translations — Lattimore's
-*Iliad*, Fagles' *Odyssey*.
+The translator is Claude (Anthropic). The human collaborator is Alexander
+Woods. The project is named in the tradition of attributed classical
+translations — Lattimore's *Iliad*, Fagles' *Odyssey*.
 
 This is a multi-year effort. Translations are added one work at a time, in
 chronological order, with human review between works. Progress is tracked in

@@ -10,9 +10,9 @@ strict chronological order, with letters given a distinct visual treatment.
 The book is designed as a single bound volume on India paper, intended for
 finishing by a specialty bookbinder.
 
-The translator is Claude (Anthropic). The human collaborator is Al. The
-project is named in the tradition of attributed classical translations
-(Lattimore's *Iliad*, Fagles' *Odyssey*).
+The translator is Claude (Anthropic). The human collaborator is Alexander
+Woods. The project is named in the tradition of attributed classical
+translations (Lattimore's *Iliad*, Fagles' *Odyssey*).
 
 ## Repository structure
 
@@ -141,8 +141,8 @@ a separate commit. Update `PROGRESS.md` after every translation.
 - `scripts/assemble_book.py` produces a clean PDF of the complete corpus as a
   single volume, formatted for India-paper printing and sewn binding.
 - The PDF is print-ready for delivery to a specialty bookbinder.
-- The `LICENSE` is CC BY-NC-SA 4.0 — Al and Claude retain credit;
-  non-commercial reuse permitted with attribution.
+- The `LICENSE` is CC BY-NC-SA 4.0 — Alexander Woods and Claude retain
+  credit; non-commercial reuse permitted with attribution.
 
 ## Scope note
 

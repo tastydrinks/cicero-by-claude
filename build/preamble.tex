@@ -20,9 +20,9 @@
 
 % --- fonts ----------------------------------------------------------------
 \usepackage{fontspec}
-% EB Garamond is a high-quality classical revival; the package supplies
-% small-caps and italic for letter datelines.
-\setmainfont{EB Garamond}
+% EB Garamond is a high-quality classical revival. Ligatures=TeX gives us
+% the ASCII-apostrophe → curly-apostrophe transformation in body text.
+\setmainfont{EB Garamond}[Ligatures=TeX]
 % Slightly smaller sans for any incidental UI in the typeset book.
 \usepackage[scaled=0.92]{helvet}
 
