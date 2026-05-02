@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 23
-- pending: 933
+- drafted: 24
+- pending: 932
 
 ## Chronological order
 
@@ -59,9 +59,9 @@ Status:
 | 39 | January 63 BC | speeches | On the Agrarian Law, Second Speech | drafted |
 | 40 | January 63 BC | speeches | On the Agrarian Law, Third Speech | drafted |
 | 41 | 63 BC | speeches | For Gaius Rabirius on a Charge of High Treason | drafted |
-| 42 | November 63 BC | speeches | For Lucius Murena | pending |
-| 43 | 8 November 63 BC | speeches | Against Catiline, First Speech | drafted |
-| 44 | 9 November 63 BC | speeches | Against Catiline, Second Speech | drafted |
+| 42 | 8 November 63 BC | speeches | Against Catiline, First Speech | drafted |
+| 43 | 9 November 63 BC | speeches | Against Catiline, Second Speech | drafted |
+| 44 | November 63 BC | speeches | For Lucius Murena | drafted |
 | 45 | 3 December 63 BC | speeches | Against Catiline, Third Speech | drafted |
 | 46 | 5 December 63 BC | speeches | Against Catiline, Fourth Speech | drafted |
 | 47 | 62-44 BC | letters | Ad Familiares 5.1 | pending |

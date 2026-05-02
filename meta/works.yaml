@@ -667,7 +667,7 @@
   title_latin: Pro L. Murena
   title_english: For Lucius Murena
   category: speeches
-  date: -0063-11-01
+  date: -0063-11-25
   date_precision: month
   location_written: Rome
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi014/phi0474.phi014.perseus-lat2.xml
@@ -675,9 +675,10 @@
   latin_file: latin/speeches/063bc-pro-murena.tex
   english_file: english/speeches/063bc-pro-murena.tex
   headnote_file: headnotes/speeches/063bc-pro-murena.tex
-  status: pending
-  notes: Defence of consul-elect Murena against electoral bribery charges; delivered while Cicero was
-    still prosecuting Catiline.
+  status: drafted
+  notes: Defence of consul-elect Murena against electoral bribery charges; delivered late November 63 BC,
+    between the Second and Third Catilinarians (Catiline already at Manlius's camp, the urban conspirators
+    not yet seized).
 - id: in-catilinam-1
   title_latin: In Catilinam I
   title_english: Against Catiline, First Speech
