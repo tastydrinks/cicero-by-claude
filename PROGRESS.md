@@ -121,15 +121,15 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-**Pro Cluentio (66 BC) is in progress at section 47 of 202** ---
-sections 1-47 drafted in the second continuous session. The
-narrative is now at the moment Habitus and Cleophantus catch
-Scamander with the sealed money for the poisoning. Resume at
-section 48. The whole speech is the longest of Cicero's forensic
-speeches; complete it, write the headnote, flip status to
-`drafted`, regenerate manifest. After Pro Cluentio: the Agrarians
-(63 BC), the Catilinarians, *Pro Murena*, and forward through the
-60s.
+**Pro Cluentio (66 BC) is in progress at section 64 of 202** ---
+sections 1-64 drafted in the second continuous session. Resume at
+section 65 (Cicero is about to argue from the side of Oppianicus's
+necessity to corrupt the trial: motive, opportunity, the
+Staienus narrative). The whole speech is the longest of
+Cicero's forensic speeches; complete it, write the headnote,
+flip status to `drafted`, regenerate manifest. After Pro
+Cluentio: the Agrarians (63 BC), the Catilinarians, *Pro Murena*,
+and forward through the 60s.
 
 ## Generated index
 
