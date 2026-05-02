@@ -6,18 +6,33 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 1 work — *Pro Quinctio* (81 BC), the first surviving speech.
+- **Drafted**: 1 work --- *Pro Quinctio* (81 BC), Cicero's first surviving
+  speech, awaiting human review.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: the rest of the corpus (~1000 entries: speeches, treatises,
-  rhetorical works, and the complete letters following Shackleton Bailey
-  numbering).
+- **Pending**: 955 entries --- the remaining 57 speeches, 7 rhetorical works,
+  17 philosophical / poetic works, and the full letter corpus (873 letters
+  organised by traditional book.letter numbering across Ad Atticum, Ad
+  Familiares, Ad Quintum Fratrem, Ad M. Brutum).
 
 ## Milestones
 
 - **Initial setup** *(complete)*: directory structure, top-level docs, full
-  manifest in `meta/works.yaml`, build scripts, LaTeX scaffolding, first
-  speech translated end-to-end (*Pro Quinctio*), v0.1 PDF produced.
+  manifest in `meta/works.yaml` (956 entries), build scripts, LaTeX
+  scaffolding, first speech translated end-to-end (*Pro Quinctio*, ~13.5k
+  words of English from 99 sections of Latin), v0.1 PDF produced.
+
+## Known follow-ups
+
+- Letter dating refinement: dates for the ~870 letters are at book-level
+  precision and should be tightened against Shackleton Bailey's commentary.
+- Five fragmentary works are flagged `no_perseus` because they are not in
+  the Perseus / canonical-latinLit GitHub corpus: Aratea, De Consulatu Suo,
+  De Temporibus Suis, Hortensius, Consolatio. These will need a manual
+  Latin source.
+- The `In Verrem` Actio Secunda books, Catilinarians, Philippics, and
+  Agrarians share a single Perseus XML file each; `fetch_latin.py` selects
+  individual speeches via the `speech_index` field on each entry.
 
 ## Working order
 
