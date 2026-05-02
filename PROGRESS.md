@@ -6,25 +6,29 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 15 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
+- **Drafted**: 24 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
   (80 BC), *Pro Roscio Comoedo* (~76 BC), *Pro Tullio* (71 BC),
   *Divinatio in Caecilium* (Jan 70 BC), *In Verrem Actio Prima*
   (5 Aug 70 BC), the entire five-book Actio Secunda (I-V; autumn 70
   BC), *Pro Caecina* (69 BC), *Pro Fonteio* (69 BC), *Pro Lege
-  Manilia* (66 BC), and *Pro Cluentio* (66 BC, the longest forensic
-  speech in the corpus). All awaiting human review.
+  Manilia* (66 BC), *Pro Cluentio* (66 BC, the longest forensic
+  speech in the corpus), and the entire 63 BC consular corpus ---
+  the three surviving *De Lege Agraria* (January 63 BC), *Pro
+  Rabirio Perduellionis Reo* (early 63 BC), the four
+  *Catilinarians* (8 Nov - 5 Dec 63 BC), and *Pro Murena*
+  (late November 63 BC). All awaiting human review.
 - **In progress**: none.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 941 entries --- the Agrarians (63 BC), the
-  Catilinarians (Nov-Dec 63 BC), *Pro Murena* (63 BC), the rest of
-  the speeches of the 50s and 40s, the 14 Philippics, the 7
-  rhetorical works, the 17 philosophical / poetic works (including
-  *Aratea* (86 BC) and *De Inventione* (85 BC) which precede *Pro
-  Quinctio* and were skipped because *Pro Quinctio* was the agreed
-  test case), and the full letter corpus (873 letters organised by
-  traditional book.letter numbering across Ad Atticum, Ad Familiares,
-  Ad Quintum Fratrem, Ad M. Brutum).
+- **Pending**: 932 entries --- *Pro Sulla* (62 BC), *Pro Archia*
+  (62 BC), *Pro Flacco* (59 BC), the rest of the speeches of the
+  50s and 40s, the 14 Philippics, the 7 rhetorical works, the 17
+  philosophical / poetic works (including *Aratea* (86 BC) and
+  *De Inventione* (85 BC) which precede *Pro Quinctio* and were
+  skipped because *Pro Quinctio* was the agreed test case), and
+  the full letter corpus (873 letters organised by traditional
+  book.letter numbering across Ad Atticum, Ad Familiares, Ad
+  Quintum Fratrem, Ad M. Brutum).
 
 ## Milestones
 
@@ -76,6 +80,60 @@ as milestones are reached.
   meetings is the place of hatred, in trials of truth''). Fifteen
   works drafted. Resume point moves to the speeches of 63 BC ---
   the Agrarians, the Catilinarians, \textit{Pro Murena}.
+- **Third continuous session** *(complete)*: the entire 63 BC
+  consular corpus drafted end-to-end. *Pro Rabirio Perduellionis
+  Reo* (38 sections, with textual lacunae in 31--35): the consul's
+  defence of the elderly Rabirius against the revived perduellio
+  charge for the killing of Saturninus in 100 BC --- a Caesarian
+  assault not on one old senator but on the senatus consultum
+  ultimum which Cicero would need within months. *De Lege
+  Agraria I* (the surviving 27 sections plus four short fragments
+  preserved by other authors): the senatorial speech against the
+  Rullan agrarian bill on the Kalends of January, closing on the
+  consul's renunciation of his province and the diagnosis
+  *inclusum malum, intestinum ac domesticum*. *De Lege Agraria
+  II* (103 sections): the principal contio speech, the new-man
+  manifesto ``nothing so popular as peace, as liberty, as
+  quiet,'' the decemviral imperium unfolded clause by clause as
+  a kingship, and the great Capua digression on why our
+  ancestors gutted from within the only three cities (Carthage,
+  Corinth, Capua) capable of bearing the weight of empire.
+  *De Lege Agraria III* (16 surviving sections of the speech, the
+  second half lost): clause XL of the bill exposed --- the
+  Marian/Carbo date is the consular dating of the year Sulla
+  destroyed; the clause is a quiet amnesty more Sullan than
+  Sulla, embracing even land merely *possessa* by force or
+  stealth, with Rullus's father-in-law Valgius the prime
+  beneficiary. The four **Catilinarians**: the first
+  (8 November, in the temple of Jupiter Stator with Catiline
+  present, opening *quo usque tandem* and turning on the two
+  prosopopoeiae of the patria); the second (9 November, in the
+  Forum, *abiit excessit evasit erupit* and the famous typology
+  of the conspirators in six classes culminating in the
+  ``praetorian cohort of harlots''); the third (3 December, in
+  the Forum: the Mulvian Bridge ambush, Lentulus's seal,
+  Cethegus's cache of swords, the new statue of Jupiter set up
+  that very morning facing the Forum where the conspirators were
+  marched in chains, the comparison with previous civil
+  dissensions); the fourth (5 December, in the temple of
+  Concord: the debate on the punishment of the conspirators in
+  custody, with Cicero presiding as consul --- the analysis of
+  Silanus's and Caesar's opinions, the roll-call of the orders,
+  the catalogue of what the consul has refused for the city's
+  sake, the commendation of his little son to the Senate). The
+  conspirators were strangled in the Tullianum that night.
+  *Pro Murena* (90 sections, late November 63 BC): the consul's
+  defence of the consul-elect on canvassing charges brought
+  under the consul's own bribery law, with the triptych on
+  Murena's life, on soldiering and jurisprudence (the
+  Sabine-farm dialogue, the joke that Cicero will declare
+  himself a lawyer in three days), and on Cato's Stoicism (the
+  parallel digression where Cicero with the most elaborate
+  respect for Cato the man parodies Zenonian rigorism --- some
+  study with Plato and Aristotle, he says, would have made Cato
+  no better but a little gentler). Twenty-four works drafted.
+  Resume point moves forward to *Pro Sulla* (62 BC) and *Pro
+  Archia* (62 BC).
 
 ## Known follow-ups
 
@@ -131,17 +189,23 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The current resume point is the speeches of 63 BC: the four
-**Agrarians** (\textit{De Lege Agraria}, against the Rullian
-proposal, January 63 BC), the four **Catilinarians**
-(8 November - 5 December 63 BC), and ***Pro Murena*** (late 63
-BC, defending the consul-elect on canvassing charges with the
-Catilinarian conspiracy still on foot). Other speeches from
-this consular year that are extant in part: ***Pro Rabirio
-Perduellionis Reo*** (early 63 BC) and ***Pro Sulla*** (62 BC,
-slightly later). Forward from there to *Pro Archia* (62 BC),
-*Pro Flacco* (59 BC), the speeches of the 50s, the 40s, and
-the 14 Philippics.
+The current resume point is ***Pro Sulla*** (62 BC), the
+defence of P. Cornelius Sulla (nephew of the dictator) on a
+charge of involvement in the Catilinarian conspiracy --- a
+case in which Cicero himself, having executed the conspirators
+of December 63, must distinguish a man whose case is
+defensible from those whose was not. Forward from there to
+***Pro Archia*** (62 BC, on the citizenship of the poet Archias
+of Antioch, the famous defence of letters); ***Pro Flacco***
+(59 BC); the speeches of the 50s --- ***Pro Sestio***, ***In
+Vatinium***, ***De Provinciis Consularibus***, ***Pro
+Caelio***, ***De Domo Sua***, ***De Haruspicum Responso***,
+***Pro Plancio***, ***Pro Rabirio Postumo***, ***Pro
+Milone***, ***Pro Marcello***, ***Pro Ligario***, ***Pro Rege
+Deiotaro*** --- the 14 ***Philippics*** of 44--43, and the
+philosophical and rhetorical works that begin to be drafted in
+earnest in the 50s and pour out in the 40s, with the letters
+interleaved throughout.
 
 ## Generated index
 
