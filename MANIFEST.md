@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 59
-- pending: 897
+- drafted: 69
+- pending: 887
 
 ## Chronological order
 
@@ -80,16 +80,16 @@ Status:
 | 60 | 59 BC | letters | Ad Atticum 2.4 | drafted |
 | 61 | 59 BC | letters | Ad Atticum 2.16 | drafted |
 | 62 | 21 March 59 BC | letters | Ad Atticum 2.10 | drafted |
-| 63 | April 59 BC | letters | Ad Atticum 2.5 | pending |
-| 64 | April 59 BC | letters | Ad Atticum 2.6 | pending |
-| 65 | April 59 BC | letters | Ad Atticum 2.7 | pending |
-| 66 | April 59 BC | letters | Ad Atticum 2.8 | pending |
-| 67 | April 59 BC | letters | Ad Atticum 2.9 | pending |
-| 68 | 19 April 59 BC | letters | Ad Atticum 2.12 | pending |
-| 69 | 26 April 59 BC | letters | Ad Atticum 2.11 | pending |
-| 70 | 27 April 59 BC | letters | Ad Atticum 2.13 | pending |
-| 71 | 28 April 59 BC | letters | Ad Atticum 2.14 | pending |
-| 72 | 29 April 59 BC | letters | Ad Atticum 2.15 | pending |
+| 63 | April 59 BC | letters | Ad Atticum 2.5 | drafted |
+| 64 | April 59 BC | letters | Ad Atticum 2.6 | drafted |
+| 65 | April 59 BC | letters | Ad Atticum 2.7 | drafted |
+| 66 | April 59 BC | letters | Ad Atticum 2.8 | drafted |
+| 67 | April 59 BC | letters | Ad Atticum 2.9 | drafted |
+| 68 | 19 April 59 BC | letters | Ad Atticum 2.12 | drafted |
+| 69 | 26 April 59 BC | letters | Ad Atticum 2.11 | drafted |
+| 70 | 27 April 59 BC | letters | Ad Atticum 2.13 | drafted |
+| 71 | 28 April 59 BC | letters | Ad Atticum 2.14 | drafted |
+| 72 | 29 April 59 BC | letters | Ad Atticum 2.15 | drafted |
 | 73 | May 59 BC | letters | Ad Atticum 2.17 | pending |
 | 74 | 59 BC | letters | Ad Atticum 2.20 | pending |
 | 75 | 59 BC | speeches | For Lucius Flaccus | pending |
