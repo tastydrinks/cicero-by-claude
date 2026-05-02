@@ -59,14 +59,51 @@ as milestones are reached.
 
 ## Working order
 
-Translations proceed in strict chronological order, one work at a time, with
-human review between works. The next work to translate is the chronologically
-earliest entry in `meta/works.yaml` whose `status` is `pending`.
+Translations proceed in strict chronological order, one work at a time. The
+next work to translate is the chronologically earliest entry in
+`meta/works.yaml` whose `status` is `pending`. (Or, if a work is `pending`
+but partway through, finish it from where the most recent commit left off.)
 
 After *Pro Quinctio* the queue continues with *Pro Roscio Amerino* (80 BC),
 *Pro Roscio Comoedo* (~76 BC), then the *In Verrem* corpus (70 BC), and so
 on through the speeches of the 60s and 50s, the philosophical works of the
 mid-50s and mid-40s, and the letters interleaved throughout.
+
+## Session handoff conventions
+
+These are the working conventions agreed with Alexander Woods. A future
+session can `continue` and apply them without re-asking:
+
+- **Continuous mode.** Translate forward chronologically without pausing
+  for per-work approval. Commit and push per finished work; for long works,
+  commit at section boundaries (~30-50 sections) so progress is durable.
+- **Batch shape.** Adaptive --- whichever comes first: end of work, or
+  ~30-50 sections. Short works finish in one batch; long works are split
+  at section boundaries.
+- **Timeout discipline.** Write each long translation in halves and commit
+  between halves, so an Anthropic API stream timeout costs at most half a
+  chunk. Latin-source files are committed before translation begins.
+- **Aratea (86 BC) and De Inventione (85 BC) deferred.** They precede
+  *Pro Quinctio* chronologically but were skipped because *Pro Quinctio*
+  was the agreed test case. Treat them as a deliberate later-pass; do not
+  circle back at the start of a continuation. The chronology re-sorts
+  correctly at build time once they are translated.
+- **Translator's voice.** Strict adherence to `STYLE.md`. The collaborator's
+  name is **Alexander Woods** (never abbreviated). The front-matter note
+  *Why this exists* is Alexander's words and should not be edited.
+- **What "done" looks like for a single work.** Latin file fetched and
+  committed; English file translated end-to-end against the Latin (not
+  another translation); headnote written; `status` flipped to `drafted`
+  in `meta/works.yaml`; `PROGRESS.md` updated; PDF rebuilt; commit and
+  push.
+
+## Where to resume now
+
+The current resume point is **Verres II.2 section 61** --- the Sthenius
+of Thermae episode opens around section 83 of that book. After Verres II.2
+is complete, the queue is II.3 *de re frumentaria*, II.4 *de signis*,
+II.5 *de suppliciis*, then *Pro Caecina*, *Pro Fonteio*, *Pro Lege Manilia*,
+*Pro Cluentio* (the longest forensic speech), and forward through the 60s.
 
 ## Generated index
 
