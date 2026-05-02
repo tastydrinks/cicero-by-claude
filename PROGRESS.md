@@ -6,17 +6,17 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 14 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
+- **Drafted**: 15 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
   (80 BC), *Pro Roscio Comoedo* (~76 BC), *Pro Tullio* (71 BC),
   *Divinatio in Caecilium* (Jan 70 BC), *In Verrem Actio Prima*
   (5 Aug 70 BC), the entire five-book Actio Secunda (I-V; autumn 70
-  BC), *Pro Caecina* (69 BC), *Pro Fonteio* (69 BC), and *Pro Lege
-  Manilia* (66 BC). All awaiting human review.
+  BC), *Pro Caecina* (69 BC), *Pro Fonteio* (69 BC), *Pro Lege
+  Manilia* (66 BC), and *Pro Cluentio* (66 BC, the longest forensic
+  speech in the corpus). All awaiting human review.
 - **In progress**: none.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 942 entries --- *Pro Cluentio* (66 BC, the longest
-  forensic speech in the corpus), the Agrarians (63 BC), the
+- **Pending**: 941 entries --- the Agrarians (63 BC), the
   Catilinarians (Nov-Dec 63 BC), *Pro Murena* (63 BC), the rest of
   the speeches of the 50s and 40s, the 14 Philippics, the 7
   rhetorical works, the 17 philosophical / poetic works (including
@@ -63,9 +63,19 @@ as milestones are reached.
   fees exacted from their parents, the Latomiae and the killing of
   Roman citizens veiled, and at the architectural climax the
   crucifixion of Publius Gavius of Consa on the Strait facing Italy
-  --- *civis Romanus sum*. Eleven works drafted; the entire
-  Verrines corpus complete in draft. Resume point moves to *Pro
-  Caecina* (69 BC) and the speeches of the 60s.
+  --- *civis Romanus sum*. The session continued forward through
+  the speeches of the 60s: *Pro Caecina* (104 sections, on the
+  \textit{interdictum de vi armata}), *Pro Fonteio* (49 sections
+  surviving from the mutilated text, defence of the former governor
+  of Transalpine Gaul), *Pro Lege Manilia* (71 sections, Cicero's
+  first political speech, supporting the Mithridatic command for
+  Pompey), and *Pro Cluentio* (202 sections, the longest of the
+  forensic speeches: the defence of Cluentius against poisoning
+  charges and the eight-year shadow of the Junian trial; closing
+  on the figure of his mother Sassia and the line ``in public
+  meetings is the place of hatred, in trials of truth''). Fifteen
+  works drafted. Resume point moves to the speeches of 63 BC ---
+  the Agrarians, the Catilinarians, \textit{Pro Murena}.
 
 ## Known follow-ups
 
@@ -121,18 +131,17 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-**Pro Cluentio (66 BC) is in progress at section 132 of 202** ---
-sections 1-132 drafted in the second continuous session. Resume
-at section 133 (Cicero, having finished the long argument that
-the censorial entries are not authoritative on the corruption of
-the Junian trial, moves toward the question of the law itself
-\textit{de pecuniis repetundis} and whether it can apply to a
-Roman knight outside the senatorial order; this is the
-argumentative climax of the speech). The whole is the longest of
-Cicero's forensic speeches; complete it, write the headnote,
-flip status to `drafted`, regenerate manifest. After Pro
-Cluentio: the Agrarians (63 BC), the Catilinarians, *Pro Murena*,
-and forward through the 60s.
+The current resume point is the speeches of 63 BC: the four
+**Agrarians** (\textit{De Lege Agraria}, against the Rullian
+proposal, January 63 BC), the four **Catilinarians**
+(8 November - 5 December 63 BC), and ***Pro Murena*** (late 63
+BC, defending the consul-elect on canvassing charges with the
+Catilinarian conspiracy still on foot). Other speeches from
+this consular year that are extant in part: ***Pro Rabirio
+Perduellionis Reo*** (early 63 BC) and ***Pro Sulla*** (62 BC,
+slightly later). Forward from there to *Pro Archia* (62 BC),
+*Pro Flacco* (59 BC), the speeches of the 50s, the 40s, and
+the 14 Philippics.
 
 ## Generated index
 
