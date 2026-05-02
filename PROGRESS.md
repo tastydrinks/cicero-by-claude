@@ -6,25 +6,25 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 13 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
+- **Drafted**: 14 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
   (80 BC), *Pro Roscio Comoedo* (~76 BC), *Pro Tullio* (71 BC),
   *Divinatio in Caecilium* (Jan 70 BC), *In Verrem Actio Prima*
   (5 Aug 70 BC), the entire five-book Actio Secunda (I-V; autumn 70
-  BC), *Pro Caecina* (69 BC), and *Pro Fonteio* (69 BC). All
-  awaiting human review.
+  BC), *Pro Caecina* (69 BC), *Pro Fonteio* (69 BC), and *Pro Lege
+  Manilia* (66 BC). All awaiting human review.
 - **In progress**: none.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 943 entries --- the rest of the speeches of the 60s
-  (*Pro Lege Manilia*, *Pro Cluentio*, the Agrarians, the
-  Catilinarians, *Pro Murena*), the speeches of the 50s and 40s,
-  the 14 Philippics, the 7 rhetorical works, the 17 philosophical /
-  poetic works (including *Aratea* (86 BC) and *De Inventione*
-  (85 BC) which precede *Pro Quinctio* and were skipped because
-  *Pro Quinctio* was the agreed test case), and the full letter
-  corpus (873 letters organised by traditional book.letter numbering
-  across Ad Atticum, Ad Familiares, Ad Quintum Fratrem, Ad M.
-  Brutum).
+- **Pending**: 942 entries --- *Pro Cluentio* (66 BC, the longest
+  forensic speech in the corpus), the Agrarians (63 BC), the
+  Catilinarians (Nov-Dec 63 BC), *Pro Murena* (63 BC), the rest of
+  the speeches of the 50s and 40s, the 14 Philippics, the 7
+  rhetorical works, the 17 philosophical / poetic works (including
+  *Aratea* (86 BC) and *De Inventione* (85 BC) which precede *Pro
+  Quinctio* and were skipped because *Pro Quinctio* was the agreed
+  test case), and the full letter corpus (873 letters organised by
+  traditional book.letter numbering across Ad Atticum, Ad Familiares,
+  Ad Quintum Fratrem, Ad M. Brutum).
 
 ## Milestones
 
@@ -122,19 +122,16 @@ session can `continue` and apply them without re-asking:
 ## Where to resume now
 
 The current resume point is **Pro Cluentio (66 BC), section 1**
---- chronologically the next pending work after *Pro Fonteio*.
-This is the longest of all Cicero's forensic speeches at 202
+--- the longest of all Cicero's forensic speeches at 202
 sections: the defence of Aulus Cluentius Habitus on charges
 arising from the prosecution of his stepfather Oppianicus eight
 years earlier (which Cicero argues had been a notoriously corrupt
 trial, but in the wrong direction: Oppianicus had bribed first,
 and Cluentius was being tried for poisoning him). Beware the
-length; split at section boundaries (\textasciitilde 30-40 sections
-per commit) per the timeout discipline below. *Pro Lege Manilia*
-will likely have to be done in parallel as it dates 66 BC also,
-but Pro Cluentio comes first in the queue. After Pro Cluentio:
-the Agrarians (63 BC), the Catilinarians, *Pro Murena*, and
-forward through the 60s.
+length; split at section boundaries (\textasciitilde 30-40
+sections per commit) per the timeout discipline below. After Pro
+Cluentio: the Agrarians (63 BC), the Catilinarians, *Pro Murena*,
+and forward through the 60s.
 
 ## Generated index
 

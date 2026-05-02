@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 13
-- pending: 943
+- drafted: 14
+- pending: 942
 
 ## Chronological order
 
@@ -53,8 +53,8 @@ Status:
 | 33 | 68-65 BC | letters | Ad Atticum 1.18 | pending |
 | 34 | 68-65 BC | letters | Ad Atticum 1.19 | pending |
 | 35 | 68-65 BC | letters | Ad Atticum 1.20 | pending |
-| 36 | 66 BC | speeches | For Aulus Cluentius | pending |
-| 37 | 66 BC | speeches | On the Manilian Law (On the Command of Pompey) | pending |
+| 36 | 66 BC | speeches | On the Manilian Law (On the Command of Pompey) | drafted |
+| 37 | 66 BC | speeches | For Aulus Cluentius | pending |
 | 38 | January 63 BC | speeches | On the Agrarian Law, First Speech | pending |
 | 39 | January 63 BC | speeches | On the Agrarian Law, Third Speech | pending |
 | 40 | January 63 BC | speeches | On the Agrarian Law, Second Speech | pending |
