@@ -6,15 +6,25 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 3 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
-  (80 BC), and *Pro Roscio Comoedo* (~76 BC, fragmentary). All awaiting
-  human review.
+- **Drafted**: 7 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
+  (80 BC), *Pro Roscio Comoedo* (~76 BC), *Pro Tullio* (71 BC),
+  *Divinatio in Caecilium* (Jan 70 BC), *In Verrem Actio Prima*
+  (5 Aug 70 BC), and *In Verrem Actio Secunda I* (autumn 70 BC). All
+  awaiting human review.
+- **In progress**: *In Verrem Actio Secunda II* --- sections 1-60 of 192
+  drafted (de iurisdictione book; the Heraclius and Bidis / Epicrates
+  cases done; the rest of the courts, the Sthenius episode, the censor
+  edicts, the religious-fund extortions, and the closing argument
+  remain).
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 953 entries --- the remaining 55 speeches, 7 rhetorical works,
-  17 philosophical / poetic works (including *Aratea* (86 BC) and *De
-  Inventione* (85 BC), which precede *Pro Quinctio* chronologically and
-  were skipped because *Pro Quinctio* was the agreed test case), and the
+- **Pending**: 949 entries --- the four remaining Verres Actio Secunda
+  books, the speeches of the 60s (Pro Caecina, Pro Fonteio, Pro Lege
+  Manilia, Pro Cluentio, the Agrarians, the Catilinarians, Pro Murena),
+  the speeches of the 50s and 40s, the 14 Philippics, the 7 rhetorical
+  works, the 17 philosophical / poetic works (including *Aratea* (86 BC)
+  and *De Inventione* (85 BC) which precede *Pro Quinctio* and were
+  skipped because *Pro Quinctio* was the agreed test case), and the
   full letter corpus (873 letters organised by traditional book.letter
   numbering across Ad Atticum, Ad Familiares, Ad Quintum Fratrem, Ad
   M. Brutum).
@@ -25,6 +35,15 @@ as milestones are reached.
   manifest in `meta/works.yaml` (956 entries), build scripts, LaTeX
   scaffolding, first speech translated end-to-end (*Pro Quinctio*, ~13.5k
   words of English from 99 sections of Latin), v0.1 PDF produced.
+- **First continuous session** *(complete)*: 7 works fully drafted plus
+  60/192 sections of *Verres II.2*. Roughly 80,000 English words of new
+  Cicero translation. The arc from Cicero's earliest forensic work to
+  the moment Verres withdrew into exile is largely covered (the four
+  remaining Actio Secunda books are pending). Two infrastructure
+  improvements landed in this session: the fetch script now strips TEI
+  critical apparatus, and supports nested textpart selection
+  (`speech_index: actio:2,book:5`) for the Verrines. Clickable PDF TOC
+  via `hyperref` was also added.
 
 ## Known follow-ups
 

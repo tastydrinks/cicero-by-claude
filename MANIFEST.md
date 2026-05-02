@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 3
-- pending: 953
+- drafted: 7
+- pending: 949
 
 ## Chronological order
 
@@ -23,10 +23,10 @@ Status:
 | 3 | 81 BC | speeches | For Publius Quinctius | drafted |
 | 4 | 80 BC | speeches | For Sextus Roscius of Ameria | drafted |
 | 5 | 76-71 BC | speeches | For Quintus Roscius the Comic Actor | drafted |
-| 6 | 71 BC | speeches | For Marcus Tullius | pending |
-| 7 | January 70 BC | speeches | Against Caecilius (Divinatio) | pending |
-| 8 | 5 August 70 BC | speeches | Against Verres, First Hearing | pending |
-| 9 | November 70 BC | speeches | Against Verres, Second Hearing, Book I | pending |
+| 6 | 71 BC | speeches | For Marcus Tullius | drafted |
+| 7 | January 70 BC | speeches | Against Caecilius (Divinatio) | drafted |
+| 8 | 5 August 70 BC | speeches | Against Verres, First Hearing | drafted |
+| 9 | November 70 BC | speeches | Against Verres, Second Hearing, Book I | drafted |
 | 10 | November 70 BC | speeches | Against Verres, Second Hearing, Book II | pending |
 | 11 | November 70 BC | speeches | Against Verres, Second Hearing, Book III | pending |
 | 12 | November 70 BC | speeches | Against Verres, Second Hearing, Book IV | pending |
