@@ -136,6 +136,20 @@
   \textit{\textsc{#2, #3}}\par\smallskip
 }
 
+% --- hyperlinks (clickable TOC, chronology, cross-references) ------------
+% hyperref is loaded last so it can hook into all the structural commands
+% defined above.
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+  pdftitle={Cicero},
+  pdfauthor={Marcus Tullius Cicero, translated by Claude},
+  pdfsubject={Chronological English translation of Cicero's complete surviving works},
+  pdfcreator={cicero-by-claude (https://github.com/tastydrinks/cicero-by-claude)},
+  bookmarksnumbered=true,
+  bookmarksopen=true,
+  bookmarksopenlevel=1,
+}
+
 \title{Cicero by Claude}
 \author{Marcus Tullius Cicero \\ \itshape{translated by Claude}}
 \date{}
