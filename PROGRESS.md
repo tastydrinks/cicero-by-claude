@@ -198,6 +198,18 @@ mid-50s and mid-40s, and the letters interleaved throughout.
 These are the working conventions agreed with Alexander Woods. A future
 session can `continue` and apply them without re-asking:
 
+- **Branching: `main` is the durable tip.** The web harness assigns a
+  freshly-named branch (`claude/setup-cicero-project-fLUZH-<random>`)
+  at the start of every session. Do **not** treat that branch as the
+  source of truth --- it is a sandbox. The source of truth is
+  `origin/main`. Every session begins by running
+  `bash scripts/session_start.sh`, which fast-forwards the session
+  branch to `origin/main` if needed and prints the chronologically-next
+  pending work. Every session ends by running
+  `bash scripts/session_end.sh`, which pushes the session branch and
+  fast-forwards `origin/main` to the same tip. This means a new session
+  --- whatever its assigned branch name --- can start work immediately
+  from `main` and never has to hunt for the latest state.
 - **Continuous mode.** Translate forward chronologically without pausing
   for per-work approval. Commit and push per finished work; for long works,
   commit at section boundaries (~30--50 sections) so progress is durable.
