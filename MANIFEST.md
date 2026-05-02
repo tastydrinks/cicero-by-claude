@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 54
-- pending: 902
+- drafted: 59
+- pending: 897
 
 ## Chronological order
 
@@ -75,11 +75,11 @@ Status:
 | 55 | June 60 BC | letters | Ad Atticum 2.1 | drafted |
 | 56 | 60 BC | letters | Ad Quintum Fratrem 1.1 | drafted |
 | 57 | 60 BC | philosophy | On His Consulship | pending |
-| 58 | December 60 BC | letters | Ad Atticum 2.2 | pending |
-| 59 | December 60 BC | letters | Ad Atticum 2.3 | pending |
-| 60 | 59 BC | letters | Ad Atticum 2.4 | pending |
-| 61 | 59 BC | letters | Ad Atticum 2.16 | pending |
-| 62 | 21 March 59 BC | letters | Ad Atticum 2.10 | pending |
+| 58 | December 60 BC | letters | Ad Atticum 2.2 | drafted |
+| 59 | December 60 BC | letters | Ad Atticum 2.3 | drafted |
+| 60 | 59 BC | letters | Ad Atticum 2.4 | drafted |
+| 61 | 59 BC | letters | Ad Atticum 2.16 | drafted |
+| 62 | 21 March 59 BC | letters | Ad Atticum 2.10 | drafted |
 | 63 | April 59 BC | letters | Ad Atticum 2.5 | pending |
 | 64 | April 59 BC | letters | Ad Atticum 2.6 | pending |
 | 65 | April 59 BC | letters | Ad Atticum 2.7 | pending |

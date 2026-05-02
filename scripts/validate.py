@@ -127,9 +127,19 @@ def main() -> int:
     # the latest-dated `drafted` work means a future session should pick it
     # up, not skip past it. This is here to prevent silent category-skipping
     # of the kind that left letters un-translated for several sessions.
-    # Aratea (86 BC) and De Inventione (85 BC) are deliberately deferred and
-    # excluded from the check.
-    DEFERRED = {"aratea", "de-inventione"}
+    # The DEFERRED set excludes works that are deliberately on hold:
+    #  - Aratea (86 BC) and De Inventione (85 BC), the two pre-Pro-Quinctio
+    #    works skipped because Pro Quinctio was the agreed test case.
+    #  - The five fragmentary works whose Latin is not in the Perseus corpus
+    #    and which need a manual source: de-consulatu-suo (60 BC),
+    #    de-temporibus-suis (54 BC), hortensius (45 BC), consolatio (45 BC).
+    #    (Aratea is also no_perseus.) These will be picked up when their
+    #    Latin sources are supplied; meanwhile they should not block the
+    #    chronological catch-up.
+    DEFERRED = {
+        "aratea", "de-inventione",
+        "de-consulatu-suo", "de-temporibus-suis", "hortensius", "consolatio",
+    }
     drafted = [w for w in works if w.get("status") in {"drafted", "reviewed", "final"}]
     pending = [w for w in works if w.get("status") == "pending" and w.get("id") not in DEFERRED]
     if drafted and pending:

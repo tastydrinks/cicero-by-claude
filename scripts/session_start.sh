@@ -59,7 +59,8 @@ def key(w):
         y, rest = s.split('-', 1); y = int(y)
     m, d = rest.split('-')
     return (y, int(m), int(d), w['id'])
-DEFERRED = {'aratea', 'de-inventione'}
+DEFERRED = {'aratea', 'de-inventione',
+            'de-consulatu-suo', 'de-temporibus-suis', 'hortensius', 'consolatio'}
 pending = [w for w in works if w.get('status') == 'pending' and w['id'] not in DEFERRED]
 pending.sort(key=key)
 print(f'{len(pending)} pending entries. The next 5 chronologically:')
