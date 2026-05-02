@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 24
-- pending: 932
+- drafted: 25
+- pending: 931
 
 ## Chronological order
 
@@ -64,29 +64,29 @@ Status:
 | 44 | November 63 BC | speeches | For Lucius Murena | drafted |
 | 45 | 3 December 63 BC | speeches | Against Catiline, Third Speech | drafted |
 | 46 | 5 December 63 BC | speeches | Against Catiline, Fourth Speech | drafted |
-| 47 | 62-44 BC | letters | Ad Familiares 5.1 | pending |
-| 48 | 62-44 BC | letters | Ad Familiares 5.2 | pending |
-| 49 | 62-44 BC | letters | Ad Familiares 5.3 | pending |
-| 50 | 62-44 BC | letters | Ad Familiares 5.4 | pending |
-| 51 | 62-44 BC | letters | Ad Familiares 5.5 | pending |
-| 52 | 62-44 BC | letters | Ad Familiares 5.6 | pending |
-| 53 | 62-44 BC | letters | Ad Familiares 5.7 | pending |
-| 54 | 62-44 BC | letters | Ad Familiares 5.8 | pending |
-| 55 | 62-44 BC | letters | Ad Familiares 5.9 | pending |
-| 56 | 62-44 BC | letters | Ad Familiares 5.10 | pending |
-| 57 | 62-44 BC | letters | Ad Familiares 5.11 | pending |
-| 58 | 62-44 BC | letters | Ad Familiares 5.12 | pending |
-| 59 | 62-44 BC | letters | Ad Familiares 5.13 | pending |
-| 60 | 62-44 BC | letters | Ad Familiares 5.14 | pending |
-| 61 | 62-44 BC | letters | Ad Familiares 5.15 | pending |
-| 62 | 62-44 BC | letters | Ad Familiares 5.16 | pending |
-| 63 | 62-44 BC | letters | Ad Familiares 5.17 | pending |
-| 64 | 62-44 BC | letters | Ad Familiares 5.18 | pending |
-| 65 | 62-44 BC | letters | Ad Familiares 5.19 | pending |
-| 66 | 62-44 BC | letters | Ad Familiares 5.20 | pending |
-| 67 | 62-44 BC | letters | Ad Familiares 5.21 | pending |
-| 68 | 62 BC | speeches | For the Poet Aulus Licinius Archias | pending |
-| 69 | 62 BC | speeches | For Publius Sulla | pending |
+| 47 | 62 BC | speeches | For Publius Sulla | drafted |
+| 48 | 62-44 BC | letters | Ad Familiares 5.1 | pending |
+| 49 | 62-44 BC | letters | Ad Familiares 5.2 | pending |
+| 50 | 62-44 BC | letters | Ad Familiares 5.3 | pending |
+| 51 | 62-44 BC | letters | Ad Familiares 5.4 | pending |
+| 52 | 62-44 BC | letters | Ad Familiares 5.5 | pending |
+| 53 | 62-44 BC | letters | Ad Familiares 5.6 | pending |
+| 54 | 62-44 BC | letters | Ad Familiares 5.7 | pending |
+| 55 | 62-44 BC | letters | Ad Familiares 5.8 | pending |
+| 56 | 62-44 BC | letters | Ad Familiares 5.9 | pending |
+| 57 | 62-44 BC | letters | Ad Familiares 5.10 | pending |
+| 58 | 62-44 BC | letters | Ad Familiares 5.11 | pending |
+| 59 | 62-44 BC | letters | Ad Familiares 5.12 | pending |
+| 60 | 62-44 BC | letters | Ad Familiares 5.13 | pending |
+| 61 | 62-44 BC | letters | Ad Familiares 5.14 | pending |
+| 62 | 62-44 BC | letters | Ad Familiares 5.15 | pending |
+| 63 | 62-44 BC | letters | Ad Familiares 5.16 | pending |
+| 64 | 62-44 BC | letters | Ad Familiares 5.17 | pending |
+| 65 | 62-44 BC | letters | Ad Familiares 5.18 | pending |
+| 66 | 62-44 BC | letters | Ad Familiares 5.19 | pending |
+| 67 | 62-44 BC | letters | Ad Familiares 5.20 | pending |
+| 68 | 62-44 BC | letters | Ad Familiares 5.21 | pending |
+| 69 | 62 BC | speeches | For the Poet Aulus Licinius Archias | pending |
 | 70 | 60-59 BC | letters | Ad Atticum 2.1 | pending |
 | 71 | 60-59 BC | letters | Ad Atticum 2.2 | pending |
 | 72 | 60-59 BC | letters | Ad Atticum 2.3 | pending |
