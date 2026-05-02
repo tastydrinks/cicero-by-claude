@@ -123,10 +123,10 @@
   latin_file: latin/speeches/070bc-in-verrem-actio-prima.tex
   english_file: english/speeches/070bc-in-verrem-actio-prima.tex
   headnote_file: headnotes/speeches/070bc-in-verrem-actio-prima.tex
-  status: pending
+  status: drafted
   notes: First action of the trial of C. Verres for extortion in Sicily; Verres withdrew into exile after
     this speech.
-  speech_index: '1'
+  speech_index: actio:1
 - id: in-verrem-2-1
   title_latin: In C. Verrem Actio Secunda I
   title_english: Against Verres, Second Hearing, Book I
@@ -142,7 +142,7 @@
   status: pending
   notes: The Second Action was never delivered (Verres had already gone into exile) but published as a
     written prosecution in autumn 70 BC. Book I treats Verres' early career.
-  speech_index: '2'
+  speech_index: actio:2,book:1
 - id: in-verrem-2-2
   title_latin: In C. Verrem Actio Secunda II
   title_english: Against Verres, Second Hearing, Book II
@@ -157,7 +157,7 @@
   headnote_file: headnotes/speeches/070bc-in-verrem-2-2.tex
   status: pending
   notes: Verres' jurisdiction (de iurisdictione) in Sicily.
-  speech_index: '3'
+  speech_index: actio:2,book:2
 - id: in-verrem-2-3
   title_latin: In C. Verrem Actio Secunda III
   title_english: Against Verres, Second Hearing, Book III
@@ -172,7 +172,7 @@
   headnote_file: headnotes/speeches/070bc-in-verrem-2-3.tex
   status: pending
   notes: On Verres' grain extortions (de re frumentaria).
-  speech_index: '4'
+  speech_index: actio:2,book:3
 - id: in-verrem-2-4
   title_latin: In C. Verrem Actio Secunda IV
   title_english: Against Verres, Second Hearing, Book IV
@@ -187,7 +187,7 @@
   headnote_file: headnotes/speeches/070bc-in-verrem-2-4.tex
   status: pending
   notes: On Verres' plundering of works of art (de signis).
-  speech_index: '5'
+  speech_index: actio:2,book:4
 - id: in-verrem-2-5
   title_latin: In C. Verrem Actio Secunda V
   title_english: Against Verres, Second Hearing, Book V
@@ -202,7 +202,7 @@
   headnote_file: headnotes/speeches/070bc-in-verrem-2-5.tex
   status: pending
   notes: On Verres' military conduct and crucifixion of Roman citizens (de suppliciis).
-  speech_index: '6'
+  speech_index: actio:2,book:5
 - id: pro-caecina
   title_latin: Pro A. Caecina
   title_english: For Aulus Caecina

@@ -189,13 +189,34 @@ def parse_perseus_tei(xml_text: str, speech_index: str | None = None) -> str:
     root = edition or body
 
     if speech_index is not None:
-        speech = root.find(
-            "div",
-            attrs={"type": "textpart", "subtype": "speech", "n": str(speech_index)},
-        )
-        if speech is None:
-            raise RuntimeError(f"speech {speech_index} not found in bundle")
-        root = speech
+        # speech_index can be either a single value (legacy: a "speech"
+        # subtype within a bundle) or a path-string of "subtype:n[,subtype:n]*"
+        # for nested descent (e.g. "actio:2,book:5" for Verr II.5).
+        idx = str(speech_index)
+        if ":" in idx:
+            steps = [s.split(":") for s in idx.split(",")]
+        else:
+            # Legacy: try "speech" first, then "actio".
+            steps = [["speech", idx]] if not idx.startswith("actio") else []
+            if not steps:
+                steps = [["actio", idx[5:].lstrip(":")]]
+        last_root = root
+        for subtype, n in steps:
+            child = last_root.find(
+                "div",
+                attrs={"type": "textpart", "subtype": subtype, "n": str(n)},
+            )
+            if child is None:
+                # Fallback: if "speech" not found, try "actio" at this level.
+                if subtype == "speech":
+                    child = last_root.find(
+                        "div",
+                        attrs={"type": "textpart", "subtype": "actio", "n": str(n)},
+                    )
+            if child is None:
+                raise RuntimeError(f"textpart {subtype}={n} not found in bundle")
+            last_root = child
+        root = last_root
 
     # Strip critical apparatus before extracting text. TEI variants live
     # inside <app><rdg>...</rdg></app>; we keep <lem> (the chosen reading)
