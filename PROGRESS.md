@@ -11,11 +11,12 @@ as milestones are reached.
   *Divinatio in Caecilium* (Jan 70 BC), *In Verrem Actio Prima*
   (5 Aug 70 BC), and *In Verrem Actio Secunda I* (autumn 70 BC). All
   awaiting human review.
-- **In progress**: *In Verrem Actio Secunda II* --- sections 1-60 of 192
+- **In progress**: *In Verrem Actio Secunda II* --- sections 1-90 of 192
   drafted (de iurisdictione book; the Heraclius and Bidis / Epicrates
-  cases done; the rest of the courts, the Sthenius episode, the censor
-  edicts, the religious-fund extortions, and the closing argument
-  remain).
+  cases done, the Sopater of Halicyae trial done, the Sthenius of
+  Thermae episode opened through section 90, with the trial itself,
+  the censor edicts, the religious-fund extortions, and the closing
+  argument remaining).
 - **Reviewed**: 0
 - **Final**: 0
 - **Pending**: 949 entries --- the four remaining Verres Actio Secunda
@@ -99,10 +100,12 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The current resume point is **Verres II.2 section 61** --- the Sthenius
-of Thermae episode opens around section 83 of that book. After Verres II.2
-is complete, the queue is II.3 *de re frumentaria*, II.4 *de signis*,
-II.5 *de suppliciis*, then *Pro Caecina*, *Pro Fonteio*, *Pro Lege Manilia*,
+The current resume point is **Verres II.2 section 91** --- mid-Sthenius
+episode, at a clean narrative break (Sthenius has been hauled in and is
+demanding to be referred to his own laws; section 91 begins with Verres
+scheduling the trial for the ninth hour). After Verres II.2 is complete,
+the queue is II.3 *de re frumentaria*, II.4 *de signis*, II.5
+*de suppliciis*, then *Pro Caecina*, *Pro Fonteio*, *Pro Lege Manilia*,
 *Pro Cluentio* (the longest forensic speech), and forward through the 60s.
 
 ## Generated index
