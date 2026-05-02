@@ -121,11 +121,14 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-**Pro Cluentio (66 BC) is in progress at section 98 of 202** ---
-sections 1-98 drafted in the second continuous session. Resume at
-section 99 (Cicero is moving from the secondary trials around the
-Junian trial into the broader argument about the meaning of the
-\textit{lex de iudiciis}). The whole speech is the longest of
+**Pro Cluentio (66 BC) is in progress at section 132 of 202** ---
+sections 1-132 drafted in the second continuous session. Resume
+at section 133 (Cicero, having finished the long argument that
+the censorial entries are not authoritative on the corruption of
+the Junian trial, moves toward the question of the law itself
+\textit{de pecuniis repetundis} and whether it can apply to a
+Roman knight outside the senatorial order; this is the
+argumentative climax of the speech). The whole is the longest of
 Cicero's forensic speeches; complete it, write the headnote,
 flip status to `drafted`, regenerate manifest. After Pro
 Cluentio: the Agrarians (63 BC), the Catilinarians, *Pro Murena*,
