@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 69
-- pending: 887
+- drafted: 71
+- pending: 885
 
 ## Chronological order
 
@@ -90,8 +90,8 @@ Status:
 | 70 | 27 April 59 BC | letters | Ad Atticum 2.13 | drafted |
 | 71 | 28 April 59 BC | letters | Ad Atticum 2.14 | drafted |
 | 72 | 29 April 59 BC | letters | Ad Atticum 2.15 | drafted |
-| 73 | May 59 BC | letters | Ad Atticum 2.17 | pending |
-| 74 | 59 BC | letters | Ad Atticum 2.20 | pending |
+| 73 | May 59 BC | letters | Ad Atticum 2.17 | drafted |
+| 74 | 59 BC | letters | Ad Atticum 2.20 | drafted |
 | 75 | 59 BC | speeches | For Lucius Flaccus | pending |
 | 76 | 15 July 59 BC | letters | Ad Atticum 2.18 | pending |
 | 77 | July 59 BC | letters | Ad Atticum 2.19 | pending |
