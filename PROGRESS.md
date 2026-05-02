@@ -6,25 +6,26 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 11 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
+- **Drafted**: 12 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
   (80 BC), *Pro Roscio Comoedo* (~76 BC), *Pro Tullio* (71 BC),
   *Divinatio in Caecilium* (Jan 70 BC), *In Verrem Actio Prima*
-  (5 Aug 70 BC), and the entire five-book Actio Secunda (I-V;
-  autumn 70 BC). The Verrines corpus is now complete in draft.
+  (5 Aug 70 BC), the entire five-book Actio Secunda (I-V; autumn 70
+  BC), and *Pro Caecina* (69 BC). The full Verrines corpus is
+  complete in draft, and we have entered the speeches of the 60s.
   All awaiting human review.
 - **In progress**: none.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 945 entries --- the speeches of the 60s (*Pro
-  Caecina*, *Pro Fonteio*, *Pro Lege Manilia*, *Pro Cluentio*, the
-  Agrarians, the Catilinarians, *Pro Murena*), the speeches of the
-  50s and 40s, the 14 Philippics, the 7 rhetorical works, the 17
-  philosophical / poetic works (including *Aratea* (86 BC) and *De
-  Inventione* (85 BC) which precede *Pro Quinctio* and were skipped
-  because *Pro Quinctio* was the agreed test case), and the full
-  letter corpus (873 letters organised by traditional book.letter
-  numbering across Ad Atticum, Ad Familiares, Ad Quintum Fratrem, Ad
-  M. Brutum).
+- **Pending**: 944 entries --- the rest of the speeches of the 60s
+  (*Pro Fonteio*, *Pro Lege Manilia*, *Pro Cluentio*, the Agrarians,
+  the Catilinarians, *Pro Murena*), the speeches of the 50s and 40s,
+  the 14 Philippics, the 7 rhetorical works, the 17 philosophical /
+  poetic works (including *Aratea* (86 BC) and *De Inventione*
+  (85 BC) which precede *Pro Quinctio* and were skipped because
+  *Pro Quinctio* was the agreed test case), and the full letter
+  corpus (873 letters organised by traditional book.letter numbering
+  across Ad Atticum, Ad Familiares, Ad Quintum Fratrem, Ad M.
+  Brutum).
 
 ## Milestones
 
@@ -121,15 +122,14 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The current resume point is **Pro Tullio... already done**, so the
-next pending entry chronologically is **Pro Caecina (69 BC),
-section 1** --- the case of Aulus Caecina, dispossessed by force
-from a Volaterran estate, on the *interdictum de vi armata*. After
-Pro Caecina the queue is *Pro Fonteio* (defence of the former
-governor of Gallia Narbonensis, 69 BC), *Pro Lege Manilia* (66 BC,
-Cicero's first political speech, urging the Mithridatic command
-for Pompeius), *Pro Cluentio* (66 BC, the longest forensic speech
-in the corpus, on the poisoning at Larinum), the Agrarians
+The current resume point is **Pro Fonteio (69 BC), section 1** ---
+the defence of Marcus Fonteius, former governor of Transalpine Gaul
+(74-72 BC), prosecuted in 69 BC for extortion by his Gallic
+subjects. Only fragments of the speech survive (the manuscript is
+mutilated). After *Pro Fonteio* the queue is *Pro Lege Manilia*
+(66 BC, Cicero's first political speech, urging the Mithridatic
+command for Pompeius), *Pro Cluentio* (66 BC, the longest forensic
+speech in the corpus, on the poisoning at Larinum), the Agrarians
 (63 BC), the Catilinarians (Nov-Dec 63 BC), *Pro Murena* (63 BC),
 and forward through the 60s.
 
