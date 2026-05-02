@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 31
-- pending: 925
+- drafted: 34
+- pending: 922
 
 ## Chronological order
 
@@ -38,9 +38,9 @@ Status:
 | 18 | 13 February 67 BC | letters | Ad Atticum 1.8 | drafted |
 | 19 | March 67 BC | letters | Ad Atticum 1.9 | drafted |
 | 20 | 67 BC | letters | Ad Atticum 1.10 | drafted |
-| 21 | July 67 BC | letters | Ad Atticum 1.11 | pending |
-| 22 | 67 BC | letters | Ad Atticum 1.3 | pending |
-| 23 | 67 BC | letters | Ad Atticum 1.5 | pending |
+| 21 | July 67 BC | letters | Ad Atticum 1.11 | drafted |
+| 22 | 67 BC | letters | Ad Atticum 1.3 | drafted |
+| 23 | 67 BC | letters | Ad Atticum 1.5 | drafted |
 | 24 | 66 BC | speeches | On the Manilian Law (On the Command of Pompey) | drafted |
 | 25 | 66 BC | speeches | For Aulus Cluentius | drafted |
 | 26 | 66 BC | letters | Ad Atticum 1.4 | pending |
