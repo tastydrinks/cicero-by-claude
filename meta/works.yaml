@@ -111,77 +111,6 @@
   headnote_file: headnotes/speeches/070bc-divinatio-in-caecilium.tex
   status: pending
   notes: Preliminary hearing to determine who would prosecute Verres; delivered early 70 BC.
-- id: in-verrem-2-1
-  title_latin: In C. Verrem Actio Secunda I
-  title_english: Against Verres, Second Hearing, Book I
-  category: speeches
-  date: -0070-07-01
-  date_precision: year
-  location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi004/
-  latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.1.shtml
-  latin_file: latin/speeches/070bc-in-verrem-2-1.tex
-  english_file: english/speeches/070bc-in-verrem-2-1.tex
-  headnote_file: headnotes/speeches/070bc-in-verrem-2-1.tex
-  status: pending
-  notes: The Second Action was never delivered (Verres had already gone into exile) but published as a
-    written prosecution. Book I treats Verres' early career.
-- id: in-verrem-2-2
-  title_latin: In C. Verrem Actio Secunda II
-  title_english: Against Verres, Second Hearing, Book II
-  category: speeches
-  date: -0070-07-01
-  date_precision: year
-  location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi005/
-  latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.2.shtml
-  latin_file: latin/speeches/070bc-in-verrem-2-2.tex
-  english_file: english/speeches/070bc-in-verrem-2-2.tex
-  headnote_file: headnotes/speeches/070bc-in-verrem-2-2.tex
-  status: pending
-  notes: Verres' jurisdiction (de iurisdictione) in Sicily.
-- id: in-verrem-2-3
-  title_latin: In C. Verrem Actio Secunda III
-  title_english: Against Verres, Second Hearing, Book III
-  category: speeches
-  date: -0070-07-01
-  date_precision: year
-  location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi006/
-  latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.3.shtml
-  latin_file: latin/speeches/070bc-in-verrem-2-3.tex
-  english_file: english/speeches/070bc-in-verrem-2-3.tex
-  headnote_file: headnotes/speeches/070bc-in-verrem-2-3.tex
-  status: pending
-  notes: On Verres' grain extortions (de re frumentaria).
-- id: in-verrem-2-4
-  title_latin: In C. Verrem Actio Secunda IV
-  title_english: Against Verres, Second Hearing, Book IV
-  category: speeches
-  date: -0070-07-01
-  date_precision: year
-  location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi007/
-  latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.4.shtml
-  latin_file: latin/speeches/070bc-in-verrem-2-4.tex
-  english_file: english/speeches/070bc-in-verrem-2-4.tex
-  headnote_file: headnotes/speeches/070bc-in-verrem-2-4.tex
-  status: pending
-  notes: On Verres' plundering of works of art (de signis).
-- id: in-verrem-2-5
-  title_latin: In C. Verrem Actio Secunda V
-  title_english: Against Verres, Second Hearing, Book V
-  category: speeches
-  date: -0070-07-01
-  date_precision: year
-  location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi008/
-  latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.5.shtml
-  latin_file: latin/speeches/070bc-in-verrem-2-5.tex
-  english_file: english/speeches/070bc-in-verrem-2-5.tex
-  headnote_file: headnotes/speeches/070bc-in-verrem-2-5.tex
-  status: pending
-  notes: On Verres' military conduct and crucifixion of Roman citizens (de suppliciis).
 - id: in-verrem-actio-prima
   title_latin: In C. Verrem Actio Prima
   title_english: Against Verres, First Hearing
@@ -197,6 +126,77 @@
   status: pending
   notes: First action of the trial of C. Verres for extortion in Sicily; Verres withdrew into exile after
     this speech.
+- id: in-verrem-2-1
+  title_latin: In C. Verrem Actio Secunda I
+  title_english: Against Verres, Second Hearing, Book I
+  category: speeches
+  date: -0070-11-01
+  date_precision: month
+  location_written: Rome
+  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi004/
+  latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.1.shtml
+  latin_file: latin/speeches/070bc-in-verrem-2-1.tex
+  english_file: english/speeches/070bc-in-verrem-2-1.tex
+  headnote_file: headnotes/speeches/070bc-in-verrem-2-1.tex
+  status: pending
+  notes: The Second Action was never delivered (Verres had already gone into exile) but published as a
+    written prosecution in autumn 70 BC. Book I treats Verres' early career.
+- id: in-verrem-2-2
+  title_latin: In C. Verrem Actio Secunda II
+  title_english: Against Verres, Second Hearing, Book II
+  category: speeches
+  date: -0070-11-02
+  date_precision: month
+  location_written: Rome
+  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi005/
+  latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.2.shtml
+  latin_file: latin/speeches/070bc-in-verrem-2-2.tex
+  english_file: english/speeches/070bc-in-verrem-2-2.tex
+  headnote_file: headnotes/speeches/070bc-in-verrem-2-2.tex
+  status: pending
+  notes: Verres' jurisdiction (de iurisdictione) in Sicily.
+- id: in-verrem-2-3
+  title_latin: In C. Verrem Actio Secunda III
+  title_english: Against Verres, Second Hearing, Book III
+  category: speeches
+  date: -0070-11-03
+  date_precision: month
+  location_written: Rome
+  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi006/
+  latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.3.shtml
+  latin_file: latin/speeches/070bc-in-verrem-2-3.tex
+  english_file: english/speeches/070bc-in-verrem-2-3.tex
+  headnote_file: headnotes/speeches/070bc-in-verrem-2-3.tex
+  status: pending
+  notes: On Verres' grain extortions (de re frumentaria).
+- id: in-verrem-2-4
+  title_latin: In C. Verrem Actio Secunda IV
+  title_english: Against Verres, Second Hearing, Book IV
+  category: speeches
+  date: -0070-11-04
+  date_precision: month
+  location_written: Rome
+  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi007/
+  latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.4.shtml
+  latin_file: latin/speeches/070bc-in-verrem-2-4.tex
+  english_file: english/speeches/070bc-in-verrem-2-4.tex
+  headnote_file: headnotes/speeches/070bc-in-verrem-2-4.tex
+  status: pending
+  notes: On Verres' plundering of works of art (de signis).
+- id: in-verrem-2-5
+  title_latin: In C. Verrem Actio Secunda V
+  title_english: Against Verres, Second Hearing, Book V
+  category: speeches
+  date: -0070-11-05
+  date_precision: month
+  location_written: Rome
+  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi008/
+  latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.5.shtml
+  latin_file: latin/speeches/070bc-in-verrem-2-5.tex
+  english_file: english/speeches/070bc-in-verrem-2-5.tex
+  headnote_file: headnotes/speeches/070bc-in-verrem-2-5.tex
+  status: pending
+  notes: On Verres' military conduct and crucifixion of Roman citizens (de suppliciis).
 - id: pro-caecina
   title_latin: Pro A. Caecina
   title_english: For Aulus Caecina
