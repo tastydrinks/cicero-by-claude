@@ -210,6 +210,11 @@ session can `continue` and apply them without re-asking:
   fast-forwards `origin/main` to the same tip. This means a new session
   --- whatever its assigned branch name --- can start work immediately
   from `main` and never has to hunt for the latest state.
+  Note: the harness's git server refuses branch deletions, so old
+  session branches accumulate on origin. They are harmless (strict
+  ancestors of `main` with no unique commits). Alexander can prune
+  them via the GitHub web UI at any time; agents should leave them
+  alone.
 - **Continuous mode.** Translate forward chronologically without pausing
   for per-work approval. Commit and push per finished work; for long works,
   commit at section boundaries (~30--50 sections) so progress is durable.
