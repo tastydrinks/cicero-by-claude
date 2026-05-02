@@ -623,7 +623,7 @@
   title_latin: De Lege Agraria III
   title_english: On the Agrarian Law, Third Speech
   category: speeches
-  date: -0063-01-01
+  date: -0063-01-15
   date_precision: month
   location_written: Rome
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi011/phi0474.phi011.perseus-lat2.xml
@@ -631,8 +631,8 @@
   latin_file: latin/speeches/063bc-de-lege-agraria-3.tex
   english_file: english/speeches/063bc-de-lege-agraria-3.tex
   headnote_file: headnotes/speeches/063bc-de-lege-agraria-3.tex
-  status: pending
-  notes: A second contio speech against Rullus' bill. Survives in part.
+  status: drafted
+  notes: A second contio speech against Rullus' bill (after Agr II). Survives in part; latter half lost.
   speech_index: '3'
 - id: de-lege-agraria-2
   title_latin: De Lege Agraria II
