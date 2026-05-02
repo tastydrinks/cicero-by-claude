@@ -6,56 +6,55 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 26 speeches end-to-end --- *Pro Quinctio* (81 BC),
-  *Pro Roscio Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
-  *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
-  *In Verrem Actio Prima* (5 Aug 70 BC), the entire five-book
-  *Actio Secunda* (I--V; autumn 70 BC), *Pro Caecina* (69 BC),
-  *Pro Fonteio* (69 BC), *Pro Lege Manilia* (66 BC), *Pro
-  Cluentio* (66 BC, the longest forensic speech in the corpus),
-  the entire 63 BC consular corpus --- *Pro Rabirio Perduellionis
-  Reo*, the three surviving *De Lege Agraria*, the four
-  *Catilinarians*, and *Pro Murena* --- and the two 62 BC
-  defences, *Pro Sulla* (mid-62 BC) and *Pro Archia* (summer 62
-  BC). *Pro Flacco* (59 BC) is partly drafted: sections 1--5
-  plus the Bobiensian fragments are committed; sections 6--106
-  remain.
-- **In progress**: *Pro Flacco* (59 BC), parked at section 5
-  pending the chronological catch-up of the letters.
+- **Drafted**: 72 works end-to-end across all categories.
+  - **Speeches (26)**: *Pro Quinctio* (81 BC), *Pro Roscio
+    Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
+    *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
+    *In Verrem Actio Prima* (5 Aug 70 BC), the entire five-book
+    *Actio Secunda* (I--V; autumn 70 BC), *Pro Caecina* (69 BC),
+    *Pro Fonteio* (69 BC), *Pro Lege Manilia* (66 BC), *Pro
+    Cluentio* (66 BC), the entire 63 BC consular corpus
+    (\textit{Pro Rabirio Perduellionis Reo}, the three surviving
+    \textit{De Lege Agraria}, the four \textit{Catilinarians},
+    \textit{Pro Murena}), and the two 62 BC defences
+    (\textit{Pro Sulla}, \textit{Pro Archia}).
+  - **Letters (46)**: the early Atticus correspondence ---
+    \textit{Att.} 1.1--1.20 (in chronological, not manuscript,
+    order: 67--60 BC), \textit{Att.} 2.1--2.17, 2.20 (60--mid-59
+    BC); the early Familiares --- \textit{Fam.} 5.1, 5.2, 5.5,
+    5.6, 5.7, 7.23 (62 BC, including Cicero's reply to Metellus
+    Celer in \textit{Fam.} 5.2 and the famous
+    \textit{Fam.} 5.7 to Pompey); the long treatise letter
+    \textit{Ad Quintum Fratrem} 1.1 (late 60 / early 59 BC).
+  - **In progress**: \textit{Pro Flacco} (mid-59 BC) is parked
+    with sections 1--5 plus the twelve Bobiensian fragments
+    drafted; sections 6--106 remain. The chronology has now
+    arrived at it.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 930 entries.
+- **Pending**: 884 entries.
 
-### The chronological situation, plainly stated
+### The chronological situation
 
-The 26 drafted speeches are in correct relative order **among
-themselves**, but the previous three sessions translated only
-speeches; **letters, philosophical works, and rhetorical works
-were skipped over silently** in the chronological sweep. As of
-the dating refresh that produced this section, the chronology
-across all four categories looks like this:
+The 67--mid-59 BC catch-up that the previous-cohort sessions had
+left empty is now done: every surviving Cicero letter from the
+67--mid-59 window has been translated in date order, and the
+chronology is a true single-thread sweep from \textit{Pro
+Quinctio} (81 BC) through \textit{Att.} 2.20 (Quintilis 59 BC).
+The chronological resume point is \textit{Pro Flacco} (mid-59
+BC, dated as -0059-07-01 year-precision), parked at WIP section
+5 of 106.
 
-  * 873 letters, all dated against Perseus's TEI ``<date when=...>``
-    attributes and dateline parsing (Roman calendar phrases:
-    ``Kal.``/``Non.``/``Id.``, ``a. d. III Kal. Mart.``, ``prid.
-    Kal. Iun.``, etc.); 548 of 863 parseable letters (~64%) now
-    carry day precision, ~15% month precision, ~18% year-only;
-    41 letters had no Perseus dateline and remain at year
-    precision. URLs repointed to Perseus
-    ``canonical-latinLit`` (phi056/057/058/059) with Latin
-    Library as fallback per book.
-  * 25 philosophy and rhetoric works similarly. URLs repointed to
-    the correct phi numbers (phi036--055, plus phi072 for
-    *Timaeus*); five remain ``no_perseus`` (Aratea, De Consulatu
-    Suo, De Temporibus Suis, Hortensius, Consolatio); De Legibus
-    is at the Latin Library only.
-  * 32 pending speeches dated as before.
-
-The earliest pending work in the corpus is now *ad-atticum-01-06*
-(15 January 67 BC). Everything in 67 BC, 66 BC, 65 BC, 62 BC, 61
-BC, and 60 BC that is **letters or philosophy/rhetoric** sits in
-the gap between drafted speeches and the resume point, and must
-be translated in date order, not skipped past.
+The dating infrastructure remains in place: Perseus's
+\texttt{<date when="...">} attributes and dateline parsing
+(\texttt{scripts/refresh\_letter\_dates.py}) supply the
+chronology; \texttt{scripts/validate.py} reports a
+chronological-gap warning if any pending work is dated earlier
+than the latest drafted work; the validator excludes Aratea
+(86 BC), De Inventione (85 BC), and the four other no\_perseus
+fragmentary works (\textit{de-consulatu-suo} 60 BC,
+\textit{de-temporibus-suis} 54 BC, \textit{Hortensius} 45 BC,
+\textit{Consolatio} 45 BC) from the gap-check.
 
 ## Milestones
 
@@ -261,45 +260,51 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The current resume point is ***Ad Atticum 1.6*** (15 January 67
-BC), Cicero in his praetor-elect year writing to Atticus at
-Athens. Forward from there in strict chronological order across
-all categories (letters, speeches, philosophy, rhetoric):
+The current resume point is ***Pro Flacco*** (mid-59 BC),
+parked at WIP section 5 of 106. Sections 1--5 plus the twelve
+Bobiensian fragments and the \textit{frMed} block are committed
+to \texttt{english/speeches/059bc-pro-flacco.tex}; sections
+6--106 remain to be translated. The Latin source
+(\texttt{latin/speeches/059bc-pro-flacco.tex}) is committed.
+The next session should begin at section 6 and run through to
+section 106 in halves, finalize the headnote, flip the status
+to \texttt{drafted}, and continue into the rest of 59 BC.
 
-- **67--62 BC** --- the early Atticus letters (Att 1.5--1.11
-  plus 1.1--1.4, in date order, not manuscript order: Perseus's
-  dateline parsing has rearranged them) interleave with the
-  drafted speeches *Pro Lege Manilia* (66 BC), *Pro Cluentio*
-  (66 BC), the four 63 BC consular speeches, *Pro Murena*
-  (Nov 63 BC), *Pro Sulla* (mid-62 BC), *Pro Archia* (summer
-  62 BC). The drafted speeches keep their `drafted` status; the
-  letters of those years fill in the gaps.
-- **61--58 BC** --- the body of *Ad Atticum* book 1 closing,
-  *Ad Atticum* book 2 (the Bona Dea letters, the Vettius
-  affair, the gathering crisis of 59 BC), the bulk of Cicero's
-  exile correspondence in 58 BC. *Pro Flacco* (mid-59 BC)
-  resumes from section 6 when its date is reached.
-- **57--52 BC** --- the post-exile speeches *Pro Sestio*, *In
-  Vatinium*, *De Provinciis Consularibus*, *Pro Caelio*, *De
-  Domo Sua*, *De Haruspicum Responso*, *Pro Plancio*, *Pro
-  Rabirio Postumo*, *Pro Milone*, with *De Oratore* (55 BC),
-  *De Re Publica* (54 BC), *De Legibus* (52 BC) and the great
-  triple letter book of 54 BC interleaved.
+Forward from \textit{Pro Flacco} the chronology runs:
+
+- **late 59 BC** --- \textit{Att.} 2.18, 2.19, 2.21--2.25
+  (the Vettius affair, the political mood as Caesar's
+  consular year closes, Cicero's growing fear of Clodius's
+  coming tribunate); \textit{Att.} 3.1 begins the exile
+  letters of 58 BC.
+- **58 BC} --- the exile correspondence: \textit{Att.} 3 and
+  the early \textit{Q. fr.} from Thessalonica and Dyrrachium.
+- **57--52 BC** --- the post-exile speeches \textit{Pro
+  Sestio}, \textit{In Vatinium}, \textit{De Provinciis
+  Consularibus}, \textit{Pro Caelio}, \textit{De Domo Sua},
+  \textit{De Haruspicum Responso}, \textit{Pro Plancio},
+  \textit{Pro Rabirio Postumo}, \textit{Pro Milone}, with
+  \textit{De Oratore} (55 BC), \textit{De Re Publica} (54 BC),
+  \textit{De Legibus} (52 BC) and the great triple letter
+  book of 54 BC interleaved.
 - **51--47 BC** --- the Cilician proconsulship and the civil
-  war, with *Ad Familiares* and *Ad Atticum* and *Ad Quintum
-  Fratrem* dense throughout.
-- **46--43 BC** --- the philosophical torrent (*Brutus*,
-  *Orator*, *Academica*, *De Finibus*, *Tusculanae*, *De
-  Natura Deorum*, *De Divinatione*, *De Senectute*, *De
-  Amicitia*, *De Officiis*), the late forensic speeches (*Pro
-  Marcello*, *Pro Ligario*, *Pro Rege Deiotaro*), the 14
-  *Philippics*, and the dense final-year letters of 44--43 BC,
-  closing on *Ad M. Brutum* and Cicero's death at Formiae in
-  December 43 BC.
+  war, with \textit{Ad Familiares}, \textit{Ad Atticum}, and
+  \textit{Ad Quintum Fratrem} dense throughout.
+- **46--43 BC** --- the philosophical torrent
+  (\textit{Brutus}, \textit{Orator}, \textit{Academica},
+  \textit{De Finibus}, \textit{Tusculanae}, \textit{De Natura
+  Deorum}, \textit{De Divinatione}, \textit{De Senectute},
+  \textit{De Amicitia}, \textit{De Officiis}), the late
+  forensic speeches (\textit{Pro Marcello}, \textit{Pro
+  Ligario}, \textit{Pro Rege Deiotaro}), the 14
+  \textit{Philippics}, and the dense final-year letters of
+  44--43 BC, closing on \textit{Ad M. Brutum} and Cicero's
+  death at Formiae in December 43 BC.
 
-Run `scripts/validate.py` at the start of each session: a
-non-zero count of "earlier-pending" warnings means the
-chronological sweep has skipped something and must double back.
+Run \texttt{bash scripts/session\_start.sh} at the start of each
+session: it fast-forwards your session branch to
+\texttt{origin/main}, runs the validator, and prints the
+chronologically next pending work.
 
 ## Generated index
 
