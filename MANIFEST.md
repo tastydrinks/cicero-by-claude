@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 22
-- pending: 934
+- drafted: 23
+- pending: 933
 
 ## Chronological order
 
@@ -63,7 +63,7 @@ Status:
 | 43 | 8 November 63 BC | speeches | Against Catiline, First Speech | drafted |
 | 44 | 9 November 63 BC | speeches | Against Catiline, Second Speech | drafted |
 | 45 | 3 December 63 BC | speeches | Against Catiline, Third Speech | drafted |
-| 46 | 5 December 63 BC | speeches | Against Catiline, Fourth Speech | pending |
+| 46 | 5 December 63 BC | speeches | Against Catiline, Fourth Speech | drafted |
 | 47 | 62-44 BC | letters | Ad Familiares 5.1 | pending |
 | 48 | 62-44 BC | letters | Ad Familiares 5.2 | pending |
 | 49 | 62-44 BC | letters | Ad Familiares 5.3 | pending |
