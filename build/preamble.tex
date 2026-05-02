@@ -1,0 +1,141 @@
+% preamble.tex — typesetting setup for cicero-by-claude
+%
+% Targets XeLaTeX (or LuaLaTeX) with EB Garamond. The book is set on a
+% 6"x9" trim with generous margins, ~32 lines/page, on a single column,
+% intended for printing on India paper and finishing by a specialty
+% bookbinder.
+
+\documentclass[11pt,oneside,openright]{memoir}
+
+% --- page geometry --------------------------------------------------------
+% 6" x 9" trim, generous outer margin for readability on India paper.
+\setstocksize{9in}{6in}
+\settrimmedsize{9in}{6in}{*}
+\settrims{0pt}{0pt}
+\setlrmarginsandblock{0.85in}{1.05in}{*}
+\setulmarginsandblock{0.95in}{1.15in}{*}
+\setheadfoot{14pt}{28pt}
+\setheaderspaces{*}{18pt}{*}
+\checkandfixthelayout
+
+% --- fonts ----------------------------------------------------------------
+\usepackage{fontspec}
+% EB Garamond is a high-quality classical revival; the package supplies
+% small-caps and italic for letter datelines.
+\setmainfont{EB Garamond}
+% Slightly smaller sans for any incidental UI in the typeset book.
+\usepackage[scaled=0.92]{helvet}
+
+% --- micro-typography -----------------------------------------------------
+\usepackage{microtype}
+\usepackage{ragged2e}
+
+% --- chapter / running heads ----------------------------------------------
+\chapterstyle{section}     % memoir style: simple section-style chapters
+\pagestyle{ruled}
+\makepagestyle{cicero}
+\makeevenhead{cicero}{}{\scshape\small\thetitle}{}
+\makeoddhead{cicero}{}{\scshape\small\thedate}{}
+\makeoddfoot{cicero}{}{\thepage}{}
+\makeevenfoot{cicero}{}{\thepage}{}
+\makeheadrule{cicero}{\textwidth}{0.4pt}
+\pagestyle{cicero}
+
+% --- runtime metadata storage --------------------------------------------
+% \cicerometa is set at the start of every \begin{cicerowork} or
+% \begin{ciceroletter} so running heads carry the current work's title and
+% date.
+\makeatletter
+\newcommand{\setcicerometa}[2]{%
+  \def\thetitle{#1}%
+  \def\thedate{#2}%
+}
+\makeatother
+\setcicerometa{Cicero}{}
+
+% --- drop caps ------------------------------------------------------------
+\usepackage{lettrine}
+\setlength\DefaultFindent{1pt}
+\renewcommand\DefaultLoversize{0.05}
+
+% --- verse-friendly paragraphs (for poetic fragments) ---------------------
+\usepackage{verse}
+
+% --- linguistic / locale --------------------------------------------------
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+
+% --- misc layout ----------------------------------------------------------
+\usepackage{xcolor}
+\usepackage{enumitem}
+\setlist[itemize]{leftmargin=1.25em,topsep=0.25em}
+\setlist[description]{leftmargin=1.5em,topsep=0.25em}
+
+% --- section markers preserved from the Latin -----------------------------
+% \ciceroSection{N} prints a small superscript section number inline at the
+% start of a section; same form used in both Latin and English files for
+% citation parity.
+\newcommand{\ciceroSection}[1]{\textsuperscript{\textsf{\footnotesize #1}}\,}
+
+% --- environments ---------------------------------------------------------
+% \begin{cicerowork}{id}{english title}{latin title}{date label}
+% Speeches, treatises, rhetorical works, fragments — full display.
+\newenvironment{cicerowork}[4]{%
+  \cleardoublepage
+  \setcicerometa{#2}{#4}%
+  \phantomsection
+  \addcontentsline{toc}{section}{#2 (#4)}%
+  \begin{center}
+    {\Large\scshape #2}\\[0.5em]
+    {\itshape #3}\\[0.25em]
+    {\small\scshape #4}
+  \end{center}
+  \vspace{0.5em}
+  \par\noindent\rule{\textwidth}{0.4pt}\par
+  \vspace{1em}
+  \begin{justify}%
+}{%
+  \end{justify}%
+  \par\vspace{2em}
+}
+
+% \begin{ciceroletter}{id}{english title}{latin title}{date label}
+% Letters get italic small-caps datelines, narrower body, thin rules above
+% and below.
+\newenvironment{ciceroletter}[4]{%
+  \par\bigskip
+  \setcicerometa{#2}{#4}%
+  \phantomsection
+  \addcontentsline{toc}{subsection}{#2 (#4)}%
+  \begin{flushright}
+    {\itshape\scshape #2}\\[-0.1em]
+    {\itshape\scshape\small #4}
+  \end{flushright}
+  \par\noindent\hfill\rule{0.6\textwidth}{0.3pt}\hfill\null\par\vspace{0.5em}
+  \begingroup
+  \leftskip=0.25in \rightskip=0pt
+}{%
+  \endgroup
+  \par\vspace{0.4em}
+  \par\noindent\hfill\rule{0.6\textwidth}{0.3pt}\hfill\null
+  \par\vspace{1em}
+}
+
+% --- pending-work placeholder --------------------------------------------
+% Used by \texttt{assemble\_book.py --include-pending} to mark slots in the
+% book where translations have not yet been written.
+\newcommand{\ciceropending}[2]{%
+  \par\medskip\noindent
+  \textit{[#2 — translation pending]}\par
+}
+
+% --- letter dateline helper ----------------------------------------------
+% \ciceroletterhead{To Atticus, at Rome}{Formiae}{18 January 49 BC}
+\newcommand{\ciceroletterhead}[3]{%
+  \par\noindent\textit{\textsc{#1}}\\
+  \textit{\textsc{#2, #3}}\par\smallskip
+}
+
+\title{Cicero by Claude}
+\author{Marcus Tullius Cicero \\ \itshape{translated by Claude}}
+\date{}

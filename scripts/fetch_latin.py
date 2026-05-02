@@ -165,21 +165,75 @@ def convert_to_tex(text: str) -> str:
 # Parsing — Perseus / Scaife reader (best-effort)
 # ---------------------------------------------------------------------------
 
-def parse_perseus(html_text: str) -> str:
-    """Extract Latin text from a Perseus / Scaife reader page.
+def parse_perseus_tei(xml_text: str, speech_index: str | None = None) -> str:
+    """Parse a Perseus canonical-latinLit TEI XML file and emit LaTeX.
 
-    The Scaife reader renders text inside structured spans; for a robust
-    fetch it would be better to use the CTS API directly, but the HTML
-    surface is sufficient for one-off fetches. If parsing fails, the caller
-    should fall back to Latin Library.
+    The TEI structure used in PerseusDL/canonical-latinLit:
+      <body>
+        <div type="edition">
+          [optional <div type="textpart" subtype="speech" n="N">]
+            <div type="textpart" subtype="section" n="N">
+              <p>... <milestone n="N" unit="chapter"/> ...</p>
+            </div>
+
+    For multi-speech bundles (Catilinarians, Verrines, Philippics, Agrarians)
+    pass speech_index="1" through "14" to select one. For single-speech files
+    pass speech_index=None.
     """
-    soup = BeautifulSoup(html_text, "html.parser")
-    for tag in soup(["script", "style", "noscript"]):
-        tag.decompose()
-    candidate = soup.find("main") or soup.find("article") or soup.find("body")
-    if candidate is None:
-        raise RuntimeError("could not locate text region in Perseus HTML")
-    return convert_to_tex(html.unescape(candidate.get_text("\n", strip=True)))
+    soup = BeautifulSoup(xml_text, "xml")
+    body = soup.find("body")
+    if body is None:
+        raise RuntimeError("no <body> element in TEI XML")
+
+    edition = body.find("div", attrs={"type": "edition"})
+    root = edition or body
+
+    if speech_index is not None:
+        speech = root.find(
+            "div",
+            attrs={"type": "textpart", "subtype": "speech", "n": str(speech_index)},
+        )
+        if speech is None:
+            raise RuntimeError(f"speech {speech_index} not found in bundle")
+        root = speech
+
+    sections = root.find_all(
+        "div", attrs={"type": "textpart", "subtype": "section"}
+    )
+    if not sections:
+        # Some files have only chapter divisions or flat <p> children.
+        sections = []
+
+    pieces: list[str] = []
+    if sections:
+        for sec in sections:
+            n = sec.get("n", "?")
+            text = sec.get_text(" ", strip=True)
+            text = text.replace("\n", " ").strip()
+            text = re.sub(r"\s+", " ", text)
+            pieces.append(f"\\ciceroSection{{{n}}} {text}")
+    else:
+        # Fallback: flatten paragraphs in document order
+        for p in root.find_all("p"):
+            t = p.get_text(" ", strip=True)
+            if t:
+                pieces.append(t)
+
+    if not pieces:
+        raise RuntimeError("Perseus TEI parse produced no text")
+
+    body_text = "\n\n".join(pieces)
+
+    # Light cleanup: normalize quotes, drop chapter milestones (they appear
+    # inside section text after get_text; harmless but redundant).
+    body_text = body_text.replace("“", "``").replace("”", "''")
+    body_text = body_text.replace("‘", "`").replace("’", "'")
+    return body_text + "\n"
+
+
+# Back-compat alias (the previous parse_perseus signature was HTML-based)
+def parse_perseus(text: str, speech_index: str | None = None) -> str:
+    return parse_perseus_tei(text, speech_index=speech_index)
 
 
 # ---------------------------------------------------------------------------
@@ -199,27 +253,36 @@ def fetch_one(work: dict, dry_run: bool = False) -> bool:
         sources.append(("perseus", primary))
     if fallback:
         sources.append(("latin_library", fallback))
+    # Need lxml for the BeautifulSoup XML parser; importing lazily keeps
+    # the script usable for HTML-only sources without lxml installed.
+    try:
+        import lxml  # noqa: F401
+    except ImportError:
+        sys.stderr.write(
+            "  (note: lxml not installed; install for fastest XML parsing: pip install lxml)\n"
+        )
 
     if not sources:
         print(f"  {work['id']}: no source URL configured, skipping")
         return False
 
     last_err: Exception | None = None
+    speech_index = work.get("speech_index")
     for kind, url in sources:
         print(f"  {work['id']}: fetching {kind} {url}")
         if dry_run:
             return True
         try:
-            html_text = http_get(url)
+            text = http_get(url)
         except Exception as e:
             last_err = e
             sys.stderr.write(f"    {kind} fetch failed: {e}\n")
             continue
         try:
             if kind == "perseus":
-                tex = parse_perseus(html_text)
+                tex = parse_perseus(text, speech_index=speech_index)
             else:
-                tex = parse_latin_library(html_text)
+                tex = parse_latin_library(text)
         except Exception as e:
             last_err = e
             sys.stderr.write(f"    {kind} parse failed: {e}\n")

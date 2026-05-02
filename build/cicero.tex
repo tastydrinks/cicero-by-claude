@@ -1,0 +1,21 @@
+% cicero.tex — master document for cicero-by-claude
+%
+% Compile with XeLaTeX (or LuaLaTeX) — twice for cross-references / TOC.
+% Per-translation files are pulled in by \input{body.tex}, which is
+% regenerated from meta/works.yaml by scripts/assemble_book.py.
+
+\input{preamble.tex}
+
+\begin{document}
+
+\frontmatter
+\input{frontmatter.tex}
+\input{chronology.tex}
+
+\mainmatter
+\input{body.tex}
+
+\backmatter
+\input{backmatter.tex}
+
+\end{document}

@@ -13,7 +13,7 @@
   date: -0086-07-01
   date_precision: year_range
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi071/
+  latin_source_url: null
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/aratea.shtml
   latin_file: latin/philosophy/086bc-aratea.tex
   english_file: english/philosophy/086bc-aratea.tex
@@ -29,7 +29,7 @@
   date: -0085-07-01
   date_precision: year_range
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi064/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi036/phi0474.phi036.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/inventione.shtml
   latin_file: latin/rhetoric/085bc-de-inventione.tex
   english_file: english/rhetoric/085bc-de-inventione.tex
@@ -45,7 +45,7 @@
   date: -0081-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi013/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi001/phi0474.phi001.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/quinct.shtml
   latin_file: latin/speeches/081bc-pro-quinctio.tex
   english_file: english/speeches/081bc-pro-quinctio.tex
@@ -61,7 +61,7 @@
   date: -0080-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi014/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi002/phi0474.phi002.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/rosccom.shtml
   latin_file: latin/speeches/080bc-pro-roscio-amerino.tex
   english_file: english/speeches/080bc-pro-roscio-amerino.tex
@@ -75,7 +75,7 @@
   date: -0076-07-01
   date_precision: year_range
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi015/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi003/phi0474.phi003.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/rosca.shtml
   latin_file: latin/speeches/076bc-pro-roscio-comoedo.tex
   english_file: english/speeches/076bc-pro-roscio-comoedo.tex
@@ -90,7 +90,7 @@
   date: -0071-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi016/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi006/phi0474.phi006.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/tullio.shtml
   latin_file: latin/speeches/071bc-pro-tullio.tex
   english_file: english/speeches/071bc-pro-tullio.tex
@@ -104,7 +104,7 @@
   date: -0070-01-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi002/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi004/phi0474.phi004.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.div.shtml
   latin_file: latin/speeches/070bc-divinatio-in-caecilium.tex
   english_file: english/speeches/070bc-divinatio-in-caecilium.tex
@@ -118,7 +118,7 @@
   date: -0070-08-05
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi003/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi005/phi0474.phi005.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.1.shtml
   latin_file: latin/speeches/070bc-in-verrem-actio-prima.tex
   english_file: english/speeches/070bc-in-verrem-actio-prima.tex
@@ -126,6 +126,7 @@
   status: pending
   notes: First action of the trial of C. Verres for extortion in Sicily; Verres withdrew into exile after
     this speech.
+  speech_index: '1'
 - id: in-verrem-2-1
   title_latin: In C. Verrem Actio Secunda I
   title_english: Against Verres, Second Hearing, Book I
@@ -133,7 +134,7 @@
   date: -0070-11-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi004/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi005/phi0474.phi005.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.1.shtml
   latin_file: latin/speeches/070bc-in-verrem-2-1.tex
   english_file: english/speeches/070bc-in-verrem-2-1.tex
@@ -141,6 +142,7 @@
   status: pending
   notes: The Second Action was never delivered (Verres had already gone into exile) but published as a
     written prosecution in autumn 70 BC. Book I treats Verres' early career.
+  speech_index: '2'
 - id: in-verrem-2-2
   title_latin: In C. Verrem Actio Secunda II
   title_english: Against Verres, Second Hearing, Book II
@@ -148,13 +150,14 @@
   date: -0070-11-02
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi005/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi005/phi0474.phi005.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.2.shtml
   latin_file: latin/speeches/070bc-in-verrem-2-2.tex
   english_file: english/speeches/070bc-in-verrem-2-2.tex
   headnote_file: headnotes/speeches/070bc-in-verrem-2-2.tex
   status: pending
   notes: Verres' jurisdiction (de iurisdictione) in Sicily.
+  speech_index: '3'
 - id: in-verrem-2-3
   title_latin: In C. Verrem Actio Secunda III
   title_english: Against Verres, Second Hearing, Book III
@@ -162,13 +165,14 @@
   date: -0070-11-03
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi006/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi005/phi0474.phi005.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.3.shtml
   latin_file: latin/speeches/070bc-in-verrem-2-3.tex
   english_file: english/speeches/070bc-in-verrem-2-3.tex
   headnote_file: headnotes/speeches/070bc-in-verrem-2-3.tex
   status: pending
   notes: On Verres' grain extortions (de re frumentaria).
+  speech_index: '4'
 - id: in-verrem-2-4
   title_latin: In C. Verrem Actio Secunda IV
   title_english: Against Verres, Second Hearing, Book IV
@@ -176,13 +180,14 @@
   date: -0070-11-04
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi007/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi005/phi0474.phi005.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.4.shtml
   latin_file: latin/speeches/070bc-in-verrem-2-4.tex
   english_file: english/speeches/070bc-in-verrem-2-4.tex
   headnote_file: headnotes/speeches/070bc-in-verrem-2-4.tex
   status: pending
   notes: On Verres' plundering of works of art (de signis).
+  speech_index: '5'
 - id: in-verrem-2-5
   title_latin: In C. Verrem Actio Secunda V
   title_english: Against Verres, Second Hearing, Book V
@@ -190,13 +195,14 @@
   date: -0070-11-05
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi008/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi005/phi0474.phi005.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/verres.2.5.shtml
   latin_file: latin/speeches/070bc-in-verrem-2-5.tex
   english_file: english/speeches/070bc-in-verrem-2-5.tex
   headnote_file: headnotes/speeches/070bc-in-verrem-2-5.tex
   status: pending
   notes: On Verres' military conduct and crucifixion of Roman citizens (de suppliciis).
+  speech_index: '6'
 - id: pro-caecina
   title_latin: Pro A. Caecina
   title_english: For Aulus Caecina
@@ -204,7 +210,7 @@
   date: -0069-07-01
   date_precision: year_range
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi018/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi008/phi0474.phi008.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/caecina.shtml
   latin_file: latin/speeches/069bc-pro-caecina.tex
   english_file: english/speeches/069bc-pro-caecina.tex
@@ -219,7 +225,7 @@
   date: -0069-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi017/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi007/phi0474.phi007.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fonteio.shtml
   latin_file: latin/speeches/069bc-pro-fonteio.tex
   english_file: english/speeches/069bc-pro-fonteio.tex
@@ -574,7 +580,7 @@
   date: -0066-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi020/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi010/phi0474.phi010.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/cluentio.shtml
   latin_file: latin/speeches/066bc-pro-cluentio.tex
   english_file: english/speeches/066bc-pro-cluentio.tex
@@ -589,7 +595,7 @@
   date: -0066-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi019/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi009/phi0474.phi009.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/leg.man.shtml
   latin_file: latin/speeches/066bc-pro-lege-manilia.tex
   english_file: english/speeches/066bc-pro-lege-manilia.tex
@@ -604,7 +610,7 @@
   date: -0063-01-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi021/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi011/phi0474.phi011.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/leg.agr.1.shtml
   latin_file: latin/speeches/063bc-de-lege-agraria-1.tex
   english_file: english/speeches/063bc-de-lege-agraria-1.tex
@@ -612,6 +618,7 @@
   status: pending
   notes: Delivered in the Senate against Rullus' agrarian bill on Cicero's first day as consul. Survives
     in fragments only.
+  speech_index: '1'
 - id: de-lege-agraria-3
   title_latin: De Lege Agraria III
   title_english: On the Agrarian Law, Third Speech
@@ -619,13 +626,14 @@
   date: -0063-01-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi023/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi011/phi0474.phi011.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/leg.agr.3.shtml
   latin_file: latin/speeches/063bc-de-lege-agraria-3.tex
   english_file: english/speeches/063bc-de-lege-agraria-3.tex
   headnote_file: headnotes/speeches/063bc-de-lege-agraria-3.tex
   status: pending
   notes: A second contio speech against Rullus' bill. Survives in part.
+  speech_index: '3'
 - id: de-lege-agraria-2
   title_latin: De Lege Agraria II
   title_english: On the Agrarian Law, Second Speech
@@ -633,13 +641,14 @@
   date: -0063-01-04
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi022/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi011/phi0474.phi011.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/leg.agr.2.shtml
   latin_file: latin/speeches/063bc-de-lege-agraria-2.tex
   english_file: english/speeches/063bc-de-lege-agraria-2.tex
   headnote_file: headnotes/speeches/063bc-de-lege-agraria-2.tex
   status: pending
   notes: Delivered before the people (contio) against Rullus' agrarian bill, January 63 BC.
+  speech_index: '2'
 - id: pro-rabirio-perduellionis
   title_latin: Pro C. Rabirio Perduellionis Reo
   title_english: For Gaius Rabirius on a Charge of High Treason
@@ -647,7 +656,7 @@
   date: -0063-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi024/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi012/phi0474.phi012.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/rab.perd.shtml
   latin_file: latin/speeches/063bc-pro-rabirio-perduellionis.tex
   english_file: english/speeches/063bc-pro-rabirio-perduellionis.tex
@@ -661,7 +670,7 @@
   date: -0063-11-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi029/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi014/phi0474.phi014.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/murena.shtml
   latin_file: latin/speeches/063bc-pro-murena.tex
   english_file: english/speeches/063bc-pro-murena.tex
@@ -676,7 +685,7 @@
   date: -0063-11-08
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi025/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/cat1.shtml
   latin_file: latin/speeches/063bc-in-catilinam-1.tex
   english_file: english/speeches/063bc-in-catilinam-1.tex
@@ -684,6 +693,7 @@
   status: pending
   notes: Delivered in the Temple of Jupiter Stator with Catiline present in the Senate. The first of four
     speeches against the conspiracy.
+  speech_index: '1'
 - id: in-catilinam-2
   title_latin: In Catilinam II
   title_english: Against Catiline, Second Speech
@@ -691,7 +701,7 @@
   date: -0063-11-09
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi026/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/cat2.shtml
   latin_file: latin/speeches/063bc-in-catilinam-2.tex
   english_file: english/speeches/063bc-in-catilinam-2.tex
@@ -699,6 +709,7 @@
   status: pending
   notes: Delivered to the people in the Forum the day after the First Catilinarian, after Catiline had
     fled the city.
+  speech_index: '2'
 - id: in-catilinam-3
   title_latin: In Catilinam III
   title_english: Against Catiline, Third Speech
@@ -706,7 +717,7 @@
   date: -0063-12-03
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi027/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/cat3.shtml
   latin_file: latin/speeches/063bc-in-catilinam-3.tex
   english_file: english/speeches/063bc-in-catilinam-3.tex
@@ -714,6 +725,7 @@
   status: pending
   notes: Delivered to the people announcing the arrest of the conspirators in the city after the seizure
     of evidence at the Mulvian Bridge.
+  speech_index: '3'
 - id: in-catilinam-4
   title_latin: In Catilinam IV
   title_english: Against Catiline, Fourth Speech
@@ -721,7 +733,7 @@
   date: -0063-12-05
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi028/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/cat4.shtml
   latin_file: latin/speeches/063bc-in-catilinam-4.tex
   english_file: english/speeches/063bc-in-catilinam-4.tex
@@ -729,6 +741,7 @@
   status: pending
   notes: Delivered in the Senate during the debate on the punishment of the conspirators; the day Cato
     spoke for execution and the conspirators were put to death.
+  speech_index: '4'
 - id: ad-familiares-05-01
   title_latin: Ad Familiares 5.1
   title_english: Ad Familiares 5.1
@@ -1114,7 +1127,7 @@
   date: -0062-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi031/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi016/phi0474.phi016.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/arch.shtml
   latin_file: latin/speeches/062bc-pro-archia.tex
   english_file: english/speeches/062bc-pro-archia.tex
@@ -1129,7 +1142,7 @@
   date: -0062-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi030/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi015/phi0474.phi015.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/sulla.shtml
   latin_file: latin/speeches/062bc-pro-sulla.tex
   english_file: english/speeches/062bc-pro-sulla.tex
@@ -1661,7 +1674,7 @@
   date: -0060-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi073/
+  latin_source_url: null
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/cons.suo.shtml
   latin_file: latin/philosophy/060bc-de-consulatu-suo.tex
   english_file: english/philosophy/060bc-de-consulatu-suo.tex
@@ -1676,7 +1689,7 @@
   date: -0059-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi032/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi017/phi0474.phi017.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/flacco.shtml
   latin_file: latin/speeches/059bc-pro-flacco.tex
   english_file: english/speeches/059bc-pro-flacco.tex
@@ -2899,7 +2912,7 @@
   date: -0057-09-05
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi033/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi019/phi0474.phi019.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/redsen.shtml
   latin_file: latin/speeches/057bc-post-reditum-in-senatu.tex
   english_file: english/speeches/057bc-post-reditum-in-senatu.tex
@@ -2913,7 +2926,7 @@
   date: -0057-09-07
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi034/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi018/phi0474.phi018.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/redquir.shtml
   latin_file: latin/speeches/057bc-post-reditum-ad-quirites.tex
   english_file: english/speeches/057bc-post-reditum-ad-quirites.tex
@@ -2927,7 +2940,7 @@
   date: -0057-09-29
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi035/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi020/phi0474.phi020.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/domo.shtml
   latin_file: latin/speeches/057bc-de-domo-sua.tex
   english_file: english/speeches/057bc-de-domo-sua.tex
@@ -2942,7 +2955,7 @@
   date: -0056-03-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi038/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi023/phi0474.phi023.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/vatin.shtml
   latin_file: latin/speeches/056bc-in-vatinium.tex
   english_file: english/speeches/056bc-in-vatinium.tex
@@ -2956,7 +2969,7 @@
   date: -0056-03-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi037/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi022/phi0474.phi022.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/sest.shtml
   latin_file: latin/speeches/056bc-pro-sestio.tex
   english_file: english/speeches/056bc-pro-sestio.tex
@@ -2971,7 +2984,7 @@
   date: -0056-04-04
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi039/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi024/phi0474.phi024.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/cael.shtml
   latin_file: latin/speeches/056bc-pro-caelio.tex
   english_file: english/speeches/056bc-pro-caelio.tex
@@ -2986,7 +2999,7 @@
   date: -0056-06-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi040/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi025/phi0474.phi025.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/prov.shtml
   latin_file: latin/speeches/056bc-de-provinciis-consularibus.tex
   english_file: english/speeches/056bc-de-provinciis-consularibus.tex
@@ -3468,7 +3481,7 @@
   date: -0056-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi036/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi021/phi0474.phi021.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/haruspic.shtml
   latin_file: latin/speeches/056bc-de-haruspicum-responsis.tex
   english_file: english/speeches/056bc-de-haruspicum-responsis.tex
@@ -3482,7 +3495,7 @@
   date: -0056-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi041/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi026/phi0474.phi026.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/balbo.shtml
   latin_file: latin/speeches/056bc-pro-balbo.tex
   english_file: english/speeches/056bc-pro-balbo.tex
@@ -3496,7 +3509,7 @@
   date: -0055-07-01
   date_precision: year
   location_written: Rome / Tusculum
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi065/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi037/phi0474.phi037.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/oratore.shtml
   latin_file: latin/rhetoric/055bc-de-oratore.tex
   english_file: english/rhetoric/055bc-de-oratore.tex
@@ -3510,7 +3523,7 @@
   date: -0055-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi042/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi027/phi0474.phi027.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/pis.shtml
   latin_file: latin/speeches/055bc-in-pisonem.tex
   english_file: english/speeches/055bc-in-pisonem.tex
@@ -6509,7 +6522,7 @@
   date: -0054-07-01
   date_precision: year_range
   location_written: Cumae / Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi072/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi043/phi0474.phi043.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/repub.shtml
   latin_file: latin/philosophy/054bc-de-re-publica.tex
   english_file: english/philosophy/054bc-de-re-publica.tex
@@ -6525,7 +6538,7 @@
   date: -0054-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi074/
+  latin_source_url: null
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/temp.suo.shtml
   latin_file: latin/philosophy/054bc-de-temporibus-suis.tex
   english_file: english/philosophy/054bc-de-temporibus-suis.tex
@@ -6539,7 +6552,7 @@
   date: -0054-07-01
   date_precision: year_range
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi066/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi038/phi0474.phi038.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/partitione.shtml
   latin_file: latin/rhetoric/054bc-partitiones-oratoriae.tex
   english_file: english/rhetoric/054bc-partitiones-oratoriae.tex
@@ -6555,7 +6568,7 @@
   date: -0054-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi043/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi028/phi0474.phi028.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/planc.shtml
   latin_file: latin/speeches/054bc-pro-plancio.tex
   english_file: english/speeches/054bc-pro-plancio.tex
@@ -6570,7 +6583,7 @@
   date: -0054-07-01
   date_precision: year_range
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi045/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi030/phi0474.phi030.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/rab.post.shtml
   latin_file: latin/speeches/054bc-pro-rabirio-postumo.tex
   english_file: english/speeches/054bc-pro-rabirio-postumo.tex
@@ -6586,7 +6599,7 @@
   date: -0054-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi044/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi029/phi0474.phi029.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/scaur.shtml
   latin_file: latin/speeches/054bc-pro-scauro.tex
   english_file: english/speeches/054bc-pro-scauro.tex
@@ -7176,7 +7189,7 @@
   date: -0052-04-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi046/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi031/phi0474.phi031.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/milo.shtml
   latin_file: latin/speeches/052bc-pro-milone.tex
   english_file: english/speeches/052bc-pro-milone.tex
@@ -7191,7 +7204,7 @@
   date: -0052-07-01
   date_precision: year_range
   location_written: Arpinum / Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi075/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi044/phi0474.phi044.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/leg.shtml
   latin_file: latin/philosophy/052bc-de-legibus.tex
   english_file: english/philosophy/052bc-de-legibus.tex
@@ -10238,7 +10251,7 @@
   date: -0046-04-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi067/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi039/phi0474.phi039.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/brut.shtml
   latin_file: latin/rhetoric/046bc-brutus.tex
   english_file: english/rhetoric/046bc-brutus.tex
@@ -11944,7 +11957,7 @@
   date: -0046-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi069/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi041/phi0474.phi041.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/opt.gen.shtml
   latin_file: latin/rhetoric/046bc-de-optimo-genere-oratorum.tex
   english_file: english/rhetoric/046bc-de-optimo-genere-oratorum.tex
@@ -11958,7 +11971,7 @@
   date: -0046-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi076/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi047/phi0474.phi047.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/para.shtml
   latin_file: latin/philosophy/046bc-paradoxa-stoicorum.tex
   english_file: english/philosophy/046bc-paradoxa-stoicorum.tex
@@ -11972,7 +11985,7 @@
   date: -0046-09-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi068/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi040/phi0474.phi040.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/orator.shtml
   latin_file: latin/rhetoric/046bc-orator.tex
   english_file: english/rhetoric/046bc-orator.tex
@@ -11986,7 +11999,7 @@
   date: -0046-09-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi047/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi032/phi0474.phi032.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/marc.shtml
   latin_file: latin/speeches/046bc-pro-marcello.tex
   english_file: english/speeches/046bc-pro-marcello.tex
@@ -12000,7 +12013,7 @@
   date: -0046-11-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi048/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi033/phi0474.phi033.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/lig.shtml
   latin_file: latin/speeches/046bc-pro-ligario.tex
   english_file: english/speeches/046bc-pro-ligario.tex
@@ -12014,7 +12027,7 @@
   date: -0045-03-01
   date_precision: month
   location_written: Astura
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi077/
+  latin_source_url: null
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/consol.shtml
   latin_file: latin/philosophy/045bc-consolatio.tex
   english_file: english/philosophy/045bc-consolatio.tex
@@ -12029,7 +12042,7 @@
   date: -0045-05-01
   date_precision: month
   location_written: Tusculum / Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi079/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi045/phi0474.phi045.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/academ.shtml
   latin_file: latin/philosophy/045bc-academica.tex
   english_file: english/philosophy/045bc-academica.tex
@@ -12045,7 +12058,7 @@
   date: -0045-06-01
   date_precision: month
   location_written: Tusculum / Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi080/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi048/phi0474.phi048.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fin.shtml
   latin_file: latin/philosophy/045bc-de-finibus.tex
   english_file: english/philosophy/045bc-de-finibus.tex
@@ -12943,7 +12956,7 @@
   date: -0045-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi078/
+  latin_source_url: null
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/hort.shtml
   latin_file: latin/philosophy/045bc-hortensius.tex
   english_file: english/philosophy/045bc-hortensius.tex
@@ -12958,7 +12971,7 @@
   date: -0045-07-01
   date_precision: year
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi083/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi072/phi0474.phi072.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/timaeus.shtml
   latin_file: latin/philosophy/045bc-timaeus.tex
   english_file: english/philosophy/045bc-timaeus.tex
@@ -12972,7 +12985,7 @@
   date: -0045-08-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi082/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi050/phi0474.phi050.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/nd.shtml
   latin_file: latin/philosophy/045bc-de-natura-deorum.tex
   english_file: english/philosophy/045bc-de-natura-deorum.tex
@@ -12986,7 +12999,7 @@
   date: -0045-08-01
   date_precision: month
   location_written: Tusculum
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi081/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi049/phi0474.phi049.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/tusc.shtml
   latin_file: latin/philosophy/045bc-tusculanae-disputationes.tex
   english_file: english/philosophy/045bc-tusculanae-disputationes.tex
@@ -13001,7 +13014,7 @@
   date: -0045-11-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi049/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi034/phi0474.phi034.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/deio.shtml
   latin_file: latin/speeches/045bc-pro-rege-deiotaro.tex
   english_file: english/speeches/045bc-pro-rege-deiotaro.tex
@@ -13015,7 +13028,7 @@
   date: -0044-04-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi084/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi051/phi0474.phi051.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/senec.shtml
   latin_file: latin/philosophy/044bc-cato-maior-de-senectute.tex
   english_file: english/philosophy/044bc-cato-maior-de-senectute.tex
@@ -13029,7 +13042,7 @@
   date: -0044-04-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi085/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi053/phi0474.phi053.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/div.shtml
   latin_file: latin/philosophy/044bc-de-divinatione.tex
   english_file: english/philosophy/044bc-de-divinatione.tex
@@ -13044,7 +13057,7 @@
   date: -0044-05-01
   date_precision: month
   location_written: Puteoli
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi086/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi054/phi0474.phi054.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fato.shtml
   latin_file: latin/philosophy/044bc-de-fato.tex
   english_file: english/philosophy/044bc-de-fato.tex
@@ -15338,7 +15351,7 @@
   date: -0044-07-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi087/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi052/phi0474.phi052.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/amic.shtml
   latin_file: latin/philosophy/044bc-laelius-de-amicitia.tex
   english_file: english/philosophy/044bc-laelius-de-amicitia.tex
@@ -15352,7 +15365,7 @@
   date: -0044-07-01
   date_precision: month
   location_written: Rhegium / shipboard
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi070/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi042/phi0474.phi042.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/topica.shtml
   latin_file: latin/rhetoric/044bc-topica.tex
   english_file: english/rhetoric/044bc-topica.tex
@@ -15366,13 +15379,14 @@
   date: -0044-09-02
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi050/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil1.shtml
   latin_file: latin/speeches/044bc-philippic-1.tex
   english_file: english/speeches/044bc-philippic-1.tex
   headnote_file: headnotes/speeches/044bc-philippic-1.tex
   status: pending
   notes: Senate speech criticising Antony's measures since the Ides of March.
+  speech_index: '1'
 - id: philippic-2
   title_latin: Philippica II
   title_english: Second Philippic
@@ -15380,13 +15394,14 @@
   date: -0044-10-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi051/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil2.shtml
   latin_file: latin/speeches/044bc-philippic-2.tex
   english_file: english/speeches/044bc-philippic-2.tex
   headnote_file: headnotes/speeches/044bc-philippic-2.tex
   status: pending
   notes: Cicero's most famous invective; written and circulated in October–November 44 BC but never delivered.
+  speech_index: '2'
 - id: de-officiis
   title_latin: De Officiis
   title_english: On Duties
@@ -15394,7 +15409,7 @@
   date: -0044-11-01
   date_precision: month
   location_written: Puteoli / Tusculum
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi088/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi055/phi0474.phi055.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/off.shtml
   latin_file: latin/philosophy/044bc-de-officiis.tex
   english_file: english/philosophy/044bc-de-officiis.tex
@@ -15408,13 +15423,14 @@
   date: -0044-12-20
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi052/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil3.shtml
   latin_file: latin/speeches/044bc-philippic-3.tex
   english_file: english/speeches/044bc-philippic-3.tex
   headnote_file: headnotes/speeches/044bc-philippic-3.tex
   status: pending
   notes: Senate speech approving the resistance of Octavian and Decimus Brutus to Antony.
+  speech_index: '3'
 - id: philippic-4
   title_latin: Philippica IV
   title_english: Fourth Philippic
@@ -15422,13 +15438,14 @@
   date: -0044-12-20
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi053/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil4.shtml
   latin_file: latin/speeches/044bc-philippic-4.tex
   english_file: english/speeches/044bc-philippic-4.tex
   headnote_file: headnotes/speeches/044bc-philippic-4.tex
   status: pending
   notes: Speech to the people the same day as the Third Philippic.
+  speech_index: '4'
 - id: philippic-5
   title_latin: Philippica V
   title_english: Fifth Philippic
@@ -15436,13 +15453,14 @@
   date: -0043-01-01
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi054/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil5.shtml
   latin_file: latin/speeches/043bc-philippic-5.tex
   english_file: english/speeches/043bc-philippic-5.tex
   headnote_file: headnotes/speeches/043bc-philippic-5.tex
   status: pending
   notes: Senate speech against negotiation with Antony, urging war.
+  speech_index: '5'
 - id: philippic-7
   title_latin: Philippica VII
   title_english: Seventh Philippic
@@ -15450,13 +15468,14 @@
   date: -0043-01-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi056/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil7.shtml
   latin_file: latin/speeches/043bc-philippic-7.tex
   english_file: english/speeches/043bc-philippic-7.tex
   headnote_file: headnotes/speeches/043bc-philippic-7.tex
   status: pending
   notes: Senate speech in mid-January 43 BC against any peace with Antony.
+  speech_index: '7'
 - id: philippic-6
   title_latin: Philippica VI
   title_english: Sixth Philippic
@@ -15464,13 +15483,14 @@
   date: -0043-01-04
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi055/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil6.shtml
   latin_file: latin/speeches/043bc-philippic-6.tex
   english_file: english/speeches/043bc-philippic-6.tex
   headnote_file: headnotes/speeches/043bc-philippic-6.tex
   status: pending
   notes: Speech to the people reporting on the embassy to Antony.
+  speech_index: '6'
 - id: philippic-10
   title_latin: Philippica X
   title_english: Tenth Philippic
@@ -15478,13 +15498,14 @@
   date: -0043-02-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi059/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil10.shtml
   latin_file: latin/speeches/043bc-philippic-10.tex
   english_file: english/speeches/043bc-philippic-10.tex
   headnote_file: headnotes/speeches/043bc-philippic-10.tex
   status: pending
   notes: Senate speech in support of M. Brutus' command in Macedonia.
+  speech_index: '10'
 - id: philippic-8
   title_latin: Philippica VIII
   title_english: Eighth Philippic
@@ -15492,13 +15513,14 @@
   date: -0043-02-03
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi057/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil8.shtml
   latin_file: latin/speeches/043bc-philippic-8.tex
   english_file: english/speeches/043bc-philippic-8.tex
   headnote_file: headnotes/speeches/043bc-philippic-8.tex
   status: pending
   notes: Senate speech distinguishing between civil war and a war against a public enemy.
+  speech_index: '8'
 - id: philippic-9
   title_latin: Philippica IX
   title_english: Ninth Philippic
@@ -15506,13 +15528,14 @@
   date: -0043-02-04
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi058/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil9.shtml
   latin_file: latin/speeches/043bc-philippic-9.tex
   english_file: english/speeches/043bc-philippic-9.tex
   headnote_file: headnotes/speeches/043bc-philippic-9.tex
   status: pending
   notes: Senate speech proposing public honours for the slain ambassador Servius Sulpicius Rufus.
+  speech_index: '9'
 - id: philippic-11
   title_latin: Philippica XI
   title_english: Eleventh Philippic
@@ -15520,13 +15543,14 @@
   date: -0043-03-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi060/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil11.shtml
   latin_file: latin/speeches/043bc-philippic-11.tex
   english_file: english/speeches/043bc-philippic-11.tex
   headnote_file: headnotes/speeches/043bc-philippic-11.tex
   status: pending
   notes: Senate speech on the killing of Trebonius by Dolabella; proposes Cassius for a Syrian command.
+  speech_index: '11'
 - id: philippic-12
   title_latin: Philippica XII
   title_english: Twelfth Philippic
@@ -15534,13 +15558,14 @@
   date: -0043-03-01
   date_precision: month
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi061/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil12.shtml
   latin_file: latin/speeches/043bc-philippic-12.tex
   english_file: english/speeches/043bc-philippic-12.tex
   headnote_file: headnotes/speeches/043bc-philippic-12.tex
   status: pending
   notes: Senate speech withdrawing Cicero's earlier offer to serve on a second embassy to Antony.
+  speech_index: '12'
 - id: philippic-13
   title_latin: Philippica XIII
   title_english: Thirteenth Philippic
@@ -15548,13 +15573,14 @@
   date: -0043-03-20
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi062/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil13.shtml
   latin_file: latin/speeches/043bc-philippic-13.tex
   english_file: english/speeches/043bc-philippic-13.tex
   headnote_file: headnotes/speeches/043bc-philippic-13.tex
   status: pending
   notes: Senate speech responding line by line to a letter from Antony to Hirtius and Octavian.
+  speech_index: '13'
 - id: philippic-14
   title_latin: Philippica XIV
   title_english: Philippica XIV
@@ -15562,13 +15588,14 @@
   date: -0043-04-21
   date_precision: day
   location_written: Rome
-  latin_source_url: https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi063/
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/phil14.shtml
   latin_file: latin/speeches/043bc-philippic-14.tex
   english_file: english/speeches/043bc-philippic-14.tex
   headnote_file: headnotes/speeches/043bc-philippic-14.tex
   status: pending
   notes: Senate speech after the news of the victory at Forum Gallorum; the last surviving speech.
+  speech_index: '14'
 - id: ad-brutum-01-01
   title_latin: Ad M. Brutum 1.1
   title_english: Ad M. Brutum 1.1
