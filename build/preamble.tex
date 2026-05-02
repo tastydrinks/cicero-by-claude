@@ -77,6 +77,12 @@
 % citation parity.
 \newcommand{\ciceroSection}[1]{\textsuperscript{\textsf{\footnotesize #1}}\,}
 
+% \ciceroLetterOpener{salutation} prints the Latin/English salutation line
+% that opens a letter (e.g. "CICERO ATTICO salutem"), set in small caps on
+% its own line just under the dateline emitted by the ciceroletter
+% environment.
+\newcommand{\ciceroLetterOpener}[1]{\par\noindent\textsc{\small #1}\par\smallskip}
+
 % --- environments ---------------------------------------------------------
 % \begin{cicerowork}{id}{english title}{latin title}{date label}
 % Speeches, treatises, rhetorical works, fragments — full display.

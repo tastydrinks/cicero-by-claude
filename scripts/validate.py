@@ -123,6 +123,39 @@ def main() -> int:
         if rel not in seen_latin:
             warnings.append(f"orphan Latin file (not in works.yaml): {rel}")
 
+    # Chronological-gap check: every pending work that is dated earlier than
+    # the latest-dated `drafted` work means a future session should pick it
+    # up, not skip past it. This is here to prevent silent category-skipping
+    # of the kind that left letters un-translated for several sessions.
+    # Aratea (86 BC) and De Inventione (85 BC) are deliberately deferred and
+    # excluded from the check.
+    DEFERRED = {"aratea", "de-inventione"}
+    drafted = [w for w in works if w.get("status") in {"drafted", "reviewed", "final"}]
+    pending = [w for w in works if w.get("status") == "pending" and w.get("id") not in DEFERRED]
+    if drafted and pending:
+        try:
+            latest_drafted = max(drafted, key=lambda w: parse_date(w["date"]))
+            latest_drafted_key = parse_date(latest_drafted["date"])
+            earlier_pending = [
+                w for w in pending if parse_date(w["date"]) < latest_drafted_key
+            ]
+            if earlier_pending:
+                # Show a representative sample, not all of them.
+                warnings.append(
+                    f"chronological gap: {len(earlier_pending)} pending work(s) dated "
+                    f"earlier than the latest drafted work "
+                    f"({latest_drafted['id']}, {latest_drafted['date']})"
+                )
+                for w in earlier_pending[:5]:
+                    warnings.append(
+                        f"  earlier-pending: {w['date']} {w['category']:9s} {w['id']}"
+                    )
+                if len(earlier_pending) > 5:
+                    warnings.append(f"  ... and {len(earlier_pending) - 5} more")
+        except Exception:
+            # Defensive: don't fail validation if dates are mid-edit
+            pass
+
     if warnings:
         for w in warnings:
             print(f"warning: {w}")

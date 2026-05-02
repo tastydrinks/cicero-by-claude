@@ -191,7 +191,8 @@ def parse_perseus_tei(xml_text: str, speech_index: str | None = None) -> str:
     if speech_index is not None:
         # speech_index can be either a single value (legacy: a "speech"
         # subtype within a bundle) or a path-string of "subtype:n[,subtype:n]*"
-        # for nested descent (e.g. "actio:2,book:5" for Verr II.5).
+        # for nested descent (e.g. "actio:2,book:5" for Verr II.5,
+        # "book:1,letter:5" for Att 1.5).
         idx = str(speech_index)
         if ":" in idx:
             steps = [s.split(":") for s in idx.split(",")]
@@ -206,8 +207,18 @@ def parse_perseus_tei(xml_text: str, speech_index: str | None = None) -> str:
                 "div",
                 attrs={"type": "textpart", "subtype": subtype, "n": str(n)},
             )
+            # Case-insensitive fallback: TEI for Fam/QFr/Brut uses "Book",
+            # for Att uses "book"; same letter corpora carry consistent
+            # internal casing but a single config key shouldn't have to know.
             if child is None:
-                # Fallback: if "speech" not found, try "actio" at this level.
+                alt = subtype[0].swapcase() + subtype[1:]
+                if alt != subtype:
+                    child = last_root.find(
+                        "div",
+                        attrs={"type": "textpart", "subtype": alt, "n": str(n)},
+                    )
+            if child is None:
+                # Speech-bundle legacy fallback: speech↔actio.
                 if subtype == "speech":
                     child = last_root.find(
                         "div",
@@ -238,6 +249,25 @@ def parse_perseus_tei(xml_text: str, speech_index: str | None = None) -> str:
             for tag in root.find_all(tag_name):
                 tag.decompose()
 
+    pieces: list[str] = []
+
+    # Letter opener: in the Att/Fam/QFr/Brut TEI each <div subtype="letter">
+    # carries a <label rend="opener"> with a dateline seg ("Scr. Romae m.
+    # Quint. a. 689 (65)") and a salute seg ("CICERO ATTICO salutem").
+    # The dateline goes to a comment header so the translator has the
+    # editorial date in front of them; the salute is rendered as the
+    # opening section so it lands inside the letter body.
+    opener = root.find("label", attrs={"rend": "opener"}, recursive=False)
+    dateline_text = ""
+    salute_text = ""
+    if opener is not None:
+        dl = opener.find(attrs={"rend": "dateline"})
+        sl = opener.find(attrs={"rend": "salute"})
+        if dl is not None:
+            dateline_text = re.sub(r"\s+", " ", dl.get_text(" ", strip=True))
+        if sl is not None:
+            salute_text = re.sub(r"\s+", " ", sl.get_text(" ", strip=True))
+
     sections = root.find_all(
         "div", attrs={"type": "textpart", "subtype": "section"}
     )
@@ -245,7 +275,10 @@ def parse_perseus_tei(xml_text: str, speech_index: str | None = None) -> str:
         # Some files have only chapter divisions or flat <p> children.
         sections = []
 
-    pieces: list[str] = []
+    if salute_text:
+        # Salute lives at the head of section 1 in our convention.
+        pieces.append(f"\\ciceroLetterOpener{{{salute_text}}}")
+
     if sections:
         for sec in sections:
             n = sec.get("n", "?")
@@ -269,6 +302,11 @@ def parse_perseus_tei(xml_text: str, speech_index: str | None = None) -> str:
     # inside section text after get_text; harmless but redundant).
     body_text = body_text.replace("“", "``").replace("”", "''")
     body_text = body_text.replace("‘", "`").replace("’", "'")
+
+    # If a letter dateline was extracted, surface it as a comment header
+    # so the translator can see Perseus's editorial dating at a glance.
+    if dateline_text:
+        body_text = f"% Dateline (Perseus): {dateline_text}\n\n" + body_text
     return body_text + "\n"
 
 

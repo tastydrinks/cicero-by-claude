@@ -6,29 +6,56 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 24 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
-  (80 BC), *Pro Roscio Comoedo* (~76 BC), *Pro Tullio* (71 BC),
-  *Divinatio in Caecilium* (Jan 70 BC), *In Verrem Actio Prima*
-  (5 Aug 70 BC), the entire five-book Actio Secunda (I-V; autumn 70
-  BC), *Pro Caecina* (69 BC), *Pro Fonteio* (69 BC), *Pro Lege
-  Manilia* (66 BC), *Pro Cluentio* (66 BC, the longest forensic
-  speech in the corpus), and the entire 63 BC consular corpus ---
-  the three surviving *De Lege Agraria* (January 63 BC), *Pro
-  Rabirio Perduellionis Reo* (early 63 BC), the four
-  *Catilinarians* (8 Nov - 5 Dec 63 BC), and *Pro Murena*
-  (late November 63 BC). All awaiting human review.
-- **In progress**: none.
+- **Drafted**: 26 speeches end-to-end --- *Pro Quinctio* (81 BC),
+  *Pro Roscio Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
+  *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
+  *In Verrem Actio Prima* (5 Aug 70 BC), the entire five-book
+  *Actio Secunda* (I--V; autumn 70 BC), *Pro Caecina* (69 BC),
+  *Pro Fonteio* (69 BC), *Pro Lege Manilia* (66 BC), *Pro
+  Cluentio* (66 BC, the longest forensic speech in the corpus),
+  the entire 63 BC consular corpus --- *Pro Rabirio Perduellionis
+  Reo*, the three surviving *De Lege Agraria*, the four
+  *Catilinarians*, and *Pro Murena* --- and the two 62 BC
+  defences, *Pro Sulla* (mid-62 BC) and *Pro Archia* (summer 62
+  BC). *Pro Flacco* (59 BC) is partly drafted: sections 1--5
+  plus the Bobiensian fragments are committed; sections 6--106
+  remain.
+- **In progress**: *Pro Flacco* (59 BC), parked at section 5
+  pending the chronological catch-up of the letters.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 932 entries --- *Pro Sulla* (62 BC), *Pro Archia*
-  (62 BC), *Pro Flacco* (59 BC), the rest of the speeches of the
-  50s and 40s, the 14 Philippics, the 7 rhetorical works, the 17
-  philosophical / poetic works (including *Aratea* (86 BC) and
-  *De Inventione* (85 BC) which precede *Pro Quinctio* and were
-  skipped because *Pro Quinctio* was the agreed test case), and
-  the full letter corpus (873 letters organised by traditional
-  book.letter numbering across Ad Atticum, Ad Familiares, Ad
-  Quintum Fratrem, Ad M. Brutum).
+- **Pending**: 930 entries.
+
+### The chronological situation, plainly stated
+
+The 26 drafted speeches are in correct relative order **among
+themselves**, but the previous three sessions translated only
+speeches; **letters, philosophical works, and rhetorical works
+were skipped over silently** in the chronological sweep. As of
+the dating refresh that produced this section, the chronology
+across all four categories looks like this:
+
+  * 873 letters, all dated against Perseus's TEI ``<date when=...>``
+    attributes and dateline parsing (Roman calendar phrases:
+    ``Kal.``/``Non.``/``Id.``, ``a. d. III Kal. Mart.``, ``prid.
+    Kal. Iun.``, etc.); 548 of 863 parseable letters (~64%) now
+    carry day precision, ~15% month precision, ~18% year-only;
+    41 letters had no Perseus dateline and remain at year
+    precision. URLs repointed to Perseus
+    ``canonical-latinLit`` (phi056/057/058/059) with Latin
+    Library as fallback per book.
+  * 25 philosophy and rhetoric works similarly. URLs repointed to
+    the correct phi numbers (phi036--055, plus phi072 for
+    *Timaeus*); five remain ``no_perseus`` (Aratea, De Consulatu
+    Suo, De Temporibus Suis, Hortensius, Consolatio); De Legibus
+    is at the Latin Library only.
+  * 32 pending speeches dated as before.
+
+The earliest pending work in the corpus is now *ad-atticum-01-06*
+(15 January 67 BC). Everything in 67 BC, 66 BC, 65 BC, 62 BC, 61
+BC, and 60 BC that is **letters or philosophy/rhetoric** sits in
+the gap between drafted speeches and the resume point, and must
+be translated in date order, not skipped past.
 
 ## Milestones
 
@@ -137,15 +164,22 @@ as milestones are reached.
 
 ## Known follow-ups
 
-- Letter dating refinement: dates for the ~870 letters are at book-level
-  precision and should be tightened against Shackleton Bailey's commentary.
-- Five fragmentary works are flagged `no_perseus` because they are not in
-  the Perseus / canonical-latinLit GitHub corpus: Aratea, De Consulatu Suo,
-  De Temporibus Suis, Hortensius, Consolatio. These will need a manual
-  Latin source.
+- Letter dating refinement: dates have been pulled from Perseus's TEI
+  ``<seg rend="dateline">`` text and parsed via `scripts/refresh_letter_dates.py`.
+  548 / 863 letters carry day precision, ~15% month, the rest year. A
+  later editorial pass against Shackleton Bailey can tighten the year-only
+  ones. Re-running the script is idempotent (Perseus's metadata doesn't
+  change unless the corpus is updated).
+- Six works lack a Perseus source: Aratea, De Consulatu Suo, De
+  Temporibus Suis, Hortensius, Consolatio (all fragmentary), and De
+  Legibus (whole; only at thelatinlibrary.com). When the chronology
+  reaches one of these, the Latin source must be supplied manually.
 - The `In Verrem` Actio Secunda books, Catilinarians, Philippics, and
   Agrarians share a single Perseus XML file each; `fetch_latin.py` selects
-  individual speeches via the `speech_index` field on each entry.
+  individual speeches via the `speech_index` field on each entry. The
+  same mechanism is now used for letters: each letter entry carries a
+  ``speech_index: book:N,letter:M`` pointer into the corresponding letter
+  corpus.
 
 ## Working order
 
@@ -166,46 +200,89 @@ session can `continue` and apply them without re-asking:
 
 - **Continuous mode.** Translate forward chronologically without pausing
   for per-work approval. Commit and push per finished work; for long works,
-  commit at section boundaries (~30-50 sections) so progress is durable.
+  commit at section boundaries (~30--50 sections) so progress is durable.
+- **Chronologically next means across all categories.** "The next pending
+  work" is the chronologically earliest entry in `meta/works.yaml` whose
+  status is `pending`, regardless of category. Letters, speeches,
+  philosophical works, and rhetorical works all interleave by date. The
+  previous practice of advancing through speeches alone is **explicitly
+  retired**, and `scripts/validate.py` carries a chronological-gap warning
+  that fires whenever any pending work is dated earlier than the latest
+  drafted work --- run it at the start and end of every session.
 - **Batch shape.** Adaptive --- whichever comes first: end of work, or
-  ~30-50 sections. Short works finish in one batch; long works are split
-  at section boundaries.
+  ~30--50 sections. Short works (letters, especially) finish in one batch;
+  long works are split at section boundaries.
 - **Timeout discipline.** Write each long translation in halves and commit
   between halves, so an Anthropic API stream timeout costs at most half a
   chunk. Latin-source files are committed before translation begins.
+- **Letters** use the `\begin{ciceroletter}` LaTeX environment (which the
+  assemble script already wires up); the dateline goes in italic small
+  caps above the body. The Perseus-extracted dateline is preserved as a
+  `% Dateline (Perseus): ...` comment at the top of the Latin file;
+  `\ciceroLetterOpener{salute}` carries the Latin salutation (e.g.
+  `CICERO ATTICO salutem`) into the head of section 1.
 - **Aratea (86 BC) and De Inventione (85 BC) deferred.** They precede
   *Pro Quinctio* chronologically but were skipped because *Pro Quinctio*
   was the agreed test case. Treat them as a deliberate later-pass; do not
   circle back at the start of a continuation. The chronology re-sorts
-  correctly at build time once they are translated.
+  correctly at build time once they are translated. The validator
+  excludes them from the chronological-gap warning.
+- **No-Perseus works.** Five works lack a Perseus source (Aratea,
+  De Consulatu Suo, De Temporibus Suis, Hortensius, Consolatio); De
+  Legibus is at the Latin Library only. When the chronology reaches one
+  of these, the Latin source must be supplied manually before the
+  translation pass.
 - **Translator's voice.** Strict adherence to `STYLE.md`. The collaborator's
   name is **Alexander Woods** (never abbreviated). The front-matter note
   *Why this exists* is Alexander's words and should not be edited.
 - **What "done" looks like for a single work.** Latin file fetched and
   committed; English file translated end-to-end against the Latin (not
   another translation); headnote written; `status` flipped to `drafted`
-  in `meta/works.yaml`; `PROGRESS.md` updated; PDF rebuilt; commit and
-  push.
+  in `meta/works.yaml`; `PROGRESS.md` updated; build pipeline run
+  (`scripts/validate.py`, `scripts/build_manifest.py`,
+  `scripts/assemble_book.py`); commit and push.
 
 ## Where to resume now
 
-The current resume point is ***Pro Sulla*** (62 BC), the
-defence of P. Cornelius Sulla (nephew of the dictator) on a
-charge of involvement in the Catilinarian conspiracy --- a
-case in which Cicero himself, having executed the conspirators
-of December 63, must distinguish a man whose case is
-defensible from those whose was not. Forward from there to
-***Pro Archia*** (62 BC, on the citizenship of the poet Archias
-of Antioch, the famous defence of letters); ***Pro Flacco***
-(59 BC); the speeches of the 50s --- ***Pro Sestio***, ***In
-Vatinium***, ***De Provinciis Consularibus***, ***Pro
-Caelio***, ***De Domo Sua***, ***De Haruspicum Responso***,
-***Pro Plancio***, ***Pro Rabirio Postumo***, ***Pro
-Milone***, ***Pro Marcello***, ***Pro Ligario***, ***Pro Rege
-Deiotaro*** --- the 14 ***Philippics*** of 44--43, and the
-philosophical and rhetorical works that begin to be drafted in
-earnest in the 50s and pour out in the 40s, with the letters
-interleaved throughout.
+The current resume point is ***Ad Atticum 1.6*** (15 January 67
+BC), Cicero in his praetor-elect year writing to Atticus at
+Athens. Forward from there in strict chronological order across
+all categories (letters, speeches, philosophy, rhetoric):
+
+- **67--62 BC** --- the early Atticus letters (Att 1.5--1.11
+  plus 1.1--1.4, in date order, not manuscript order: Perseus's
+  dateline parsing has rearranged them) interleave with the
+  drafted speeches *Pro Lege Manilia* (66 BC), *Pro Cluentio*
+  (66 BC), the four 63 BC consular speeches, *Pro Murena*
+  (Nov 63 BC), *Pro Sulla* (mid-62 BC), *Pro Archia* (summer
+  62 BC). The drafted speeches keep their `drafted` status; the
+  letters of those years fill in the gaps.
+- **61--58 BC** --- the body of *Ad Atticum* book 1 closing,
+  *Ad Atticum* book 2 (the Bona Dea letters, the Vettius
+  affair, the gathering crisis of 59 BC), the bulk of Cicero's
+  exile correspondence in 58 BC. *Pro Flacco* (mid-59 BC)
+  resumes from section 6 when its date is reached.
+- **57--52 BC** --- the post-exile speeches *Pro Sestio*, *In
+  Vatinium*, *De Provinciis Consularibus*, *Pro Caelio*, *De
+  Domo Sua*, *De Haruspicum Responso*, *Pro Plancio*, *Pro
+  Rabirio Postumo*, *Pro Milone*, with *De Oratore* (55 BC),
+  *De Re Publica* (54 BC), *De Legibus* (52 BC) and the great
+  triple letter book of 54 BC interleaved.
+- **51--47 BC** --- the Cilician proconsulship and the civil
+  war, with *Ad Familiares* and *Ad Atticum* and *Ad Quintum
+  Fratrem* dense throughout.
+- **46--43 BC** --- the philosophical torrent (*Brutus*,
+  *Orator*, *Academica*, *De Finibus*, *Tusculanae*, *De
+  Natura Deorum*, *De Divinatione*, *De Senectute*, *De
+  Amicitia*, *De Officiis*), the late forensic speeches (*Pro
+  Marcello*, *Pro Ligario*, *Pro Rege Deiotaro*), the 14
+  *Philippics*, and the dense final-year letters of 44--43 BC,
+  closing on *Ad M. Brutum* and Cicero's death at Formiae in
+  December 43 BC.
+
+Run `scripts/validate.py` at the start of each session: a
+non-zero count of "earlier-pending" warnings means the
+chronological sweep has skipped something and must double back.
 
 ## Generated index
 
