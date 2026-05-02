@@ -121,17 +121,15 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The current resume point is **Pro Cluentio (66 BC), section 1**
---- the longest of all Cicero's forensic speeches at 202
-sections: the defence of Aulus Cluentius Habitus on charges
-arising from the prosecution of his stepfather Oppianicus eight
-years earlier (which Cicero argues had been a notoriously corrupt
-trial, but in the wrong direction: Oppianicus had bribed first,
-and Cluentius was being tried for poisoning him). Beware the
-length; split at section boundaries (\textasciitilde 30-40
-sections per commit) per the timeout discipline below. After Pro
-Cluentio: the Agrarians (63 BC), the Catilinarians, *Pro Murena*,
-and forward through the 60s.
+**Pro Cluentio (66 BC) is in progress at section 47 of 202** ---
+sections 1-47 drafted in the second continuous session. The
+narrative is now at the moment Habitus and Cleophantus catch
+Scamander with the sealed money for the poisoning. Resume at
+section 48. The whole speech is the longest of Cicero's forensic
+speeches; complete it, write the headnote, flip status to
+`drafted`, regenerate manifest. After Pro Cluentio: the Agrarians
+(63 BC), the Catilinarians, *Pro Murena*, and forward through the
+60s.
 
 ## Generated index
 
