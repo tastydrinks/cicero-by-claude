@@ -653,7 +653,7 @@
   title_latin: Pro C. Rabirio Perduellionis Reo
   title_english: For Gaius Rabirius on a Charge of High Treason
   category: speeches
-  date: -0063-07-01
+  date: -0063-03-01
   date_precision: year
   location_written: Rome
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi012/phi0474.phi012.perseus-lat2.xml
@@ -661,7 +661,7 @@
   latin_file: latin/speeches/063bc-pro-rabirio-perduellionis.tex
   english_file: english/speeches/063bc-pro-rabirio-perduellionis.tex
   headnote_file: headnotes/speeches/063bc-pro-rabirio-perduellionis.tex
-  status: pending
+  status: drafted
   notes: Defence of the aged Rabirius prosecuted by Labienus for the killing of Saturninus in 100 BC.
 - id: pro-murena
   title_latin: Pro L. Murena
