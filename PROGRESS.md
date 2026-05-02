@@ -6,14 +6,18 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 2 works --- *Pro Quinctio* (81 BC) and *Pro Roscio Amerino*
-  (80 BC). Both awaiting human review.
+- **Drafted**: 3 works --- *Pro Quinctio* (81 BC), *Pro Roscio Amerino*
+  (80 BC), and *Pro Roscio Comoedo* (~76 BC, fragmentary). All awaiting
+  human review.
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 954 entries --- the remaining 56 speeches, 7 rhetorical works,
-  17 philosophical / poetic works, and the full letter corpus (873 letters
-  organised by traditional book.letter numbering across Ad Atticum, Ad
-  Familiares, Ad Quintum Fratrem, Ad M. Brutum).
+- **Pending**: 953 entries --- the remaining 55 speeches, 7 rhetorical works,
+  17 philosophical / poetic works (including *Aratea* (86 BC) and *De
+  Inventione* (85 BC), which precede *Pro Quinctio* chronologically and
+  were skipped because *Pro Quinctio* was the agreed test case), and the
+  full letter corpus (873 letters organised by traditional book.letter
+  numbering across Ad Atticum, Ad Familiares, Ad Quintum Fratrem, Ad
+  M. Brutum).
 
 ## Milestones
 
