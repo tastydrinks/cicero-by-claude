@@ -6,7 +6,7 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 137 works end-to-end across all categories.
+- **Drafted**: 147 works end-to-end across all categories.
   - **Speeches (30)**: *Pro Quinctio* (81 BC), *Pro Roscio
     Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
     *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
@@ -55,7 +55,7 @@ as milestones are reached.
     opening Q.fr. book 2).
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 822 entries.
+- **Pending**: 812 entries.
 
 ### The chronological situation
 
@@ -384,17 +384,50 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The chronology is clean through mid-March 56 BC. The fifth
-continuous session drafted the early-56 BC dense political
-sequence of letters and \textit{Pro Sestio}: \textit{Fam.}
-1.1 (13 Jan), 1.3 (mid-Jan), 1.2 (17 Jan), 1.4 (~18 Jan),
-\textit{Q. fr.} 2.2 (19 Jan), \textit{Att.} 4.4 (30 Jan),
-\textit{Fam.} 1.5a (~5 Feb), 1.5b (~10 Feb), \textit{Q. fr.}
-2.3 (12--15 Feb), \textit{Q. fr.} 2.4 (mid-March, after the
-11 March Sestius acquittal), and \textit{Pro Sestio} itself
-(March 56, the great political defence with the
-\textit{cum dignitate otium} digression at \textsection 96--143
-and the optimate-front high-water mark of the year).
+A parallel-assignment session drafted ten letters scattered
+across the long pendents in the middle of 56 BC and the
+spring of 55 BC: the recommendation letters \textit{Fam.}
+13.51 (P. Caesius, undated placeholder), 13.6 (Q. Valerius
+Orca, propraetor of Africa, late 56), and \textit{Fam.} 5.3
+(Q. Metellus Nepos to Cicero from Hither Spain, late 56);
+\textit{Fam.} 7.3 (M. Marius --- the post-Pharsalus
+retrospective of summer 46 BC, sitting in the manifest as a
+56 BC placeholder pending the date correction; \textit{vir
+ille summus nullus imperator fuit}); \textit{Fam.} 1.8 (the
+last Lentulus Spinther letter of January 55, the open
+acknowledgement that politics is now Pompey's and study is
+the consolation); \textit{Fam.} 16.13 (Cicero to Tiro from
+Cumae, 10 April --- the first surviving Tiro letter, the
+manifest 55 BC year likely to need correction to 53 BC);
+\textit{Q. fr.} 2.7 (mid-Feb 55, the night call on Pompey,
+the consul-Crassus-from-Senate-to-house escort, the bribery
+SC); and three Cumae-bay Atticus letters of late April /
+early May 55 (\textit{Att.} 4.9 from Naples on Pompey's
+\textit{Hispaniam iactans}; \textit{Att.} 4.10 from Cumae
+with the famous chair-under-Aristotle preference for
+Atticus's study over the consuls' sella curulis;
+\textit{Att.} 4.11 with the gladiator joke and the Greek
+\textit{ouden} on news from Rome). The corpus-wide sidecars
+gained 31 new entities (the post-Pharsalus retrospective
+brought in Lentulus Crus, C. Marcellus, and Juba; the Tiro
+letter brought in Tiro and Menander; the Cumae letters
+brought in Faustus, Aristotle, Philotimus, Dionysius, the
+two Demetrii, M. Valerius Messalla Rufus, L. Papirius Paetus,
+and the cluster of bay-of-Naples places).
+
+The previous resume pointer --- the chronology is clean
+through mid-March 56 BC --- still stands for chronological
+sweep work. The fifth continuous session drafted the early-56
+BC dense political sequence of letters and \textit{Pro
+Sestio}: \textit{Fam.} 1.1 (13 Jan), 1.3 (mid-Jan), 1.2
+(17 Jan), 1.4 (~18 Jan), \textit{Q. fr.} 2.2 (19 Jan),
+\textit{Att.} 4.4 (30 Jan), \textit{Fam.} 1.5a (~5 Feb),
+1.5b (~10 Feb), \textit{Q. fr.} 2.3 (12--15 Feb),
+\textit{Q. fr.} 2.4 (mid-March, after the 11 March Sestius
+acquittal), and \textit{Pro Sestio} itself (March 56, the
+great political defence with the \textit{cum dignitate
+otium} digression at \textsection 96--143 and the
+optimate-front high-water mark of the year).
 This session also did the metadata cleanup: Fam. 1.5 split
 into 1.5a + 1.5b per Perseus's manuscript division (the
 previous single entry had the wrong Latin Library URL and
