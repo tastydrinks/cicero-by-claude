@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-13",
+  "mentions": [
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "Tiro", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Menandri", "entity_id": "person:menander-slave", "in": "lat"},
+    {"loc": "1", "surface": "Menander", "entity_id": "person:menander-slave", "in": "eng"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-07",
+  "refs": [
+    {
+      "from_loc": "1",
+      "to_work": "de-temporibus-suis",
+      "to_loc": "3",
+      "kind": "self_reference",
+      "certainty": "medium",
+      "note": "Quintus has just received a book of Cicero's; the reference to Urania and to a closing speech of Jupiter is most naturally taken as the third book of De Temporibus Suis, the autobiographical poem on the exile and recall (cf. Att. 2.3 for Urania at the end of De Consulatu Suo book 2)."
+    }
+  ]
+}

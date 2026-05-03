@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Tiro",
+      "entity_id": "person:tiro",
+      "note": "Marcus Tullius Tiro: Cicero's slave, manumitted around 53 BC, secretary, literary collaborator, and lifelong intimate. The recipient of all letters in Ad Familiares book 16."
+    },
+    {
+      "loc": "1",
+      "anchor": "if you love me",
+      "entity_id": null,
+      "note": "Si me diligis: a recurring formula in the Tiro letters --- the household imperative, much warmer than its surface and used for things that matter most."
+    },
+    {
+      "loc": "1",
+      "anchor": "fourth day before the Ides of April",
+      "entity_id": null,
+      "note": "10 April. The Ides of April fall on the 13th; Romans counted backwards inclusively from the named day."
+    }
+  ]
+}
