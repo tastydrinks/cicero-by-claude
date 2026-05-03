@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Urania",
+      "entity_id": "god:urania",
+      "note": "The Muse of astronomy, Cicero's interlocutor in book 2 of his consular poem De Consulatu Suo (60 BC) and probably in De Temporibus Suis (the lost autobiographical poem on his exile and recall, the third book of which Marcus has just sent to Quintus)."
+    },
+    {
+      "loc": "2",
+      "anchor": "free legation",
+      "entity_id": null,
+      "note": "Legatio libera: a senatorial commission allowing a man to travel abroad on official business of his own choosing, with the standing and supplies of an envoy. The Clodian variants here --- a free legation, or one to Byzantium, or one to Brogitarus --- were lucrative because the addressee city or king paid the bill."
+    },
+    {
+      "loc": "2",
+      "anchor": "Brogitarus",
+      "entity_id": "person:brogitarus",
+      "note": "Tetrarch of the Trocmi (Galatia) and son-in-law of Deiotarus; bought the priesthood of Cybele at Pessinus in 58 BC under a Clodian law. The Clodian connection persisted."
+    },
+    {
+      "loc": "3",
+      "anchor": "third day before the Ides of February",
+      "entity_id": null,
+      "note": "11 February. The decree concerned the bribery courts; the rider Cato pressed --- that praetors stand sixty days as private citizens before assuming office --- would have curtailed the consuls' management of the elections."
+    }
+  ]
+}
