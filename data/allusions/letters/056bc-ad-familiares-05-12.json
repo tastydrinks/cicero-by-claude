@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-12",
+  "allusions": [
+    {"loc": "3", "surface": "Herculem Xenophontium illum a voluptate", "suspected_source": "Xenophon, Memorabilia 2.1.21--34 (the choice of Heracles, attributed to Prodicus)", "kind": "reference", "certainty": "high", "translator_note": "Cicero's standard way of referring to the Choice of Heracles in Xenophon's Memorabilia. The story is treated more fully at De Officiis 1.118."},
+    {"loc": "5", "surface": "ille moriens apud Mantineam Epaminondas", "suspected_source": "Cornelius Nepos, Epaminondas 9 (or a common Hellenistic source)", "kind": "reference", "certainty": "high", "translator_note": "The dying Epaminondas at Mantinea (362 BC); the spear-point and the rescued shield were a stock pathetic exemplum."},
+    {"loc": "5", "surface": "Themistocli fuga redituque", "suspected_source": "Thucydides 1.135--138, Herodotus 8 passim", "kind": "reference", "certainty": "high", "translator_note": "The flight of Themistocles from Athens and his reception by the Persian king is the type of the great-career-of-doubtful-fortune."},
+    {"loc": "7", "surface": "Alexander ab Homero Achilli tributum", "suspected_source": "Plutarch, Alexander 15 (a common Hellenistic source)", "kind": "reference", "certainty": "high", "translator_note": "Alexander at the supposed tomb of Achilles at Sigeum: ``fortunate Achilles to have had such a herald of his glory.'' The classic Hellenistic statement of the dependence of fame on the praiser."},
+    {"loc": "7", "surface": "Hector ille mihi Naevianus, qui non tantum 'laudari' se laetatur, sed addit etiam 'a laudato viro.'", "suspected_source": "Cn. Naevius, Hector profiscens (Ribbeck ROL fr. 17)", "kind": "quotation", "certainty": "high", "translator_note": "The Naevian fragment laetus sum laudari me abs te, pater, a laudato viro, addressed by Hector to Priam (or by Astyanax to Hector). A favourite tag of Cicero's, used here at climactic position; quoted again in Tusc. 4.67 and elsewhere."}
+  ]
+}
