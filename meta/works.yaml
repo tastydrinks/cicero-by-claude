@@ -1995,11 +1995,11 @@
   title_latin: Ad Atticum 3.17
   title_english: Ad Atticum 3.17
   category: letters
-  date: -0058-07-01
-  date_precision: year_range
-  location_written: null
-  recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/att3.shtml
+  date: -0058-09-04
+  date_precision: day
+  location_written: Thessalonicae
+  recipient: ATTICO
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att3.shtml
   latin_file: latin/letters/058bc-ad-atticum-03-17.tex
   english_file: english/letters/058bc-ad-atticum-03-17.tex
@@ -2008,6 +2008,7 @@
   notes: 'Exile correspondence: April 58 BC to August 57 BC. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0057-12-31
+  speech_index: book:3,letter:17
 - id: ad-atticum-03-18
   title_latin: Ad Atticum 3.18
   title_english: Ad Atticum 3.18
@@ -2192,15 +2193,15 @@
   title_latin: Ad Familiares 14.1
   title_english: Ad Familiares 14.1
   category: letters
-  date: -0048-11-26
+  date: -0058-11-25
   date_precision: day
   location_written: Dyrrhachi
   recipient: TVLLIVS TERENTIAE SVAE, TVLLIOLAE SVAE, CICERONI SVO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam14.shtml
-  latin_file: latin/letters/048bc-ad-familiares-14-01.tex
-  english_file: english/letters/048bc-ad-familiares-14-01.tex
-  headnote_file: headnotes/letters/048bc-ad-familiares-14-01.tex
+  latin_file: latin/letters/058bc-ad-familiares-14-01.tex
+  english_file: english/letters/058bc-ad-familiares-14-01.tex
+  headnote_file: headnotes/letters/058bc-ad-familiares-14-01.tex
   status: pending
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
