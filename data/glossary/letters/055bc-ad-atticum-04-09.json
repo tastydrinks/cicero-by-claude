@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "spoiling its days",
+      "entity_id": null,
+      "note": "Diebus vitiandis: by religiously declaring an unfavourable omen on the day of an assembly, a magistrate could prevent business; an obstructionist tactic available to tribunes."
+    },
+    {
+      "loc": "1",
+      "anchor": "Spain",
+      "entity_id": "place:hispania",
+      "note": "Under the lex Trebonia of February 55 BC, Pompey received both Spanish provinces for five years, Crassus Syria. Pompey is here scornful of Syria (Crassus's portion) and blusters about Spain (his own)."
+    },
+    {
+      "loc": "1",
+      "anchor": "Messalla",
+      "entity_id": "person:m-valerius-messalla-rufus",
+      "note": "Marcus Valerius Messalla Rufus, augur and consul of 53 BC. The candidacy here is for the elections of summer 55 for 53; Pompey is supposed to be obstructing it."
+    },
+    {
+      "loc": "2",
+      "anchor": "his sweet little Cicero",
+      "entity_id": "person:q-cicero-younger",
+      "note": "Quintus's son Quintus, a small boy in 55 BC, in Atticus's care while his father is in Sardinia."
+    }
+  ]
+}

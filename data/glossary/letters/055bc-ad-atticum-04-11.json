@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Alban villa",
+      "entity_id": "place:mons-albanus",
+      "note": "Pompey's estate in the Alban Hills, south of Rome; one of his favoured residences when not at the city or his Cumae villa."
+    },
+    {
+      "loc": "1",
+      "anchor": "tax-farmers",
+      "entity_id": null,
+      "note": "Publicani: equestrian companies that bought from the censors the right to collect Rome's taxes. Crassus was their patron in the Senate; the consular pair settling the books in person is a sign of how the joint consulship was run."
+    },
+    {
+      "loc": "1",
+      "anchor": "the gladiators",
+      "entity_id": null,
+      "note": "Most likely the games associated with the dedication of Pompey's theatre and the temple of Venus Victrix in 55 BC --- the first stone theatre in Rome --- though the date of dedication itself is debated."
+    },
+    {
+      "loc": "2",
+      "anchor": "Dionysius",
+      "entity_id": "person:m-pomponius-dionysius",
+      "note": "Marcus Pomponius Dionysius, freedman of Atticus and tutor to the young Cicero and Quintus; here Cicero's reading-companion at Cumae."
+    },
+    {
+      "loc": "2",
+      "anchor": "your Appulean lady the people",
+      "entity_id": null,
+      "note": "Illa populi Appuleia: a play on the gens Appuleia and the populus Romanus --- jocular shorthand for the Clodian/Appian rabble Atticus deals with in Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "Demetrius of Magnesia",
+      "entity_id": "person:demetrius-magnes",
+      "note": "Greek polymath and writer of biographical and bibliographical works; here a slave or freedman bearing the name, sent as a courier so that Atticus will always have a man at hand to bring back letters."
+    }
+  ]
+}

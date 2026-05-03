@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Ptolemy",
+      "entity_id": "person:ptolemy-xii-auletes",
+      "note": "Ptolemy XII Neos Dionysos, called Auletes (the Flute-Player), king of Egypt; expelled by an Alexandrian uprising in 58 BC, after long lobbying restored to his throne by A. Gabinius's army from Syria in spring 55 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "Faustus's library",
+      "entity_id": "person:faustus-sulla",
+      "note": "Faustus Cornelius Sulla, son of the dictator (born 86 BC, husband of Pompey's daughter); his Cumae villa held a notable library, perhaps drawing on his father's collection."
+    },
+    {
+      "loc": "1",
+      "anchor": "curule chair",
+      "entity_id": null,
+      "note": "Sella curulis: the ivory-inlaid magistrate's seat, the visible insignia of higher imperium. ``Those gentlemen'' are the consuls --- Pompey and Crassus."
+    },
+    {
+      "loc": "2",
+      "anchor": "Laconian",
+      "entity_id": null,
+      "note": "Laconicum: a sweat-room in Spartan style, the dry-heat chamber of a Roman bath suite. The Cyrean works are after Cyrus, the architect Atticus and Cicero kept on the Palatine project."
+    },
+    {
+      "loc": "2",
+      "anchor": "Parilia",
+      "entity_id": "festival:parilia",
+      "note": "21 April, the festival of Pales, the pastoral goddess; the day Romans celebrated the founding of the city."
+    }
+  ]
+}
