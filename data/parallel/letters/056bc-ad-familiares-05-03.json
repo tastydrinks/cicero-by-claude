@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 5.3",
+  "title_english": "Ad Familiares 5.3",
+  "date": "-0056-12-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "hominis importunissimi contumeliae, quibus crebris contionibus me onerat, tuis erga me officiis leniuntur et, ut sunt leves ab eius modi homine, a me despiciuntur, libenterque commutata persona te mihi fratris loco esse duco.",
+      "eng": "The insults of that most insufferable of men, with which he loads me in repeated contiones, are softened by your good offices to me; and being trifling, as they are, coming from a man of his sort, by me they are looked through; and gladly, with the role exchanged, I count you in the place of a brother to me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de illo ne meminisse quidem volo, tametsi bis eum invitum servavi. de meis rebus, ne vobis multitudine litterarum molestior essem, ad Lollium perscripsi, de rationibus provinciae quid vellem fieri, ut is vos doceret et commonefaceret. si poteris, velim pristinam tuam erga me voluntatem conserves.",
+      "eng": "Of him I do not even wish to remember, even though twice I have saved him against his will. As for my own affairs, that I might not be tedious to your circle by a flood of letters, I have written out to Lollius what I want done about the province's accounts, so that he may inform and remind you all of it. If you can, I should be glad if you would keep up your old goodwill towards me.",
+      "notes": null
+    }
+  ]
+}
