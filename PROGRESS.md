@@ -7,7 +7,7 @@ as milestones are reached.
 ## Status summary
 
 - **Drafted**: 72 works end-to-end across all categories.
-  - **Speeches (26)**: *Pro Quinctio* (81 BC), *Pro Roscio
+  - **Speeches (27)**: *Pro Quinctio* (81 BC), *Pro Roscio
     Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
     *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
     *In Verrem Actio Prima* (5 Aug 70 BC), the entire five-book
@@ -16,9 +16,10 @@ as milestones are reached.
     Cluentio* (66 BC), the entire 63 BC consular corpus
     (\textit{Pro Rabirio Perduellionis Reo}, the three surviving
     \textit{De Lege Agraria}, the four \textit{Catilinarians},
-    \textit{Pro Murena}), and the two 62 BC defences
-    (\textit{Pro Sulla}, \textit{Pro Archia}).
-  - **Letters (46)**: the early Atticus correspondence ---
+    \textit{Pro Murena}), the two 62 BC defences
+    (\textit{Pro Sulla}, \textit{Pro Archia}), and
+    \textit{Pro Flacco} (mid-59 BC).
+  - **Letters (45)**: the early Atticus correspondence ---
     \textit{Att.} 1.1--1.20 (in chronological, not manuscript,
     order: 67--60 BC), \textit{Att.} 2.1--2.17, 2.20 (60--mid-59
     BC); the early Familiares --- \textit{Fam.} 5.1, 5.2, 5.5,
@@ -26,10 +27,6 @@ as milestones are reached.
     Celer in \textit{Fam.} 5.2 and the famous
     \textit{Fam.} 5.7 to Pompey); the long treatise letter
     \textit{Ad Quintum Fratrem} 1.1 (late 60 / early 59 BC).
-  - **In progress**: \textit{Pro Flacco} (mid-59 BC) is parked
-    with sections 1--5 plus the twelve Bobiensian fragments
-    drafted; sections 6--106 remain. The chronology has now
-    arrived at it.
 - **Reviewed**: 0
 - **Final**: 0
 - **Pending**: 884 entries.
@@ -37,13 +34,15 @@ as milestones are reached.
 ### The chronological situation
 
 The 67--mid-59 BC catch-up that the previous-cohort sessions had
-left empty is now done: every surviving Cicero letter from the
-67--mid-59 window has been translated in date order, and the
-chronology is a true single-thread sweep from \textit{Pro
-Quinctio} (81 BC) through \textit{Att.} 2.20 (Quintilis 59 BC).
-The chronological resume point is \textit{Pro Flacco} (mid-59
-BC, dated as -0059-07-01 year-precision), parked at WIP section
-5 of 106.
+left empty is now done, and \textit{Pro Flacco} (mid-59 BC) is
+drafted end-to-end (sections 1--106 plus the twelve Bobiensian
+fragments and the \textit{frMed} block). The chronology is a
+true single-thread sweep from \textit{Pro Quinctio} (81 BC)
+through \textit{Pro Flacco} (mid-59 BC). The next chronological
+items are \textit{Att.} 2.18 and the rest of the late-59 BC
+correspondence (the Vettius affair and the gathering Clodian
+crisis), then the exile letters of 58 BC opening with
+\textit{Att.} 3.1.
 
 The dating infrastructure remains in place: Perseus's
 \texttt{<date when="...">} attributes and dateline parsing
@@ -260,15 +259,14 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The current resume point is ***Pro Flacco*** (mid-59 BC),
-parked at WIP section 5 of 106. Sections 1--5 plus the twelve
-Bobiensian fragments and the \textit{frMed} block are committed
-to \texttt{english/speeches/059bc-pro-flacco.tex}; sections
-6--106 remain to be translated. The Latin source
-(\texttt{latin/speeches/059bc-pro-flacco.tex}) is committed.
-The next session should begin at section 6 and run through to
-section 106 in halves, finalize the headnote, flip the status
-to \texttt{drafted}, and continue into the rest of 59 BC.
+\textit{Pro Flacco} (mid-59 BC) is now drafted end-to-end
+(sections 1--106 plus the Bobiensian fragments and
+\textit{frMed}; headnote written; status flipped to
+\texttt{drafted}). The next chronological item is
+\textit{Att.} 2.18 (15 July 59 BC, the opening of the
+Vettius-affair correspondence). From there the queue runs
+through 2.19, 2.21--2.25 in late 59 BC, then \textit{Att.}
+3.1 begins the exile letters of 58 BC.
 
 Forward from \textit{Pro Flacco} the chronology runs:
 
