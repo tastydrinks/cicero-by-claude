@@ -1038,7 +1038,7 @@
   title_latin: Ad Familiares 5.17
   title_english: Ad Familiares 5.17
   category: letters
-  date: -0057-02-14
+  date: -0057-12-15
   date_precision: year
   location_written: Romae
   recipient: P. SITTIO P. F
@@ -2157,8 +2157,8 @@
   title_latin: Ad Atticum 3.26
   title_english: Ad Atticum 3.26
   category: letters
-  date: -0057-03-19
-  date_precision: year
+  date: -0057-01-15
+  date_precision: month
   location_written: Dyrrachi
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
@@ -2166,7 +2166,7 @@
   latin_file: latin/letters/057bc-ad-atticum-03-26.tex
   english_file: english/letters/057bc-ad-atticum-03-26.tex
   headnote_file: headnotes/letters/057bc-ad-atticum-03-26.tex
-  status: pending
+  status: drafted
   notes: 'Exile correspondence: April 58 BC to August 57 BC. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0057-12-31
@@ -2175,7 +2175,7 @@
   title_latin: Ad Atticum 3.27
   title_english: Ad Atticum 3.27
   category: letters
-  date: -0057-01-15
+  date: -0057-01-30
   date_precision: month
   location_written: Dyrrachi
   recipient: ATTICO
@@ -2184,7 +2184,7 @@
   latin_file: latin/letters/057bc-ad-atticum-03-27.tex
   english_file: english/letters/057bc-ad-atticum-03-27.tex
   headnote_file: headnotes/letters/057bc-ad-atticum-03-27.tex
-  status: pending
+  status: drafted
   notes: 'Exile correspondence: April 58 BC to August 57 BC. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0057-12-31
