@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 137
-- pending: 822
+- drafted: 157
+- pending: 802
 
 ## Chronological order
 
@@ -156,27 +156,27 @@ Status:
 | 136 | 5 February 56 BC | letters | Ad Familiares 1.5a | drafted |
 | 137 | 10 February 56 BC | letters | Ad Familiares 1.5b | drafted |
 | 138 | 12 February 56 BC | letters | Ad Quintum Fratrem 2.3 | drafted |
-| 139 | March 56 BC | speeches | Against Vatinius | pending |
+| 139 | March 56 BC | speeches | Against Vatinius | drafted |
 | 140 | March 56 BC | speeches | For Publius Sestius | drafted |
-| 141 | March 56 BC | letters | Ad Familiares 1.6 | pending |
+| 141 | March 56 BC | letters | Ad Familiares 1.6 | drafted |
 | 142 | March 56 BC | letters | Ad Quintum Fratrem 2.4 | drafted |
-| 143 | 4 April 56 BC | speeches | For Marcus Caelius | pending |
-| 144 | 8 April 56 BC | letters | Ad Quintum Fratrem 2.5 | pending |
-| 145 | April 56 BC | letters | Ad Atticum 4.4A | pending |
-| 146 | April 56 BC | letters | Ad Atticum 4.5 | pending |
-| 147 | April 56 BC | letters | Ad Atticum 4.6 | pending |
-| 148 | April 56 BC | letters | Ad Atticum 4.7 | pending |
-| 149 | April 56 BC | letters | Ad Atticum 4.8 | pending |
-| 150 | May 56 BC | letters | Ad Quintum Fratrem 2.6 | pending |
+| 143 | 4 April 56 BC | speeches | For Marcus Caelius | drafted |
+| 144 | 8 April 56 BC | letters | Ad Quintum Fratrem 2.5 | drafted |
+| 145 | April 56 BC | letters | Ad Atticum 4.4A | drafted |
+| 146 | April 56 BC | letters | Ad Atticum 4.5 | drafted |
+| 147 | April 56 BC | letters | Ad Atticum 4.6 | drafted |
+| 148 | April 56 BC | letters | Ad Atticum 4.7 | drafted |
+| 149 | April 56 BC | letters | Ad Atticum 4.8 | drafted |
+| 150 | May 56 BC | letters | Ad Quintum Fratrem 2.6 | drafted |
 | 151 | June 56 BC | speeches | On the Consular Provinces | pending |
 | 152 | June 56 BC | letters | Ad Familiares 5.12 | pending |
 | 153 | 56-54 BC | letters | Ad Quintum Fratrem 2.16 | pending |
 | 154 | 56 BC | speeches | On the Responses of the Haruspices | pending |
 | 155 | 56 BC | speeches | For Lucius Cornelius Balbus | pending |
-| 156 | July 56 BC | letters | Ad Familiares 1.7 | pending |
+| 156 | July 56 BC | letters | Ad Familiares 1.7 | drafted |
 | 157 | 56 BC | letters | Ad Familiares 13.51 | pending |
 | 158 | 1 September 56 BC | letters | Ad Familiares 7.3 | pending |
-| 159 | October 56 BC | letters | Ad Atticum 4.8A | pending |
+| 159 | October 56 BC | letters | Ad Atticum 4.8A | drafted |
 | 160 | 56 BC | letters | Ad Familiares 13.6 | pending |
 | 161 | 56 BC | letters | Ad Familiares 5.3 | pending |
 | 162 | January 55 BC | letters | Ad Familiares 1.8 | pending |
@@ -192,66 +192,66 @@ Status:
 | 172 | 55 BC | letters | Ad Familiares 13.40 | pending |
 | 173 | October 55 BC | letters | Ad Familiares 7.1 | pending |
 | 174 | 15 November 55 BC | letters | Ad Atticum 4.13 | pending |
-| 175 | 54 BC | letters | Ad Familiares 7.8 | pending |
-| 176 | January 54 BC | letters | Ad Familiares 5.8 | pending |
-| 177 | 54 BC | letters | Ad Quintum Fratrem 3.1 | pending |
-| 178 | 54 BC | letters | Ad Quintum Fratrem 3.2 | pending |
-| 179 | 54 BC | letters | Ad Familiares 1.10 | pending |
-| 180 | April 54 BC | letters | Ad Familiares 7.5 | pending |
-| 181 | May 54 BC | letters | Ad Atticum 4.14 | pending |
-| 182 | May 54 BC | letters | Ad Familiares 7.6 | pending |
-| 183 | May 54 BC | letters | Ad Quintum Fratrem 2.12 | pending |
-| 184 | 54 BC | letters | Ad Quintum Fratrem 2.9 | pending |
-| 185 | June 54 BC | letters | Ad Familiares 7.7 | pending |
-| 186 | June 54 BC | letters | Ad Quintum Fratrem 2.13 | pending |
-| 187 | 54-44 BC | letters | Ad Familiares 13.11 | pending |
-| 188 | 54-44 BC | letters | Ad Familiares 13.12 | pending |
-| 189 | 54-44 BC | letters | Ad Familiares 13.13 | pending |
-| 190 | 54-44 BC | letters | Ad Familiares 13.14 | pending |
-| 191 | 54-44 BC | letters | Ad Familiares 13.16 | pending |
-| 192 | 54-44 BC | letters | Ad Familiares 13.45 | pending |
-| 193 | 54-44 BC | letters | Ad Familiares 13.46 | pending |
-| 194 | 54-44 BC | letters | Ad Familiares 13.49 | pending |
-| 195 | 54-44 BC | letters | Ad Familiares 13.55 | pending |
-| 196 | 54-44 BC | letters | Ad Familiares 13.56 | pending |
-| 197 | 54-44 BC | letters | Ad Familiares 13.61 | pending |
-| 198 | 54-44 BC | letters | Ad Familiares 13.62 | pending |
-| 199 | 54-44 BC | letters | Ad Familiares 13.64 | pending |
-| 200 | 54-44 BC | letters | Ad Familiares 13.65 | pending |
-| 201 | 54-44 BC | letters | Ad Familiares 13.73 | pending |
-| 202 | 54-44 BC | letters | Ad Familiares 13.74 | pending |
-| 203 | 54-44 BC | letters | Ad Familiares 13.76 | pending |
-| 204 | 54-43 BC | letters | Ad Familiares 15.8 | pending |
-| 205 | 54-43 BC | letters | Ad Familiares 15.9 | pending |
-| 206 | 54-43 BC | letters | Ad Familiares 15.11 | pending |
-| 207 | 54-43 BC | letters | Ad Familiares 15.12 | pending |
-| 208 | 54-43 BC | letters | Ad Familiares 15.13 | pending |
-| 209 | 54-44 BC | letters | Ad Familiares 16.20 | pending |
-| 210 | 54 BC | letters | Ad Quintum Fratrem 3.6 | pending |
-| 211 | 54-51 BC | philosophy | On the Commonwealth | pending |
-| 212 | 54 BC | philosophy | On His Times | pending |
-| 213 | 54-46 BC | rhetoric | The Subdivisions of Oratory | pending |
-| 214 | 54 BC | speeches | For Gnaeus Plancius | pending |
-| 215 | 54-53 BC | speeches | For Gaius Rabirius Postumus | pending |
-| 216 | 54 BC | speeches | For Marcus Aemilius Scaurus | pending |
-| 217 | 15 July 54 BC | letters | Ad Atticum 4.16 | pending |
-| 218 | 54 BC | letters | Ad Quintum Fratrem 2.10 | pending |
-| 219 | 27 July 54 BC | letters | Ad Atticum 4.15 | pending |
-| 220 | 27 July 54 BC | letters | Ad Quintum Fratrem 2.14 | pending |
-| 221 | August 54 BC | letters | Ad Quintum Fratrem 2.15 | pending |
-| 222 | 54 BC | letters | Ad Quintum Fratrem 2.11 | pending |
-| 223 | September 54 BC | letters | Ad Familiares 7.9 | pending |
-| 224 | 1 October 54 BC | letters | Ad Atticum 4.17 | pending |
-| 225 | October 54 BC | letters | Ad Atticum 4.18 | pending |
-| 226 | October 54 BC | letters | Ad Quintum Fratrem 3.7 | pending |
-| 227 | 54 BC | letters | Ad Familiares 7.17 | pending |
-| 228 | 24 October 54 BC | letters | Ad Quintum Fratrem 3.4 | pending |
-| 229 | 1 November 54 BC | letters | Ad Quintum Fratrem 3.3 | pending |
-| 230 | 13 November 54 BC | letters | Ad Quintum Fratrem 3.5 | pending |
-| 231 | November 54 BC | letters | Ad Atticum 4.19 | pending |
-| 232 | November 54 BC | letters | Ad Familiares 7.16 | pending |
-| 233 | November 54 BC | letters | Ad Quintum Fratrem 3.8 | pending |
-| 234 | December 54 BC | letters | Ad Familiares 1.9 | pending |
+| 175 | January 54 BC | letters | Ad Familiares 5.8 | drafted |
+| 176 | April 54 BC | letters | Ad Familiares 7.5 | drafted |
+| 177 | May 54 BC | letters | Ad Atticum 4.14 | pending |
+| 178 | May 54 BC | letters | Ad Familiares 7.6 | drafted |
+| 179 | May 54 BC | letters | Ad Quintum Fratrem 2.12 | drafted |
+| 180 | 54 BC | letters | Ad Quintum Fratrem 2.9 | pending |
+| 181 | June 54 BC | letters | Ad Familiares 7.7 | pending |
+| 182 | June 54 BC | letters | Ad Quintum Fratrem 2.13 | pending |
+| 183 | 54-44 BC | letters | Ad Familiares 13.11 | pending |
+| 184 | 54-44 BC | letters | Ad Familiares 13.12 | pending |
+| 185 | 54-44 BC | letters | Ad Familiares 13.13 | pending |
+| 186 | 54-44 BC | letters | Ad Familiares 13.14 | pending |
+| 187 | 54-44 BC | letters | Ad Familiares 13.16 | pending |
+| 188 | 54-44 BC | letters | Ad Familiares 13.45 | pending |
+| 189 | 54-44 BC | letters | Ad Familiares 13.46 | pending |
+| 190 | 54-44 BC | letters | Ad Familiares 13.49 | pending |
+| 191 | 54-44 BC | letters | Ad Familiares 13.55 | pending |
+| 192 | 54-44 BC | letters | Ad Familiares 13.56 | pending |
+| 193 | 54-44 BC | letters | Ad Familiares 13.61 | pending |
+| 194 | 54-44 BC | letters | Ad Familiares 13.62 | pending |
+| 195 | 54-44 BC | letters | Ad Familiares 13.64 | pending |
+| 196 | 54-44 BC | letters | Ad Familiares 13.65 | pending |
+| 197 | 54-44 BC | letters | Ad Familiares 13.73 | pending |
+| 198 | 54-44 BC | letters | Ad Familiares 13.74 | pending |
+| 199 | 54-44 BC | letters | Ad Familiares 13.76 | pending |
+| 200 | 54-43 BC | letters | Ad Familiares 15.8 | pending |
+| 201 | 54-43 BC | letters | Ad Familiares 15.9 | pending |
+| 202 | 54-43 BC | letters | Ad Familiares 15.11 | pending |
+| 203 | 54-43 BC | letters | Ad Familiares 15.12 | pending |
+| 204 | 54-43 BC | letters | Ad Familiares 15.13 | pending |
+| 205 | 54-44 BC | letters | Ad Familiares 16.20 | pending |
+| 206 | 54 BC | letters | Ad Quintum Fratrem 3.6 | pending |
+| 207 | 54-51 BC | philosophy | On the Commonwealth | pending |
+| 208 | 54 BC | philosophy | On His Times | pending |
+| 209 | 54-46 BC | rhetoric | The Subdivisions of Oratory | pending |
+| 210 | 54 BC | speeches | For Gnaeus Plancius | pending |
+| 211 | 54-53 BC | speeches | For Gaius Rabirius Postumus | pending |
+| 212 | 54 BC | speeches | For Marcus Aemilius Scaurus | pending |
+| 213 | 15 July 54 BC | letters | Ad Atticum 4.16 | pending |
+| 214 | 54 BC | letters | Ad Quintum Fratrem 2.10 | pending |
+| 215 | 27 July 54 BC | letters | Ad Atticum 4.15 | pending |
+| 216 | 27 July 54 BC | letters | Ad Quintum Fratrem 2.14 | pending |
+| 217 | July 54 BC | letters | Ad Familiares 7.8 | drafted |
+| 218 | August 54 BC | letters | Ad Quintum Fratrem 2.15 | pending |
+| 219 | 54 BC | letters | Ad Quintum Fratrem 2.11 | pending |
+| 220 | September 54 BC | letters | Ad Familiares 7.9 | pending |
+| 221 | September 54 BC | letters | Ad Quintum Fratrem 3.1 | drafted |
+| 222 | 1 October 54 BC | letters | Ad Atticum 4.17 | pending |
+| 223 | 11 October 54 BC | letters | Ad Quintum Fratrem 3.2 | drafted |
+| 224 | October 54 BC | letters | Ad Atticum 4.18 | pending |
+| 225 | October 54 BC | letters | Ad Quintum Fratrem 3.7 | pending |
+| 226 | 54 BC | letters | Ad Familiares 7.17 | pending |
+| 227 | 24 October 54 BC | letters | Ad Quintum Fratrem 3.4 | pending |
+| 228 | 1 November 54 BC | letters | Ad Quintum Fratrem 3.3 | pending |
+| 229 | 13 November 54 BC | letters | Ad Quintum Fratrem 3.5 | pending |
+| 230 | November 54 BC | letters | Ad Atticum 4.19 | pending |
+| 231 | November 54 BC | letters | Ad Familiares 7.16 | pending |
+| 232 | November 54 BC | letters | Ad Quintum Fratrem 3.8 | pending |
+| 233 | December 54 BC | letters | Ad Familiares 1.9 | pending |
+| 234 | December 54 BC | letters | Ad Familiares 1.10 | drafted |
 | 235 | December 54 BC | letters | Ad Familiares 7.10 | pending |
 | 236 | December 54 BC | letters | Ad Quintum Fratrem 3.9 | pending |
 | 237 | 53 BC | letters | Ad Familiares 2.4 | pending |

@@ -1,0 +1,406 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-actio-prima",
+  "category": "speeches",
+  "title_latin": "In C. Verrem Actio Prima",
+  "title_english": "Against Verres, First Hearing",
+  "date": "-0070-08-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quod erat optandum maxime, iudices, et quod unum ad invidiam vestri ordinis infamiamque iudiciorum sedandam maxime pertinebat, id non humano consilio sed prope divinitus datum atque oblatum vobis summo rei publicae tempore videtur. inveteravit enim iam opinio perniciosa rei publicae vobisque periculosa, quae non modo apud nos sed apud exteras nationes omnium sermone percrebruit, his iudiciis quae nunc sunt pecuniosum hominem, quamvis sit nocens, neminem posse damnari.",
+      "eng": "What was most to be wished for, gentlemen, and what alone bore most to the calming of the resentment against your order and the infamy of the courts, that thing seems --- not by human counsel, but as if divinely --- to have been given and offered to you at the highest moment of the commonwealth. For the opinion has by now grown old, ruinous to the commonwealth and dangerous to you, which has spread by everyone's talk not only among us but among foreign nations: that in these courts as they now are, no man with money, however guilty, can be condemned.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nunc in ipso discrimine ordinis iudiciorumque vestrorum, cum sint parati qui contionibus et legibus hanc invidiam senatus inflammare conentur, reus in iudicium adductus est C. Verres, homo vita atque factis omnium iam opinione damnatus, pecuniae magnitudine sua spe et praedicatione absolutus. huic ego causae, iudices, cum summa voluntate et exspectatione populi Romani actor accessi, non ut augerem invidiam ordinis, sed ut infamiae communi succurrerem. adduxi enim hominem in quo reconciliare existimationem iudiciorum amissam, redire in gratiam cum populo Romano, satis facere exteris nationibus possetis, depeculatorem aerari, vexatorem Asiae atque Pamphyliae, praedonem iuris urbani , labem atque perniciem provinciae Siciliae.",
+      "eng": "Now, at the very crisis of your order and your courts, when there are men ready to fan this resentment against the senate by public meetings and by laws, the defendant Gaius Verres has been brought into court --- a man already condemned by his life and deeds in everyone's opinion, but acquitted, by his own hope and boast, by the magnitude of his money. To this case, gentlemen, with the highest goodwill and expectation of the Roman people, I have come forward as prosecutor; not to increase the resentment against the order, but to come to the rescue of our common infamy. For I have brought into court a man through whom you may restore the lost reputation of the courts, return into favour with the Roman people, give satisfaction to foreign nations: a robber of the treasury, a harrier of Asia and Pamphylia, a brigand of city law, the stain and ruin of the province of Sicily.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de quo si vos severe ac religiose iudicaveritis, auctoritas ea quae in vobis remanere debet haerebit; sin istius ingentes divitiae iudiciorum religionem veritatemque perfregerint, ego hoc tamen adsequar, ut iudicium potius rei publicae quam aut reus iudicibus aut accusator reo defuisse videatur. equidem ut de me confitear, iudices, cum multae mihi a C. Verre insidiae terra marique factae sint, quas partim mea diligentia devitarim, partim amicorum studio officioque reppulerim, numquam tamen neque tantum periculum mihi adire visus sum neque tanto opere pertimui ut nunc in ipso iudicio.",
+      "eng": "If on this man you give a strict and conscientious verdict, the authority which ought to remain in you will hold fast. If, however, his vast wealth shall break through the conscience and truth of the courts, I shall yet attain this much --- that the verdict will appear to have failed the commonwealth, rather than the defendant to have failed the jurors, or the prosecutor the defendant. To confess about myself, gentlemen, although many ambushes were laid for me by Gaius Verres, by land and sea, some of which I avoided by my diligence, others I beat off through the zeal and devotion of my friends, never have I seemed to face so great a peril, never have I been so shaken with fear, as I am now in the trial itself.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "neque tantum me exspectatio accusationis meae concursusque tantae multitudinis, quibus ego rebus vehementissime perturbor, commovet quantum istius insidiae nefariae, quas uno tempore mihi, vobis, M'. Glabrioni, populo Romano , sociis, exteris nationibus, ordini, nomini denique senatorio facere conatur; qui ita dictitat, iis esse metuendum qui quod ipsis solis satis esset surripuissent, se tantum eripuisse ut id multis satis esse possit ; nihil esse tam sanctum quod non violari, nihil tam munitum quod non expugnari pecunia possit.",
+      "eng": "The expectation of my prosecution and the gathering of so great a multitude --- by which I am profoundly disturbed --- do not move me as much as those wicked plots which he is at one and the same time trying to lay against me, against you, against Manius Glabrio, against the Roman people, against the allies, against foreign nations, against our order, against the very name \"senator.\" He keeps saying: \"Those should be afraid who have stolen what was enough only for themselves; I have torn off so much that there is enough for many --- nothing is so sacred that money cannot violate it, nothing so well fortified that money cannot storm it.\"",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "quodsi quam audax est ad conandum tam esset obscurus in agendo, fortasse aliqua in re nos aliquando fefellisset; verum hoc adhuc percommode cadit, quod cum incredibili eius audacia singularis stultitia coniuncta est; nam ut apertus in corripiendis pecuniis fuit, sic in spe corrumpendi iudici perspicua sua consilia conatusque omnibus fecit. semel ait se in vita pertimuisse,—tum cum primum a me reus factus sit; quod, cum e provincia recens esset, invidiaque et infamia non recenti sed vetere ac diuturna flagraret, tum ad iudicium corrumpendum tempus alienum offenderet.",
+      "eng": "If he were as obscure in action as he is bold in attempting, perhaps in some matter he might at some time have deceived us. But it has been very fortunate for us that, with his incredible audacity, a singular stupidity is joined; for as he was open in seizing money, so in the hope of corrupting the court he has made his plans and attempts plain to all. He says he has been afraid in his life only once --- when he was first made a defendant by me; because, while he was fresh from the province, and was burning with resentment and infamy not new but old and lasting, he had hit upon an unfavourable moment for corrupting the court.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "itaque cum ego diem inquirendi in Siciliam perexiguam postulavissem, invenit iste qui sibi in Achaiam biduo breviorem diem postularet; non ut is idem conficeret diligentia et industria sua quod ego meo labore et vigiliis consecutus sum, —etenim ille Achaicus inquisitor ne Brundisium quidem pervenit, ego Siciliam totam quinquaginta diebus sic obii ut omnium populorum privatorumque litteras iniuriasque cognoscerem; ut perspicuum cuivis esse posset hominem ab isto quaesitum esse non qui reum suum adduceret, sed qui meum tempus obsideret.",
+      "eng": "So when I had asked for a most short period for inquiry in Sicily, he found someone to ask for himself, for inquiry in Achaia, a period two days shorter --- not that he might effect by his diligence and industry what I have achieved by my labour and waking nights (indeed his Achaean inquisitor never even reached Brundisium, while I went round all of Sicily in fifty days, in such a way that I learned of all the wrongs done to peoples and to private men) --- but so that it might be plain to anyone that this man was sought out by him not to bring his defendant in, but to consume my time.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "nunc homo audacissimus atque amentissimus hoc cogitat. intellegit me ita paratum atque instructum in iudicium venire ut non modo in auribus vestris, sed in oculis omnium sua furta atque flagitia defixurus sim; videt senatores multos esse testis audaciae suae, videt multos equites Romanos, frequentis praeterea civis atque socios, quibus ipse insignis iniurias fecerit, videt etiam tot tam gravis ab amicissimis civitatibus legationes cum publicis auctoritatibus convenisse.",
+      "eng": "Now this most audacious and senseless man considers this. He understands that I come into court so prepared and equipped that I shall fix his thefts and disgraces not only on your ears but on the eyes of all. He sees that there are many senators witnesses of his audacity, many Roman knights, and besides numerous citizens and allies whom he himself has wronged signally; he sees also that so many heavy embassies have come from cities most friendly to him, with their public authorities.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "quae cum ita sint, usque eo de omnibus bonis male existimat, usque eo senatoria iudicia perdita profligataque esse arbitratur, ut hoc palam dictitet, non sine causa se cupidum pecuniae fuisse, quoniam in pecunia tantum praesidium experiatur esse; sese, id quod difficillimum fuerit, tempus ipsum emisse iudici sui, quo cetera facilius emere postea posset; ut, quoniam criminum vim subterfugere nullo modo poterat, procellam temporis devitaret.",
+      "eng": "Since this is so, his estimate of all good men is so low, his judgement of the senate's courts so wrecked and undone, that he openly declares: \"Not without cause have I been greedy of money, since I find that there is so great a defence in money. I have bought\" --- the most difficult thing of all --- \"the very moment of my trial, that I might more easily buy other things afterwards. Since I could in no way evade the force of the charges, at least I shall escape the storm of the moment.\"",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "quodsi non modo in causa, verum in aliquo honesto praesidio aut in alicuius eloquentia aut gratia spem aliquam conlocasset, profecto non haec omnia colligeret atque aucuparetur; non usque eo despiceret contemneretque ordinem senatorium ut arbitratu eius deligeretur ex senatu qui reus fieret, qui, dum hic quae opus essent compararet, causam interea ante eum diceret.",
+      "eng": "If he had placed any hope not only in the case but in any honourable defence, in anyone's eloquence or favour, surely he would not be gathering and grasping after all these things; he would not so despise and contemn the senatorial order that, at his discretion, one should be chosen out of the senate to be made defendant, who, while he was getting ready what was needed, should plead his case before him.",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "quibus ego rebus quid iste speret et quo animum intendat facile perspicio; quam ob rem vero se confidat aliquid proficere posse hoc praetore et hoc consilio intellegere non possum. Vnum illud intellego, quod populus Romanus in reiectione iudicum iudicavit, ea spe istum fuisse praeditum ut omnem rationem salutis in pecunia constitueret , hoc erepto praesidio ut nullam sibi rem adiumento fore arbitraretur. etenim quod est ingenium tantum, quae tanta facultas dicendi aut copia, quae istius vitam tot vitiis flagitiisque convictam , iam pridem omnium voluntate iudicioque damnatam, aliqua ex parte possit defendere?",
+      "eng": "What he hopes for, what he aims at by these tactics, I easily perceive. But why he should be so confident he can accomplish anything, with this praetor and this council, I cannot understand. This one thing I do understand --- which the Roman people judged in the rejection of jurors --- that he was furnished with this hope: that he had placed all his reckoning of safety in money, and once that defence was torn from him he supposed nothing would be of help to him. For what genius is so great, what capacity for speech or richness of words, that it could in any part defend a life convicted of so many vices and disgraces, already long since condemned by the will and judgement of all?",
+      "notes": null
+    },
+    {
+      "loc": "11",
+      "section": 11,
+      "lat": "cuius ut adulescentiae maculas ignominiasque praeteream, quaestura, primus gradus honoris , quid aliud habet in se nisi Cn. Carbonem spoliatum a quaestore suo pecunia publica, nudatum et proditum consulem, desertum exercitum, relictam provinciam, sortis necessitudinem religionemque violatam? cuius legatio exitium fuit Asiae totius et Pamphyliae, quibus in provinciis multas domos, plurimas urbis, omnia fana depeculatus est, tum cum in Cn. Dolabellam suum scelus illud pristinum renovavit et instauravit quaestorium, cum eum, cui et legatus et pro quaestore fuisset, et in invidiam suis maleficiis adduxit, et in ipsis periculis non solum deseruit, sed etiam oppugnavit ac prodidit;",
+      "eng": "To pass over the stains and disgraces of his youth, his quaestorship --- the first step of public office --- what does it have but Gnaeus Carbo despoiled by his own quaestor of public money, a consul stripped and betrayed, an army deserted, a province abandoned, the bond and religion of the lot violated? His legateship was the ruin of all Asia and Pamphylia: in those provinces he plundered many houses, very many cities, every shrine; then with respect to Gnaeus Dolabella he renewed and refreshed his old quaestorian crime, when, the man to whom he had been legate and acting quaestor, he both led into resentment by his own misdeeds and, in the very dangers, not only deserted but assailed and betrayed.",
+      "notes": null
+    },
+    {
+      "loc": "12",
+      "section": 12,
+      "lat": "cuius praetura urbana aedium sacrarum fuit publicorumque operum depopulatio , simul in iure dicundo bonorum possessionumque contra omnium instituta addictio et condonatio. iam vero omnium vitiorum suorum plurima et maxima constituit monumenta et indicia in provincia Sicilia, quam iste per triennium ita vexavit ac perdidit ut ea restitui in antiquum statum nullo modo possit, vix autem per multos annos innocentisque praetores aliqua ex parte recreari aliquando posse videatur.",
+      "eng": "His city praetorship was the plundering of sacred buildings and public works; at the same time, in administering justice, the assignment and donation of inheritances and possessions against everyone's institutions. And by far the most numerous and greatest monuments and signs of all his vices he has set up in the province of Sicily, which he in three years so harried and ruined that it cannot in any way be restored to its former state, but scarcely seems able through many years and innocent praetors to be in some measure recovered.",
+      "notes": null
+    },
+    {
+      "loc": "13",
+      "section": 13,
+      "lat": "hoc praetore Siculi neque suas leges neque nostra senatus consulta neque communia iura tenuerunt: tantum quisque habet in Sicilia quantum hominis avarissimi et libidinosissimi aut imprudentiam subterfugit aut satietati superfuit. nulla res per triennium nisi ad nutum istius iudicata est, nulla res tam patria cuiusquam atque avita fuit quae non ab eo imperio istius abiudicaretur. innumerabiles pecuniae ex aratorum bonis novo nefarioque instituto coactae, socii fidelissimi in hostium numero existimati, cives Romani servilem in modum cruciati et necati, homines nocentissimi propter pecunias iudicio liberati, honestissimi atque integerrimi absentes rei facti indicta causa damnati et eiecti, portus munitissimi, maximae tutissimaeque urbes piratis praedonibusque patefactae, nautae militesque Siculorum, socii nostri atque amici, fame necati, classes optimae atque opportunissimae cum magna ignominia populi Romani amissae et perditae.",
+      "eng": "Under this praetor the Sicilians could keep neither their own laws, nor our decrees of the senate, nor the rights common to all. In Sicily each man holds only as much as he either escaped the inadvertence of this most greedy and most lustful of men, or what was left over from his sating. For three years no matter was decided except at his nod; no inheritance was so ancestral and family that it was not taken from a man's possession by his command. Innumerable sums of money were extorted from the goods of the farmers by a new and unspeakable practice; the most faithful allies were reckoned in the number of enemies; Roman citizens were tortured and killed in the manner of slaves; the most guilty men were freed in court for money; the most honourable and upright in their absence were made defendants, condemned without their case being heard, and exiled. The most strongly fortified harbours, the greatest and safest cities, were thrown open to pirates and brigands; the seamen and soldiers of the Sicilians, our allies and friends, were starved to death; the best and most strategic fleets, with great disgrace to the Roman people, were lost and destroyed.",
+      "notes": null
+    },
+    {
+      "loc": "14",
+      "section": 14,
+      "lat": "idem iste praetor monumenta antiquissima partim regum locupletissimorum, quae illi ornamento urbibus esse voluerunt, partim etiam nostrorum imperatorum, quae victores civitatibus Siculis aut dederunt aut reddiderunt, spoliavit nudavitque omnia. neque hoc solum in statuis ornamentisque publicis fecit, sed etiam delubra omnia sanctissimis religionibus consecrata depeculatus est, deum denique nullum Siculis, qui ei paulo magis adfabre atque antiquo artificio factus videretur, reliquit. in stupris vero et flagitiis nefarias eius libidines commemorare pudore deterreor; simul illorum calamitatem commemorando augere nolo quibus liberos coniugesque suas integras ab istius petulantia conservare non licitum est.",
+      "eng": "This same praetor stripped and laid bare the most ancient monuments --- some of them the gifts of the wealthiest kings, who wished them to be ornaments to the cities; others of our own commanders, which the victors either gave or returned to the Sicilian states. Nor did he do this only with statues and public ornaments. He plundered all the shrines consecrated by the most sacred religion: in short, he left the Sicilians not a single god if it seemed somewhat better worked or more antique. As for his rapes and his disgraces, modesty deters me from listing his unspeakable lusts; and at the same time I do not wish, by mention, to add to the calamity of those who were not allowed to keep their children and wives untouched from his shamelessness.",
+      "notes": null
+    },
+    {
+      "loc": "15",
+      "section": 15,
+      "lat": "' at enim haec ita commissa sunt ab isto ut non cognita sint ab omnibus. ' hominem esse arbitror neminem, qui nomen istius audierit, quin facta quoque eius nefaria commemorare possit, ut mihi magis timendum sit ne multa crimina praetermittere quam ne qua in istum fingere existimer. neque enim mihi videtur haec multitudo, quae ad audiendum convenit, cognoscere ex me causam voluisse, sed ea quae scit mecum recognoscere. quae cum ita sint, iste homo amens ac perditus alia mecum ratione pugnat. non id agit ut alicuius eloquentiam mihi opponat; non gratia, non auctoritate cuiusquam, non potentia nititur. simulat his se rebus confidere; sed video quid agat; neque enim agit occultissime. proponit inania mihi nobilitatis, hoc est hominum adrogantium nomina, qui non tam me impediunt quod nobiles sunt, quam adiuvant quod noti sunt: simulat se eorum praesidio confidere, cum interea aliud quiddam iam diu machinetur.",
+      "eng": "\"But these things were done by him in such a way that they are not all known.\" There is, I think, no man who has heard his name who could not also recount his unspeakable deeds; so that I should fear rather to leave many charges out than be thought to invent any against him. For I do not think this multitude which has gathered to listen wished to learn the case from me, but rather to recognise with me what they already know. Since this is so, this senseless and ruined man fights with me by another method. He does not match an eloquence of someone against me; he does not lean on anyone's favour, authority, or influence. He pretends to trust in these things; but I see what he is doing, and he does not do it most secretly. He throws empty names of nobility in my way --- that is, names of arrogant men, who do not so much hinder me by being noble as help me by being known. He pretends to trust in their protection while in the meantime he has long been working some other thing.",
+      "notes": null
+    },
+    {
+      "loc": "16",
+      "section": 16,
+      "lat": "quam spem nunc habeat in manibus et quid moliatur breviter iam, iudices, vobis exponam; sed prius ut ab initio res ab eo constituta sit , quaeso, cognoscite. Vt primum e provincia rediit, redemptio est huius iudici facta grandi pecunia. mansit in condicione atque pacto usque ad eum finem dum iudices reiecti sunt: posteaquam reiectio iudicum facta est, quod et in sortitione istius spem fortuna populi Romani et in reiciendis iudicibus mea diligentia istorum impudentiam vicerat, renuntiata est tota condicio . praeclare se res habebat.",
+      "eng": "What hope he now has in his hands and what he is plotting, I will briefly set out for you, gentlemen. But first learn, please, how the affair was set up by him from the start. As soon as he came back from the province, the buying-off of this trial was made for a great sum of money. The transaction stood firm in agreement and bargain up to the point at which the jurors had been rejected. After the rejection of jurors had taken place --- because both in his lot the fortune of the Roman people had defeated this man's hope, and in the rejection of jurors my diligence had defeated their shamelessness --- the whole bargain was renounced. The matter stood splendidly.",
+      "notes": null
+    },
+    {
+      "loc": "17",
+      "section": 17,
+      "lat": "libelli nominum vestrorum consilique huius in manibus erant omnium; nulla nota, nullus color, nullae sordes videbantur his sententiis adlini posse, cum iste repente ex alacri atque laeto sic erat humilis atque demissus ut non modo populo Romano, sed etiam sibi ipse condemnatus videretur. ecce autem repente his diebus paucis comitiis consularibus factis eadem illa vetera consilia pecunia maiore repetuntur, eaedemque vestrae famae fortunisque omnium insidiae per eosdem homines comparantur. quae res primo, iudices, pertenui nobis argumento indicioque patefacta est: post aperto suspicionis introitu ad omnia intima istorum consilia sine ullo errore pervenimus.",
+      "eng": "Lists of your names and of this council were in everyone's hands. No mark, no shading, no smudge could be smeared on these votes. When suddenly, from cheerful and lively, he had become so humble and downcast that he seemed condemned not only to the Roman people but even to himself. But behold, suddenly, in these few days after the consular elections, those same old plans are taken up again with greater money; the same plots against your reputation and the fortunes of all are got ready through the same men. Which matter, gentlemen, was first laid open to us by a very slight argument and indication. After the entrance of suspicion was opened, we came without any error to all of their inmost plans.",
+      "notes": null
+    },
+    {
+      "loc": "18",
+      "section": 18,
+      "lat": "nam ut Hortensius consul designatus domum reducebatur e campo cum maxima frequentia ac multitudine, fit obviam casu ei multitudini C. Curio, quem ego hominem honoris potius quam contumeliae causa nominatum volo; etenim ea dicam quae ille, si commemorari noluisset, non tanto in conventu tam aperte palamque dixisset; quae tamen a me pedetemptim cauteque dicentur, ut et amicitiae nostrae et dignitatis illius habita ratio esse intellegatur.",
+      "eng": "For when Hortensius, consul-elect, was being escorted home from the Campus by a very great crowd, Gaius Curio met that crowd by chance --- a man whom I should rather name out of honour than out of insult; for I shall say what he, if he had not wished it to be mentioned, would not have said in so great a gathering so openly and in public; what nevertheless will be said by me step by step and cautiously, that account may be taken both of our friendship and of his dignity.",
+      "notes": null
+    },
+    {
+      "loc": "19",
+      "section": 19,
+      "lat": "videt ad ipsum fornicem Fabianum in turba Verrem; 19 appellat hominem et ei voce maxima gratulatur ; ipsi Hortensio, qui consul erat factus, propinquis necessariisque eius, qui tum aderant, verbum nullum facit; cum hoc consistit, hunc amplexatur, hunc iubet sine cura esse. ' renuntio ', inquit, 'tibi te hodiernis comitiis esse absolutum.' quod cum tam multi homines honestissimi audissent, statim ad me defertur; immo vero ut quisque me viderat narrabat. Aliis illud indignum, aliis ridiculum videbatur: ridiculum iis qui istius causam in testium fide, in criminum ratione, in iudicum potestate, non in comitiis consularibus positam arbitrabantur, indignum iis qui altius perspiciebant et hanc gratulationem ad iudicium corrumpendum spectare videbant.",
+      "eng": "Curio sees Verres in the crowd at the very arch of Fabius. He addresses the man and congratulates him with the loudest voice. To Hortensius himself, who had been made consul, to his close kinsmen and intimates who were present, he says not a word. With this man he stops; this man he embraces; this man he tells to be without anxiety. \"I bring you the news,\" he says, \"that you have been acquitted by today's elections.\" When so many honourable men had heard this, it was at once reported to me; on the contrary, every man who had seen me told it. To some it seemed shameful; to others ridiculous: ridiculous to those who thought his case rested on the credibility of witnesses, on the substance of the charges, on the power of the jurors, not on consular elections; shameful to those who looked deeper and saw that this congratulation looked toward corrupting the trial.",
+      "notes": null
+    },
+    {
+      "loc": "20",
+      "section": 20,
+      "lat": "etenim sic ratiocinabantur, sic honestissimi homines inter se et mecum loquebantur, aperte iam et perspicue nulla esse iudicia. qui reus pridie iam ipse se condemnatum putabat, is, posteaquam defensor eius consul est factus, absolvitur? quid igitur? quod tota Sicilia, quod omnes Siculi, omnes negotiatores, omnes publicae privataeque litterae Romae sunt, nihilne id valebit? nihil invito consule designato. quid ? iudices non crimina, non testis, non existimationem populi Romani sequentur ? non ; omnia in unius potestate ac moderatione vertentur. vere loquar, iudices. vehementer me haec res commovebat; optimus enim quisque ita loquebatur ' iste quidem tibi eripietur, sed nos non tenebimus iudicia diutius; etenim quis poterit Verre absoluto de transferendis iudiciis recusare?'",
+      "eng": "For these were their reasonings, this is what the most honourable men were saying among themselves and to me: openly and plainly, there are no more courts. The defendant who, the day before, was thinking himself already condemned --- after his defender has been made consul, is acquitted? What of it? That all Sicily is at Rome --- all the Sicilians, all the businessmen, all the public and private letters --- shall this not weigh? Nothing, against the consul-elect's wishes. What? Will the jurors not follow the charges, the witnesses, the estimation of the Roman people? No: everything will turn on the power and discretion of one man. I will speak truly, gentlemen: this matter shook me violently. For each best man was speaking thus: \"This man indeed will be snatched from you; but we shall not hold the courts much longer; for who will be able to refuse, after Verres is acquitted, the transfer of the courts?\"",
+      "notes": null
+    },
+    {
+      "loc": "21",
+      "section": 21,
+      "lat": "erat omnibus molestum; neque eos tam istius hominis perditi subita laetitia quam hominis amplissimi nova gratulatio commovebat. cupiebam dissimulare me id moleste ferre, cupiebam animi dolorem vultu tegere et taciturnitate celare. ecce autem illis ipsis diebus, cum praetores designati sortirentur et M. Metello obtigisset ut is de pecuniis repetundis quaereret, nuntiatur mihi tantam isti gratulationem esse factam ut is domum quoque pueros mitteret qui uxori suae nuntiarent.",
+      "eng": "It was painful to all; not so much the sudden joy of that ruined man, as the new congratulation by a most distinguished one, moved them. I wished to dissemble that I bore it ill; I wished to cover the pain of my mind with my face, and to hide it by silence. But behold, on those very same days, when the praetors-elect were drawing lots and it had fallen to Marcus Metellus to preside over the extortion court, it was reported to me that so great a congratulation had been given to Verres that he sent slaves home to bring the news to his wife.",
+      "notes": null
+    },
+    {
+      "loc": "22",
+      "section": 22,
+      "lat": "sane ne haec quidem mihi res placebat; neque tantopere quid in hac sorte metuendum mihi esset intellegebam. Vnum illud ex hominibus certis, ex quibus omnia comperi, reperiebam, fiscos compluris cum pecunia Siciliensi a quodam senatore ad equitem Romanum esse translatos; ex his quasi X fiscos ad senatorem illum relictos esse comitiorum meorum nomine; divisores omnium tribuum noctu ad istum vocatos.",
+      "eng": "This too did not at all please me; nor did I altogether understand what was to be feared from that lot. This one thing I learned from sure men, from whom I have learned everything: that several boxes with Sicilian money had been transferred from a certain senator to a Roman knight; that of these about ten boxes had been left with that senator in the name of my elections; that the canvassers of all the tribes had been called to him by night.",
+      "notes": null
+    },
+    {
+      "loc": "23",
+      "section": 23,
+      "lat": "ex quibus quidam, qui se omnia mea causa facere debere arbitrabatur, eadem illa nocte ad me venit; demonstrat qua iste oratione usus esset; commemorasse istum quam liberaliter eos tractasset iam antea , cum ipse praeturam petisset, et proxumis consularibus praetoriisque comitiis; deinde continuo esse pollicitum quantam vellent pecuniam, si me aedilitate deiecissent. hic alios negasse audere, alios respondisse non putare id perfici posse; inventum tamen esse fortem amicum ex eadem familia, Q. Verrem Romilia, ex optima divisorum disciplina, patris istius discipulum atque amicum, qui HS quingentis milibus depositis id se perfecturum polliceretur, et fuisse tamen non nullos qui se una facturos esse dicerent. quae cum ita essent, sane benivolo animo me ut magnopere caverem praemonebat.",
+      "eng": "Of these one, who reckoned that he ought to do everything for my sake, came to me on that very night. He showed me the language Verres had used: that he had recalled how generously he had treated them already before, when he himself was canvassing for the praetorship, and at the recent consular and praetorian elections; then that he had immediately promised them as much money as they wished, if they had thrown me out from the aedileship. Some, he said, had refused to dare; others had answered that they did not think it could be carried through. A bold friend, however, was found from the same family --- Quintus Verres of the Romilian tribe, of the best discipline of the canvassers, the pupil and friend of his father --- who, with five hundred thousand sesterces deposited, undertook to do it. There were nevertheless not a few who said they would join in. And so he warned me, with truly friendly feeling, to take great care.",
+      "notes": null
+    },
+    {
+      "loc": "24",
+      "section": 24,
+      "lat": "sollicitabar rebus maximis uno atque eo perexiguo tempore. Vrgebant comitia, et in his ipsis oppugnabar grandi pecunia; instabat iudicium, ei quoque negotio fisci Sicilienses minabantur. agere quae ad iudicium pertinebant libere comitiorum metu deterrebar; petitioni toto animo servire propter iudicium non licebat; minari denique divisoribus ratio non erat, propterea quod eos intellegere videbam me hoc iudicio districtum atque obligatum futurum.",
+      "eng": "I was in the greatest matters at the same and a most short time. The elections were pressing; in the elections themselves I was being attacked with great money. The trial was at hand; in that business too the Sicilian boxes were threatening. I was deterred from doing what concerned the trial freely by fear of the elections; I could not, on account of the trial, devote my whole mind to my candidacy. Finally, to threaten the canvassers was no use, because I saw they understood I would be tied down and bound by this trial.",
+      "notes": null
+    },
+    {
+      "loc": "25",
+      "section": 25,
+      "lat": "atque hoc ipso tempore Siculis denuntiatum esse audio primum ab Hortensio, domum ad illum ut venirent; Siculos in eo sane liberos fuisse, qui quam ob rem arcesserentur cum intellegerent, non venisse. interea comitia nostra, quorum iste se, ut ceterorum hoc anno comitiorum, dominum esse arbitrabatur, haberi coepta sunt. cursare iste homo potens cum filio blando et gratioso circum tribus; paternos amicos, hoc est divisores, appellare omnis et convenire. quod cum esset intellectum et animadversum, fecit animo libentissimo populus Romanus ut, cuius divitiae me de fide deducere non potuissent, ne eiusdem pecunia de honore deicerer .",
+      "eng": "At this very same moment I hear that the Sicilians had been notified --- first by Hortensius --- to come to him at his house. The Sicilians in this matter were free indeed, who, when they understood for what reason they were summoned, did not come. In the meantime our elections (over which Verres considered himself master, as over the rest this year) began to be held. He goes scampering, this powerful man, with his courteous and obliging son around the tribes; he calls upon and meets all his father's friends --- that is, the canvassers. When this was understood and noticed, the Roman people did most willingly arrange that, by the man whose riches could not have led me from my faith, by the same man's money I should not be cast down from my honour.",
+      "notes": null
+    },
+    {
+      "loc": "26",
+      "section": 26,
+      "lat": "posteaquam illa petitionis magna cura liberatus sum, animo coepi multo magis vacuo ac soluto nihil aliud nisi de iudicio agere et cogitare. reperio , iudices, haec ab istis consilia inita et constituta ut, quacumque opus esset ratione, res ita duceretur ut apud M. Metellum praetorem causa diceretur. in eo esse haec commoda: primum M. Metellum amicissimum, deinde Hortensium consulem, neque Hortensium solum, sed etiam Q. Metellum, qui quam isti sit amicus attendite; dedit enim praerogativam suae voluntatis eius modi ut isti pro praerogativis iam reddidisse videatur.",
+      "eng": "After I was relieved of the great anxiety of the candidacy, with mind much more empty and free I began to do and think nothing else but about the trial. I find, gentlemen, that these plans had been entered into and established by them: that, by whatever method possible, the matter should be drawn out so that the case might be pleaded before Marcus Metellus the praetor. In that there were these advantages: first, Marcus Metellus was very friendly; then there was Hortensius the consul, and not Hortensius alone, but also Quintus Metellus --- consider how friendly he is to Verres. For he gave a foretaste of his goodwill of such a kind that he seems already to have repaid him for past favours.",
+      "notes": null
+    },
+    {
+      "loc": "27",
+      "section": 27,
+      "lat": "an me taciturum tantis de rebus existimavistis, et me in tanto rei publicae existimationisque meae periculo cuiquam consulturum potius quam officio et dignitati meae? arcessit alter consul designatus Siculos; veniunt non nulli, propterea quod L. Metellus esset praetor in Sicilia. cum iis ita loquitur, 'se consulem esse; fratrem suum alterum Siciliam provinciam obtinere, alterum esse quaesiturum de pecuniis repetundis; Verri ne noceri possit multis rationibus esse provisum.'",
+      "eng": "Or did you think I would be silent on so great matters, and that I would consult anything in such great peril for the commonwealth and my own reputation rather than my duty and dignity? The other consul-elect summons the Sicilians; some come, since Lucius Metellus is praetor in Sicily. With them he speaks thus: \"I am consul; one brother of mine holds the province of Sicily, the other will preside over the extortion court; many provisions have been made that no harm can come to Verres.\"",
+      "notes": null
+    },
+    {
+      "loc": "28",
+      "section": 28,
+      "lat": "quid est, quaeso, Metelle, iudicium conrumpere, si hoc non est, testis, praesertim Siculos, timidos homines et adflictos, non solum auctoritate deterrere, sed etiam consulari metu et duorum praetorum potestate ? quid faceres pro innocente homine et propinquo, cum propter hominem perditissimum atque alienissimum de officio ac dignitate decedis, et committis ut quod ille dictitat alicui qui te ignoret verum esse videatur?",
+      "eng": "What is corrupting a court, please, Metellus, if this is not: by frightening the witnesses --- especially the Sicilians, fearful and afflicted men --- not only by your authority, but by consular dread and the power of two praetors? What would you do for an innocent man and a kinsman, when for the sake of a most ruined and most alien man you depart from your duty and dignity, and let it appear true to anyone who does not know you, what he keeps saying?",
+      "notes": null
+    },
+    {
+      "loc": "29",
+      "section": 29,
+      "lat": "nam hoc Verrem dicere aiebant, te non fato, ut ceteros ex vestra familia, sed opera sua consulem factum. duo igitur consules et quaesitor erunt ex illius voluntate. ' non solum effugiemus,' inquit, 'hominem in quaerendo nimium diligentem, nimium servientem populi existimationi, M'. Glabrionem; accedet etiam nobis illud. iudex est M. Caesonius, conlega nostri accusatoris, homo in rebus iudicandis spectatus et cognitus, quem minime expediat esse in eo consilio quod conemur aliqua ratione conrumpere, propterea quod iam antea, cum iudex in Iuniano consilio fuisset, turpissimum illud facinus non solum graviter tulit, sed etiam in medium protulit. hunc iudicem ex Kalendis Ianuariis non habebimus ;",
+      "eng": "For they said Verres said this: that you had been made consul not by destiny, like the rest of your family, but by his work. So there will be two consuls and the presiding judge by his will. \"We shall not only escape\" --- he says --- \"a man over-diligent in inquiry, over-attentive to the people's reputation, Manius Glabrio. We shall also have this added to our advantage. Marcus Caesonius is on the bench, the colleague of our prosecutor, a man tested and known in the giving of judgements, whom it least suits us to have on a council we are trying somehow to corrupt --- because, when he was a juror in Junius's council, he not only took ill that disgraceful crime, but brought it into the open. From the first of January we shall not have him as juror. ---",
+      "notes": null
+    },
+    {
+      "loc": "30",
+      "section": 30,
+      "lat": "Q. Manlium et Q. Cornificium, duos severissimos atque integerrimos iudices, quod tribuni plebis tum erunt, iudices non habebimus; P. Sulpicius, iudex tristis et integer, magistratum ineat oportet Nonis Decembribus; M. Crepereius ex acerrima illa equestri familia et disciplina, L. Cassius ex familia cum ad ceteras res tum ad iudicandum severissima, Cn. Tremellius, homo summa religione et diligentia, tres hi homines veteres tribuni militares sunt designati; ex Kalendis Ianuariis non iudicabunt. subsortiemur etiam in M. Metelli locum, quoniam is huic ipsi quaestioni praefuturus est. ita secundum Kalendas Ianuarias et praetore et prope toto commutato consilio magnas accusatoris minas magnamque exspectationem iudici ad nostrum arbitrium libidinemque eludemus.'",
+      "eng": "Quintus Manlius and Quintus Cornificius, two most strict and upright jurors, since they will then be tribunes of the plebs, we shall not have as jurors. Publius Sulpicius, a stern and upright juror, must enter office on the Nones of December. Marcus Crepereius from that fiercest equestrian family and discipline; Lucius Cassius from a family most strict in everything, and especially in giving judgement; Gnaeus Tremellius, a man of the highest religion and diligence --- these three veteran tribunes of the soldiers are designated for office and will not be jurors from the first of January. We shall also draw a substitute for Marcus Metellus's place, since he will be presiding over this very court. So, after the first of January, with the praetor and almost all the council changed, we shall escape the great threats of the prosecutor and the great expectation of the trial, at our own discretion and pleasure.\"",
+      "notes": null
+    },
+    {
+      "loc": "31",
+      "section": 31,
+      "lat": "Nonae sunt hodie Sextiles; hora viii convenire coepistis; hunc diem iam ne numerant quidem. decem dies sunt ante ludos votivos, quos Cn. Pompeius facturus est; hi ludi dies quindecim auferent; deinde continuo Romani consequentur. ita prope xl diebus interpositis tum denique se ad ea quae a nobis dicta erunt responsuros esse arbitrantur; deinde se ducturos et dicendo et excusando facile ad ludos victoriae ; cum his plebeios esse coniunctos, secundum quos aut nulli aut perpauci dies ad agendum futuri sunt: ita defessa ac refrigerata accusatione rem integram ad M. Metellum praetorem esse venturam. quem ego hominem, si eius fidei diffisus essem, iudicem non retinuissem;",
+      "eng": "Today is the Nones of August. At the eighth hour you have begun to assemble. This day they do not even count. Ten days remain before the votive games which Gnaeus Pompey is going to give; these games will take fifteen days; then immediately the Roman games will follow. So, with about forty days interposed, only then do they think they will have to reply to what we shall have said. Then they think they will easily, by speeches and excuses, draw the matter out to the games of victory; then with these the plebeian games will be joined, after which there will be either no days or very few left for action. So, with the prosecution worn out and grown cold, the matter will come fresh to Marcus Metellus the praetor. Whom, if I had distrusted his good faith, I would not have kept as juror.",
+      "notes": null
+    },
+    {
+      "loc": "32",
+      "section": 32,
+      "lat": "nunc tamen hoc animo sum ut eo iudice quam praetore hanc rem transigi malim, et iurato suam quam iniurato aliorum tabellas committere. nunc ego, iudices, iam vos consulo quid mihi faciendum putetis; id enim consili mihi profecto taciti dabitis quod egomet mihi necessario capiendum intellego. si utar ad dicendum meo legitimo tempore, mei laboris industriae diligentiaeque capiam fructum, et hac accusatione perficiam ut nemo umquam post hominum memoriam paratior, vigilantior, compositior ad iudicium venisse videatur. sed in hac laude industriae meae reus ne elabatur summum periculum est. quid est igitur quod fieri possit? non obscurum, opinor, neque absconditum.",
+      "eng": "As things stand, however, I am of this mind: that I should rather have him as juror than as praetor; and that I should rather entrust to him under oath my voting tablets than to others not under oath. Now, gentlemen, I consult you about what you think I ought to do. For you will surely give me silently the same counsel which I myself understand I must necessarily take. If I use my own lawful time for speaking, I shall enjoy the fruit of my labour, my industry, and my diligence; and by this prosecution I shall achieve that no one within human memory shall be seen to have come to a trial more prepared, more vigilant, more composed. But in this very praise of my industry the highest danger is that the defendant should slip away. What can be done? It is not, I think, hidden or obscure.",
+      "notes": null
+    },
+    {
+      "loc": "33",
+      "section": 33,
+      "lat": "fructum istum laudis, qui ex perpetua oratione percipi potuit, in alia tempora reservemus: nunc hominem tabulis, testibus, privatis publicisque litteris auctoritatibusque accusemus. res omnis mihi tecum erit, Hortensi. dicam aperte. si te mecum dicendo ac diluendis criminibus in hac causa contendere putarem, ego quoque in accusando atque in explicandis criminibus operam consumerem: nunc quoniam pugnare contra me instituisti non tam ex tua natura quam ex istius tempore et causa malitiose , necesse est istius modi rationi aliquo consilio obsistere.",
+      "eng": "Let us reserve for other times that fruit of praise which could be reaped from a continuous oration. Now let us prosecute the man with documents, with witnesses, with private and public letters and authorities. The whole matter will be between you and me, Hortensius. I will speak openly. If I thought you were going to fight me with speech and dilution of charges in this case, I too would spend my labour on prosecuting and unfolding the charges. Now, since you have set yourself to fight against me not so much from your own nature as from his moment and case --- and maliciously --- it is necessary to oppose this kind of plan with some counsel of mine.",
+      "notes": null
+    },
+    {
+      "loc": "34",
+      "section": 34,
+      "lat": "tua ratio est ut secundum binos ludos mihi respondere incipias, mea ut ante primos ludos comperendinem. ita fiet ut tua ista ratio existimetur astuta, meum hoc consilium necessarium. verum illud quod institueram dicere, mihi rem tecum esse, huius modi est. ego cum hanc causam Siculorum rogatu recepissem, idque mihi amplum et praeclarum existimassem, eos velle meae fidei diligentiaeque periculum facere qui innocentiae abstinentiaeque fecissent, tum suscepto negotio maius quiddam mihi proposui, in quo meam in rem publicam voluntatem populus Romanus perspicere posset.",
+      "eng": "Your reasoning is to begin to answer me after the second set of games; mine is to adjourn before the first games. So your reasoning will be reckoned cunning, and this counsel of mine necessary. But what I had begun to say --- that the matter is between you and me --- is of this kind. When I had taken up this case at the request of the Sicilians, and had thought it ample and splendid for me that they wished to test my good faith and diligence who had tested my innocence and abstinence, then, having undertaken the business, I set before myself something greater: in which the Roman people might perceive my goodwill toward the commonwealth.",
+      "notes": null
+    },
+    {
+      "loc": "35",
+      "section": 35,
+      "lat": "nam illud mihi nequaquam dignum industria conatuque meo videbatur, istum a me in iudicium iam omnium iudicio condemnatum vocari, nisi ista tua intolerabilis potentia, et ea cupiditas qua per hosce annos in quibusdam iudiciis usus es, etiam in istius hominis desperati causa interponeretur. nunc vero, quoniam haec te omnis dominatio regnumque iudiciorum tanto opere delectat, et sunt homines quos libidinis infamiaeque suae neque pudeat neque taedeat, qui quasi de industria in odium offensionemque populi Romani inruere videantur, hoc me profiteor suscepisse magnum fortasse onus et mihi periculosum , verum tamen dignum in quo omnis nervos aetatis industriaeque meae contenderem.",
+      "eng": "For it did not seem to me at all worthy of my industry and effort that this man, already condemned in the judgement of all, should be summoned by me into a trial --- unless that intolerable power of yours, and that greed which through these years you have used in certain trials, should be brought to bear even in the case of this desperate man. Now, indeed, since this whole tyranny and royal rule of the courts pleases you so greatly, and there are men whom their own lust and infamy neither shames nor wearies, who, as if of set purpose, seem to rush against the hatred and offence of the Roman people --- I declare that I have undertaken what is perhaps a great burden, and dangerous to me, but worthy of having all the sinews of my age and industry strained to it.",
+      "notes": null
+    },
+    {
+      "loc": "36",
+      "section": 36,
+      "lat": "quoniam totus ordo paucorum improbitate et audacia premitur et urgetur infamia iudiciorum, profiteor huic generi hominum me inimicum accusatorem, odiosum, adsiduum, acerbum adversarium. hoc mihi sumo, hoc mihi deposco, quod agam in magistratu, quod agam ex eo loco ex quo me populus Romanus ex Kalendis Ianuariis secum agere de re publica ac de hominibus improbis voluit; hoc munus aedilitatis meae populo Romano amplissimum pulcherrimumque polliceor. moneo , praedico, ante denuntio: qui aut deponere aut accipere aut recipere aut polliceri aut sequestres aut interpretes corrumpendi iudici solent esse, quique ad hanc rem aut potentiam aut impudentiam suam professi sunt, abstineant in hoc iudicio manus animosque ab hoc scelere nefario.",
+      "eng": "Since the whole order is being pressed by the wickedness and audacity of a few, and weighed down by the infamy of the courts, I declare myself a hostile prosecutor of this kind of men --- a hateful, untiring, bitter adversary. This I take upon myself; this I demand for myself --- to act in office, to act from that place where the Roman people, from the first of January, has wished me to act with it on the commonwealth and on dishonest men. This service of my aedileship I promise the Roman people, the most ample and most beautiful. I warn, I forewarn, I declare in advance: those who are accustomed to deposit, to receive, to take charge of, to promise, to be go-betweens or interpreters in corrupting the court; those who have professed for this purpose either their power or their shamelessness --- let them keep their hands and their minds in this trial from this unspeakable crime.",
+      "notes": null
+    },
+    {
+      "loc": "37",
+      "section": 37,
+      "lat": "erit tum consul Hortensius cum summo imperio et potestate, ego autem aedilis, hoc est paulo amplius quam privatus; tamen haec huius modi res est quam me acturum esse polliceor, ita populo Romano grata atque iucunda, ut ipse consul in hac causa prae me minus etiam, si fieri possit, quam privatus esse videatur. omnia non modo commemorabuntur, sed etiam expositis certis rebus agentur, quae inter decem annos, posteaquam iudicia ad senatum translata sunt, in rebus iudicandis nefarie flagitioseque facta sunt.",
+      "eng": "Hortensius will then be consul with the highest command and power; I shall be aedile --- that is, somewhat more than a private citizen. Yet the matter on which I promise to act is of such a kind, so welcome and pleasing to the Roman people, that the consul himself will, in this case, beside me, seem (if it can be) less even than a private citizen. Everything will not only be mentioned, but, with definite cases set out, will be acted upon: things which in the ten years since the courts were transferred to the senate have been done in giving judgements unspeakably and disgracefully.",
+      "notes": null
+    },
+    {
+      "loc": "38",
+      "section": 38,
+      "lat": "cognoscet ex me populus Romanus quid sit quam ob rem, cum equester ordo iudicaret, annos prope quinquaginta continuos in nullo, iudices , equite Romano iudicante ne tenuissima quidem suspicio acceptae pecuniae ob rem iudicandam constituta sit; quid sit quod, iudiciis ad senatorium ordinem translatis sublataque populi Romani in unum quemque vestrum potestate, Q. Calidius damnatus dixerit minoris HS triciens praetorium hominem honeste non posse damnari; quid sit quod, P. Septimio senatore damnato Q. Hortensio praetore de pecuniis repetundis, lis aestimata sit eo nomine, quod ille ob rem iudicandam pecuniam accepisset.",
+      "eng": "The Roman people will learn from me why, when the equestrian order was sitting in judgement, for nearly fifty continuous years, on no Roman knight as juror was even the slightest suspicion of money taken for a judgement established; but why, after the courts were transferred to the senatorial order and the power of the Roman people over each one of you was abolished, Quintus Calidius, when condemned, said that an ex-praetor could not honourably be condemned for less than three million sesterces; why, when the senator Publius Septimius was condemned under Quintus Hortensius the praetor on extortion, the case was assessed under that very heading --- that he had received money for a judgement.",
+      "notes": null
+    },
+    {
+      "loc": "39",
+      "section": 39,
+      "lat": "quod in C. Herennio, quod in C. Popilio , senatoribus, qui ambo peculatus damnati sunt, quod in M. Atilio, qui de maiestate damnatus est, hoc planum factum est , eos pecuniam ob rem iudicandam accepisse, quod inventi sunt senatores qui C. Verre praetore urbano sortiente exirent in eum reum quem incognita causa condemnarent, quod inventus est senator qui, cum iudex esset, in eodem iudicio et ab reo pecuniam acciperet quam iudicibus divideret, et ab accusatore ut reum condemnaret.",
+      "eng": "What in Gaius Herennius, what in Gaius Popilius, both senators, both condemned for embezzlement; what in Marcus Atilius, who was condemned for treason --- this has been made plain: that they took money for a judgement; that there were senators found who, when Gaius Verres was urban praetor and was drawing lots, came forward to convict an unheard defendant; that a senator was found who, being a juror, in the same trial took money both from the defendant to distribute to the jurors, and from the prosecutor to convict the defendant.",
+      "notes": null
+    },
+    {
+      "loc": "40",
+      "section": 40,
+      "lat": "iam vero quo modo ego illam 4o labem ignominiam calamitatemque totius ordinis conquerar, hoc factum esse in hac civitate, cum senatorius ordo iudicaret, ut discoloribus signis iuratorum hominum sententiae notarentur? haec omnia me diligenter severeque acturum esse polliceor. quo me tandem animo fore putatis , si quid in hoc ipso iudicio intellexero simili aliqua ratione esse violatum atque commissum? cum praesertim planum facere multis testibus possim C. Verrem in Sicilia multis audientibus saepe dixisse se habere hominem potentem cuius fiducia provinciam spoliaret ; neque sibi soli pecuniam quaerere, sed ita triennium illud praeturae Siciliensis distributum habere ut secum praeclare agi diceret si unius anni quaestum in rem suam converteret, alterum patronis et defensoribus traderet, tertium illum uberrimum quaestuosissimumque annum totum iudicibus reservaret.",
+      "eng": "How shall I lament that ruin, that ignominy, that calamity of the whole order: that this was done in this state, when the senatorial order was sitting in judgement, that the votes of sworn men were marked with different-coloured signs? All these things I promise to do diligently and severely. With what mind, do you suppose, shall I be, if I perceive in this very trial that something has been violated and committed in some similar fashion? --- especially when I can make plain by many witnesses that Gaius Verres in Sicily said many times in the hearing of many that he had a powerful man in whose confidence he was plundering the province; that he was not seeking money for himself alone; that he had so apportioned that triennium of his Sicilian praetorship that he reckoned it would be splendid for him if he turned the gain of one year to his own use; the second to his patrons and defenders; the third, that most lavish and most profitable year, he reserved entirely for the jurors.",
+      "notes": null
+    },
+    {
+      "loc": "41",
+      "section": 41,
+      "lat": "ex quo mihi venit in mentem illud dicere, quod apud M'. Glabrionem nuper cum in reiciundis iudicibus commemorassem intellexi vehementer populum Romanum commoveri, me arbitrari fore uti nationes exterae legatos ad populum Romanum mitterent, ut lex de pecuniis repetundis iudiciumque tolleretur; si enim iudicia nulla sint,, tantum unum quemque ablaturum putant quantum sibi ac liberis suis satis esse arbitretur; nunc, quod eius modi iudicia sint tantum unum quemque auferre quantum sibi, patronis, advocatis, praetori, iudicibus satis futurum sit; hoc profecto infinitum esse; se avarissimi hominis cupiditati satis facere posse, nocentissimi victoriae non posse.",
+      "eng": "From which it occurs to me to say what, when I had recently mentioned it before Manius Glabrio in rejecting the jurors, I understood the Roman people to be greatly moved by: that I think foreign nations will send embassies to the Roman people for the law on extortion and the trial to be abolished. For if there are no trials, they think, each man will take only as much as he reckons enough for himself and his children. Now, with trials of this kind, each man takes as much as will suffice for him, his patrons, advocates, the praetor, and the jurors --- and this is, indeed, infinite. He says he can satisfy the desire of the most greedy man, but cannot satisfy the victory of the most guilty.",
+      "notes": null
+    },
+    {
+      "loc": "42",
+      "section": 42,
+      "lat": "O commemoranda iudicia praeclaramque existimationem nostri ordinis, cum socii populi Romani iudicia de pecuniis repetundis fieri nolunt, quae a maioribus nostris sociorum causa comparata sunt! an iste umquam de se bonam spem habuisset, nisi de vobis malam opinionem animo imbibisset? quo maiore etiam, si fieri potest, apud vos odio esse debet quam est apud populum Romanum, cum in avaritia, scelere, periurio vos sui similis esse arbitretur.",
+      "eng": "What memorable courts! What splendid reputation of our order, when the allies of the Roman people are unwilling that trials on extortion --- which were established by our ancestors for the sake of the allies --- should take place at all! Or would Verres ever have had a good hope of himself, unless he had drunk in a bad opinion of you in his mind? For which reason he ought, if it can be, to be even more hated by you than he is by the Roman people, when he supposes that, in greed, in crime, in perjury, you are like himself.",
+      "notes": null
+    },
+    {
+      "loc": "43",
+      "section": 43,
+      "lat": "cui loco, per deos immortalis, iudices, consulite ac providete! moneo praedicoque id quod intellego, tempus hoc vobis divinitus datum esse ut odio, invidia, infamia, turpitudine totum ordinem liberetis. nulla in iudiciis severitas , nulla religio, nulla denique iam existimantur esse iudicia. itaque a populo Romano contemnimur, despicimur; gravi diuturnaque iam flagramus infamia.",
+      "eng": "For this place, by the immortal gods, gentlemen, take care and provide. I warn and proclaim what I understand: that this moment has been given you divinely, that you may free the whole order from hatred, resentment, infamy, and disgrace. There is no longer any thought of strictness in the courts, no scruple, no longer is there even thought to be any \"court\" at all. So we are despised and looked down on by the Roman people. We are now scorched with serious and lasting infamy.",
+      "notes": null
+    },
+    {
+      "loc": "44",
+      "section": 44,
+      "lat": "neque enim ullam aliam ob causam populus Romanus tribuniciam potestatem tanto studio requisivit; quam cum poscebat, verbo illam poscere videbatur, re vera iudicia poscebat. neque hoc Q. Catulum, hominem sapientissimum atque amplissimum, fugit, qui Cn. Pompeio, viro fortissimo et clarissimo , de tribunicia potestate referente cum esset sententiam rogatus, hoc initio est summa cum auctoritate usus, patres conscriptos iudicia male et flagitiose tueri; quodsi in rebus iudicandis populi Romani existimationi satis facere voluissent, non tanto opere homines fuisse tribuniciam potestatem desideraturos.",
+      "eng": "For no other cause did the Roman people seek the tribunician power back with such zeal. When it was demanding it, in word it seemed to be demanding the tribunate, but in fact it was demanding the courts. Nor did this escape Quintus Catulus, that wisest and most distinguished man, who, when Gnaeus Pompey, that bravest and most illustrious man, was bringing forward the matter of the tribunician power, and Catulus was asked his opinion --- with the highest authority used this opening: that the senators were maintaining the courts badly and disgracefully; if they had wished to satisfy the estimation of the Roman people in giving judgements, men would not so greatly have desired the tribunician power.",
+      "notes": null
+    },
+    {
+      "loc": "45",
+      "section": 45,
+      "lat": "ipse denique Cn. Pompeius cum 4s primum contionem ad urbem consul designatus habuit, ubi, id quod maxime exspectari videbatur, ostendit se tribuniciam potestatem restituturum, factus est in eo strepitus et grata contionis admurmuratio. idem in eadem contione cum dixisset populatas vexatasque esse provincias, iudicia autem turpia ac flagitiosa fieri; ei rei se providere ac consulere velle; tum vero non strepitu, sed maximo clamore suam 6 populus Romanus significavit voluntatem.",
+      "eng": "Finally Gnaeus Pompey himself, when, as consul-elect, he held his first public meeting at Rome, where, what was most awaited, he showed that he would restore the tribunician power, there arose a noise in that meeting and a welcome murmur of approval. The same man at the same meeting, when he had said that the provinces had been plundered and harassed, that the courts were being conducted shamefully and disgracefully, and that he wished to provide for and consult that matter --- then, indeed, not by murmur but by the loudest cry the Roman people signified its will.",
+      "notes": null
+    },
+    {
+      "loc": "46",
+      "section": 46,
+      "lat": "nunc autem 46 homines in speculis sunt; observant quem ad modum sese unus quisque nostrum gerat in retinenda religione conservandisque legibus. vident adhuc post legem tribuniciam unum senatorem vel tenuissimum esse damnatum; quod tametsi non reprehendunt, tamen magno opere quod laudent non habent; nulla est enim laus ibi esse integrum ubi nemo est qui aut possit aut conetur corrumpere.",
+      "eng": "Now men are on the lookout. They are observing how each one of us behaves in retaining religion and preserving the laws. They see that, since the tribunician law, only one senator --- and a most insignificant one --- has been condemned. Which, although they do not censure, yet they do not greatly have anything to praise; for there is no praise in being upright where there is no one who can or tries to corrupt.",
+      "notes": null
+    },
+    {
+      "loc": "47",
+      "section": 47,
+      "lat": "hoc est iudicium in quo vos de reo, populus Romanus de vobis iudicabit; in hoc homine statuetur, possitne senatoribus iudicantibus homo nocentissimus pecuniosissimusque damnari. deinde est eius modi reus in quo homine nihil sit praeter summa peccata maximamque pecuniam, ut, si liberatus sit, nulla alia suspicio nisi ea quae turpissima est residere possit; non gratia, non cognatione, non aliis recte factis, non denique aliquo mediocri vitio tot tantaque eius vitia sublevata esse videbuntur .",
+      "eng": "This is the trial in which you will give judgement on the defendant; the Roman people will judge you. In this man it will be settled whether, with senators sitting as jurors, the most guilty and most moneyed man can be condemned. Then he is the kind of defendant in whom there is nothing but the highest crimes and the greatest sum of money: so that, if he is acquitted, no other suspicion can remain than that which is most disgraceful. Not by favour, not by kinship, not by other rightly done deeds, not finally by any moderate vice, will so many and so great vices of his be seen to be lightened.",
+      "notes": null
+    },
+    {
+      "loc": "48",
+      "section": 48,
+      "lat": "postremo ego causam sic agam, iudices, eius modi res, ita notas, ita testatas, ita magnas, ita manifestas proferam, ut nemo a vobis ut istum absolvatis per gratiam conetur contendere. habeo autem certam viam atque rationem qua omnis illorum conatus investigare et consequi possim; ita res a me agetur ut in eorum consiliis omnibus non modo aures omnium , sed etiam oculi populi Romani interesse videantur.",
+      "eng": "Finally, gentlemen, I shall conduct the case in such a way --- I shall produce things so notorious, so witnessed, so great, so manifest --- that no one will try to entreat you out of favour to acquit him. I have besides a definite path and method by which I can investigate and follow up all their attempts. The matter will be conducted by me in such a way that, in all their plans, not only the ears of all but even the eyes of the Roman people shall seem to be present.",
+      "notes": null
+    },
+    {
+      "loc": "49",
+      "section": 49,
+      "lat": "vos aliquot iam per annos conceptam huic ordini turpitudinem atque infamiam delere ac tollere potestis. constat inter omnis post haec constituta iudicia, quibus nunc utimur, nullum hoc splendore atque hac dignitate consilium fuisse. hic si quid erit offensum, omnes homines non iam ex eodem ordine alios magis idoneos, quod fieri non potest, sed alium omnino ordinem ad res iudicandas quaerendum arbitrabuntur.",
+      "eng": "You can wipe out and lift away from this order the disgrace and infamy now contracted for several years. It is agreed among all that, since these courts (with which we now use) were established, no council has been of this splendour and dignity. If anything goes wrong here, all men will think that no longer must others more suitable be sought from the same order (which is impossible) but a different order altogether for giving judgements.",
+      "notes": null
+    },
+    {
+      "loc": "50",
+      "section": 50,
+      "lat": "quapropter primum ab dis immortalibus, quod sperare mihi videor, hoc idem, iudices, opto , ut in hoc iudicio nemo improbus praeter eum qui iam pridem inventus est reperiatur; deinde, si plures improbi fuerint, hoc vobis, hoc populo Romano, iudices, confirmo, vitam mehercule mihi prius quam vim perseverantiamque ad illorum improbitatem persequendam defuturam.",
+      "eng": "Wherefore I first beg this from the immortal gods, what I seem to myself to hope for: that in this trial no dishonest man may be found beyond the one who has long since been found. Then, if there shall have been more dishonest men, I assure you, gentlemen, I assure the Roman people, life shall fail me sooner than the force and perseverance of pursuing their dishonesty.",
+      "notes": null
+    },
+    {
+      "loc": "51",
+      "section": 51,
+      "lat": "verum quod ego laboribus periculis inimicitiisque meis tum cum admissum erit dedecus severe me persecuturum esse polliceor, id ne accidat tu tua auctoritate, sapientia, diligentia, M'. Glabrio, potes providere. suscipe causam iudiciorum; suscipe causam severitatis , integritatis, fidei, religionis; suscipe causam senatus, ut is hoc iudicio probatus cum populo Romano et in laude et in gratia esse possit. cogita , quo loco sis , quid dare populo Romano, quid reddere maioribus tuis debeas; fac tibi paternae legis Aciliae veniat in mentem, qua lege populus Romanus de pecuniis repetundis optimis iudiciis severissimisque iudicibus usus est.",
+      "eng": "But what I promise will be strictly pursued by my labour, dangers, and enmities, when the disgrace shall have been committed --- you, Manius Glabrio, can prevent from happening at all by your authority, wisdom, diligence. Take up the cause of the courts. Take up the cause of strictness, integrity, faith, religion. Take up the cause of the senate, that, having been approved by this trial, it may be in praise and in favour with the Roman people. Consider where you stand, what you owe to the Roman people, what you owe to your ancestors. See to it that your father's lex Acilia comes to mind, by which law the Roman people used the best courts and the strictest jurors against extortion.",
+      "notes": null
+    },
+    {
+      "loc": "52",
+      "section": 52,
+      "lat": "circumstant te summae auctoritates, quae te oblivisci laudis domesticae non sinant, quae te noctes diesque commoneant fortissimum tibi patrem, sapientissimum avum, gravissimum socerum fuisse. quare si Glabrionis patris vim et acrimoniam ceperis ad resistendum hominibus audacissimis, si avi Scaevolae prudentiam ad prospiciendas insidias quae tuae atque horum famae comparantur, si soceri Scauri constantiam, ut ne quis te de vera et certa possit sententia demovere, intelleget populus Romanus integerrimo atque honestissimo praetore delectoque consilio nocenti reo magnitudinem pecuniae plus habuisse momenti ad suspicionem criminis quam ad rationem salutis.",
+      "eng": "The greatest authorities stand around you which will not let you forget your domestic praise; which day and night will remind you that your father was a most brave man, your grandfather a most wise man, your father-in-law a most weighty man. Wherefore, if you take from your father Glabrio his force and keenness in resisting the most audacious men; if from your grandfather Scaevola his prudence in foreseeing the snares that are being prepared against your reputation and that of these gentlemen; if from your father-in-law Scaurus his constancy, that no one can shift you from a true and certain opinion --- the Roman people will understand that, with a most upright and most honourable praetor and a chosen council, the magnitude of money in a guilty defendant has had more weight in suspecting the charge than in calculating his safety.",
+      "notes": null
+    },
+    {
+      "loc": "53",
+      "section": 53,
+      "lat": "mihi certum est non committere ut in hac causa praetor nobis consiliumque mutetur. non patiar rem in id tempus adduci ut quos adhuc servi designatorum consulum non moverunt, cum eos novo exemplo universos arcesserent, eos tum lictores consulum vocent; ut homines miseri, antea socii atque amici populi Romani, nunc servi ac supplices, non modo ius suum fortunasque omnis eorum imperio amittant, verum etiam deplorandi iuris sui potestatem non habeant.",
+      "eng": "I am resolved not to allow that, in this case, our praetor and council shall be changed. I will not suffer the matter to be drawn out to that time when those whom even the slaves of the consuls-elect have not been able to move (when by a new precedent they were summoning them all together) the lictors of the consuls themselves shall summon; that men in distress, before allies and friends of the Roman people, now slaves and suppliants, shall not only by their command lose their right and all their fortunes, but also not have the power of lamenting their right.",
+      "notes": null
+    },
+    {
+      "loc": "54",
+      "section": 54,
+      "lat": "non sinam profecto causa a me perorata, quadraginta diebus interpositis, tum nobis denique responderi cum accusatio nostra in oblivionem diuturnitatis adducta sit. non committam ut tum haec res iudicetur, cum haec frequentia totius Italiae Roma discesserit, quae convenit uno tempore undique comitiorum ludorum censendique causa. huius iudici et laudis fructum et offensionis periculum vestrum, laborem sollicitudinemque nostram, scientiam quid agatur, memoriamque quid a quoque dictum sit, omnium puto esse oportere.",
+      "eng": "I shall surely not allow that, my speech once finished, with forty days interposed, then at last we should be answered, when our prosecution shall have been brought into the oblivion of long delay. I will not let this matter be judged when this great gathering of all Italy shall have left Rome, which has assembled at one moment from everywhere on account of the elections, the games, and the census. The fruit of praise and the danger of offence in this trial belongs to you, the labour and care to me, the knowledge of what is being done and the memory of what each man has said belongs (I think) to all.",
+      "notes": null
+    },
+    {
+      "loc": "55",
+      "section": 55,
+      "lat": "faciam hoc non novum, sed ab iis qui nunc principes nostrae civitatis sunt ante factum, ut testibus utar statim: illud a me novum, iudices, cognoscetis, quod ita testis constituam ut crimen totum explicem, ubi id interrogando argumentis atque oratione firmavero, tum testis ad crimen adcommodem, ut nihil inter illam usitatam accusationem atque hanc novam intersit, nisi quod in illa tum cum omnia dicta sunt testes dantur, hic in singulas res dabuntur, ut illis quoque eadem interrogandi facultas argumentandi dicendique sit. si quis erit qui perpetuam orationem accusationemque desideret, altera actione audiet; nunc id quod facimus,— quia ea ratione facimus, ut malitiae illorum consilio nostro occurramus,—necessario fieri intellegat.",
+      "eng": "I shall do this not as something new, but as something done before by those who are now the leading men of our state: I shall use witnesses at once. This you will recognise as new from me, gentlemen: that I shall set up the witnesses in such a way as to unfold the whole charge; when by interrogation, by arguments and by speech, I shall have established it, then I shall fit the witnesses to the charge --- so that there shall be nothing different between the customary prosecution and this new one, except that in the former, when everything has been said, the witnesses are produced; here, on each particular thing they will be produced, so that they too shall have the same opportunity of being interrogated, of arguing, and of speaking. If there is anyone who desires a continuous oration and prosecution, he will hear it in the second hearing. Now what we are doing --- because we are doing it for the reason that we may meet their malice with our counsel --- let him understand is necessary.",
+      "notes": null
+    },
+    {
+      "loc": "56",
+      "section": 56,
+      "lat": "haec primae actionis erit accusatio. dicimus C. Verrem, cum multa libidinose, multa crudeliter in civis Romanos atque socios , multa in deos hominesque nefarie fecerit, tum praeterea quadringentiens sestertium ex Sicilia contra leges abstulisse. hoc testibus, hoc tabulis privatis publicisque auctoritatibus ita vobis planum faciemus ut hoc statuatis, etiamsi spatium ad dicendum nostro commodo vacuosque dies habuissemus, tamen oratione longa nihil opus fuisse. dixi .",
+      "eng": "This will be the prosecution in this first hearing. We say that Gaius Verres, when he had done many things wantonly, many cruelly toward Roman citizens and allies, many things impiously toward gods and men, has besides taken from Sicily forty million sesterces against the laws. This by witnesses, by private documents, by public records, by authorities, we will so make plain to you that you may decide that, even if we had had time at our convenience and free days for speaking, yet there had been no need of a long oration. I have spoken.",
+      "notes": null
+    }
+  ]
+}

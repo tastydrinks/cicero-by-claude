@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-09",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.9",
+  "title_english": "Ad Atticum 3.9",
+  "date": "-0058-06-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Quintus frater cum ex Asia discessisset ante Kal. Maias et Athenas venisset Idibus, valde fuit ei properandum, ne quid absens acciperet calamitatis, si quis forte fuisset qui contentus nostris malis non esset. itaque eum malui properare Romam quam ad me venire et simul (dicam enim quod verum est, ex quo magnitudinem miseriarum mearum perspicere possis) animum inducere non potui ut aut illum amantissimum mei mollissimo animo tanto in maerore aspicerem aut meas miserias luctu adflictus et perditam fortunam illi offerrem aut ab illo aspici paterer. atque etiam illud timebam, quod profecto accidisset, ne a me digredi non posset. versabatur mihi tempus illud ante oculos quom ille aut lictores dimitteret aut vi avelleretur ex complexu meo. huius acerbitatis eventum altera acerbitate non videndi fratris vitavi. in hunc me casum vos vivendi auctores impulistis.",
+      "eng": "My brother Quintus, having left Asia before the Kalends of May and come to Athens on the Ides, had every reason to hurry, in case some further calamity should come upon him in his absence, if anyone happened not to be content with the miseries we already had. So I preferred that he hurry to Rome rather than come to me; and besides --- I shall say what is true, that you may see from it the size of my miseries --- I could not bring my mind to look upon a man who loves me so much, with that soft heart of his, in so deep a grief, nor to offer my miseries and my ruined fortune, in the depth of my own sorrow, to him; nor to bear his looking on me. And I was also afraid of this, which surely would have happened: that he could not have brought himself to leave me. There came before my eyes the moment when he would either send away his lictors, or be torn out of my embrace by force. The bitterness of that event I avoided by another bitterness, the not seeing of my brother. Into such a case as this you, who urged me to live, have driven me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "itaque mei peccati luo poenas. quam quam me tuae litterae sustentant ex quibus quantum tu ipse speres facile perspicio; quae quidem tamen aliquid habebant solaci ante quam eo venisti a Pompeio. nunc Hortensium adlice et eius modi viros. obsecro , mi Pomponi, nondum perspicis quorum opera, quorum insidiis, quorum scelere perierimus? sed tecum haec omnia coram agemus; tantum dico quod scire te puto, nos non inimici sed invidi perdiderunt. nunc si ita sunt quae speras, sustinebimus nos et spe qua iubes nitemur; sin, ut mihi videntur, infirma sunt, quod optimo tempore facere non licuit minus idoneo fiet.",
+      "eng": "And so I pay the penalty of my own offence. Yet your letters sustain me; and from them I see clearly how much hope you yourself have. They had still some power of consolation before you came to Pompey. Now bring Hortensius over, and men of his sort. I beg of you, my Pomponius, do you not yet see by whose hand, by whose plotting, by whose villainy we have been ruined? But all this we shall handle face to face. I say only what I think you know already: that it was not enemies but men who envied us who undid us. Now if the things you hope for stand, we shall keep ourselves up, and lean on the hope you bid us hope. If, as they seem to me, they are unsound, then what could not be done at the best moment will be done at a less suitable one.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Terentia tibi saepe agit gratias. mihi etiam unum de malis in metu est, fratris miseri negotium; quod si sciam quoius modi sit, sciam quid agendum mihi sit. me etiam nunc istorum beneficiorum et litterarum exspectatio, ut tibi placet, Thessalonicae tenet. si quid erit novi adlatum, sciam de reliquo quid agendum sit. tu si, ut scribis, Kal. Iuniis Roma profectus es, prope diem nos videbis. litteras quas ad Pompeium scripsi tibi misi. data id . Iun. Thessalonicae.",
+      "eng": "Terentia often gives you thanks. There is one of my evils still in fear: my poor brother's affair. If I knew of what kind it was, I should know what I have to do. The expectation of those favours and letters, as you wish, still holds me at Thessalonica. If anything new is brought, I shall know about the rest what is to be done. If you, as you write, set out from Rome on the Kalends of June, you will see us very soon. I have sent you the letter I wrote to Pompey. Sent on the Ides of June, at Thessalonica.",
+      "notes": null
+    }
+  ]
+}

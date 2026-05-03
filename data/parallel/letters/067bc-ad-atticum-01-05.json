@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-05",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.5",
+  "title_english": "Ad Atticum 1.5",
+  "date": "-0067-10-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quantum dolorem acceperim et quanto fructu sim privatus et forensi et domestico Luci fratris nostri morte in primis pro nostra consuetudine tu existimare potes. nam mihi omnia quae iucunda ex humanitate alterius et moribus homini accidere possunt ex illo accidebant. qua re non dubito quin tibi quoque id molestum sit, cum et meo dolore moveare et ipse omni virtute officioque ornatissimum tuique et sua sponte et meo sermone amantem adfinem amicumque amiseris.",
+      "eng": "How great a grief I have taken, and of how great a fruit I have been deprived, both forensic and domestic, by the death of our cousin Lucius --- you, by virtue of our intimacy, can judge as well as anyone. For all that can come to a man as joy from the kindness and character of another came to me from him. So I have no doubt that this too is a sorrow to you, since you both are moved by my grief and have yourself lost a connection and a friend most adorned with every virtue and duty, who loved you both of his own accord and through what I had said.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod ad me scribis de sorore tua, testis erit tibi ipsa quantae mihi curae fuerit ut Quinti fratris animus in eam esset is qui esse deberet. quem cum esse offensiorem arbitrarer, eas litteras ad eum misi quibus et placarem ut fratrem et monerem ut minorem et obiurgarem ut errantem. itaque ex iis quae postea saepe ab eo ad me scripta sunt confido ita esse omnia ut et oporteat et velimus.",
+      "eng": "As to what you write to me about your sister, she herself will be witness to you of how greatly it has been my care that my brother Quintus's feeling toward her should be what it ought to be. Thinking him still rather offended, I sent him a letter in which I appeased him as a brother, and admonished him as a younger man, and rebuked him as one in error. So, from what he has often written back to me since, I am confident that things are as they ought to be and as we wish.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de litterarum missione sine causa abs te accusor. numquam enim a Pomponia nostra certior sum factus esse cui dare litteras possem, porro autem neque mihi accidit ut haberem qui in Epirum proficisceretur nequedum te Athenis esse audiebamus.",
+      "eng": "About the sending of letters, you accuse me without cause. For I was never told by our Pomponia that there was anyone to whom I might give a letter; nor again has it happened to me to have someone setting out for Epirus, nor were we yet hearing that you were at Athens.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de Acutiliano autem negotio quod mihi mandaras, ut primum a tuo digressu Romam veni, confeceram; sed accidit ut et contentione nihil opus esset et ut ego, qui in te satis consili statuerim esse, mallem Peducaeum tibi consilium per litteras quam me dare. etenim cum multos dies auris meas Acutilio dedissem, cuius sermonis genus tibi notum esse arbitror, non mihi grave duxi scribere ad te de illius querimoniis, cum eas audire, quod erat subodiosum, leve putassem. sed abs te ipso qui me accusas unas mihi scito litteras redditas esse, cum et oti ad scribendum plus et facultatem dandi maiorem habueris.",
+      "eng": "The Acutilian business which you had commissioned to me I had wound up, as soon as I came back to Rome after parting from you. But it happened that no contention was needed, and that I, judging there to be counsel enough in you, preferred Peducaeus to give you advice by letter rather than I. For when for many days I had given my ears to Acutilius --- whose kind of talk I think is known to you --- I did not think it heavy to write to you of his complaints, having reckoned the listening (which was rather tedious) the lighter task. But from you, who accuse me, know that I have had only one letter delivered, even though you have had both more leisure for writing and a greater chance of sending.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "quod scribis, etiam si cuius animus in te esset offensior, a me recolligi oportere, teneo quid dicas neque id neglexi, sed est miro quodam modo adfectus. ego autem quae dicenda fuerunt de te non praeterii; quid autem contendendum esset ex tua putabam voluntate me statuere oportere. quam si ad me perscripseris, intelleges me neque diligentiorem esse voluisse quam tu esses neque neglegentiorem fore quam tu velis.",
+      "eng": "As for what you write --- that, even if anyone's feeling toward you should be more offended, he ought to be brought back to you by me --- I grasp what you mean and have not neglected it; but the man's mind is in a quite extraordinary state. I, however, did not pass over anything that needed to be said in your defence; how hard I should press the contest, I thought I ought to settle on the basis of your wish. If you write that out to me at length, you will see that I have neither wished to be more diligent than you would be, nor will be more negligent than you wish.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "de Tadiana re mecum Tadius locutus est te ita scripsisse, nihil esse iam quod laboraretur, quoniam hereditas usu capta esset. id mirabamur te ignorare, de tutela legitima, in qua dicitur esse puella, nihil usu capi posse.",
+      "eng": "About the Tadian business, Tadius has spoken with me; you wrote, he said, that there was no need now to be troubled, since the inheritance had been acquired by usucaption. I was surprised that you did not know that, in the case of statutory guardianship --- under which the girl is said to be --- nothing can be acquired by use.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "Epiroticam emptionem gaudeo tibi placere. quae tibi mandavi et quae tu intelleges convenire nostro Tusculano velim, ut scribis, cures, quod sine molestia tua facere poteris. nam nos ex omnibus molestiis et laboribus uno illo in loco conquiescemus.",
+      "eng": "Of the Epirote purchase I am glad it pleases you. What I have commissioned to you, and what you will yourself see to suit our Tusculan villa, please, as you write, see to --- so far as you can do without trouble. For from all troubles and labours we shall rest in that one place.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "Quintum fratrem cotidie exspectamus. Terentia magnos articulorum dolores habet. et te et sororem tuam et matrem maxime diligit salutemque tibi plurimam ascribit et Tulliola deliciae nostrae. cura ut valeas et nos ames et tibi persuadeas te a me fraterne amari.",
+      "eng": "My brother Quintus we are looking for daily. Terentia has great pains in her joints. She is most fond of you and your sister and your mother, and adds her warmest greetings, as does little Tullia, our darling. Take care to be well and to love us and to be sure that you are loved by me as a brother.",
+      "notes": null
+    }
+  ]
+}

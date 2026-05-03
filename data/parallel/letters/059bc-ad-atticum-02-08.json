@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.8",
+  "title_english": "Ad Atticum 2.8",
+  "date": "-0059-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "epistulam cum a te avide exspectarem ad vesperum, ut soleo, ecce tibi nuntius pueros venisse Roma! voco , quaero ecquid litterarum. negant . quid ais? inquam nihilne a Pomponio? perterriti voce et vultu confessi sunt se accepisse sed excidisse in via. quid quaeris? permoleste tuli; nulla enim abs te per hos dies epistula inanis aliqua re utili et suavi venerat. nunc si quid in ea epistula quam ante diem xvi Kal. Maias dedisti fuit historia dignum, scribe quam primum, ne ignoremus; sin nihil praeter iocationem, redde id ipsum. et scito Curionem adulescentem venisse ad me salutatum. valde eius sermo de Publio cum tuis litteris congruebat; ipse vero mirandum in modum reges odisse superbos. peraeque narrabat incensam esse iuventutem neque ferre haec posse. bene habemus nos, si in his spes est; opinor, aliud agamus. ego me do historiae; quamquam licet me Saufeium putes esse. nihil me est inertius.",
+      "eng": "As I was eagerly waiting for a letter from you toward evening, as is my custom: behold, a messenger announces that boys have come from Rome! I call them, I ask whether they have any letters. They say no. ``What?'' I say. ``Nothing from Pomponius?'' Frightened by my voice and my look, they confessed that they had taken one but had lost it on the road. What more? I bore it most ill; for no letter from you in these days had come empty of some useful and pleasant matter. Now if there was anything in that letter you sent on the seventeenth day before the Kalends of May worth the chronicle, write as soon as possible, that we may not be ignorant; but if nothing but a joke, give that very thing back. And know that the young Curio came to me in greeting. His talk on Publius greatly agreed with your letter; he himself indeed wonderfully hates haughty kings. He told me equally that the youth was inflamed and could not bear these things. We are well off if our hope is in these. I think we should turn to other things. I give myself to history, although you may suppose I am Saufeius. Nothing is lazier than I.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed cognosce itinera nostra, ut statuas ubi nos visurus sis. in Formianum volumus venire Parilibus; inde, quoniam putas praetermittendum nobis esse hoc tempore cratera illum delicatum, Kal. Maiis de Formiano proficiscemur, ut Anti simus a. d. v Nonas Maias. ludi enim Anti futuri sunt a iiii ad pr. Nonas Maias. eos Tullia spectare vult. inde cogito in Tusculanum, deinde Arpinum, Romam ad Kal. Iunias. te aut in Formiano aut Anti aut in Tusculano cura ut videamus. epistulam superiorem restitue nobis et appinge aliquid novi.",
+      "eng": "But learn now my journeys, that you may settle where you will see me. To the Formian villa I wish to come at the Parilia [21 April]; thence, since you think I should pass up that pretty little drinking-cup at this season, on the Kalends of May I shall set out from the Formian villa, so that I may be at Antium on the fifth day before the Nones of May. For there will be games at Antium from the fourth to the day before the Nones of May. These Tullia wishes to watch. Thence I think to the Tusculan villa, then to Arpinum, to Rome on the Kalends of June. See that we may see you either at the Formian villa, or at Antium, or at the Tusculan villa. Restore to us our earlier letter and add something new.",
+      "notes": null
+    }
+  ]
+}

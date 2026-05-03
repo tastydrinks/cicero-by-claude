@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-07",
+  "category": "letters",
+  "title_latin": "Ad Familiares 5.7",
+  "title_english": "Ad Familiares 5.7",
+  "date": "-0062-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. T. E. Q. V. B. E. ex litteris tuis, quas publice misisti, cepi una cum omnibus incredibilem voluptatem; tantam enim spem oti ostendisti, quantam ego semper omnibus te uno fretus pollicebar. sed hoc scito, tuos veteres hostis, novos amicos, vehementer litteris perculsos atque ex magna spe deturbatos iacere.",
+      "eng": "If you and the army are well, that is well. From your letters which you have sent for public reading, I have taken, together with all men, an incredible pleasure: for you have shown so great a hope of peace as I, leaning on you alone, have always promised to all. But know this --- your old enemies, your new friends, are vehemently struck down by the letters and lie cast down out of high hope.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ad me autem litteras quas misisti, quamquam exiguam significationem tuae erga me voluntatis habebant, tamen mihi scito iucundas fuisse; nulla enim re tam laetari soleo quam meorum officiorum conscientia; quibus si quando non mutue respondetur, apud me plus offici residere facillime patior. illud non dubito quin, si te mea summa erga te studia parum mihi adiunxerint, res publica nos inter nos conciliatura coniuncturaque sit.",
+      "eng": "As to the letter you have sent to me privately --- although it carried but a slight token of your goodwill toward me, yet, know, it was welcome to me. For in nothing am I wont to take so much joy as in the consciousness of my own services; and if at any time these are not answered with mutual response, I most easily endure that the larger share of duty rest with me. This I have no doubt of: that, if my supreme zeal toward you has too little drawn you to me, the commonwealth will reconcile and join us together.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ac ne ignores quid ego in tuis litteris desiderarim, scribam aperte, sicut et mea natura et nostra amicitia postulat. res eas gessi, quarum aliquam in tuis litteris et nostrae necessitudinis et rei p. causa gratulationem exspectavi; quam ego abs te praetermissam esse arbitror, quod vererere ne cuius animum offenderes. sed scito ea, quae nos pro salute patriae gessimus, orbis terrae iudicio ac testimonio comprobari; quae, cum veneris, tanto consilio tantaque animi magnitudine a me gesta esse cognosces, ut tibi multo maiori, quam Africanus fuit, me non multo minorem quam Laelium facile et in re p. et in amicitia adiunctum esse patiare.",
+      "eng": "And, that you may not be unaware of what I have missed in your letter, I shall write openly, as both my nature and our friendship demand. I have done deeds for which I expected, in your letters, on the score both of our connection and of the commonwealth, some congratulation. I think it has been passed over by you because you feared to offend any man's mind. But know this: those things which we did for the safety of our country are approved by the judgment and testimony of the whole world. When you come, you will recognize that they were done by me with such counsel and such greatness of spirit that you will easily endure that I --- not much less than Laelius was --- be joined in the commonwealth and in friendship to you, who are far greater than Africanus was.",
+      "notes": null
+    }
+  ]
+}

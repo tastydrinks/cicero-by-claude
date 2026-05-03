@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-05",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.5",
+  "title_english": "Ad Atticum 2.5",
+  "date": "-0059-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cupio equidem et iam pridem cupio Alexandream reliquamque Aegyptum visere et simul ab hac hominum satietate nostri discedere et cum aliquo desiderio reverti; sed hoc tempore et his mittentibus αἰδέομαι Τρῶασ καὶ Τρῳάδασ ἑλκεσιπέπλους. quid enim nostri optimates, si qui reliqui sunt, loquentur? an me aliquo praemio de sententia esse deductum? Πουλυδάμασ μοι πρῶτοσ ἐλεγχείην ἀναθήσει , Cato ille noster qui mihi unus est pro centum milibus. quid vero historiae de nobis ad annos DC praedicabunt? quas quidem ego multo magis vereor quam eorum hominum qui hodie vivunt rumusculos. sed , opinor, excipiamus et exspectemus. si enim deferetur, erit quaedam nostra potestas et tum deliberabimus. etiam hercule est in non accipiendo non nulla gloria. qua re si quid Θεοφάνησ tecum forte contulerit ne omnino repudiaris.",
+      "eng": "I do indeed desire, and have long desired, to see Alexandria and the rest of Egypt, and at the same time to leave behind this satiety of men with us, and to come back with some longing felt. But at this time, with these as the senders, ``I am ashamed before the Trojans and the long-robed Trojan women'' [Greek: aideomai Tr\\=oas kai Tr\\=oiadas helkesipeplous] (Iliad 6.442). For what shall our best men, if any are left, say --- that I have been led from my view by some reward? ``Polydamas first will fasten reproach on me'' [Greek: Pouludamas moi pr\\=otos elencheian anath\\=esei] (Iliad 22.100): that Cato of ours, who is alone to me as a hundred thousand. What indeed shall the histories say of us six hundred years hence? --- which I fear far more than the little rumours of the men who live today. But, I take it, let us wait and see. For if it is offered, there will be some power on our side, and we shall then deliberate. By Hercules, there is some glory, also, in not accepting. Wherefore if Theophanes [Greek: Theophan\\=es] happens to confer with you, do not utterly refuse.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de istis rebus exspecto tuas litteras, quid Arrius narret, quo animo se destitutum ferat, et qui consules parentur, utrum, ut populi sermo, Pompeius et Crassus an, ut mihi scribitur, cum Gabinio Servius Sulpicius, et num quae novae leges et num quid novi omnino, et quoniam Nepos proficiscitur, cuinam auguratus deferatur; quo quidem uno ego ab istis capi possum. vide levitatem meam. sed quid ego haec quae cupio deponere et toto animo atque omni cura φιλοσοφεῖν ? sic inquam in animo est; vellem ab initio, nunc vero, quoniam quae putavi esse praeclara expertus sum quam essent inania, cum omnibus Musis rationem habere cogito.",
+      "eng": "About these matters I am waiting for your letters: what Arrius reports, in what spirit he bears himself slighted, who are being readied as consuls --- whether, as the people's talk says, Pompey and Crassus, or, as is being written to me, Servius Sulpicius with Gabinius; whether any new laws or anything new at all; and, since Nepos is setting out, on whom the augurate is being conferred (in this one thing alone I can be caught by them). See my levity. But why these things, when I wish to lay them aside, and to philosophize [Greek: philosophein] with my whole spirit and all my care? So, I say, it is in my mind. I should have wished it from the beginning; now, since I have learned by trial how empty those things are which I had thought distinguished, I think of taking my reckoning with all the Muses.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "tu tamen de Curtio ad me rescribe certius, et nunc quis in eius locum paretur, et quid de P. Clodio fiat, et omnia, quem ad modum polliceris, ἐπὶ σχολῆσ scribe, et quo die Roma te exiturum putes velim ad me scribas, ut certiorem te faciam quibus in locis futurus sim, epistulamque statim des de iis rebus de quibus ad te scripsi. valde enim exspecto tuas litteras.",
+      "eng": "About Curtius, however, write back to me more certainly: who is now being readied in his place; and what is being done about Publius Clodius; and everything, as you promise, write at leisure [Greek: epi schol\\=es]. And what day you think you are going to leave Rome please write me, that I may inform you in what places I shall be; and send a letter at once on the matters about which I have written to you. For I am eagerly awaiting your letters.",
+      "notes": null
+    }
+  ]
+}

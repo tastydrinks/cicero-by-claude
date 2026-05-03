@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-01",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.1",
+  "title_english": "Ad Atticum 1.1",
+  "date": "-0065-07-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "petitionis nostrae, quam tibi summae curae esse scio, huius modi ratio est quod adhuc coniectura provideri possit. prensat unus P. Galba. sine fuco ac fallaciis more maiorum negatur. ut opinio est hominum, non aliena rationi nostrae fuit illius haec praepropera prensatio. nam illi ita negant vulgo ut mihi se debere dicant. ita quiddam spero nobis profici, cum hoc percrebrescit, plurimos nostros amicos inveniri. nos autem initium prensandi facere cogitaramus eo ipso tempore quo tuum puerum cum his litteris proficisci Cincius dicebat, in campo comitiis tribuniciis a. d. xvi Kalend. Sextilis . competitores , qui certi esse videantur, Galba et Antonius et Q. Cornificius. puto te in hoc aut risisse aut ingemuisse. ut frontem ferias, sunt qui etiam Caesonium putent. Aquilium non arbitrabamur, qui denegavit et iuravit morbum et illud suum regnum iudiciale opposuit. Catilina, si iudicatum erit meridie non lucere, certus erit competitor. de Aufidio et de Palicano non puto te exspectare dum scribam.",
+      "eng": "The state of my candidacy --- which I know is your highest care --- is, so far as can be made out by conjecture, of this kind. Publius Galba alone is canvassing. He is being refused without disguise or trickery, in the old way. As men think, his over-hasty canvassing has not been against my own interest; for they refuse him in such terms as to say that they are bound to me. So I hope something is gained for us as this becomes widely known --- that we are found to have most friends. We had been thinking of beginning to canvass at the very moment when, as Cincius said, your boy was setting out with this letter, on the Field at the tribunician elections, on the seventeenth day before the Kalends of Sextilis. Competitors who appear to be standing for certain: Galba, Antonius, and Quintus Cornificius. At this you will either have laughed or groaned. To make you strike your forehead, there are some who think Caesonius too. Aquilius we did not suppose, who refused, swore he was sick, and put forward that judicial kingship of his. Catiline, if it shall have been judged that the sun does not shine at noon, will be a certain competitor. About Aufidius and Palicanus I do not suppose you are waiting for me to write.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de iis qui nunc petunt Caesar certus putatur. Thermus cum Silano contendere existimatur; qui sic inopes et ab amicis et existimatione sunt ut mihi videatur non esse ἀδύνατον Curium obducere. sed hoc praeter me nemini videtur. nostris rationibus maxime conducere videtur Thermum fieri cum Caesare. nemo est enim ex iis qui nunc petunt qui, si in nostrum annum reciderit, firmior candidatus fore videatur, propterea quod curator est viae Flaminiae † que cum erit absoluta sane facile eum libenter nunc ceteri consuli acciderim†. petitorum haec est adhuc informata cogitatio. nos in omni munere candidatorio fungendo summam adhibebimus diligentiam et fortasse, quoniam videtur in suffragiis multum posse Gallia, cum Romae a iudiciis forum refrixerit, excurremus mense Septembri legati ad Pisonem ut Ianuario revertamur. cum perspexero voluntates nobilium, scribam ad te. cetera spero prolixa esse his dumtaxat urbanis competitoribus. illam manum tu mihi cura ut praestes, quoniam propius abes, Pompei, nostri amici. nega me ei iratum fore si ad mea comitia non venerit. atque haec huius modi sunt.",
+      "eng": "Of those who are now standing, Caesar is reckoned a certainty. Thermus is thought to be contending with Silanus; who are so destitute both of friends and of standing that to me it seems not impossible [Greek: adynaton] to bring forward Curius. But this seems so to no one but me. To our own interests it would seem most expedient that Thermus be elected with Caesar. For of those now standing, no one, if he should fall back into our year, would seem a stronger candidate, since he is curator of the Via Flaminia, which when it is finished I should be very glad to have him as my colleague\\textellipsis . Of the candidates this is, so far, the rough sketch of my thinking. We shall apply the highest diligence to fulfilling every duty of a candidate, and perhaps, since Gaul seems to count for much in the voting --- when at Rome the Forum has cooled from the courts --- we shall run down in the month of September as a legate to Piso, to come back in January. When I have looked through the inclinations of the nobles, I will write to you. The rest I hope to be ample, at least so far as these urban competitors go. That other faction --- our friend Pompey's --- I want you to secure for me, since you are nearer them. Tell him that I shall not be angry with him if he does not come to my elections. So much for that.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed est quod abs te mihi ignosci pervelim. Caecilius, avunculus tuus, a P. Vario cum magna pecunia fraudaretur, agere coepit cum eius fratre A. Caninio Satyro de iis rebus quas eum dolo malo mancipio accepisse de Vario diceret. una agebant ceteri creditores, in quibus erat L. Lucullus et P. Scipio et is quem putabant magistrum fore si bona venirent, L. Pontius. verum hoc ridiculum est de magistro. nunc cognosce rem. rogavit me Caecilius ut adessem contra Satyrum. dies fere nullus est quin hic Satyrus domum meam ventitet; observat L. Domitium maxime, me habet proximum; fuit et mihi et Quinto fratri magno usui in nostris petitionibus.",
+      "eng": "But there is something for which I much wish to be pardoned by you. Your uncle Caecilius, when he was being defrauded of a great sum of money by Publius Varius, began an action against Varius's brother, Aulus Caninius Satyrus, on the ground that Satyrus had taken over property from Varius by fraud. With him the rest of the creditors were jointly suing, among whom were Lucius Lucullus and Publius Scipio and the man whom they thought would be the foreman if the goods went up for sale, Lucius Pontius. (But this point about the foreman is ridiculous.) Now learn the matter. Caecilius asked me to attend on his side against Satyrus. There is scarcely a day when this Satyrus does not come to my house: he attends most on Lucius Domitius, holds me next; he has been of great use both to me and to my brother Quintus in our candidacies.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "sane sum perturbatus cum ipsius Satyri familiaritate tum Domiti, in quo uno maxime ambitio nostra nititur. demonstravi haec Caecilio simul et illud ostendi, si ipse unus cum illo uno contenderet, me ei satis facturum fuisse; nunc in causa universorum creditorum, hominum praesertim amplissimorum, qui sine eo quem Caecilius suo nomine perhiberet facile causam communem sustinerent, aequum esse eum et officio meo consulere et tempori. durius accipere hoc mihi visus est quam vellem et quam homines belli solent, et postea prorsus ab instituta nostra paucorum dierum consuetudine longe refugit. abs te peto ut mihi hoc ignoscas et me existimes humanitate esse prohibitum ne contra amici summam existimationem miserrimo eius tempore venirem, cum is omnia sua studia et officia in me contulisset. quod si voles in me esse durior, ambitionem putabis mihi obstitisse. ego autem arbitror, etiam si id sit, mihi ignoscendum esse, ἐπεὶ οὐχ ἱερήϊον οὐδὲ βοεΐην. vides enim in quo cursu simus et quam omnis gratias non modo retinendas verum etiam acquirendas putemus. spero tibi me causam probasse, cupio quidem certe.",
+      "eng": "I was greatly disturbed both by Satyrus's friendship and by Domitius's --- the man on whom alone our canvass most leans. I made these things plain to Caecilius, and at the same time pointed out that, had he been contending alone with Satyrus alone, I should have given him satisfaction. As things are now, in the cause of all the creditors, men of the highest standing, who without the man Caecilius would put forward in his own name could easily sustain the common case, it was fair that he should consider both my obligation and my circumstances. He took this harder, it seemed to me, than I should have wished and than well-bred men usually do, and afterwards withdrew utterly from the daily intercourse of a few days that we had begun. From you I beg pardon for this, and ask you to think that I was kept by humanity from going against the highest reputation of a friend in his bitterest hour, when he had laid all his zeal and offices upon me. If you wish to be harder on me, you will think canvassing-ambition stood in my way. But I think, even if it did, I should be pardoned --- [Greek: epei ouch hierēïon oude boeiēn] (``since not for a sacrificial victim or an ox-hide,'' Iliad 22.159: the prize is large). For you see in what race we are running, and how we think every favour must be not only kept but even acquired. I hope I have proved my case to you; I certainly wish so.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "Hermathena tua valde me delectat et posita ita belle est ut totum gymnasium eius ἀνάθημα esse videatur. multum te amamus.",
+      "eng": "Your Hermathena delights me very much, and is so prettily set up that the whole gymnasium seems an offering, [Greek: anath\\=ema], to it. We love you greatly.",
+      "notes": null
+    }
+  ]
+}

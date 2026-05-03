@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-18",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.18",
+  "title_english": "Ad Atticum 3.18",
+  "date": "-0058-09-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "exspectationem nobis non parvam attuleras cum scripseras Varronem tibi pro amicitia confirmasse causam nostram Pompeium certe suscepturum et, simul a Caesare ei litterae quas exspectaret remissae essent, actorem etiam daturum. utrum id nihil fuit, an adversatae sunt Caesaris litterae, an est aliquid in spe? etiam illud scripseras eundem secundum comitia dixisse.",
+      "eng": "You had stirred up no small expectation in me when you wrote that Varro had confirmed to you, on the strength of his friendship, that Pompey would certainly take up our cause; and that, as soon as the letter he was waiting for from Caesar had come back to him, he would even appoint a man to manage the case. Did this come to nothing? did Caesar's letter cross him? or is there something still in hope? You had written too that he had said the same about after the elections.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "fac , si vides quantis in malis iaceam et si putas esse humanitatis tuae, me fac de tota causa nostra certiorem. nam Quintus frater, homo mirus, qui me tam valde amat, omnia mittit spei plena metuens, credo, defectionem animi mei; tuae autem litterae sunt variae; neque enim me desperare vis nec temere sperare. fac , obsecro te, ut omnia quae perspici a te possunt sciamus.",
+      "eng": "If you see in what evils I lie, and if you think it of a piece with your own kindness, see to it that I am told the truth about my whole case. For my brother Quintus, that astonishing man who loves me so dearly, sends letters full of hope, fearing, I take it, that my spirit will fail me; your letters, however, vary --- you neither want me to despair nor to hope rashly. See to it, I beg of you, that we may know everything that you yourself can see clearly.",
+      "notes": null
+    }
+  ]
+}

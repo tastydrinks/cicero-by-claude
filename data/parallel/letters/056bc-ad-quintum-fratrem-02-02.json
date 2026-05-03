@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-02",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 2.2",
+  "title_english": "Ad Quintum Fratrem 2.2",
+  "date": "-0056-01-19",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non occupatione, qua eram sane impeditus, sed parvula lippitudine adductus sum ut dictarem hanc epistulam et non, ut ad te soleo, ipse scriberem. et primum me tibi excuso in eo ipso in quo te accuso ; me enim nemo adhuc rogavit num quid in Sardiniam vellem, te puto saepe habere qui num quid Romam velis quaerant. quod ad me Lentuli et Sesti nomine scripsisti, locutus sum cum Cincio. quoquo modo res se habet, non est facillima, sed habet profecto quiddam Sardinia adpositum ad recordationem praeteritae memoriae. nam ut ille Gracchus augur, postea quam in istam provinciam venit, recordatus est quid sibi in campo Martio comitia consulum habenti contra auspicia accidisset, sic tu mihi videris in Sardinia de forma Numisiana et de nominibus Pomponianis in otio recogitasse. ego adhuc emi nihil. Culleonis auctio facta est. Tusculano emptor nemo fuit. si condicio valde bona fuerit, fortassis non amittam.",
+      "eng": "It is not occupation, by which I was indeed quite hindered, but a small inflammation of the eyes that has led me to dictate this letter and not, as I am used to with you, to write it myself. And first I excuse myself to you in the very thing in which I accuse you. For no one yet has asked me whether I want anything sent to Sardinia, while you, I think, often have people asking whether you want anything for Rome. As to what you wrote me about Lentulus and Sestius, I have spoken with Cincius. However the matter stands, it is not the easiest, but Sardinia has surely something fitted to the recollection of past memory. For just as that famous Gracchus the augur, after he came into that province, recalled what had befallen him at the Campus Martius, holding the consular elections against the auspices, so you seem to me at leisure to have re-thought, in Sardinia, of the design from Numisius and of the debts owed to Pomponius. I have so far bought nothing. Culleo's auction has taken place. For the Tusculan villa there was no buyer. If the terms turn out very good, perhaps I will not let it go.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de aedificatione tua Cyrum urgere non cesso. spero eum in officio fore. sed omnia sunt tardiora propter furiosae aedilitatis exspectationem ; nam comitia sine mora futura videntur ; edicta sunt in a. d. xi K. Febr. te tamen sollicitum esse nolo ; omne genus a nobis cautionis adhibebitur.",
+      "eng": "About your building I do not stop pressing Cyrus. I hope he will do his duty. But everything is the slower because of waiting on this raving aedileship --- for the elections seem to be coming on without delay; they have been proclaimed for the eleventh day before the Kalends of February. Still, I do not want you to be anxious; every kind of precaution will be applied by us.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de rege Alexandrino factum est senatus consultum cum multitudine eum reduci periculosum rei publicae videri. reliqua cum esset in senatu contentio Lentulusne an Pompeius reduceret, obtinere causam Lentulus videbatur (in ea re nos et officio erga Lentulum mirifice et voluntati Pompei praeclare satis fecimus), sed per obtrectatores Lentuli calumnia extracta est. consecuti sunt dies comitiales, per quos senatus haberi non poterat. quid futurum sit latrocinio tribunorum non divino, sed tamen suspicor per vim rogationem Caninium perlaturum. in ea re Pompeius quid velit non dispicio, ; familiares eius quid cupiant omnes vident ; creditores vero regis aperte pecunias suppeditant contra Lentulum. Sine dubio res a Lentulo remota videtur esse cum magno meo dolore, quamquam multa fecit qua re, si fas esset, iure ei suscensere possemus.",
+      "eng": "About the Alexandrian king a senatus consultum has been passed: that to bring him back with a multitude appears dangerous to the commonwealth. As to the rest, when the contention in the Senate was over whether Lentulus or Pompey should bring him back, Lentulus seemed to be holding the case (in that matter we did wonderful satisfaction to our duty towards Lentulus and clearly enough to Pompey's wishes); but through Lentulus's detractors the matter was drawn out by calumny. Then came the comitial days, on which the Senate cannot be held. What will come of the tribunes' banditry I do not divine; still, I suspect that Caninius will carry his bill through by violence. In this matter what Pompey wishes I do not see clearly; what his intimates desire all see. The king's creditors openly supply money against Lentulus. Without doubt the matter seems to be carried away from Lentulus, with great pain to me; although he has done many things by which, if it were lawful, we could rightly be angry with him.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "tu , si ita expedit, velim quam primum bona et certa tempestate conscendas ad meque venias ; innumerabiles enim res sunt in quibus te cotidie in omni genere desiderem. tui nostrique valent. x iiii K. Februarias.",
+      "eng": "You, if it suits, please at the earliest moment, with good and steady weather, embark and come to me. For there are countless matters in which every day I miss you in every kind. Your people and ours are well. The fourteenth day before the Kalends of February.",
+      "notes": null
+    }
+  ]
+}

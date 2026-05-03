@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-01",
+  "category": "letters",
+  "title_latin": "Ad Familiares 1.1",
+  "title_english": "Ad Familiares 1.1",
+  "date": "-0056-01-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego omni officio ac potius pietate erga te ceteris satis facio omnibus, mihi ipse numquam satis facio; tanta enim magnitudo est tuorum erga me meritorum, ut, quod tu nisi perfecta re de me non conquiesti, ego quia non idem in tua causa efficio, vitam mihi esse acerbam putem. in causa haec sunt: Hammonius, regis legatus, aperte pecunia nos oppugnat; res agitur per eosdem creditores, per quos, cum tu aderas, agebatur; regis causa si qui sunt qui velint, qui pauci sunt, omnes rem ad Pompeium deferri volunt, senatus religionis calumniam non religione, sed malevolentia et illius regiae largitionis invidia comprobat.",
+      "eng": "I, in every duty --- or rather, in my devotion towards you --- give satisfaction to everyone else; to myself I never give satisfaction. For so great is the magnitude of what you have deserved of me that, when you would not rest from my own case until it was carried through, I --- because I do not bring off the same in your case --- think life bitter to me. The state of the case is this. Hammonius, the king's legate, is openly using money against us; the business is being run through the same creditors through whom it was being run when you were here. Of those who wish the king's cause forward (and they are few), all wish the matter referred to Pompey; the Senate confirms the calumny taken from religious scruple, not from religion, but from ill-will and resentment at the king's lavish bribery.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Pompeium et hortari et orare et iam liberius accusare et monere, ut magnam infamiam fugiat, non desistimus; sed plane nec precibus nostris nec admonitionibus relinquit locum, nam cum in sermone cotidiano tum in senatu palam sic egit causam tuam, ut neque eloquentia maiore quisquam nec gravitate nec studio nec contentione agere potuerit, cum summa testificatione tuorum in se officiorum et amoris erga te sui. Marcellinum tibi esse iratum scis; is hac regia causa excepta ceteris in rebus se acerrimum tui defensorem fore ostendit. quod dat, accipimus; quod instituit referre de religione et saepe iam retulit, ab eo deduci non potest.",
+      "eng": "I do not cease urging Pompey, begging him, by now even accusing and warning him more freely, that he flee the great disgrace; but plainly he leaves no room either for our entreaties or our warnings. For both in daily talk and in the Senate openly he has so pleaded your case that no one could have pleaded with greater eloquence, weight, zeal, or strain, with the most full testimony to the duties he owes you and to his own affection towards you. You know that Marcellinus is angry with you. He shows that, this royal cause excepted, in all other matters he will be the keenest defender of yours. What he gives, we take; from his moving and re-moving the question of religion (and he has already moved it many times) he cannot be turned aside.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "res ante Idus acta sic est (nam haec Idibus mane scripsi): Hortensi et mea et Luculli sententia cedit religioni de exercitu; teneri enim res aliter non potest; sed ex illo senatus consulto, quod te referente factum est, tibi decernit, ut regem reducas, quod commodo rei p. facere possis, ut exercitum religio tollat, te auctorem senatus retineat. Crassus tris legatos decernit nec excludit Pompeium, censet enim etiam ex iis, qui cum imperio sint; Bibulus tris legatos ex iis, qui privati sunt. huic adsentiuntur reliqui consulares praeter Servilium, qui omnino reduci negat oportere, et Volcacium, qui Lupo referente Pompeio decernit, et Afranium, qui adsentitur Volcacio. quae res auget suspicionem Pompei voluntatis, nam advertebatur Pompei familiaris adsentiri Volcacio. laboratur vehementer; inclinata res est. Libonis et Hypsaei non obscura concursatio et contentio omniumque Pompei familiarium studium in eam opinionem rem adduxerunt, ut Pompeius cupere videatur; cui qui nolunt, idem tibi, quod eum ornasti, non sunt amici;",
+      "eng": "The matter before the Ides was handled thus (for this I wrote on the Ides in the morning): the opinion of Hortensius, of myself, and of Lucullus yields to religious scruple as regards the army --- for the matter cannot otherwise be held; but, according to that decree of the Senate which was passed when you put the question, it decrees to you that you bring back the king, in such manner as you can do consistently with the public interest, so that religious scruple removes the army, but the Senate's authorisation keeps you the agent. Crassus decrees three legates and does not exclude Pompey, for he holds that they may be drawn even from those holding command; Bibulus, three legates from among those who are private citizens. To him the rest of the consulars assent, except Servilius, who says that the king ought not to be brought back at all, and Volcacius, who, when Lupus put the question, decrees Pompey to do it, and Afranius, who assents to Volcacius. This circumstance increases the suspicion of Pompey's wishes, for it was noticed that Pompey's intimate assents to Volcacius. The struggle is hard; the matter is leaning. The not-obscure scurrying-about and contention of Libo and Hypsaeus, and the zeal of all Pompey's intimates, have brought the business to the opinion that Pompey desires it; and those who do not wish him to have it, those same men are not your friends because you advanced him.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "nos in causa auctoritatem eo minorem habemus, quod tibi debemus, gratiam autem nostram exstinguit hominum suspicio, quod Pompeio se gratificari putant. ut in rebus multo ante, quam profectus es, ab ipso rege et ab intimis ac domesticis Pompei clam exulceratis, deinde palam a consularibus exagitatis et in summam invidiam adductis ita versamur. nostram fidem omnes, amorem tui absentis praesentes tui cognoscent. si esset in iis fides, in quibus summa esse debebat, non laboraremus.",
+      "eng": "We have less authority in the case, for that reason --- because we are in your debt; the good will we might earn is extinguished by men's suspicion, because they think we are obliging Pompey. Just as in matters that, long before you set out, had been chafed in secret by the king himself and by Pompey's intimates and household, and then openly stirred up by the consulars and brought into the greatest unpopularity, so we are now placed. The loyalty we keep, all will know; the love your friends here bear you in your absence, your own friends will recognize. If there were loyalty in those in whom there ought to have been the greatest, we should not be straining.",
+      "notes": null
+    }
+  ]
+}

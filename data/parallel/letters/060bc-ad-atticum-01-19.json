@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-19",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.19",
+  "title_english": "Ad Atticum 1.19",
+  "date": "-0060-03-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non modo si mihi tantum esset oti quantum est tibi, verum etiam si tam brevis epistulas vellem mittere quam tu soles, facile te superarem et in scribendo multo essem crebrior quam tu. sed ad summas atque incredibilis occupationes meas accedit quod nullam a me volo epistulam ad te absque argumento ac sententia pervenire. et primum tibi, ut aequum est civi amanti patriam, quae sint in re publica exponam; deinde quoniam tibi amore nos proximi sumus, scribemus etiam de nobis ea quae scire te non nolle arbitramur.",
+      "eng": "Not only if I had so much leisure as you have, but even if I wished to send letters as short as you are wont to, I should easily surpass you and be much more frequent in writing than you. But added to my supreme and incredible occupations is this, that I do not wish a single letter from me to come to you without subject and substance. And first --- as is fair to a citizen who loves his country --- I shall set out for you what is happening in the commonwealth; then, since you are nearest to me in love, I shall write also of myself those things that I take it you would not be unwilling to know.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "atque in re publica nunc quidem maxime Gallici belli versatur metus. nam Haedui fratres nostri pugnam nuper malam pugnarunt et Helvetii sine dubio sunt in armis excursionesque in provinciam faciunt. senatus decrevit ut consules duas Gallias sortirentur, dilectus haberetur, vacationes ne valerent, legati cum auctoritate mitterentur qui adirent Galliae civitates darentque operam ne eae se cum Helvetiis coniungerent. legati sunt Q. Metellus Creticus et L. Flaccus et, τὸ , Lentulus Clodiani filius.",
+      "eng": "In the commonwealth at present the chief thing is the fear of a Gallic war. For the Aedui, our brothers, have lately fought a bad fight, and the Helvetii without a doubt are in arms and are making raids into the province. The senate has decreed that the consuls should draw lots for the two Gauls, that a levy be held, that exemptions should not stand, that legates with full powers should be sent to visit the states of Gaul and to take pains that they not join with the Helvetii. The legates are Quintus Metellus Creticus, Lucius Flaccus, and --- the joke of it --- Lentulus, son of Clodianus.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "atque hoc loco illud non queo praeterire, quod cum de consularibus mea prima sors exisset, una voce senatus frequens retinendum me in urbe censuit. hoc idem post me Pompeio accidit, ut nos duo quasi pignora rei publicae retineri videremur. quid enim ego aliorum in me ἐπιφωνήματα exspectem cum haec domi nascantur?",
+      "eng": "And here I cannot pass over this: that, when of the consulars my own lot had come out first, with one voice the full senate decreed I should be kept in the city. The same thing happened to Pompey after me, so that we two seemed to be retained as pledges of the commonwealth. What other men's exclamations [Greek: epiph\\=on\\=emata] should I look for, when these are born at home?",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "urbanae autem res sic se habent. agraria lex a Flavio tribuno pl. vehementer agitabatur auctore Pompeio; quae nihil populare habebat praeter auctorem. ex hac ego lege secunda contionis voluntate omnia illa tollebam quae ad privatorum incommodum pertinebant, liberabam agrum eum qui P. Mucio, L. Calpurnio consulibus publicus fuisset, Sullanorum hominum possessiones confirmabam, Volaterranos et Arretinos, quorum agrum Sulla publicarat neque diviserat, in sua possessione retinebam; unam rationem non reiciebam, ut ager hac adventicia pecunia emeretur, quae ex novis vectigalibus per quinquennium reciperetur. huic toti rationi agrariae senatus adversabatur suspicans Pompeio novam quandam potentiam quaeri; Pompeius vero ad voluntatem perferendae legis incubuerat. ego autem magna cum agrariorum gratia confirmabam omnium privatorum possessiones; is enim est noster exercitus hominum, ut tute scis, locupletium; populo autem et Pompeio (nam id quoque volebam) satis faciebam emptione, qua constituta diligenter et sentinam urbis exhauriri et Italiae solitudinem frequentari posse arbitrabar. sed haec tota res interpellata bello refrixerat. Metellus est consul sane bonus et nos admodum diligit; ille alter nihil ita est ut plane quid emerit nesciat.",
+      "eng": "City matters stand thus. The agrarian law of the tribune Flavius was being vehemently agitated, with Pompey backing it; which had nothing popular but its backer. From this law I, with the assembly's full goodwill, was striking out everything which pertained to the harm of private men: I freed that land which had been public in the consulship of P. Mucius and L. Calpurnius; I confirmed the holdings of the Sullans; I kept the men of Volaterrae and Arretium, whose land Sulla had publicized but had not divided, in their own possession. One reasoning I did not reject: that the land be bought with this fresh money, which over the next five years would come in from the new revenues. To this whole agrarian scheme the senate was opposed, suspecting that some new power was being sought for Pompey. But Pompey had set his heart on the wish to carry the law. I, however, with great gratitude from the agrarian party, was confirming all private men's holdings (for that, as you know, is my own army --- of men of substance), and was satisfying the people, and Pompey too (for I wished that as well), by the purchase scheme; once that was set up, I judged that both the bilge of the city could be carefully drained off, and the wilderness of Italy could be peopled. But this whole matter, interrupted by the war, has cooled. Metellus is a quite good consul, and loves us greatly; the other one is so much nothing that he plainly does not know what he has bought.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "haec sunt in re publica, nisi etiam illud ad rem publicam putas pertinere, Herennium quendam tribunum pl., tribulem tuum sane hominem nequam atque egentem, saepe iam de P. Clodio ad plebem traducendo agere coepisse. huic frequenter interceditur. haec sunt, ut opinor, in re publica.",
+      "eng": "These are the matters in the commonwealth, unless you reckon this also as bearing on it: that a certain Herennius, tribune of the plebs, your fellow tribesman, a wholly worthless and needy fellow, has often now begun to act on transferring Publius Clodius to the plebs. Frequent vetoes are interposed against him. These are, I take it, the public matters.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "ego autem, ut semel Nonarum illarum Decembrium iunctam invidia ac multorum inimicitiis eximiam quandam atque immortalem gloriam consecutus sum, non destiti eadem animi magnitudine in re publica versari et illam institutam ac susceptam dignitatem tueri, sed postea quam primum Clodi absolutione levitatem infirmitatemque iudiciorum perspexi, deinde vidi nostros publicanos facile a senatu diiungi, quamquam a me ipso non divellerentur, tum autem beatos homines, hos piscinarios dico amicos tuos, non obscure nobis invidere, putavi mihi maiores quasdam opes et firmiora praesidia esse quaerenda.",
+      "eng": "As for me: from the moment I attained, on the famous Nones of December, that exceptional and immortal glory joined with envy and the enmity of many, I have not ceased to engage in the commonwealth with the same greatness of mind, and to protect the dignity I had set up and undertaken. But after I first perceived, in Clodius's acquittal, the levity and feebleness of the courts; then saw that our publicans were easily cut off from the senate (although from me at least they were not torn away); and finally saw that the rich men --- those fish-pond owners, I mean, friends of yours --- not obscurely envied us, I judged that I must seek some greater resources and firmer defences.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "itaque primum, eum qui nimium diu de rebus nostris tacuerat, Pompeium adduxi in eam voluntatem ut in senatu non semel sed saepe multisque verbis huius mihi salutem imperi atque orbis terrarum adiudicarit; quod non tam interfuit mea (neque enim illae res aut ita sunt obscurae ut testimonium, aut ita dubiae ut laudationem desiderent) quam rei publicae, quod erant quidam improbi qui contentionem fore aliquam mihi cum Pompeio ex rerum illarum dissensione arbitrarentur. cum hoc ego me tanta familiaritate coniunxi ut uterque nostrum in sua ratione munitior et in re publica firmior hac coniunctione esse possit.",
+      "eng": "So first, I brought Pompey, who had too long kept silent about my affairs, into such a disposition that in the senate not once but often, in many words, he assigned to me the safety of this empire and of the world; which mattered not so much to me (for those things are neither so obscure as to need testimony nor so doubtful as to need an encomium) as to the commonwealth, since there were certain wicked men who supposed that there would be some contention between me and Pompey from the disagreement on those matters. With him I have joined myself in such close friendship that each of us, by this joining, can be more fortified in his own reckoning and steadier in the commonwealth.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "odia autem illa libidinosae et delicatae iuventutis quae erant in me incitata sic mitigata sunt comitate quadam mea me unum ut omnes illi colant; nihil iam denique a me asperum in quemquam fit nec tamen quicquam populare ac dissolutum, sed ita temperata tota ratio est ut rei publicae constantiam praestem, privatis meis rebus propter infirmitatem bonorum, iniquitatem malevolorum, odium in me improborum adhibeam quandam cautionem et diligentiam atque ita, tametsi his novis amicitiis implicati sumus, ut crebro mihi vafer ille Siculus insusurret Epicharmus cantilenam illam suam; νᾶφε καὶ μέμνασ' ἀπιστεῖν: ἄρθρα ταῦτα τᾶν φρενῶν ac nostrae quidem rationis ac vitae quasi quandam formam, ut opinor, vides.",
+      "eng": "The hatred of that lustful and dainty youth which had been kindled against me has been so softened by a certain courtesy of mine that they all cultivate me alone. Nothing harsh now is done by me against any man, nor anything popular and dissolute either; but the whole reckoning is so tempered that I show steadfastness in the commonwealth, while in my private affairs --- on account of the weakness of the good men, the unfairness of the malevolent, the hatred of the wicked toward me --- I apply a certain caution and diligence; and so, although I am wrapped up in these new friendships, that crafty Sicilian Epicharmus often whispers to me his old refrain: ``Stay sober, and remember to mistrust: these are the joints of the mind'' [Greek: naphe kai memnas' apistein: arthra tauta tan phren\\=on]. And of our reasoning and our way of life you see, I think, a sort of pattern.",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "de tuo autem negotio saepe ad me scribis. cui mederi nunc non possumus; est enim illud senatus consultum summa pedariorum voluntate nullius nostrum auctoritate factum. nam quod me esse ad scribendum vides, ex ipso senatus consulto intellegere potes aliam rem tum relatam, hoc autem de populis liberis sine causa additum. et ita factum est a P. Servilio filio qui in postremis sententiam dixit, sed immutari hoc tempore non potest. itaque conventus qui initio celebrabantur iam diu fieri desierunt. tu si tuis blanditiis tamen a Sicyoniis nummulorum aliquid expresseris, velim me facias certiorem.",
+      "eng": "About your own business, you write to me often. To it I cannot now apply remedy; for that senate's decree was made by the highest goodwill of the back-benchers, by no man's authority of ours. For that I am there to write of it, you can understand from the senate's decree itself: another matter was at that time the topic; this about the free peoples was added without occasion, and so was done by P. Servilius the son, who spoke last in the order. But it cannot at this time be changed. So the assemblies which were at first called have now long ceased to be held. If by your blandishments you have nevertheless squeezed any little money out of the Sicyonians, please let me know.",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "commentarium consulatus mei Graece compositum misi ad te. in quo si quid erit quod homini Attico minus Graecum eruditumque videatur, non dicam quod tibi, ut opinor, Panhormi Lucullus de suis historiis dixerat, se quo facilius illas probaret Romani hominis esse idcirco barbara quaedam et σόλοικα dispersisse; apud me si quid erit eius modi, me imprudente erit et invito. Latinum si perfecero, ad te mittam. tertium poema exspectato, ne quod genus a me ipso laudis meae praetermittatur. hic tu cave dicas: τίσ πατέρ' αἰνήσει; si est enim apud homines quicquam quod potius sit, laudetur, nos vituperemur qui non potius alia laudemus; quamquam non ἐγκωμιαστικὰ sunt haec sed ἱστορικὰ quae scribimus.",
+      "eng": "I have sent you the memoir of my consulship composed in Greek. In which, if there shall be anything that seems to a man of Athens too little Greek and too little learned, I shall not say what Lucullus, I take it, said to you at Panhormus about his own histories: that, the better to make them pass for the work of a Roman, he had on that account sprinkled in some barbarisms and ``solecisms,'' [Greek: soloika]. With me, if there is anything of that kind, it is unwitting and unwilling. The Latin version, when I have finished it, I shall send you. Expect a third poem also, lest any genre of my own praise be passed up by myself. And here take care not to say: ``Who shall praise the father?'' [Greek: tis patera ain\\=esei]. For if there is anything among men that is more worthy, let it be praised, and let me be reproached for not praising other things instead. But these things which I write are not encomia [Greek: enk\\=omiastika] but histories [Greek: historika].",
+      "notes": null
+    },
+    {
+      "loc": "11",
+      "section": 11,
+      "lat": "Quintus frater purgat se mihi per litteras et adfirmat nihil a se cuiquam de te secus esse dictum. verum haec nobis coram summa cura et diligentia sunt agenda; tu modo nos revise aliquando. Cossinius hic, cui dedi litteras, valde mihi bonus homo et non levis et amans tui visus est et talis qualem esse eum tuae mihi litterae nuntiarant. Idibus Martiis.",
+      "eng": "My brother Quintus clears himself with me by letter and affirms that nothing has been said by him to anyone against you. But these things must be handled by us face to face with the highest care and diligence; only come back to us at last. This Cossinius, to whom I have given the letter, seemed to me a thoroughly good man and not a light one, fond of you, and such as your letters had reported him to me. The Ides of March.",
+      "notes": null
+    }
+  ]
+}

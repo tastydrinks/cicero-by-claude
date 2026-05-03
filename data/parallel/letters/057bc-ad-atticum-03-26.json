@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-26",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.26",
+  "title_english": "Ad Atticum 3.26",
+  "date": "-0057-01-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "litterae mihi a Quinto fratre cum senatus consulto quod de me est factum adlatae sunt. mihi in animo est legum lationem exspectare et, si obtrectabitur, utar auctoritate senatus et potius vita quam patria carebo. tu , quaeso, festina ad nos venire.",
+      "eng": "A letter has been brought to me from my brother Quintus, with the senatus consultum which has been passed about me. My intention is to wait for the legislation, and, if it is opposed, I shall use the authority of the Senate, and shall lack life rather than my country. Hurry, I beg of you, to come to me.",
+      "notes": null
+    }
+  ]
+}

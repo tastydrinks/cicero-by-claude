@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-21",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.21",
+  "title_english": "Ad Atticum 3.21",
+  "date": "-0058-10-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "triginta dies erant ipsi cum has dabam litteras per quos nullas a vobis acceperam. mihi autem erat in animo iam, ut antea ad te scripsi, ire in Epirum et ibi omnem casum potissimum exspectare. te oro ut, si quid erit quod perspicias quamcumque in partem, quam planissime ad me scribas et meo nomine, ut scribis, litteras quibus putabis opus esse ut des. data v Kal. Novembris.",
+      "eng": "It was thirty days exactly when I gave this letter, throughout which I had received nothing from you. My intention was, as I have written to you before, to go into Epirus and there to wait above all for whatever might happen. I beg you that, if there is anything you can see clearly --- whichever way it falls --- write me as plainly as you can; and that, in my name, as you write, you give whatever letters you think necessary. Sent the fifth day before the Kalends of November.",
+      "notes": null
+    }
+  ]
+}

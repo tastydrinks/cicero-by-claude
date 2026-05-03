@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-06",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.6",
+  "title_english": "Ad Atticum 1.6",
+  "date": "-0067-01-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non committam posthac ut me accusare de epistularum neglegentia possis; tu modo videto in tanto otio ut par in hoc mihi sis. domum Rabirianam Neapoli, quam tu iam dimensam et exaedificatam animo habebas, M. Fontius emit HS CCCIↃↃↃ X_X_X_ . id te scire volui, si quid forte ea res ad cogitationes tuas pertineret.",
+      "eng": "I shall not let you, hereafter, accuse me of negligence in letters; only see, in your great leisure, that you match me in this. The Rabirian house at Naples --- which you had already, in your mind, measured out and built up --- Marcus Fontius has bought for HS 130,000. I wanted you to know it, in case the matter should bear on your own thoughts.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Quintus frater, ut mihi videtur, quo volumus animo est in Pomponiam et cum ea nunc in Arpinatibus praediis erat et secum habebat hominem χρηστομαθῆ D. Turranium. pater nobis decessit a. d. iv Kal. Dec. haec habebam fere quae te scire vellem. tu velim, si qua ornamenta γυμνασιώδη reperire poteris quae loci sint eius quem tu non ignoras, ne praetermittas. nos Tusculano ita delectamur ut nobismet ipsis tum denique cum illo venimus placeamus. quid agas omnibus de rebus et quid acturus sis fac nos quam diligentissime certiores.",
+      "eng": "My brother Quintus, as it seems to me, is in the disposition we wished toward Pomponia, and is now with her at the Arpinum estate, and has with him that man of useful learning, [Greek: chrēstomathē], Decimus Turranius. Our father has died on the 28th of November. These are about the things I wanted you to know. I should be glad if, where you can find any ornaments in the gymnasium style [Greek: gymnasiōdē], suited to the place which you do not fail to know, you will not pass them up. We are so delighted with the Tusculan villa that we are pleased with ourselves only when we go to it. Send us word, as fully as you can, what you are doing in every matter and what you are about to do.",
+      "notes": null
+    }
+  ]
+}

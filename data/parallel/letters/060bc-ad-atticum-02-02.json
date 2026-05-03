@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-02",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.2",
+  "title_english": "Ad Atticum 2.2",
+  "date": "-0060-12-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cura , amabo te, Ciceronem nostrum. ei nos θεῖοι videmur.",
+      "eng": "Take care, please, of our little Cicero. To him we seem to be uncles [Greek: theioi].",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Πελληναίων in manibus tenebam et hercule magnum acervum Dicaearchi mihi ante pedes exstruxeram. o magnum hominem et unde multo plura didiceris quam de Procilio! Κορινθίων et Ἀθηναίων puto me Romae habere. mihi †credes lege hec doceo† mirabilis vir est. Ἡρώδησ , si homo esset, eum potius legeret quam unam litteram scriberet. qui me epistula petivit, ad te, ut video, comminus accessit. coniurasse mallem quam restitisse coniurationi, si illum mihi audiendum putassem.",
+      "eng": "I had in my hands the work On the Pellenians [Greek: Pellenai\\=on], and, by Hercules, I had built up a great heap of Dicaearchus before my feet. O what a great man, and one from whom you may learn far more than from Procilius! The work On the Corinthians [Greek: Korinthi\\=on] and On the Athenians [Greek: Ath\\=enai\\=on] I think I have at Rome. Believe me [text corrupt] \\ldots he is a wonderful man. Herodes, if he were a man, would read him rather than write a single letter himself --- the man who has assailed me in a letter has, I see, come at you in close combat. I had rather have conspired than have resisted the conspiracy, if I had thought I had to listen to him.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de lolio sanus non es; de vino laudo. sed heus tu, ecquid vides Kalendas venire, Antonium non venire? iudices cogi? nam ita ad me mittunt, Nigidium minari in contione se iudicem qui non adfuerit compellaturum. velim tamen si quid est de Antoni adventu quod audieris scribas ad me et, quoniam huc non venis, cenes apud nos utique pridie Kal. cave aliter facias. cura ut valeas.",
+      "eng": "About the darnel you are not sane; about the wine I praise you. But hold --- do you not see the Kalends coming, Antonius not coming? the judges being summoned? For they send word to me that Nigidius is threatening in a public meeting that he will haul off any judge who has not been present. But please, if there is anything you have heard about Antonius's arrival, write to me; and, since you are not coming here, dine at our house at any rate on the day before the Kalends. Take care not to do otherwise. See that you keep well.",
+      "notes": null
+    }
+  ]
+}

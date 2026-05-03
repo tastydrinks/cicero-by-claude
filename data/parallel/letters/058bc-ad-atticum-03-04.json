@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-04",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.4",
+  "title_english": "Ad Atticum 3.4",
+  "date": "-0058-04-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "miseriae nostrae potius velim quam inconstantiae tribuas quod a Vibone quo te arcessebamus subito discessimus. adlata est enim nobis rogatio de pernicie mea; in qua quod correctum esse audieramus erat eius modi ut mihi ultra quingenta milia liceret esse, illuc pervenire non liceret. statim iter Brundisium versus contuli ante diem rogationis, ne et Sicca apud quem eram periret et quod Melitae esse non licebat. nunc tu propera ut nos consequare, si modo recipiemur. adhuc invitamur benigne, sed quod superest timemus. me , mi Pomponi, valde paenitet vivere; qua in re apud me tu plurimum valuisti. sed haec coram. fac modo ut venias.",
+      "eng": "I should rather you ascribed it to my misery than to my inconstancy that I left Vibo suddenly, where I had been summoning you. For news was brought to us of the bill on my destruction; in which what we had heard had been amended was of such a kind that I might be allowed to be beyond five hundred miles, but not allowed to come there. I at once turned my journey toward Brundisium, before the day of the bill, that both Sicca, with whom I was, might not perish, and because being at Malta was not allowed. Now make haste to overtake us, if indeed we are received. So far we are kindly invited, but for what remains we are afraid. I, my Pomponius, am bitterly sorry I am alive; in which matter you have weighed most with me. But these things face to face. Only see that you come.",
+      "notes": null
+    }
+  ]
+}

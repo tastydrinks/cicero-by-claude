@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.3",
+  "title_english": "Ad Familiares 14.3",
+  "date": "-0058-12-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "accepi ab Aristocrito tris epistulas, quas ego lacrimis prope delevi ; conficior enim maerore, mea Terentia, nec meae me miseriae magis excruciant quam tuae vestraeque ; ego autem hoc miserior sum quam tu, quae es miserrima, quod ipsa calamitas communis est utriusque nostrum, sed culpa mea propria est. meum fuit officium vel legatione vitare periculum vel diligentia et copiis resistere vel cadere fortiter. hoc miserius, turpius, indignius nobis nihil fuit.",
+      "eng": "I have received three letters from Aristocritus, which I have very nearly washed away with tears. For I am undone by grief, my Terentia; and my own miseries do not torment me more than yours and your children's. And I am the more wretched in this than you, the most wretched of all: that the calamity itself is common to us both, but the fault is mine alone. It was my duty either to avoid the danger by accepting a legateship, or to resist by careful management and by the resources I had, or to fall bravely. Nothing has been more wretched, more disgraceful, more unworthy of us than this.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "qua re cum dolore conficior tum etiam pudore ; pudet enim me uxori meae optimae, suavissimis liberis virtutem et diligentiam non praestitisse. nam mi ante oculos dies noctesque versatur squalor vester et maeror et infirmitas valetudinis tuae, spes autem salutis pertenuis ostenditur. inimici sunt multi, invidi paene omnes ; eicere nos magnum fuit, excludere facile est. sed tamen quam diu vos eritis in spe, non deficiam, ne omnia mea culpa cecidisse videantur.",
+      "eng": "So I am undone with grief, but I am undone with shame as well; for I am ashamed not to have shown to my best of wives, and to my sweetest children, the courage and the careful management I owed. Day and night the squalor and the mourning and the weakness of your health stand before my eyes, and the hope of safety is held out only on the thinnest of threads. Enemies are many, those who envy me almost everyone; to throw me out was a great matter, to keep me out is easy. Still, so long as you keep hoping, I shall not give way --- lest everything seem to have fallen by my fault.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ut tuto sim, quod laboras, id mihi nunc facillimum est, a quem etiam inimici volunt vivere in tantis miseriis ; ego tamen faciam quae praecipis. amicis quibus voluisti egi gratias et eas litteras Dexippo dedi meque de eorum officio scripsi a te certiorem esse factum. Pisonem nostrum mirifico esse studio in nos et officio et ego perspicio et omnes praedicant. di faxint ut tali genero mihi praesenti tecum simul et cum liberis nostris frui liceat! nunc spes reliqua est in novis tr. pl. et in primis quidem diebus ; nam si inveterarit, actum est.",
+      "eng": "As to your worry that I should be in a place of safety: that for me is now the easiest thing of all, since even my enemies want me to live, in such miseries. Still I shall do what you bid. Those friends to whom you wished I should give thanks I have thanked, and have given the letter to Dexippus, and have written that you informed me of their service. About our Piso: I see, and everyone says, that he is in a remarkable zeal of love and service towards us. May the gods grant that I may, with such a son-in-law present, enjoy his company together with you and our children! All the hope that remains now is in the new tribunes of the plebs, and in the first days at that. For if the matter grows old, it is finished.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "ea re ad te statim Aristocritum misi ut ad me continuo initia rerum et rationem totius negoti posses scribere ; etsi Dexippo quoque ita imperavi, statim ut recurreret, et ad fratrem misi ut crebro tabellarios mitteret. nam ego eo nomine sum Dyrrhachi hoc tempore, ut quam celerrime quid agatur audiam, et sum tuto ; civitas enim haec semper a me defensa est. Cum inimici nostri venire dicentur, tum in Epirum ibo.",
+      "eng": "For that reason I have sent Aristocritus straight back, that you may write me at once the beginnings of things and the whole reckoning of the business; though I have given Dexippus the same charge, to come back at once, and have written to my brother to send letter-carriers often. For I am at Dyrrachium for this time on this account: to hear what is being done as quickly as can be, and I am here in safety, since this city has always been defended by me. When my enemies are said to be coming, then I shall go into Epirus.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "quod scribis te, si velim, ad me venturam, ego vero, cum sciam magnam partem istius oneris abs te sustineri, te istic esse volo. si perficitis quod agitis, me ad vos venire oportet ; sin autem sed nihil opus est reliqua scribere. ex primis aut summum secundis litteris tuis constituere poterimus quid nobis faciendum sit tu modo ad me velim omnia diligentissime perscribas ; etsi magis iam rem quam litteras debeo exspectare. cura ut valeas et ita tibi persuadeas, mihi te carius nihil esse nec umquam fuisse. vale , mea Terentia ; quam ego videre videor itaque debilitor lacrimis. vale . Pr. K. Dec.",
+      "eng": "As to your writing that you would come to me if I wished --- I, knowing that a great part of that burden is being carried by you, want you to be there. If you bring through what you are working at, I must come to you; if not --- but there is no need to write the rest. From your first letter --- or your second at the latest --- we shall be able to settle what we have to do. I should be glad if you would write me everything in the closest detail; though by now what I should expect is the thing itself rather than letters. Take care of your health, and persuade yourself of this: that nothing is, or ever has been, dearer to me than you. Farewell, my Terentia: I seem to be seeing you, and so I am unmade by tears. Farewell. The day before the Kalends of December.",
+      "notes": null
+    }
+  ]
+}

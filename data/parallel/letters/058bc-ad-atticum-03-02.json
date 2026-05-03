@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-02",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.2",
+  "title_english": "Ad Atticum 3.2",
+  "date": "-0058-04-08",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "itineris nostri causa fuit quod non habebam locum ubi pro meo iure diutius esse possem quam in fundo Siccae, praesertim nondum rogatione correcta, et simul intellegebam ex eo loco, si te haberem, posse me Brundisium referre, sine te autem non esse nobis illas partis tenendas propter Autronium. nunc ut ad te antea scripsi, si ad nos veneris, consilium totius rei capiemus. iter esse molestum scio sed tota calamitas omnis molestias habet. plura scribere non possum; ita sum animo perculso et abiecto. cura ut valeas. data vi Idus Aprilis naribus Luc.",
+      "eng": "The cause of our journey was this: that I had no place where I could rightfully stay longer than on Sicca's estate, especially before the bill is amended; and at the same time I understood that from there, if I had you, I could carry myself back to Brundisium; whereas without you we ought not to hold those parts on account of Autronius. Now, as I have written to you before, if you come to me, we shall take counsel about the whole matter. I know the journey is troublesome, but the whole calamity has every kind of trouble. I cannot write more, so struck and cast down is my mind. Take care of your health. Sent the sixth day before the Ides of April, at Nares Lucanae.",
+      "notes": null
+    }
+  ]
+}

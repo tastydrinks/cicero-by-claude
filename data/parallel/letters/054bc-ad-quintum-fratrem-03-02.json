@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-02",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 3.2",
+  "title_english": "Ad Quintum Fratrem 3.2",
+  "date": "-0054-10-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A. d. vi Idus Octobr. Salvius Ostiam vesperi navi profectus erat cum iis rebus quas tibi domo mitti volueras. eodem die Gabinium ad populum luculente calefecerat Memmius sic ut Calidio verbum facere pro eo non licuerit. postridie autem eius diei qui erat tum futurus, cum haec scribebam ante lucem, apud Catonem erat divinatio in Gabinium futura inter Memmium et Ti. Neronem et C. et L. Antonios M. f. putabamus fore ut Memmio daretur, etsi erat Neronis mira contentio. quid quaeris? probe premitur, nisi noster Pompeius dis hominibusque invitis negotium everterit.",
+      "eng": "On the sixth day before the Ides of October [10 October], Salvius set out from Ostia in the evening by ship with those things which you had wanted sent to you from home. On the same day, before the people, Memmius gave Gabinius a brilliant roasting, such that Calidius was not allowed to say a word for him. On the day after that --- which was then about to come; for I was writing this before light --- there was to be a divinatio against Gabinius before Cato's tribunal, between Memmius and Ti. Nero and C. and L. Antonius (sons of Marcus). We thought it would go to Memmius, though Nero was striving extraordinarily. What more? --- the man is being soundly squeezed, unless our Pompey, with gods and men unwilling, upsets the business.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "cognosce nunc hominis audaciam et aliquid in re publica perdita delectare. Cum Gabinius quacumque veniebat triumphum se postulare dixisset subitoque bonus imperator noctu in urbem hostium plenam invasisset, in senatum se non committebat. interim ipso, decimo die, quo eum oportebat hostium numerum et militum renuntiare, inrepsit summa infrequentia. Cum vellet exire, a consulibus retentus est; introducti publicani. homo undique saucius et, cum a me maxime vulneraretur, non tulit et me trementi voce exsulem appellavit. hic (O di! nihil umquam honorificentius nobis accidit) consurrexit senatus cum clamore ad unum sic ut ad corpus eius accederet ; pari clamore atque impetu publicani. quid quaeris? omnes tamquam si tu esses ita fuerunt. nihil hominum sermone foris clarius. ego tamen me teneo ab accusando, vix me hercule, sed tamen teneo vel quod nolo cum Pompeio pugnare (satis est quod instat de Milone) vel quod iudices nullos habemus. Ἀπότευγμα formido, addo etiam malevolentiam hominum, et timeo ne illi me accusante aliquid accidat, nec despero rem et sine me et non nihil per me confici posse.",
+      "eng": "Hear now of the man's audacity, and take some pleasure in something in this ruined commonwealth. When Gabinius had been saying wherever he came that he was going to demand a triumph, and then suddenly the good imperator stole into the city by night as into a city full of enemies, he would not entrust himself to the Senate. In the meantime on the very tenth day, on which he had to report the number both of the enemy and of the soldiers, he crept in with the lowest attendance. When he wanted to leave, he was held back by the consuls; the publicans were brought in. The man, wounded on every side, when he was being most of all wounded by me, could not bear it, and with a trembling voice called me an exile. Here --- O gods! nothing more honourable has ever happened to us! --- the Senate rose up with a shout to a man, in such a way that it was as if it would go up against his very body; with equal shouting and rush, the publicans. What more? Everyone behaved as if it had been you. Nothing more famous in men's talk out of doors. I, nevertheless, hold myself back from prosecuting --- scarcely, by Hercules, but I do hold myself back, either because I do not wish to fight with Pompey (the Milo trouble pressing on me is enough), or because we have no jurors. [Greek: apoteugma] (failure) I dread; I add also men's malevolence, and I fear that with me prosecuting something might happen to him; nor do I despair that the matter can be carried through both without me, and not without me having something to do with it.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de ambitu postulati sunt omnes qui consulatum petunt, a Memmio Domitius, a Q. Acutio, bono et erudito adulescente, Memmius, a Q. Pompeio Messala, a Tnario Scaurus. Magno res in motu est, propterea quod aut hominum aut legum interitus ostenditur. opera datur ut iudicia ne fiant. res videtur spectare ad interregnum. consules comitia habere cupiunt; rei nolunt et maxime Memmius quod Caesaris adventu se sperat futurum consulem, sed mirum in modum iacet. Domitius cum Messala certus esse videbatur; Scaurus refrixerat. Appius sine lege curiata confirmat se Lentulo nostro successurum ; qui quidem mirificus illo die, quod paene praeterii, fuit in Gabinium ; accusavit maiestatis ; nomina data, cum ille verbum nullum. habes forensia. domi recte est; ipsa domus a redemptoribus tractatur non indiligenter.",
+      "eng": "On the charge of canvassing, all who are standing for the consulship have been arraigned: Domitius by Memmius, Memmius by Q. Acutius (a fine and learned young man), Messala by Q. Pompeius, Scaurus by Tnarius. The matter is in great commotion, since either the destruction of the men or the destruction of the laws is set forth. They are working to ensure that the courts do not sit. The matter seems to look to an interregnum. The consuls long to hold the elections; the candidates do not wish it, especially Memmius, who hopes that, with Caesar's coming, he will be consul --- but he stands in a wonderful way prostrate. Domitius with Messala seemed certain; Scaurus had cooled off. Appius, without a curiate law, declares that he will succeed our Lentulus; and Lentulus indeed --- which I almost passed over --- was wonderful that day against Gabinius: he prosecuted him for maiestas; the names entered, while Gabinius said not a word. You have the news of the Forum. At home all is well; the house itself the contractors are handling not undiligently.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-24",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.24",
+  "title_english": "Ad Atticum 3.24",
+  "date": "-0058-12-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "antea quom ad me scripsissetis vestro consensu consulum provincias ornatas esse, etsi verebar quorsum id casurum esset, tamen sperabam vos aliquid aliquando vidisse prudentius; postea quam mihi et dictum est et scriptum vehementer consilium vestrum reprehendi, sum graviter commotus, quod illa ipsa spes exigua quae erat videretur esse sublata. nam si tribuni pl. nobis suscensent, quae potest spes esse? ac videntur iure suscensere, cum et expertes consili fuerint ei qui causam nostram susceperant, et vestra concessione omnem vim sui iuris amiserint, praesertim cum ita dicant, se nostra causa voluisse suam potestatem esse de consulibus ornandis non ut eos impedirent sed ut ad nostram causam adiungerent; nunc si consules a nobis alieniores esse velint, posse id libere facere; sin velint nostra causa, nihil posse se invitis. nam quod scribis, ni ita vobis placuisset, illos hoc idem per populum adsecuturos fuisse, invitis tribunis pl. fieri nullo modo potuit. ita vereor ne et studia tribunorum amiserimus et, si studia maneant, vinclum illud adiungendorum consulum amissum sit.",
+      "eng": "When you all wrote earlier that the consuls' provinces had been allotted them by your common consent, even though I was apprehensive how that might fall out, still I hoped you had at least seen something more shrewd. But after I was both told and written that your decision had been strongly criticised, I have been deeply disturbed --- because that very small hope which there was now seemed taken away. For if the tribunes are angry with us, what hope can there be? And they seem to be angry with reason, both because those who had taken up our cause were left out of the deliberation, and because by your concession they have lost all the force of their own right --- especially when they say this: that for our sake they wanted the power of allotting the consuls' provinces to lie in their hands, not to hinder the consuls but to bind them to our cause; now, if the consuls want to be more estranged from us, they can do so freely, but if they want to be on our side, they can do nothing without the tribunes' good will. For as to your writing that, if your decision had not so pleased, the consuls would have got the same thing through the people, that could not have been done at all against the tribunes' wishes. So I fear lest we have both lost the tribunes' goodwill, and, even if their goodwill remains, lost the bond by which the consuls were to have been bound to us.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "accedit aliud non parvum incommodum quod gravis illa opinio, ut quidem ad nos perferebatur, senatum nihil decernere ante quam de nobis actum esset, amissa est, praesertim in ea causa quae non modo necessaria non fuit sed etiam inusitata ac nova (neque enim umquam arbitror ornatas esse provincias designatorum), ut, cum in hoc illa constantia quae erat mea causa suscepta imminuta sit, nihil iam possit non decerni. iis ad quos relatum est amicis placuisse non mirum est; erat enim difficile reperire qui contra tanta commoda duorum consulum palam sententiam diceret. fuit omnino difficile non obsequi vel amicissimo homini Lentulo vel Metello qui simultatem humanissime deponeret; sed vereor ne hos tamen tenere potuerimus, tribunos pl. amiserimus. haec res quem ad modum ceciderit et tota res quo loco sit velim ad me scribas et ita ut instituisti. nam ista veritas, etiam si iucunda non est, mihi tamen grata est. data iiii Id. Decembr.",
+      "eng": "A second loss, no small one, is added: that the weighty opinion --- as it had been carried to me --- that the Senate would decree nothing before our case had been moved, has been lost; and lost, particularly, in a cause which was not only not necessary but also unusual and unprecedented (for I do not think it was ever the case that consuls-elect had their provinces allotted them ahead of time): so that, when in this very point that constancy of the Senate which had been undertaken for our sake has been weakened, nothing now is beyond decreeing. That those friends to whom the matter was referred decided as they did is no wonder. For it was hard to find a man who would speak openly against such conveniences of the two consuls. It was on the whole hard not to defer either to Lentulus, who is the most loyal of friends, or to Metellus, who was setting aside his quarrel with me in the kindest fashion; but I am afraid that, even though we have been able to keep these men, we have lost the tribunes. How this matter has fallen, and where the whole business stands --- please write me, and as you have begun to do. That truth of yours, even if it is not pleasant, is welcome to me. Sent the fourth day before the Ides of December.",
+      "notes": null
+    }
+  ]
+}

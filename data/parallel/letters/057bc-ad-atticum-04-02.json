@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-02",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.2",
+  "title_english": "Ad Atticum 4.2",
+  "date": "-0057-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "si forte rarius tibi a me quam a ceteris litterae redduntur peto a te ut id non modo neglegentiae meae sed ne occupationi quidem tribuas; quae etsi summa est, tamen nulla esse potest tanta ut interrumpat iter amoris nostri et offici mei. nam ut veni Romam, iterum nunc sum certior factus esse cui darem litteras; itaque has alteras dedi. prioribus tibi declaravi adventus noster qualis fuisset et quis esset status atque omnes res nostrae quem ad modum essent, ut ín secundis flúxae, ut in advorsís bonae.",
+      "eng": "If by chance letters are returned to you from me more rarely than from the rest, I ask of you that you set this down not only not to my negligence, but not even to my engagements. Engagements may be at their highest, but they cannot be so great as to break the journey of my love and my duty. For since I came to Rome, this is the second time I have been told that there was a man to whom I might give a letter. So I have given this second one. In the earlier letter I declared what my coming had been like, what the state was, and how all my affairs stood --- as in fortune, fragile; as in misfortune, good.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "post illas datas litteras secuta est summa contentio de domo. diximus apud pontifices pr. Kal. Octobris. acta res est accurate a nobis et, si umquam in dicendo fuimus aliquid aut etiam si numquam alias fuimus, tum profecto doloris magnitudo vim quandam nobis dicendi dedit. itaque oratio iuventuti nostrae deberi non potest; quam tibi, etiam si non desideras, tamen mittam cito.",
+      "eng": "After that letter was sent, the highest contest about the house followed. We spoke before the pontiffs on the day before the Kalends of October. The case was carefully managed by us; and if ever in speaking we have been anything --- or even if we never were anything before --- then surely the greatness of grief gave us a kind of force in speaking. So that speech I cannot withhold from our young men: I shall send it to you soon, even if you do not want it.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "cum pontifices decressent ita, si neque populi iussu neque plebis scitu is qui se dedicasse diceret nominatim ei rei praefectus esset neque populi iussu aut plebis scitu id facere iussus esset videri, posse sine religione eam partem areae mihi restitui , mihi facta statim est gratulatio; nemo enim dubitabat quin domus nobis esset adiudicata; cum subito ille in contionem escendit quam Appius ei dedit. nuntiat iam populo pontifices secundum se decrevisse, me autem vi conari in possessionem venire; hortatur ut se et Appium sequantur et suam libertatem vi defendant. hic cum etiam illi infimi partim admirarentur partim inriderent hominis amentiam, ego statuerem illuc non accedere nisi cum consules ex senatus consulto porticum Catuli restituendam locassent Kal Octobr. habetur senatus frequens.",
+      "eng": "When the pontiffs had decreed thus --- ``If neither by the order of the people nor by a plebiscite he who said he had dedicated had been put in charge of that thing by name, nor had he been ordered to do it by the order of the people or a plebiscite, that part of the site can be restored to me without religious offence'' --- congratulations were at once made to me, for no one doubted that the house had been adjudged ours. Then suddenly that man went up to a public meeting which Appius had given him. He announces to the people that the pontiffs had decreed in his favour, and that I was trying to come into possession by violence. He urges them to follow him and Appius and to defend their freedom by violence. When even those of the lowest class partly wondered at and partly mocked the man's madness, I, having decided not to go up there until the consuls, on a senatus consultum, had let out the contract for the rebuilding of Catulus's portico, on the Kalends of October a packed Senate is held.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "adhibentur omnes pontifices qui erant senatores. a quibus Marcellinus, qui erat cupidissimus mei, sententiam primus rogatus quaesivit quid essent in decernendo secuti. tum M. Lucullus de omnium conlegarum sententia respondit religionis iudices pontifices fuisse, legis esse senatum; se et conlegas suos de religione statuisse, in senatu de lege statuturos cum senatu. itaque sub quisque horum loco sententiam rogatus multa secundum causam nostram disputavit. cum ad Clodium ventum est, cupiit diem consumere neque ei finis est factus, sed tamen cum horas tris fere dixisset, odio et strepitu senatus coactus est aliquando perorare. cum fieret senatus consultum in sententiam Marcellini omnibus praeter unum adsentientibus, Serranus intercessit. de intercessione statim ambo consules referre coeperunt. cum sententiae gravissimae dicerentur, senatui placere mihi domum restitui, porticum Catuli locari, auctoritatem ordinis ab omnibus magistratibus defendi si quae vis esset facta, senatum existimaturum eius opera factum esse qui senatus consulto intercessisset, Serranus pertimuit et Cornicinus ad suam veterem fabulam rediit; abiecta toga se ad generi pedes abiecit. ille noctem sibi postulavit. non concedebant, reminiscebantur enim Kal. Ianuar. vix tandem tibi de mea voluntate concessum est.",
+      "eng": "All the pontiffs who were senators are brought in. From them Marcellinus, who was most desirous of my cause, asked first when his opinion was demanded what they had followed in deciding. Then M. Lucullus, on the opinion of all his colleagues, replied that the pontiffs had been the judges of the religious question, the Senate of the legal question; that he and his colleagues had settled about the religion, and that they would settle in the Senate, with the Senate, about the law. Accordingly, each of these in turn, when his opinion was asked, argued at length in favour of our case. When it came to Clodius, he wished to consume the day, nor was an end set on him; but yet, when he had spoken about three hours, by the hatred and noise of the Senate he was at last compelled to wind up. When the senatus consultum was being made on the motion of Marcellinus, with all consenting save one, Serranus interposed his veto. About the veto both consuls at once began to refer. When the gravest opinions were being given --- that it pleased the Senate that the house be restored to me, that Catulus's portico be let out, that the authority of the order be defended by all the magistrates if any violence should be used, that the Senate would judge that any such violence was the doing of the man who had vetoed the senatus consultum --- Serranus was thoroughly frightened, and Cornicinus went back to his old play: throwing off his toga, he cast himself at his son-in-law's feet. The man asked for a night to think it over. They would not allow it; they remembered the Kalends of January. With difficulty, at last, on my will, he was allowed it.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "postridie senatus consultum factum est id quod ad te misi. deinde consules porticum Catuli restituendam locarunt; illam porticum redemptores statim sunt demoliti libentissimis omnibus. nobis superficiem aedium consules de consili sententia aestimarunt sestertio viciens, cetera valde inliberaliter, Tusculanam villam quingentis milibus, Formianum HS ducentis quinquaginta milibus. quae aestimatio non modo vehementer ab optimo quoque sed etiam a plebe reprehenditur. dices : quid igitur causae fuit? dicunt illi quidem pudorem meum, quod neque negarim neque vehementius postularim; sed non est id; nam hoc quidem etiam profuisset; verum iidem, mi T. Pomponi, iidem inquam illi quos ne tu quidem ignoras qui mihi pinnas inciderant nolunt easdem renasci. sed , ut spero, iam renascuntur. tu modo ad nos veni; quod vereor ne tardius interventu Varronis tui nostrique facias.",
+      "eng": "On the next day the senatus consultum was made which I have sent to you. Then the consuls let out the contract for the rebuilding of Catulus's portico; the contractors at once pulled down that portico of his, with all most willing. To us the consuls, on the advice of their council, valued the upper part of the house at two million sesterces; the rest very illiberally --- the Tusculan villa at five hundred thousand, the Formian at two hundred and fifty thousand. Which valuation is censured most violently not only by every best citizen but even by the plebs. You will say: ``What was the cause, then?'' Some say it was my modesty, that I had neither denied nor demanded too vehemently. But that is not it; for that very thing would have done good. The truth, my T. Pomponius --- the truth, I say --- is the same men whom even you do not fail to recognise, who had clipped my wings, are unwilling that the same wings should grow back. But, as I hope, they are now growing back. Only come to me. I am afraid you will be the slower in this through the intervention of your Varro and ours.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "quoniam acta quae sint habes, de reliqua nostra cogitatione cognosce. ego me a Pompeio legari ita sum passus ut nulla re impedirer. quod nisi vellem mihi esset integrum ut, si comitia censorum proximi consules haberent, petere possem, votivam legationem sumpsissem prope omnium fanorum, lucorum; sic enim nostrae rationes utilitatis meae postulabant. sed volui meam potestatem esse vel petendi vel ineunte aestate exeundi et interea me esse in oculis civium de me optime meritorum non alienum putavi.",
+      "eng": "Since you have what has been done, learn now of the rest of my plans. I have allowed myself to be made one of Pompey's legates in such a way as to be hindered by nothing. If I had not wished it to be open to me to canvass, in case the next consuls should hold the censorial elections, I should have taken on a votive legation to almost all the temples and groves --- so my own reckonings were demanding it for my own advantage. But I wished to have my own choice either of standing for office or of going out at the beginning of summer; and meanwhile I did not think it foreign to be in the eyes of those citizens who have so well deserved of me.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "ac forensium quidem rerum haec nostra consilia sunt, domesticarum autem valde impedita. domus aedificatur, scis quo sumptu, qua molestia; reficitur Formianum, quod ego nec relinquere possum nec videre; Tusculanum proscripsi; suburbano facile careo. amicorum benignitas exhausta est in ea re quae nihil habuit praeter dedecus, quod sensisti tu absens nos praesentes; quorum studiis ego et copiis, si esset per meos defensores licitum, facile essem omnia consecutus. quo in genere nunc vehementer laboratur. cetera quae me sollicitant μυστικώτερα sunt. amamur a fratre et a filia. te exspectamus.",
+      "eng": "As for forensic affairs, these are my plans; but my domestic affairs are in great difficulty. The house is being built --- you know at what cost, with what trouble. The Formian villa is being repaired, which I cannot leave alone or bear to look at. I have advertised the Tusculan for sale; the suburban property I can do without easily. The kindness of friends has been exhausted in that affair which had nothing in it but disgrace --- a thing you, while away, felt as I, present, did. By their zeal and resources, had it been allowed me by my own defenders, I should easily have got everything. In which respect there is now great labour. The other things that disturb me are μυστικώτερα [Greek: more for mysteries]. I am loved by my brother and my daughter. I am waiting for you.",
+      "notes": null
+    }
+  ]
+}

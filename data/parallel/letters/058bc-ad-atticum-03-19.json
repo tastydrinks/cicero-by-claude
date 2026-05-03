@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-19",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.19",
+  "title_english": "Ad Atticum 3.19",
+  "date": "-0058-09-16",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quoad eius modi mihi litterae a vobis adferebantur ut aliquid ex iis esset exspectandum, spe et cupiditate Thessalonicae retentus sum; postea quam omnis actio huius anni confecta nobis videbatur, in Asiam ire nolui, quod et celebritas mihi odio est et, si fieret aliquid a novis magistratibus, abesse longe nolebam. itaque in Epirum ad te statui me conferre, non quo mea interesset loci natura qui lucem omnino fugerem, sed et ad salutem libentissime ex tuo portu proficiscar et, si ea praecisa erit, nusquam facilius hanc miserrimam vitam vel sustentabo vel, quod multo est melius, abiecero. ero cum paucis, multitudinem dimittam.",
+      "eng": "As long as letters of the kind on which I might still expect something from you all were being brought to me, I was held by hope and longing at Thessalonica. After it seemed to me that the action of this whole year was finished, I would not go into Asia, both because crowds are a thing I hate, and because, if anything were done by the new magistrates, I did not want to be far away. So I have decided to come over to you in Epirus --- not that the nature of the place itself can matter to one who avoids the daylight altogether, but because, if life and safety are open, it is from your harbour I shall most gladly set sail for them; and if life and safety are cut off, nowhere shall I more easily either bear out this most wretched life of mine, or --- which is far better --- throw it from me. I shall be with a few; I shall send the rest of the company away.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "me tuae litterae numquam in tantam spem adduxerunt quantam aliorum; ac tamen mea spes etiam tenuior semper fuit quam tuae litterae. sed tamen quoniam coeptum est agi, quoquo modo coeptum est et quacumque de causa, non deseram neque optimi atque unici fratris miseras ac luctuosas preces nec Sesti ceterorumque promissa nec spem aerumnosissimae mulieris Terentiae nec miserrimae mulieris Tulliolae obsecrationem et fidelis litteras tuas. mihi Epirus aut iter ad salutem dabit aut quod scripsi supra.",
+      "eng": "Your letters never brought me into so much hope as those of others did; and yet my own hope has always been thinner even than your letters. But still, since the matter has begun to be moved --- in whatever way it has begun, and from whatever cause --- I shall not desert either the wretched and mournful prayers of my best, my only brother, nor the promises of Sestius and the others, nor the hope of that most weighed-down woman Terentia, nor the supplication of that most wretched little Tullia, nor your own faithful letters. Epirus will give me either the road to safety, or what I wrote above.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "te oro et obsecro, T. Pomponi, si me omnibus amplissimis, carissimis iucundissimisque rebus perfidia hominum spoliatum, si me a meis consiliariis proditum et proiectum vides, si intellegis me coactum ut ipse me et meos perderem, ut me tua misericordia iuves et Quintum fratrem qui potest esse salvus sustentes, Terentiam liberosque meos tueare, me, si putas te istic visurum, exspectes, si minus, invisas, si potes, mihique ex agro tuo tantum adsignes quantum meo corpore occupari potest, et pueros ad me cum litteris quam primum et quam saepissime mittas. data xvi Kal. Octobris.",
+      "eng": "I beg you and entreat you, T. Pomponius: if you see me stripped by men's faithlessness of all that was the highest, the dearest, and the sweetest, if you see me betrayed and thrown out by my own counsellors, if you understand that I was forced to destroy both myself and my people --- assist me by your pity, and Quintus my brother (who can be safe) hold up; defend Terentia and my children; wait for me, if you think you will see me there; if not, come and see me, if you can; assign me from your land only as much as my body can take up; and send slaves to me with letters as soon as can be and as often as can be. Sent on the sixteenth day before the Kalends of October.",
+      "notes": null
+    }
+  ]
+}

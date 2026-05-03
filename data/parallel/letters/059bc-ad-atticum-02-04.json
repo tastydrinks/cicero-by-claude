@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-04",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.4",
+  "title_english": "Ad Atticum 2.4",
+  "date": "-0059-01-09",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "fecisti mihi pergratum quod Serapionis librum ad me misisti; ex quo quidem ego, quod inter nos liceat dicere, millesimam partem vix intellego. pro eo tibi praesentem pecuniam solvi imperavi, ne tu expensum muneribus ferres. at quoniam nummorum mentio facta est, amabo te, cura ut cum Titinio quoquo modo poteris transigas. si in eo quod ostenderat non stat, mihi maxime placet ea quae male empta sunt reddi, si voluntate Pomponiae fieri poterit; si ne id quidem, nummi potius reddantur quam ullus sit scrupulus. valde hoc velim ante quam proficiscare amanter, ut soles, diligenterque conficias.",
+      "eng": "You have done me a great kindness in sending me Serapion's book; from which (as may be said between us) I scarcely understand a thousandth part. For it I have ordered ready money to be paid you, lest you carry it as expense among your gifts. But since money has been mentioned: please see, in whatever way you can, that you settle with Titinius. If he does not stand by what he had offered, I should much prefer that the things bought ill be returned, if it can be done with Pomponia's goodwill. If even that cannot be, let the money be returned, sooner than that there should be any scruple. I should very much like you to settle this lovingly (as is your habit) and diligently before you set out.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Clodius ergo, ut ais, ad Tigranem! velim †Sirpiae† condicione; sed facile patior. accommodatius enim nobis est ad liberam legationem tempus illud, cum et Quintus noster iam, ut speramus, in otio consederit et iste sacerdos Bonae Deae cuius modi futurus sit scierimus. interea quidem cum Musis nos delectabimus animo aequo, immo vero etiam gaudenti ac libenti, neque mihi umquam veniet in mentem Crasso invidere neque paenitere quod a me ipse non desciverim.",
+      "eng": "Clodius then, as you say, is going to Tigranes! I should be glad if it were on those terms (?) [text uncertain]; but I am easily content. For that time is more convenient for our free embassy, when both our Quintus, as we hope, has settled into peace, and we have learned what kind of priest of the Bona Dea he is going to be. Meanwhile we shall delight ourselves with the Muses, with an even mind --- nay rather even with a glad and willing one --- and it will never come into my head either to envy Crassus or to repent that I did not on my own desert myself.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de geographia dabo operam ut tibi satis faciam; sed nihil certi polliceor. magnum opus est, sed tamen, ut iubes, curabo ut huius peregrinationis aliquod tibi opus exstet.",
+      "eng": "About the geography I shall give pains that I satisfy you; but I promise nothing certain. It is a great work; but yet, as you bid, I shall see that some product of this travelling of mine remains for you.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "tu quicquid indagaris de re publica et maxime quos consules futuros putes facito ut sciam. tametsi nimis sum curiosus; statui enim nihil iam de re publica cogitare.",
+      "eng": "Whatever you have hunted up about public affairs, and especially whom you think will be consuls, see that I know. And yet I am too curious; for I have decided to think about public matters no longer.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "Terentiae saltum perspeximus. quid quaeris? praeter quercum Dodonaeam nihil desideramus quo minus Epirum ipsam possidere videamur.",
+      "eng": "We have inspected Terentia's grove. What more? Apart from the Dodonaean oak, we lack nothing to seem to possess Epirus itself.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "nos circiter Kal. aut in Formiano erimus aut in Pompeiano. tu , si in Formiano non erimus, si nos amas, in Pompeianum venito. id et nobis erit periucundum et tibi non sane devium.",
+      "eng": "Around the Kalends we shall be either at the Formian or at the Pompeian villa. You, if we are not at the Formian, if you love us, come to the Pompeian. It will both be very pleasant for us and not greatly out of your way.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "de muro imperavi Philotimo ne impediret quo minus id fieret quod tibi videretur. tu censeo tamen adhibeas Vettium. his temporibus tam dubia vita optimi cuiusque magni aestimo unius aestatis fructum palaestrae Palatinae, sed ita tamen ut nihil minus velim quam Pomponiam et puerum versari in timore ruinae.",
+      "eng": "About the wall I have given orders to Philotimus that he not hinder what may seem fit to you. Yet I think you should call in Vettius. In times like these, with every best man's life so doubtful, I greatly value one summer's enjoyment of the wrestling-school on the Palatine; but yet so that I should wish nothing less than that Pomponia and the boy should live in fear of its falling.",
+      "notes": null
+    }
+  ]
+}

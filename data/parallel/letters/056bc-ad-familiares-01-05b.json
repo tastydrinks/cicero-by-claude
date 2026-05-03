@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-05b",
+  "category": "letters",
+  "title_latin": "Ad Familiares 1.5b",
+  "title_english": "Ad Familiares 1.5b",
+  "date": "-0056-02-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "hic quae agantur quaeque acta sint, ea te et litteris multorum et nuntiis cognosse arbitror; quae autem posita sunt in coniectura quaeque videntur fore, ea puto tibi a me scribi oportere. postea quam Pompeius et apud populum a. d. viii Idus Februarias , quom pro Milone diceret, clamore convicioque iactatus est in senatuque a Catone aspere et acerbe inimicorum magno silentio est accusatus, visus est mihi vehementer esse perturbatus. itaque Alexandrina causa, quae nobis adhuc integra est (nihil enim tibi detraxit senatus nisi id, quod per eandem religionem dari alteri non potest), videtur ab illo plane esse deposita.",
+      "eng": "What is being done here, and what has been done, you have, I think, learned both from many men's letters and from messengers; but what lies in conjecture, and what seems likely to be, this I think it right that you should hear from me. After Pompey, before the people on the eighth day before the Ides of February, when he was speaking for Milo, was thrown out by shouting and railing, and in the Senate was accused harshly and bitterly by Cato in the great silence of his enemies --- he seemed to me deeply shaken. And so the Alexandrian cause, which still stands open to us (for the Senate has stripped nothing from you except what, by the same religious scruple, cannot be given to another), appears plainly to have been laid down by him.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nunc id speramus idque molimur, ut rex, cum intellegat sese, quod cogitabat, ut a Pompeio reducatur, adsequi non posse et, nisi per te sit restitutus, desertum se atque abiectum fore, proficiscatur ad te; quod sine ulla dubitatione, si Pompeius paulum modo ostenderit sibi placere, faciet; sed nosti hominis tarditatem et taciturnitatem. nos tamen nihil, quod ad eam rem pertineat, praetermittimus. ceteris iniuriis, quae propositae sunt a Catone, facile, ut spero, resistemus. Amicum ex consularibus neminem tibi esse video praeter Hortensium et Lucullum; ceteri sunt partim obscurius iniqui, partim non dissimulanter irati. tu fac animo forti magnoque sis speresque fore ut fracto impetu levissimi hominis tuam pristinam dignitatem et gloriam consequare.",
+      "eng": "Now this is what we hope for and are working towards: that the king, when he understands that he cannot achieve what he was scheming --- that he be brought back by Pompey --- and that, unless he is restored through you, he will be deserted and cast off, sets out to come to you. This he will, without any doubt, do, if Pompey only a little shows himself willing; but you know the man's slowness and silence. Nevertheless, we leave nothing pertaining to that business undone. The rest of the injuries put forward by Cato, we shall, I hope, easily resist. Of the consulars, I see you have no friend except Hortensius and Lucullus; the rest are partly more obscurely hostile, partly openly angry. Do you keep your spirit brave and great, and hope that, the rush of this featherweight man broken, you will recover your former standing and glory.",
+      "notes": null
+    }
+  ]
+}

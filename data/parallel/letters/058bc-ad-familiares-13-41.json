@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-41",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.41",
+  "title_english": "Ad Familiares 13.41",
+  "date": "-0058-02-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quae fecisti L. Luccei causa, scire te plane volo te homini gratissimo commodasse, et cum ipsi quae fecisti pergrata sunt, tu m Pompeius, quotienscumque me videt (videt autem saepe), gratias tibi agit singularis. addo etiam illud, quod tibi iucundissimum esse certo scio, me ipsum ex tua erga Lucceium benignitate maxima voluptate adfici.",
+      "eng": "What you have done for L. Lucceius's sake --- I want you to know clearly --- you have done a kindness to a most grateful man; and not only is what you have done most welcome to him personally, but Pompey, every time he sees me (and he sees me often), gives you remarkable thanks. I add this too, which I am sure will be most pleasant to you to hear: that I myself am taking the highest pleasure in your generosity towards Lucceius.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod superest, quamquam mihi non est dubium quin, cum antea nostra causa, nunc iam etiam tuae constantiae gratia mansurus sis in eadem ista liberalitate, tamen abs te vehementer etiam atque etiam peto ut ea, quae initio ostendisti, deinceps fecisti, ad exitum augeri et cumulari per te velis. id et Lucceio et Pompeio valde gratum fore teque apud eos praeclare positurum confirmo et spondeo. de re p. deque his negotiis cogitationibusque nostris perscripseram ad te diligenter paucis ante diebus easque litteras dederam pueris tuis. vale .",
+      "eng": "For the rest, although I do not doubt that --- if before you were going to keep up that liberality of yours for our sake, now you will do so for the sake of your own consistency --- still I urge you again and again, and yet again, that what at the start you offered, what next you have done, you will be willing to enlarge and crown to the end. That this will be most welcome both to Lucceius and to Pompey, and that you will set yourself to a fine standing with them, I confirm and promise. About the commonwealth and these affairs and our reflections I had written to you carefully a few days ago, and had given that letter to your slaves. Farewell.",
+      "notes": null
+    }
+  ]
+}

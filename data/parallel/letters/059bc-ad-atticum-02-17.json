@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-17",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.17",
+  "title_english": "Ad Atticum 2.17",
+  "date": "-0059-05-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "prorsus ut scribis ita sentio, turbatur Sampsiceramus. nihil est quod non timendum sit; ὁμολογουμένως τυραννίδα συσκευάζεται . quid enim ista repentina adfinitatis coniunctio, quid ager Campanus, quid effusio pecuniae significant? quae si essent extrema tamen esset nimium mali, sed ea natura rei est ut haec extrema esse non possint. quid enim? eos haec ipsa per se delectare possunt? numquam huc venissent nisi ad alias res pestiferas aditus sibi compararent. verum , ut scribis, haec in Arpinati a. d. vi circiter Idus Maias non deflebimus, ne et opera et oleum philologiae nostrae perierit; sed conferemus tranquillo animo.",
+      "eng": "Plainly, as you write, so I judge: Sampsiceramus is in disorder. There is nothing not to be feared. He is fitting up a tyranny by all admission [Greek: homologoumen\\=os tyrannida syskeuazetai]. For what does that sudden joining of marriage mean, what the Campanian land, what the pouring out of money? If these were the last things, there would still be too much evil; but the nature of the matter is such that these cannot be the last. For what? Can these very things by themselves please them? They would never have come to this point if they were not preparing themselves an entrance to other ruinous things. But, as you write, on the sixth day or so before the Ides of May at the Arpinum estate we shall not lament these things, lest the labour and the oil of our learning go to waste; rather, we shall confer with quiet mind.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "di immortales neque tam me εὐελπιστία consolatur ut antea quam ἀδιαφορία , qua nulla in re tam utor quam in hac civili et publica. quin etiam quod est subinane in nobis et non ἀφιλόδοξον (bellum est enim sua vitia nosse), id adficitur quadam delectatione. solebat enim me pungere ne Sampsicerami merita in patriam ad annos sescentos maiora viderentur quam nostra. hac quidem cura certe iam vacuus sum; iacet enim ille sic ut † phocis † Curiana stare videatur. sed haec coram.",
+      "eng": "Immortal gods! It is not so much good hope [Greek: euelpistia] that consoles me as before, as indifference [Greek: adiaphoria] --- of which I make use in nothing so much as in this civil and public affair. Indeed even what little is empty in me, and not unfond of glory [Greek: ouk aphilodoxon] (for it is a fine thing to know one's own faults), is affected by a certain pleasure. For it used to sting me that the deeds of Sampsiceramus to his country might in six hundred years' time appear greater than ours. Of this care at any rate I am now free; for he lies cast down so far that even Curio's [text uncertain] looks to be standing up against him. But these things face to face.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "tu tamen videris mihi Romae fore ad nostrum adventum, quod sane facile patiar si tuo commodo fieri possit; sin ut scribis ita venies, velim ex Theophane expiscere quonam in me animo sit Arabarches. quaeres scilicet κατὰ τὸ κηδεμονικὸν et ad me ab eo quasi ὑποθήκασ adferes quem ad modum me geram. aliquid ex eius sermone poterimus περὶ τῶν suspicari.",
+      "eng": "Yet you seem to me to be likely to be at Rome at our coming, which I shall easily bear if it can be at your convenience; but if you come as you write, I should be glad if you would fish out from Theophanes what spirit toward me the Arabarch [Greek: Arabarch\\=es] has. You will ask, of course, in a tutelary way [Greek: kata to k\\=edemonikon], and bring me from him as it were rules [Greek: hypoth\\=ekas] how to bear myself. From his talk we may suspect something about [text uncertain]\\ldots",
+      "notes": null
+    }
+  ]
+}

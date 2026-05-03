@@ -25,7 +25,16 @@ Read these in order before writing a word of translation:
    stays current, not `CLAUDE.md`.
 4. `meta/works.yaml` — the manifest. Skim the entry shape; you will
    be flipping `status:` fields and occasionally correcting dates.
-5. One finished letter headnote (e.g.
+5. `data/SCHEMA.md` — the structured-sidecar schemas. Every
+   translated work emits sidecars (parallel corpus, Greek phrases,
+   entity mentions, allusions, glossary notes, and so on). Skim
+   the schemas; the per-work emit discipline is summarised in
+   "What 'done' looks like" below.
+6. `build/PROFILES.md` — the reading / study / scholar build
+   profile system. The bound volume is built in three editions
+   from the same source; the apparatus is generated from the
+   sidecars.
+7. One finished letter headnote (e.g.
    `headnotes/letters/058bc-ad-atticum-03-07.tex`) for the
    established convention.
 
@@ -56,10 +65,38 @@ truth.
    existing English versions.
 3. Headnote written in `headnotes/<category>/`. 2–4 sentences for
    short letters, fuller for major speeches.
-4. Status flipped to `drafted` in `meta/works.yaml` (anchoring
+4. **Sidecars emitted to `data/`** (see `data/SCHEMA.md`). For each
+   translated work:
+   - `data/parallel/<category>/<id>.json` — section-aligned Latin
+     and English text. Mostly mechanical; the structural backfill
+     script will produce this if forgotten, but emitting it during
+     translation is preferred.
+   - `data/entities-mentions/<category>/<id>.json` — every named
+     person, place, office, institution, law, festival, god, or
+     external text mentioned, tagged with stable entity IDs. New
+     entities are added to `data/entities.json`.
+   - `data/glossary/<category>/<id>.json` — short realia notes for
+     things a non-classicist would miss (the kalends, the
+     pontifices, particular families). One per anchor per work.
+   - `data/allusions/<category>/<id>.json` — suspected quotations
+     of and allusions to other ancient authors (Homer, Ennius,
+     Plautus, the Twelve Tables). Flag-not-resolve.
+   - `data/crossrefs/<category>/<id>.json` — internal references
+     to Cicero's own earlier works or earlier sections.
+   - For letters: append a row to `data/letter-network.json`
+     (sender, recipient, place, date, mood, length).
+   - For Greek phrases: append entries to `data/greek-phrases.json`.
+   - For genuinely contested rendering choices: append a line to
+     `data/translator-notes.jsonl`.
+
+   These sidecars are the apparatus that drives the study and
+   scholar build profiles. Skipping them means skipping the
+   apparatus for that work.
+5. Status flipped to `drafted` in `meta/works.yaml` (anchoring
    discipline below).
-5. `python scripts/validate.py` returns 0 warnings.
-6. One commit per finished work; for long works, WIP commits at
+6. `python scripts/validate.py` returns 0 warnings (or only the
+   pre-existing chronological-gap warning for pending work).
+7. One commit per finished work; for long works, WIP commits at
    chunk boundaries plus a final commit when status is flipped.
 
 After a batch of finished works (every several commits, or at the
@@ -67,6 +104,41 @@ end of a session), run `python scripts/build_manifest.py` to
 regenerate `MANIFEST.md` and `build/chronology.tex` from the
 updated `meta/works.yaml`. `session_end.sh` is a fine moment for
 this.
+
+## Build profiles
+
+The bound volume is built in three reader-selectable editions from
+the same source: `reading` (default, clean prose), `study` (adds
+glossary, Greek catalogue, letter-network appendix), and `scholar`
+(further adds cross-references, allusions, translator's notes).
+See `build/PROFILES.md`. To build:
+
+```
+python scripts/assemble_book.py --profile reading
+python scripts/assemble_book.py --profile study
+python scripts/assemble_book.py --profile scholar
+```
+
+`assemble_book.py` regenerates `body.tex` (identical across
+profiles) and delegates backmatter regeneration to
+`scripts/generate_backmatter.py`. STYLE.md governs the body in
+all profiles; only the backmatter varies.
+
+## Sidecar emit discipline (in long sessions)
+
+For long speeches, emit sidecars in lockstep with translation
+chunks: when you finish a 5-section chunk and commit it, append the
+matching entries to the per-work sidecar files in the same commit.
+Don't batch all sidecars to the end — a stream timeout late in the
+work would lose them, and they're easier to write while the section
+is still in working memory.
+
+For short letters, emit sidecars together with the English file
+and headnote in one final commit.
+
+If a sidecar is hard to emit at the moment (e.g., you're not sure
+about an allusion's source), leave it for the post-session
+backfill rather than guessing. Flag-not-resolve is the rule.
 
 ## The chronology rule
 

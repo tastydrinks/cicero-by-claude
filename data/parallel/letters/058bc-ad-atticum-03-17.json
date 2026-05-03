@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-17",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.17",
+  "title_english": "Ad Atticum 3.17",
+  "date": "-0058-09-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de Quinto fratre nuntii nobis tristes nec varii venerant ex ante diem III non . Iun. usque ad prid. Kal. Sept. eo autem die Livineius L. Reguli libertus ad me a Regulo missus venit. is omnino mentionem nullam factam esse nuntiavit sed fuisse tamen sermonem de C. Clodi filio isque mihi †qm a fratre litteras attulit. sed postridie Sesti pueri venerunt qui a te litteras attulerunt non tam exploratas a timore quam sermo Livinei fuerat. sane sum in meo infinito maerore sollicitus et eo magis quod Appi quaestio est.",
+      "eng": "About my brother Quintus, sad reports --- and not differing one from another --- had been coming to me from the third day before the Nones of June up to the day before the Kalends of September. On that day, however, Livineius, freedman of L. Regulus, came to me, sent by Regulus. He brought word that, in the end, no charge had actually been laid, but that there had been talk all the same of C. Clodius's son, and he brought me \\textdagger\\ldots\\textdagger a letter from my brother. But the next day Sestius's slaves arrived bringing letters from you, on the basis of which the matter was less cleared from fear than Livineius's report had been. I am sorely disturbed within my own unbounded grief, and the more so because Appius is the questor in charge.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "cetera quae ad me eisdem litteris scribis de nostra spe, intellego esse languidiora quam alii ostendunt. ego autem quoniam non longe ab eo tempore absumus in quo res diiudicabitur, aut ad te conferam me aut etiam nunc circum haec loca commorabor.",
+      "eng": "The other things you write me in that same letter, about our hope --- I see that they are weaker than other men make out. As I am, however, not far away from the time at which the matter will be decided, I shall either come over to you, or even now stay around these parts.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "scribit ad me frater omnia sua per te unum sustineri. quid te aut horter quod facis, aut agam gratias quod non exspectas? tantum velim fortuna det nobis potestatem ut incolumes amore nostro perfruamur. tuas litteras semper maxime exspecto; in quibus cave vereare ne aut diligentia tua mihi molesta aut veritas acerba sit. data pr. Nonas Sept.",
+      "eng": "My brother writes me that all his affairs are kept up by you alone. Why should I urge you on, since you are doing it, or thank you, since you do not wait to be thanked? I would only wish that fortune may give us the power to enjoy each other in our old love, both safe. Your letters I always wait for the most. In them, do not be afraid that either your thoroughness will be a burden to me or that the truth will be bitter. Sent the day before the Nones of September.",
+      "notes": null
+    }
+  ]
+}

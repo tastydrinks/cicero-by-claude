@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-01",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.1",
+  "title_english": "Ad Atticum 3.1",
+  "date": "-0058-02-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum antea maxime nostra interesse arbitrabar te esse nobiscum, tum vero, ut legi rogationem, intellexi ad iter id quod constitui nihil mihi optatius cadere posse quam ut tu me quam primum consequerere, ut, cum ex Italia profecti essemus, sive per Epirum iter esset faciendum, tuo tuorumque praesidio uteremur, sive aliud quid agendum esset, certum consilium de tua sententia capere possemus. quam ob rem te oro des operam ut me statim consequare; quod eo facilius potes quoniam de provincia Macedonia perlata lex est. pluribus verbis tecum agerem nisi pro me apud te res ipsa loqueretur.",
+      "eng": "Whereas before I thought it especially in our interest that you should be with us, now in truth, since I have read the bill, I have understood that on this journey I have set myself nothing more longed for can fall to me than that you overtake me as soon as possible: so that, when we have set out from Italy, if we must take the road through Epirus, we may use your protection and your people's; or, if anything else is to be done, we may take a settled course on your advice. Therefore I beg you to make haste to overtake me at once; which you may do all the more easily since the law on the province of Macedonia has been carried. I should treat with you in more words, were not the matter itself speaking for me before you.",
+      "notes": null
+    }
+  ]
+}

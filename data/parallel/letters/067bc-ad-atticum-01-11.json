@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-11",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.11",
+  "title_english": "Ad Atticum 1.11",
+  "date": "-0067-07-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "et mea sponte faciebam antea et post duabus epistulis tuis perdiligenter in eandem rationem scriptis magno opere sum commotus. eo accedebat hortator adsiduus Sallustius ut agerem quam diligentissime cum Lucceio de vestra vetere gratia reconcilianda. sed cum omnia fecissem, non modo eam voluntatem eius quae fuerat erga te reciperare non potui, verum ne causam quidem elicere immutatae voluntatis. tametsi iactat ille quidem illud suum arbitrium et ea quae iam tum cum aderas offendere eius animum intellegebam, tamen habet quiddam profecto quod magis in animo eius insederit, quod neque epistulae tuae neque nostra adlegatio tam potest facile delere. quam tu praesens non modo oratione sed tuo vultu illo familiari tolles, si modo tanti putaris, id quod, si me audies et si humanitati tuae constare voles, certe putabis. ac ne illud mirere cur, cum ego antea significarim tibi per litteras me sperare illum in nostra potestate fore, nunc idem videar diffidere, incredibile est quanto mihi videatur illius voluntas obstinatior et in hac iracundia offirmatior. sed haec aut sanabuntur cum veneris aut ei molesta erunt in utro culpa erit.",
+      "eng": "I had been doing this on my own initiative before, and afterwards, by two of your letters written most diligently to the same end, I was strongly stirred. To this was added Sallustius as constant urger that I should treat with Lucceius as carefully as possible about restoring the old friendship between you. But although I have done everything, not only could I not recover the goodwill toward you that he had once had, I could not even draw out the cause of the changed feeling. He boasts of his own decision in the matter and of the things which I had understood, even when you were here, were already offending him; yet he certainly has something deeper-seated in his mind which neither your letters nor my advocacy can so easily wipe away. This you, on the spot, will remove not only by speech but by that familiar look of yours --- if only you reckon it worth the trouble; which, if you listen to me and if you wish to be true to your own kindness, you certainly will. And do not wonder why, when I had earlier signalled by letter that I hoped he would be in our power, I now seem to be losing confidence. It is past belief how more obstinate his feeling toward you appears, how more set in this anger. But this will either be cured when you arrive, or will be vexatious to him, on whichever side the fault lies.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod in epistula tua scriptum erat me iam arbitrari designatum esse, scito nihil tam exercitum esse nunc Romae quam candidatos omnibus iniquitatibus nec quando futura sint comitia sciri.",
+      "eng": "As to what was written in your letter, that I am already, in your view, declared elected --- know that nothing in Rome is now so harassed as the candidates, with every kind of unfairness, and that it is not even known when the elections will be.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "verum haec audies de Philadelpho. tu velim quae Academiae nostrae parasti quam primum mittas. mire quam illius loci non modo usus sed etiam cogitatio delectat. libros vero tuos cave cuiquam tradas; nobis eos, quem ad modum scribis, conserva. summum me eorum studium tenet sicut odium iam ceterarum rerum; quas tu incredibile est quam brevi tempore quanto deteriores offensurus sis quam reliquisti.",
+      "eng": "You will hear of these things from Philadelphus. As to what you have prepared for our Academy, please send it as soon as you can. Wonderful how the use --- and even the very thought --- of that place delights me. But your books, take care that you do not hand them over to anyone; keep them for us, as you write. The greatest passion for them holds me, as does loathing now for everything else; how very much, in how brief a time, those things have grown worse than you left them, you will scarcely believe.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-01",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.1",
+  "title_english": "Ad Atticum 4.1",
+  "date": "-0057-09-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum primum Romam veni fuitque cui recte ad te litteras darem, nihil prius faciendum mihi putavi quam ut tibi absenti de reditu nostro gratularer. cognoram enim, ut vere scribam, te in consiliis mihi dandis nec fortiorem nec prudentiorem quam me ipsum nec etiam pro praeterita mea in te observantia nimium in custodia salutis meae diligentem eundemque te, qui primis temporibus erroris nostri aut potius furoris particeps et falsi timoris socius fuisses, acerbissime discidium nostrum tulisse plurimumque operae, studi, diligentiae, laboris ad conficiendum reditum meum contulisse.",
+      "eng": "As soon as I came to Rome and there was someone to whom I could rightly entrust a letter for you, I thought nothing should be done by me before this --- to congratulate you, in your absence, on my return. For I had recognised, to write the truth, that in the giving of counsels you were neither braver nor wiser than I myself, nor (in proportion to my past devotion to you) so very careful in keeping watch over my safety. And I had also recognised that you, who in the first times of my error or rather madness had been a sharer of my mistake and a partner of my false fear, had borne our parting with the bitterest grief, and had brought to bear the greatest part of energy, zeal, care, and labour to bring about my return.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "itaque hoc tibi vere adfirmo, in maxima laetitia et exoptatissima gratulatione unum ad cumulandum gaudium conspectum aut potius complexum mihi tuum defuisse. quem semel nactus si umquam dimisero ac nisi etiam praetermissos fructus tuae suavitatis praeteriti temporis omnis exegero, profecto hac restitutione fortunae me ipse non satis dignum iudicabo.",
+      "eng": "And so I affirm to you in truth: that in the greatest joy and the most longed-for congratulation, only one thing was lacking to crown my gladness --- the sight, or rather the embrace, of you. Once I have got hold of you, if I ever let you go, or unless I exact even the missed fruits of your sweetness for all the time gone by, I shall in truth judge myself unworthy of this restoration of fortune.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "nos adhuc, in nostro statu quod difficillime reciperari posse arbitrati sumus, splendorem nostrum illum forensem et in senatu auctoritatem et apud viros bonos gratiam magis quam optaramus consecuti sumus; in re autem familiari, quae quem ad modum fracta, dissipata, direpta sit non ignoras, valde laboramus tuarumque non tam facultatum quas ego nostras esse iudico quam consiliorum ad conligendas et constituendas reliquias nostras indigemus.",
+      "eng": "As things stand with us so far: that in our standing --- the thing I had thought hardest to recover --- our old splendour in the Forum, our authority in the Senate, our favour with good men, has been won back beyond what we had hoped. In domestic estate (and how it has been broken, scattered, plundered, you do not fail to know) we are very greatly troubled, and we are in need not so much of your resources --- which I judge to be ours --- as of your counsels for gathering up and setting in order what is left of us.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "nunc etsi omnia aut scripta esse a tuis arbitror aut etiam nuntiis ac rumore perlata, tamen ea scribam brevi quae te puto potissimum ex meis litteris velle cognoscere. Pr. Nonas Sextilis Dyrrachio sum profectus ipso illo die quo lex est lata de nobis. Brundisium ven i Nonis Sextilibus. ibi mihi Tulliola mea fuit praesto natali suo ipso die qui casu idem natalis erat et Brundisinae coloniae et tuae vicinae Salutis; quae res animadversa a multitudine summa Brundinisorum gratulatione celebrata est. ante diem iii Idus Sextilis cognovi, quom Brundisi essem, litteris Quinti mirifico studio omnium aetatum atque ordinum, incredibili concursu Italiae legem comitiis centuriatis esse perlatam. inde a Brundisinis honestissime ornatus iter ita feci ut undique ad me cum gratulatione legati convenerint.",
+      "eng": "Now, although I think everything has either been written by your people or even brought by messenger and rumour, still I shall briefly write what I think you most want to learn from a letter of mine. On the day before the Nones of August I set out from Dyrrachium, on that very day on which the law about me was carried. I came to Brundisium on the Nones of August. There my little Tullia was waiting for me on the day of her own birth, which by chance was also the birthday both of the colony of Brundisium and of the temple of Salus next to your house --- a thing which, when noticed by the multitude, was celebrated with the highest congratulation of the Brundisians. On the third day before the Ides of August, while I was at Brundisium, I learned by Quintus's letter that, with the wonderful zeal of every age and rank, with an incredible coming-together of Italy, the law had been carried in the centuriate assembly. From there, splendidly honoured by the Brundisians, I made my way so that envoys from every side came to me with their congratulations.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "ad urbem ita veni ut nemo ullius ordinis homo nomenclatori notus fuerit qui mihi obviam non venerit, praeter eos inimicos quibus id ipsum, se inimicos esse, non liceret aut dissimulare aut negare. cum venissem ad portam Capenam, gradus templorum ab infima plebe completi erant. a qua plausu maximo cum esset mihi gratulatio significata, similis et frequentia et plausus me usque ad Capitolium celebravit in foroque et in ipso Capitolio miranda multitudo fuit.",
+      "eng": "I came to Rome in such a way that no man of any order known to a name-caller failed to come out to meet me --- except those enemies who were not allowed either to dissemble or to deny that very thing, that they were enemies. When I had come to the Capene gate, the steps of the temples were full of the lowest people: from whom, when their congratulation had been signified to me by the loudest applause, the same numbers and the same applause kept up with me all the way to the Capitol; and in the Forum and on the Capitol itself there was a marvellous multitude.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "postridie in senatu qui fuit dies Nonarum Septembr. senatui gratias egimus. eo biduo cum esset annonae summa caritas et homines ad theatrum primo, deinde ad senatum concurrissent, impulsu Clodi mea opera frumenti inopiam esse clamarent, cum per eos dies senatus de annona haberetur et ad eius procurationem sermone non solum plebis verum etiam bonorum Pompeius vocaretur idque ipse cuperet multitudoque a me nominatim ut id decernerem postularet, feci et accurate sententiam dixi. cum abessent consulares, quod tuto se negarent posse sententiam dicere, praeter Messallam et Afranium, factum est senatus consultum in meam sententiam, ut cum Pompeio ageretur ut eam rem susciperet lexque ferretur. quo senatus consulto recitato cum populus more hoc insulso et novo plausum meo nomine recitando dedisset, habui contionem. omnes magistratus praesentes praeter unum praetorem et duos tribunos pl. dederunt. postridie senatus frequens et omnes consulares nihil Pompeio postulanti negarunt. ille legatos quindecim cum postularet, me principem nominavit et ad omnia me alterum se fore dixit. legem consules conscripserunt qua Pompeio per quinquennium omnis potestas rei frumentariae toto orbe terrarum daretur, alteram Messius qui omnis pecuniae dat potestatem et adiungit classem et exercitum et maius imperium in provinciis quam sit eorum qui eas obtineant. illa nostra lex consularis nunc modesta videtur, haec Messi non ferenda. Pompeius illam velle se dicit, familiares hanc. consulares duce Favonio fremunt; nos tacemus et eo magis quod de domo nostra nihil adhuc pontifices responderunt. qui si sustulerint religionem, aream praeclaram habebimus; superficiem consules ex senatus consulto aestimabunt; sin aliter, †demolientur, suo† nomine locabunt, rem totam aestimabunt.",
+      "eng": "The next day, in the Senate --- which was the day of the Nones of September --- I gave the Senate thanks. Within the next two days, since the price of corn was at its highest and people had run together first to the theatre and then to the Senate shouting, with Clodius's prompting, that the shortage of grain was my doing, when in those days the Senate was being held about the corn supply and Pompey was being summoned to its management both by the talk of the plebs and by that of good men, and he himself was longing for it, and the multitude was demanding by name from me that I should so move it, I did so and gave my opinion in carefully prepared form. When the consulars were absent, because they said they could not give an opinion in safety --- except Messalla and Afranius --- the senatus consultum was made on my motion, that Pompey should be appointed to take up the matter and that a law should be carried. With the senatus consultum read out, when the people in this fresh and meaningless manner had given a clap at the recital of my name, I held a public meeting. All the magistrates present, except one praetor and two tribunes of the plebs, gave me one. The next day, the Senate in great numbers and all the consulars denied Pompey nothing he asked for. When he asked for fifteen legates, he named me first, and said that in everything I should be a second self to him. The consuls drafted a law by which all power over the corn supply for five years throughout the whole world was to be given to Pompey; another, the bill of Messius, which gives him power over all moneys, and adds the fleet and an army and greater command in the provinces than is held by those who hold them. That consular law of ours now seems modest; this Messian one is not to be borne. Pompey says he wants the consular one; his intimates the other. The consulars, with Favonius as their leader, are roaring; we are silent --- and the more so because the pontiffs have so far given no reply on our house. If they shall lift the religious dedication, we shall have a splendid building site; the consuls will assess the value of the structure on the senatus consultum's terms. If otherwise, \\textdagger they will pull it down, in their own\\textdagger\\ name they will let out the contract, they will assess the whole matter.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "ita sunt res nostrae, ut ín secundis flúxae, ut in advorsís bonae. in re familiari valde sumus, ut scis, perturbati. praeterea sunt quaedam domestica quae litteris non committo. quin tum fratrem insigni pietate, virtute, fide praeditum sic amo ut debeo. te exspecto et oro ut matures venire eoque animo venias ut me tuo consilio egere non sinas. alterius vitae quoddam initium ordimur. iam quidam qui nos absentis defenderunt incipiunt praesentibus occulte irasci, aperte invidere. vehementer te requirimus.",
+      "eng": "So our affairs stand: as in fortune, fragile; as in misfortune, good. In domestic estate I am, as you know, very much disturbed. Besides, there are certain household matters which I do not entrust to a letter. My brother --- a man of remarkable devotion, courage, good faith --- I love as I should. I am waiting for you, and I beg you to hasten in coming, and to come with such a spirit that you do not let me lack your counsel. We are beginning a kind of second life. Already certain men, who defended us when we were absent, are beginning to be secretly angry with us when we are present, and openly to envy. I greatly miss you.",
+      "notes": null
+    }
+  ]
+}

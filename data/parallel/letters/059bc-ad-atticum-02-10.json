@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-10",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.10",
+  "title_english": "Ad Atticum 2.10",
+  "date": "-0059-03-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "volo ames meam constantiam. ludos Anti spectare non placet; est enim ὑποσόλοικον , quom velim vitare omnium deliciarum suspicionem, repente ἀναφαίνεσθαι non solum delicate sed etiam inepte peregrinantem. qua re usque ad Nonas Maias te in Formiano exspectabo. nunc fac ut sciam quo die te visuri simus. ab Appi Foro hora quarta. dederam aliam paulo ante a Tribus Tabernis.",
+      "eng": "Approve, please, of my consistency. To watch the games at Antium does not please me; it would be a sub-solecism [Greek: hyposoloikon], when I wish to avoid the suspicion of every kind of luxury, suddenly to show myself [Greek: anaphainesthai] as travelling not only luxuriously but ineptly too. So up to the Nones of May I shall await you at the Formian villa. Now make me know on what day we shall see you. From the Forum of Appius, the fourth hour. I had given another a little before from Tres Tabernae.",
+      "notes": null
+    }
+  ]
+}

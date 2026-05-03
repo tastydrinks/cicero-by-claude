@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-22",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.22",
+  "title_english": "Ad Atticum 2.22",
+  "date": "-0059-10-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quam vellem Romae mansisses! mansisses profecto si haec fore putassemus. nam Pulchellum nostrum facillime teneremus aut certe quid esset facturus scire possemus. nunc se res sic habet. volitat , furit; nihil habet certi, multis denuntiat; quod fors obtulerit id acturus videtur; cum videt quo sit in odio status hic rerum, in eos qui haec egerunt impetum facturus videtur; cum autem rursus opes eorum et exercitus recordatur, convertit se in bonos, nobis autem ipsis tum vim tum iudicium minatur.",
+      "eng": "How I wish you had stayed at Rome! And you would surely have stayed, had we thought things would come to this. For we should hold our little Pulcher most easily, or at least we could know what he was about to do. As it stands, the matter is thus. He flits about, he rages; he has nothing certain, he denounces many; what chance shall offer, that he seems about to do. When he sees in what hatred is this present condition of affairs, he seems about to make an attack on those who have brought it about; when, however, he again recalls their resources and armies, he turns himself against the good men, while threatening us by turns now with violence, now with prosecution.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "cum hoc Pompeius egit et, ut ad me ipse referebat (alium enim habeo neminem testem), vehementer egit, cum diceret in summa se perfidiae et sceleris infamia fore, si mihi periculum crearetur ab eo quem ipse armasset cum plebeium fieri passus esset; fidem recepisse sibi et ipsum et Appium de me; hanc si ille non servaret, ita laturum ut omnes intellegerent nihil sibi antiquius amicitia nostra fuisse. haec et in eam sententiam cum multa dixisset, aiebat illum primo sane diu multa contra, ad extremum autem manus dedisse et adfirmasse nihil se contra eius voluntatem esse facturum. sed postea tamen ille non destitit de nobis asperrime loqui. quod si non faceret tamen ei nihil crederemus atque omnia, sicut facimus, pararemus.",
+      "eng": "With him Pompey has dealt --- and, as he himself reported to me (for I have no other witness) --- has dealt vehemently. He said that he himself would be in the highest infamy of perfidy and crime, if a danger were brought on me by the man whom he himself had armed by allowing him to be made a plebeian; that the man and Appius too had given him their pledge about me; that, if he did not keep this, he would so take it that all might understand that nothing had been older for him than our friendship. After many words to that effect, he said that the man at first argued back at length, but at the end gave in and affirmed that he would do nothing against Pompey's will. But afterwards, even so, he did not cease to speak most bitterly about us. Even if he did not, we would still believe him in nothing, and would prepare everything --- as we are doing --- for resistance.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "nunc ita nos gerimus ut in dies singulos et studia in nos hominum et opes nostrae augeantur; rem publicam nulla ex parte attingimus, in causis atque in illa opera nostra forensi summa industria versamur; quod egregie non modo iis qui utuntur opera, sed etiam in vulgus gratum esse sentimus. domus celebratur, occurritur, renovatur memoria consulatus, studia significantur; in eam spem adducimur ut nobis ea contentio quae impendet interdum non fugienda videatur.",
+      "eng": "Now I bear myself in such a way that day by day both men's enthusiasm for us and our own resources are increased. I touch the commonwealth on no side; in our cases and in that forensic work of ours I employ myself with the highest energy; which I find is exceedingly pleasing not only to those who use my services but to the public besides. The house is thronged, men come to meet me; the memory of the consulship is renewed; enthusiasm is signified. We are led into such hope that the contest which hangs over us seems sometimes a thing not to be fled from.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "nunc mihi et consiliis opus est tuis et amore et fide. qua re advola. expedita mihi erunt omnia si te habebo. multa per Varronem nostrum agi possunt quae te urgente erunt firmiora, multa ab ipso Publio elici, multa cognosci quae tibi occulta esse non poterunt, multa etiam—sed absurdum est singula explicare cum ego requiram te ad omnia.",
+      "eng": "Now I have need of your counsels and your love and your good faith. Therefore fly to me. Everything will be unhampered for me if I have you. Many things can be done through our Varro which, with you pressing, will be firmer; many things can be drawn out of Publius himself; many things learnt which can in no way be hidden from you; many things, indeed --- but it is absurd to unfold them one by one when I am wanting you for everything.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "unum illud tibi persuadeas velim, omnia mihi fore explicata si te videro; sed totum est in eo si ante quam ille ineat magistratum. puto Pompeium Crasso urgente, si tu aderis qui per βοῶπιν ex ipso intellegere possis qua fide ab illis agatur, nos aut sine molestia aut certe sine errore futuros. precibus nostris et cohortatione non indiges; quid mea voluntas, quid tempus, quid rei magnitudo postulet intellegis.",
+      "eng": "I should wish you to be persuaded of this one thing: everything will be unfolded for me if I see you; but the whole point lies in this: if before he enters his magistracy. I think that, with Crassus pressing Pompey, if you are present, you who can through Ox-Eyed Hera understand from her himself with what good faith they are dealing, we shall be either without trouble, or at any rate without error. You do not need to be entreated and exhorted by me; what my will, what the moment, what the greatness of the matter demands, you understand.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "de re publica nihil habeo ad te scribere nisi summum odium omnium hominum in eos qui tenent omnia. mutationis tamen spes nulla. sed , quod facile sentias, taedet ipsum Pompeium vehementerque paenitet. non provideo satis quem exitum futurum putem; sed certe videntur haec aliquo eruptura.",
+      "eng": "About the commonwealth I have nothing to write to you except the highest hatred of all men against those who hold everything. Yet there is no hope of change. But, as you may easily perceive, Pompey himself is sick of it and bitterly regrets it. I do not foresee well enough what end I should think will come; but certainly all this seems likely to burst out somewhere.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "libros Alexandri, neglegentis hominis et non boni poetae sed tamen non inutilis, tibi remisi. Numerium Numestium libenter accepi in amicitiam et hominem gravem et prudentem et dignum tua commendatione cognovi.",
+      "eng": "I have sent you back the books of Alexander, a careless man and no good poet, but yet not without use. I gladly received Numerius Numestius into friendship and have found him a weighty and prudent man, worthy of your commendation.",
+      "notes": null
+    }
+  ]
+}

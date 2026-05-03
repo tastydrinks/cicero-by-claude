@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-42",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.42",
+  "title_english": "Ad Familiares 13.42",
+  "date": "-0058-02-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Lucceius, meus familiaris, hQmO omnium gratissimus, mirificas tibi apud me gratias egit, cum diceret omnia te cumulatissime et liberalissime procuratoribus suis pollicitum esse. Cum oratio tua tam ei grata fuerit, quam gratam rem ipsam existimas fore, cum, ut spero, quae pollicitus es feceris! omnino ostenderunt Bulliones sese Lucceio Pompei arbitratu satis facturos ;",
+      "eng": "L. Lucceius, my close friend, the most grateful man in the world, has spoken to me of you in extraordinary thanks --- saying that you have promised everything to his agents in the most generous and open-handed terms. If your speech alone has been so welcome to him, how welcome do you think the act itself will be when, as I hope, you carry through what you have promised? In short --- the men of Bullis have indicated that they will give Lucceius satisfaction at Pompey's arbitration.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed vehementer opus est nobis et voluntatem et auctoritatem et imperium tuum accedere ; quod ut facias te etiam atque etiam rogo. illudque mihi gratissimum est, quod ita sciunt Luccei procuratores et ita Lucceius ipse ex litteris tuis, quas ad eum misisti, intellexit, hominis nullius apud te auctoritatem aut gratiam,valere plus quam meam. id ut re experiatur iterum et saepius te rogo.",
+      "eng": "But it is greatly needful for us that your good will, your authority, and your power as governor be added to the matter. I ask you again and again to do this. And it is most welcome to me that Lucceius's agents already know, and Lucceius himself has understood from the letter you sent him, that no man's authority or favour weighs more with you than mine. I ask you again and yet again to let him have practical proof of this.",
+      "notes": null
+    }
+  ]
+}

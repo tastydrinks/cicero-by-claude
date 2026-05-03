@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-05a",
+  "category": "letters",
+  "title_latin": "Ad Familiares 1.5a",
+  "title_english": "Ad Familiares 1.5a",
+  "date": "-0056-02-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "tametsi mihi nihil fuit optatius quam ut primum abs te ipso, deinde a ceteris omnibus quam gratissimus erga te esse cognoscerer tamen adficior summo dolore eius modi tempora post tuam profectionem consecuta esse, ut et meam et ceterorum erga te fidem et benevolentiam absens experirere; te videre et sentire eandem fidem esse hominum in tua dignitate, quam ego in mea salute sum expertus, ex tuis litteris intellexi.",
+      "eng": "Although nothing was more to be wished for me than that I should be known --- first by you yourself, then by everyone else --- as most grateful towards you, yet I am affected with the deepest pain that, after your departure, such times have come on that you should test, in your absence, my loyalty and good will, and that of the others, towards you. From your letter I have understood that you see and feel the same loyalty in men towards your standing as I felt towards my own preservation.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nos cum maxime consilio, studio, labore, gratia de causa regia niteremur, subito exorta est nefaria Catonis promulgatio, quae nostra studia impediret et animos a minore cura ad summum timorem traduceret; sed tamen, in eius modi perturbatione rerum quamquam omnia sunt metuenda, nihil magis quam perfidiam timemus et Catoni quidem, quoquo modo se res habet, profecto resistemus.",
+      "eng": "While we were straining at our utmost with counsel, zeal, labour, and influence on the royal cause, suddenly the wicked promulgation of Cato burst out --- which would impede our zeal and carry men's minds from a lesser concern to the highest fear. Yet, in such confusion of affairs, although everything is to be feared, we fear nothing more than treachery; and Cato, however the matter stands, we shall surely resist.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de Alexandrina re causaque regia tantum habeo polliceri, me tibi absenti tuisque praesentibus cumulate satis facturum, sed vereor, ne aut eripiatur causa regia nobis aut deseratur; quorum utrum minus velim, non facile possum existimare. sed , si res coget, est quiddam tertium, quod neque Selicio nec mihi displicebat, ut neque iacere pateremur nec nobis repugnantibus ad eum deferri, ad quem prope iam delatum existimatur. A nobis agentur omnia diligenter, ut neque, si quid obtineri poterit, non contendamus nec, si quid non obtinuerimus, repulsi esse videamur;",
+      "eng": "About the Alexandrian business and the royal cause I have only this to promise: that I shall give heaping satisfaction to you in your absence and to your friends here. But I fear that the royal cause may either be torn from us or be abandoned --- and which of the two I should less wish, I cannot easily judge. But if circumstances force it, there is a kind of third course, which neither Selicius nor I dislike: that we should neither suffer the matter to lie idle, nor, with us resisting, see it transferred to the man to whom it is by now thought practically transferred. By us everything will be done diligently: that we shall not fail to contend if anything can be carried, nor seem repulsed if we have not carried it.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "tuae sapientiae magnitudinisque animi est omnem amplitudinem et dignitatem tuam in virtute atque in rebus gestis tuis atque in tua gravitate positam existimare; si quid ex iis rebus, quas tibi fortuna largita est, non nullorum hominum perfidia detraxerit, id maiori illis fraudi quam tibi futurum. A me nullum tempus praetermittitur de tuis rebus et agendi et cogitandi; utor ad omnia Q. Selicio, neque enim prudentiorem quemquam ex tuis neque fide maiore esse iudico neque amantiorem tui",
+      "eng": "It belongs to your wisdom and your greatness of soul to judge that all your prestige and standing is set in your virtue, in your achievements, and in your weight; if any of those things which fortune has lavished on you, the treachery of certain men has stripped away, that will be a greater wrong to them than to you. By me no time is let pass without acting and thinking on your affairs. I use Q. Selicius for everything; for I judge no one of yours more prudent, of greater loyalty, or more affectionate towards you.",
+      "notes": null
+    }
+  ]
+}

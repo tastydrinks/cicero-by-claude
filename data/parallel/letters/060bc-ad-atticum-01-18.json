@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-18",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.18",
+  "title_english": "Ad Atticum 1.18",
+  "date": "-0060-02-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nihil mihi nunc scito tam deesse quam hominem eum quocum omnia quae me cura aliqua adficiunt uno communicem, qui me amet, qui sapiat, quicum ego cum loquar, nihil fingam, nihil dissimulem, nihil obtegam. abest enim frater ἀφελέστατοσ et amantissimus. †Metellus† non homo sed litus atque a/er et so/litudo/ mera. tu autem qui saepissime curam et angorem animi mei sermone et consilio levasti tuo, qui mihi et in publica re socius et in privatis omnibus conscius et omnium meorum sermonum et consiliorum particeps esse soles, ubinam es? ita sum ab omnibus destitutus ut tantum requietis habeam quantum cum uxore et filiola et mellito Cicerone consumitur. nam illae ambitiosae nostrae fucosaeque amicitiae sunt in quodam splendore forensi, fructum domesticum non habent. itaque cum bene completa domus est tempore matutino, cum ad forum stipati gregibus amicorum descendimus, reperire ex magna turba neminem possumus quocum aut iocari libere aut suspirare familiariter possimus. qua re te exspectamus, te desideramus, te iam etiam arcessimus. multa sunt enim quae me sollicitant anguntque; quae mihi videor auris nactus tuas unius ambulationis sermone exhaurire posse.",
+      "eng": "Know that nothing is now so wanting to me as a man with whom I might share, for ever, all the things that affect me with any care --- a man who would love me, who would have wisdom; with whom, when I speak, I would feign nothing, dissemble nothing, hide nothing. For my brother, the most simple and most loving, is away. ``Metellus'' is no man but a shore, and air, and sheer solitude. As for you, who most often have lightened the cares and anguish of my mind by your speech and counsel, who are wont to be both my partner in public affairs and my confidant in all private ones and the sharer of all my conversations and counsels --- where on earth are you? So forsaken am I by all that I have only as much rest as is spent with my wife and little daughter and honey-sweet Cicero. For those ambitious and painted friendships of mine are kept up in some forensic splendour: they have no domestic fruit. So when, in the morning, my house is well filled, when we go down to the Forum hedged about with bands of friends, I cannot find in the great crowd anyone with whom I might either jest freely or sigh familiarly. So we look for you, miss you, even now summon you. For there are many things that vex and trouble me, which, having gained your ear, I think I could draw out in the talk of a single walk together.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ac domesticarum quidem sollicitudinum aculeos omnis et scrupulos occultabo neque ego huic epistulae atque ignoto tabellario committam. atque hi (nolo enim te permoveri) non sunt permolesti, sed tamen insident et urgent et nullius amantis consilio aut sermone requiescunt; in re publica vero, quamquam animus est praesens, tamen †voluntas etiam atque etiam ipsa medicina efficit†. nam ut ea breviter quae post tuum discessum acta sunt conligam, iam exclames necesse est res Romanas diutius stare non posse. etenim post profectionem tuam primus, ut opinor, introitus fuit in causam fabulae Clodianae, in qua ego nactus, ut mihi videbar, locum resecandae libidinis et coercendae iuventutis vehemens fui et omnis profudi viris animi atque ingeni mei non odio adductus alicuius sed spe corrigendae et sanandae civitatis.",
+      "eng": "The stings of my domestic anxieties --- their thorns and shards I shall hide; nor shall I commit them to this letter and to an unknown carrier. And these (for I do not want you stirred up) are not very heavy; but they sit and press, and rest neither in the counsel nor in the speech of any loving man. As to the commonwealth, although my mind stands firm, yet \\ldots [the cure itself works on it]. For, to put briefly all the things that have been done since your departure, you must by now exclaim that Roman matters can stand no longer. For after your setting out, the first entrance, I take it, was into the case of the Clodian play, in which I, having found, as I supposed, an opportunity for cutting back lust and bridling youth, was vehement, and poured out all the powers of my mind and talent --- not driven by hatred of any man, but by the hope of correcting and healing the state.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "adflicta res publica est empto constupratoque iudicio. vide quae sint postea consecuta. consul est impositus is nobis quem nemo praeter nos philosophos aspicere sine suspiritu posset. quantum hoc vulnus! facto senatus consulto de ambitu, de iudiciis nulla lex perlata, exagitatus senatus, alienati equites Romani. sic ille annus duo firmamenta rei publicae per me unum constituta evertit; nam et senatus auctoritatem abiecit et ordinum concordiam diiunxit. instat hic nunc ille annus egregius. eius initium eius modi fuit ut anniversaria sacra Iuventatis non committerentur; nam M. Luculli uxorem Memmius suis sacris initiavit; Menelaus aegre id passus divortium fecit. quamquam ille pastor Idaeus Menelaum solum contempserat, hic noster Paris tam Menelaum quam Agamemnonem liberum non putavit.",
+      "eng": "The commonwealth is shattered by the bought and corrupted trial. See what has followed since. There has been imposed on us, as consul, the man whom no one but us philosophers can look upon without a sigh. How great a wound that is! With a senate's decree about bribery, no law has been carried; the senate has been agitated, the Roman equestrians alienated. So that one year overturned the two foundations of the commonwealth which I alone had set up: it threw away the senate's authority, and broke the concord of the orders. Now the present year, that ``outstanding'' year, is upon us. Its beginning was such that the annual rites of Iuventas were not duly performed; for Memmius initiated Marcus Lucullus's wife into rites of his own. Menelaus, taking it ill, divorced her. Although that Idaean shepherd had despised only Menelaus, this our Paris held neither Menelaus nor Agamemnon to be free.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "est autem C. Herennius quidam tribunus pl., quem tu fortasse ne nosti quidem; tametsi potes nosse, tribulis enim tuus est et Sextus pater eius nummos vobis dividere solebat. is ad plebem P. Clodium traducit idemque fert ut universus populus in campo Martio suffragium de re Clodi ferat. hunc ego accepi in senatu, ut soleo, sed nihil est illo homine lentius.",
+      "eng": "There is a certain Gaius Herennius, tribune of the plebs, whom you may not even know --- although you can know, for he is your fellow tribesman and his father Sextus used to distribute money to your tribe. He is transferring Publius Clodius to the plebs, and bringing forward that the entire people may vote on Clodius's matter at the Field of Mars. I took him in hand in the senate, as is my custom; but there is nothing slower than that man.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "Metellus est consul egregius et nos amat, sed imminuit auctoritatem suam quod habet dicis causa promulgatum illud idem de Clodio. Auli autem filius, o di immortales! quam ignavus ac sine animo miles! quam dignus qui Palicano, sicut facit, os ad male audiendum cotidie praebeat!",
+      "eng": "Metellus is an outstanding consul and loves us; but he diminishes his own authority by having promulgated the same business about Clodius for form's sake. As for the son of Aulus --- O immortal gods! what a coward and spineless soldier! how worthy of, as he in fact does, daily offering his face to be vilified by Palicanus.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "agraria autem promulgata est a Flavio sane levis eadem fere quae fuit Plotia. sed interea πολιτικὸσ ἀνὴρ quisquam inveniri potest; qui poterat, familiaris noster (sic est enim; volo te hoc scire) Pompeius togulam illam pictam silentio tuetur suam. Crassus verbum nullum contra gratiam. ceteros iam nosti; qui ita sunt stulti ut amissa re publica piscinas suas fore salvas sperare videantur.",
+      "eng": "An agrarian law has been promulgated by Flavius, slight enough, almost the same as Plotius's was. But meanwhile, can a public man [Greek: politikos an\\=er] be found anywhere? He who could --- our friend (and so it is, I want you to know this), Pompey --- guards in silence that little painted toga of his. Crassus says no word against the popular favour. The rest you know now: who are so foolish as to seem to hope that, with the commonwealth lost, their fish-ponds will be safe.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "unus est qui curet constantia magis et integritate quam, ut mihi videtur, consilio aut ingenio, Cato; qui miseros publicanos quos habuit amantissimos sui tertium iam mensem vexat neque iis a senatu responsum dari patitur. ita nos cogimur reliquis de rebus nihil decernere ante quam publicanis responsum sit. qua re etiam legationes reiectum iri puto.",
+      "eng": "There is one who cares, by steadiness and integrity rather, as it seems to me, than by counsel or talent: Cato. Who is now harassing the wretched publicans, whom he had as his closest friends, for the third month in a row, and does not allow an answer to be given them by the senate. So we are forced to decree nothing about anything else until the publicans have had their answer. So embassies, I think, will also have to be put off.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "nunc vides quibus fluctibus iactemur, et si ex iis quae scripsimus tanta etiam a me non scripta perspicis, revise nos aliquando et, quamquam sunt haec fugienda quo te voco, tamen fac ut amorem nostrum tanti aestimes ut eo vel cum his molestiis pervenire velis. nam ne absens censeare curabo edicendum et proponendum locis omnibus; sub lustrum autem censeri germani negotiatoris est. qua re cura ut te quam primum videamus. vale . xi Kal. Febr. Q. Metello, L. Afranio coss.",
+      "eng": "Now you see by what waves we are tossed; and if from what we have written you understand also so much that we have not written, come back to us at last. And though these are things to flee from, to which I summon you, yet make sure that you so value our love as to wish to come, even with these troubles. For that you may not be assessed in your absence, I shall see that an edict is issued and posted in every place; but to be assessed at the very lustration is the proper business of a born tradesman. So see that we may see you as soon as possible. Farewell. Eleven days before the Kalends of February, in the consulship of Quintus Metellus and Lucius Afranius.",
+      "notes": null
+    }
+  ]
+}

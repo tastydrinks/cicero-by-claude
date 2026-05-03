@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-12",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.12",
+  "title_english": "Ad Atticum 3.12",
+  "date": "-0058-07-17",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "tu quidem sedulo argumentaris quid sit sperandum et maxime per senatum idemque caput rogationis proponi scribis qua re in senatu dici nihil liceat. itaque siletur. hic tu me accusas quod me adflictem, cum ita sim adflictus ut nemo umquam, quod tute intellegis. spem ostendis secundum comitia. quae ista est eodem tribuno pl. et inimico consule designato? percussisti autem me etiam de oratione prolata.",
+      "eng": "You argue painstakingly what is to be hoped for, and chiefly through the Senate; and you also write that the very head of the bill is so set out that nothing can be said about it in the Senate. So there is silence. And here you accuse me of dwelling on my own ruin, when I am ruined as no man ever was, as you yourself understand. You hold out hope after the consular elections. What hope is that, with the same tribune of the plebs in office and an enemy as consul-elect? You have struck me too with what you say of the speech that has come out.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "cui vulneri ut scribis medere, si quid potes. scripsi equidem olim ei iratus, quod ille prior scripserat, sed ita compresseram ut numquam emanaturam putarem. quo modo exciderit nescio. sed quia numquam accidit ut cum eo verbo uno concertarem et quia scripta mihi videtur neglegentius quam ceterae, puto posse probari non esse meam. id , si putas me posse sanari, cures velim; sin plane perii, minus laboro.",
+      "eng": "See to that wound, as you write, if you can do anything about it. I did indeed write the speech once, when I was angry with him --- because he had written first --- but I had so suppressed it that I thought it would never get out. How it slipped out I do not know. But because it never happened that I quarrelled with him in so much as a single word, and because the writing seems to me more careless than the rest of mine, I think it can be shown not to be mine. If you think I can be cured, please attend to it; if I am altogether finished, I trouble myself less.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ego etiam nunc eodem in loco iaceo sine sermone ullo, sine cogitatione ulla. scilicet tibi, ut scribis, significaram ut ad me venires; †si donatam ut† intellego te istic prodesse, hic ne verbo quidem levare me posse. non queo plura scribere nec est quod scribam; vestra magis exspecto. data xvi Kal. Sextilis Thessalonicae.",
+      "eng": "Even now I lie in the same place, without any conversation, without any thinking. Of course I had given you a sign, as you write, that you should come to me; \\textdagger\\ldots\\textdagger I understand that there you can do good, here you cannot lift me even by a word. I cannot write more, nor is there anything for me to write; I rather wait on what comes from your side. Sent the sixteenth day before the Kalends of August, from Thessalonica.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-20",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.20",
+  "title_english": "Ad Atticum 2.20",
+  "date": "-0059-05-25",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Anicato, ut te velle intellexeram, nullo loco defui. Numestium ex litteris tuis studiose scriptis libenter in amicitiam recepi. Caecilium quibus rebus possum tueor diligenter. Varro satis facit nobis. Pompeius amat nos carosque habet. credis ? inquies. credo ; prorsus mihi persuadet; sed quia volgo pragmatici homines omnibus historiis, praeceptis, versibus denique cavere iubent et vetant credere, alterum facio ut caveam, alterum ut non credam facere non possum.",
+      "eng": "I have not failed Anicatus in any place, as I had understood you wished. Numestius, on your zealously-written letters, I have gladly received into friendship. Caecilius, in the things in which I can, I diligently protect. Varro is satisfying me. Pompey loves us and holds us dear. ``You believe him?'' you will say. I do believe him; absolutely he persuades me. But because the practical men, in all their stories and rules and verses too, bid us beware and forbid us to believe, the one I do, that I beware; the other, that I should not believe, I cannot do.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Clodius adhuc mihi denuntiat periculum. Pompeius adfirmat non esse periculum, adiurat; addit etiam se prius occisum iri ab eo quam me violatum iri. tractatur res. simul et quid erit certi, scribam ad te. si erit pugnandum, arcessam ad societatem laboris; si quies dabitur, ab Amalthea te non commovebo.",
+      "eng": "Clodius is up to now announcing danger to me. Pompey affirms there is no danger; he swears; he even adds that he himself will be killed by him sooner than I be hurt. The matter is being handled. As soon as there is anything certain, I shall write to you. If there is to be a fight, I shall summon you to the partnership of the labour; if rest is given me, I shall not stir you from the Amalthea.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de re publica breviter ad te scribam; iam enim charta ipsa ne nos prodat pertimesco. itaque posthac, si erunt mihi plura ad te scribenda, ἀλληγορίαισ obscurabo. nunc quidem novo quodam morbo civitas moritur, ut, cum omnes ea quae sunt acta improbent, querantur, doleant, varietas nulla in re sit, aperteque loquantur et iam, clare gemant, tamen medicina nulla adferatur. neque enim resisti sine internecione posse arbitramur nec videmus qui finis cedendi praeter exitium futurus sit.",
+      "eng": "Of the commonwealth I shall write to you briefly; for I begin to fear that the very paper may betray us. So hereafter, if I have to write you more, I shall darken it with allegories [Greek: all\\=egoriais]. Now indeed the state is dying of a certain new disease: that, while all disapprove of what has been done --- complain, grieve, and there is no variety of opinion in any matter, and they speak openly and now groan plainly --- yet no remedy is brought. For we judge that without internecine war it cannot be resisted; nor do we see what end of yielding there shall be, save destruction.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Bibulus hominum admiratione et benevolentia in caelo est; edicta eius et contiones describunt et legunt. novo quodam genere in summam gloriam venit. populare nunc nihil tam est quam odium popularium. haec quo sint eruptura timeo; sed si dispicere quid coepero scribam ad te apertius. tu si me amas tantum quantum profecto amas, expeditus facito ut sis si inclamaro ut accurras; sed do operam et dabo ne sit necesse. quod scripseram †et† Furio scripturum, nihil necesse est tuum nomen mutare; me faciam Laelium et te Atticum neque utar meo chirographo neque signo, si modo erunt eius modi litterae quas in alienum incidere nolim.",
+      "eng": "Bibulus, in men's wonder and goodwill, is in the heavens; his edicts and public-meeting speeches are copied out and read. By a new sort of way he has come into the highest glory. Nothing is so popular now as hatred of the populars. Where these things are going to break out I fear; but if I shall begin to discern, I shall write to you more openly. You, if you love me as much as you certainly do, see that you are unencumbered, that, if I shall call out, you may run to me. But I do, and shall, give pains that there be no need. As to what I had written, that I would write to Furius too: there is no need to change your name; I shall make myself Laelius and you Atticus, and I shall use neither my own handwriting nor my seal, if only there will be letters of such a kind that I do not wish them to fall into another's hands.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "Diodotus mortuus est; reliquit nobis HS fortasse †centiens†. comitia Bibulus cum Archilochio edicto in ante diem xv Kal. Novembr. distulit. a Vibio libros accepi. poeta ineptus et tamen scit nihil, sed est non inutilis. describo et remitto.",
+      "eng": "Diodotus has died; he has left us perhaps HS 10,000,000(?). Bibulus has put off the elections, by an Archilochean edict, to the fifteenth day before the Kalends of November. From Vibius I have received the books. The poet is silly --- he knows nothing --- but is not useless. I am copying and shall send him back.",
+      "notes": null
+    }
+  ]
+}

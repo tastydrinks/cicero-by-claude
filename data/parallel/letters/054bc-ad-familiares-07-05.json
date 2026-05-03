@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.5",
+  "title_english": "Ad Familiares 7.5",
+  "date": "-0054-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "vide quam mihi persuaserim te me esse alterum non modo in iis rebus, quae ad me ipsum, sed etiam in iis, quae ad meos pertinent. C. Trebatium cogitaram, quocumque exirem, mecum ducere, ut eum meis omnibus studiis, beneficus quam ornatissimum domum reducerem; sed, postea quam et Pompei commoratio diuturnior erat quam putaram, et mea quaedam tibi non ignota dubitatio aut impedire profectionem meam videbatur aut certe tardare (vide quid mihi sumpserim), coepi velle ea Trebatium exspectare a te, quae sperasset a me, neque me hercule minus ei prolixe de tua voluntate promisi quam eram solitus de mea polliceri.",
+      "eng": "See how I have persuaded myself that you are a second self to me, not only in matters that concern me but also in those that concern my own people. C. Trebatius I had thought of taking with me, wherever I went, that I might bring him home as adorned as possible by all my efforts and kindnesses; but, since both Pompey's stay was longer than I had supposed, and a certain hesitation of mine, not unknown to you, seemed either to hinder my setting out or at least to delay it (see what I have presumed!), I began to wish that Trebatius should expect from you the things he had hoped from me; nor, by Hercules, have I made him any less generous promises about your goodwill than I had been wont to do about my own.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Casus vero mirificus quidam intervenit quasi vel testis opinionis meae vel sponsor humanitatis tuae. nam cum de hoc ipso Trebatio cum Balbo nostro loquerer accuratius domi meae, litterae mihi dantur a te, quibus in extremis scriptum erat: M. †itfiuium, quem mihi commendas, vel regem Galliae faciam, vel hunc† Leptae delega, si vis. tu ad me alium mitte quem ornem. sustulimus manus et ego et Balbus. tanta fuit opportunitas, ut illud nescio quid non fortuitum, sed divinum videretur. Mitto igitur ad te Trebatium atque ita mitto ut initio mea sponte, post autem invitatu tuo mittendum duxerim.",
+      "eng": "But indeed a wonderful chance has stepped in, as if a witness of my opinion or a guarantor of your humanity. For while I was speaking with our Balbus at my house about this very Trebatius, more particularly, a letter is delivered to me from you, at the end of which is written: ``M. Itfius, whom you commend to me, I will make even king of Gaul; or, if you wish, hand him over to Lepta. You send me another whom I may dignify.'' We raised our hands, both I and Balbus. So great was the timeliness that the thing seemed I-know-not-what, not chance, but divine. So I send Trebatius to you, and I send him in such a way that I judge him at first to have been sent on my own initiative, and then by your invitation.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "hunc , mi Caesar, sic velim omni tua comitate complectare, ut omnia, quae per me possis adduci ut in meos conferre velis, in unum hunc conferas. de quo tibi homine haec spondeo non illo vetere verbo meo, quod cum ad te de Milone scripsissem, iure lusisti, sed more Romano, quo modo homines non inepti loquuntur, probiorem hominem, meliorem virum, pudentiorem esse neminem; accedit etiam, quod familiam ducit in iure civili singulari memoria, summa scientia. huic ego neque tribunatum neque praefecturam neque ullius benefici certum nomen peto, benevolentiam tuam et liberalitatem peto neque impedio quo minus, si tibi ita placuerit, etiam hisce eum ornes gloriolae insignibus; totum denique hominem tibi ita trado, 'de manu,' ut aiunt, 'in manum' tuam istam et victoria et fide praestantem. simus enim putidiusculi, quamquam per te vix licet; verum, ut video, licebit. cura ut valeas, et me, ut amas, ama.",
+      "eng": "This man, my Caesar, I would have you embrace with all your courtesy, so that all that you can be brought, by my doing, to bestow on my own people, you may bestow on this one. About whom I pledge to you these things, not by that old phrase of mine which, when I had written to you about Milo, you justly made fun of, but in the Roman fashion, in the way men not silly speak: that no one is more upright, no one a better man, no one more modest. To which is added that he leads the front rank in civil law, with a singular memory and the highest knowledge. For him I am asking neither tribunate nor prefecture, nor the certain title of any benefit; I am asking your goodwill and generosity; nor do I block your gracing him, if it so please you, with these little gloriettes too. In short, I hand the whole man over to you, ``from hand to hand,'' as they say, into yours --- a hand outstanding both in victory and in faith. Let us be a little fulsome --- though through you that is scarcely allowed; but, as I see, it will be allowed. See that you keep well; and as you love me, love me.",
+      "notes": null
+    }
+  ]
+}

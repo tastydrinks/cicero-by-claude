@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-23",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.23",
+  "title_english": "Ad Atticum 2.23",
+  "date": "-0059-10-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "numquam ante arbitror te epistulam meam legisse nisi mea manu scriptam. ex eo colligere poteris quanta occupatione distinear. nam cum vacui temporis nihil haberem, et cum recreandae voculae causa necesse esset mihi ambulare, haec dictavi ambulans.",
+      "eng": "I do not think you have ever before read a letter of mine which was not written in my own hand. From this you can gather with how great an occupation I am pulled. For since I had no leisure, and since for the sake of resting my poor voice it was necessary for me to walk, I dictated this as I walked.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "primum igitur illud te scire volo, Sampsiceramum nostrum amicum vehementer sui status paenitere restituique in eum locum cupere ex quo decidit, doloremque suum impertire nobis et medicinam interdum aperte quaerere, quam ego possum invenire nullam; deinde omnis illius partis auctores ac socios nullo adversario consenescere, consensionem universorum nec voluntatis nec sermonis maiorem umquam fuisse.",
+      "eng": "First, then, I want you to know this: that our friend Sampsiceramus is bitterly sick of his condition, and longs to be restored to that place from which he fell; and that he confides his pain to us and from time to time openly seeks medicine, which I can in no way find. Next, all the authors and allies of that side, with no adversary in the field, are growing old before time; the unanimity of all men, both of will and of speech, has never been greater.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "nos autem (nam id te scire cupere certo scio) publicis consiliis nullis intersumus totosque nos ad forensem operam laboremque contulimus. ex quo, quod facile intellegi possit, in multa commemoratione earum rerum quas gessimus desiderioque versamur. sed βοῶπιδοσ nostrae consanguineus non mediocris terrores iacit atque denuntiat et Sampsiceramo negat, ceteris prae se fert et ostentat. quam ob rem si me amas tantum quantum profecto amas, si dormis expergiscere, si stas ingredere, si ingrederis curre, si curris advola. credibile non est quantum ego in consiliis et prudentia tua, quodque maximum est, quantum in amore et fide ponam. magnitudo rei longam orationem fortasse desiderat, coniunctio vero nostrorum animorum brevitate contenta est. permagni nostra interest te, si comitiis non potueris, at declarato illo esse Romae. cura ut valeas.",
+      "eng": "As for myself --- for I know certainly that you wish to know this --- I take part in no public counsels, and have devoted myself wholly to forensic work and labour. From which, as may easily be understood, I am much engaged in recalling and missing the things I once did. But the kinsman of our Ox-Eyed Hera is hurling threats not slight and announcing his intentions; he denies them to Sampsiceramus, but flaunts and parades them to the rest. Therefore, if you love me as much as you certainly do, if you are asleep, wake; if you are standing, step out; if you are stepping, run; if you are running, fly. It is incredible how much I rest on your counsel and prudence, and --- what is the greatest --- on your love and faith. The greatness of the matter perhaps demands a long speech; the union of our minds is content with brevity. It matters very much to us that, if you cannot be at the elections, at least you be at Rome when the man has been declared. Take care of your health.",
+      "notes": null
+    }
+  ]
+}

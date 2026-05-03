@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-14",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.14",
+  "title_english": "Ad Atticum 3.14",
+  "date": "-0058-07-23",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ex tuis litteris plenus sum exspectatione de Pompeio quidnam de nobis velit aut ostendat. comitia enim credo esse habita; quibus absolutis scribis illi placuisse agi de nobis. si tibi stultus esse videor qui sperem, facio tuo iussu, etsi scio te me iis epistulis potius et meas spes solitum esse remorari. nunc velim mihi plane perscribas quid videas. scio nos nostris multis peccatis in hanc aerumnam incidisse. ea si qui casus aliqua ex parte correxerit, minus moleste feremus nos vixisse et adhuc vivere.",
+      "eng": "From your letter I am full of expectation about Pompey --- what he wants for me, what he is showing. The elections, I take it, have been held; once they were over, you write, it had pleased him that my case should be moved. If I seem to you a fool to hope, I do so by your bidding, even though I know that you yourself have rather been in the habit of holding back my hopes by your letters. Now I should like you to write me out plainly what you see. I know that we have fallen into this hardship through many faults of our own. If some chance shall correct them in any part, we shall bear it less heavily that we lived, and that we live still.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego propter viae celebritatem et cotidianam exspectationem rerum novarum non commovi me adhuc Thessalonica. sed iam extrudimur non a Plancio (nam is quidem retinet) verum ab ipso loco minime apposito ad tolerandam in tanto luctu calamitatem. in Epirum ideo, ut scripseram, non veni, quod subito mihi universi nuntii venerant et litterae qua re nihil esset necesse quam proxime Italiam esse. hinc , si aliquid a comitiis audierimus, nos in Asiam convertemus; neque adhuc stabat quo potissimum sed scies. data xii Sextilis Thessalonicae.",
+      "eng": "Because the road has been crowded and I have been waiting daily for new turns, I have not yet stirred from Thessalonica. But now I am being thrust out --- not by Plancius (he in fact holds me back) but by the place itself, the most ill-fitting of all for bearing such a calamity in such grief. Into Epirus, as I had written, I did not go: for suddenly the dispatches and letters all came to me together to say that there was no need to be as close to Italy as possible. From here, if we hear anything from the elections, we shall turn off into Asia. So far it had not been settled where most of all to go --- but you shall know. Sent the tenth day before the Kalends of August, from Thessalonica.",
+      "notes": null
+    }
+  ]
+}

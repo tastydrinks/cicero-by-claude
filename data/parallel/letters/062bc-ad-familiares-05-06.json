@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-06",
+  "category": "letters",
+  "title_latin": "Ad Familiares 5.6",
+  "title_english": "Ad Familiares 5.6",
+  "date": "-0062-12-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum ad me Decius librarius venisset egissetque mecum, ut operam darem ne tibi hoc tempore succederetur, quamquam illum hominem frugi et tibi amicum existimabam, tamen, quod memoria tenebam, cuius modi ad me litteras antea misisses, non satis credidi homini prudenti tam valde esse mutatam voluntatem tuam. sed , postea quam et Cornelia tua Terentiam convenit, et ego cum Q. Cornelio locutus sum, adhibui diligentiam, quotienscumque senatus fuit, ut adessem, plurimumque in eo negoti habui ut Q. Fufium, tr. pl., et ceteros, ad quos tu scripseras, cogerem is mihi potius credere quam tuis litteris. omnino res tota in mensem Ianuarium reiecta erat, sed facile obtinebatur.",
+      "eng": "When Decius the secretary had come to me and dealt with me that I should give my pains that no successor be appointed to you at this time --- although I judged him a worthy man and friendly to you, yet, since I held in memory what kind of letters you had sent to me earlier, I did not quite trust a prudent man that your wish had been so greatly changed. But after both your Cornelia met with Terentia, and I spoke with Quintus Cornelius, I applied diligence: as often as the senate was sitting, I attended; and I had no slight business in compelling Quintus Fufius the tribune of the plebs and the others to whom you had written, to trust me rather than your letter. The whole matter has been thrown back to the month of January, but it was easily held.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego tua gratulatione commotus, quod ad me pridem scripseras velle te bene evenire, quod de Crasso domum emissem, cmi cani ipsam domum X_X_X_V_ aliquanto post tuam gratulationem. itaque nunc me scito tantum habere acris alieni, ut cupiam coniurare, si quisquam recipiat; sed partim odio inducti me excludunt et aperte vindicem coniurationis oderunt, partim non credunt et a me insidias metuunt nec putant ei nummos desse posse, qui ex obsidione feneratores exemerit. omnino semissibus magna copia est; ego autem meis rebus gestis hoc sum adsecutus, ut bonum nomen existimer.",
+      "eng": "I, moved by your congratulation --- because long ago you had written that you wished it to turn out well that I had bought the house from Crassus --- bought the very house for HS 3,500,000, some little while after your congratulation. So know that now I have so much debt that I should be glad to enter into a conspiracy if anyone would receive me; but, on one side, men induced by hatred shut me out, and openly hate the avenger of conspiracy; on the other, men do not believe me, and fear plots from me, and do not think that money can be lacking to a man who has rescued the financiers from a siege. There is great supply at half-percent. By my deeds, however, I have achieved this: that I am reckoned a good name.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "domum tuam atque aedificationem omnem perspexi et vehementer probavi. Antonium, etsi eius in me officia omnes desiderant, tamen in senatu gravissime ac diligentissime defendi senatumque vehementer oratione mea atque auctoritate commovi. tu ad me velim litteras crebrius mittas.",
+      "eng": "Your house and the whole building of it I have looked over and have warmly approved. Antonius, although his services to me are missed by all, I yet defended in the senate most gravely and most diligently, and stirred the senate vehemently both by my speech and by my authority. Please send me letters more often.",
+      "notes": null
+    }
+  ]
+}

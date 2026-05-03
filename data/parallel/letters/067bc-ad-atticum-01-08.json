@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.8",
+  "title_english": "Ad Atticum 1.8",
+  "date": "-0067-02-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "apud te est ut volumus. mater tua et soror a me Quintoque fratre diligitur. cum Acutilio sum locutus. is sibi negat a suo procuratore quicquam scriptum esse et miratur istam controversiam fuisse quod ille recusarit satis dare amplius abs te non peti. quod te de Tadiano negotio decidisse scribis, id ego Tadio et gratum esse intellexi et magno opere iucundum. ille noster amicus, vir me hercule optimus et mihi amicissimus, sane tibi iratus est. hoc si quanti tu aestimes sciam, tum quid mihi elaborandum sit scire possim.",
+      "eng": "At your house things are as we would wish. Your mother and your sister are loved by me and my brother Quintus. With Acutilius I have spoken; he says nothing has been written to him by his agent, and is surprised that this controversy arose --- he, that the agent refused to give security that nothing further would be sought from you. As to your having settled the Tadian business, I gather that this was both welcome and very pleasing to Tadius. That friend of ours --- by Hercules an excellent man and most friendly to me --- is, I must say, very angry with you. If I knew how high you set this, I should know how much I have to put into smoothing it over.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "L. Cincio HS CCIↃↃ CCIↃↃ CCCC pro signis Megaricis, ut tu ad me scripseras, curavi. Hermae tui Pentelici cum capitibus aeneis, de quibus ad me scripsisti iam nunc me admodum delectant. qua re velim et eos et signa et cetera quae tibi eius loci et nostri studi et tuae elegantiae esse videbuntur quam plurima quam primumque mittas et maxime quae tibi gymnasi xystique videbuntur esse. nam in eo genere sic studio efferimur ut abs te adiuvandi, ab aliis prope reprehendendi simus. si Lentuli navis non erit, quo tibi placebit imponito.",
+      "eng": "To Lucius Cincius I have paid out HS 20,400 for the Megarian statues, as you had written to me. Your Pentelic Hermae with the bronze heads, of which you wrote to me, please me very greatly already. So please, send those and the statues and the rest --- as many as you can and as soon as you can --- whatever will seem to you to suit the place and our taste and your own elegance, especially what will seem to you fit for a gymnasium and a colonnade. For in this kind I am so carried away by zeal that I am to be helped on by you, almost rebuked by others. If Lentulus's ship is not available, put them on whatever ship pleases you.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Tulliola deliciolae nostrae tuum munusculum flagitat et me ut sponsorem appellat; mi autem abiurare certius est quam dependere.",
+      "eng": "Little Tullia, our darling, is dunning you for your little present and calls me as guarantor; but for me it is surer to forswear the bond than to pay it.",
+      "notes": null
+    }
+  ]
+}

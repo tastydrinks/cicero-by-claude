@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-20",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.20",
+  "title_english": "Ad Atticum 1.20",
+  "date": "-0060-05-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum e Pompeiano me Romam recepissem a. d. iiii Idus Maias , Cincius noster eam mihi abs te epistulam reddidit quam tu Idibus Febr. dederas. ei nunc epistulae litteris his respondebo. ac primum tibi perspectum esse iudicium de te meum laetor, deinde te in iis rebus quae mihi asperius a nobis atque nostris et iniucundius actae videbantur moderatissimum fuisse vehementissime gaudeo idque neque amoris mediocris et ingeni summi ac sapientiae iudico. qua de re cum ad me ita suaviter, diligenter, officiose, humaniter scripseris ut non modo te hortari amplius non debeam sed ne exspectare quidem abs te aut ab ullo homine tantum facilitatis ac mansuetudinis potuerim, nihil duco esse commodius quam de his rebus nihil iam amplius scribere. cum erimus congressi, tum si quid res feret coram inter nos conferemus.",
+      "eng": "When I had got back to Rome from the Pompeian villa on the fourth day before the Ides of May, our Cincius delivered me that letter from you which you had given on the Ides of February. To that letter I shall now answer with this. First, I am glad that my judgment of you is clear to you. Next, that you have been most moderate in those things which seemed to me to have been managed somewhat sharply and unpleasantly by us and by our people, I rejoice vehemently, and judge it not the mark of a moderate love and of the highest spirit and wisdom. As to which, since you have written to me so sweetly, diligently, dutifully, humanely, that not only ought I not to exhort you further but could not have expected from you, or from any man, so great a measure of facility and gentleness, I count nothing more convenient than to write nothing more about these matters. When we have met, then, if anything in the matter requires it, we shall confer face to face.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod ad me de re publica scribis, disputas tu quidem et amanter et prudenter, et a meis consiliis ratio tua non abhorret; nam neque de statu nobis nostrae dignitatis est recedendum neque sine nostris copiis intra alterius praesidia veniendum, et is de quo scribis nihil habet amplum, nihil excelsum, nihil non summissum atque populare. verum tamen fuit ratio mihi fortasse ad tranquillitatem meorum temporum non inutilis, sed me hercule rei publicae multo etiam utilior quam mihi civium improborum impetus in me reprimi, cum hominis amplissima fortuna, auctoritate, gratia fluctuantem sententiam confirmassem et a spe malorum ad mearum rerum laudem convertissem. quod si cum aliqua levitate mihi faciendum fuisset, nullam rem tanti existimassem; sed tamen a me ita sunt acta omnia non ut ego illi adsentiens levior sed ut ille me probans gravior videretur.",
+      "eng": "As to what you write to me about the commonwealth, you argue lovingly and prudently, and your reasoning does not differ from my counsels. For we must not give up the standing of our dignity, nor must we go inside another's defences without our own forces. And he of whom you write has nothing ample, nothing exalted, nothing not low-cast and popular. But yet a calculation has been to me, perhaps, not unprofitable for the tranquillity of my own times --- and, by Hercules, much more useful even to the commonwealth than to me --- that the attacks of the wicked citizens upon me have been beaten back, when I had confirmed the wavering opinion of a man of the highest fortune, authority, favour, and turned him from the hope of the wicked to the praise of my own deeds. And if this had to have been done by me with some lightness, no thing would I have judged so important. But yet all has been so done by me that not I, by agreeing with him, should seem the lighter, but he, by approving me, the weightier.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "reliqua sic a me aguntur et agentur ut non committamus ut ea quae gessimus fortuito gessisse videamur. meos bonos viros, illos quos significas, et eam quam mihi dicis obtigisse Σπάρταν non modo numquam deseram sed etiam, si ego ab illa deserar, tamen in mea pristina sententia permanebo. illud tamen velim existimes, me hanc viam optimatem post Catuli mortem nec praesidio ullo nec comitatu tenere. nam ut ait Rhinton, ut opinor, οἱ μὲν παρ' οὐδέν εἰσι, τοῖσ δ' οὐδὲν μέλει. mihi vero ut invideant piscinarii nostri aut scribam ad te alias aut in congressum nostrum reservabo. a curia autem nulla me res divellet, vel quod ita rectum est vel quod rebus meis maxime consentaneum vel quod a senatu quanti fiam minime me paenitet.",
+      "eng": "The rest is being and shall be so done by me as not to give the appearance that what I did, I did by chance. The good men of mine, those whom you point out, and that Sparta [Greek: Spartan] which has fallen, you say, to my lot, I shall not only never desert; even if I were deserted by it, yet I shall remain in my old opinion. But this I should like you to consider: that I hold this aristocratic course, since the death of Catulus, with no defence and with no following. For, as Rhinto says (I think): ``some are nothing, and to others nothing matters'' [Greek: hoi men par' ouden eisi, tois d' ouden melei]. As for the way our fish-pond men envy me, I shall either write to you on another occasion or save it for our meeting. From the senate-house, no thing will tear me away --- both because it is so right, and because it is most consonant with my circumstances, and because, of how much the senate values me, I have no regret.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de Sicyoniis, ut ad te scripsi antea, non multum spei est in senatu; nemo est enim idem qui queratur. qua re si id exspectas, longum est; alias via, si qua potes, pugna. cum est actum, neque animadversum est ad quos pertineret et raptim in eam sententiam pedarii cucurrerunt. inducendi senatus consulti maturitas nondum est, quod neque sunt qui querantur et multi partim malevolentia, partim opinione aequitatis delectantur.",
+      "eng": "About the Sicyonians, as I wrote to you before, there is not much hope in the senate; for there is no one who would complain. So if you wait for that, it is a long road. Try another way, if you can. When the matter was acted on, no one paid attention to whom it pertained, and the back-bench senators ran in haste to that opinion. The time for setting aside the senate's decree is not yet ripe, since neither are there men who would complain, nor are many of them, partly out of malice, partly from an opinion of equity, otherwise than pleased.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "Metellus tuus est egregius consul; unum reprehendo quod otium nuntiari e Gallia non magno opere gaudet. cupit , credo, triumphare. hoc vellem mediocrius; cetera egregia. Auli filius vero ita se gerit ut eius consulatus non consulatus sit sed Magni nostri ὑπώπιον .",
+      "eng": "Your Metellus is an outstanding consul. One thing I rebuke: that he is not greatly delighted that peace is reported from Gaul. He wishes, I take it, to triumph. I should wish that wish were more moderate; the rest is outstanding. The son of Aulus, on the other hand, conducts himself in such a way that his consulship is not a consulship but the black eye [Greek: hyp\\=opion] of our Magnus.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "de meis scriptis misi ad te Graece perfectum consulatum meum. eum librum L. Cossinio dedi. puto te Latinis meis delectari, huic autem Graeco Graecum invidere. alii si scripserint, mittemus ad te; sed mihi crede, simul atque hoc nostrum legerunt, nescio quo pacto retardantur.",
+      "eng": "Of my writings, I have sent you my consulship completed in Greek. I have given the book to Lucius Cossinius. I think you take pleasure in my Latin works, but as a Greek you are envious of this Greek one. If others write, I shall send them to you; but believe me, as soon as they read this of ours, somehow they slow down.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "nunc ut ad rem meam redeam, L. Papirius Paetus, vir bonus amatorque noster, mihi libros eos quos Ser. Claudius reliquit donavit. cum mihi per legem Cinciam licere capere Cincius amicus tuus diceret, libenter dixi me accepturum si attulisset. nunc si me amas, si te a me amari scis, enitere per amicos, clientis, hospites, libertos denique ac servos tuos ut scida ne qua depereat; nam et Graecis iis libris quos suspicor, et Latinis quos scio illum reliquisse, mihi vehementer opus est. ego autem cotidie magis quod mihi de forensi labore temporis datur in iis studiis conquiesco. per mihi, per inquam gratum feceris si in hoc tam diligens fueris quam soles in iis rebus quas me valde velle arbitraris, ipsiusque Paeti tibi negotia commendo, de quibus tibi ille agit maximas gratias, et ut iam invisas nos non solum rogo sed etiam suadeo.",
+      "eng": "Now, to come back to my own matter: Lucius Papirius Paetus, a good man and a lover of ours, has given me those books which Servius Claudius left behind. Since your friend Cincius said it was permitted to me, by the Cincian law, to take them, I gladly said I would accept them if he brought them. Now, if you love me, if you know yourself loved by me, strive through friends, clients, guests, finally freedmen and slaves of yours, that not a scrap perish. For both those Greek books which I suspect, and the Latin which I know he left, I greatly need. I, indeed, daily the more rest in those studies in proportion as time is given me from the forensic labour. You will do me a great, a very great favour, if you are as diligent in this as you are wont to be in those things which you suppose I greatly wish; and I commend to you the business of Paetus himself, on which he gives you the highest thanks; and that you may now visit us I not only ask but urge.",
+      "notes": null
+    }
+  ]
+}

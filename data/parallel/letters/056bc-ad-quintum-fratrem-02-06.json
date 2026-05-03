@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-06",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 2.6",
+  "title_english": "Ad Quintum Fratrem 2.6",
+  "date": "-0056-05-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "O litteras mihi tuas iucundissimas exspectatas, ac primo quidem cum desiderio, nunc vero etiam cum timore! atque has scito litteras me solas accepisse post illas quas tuus nauta attulit Olbia datas. sed cetera, ut scribis, praesenti sermoni reserventur ; hoc tamen non queo differre : Idibus Maus senatus frequens divinus fuit in supplicatione Gabinio deneganda. adiurat Procilius hoc nemini accidisse. foris valde plauditur. mihi cum sua sponte iucundum tum iucundius, quod me absente ; est enim εἰλικρινὲσ iudicium, sine oppugnatione, sine gratia nostra †eram ante†. quod Idibus et postridie fuerat dictum de agro Campano actum iri non est actum. in hac causa mihi aqua haeret. sed plura quam constitueram ; coram enim. vale , mi optime et optatissime frater, et advola. idem te pueri nostri rogant. illud scilicet, cenabis cum veneris.",
+      "eng": "O your most welcome letter, awaited --- at first indeed with longing, but now also with fear! Know that this is the only letter I have received since those which your sailor brought, sent from Olbia. But the rest, as you write, let us keep back for face-to-face speaking. This, however, I cannot put off: on the Ides of May, the Senate in full session was inspired in denying the thanksgiving to Gabinius. Procilius swears that this has happened to no man before. Outside, it is loudly applauded. To me it was pleasing of itself, and the more pleasing because in my absence: for it is a clean verdict [Greek: eilikrines], without my fighting and without my favour. As for what had been said for the Ides and the day after --- that the Campanian-land affair would be brought on --- it was not brought on. In this case my water sticks. But more than I had decided to write: for face-to-face. Farewell, my best and most longed-for brother, and fly here. Our boys ask the same of you. This too, of course: you will dine with us when you come.",
+      "notes": null
+    }
+  ]
+}

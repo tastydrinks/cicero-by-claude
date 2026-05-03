@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-08",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.8",
+  "title_english": "Ad Familiares 7.8",
+  "date": "-0054-07-31",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "scripsit ad me Caesar perhumaniter nondum te sibi satis esse familiarem propter occupationes suas, sed certe fore. cui quidem ego rescripsi, quam mihi gratum esset futurum, si quam plurimum in te studi, offici, liberalitatis suae contulisset. sed ex tuis litteris cognovi praeproperam quandam festinationem tuam et simul sum admiratus cur tribunatus commoda, dempto praesertim labore militiae, contempseris.",
+      "eng": "Caesar has written to me most courteously that you are not yet familiar enough to him on account of his occupations, but that you certainly will be. To which I wrote back how grateful to me it would be if he had bestowed on you as much as possible of his zeal, duty, and generosity. But from your letters I have learned a kind of overhasty haste of yours, and at the same time I have been amazed why you should so despise the perquisites of the tribunate, especially with the labour of soldiering taken away.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "querar cum Vacerra et Manilio; nam Cornelio nihil audeo dicere, cuius tu periculo stultus es, quoniam te ab eo sapere didicisse profiteris. quin tu urges istam occasionem et facultatem, qua melior numquam reperietur? quod scribis de illo Preciano iure consulto, ego te ei non desino commendare; scribit enim ipse mihi te sibi gratias agere debere. de eo quid sit, cura ut sciam. ego vestras Britannicas litteras exspecto.",
+      "eng": "I shall make my complaint to Vacerra and Manilius; for to Cornelius I dare say nothing, at whose peril you are foolish, since you profess to have learned from him how to be wise. Why do you not press that occasion and opportunity, the better of which will never be found? As for what you write about that Precianus, the jurist, I do not stop commending you to him; for he himself writes to me that you ought to thank him for it. About this affair, see that I get word. I await your British letters.",
+      "notes": null
+    }
+  ]
+}

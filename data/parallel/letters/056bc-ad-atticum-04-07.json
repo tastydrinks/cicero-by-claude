@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-07",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.7",
+  "title_english": "Ad Atticum 4.7",
+  "date": "-0056-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nihil εὐκαιρότερον epistula tua quae me sollicitum de Quinto nostro, puero optimo, valde levavit. venerat horis duabus ante Chaerippus, mera monstra nuntiarat. de Apollonio quod scribis, qui illi di irati! homini Graeco qui conturbat atque idem putat sibi licere quod equitibus Romanis. nam Terentius suo iure.",
+      "eng": "Nothing more timely [Greek: eukairoteron] than your letter, which lifted me greatly when I was anxious about our Quintus, that excellent boy. Chaerippus had come two hours before, and reported sheer monstrosities. As for what you write about Apollonius --- may the gods be angry with him! A Greek, going bankrupt, and thinking the same is permitted him as to Roman knights! Terentius is within his rights.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Metello οὐχ ὁσίη φθιμένοισιν, sed tamen multis annis civis nemo erat mortuus qui quidem tibi nummi meo periculo sint. quid enim vereris? quemcumque heredem fecit, nisi Publium fecit, virum fecit, non improbe, quamquam fuit ipse. qua re in hoc thecam nummariam non retexeris, in aliis eris cautior.",
+      "eng": "Of Metellus, ``it is not pious to speak of the dead'' [Greek: ouch hosie phthimenoisin]; yet in many years no citizen has died who could mean cash to you on my surety. What are you afraid of? Whomever he made his heir, unless he made Publius, he has made a man, and no scoundrel --- although he himself was one. So in this matter you shall not unstitch the money-chest; in others you will be more cautious.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "mea mandata de domo curabis, praesidia locabis, Milonem admonebis. Arpinatium fremitus est incredibilis de Laterio. quid quaeris? equidem dolui; ὁ δὲ οὐκ ἐμπάζετο quod superest, etiam puerum Ciceronem curabis et amabis, ut facis.",
+      "eng": "My commissions about the house you will see to; you will post guards; you will warn Milo. The murmur of the Arpinates about Laterium is incredible. In short, I myself was sorry; ``but he heeded not'' [Greek: ho de ouk empazeto]. For the rest --- you will also see to the boy Cicero, and cherish him, as you do.",
+      "notes": null
+    }
+  ]
+}

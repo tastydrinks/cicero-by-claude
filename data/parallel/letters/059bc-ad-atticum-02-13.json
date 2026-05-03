@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-13",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.13",
+  "title_english": "Ad Atticum 2.13",
+  "date": "-0059-04-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "facinus indignum! epistulam αὐθωρεὶ tibi a Tribus Tabernis rescriptam ad tuas suavissimas epistulas neminem reddidisse! at scito eum fasciculum, quo illam conieceram, domum eo ipso die latum esse quo ego dederam et ad me in Formianum relatum esse. itaque tibi tuam epistulam iussi referri, ex qua intellegeres quam mihi tum illae gratae fuissent.",
+      "eng": "An unworthy deed! That the letter I wrote back at once [Greek: auth\\=orei] from Tres Tabernae to your sweetest letters has been delivered to no one! But know that the bundle into which I had thrown it was carried back to my house on the very day on which I had given it, and brought back to me at the Formian villa. So I have ordered your letter to be sent back to you, that you may understand from it how welcome those of yours were to me at the time.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Romae quod scribis sileri, ita putabam; at hercule in agris non siletur, nec iam ipsi agri regnum vestrum ferre possunt. si vero in hanc Τηλέπυλον veneris Λαιστρυγονίην , Formias dico, qui fremitus hominum! quam irati animi! quanto in odio noster amicus Magnus! cuius cognomen una cum Crassi Divitis cognomine consenescit. credas mihi velim, neminem adhuc offendi qui haec tam lente quam ego fero ferret. qua re, mihi crede, φιλοσοφῶμεν . iuratus tibi possum dicere nihil esse tanti. tu si litteras ad Sicyonios habes, advola in Formianum, unde nos pridie Nonas Maias cogitamus.",
+      "eng": "What you write --- that at Rome it is hushed up --- so I had supposed; but, by Hercules, in the country it is not hushed; and now the very fields cannot bear that kingship of yours. If indeed you come into this Telepylus, this Laestrygonian land [Greek: T\\=elepylon Laistrygoni\\=en] --- I mean Formiae --- what an uproar of men! How angry the spirits! What hatred of our friend Magnus! whose cognomen, together with that of Crassus the Rich, grows old. Believe me, please: I have not yet met any man who would bear these things as patiently as I do. Wherefore, believe me, let us philosophize [Greek: philosoph\\=omen]. On my oath I can say to you, nothing is worth so much. If you have letters for the Sicyonians, fly to the Formian villa, whence I think to set out the day before the Nones of May.",
+      "notes": null
+    }
+  ]
+}

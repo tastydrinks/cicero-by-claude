@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-06",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.6",
+  "title_english": "Ad Atticum 3.6",
+  "date": "-0058-04-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non fuerat mihi dubium quin te Tarenti aut Brundisi visurus essem idque ad multa pertinuit, in eis et ut in Epiro consisteremus et de reliquis rebus tuo consilio uteremur. quoniam id non contigit, erit hoc quoque in magno numero nostrorum malorum. nobis iter est in Asiam, maxime Cyzicum. meos tibi commendo. me vix misereque sustento. data x iiii K. Maias de Tarentino.",
+      "eng": "I had not doubted that I should see you at Tarentum or at Brundisium; and that mattered for many things --- among them, that we might come to a halt in Epirus, and that we might use your counsel for the rest. Since this has not fallen out, this too shall be set among the great number of our evils. My route is into Asia, especially Cyzicus. My people I commend to you. I scarcely and wretchedly hold myself up. Sent the fourteenth day before the Kalends of May, from the Tarentine country.",
+      "notes": null
+    }
+  ]
+}

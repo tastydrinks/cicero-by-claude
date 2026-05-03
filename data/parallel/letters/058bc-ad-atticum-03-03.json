@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-03",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.3",
+  "title_english": "Ad Atticum 3.3",
+  "date": "-0058-04-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "utinam illum diem videam cum tibi agam gratias quod me vivere coegisti! adhuc quidem valde me paenitet. sed te oro ut ad me Vibonem statim venias quo ego multis de causis converti iter meum. sed eo si veneris, de tota itinere ac fuga mea consilium capere potero. si id non feceris, mirabor; sed confido te esse facturum.",
+      "eng": "May I see the day when I shall thank you for compelling me to live! At present I am bitterly sorry for it. But I beg you, come to me at Vibo at once, where I have turned my journey for many reasons. If you come there, I shall be able to take counsel about my whole journey and flight. If you do not, I shall be amazed; but I trust you will.",
+      "notes": null
+    }
+  ]
+}

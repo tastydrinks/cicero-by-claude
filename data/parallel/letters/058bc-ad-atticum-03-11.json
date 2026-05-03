@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-11",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.11",
+  "title_english": "Ad Atticum 3.11",
+  "date": "-0058-06-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "me et tuae litterae et quidam boni nuntii, non optimis tamen auctoribus, et exspectatio vestrarum litterarum et quod tibi ita placuerat adhuc Thessalonicae tenebat. si accepero litteras quas exspecto, si spes erit ea quae rumoribus adferebatur, ad te me conferam; si non erit, faciam te certiorem quid egerim.",
+      "eng": "Your letters, and certain reports of good things --- though not on the best authority --- and the expectation of fresh letters from your side, and the fact that this had seemed best to you, have kept me at Thessalonica until now. If I get the letter I am waiting for, and if there is the hope that the rumours bring with them, I shall come over to you. If there is not, I shall let you know what I have done.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu me, ut facis, opera, consilio, gratia iuva; consolari iam desine, obiurgare vero noli; quod cum facis, ut ego tuum amorem et dolorem desidero! quem ita adfectum mea aerumna esse arbitror ut te ipsum consolari nemo possit. Quintum fratrem optimum humanissimumque sustenta. ad me obsecro te ut omnia certa perscribas. data iiii Kal. Quintilis.",
+      "eng": "Help me, as you do, by your work, your counsel, your influence. Stop now consoling me; rebuking me, do not. When you do that, how I miss your love and your grief! Which I judge to be so afflicted by my own hardship that no one could console you yourself. Hold up Quintus my brother, the best and the most kindly of men. As for me, I beg you, write everything in detail and write what is certain. Sent the fourth day before the Kalends of July.",
+      "notes": null
+    }
+  ]
+}

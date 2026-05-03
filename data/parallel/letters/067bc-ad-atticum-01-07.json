@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-07",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.7",
+  "title_english": "Ad Atticum 1.7",
+  "date": "-0067-02-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "apud matrem recte est, eaque nobis curae est. L. Cincio HS X_X_CD constitui me curaturum Idibus Febr. tu velim ea quae nobis emisse te et parasse scribis des operam ut quam primum habeamus et velim cogites, id quod mihi pollicitus es, quem ad modum bibliothecam nobis conficere possis. omnem spem delectationis nostrae, quam cum in otium venerimus habere volumus, in tua humanitate positam habemus.",
+      "eng": "Things at your mother's are well; she is a care to us. To Lucius Cincius I have arranged to pay HS 20,400 on the Ides of February. Please see to it that we have, as soon as possible, those things which you write that you have bought and prepared for us; and please consider, as you promised me, how you can put together a library for us. All the hope of our pleasures --- which we wish to have when we come into our leisure --- I have placed in your kindness.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 1.2",
+  "title_english": "Ad Familiares 1.2",
+  "date": "-0056-01-17",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Idibus Ianuariis in senatu nihil est confectum, propterea quod dies magna ex parte consumptus est altercatione Lentuli consulis et Canini tr. pl. eo die nos quoque multa verba fecimus maximeque visi sumus senatum commemoratione tuae voluntatis erga illum ordinem permovere. itaque postridie placuit ut breviter sententias diceremus; videbatur enim reconciliata nobis voluntas esse senatus, quod cum dicendo tum singulis appellandis rogandisque perspexeram. itaque , cum sententia prima Bibuli pronuntiata esset, ut tres legati regem reducerent, secunda Hortensi, ut tu sine exercitu reduceres, tertia Volcaci, ut Pompeius reduceret, postulatum est, ut Bibuli sententia divideretur. quatenus de religione dicebat, cui quidem rei iam obsisti non poterat, Bibulo adsensum est; de tribus legatis frequentes ierunt in alia omnia.",
+      "eng": "On the Ides of January nothing was finished in the Senate, because the day was largely consumed by the altercation between Lentulus the consul and Caninius the tribune. On that day I too made many words, and we seemed especially to move the Senate by reminding it of your kind disposition towards that order. So on the next day it was agreed that we should give our opinions briefly --- for the Senate's good will to us seemed restored, as I had perceived both from speaking and from calling on and questioning them one by one. And so, when the first opinion of Bibulus had been put forward, that three legates should bring back the king; the second of Hortensius, that you should bring him back without an army; the third of Volcacius, that Pompey should bring him back --- it was demanded that Bibulus's opinion be divided. So far as it spoke of religion --- a thing which by now could no longer be resisted --- Bibulus was assented to; on the three legates the full house went over to the other side.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "proxima erat Hortensi sententia, cum Lupus tr. pl., quod ipse de Pompeio retulisset, intendere coepit ante se oportere discessionem facere quam consules. eius orationi vehementer ab omnibus reclamatum est erat enim et iniqua et nova. consules neque concedebant neque valde repugnabant, diem consumi volebant, id quod est factum; perspiciebant enim in Hortensi sententiam multis partibus pluris ituros, quamquam aperte Volcacio adsentirentur. multi rogabantur, atque id ipsum consulibus non invitis, nam ei Bibuli sententiam valere cupierunt.",
+      "eng": "Next was Hortensius's opinion, when Lupus the tribune --- because he himself had moved the question of Pompey --- began to insist that the division ought to be made before him rather than before the consuls. Against his speech there was vehement outcry from all sides, for it was both unfair and unheard of. The consuls neither yielded nor strongly opposed: they wanted the day used up, which is what happened; for they saw clearly that many more would go for Hortensius's opinion, although they were openly assenting to Volcacius. Many were called on, and that very thing was not against the consuls' wishes; for they wanted Bibulus's opinion to prevail.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "hac controversia usque ad noctem ducta senatus dimissus est. ego eo die casu apud Pompeium cenavi nactusque tempus hoc magis idoneum quam umquam antea, quod post tuum discessum is dies honestissimus nobis fuerat in senatu, ita sum cum illo locutus, ut mihi viderer animum hominis ab omni alia cogitatione ad tuam dignitatem tuendam traducere. quem ego ipsum cum audio, prorsus eum libero omni suspicione cupiditatis; cum autem eius familiaris omnium ordinum video, perspicio, id quod iam omnibus est apertum, totam rem istam iam pridem a certis hominibus non invito rege ipso consiliariisque eius esse corruptam.",
+      "eng": "The dispute drawn out till nightfall, the Senate was dismissed. I that day chanced to dine at Pompey's, and finding a moment more suitable than ever before --- because after your departure that day had been the most honourable to us in the Senate --- I so spoke with him that I seemed to be drawing the man's mind from every other thought to the protecting of your standing. When I hear him alone, I plainly clear him of all suspicion of grasping; but when I see his intimates of all the orders, I see clearly --- and this is by now open to everyone --- that this whole business has long been corrupted by certain men, the king himself and his counsellors not unwilling.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "haec scripsi a. d. xvi K. Februarias ante lucem; eo die senatus erat futurus. nos in senatu, quem ad modum spero, dignitatem nostram, ut potest in tanta hominum perfidia et iniquitate, retinebimus; quod ad popularem rationem attinet, hoc videmur esse consecuti, ut ne quid agi cum populo aut salvis auspiciis aut salvis legibus aut denique sine vi posset. de his rebus pridie, quam haec scripsi, senatus auctoritas gravissima intercessit, cui quom Cato et Caninius intercessissent, tamen est perscripta; eam ad te missam esse arbitror. de ceteris rebus quicquid erit actum, scribam ad te et, ut quam rectissime agantur omnia mea cura, opera, diligentia, gratia providebo.",
+      "eng": "This I have written on the sixteenth day before the Kalends of February before dawn. That day there was to be a Senate. We in the Senate, as I hope, shall keep our standing, so far as one can amid such treachery and unfairness of men. As to the popular dimension, this we seem to have brought off: that no business can be done with the people while the auspices stand, while the laws stand, or simply without violence. On these matters, on the day before I wrote this, a most weighty resolution of the Senate was passed; and although Cato and Caninius interposed, it was nevertheless put on record. I think it has been sent to you. About the other things, whatever is done, I will write to you, and I will see to it that everything is done as straightforwardly as possible by my care, exertion, diligence, and influence.",
+      "notes": null
+    }
+  ]
+}

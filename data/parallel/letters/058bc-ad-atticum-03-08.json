@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.8",
+  "title_english": "Ad Atticum 3.8",
+  "date": "-0058-05-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Brundisio proficiscens scripseram ad te quas ob causas in Epirum non essemus profecti, quod et Achaia prope esset plena audacissimorum inimicorum et exitus difficilis haberet cum inde proficisceremur. accessit cum Dyrrachi essemus ut duo nuntii adferrentur, unus classe fratrem Epheso Athenas, alter pedibus per Macedoniam venire. itaque illi obviam misimus Athenas ut inde Thessalonicam veniret. ipsi processimus et Thessalonicam a. d. x Kal. Iunias venimus neque de illius itinere quicquam certi habebamus nisi eum ab Epheso ante aliquanto profectum.",
+      "eng": "Setting out from Brundisium I had written to you the reasons we had not made for Epirus: that Achaia was almost full of the most reckless of my enemies, and that getting out again from there would be hard once we had gone in. There was added, while we were at Dyrrachium, the arrival of two reports: one that my brother was coming by sea from Ephesus to Athens, the other that he was coming on foot through Macedonia. We accordingly sent men to meet him at Athens, so that he might come on from there to Thessalonica. We ourselves went forward and reached Thessalonica on the tenth day before the Kalends of June, and we had nothing certain about his journey except that he had set out from Ephesus some time earlier.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nunc istic quid agatur magno opere timeo; quamquam tu altera epistula scribis Idibus Maiis audiri fore ut acrius postularetur, altera iam esse mitiora. sed haec est pridie data quam illa, quo conturber magis. itaque cum meus me maeror cotidianus lacerat et conficit tum vero haec addita cura vix mihi vitam reliquam facit. sed et navigatio perdifficilis fuit et ille incertus ubi ego essem fortasse alium cursum petivit. nam Phaetho libertus eum non vidit. vento reiectus ab Ilio in Macedoniam Pellae mihi praesto fuit. reliqua quam mihi timenda sint video nec quid scribam habeo et omnia timeo, nec tam miserum est quicquam quod non in nostram fortunam cadere videatur. equidem adhuc miser in maximis meis aerumnis et luctibus hoc metu adiecto maneo Thessalonicae suspensus nec audeo quicquam.",
+      "eng": "What is being done where you are I greatly fear; though you write in one letter that on the Ides of May the demand for me was beginning to be heard more keenly, and in another that the mood is already softer. But this last is dated a day earlier than the other, which only makes me more disturbed. And so, when my daily grief tears me and uses me up, this added anxiety leaves me scarcely any life. The voyage too was extremely difficult, and he, not knowing where I was, may have steered some other course. For Phaethon the freedman did not see him. Driven back by the wind from Ilium into Macedonia, Phaethon was waiting for me at Pella. What I have still to fear I see; what to write, I do not have; everything I fear; nor is anything so wretched that it does not seem capable of falling upon our fortune. As for myself, wretched as I am amid the greatest of my hardships and griefs, with this fear now added I stay at Thessalonica in suspense, and dare nothing.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "nunc ad ea quae scripsisti. Tryphonem Caecilium non vidi. sermonem tuum et Pompei cognovi ex tuis litteris. motum in re publica non tantum ego impendere video quantum tu aut vides aut ad me consolandum adfers. Tigrane enim neglecto sublata sunt omnia. Varroni me iubes agere gratias. faciam ; item Hypsaeo. quod suades ne longius discedamus dum acta mensis Mai. ad nos perferantur, puto me ita esse facturum sed ubi nondum statui; atque ita perturbato sum animo de Quinto ut nihil queam statuere sed tamen statim te faciam certiorem.",
+      "eng": "Now to what you have written. Caecilius Tryphon I have not seen. Your conversation with Pompey I learned from your letter. I do not see any movement impending in the commonwealth so great as you either see, or bring forward to console me. For with Tigranes neglected, the case for it is taken away altogether. You bid me thank Varro. I shall do so; and Hypsaeus likewise. Your advice not to move further off until the proceedings of May reach us --- I think I shall follow it, but where I have not yet decided; and so disturbed is my mind about Quintus that I can settle nothing. Still, you shall hear at once.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "ex epistularum mearum inconstantia puto te mentis meae motum videre qui, etsi incredibili et singulari calamitate adflictus sum, tamen non tam est ex miseria quam ex culpae nostrae recordatione commotus. cuius enim scelere impulsi ac proditi simus iam profecto vides, atque utinam iam ante vidisses neque totum animum tuum maerori mecum simul dedisses! qua re cum me adflictum et confectum luctu audies, existimato me stultitiae meae poenam ferre gravius quam eventi, quod ei crediderim quem esse nefarium non putarim. me et meorum malorum memoria et metus de fratre in scribendo impedit. tu ista omnia vide et guberna Terentia tibi maximas gratias agit. litterarum exemplum quas ad Pompeium scripsi misi tibi. data iiii Kal. Iunias Thessalonicae.",
+      "eng": "From the inconstancy of my letters I think you can see the disturbance of my mind. Stricken though I am by an incredible and singular calamity, I am moved less by the misery itself than by the recollection of my own fault. For by whose wickedness we were driven on and betrayed, you now surely see; and would that you had seen it earlier and not surrendered your whole mind, along with mine, to grief! Therefore when you hear that I am afflicted and worn out with sorrow, judge that I bear the penalty of my own folly more heavily than of the event --- because I trusted a man I did not think capable of such villainy. Both the memory of my own evils and fear for my brother stand in the way of my writing. You watch over all that and steer it. Terentia gives you the warmest thanks. I have sent you a copy of the letter I wrote to Pompey. Sent the fourth day before the Kalends of June, from Thessalonica.",
+      "notes": null
+    }
+  ]
+}

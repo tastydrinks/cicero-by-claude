@@ -18,19 +18,21 @@ Section numbers in the margin are those of the standard scholarly editions
 (Teubner and Oxford Classical Texts) and are how the works are cited in the
 secondary literature.
 
-\chapter*{Glossary of names}
-\addcontentsline{toc}{chapter}{Glossary of names}
-\markboth{Glossary of names}{Glossary of names}
-
-\noindent
-\textit{To follow.} A glossary of the principal Romans, Greeks, and
-institutions named in the text will be assembled once the corpus is more
-fully translated.
-
-\chapter*{Index}
-\addcontentsline{toc}{chapter}{Index}
-\markboth{Index}{Index}
-
-\noindent
-\textit{To follow.} A subject and name index will be produced after
-translation is complete.
+% Profile-specific apparatus (glossary of names, Greek catalogue, letter
+% network, cross-references, allusions, translator's notes) is generated
+% from data/ sidecars by scripts/generate_backmatter.py. See
+% build/PROFILES.md.
+%
+% In the reading profile (default) the generated file is empty. In study and
+% scholar profiles it carries the additional chapters.
+\IfFileExists{backmatter-generated.tex}{\input{backmatter-generated.tex}}{%
+  \chapter*{Glossary of names}
+  \addcontentsline{toc}{chapter}{Glossary of names}
+  \markboth{Glossary of names}{Glossary of names}
+  \noindent
+  \textit{To follow.} The glossary, Greek catalogue, and other apparatus
+  are generated from \texttt{data/} sidecars by
+  \texttt{scripts/generate\_backmatter.py}. Run that script (or
+  \texttt{scripts/assemble\_book.py --profile study}) to populate this
+  section.
+}

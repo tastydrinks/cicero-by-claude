@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-10",
+  "category": "letters",
+  "title_latin": "Ad Familiares 1.10",
+  "title_english": "Ad Familiares 1.10",
+  "date": "-0054-12-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cur enim tibi hoc non gratificer nescio, praesertim cum his temporibus audacia pro sapientia liceat uti Lentulo nostro egi per litteras tuo nomine gratias diligenter. sed tu velim desinas iam nostris litteris uti et nos aliquando revisas et ibi malis esse, ubi aliquo numero sis, quam istic, ubi solus sapere videare. quamquam , qui istinc veniunt, partim te superbum esse dicunt, quod nihil respondeas, partim contumeliosum, quod male respondeas. sed iam cupio tecum coram iocari; qua re fac ut quam primum venias neque in Apuliam tuam accedas, ut possimus salvum venisse gaudere; nam illo si veneris, tu, ut Vlixes, cognosces tuorum neminem.",
+      "eng": "For why I should not gratify you in this, I do not know, especially since in these times it is permitted to use audacity instead of wisdom. To our Lentulus I have given thanks in your name, by letter, diligently. But I would have you stop using my letters now, and visit us at last yourself; and choose rather to be where you would count for something, than there, where you alone seem to be wise. Though those who come from there say, partly that you are haughty because you give no answer, and partly that you are insulting because you give a bad one. But now I long to joke with you face to face. Wherefore see that you come as soon as possible, and do not draw near to that Apulia of yours, that we may have leisure to rejoice that you have come safe. For if you come there, you, like Ulysses, will recognize none of your own.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-25",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.25",
+  "title_english": "Ad Atticum 3.25",
+  "date": "-0058-12-31",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "post tuum a me discessum litterae mihi Roma adlatae sunt ex quibus perspicio nobis in hac calamitate tabescendum esse. neque enim (sed bonam in partem accipies) si ulla spes salutis nostrae subesset, tu pro tuo amore in me hoc tempore discessisses. sed ne ingrati aut ne omnia velle nobiscum una interire videamur, hoc omitto; illud abs te peto des operam, id quod mihi adfirmasti, ut te ante Kalendas Ianuarias ubicumque erimus sistas.",
+      "eng": "After your departure from me a letter was brought to me from Rome, from which I see clearly that we are to waste away in this calamity. For (and you will take this in good part) if any hope of my safety were left, you, with your love for me, would not at this time have gone away. But, lest I seem ungrateful, or to wish that everything die together with me, I let that pass. What I do ask of you is this: that you take care, as you affirmed to me, that you stand by me before the Kalends of January, wherever I am.",
+      "notes": null
+    }
+  ]
+}

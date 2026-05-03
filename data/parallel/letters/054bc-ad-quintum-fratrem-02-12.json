@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-12",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 2.12",
+  "title_english": "Ad Quintum Fratrem 2.12",
+  "date": "-0054-05-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "duas adhuc a te accepi epistulas ; quarum alteram in ipso, discessu nostro, alteram Arimino datam, pluris quas scribis te dedisse non acceperam. ego me in Cumano et Pompeiano, praeter quam quod sine te, ceterum satis commode oblectabam et eram in isdem locis usque ad K. Iunias futurus. scribebam illa quae dixeram πολιτικά , spissum sane opus et operosum ; sed si ex sententia successerit, bene erit opera posita, sin minus, in illud ipsum mare deiciemus quod spectantes scribimus, adgrediemur alia, quoniam quiescere non possumus.",
+      "eng": "I have so far received two letters from you: of which one given at the very moment of our parting, the other given at Ariminum; the several others which you write you sent I had not received. I, at my Cuman and my Pompeian estates --- except that I am without you --- was for the rest agreeably amusing myself, and was going to be in the same places until the Kalends of June. I was writing those things which I had spoken of, the [Greek: politika] (Politika, the Republic) --- a thick and laborious work indeed; but if it succeeds to my satisfaction, the labour will be well spent; if not, into that very sea which we look on as we write we shall throw it, and shall set out on something else, since to keep quiet we cannot.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tua mandata persequar diligenter et adiungendis hominibus et quibusdam non alienandis ; maximae mihi vero curae erit ut Ciceronem tuum nostrumque videam scilicet cotidie, sed inspiciam quid discat quam saepissime et, nisi ille contemnet, etiam magistrum me ei profitebor, cuius rei non nullam consuetudinem nactus sum in hoc horum dierum otio Cicerone nostro minore producendo.",
+      "eng": "I shall pursue your commissions diligently, both in attaching certain men to me, and in not estranging certain others. My greatest care, indeed, will be that I see your son and mine, your Cicero --- daily, of course, but I will look in on what he is learning as often as possible; and, unless he disdains it, I shall even profess myself his teacher; in which I have got some practice in this leisure of these days, by bringing on the smaller Cicero of ours.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "tu , quem ad modum scribis, quod etiam si non scriberes facere te diligentissime tamen sciebam, facies scilicet ut mea mandata digeras, persequare conficias. ego cum Romam venero, nullum praetermittam Caesaris tabellarium cui litteras ad te non dem. his diebus (ignosces) cui darem fuit nemo ante hunc M. Orfium, equitem Romanum, nostrum et per se necessarium et quod est ex municipio Atellano, quod scis esse in fide nostra. itaque eum tibi commendo in maiorem modum, hominem domi splendidum, gratiosum etiam extra domum ; quem fac ut tua liberalitate tibi obliges. est tribunus militum in exercitu vestro. gratum hominem observantemque cognosces. Trebatium ut valde ames vehementer te rogo.",
+      "eng": "You will indeed do, as you write --- which, even if you did not write, I knew you to be doing most diligently --- that you sort, pursue, complete my commissions. I, when I have come to Rome, will not let pass any courier of Caesar's to whom I do not give a letter for you. In these days (forgive me) there has been no one to whom I might give one before this M. Orfius, a Roman knight, our connection both on his own account and because he is from the township of Atella, which you know is in our trust. I therefore commend him to you in the highest degree, a man splendid at home, popular even outside home; whom see that you bind to yourself by your generosity. He is a military tribune in your army. You will find him a grateful and observant man. That you should love Trebatius greatly, I urgently ask of you.",
+      "notes": null
+    }
+  ]
+}

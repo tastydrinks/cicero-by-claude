@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "de-lege-agraria-3",
+  "category": "speeches",
+  "title_latin": "De Lege Agraria III",
+  "title_english": "On the Agrarian Law, Third Speech",
+  "date": "-0063-01-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Commodius fecissent tribuni plebis, Quirites, si, quae apud vos de me deferunt, ea coram potius me praesente dixissent; nam et aequitatem vestrae disceptationis et consuetudinem superiorum et ius suae potestatis retinuissent. sed quoniam adhuc praesens certamen contentionemque fugerunt, nunc, si videtur eis, in meam contionem prodeant et, quo provocati a me venire noluerunt, revocati saltem revertantur.",
+      "eng": "The tribunes of the plebs would have done more becomingly, citizens, if what they bring before you about me they had said in my face rather, with me present; for they would have kept the fairness of your hearing, the practice of their predecessors, and the right of their own power. But since up to now they have shrunk from a present contest and contention, now, if it seems good to them, let them come forward in my assembly --- and the place to which they were unwilling to come when challenged by me, let them at least, called back, return to.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "video quosdam, Quirites, strepitu significare nescio quid et non eosdem voltus quos proxima mea contione praebuerunt in hanc contionem mihi rettulisse. qua re a vobis qui nihil de me credidistis ut eam voluntatem quam semper habuistis erga me retineatis peto; a vobis autem quos leviter immutatos esse sentio parvam exigui temporis usuram bonae de me opinionis postulo, ut eam, si quae dixero vobis probabo, perpetuo retineatis; sin aliter, hoc ipso in loco depositam atque abiectam relinquatis.",
+      "eng": "I see, citizens, certain men signifying I-know-not-what by their noise and presenting to my present assembly faces other than those they wore at my last. Therefore from you who have believed nothing about me I ask that you keep that goodwill toward me which you always had; from you whom I see somewhat altered, I ask the slight lease of a brief time of good opinion of me, so that, if I prove to you what I shall say, you may keep it forever; if otherwise, you may leave it deposited and cast away in this very place.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "completi sunt animi auresque vestrae, Quirites, me gratificantem Septimiis, Turraniis ceterisque Sullanarum adsignationum possessoribus agrariae legi et commodis vestris obsistere. hoc si qui crediderunt, illud prius crediderint necesse est, hac lege agraria quae promulgata est adimi Sullanos agros vobisque dividi, aut denique minui privatorum possessiones ut in eas vos deducamini. si ostendo non modo non adimi cuiquam glebam de Sullanis agris, sed etiam genus id agrorum certo capite legis impudentissime confirmari atque sanciri, si doceo agris eis qui a Sulla sunt dati sic diligenter Rullum sua lege consulere ut facile appareat eam legem non a vestrorum commodorum patrono, sed a Valgi genero esse conscriptam, num quid est causae, Quirites, quin illa criminatione qua in me absentem usus est non solum meam sed etiam vestram diligentiam prudentiamque despexerit?",
+      "eng": "Your minds and ears, citizens, have been filled with the charge that I, doing a kindness to the Septimii, the Turranii, and the rest of the holders of Sullan assignments, am opposing the agrarian law and your interests. If anyone has believed this, he must first have believed this --- that by this agrarian law which has been promulgated the Sullan lands are taken away and divided among you, or at any rate that the holdings of private men are diminished so that you may be settled upon them. If I show that not only is no clod taken from anyone of the Sullan lands, but that this kind of land is most shamelessly confirmed and ratified by a particular clause of the law; if I prove that to those lands which were given by Sulla, Rullus by his law looks out so diligently that it readily appears the law was drafted not by a patron of your interests but by Valgius's son-in-law --- is there any reason, citizens, why he should not be seen by that charge which he used against me in my absence to have despised not my diligence and prudence only, but yours as well?",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "caput est legis xl de quo ego consulto, Quirites, neque apud vos ante feci mentionem, ne aut refricare obductam iam rei publicae cicatricem viderer aut aliquid alienissimo tempore novae dissensionis commovere, neque vero nunc ideo disputabo quod hunc statum rei publicae non magno opere defendendum putem, praesertim qui oti et concordiae patronum me in hunc annum populo Romano professus sim, sed ut doceam Rullum posthac in eis saltem tacere rebus in quibus de se et de suis factis taceri velit.",
+      "eng": "The fortieth clause of the law it is that I have, citizens, of set purpose not made mention of before you, lest I seem either to be rubbing again a scar already drawn over on the commonwealth, or to be stirring up at a most inopportune time some new dissension. Nor indeed shall I now dispute it because I think this present condition of the commonwealth not strongly to be defended --- particularly since I have professed myself to the Roman people for this year as the patron of quiet and concord --- but to teach Rullus to be silent hereafter at least about those matters about which he wishes silence to be kept concerning himself and his own deeds.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "omnium legum iniquissimam dissimillimamque legis esse arbitror eam quam L. Flaccus interrex de Sulla tulit, ut omnia quaecumque ille fecisset essent rata. nam cum ceteris in civitatibus tyrannis institutis leges omnes exstinguantur atque tollantur, hic rei publicae tyrannum lege constituit. est invidiosa lex, sicuti dixi, verum tamen habet excusationem; non enim videtur hominis lex esse, sed temporis.",
+      "eng": "Of all laws I judge the most unjust and the most unlike a law to be the one which Lucius Flaccus the interrex carried about Sulla, that everything whatever Sulla had done should stand ratified. For when in other states, with tyrants set up, all laws are extinguished and abolished, here a tyrant of the commonwealth is set up by law. The law is invidious, as I said; yet it has its excuse: for it does not seem the law of a man, but of a time.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "quid si est haec multo impudentior? nam Valeria lege Corneliisque legibus eripitur civi, civi datur, coniungitur impudens gratificatio cum acerba iniuria; sed tamen imbibit illis legibus spem non nullam cui ademptum est, aliquem scrupulum cui datum est. Rulli cautio est haec: ' Qvi post C. Marivm Cn. Papirivm consvles. ' quam procul a suspicione fugit, quod eos consules qui adversarii Sullae maxime fuerunt potissimum nominavit! si enim Sullam dictatorem nominasset, perspicuum fore et invidiosum arbitratus est. sed quem vestrum tam tardo ingenio fore putavit cui post eos consules Sullam dictatorem fuisse in mentem venire non posset?",
+      "eng": "What if this is much more shameless? For by the Lex Valeria and by the Cornelian laws what is taken from a citizen is given to a citizen; an impudent favouring is joined with bitter injury; yet the man from whom it has been taken sips some hope from those laws, the man to whom it has been given some scruple. Rullus's provision is this: ``Those who after the consulship of Gaius Marius and Gnaeus Papirius . . .'' How far he flees from suspicion, in that he named precisely those consuls who were Sulla's chief adversaries! For if he had named Sulla as dictator, he thought it would be plain and invidious. But which of you did he think would be of so slow a wit that, after those consuls, the dictatorship of Sulla could not come to mind?",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "quid ergo ait Marianus tribunus plebis, qui nos Sullanos in invidiam rapit? Qvi post Marivm et Carbonem consvles agri, aedificia, lacvs, stagna, loca, possessiones —caelum et mare praetermisit, cetera complexus est—' pvblice data adsignata, vendita, concessa svnt '—a quo, Rulle? post Marium et Carbonem consules quis adsignavit, quis dedit, quis concessit praeter Sullam?—' ea omnia eo ivre sint '—quo iure? labefactat videlicet nescio quid. nimium acer, nimium vehemens tribunus plebis Sullana rescindit—' vt qvae optimo ivre privata svnt. ' etiamne meliore quam paterna et avita?",
+      "eng": "What then does the Marian tribune of the plebs say, who hales us Sullans into odium? ``Whoever after Marius and Carbo as consuls'' --- of land, buildings, lakes, ponds, places, possessions --- he passes over the sky and the sea, embraces all the rest --- ``has had publicly given, assigned, sold, conceded'' --- by whom, Rullus? After Marius and Carbo as consuls, who assigned, who gave, who conceded, except Sulla? --- ``let all those things be of the same right'' --- of what right? he is, I suppose, undoing I-know-not-what; too sharp, too vehement a tribune of the plebs is annulling Sullan acts! --- ``as those things which are private under the best right.'' Even better than ancestral and inherited?",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "meliore . at hoc Valeria lex non dicit, Corneliae leges non sanciunt, Sulla ipse non postulat. si isti agri partem aliquam iuris, aliquam similitudinem propriae possessionis, aliquam spem diuturnitatis attingunt, nemo est tam impudens istorum quin agi secum praeclare arbitretur. tu vero, Rulle, quid quaeris? quod habent ut habeant? quis vetat? Vt privatum sit? ita latum est. Vt meliore iure tui soceri fundus Hirpinus sit sive ager Hirpinus—totum enim possidet—quam meus paternus avitusque fundus Arpinas?",
+      "eng": "Better. But this the Lex Valeria does not say, the Cornelian laws do not ratify, Sulla himself does not demand. If those lands attain some part of right, some likeness of proper holding, some hope of long duration, no one of those holders is so shameless as not to think himself splendidly dealt with. But you, Rullus, what do you seek? that they should keep what they have? Who forbids it? that it should be private? It has so been carried. That your father-in-law's Hirpinian estate --- or the Hirpinian land, for he holds the whole of it --- should be of better right than my paternal and ancestral Arpinate estate?",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "id enim caves. optimo enim iure ea sunt profecto praedia quae optima condicione sunt. Libera meliore iure sunt quam serva; capite hoc omnia quae serviebant non servient. soluta meliore in causa sunt quam obligata; eodem capite subsignata omnia, si modo Sullana sunt, liberantur. immunia commodiore condicione sunt quam illa quae pensitant; ego Tusculanis pro aqua Crabra vectigal pendam, quia mancipio fundum accepi; si a Sulla mihi datus esset, Rulli lege non penderem.",
+      "eng": "For that is what you provide for. ``The best right'' belongs to those estates that are on the best terms. Free estates are of better right than burdened; by this clause everything which had been burdened will not be burdened. Discharged estates are in a better case than mortgaged; by the same clause everything mortgaged is, provided it is Sullan, freed. Untaxed are on a more advantageous condition than those which pay; I shall pay revenue to the Tusculans for the Crabra water, because I received the estate by mancipation; if it had been given me by Sulla, by Rullus's law I should not pay.",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "video vos, Quirites, sicuti res ipsa cogit, commoveri vel legis vel orationis impudentia, legis quae ius melius Sullanis praediis constituat quam paternis, orationis quae eius modi in causa insimulare quemquam audeat rationes Sullae nimium vehementer defendere. at si illa solum sanciret quae a Sulla essent data, tacerem, modo ipse se Sullanum esse confiteretur. sed non modo illis cavet verum etiam aliud quoddam genus donationis inducit; et is qui a me Sullanas possessiones defendi criminatur non eas solum sancit verum ipse novas adsignationes instituit et repentinus Sulla nobis exoritur.",
+      "eng": "I see, citizens, that, as the matter itself compels you, you are stirred by the impudence either of the law or of the speech: of the law, which sets up a better right for Sullan estates than for ancestral; of the speech, which in such a case dares to charge anyone with too vehemently defending Sulla's accounts. Yet if it sanctioned only what had been given by Sulla, I should be silent, provided that he himself confessed himself a Sullan. But not only does he look out for those things, but he introduces another kind of donation entirely; and the man who charges me with defending Sullan possessions not only ratifies them but himself sets up new assignments and arises before us as a sudden Sulla.",
+      "notes": null
+    },
+    {
+      "loc": "11",
+      "section": 11,
+      "lat": "nam attendite quantas concessiones agrorum hic noster obiurgator uno verbo facere conetur: ' Qvae data, donata, concessa, vendita. ' patior , audio. quid deinde? ' possessa. ' hoc tribunus plebis promulgare ausus est ut, quod quisque post Marium et Carbonem consules possideret, id eo iure teneret quo quod optimo privatum est ? etiamne si vi deiecit, etiamne si clam, si precario venit in possessionem? ergo hac lege ius civile, causae possessionum, praetorum interdicta tollentur.",
+      "eng": "Mark how great concessions of land this scolder of ours tries to make in a single word: ``which has been given, granted, conceded, sold.'' I let it pass, I hear it. What next? ``possessed.'' This a tribune of the plebs has dared to promulgate: that whatever a man possesses since the consulship of Marius and Carbo he should hold by that right by which what is private is held under the best title? Even if he expelled by force, even if he came into possession by stealth or by precarious tenure? By this law, then, the civil law, the suits about possessions, the praetors' interdicts, will be abolished.",
+      "notes": null
+    },
+    {
+      "loc": "12",
+      "section": 12,
+      "lat": "non mediocris res neque parvum sub hoc verbo furtum, Quirites, latet. sunt enim multi agri lege Cornelia publicati nec cuiquam adsignati neque venditi qui a paucis hominibus impudentissime possidentur. his cavet, hos defendit, hos privatos facit; hos, inquam, agros quos Sulla nemini dedit Rullus non vobis adsignare volt, sed eis condonare qui possident. causam quaero cur ea quae maiores vobis in Italia, Sicilia, Africa, duabus Hispaniis, Macedonia, Asia reliquerunt venire patiamini, cum ea quae vestra sunt condonari possessoribus eadem lege videatis.",
+      "eng": "No middling matter, citizens, no small theft lies hidden under this word. For there are many lands made public by the Cornelian law, neither assigned to anyone nor sold, that are most shamelessly held by a few men. For these he provides; these he defends; these he makes private. These lands, I say, which Sulla gave to no one, Rullus does not wish to assign to you but to bestow on those who hold them. I ask the reason why we should suffer to be sold what our ancestors left us in Italy, Sicily, Africa, the two Spains, Macedonia, Asia, when by the same law you see what is yours bestowed on the holders.",
+      "notes": null
+    },
+    {
+      "loc": "13",
+      "section": 13,
+      "lat": "iam totam legem intellegetis, cum ad paucorum dominationem scripta sit, tum ad Sullanae adsignationis rationes esse accommodatissimam. nam socer huius vir multum bonus est; neque ego nunc de illius bonitate, sed de generi impudentia disputo. ille enim quod habet retinere volt neque se Sullanum esse dissimulat; hic, ut ipse habeat quod non habet, quae dubia sunt per vos sancire volt et, cum plus appetat quam ipse Sulla, quibus rebus resisto, Sullanas res defendere me criminatur.",
+      "eng": "You will already see the whole law: that, since it was drafted for the domination of a few, it is also most accommodatingly fitted to the accounts of the Sullan assignment. For this man's father-in-law is a very good man; nor do I dispute now about his goodness, but about the son-in-law's impudence. He wishes to keep what he has and does not dissemble that he is a Sullan. This man, that he himself may have what he does not have, wishes through you to ratify what is doubtful, and, while he reaches for more than Sulla himself, charges me with defending Sullan accounts in the matters in which I resist.",
+      "notes": null
+    },
+    {
+      "loc": "14",
+      "section": 14,
+      "lat": "' habet agros non nullos,' inquit, 'socer meus desertos atque longinquos; vendet eos mea lege quanti volet. habet incertos ac nullo iure possessos; confirmabuntur optimo iure. habet publicos; reddam privatos. denique eos fundos quos in agro Casinati optimos fructuosissimosque continuavit, cum usque eo vicinos proscriberet quoad angulos conformando ex multis praediis unam fundi regionem normamque perfecerit, quos nunc cum aliquo metu tenet, sine ulla cura possidebit.'",
+      "eng": "``He has,'' he says, ``some lands deserted and far away, my father-in-law has; he will sell them by my law for what price he wishes. He has some uncertain holdings, possessed by no right; they will be confirmed by the best right. He has public lands; I shall make them private. Finally, those estates which he has joined together as the best and most fruitful in the Casinate land --- proscribing the neighbours one after another so far as, by squaring the angles, he might form one boundary and norm of an estate out of many --- which he now holds with some fear, he will hold without any care.''",
+      "notes": null
+    },
+    {
+      "loc": "15",
+      "section": 15,
+      "lat": "et quoniam qua de causa et quorum causa ille hoc promulgarit ostendi, doceat ipse nunc ego quem possessorem defendam, cum agrariae legi resisto. silvam Scantiam vendis; populus Romanus possidet; defendo. Campanum agrum dividis; vos estis in possessione; non cedo. deinde Italiae, Siciliae ceterarumque provinciarum possessiones venalis ac proscriptas hac lege video; vestra sunt praedia, vestrae possessiones; resistam atque repugnabo neque patiar a quoquam populum Romanum de suis possessionibus me consule demoveri, praesertim, Quirites, cum vobis nihil quaeratur.",
+      "eng": "And since I have shown for what cause and for whose sake he has promulgated this, let him now teach in turn what holder I defend in resisting the agrarian law. You sell the Scantian Forest; the Roman people holds it; I defend. You divide the Campanian land; you are in possession; I do not yield. Then I see the holdings of Italy, Sicily, and the rest of the provinces put up for sale and proscribed by this law; they are your estates, your possessions; I shall resist and fight back, nor shall I allow the Roman people to be moved by anyone from his possessions in my consulship --- particularly, citizens, since nothing is sought for you.",
+      "notes": null
+    },
+    {
+      "loc": "16",
+      "section": 16,
+      "lat": "hoc enim vos in errore versari diutius non oportet. num quis vestrum ad vim, ad facinus, ad caedem accommodatus est? nemo . atqui ei generi hominum, mihi credite, Campanus ager et praeclara illa Capua servatur; exercitus contra vos, contra libertatem vestram, contra Cn. Pompeium constituitur; contra hanc urbem Capua, contra vos manus hominum audacissimorum, contra Cn. Pompeium x duces comparantur. veniant et coram, quoniam me in vestram contionem vobis flagitantibus evocaverunt, disserant.",
+      "eng": "For you ought no longer to be in this error. Are any of you fitted for violence, for crime, for slaughter? None. Yet for that kind of men, believe me, the Campanian land and that famous Capua are kept; an army is being set up against you, against your liberty, against Gnaeus Pompey; against this city Capua is set, against you the band of the most audacious men, against Gnaeus Pompey ten leaders are prepared. Let them come and face me, since they have called me out into your assembly at your demand, and let them dispute. [The remainder of the speech is lost.]",
+      "notes": null
+    }
+  ]
+}

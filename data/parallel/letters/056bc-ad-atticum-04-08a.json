@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-08a",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.8A",
+  "title_english": "Ad Atticum 4.8A",
+  "date": "-0056-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Apenas vix discesserat, cum epistula. quid ais? putasne fore ut legem non ferat? dic , oro te, clarius; vix enim mihi exaudisse videor. verum statim fac ut sciam, si modo tibi est commodum. ludis quidem quoniam dies est additus, eo etiam melius hic eum diem cum Dionysio conteremus.",
+      "eng": "Apenas had hardly gone, when your letter came. What are you saying? Do you think he will not pass the law? Speak, I beg you, more clearly; for I scarcely seem to have heard. But let me know at once, if only it is convenient for you. Since a day has been added to the games, all the better will we spend that day here with Dionysius.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Trebonio prorsus tibi adsentior. de Domitio σύκῳ, μὰ τὴν Δήμητρα, σῦκον οὐδὲ ἓν οὕτωσ ὅμοιον γέγονεν quam est ista περίστασισ nostrae vel quod ab isdem vel quod praeter opinionem, vel quod viri boni nusquam; unum dissimile, quod huic merito. nam de ipso casu nescio an illud melius. quid enim hoc miserius quam eum qui tot annos quot habet designatus consul fuerit fieri consulem non posse, praesertim cum aut solus aut certe non plus quam cum altero petat? si vero id est, quod nescio an sit, ut non minus longas iam in codicillorum fastis futurorum consulum paginulas habeat quam factorum, quid illo miserius nisi res publica in qua ne speratur quidem melius quicquam?",
+      "eng": "About Trebonius I quite agree with you. About Domitius --- ``fig is like fig, by Demeter; no fig has ever been so like a fig'' [Greek: suk\\=oi, ma t\\=en D\\=em\\=etra, sukon oude hen hout\\=os homoion gegonen] as is that situation [Greek: peristasis] of his to ours: either because it is from the same men, or because it is beyond expectation, or because the good men are nowhere to be found; one thing only is unlike, that to him it is deserved. As for the misfortune itself, I do not know whether the other reading is the better. For what is more wretched than that the man who for as many years as he has been alive has been a consul-designate cannot become consul --- especially when he canvasses either alone or certainly with no more than one rival? But if it is so (which I do not know whether it is) that he has in his pocket-tablets, in his calendar of consuls-to-be, pages no shorter than of consuls past, what is more wretched than him --- except the commonwealth, in which not even any better is hoped for?",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de Natta ex tuis primum scivi litteris; oderam hominem. de poemate quod quaeris, quid si cupiat effugere? quid? sinas? de Fabio Lusco quod eram exorsus, homo peramans semper nostri fuit nec mihi umquam odio. satis enim acutus et permodestus ac bonae frugi. eum quia non videbam abesse putabam; audivi ex Gavio hoc Firmano Romae esse hominem et fuisse adsiduum. percussit animum. dices tantulane causa? permulta ad me detulerat non dubia de Firmanis fratribus. quid sit quod se a me removit, si modo removit, ignoro.",
+      "eng": "About Natta I learned first from your letter; I had hated the man. As to the poem you ask about: what if he wants to slip away? What? Would you allow it? About Fabius Luscus, the matter I had begun: he was always a man very fond of us, and never hateful to me; for he is sharp enough, very modest, of good worth. Because I did not see him, I supposed he was out of town. I heard from Gavius the Firmian here that the man is at Rome and has been constantly here. It struck me. You will say, ``so small a cause?'' He had reported to me very many things, on no doubtful authority, about the Firmian brothers. What it is that has made him withdraw from me, if he has withdrawn at all, I do not know.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de eo quod me mones ut et πολιτικῶσ me geram et τὴν ἔσω γραμμὴν teneam, ita faciam. sed opus est maiore prudentia, quam a te, ut soleo, petam. tu velim ex Fabio, si quem habes aditum, odorere et istum convivam tuum degustes et ad me de his rebus et de omnibus cotidie scribas. ubi nihil erit quod scribas, id ipsum scribito. cura ut valeas.",
+      "eng": "As to your warning me to bear myself in the political way [Greek: politik\\=os] and to keep the inner line [Greek: t\\=en es\\=o gramm\\=en], so I shall do. But greater prudence is needed, which I shall seek from you, as I always do. I should like you, if you have any access, to sniff at Fabius, and to taste that dinner-companion of yours, and to write to me about these things and about everything daily. When there is nothing to write about, write that very thing. Take care of your health.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "schema_version": 1,
+  "id": "pro-tullio",
+  "category": "speeches",
+  "title_latin": "Pro M. Tullio",
+  "title_english": "For Marcus Tullius",
+  "date": "-0071-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A ntea sic hanc causam a gere s tatue ra m , recupe ratores , ut infitia turos adversarios arbitrarer tantam caedem et tam atrocem ad familiam suam pertinere. itaque animo soluto a cura et a cogitatione veneram, quod intellegebam facile id me testibus planum facere posse. nunc vero postea quam non modo confessus est vir primarius, L. Quin ctius la borabam ut, quod arguebam, id factum esse ostenderem; nunc in eo consumenda est oratio ut ne adversarii, quod infitiari nullo modo potuerunt, cum maxime cuperent, id cum confessi sunt, meliore loco esse videantur.",
+      "eng": "I had earlier resolved, gentlemen of the panel, to conduct this case on the assumption that our adversaries would deny that so great and so atrocious a slaughter could pertain to their household. So I had come into court with a mind free of all anxiety and forethought, since I understood that I could easily make the matter plain by witnesses. As things stand, after that distinguished man Lucius Quinctius has openly confessed it, my labour was once to show that what I charged had been done; now my speech must be spent on this --- that our adversaries should not seem to be in a better position by virtue of the very thing they could not deny but, having confessed when they most wished otherwise, their confession should not give them an advantage.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "itaque tum vestrum difficilius iudicium , mea facilis defensio fore videbatur. ego enim omnia in tes tibus quid est facilius quam de eo qui confitetur iudicare? mihi autem difficile est satis copiose de eo dicere quod nec atrocius verbis demonstrari potest quam re ipsa est, neque apertius oratione mea fieri quam ipsorum confessione factum est.",
+      "eng": "So at that time your judgement seemed harder, my defence easier. For I trusted everything to witnesses --- and what is easier than to give judgement about a man who confesses? But for me it is hard to speak with sufficient fullness about a thing which cannot be set out in words more atrocious than the matter itself, nor made plainer by my speech than it has been made by their own confession.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Cum in hac re quam commemoravi mihi mutanda ratio defensionis minus diligenter illius existimationem quam rem M. Tulli viderer defendere. nunc quoniam Quinctius ad causam pertinere putavit res ita multas, falsas praesertim et inique confictas, proferre de vita et moribus et existimatione M. Tulli, multis de causis mihi Fabius debebit ignoscere, si minus eius famae parcere videbor quam antea consului.",
+      "eng": "Since in this matter, which I have just mentioned, I had to alter my plan of defence, I might seem to be defending Marcus Tullius's reputation less diligently than his case. But now, since Quinctius has thought it relevant to bring up so many things --- and especially false and unfairly invented things --- about the life and character and reputation of Marcus Tullius, for many reasons Fabius will have to forgive me if I seem less to spare his good name than I had previously taken care to do.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Pri . . ore putavit ad officium suum pertinere adversario nulla in re parcere, quid me oportet Tullium pro Tullio facere, homine coniuncto mecum non minus animo quam nomine? ac mihi magis illud laborandum videtur, recuperatores, ut quod antea nihil in istum dixi probar e possi m, quam ne in eo reprehendar quod hoc tempore respondeo.",
+      "eng": "For if [Quinctius] before thought it relevant to his duty to spare his adversary in nothing, what ought I, a Tullius, to do for a Tullius, a man bound to me by no less of mind than of name? My anxiety, gentlemen of the panel, is rather to make good what I previously refrained from saying against him, than to be reproached for what I am answering at this moment.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "verum et tum id feci quod oportuit, et nunc faciam quod necesse est. nam cum esset de re pecuniaria controversia, quod damnum datum M. Tullio diceremus, alienum mea natura videbatur quicquam de existimatione P. Fabi dicere, non quia res postulare non videretur. quid ergo est? tametsi postulat causa, tamen, nisi plane cogit ingratiis, ad male dicendum non soleo descendere. nunc cum coactus dicam, si quid forte dicam, tamen id ipsum verecunde modiceque faciam, tantum ut, quoniam sibi me non esse inimicum potuit priore actione Fabius iudicare, nunc M. Tullio fidelem certumque amicum esse cognoscat.",
+      "eng": "But both then I did what I ought, and now I will do what is necessary. For when the controversy was about money --- about the damage we said had been done to Marcus Tullius --- it seemed alien to my nature to say anything about Publius Fabius's reputation: not because the case did not seem to call for it. What then? Although the case demands it, yet, unless it absolutely compels me against my will, I am not in the habit of descending to abuse. Now, when I am compelled to speak, if I happen to say anything, I will do so modestly and within bounds, only so that --- since Fabius could judge from the earlier proceedings that I was not his enemy --- he may now learn that I am a faithful and steady friend to Marcus Tullius.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "Vnum hoc abs te, L. Quincti, pervelim impetrare—quod tametsi eo volo quia mihi utile est, tamen abs te idcirco quia aequum est, postulo—ut ita tibi multum temporis ad dicendum sumas ut his aliquid ad iudicandum relinquas. namque antea non defensionis tuae modus, sed nox tibi finem dicendi fecit; nunc, si tibi placere potest, ne idem facias, id abs te postulo. neque hoc idcirco postulo quod te aliquid censeam praeterire oportere aut non quam ornatissime et copiosissime dicere, verum ut semel una quaque de re dicas; quod si facies, non vereor ne dicendo dies eximatur.",
+      "eng": "One thing I would very much like to obtain from you, Lucius Quinctius --- and I ask it both because it is useful to me and because it is fair from you --- that you take such time for your speech as to leave these gentlemen some for judging. For before, it was not the measure of your defence but nightfall that put an end to your speaking. Now, if you will allow it, I ask you not to do the same thing. I do not ask this because I think you ought to leave anything out, or speak less ornately and copiously than possible, but only that you speak once on each topic; and if you do this, I am not afraid that we will run out of daylight in your speech.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "iudicium vestrum est, recuperatores, Qvantae pecvniae paret dolo malo familiae P. Fabi vi hominibvs armatis coactisve damnvm datvm esse M. Tvllio. eius rei taxationem nos fecimus; aestimatio vestra est; iudicium datum est in quadruplum.",
+      "eng": "The judgement before you, gentlemen of the panel, is \"of how great a sum of money it appears that, by the malicious design of Publius Fabius's household, by force, by men assembled and armed, damage has been done to Marcus Tullius.\" We have set the assessment; the valuation is yours; judgement has been given fourfold.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "Cum omnes leges omniaque iudicia quae paulo graviora atque asperiora videntur esse ex improborum iniquitate et iniuria nata sunt, tum hoc iudicium paucis hisce annis propter hominum malam consuetudinem nimiamque licentiam constitutum est. nam cum multae familiae dicerentur in agris longinquis et pascuis armatae esse caedisque facere, cumque ea consuetudo non solum ad res privatorum sed ad summam rem publicam pertinere videretur, M. Lucullus, qui summa aequitate et sapientia ius dixit, primus hoc iudicium composuit et id spectavit ut omnes ita familias suas continerent ut non modo armati damnum nemini darent verum etiam lacessiti iure se potius quam armis defenderent;",
+      "eng": "Just as all those laws and trials which seem somewhat sterner and harsher have arisen from the iniquity and injury of dishonest men, so this trial was instituted only a few years ago, on account of bad custom and excessive licence. For when many households were said to be armed in distant fields and on pasture lands and to be committing slaughter, and when this practice was seen to bear not only on private affairs but on the highest interests of the commonwealth, Marcus Lucullus --- who administered justice with the highest equity and wisdom --- was the first to compose this trial, and he aimed at this: that all should so keep their households in hand that they not only should not, when armed, do damage to anyone, but, even when provoked, should rather defend themselves at law than by arms.",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "et cum sciret de damno legem esse Aquiliam, tamen hoc ita existimavit, apud maiores nostros cum et res et cupiditates minores essent et familiae non magnae magno metu continerentur ut perraro fieret ut homo occideretur, idque nefarium ac singulare facinus putaretur, nihil opus fuisse iudicio de vi coactis armatisque hominibus; quod enim usu non veniebat, de eo si quis legem aut iudicium constitueret, non tam prohibere videretur quam admonere.",
+      "eng": "And though he knew there was the lex Aquilia (a law on damage), still he reckoned thus: that among our ancestors, when both deeds and desires were smaller, and households were not large and were held in by great fear, so that it very rarely happened that a man was killed --- such a deed being held an unspeakable and singular crime --- there had been no need of a trial about violence by men assembled and armed; for what did not happen in practice, if anyone established a law or trial about it, would seem rather to suggest the offence than forbid it.",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "his temporibus cum ex bello diuturno atque domestico res in eam consuetudinem venisset ut homines minore religione armis uterentur, necesse putavit esse et in universam familiam iudicium dare, quod a familia factum diceretur, et recuperatores dare,",
+      "eng": "In these times, when from a long and domestic war affairs had come into such a habit that men used arms with less scruple, he thought it necessary both to give a trial against the entire household for what was alleged to have been done by the household, and to give a panel of recuperatores ---",
+      "notes": null
+    },
+    {
+      "loc": "11",
+      "section": 11,
+      "lat": "ut quam primum res iudicaretur, et poenam graviorem constituere, ut metu comprimeretur audacia, et illam latebram tollere: ' damnum iniuria. ' quod in aliis causis debet valere et valet lege Aquilia, id ex huius modi damno quod vi per servos armatos datum esset",
+      "eng": "so that the matter should be judged as quickly as possible --- and to set a heavier penalty, that audacity might be checked by fear; and to abolish that loophole, \"wrongful damage.\" What in other cases ought to and does count under the lex Aquilia, in damage of this sort, given by force through armed slaves, ---",
+      "notes": null
+    },
+    {
+      "loc": "12",
+      "section": 12,
+      "lat": "ipsi statuerent quo tempore possent suo iure arma capere, manum cogere, homines occidere. Cum iudicium ita daret ut hoc solum in iudicium veniret , videreturne vi hominibus coactis armatisve damnum dolo malo familiae datum, neque illud adderet ' inivria ,' putavit se audaciam improborum sustulisse, cum spem defensionis nullam reliquisset .",
+      "eng": "they themselves [the householders] would have to lay down the moments when they could lawfully take up arms, gather a band, kill men. Composing the formula so that this alone should come to trial --- \"did it appear that, by force, by men assembled and armed, damage had been given by malicious design of the household?\" --- and not adding the word \"wrongfully,\" he thought he had taken away the audacity of dishonest men, since he had left no hope of defence.",
+      "notes": null
+    },
+    {
+      "loc": "13",
+      "section": 13,
+      "lat": "quoniam quod iudicium et quo consilio constitutum sit cognostis, nunc rem ipsam, ut gesta sit, dum breviter vobis demonstro, attendite.",
+      "eng": "Since you now know what trial has been instituted and on what counsel, attend, please, while I briefly set out the matter itself, as it was done.",
+      "notes": null
+    },
+    {
+      "loc": "14",
+      "section": 14,
+      "lat": "fundum habet in agro Thurino M. Tullius paternum, recuperatores, quem se habere usque eo non moleste tulit, donec vicinum eius modi nactus est qui agri finis armis proferre mallet quam iure defendere. nam P. Fabius nuper emit agrum de C. Claudio senatore, cui fundo erat adfinis M. Tullius, sane magno, dimidio fere pluris incultum exustis villis omnibus quam quanti integrum atque ornatissimum carissimis pretiis ipse Claudius emerat",
+      "eng": "Marcus Tullius, gentlemen of the panel, has an ancestral estate in the territory of Thurium, the possession of which gave him no trouble until he chanced upon a neighbour of such a kind as preferred to extend the boundaries of his fields with weapons rather than to defend them by law. For Publius Fabius lately bought an estate from Gaius Claudius the senator, an estate to which Marcus Tullius's was adjoining, at a considerable price --- about half as much again, for the uncultivated land and burnt-out farm buildings, as Claudius himself had paid for it intact and most fully equipped at a very high price.",
+      "notes": null
+    },
+    {
+      "loc": "15",
+      "section": 15,
+      "lat": "clam circumscripsisse isti a consulari Macedonia et Asia. etiam illud addam quod ad rem pertinet: imperatore mortuo pecuniam nescio quo modo quaesitam dum volt in praedio ponere, non posuit, sed abiecit. nihil adhuc m . . am calamitate vicinorum corrigit, et quod stomachum suum damno Tulli exp lere conatus est.",
+      "eng": "[...] he had clandestinely got fitted out by a former consul out of Macedonia and Asia. I will add this also, since it bears on the matter: when his commander died, and he had somehow acquired money, while he wished to put it into an estate, he did not so much put it as throw it away. Up to this point [the lacuna obscures the sense]... and he tried to satisfy his bile by Tullius's loss.",
+      "notes": null
+    },
+    {
+      "loc": "16",
+      "section": 16,
+      "lat": "est in eo agro centuria quae Populiana nominatur, recuperatores, quae semper M. Tulli fuit, quam etiam pater pos sederat posita esse et ad fundum eius convenire. ac primum, quod eum negoti totius et emptionis suae paenitebat, fundum proscripsit; eum autem emptum habebat cum socio Cn. Acerronio, viro op timo modum proscripsisse.",
+      "eng": "On that estate, gentlemen of the panel, there is a hundred-acre lot called the Populian centuria, which has always been Marcus Tullius's, which his father too possessed, situated in such a way as to fall to Tullius's farm. And first, since Fabius regretted the whole transaction and his purchase, he advertised the estate for sale; he had bought it together with his partner Gnaeus Acerronius, an excellent man, and advertised the area for sale.",
+      "notes": null
+    },
+    {
+      "loc": "17",
+      "section": 17,
+      "lat": "hominem appellat. iste sane adroganter quod commodum fuit respondit. Nequedum finis auctor demonstraverat. mittit ad procuratorem litteras et ad vilicum Tullius facturum negavit; illis absentibus finis Acerronio demonstravit neque tamen hanc centuriam Populianam vacuam tradidit. Acerronius, quo modo potuit, se de tota re ex",
+      "eng": "He approaches Tullius. Tullius, with sufficient arrogance, replied as suited him. The seller had not yet pointed out the boundaries. Fabius sends letters to his agent and to his bailiff; Tullius said he would not do it; in their absence Fabius had the boundaries pointed out to Acerronius --- but did not deliver this Populian centuria as vacant. Acerronius, in such manner as he could, [extricated] himself from the whole matter ---",
+      "notes": null
+    },
+    {
+      "loc": "18",
+      "section": 18,
+      "lat": "mine eius modi semustilatus effugit. adducit iste interea in saltum homines electos maximis animis et viribus et eis arma quae cuique habilia atque apta essent comparat, prorsus ut quivis intellegeret non eos ad rem rusticam, verum ad caedem ac pugnam comparari.",
+      "eng": "and as a man, so to speak, half-burnt, escaped. Meanwhile Fabius brings into the wood-lots picked men of the greatest spirit and strength, and procures for each man arms suitable and fitted to him, so that anyone could understand that they were being equipped not for farming but for slaughter and battle.",
+      "notes": null
+    },
+    {
+      "loc": "19",
+      "section": 19,
+      "lat": "brevi illo tempore Q. Cati Aemiliani, hominis honesti, quem vos nostis, duo homines occiderunt; multa alia fecerunt; passim vagabantur armati, non obscure, sed ut plane intellegere viderentur ad quam rem parati essent; agros, vias denique infestas habebant. venit in Thurinum interea Tullius. deinde iste pater familias Asiaticus beatus, novus arator et idem pecuarius, cum ambularet in agro, animadvertit in hac ipsa centuria Populiana aedificium non ita magnum servumque M. Tulli Philinum .",
+      "eng": "In a short time they killed two men of Quintus Catius Aemilianus, an honourable man whom you know; they did many other things; they wandered armed about the country, not in secret, but in such a way that one could clearly understand for what purpose they were prepared. The fields, indeed even the roads, they made unsafe. Meanwhile Tullius came to his Thurine estate. Then this fortunate Asiatic-style head-of-household, the new farmer and grazier, while walking on his land, noticed in this very Populian centuria a small building and Marcus Tullius's slave Philinus.",
+      "notes": null
+    },
+    {
+      "loc": "20",
+      "section": 20,
+      "lat": "' quid vobis,' inquit, 'istic negoti in meo est?' servus respondit pudenter, at non stulte, dominum esse ad villam; posse eum cum eo disceptare si quid vellet. rogat Fabius Acerronium—nam ibi tum erat—ut secum simul veniat ad Tullium. venitur . ad villam erat Tullius. appellat Fabius ut aut ipse Tullium deduceret aut ab eo deduceretur. dicit deducturum se Tullius, vadimonium Fabio Romam promissurum. manet in ea condicione Fabius. mature disceditur.",
+      "eng": "\"What business have you here on my land?\" he said. The slave answered modestly --- but not foolishly --- that the master was at the farmhouse and that he could discuss the matter with him if he wished. Fabius asks Acerronius --- for he was there at the time --- to come along with him to Tullius. They go. Tullius was at the farmhouse. Fabius requires that either he conduct Tullius to Rome (for the citation) or be conducted by him. Tullius said he would conduct Fabius, and would promise his bail-bond to Fabius for Rome. Fabius accepts those terms. They part early.",
+      "notes": null
+    },
+    {
+      "loc": "21",
+      "section": 21,
+      "lat": "proxima nocte, iam fere cum lux adpropinquaret, ad illud aedificium de quo antea dixi, quod erat in centuria Populiana, servi P. Fabi frequentes armatique veniunt; introitum ipsi sibi vi manuque patefaciunt; homines magni preti servos M. Tulli nec opinantis adoriuntur; quod facile factu fuit, neque tam multos neque repugnantis multi armati paratique occidunt tantumque odi crudelitatisque hab uerunt ut eos omnis gurgulionibus insectis relinquerent, ne, si quem semivivum ac spirantem etiam reliquissent, minor eis honor haberetur; praeterea tectum villamque disturbant.",
+      "eng": "The next night, when daylight was almost coming on, the slaves of Publius Fabius, in numbers and armed, come to the building of which I spoke before, which was in the Populian centuria. They force their way in by violence. They fall upon Marcus Tullius's slaves --- valuable men --- not expecting it. This was easily done; many men, armed and ready, kill men neither so numerous nor resisting; and they had so much hatred and cruelty that they left them all with their throats cut, lest, if any had been left half-alive and still breathing, they should hold themselves to have done less honour to the deed. Besides, they wreck the building and the farmhouse.",
+      "notes": null
+    },
+    {
+      "loc": "22",
+      "section": 22,
+      "lat": "hanc rem tam atrocem, tam indignam, tam repentinam nuntiat M. Tullio Philinus, quem antea nominavi, qui graviter saucius e caede effugerat. Tullius statim dimittit ad amicos, quorum ex vicinitate Thurina bona atque honesta copia praesto fuit.",
+      "eng": "This savage, unworthy, sudden affair Philinus --- whom I named earlier --- reports to Marcus Tullius, having escaped gravely wounded from the slaughter. Tullius at once sends for friends, and in the Thurine neighbourhood there was a good and honourable supply at hand.",
+      "notes": null
+    },
+    {
+      "loc": "23",
+      "section": 23,
+      "lat": "omnibus acerba res et misera videbatur. Cum amici in comm turbarunt.",
+      "eng": "The matter seemed to all bitter and miserable. When the friends [...gap in the text...] were thrown into uproar.",
+      "notes": null
+    },
+    {
+      "loc": "24",
+      "section": 24,
+      "lat": "audite , quaeso, in eas res quas commemoro hominum honestorum testimonium. haec quae mei testes dicunt, fatetur adversarius eos vere dicere; quae mei testes non dicunt, quia non viderunt nec sciunt, ea dicit ipse adversarius. nostri testes dicunt occisos homines; cruorem in locis pluribus , deiectum aedificium se vidisse dicunt; nihil amplius. quid Fabius? Horum nihil negat. quid ergo addit amplius?",
+      "eng": "Hear, please, the testimony of honourable men in the matters I have mentioned. What my witnesses say, the adversary admits they say truly. What my witnesses do not say --- because they did not see and do not know --- the adversary himself says. Our witnesses say men were killed; that they saw bloodshed in many places; that the building was thrown down. Nothing further. What does Fabius say? He denies none of it. What further does he add?",
+      "notes": null
+    },
+    {
+      "loc": "25",
+      "section": 25,
+      "lat": "Suam familiam fecisse dicit. quo modo? vi hominibus armatis. quo animo? Vt id fieret quod factum est. quid est id? Vt homines M. Tulli occiderentur. quod ergo eo animo factum est ut homines unum in locum convenirent, ut arma caperent, ut certo consilio certum in locum proficiscerentur, ut idoneum tempus eligerent, ut caedem facerent, id si voluerunt et cogitarunt et perfecerunt, potestis eam voluntatem, id consilium, id factum a dolo malo seiungere?",
+      "eng": "He says his household did it. How? By force, with armed men. With what intent? That what was done should be done. What is that? That Marcus Tullius's men should be killed. Therefore, what was done with this intent --- that men should come together to one place, that they should take up arms, that with a settled plan they should set out for a settled spot, that they should choose a fitting time, that they should commit slaughter --- if they wished and planned and accomplished this, can you separate that will, that plan, that act from \"malicious design\"?",
+      "notes": null
+    },
+    {
+      "loc": "26",
+      "section": 26,
+      "lat": "at istuc totum ' dolo malo ' additur in hoc iudicio eius causa qui agit, non illius quicum agitur. id ut intellegatis, recuperatores, quaeso ut diligenter attendatis; profecto quin ita sit non dubitabitis.",
+      "eng": "But the whole phrase \"by malicious design\" is added in this trial for the sake of the man who brings the suit, not the man with whom the suit is brought. That you may understand this, gentlemen of the panel, please attend carefully; you will not doubt that it is so.",
+      "notes": null
+    },
+    {
+      "loc": "27",
+      "section": 27,
+      "lat": "si ita iudicium daretur ut id concluderetur quod a familia factum esset, si quae familia ipsa in caede interesse noluisset et homines aut servos aut liberos coegisset aut conduxisset, totum hoc iudicium et praetoris severitas dissolveretur. nemo enim potest hoc iudicare, qua in re familia non interfuisset, in ea re eam ipsam familiam vi armatis hominibus damnum dedisse. ergo , id quia poterat fieri et facile poterat, idcirco non satis habitum est quaeri quid familia ipsa fecisset, verum etiam illud, quid familiae dolo malo factum esset.",
+      "eng": "If the trial had been so given as to limit it to \"what the household had done,\" then if any household had been unwilling that it itself should take part in the slaughter, and had assembled or hired men, slave or free, this whole trial and the praetor's severity would be dissolved. For no one can give judgement that, in a matter where the household itself has not taken part, that very household has done the damage by force with armed men. Therefore, since this could happen --- and could easily happen --- it was not thought enough to inquire what the household itself had done, but also what had been done by the household's malicious design.",
+      "notes": null
+    },
+    {
+      "loc": "28",
+      "section": 28,
+      "lat": "nam cum facit ipsa familia vim armatis coactisve hominibus et damnum cuipiam dat, id dolo malo fieri necesse est; cum autem rationem init ut ea fiat, familia ipsa non facit, fit autem dolo malo eius. ergo addito ' dolo malo ' actoris et petitoris fit causa copiosior. Vtrum enim ostendere potest, sive eam ipsam familiam sibi damnum dedisse, sive consilio et opera eius familiae factum esse, vincat necesse est.",
+      "eng": "For when the household itself acts with violence, with armed and assembled men, and does damage to anyone, this must be done with malicious design; but when it lays the plan that this should be done, the household itself does not act, but it is done by its malicious design. So by adding \"by malicious design\" the case for the plaintiff and pursuer is made fuller. Whichever of the two he can show --- whether that the household itself did the damage, or that it was done by the planning and work of that household --- he must necessarily win.",
+      "notes": null
+    },
+    {
+      "loc": "29",
+      "section": 29,
+      "lat": "videtis praetores per hos annos interdicere hoc modo , velut inter me et M. Claudium: Vnde dolo malo tvo, M. Tvlli, M. Clavdivs avt familia avt procvrator eivs vi detrvsvs est , cetera ex formula. si , ubi ita interdictum est et sponsio facta, ego me ad iudicem sic defendam ut vi me deiecisse confitear, dolo malo negem, ecquis me audiat? non opinor equidem , quia, si vi deieci M. Claudium, dolo malo deieci; in vi enim dolus malus inest, et Claudio utrumvis satis est planum facere, vel se a me ipso vi deiectum esse vel me consilium inisse ut vi deiceretur.",
+      "eng": "You see the praetors in these years interdict in this fashion, as for example between me and Marcus Claudius: \"Whence, by your malicious design, Marcus Tullius, Marcus Claudius or his household or his agent has been driven out by force...\" --- the rest as in the formula. If, where the interdict has been issued and the sponsio (the wager-stipulation) made, I defend myself before the iudex by confessing that I drove him out by force but denying malicious design --- will anyone listen to me? Not, I think, since, if I drove out Marcus Claudius by force, I drove him out by malicious design; for in violence malicious design is included, and it is enough for Claudius to make either of these things plain --- either that he was driven out by me by force, or that I planned that he should be driven out by force.",
+      "notes": null
+    },
+    {
+      "loc": "30",
+      "section": 30,
+      "lat": "plus igitur datur Claudio, cum ita interdicitur, unde dolo malo meo vi deiectus sit, quam si daretur, unde a me vi deiectus esset. nam in hoc posteriore, nisi ipse egomet deiecissem, vincerem sponsionem; in illo priore, ubi dolus malus additur , sive consilium inissem , sive ipse deiecissem, necesse erat te dolo malo meo vi deiectum iudicari.",
+      "eng": "Therefore more is given to Claudius when the interdict reads \"whence by my malicious design he was driven out by force\" than would be given if it read \"whence he was driven out by me by force.\" For in this latter, unless I myself had driven him out, I would win the sponsio; in the former, where \"malicious design\" is added, whether I had laid the plan or had myself driven him out, you would necessarily be judged to have been driven out by my malicious design by force.",
+      "notes": null
+    },
+    {
+      "loc": "31",
+      "section": 31,
+      "lat": "hoc persimile atque adeo plane idem est in hoc iudicio, recuperatores. quaero enim abs te, si ita iudicium datum esset: Qvantae pecvniae paret a familia P. Fabii vi hominibvs armatis damnvm M. Tvllio datvm , quid haberes quod diceres? nihil , opinor. fateris enim omnia et familiam P. Fabi fecisse et vi hominibus armatis fecisse. quod additum est ' dolo malo ,' id te adiuvare putas in quo opprimitur et excluditur omnis tua defensio?",
+      "eng": "This is very like, indeed exactly the same as, this trial, gentlemen of the panel. For I ask you: if the trial had been given as \"of how great a sum of money it appears that by Publius Fabius's household by force by armed men damage was given to Marcus Tullius,\" what would you have to say? Nothing, I take it. For you confess that Publius Fabius's household did everything, and did it by force with armed men. The thing that has been added --- \"by malicious design\" --- you suppose helps you, although it crushes and shuts out your whole defence?",
+      "notes": null
+    },
+    {
+      "loc": "32",
+      "section": 32,
+      "lat": "nam si additum id non esset ac tibi libitum esset ita defendere , tuam familiam non fecisse, vinceres, si id probare potuisses. nunc , sive illa defensione uti voluisses sive hac qua uteris, condemneris necesse est; nisi putamus eum in iudi cium venire qui consilium inierit, illum qui fecerit non venire, cum consilium sine facto intellegi possit, factum sine consilio non possit. an , quod factum eius modi est ut sine occulto consilio, sine nocte, sine vi, sine damno alterius, sine armis, sine caede, sine maleficio fieri non potuerit, id sine dolo malo factum iudicabitur? an , qua in re praetor illi improbam defensionem tolli voluit, in ea re mihi difficiliorem actionem factam putabitis?",
+      "eng": "For if it had not been added, and you had wished to defend yourself by saying your household did not do it, you would have won, if you had been able to prove it. As it is, whether you wish to use that defence or this one which you do use, you must necessarily be condemned --- unless we suppose that the man who lays the plan comes to trial, and the man who does the deed does not, when planning without action can be conceived of, but action without planning cannot. Or shall a deed of such a kind that without secret plan, without night, without violence, without damage to another, without arms, without slaughter, without crime, it could not be done --- shall it be judged to have been done without malicious design? Or, in a matter in which the praetor wished a dishonest defence to be cut off, shall my action have been made the harder?",
+      "notes": null
+    },
+    {
+      "loc": "33",
+      "section": 33,
+      "lat": "hic mihi isti singulari ingenio videntur esse qui et id quod mihi contra illos datum est ipsi adripiunt et scopulo atque saxis pro portu stationeque utuntur. nam in dolo malo volunt delitiscere , in quo, non modo cum omnia ipsi fecerunt quae fatentur, verum etiam si per alios id fecissent, haererent ac tenerentur.",
+      "eng": "Here our opponents seem to me to be men of singular ingenuity, who both seize for themselves the very thing that has been given to me against them, and use a rock and stones in place of a harbour and anchorage. For they wish to take cover in \"malicious design,\" in which not only have they themselves done everything that they confess, but even if they had done it through others, they would still stick fast and be held.",
+      "notes": null
+    },
+    {
+      "loc": "34",
+      "section": 34,
+      "lat": "ego non in una re sola, quod mihi satis est, neque in universa re solum , sed singillatim in omnibus dolum malum exstare dico. consilium capiunt ut ad servos M. Tulli veniant; dolo malo faciunt. arma capiunt; dolo malo faciunt. tempus ad insidiandum atque celandum idoneum eligunt; dolo malo faciunt. vi in tectum inruunt; in ipsa vi dolus est. occidunt homines, tectum diruunt; nec homo occidi nec consulto alteri damnum dari sine dolo malo potest. ergo si omnes partes sunt eius modi ut in singulis dolus malus haereat, universam rem et totum facinus sine dolo malo factum iudicabitis?",
+      "eng": "I claim that in not just one matter, which would be enough for me, nor merely in the matter as a whole, but item by item in every part, malicious design appears. They take counsel to come to Marcus Tullius's slaves: this is malicious design. They take up arms: malicious design. They choose a moment fit for ambush and concealment: malicious design. They burst by force into the building: in the very violence is design. They kill men, demolish the building: a man cannot be killed nor damage purposely done another without malicious design. So if all the parts are such that malicious design clings to each, will you give judgement that the matter as a whole and the offence in its entirety was done without malicious design?",
+      "notes": null
+    },
+    {
+      "loc": "35",
+      "section": 35,
+      "lat": "quid ad haec Quinctius? sane nihil certum neque unum, in quo non modo possit verum putet se posse consistere. primum enim illud ini e c i t , nihil posse dolo malo familiae fieri. hoc loco non solum fecit ut defenderet Fabium, sed ut omnino huiusce modi iudicia dissolveret. nam si venit id in iudicium de familia quod omnino familia nulla potest committere, nullum est iudicium, absolvantur omnes de si mili causa necesse est , bona me hercule!",
+      "eng": "What does Quinctius say to this? Truly nothing certain or single, on which he himself thinks --- much less can --- stand. For he first put forth this: that nothing can be done by a household with malicious design. With this point he sought not only to defend Fabius, but to dissolve trials of this kind altogether. For if there comes into a trial concerning a household something that no household at all can commit, then there is no trial; everyone in a similar case must necessarily be acquitted --- a fine state of affairs, by Hercules!",
+      "notes": null
+    },
+    {
+      "loc": "36",
+      "section": 36,
+      "lat": "si hoc solum esset , tamen vos, tales viri, nolle deberetis maximam rem coniunctam cum summa re publica fortunisque privatorum, severissimum iudicium maximaque ratione compositum per vos videri esse dissolutum. sed non id solum agitur Priscian 6.1.5 hoc iudicium sic exspectatur ut non unae rei statui, sed omnibus constitui putetur.",
+      "eng": "If this were the only thing, you, men of this rank, ought not to wish that an excellent matter, bound up with the highest interests of the state and the fortunes of private citizens, a most severe trial composed with the greatest reasoning, should seem to be dissolved through your action. But that is not all that is at stake. This trial is awaited as something that decides not one matter but is taken as setting precedent for all.",
+      "notes": null
+    },
+    {
+      "loc": "37",
+      "section": 37,
+      "lat": "ego intellego, et tamen dicendum est ad ea quae dixit Quinctius, non quo ad rem pertineat, sed ne quid, quia a me praetermissum sit , pro concesso putetur.",
+      "eng": "I understand it; and yet what Quinctius said must be answered, not because it is to the point, but lest something which I have passed over be taken as conceded.",
+      "notes": null
+    },
+    {
+      "loc": "38",
+      "section": 38,
+      "lat": "dicis oportere quaeri, homines M. Tulli iniuria occisi sint necne. de quo hoc primum quaero, venerit ea res in hoc iudicium necne. si non venit, quid attinet aut nos dicere aut hos quaerere? si autem venit, quid attinuit te tam multis verbis a praetore postulare ut adderet in iudicium ' inivria ,' et, quia non impetrasses, tribunos pl. appellare et hic in iudicio queri praetoris iniquitatem, quod de iniuria non addidisset ?",
+      "eng": "You say it ought to be inquired whether the men of Marcus Tullius were killed wrongfully or not. About this I first ask: did this matter come into this trial or not? If it did not, what point is there for either us in saying anything or these gentlemen in inquiring? If it did, what point was there in your asking the praetor with so many words to add to the trial \"wrongfully,\" and, when you did not get it, in appealing to the tribunes of the plebs and complaining here in court of the praetor's unfairness because he had not added \"wrongfully\"?",
+      "notes": null
+    },
+    {
+      "loc": "39",
+      "section": 39,
+      "lat": "haec cum praetorem postulabas, cum tribunos appellabas, nempe ita dicebas, potestatem tibi fieri oportere ut, si posses, recuperatoribus persuaderes non esse iniuria M. Tullio damnum datum. quod ergo ideo in iudicium addi voluisti, ut de eo tibi apud recuperatores dicere liceret, eo non addito nihilo minus tamen ita dicis, quasi id ipsum a quo d e pul s u s es impetraris? at quibus verbis in decernendo Metellus usus est ceteri que quos appellasti? nonne haec omnium fuit oratio, quod vi hominibus armatis coactisve familia fecisse diceretur, id tametsi nullo iure fieri potuerit, tamen se nihil addituros? et recte, recuperatores.",
+      "eng": "When you were asking these things of the praetor, when you were appealing to the tribunes, surely you were saying that you ought to be permitted, if you could, to persuade the recuperatores that the damage was not done to Marcus Tullius wrongfully. What therefore you wished to be added to the trial precisely so that you might speak about it before the recuperatores, that very thing, when not added, you nevertheless argue, as if you had got the very thing from which you were repulsed. But what words did Metellus use in his decree, and what the others to whom you appealed? Was not this the language of all of them: that what the household was alleged to have done by force, by men assembled and armed, even if it could in no way have been done by right, they would still add nothing? And rightly, gentlemen of the panel.",
+      "notes": null
+    },
+    {
+      "loc": "40",
+      "section": 40,
+      "lat": "nam cum perfugio nullo constituto tamen haec scelera servi audacissime faciant, domini impudentissime confiteantur, quid censetis fore, si praetor iudicet eius modi caedis fieri iure posse? an quicquam interest utrum magistratus peccato defensionem constituant an peccandi potestatem licentiamque permittant?",
+      "eng": "For when, with no refuge established, slaves nevertheless dare to commit such crimes, and masters most shamelessly confess them --- what do you suppose would happen if the praetor judged that slaughter of this kind could be done lawfully? Or is there any difference between magistrates' establishing a defence for an offence and granting power and licence to offend?",
+      "notes": null
+    },
+    {
+      "loc": "41",
+      "section": 41,
+      "lat": "etenim , recuperatores, non damno commoventur magistratus ut in haec verba iudicium dent. nam si id esset, nec recuperatores potius darent quam iudicem nec in universam familiam, sed in eum qui cum nominatim ageretur, nec in quadruplum, sed in duplum, et ad ' damnvm ' adderetur ' inivria. ' neque enim is qui hoc iudicium dedit, de ceteris damnis ab lege Aquilia recedit, in quibus nihil agitur nisi damnum, qua de re praetor animum debet advertere.",
+      "eng": "For, gentlemen of the panel, magistrates are not moved by [the question of] damage to draft a trial in these terms. For if that were the case, they would not give recuperatores rather than a single iudex, nor against the whole household, but against him who would be sued by name; nor in fourfold, but in twofold; and to \"damage\" \"wrongfully\" would be added. Nor is the man who established this trial departing from the lex Aquilia in other damages, where nothing is at stake but damage, on which the praetor ought to fix his attention.",
+      "notes": null
+    },
+    {
+      "loc": "42",
+      "section": 42,
+      "lat": "in hoc iudicio videtis agi de vi, videtis agi de hominibus armatis, videtis aedificiorum expugnationes, agri vastationes, hominum trucidationes, incendia, rapinas, sanguinem in iudicium venire, et miramini satis habuisse eos qui hoc iudicium dederunt id quaeri, utrum haec tam acerba, tam indigna, tam atrocia facta essent necne, non utrum iure facta an iniuria? non ergo praetores a lege Aquilia recesserunt, quae de damno est , sed de vi et armis severum iudicium constituerunt, nec ius et iniuriam quaeri nusquam putarunt oportere, sed eos qui armis quam iure agere maluissent de iure et iniuria disputare noluerunt.",
+      "eng": "In this trial you see violence is at issue, you see armed men are at issue, you see assaults on buildings, the laying-waste of fields, the butcheries of men, fires, plundering, blood coming into the trial. And do you wonder that those who gave this trial were content with this question --- whether things so bitter, so unworthy, so atrocious had been done or not --- and not whether they had been done by right or wrongfully? The praetors did not, then, depart from the lex Aquilia, which is about damage; rather, they established a strict trial concerning violence and arms; and they did not think the question of right and wrong needed to be raised, but they were unwilling that those who preferred to do their business by arms rather than by law should themselves debate about right and wrong.",
+      "notes": null
+    },
+    {
+      "loc": "43",
+      "section": 43,
+      "lat": "neque ideo de iniuria non addiderunt quod in aliis rebus non adderent, sed ne ipsi iudicarent posse homines servos iure arma capere et manum cogere, neque quod putarent, si additum esset, posse hoc talibus viris persuaderi non iniuria factum, sed ne quod tamen scutum dare in iudicio viderentur eis quos propter haec arma in iudicium vocavissent.",
+      "eng": "Nor did they fail to add \"wrongfully\" because they would not add it in other matters; but lest they themselves should judge that slaves can lawfully take up arms and gather a band; or because they thought that, if it were added, it could be persuaded to such men that it had not been done wrongfully; but lest they should seem to give some shield in court to those whom on account of these very arms they had summoned to court.",
+      "notes": null
+    },
+    {
+      "loc": "44",
+      "section": 44,
+      "lat": "fuit illud interdictum apud maiores nostros de vi quod hodie quoque est: Vnde tv avt familia avt procvrator tvvs illvm avt familiam avt procvratorem illivs in hoc anno vi deiecisti. deinde additur illius iam hoc causa quicum agitur: cvm ille possideret , et hoc amplius: qvod nec vi nec clam nec precario possideret.",
+      "eng": "There was that interdict among our ancestors concerning violence which is in force still today: \"Whence you, or your household, or your agent has driven him, or his household, or his agent within this year by force.\" Then is added, now for the sake of him with whom the suit is brought: \"since he was in possession,\" and this further: \"since he was in possession not by force, nor by stealth, nor by sufferance.\"",
+      "notes": null
+    },
+    {
+      "loc": "45",
+      "section": 45,
+      "lat": "multa dantur ei qui vi alterum detrusisse dicitur; quorum si unum quodlibet probare iudici potuerit, etiam si confessus erit se vi deiecisse, vincat necesse est vel non possedisse eum qui deiectus sit, vel vi ab se possedisse, vel clam, vel precario . ei qui de vi confessus esset tot defensiones tamen ad causam obtinendam maiores reliquerunt.",
+      "eng": "Many things are given to him who is alleged to have driven another out by force; if the iudex can prove any one of these, even if he confesses he drove him out by force, he must necessarily win --- either that the man who was driven out was not in possession, or had been in possession by force from him, or by stealth, or by sufferance. To one who confessed about violence, our ancestors yet left so many defences for sustaining his case.",
+      "notes": null
+    },
+    {
+      "loc": "46",
+      "section": 46,
+      "lat": "age illud alterum interdictum consideremus, quod item nunc est constitutum propter eandem iniquitatem temporum nimiamque hominum licentiam boni debent dicere.",
+      "eng": "Come now, let us consider the second interdict, which has likewise been established now on account of the same iniquity of the times and the excessive licence of men [...] good men ought to say.",
+      "notes": null
+    },
+    {
+      "loc": "47",
+      "section": 47,
+      "lat": "atque ille legem mihi de xii tabulis recitavit, quae permittit ut furem noctu liceat occidere et luce , si se telo defendat, et legem antiquam de legibus sacratis, quae iubeat inpune occidi eum qui tribunum pl. pulsaverit. nihil , ut opinor, praeterea de legibus.",
+      "eng": "And he read me a law from the Twelve Tables, which permits a thief to be killed at night, and by daylight if he defends himself with a weapon; and an ancient law on the leges sacratae, which orders that whoever has struck a tribune of the plebs is to be killed with impunity. Beyond these, I take it, nothing on the laws.",
+      "notes": null
+    },
+    {
+      "loc": "48",
+      "section": 48,
+      "lat": "qua in re hoc primum quaero, quid ad hoc iudicium recitari istas leges pertinuerit. num quem tribunum pl. servi M. Tulli pulsaverunt? non opinor. num furatum domum P. Fabi noctu venerunt ? ne id quidem. num luce furatum venerunt et se telo defenderunt? dici non potest. ergo istis legibus quas recitasti certe non potuit istius familia servos M. Tulli occidere.",
+      "eng": "On this matter I first ask: what was the relevance of reading these laws to this trial? Did Marcus Tullius's slaves strike any tribune of the plebs? I think not. Did they come to Publius Fabius's house at night to steal? Not even that. Did they come by daylight to steal and defend themselves with a weapon? It cannot be said. Therefore, by those laws which you read, certainly your household could not have killed the slaves of Marcus Tullius.",
+      "notes": null
+    },
+    {
+      "loc": "49",
+      "section": 49,
+      "lat": "' non ,' inquit, 'ad eam rem recitavi, sed ut hoc intellegeres, non visum esse maioribus nostris tam indignum istuc nescio quid quam tu putas, hominem occidi.' at primum istae ipsae leges quas recitas, ut mittam cetera, significant quam noluerint maiores nostri, nisi cum pernecesse esset, hominem occidi. ista lex sacrata est, quam rogarunt armati, ut inermes sine periculo possent esse. qua re non iniuria, quo magistratu munitae leges sunt, eius magistratus corpus legibus vallatum esse voluerunt.",
+      "eng": "\"I did not read it for that purpose,\" he says, \"but that you might understand that our ancestors did not see anything so terrible (as you suppose) in a man's being killed.\" But, in the first place, those very laws which you read --- to leave aside the rest --- show how reluctant our ancestors were that a man should be killed except in cases of utter necessity. That law is sacred which armed men carried, that the unarmed might be safe. Thus, not without good reason, in the case of the magistracy by which the laws are protected, they wished the body of that magistracy to be fenced about by laws.",
+      "notes": null
+    },
+    {
+      "loc": "50",
+      "section": 50,
+      "lat": "Furem, hoc est praedonem et latronem, luce occidi vetant xii tabulae; cum intra parietes tuos hostem certissimum teneas, nisi se telo defendit , inquit, etiam si cum telo venerit, nisi utetur telo eo ac repugnabit, non occides; quod si repugnat, ' endoplorato ,' hoc est conclamato, ut aliqui audiant et conveniant. quid ad hanc clementiam addi potest, qui ne hoc quidem permiserint, ut domi suae caput suum sine testibus et arbitris ferro defendere liceret?",
+      "eng": "The Twelve Tables forbid a thief --- that is, a robber and a brigand --- to be killed by day; even though you hold within your walls the surest of enemies, unless he defend himself with a weapon (and the law says: even if he came armed, unless he uses the weapon and resists, you shall not kill him); but if he resists, \"endoplorato,\" that is, raise the cry, that some men may hear and assemble. What can be added to this clemency in our forefathers, who did not even permit a man to defend his own life in his own home with a sword without witnesses and arbiters?",
+      "notes": null
+    },
+    {
+      "loc": "51",
+      "section": 51,
+      "lat": "quis est cui magis ignosci conveniat, quoniam me ad xii tabulas revocas, quam si quis quem imprudens occiderit? nemo , opinor. haec enim tacita lex est humanitatis ut ab homine consili, non fortunae poena repetatur. tamen huiusce rei veniam maiores non dederunt. nam lex est in xii tabulis: si telvm manv fvgit ma gis qvam iecit",
+      "eng": "Who is more deserving of pardon, since you call me back to the Twelve Tables, than the man who has unintentionally killed another? No one, I take it. For this is the unwritten law of humanity: that the punishment should be exacted from the man's intent, not his luck. Yet our ancestors did not give a pardon for this either. For there is in the Twelve Tables: \"If a weapon has fled from the hand rather than been thrown\" ---",
+      "notes": null
+    },
+    {
+      "loc": "52",
+      "section": 52,
+      "lat": "Iulius Rufinianus (H. p. 40.21). si qui furem occiderit, iniuria occiderit. quam ob rem? quia ius constitutum nullum est. quid , si se telo defenderit? non iniuria. quid ita? quia constitutum est.",
+      "eng": "[the rest of the maxim is preserved in Iulius Rufinianus]: if anyone has killed a thief, he has killed wrongfully. Why? Because no right has been established. What if [the thief] has defended himself with a weapon? Not wrongfully. Why? Because it has been established.",
+      "notes": null
+    },
+    {
+      "loc": "53",
+      "section": 53,
+      "lat": ". . tamen per vim factum esset , tamen in eo ipso loco qui tuus esset, non modo servos M. Tulli occidere iure non potuisti verum etiam, si tectum hoc insciente aut per vim demolitus esses quod hic in tuo aedificasset et suum esse defenderet, id vi aut clam factum iudicaretur. tu ipse iam statue quam verum sit, cum paucas tegulas deicere impune familia tua non potuerit, maximam caedem sine fraude facere potuisse . ego ipse tecto illo disturbato si hodie postulem, quod vi aut clam factum sit, tu aut per arbitrum restituas aut sponsione condemneris necesse est; nunc hoc probabis viris talibus, cum aedificium tuo iure disturbare non potueris quod esset, quem ad modum tu vis, in tuo, homines qui in eo aedificio fuerint te tuo iure potuisse occidere?",
+      "eng": "...even if the act had been done by force in your own land --- not only could you not lawfully kill the slaves of Marcus Tullius, but, if without your knowledge or by force you had pulled down a building which my client had put up there and was defending as his own, that would be judged \"done by force or by stealth.\" Settle for yourself how true it is that, when your household could not pull down a few tiles with impunity, you could yet do the greatest slaughter without offence. If I myself, this building of his having been pulled down, were today to ask, on grounds of \"by force or stealth,\" you would either have to restore it through an arbitrator or be condemned by your sponsio. Now will you persuade men of this rank that, when you could not lawfully pull down a building which (according to your account) was on your own land, you could lawfully kill the men who were in that building?",
+      "notes": null
+    },
+    {
+      "loc": "54",
+      "section": 54,
+      "lat": "' at servus meus non comparet, qui visus est cum tuis; at casa mea est incensa a tuis.' quid ad haec respondeam? ostendi falsa esse; verum tamen confitebor. quid postea? hoc sequitur, ut familiam M. Tulli concidi oportuerit? vix me hercule ut corium peti, vix ut gravius expostulari; verum ut esses durissimus, agi quidem usitato iure et cotidiana actione potuit. quid opus fuit vi, quid armatis hominibus, quid caede, quid sanguine?",
+      "eng": "\"But my slave does not appear, who was seen with yours; my hut has been burnt by yours.\" What shall I answer to this? I have shown the charges to be false. But I will admit them. What follows? That Marcus Tullius's household had to be cut down? Hardly, by Hercules, that satisfaction by the lash should be sought, hardly that any heavier complaint should be lodged. But, granting you to be of the harshest, the matter could have been brought in the ordinary way, in the daily form of action. What need was there of force, what of armed men, what of slaughter, what of bloodshed?",
+      "notes": null
+    },
+    {
+      "loc": "55",
+      "section": 55,
+      "lat": "' at enim oppugnatum me fortasse venissent.' haec est illorum in causa perdita extrema non oratio neque defensio, sed coniectura et quasi divinatio. illi oppugnatum venturi erant? quem? Fabium. quo consilio? Vt occiderent. quam ob causam? quid ut proficerent? qui comperisti? et ut rem perspicuam quam paucissimis verbis agam, dubitari hoc potest, recuperatores, utri oppugnasse videantur, qui ad villam venerunt, an qui in villa manserunt?",
+      "eng": "\"But perhaps they would have come to attack me.\" This is the last device of these men in their lost cause --- not speech or defence, but conjecture and a kind of soothsaying. They were going to come to attack? Whom? Fabius. With what plan? To kill him. For what cause? That they might gain what? How did you find this out? And, that I may put a transparent matter in the fewest possible words, can it really be doubted, gentlemen of the panel, which side appears to have done the attacking --- those who came to the farmhouse, or those who stayed at the farmhouse?",
+      "notes": null
+    },
+    {
+      "loc": "56",
+      "section": 56,
+      "lat": "qui occisi sunt, an ei ex quorum numero saucius factus est nemo? qui cur facerent, causa non fuit, an ei qui fecisse se confitentur? verum ut hoc tibi credam, metuisse te ne oppugnarere, quis hoc statuit umquam , aut cui concedi sine summo omnium periculo potest, ut eum iure potuerit occidere a quo metuisse se dicat ne ipse posterius occideretur ?",
+      "eng": "Those who were killed, or those none of whom was so much as wounded? Those who had no cause for doing such a thing, or those who confess they did it? But, even if I grant you this --- that you were afraid you would be attacked --- who has ever ruled, or to whom can it be conceded without the highest danger to all, that a man may lawfully kill the man whom he says he feared lest he himself afterwards be killed?",
+      "notes": null
+    }
+  ]
+}

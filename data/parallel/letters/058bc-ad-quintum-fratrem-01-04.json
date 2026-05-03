@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-01-04",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 1.4",
+  "title_english": "Ad Quintum Fratrem 1.4",
+  "date": "-0058-08-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "amabo te, mi frater, ne, si uno meo facto et tu et omnes mei corruistis, improbitati et sceleri meo potius quam imprudentiae miseraeque adsignes. nullum est meum peccatum nisi quod iis credidi, a quibus nefas putaram esse me decipi aut etiam quibus ne id expedire quidem arbitrabar. intimus , proximus, familiarissimus quisque aut sibi pertimuit aut mihi invidit.",
+      "eng": "I beg of you, my brother --- if both you and all my people have been brought down by a single act of mine, do not assign it rather to wickedness and crime in me than to want of foresight and to wretchedness. There is no fault of mine, except that I trusted men whom I had thought it impious to suppose capable of deceiving me, men of whom I did not even think it could serve their interests to do so. Each of those nearest to me, each closest, each most familiar, either was afraid for himself or envied me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ita mihi nihil misero praeter fidem amicorum cautum meum consilium defuit. quod si te satis innocentia tua et misericordia hominum vindicat hoc tempore a molestia, perspicis profecto ecquaenam nobis spes salutis relinquatur. nam me Pomponius et Sestius et Piso noster adhuc Thessalonicae retinuerunt, cum longius dis cedere propter nescio quos motus vetarent. verum ego magis exitum illorum litteris quam spe certa exspectabam ; nam quid sperem potentissimo inimico, dominatione obtrectatorum, infidelibus amicis plurimis invidis?",
+      "eng": "So in my misery nothing has failed my too-cautious counsel except the good faith of my friends. If your own innocence and the pity of men are protecting you sufficiently from harm at this time, you see clearly enough whether any hope of salvation is left for me. For up to now, Pomponius and Sestius and our Piso have kept me at Thessalonica, since they forbade me to go further off because of some movements I do not know. But I was waiting for the issue rather from their letters than from any sure hope: for what am I to hope, with my enemy at the height of his power, the rule of those who hated me, friends untrustworthy, and a great many men who envy me?",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de novis autem tribunis pl. est ille quidem in me officiosissimus Sestius et, spero, Curius, Milo, Fadius, Fabricius, sed valde adversante Clodio, qui etiam privatus eadem manu poterit contiones concitare ; deinde etiam intercessor parabitur.",
+      "eng": "Of the new tribunes of the plebs, Sestius is most attentive to me, and I hope Curius, Milo, Fadius, and Fabricius. But Clodius will be very strongly against, who even as a private citizen will be able with the same gang to stir up the public meetings. And then an intercessor too will be procured.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "haec mihi proficiscenti non proponebantur sed saepe triduo, summa cum gloria dicebar esse rediturus ' quid tu igitur? , inquies. quid ? multa convenerunt quae mentem exturbarent meam, subita defectio Pompei, alienatio consulum, etiam praetorum, timor publicanorum, arma. lacrimae meorum me ad mortem ire prohibuerunt ; quod certe et ad honestatem et ad effugiendos intolerabilis dolores fuit aptissimum. sed de hoc scripsi ad te in ea epistula quam Phaethonti dedi. nunc tu, quoniam in tantum luctum laboremque detrusus es quantum nemo umquam, si levare potest communem casum misericordia hominum scilicet incredibile quiddam adsequeris ; sin plane occidimus, me miserum! ego omnibus meis exitio fuero quibus ante dedecori non eram.",
+      "eng": "These things were not laid before me as I was setting out: I was often told that within three days I should be returning, with the highest glory. ``What of you, then?'' you will say. What of me? Many things came together to drive me out of my mind: Pompey's sudden defection, the alienation of the consuls, even of the praetors, the fear of the tax-farmers, arms. The tears of my people kept me from going to death --- which assuredly would have been most fitting both for honour and for the avoiding of intolerable griefs. But on this I have written to you in the letter I gave to Phaethon. Now you, since you have been thrust into so great a grief and a labour as no man ever was, if the pity of men can lift the common ruin, you shall achieve, surely, something incredible. If we are wholly destroyed --- wretched man that I am! I shall have been the cause of perishing to all my own people, to whom before I was not even a cause of disgrace.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "sed tu, ut ante ad te scripsi, perspice rem et pertempta et ad me, ut tempora nostra non ut amor tuus fert, vere perscribe. ego vitam quoad putabo tua interesse aut ad spem servandam esse retinebo. tu nobis amicissimum Sestium cognosces ; credo tua causa velle Lentulum, qui erit consul. quamquam sunt facta verbis difficiliora tu et quid opus sit et quid sit videbis. omnino si tuam solitudinem communemque calamitatem nemo despexerit, aut per te aliquid confici aut nullo modo poterit ; sin te quoque inimici vexare coeperint, ne cessaris ; non enim gladiis tecum sed litibus agetur. verum haec absint velim. te oro ut ad me de omnibus rebus rescribas et in me animi aut potius consili minus putes esse quam antea, amoris vero et offici non minus.",
+      "eng": "But you, as I wrote you before, look the thing through and feel it out, and write to me back, as our times require and not as your love does, the truth. As for me, I shall hold on to life so long as I think it of consequence to you, or that hope must be preserved. You will find Sestius our truest friend; Lentulus, who will be consul, I believe wishes well of you for your own sake. Yet deeds are harder than words: you will see both what is needful and what the thing is. In short --- if no one despises your isolation and our common calamity, then either something will be brought through by your hand, or in no way at all. But if our enemies begin to harry you also, do not slacken: with you they will fight not with swords but with lawsuits. Yet may these things stay far away, I beg. I ask you to write me back about everything; and to suppose that there is in me less of spirit, or rather of judgement, than before --- but of love and of duty, not less.",
+      "notes": null
+    }
+  ]
+}

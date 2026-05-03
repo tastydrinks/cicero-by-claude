@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 5.2",
+  "title_english": "Ad Familiares 5.2",
+  "date": "-0062-02-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "si tu exercitusque valetis, benest. scribis ad me 'te existimasse pro mutuo inter nos animo et pro reconciliata gratia numquam te a me ludibrio laesum in.' quod cuius modi sit, satis intellegere non possum, sed tamen suspicor ad te esse adlatum me in senatu, cum disputarem permultos esse qui rem p. a me conservatam dolerent, dixisse a te propinquos tuos, quibus negare non potuisses, impetrasse ut ea, quae statuisses tibi in senatu de mea laude esse dicenda, reticeres. quod cum dicerem, illud adiunxi mihi tecum ita dispertitum officium fuisse in rei p. salute retinenda, ut ego urbem a domesticis insidiis et ab intestino scelere, tu Italiam et ab armatis hostibus et ab occulta coniuratione defenderes, atque hanc nostram tanti et tam praeclari muneris societatem a tuis propinquis labefactatam, qui, cum tu a me rebus amplissimis atque honorificentissimis ornatus esses, timuissent ne quae mihi pars abs te voluntatis mutuae tribueretur.",
+      "eng": "If you and the army are well, that is well. You write to me: ``You had thought, on the strength of our mutual feeling and of the friendship restored between us, that you would never be hurt by me in mockery in your absence.'' Of what kind that is I cannot quite make out; but I suspect it has been carried to you that I, in the senate --- when I was arguing that there were very many who grieved that the commonwealth had been saved by me --- said that your relations, whom you could not refuse, had got from you that the things you had decided you would speak in the senate to my praise, you should pass over in silence. When I said this, I added that the duty had so been divided between you and me in saving the commonwealth that I should defend the city from domestic plots and from civil crime, and you Italy from armed enemies and from secret conspiracy --- and that this our partnership in so great and so distinguished a service had been undermined by your relations, who, when you had been adorned by me with the highest and most honourable matters, had feared that some share of mutual goodwill should be paid by you to me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "hoc in sermone cum a me exponeretur, quae mea exspectatio fuisset orationis tuae quantoque in errore versatus essem, visa est oratio non iniucunda, et mediocris quidam est risus consecutus non in te sed magis in errorem meum, et quod me abs te cupisse laudari aperte atque ingenue confitebar. iam hoc non potest in te non honorifice esse dictum, me in clarissimis meis atque amplissimis rebus tamen aliquod testimonium tuae vocis habere voluisse.",
+      "eng": "When in this conversation I set out what my expectation of your speech had been and in how great an error I had been moving, the speech was thought not unwelcome, and a moderate kind of laughter followed --- not at you, but rather at my own error and at my openly and frankly confessing that I had wished to be praised by you. Now this cannot have been said dishonourably to you: that in my most distinguished and greatest matters I yet wished to have some testimony of your voice.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod autem ita scribis: 'pro mutuo inter nos animo,' quid tu existimes esse in amicitia mutuum, nescio, equidem hoc arbitror, cum par voluntas accipitur et redditur. ego si hoc dicam, me tua causa praetermisisse provinciam tibi ipse levior videar esse; meae enim rationes ita tulerunt, atque eius mei consili maiorem in dies singulos fructum voluptatemque capio; illud dico, me, ut primum in contione provinciam deposuerim, statim, quem ad modum eam tibi traderem, cogitare coepisse. nihil dico de sortitione vestra; tantum te suspicari volo, nihil in ea re per conlegam meum me insciente esse factum. recordare cetera, quam cito senatum illo die facta sortitione coegerim, quam multa de te verba fecerim, cum tu ipse mihi dixisti orationem meam non solum in te honorificam sed etiam in conlegas tuos contumeliosam fuisse.",
+      "eng": "Where you write ``on the strength of our mutual feeling,'' I do not know what you reckon to be ``mutual'' in friendship. I, for my part, judge it this: when an equal goodwill is received and returned. If I were to say that, for your sake, I gave up a province, I should myself appear to you the lighter on that very ground (my own thinking led me that way, and from the choice of mine I take fruit and pleasure that grow daily). I will say only this: as soon as in the assembly I had laid down the province, I at once began to consider how I might hand it over to you. Of your own drawing of lots I say nothing; only this much I want you to suspect: that nothing in that matter was done through my colleague without my knowing. Recall the rest --- how quickly I summoned the senate that day after the lots were drawn, how many words I said about you --- when you yourself told me that my speech had been not only honourable to you but even insulting to your colleagues.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "iam illud senatus consultum, quod eo die factum est, ea praescriptione est, ut, dum id exstabit, officium meum in te obscurum esse non possit. postea vero quam profectus es, velim recordere quae ego de te in senatu egerim, quae in contionibus dixerim, quas ad te litteras miserim. quae cum omnia conlegeris, tu ipse velim iudices, satisne videatur his omnibus rebus tuus adventus, cum proxime Romam venisti, mutue respondisse.",
+      "eng": "Indeed the senate's decree, which was made on that day, has such a preamble that, while it stands, my obligation to you cannot be obscure. After you set out, please recall what I did about you in the senate, what I said in public meetings, what letters I sent you. When you have collected all of these, please yourself judge whether your arrival, when you last came to Rome, seems to have answered all this with sufficient mutuality.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "quod scribis de 'reconciliata gratia' nostra, non intellego cur reconciliatam esse dicas, quae numquam imminutast.",
+      "eng": "As to what you write of the ``friendship restored'' between us --- I do not understand why you say it has been restored, since it has never been diminished.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "quod scribis non oportuisse 'Metellum, fratrem tuum, ob dictum a me oppugnari,' primum hoc velim existimes, animum mihi istum tuum vehementer probari et fraternam plenam humanitatis ac pietatis voluntatem; deinde, si qua ego in re fratri tuo rei publicae causa restiterim, ut mihi ignoscas (tam enim sum amicus rei p. quam qui maxime); si vero meam salutem contra illius impetum in me crudelissimum defenderim, satis habeas nihil me etiam tecum de tui fratris iniuria conqueri. quem ego cum comperissem omnem sui tribunatus conatum in meam perniciem parare atque meditari, egi cum Claudia, uxore tua, et cum vestra sorore Mucia, cuius erga me studium pro Cn. Pompei necessitudine multis in rebus perspexeram, ut eum ab illa iniuria deterrerent.",
+      "eng": "You write that ``Metellus, your brother, ought not to have been attacked by me on account of a remark.'' First I should be glad if you would consider this: that this disposition of yours and your brotherly will, full of humanity and of duty, is greatly approved by me. Next, if I have anywhere stood up to your brother for the sake of the commonwealth, that you would pardon me (for I am as much a friend of the commonwealth as the man who is so most). But if I defended my own safety against his most cruel onset upon me, you should reckon it enough that I do not even complain to you of your brother's injury. When I had ascertained that he was preparing and meditating his whole tribunate's effort for my destruction, I dealt with Claudia, your wife, and with your sister Mucia (whose zeal toward me, on account of her connection with Pompey, I had often seen) that they should deter him from that injury.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "atqui ille, quod te audisse certo scio, pr. K. Ian. , qua iniuria nemo umquam in aliquo magistratu improbissimus civis adfectus est, ea me consulem adfecit, cum rem p. conservassem, atque abeuntem magistratu contionis habendae potestate privavit. cuius iniuria mihi tamen honori summo fuit; nam cum ille mihi nihil nisi ut iurarem permitteret, magna voce iuravi verissimum pulcherrimumque ius iurandum, quod populus idem magna voce me vere iurasse iuravit.",
+      "eng": "And he, on the day before the Kalends of January --- a thing of which I am sure you have heard --- inflicted on me, the consul, a wrong which no most wicked citizen has ever yet inflicted upon any magistrate; while I had saved the commonwealth, and was leaving office, he stripped me of the power of holding a public meeting. His injury was yet to me the highest honour. For when he allowed me nothing but to take the oath, I swore in a great voice the truest and finest oath, which the people then with a great voice swore, in turn, that I had truly sworn.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "hac accepta tam insigni iniuria tamen illo ipso die misi ad Metellum communis amicos, qui agerent cum eo, ut de illa mente desisteret. quibus ille respondit sibi non esse integrum; etenim paulo ante in contione dixerat ei, qui in alios animum advertisset indicta causa, dicendi ipsi potestatem fieri non oportere. hominem gravem et civem egregium! qui, qua poena senatus consensu bonorum omnium eos adfecerat, qui urbem incendere et magistratus ac senatum trucidare, bellum maximum conflare voluissent, eadem dignum iudicaret eum, qui curiam caede, urbem incendiis, Italiam bello liberasset. itaque ego Metello, fratri tuo, praesenti restiti. nam in senatu K. Ianuariis sic cum eo de re p. disputavi, ut sentiret sibi cum viro forti et constanti esse pugnandum. A. d. tertium non . Ian. cum agere coepisset, tertio quoque verbo orationis suae me appellabat, mihi minabatur, neque illi quicquam deliberatius fuit quam me, quacumque ratione posset, non iudicio neque disceptatione sed vi atque impressione evertere. huius ego temeritati si virtute atque animo non restitissem, quis esset qui me in consulatu non casu potius existimaret quam consilio fortem fuisse?",
+      "eng": "Having received so signal an injury, I yet on that very day sent to Metellus our common friends, that they should treat with him to give up that intention. He replied to them that he was not free; for he had a little before said in a public meeting that the man who had taken cognizance of others without trial ought himself not to be allowed the power of speaking. A grave man and an outstanding citizen! who reckoned that the same penalty which the senate, by the consensus of all good men, had inflicted on those who had wished to set the city on fire, to butcher the magistrates and the senate, to kindle the greatest of wars, was deserved by the man who had freed the senate-house of slaughter, the city of fires, Italy of war. So I withstood your brother Metellus to his face. For in the senate on the Kalends of January I so disputed with him about the commonwealth that he might feel he had to fight a brave and steady man. Three days before the Nones of January, when he had begun to speak, every third word of his speech he was naming me, was threatening me; and nothing was more deliberately purposed by him than that he should overthrow me, by whatever means he could --- not by judgment nor by argument, but by force and by main strength. To his rashness, if I had not stood up by virtue and by spirit, who would there have been who would not have judged that I had been brave in my consulship by chance rather than by counsel?",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "haec si tu Metellum cogitare de me nescisti, debes existimare te maximis de rebus a fratre esse celatum; sin autem aliquid impertivit tibi sui consili, lenis a te et facilis existimari debeo, qui nihil tecum de his ipsis rebus expostulem. et , si intellegis non me 'dicto' Metelli, ut scribis, sed consilio eius animoque in me inimicissimo esse commotum, cognosce nunc humanitatem meam, si humanitas appellandast in acerbissima iniuria remissio animi ac dis solutio. nullast a me umquam sententia dicta in fratrem tuum; quotienscumque aliquid est actum, sedens iis adsensi, qui mihi lenissime sentire visi sunt. addam illud etiam, quod iam ego curare non debui, sed tamen fieri non moleste tuli atque etiam, ut ita fieret, pro mea parte adiuvi, ut senati consulto meus inimicus, quia tuus frater erat, sublevaretur.",
+      "eng": "If you did not know that Metellus was thinking these things about me, you must reckon that you have been kept in the dark by your brother in the greatest matters. But if he shared anything of his counsel with you, I ought to be reckoned by you mild and easy, since I make no demand of you about these very things. And if you understand that I have been moved not by Metellus's ``remark'' (as you write) but by his counsel and by his most hostile mind toward me, recognize now my humanity --- if humanity is what one calls relaxation and slackening of mind in the bitterest of injuries. Never has any vote of mine been spoken against your brother. As often as anything has been done, I have, sitting still, agreed with those who seemed to me to feel most mildly. I shall add this too --- which now, indeed, I ought not to have cared about, but which I did not bear unwillingly to have done, and which, on my own part, I helped to bring about: that, by a senate's decree, my enemy was helped, because he was your brother.",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "quare non ego 'oppugnavi' fratrem tuum, sed fratri tuo repugnavi nec in te, ut scribis, 'animo fui mobili,' sed ita stabili, ut in mea erga te voluntate etiam desertus ab officiis tuis permanerem. atque hoc ipso tempore tibi paene minitanti nobis per litteras hoc rescribo atque respondeo: ego dolori tuo non solum ignosco, sed summam etiam laudem tribuo (meus enim me sensus, quanta vis fraterni sit amoris, admonet); a te peto ut tu quoque aequum te iudicem dolori meo praebeas; si acerbe, si crudeliter, si sine causa sum a tuis oppugnatus, ut statuas mihi non modo non cedendum sed etiam tuo atque exercitus tui auxilio in eius modi causa utendum fuisse. ego te mihi semper amicum esse volui, me ut tibi amicissimum esse intellegeres laboravi. maneo in voluntate et, quoad voles tu, permanebo citiusque amore tui fratrem tuum odisse desinam quam illius odio quicquam de nostra benevolentia detraham.",
+      "eng": "Wherefore I have not ``attacked'' your brother but have repelled your brother's attack; nor have I been, as you write, ``of changeable mind'' toward you, but of so steady a mind that, even when deserted by your offices, I remain in my goodwill toward you. And at this very time, to you who are almost threatening us by letter, I write back this and answer: I not only pardon your grief, I even bestow on it the highest praise (for my own feeling reminds me how great is the force of brotherly love); from you I beg that you also offer yourself a fair judge of my own grief. If I have been bitterly, cruelly, without cause attacked by your people, that you should rule that not only ought I not to have yielded but even ought to have used the help of you and of your army in such a case. I have always wished you to be a friend to me; I have laboured that you should know me to be a friend most dear to you. I remain in that disposition and, so long as you wish, shall remain. Sooner shall I, out of love for you, cease to hate your brother than out of his hatred shall I take anything away from our goodwill.",
+      "notes": null
+    }
+  ]
+}

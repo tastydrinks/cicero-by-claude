@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-09",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.9",
+  "title_english": "Ad Atticum 1.9",
+  "date": "-0067-03-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nimium raro nobis abs te litterae adferuntur, cum et multo tu facilius reperias qui Romam proficiscantur quam ego qui Athenas, et certius tibi sit me esse Romae quam mihi te Athenis. itaque propter hanc dubitationem meam brevior haec ipsa epistula est quod, cum incertus essem ubi esses, nolebam illum nostrum familiarem sermonem in alienas manus devenire.",
+      "eng": "Letters reach us too rarely from you, since you can far more easily find men setting out for Rome than I can men setting out for Athens, and since it is more certain to you that I am at Rome than to me that you are at Athens. So, on account of this uncertainty of mine, this very letter is the shorter --- because, not knowing where you were, I did not wish that familiar talk of ours to fall into other hands.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "signa Megarica et Hermas, de quibus ad me scripsisti, vehementer exspecto. quicquid eiusdem generis habebis dignum Academia tibi quod videbitur ne dubitaris mittere et arcae nostrae confidito. genus hoc est voluptatis meae; quae γυμνασιώδη maxime sunt, ea quaero. Lentulus navis suas pollicetur. peto abs te ut haec diligenter cures. Thyillus te rogat et ego eius rogatu Εὐμολπιδῶν πάτρια .",
+      "eng": "The Megarian statues and the Hermae you wrote to me about, I am vehemently waiting for. Whatever you have of the same kind that will seem to you worthy of the Academy, do not hesitate to send, and trust our coffer for it. This is the kind of pleasure I have: what is most in the gymnasium style, [Greek: gymnasi\\=ode], that is what I look for. Lentulus promises his ships. I beg you to see to this carefully. Thyillus asks of you, and I, at his asking, ask too --- the rites of the Eumolpidae, [Greek: Eumolpid\\=on patria].",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-44",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.44",
+  "title_english": "Ad Familiares 13.44",
+  "date": "-0058-01-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi ex tuis et ex L. Oppi, familiaris mei, litteris cognovi te memorem commendationi meae fuisse idque pro tua summa erga me benevolentia proque nostra necessitudine minime sum admiratus, tamen etiam atque etiam tibi L. Oppium praesentem et L. Egnati, mei familiarissimi, absentis negotia commendo. tanta mihi cum eo necessitudo est familiaritasque ut, si mea res esset, non magis laborarem. quapropter gratissimum mihi feceris, si curaris ut is intellegat me a te tantum amari quantum ipse existimo. hoc mihi gratius facere nihil potes, idque ut facias vehementer te rogo.",
+      "eng": "Though I have learnt from your letter and from the letter of L. Oppius, my close friend, that you have remembered my recommendation --- and at this, given your highest goodwill toward me and our intimacy, I have not in the least wondered --- yet again and again I commend to you L. Oppius in person and the affairs of L. Egnatius, my closest friend, in his absence. So great is my intimacy and friendship with him that, if it were my own affair, I should not labour more. Therefore you will do me the most pleasing thing, if you see to it that he understands that I am loved by you as much as I myself believe. Nothing can you do more pleasing to me, and I beg you earnestly to do this.",
+      "notes": null
+    }
+  ]
+}

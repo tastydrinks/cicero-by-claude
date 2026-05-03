@@ -8,10 +8,18 @@ are wrapped in \\begin{ciceroletter}.
 
 Works without a translation file are skipped silently unless --include-pending
 is passed, in which case a \\ciceropending{id}{title} placeholder is emitted.
+
+Build profiles
+--------------
+Pass ``--profile {reading,study,scholar}`` to also regenerate the backmatter
+apparatus (delegated to scripts/generate_backmatter.py). See
+build/PROFILES.md for the profile descriptions. Default profile is
+``reading`` (no generated apparatus).
 """
 from __future__ import annotations
 
 import argparse
+import subprocess
 import sys
 from pathlib import Path
 
@@ -102,6 +110,14 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="Emit placeholder entries for works without a translation file.",
     )
+    parser.add_argument(
+        "--profile",
+        choices=("reading", "study", "scholar"),
+        default="reading",
+        help="Build profile. reading=clean text only; study=+glossary, "
+             "Greek catalogue, letter network; scholar=+crossrefs, "
+             "allusions, translator's notes. See build/PROFILES.md.",
+    )
     args = parser.parse_args(argv)
 
     if not WORKS_YAML.exists():
@@ -134,6 +150,20 @@ def main(argv: list[str] | None = None) -> int:
         + (f", {pending} pending placeholder(s)" if args.include_pending else "")
         + f" of {len(works)} total"
     )
+
+    # Delegate backmatter generation to generate_backmatter.py for any
+    # profile (reading produces an empty file, which is fine).
+    gen_script = Path(__file__).parent / "generate_backmatter.py"
+    if gen_script.exists():
+        rc = subprocess.call(
+            [sys.executable, str(gen_script), "--profile", args.profile]
+        )
+        if rc != 0:
+            sys.stderr.write(
+                f"warning: generate_backmatter.py exited {rc}; "
+                f"backmatter may be stale\n"
+            )
+
     return 0
 
 

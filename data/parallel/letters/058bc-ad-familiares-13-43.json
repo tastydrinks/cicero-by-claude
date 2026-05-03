@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-43",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.43",
+  "title_english": "Ad Familiares 13.43",
+  "date": "-0059-12-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi plurimis rebus spero fore ut perspiciam, quod tamen iam pridem perspicio, me a te amari, tamen ea causa tibi datur, in qua facile declarare possis tuam erga me benevolentiam. L. Oppius M. f. Philomeli negotiatur, homo mihi familiaris. Eum tibi unice commendo eoque magis, quod cum ipsum diligo, tum quod negotia procurat L. Egnati Rufi, quo ego uno equite R. familiarissime utor et qui cum consuetudine cotidiana tum officiis plurimis maximisque mihi coniunctus est.",
+      "eng": "Although in many ways I hope to perceive what I have indeed long perceived --- that I am loved by you --- yet a cause is now offered to you in which you can easily declare your good will towards me. L. Oppius, son of Marcus, does business at Philomelium, a man on close terms with me. I commend him to you most particularly --- and the more so because, while I esteem him in himself, he also has charge of the affairs of L. Egnatius Rufus, the one Roman knight with whom I am most closely connected, and who is bound to me both by daily intimacy and by very many and very great services.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Oppium igitur praesentem ut diligas, Egnati absentis rem ut tueare aeque a te peto ac si mea negotia essent. velim memoriae tuae causa des litterarum aliquid, quae tibi in provincia reddantur, sed ita conscribas, ut tum, cum eas leges, facile recordari possis huius meae commendationis diligentiam. hoc te vehementer etiam atque etiam rogo.",
+      "eng": "I ask you, therefore, that you esteem Oppius in person and look after the affairs of Egnatius in his absence on the same footing as if my own were at stake. I should be glad if, for memory's sake, you would write yourself something in a letter, to be delivered to you in your province, and write it so that, when you read it, you may easily recall the careful weight of this commendation of mine. This I beg of you again and yet again.",
+      "notes": null
+    }
+  ]
+}

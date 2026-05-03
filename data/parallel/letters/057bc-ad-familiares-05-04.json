@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-04",
+  "category": "letters",
+  "title_latin": "Ad Familiares 5.4",
+  "title_english": "Ad Familiares 5.4",
+  "date": "-0057-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Litterae Quinti fratris et T. Pomponi, necessarii mei, tantum spei dederant, ut in te non minus auxili quam in tuo conlega mihi constitutum fuerit. itaque ad te litteras statim misi, per quas, ut fortuna postulabat, et gratias tibi egi et de reliquo tempore auxilium petii. postea mihi non tam meorum litterae quam sermones eorum, qui hac iter faciebant, animum tuum immutatum significabant; quae res fecit ut tibi litteris obstrepere non auderem.",
+      "eng": "The letters of my brother Quintus and of T. Pomponius, my close friend, had given me so much hope that I had reckoned on no less help from you than from your colleague. And so I sent a letter to you at once, in which, as fortune required, I both gave you thanks and asked your help for the time still to come. Afterwards it was less the letters of my own people than the talk of those who were making the journey through this part that signalled to me your mind had been changed; this kept me from daring to break in on you with letters.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nunc mihi Quintus frater meus mitissimam tuam orationem, quam in senatu habuisses, perscripsit; qua inductus ad te scribere sum conatus et abs te, quantum tua fert voluntas, peto quaesoque, ut tuos mecum serves potius quam propter adrogantem crudelitatem tuorum me oppugnes. tu , tuas inimicitias ut rei p. donares, te vicisti, alienas ut contra rem p. confirmes, adduceris? quod si mihi tua clementia opem tuleris, omnibus in rebus me fore in tua potestate tibi confirmo. si mihi neque magistratum neque senatum neque populum auxiliari propter eam vim, quae me cum re p. vicit, licuerit, vide ne, cum velis revocare tempus omnium servandorum, cum qui servetur non erit, non possis.",
+      "eng": "Now my brother Quintus has written out to me the gentle speech you delivered in the Senate, drawn on by which I have ventured to write to you. I ask and entreat you, so far as your good will carries you, to keep your own people on my side rather than oppose me out of the high-handed cruelty of yours. You conquered yourself in giving up your own enmities to the commonwealth: are you to be drawn into confirming other men's enmities against the commonwealth? If by your clemency you bring me help, I assure you that in everything I shall be at your bidding. If I am not allowed the help of magistrate, or Senate, or people on account of that violence which conquered me along with the commonwealth --- take care, when you wish to call back the time of saving everyone, lest, with no man left to be saved, you cannot.",
+      "notes": null
+    }
+  ]
+}

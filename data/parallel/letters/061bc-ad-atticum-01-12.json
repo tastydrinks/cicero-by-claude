@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-12",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.12",
+  "title_english": "Ad Atticum 1.12",
+  "date": "-0061-01-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Teucris illa lentum sane negotium, neque Cornelius ad Terentiam postea rediit. opinor ad Considium, Axium, Selicium confugiendum est; nam a Caecilio propinqui minore centesimis nummum movere non possunt. sed ut ad prima illa redeam, nihil ego illa impudentius, astutius, lentius vidi. libertum mitto, Tito mandavi. σκήψεισ atque ἀναβολαί ; sed nescio an ταὐτόματον . nam mihi Pompeiani prodromi nuntiant aperte Pompeium acturum Antonio succedi, oportere eodemque tempore aget praetor ad populum. res eius modi est ut ego nec per bonorum nec per popularem existimationem honeste possim hominem defendere, nec mihi libeat, quod vel maximum est. etenim accidit hoc, quod totum cuius modi sit mando tibi ut perspicias.",
+      "eng": "That Teucris affair is quite a slow business, and Cornelius did not come back to Terentia afterwards. I think we shall have to flee to Considius, Axius, Selicius; for from Caecilius our connections cannot raise a sesterce at less than twelve percent. But to come back to that first matter, I have seen nothing more impudent, more cunning, more dilatory than that woman. I send a freedman, I have commissioned Titus. Pretexts [Greek: sk\\=epseis] and put-offs [Greek: anabolai] --- but I do not know whether it is mere chance [Greek: tautomaton]. For Pompey's advance-runners are openly announcing that Pompey will move to have Antonius succeeded; and at the same time the praetor will move to the people. The case is of such a kind that I cannot, by either the good men's or the popular party's reputation, honourably defend the man, nor do I wish to --- which is the chief thing. For something has happened of which the whole I commission to you to look into.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "libertum ego habeo sane nequam hominem, Hilarum dico, ratiocinatorem et clientem tuum. de eo mihi Valerius interpres nuntiat Thyillusque se audisse scribit haec, esse hominem cum Antonio; Antonium porro in cogendis pecuniis dictitare partem mihi quaeri et a me custodem communis quaestus libertum esse missum. non sum mediocriter commotus neque tamen credidi, sed certe aliquid sermonis fuit. totum investiga, cognosce, perspice et nebulonem illum, si quo pacto potes, ex istis locis amove. huius sermonis Valerius auctorem Cn. Plancium nominabat. mando tibi plane totum ut videas cuius modi sit.",
+      "eng": "I have a freedman, a sad rascal of a fellow, I mean Hilarus, the accountant and a client of yours. About him Valerius the interpreter informs me, and Thyillus writes that he has heard, this: that the man is with Antonius; that Antonius further keeps saying, in collecting his money, that a share is being sought for me, and that the freedman has been sent by me as guardian of our common gain. I am not slightly disturbed, nor yet have I believed it; but certainly there was some such talk. Investigate the whole, learn, look into it, and that scoundrel, if you can in any way, remove him from those parts. Valerius named Cn. Plancius as the source of this talk. I commission you simply with the whole, that you may see of what kind it is.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Pompeium nobis amicissimum constat esse. divortium Muciae vehementer probatur. P. Clodium Appi f., credo te audisse cum veste muliebri deprehensum domi C. Caesaris cum pro populo fieret, eumque per manus servulae servatum et eductum; rem esse insigni infamia. quod te moleste ferre certo scio.",
+      "eng": "Pompey is, all are agreed, most friendly to us. Mucia's divorce is vehemently approved. As for Publius Clodius son of Appius, I take it you have heard he was caught in women's dress at Gaius Caesar's house when the rite pro populo was being held, and was saved and led out through the hands of a maidservant; the matter is of marked notoriety. That you bear this with grief, I am sure.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quid praeterea ad te scribam non habeo, et me hercule eram in scribendo conturbatior. nam puer festivus anagnostes noster Sositheus decesserat meque plus quam servi mors debere videbatur commoverat. tu velim saepe ad nos scribas. si rem nullam habebis, quod in buccam venerit scribito. Kal. Ianuariis M. Messalla, M. Pisone coss.",
+      "eng": "I have nothing else to write to you; and indeed, by Hercules, I was in writing the more disturbed. For a delightful boy, our reader Sositheus, had died, and had moved me more than a slave's death seemed to call for. Please write to me often. If you have no news, write whatever first comes to mind. The Kalends of January, in the consulship of Marcus Messalla and Marcus Piso.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-15",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.15",
+  "title_english": "Ad Atticum 2.15",
+  "date": "-0059-04-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ut scribis ita video non minus incerta in re publica quam in epistula tua, sed tamen ista ipsa me varietas sermonum opinionumque delectat. Romae enim videor esse cum tuas litteras lego et, ut fit in tantis rebus, modo hoc modo illud audire. illud tamen explicare non possum quidnam inveniri possit nullo recusante ad facultatem agrariam.",
+      "eng": "As you write, so I see: things are no less uncertain in the commonwealth than in your letter; but yet that very variety of talks and opinions delights me. For I seem to be at Rome when I read your letters, and (as happens in such great matters) to hear now this, now that. Yet I cannot make this out: what could be devised, with no one resisting, to make a fund for agrarian distribution.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Bibuli autem ista magnitudo animi in comitiorum dilatione quid habet nisi ipsius iudicium sine ulla correctione rei publicae? nimirum in Publio spes est. fiat , fiat tribunus pl., si nihil aliud ut eo citius tu ex Epiro revertare; nam ut illo tu careas non video posse fieri, praesertim si mecum aliquid volet disputare. sed id quidem non dubium est quin si quid erit eius modi sis advolaturus. verum ut hoc non sit, tamen, sive ruet sive geret rem publicam, praeclarum spectaculum mihi propono, modo te consessore spectare liceat.",
+      "eng": "What greatness of mind has Bibulus shown in his postponement of the elections, save his own judgment without any correction of the commonwealth? Surely the hope is in Publius. Let it come to pass, let it come to pass that he is made tribune of the plebs --- if for nothing else, that you may the sooner come back from Epirus. For I do not see how it can come about that you are away from him, especially if he wishes to dispute anything with me. But there is no doubt that, if there be anything of the kind, you will fly to us. But even though that may not be, yet, whether he ruins the commonwealth or runs it, I set before me a splendid spectacle --- if only it be permitted me to watch with you in the next seat.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "cum haec maxime scriberem, ecce tibi Sebosus! nondum plane ingemueram, salve inquit Arrius. hoc est Roma decedere! quos ego homines effugi cum in hos incidi! ego vero in montis patrios et ad incunabula nostra pergam. denique si solus non potuero, cum rusticis potius quam cum his perurbanis, ita tamen ut, quoniam tu certi nihil scribis, in Formiano tibi praestoler usque ad iii Nonas Maias.",
+      "eng": "As I was just writing this --- behold Sebosus! I had not yet quite groaned aloud when ``Greetings,'' says Arrius. This is leaving Rome! What men I have escaped, when I have run into these! Indeed I shall hasten to my native mountains and to our cradle. In short, if I cannot do so alone, sooner with country-folk than with these urbanites --- yet so that, since you are writing nothing certain, I shall wait for you at the Formian villa up to the third day before the Nones of May.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Terentiae pergrata est adsiduitas tua et diligentia in controversia Mulviana. nescit omnino te communem causam defendere eorum qui agros publicos possideant; sed tamen tu aliquid publicanis pendis, haec etiam id recusat. ea tibi igitur et Κικέρων, , salutem dicunt.",
+      "eng": "Terentia is most pleased by your assiduity and diligence in the Mulvian quarrel. She does not realize that you are defending the common case of those who hold public lands; but yet, while you pay something to the publicans, she refuses even that. So she, ``and little Cicero,'' send greetings to you.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-27",
+  "category": "letters",
+  "title_latin": "Ad Atticum 3.27",
+  "title_english": "Ad Atticum 3.27",
+  "date": "-0057-01-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ex tuis litteris et ex re ipsa nos funditus perisse video. te oro ut quibus in rebus tui mei indigebunt nostris miseriis ne desis. ego te, ut scribis, cito videbo.",
+      "eng": "From your letter, and from the matter itself, I see that we are utterly destroyed. I beg you that, in whatever matters my people will need yours, you not fail us in our miseries. I shall, as you write, see you soon.",
+      "notes": null
+    }
+  ]
+}

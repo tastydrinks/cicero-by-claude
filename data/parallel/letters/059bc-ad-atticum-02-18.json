@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-18",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.18",
+  "title_english": "Ad Atticum 2.18",
+  "date": "-0059-07-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "accepi aliquot epistulas tuas, ex quibus intellexi quam suspenso animo et sollicito scire averes quid esset novi. tenemur undique neque iam quo minus serviamus recusamus, sed mortem et eiectionem quasi maiora timemus, quae multo sunt minora. atque hic status qui nunc est una voce omnium gemitur neque verbo cuiusquam sublevatur. σκοπὸσ est, ut suspicor, illis qui tenent, nullam cuiquam largitionem relinquere. unus loquitur et palam adversatur adulescens Curio. huic plausus maximi, consalutatio forensis perhonorifica, signa praeterea benevolentiae permulta a bonis impertiuntur. Fufium clamoribus et conviciis et sibilis consectantur. his ex rebus non spes, sed dolor est maior cum videas civitatis voluntatem solutam, virtutem adligatam.",
+      "eng": "I have received several of your letters, from which I have understood with what an anxious and worried mind you were eager to know what was new. We are held on every side, and we no longer refuse to be slaves; what we fear, as if they were greater things, are death and exile, which are far less. And this present condition is groaned at with one voice by all, and is lifted up by no one's word. The aim, I suspect, of those in power is to leave room for no man's largesse. One alone speaks out and openly opposes them: young Curio. To him are given the loudest applause, the most respectful greeting in the Forum, and many other signs of goodwill from good men. Fufius they pursue with shouting, abuse, and hisses. From these things comes not hope, but greater grief, when you see the will of the citizenry let loose and its courage in chains.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ac ne forte quaeras κατὰ λεπτὸν de singulis rebus, universa res eo est deducta spes ut nulla sit aliquando non modo privatos verum etiam magistratus liberos fore. hac tamen in oppressione sermo in circulis dumtaxat et in conviviis est liberior quam fuit. vincere incipit timorem dolor, sed ita ut omnia sint plenissima desperationis. habet etiam Campana lex exsecrationem in contione candidatorum, si mentionem fecerint quo aliter ager possideatur atque ut ex legibus Iuliis. non dubitant iurare ceteri; Laterensis existimatur laute fecisse quod tribunatum pl. petere destitit ne iuraret.",
+      "eng": "And so that you may not by chance ask me [Greek: in detail] about particular things, the whole matter has been brought to this pass: that there is no longer any hope that not only private men but even magistrates will be free. Yet within this oppression the talk in social circles --- only at dinner-parties --- is freer than it was. Grief is beginning to overcome fear, but in such a way that all is in the deepest despair. The Campanian law even has a curse for the candidates in their public meeting, if they make any mention that the land should be possessed otherwise than by the Julian laws. The rest do not hesitate to swear it; Laterensis is thought to have done handsomely in giving up the candidacy for the tribunate of the plebs to avoid swearing.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed de re publica non libet plura scribere. displiceo mihi nec sine summo scribo dolore. me tueor ut oppressis omnibus non demisse, ut tantis rebus gestis parum fortiter. a Caesare valde liberaliter invitor in legationem illam, sibi ut sim legatus, atque etiam libera legatio voti causa datur. sed haec et praesidi apud pudorem Pulchelli non habet satis et a fratris adventu me ablegat, illa et munitior est et non impedit quo minus adsim quom velim. hanc ego teneo sed usurum me non puto, neque tamen scit quisquam. non lubet fugere, aveo pugnare. magna sunt hominum studia. sed nihil adfirmo; tu hoc silebis.",
+      "eng": "But about the commonwealth I do not care to write more. I am displeased with myself, nor do I write without the deepest pain. I bear myself --- since all are crushed --- not abjectly; given the greatness of what I have done, with too little courage. By Caesar I am very generously invited into that legation: to be his legate; and also a free legation [for vow's sake] is offered me. But the latter has no real protection against the shame of little Pulcher, and would put me away at the time of my brother's return; the former is more fortified and does not prevent my being on the spot when I wish. This I am holding on to, but I do not think I shall use it; nor does anyone else know of it. I do not wish to flee; I am eager to fight. Men's enthusiasm for me is great. But I assert nothing; you will keep silent on this.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de Statio manu misso et non nullis aliis rebus angor equidem, sed iam prorsus occallui. tu vellem ego vel cuperem adesses; nec mihi consilium nec consolatio deesset. sed ita te para ut, si inclamaro, advoles.",
+      "eng": "About Statius's being manumitted, and certain other matters, I am indeed troubled, but by now I have grown wholly callous. I should wish, indeed I should crave, that you were here; I should lack neither counsel nor consolation. But hold yourself in such readiness that, if I cry out, you fly to me.",
+      "notes": null
+    }
+  ]
+}

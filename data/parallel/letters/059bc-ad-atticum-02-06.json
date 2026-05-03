@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-06",
+  "category": "letters",
+  "title_latin": "Ad Atticum 2.6",
+  "title_english": "Ad Atticum 2.6",
+  "date": "-0059-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quod tibi superioribus litteris promiseram, fore ut opus exstaret huius peregrinationis, nihil iam magno opere confirmo; sic enim sum complexus otium ut ab eo divelli non queam. itaque aut libris me delecto, quorum habeo Anti festivam copiam, aut fluctus numero (nam ad lacertas captandas tempestates non sunt idoneae); a scribendo prorsus abhorret animus. etenim γεωγραφικὰ quae constitueram magnum opus est. ita valde Eratosthenes, quem mihi proposueram, a Serapione et ab Hipparcho reprehenditur. quid censes si Tyrannio accesserit? et hercule sunt res difficiles ad explicandum et ὁμοειδεῖσ nec tam possunt ἀνθηρογραφεῖσθαι quam videbantur et, quod caput est, mihi quaevis satis iusta causa cessandi est qui etiam dubitem an hic Anti considam et hoc tempus omne consumam, ubi quidem ego mallem duumvirum quam Romae fuisse.",
+      "eng": "What I had promised you in my last letter --- that some product of this travel of mine should remain --- I no longer greatly affirm. For I have so embraced leisure that I cannot be torn from it. So either I delight myself with books, of which I have at Antium a festive supply, or I count the waves (for the weather is not fit for fishing for mackerel); from writing my mind utterly recoils. For the geographical work [Greek: ge\\=ographika] which I had set up is a great labour. Eratosthenes, whom I had set before me, is greatly rebuked by Serapion and Hipparchus. What do you think if Tyrannio shall come in too? And by Hercules these matters are hard to set out and of one kind [Greek: homoeideis] and cannot be flowered with style [Greek: anth\\=erographeisthai] as much as they seemed; and (the head of the matter) any reasonably-just cause is enough for me to leave off, since I am even doubting whether to settle here at Antium and spend all this time --- where indeed I should rather be a duumvir than to have been at Rome.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu vero sapientior Buthroti domum parasti. sed , mihi crede, proxima est illi municipio haec Antiatium civitas. esse locum tam prope Romam ubi multi sint qui Vatinium numquam viderint, ubi nemo sit praeter me qui quemquam ex viginti viris vivum et salvum velit, ubi me interpellet nemo, diligant omnes! hic , hic nimirum πολιτευτέον ; nam istic non solum non licet sed etiam taedet. itaque ἀνέκδοτα quae tibi uni legamus Theopompio genere aut etiam asperiore multo pangentur. neque aliud iam quicquam πολιτεύομαι nisi odisse improbos et id ipsum nullo cum stomacho sed potius cum aliqua scribendi voluptate. sed ut ad rem, scripsi ad quaestores urbanos de Quinti fratris negotio. vide quid narrent, ecquae spes sit denari an cistophoro Pompeiano iaceamus. praeterea de muro statue quid faciendum sit. aliud quid? etiam . quando te proficisci istinc putes fac ut sciam.",
+      "eng": "You, indeed, have been wiser in setting up your house at Buthrotum. But, believe me, this Antian state is closest to your country town. To have a place so near Rome where there are many who have never seen Vatinius, where there is no one but me who would wish any of the twenty-men alive and well, where no one interrupts me, where all are fond of me! Here, here we must conduct our public life [Greek: politeuteon]; for there it is not only not permitted but even repugnant. So secret pamphlets [Greek: anekdota], to be read to you alone, will be put together in the Theopompian style or even in something far harsher. Nor is there any other public affair I have any more, except to hate the wicked, and that itself with no anger but rather with some pleasure of writing. But to come to the matter: I have written to the urban quaestors about my brother Quintus's business. See what they say --- whether there is any hope of denarii, or we are to lie in the Pompeian cistophorus. Besides, settle what is to be done about the wall. What else? Yes: when you think you will set out from there, see that I know.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-10",
+  "category": "letters",
+  "title_latin": "Ad Atticum 1.10",
+  "title_english": "Ad Atticum 1.10",
+  "date": "-0067-03-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum essem in Tusculano (erit hoc tibi pro illo tuo: cum essem in Ceramico ) verum tamen cum ibi essem, Roma puer a sorore tua missus epistulam mihi abs te adlatam dedit nuntiavitque eo ipso die post meridiem iturum eum qui ad te proficisceretur. eo factum est ut epistulae tuae rescriberem aliquid, brevitate temporis tam pauca cogerer scribere.",
+      "eng": "I was at the Tusculan villa --- this for you in return for your ``I was in the Ceramicus'' --- but, while I was there, a slave-boy from your sister at Rome brought me a letter from you, and announced that on that very day after noon a man would be setting out for you. That is why I am writing back to your letter at all, and why for shortness of time I am compelled to write so little.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "primum tibi de nostro amico placando aut etiam plane restituendo polliceor. quod ego etsi mea sponte ante faciebam, eo nunc tamen et agam studiosius et contendam ab illo vehementius, quod tantam ex epistula voluntatem eius rei tuam perspicere videor. hoc te intellegere volo, pergraviter illum esse offensum; sed quia nullam video gravem subesse causam, magno opere confido illum fore in officio et in nostra potestate.",
+      "eng": "First I promise you, regarding the appeasement, or even the full restoration, of our friend. Although I was doing this on my own initiative before, I shall now press it the more zealously and contend with him the more vehemently, since I seem to make out from your letter how much you wish it. This I want you to understand: he is most gravely offended; but, since I see no grave cause underneath, I have great confidence that he will return to his duty and to our influence.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "signa nostra et Hermeraclas, ut scribis, cum commodissime poteris velim imponas, et si quod aliud οἰκεῖον eius loci quem non ignoras reperies et maxime quae tibi palaestrae gymnasique videbuntur esse. etenim ibi sedens haec ad te scribebam ut me locus ipse admoneret. praeterea typos tibi mando quos in tectorio atrioli possim includere et putealia sigillata duo.",
+      "eng": "Our statues and the Hermathenae, as you write, please ship --- when you can most conveniently --- and anything else [Greek: oikeion], ``proper to the place,'' you may find that suits the place you do not fail to know, especially what will seem to you fitting for a wrestling-school and a gymnasium. As I sit there, indeed, I was writing this to you, so that the place itself reminded me. Further, I commission you for some relief panels that I may set into the stucco of my little atrium, and two figured well-heads.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "bibliothecam tuam cave cuiquam despondeas, quamvis acrem amatorem inveneris; nam ego omnis meas vindemiolas eo reservo ut illud subsidium senectuti parem.",
+      "eng": "As for your library, see that you do not promise it to anyone, however passionate a lover you may have found. For I am keeping all my little vintage proceeds for that, that I may make of it a support for old age.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "de fratre confido ita esse ut semper volui et elaboravi. multa signa sunt eius rei, non minimum quod soror praegnas est.",
+      "eng": "About my brother I trust that things are as I have always wished and worked for. There are many signs of it, not least that his wife is pregnant.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "de comitiis meis et tibi me permisisse memini et ego iam pridem hoc communibus amicis qui te exspectant praedico, te non modo non arcessi a me sed prohiberi, quod intellegam multo magis interesse tua te agere quod agendum est hoc tempore quam mea te adesse comitiis. proinde eo animo te velim esse quasi mei negoti causa in ista loca missus esses; me autem eum et offendes erga te et audies quasi mihi si quae parta erunt non modo te praesente sed per te parta sint. Tulliola tibi diem dat, sponsorem me appellat.",
+      "eng": "About my elections, I remember having left it to you, and I have long since told our common friends, who are looking out for you, that you are not only not being summoned by me but actually being kept away --- because I understand that it matters far more for you to do what must be done at this moment, than for me that you should be present at the elections. So please be of the spirit that you had been sent to those parts on my own business; for me, however, you will both find me, and hear me, in such relation toward you as if any results gained will have been gained not only with you present but through you. Tullia is summoning you to court, and calls me as guarantor.",
+      "notes": null
+    }
+  ]
+}

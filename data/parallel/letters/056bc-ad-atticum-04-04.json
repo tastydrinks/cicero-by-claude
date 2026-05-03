@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-04",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.4",
+  "title_english": "Ad Atticum 4.4",
+  "date": "-0056-01-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "periucundus mihi Cincius fuit ante diem iii Kal. Febr. ante lucem; dixit enim mihi te esse in Italia seseque ad te pueros mittere. quos sine meis litteris ire nolui, non quo haberem quod tibi, praesertim iam prope praesenti, scriberem sed ut hoc ipsum significarem, mihi tuum adventum suavissimum exspectatissimumque esse. qua re advola ad nos eo animo ut nos ames, te amari scias. cetera coram agemus. haec properantes scripsimus. quo die venies, utique cum tuis apud me sis.",
+      "eng": "Cincius gave me very pleasant news on the third day before the Kalends of February before dawn: he told me that you are in Italy and that he is sending boys to you. I have not wanted them to go without a letter from me --- not because I had anything to write to you (especially when you are by now almost in person) but to convey just this much, that your arrival is most welcome and most longed for to me. So fly to us, and in the spirit that, while you love us, you may know yourself loved. The rest we shall settle face to face. This I have written in haste. On whatever day you come, please be at my house with your people.",
+      "notes": null
+    }
+  ]
+}
