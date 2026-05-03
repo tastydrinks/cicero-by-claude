@@ -149,6 +149,45 @@ by date in `meta/works.yaml`. The next pending work is whatever
 pending work is dated earlier than the latest drafted work; trust
 the warning, fix the dating or translate the work.
 
+## Parallel sessions: explicit assignments override chronology
+
+The chronology rule is the **single-agent default**. When several
+sessions run in parallel, an explicit work-id list in the launch
+prompt **overrides** the chronology rule for that session. The
+agent translates the assigned works in the order given, and ignores
+the chronologically-next-pending output of `session_start.sh`.
+
+Example launch prompt:
+
+```
+Translate these works in order: in-vatinium, ad-familiares-01-06,
+pro-caelio (skip if drafted), ad-quintum-fratrem-02-05.
+```
+
+Rules:
+
+- If the launch prompt names specific work IDs, those are the
+  session's scope. Do not pick up other works "because the chronology
+  pointer suggests them."
+- Skip any assigned id whose `status` in `meta/works.yaml` is already
+  drafted, reviewed, or final. (Another agent may have finished it
+  before this session started, or in parallel.)
+- If no work IDs are named in the launch prompt, fall back to the
+  chronology rule and translate the chronologically-next pending
+  work, as in single-agent mode.
+- Update `PROGRESS.md` only for works this session actually drafted.
+  When merging conflicts on `PROGRESS.md`, prefer additive merges
+  (keep both sessions' entries); the file is documentary, not
+  authoritative.
+
+The corpus-wide sidecar files (`data/greek-phrases.json`,
+`data/letter-network.json`, `data/entities.json`,
+`data/translator-notes.jsonl`) are append-targets that may see
+concurrent writes. If git refuses a fast-forward push at session end
+because main has moved, rebase the session branch onto the new main
+and re-run `session_end.sh`. The work is on the session branch
+either way; nothing is lost.
+
 ## Translation conventions
 
 Beyond `STYLE.md`:
