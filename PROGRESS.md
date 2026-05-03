@@ -7,6 +7,7 @@ as milestones are reached.
 ## Status summary
 
 - **Drafted**: 153 works end-to-end across all categories.
+- **Drafted**: 147 works end-to-end across all categories.
   - **Speeches (30)**: *Pro Quinctio* (81 BC), *Pro Roscio
     Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
     *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
