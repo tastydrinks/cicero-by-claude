@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-3",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "Lucius Crassus",
+      "entity_id": "person:l-licinius-crassus",
+      "note": "L. Licinius Crassus the orator (cos 95, cens 92 BC); in his youth, prosecuted Gaius Carbo (cos 120 BC) and convicted him in 119 BC. The anecdote of his subsequent regret --- because he reckoned the prosecutor lives henceforth under stricter watch than other men --- is the framing self-discipline of Book III."
+    },
+    {
+      "loc": "12",
+      "anchor": "stipendiary",
+      "entity_id": null,
+      "note": "stipendiarius: a province paying a fixed annual tribute, as Spain and most of Africa. Sicily, by contrast, kept its pre-Roman tithe-system under the lex Hieronica."
+    },
+    {
+      "loc": "14",
+      "anchor": "Hieronic law",
+      "entity_id": "law:lex-hieronica",
+      "note": "King Hieron II of Syracuse's grain-tithe law (3rd century BC), kept by Rome on annexation as the working regulation of its tithe-collection in Sicily. Verres's edicts replaced it in three years of practice."
+    },
+    {
+      "loc": "22",
+      "anchor": "Quintus Apronius",
+      "entity_id": "person:apronius",
+      "note": "The chief tithe-collector under Verres in Sicily; Cicero calls him \"a second Verres,\" the praetor's bagman, dancing naked at his banquets while the farmers were beaten in the Aetnan forum."
+    },
+    {
+      "loc": "23",
+      "anchor": "praetor's son in the praetexta reclining beside him",
+      "entity_id": null,
+      "note": "Verres took his son (still in the toga praetexta of childhood) to Sicily and to Apronius's banquets; the detail is the moral hinge of the Verrines' picture of the family corruption (cf. 159-162)."
+    },
+    {
+      "loc": "27",
+      "anchor": "publican",
+      "entity_id": null,
+      "note": "publicanus: a member of the equestrian-rank companies that contracted for the public revenues. The standing rule was that the publican was a claimant (petitor), not a taker by hand: he sought the tithe by suit, not by force. Verres reversed this rule by edict."
+    },
+    {
+      "loc": "47",
+      "anchor": "the field itself longing for its tiller",
+      "entity_id": null,
+      "note": "Cicero's most-quoted phrase from Book III. He had ridden the great Sicilian plains in 70 BC for the inquiry, four years after Verres had left, and saw the deserted fields directly."
+    },
+    {
+      "loc": "57",
+      "anchor": "wild olive ... a tree in the forum at Aetna",
+      "entity_id": null,
+      "note": "An ancient sacred wild olive in the forum of the Sicilian town of Aetna, known to Cicero's audience; Apronius hung Nymphodorus on it as a punishment for refusing the over-assessment. The image is fixed in the rhetoric: the symbol of the place's old freedoms made the gallows of Apronius's tyranny."
+    },
+    {
+      "loc": "62",
+      "anchor": "ninety years old in Apronius's banquet",
+      "entity_id": "person:q-lollius-eques",
+      "note": "Q. Lollius, an esteemed Roman knight; Cicero met him after his ordeal and heard the story directly. His son Q. Lollius the younger had earlier prosecuted Calidius and was killed on his way to Sicily, ostensibly by runaway slaves, in fact (Cicero says) by Verres's agents."
+    },
+    {
+      "loc": "76",
+      "anchor": "this city for the woman's headband, this for her necklace",
+      "entity_id": null,
+      "note": "The Persian-Syrian custom of assigning whole cities as revenue for the queen's particular ornament; cited by Cicero as the closest analogy for Verres's making the Herbitan tithes the apportioned revenue of Pipa, the wife of Aeschrio."
+    },
+    {
+      "loc": "78",
+      "anchor": "Tertia, daughter of Isidorus the mime",
+      "entity_id": "person:tertia-mima",
+      "note": "Verres carried Tertia off by force from a Rhodian flute-player; she controlled the praetorship from his bed, second only to Chelidon at Rome. The Herbitan barley tithes were the apportioned revenue of her household."
+    },
+    {
+      "loc": "81",
+      "anchor": "Lucius Sulla ... taking off the principal",
+      "entity_id": null,
+      "note": "Sulla had remitted, from his proscription-sale balances, certain sums in favour of his bidders; the Senate later required these to be refunded. Cicero's a fortiori: the Senate, which gave Sulla discretion in everything, drew the line at lessening the public balance --- and Verres dares to do exactly that."
+    },
+    {
+      "loc": "117",
+      "anchor": "tithes sold by Gaius Norbanus",
+      "entity_id": "person:c-norbanus-cos83",
+      "note": "C. Norbanus, praetor of Sicily c. 89 BC, sold the tithes by the Hieronic law for substantial sums. Cicero's appeal: Norbanus was no friend of his (a Marian cos 83), but his tithes raised more than Verres's plundering. Verres's claim of \"selling for a great sum\" doesn't even hold against Norbanus's record."
+    },
+    {
+      "loc": "120",
+      "anchor": "84 farmers ... 32",
+      "entity_id": null,
+      "note": "Cicero's demographic-ruin numbers, drawn from the public records of each city. The figures (Leontine: 84 → 32; Mutycensian: 187 → 86; Herbitan: 252 → 120; Agyrine: 250 → 80) are the empirical basis of the demographic charge."
+    },
+    {
+      "loc": "129",
+      "anchor": "men ... took their own lives",
+      "entity_id": null,
+      "note": "The suicides under Verres's tithe regime: Diocles of Centuripa hanged himself the day Apronius bought his field's tithes; Tyracinus did the same. Archonidas of Helorus survived to testify."
+    },
+    {
+      "loc": "152",
+      "anchor": "Octavian formula",
+      "entity_id": null,
+      "note": "The praetorian formula \"for what he had carried off by force or fear\" (quod metus causa abstulisses), introduced by Cn. Octavius (cos 76 BC). Metellus had had the formula at Rome; Sicilian convention now expected it. He refused to use it against Apronius."
+    },
+    {
+      "loc": "163",
+      "anchor": "Terentian-Cassian grain-law",
+      "entity_id": "law:lex-terentia-cassia",
+      "note": "73 BC, M. Terentius Varro Lucullus and C. Cassius Longinus, consuls. The law set up the system of senatorial grain-purchases from Sicily on top of the tithes: 800,000 modii at 3 1/2 sesterces a modius, with the second tithes at 3 sesterces."
+    },
+    {
+      "loc": "181",
+      "anchor": "wax-fee",
+      "entity_id": null,
+      "note": "cerarium: a fictive deduction Verres entered against the public payments, ostensibly for wax used in sealing receipts. Cicero treats it as a paid-in-name-only cover for embezzlement."
+    },
+    {
+      "loc": "185",
+      "anchor": "trappings and a torque",
+      "entity_id": null,
+      "note": "phalerae and torquis: the standard military decorations awarded by victorious imperatores to brave soldiers. Verres awarded them to civilian Roman knights in Sicily, with no military pretext --- on Cicero's reading, the civilian inversion of the conqueror's gifts."
+    },
+    {
+      "loc": "188",
+      "anchor": "larder",
+      "entity_id": null,
+      "note": "The cella, the magistrate's grain-allowance for his table during the year of office. The senate had assessed the modius at 4 sesterces for wheat, 2 for barley; Verres added the barley count to the wheat total and assessed at 3 denarii (12 sesterces) per modius, against an actual market price of 2-3 sesterces."
+    },
+    {
+      "loc": "191",
+      "anchor": "Philomelium to Ephesus",
+      "entity_id": null,
+      "note": "Philomelium in Phrygia is several days' march inland from Ephesus on the Asian coast; Cicero gives the comparison as the standard case where assessing-in-cash for the larder makes some sense, in contrast to the Sicilian situation where transport is short and prices are uniform."
+    },
+    {
+      "loc": "195",
+      "anchor": "Lucius Piso Frugi",
+      "entity_id": "person:l-calpurnius-piso-frugi-149",
+      "note": "L. Calpurnius Piso Frugi, tribune 149 BC, brought the lex Calpurnia repetundis: the first standing-court statute on extortion, the seed-law of the very procedure under which Verres now stood trial."
+    },
+    {
+      "loc": "210",
+      "anchor": "Publius Servilius and Quintus Catulus",
+      "entity_id": null,
+      "note": "P. Servilius Vatia Isauricus (cos 79 BC) and Q. Lutatius Catulus (cos 78 BC): the two senior consulares of the 70s, both jurors at the Verres trial; cited as the modern instances of the larder-honour Cicero is contrasting with Verres's larder-plunder."
+    }
+  ]
+}

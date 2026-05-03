@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-3",
+  "refs": [
+    {
+      "from_loc": "20",
+      "to_work": "in-verrem-2-1",
+      "to_loc": "129-150",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Verres's praetorian-edict pattern of new institutions \"for the cause of one man\" (Annian women's-inheritance edict, the temple-of-Castor contract): the same praetor rewriting the Sicilian tithe-system. Book 3 takes the praetorship's fingerprint and lifts it to provincial scale."
+    },
+    {
+      "from_loc": "23",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Apronius's character (the gulf of vices, dancing naked at banquets) summarised at the actio prima; Book 3 unfolds it."
+    },
+    {
+      "from_loc": "41",
+      "to_work": "in-verrem-2-1",
+      "to_loc": "129-154",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"Look at the temple of Castor; then, if you dare, make mention of innocence. Look at the erasures in your codex on Sthenius of Thermae's entry.\" Direct callback to the temple-of-Castor and Sthenius episodes of Books 1-2."
+    },
+    {
+      "from_loc": "85",
+      "to_work": "in-verrem-2-1",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "The Liparenses ransoming themselves from pirates under Verres's praetorship --- a back-reference to the pirate themes of Book 1 (the Lampsacum sea-route)."
+    },
+    {
+      "from_loc": "94",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "medium",
+      "note": "The contrast between equestrian and senatorial juries (\"Before, when the equestrian order judged...\"): a long arc of late-republican judicial politics. Cicero's argument is a charged reminder that the senatorial recovery of the courts (under the Sullan reforms) is on trial in the Verrines."
+    },
+    {
+      "from_loc": "117",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "Comparison of Verres's tithe-prices with C. Norbanus's: a piece of provincial-financial history, with the tithe-price record itself produced as evidence."
+    },
+    {
+      "from_loc": "120",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "Demographic numbers from the public records of the cities: Leontine, Mutycensian, Herbitan, Agyrine fields' farmer counts."
+    },
+    {
+      "from_loc": "129",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Archonidas of Helorus's testimony at the actio prima."
+    },
+    {
+      "from_loc": "146",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "echo",
+      "certainty": "low",
+      "note": "Cicero's barb at \"Alba\" (the gladiator-buffoon broker) marks the contemporary corruption-economy of Roman trials; the figure is local."
+    },
+    {
+      "from_loc": "177",
+      "to_work": "in-verrem-2-1",
+      "to_loc": "34-42",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "The quaestorian and legateship embezzlements summarised at the start of Book 1 are recalled as the precedent for the praetorian thefts; Book 3 calls Cicero's pattern a fourth-act repetition."
+    },
+    {
+      "from_loc": "182",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "Cicero's appeal to his own clerks L. Mamilius and L. Sergius is the ad hominem for the integrity of his own quaestorship at Lilybaeum 75 BC."
+    },
+    {
+      "from_loc": "195",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "L. Piso Frugi's lex Calpurnia repetundis (149 BC) cited as the founding statute of the standing-court system that holds Verres."
+    }
+  ]
+}
