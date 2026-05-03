@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 72
-- pending: 884
+- drafted: 80
+- pending: 876
 
 ## Chronological order
 
@@ -93,16 +93,16 @@ Status:
 | 73 | May 59 BC | letters | Ad Atticum 2.17 | drafted |
 | 74 | 59 BC | letters | Ad Atticum 2.20 | drafted |
 | 75 | 59 BC | speeches | For Lucius Flaccus | drafted |
-| 76 | 15 July 59 BC | letters | Ad Atticum 2.18 | pending |
-| 77 | July 59 BC | letters | Ad Atticum 2.19 | pending |
-| 78 | 25 July 59 BC | letters | Ad Atticum 2.21 | pending |
-| 79 | October 59 BC | letters | Ad Atticum 2.25 | pending |
-| 80 | 18 October 59 BC | letters | Ad Atticum 2.22 | pending |
-| 81 | 18 October 59 BC | letters | Ad Atticum 2.23 | pending |
-| 82 | 18 October 59 BC | letters | Ad Atticum 2.24 | pending |
+| 76 | 15 July 59 BC | letters | Ad Atticum 2.18 | drafted |
+| 77 | July 59 BC | letters | Ad Atticum 2.19 | drafted |
+| 78 | 25 July 59 BC | letters | Ad Atticum 2.21 | drafted |
+| 79 | October 59 BC | letters | Ad Atticum 2.25 | drafted |
+| 80 | 18 October 59 BC | letters | Ad Atticum 2.22 | drafted |
+| 81 | 18 October 59 BC | letters | Ad Atticum 2.23 | drafted |
+| 82 | 18 October 59 BC | letters | Ad Atticum 2.24 | drafted |
 | 83 | 27 October 59 BC | letters | Ad Quintum Fratrem 1.2 | pending |
 | 84 | 58 BC | letters | Ad Familiares 13.44 | pending |
-| 85 | 58 BC | letters | Ad Atticum 3.1 | pending |
+| 85 | 58 BC | letters | Ad Atticum 3.1 | drafted |
 | 86 | 1 March 58 BC | letters | Ad Familiares 14.4 | pending |
 | 87 | 5 April 58 BC | letters | Ad Atticum 3.3 | pending |
 | 88 | 8 April 58 BC | letters | Ad Atticum 3.2 | pending |
