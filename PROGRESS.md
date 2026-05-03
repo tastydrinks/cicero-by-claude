@@ -432,6 +432,55 @@ session can `continue` and apply them without re-asking:
   TP's 2.16 = modern 2.15 already drafted as
   \texttt{ad-quintum-fratrem-02-15}).
 
+- **Seventh continuous session** *(complete; assigned-list)*:
+  five letters of late 55 BC and the first half of 54 BC ---
+  \textit{Att.} 4.13 (Tusculum, mid-November 55 BC, after 17
+  K. Dec.: the brief return-from-the-bay letter on Milo's
+  wedding, the elections, and Crassus's undignified Parthian
+  departure compared with L. Aemilius Paulus's once for
+  Macedon, with the De Oratore now in Cicero's hands and the
+  Greek \textit{tēn parousan} request that Pilia be at home
+  for the visit); \textit{Att.} 4.14 (Cumae, mid-May 54 BC,
+  after 6 Id. Mai.: the request for the run of Atticus's
+  library while the owner is away, ``especially Varro's,''
+  for a work in hand --- almost certainly the De Re Publica);
+  \textit{Q.fr.} 2.9 (Rome, early February 54: the
+  Tenedian-axe pun on the senate's refusal of the Tenedian
+  embassy's plea --- four optimate names voting with Cicero,
+  Bibulus, Calidius, Favonius --- the praise of Quintus by
+  the Magnesians from Sipylum, and the famous Cicero on
+  Lucretius: ``many flashes of genius, yet much craft as
+  well,'' with the closing tease on Cn. Sallustius's
+  Empedoclea); \textit{Fam.} 7.7 (Rome, end of June 54 BC,
+  to Trebatius in Caesar's camp on the eve of the second
+  British expedition: the joke ``no gold or silver in
+  Britain --- grab some war-chariot and run back,'' the more
+  serious advice on becoming one of Caesar's intimates with
+  Balbus's and Quintus's help); and \textit{Q.fr.} 2.13
+  (Rome, 29 May 54: the great Caesar-letter day, with
+  Cicero's pledge ``you are urging on a runner'' and the
+  four-horse chariot of poetry --- ``only give me Britain,
+  that I may paint it with your colours and my own brush''
+  --- Caesar's witty thanks for Trebatius, the tribunate-for-
+  M.-Curtius dance with the consuls Domitius and Appius, and
+  the closing tragic-tag on wretched war's deeds).
+  Sidecars emitted comprehensively (parallel, mentions,
+  glossary, crossrefs, allusions where applicable). Seventeen
+  new entities: persons (Vestorius, Varro, Aemilius Paulus,
+  Bibulus, Calidius, Favonius, L. Sestius Pansa, Lucretius,
+  Cn. Sallustius, Trebatius, L. Cornelius Balbus, M. Curtius,
+  Domitius Ahenobarbus), places (Tenedos, Magnesia ad
+  Sipylum, Britannia), and the lost text (Sallustius's
+  Empedoclea). Four Greek phrases logged
+  (\textit{skylmon}, \textit{oxypeinos}, \textit{tēn
+  parousan}, \textit{toiauth' ho tlēmōn polemos
+  exergazetai}). Seven translator's-notes entries logged for
+  contested renderings (the Att. 4.13 \textit{ut sit rata}
+  and \textit{tēn parousan}, the Lucretius textual crux,
+  the \textit{vir/homo} pun, the British \textit{essedum},
+  the \textit{currentem hortaris} idiom, the \textit{oricula
+  infima} proverb).
+
 ## Where to resume now
 
 A parallel-assignment session drafted ten letters scattered
