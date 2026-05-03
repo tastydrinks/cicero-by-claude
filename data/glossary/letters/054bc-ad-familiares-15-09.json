@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "by Hercules",
+      "entity_id": null,
+      "note": "Cicero's me hercule --- a colloquial Roman asseveration, lit. 'so help me Hercules.' Preserved here in its Roman form rather than flattened to 'truly' or 'indeed.'"
+    },
+    {
+      "loc": "1",
+      "anchor": "posted by you yourself to the ends of the earth",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "M. Marcellus, as consul of 51 BC, presided over the senatorial allocation of provinces under the lex Pompeia of 52, by which a five-year gap was required between magistracy and provincial command. Cicero, having declined the provinces in 63 and 62, was sent out under this rule."
+    },
+    {
+      "loc": "2",
+      "anchor": "what you, with the senate's resolution and by law, have set as my term",
+      "entity_id": "institution:senate",
+      "note": "The lex Pompeia and the consequent senatus consultum fixed the proconsular term at one year. Cicero is anxious already, on the road, that nothing be added to it; the same fear runs through the rest of the Cilician correspondence."
+    },
+    {
+      "loc": "3",
+      "anchor": "Parthians",
+      "entity_id": "place:parthia",
+      "note": "After Carrhae in 53 BC, Parthian raids across the Euphrates into Roman Syria and the kingdoms east of Cilicia were a recurring threat. The discreet line here --- Cicero will not write to a consul about Parthian news, lest the letter be read as official --- is characteristic of the proconsular reserve."
+    }
+  ]
+}

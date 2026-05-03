@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.9",
+  "title_english": "Ad Familiares 15.9",
+  "date": "-0054-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "te et pietatis in tuos et animi in rem p. et clarissimi atque optimi consulatus C. Marcello consule facto fructum cepisse vehementer gaudeo. non dubito quid praesentes sentiant ; nos quidem longinqui et a te ipso missi in ultimas gentis ad caelum me hercule tollimus verissimis ac iustissimis laudibus. nam cum te a pueritia tua unice dilexerim tuque me in omni genere semper amplissimum esse et volueris et iudicaris, tum hoc vel tuo facto vel populi R. de te iudicio multo acrius vehementiusque diligo maximaque laetitia adficior cum ab hominibus prudentissimis virisque optimis omnibus dictis, factis, studiis, institutis vel me tui similem esse audio vel te mei.",
+      "eng": "That from your devotion to your own, your spirit toward the commonwealth, and a most distinguished and most excellent consulship, you have reaped the fruit of having had Gaius Marcellus made consul, gladdens me intensely. I do not doubt what those at home feel; we, far off and posted by you yourself to the ends of the earth, do truly raise you to heaven, by Hercules, with the truest and the justest praises. For, having loved you uniquely from your boyhood, and being --- by your own wish and judgement --- always held by you in the highest standing in every kind of estimation, all the more keenly, all the more vehemently do I now love you, on account of this act of yours and of the verdict of the Roman people upon you; and I am filled with the greatest joy when I hear from the wisest and best of men in all that is said and done, in studies and in habits, that I am like you --- or that you are like me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "unum vero si addis ad praeclarissimas res consulatus tui, ut aut mihi succedat quam primum aliquis aut ne quid accedat temporis ad id quod tu mihi et senatus c. et lege finisti, omnia me per te consecutum putabo. cura ut valeas et me absentem diligas atque defendas.",
+      "eng": "If only you add this one thing to the most splendid achievements of your consulship --- that someone succeed me as soon as possible, or that no time at all be added to what you, with the senate's resolution and by law, have set as my term --- I shall reckon I have gained everything through you. Take care of your health; cherish me in absence, and stand in my defence.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quae mihi de Parthis nuntiata sunt, quia non putabam a me etiam nunc scribenda esse publice, propterea ne pro familiaritate quidem nostra volui ad te scribere, ne, cum ad consulem scripsissem, publice viderer scripsisse.",
+      "eng": "What has been reported to me about the Parthians, since I did not think it ought yet to be written by me in any official capacity, for that very reason I have chosen --- not even on the strength of our friendship --- not to write to you about it: lest, having written to a consul, I should seem to have written officially.",
+      "notes": null
+    }
+  ]
+}

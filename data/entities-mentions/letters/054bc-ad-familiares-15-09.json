@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-09",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO PROCOS.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. MARCELLO COS.", "entity_id": "person:m-claudius-marcellus-cos51", "in": "lat"},
+    {"loc": "1", "surface": "M. Marcellus", "entity_id": "person:m-claudius-marcellus-cos51", "in": "eng"},
+    {"loc": "1", "surface": "rem p.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the commonwealth", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "1", "surface": "C. Marcello", "entity_id": "person:c-claudius-marcellus-cos50", "in": "lat"},
+    {"loc": "1", "surface": "Gaius Marcellus", "entity_id": "person:c-claudius-marcellus-cos50", "in": "eng"},
+    {"loc": "1", "surface": "populi R.", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "Roman people", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "2", "surface": "senatus c.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "3", "surface": "Parthis", "entity_id": "place:parthia", "in": "lat"},
+    {"loc": "3", "surface": "Parthians", "entity_id": "place:parthia", "in": "eng"}
+  ]
+}
