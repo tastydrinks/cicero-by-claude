@@ -6,7 +6,7 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 132 works end-to-end across all categories.
+- **Drafted**: 126 works end-to-end across all categories.
   - **Speeches (30)**: *Pro Quinctio* (81 BC), *Pro Roscio
     Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
     *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
@@ -24,7 +24,7 @@ as milestones are reached.
     Reditum ad Quirites} (7 Sept), and \textit{De Domo Sua}
     (29 Sept --- before the College of Pontiffs, on the
     Palatine house).
-  - **Letters (102)**: the early Atticus correspondence ---
+  - **Letters (96)**: the early Atticus correspondence ---
     \textit{Att.} 1.1--1.20 (in chronological, not manuscript,
     order: 67--60 BC), \textit{Att.} 2.1--2.25 (60--late 59
     BC, including the Vettius affair and the closing of
@@ -55,7 +55,7 @@ as milestones are reached.
     opening Q.fr. book 2).
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 824 entries.
+- **Pending**: 830 entries.
 
 ### The chronological situation
 
@@ -238,7 +238,7 @@ fragmentary works (\textit{de-consulatu-suo} 60 BC,
   the storming of Milo's house, the Marcellinus motion);
   \textit{Q. fr.} 2.1 (mid-December, opening Q.fr. book 2 with
   the Senate proceedings on the Campanian land and on Clodius
-  in court). Forty-three works drafted in this session.
+  in court). Thirty-seven works drafted in this session.
   Resume point moves forward to \textit{Q. fr.} 2.4 and the
   long Lentulus Spinther correspondence opening
   \textit{Ad Familiares} book 1 in early 56 BC.
