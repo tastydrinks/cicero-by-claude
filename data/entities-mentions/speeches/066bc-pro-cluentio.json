@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "pro-cluentio",
+  "mentions": [
+    {"loc": "1", "surface": "Cluentius", "entity_id": "person:cluentius", "in": "eng"},
+    {"loc": "9", "surface": "Sassia", "entity_id": null, "in": "eng"},
+    {"loc": "11", "surface": "Oppianicus", "entity_id": null, "in": "eng"},
+    {"loc": "29", "surface": "Iunius", "entity_id": null, "in": "eng"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "pro-sestio",
+  "mentions": [
+    {"loc": "1", "surface": "P. Sestius", "entity_id": "person:sestius-tribune", "in": "eng"},
+    {"loc": "8", "surface": "Gabinius", "entity_id": "person:gabinius", "in": "eng"},
+    {"loc": "8", "surface": "Piso", "entity_id": "person:piso-caesoninus", "in": "eng"},
+    {"loc": "15", "surface": "Clodius", "entity_id": "person:clodius", "in": "eng"},
+    {"loc": "37", "surface": "Marius", "entity_id": null, "in": "eng"},
+    {"loc": "60", "surface": "Cato", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "67", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "85", "surface": "Milo", "entity_id": "person:milo", "in": "eng"},
+    {"loc": "120", "surface": "Aesopus", "entity_id": null, "in": "eng"},
+    {"loc": "120", "surface": "Accius", "entity_id": null, "in": "eng"}
+  ]
+}

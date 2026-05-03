@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "pro-caecina",
+  "mentions": [
+    {"loc": "1", "surface": "A. Caecina", "entity_id": "person:caecina-volaterranus", "in": "eng"},
+    {"loc": "1", "surface": "Aebutius", "entity_id": null, "in": "eng"},
+    {"loc": "10", "surface": "Volaterrae", "entity_id": "place:volaterrae", "in": "eng"}
+  ]
+}

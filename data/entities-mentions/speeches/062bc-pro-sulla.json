@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "pro-sulla",
+  "mentions": [
+    {"loc": "1", "surface": "P. Sulla", "entity_id": "person:sulla-defendant", "in": "eng"},
+    {"loc": "11", "surface": "Catiline", "entity_id": "person:catiline", "in": "eng"},
+    {"loc": "11", "surface": "Lentulus", "entity_id": "person:lentulus-sura", "in": "eng"},
+    {"loc": "16", "surface": "L. Torquatus", "entity_id": null, "in": "eng"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-04",
+  "mentions": [
+    {"loc": "1", "surface": "Terentia", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "1", "surface": "Tullia", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:marcus-cicero-younger", "in": "eng"},
+    {"loc": "3", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"}
+  ]
+}

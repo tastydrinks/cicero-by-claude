@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-01-03",
+  "mentions": [
+    {"loc": "1", "surface": "frater", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "brother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "3", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "3", "surface": "Terentia", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "3", "surface": "Tullia", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "9", "surface": "Marcus", "entity_id": "person:marcus-cicero-younger", "in": "eng"}
+  ]
+}

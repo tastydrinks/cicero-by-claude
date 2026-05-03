@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "pro-lege-manilia",
+  "mentions": [
+    {"loc": "1", "surface": "Quirites", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "citizens", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "3", "surface": "Mithridate", "entity_id": null, "in": "lat"},
+    {"loc": "3", "surface": "Mithridates", "entity_id": null, "in": "eng"},
+    {"loc": "27", "surface": "Cn. Pompei", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "27", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"}
+  ]
+}
