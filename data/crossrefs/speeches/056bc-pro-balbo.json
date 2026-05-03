@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "pro-balbo",
+  "refs": [
+    {"from_loc": "11", "to_work": "pro-flacco", "to_loc": "70", "kind": "echo", "certainty": "medium", "note": "The figure of the Roman jurors averting their eyes from Q. Metellus Numidicus's account-books recurs as the model of senatorial probity in Cicero's middle-period courtroom speeches."},
+    {"from_loc": "26", "to_work": "de-provinciis-consularibus", "to_loc": "29-32", "kind": "echo", "certainty": "high", "note": "The argument from rewards as the engine of military service to the empire is the same argument deployed at De Provinciis Consularibus 29-32, a few weeks earlier. Both speeches are the senatorial-court doublet of the post-Luca position."},
+    {"from_loc": "55", "to_work": "self", "to_loc": "21", "kind": "self_reference", "certainty": "high", "note": "The lex Julia of 90 BC and Heraclea / Naples back at section 21 prepare the ground for the Calliphana-of-Velia precedent at 55: in both cases citizenship can be conferred by the Roman state on a federate."},
+    {"from_loc": "61", "to_work": "de-provinciis-consularibus", "to_loc": "25-26", "kind": "paraphrase", "certainty": "high", "note": "The famous post-Luca self-reckoning at Pro Balbo 61 (\"some things we wished, contended for, made trial of: they were not won\") is the same political move as the De Provinciis Consularibus 25-26 confession of having been brought back into agreement with Caesar by the Senate."},
+    {"from_loc": "61", "to_work": "self", "to_loc": "0", "kind": "self_reference", "certainty": "high", "note": "Cicero recalls his own motions of 57-56 BC: the fifteen-day Caesarian supplicatio (proposed at De Provinciis 26-27), the army-pay vote, the ten legates, and the de-provinciis vote against succession --- as a single political record of senatorial accommodation with the proconsul."}
+  ]
+}

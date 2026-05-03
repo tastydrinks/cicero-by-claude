@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "pro-balbo",
+  "allusions": [
+    {"loc": "12", "surface": "Athenis aiunt, cum quidam apud eos qui sancte graviterque vixisset testimonium publice dixisset et, ut mos Graecorum est, iurandi causa ad aras accederet, una voce omnis iudices ne is iuraret reclamasse", "suspected_source": "Plutarch, Moralia 84F (Xenocrates anecdote); cf. Cicero, De Officiis 1.114", "kind": "reference", "certainty": "medium", "translator_note": "The famous Athenian anecdote of the witness whose word was so weighty that the jurors waved off the oath. Plutarch attributes the story to Xenocrates of the Academy."},
+    {"loc": "39", "surface": "ut Hercules itinerum ac laborum suorum, sic maiores nostri imperi ac nominis populi Romani terminos esse voluerunt", "suspected_source": "Hellenistic Hercules-and-the-Pillars tradition (Pindar, etc.)", "kind": "reference", "certainty": "high", "translator_note": "The tradition of Hercules's labours stretching to the western boundary of the world (the Pillars of Hercules at Gades itself); Cicero turns the local mythology to the argument for Gades as the symbolic edge of the empire."},
+    {"loc": "51", "surface": "neque enim ille summus poeta noster Hannibalis illam magis cohortationem quam communem imperatoriam voluit esse: hostem qui feriet, erit, inquit, mihi Carthaginiensis, quisquis erit", "suspected_source": "Ennius, Annales (Skutsch fr. 234)", "kind": "quotation", "certainty": "high", "translator_note": "One of the most famous fragments of the lost Annales: Hannibal's exhortation to his soldiers, ``the man who shall strike the enemy will be Carthaginian to me, whoever he is.'' Cicero quotes it as the universal imperator's principle."}
+  ]
+}
