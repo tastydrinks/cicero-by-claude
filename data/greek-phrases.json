@@ -4748,6 +4748,162 @@
     },
     {
       "id": "gr-0366",
+      "work": "ad-atticum-04-09",
+      "loc": "1",
+      "greek_original": "καὶ τόδε",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0367",
+      "work": "ad-atticum-04-09",
+      "loc": "1",
+      "greek_original": "",
+      "transliteration": "kai tode",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-0368",
+      "work": "ad-atticum-04-11",
+      "loc": "2",
+      "greek_original": "οὐδὲν",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0369",
+      "work": "ad-atticum-04-11",
+      "loc": "2",
+      "greek_original": "",
+      "transliteration": "ouden",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-0370",
+      "work": "ad-quintum-fratrem-02-08",
+      "loc": "1",
+      "greek_original": "μουσοπάτακτοσ",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0371",
+      "work": "ad-quintum-fratrem-02-08",
+      "loc": "1",
+      "greek_original": "ἀναντίλεκτον",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0372",
+      "work": "ad-quintum-fratrem-02-08",
+      "loc": "1",
+      "greek_original": "",
+      "transliteration": "mousopataktos",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-0373",
+      "work": "ad-quintum-fratrem-02-08",
+      "loc": "1",
+      "greek_original": "",
+      "transliteration": "anantilekton",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-0374",
+      "work": "ad-quintum-fratrem-02-08",
+      "loc": "2",
+      "greek_original": "εἰδ",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0375",
+      "work": "ad-quintum-fratrem-02-08",
+      "loc": "2",
+      "greek_original": "ἐν αἴᾳ ἔζησασ",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0376",
+      "work": "ad-quintum-fratrem-02-08",
+      "loc": "2",
+      "greek_original": "ἔα πάσασ",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0377",
+      "work": "in-pisonem",
+      "loc": "61",
+      "greek_original": "οἴχεται",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0378",
       "work": "ad-quintum-fratrem-02-12",
       "loc": "1",
       "greek_original": "πολιτικά",
@@ -4760,7 +4916,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-0367",
+      "id": "gr-0379",
       "work": "ad-quintum-fratrem-02-12",
       "loc": "1",
       "greek_original": "",
@@ -4773,7 +4929,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-0368",
+      "id": "gr-0380",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "18",
       "greek_original": "δευτέρασ φροντίδασ",
@@ -4786,7 +4942,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-0369",
+      "id": "gr-0381",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "18",
       "greek_original": "",
@@ -4799,7 +4955,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-0370",
+      "id": "gr-0382",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "23",
       "greek_original": "Γνῶθι πῶσ ἄλλῳ κέχρηται",
@@ -4812,7 +4968,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-0371",
+      "id": "gr-0383",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "23",
       "greek_original": "",
@@ -4825,7 +4981,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-0372",
+      "id": "gr-0384",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "5",
       "greek_original": "ἀποδυτηρίῳ",
@@ -4838,7 +4994,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-0373",
+      "id": "gr-0385",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "5",
       "greek_original": "",
@@ -4851,7 +5007,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-0374",
+      "id": "gr-0386",
       "work": "ad-quintum-fratrem-03-02",
       "loc": "2",
       "greek_original": "Ἀπότευγμα",
@@ -4864,7 +5020,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-0375",
+      "id": "gr-0387",
       "work": "ad-quintum-fratrem-03-02",
       "loc": "2",
       "greek_original": "",
@@ -4875,71 +5031,6 @@
       "source_certainty": "unknown",
       "register": "technical",
       "notes": "backfilled (kind=bracket)"
-    },
-    {
-      "id": "gr-0376",
-      "work": "ad-atticum-04-09",
-      "loc": "1",
-      "greek_original": "καὶ τόδε",
-      "transliteration": "kai tode",
-      "english_gloss": "and this too",
-      "context": "Cicero's marginal tag for Pompey's reported speech: whatever the man says, append `and this too' as a private mental asterisk.",
-      "suspected_source": null,
-      "source_certainty": "unknown",
-      "register": "in-joke",
-      "notes": null
-    },
-    {
-      "id": "gr-0377",
-      "work": "ad-atticum-04-11",
-      "loc": "2",
-      "greek_original": "οὐδὲν",
-      "transliteration": "ouden",
-      "english_gloss": "nothing",
-      "context": "On news from Rome: of news, ``nothing'' --- so write to me as to a curious man what the censors are doing.",
-      "suspected_source": null,
-      "source_certainty": "unknown",
-      "register": "colloquial",
-      "notes": null
-    },
-    {
-      "id": "gr-0378",
-      "work": "ad-quintum-fratrem-02-08",
-      "loc": "2",
-      "greek_original": "εἰδ' ἐν αἴᾳ ἔζησας",
-      "transliteration": "eid' en aiai ezesas",
-      "english_gloss": "uncertain (corrupt in MSS)",
-      "context": "Cicero's playful Greek tag after noting that Quintus has groaned; the manuscripts are corrupt.",
-      "suspected_source": null,
-      "source_certainty": "unknown",
-      "register": "jocular",
-      "notes": "Manuscript text corrupt; may quote a comic or tragic line, irrecoverable."
-    },
-    {
-      "id": "gr-0379",
-      "work": "ad-quintum-fratrem-02-08",
-      "loc": "2",
-      "greek_original": "ἔα πάσας",
-      "transliteration": "ea pasas",
-      "english_gloss": "let them all go",
-      "context": "Paired with the corrupt tag above; Cicero says he will never say it.",
-      "suspected_source": null,
-      "source_certainty": "unknown",
-      "register": "jocular",
-      "notes": null
-    },
-    {
-      "id": "gr-0380",
-      "work": "ad-quintum-fratrem-02-08",
-      "loc": "3",
-      "greek_original": "",
-      "transliteration": "araxira",
-      "english_gloss": "uncertain (corrupt in MSS)",
-      "context": "Cicero contrasts a homespun philosophy with Athenian (Hymettus); the second place name is corrupt.",
-      "suspected_source": null,
-      "source_certainty": "unknown",
-      "register": "jocular",
-      "notes": "The reading is corrupt; some editors emend to a place name from Asia Minor."
     }
   ]
 }
