@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-1",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "second hearing",
+      "entity_id": null,
+      "note": "altera actio: the second of the two phases imposed by the comperendinatio (after the lex Glaucia of c. 104 BC), at which both prosecution and defence spoke a second time before the verdict. Verres withdrew before this second hearing rather than face it; Cicero published the five Verrines as the speeches he would have delivered."
+    },
+    {
+      "loc": "11",
+      "anchor": "monuments of Marcus Marcellus and Publius Africanus",
+      "entity_id": null,
+      "note": "Statues which the great commanders had given (or returned) to Sicilian temples after their conquests --- M. Marcellus after the storming of Syracuse 212 BC, and Scipio Aemilianus after Carthage 146 BC. They counted as Roman public monuments, hence Verres's plundering of them is a charge in its own right."
+    },
+    {
+      "loc": "20",
+      "anchor": "comperendinatum",
+      "entity_id": null,
+      "note": "comperendinatio: the standing two-part trial procedure for extortion cases under the lex Cornelia, where after the first hearing the case was \"adjourned\" for a second; Cicero here uses the verbal form to mark how decisively Verres was overwhelmed before the comperendinatio could even arrive."
+    },
+    {
+      "loc": "26",
+      "anchor": "lex Acilia",
+      "entity_id": null,
+      "note": "Lex Acilia repetundarum (123/122 BC, M.' Acilius Glabrio): the older one-hearing extortion procedure, before the Sullan and Glaucian reforms imposed comperendinatio."
+    },
+    {
+      "loc": "27",
+      "anchor": "Erucine Venus",
+      "entity_id": "god:venus-erycina",
+      "note": "Venus of Eryx, the great sanctuary on Mt. Eryx in western Sicily; her temple held vast treasure and slave-priestesses, and was a frequent pretext for Verres's confiscations from rich Sicilians."
+    },
+    {
+      "loc": "29",
+      "anchor": "interrogating witnesses",
+      "entity_id": null,
+      "note": "Cicero's procedural innovation in the actio prima: instead of a long opening speech, he led witnesses one by one with the charges set out only as their evidence supported them. The technique is what \"this man's silence\" is contrasted with throughout Book I."
+    },
+    {
+      "loc": "37",
+      "anchor": "urban quaestors",
+      "entity_id": null,
+      "note": "Two of the twenty annually elected quaestors served at Rome (\"urbani\"), responsible for the treasury (aerarium); to them all returning provincial quaestors rendered their accounts. Verres rendered his in three lines."
+    },
+    {
+      "loc": "37",
+      "anchor": "the bond of the lot",
+      "entity_id": null,
+      "note": "necessitudo sortis: the formal religious tie between a magistrate and the quaestor allotted to him; the quaestor stood \"in the place of a son\" to the consul or praetor. Desertion was unspeakable."
+    },
+    {
+      "loc": "38",
+      "anchor": "the proscribed",
+      "entity_id": null,
+      "note": "proscripti: those whose names Sulla had posted in 82-81 BC for outlawry; their property was confiscated and sold cheaply to favoured supporters. Verres received a share in the Beneventan country as payment for desertion."
+    },
+    {
+      "loc": "44",
+      "anchor": "legate",
+      "entity_id": null,
+      "note": "legatus: a magistrate's commissioned subordinate, sent into a province with quasi-military rank. The office traditionally carried diplomatic immunity which Cicero argues Verres violated past the point of forgiveness."
+    },
+    {
+      "loc": "46",
+      "anchor": "shrine of Apollo",
+      "entity_id": "place:delos",
+      "note": "Apollo's birth-place sanctuary on Delos, the most ancient and revered Apolline shrine in the Greek world; even the Persian fleet, Cicero says, did not violate it."
+    },
+    {
+      "loc": "55",
+      "anchor": "Marcus Marcellus, who took Syracuse",
+      "entity_id": "person:m-claudius-marcellus-cos-3",
+      "note": "M. Claudius Marcellus, consul 222, 215, 214, 210, 208 BC, captured Syracuse 212 BC after a long siege famously prolonged by Archimedes; his triumph filled Roman temples with Greek art (and was thereafter cited as the bad precedent that started Roman art-collecting)."
+    },
+    {
+      "loc": "55",
+      "anchor": "Lucius Mummius",
+      "entity_id": "person:l-mummius-achaicus",
+      "note": "L. Mummius Achaicus, consul 146 BC, sacked Corinth and reduced Achaia to a province; his triumph distributed art across Italy. The proverb of Mummius's plain manners (he could not tell an old master from a copy) is the foil for Verres's connoisseur greed."
+    },
+    {
+      "loc": "60",
+      "anchor": "consulship of Marcus Terentius and Gaius Cassius",
+      "entity_id": null,
+      "note": "73 BC, the year of M. Terentius Varro Lucullus and C. Cassius Longinus. The Romans dated years by their consuls' names, and Cicero uses the dating to mark how recently Verres claimed to have stopped keeping books."
+    },
+    {
+      "loc": "66",
+      "anchor": "Greek manner",
+      "entity_id": null,
+      "note": "Graeco more bibere: drinking-toasts in turn, with progressively larger cups; the convention of a Greek symposium, where (unlike Roman dinners) respectable women did not recline at table."
+    },
+    {
+      "loc": "67",
+      "anchor": "lictor",
+      "entity_id": null,
+      "note": "lictor: the magistrate's attendant carrying the fasces; killed in the riot at Lampsacum, his death gave Verres the lever to demand Philodamus be tried for murder."
+    },
+    {
+      "loc": "85",
+      "anchor": "asylum",
+      "entity_id": null,
+      "note": "The shrine of Diana at Ephesus enjoyed an ancient right of asylum: a slave or fugitive who reached the precinct could not be removed by force. Roman magistrates respected the right unevenly, and the Pericles affair was a precedent for diplomatic confrontation when they did not."
+    },
+    {
+      "loc": "104",
+      "anchor": "Chelidon's bed",
+      "entity_id": "person:chelidon",
+      "note": "auspicato e Chelidonis cubiculo: the joke is sharp. \"Auspicato\" inverts the magistrate's pious morning consultation of the auspices: Verres rose with auspices not from the templum but from his courtesan's bedroom. The whole praetorship is figured as conducted under her sign."
+    },
+    {
+      "loc": "106",
+      "anchor": "lex Voconia",
+      "entity_id": "law:lex-voconia",
+      "note": "Lex Voconia (169 BC, tribune Q. Voconius Saxa): forbade citizens of the highest census class from instituting women as heirs. Cicero's point: Voconius wrote prospectively (\"whoever shall be rated\"), Verres retroactively (\"whoever has been rated\"), tailored to one defendant in one case."
+    },
+    {
+      "loc": "108",
+      "anchor": "Cornelian on wills, on coin",
+      "entity_id": "law:leges-corneliae-sullanae",
+      "note": "lex Cornelia testamentaria de falsis (forgery of wills) and lex Cornelia nummaria (counterfeiting): two of Sulla's standing-court statutes of 81 BC. They prosecuted past acts only as criminal offences that were already crimes when committed; they did not create the offence retrospectively."
+    },
+    {
+      "loc": "129",
+      "anchor": "temple of Castor",
+      "entity_id": "place:templum-castoris",
+      "note": "The temple of the Dioscuri in the Forum, used in Cicero's day as a public venue for treasury accounts and Senate meetings. Verres rigged the contract for whitewashing four columns at 560,000 sesterces, when the work could be done for 40,000."
+    },
+    {
+      "loc": "133",
+      "anchor": "by the plumb-line",
+      "entity_id": null,
+      "note": "ad perpendiculum: the carpenter's plumb-line. Verres's man pretended that the contract required every column to stand perfectly perpendicular --- an impossible standard which would let Verres reject the existing columns and demand re-erection at vast cost."
+    },
+    {
+      "loc": "152",
+      "anchor": "without the bulla",
+      "entity_id": null,
+      "note": "bulla: the gold or leather amulet worn on a leather strap by free-born Roman boys until they assumed the toga virilis. The ward Iunius came to court still in the toga praetexta but without the bulla --- Verres's plundering had stripped him of even this insignia of free birth."
+    },
+    {
+      "loc": "157",
+      "anchor": "subsortition of jurors of Junius",
+      "entity_id": "person:c-iunius-pr74-quaesitor",
+      "note": "Subsortitio iudicum: the substitution of jurors mid-trial. C. Iunius the quaesitor in the trial of Oppianicus (74 BC) was prosecuted afterwards on Cicero's allegation that Verres had forged the album by adding men of his own. The same scandal is the spine of Pro Cluentio."
+    }
+  ]
+}

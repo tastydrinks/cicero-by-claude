@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-1",
+  "allusions": [
+    {
+      "loc": "53",
+      "surface": "Aspendian harpist ... \"plays everything within\"",
+      "suspected_source": "Greek proverb (Zenobius 2.30)",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Cicero is quoting a Greek proverb about the Aspendian harpist who is said to play with the strings turned inward (intus canit, ἔσω ᾄδει), so that the music goes only to himself. Cicero turns the proverb into a charge: Verres has 'surpassed even him in his own art' by carrying off the harpist's statue to his innermost chambers."
+    },
+    {
+      "loc": "48",
+      "surface": "Persae ... mille navium classem ad Delum appulissent",
+      "suspected_source": "Herodotus, Histories 6.97",
+      "kind": "paraphrase",
+      "certainty": "medium",
+      "translator_note": "The detail that Datis's Persian fleet refrained from sacking Delos in 490 BC is in Herodotus 6.97; Cicero may be citing it directly or via a rhetorical handbook commonplace."
+    }
+  ]
+}

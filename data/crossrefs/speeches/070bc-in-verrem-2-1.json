@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-1",
+  "refs": [
+    {
+      "from_loc": "11",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": "11-15",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"as you learned in the first hearing\": back-reference to the actio prima's listing of the Sicilian charges already proved by witnesses."
+    },
+    {
+      "from_loc": "12",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Refers back to Verres's confession in the actio prima that the pirate captains had not been struck with the axe."
+    },
+    {
+      "from_loc": "27",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"I said in the first hearing that I would make plain that Gaius Verres had taken from Sicily forty million sesterces\" --- explicit programmatic crossref to the actio prima's headline charge, the figure that orients Books 2-3 (the praetorship) and 4-5 (the plunder of Sicily)."
+    },
+    {
+      "from_loc": "29",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"I have done all things in the previous hearing in such a way that on no charge was there any in which any of you needed a continuous prosecution\" --- methodological self-reference."
+    },
+    {
+      "from_loc": "52",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"You heard Charidemus of Chios speak in evidence in the previous hearing\": refers to Charidemus's testimony at the actio prima."
+    },
+    {
+      "from_loc": "71",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"in Tettius's testimony in the previous hearing\": Verres's interruption of P. Tettius at the actio prima."
+    },
+    {
+      "from_loc": "88",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"although you have learned it from many cities of Sicily in the previous hearing\": Verres's pattern of expunging public records, anticipated through the actio prima's Sicilian witnesses."
+    },
+    {
+      "from_loc": "125",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"hear what you learned in the previous hearing\": M. Octavius Ligus's evidence."
+    },
+    {
+      "from_loc": "138",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"You, gentlemen, learned them earlier\": appeal to the jurors' memory of the actio prima."
+    },
+    {
+      "from_loc": "151",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"in the previous hearing Quintus Hortensius complained\": Hortensius's complaint about the ward Iunius being produced in the praetexta."
+    },
+    {
+      "from_loc": "154",
+      "to_work": "in-verrem-2-2",
+      "to_loc": null,
+      "kind": "echo",
+      "certainty": "medium",
+      "note": "\"what the witnesses from Sicily say\": looks ahead to Books 2-2 to 2-5, the Sicilian portion of the prosecution."
+    },
+    {
+      "from_loc": "157",
+      "to_work": "pro-cluentio",
+      "to_loc": null,
+      "kind": "echo",
+      "certainty": "medium",
+      "note": "The \"subsortition of jurors of Iunius\" is the same scandal Cicero will later defend Cluentius from, eight years later, in 66 BC: the trial of Oppianicus before C. Iunius the quaesitor, in which Cicero alleges Verres forged the jury album."
+    }
+  ]
+}
