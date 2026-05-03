@@ -277,9 +277,14 @@ def main() -> int:
         warn("Working tree is not clean. Commit or stash before running.")
         return 1
 
-    info("Checking out main ...")
-    git("checkout", "main", check=False)
-    git("pull", "--ff-only", "origin", "main")
+    info("Resetting local main to origin/main ...")
+    # Use checkout -B so this works whether main exists locally or not,
+    # and whether the current branch is main, a stale main, or a session
+    # branch.
+    subprocess.run(
+        ["git", "checkout", "-B", "main", "origin/main"],
+        cwd=REPO, check=True,
+    )
 
     branches = list_session_branches()
     if not branches:
