@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "de-provinciis-consularibus",
+  "refs": [
+    {"from_loc": "2", "to_work": "post-reditum-in-senatu", "to_loc": "9-19", "kind": "echo", "certainty": "high", "note": "The joint indictment of Gabinius and Piso for selling Cicero's exile in advance for the provinces is the very ground laid out at large in Post Reditum in Senatu (5 September 57 BC) and again in Pro Sestio (March 56)."},
+    {"from_loc": "9", "to_work": "post-reditum-in-senatu", "to_loc": "11-12", "kind": "echo", "certainty": "high", "note": "The portrait of Gabinius (here as ``Semiramis'' of Syria) draws on the perfumed-and-curled register that Post Reditum and Pro Sestio had established as the senatorial picture of him."},
+    {"from_loc": "23", "to_work": "post-reditum-in-senatu", "to_loc": "33-34", "kind": "echo", "certainty": "medium", "note": "The ``love of country'' that drove Cicero to face the storm of 58 BC is the framing argument of the post-exile speeches; the passage compresses what Pro Sestio expands at length in the narratio (sec 36-52)."},
+    {"from_loc": "26", "to_work": "self", "to_loc": "27", "kind": "self_reference", "certainty": "high", "note": "Cicero adverts to his own consular precedent for proposing the supplicatio: the ten-day thanksgiving for Pompey on completion of the Mithridatic war, of which he is reminding the house in justification of the unprecedented fifteen for Caesar."},
+    {"from_loc": "45", "to_work": "de-domo-sua", "to_loc": "39-42", "kind": "paraphrase", "certainty": "high", "note": "The argument that Clodius's adoption to the plebs was carried under the curiate-law form, with the auspices observed, is the centerpiece of De Domo Sua's transitio attack on Clodius and is here re-deployed as a legal trap on the optimate jurists who treat the Julian laws as un-passed but the lex Clodia as lawful."}
+  ]
+}
