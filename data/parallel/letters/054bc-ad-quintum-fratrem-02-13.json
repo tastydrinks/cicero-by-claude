@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-13",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 2.13",
+  "title_english": "Ad Quintum Fratrem 2.13",
+  "date": "-0054-05-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A. d. IIII non. Iunias, quo die Romam veni, accepi tuas litteras datas Placentia, deinde alteras postridie datas †Blandenonne† cum Caesaris litteris refertis omni officio, diligentia, suavitate. sunt ista quidem magna vel potius maxima; habent enim vim magnam ad gloriam et ad summam dignitatem; sed, mihi crede quem nosti, quod in istis rebus ego plurimi aestimo id iam habeo, te scilicet primum tam inservientem communi dignitati, deinde Caesaris tantum in me amorem, quem omnibus iis honoribus quos me a se exspectare vult antepono. Litterae vero eius una datae cum tuis, quarum initium est, quam suavis ei tuus adventus fuerit et recordatio veteris amoris, deinde se effecturum ut ego in medio dolore ac desiderio tui te cum a me abesses is potissimum secum esse laetarer, incredibiliter delectarunt.",
+      "eng": "On 4 K. Iun., the day I came to Rome, I received your letter sent from Placentia, then a second sent the day after from †Blandenonne† together with Caesar's letter — full of every kindness and care and charm. These things are great, or rather greatest; for they have great force toward glory and the highest dignity. But, believe me — you know me — what I prize most highly in those things, that I already have: namely, you in the first place, so devoted to our common dignity; and then Caesar's love for me, such as it is, which I prefer to all those honours which he wishes me to look for from him. As for his letter, sent at the same time as yours — its opening, that your arrival was sweet to him and that the recollection of his old affection came back; and then that he would arrange that, in the midst of the pain and longing for you which I bear when you are away from me, I should the more rejoice that it is with him, of all men, that you are spending the time — that letter delighted me beyond words.",
+      "notes": "Placename in §1 is corrupt in the manuscripts (Blandenonne or similar); a Po-valley posting station between Placentia and the Alps."
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "qua re facis tu quidem fraterne quod me hortaris, sed me hercule currentem nunc quidem, ut omnia mea studia in istum unum conferam. ego vero ardenti quidem studio, ac fortasse efficiam quod saepe viatoribus cum properant evenit, ut, si serius quam voluerint forte surrexerint, properando etiam citius quam si de nocte vigilassent perveniant quo velint, sic ego, quoniam in isto homine colendo tam indormivi diu te me hercule saepe excitante, cursu corrigam tarditatem cum equis tum vero (quoniam tu scribis poema ab eo nostrum probari) quadrigis poeticis; modo mihi date Britanniam quam pingam coloribus tuis, penicillo meo. sed quid ago? quod mihi tempus Romae praesertim, ut iste me rogat, manenti vacuum ostenditur? sed videro; fortasse enim, ut fit, vincet tuus amor omnis difficultates.",
+      "eng": "And so you act fraternally in urging me on; but by Hercules, in this matter you are urging on a runner: that I should bring all my zeal to bear upon that one man. With burning zeal indeed; and perhaps I shall achieve what often happens to travellers when they are in a hurry — that, if they have happened to rise later than they meant, by hurrying they get where they want to be even sooner than if they had been awake from before dawn. Just so, since I have slept so long over the cultivation of that man — though you, by Hercules, often roused me — I shall make up for the lateness with a sprint: with horses, certainly, and indeed (since you write that he approves my poem) with the four-horse chariot of poetry. Only give me Britain, that I may paint it with your colours and my own brush. But what am I doing? What time of mine — staying at Rome, especially, as he asks me to — is shown to me as free? But I shall see; for perhaps, as it goes, your love will overcome all the difficulties.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Trebatium quod ad se miserim persalse et humaniter etiam gratias mihi agit; negat enim in tanta multitudine eorum qui una essent quemquam fuisse qui vadimonium concipere posset. M. Curtio tribunatum ab eo petivi (nam Domitius se derideri putasset, si esset a me rogatus; hoc enim est eius cotidianum, se ne tribunum militum quidem facere. etiam in senatu lusit Appium conlegam propterea isse ad Caesarem ut aliquem tribunatum auferret), sed in alterum annum. id et Curtius ita volebat.",
+      "eng": "As for my having sent Trebatius to him, he thanks me for it wittily and graciously; for he says that in such a great crowd of those who were with him there was no one who knew how to draw up a vadimonium. From Domitius I have asked the tribunate for M. Curtius (for Domitius would have thought himself mocked if I had asked him outright; that is his daily refrain — that he is not so much as making a man a tribune of the soldiers; he even joked in the senate that his colleague Appius had gone to Caesar to come back with some tribunate or other). But the request is for next year. Curtius too wished it so.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "tu quem ad modum me censes oportere esse et in re publica et in nostris inimicitiis ita et esse et fore oricula infima scito molliorem. res Romanae se sic habebant: erat non nulla spes comitiorum sed incerta, erat aliqua suspicio dictaturae, ne ea quidem certa, summum otium forense sed senescentis magis civitatis quam adquiescentis, sententia autem nostra in senatu eius modi magis ut alii nobis adsentiantur quam nosmet ipsi. toiauth' ho tlēmōn polemos exergazetai.",
+      "eng": "As for how you think I ought to be in public affairs and in our private feuds — know that I am, and shall be, softer than the lowest little ear-tip. The state of Roman matters stood thus: there was some hope of elections, but uncertain; some suspicion of a dictatorship, not even that certain; the highest leisure in the forum, but of an aging state rather than one at rest; my opinion in the senate of such a kind that others assent to me rather than I to myself. toiauth' ho tlēmōn polemos exergazetai — such is the work of wretched war.",
+      "notes": null
+    }
+  ]
+}

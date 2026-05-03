@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "4 K. Iun.",
+      "entity_id": null,
+      "note": "Ante diem quartum Kalendas Iunias = 29 May 54 BC, the date Cicero arrived back at Rome from his Cumae stay."
+    },
+    {
+      "loc": "1",
+      "anchor": "Placentia",
+      "entity_id": "place:placentia",
+      "note": "The Latin colony on the Po (modern Piacenza), Quintus's last stop before crossing into Cisalpine Gaul on his way to Caesar's headquarters."
+    },
+    {
+      "loc": "2",
+      "anchor": "four-horse chariot of poetry",
+      "entity_id": null,
+      "note": "The quadrigae poeticae, the chariot-of-the-Muses figure adapted by Cicero into a metaphor of catching up: he will hurry his cultivation of Caesar by writing a poem on the British expedition."
+    },
+    {
+      "loc": "2",
+      "anchor": "your colours and my own brush",
+      "entity_id": null,
+      "note": "The painter's analogy: Quintus, eyewitness in Caesar's camp, supplies the colour; Cicero, at Rome, supplies the brush, the poet's craft."
+    },
+    {
+      "loc": "3",
+      "anchor": "vadimonium",
+      "entity_id": null,
+      "note": "A formal recognizance to appear in court on a stated day; the bedrock of Roman civil procedure. Caesar's joke is that in his entire entourage in Gaul there was no one who knew how to draft one until Trebatius arrived."
+    },
+    {
+      "loc": "3",
+      "anchor": "Domitius",
+      "entity_id": "person:l-domitius-ahenobarbus",
+      "note": "L. Domitius Ahenobarbus, consul 54 BC, the optimate stalwart whose lifelong feud with Caesar would close at Pharsalus; in office he made a parade of refusing to grant petty favours."
+    },
+    {
+      "loc": "3",
+      "anchor": "Appius",
+      "entity_id": "person:appius-claudius-pulcher",
+      "note": "Ap. Claudius Pulcher, consul 54 BC, Domitius's colleague; his run on Caesar in Cisalpine Gaul that year is the joke about ``going to fetch some tribunate.'' Cicero will conclude an open accommodation with Appius later in 54."
+    },
+    {
+      "loc": "4",
+      "anchor": "softer than the lowest little ear-tip",
+      "entity_id": null,
+      "note": "Oricula infima molliorem: a Roman household proverb for extreme pliancy. Cicero promises Quintus that, both in public and in personal feuds, he will be a model of softness --- the post-Luca posture given private form."
+    },
+    {
+      "loc": "4",
+      "anchor": "suspicion of a dictatorship",
+      "entity_id": null,
+      "note": "Talk of an extraordinary dictatorship to break the year's electoral logjam --- talk that would intermittently surface from 54 BC through Pompey's sole consulship of 52 and onward."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-13",
+  "mentions": [
+    {"loc": "1", "surface": "QVINTO FRATRI", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "Quintus", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Placentia", "entity_id": "place:placentia", "in": "lat"},
+    {"loc": "1", "surface": "Placentia", "entity_id": "place:placentia", "in": "eng"},
+    {"loc": "1", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar's", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Britanniam", "entity_id": "place:britannia", "in": "lat"},
+    {"loc": "2", "surface": "Britain", "entity_id": "place:britannia", "in": "eng"},
+    {"loc": "2", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "Trebatium", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "3", "surface": "Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "3", "surface": "M. Curtio", "entity_id": "person:m-curtius", "in": "lat"},
+    {"loc": "3", "surface": "M. Curtius", "entity_id": "person:m-curtius", "in": "eng"},
+    {"loc": "3", "surface": "Domitius", "entity_id": "person:l-domitius-ahenobarbus", "in": "lat"},
+    {"loc": "3", "surface": "Domitius", "entity_id": "person:l-domitius-ahenobarbus", "in": "eng"},
+    {"loc": "3", "surface": "Appium", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "3", "surface": "Appius", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "3", "surface": "Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "Curtius", "entity_id": "person:m-curtius", "in": "both"},
+    {"loc": "4", "surface": "senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "4", "surface": "senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}
