@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "pro-roscio-amerino",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "gentlemen of the jury",
+      "entity_id": null,
+      "note": "Iudices: the standing court for parricide trials (quaestio inter sicarios) was composed of senators in this period; Sulla's reforms of 81 BC had restored the courts to senatorial control."
+    },
+    {
+      "loc": "6",
+      "anchor": "Ameria",
+      "entity_id": "place:ameria",
+      "note": "An Umbrian town some 90 km north of Rome, in the upper Tiber valley; modern Amelia."
+    },
+    {
+      "loc": "7",
+      "anchor": "parricide",
+      "entity_id": null,
+      "note": "Parricidium: the killing of one's father, or by extension any close kin. The traditional Roman penalty was the 'sack' (poena cullei): the convicted parricide was sewn into a leather sack with a dog, a cock, a viper, and a monkey, and thrown into a river."
+    },
+    {
+      "loc": "9",
+      "anchor": "Caecilia",
+      "entity_id": "person:caecilia-metella",
+      "note": "Caecilia Metella, daughter of Q. Caecilius Metellus Balearicus (consul 123 BC) and sister of Q. Caecilius Metellus Nepos (consul 98 BC). A woman of the highest standing, sheltering Roscius at no small political risk."
+    },
+    {
+      "loc": "15",
+      "anchor": "freedmen of Lucius Sulla",
+      "entity_id": null,
+      "note": "Sulla, having freed thousands of slaves of the proscribed (the 10,000 Cornelii), wielded a personal army of clients owing him their freedom; Chrysogonus was the most influential of them and the chief manager of the proscription auctions."
+    },
+    {
+      "loc": "15",
+      "anchor": "decuriones",
+      "entity_id": null,
+      "note": "The town councillors of an Italian municipium; the local senate. The decuriones of Ameria sent an embassy to Sulla on Roscius's behalf, but were intercepted by Chrysogonus before they could see the dictator."
+    },
+    {
+      "loc": "16",
+      "anchor": "two thousand sesterces",
+      "entity_id": null,
+      "note": "An estate of six million sesterces sold for two thousand: a 3000-fold loss. Cicero's number is rhetorical-precise; the absurdity of the sale price is the point."
+    }
+  ]
+}

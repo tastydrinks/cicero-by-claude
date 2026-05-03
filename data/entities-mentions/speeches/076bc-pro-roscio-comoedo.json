@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "pro-roscio-comoedo",
+  "mentions": [
+    {"loc": "1", "surface": "Chaerea", "entity_id": "person:c-fannius-chaerea", "in": "eng"},
+    {"loc": "1", "surface": "Roscius", "entity_id": "person:q-roscius-comoedus", "in": "eng"},
+    {"loc": "2", "surface": "Gaius Fannius", "entity_id": "person:c-fannius-chaerea", "in": "eng"},
+    {"loc": "3", "surface": "Marcus Perpenna", "entity_id": null, "in": "eng"},
+    {"loc": "3", "surface": "Publius Saturius", "entity_id": null, "in": "eng"},
+    {"loc": "3", "surface": "Gaius Fannius Chaerea", "entity_id": "person:c-fannius-chaerea", "in": "eng"},
+    {"loc": "7", "surface": "Gaius Piso", "entity_id": "person:c-calpurnius-piso-frugi", "in": "eng"}
+  ]
+}

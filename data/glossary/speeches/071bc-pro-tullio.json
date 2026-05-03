@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "pro-tullio",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "panel",
+      "entity_id": null,
+      "note": "Recuperatores: a small panel of judges (three or five) used in the formula for damnum vi armata datum, sitting alongside the praetor; distinct from the larger standing courts."
+    },
+    {
+      "loc": "7",
+      "anchor": "judgement",
+      "entity_id": "law:damnum-vi-armata-datum",
+      "note": "The form of action: the panel determined how much damage the plaintiff had suffered through armed force on the defendant's part; the verdict was rendered fourfold (four times the assessed damage)."
+    },
+    {
+      "loc": "8",
+      "anchor": "Marcus Lucullus",
+      "entity_id": "person:m-lucullus-praetor",
+      "note": "M. Terentius Varro Lucullus, brother of the more famous L. Lucullus; as praetor 76 BC he composed the formula for damnum vi armata datum, the form of action under which Pro Tullio was tried."
+    }
+  ]
+}

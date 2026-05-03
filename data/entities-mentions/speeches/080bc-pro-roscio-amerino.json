@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "pro-roscio-amerino",
+  "mentions": [
+    {"loc": "2", "surface": "Sextus Roscius", "entity_id": "person:sex-roscius-amerinus", "in": "eng"},
+    {"loc": "6", "surface": "father of this Sextus Roscius", "entity_id": "person:sex-roscius-amerinus-pater", "in": "eng"},
+    {"loc": "6", "surface": "Ameria", "entity_id": "place:ameria", "in": "eng"},
+    {"loc": "9", "surface": "Caecilia, sister of Nepos", "entity_id": "person:caecilia-metella", "in": "eng"},
+    {"loc": "13", "surface": "Titus Roscius Magnus", "entity_id": "person:t-roscius-magnus", "in": "eng"},
+    {"loc": "13", "surface": "Titus Roscius Capito", "entity_id": "person:t-roscius-capito", "in": "eng"},
+    {"loc": "14", "surface": "Pallacinian baths", "entity_id": null, "in": "eng"},
+    {"loc": "15", "surface": "Lucius Cornelius Chrysogonus", "entity_id": "person:chrysogonus", "in": "eng"},
+    {"loc": "15", "surface": "Lucius Sulla", "entity_id": "person:sulla", "in": "eng"},
+    {"loc": "15", "surface": "proscriptions", "entity_id": "law:proscriptions-of-sulla", "in": "eng"},
+    {"loc": "15", "surface": "Volaterrae", "entity_id": "place:volaterrae", "in": "eng"},
+    {"loc": "15", "surface": "decuriones of Ameria", "entity_id": null, "in": "eng"},
+    {"loc": "17", "surface": "Marcus Messalla", "entity_id": "person:m-valerius-messalla-niger", "in": "eng"},
+    {"loc": "19", "surface": "Erucius", "entity_id": "person:erucius", "in": "eng"}
+  ]
+}

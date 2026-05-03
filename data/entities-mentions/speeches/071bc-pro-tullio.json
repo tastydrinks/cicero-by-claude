@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "pro-tullio",
+  "mentions": [
+    {"loc": "1", "surface": "Lucius Quinctius", "entity_id": "person:l-quinctius-tribune", "in": "eng"},
+    {"loc": "3", "surface": "Marcus Tullius", "entity_id": "person:m-tullius-plaintiff", "in": "eng"},
+    {"loc": "3", "surface": "Quinctius", "entity_id": "person:l-quinctius-tribune", "in": "eng"},
+    {"loc": "3", "surface": "Fabius", "entity_id": "person:p-fabius-defendant", "in": "eng"},
+    {"loc": "5", "surface": "Publius Fabius", "entity_id": "person:p-fabius-defendant", "in": "eng"},
+    {"loc": "7", "surface": "Publius Fabius", "entity_id": "person:p-fabius-defendant", "in": "eng"},
+    {"loc": "8", "surface": "Marcus Lucullus", "entity_id": "person:m-lucullus-praetor", "in": "eng"}
+  ]
+}

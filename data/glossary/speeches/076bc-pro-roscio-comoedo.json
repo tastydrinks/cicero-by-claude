@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "pro-roscio-comoedo",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "account-books",
+      "entity_id": null,
+      "note": "Tabulae: the formal household account-books, kept in two-column form (acceptum / expensum, receipts / expenses); a citizen's tabulae could be produced as evidence on his own behalf, on the assumption that he wrote nothing false in his own books."
+    },
+    {
+      "loc": "5",
+      "anchor": "rough waste-book",
+      "entity_id": null,
+      "note": "Adversaria: the rough day-to-day notebook in which transactions were jotted down before being formally entered in the tabulae; treated as ephemeral and never produced in evidence."
+    },
+    {
+      "loc": "4",
+      "anchor": "fifty thousand sesterces",
+      "entity_id": null,
+      "note": "HS 50,000: a substantial sum (a Roman knight's property qualification was HS 400,000); too large to leave loose outside the formal account-books."
+    }
+  ]
+}

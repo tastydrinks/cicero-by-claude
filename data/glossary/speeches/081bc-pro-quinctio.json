@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "pro-quinctio",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Gaius Aquilius",
+      "entity_id": "person:c-aquilius-gallus",
+      "note": "C. Aquilius Gallus, presiding judge in the case; one of the great Roman jurists, later author of the actio de dolo malo, the standing remedy against fraud."
+    },
+    {
+      "loc": "5",
+      "anchor": "council",
+      "entity_id": null,
+      "note": "Roman judges sat with a consilium of advisors, distinguished men selected for the case; their counsel framed the verdict."
+    },
+    {
+      "loc": "11",
+      "anchor": "paterfamilias",
+      "entity_id": null,
+      "note": "The head of a Roman household, with full legal authority over its members and property; its prudence and attentiveness were the prime test of social standing."
+    },
+    {
+      "loc": "11",
+      "anchor": "praeco",
+      "entity_id": null,
+      "note": "An auctioneer; a respectable but distinctly commercial calling, often associated with the Atria Licinia at Rome."
+    },
+    {
+      "loc": "17",
+      "anchor": "temple of Castor",
+      "entity_id": "place:templum-castoris",
+      "note": "The temple of the Dioscuri in the Forum, used in Cicero's day as a public point for checking treasury account-balances; \"asking at Castor's\" was the way to learn what was actually being paid out, as distinct from what the books said was owed."
+    },
+    {
+      "loc": "21",
+      "anchor": "vadimonium",
+      "entity_id": null,
+      "note": "Surety for appearance; a defendant gave a vadimonium binding himself to appear at a stated future date for the next phase of proceedings, on pain of penalty if he did not."
+    },
+    {
+      "loc": "23",
+      "anchor": "Kalends of February",
+      "entity_id": null,
+      "note": "The first day of February. The Romans counted backwards from three named days each month: Kalends (1st), Nones (5th or 7th), and Ides (13th or 15th). \"Two days before the Kalends of February\" is 29 January, counted inclusively."
+    },
+    {
+      "loc": "24",
+      "anchor": "Scipio and Norbanus",
+      "entity_id": null,
+      "note": "The consuls of 83 BC, the year in which the events of the speech took place: L. Cornelius Scipio Asiagenus and C. Norbanus. The Romans named years by their consuls."
+    },
+    {
+      "loc": "25",
+      "anchor": "edict",
+      "entity_id": "law:edictum-praetoris",
+      "note": "Each praetor at the start of his year issued an edict laying out the formulae and remedies he would grant; the framework of Roman civil procedure for the year. Naevius's application was for an order under the edict permitting attachment of an absent debtor's goods."
+    },
+    {
+      "loc": "25",
+      "anchor": "Sextian Bank",
+      "entity_id": "place:tabula-sextia",
+      "note": "A money-changer's table or banking spot in the Forum; Naevius staged his \"witnessing\" of Quinctius's failure to appear here, on a fixed hour to ensure plausibility."
+    },
+    {
+      "loc": "29",
+      "anchor": "Ides of September",
+      "entity_id": null,
+      "note": "The 13th of September. (The Ides falls on the 15th in March, May, July, October; on the 13th in all other months.)"
+    },
+    {
+      "loc": "29",
+      "anchor": "tribunes",
+      "entity_id": "office:tribune",
+      "note": "Tribunes of the plebs (ten elected annually) had the power to forbid (intercessio) the proceedings of any other magistrate at the petition of a citizen; appeals to them are a recurring procedural recourse in Cicero's forensic speeches."
+    },
+    {
+      "loc": "30",
+      "anchor": "sponsio",
+      "entity_id": null,
+      "note": "A formal Roman legal wager: the parties agreed in writing that one would pay a sum to the other if a specified proposition was found true. In Pro Quinctio the sponsio is the form by which the substantive question (was Quinctius's property lawfully attached?) is brought to trial."
+    },
+    {
+      "loc": "32",
+      "anchor": "give security",
+      "entity_id": null,
+      "note": "satis dare iudicatum solvi: to provide sureties undertaking that the judgment, if adverse, will be paid. Quinctius's refusal to give such security would itself be tantamount to a plea of guilty; hence his preference for the alternative form, the sponsio."
+    }
+  ]
+}
