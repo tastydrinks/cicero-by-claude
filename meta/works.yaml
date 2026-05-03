@@ -2130,7 +2130,7 @@
   latin_file: latin/letters/058bc-ad-atticum-03-24.tex
   english_file: english/letters/058bc-ad-atticum-03-24.tex
   headnote_file: headnotes/letters/058bc-ad-atticum-03-24.tex
-  status: pending
+  status: drafted
   notes: 'Exile correspondence: April 58 BC to August 57 BC. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0057-12-31
@@ -2148,7 +2148,7 @@
   latin_file: latin/letters/058bc-ad-atticum-03-25.tex
   english_file: english/letters/058bc-ad-atticum-03-25.tex
   headnote_file: headnotes/letters/058bc-ad-atticum-03-25.tex
-  status: pending
+  status: drafted
   notes: 'Exile correspondence: April 58 BC to August 57 BC. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0057-12-31
@@ -2238,7 +2238,7 @@
   latin_file: latin/letters/058bc-ad-familiares-14-03.tex
   english_file: english/letters/058bc-ad-familiares-14-03.tex
   headnote_file: headnotes/letters/058bc-ad-familiares-14-03.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -4933,16 +4933,16 @@
   title_latin: Ad Familiares 13.43
   title_english: Ad Familiares 13.43
   category: letters
-  date: -0058-12-28
+  date: -0059-12-15
   date_precision: year
-  location_written: Romae ante
+  location_written: Romae
   recipient: Quintio Gallo
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam13.shtml
   latin_file: latin/letters/058bc-ad-familiares-13-43.tex
   english_file: english/letters/058bc-ad-familiares-13-43.tex
   headnote_file: headnotes/letters/058bc-ad-familiares-13-43.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
