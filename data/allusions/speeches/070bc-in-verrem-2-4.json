@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-4",
+  "allusions": [
+    {
+      "loc": "39",
+      "surface": "We have heard in the fables of Eriphyle ... a necklace ... she betrayed her husband's life",
+      "suspected_source": "Greek mythological tradition (cf. Sophocles, Eriphyle; Ennius, Eriphyla)",
+      "kind": "reference",
+      "certainty": "medium",
+      "translator_note": "The Eriphyle figure was familiar from Greek tragedy, including Sophocles's lost play; treated by Ennius as well. Cicero may have any of several intermediaries in mind."
+    },
+    {
+      "loc": "73",
+      "surface": "famous bull which Phalaris ... is said to have had",
+      "suspected_source": "Pindar, Pythian 1.94-95 (with later Greek tradition)",
+      "kind": "reference",
+      "certainty": "medium",
+      "translator_note": "Phalaris's bull was first commemorated in Pindar; by Cicero's day a commonplace of cruelty-tradition. Cicero's report of Scipio Aemilianus's mot on returning the bull may be from Polybius."
+    },
+    {
+      "loc": "126",
+      "surface": "famous Greek epigram was carved on the base",
+      "suspected_source": "unknown Hellenistic epigram on Sappho",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Cicero records that the empty base \"declares what was there,\" but does not quote the epigram. The original is lost."
+    },
+    {
+      "loc": "129",
+      "surface": "Iovem Imperatorem ... Vrios",
+      "suspected_source": "Greek cult title for Zeus",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Cicero glosses Iuppiter Imperator as Greek Zeus Ourios (\"granter of fair winds\"), the cult title at the Bosphoran temple. This is informational rather than allusive."
+    }
+  ]
+}

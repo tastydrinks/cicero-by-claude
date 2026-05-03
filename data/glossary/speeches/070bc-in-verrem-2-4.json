@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-4",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "Mamertine",
+      "entity_id": "place:messana",
+      "note": "Messana, the federate city, was the only Sicilian community that publicly praised Verres at his trial; it was his receiver-port and the builder of the cargo-ship that carried his plunder home. Cicero treats the praise as a confession by accomplice."
+    },
+    {
+      "loc": "4",
+      "anchor": "Praxiteles",
+      "entity_id": "person:praxiteles",
+      "note": "Athenian sculptor of the 4th century BC, the canonical master of marble. The Cupid in Heius's shrine was attributed to him; Cicero is anxious to record the artist names because they form the heart of the Roman art-collector's connoisseurship."
+    },
+    {
+      "loc": "5",
+      "anchor": "Canephori",
+      "entity_id": null,
+      "note": "καναφόροι: Athenian \"basket-bearer\" maidens of the Panathenaic procession; here the bronze pair by Polyclitus in Heius's shrine, depicted with arms raised carrying sacred objects on their heads. The standing iconographic type."
+    },
+    {
+      "loc": "13",
+      "anchor": "I prefer to buy than to ask",
+      "entity_id": null,
+      "note": "Verres's reported saying about plundering Sicilian art --- emo malo quam rogo. Cicero cites it as the moral inversion of the older Roman discipline by which a magistrate did not buy in his province at all."
+    },
+    {
+      "loc": "21",
+      "anchor": "Phaselis",
+      "entity_id": "place:phaselis",
+      "note": "Lycian coastal town that became a pirate haven by accident of geography. The pirates' standing accomplices among friendly cities are the type-figure for what Messana was to Verres: not a brigand-state, but the legitimate town that hosts brigandage by treaty-and-trade."
+    },
+    {
+      "loc": "26",
+      "anchor": "the cross ... at your harbour and city",
+      "entity_id": null,
+      "note": "The cross on which Verres crucified the Roman citizen Gavius is fixed at the Mamertine harbour, facing Italy. The sustained narrative of the crucifixion comes in Book 5 (5.158-170); Book 4 anticipates it with the standing image of the bloody cross."
+    },
+    {
+      "loc": "30",
+      "anchor": "Tlepolemus and Hiero",
+      "entity_id": "person:tlepolemus-cibyrates",
+      "note": "Brothers from Cibyra in Phrygia, fugitives from charges of plundering their own city's Apolline temple, taken by Verres into his service as art-experts. \"Like hunting-dogs they smelled out and tracked everything\": the standing image of Verres's plundering apparatus."
+    },
+    {
+      "loc": "39",
+      "anchor": "Eriphyle",
+      "entity_id": "god:eriphyle",
+      "note": "Greek mythological queen who betrayed her husband Amphiaraus for the necklace of Harmonia; Cicero invokes her as the type of greed inflamed by sight of jewels --- but adds that Verres is the keener case, since he was inflamed without seeing, only on hearing."
+    },
+    {
+      "loc": "54",
+      "anchor": "workshop at Syracuse in the palace",
+      "entity_id": null,
+      "note": "Verres set up a goldsmiths' workshop in the praetorian palace at Syracuse, in which (over eight months) the gold and silver insets torn from Sicilian plate were re-fitted into new gold cups and saucers. Cicero notes that Verres himself sat there in workman's tunic the greater part of the day."
+    },
+    {
+      "loc": "56",
+      "anchor": "Lucius Piso ... at Corduba",
+      "entity_id": "person:l-calpurnius-piso-praetor-spain",
+      "note": "L. Piso the praetor in Spain (father of L. Piso praetor 74 BC), broke his ring in arms-practice; he had the goldsmith make him a new one in the open in the forum at Corduba, with public weighing of the half-ounce of gold, lest there be any suspicion. The proverbial old-school transparency, contrasted with Verres's gold-vase workshop."
+    },
+    {
+      "loc": "61",
+      "anchor": "kings of Syria, the boys",
+      "entity_id": "person:antiochus-x-eusebes",
+      "note": "Antiochus XIII Asiaticus and his brother, the last Seleucid claimants; in c. 75 BC they had been at Rome lobbying the senate for recognition of their mother Selene's claim to Egypt, then returned through Sicily to Syria."
+    },
+    {
+      "loc": "64",
+      "anchor": "candelabrum ... for the Capitoline",
+      "entity_id": null,
+      "note": "Antiochus had brought the gem-set candelabrum to dedicate on the Capitoline; finding the temple of Jupiter not yet rebuilt after the fire of 83 BC, he was bringing it back to Syria for later return. Verres's seizure was both impiety against Jupiter and outrage against the foreign king."
+    },
+    {
+      "loc": "73",
+      "anchor": "bull of Phalaris",
+      "entity_id": "person:phalaris-acragantinus",
+      "note": "The bronze bull of Phalaris, tyrant of Acragas in the 6th century BC, in which men were roasted alive (their cries imitating a bull's bellowing); carried off by Carthage and restored by Scipio Aemilianus to the Agrigentines after 146 BC. Cicero records Scipio's mot: a fitting monument of both their old cruelty and Roman gentleness."
+    },
+    {
+      "loc": "75",
+      "anchor": "Diana of Segesta ... burning torch",
+      "entity_id": null,
+      "note": "Bronze image of Diana the huntress: stole-clad, with bow in left, burning torch in right, quiver on shoulder; carried off from Segesta by Carthage at the destruction of Himera, returned by Scipio Aemilianus, and now plundered again by Verres."
+    },
+    {
+      "loc": "86",
+      "anchor": "equestrian statues of the Marcelli",
+      "entity_id": "person:m-claudius-marcellus-cos-3",
+      "note": "Bronze statues of M. Claudius Marcellus and his line stood in the forums of every Sicilian town; they had spared Syracuse 212 BC and were the patrons of the province for generations. Verres bound the proagorus Sopater of Tyndaris naked to one of these statues in the rain."
+    },
+    {
+      "loc": "95",
+      "anchor": "Erymanthian boar",
+      "entity_id": "god:hercules",
+      "note": "The Sicilian witticism: just as the Erymanthian boar was a labour of Hercules, so this monstrous \"verres\" (boar) defeating Hercules's own temple-robbers must be reckoned a labour of the god. The pun on Verres's name (verres = \"boar\") is the standing joke of the trial."
+    },
+    {
+      "loc": "106",
+      "anchor": "Ceres and Libera",
+      "entity_id": "god:ceres",
+      "note": "The myth of Sicily's consecration to Ceres and Libera (Demeter and Persephone): Persephone was carried off from the grove of Henna by Father Dis; Ceres lit her torches at Aetna's fires to seek her. The whole island is the goddess's domain --- \"the navel of Sicily,\" Henna at the centre."
+    },
+    {
+      "loc": "108",
+      "anchor": "in the consulship of Publius Mucius and Lucius Calpurnius",
+      "entity_id": "person:p-mucius-l-calpurnius-cos133",
+      "note": "133 BC, the year of Tiberius Gracchus's killing. The Sibylline books were resorted to and the priests of the Roman people went to Henna to appease the most ancient Ceres --- the precedent for the Roman state's recognition of Hennensian Ceres as a Roman cult."
+    },
+    {
+      "loc": "117",
+      "anchor": "Syracuse ... four cities",
+      "entity_id": "place:syracusae",
+      "note": "Syracuse was famously composed of four districts: Ortygia (the Island, with the praetorium and the temples of Diana and Minerva), Achradina (the main forum), Tycha, and Neapolis (the new town, with the great theatre)."
+    },
+    {
+      "loc": "121",
+      "anchor": "Honos and Virtus",
+      "entity_id": "place:templum-honoris-virtutis",
+      "note": "Marcellus had vowed two temples (one each to Honos and Virtus) on taking Syracuse; the spoils of the city were dedicated there at Rome. Cicero contrasts: Marcellus dedicated to two abstract Roman virtues; Verres owed his vows to Venus and Cupid."
+    },
+    {
+      "loc": "126",
+      "anchor": "Sappho ... by Silanion",
+      "entity_id": "person:silanion-sculptor",
+      "note": "Bronze Sappho by Silanion (Athenian, 4th century BC) carried off from the Syracusan prytaneum, with a famous Greek epigram on its base. The empty base with its inscription remained as a mute reproach: the words declared what was missing."
+    },
+    {
+      "loc": "129",
+      "anchor": "three statues of Imperator Jupiter",
+      "entity_id": null,
+      "note": "Three statues of Iuppiter Imperator (Greek: Zeus Ourios, \"granter of fair winds\"), all of one type: one taken by Flamininus from Macedonia and dedicated on the Capitoline, one at the entrance to the Pontus, one at Syracuse. The third was Verres's plunder."
+    },
+    {
+      "loc": "132",
+      "anchor": "mystagogues",
+      "entity_id": null,
+      "note": "Greek μυσταγωγοί: the local guides who escorted visitors round the sights of a Greek city, pointing out and explaining each monument. Cicero's wry inversion: the Syracusan mystagogues now \"point out what has been taken away from where.\""
+    },
+    {
+      "loc": "147",
+      "anchor": "Numidicus ... the true and German Metellus",
+      "entity_id": "person:q-metellus-numidicus",
+      "note": "Q. Caecilius Metellus Numidicus (cos 109 BC), the strict consular, the type of senatorial uprightness; as patron of Lucullus's case had refused to lend his own praise even to his sister's husband. Cicero contrasts him with the new Metellus, L. Caecilius Metellus the praetor of 70 BC, who arranged Verres's praises by force and fear."
+    }
+  ]
+}

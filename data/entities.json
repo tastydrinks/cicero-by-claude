@@ -101,6 +101,38 @@
       ]
     },
     {
+      "id": "god:aeneas",
+      "type": "god",
+      "canonical_name": "Aeneas",
+      "short_name": "Aeneas",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q43338"
+      },
+      "summary": "Trojan hero, mythological founder of Segesta and ancestor of the Romans.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "hero"
+      ]
+    },
+    {
+      "id": "god:aesculapius",
+      "type": "god",
+      "canonical_name": "Aesculapius",
+      "short_name": "Aesculapius",
+      "aliases": [
+        "Asclepius"
+      ],
+      "external_ids": {
+        "wikidata": "Q40942"
+      },
+      "summary": "Greco-Roman god of healing; his shrine at Agrigentum held the Apollo by Myron, taken by Verres.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "greco-roman-god"
+      ]
+    },
+    {
       "id": "god:apollo",
       "type": "god",
       "canonical_name": "Apollo",
@@ -113,6 +145,38 @@
       "first_appearance": "in-verrem-2-1",
       "categories": [
         "olympian"
+      ]
+    },
+    {
+      "id": "god:ceres",
+      "type": "god",
+      "canonical_name": "Ceres",
+      "short_name": "Ceres",
+      "aliases": [
+        "Demeter"
+      ],
+      "external_ids": {
+        "wikidata": "Q42730"
+      },
+      "summary": "Roman goddess of grain, equated with Greek Demeter. Her cult at Henna was the most ancient and most reverenced in the Greek world; Verres carried off her statue, which Cicero treats as a second rape of Proserpina.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "olympian",
+        "agriculture"
+      ]
+    },
+    {
+      "id": "god:chrysas-fluvius",
+      "type": "god",
+      "canonical_name": "Chrysas (river-god)",
+      "short_name": "Chrysas",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "River-god of the Chrysas river near Assorus; his shrine held a marble statue Verres tried by night to plunder.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-cult",
+        "river-god"
       ]
     },
     {
@@ -130,6 +194,70 @@
       "first_appearance": "in-verrem-2-1",
       "categories": [
         "olympian"
+      ]
+    },
+    {
+      "id": "god:dis-pater",
+      "type": "god",
+      "canonical_name": "Dis Pater",
+      "short_name": "Father Dis",
+      "aliases": [
+        "Hades",
+        "Pluto"
+      ],
+      "external_ids": {
+        "wikidata": "Q41410"
+      },
+      "summary": "Roman god of the underworld, equated with Greek Hades; carried off Proserpina from Henna in the Sicilian myth.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "olympian"
+      ]
+    },
+    {
+      "id": "god:eriphyle",
+      "type": "god",
+      "canonical_name": "Eriphyle",
+      "short_name": "Eriphyle",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1346094"
+      },
+      "summary": "Greek mythological queen, betrayed her husband Amphiaraus for the gold-and-gems necklace of Harmonia. Cicero invokes the type-figure of greed inflamed by sight.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "mythological"
+      ]
+    },
+    {
+      "id": "god:hercules",
+      "type": "god",
+      "canonical_name": "Hercules",
+      "short_name": "Hercules",
+      "aliases": [
+        "Heracles"
+      ],
+      "external_ids": {
+        "wikidata": "Q34201"
+      },
+      "summary": "Greco-Roman hero-god; his temple at Agrigentum held the famous bronze cult-statue (with worn lips and chin) that Verres tried to plunder by night.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "olympian"
+      ]
+    },
+    {
+      "id": "god:juno-melitensis",
+      "type": "god",
+      "canonical_name": "Juno of Malta",
+      "short_name": "Juno (Melitensis)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "The Punic-Greek-Roman goddess (Tanit/Astarte/Hera) of the great Maltese sanctuary on the promontory; her treasure stripped by Verres in three years of weaving and plunder.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "punic-cult",
+        "sicilian-cult"
       ]
     },
     {
@@ -180,6 +308,36 @@
       ]
     },
     {
+      "id": "god:libera-proserpina",
+      "type": "god",
+      "canonical_name": "Libera / Proserpina",
+      "short_name": "Libera (Proserpina)",
+      "aliases": [
+        "Persephone"
+      ],
+      "external_ids": {
+        "wikidata": "Q172145"
+      },
+      "summary": "Daughter of Ceres, equated with Greek Persephone; her rape from the grove of Henna by Father Dis is the Sicilian myth Cicero invokes for Verres's plundering of the cult statue.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "olympian"
+      ]
+    },
+    {
+      "id": "god:mercurius-tyndaritanus",
+      "type": "god",
+      "canonical_name": "Mercury of Tyndaris",
+      "short_name": "Mercury (Tyndaris)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "The cult statue of Mercury given to the Tyndaritans by P. Scipio Africanus after the destruction of Carthage; carried off by Verres, the proagorus Sopater bound naked to Marcellus's equestrian statue in protest.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-cult"
+      ]
+    },
+    {
       "id": "god:minerva",
       "type": "god",
       "canonical_name": "Minerva",
@@ -209,6 +367,22 @@
       "categories": [
         "hero",
         "asian-cult"
+      ]
+    },
+    {
+      "id": "god:triptolemus",
+      "type": "god",
+      "canonical_name": "Triptolemus",
+      "short_name": "Triptolemus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1338554"
+      },
+      "summary": "Hero of the Eleusinian and Sicilian mysteries; spread the cult of grain. His statue with Ceres stood before the Henna temple.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "hero",
+        "agriculture"
       ]
     },
     {
@@ -251,6 +425,21 @@
       "first_appearance": "de-domo-sua",
       "categories": [
         "state-cult"
+      ]
+    },
+    {
+      "id": "god:victoria",
+      "type": "god",
+      "canonical_name": "Victoria",
+      "short_name": "Victory",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q235847"
+      },
+      "summary": "Roman personification of victory; the great image of Victory in Ceres's right hand at Henna was torn off by Verres.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "personification"
       ]
     },
     {
@@ -828,6 +1017,20 @@
       ]
     },
     {
+      "id": "person:aeschylus-tyndaritanus",
+      "type": "person",
+      "canonical_name": "Aeschylus of Tyndaris",
+      "short_name": "Aeschylus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Tyndaritan whom Verres robbed of a bowl.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
       "id": "person:aesopus",
       "type": "person",
       "canonical_name": "Clodius Aesopus",
@@ -854,6 +1057,37 @@
       "first_appearance": "in-verrem-2-2",
       "categories": [
         "sicilian"
+      ]
+    },
+    {
+      "id": "person:agathocles-syracusanus",
+      "type": "person",
+      "canonical_name": "Agathocles of Syracuse",
+      "short_name": "Agathocles",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q132805"
+      },
+      "summary": "Tyrant and king of Syracuse (r. 317-289 BC); the cavalry-battle panels in the Syracusan Minerva temple commemorated his battles.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "tyrant",
+        "king"
+      ]
+    },
+    {
+      "id": "person:alexander-magnus",
+      "type": "person",
+      "canonical_name": "Alexander the Great",
+      "short_name": "Alexander",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q8409"
+      },
+      "summary": "Macedonian king (r. 336-323 BC); his portrait by Apelles at Ephesus was the famous example of the Greek city's painted treasures.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "king"
       ]
     },
     {
@@ -942,6 +1176,21 @@
       ]
     },
     {
+      "id": "person:antiochus-x-eusebes",
+      "type": "person",
+      "canonical_name": "Antiochus XIII Asiaticus",
+      "short_name": "Antiochus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q318408"
+      },
+      "summary": "Last Seleucid king of Syria, son of Antiochus X Eusebes and Cleopatra Selene; he and his brother passed through Sicily on their way home in c. 75 BC and stopped at Syracuse, where Verres extorted from him the candelabrum he was bringing as a Capitoline gift.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "king"
+      ]
+    },
+    {
       "id": "person:antony",
       "type": "person",
       "canonical_name": "Marcus Antonius",
@@ -985,6 +1234,20 @@
       "categories": [
         "sicilian",
         "witness"
+      ]
+    },
+    {
+      "id": "person:apollonius-clodius",
+      "type": "person",
+      "canonical_name": "Apollonius son of Nicon (\"Aulus Clodius\")",
+      "short_name": "Apollonius / A. Clodius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Drepanitan made Roman citizen, called Aulus Clodius; Verres helped him plunder the orphans of Drepanum, then took silver from him.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-roman",
+        "accomplice"
       ]
     },
     {
@@ -1033,6 +1296,20 @@
       ]
     },
     {
+      "id": "person:archagathus-haluntinus",
+      "type": "person",
+      "canonical_name": "Archagathus of Haluntium",
+      "short_name": "Archagathus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Noble of Haluntium charged by Verres with collecting the embossed silver of the town --- a public despoiling carried out by the man who most longed to be loved by his fellow-citizens.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
       "id": "person:archias-poet",
       "type": "person",
       "canonical_name": "Aulus Licinius Archias",
@@ -1047,6 +1324,21 @@
         "client",
         "poet",
         "greek"
+      ]
+    },
+    {
+      "id": "person:archimedes",
+      "type": "person",
+      "canonical_name": "Archimedes",
+      "short_name": "Archimedes",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q8739"
+      },
+      "summary": "Syracusan mathematician and engineer (c. 287-212 BC), killed at the sack of Syracuse despite Marcellus's order to spare him.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "greek-scientist"
       ]
     },
     {
@@ -1077,6 +1369,19 @@
       "categories": [
         "literary",
         "greek"
+      ]
+    },
+    {
+      "id": "person:aristus-panhormitanus",
+      "type": "person",
+      "canonical_name": "Aristus of Panhormus",
+      "short_name": "Aristus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Panhormite from whom Verres took noble trappings.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian"
       ]
     },
     {
@@ -1206,6 +1511,19 @@
       ]
     },
     {
+      "id": "person:attalus-netinus",
+      "type": "person",
+      "canonical_name": "Attalus of Netum",
+      "short_name": "Attalus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Wealthy Netine, weaving for Verres.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian"
+      ]
+    },
+    {
       "id": "person:atticus",
       "type": "person",
       "canonical_name": "Titus Pomponius Atticus",
@@ -1249,6 +1567,21 @@
       "first_appearance": "pro-caelio",
       "categories": [
         "political"
+      ]
+    },
+    {
+      "id": "person:boethus-sculptor",
+      "type": "person",
+      "canonical_name": "Boethus of Chalcedon",
+      "short_name": "Boethus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q4938110"
+      },
+      "summary": "Greek sculptor and silversmith of the 2nd century BC; his hydria taken by Verres from Pamphilus.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "greek-sculptor"
       ]
     },
     {
@@ -1370,6 +1703,20 @@
       "first_appearance": "ad-familiares-13-40",
       "categories": [
         "client"
+      ]
+    },
+    {
+      "id": "person:c-cacurius-eques",
+      "type": "person",
+      "canonical_name": "Gaius Cacurius",
+      "short_name": "C. Cacurius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Busy and resourceful Roman whose furniture Verres took.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "eques",
+        "victim"
       ]
     },
     {
@@ -2202,6 +2549,20 @@
       ]
     },
     {
+      "id": "person:cn-calidius-eques",
+      "type": "person",
+      "canonical_name": "Gnaeus Calidius",
+      "short_name": "Cn. Calidius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Splendid Roman knight, businessman in Sicily; from him Verres took silver horsemen attributed to Q. Fabius Maximus. His son was a senator and juror.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "eques",
+        "victim"
+      ]
+    },
+    {
       "id": "person:cn-dolabella-cos",
       "type": "person",
       "canonical_name": "Gnaeus Cornelius Dolabella",
@@ -2288,6 +2649,21 @@
       ]
     },
     {
+      "id": "person:cn-lentulus-marcellinus-cos56",
+      "type": "person",
+      "canonical_name": "Gnaeus Cornelius Lentulus Marcellinus",
+      "short_name": "Cn. Lentulus Marcellinus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q314847"
+      },
+      "summary": "Roman senator (cos 56 BC); dissuaded Archagathus from demanding his money back at Rome, which became a piece of the testimony at the Verres trial.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "consular"
+      ]
+    },
+    {
       "id": "person:cn-papirius-carbo",
       "type": "person",
       "canonical_name": "Gnaeus Papirius Carbo",
@@ -2301,6 +2677,33 @@
       "categories": [
         "consular",
         "marian"
+      ]
+    },
+    {
+      "id": "person:cn-pompeius-basiliscus",
+      "type": "person",
+      "canonical_name": "Gnaeus Pompeius Basiliscus (\"Tullius\")",
+      "short_name": "Cn. Pompeius Basiliscus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Sicilian Greek made Roman citizen by Pompey, called Tullius among his fellow citizens; provided lodging at Messana for Cicero on his Sicilian inquiry.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-roman"
+      ]
+    },
+    {
+      "id": "person:cn-pompeius-philo-tyndaritanus",
+      "type": "person",
+      "canonical_name": "Gnaeus Pompeius (Philo) of Tyndaris",
+      "short_name": "Cn. Pompeius Philo",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Tyndaritan made Roman citizen by Pompey, hence renamed Cn. Pompeius; victim of Verres's tearing-off of figures from his banquet-dish.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-roman",
+        "victim"
       ]
     },
     {
@@ -2416,6 +2819,32 @@
       ]
     },
     {
+      "id": "person:cratippus-tyndaritanus",
+      "type": "person",
+      "canonical_name": "Cratippus of Tyndaris",
+      "short_name": "Cratippus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Tyndaritan from whom Verres took noble trappings.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian"
+      ]
+    },
+    {
+      "id": "person:critolaus-aetnensis",
+      "type": "person",
+      "canonical_name": "Critolaus of Aetna",
+      "short_name": "Critolaus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Aetnan, weaving for Verres.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian"
+      ]
+    },
+    {
       "id": "person:d-iunius-brutus-callaicus",
       "type": "person",
       "canonical_name": "Decimus Iunius Brutus",
@@ -2440,6 +2869,19 @@
       "first_appearance": "ad-atticum-04-11",
       "categories": [
         "agent"
+      ]
+    },
+    {
+      "id": "person:demetrius-gymnasiarchus",
+      "type": "person",
+      "canonical_name": "Demetrius (gymnasiarch of Tyndaris)",
+      "short_name": "Demetrius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Gymnasiarch of Tyndaris in charge of the place where the Mercury stood; oversaw its removal at Verres's order.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian"
       ]
     },
     {
@@ -2529,6 +2971,47 @@
       ]
     },
     {
+      "id": "person:diocles-popilius",
+      "type": "person",
+      "canonical_name": "Diocles Popilius",
+      "short_name": "Diocles Popilius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Son-in-law of Pamphilus of Lilybaeum, surnamed Popilius; from him Verres carried off all the silver of the sideboard.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
+      "id": "person:diodorus-melitensis",
+      "type": "person",
+      "canonical_name": "Diodorus the Maltese",
+      "short_name": "Diodorus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Resident of Lilybaeum, owner of cups by Mentor; absented himself from the province to keep his silver. Verres set up a fictive capital charge against him in absentia.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-resident",
+        "victim"
+      ]
+    },
+    {
+      "id": "person:diodorus-timarchidis-syracusanus",
+      "type": "person",
+      "canonical_name": "Diodorus son of Timarchides (Syracusan)",
+      "short_name": "Diodorus (Syracusanus)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Senior Syracusan senator; spokesman in the senate when Cicero was invited to address it on Verres's plunder.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian"
+      ]
+    },
+    {
       "id": "person:diognetus-venusianus",
       "type": "person",
       "canonical_name": "Diognetus the Venusian",
@@ -2540,6 +3023,19 @@
       "categories": [
         "slave",
         "publican"
+      ]
+    },
+    {
+      "id": "person:dionysiarchus-catinensis",
+      "type": "person",
+      "canonical_name": "Dionysiarchus (proagorus of Catina)",
+      "short_name": "Dionysiarchus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Highest magistrate of Catina, charged by Verres with seeking out and surrendering all the silver in the city.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian"
       ]
     },
     {
@@ -2680,6 +3176,20 @@
       "external_ids": {},
       "summary": "Centuripine of leading wealth and noble birth; one of Apronius's particular victims, beaten by him.",
       "first_appearance": "in-verrem-2-3",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
+      "id": "person:eupolemus-calactinus",
+      "type": "person",
+      "canonical_name": "Eupolemus of Calacte",
+      "short_name": "Eupolemus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Calactine, guest-friend of the Luculli; Verres tore the insets from his banquet cups in his presence.",
+      "first_appearance": "in-verrem-2-4",
       "categories": [
         "sicilian",
         "victim"
@@ -2918,6 +3428,20 @@
       ]
     },
     {
+      "id": "person:hiero-cibyrates",
+      "type": "person",
+      "canonical_name": "Hiero of Cibyra (sculptor)",
+      "short_name": "Hiero (Cibyrates)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Wax-modeller from Cibyra, brother of Tlepolemus; one of Verres's two chief Greek agents in the systematic plundering of Sicilian art.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "accomplice",
+        "artist"
+      ]
+    },
+    {
       "id": "person:hiero-ii",
       "type": "person",
       "canonical_name": "Hiero II of Syracuse",
@@ -2933,6 +3457,22 @@
       "categories": [
         "sicily",
         "king"
+      ]
+    },
+    {
+      "id": "person:hieron-ii",
+      "type": "person",
+      "canonical_name": "Hiero II of Syracuse",
+      "short_name": "Hiero",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q188077"
+      },
+      "summary": "King of Syracuse (r. 270-215 BC); Roman ally throughout the First and (until his death) Second Punic Wars. Author of the lex Hieronica, the grain-tithe charter Rome kept on annexing Sicily.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "king",
+        "client-king"
       ]
     },
     {
@@ -3180,6 +3720,19 @@
       ]
     },
     {
+      "id": "person:l-calpurnius-piso-praetor-spain",
+      "type": "person",
+      "canonical_name": "Lucius Calpurnius Piso (praetor in Spain)",
+      "short_name": "L. Piso (praetor in Spain)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman praetor in Hispania, killed there. Father of L. Piso the praetor 74 BC. Cicero cites his Corduba-forum gold-weighing as the proverbial old-school transparency, contrasted with Verres's gold-vase workshop at Syracuse.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "praetor"
+      ]
+    },
+    {
       "id": "person:l-canuleius-publicanus",
       "type": "person",
       "canonical_name": "Lucius Canuleius",
@@ -3278,6 +3831,19 @@
       "first_appearance": "in-verrem-2-2",
       "categories": [
         "consular"
+      ]
+    },
+    {
+      "id": "person:l-curidius-eques",
+      "type": "person",
+      "canonical_name": "Lucius Curidius",
+      "short_name": "L. Curidius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman to whom Verres returned silver through Potamo, before stopping such returns.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "eques"
       ]
     },
     {
@@ -3582,6 +4148,20 @@
       ]
     },
     {
+      "id": "person:l-papinius-eques",
+      "type": "person",
+      "canonical_name": "Lucius Papinius",
+      "short_name": "L. Papinius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Wealthy and honourable Roman knight; testified that Verres returned a censer to him with the inset torn out.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "eques",
+        "witness"
+      ]
+    },
+    {
       "id": "person:l-papirius-paetus",
       "type": "person",
       "canonical_name": "Lucius Papirius Paetus",
@@ -3708,6 +4288,20 @@
       ]
     },
     {
+      "id": "person:l-titius-paterfamilias",
+      "type": "person",
+      "canonical_name": "Lucius Titius (paterfamilias)",
+      "short_name": "L. Titius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman citizen at Agrigentum whose ring Verres seized after noticing its seal in the wax of an intercepted letter.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "roman-citizen",
+        "victim"
+      ]
+    },
+    {
       "id": "person:l-triarius-quaestor",
       "type": "person",
       "canonical_name": "Lucius Triarius",
@@ -3802,6 +4396,19 @@
       ]
     },
     {
+      "id": "person:lamia-segestana",
+      "type": "person",
+      "canonical_name": "Lamia of Segesta",
+      "short_name": "Lamia",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Wealthy Segestan matron whose household made Verres purple-dyed coverlets for three years.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-matron"
+      ]
+    },
+    {
       "id": "person:lentulus-crus",
       "type": "person",
       "canonical_name": "Lucius Cornelius Lentulus Crus",
@@ -3857,6 +4464,19 @@
       "first_appearance": "ad-familiares-05-03",
       "categories": [
         "agent"
+      ]
+    },
+    {
+      "id": "person:lyso-lilybitanus",
+      "type": "person",
+      "canonical_name": "Lyso of Lilybaeum",
+      "short_name": "Lyso",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Leading Lilybaean, Verres's host; the statue of Apollo plundered from his house was the marker of Verres's hospitality-violations.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian"
       ]
     },
     {
@@ -4066,6 +4686,20 @@
       ]
     },
     {
+      "id": "person:m-coelius-eques",
+      "type": "person",
+      "canonical_name": "Marcus Coelius",
+      "short_name": "M. Coelius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman knight at Lilybaeum from whom Verres took what he wished.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "eques",
+        "victim"
+      ]
+    },
+    {
       "id": "person:m-cossutius-defensor",
       "type": "person",
       "canonical_name": "Marcus Cossutius (defender)",
@@ -4237,6 +4871,21 @@
       "categories": [
         "jurist",
         "magistrate"
+      ]
+    },
+    {
+      "id": "person:m-marcellus-aeserninus",
+      "type": "person",
+      "canonical_name": "Marcus Marcellus Aeserninus",
+      "short_name": "M. Marcellus Aeserninus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q472498"
+      },
+      "summary": "Marcellus's young descendant; Verres claimed the Tyndaritans had sold him the Mercury statue, hoping he would take the alleged purchase upon himself --- which he did not.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "senator"
       ]
     },
     {
@@ -4532,6 +5181,21 @@
       ]
     },
     {
+      "id": "person:masinissa",
+      "type": "person",
+      "canonical_name": "Masinissa",
+      "short_name": "Masinissa",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q314866"
+      },
+      "summary": "King of Numidia (r. 202-148 BC), Roman ally; the type-figure of the scrupulous foreign king. His prefect once carried off ivory from the Maltese Juno temple, and Masinissa returned it with an inscribed apology.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "king"
+      ]
+    },
+    {
       "id": "person:menander-slave",
       "type": "person",
       "canonical_name": "Menander",
@@ -4542,6 +5206,21 @@
       "first_appearance": "ad-familiares-16-13",
       "categories": [
         "familia"
+      ]
+    },
+    {
+      "id": "person:mentor-sculptor",
+      "type": "person",
+      "canonical_name": "Mentor",
+      "short_name": "Mentor",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q3737842"
+      },
+      "summary": "Greek silversmith of the 4th century BC, the most famous embosser of his age. The thericlian cups attributed to him at Diodorus the Maltese's house were Verres's particular obsession.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "greek-silversmith"
       ]
     },
     {
@@ -4660,6 +5339,21 @@
       ]
     },
     {
+      "id": "person:myron-sculptor",
+      "type": "person",
+      "canonical_name": "Myron",
+      "short_name": "Myron",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q272989"
+      },
+      "summary": "Athenian sculptor of the early 5th century BC, famous for the Discobolus and the bronze heifer; the bronze Hercules in Heius's shrine and the bronze heifer at Athens were attributed to him.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "greek-sculptor"
+      ]
+    },
+    {
       "id": "person:naevius",
       "type": "person",
       "canonical_name": "Gnaeus Naevius",
@@ -4720,6 +5414,20 @@
       ]
     },
     {
+      "id": "person:nymphodorus-agrigentinus",
+      "type": "person",
+      "canonical_name": "Nymphodorus of Agrigentum",
+      "short_name": "Nymphodorus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Agrigentine whose censer Verres took.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
       "id": "person:p-annius-asellus",
       "type": "person",
       "canonical_name": "Publius Annius Asellus",
@@ -4743,6 +5451,19 @@
       "first_appearance": "in-verrem-2-1",
       "categories": [
         "praetor"
+      ]
+    },
+    {
+      "id": "person:p-caesetius-quaestor-verris",
+      "type": "person",
+      "canonical_name": "Publius Caesetius (quaestor of Verres)",
+      "short_name": "P. Caesetius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Verres's quaestor in Sicily; appealed to the praetor against the Syracusan senate's vote to revoke Verres's praise.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "quaestor"
       ]
     },
     {
@@ -4885,6 +5606,34 @@
       "first_appearance": "ad-familiares-13-51",
       "categories": [
         "client"
+      ]
+    },
+    {
+      "id": "person:p-mucius-l-calpurnius-cos133",
+      "type": "person",
+      "canonical_name": "Publius Mucius Scaevola and Lucius Calpurnius Piso Frugi (consuls 133 BC)",
+      "short_name": "Mucius and Calpurnius (cos 133)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Consuls of 133 BC, in whose year the Sibylline books were resorted to and a senatorial embassy went to Henna to appease Ceres after the killing of Tiberius Gracchus.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "consular"
+      ]
+    },
+    {
+      "id": "person:p-popillius-laenas-cos132",
+      "type": "person",
+      "canonical_name": "Publius Popillius Laenas (and P. Rupilius)",
+      "short_name": "Popillius and Rupilius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1869075"
+      },
+      "summary": "Roman consuls 132 BC; with Rupilius they suppressed the First Sicilian Servile War, after which Rupilius gave Sicily its provincial charter.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "consular"
       ]
     },
     {
@@ -5079,6 +5828,20 @@
       ]
     },
     {
+      "id": "person:pamphilus-lilybitanus",
+      "type": "person",
+      "canonical_name": "Pamphilus of Lilybaeum",
+      "short_name": "Pamphilus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Cicero's friend and guest-friend at Lilybaeum; victim of Verres's plundering of his ancestral hydria by Boethus.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
       "id": "person:papirius-potamo-iudex",
       "type": "person",
       "canonical_name": "Papirius Potamo",
@@ -5090,6 +5853,19 @@
       "categories": [
         "eques",
         "iudex"
+      ]
+    },
+    {
+      "id": "person:percennii-pompeii",
+      "type": "person",
+      "canonical_name": "Percennii / Pompeii at Messana",
+      "short_name": "Percennii",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Mamertine family made Roman citizens by Pompey, hence renamed Pompeii; gave lodging to Cicero's brother Lucius at Messana.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-roman"
       ]
     },
     {
@@ -5137,6 +5913,21 @@
       "categories": [
         "king",
         "historical-figure"
+      ]
+    },
+    {
+      "id": "person:phalaris-acragantinus",
+      "type": "person",
+      "canonical_name": "Phalaris of Acragas",
+      "short_name": "Phalaris",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q467317"
+      },
+      "summary": "Tyrant of Acragas (Agrigentum) c. 570-554 BC; proverbial cruelty-figure for the bronze bull in which he roasted men alive. Scipio Aemilianus restored the bull to the Agrigentines after taking Carthage.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "tyrant"
       ]
     },
     {
@@ -5245,6 +6036,20 @@
       ]
     },
     {
+      "id": "person:phylarchus-centuripinus",
+      "type": "person",
+      "canonical_name": "Phylarchus of Centuripa",
+      "short_name": "Phylarchus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Leading Centuripine; charged by Verres with searching out the silver of his city. Witness at the Verres trial.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian",
+        "witness"
+      ]
+    },
+    {
       "id": "person:pilia",
       "type": "person",
       "canonical_name": "Pilia",
@@ -5338,6 +6143,19 @@
       ]
     },
     {
+      "id": "person:polea-legatus",
+      "type": "person",
+      "canonical_name": "Polea (legate of Tyndaris)",
+      "short_name": "Polea",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Tyndaritan legate publicly in charge of the Mercury's removal to Messana.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian"
+      ]
+    },
+    {
       "id": "person:polemarchus-murgentinus",
       "type": "person",
       "canonical_name": "Polemarchus of Murgantia",
@@ -5349,6 +6167,21 @@
       "categories": [
         "sicilian",
         "victim"
+      ]
+    },
+    {
+      "id": "person:polyclitus-sculptor",
+      "type": "person",
+      "canonical_name": "Polyclitus",
+      "short_name": "Polyclitus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q272840"
+      },
+      "summary": "Argive sculptor of the 5th century BC; author of the bronze Canephori (basket-bearing maidens) in Heius's shrine.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "greek-sculptor"
       ]
     },
     {
@@ -5411,6 +6244,21 @@
       "categories": [
         "eques",
         "agent"
+      ]
+    },
+    {
+      "id": "person:praxiteles",
+      "type": "person",
+      "canonical_name": "Praxiteles",
+      "short_name": "Praxiteles",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q186170"
+      },
+      "summary": "Athenian sculptor of the 4th century BC; the Cupid in Heius's shrine at Messana was attributed to him, the same artist as the famous Thespian Cupid that L. Mummius spared.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "greek-sculptor"
       ]
     },
     {
@@ -5549,6 +6397,22 @@
       ]
     },
     {
+      "id": "person:q-fabius-maximus-cunctator",
+      "type": "person",
+      "canonical_name": "Quintus Fabius Maximus Verrucosus (Cunctator)",
+      "short_name": "Q. Maximus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q317534"
+      },
+      "summary": "Roman five-time consul (233-209 BC), dictator 217 BC; the famous Delayer who saved Rome by attrition against Hannibal. The historic owner of the silver horsemen Calidius held.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "consular",
+        "imperator"
+      ]
+    },
+    {
       "id": "person:q-iunius-iudex",
       "type": "person",
       "canonical_name": "Quintus Iunius",
@@ -5654,6 +6518,20 @@
       "categories": [
         "consular",
         "supporter"
+      ]
+    },
+    {
+      "id": "person:q-lutatius-diodorus",
+      "type": "person",
+      "canonical_name": "Quintus Lutatius Diodorus",
+      "short_name": "Q. Lutatius Diodorus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Sicilian made Roman citizen by Sulla on Catulus's recommendation; Verres took his citrus-wood table at Lilybaeum.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-roman",
+        "victim"
       ]
     },
     {
@@ -6017,6 +6895,21 @@
       ]
     },
     {
+      "id": "person:selene-cleopatra",
+      "type": "person",
+      "canonical_name": "Cleopatra Selene I",
+      "short_name": "Selene",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q231706"
+      },
+      "summary": "Ptolemaic princess and Seleucid queen; mother of Antiochus XIII; the kings' claim to the kingdom of Egypt rested on her.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "queen"
+      ]
+    },
+    {
       "id": "person:servilia-hortensii",
       "type": "person",
       "canonical_name": "Servilia (Hortensius's mother-in-law)",
@@ -6071,6 +6964,20 @@
       "categories": [
         "henchman",
         "adversary"
+      ]
+    },
+    {
+      "id": "person:sex-cominius-eques",
+      "type": "person",
+      "canonical_name": "Sextus Cominius",
+      "short_name": "Sex. Cominius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman knight whom Verres dragged forth at a banquet at Messana, threw a cup at, and then had thrown into chains.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "eques",
+        "victim"
       ]
     },
     {
@@ -6171,6 +7078,21 @@
       ]
     },
     {
+      "id": "person:silanion-sculptor",
+      "type": "person",
+      "canonical_name": "Silanion",
+      "short_name": "Silanion",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1421595"
+      },
+      "summary": "Athenian sculptor of the 4th century BC; author of the bronze Sappho in the Syracusan prytaneum carried off by Verres.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "greek-sculptor"
+      ]
+    },
+    {
       "id": "person:silanus-consul",
       "type": "person",
       "canonical_name": "Decimus Iunius Silanus",
@@ -6224,6 +7146,20 @@
       "external_ids": {},
       "summary": "Leading citizen of Halicyae; acquitted under Sacerdos, then re-tried before Verres, who took 80,000 sesterces from him for acquittal, more from his prosecutors for condemnation, condemned him on the second day with the council dismissed.",
       "first_appearance": "in-verrem-2-2",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
+      "id": "person:sopater-tyndaritanus",
+      "type": "person",
+      "canonical_name": "Sopater (proagorus of Tyndaris)",
+      "short_name": "Sopater (Tyndaritanus)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Highest magistrate of Tyndaris; bound naked in winter rain to the equestrian statue of Marcellus by Verres for refusing to surrender the cult statue of Mercury. Distinct from Sopater of Halicyae.",
+      "first_appearance": "in-verrem-2-4",
       "categories": [
         "sicilian",
         "victim"
@@ -6520,6 +7456,20 @@
       ]
     },
     {
+      "id": "person:theodorus-numenius-nicasion-hennenses",
+      "type": "person",
+      "canonical_name": "Theodorus, Numenius, and Nicasion of Henna",
+      "short_name": "Theodorus, Numenius, Nicasion",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Hennensian envoys to the Verres trial; charged with demanding the return of Ceres and Victory.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian",
+        "witness"
+      ]
+    },
+    {
       "id": "person:theomnastus-syracusanus",
       "type": "person",
       "canonical_name": "Theomnastus of Syracuse",
@@ -6578,6 +7528,20 @@
       ]
     },
     {
+      "id": "person:thraso-tyndaritanus",
+      "type": "person",
+      "canonical_name": "Thraso of Tyndaris",
+      "short_name": "Thraso",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Tyndaritan whom Verres robbed of a dish.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
       "id": "person:thucydides",
       "type": "person",
       "canonical_name": "Thucydides",
@@ -6591,6 +7555,22 @@
       "categories": [
         "historian",
         "greek"
+      ]
+    },
+    {
+      "id": "person:tiberius-gracchus",
+      "type": "person",
+      "canonical_name": "Tiberius Sempronius Gracchus (tribune 133 BC)",
+      "short_name": "Tiberius Gracchus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q316079"
+      },
+      "summary": "Roman tribune of the plebs 133 BC, killed in the popular reaction against his agrarian law; brother of Gaius Gracchus.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "tribune",
+        "popularis"
       ]
     },
     {
@@ -6801,6 +7781,20 @@
       ]
     },
     {
+      "id": "person:zosippus-ismenias",
+      "type": "person",
+      "canonical_name": "Zosippus and Ismenias of Tyndaris",
+      "short_name": "Zosippus and Ismenias",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Tyndaritan envoys to the Verres trial; testified to the Mercury extortion.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian",
+        "witness"
+      ]
+    },
+    {
       "id": "place:achaia",
       "type": "place",
       "canonical_name": "Achaia",
@@ -6813,6 +7807,32 @@
       "first_appearance": "in-verrem-2-1",
       "categories": [
         "province"
+      ]
+    },
+    {
+      "id": "place:achradina",
+      "type": "place",
+      "canonical_name": "Achradina",
+      "short_name": "Achradina",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "The largest of the four cities of Syracuse, with the main forum, prytaneum, and Senate-house, and the temple of Olympian Jupiter.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-place"
+      ]
+    },
+    {
+      "id": "place:aegyptus",
+      "type": "place",
+      "canonical_name": "Aegyptus",
+      "short_name": "Egypt",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "The Ptolemaic kingdom; in the late 70s BC the kingdom whose succession was disputed at Rome.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "kingdom"
       ]
     },
     {
@@ -6989,6 +8009,19 @@
       "first_appearance": "in-verrem-2-1",
       "categories": [
         "asian-city"
+      ]
+    },
+    {
+      "id": "place:assorus",
+      "type": "place",
+      "canonical_name": "Assorus",
+      "short_name": "Assorus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Sicilian inland town near Henna; resisted Verres's plundering of the river-god Chrysas's shrine.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-town"
       ]
     },
     {
@@ -7258,6 +8291,21 @@
       ]
     },
     {
+      "id": "place:cibyra",
+      "type": "place",
+      "canonical_name": "Cibyra",
+      "short_name": "Cibyra",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "638771"
+      },
+      "summary": "Phrygian city, home of the brothers Tlepolemus and Hiero whom Verres took into his service after they had fled charges of plundering the local Apolline temple.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "asian-city"
+      ]
+    },
+    {
       "id": "place:cilicia",
       "type": "place",
       "canonical_name": "Cilicia",
@@ -7289,6 +8337,21 @@
       ]
     },
     {
+      "id": "place:cnidus",
+      "type": "place",
+      "canonical_name": "Cnidus",
+      "short_name": "Cnidus",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "599583"
+      },
+      "summary": "Carian coastal city famous for Praxiteles's marble Aphrodite (Venus), the canonical statue of the Hellenistic age.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "asian-city"
+      ]
+    },
+    {
       "id": "place:comitium",
       "type": "place",
       "canonical_name": "Comitium",
@@ -7305,6 +8368,23 @@
       ]
     },
     {
+      "id": "place:corduba",
+      "type": "place",
+      "canonical_name": "Corduba",
+      "short_name": "Corduba",
+      "aliases": [
+        "C\u00f3rdoba"
+      ],
+      "external_ids": {
+        "pleiades": "246342"
+      },
+      "summary": "Capital of Hispania Ulterior, where L. Piso (praetor) had a goldsmith make him a ring in the open in the forum.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "spanish-city"
+      ]
+    },
+    {
       "id": "place:corinthus",
       "type": "place",
       "canonical_name": "Corinthus",
@@ -7317,6 +8397,21 @@
       "first_appearance": "in-verrem-2-1",
       "categories": [
         "greek-city"
+      ]
+    },
+    {
+      "id": "place:cos",
+      "type": "place",
+      "canonical_name": "Cos",
+      "short_name": "Cos",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "599580"
+      },
+      "summary": "Aegean island famous for Apelles's painted Aphrodite Anadyomene (the rival to the Cnidian Venus).",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "greek-island"
       ]
     },
     {
@@ -7350,6 +8445,21 @@
       "categories": [
         "italy",
         "campania"
+      ]
+    },
+    {
+      "id": "place:cyzicus",
+      "type": "place",
+      "canonical_name": "Cyzicus",
+      "short_name": "Cyzicus",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "511337"
+      },
+      "summary": "Greek city on the Propontis; its Ajax and Medea were among the type-cases of the Greek civic-art treasures.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "asian-city"
       ]
     },
     {
@@ -7421,6 +8531,19 @@
       ]
     },
     {
+      "id": "place:engyium",
+      "type": "place",
+      "canonical_name": "Engyium",
+      "short_name": "Engyium",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Sicilian town in the interior; site of the temple of the Great Mother adorned by Scipio Aemilianus's spoils.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-town"
+      ]
+    },
+    {
       "id": "place:entella",
       "type": "place",
       "canonical_name": "Entella",
@@ -7463,6 +8586,20 @@
       "first_appearance": "in-verrem-2-1",
       "categories": [
         "asian-city"
+      ]
+    },
+    {
+      "id": "place:fons-arethusa",
+      "type": "place",
+      "canonical_name": "Fons Arethusa",
+      "short_name": "Arethusa",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Famous freshwater spring on Ortygia, mythological transformation of the nymph Arethusa.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sanctuary",
+        "sicilian-place"
       ]
     },
     {
@@ -7602,6 +8739,21 @@
       "first_appearance": "ad-atticum-04-12",
       "categories": [
         "italy"
+      ]
+    },
+    {
+      "id": "place:haluntium",
+      "type": "place",
+      "canonical_name": "Haluntium",
+      "short_name": "Haluntium",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "462142"
+      },
+      "summary": "North-coast Sicilian town set high on a steep climb; Verres remained at the seashore in his litter while Archagathus collected the silver from the town above.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-town"
       ]
     },
     {
@@ -7937,6 +9089,21 @@
       ]
     },
     {
+      "id": "place:melita",
+      "type": "place",
+      "canonical_name": "Melita",
+      "short_name": "Malta",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "462256"
+      },
+      "summary": "The island of Malta, dependency of Sicily; home of Diodorus and site of the temple of Juno on its promontory which Masinissa had restored and Verres plundered.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "island"
+      ]
+    },
+    {
       "id": "place:messana",
       "type": "place",
       "canonical_name": "Messana",
@@ -8100,6 +9267,19 @@
       ]
     },
     {
+      "id": "place:neapolis-syracusana",
+      "type": "place",
+      "canonical_name": "Neapolis (Syracuse)",
+      "short_name": "Neapolis (Syracuse)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Fourth quarter of Syracuse, named \"new town\" because last built; site of the largest Greek theatre and of the temples of Ceres and Libera and the great image of Apollo Temenites.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-place"
+      ]
+    },
+    {
       "id": "place:netum",
       "type": "place",
       "canonical_name": "Netum",
@@ -8144,6 +9324,21 @@
       "first_appearance": "in-verrem-2-2",
       "categories": [
         "greek-town"
+      ]
+    },
+    {
+      "id": "place:ortygia-insula",
+      "type": "place",
+      "canonical_name": "Ortygia (the Island)",
+      "short_name": "Ortygia / the Island",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "462325"
+      },
+      "summary": "The original urban core of Syracuse, an island connected to the mainland by a causeway; the praetorian palace, the temples of Diana and Minerva, and the spring of Arethusa lay there.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-place"
       ]
     },
     {
@@ -8218,6 +9413,21 @@
       "first_appearance": "in-verrem-2-3",
       "categories": [
         "sicilian-town"
+      ]
+    },
+    {
+      "id": "place:phaselis",
+      "type": "place",
+      "canonical_name": "Phaselis",
+      "short_name": "Phaselis",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "638833"
+      },
+      "summary": "Lycian coastal town taken by P. Servilius Vatia 76 BC; before then a Greek city, became a pirate haven by accident of geography. Cicero uses it as the type-case for the Mamertine relation to Verres's brigandage.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "asian-city"
       ]
     },
     {
@@ -8616,6 +9826,23 @@
       ]
     },
     {
+      "id": "place:tarentum",
+      "type": "place",
+      "canonical_name": "Tarentum",
+      "short_name": "Tarentum",
+      "aliases": [
+        "Taranto"
+      ],
+      "external_ids": {
+        "pleiades": "442775"
+      },
+      "summary": "Greek city of southern Italy; its Europa-on-the-bull and Vesta-temple Satyr were among the famous local statues Cicero invokes.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "italian-city"
+      ]
+    },
+    {
       "id": "place:tauromenium",
       "type": "place",
       "canonical_name": "Tauromenium",
@@ -8666,6 +9893,34 @@
       ]
     },
     {
+      "id": "place:templum-felicitatis",
+      "type": "place",
+      "canonical_name": "Temple of Felicitas",
+      "short_name": "Temple of Felicitas",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman temple in the Velabrum, where the Thespiads (the Muses) brought back by L. Mummius from Thespiae were dedicated.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "rome",
+        "monument"
+      ]
+    },
+    {
+      "id": "place:templum-honoris-virtutis",
+      "type": "place",
+      "canonical_name": "Temple of Honos and Virtus",
+      "short_name": "Temple of Honos and Virtus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman temple at the Porta Capena; the spoils Marcellus brought from Syracuse 212 BC were dedicated there. (Marcellus had vowed two temples on taking the city.)",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "rome",
+        "monument"
+      ]
+    },
+    {
       "id": "place:templum-iovis-statoris",
       "type": "place",
       "canonical_name": "Aedes Iovis Statoris",
@@ -8707,6 +9962,21 @@
       "first_appearance": "in-verrem-2-2",
       "categories": [
         "sicilian-town"
+      ]
+    },
+    {
+      "id": "place:thespiae",
+      "type": "place",
+      "canonical_name": "Thespiae",
+      "short_name": "Thespiae",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "541214"
+      },
+      "summary": "Boeotian town, famous for Praxiteles's marble Cupid; Mummius spared it as consecrated.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "greek-town"
       ]
     },
     {
@@ -8768,6 +10038,19 @@
       "categories": [
         "italy",
         "villa"
+      ]
+    },
+    {
+      "id": "place:tycha-syracusana",
+      "type": "place",
+      "canonical_name": "Tycha",
+      "short_name": "Tycha (Syracuse)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Third quarter of Syracuse, named for an old shrine of Fortune; site of the great gymnasium.",
+      "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian-place"
       ]
     },
     {

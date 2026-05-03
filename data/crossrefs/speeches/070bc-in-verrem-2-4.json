@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-4",
+  "refs": [
+    {
+      "from_loc": "16",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Heius's testimony at the actio prima."
+    },
+    {
+      "from_loc": "26",
+      "to_work": "in-verrem-2-5",
+      "to_loc": "158-170",
+      "kind": "echo",
+      "certainty": "high",
+      "note": "The cross at the Mamertine harbour anticipates the Gavius narrative of Book 5; Cicero plants the standing image here in advance."
+    },
+    {
+      "from_loc": "31",
+      "to_work": "in-verrem-2-1",
+      "to_loc": "92",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Q. Tadius's books recording payments at Verres's order \"to the Greek painters\" --- the Cibyran brothers Tlepolemus and Hiero --- are the documentary trail from Book 1's Asian-legateship plundering to Book 4's Sicilian system."
+    },
+    {
+      "from_loc": "37",
+      "to_work": "in-verrem-2-1",
+      "to_loc": "104-114",
+      "kind": "self_reference",
+      "certainty": "medium",
+      "note": "The orphan-children of Drepanum and Heius's son under M. Marcellus's guardianship recall the ward-trustee pattern of Book 1's praetorian iniquities."
+    },
+    {
+      "from_loc": "53",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Archagathus's testimony at the actio prima."
+    },
+    {
+      "from_loc": "56",
+      "to_work": "in-verrem-2-3",
+      "to_loc": "195",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "L. Piso the elder is paired with the L. Piso Frugi of Book 3 --- the lex Calpurnia repetundis author --- as the Calpurnian Frugi virtue Verres betrays."
+    },
+    {
+      "from_loc": "73",
+      "to_work": "in-verrem-2-2",
+      "to_loc": "85-87",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"Of which I spoke before\": back-reference to the Himera-Thermae episode in Book 2-2 (the Stesichorus statue). Both books trace the same pattern: Scipio Aemilianus restored to a Sicilian city what Carthage had taken; Verres takes it again."
+    },
+    {
+      "from_loc": "82",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "Direct address to P. Servilius Vatia Isauricus and Q. Catulus, the two senior consulares on the jury, asking each to defend his own monument-inheritance against Verres's precedent."
+    },
+    {
+      "from_loc": "108",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "133 BC: the year of Tiberius Gracchus's killing and the senate's resort to the Sibylline books; the foundation of Roman state recognition of Hennensian Ceres."
+    },
+    {
+      "from_loc": "115",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "echo",
+      "certainty": "high",
+      "note": "The set-piece comparison of the two takings of Syracuse --- by Marcellus 212 BC, who spared the temples; by Verres in peace, who stripped them. The figure runs through 115-132."
+    },
+    {
+      "from_loc": "131",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "The famous Marcellus-and-Archimedes anecdote; from a wide tradition (Polybius, Livy, Plutarch)."
+    },
+    {
+      "from_loc": "137",
+      "to_work": "in-verrem-2-2",
+      "to_loc": "187-191",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "The Verrucii in Carpinatius's records: explicit back-reference to Book 2-2's account of how Cicero's research at Syracuse uncovered Verres's name forged out of the publicans' books."
+    },
+    {
+      "from_loc": "151",
+      "to_work": "in-verrem-2-2",
+      "to_loc": "51",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "The Verria/Marcellia substitution: closing return to Book 2-2's charge that Verres abolished the Marcellian festival and replaced it with one in his own name."
+    }
+  ]
+}
