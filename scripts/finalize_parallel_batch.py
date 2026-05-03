@@ -56,6 +56,24 @@ REGENERATED_FILES = {
     "data/letter-network.json",
 }
 
+# Per-work sidecars under these directories are deterministic outputs
+# of backfill_structural.py from the Latin/English files. When two
+# branches both produced one for the same work (add/add conflict), we
+# take ours and let the post-batch regeneration rebuild from sources.
+DETERMINISTIC_SIDECAR_DIRS = (
+    "data/parallel/",
+    "data/entities-mentions/",
+    "data/glossary/",
+    "data/allusions/",
+    "data/crossrefs/",
+)
+
+# JSON files that are list-of-objects-with-id and benefit from a
+# union-by-id merge when both sides added entries.
+UNION_BY_ID_FILES = {
+    "data/entities.json": "entities",
+}
+
 
 def git(*args: str, check: bool = True, capture: bool = True) -> subprocess.CompletedProcess:
     return subprocess.run(
@@ -186,6 +204,50 @@ def auto_resolve_works_yaml() -> bool:
     return "<<<<<<<" not in p.read_text(encoding="utf-8")
 
 
+def auto_resolve_union_by_id(path: str, list_key: str, branch: str) -> bool:
+    """Resolve a JSON conflict on a list-of-objects-with-id file by taking
+    the union by id. Used for data/entities.json: when two branches each
+    added new entities, we want all of them, not just one side's set.
+
+    On collision (same id on both sides), prefers ours -- the assumption
+    is that a richer/curated version already lives on main.
+    """
+    p = REPO / path
+    try:
+        ours = json.loads(subprocess.check_output(
+            ["git", "show", f":2:{path}"], cwd=REPO,
+        ).decode())
+        theirs = json.loads(subprocess.check_output(
+            ["git", "show", f":3:{path}"], cwd=REPO,
+        ).decode())
+    except (subprocess.CalledProcessError, json.JSONDecodeError):
+        return False
+
+    merged: dict[str, dict] = {}
+    for obj in ours.get(list_key, []):
+        if isinstance(obj, dict) and "id" in obj:
+            merged[obj["id"]] = obj
+    new_count = 0
+    for obj in theirs.get(list_key, []):
+        if isinstance(obj, dict) and "id" in obj and obj["id"] not in merged:
+            merged[obj["id"]] = obj
+            new_count += 1
+
+    sort_key = lambda o: (o.get("type", ""), o["id"]) if path == "data/entities.json" else o["id"]
+    merged_list = sorted(merged.values(), key=sort_key)
+    out = {"schema_version": 1, list_key: merged_list}
+    p.write_text(
+        json.dumps(out, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    info(f"  auto-resolve (union by id, +{new_count} from theirs): {path}")
+    return True
+
+
+def is_deterministic_sidecar(path: str) -> bool:
+    return any(path.startswith(d) for d in DETERMINISTIC_SIDECAR_DIRS)
+
+
 def attempt_merge(branch: str) -> tuple[bool, list[str]]:
     """Try to merge branch into the current HEAD. Returns
     (success, unresolved_files)."""
@@ -212,6 +274,21 @@ def attempt_merge(branch: str) -> tuple[bool, list[str]]:
             info(f"  auto-resolve (take ours, will regenerate): {path}")
             git("checkout", "--ours", "--", path)
             git("add", "--", path)
+
+    # Auto-resolve per-work deterministic sidecars: take ours, will regenerate.
+    for path in conflicts:
+        if is_deterministic_sidecar(path):
+            info(f"  auto-resolve (deterministic sidecar, take ours): {path}")
+            git("checkout", "--ours", "--", path)
+            git("add", "--", path)
+
+    # Auto-resolve JSON union-by-id files (entities.json etc.)
+    for path, list_key in UNION_BY_ID_FILES.items():
+        if path in conflicts:
+            if auto_resolve_union_by_id(path, list_key, branch):
+                git("add", "--", path)
+            else:
+                warn(f"  union-by-id resolution failed for {path}")
 
     # PROGRESS.md additive merge
     if "PROGRESS.md" in conflicts:
