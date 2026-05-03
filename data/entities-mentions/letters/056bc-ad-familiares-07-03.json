@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-03",
+  "mentions": [
+    {"loc": "1", "surface": "M. MARIO", "entity_id": "person:m-marius", "in": "lat"},
+    {"loc": "1", "surface": "Marcus Marius", "entity_id": "person:m-marius", "in": "eng"},
+    {"loc": "1", "surface": "Lentulo", "entity_id": "person:lentulus-crus", "in": "lat"},
+    {"loc": "1", "surface": "Lentulus", "entity_id": "person:lentulus-crus", "in": "eng"},
+    {"loc": "1", "surface": "Marcello", "entity_id": "person:c-claudius-marcellus-cos49", "in": "lat"},
+    {"loc": "1", "surface": "Marcellus", "entity_id": "person:c-claudius-marcellus-cos49", "in": "eng"},
+    {"loc": "1", "surface": "Pompeianum", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "1", "surface": "Pompeian villa", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "1", "surface": "Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "1", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "3", "surface": "Iubam", "entity_id": "person:juba-i", "in": "lat"},
+    {"loc": "3", "surface": "Juba", "entity_id": "person:juba-i", "in": "eng"},
+    {"loc": "5", "surface": "Rhodum", "entity_id": "place:rhodes", "in": "lat"},
+    {"loc": "5", "surface": "Rhodes", "entity_id": "place:rhodes", "in": "eng"},
+    {"loc": "5", "surface": "Mytilenas", "entity_id": "place:mytilene", "in": "lat"},
+    {"loc": "5", "surface": "Mytilene", "entity_id": "place:mytilene", "in": "eng"}
+  ]
+}
