@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-09",
+  "mentions": [
+    {"loc": "1", "surface": "QVINTO FRATRI", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "Quintus", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "Tenediorum", "entity_id": "place:tenedos", "in": "lat"},
+    {"loc": "2", "surface": "Tenedians", "entity_id": "place:tenedos", "in": "eng"},
+    {"loc": "2", "surface": "Bibulum", "entity_id": "person:m-calpurnius-bibulus", "in": "lat"},
+    {"loc": "2", "surface": "Bibulus", "entity_id": "person:m-calpurnius-bibulus", "in": "eng"},
+    {"loc": "2", "surface": "Calidium", "entity_id": "person:m-calidius", "in": "lat"},
+    {"loc": "2", "surface": "Calidius", "entity_id": "person:m-calidius", "in": "eng"},
+    {"loc": "2", "surface": "Favonium", "entity_id": "person:m-favonius", "in": "lat"},
+    {"loc": "2", "surface": "Favonius", "entity_id": "person:m-favonius", "in": "eng"},
+    {"loc": "2", "surface": "Magnetibus ab Sipylo", "entity_id": "place:magnesia-ad-sipylum", "in": "lat"},
+    {"loc": "2", "surface": "Magnesians from Sipylum", "entity_id": "place:magnesia-ad-sipylum", "in": "eng"},
+    {"loc": "2", "surface": "L. Sesti Pansae", "entity_id": "person:l-sestius-pansa", "in": "lat"},
+    {"loc": "2", "surface": "L. Sestius Pansa", "entity_id": "person:l-sestius-pansa", "in": "eng"},
+    {"loc": "2", "surface": "Pomponio", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "2", "surface": "Pomponius", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "3", "surface": "Lucreti", "entity_id": "person:lucretius", "in": "lat"},
+    {"loc": "3", "surface": "Lucretius's", "entity_id": "person:lucretius", "in": "eng"},
+    {"loc": "3", "surface": "Sallusti", "entity_id": "person:cn-sallustius", "in": "lat"},
+    {"loc": "3", "surface": "Sallustius's", "entity_id": "person:cn-sallustius", "in": "eng"},
+    {"loc": "3", "surface": "Empedoclea", "entity_id": "text:empedoclea-sallustius", "in": "both"}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "tablets",
+      "entity_id": null,
+      "note": "Codicilli: small wooden tablets coated with wax, the brothers' usual back-and-forth between Rome and Quintus's posts; the verb \"convicio efflagitarunt\" (\"demanded with reproach\") teases Quintus's complaining about the lack of letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "Tenedian axe",
+      "entity_id": null,
+      "note": "Securis Tenedia: a proverb for ruthlessly decisive action, after the king of Tenedos who was said to have ruled with an axe always at his side. The pun lies in cutting off the Tenedians themselves with the very emblem of their island."
+    },
+    {
+      "loc": "2",
+      "anchor": "Magnesians from Sipylum",
+      "entity_id": "place:magnesia-ad-sipylum",
+      "note": "Magnesia ad Sipylum, in Lydia near the foot of Mt Sipylus; an embassy from the city, in Rome on the same business that brought the Tenedian deputation, gave honourable mention to Quintus's resistance to the demand of L. Sestius Pansa."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pomponius",
+      "entity_id": "person:atticus",
+      "note": "T. Pomponius Atticus by his nomen, the form Cicero uses when writing about him to Quintus."
+    },
+    {
+      "loc": "3",
+      "anchor": "Empedoclea",
+      "entity_id": "text:empedoclea-sallustius",
+      "note": "A poem in Empedoclean style by Cn. Sallustius, friend of Cicero (not the historian); evidently turgid, since Cicero teases that to read it through is more than human."
+    }
+  ]
+}

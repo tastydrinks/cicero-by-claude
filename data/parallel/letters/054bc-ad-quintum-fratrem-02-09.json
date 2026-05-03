@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-09",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 2.9",
+  "title_english": "Ad Quintum Fratrem 2.9",
+  "date": "-0054-02-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "epistulam hanc convicio efflagitarunt codicilli tui. nam res quidem ipsa et is dies quo tu es profectus nihil mihi ad scribendum argumenti sane dabat. sed quem ad modum coram cum sumus sermo nobis deesse non solet, sic epistulae nostrae debent interdum alucinari.",
+      "eng": "Your tablets have demanded this letter of me with reproaches. For the matter itself and the day on which you set out gave me no real subject for writing. But just as, when we are in person, conversation is not in the habit of failing us, so our letters ought, now and then, to ramble.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Tenediorum igitur libertas securi Tenedia praecisa est, cum eos praeter me et Bibulum et Calidium et Favonium nemo defenderet. de te a Magnetibus ab Sipylo mentio est honorifica facta, cum te unum dicerent postulationi L. Sesti Pansae restitisse. reliquis diebus si quid erit quod te scire opus sit, aut etiam si nihil erit, tamen scribam cotidie aliquid. pridie Idus neque tibi neque Pomponio deero.",
+      "eng": "And so the freedom of the Tenedians has been cut off by a Tenedian axe — none defended them but myself, Bibulus, Calidius, and Favonius. Honourable mention was made of you by the Magnesians from Sipylum: they said you alone had stood against the demand of L. Sestius Pansa. On the days remaining, if there is anything you need to know, or even if there is nothing, I shall still write something every day. The day before the Ides I shall not fail either you or Pomponius.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Lucreti poemata, ut scribis, ita sunt, multis luminibus ingeni, multae tamen artis. sed cum veneris. virum te putabo si Sallusti Empedoclea legeris, hominem non putabo.",
+      "eng": "Lucretius's poems are as you write — many flashes of genius, yet much craft as well. But — when you come. I shall count you a man if you read Sallustius's Empedoclea; a human being I shall not count you.",
+      "notes": "Latin text crux: Perseus carries 'inultae tamen artis', evidently corrupt; rendered as 'multae tamen artis' (Watt OCT)."
+    }
+  ]
+}
