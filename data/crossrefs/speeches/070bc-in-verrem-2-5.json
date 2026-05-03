@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-5",
+  "refs": [
+    {
+      "from_loc": "15",
+      "to_work": "in-verrem-2-3",
+      "to_loc": "60",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "The C. Matrinius extortion (held at Leontini for two days by Apronius) ties Book 5's slave-suspicion racket to Book 3's tithe-violence; the same device, different pretext."
+    },
+    {
+      "from_loc": "26",
+      "to_work": "in-verrem-2-1",
+      "to_loc": "104",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"As I had said before\": the litter, the rose-cushion, the bedroom-justice all reprise the Chelidon-bedroom motif of Book 1's praetorship."
+    },
+    {
+      "from_loc": "31",
+      "to_work": "in-verrem-2-3",
+      "to_loc": "78-79",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Tertia and Pipa: the same harem-figures who run the Herbitan tithes in Book 3 reappear here as commanders of Verres's summer-tents on the Syracusan shore."
+    },
+    {
+      "from_loc": "39",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "Tempsa: the small slave-war remnant after Spartacus, on which the Senate considered sending Verres in 70 BC. Cicero's \"divine murmuring of the throng of the senate in the temple of Bellona\" is the senatorial scene Cicero fixes as audible record."
+    },
+    {
+      "from_loc": "40",
+      "to_work": "in-verrem-2-4",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "medium",
+      "note": "M. Marius the Valentinian eloquent man: the figure of orator-spokesmen for Italian towns recurs through the speeches; here the Valentine envoy whose request Verres refused."
+    },
+    {
+      "from_loc": "55",
+      "to_work": "in-verrem-2-3",
+      "to_loc": "44",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Metellus's restoration of Sacerdos's and Peducaeus's writings: the same act of unweaving Verres's praetorship recurs as a cross-charge motif from Book 3."
+    },
+    {
+      "from_loc": "63",
+      "to_work": "in-verrem-2-1",
+      "to_loc": "11-12",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "The pirate captain freed for cash: the central pirate-captain story Cicero anticipated in Book 1 returns here at Book 5 as full narrative. The substitute-pirate at Centuripa is the new turn."
+    },
+    {
+      "from_loc": "73",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "M. Annius's testimony at the actio prima: that a Roman citizen had been struck with the axe by Verres."
+    },
+    {
+      "from_loc": "94",
+      "to_work": "in-verrem-2-1",
+      "to_loc": "70",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"The Utican example of Hadrianus\": back-reference to Book 1's M. Fabius Hadrianus burnt alive at Utica 82 BC by the Roman citizens. The Syracusans almost transferred the precedent to Verres."
+    },
+    {
+      "from_loc": "105",
+      "to_work": "in-verrem-2-3",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "medium",
+      "note": "The Centuripine quadrireme captain Phalacrus and the Tyndaritan-Halicyaen-Herbitan-Heraclean-Apolloniate-Haluntine fleet captains chronologically tie back to the demographic-ruin testimony of Book 3."
+    },
+    {
+      "from_loc": "108",
+      "to_work": "in-verrem-2-3",
+      "to_loc": "90",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Naevius Turpio recurring as standing prosecutor (under Sacerdos condemned for wrongs, then revived by Verres): the figure ties Book 5's Achradina-column cases to the Erucine-Venus suits of Book 3."
+    },
+    {
+      "from_loc": "109",
+      "to_work": "in-verrem-2-2",
+      "to_loc": "83-114",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Sthenius of Thermae: the central absent-defendant case of Book 2 is recalled here as the analogous violation of guest-friendship that frames the Achradina-column captains."
+    },
+    {
+      "from_loc": "146",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "Sertorius and Sertorian fugitives: Cicero's framing of the Sertorian-rebellion charge as Verres's standing pretext for capital cases against Roman travellers."
+    },
+    {
+      "from_loc": "163",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "The lex Porcia and the leges Semproniae cited as the standing protections against the magistrate's rods. Cicero's invocation here is the foundational moment of citizenship-rights rhetoric."
+    },
+    {
+      "from_loc": "169",
+      "to_work": "in-verrem-2-4",
+      "to_loc": "26",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "The cross at the Mamertine harbour: explicit fulfilment of Book 4's anticipatory glance at the cross fixed where Italy could see it."
+    },
+    {
+      "from_loc": "175",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "\"Tribunes of the plebs given back to the Roman people\": the lex Pompeia Licinia of 70 BC restoring tribunician power; the constitutional-shift backdrop of the trial. Hortensius's consulship-designate carries less weight after the restoration of the tribunate."
+    },
+    {
+      "from_loc": "180",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "Cicero's roll-call of new men --- Cato, Pompeius, Fimbria, Marius, Caelius --- as the precedent for his own career."
+    }
+  ]
+}

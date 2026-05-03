@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-5",
+  "allusions": [
+    {
+      "loc": "146",
+      "surface": "Charybdis aut Scylla",
+      "suspected_source": "Homer, Odyssey 12",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "The standing pair of monsters of the Strait, taken from Homer; by Cicero's day a commonplace."
+    },
+    {
+      "loc": "146",
+      "surface": "alter Cyclops, multo immanior",
+      "suspected_source": "Homer, Odyssey 9",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "The Polyphemus-figure, set in the same Sicilian setting as Homer; Cicero plays with the geographical overlap (\"in those same places\")."
+    },
+    {
+      "loc": "162",
+      "surface": "civis Romanus sum",
+      "suspected_source": "stock formula of Roman citizenship",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Not an allusion but a quoted Roman citizen's standing self-identification, made famous by this passage and re-used in NT and later. Cicero treats it almost as a religious phrase."
+    },
+    {
+      "loc": "145",
+      "surface": "Charybdim ... Cyclops ... maritimis bays",
+      "suspected_source": "Homeric / Hellenistic poet-tradition of Sicilian shore-monsters",
+      "kind": "reference",
+      "certainty": "medium",
+      "translator_note": "Cicero refers to \"poets\" generally for the figure of the shore-monster who waylays ships; the type is Homeric, refracted through Hellenistic poets."
+    }
+  ]
+}

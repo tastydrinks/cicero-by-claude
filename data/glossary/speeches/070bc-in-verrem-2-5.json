@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-5",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "de suppliciis",
+      "entity_id": null,
+      "note": "\"On punishments\": the closing book of the Actio Secunda. Cicero opens by demolishing Verres's last line of defence (that he was at least a good general who kept Sicily safe) and runs through the cruelties --- against slaves, allies, and finally Roman citizens --- to the climactic crucifixion of Gavius."
+    },
+    {
+      "loc": "3",
+      "anchor": "trial of Manius Aquilius",
+      "entity_id": "person:m-aquilius-cos101",
+      "note": "M. Antonius the orator's defence of Manius Aquilius (cos 101) at his extortion trial 98 BC. Antonius set Aquilius in the sight of the jurors and tore his tunic from his breast, showing the scars taken in the slave-war; the proverbial example of acquittal won by martial display."
+    },
+    {
+      "loc": "5",
+      "anchor": "rafts joined ... could not pass through the strait",
+      "entity_id": "person:crassus",
+      "note": "The Spartacan slaves tried to cross the Strait of Messana on improvised rafts. M. Crassus prevented the crossing in 71 BC; the standing example of Roman generalship Verres claims (and Cicero refuses) for himself."
+    },
+    {
+      "loc": "7",
+      "anchor": "Lucius Domitius",
+      "entity_id": "person:l-domitius-ahenobarbus-cos96",
+      "note": "L. Domitius Ahenobarbus the praetor in Sicily (c. 96 BC), known for the proverbial tale: a shepherd brought him a great boar, and Domitius (on hearing the man had killed it with a hunting-spear, against the standing Sicilian rule that no slave should bear arms) had him crucified at once. Cicero cites it as the standing-strict reading of the no-slave-arms institution."
+    },
+    {
+      "loc": "26",
+      "anchor": "when he had seen a rose",
+      "entity_id": null,
+      "note": "Verres marked the start of spring not by the west wind or the rising of any star (the customary almanac signs), but by the appearance of a rose. The figure is Cicero's mockery of his sybaritic disconnection from the calendars by which a praetor lived."
+    },
+    {
+      "loc": "27",
+      "anchor": "carried in a litter borne by eight",
+      "entity_id": null,
+      "note": "octophorus: a litter borne by eight bearers, the standing equipage of Hellenistic kings. Cicero contrasts \"the custom of the kings of Bithynia\" with the proper duty of a Roman magistrate, who was expected to ride out on horseback through his province."
+    },
+    {
+      "loc": "28",
+      "anchor": "Battle of Cannae of wickedness",
+      "entity_id": "place:cannae",
+      "note": "Cannensis pugna nequitiae: Cicero's wry coinage --- the proverbial Roman defeat at Cannae 216 BC, applied to the wreckage at Verres's banquets, men carried out as if dead, others lying without sense."
+    },
+    {
+      "loc": "31",
+      "anchor": "this Hannibal",
+      "entity_id": "person:hannibal",
+      "note": "Cicero now applies the standing Roman name for the great enemy --- Hannibal --- to Verres in his women's-army camp on the Syracusan shore. The figure of the praetor as a perverse general fighting battles of luxury runs through 26-31."
+    },
+    {
+      "loc": "34",
+      "anchor": "consulship of Lucius Lucullus and Marcus Cotta",
+      "entity_id": null,
+      "note": "74 BC, the year of Verres's praetorship, in which (the witnesses say) Verres ruled the city's law-courts at the discretion of Chelidon, and (separately) was carried by night for sex to a married woman, against the augural and ceremonial restrictions on a magistrate setting out for war."
+    },
+    {
+      "loc": "61",
+      "anchor": "all that money be counted out to him",
+      "entity_id": null,
+      "note": "Verres's procedural innovation: the standing custom was that the cities paid the captains they themselves had appointed; Verres routed all expense-payments through himself. The innovation gave him a monopoly of skim, a discharge-for-cash market for the rowers and soldiers, and the pretext for the discharges that destroyed the fleet at Helorus."
+    },
+    {
+      "loc": "68",
+      "anchor": "stone-quarries",
+      "entity_id": null,
+      "note": "Latomiae of Syracuse: the great limestone quarries cut into the cliffs above Achradina, used since the time of Dionysius as the city's escape-proof prison. The Athenian survivors of the Sicilian Expedition (414/3 BC) had been kept there. Verres made the Latomiae his standing prison for Roman citizens charged as Sertorian fugitives."
+    },
+    {
+      "loc": "73",
+      "anchor": "axe",
+      "entity_id": null,
+      "note": "securis: the executioner's axe carried in the praetor's fasces. The right of provocatio (the lex Porcia) protected Roman citizens from being so executed in a province; Verres's striking-with-the-axe of Roman citizens is the framing crime of Book 5."
+    },
+    {
+      "loc": "112",
+      "anchor": "Furius's defence of his case",
+      "entity_id": "person:furius-heracleensis",
+      "note": "The Heraclean captain Furius wrote his own defence in prison nights at Syracuse and circulated it before his execution. Cicero cites it as a written witness now in everyone's hands in Sicily --- a martyrdom-document predating its name."
+    },
+    {
+      "loc": "118",
+      "anchor": "executioner Sextius",
+      "entity_id": "person:sextius-lictor-verris",
+      "note": "Verres's lictor; demanded a cash payment from each parent of the captains executed at the Achradina column, with a sliding scale: that the parent might approach his son, that food and clothing be brought, that the stroke be quick, that the body be released for burial. The exaction-of-fees-for-mercies is the crowning detail of the Achradina narrative."
+    },
+    {
+      "loc": "143",
+      "anchor": "Latomiae of Dionysius",
+      "entity_id": "person:dionysius-tyrannus-syracusarum",
+      "note": "The stone-quarry prison whose making Cicero attributes to Dionysius the tyrant of Syracuse (4th century BC). The cell-image runs through 68-148."
+    },
+    {
+      "loc": "146",
+      "anchor": "second Cyclops",
+      "entity_id": "god:cyclops",
+      "note": "Cicero's elevation of the standing Sicilian-pirate-monster figures: Verres is not Charybdis or Scylla (one stretch of strait each) but a second Cyclops, who besieged the whole island, and a more monstrous one --- girt with many more hunting-dogs."
+    },
+    {
+      "loc": "148",
+      "anchor": "edikaiothesan",
+      "entity_id": null,
+      "note": "ἐδικαιώθησαν: Greek for \"they were punished and killed.\" Cicero notes that Verres did not understand what the Sicilians had written in the prison-register; the marker of his ignorance is also the proof of mass murder."
+    },
+    {
+      "loc": "162",
+      "anchor": "civis Romanus sum",
+      "entity_id": "institution:populus-romanus",
+      "note": "\"I am a Roman citizen\": the most famous phrase of the Verrines, by which Gavius implored protection from the cross. Cicero cites it as a citizen's standing protection across all the lands the toga reached --- a protection Verres alone in living memory ignored."
+    },
+    {
+      "loc": "163",
+      "anchor": "Porcian law and Sempronian laws",
+      "entity_id": "law:lex-porcia",
+      "note": "Lex Porcia (provocatio: a Roman citizen could not be flogged or executed by a magistrate without trial at Rome) and the Gracchan leges Semproniae extending citizen protections. The two foundational pillars of the Roman citizen's standing protections in the provinces."
+    },
+    {
+      "loc": "163",
+      "anchor": "Glabrio ... dismissing the council",
+      "entity_id": "person:m-glabrio",
+      "note": "M.' Acilius Glabrio the praetor of the quaestio: when the actio prima testimony reached Gavius's crucifixion, the multitude in the forum was so stirred that Glabrio prudently suspended the trial for the day, lest the Roman people demand by force what it feared would not come from the law."
+    },
+    {
+      "loc": "169",
+      "anchor": "from the cross see Italy",
+      "entity_id": null,
+      "note": "Verres ordered Gavius's cross set up on the strait-facing side of the Via Pompeia outside Messana, so that the dying citizen could see Italy across the water. \"That cross alone, since Messana was founded, was set up in that place\": Cicero's signature image of provincial-imperial inversion."
+    },
+    {
+      "loc": "180",
+      "anchor": "Marcus Cato ... Quintus Pompeius ... Gaius Fimbria ... Gaius Marius ... Gaius Caelius",
+      "entity_id": null,
+      "note": "Cicero's roll-call of the great novi homines who reached the highest honours through labour and the bearing of enmities, against the natural envy of the nobility: M. Cato the Censor (cos 195), Q. Pompeius (cos 141), C. Fimbria (cos 104), C. Marius (cos seven times from 107 BC), C. Coelius Caldus (cos 94). Cicero presents himself in 181 as their successor."
+    },
+    {
+      "loc": "184",
+      "anchor": "you, Jupiter Optimus Maximus",
+      "entity_id": "god:jupiter",
+      "note": "The closing peroration: a sustained invocation, in solemn ritual style, of the gods Verres has plundered. Each god is called by name and place; the rhetorical effect is that of a long curse-tablet, with Verres pinned to it by the catalogue of his victims."
+    }
+  ]
+}

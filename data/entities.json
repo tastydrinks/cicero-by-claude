@@ -148,6 +148,21 @@
       ]
     },
     {
+      "id": "god:castor-pollux",
+      "type": "god",
+      "canonical_name": "Castor and Pollux (the Dioscuri)",
+      "short_name": "Castor and Pollux",
+      "aliases": [
+        "Dioscuri"
+      ],
+      "external_ids": {},
+      "summary": "The twin gods, sons of Jupiter and Leda; their temple stood in the Forum Romanum, the venue of trials and the standing-place where Cicero often appears in the Verrines as a witness of the law.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "roman-god"
+      ]
+    },
+    {
       "id": "god:ceres",
       "type": "god",
       "canonical_name": "Ceres",
@@ -177,6 +192,23 @@
       "categories": [
         "sicilian-cult",
         "river-god"
+      ]
+    },
+    {
+      "id": "god:cyclops",
+      "type": "god",
+      "canonical_name": "Cyclops (Polyphemus)",
+      "short_name": "Cyclops",
+      "aliases": [
+        "Polyphemus"
+      ],
+      "external_ids": {
+        "wikidata": "Q221302"
+      },
+      "summary": "One-eyed giant of the Sicilian shore in Homer; Cicero invokes the figure for Verres, who \"besieged the whole island.\"",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "mythological"
       ]
     },
     {
@@ -325,6 +357,25 @@
       ]
     },
     {
+      "id": "god:mater-idaea",
+      "type": "god",
+      "canonical_name": "Mater Idaea (Magna Mater)",
+      "short_name": "Mother of Ida",
+      "aliases": [
+        "Cybele",
+        "Magna Mater"
+      ],
+      "external_ids": {
+        "wikidata": "Q121177"
+      },
+      "summary": "Anatolian goddess of Mount Ida, equated with Cybele; her temple at Engyium in Sicily was adorned with Scipio Aemilianus's spoils, plundered by Verres.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "asian-cult",
+        "olympian"
+      ]
+    },
+    {
       "id": "god:mercurius-tyndaritanus",
       "type": "god",
       "canonical_name": "Mercury of Tyndaris",
@@ -353,6 +404,21 @@
       "categories": [
         "olympian",
         "tutelary"
+      ]
+    },
+    {
+      "id": "god:scylla-charybdis",
+      "type": "god",
+      "canonical_name": "Scylla and Charybdis",
+      "short_name": "Scylla and Charybdis",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q623671"
+      },
+      "summary": "Mythical sea-monsters of the Strait of Messana; Cicero uses them as the type-figure for Verres's predation on shipping.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "mythological"
       ]
     },
     {
@@ -606,6 +672,20 @@
       ]
     },
     {
+      "id": "law:leges-semproniae",
+      "type": "law",
+      "canonical_name": "Leges Semproniae",
+      "short_name": "leges Semproniae",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Gracchan laws (123 BC) of C. Sempronius Gracchus, including the lex Sempronia ne quis iudicio circumveniatur and the standing-court reforms; the citizen-right protections invoked by Cicero alongside the lex Porcia.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "roman-law",
+        "citizen-right"
+      ]
+    },
+    {
       "id": "law:leges-veteres",
       "type": "law",
       "canonical_name": "Leges Atinia, Furia, Fusia",
@@ -715,6 +795,20 @@
       "first_appearance": "in-pisonem",
       "categories": [
         "roman-law"
+      ]
+    },
+    {
+      "id": "law:lex-porcia",
+      "type": "law",
+      "canonical_name": "Lex Porcia",
+      "short_name": "lex Porcia",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "The lex Porcia (early 2nd century BC) on the right of provocatio: a Roman citizen could not be flogged or executed by a magistrate; he must be remitted to Rome for trial. The standing protection Verres violated against Gavius.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "roman-law",
+        "citizen-right"
       ]
     },
     {
@@ -1160,6 +1254,20 @@
       ]
     },
     {
+      "id": "person:anthropinus-apolloniates",
+      "type": "person",
+      "canonical_name": "Anthropinus (Apolloniate prefect)",
+      "short_name": "Anthropinus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Apolloniate prefect of one of the Sicilian fleet's ships, killed when the ship was taken by pirates at Helorus.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
       "id": "person:antiochus-iii",
       "type": "person",
       "canonical_name": "Antiochus III the Great",
@@ -1248,6 +1356,20 @@
       "categories": [
         "sicilian-roman",
         "accomplice"
+      ]
+    },
+    {
+      "id": "person:apollonius-geminus-panhormitanus",
+      "type": "person",
+      "canonical_name": "Apollonius Geminus of Panhormus",
+      "short_name": "Apollonius Geminus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Most wealthy Panhormitan, surnamed Geminus (\"the Twin\"); thrown into prison without trial under a fictive charge of slave-master conspiracy, kept eighteen months until he paid. Distinct from Apollonius/Aulus Clodius of Drepanum.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
+        "victim"
       ]
     },
     {
@@ -1353,6 +1475,33 @@
       "categories": [
         "sicilian",
         "witness"
+      ]
+    },
+    {
+      "id": "person:aristeus-dexonis-filius",
+      "type": "person",
+      "canonical_name": "Aristeus son of Dexo",
+      "short_name": "Aristeus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Son of Dexo of Tyndaris, captain of the Tyndaritan ship; struck with the axe at the Achradina column on Verres's order.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
+      "id": "person:aristodamus-apolloniensis",
+      "type": "person",
+      "canonical_name": "Aristodamus of Apollonia",
+      "short_name": "Aristodamus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Sicilian master treated like Leonidas under Verres's slave-suspicion racket.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian"
       ]
     },
     {
@@ -1720,6 +1869,22 @@
       ]
     },
     {
+      "id": "person:c-caelius-caldus-cos94",
+      "type": "person",
+      "canonical_name": "Gaius Coelius Caldus",
+      "short_name": "C. Coelius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1359974"
+      },
+      "summary": "Roman consul 94 BC, novus homo; tribune of the plebs 107 BC, brought a law on secret ballot in extortion trials. Cicero's other roll-call new man.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "consular",
+        "novus-homo"
+      ]
+    },
+    {
       "id": "person:c-calpurnius-piso-frugi",
       "type": "person",
       "canonical_name": "Gaius Calpurnius Piso Frugi",
@@ -1881,6 +2046,22 @@
       "first_appearance": "pro-roscio-comoedo",
       "categories": [
         "adversary"
+      ]
+    },
+    {
+      "id": "person:c-fimbria-cos104",
+      "type": "person",
+      "canonical_name": "Gaius Flavius Fimbria",
+      "short_name": "C. Fimbria",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1066146"
+      },
+      "summary": "Roman consul 104 BC, novus homo; one of Cicero's roll-call of new men who reached the highest honours through enmity-bearing labour.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "consular",
+        "novus-homo"
       ]
     },
     {
@@ -2106,6 +2287,20 @@
       ]
     },
     {
+      "id": "person:c-numitorius-eques",
+      "type": "person",
+      "canonical_name": "Gaius Numitorius",
+      "short_name": "C. Numitorius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Leading Roman knight; testified at the actio prima about the crucifixion of Gavius.",
+      "first_appearance": "in-verrem-actio-prima",
+      "categories": [
+        "eques",
+        "witness"
+      ]
+    },
+    {
       "id": "person:c-papirius-carbo-cos120",
       "type": "person",
       "canonical_name": "Gaius Papirius Carbo",
@@ -2177,6 +2372,20 @@
       "categories": [
         "senator",
         "imperator"
+      ]
+    },
+    {
+      "id": "person:c-servilius-eques",
+      "type": "person",
+      "canonical_name": "Gaius Servilius (Roman knight, Lilybaeum)",
+      "short_name": "C. Servilius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Old Roman businessman of the Panhormitan assize; flogged to death in the Lilybaeum forum by Verres's lictor Sextius for speaking too freely.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "eques",
+        "victim"
       ]
     },
     {
@@ -2915,6 +3124,20 @@
       ]
     },
     {
+      "id": "person:dexo-tyndaritanus",
+      "type": "person",
+      "canonical_name": "Dexo of Tyndaris",
+      "short_name": "Dexo",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Most noble Tyndaritan, Verres's former guest-friend; father of Aristeus, struck with the axe by Verres's order at the Achradina column.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
       "id": "person:dio-alexandrinus",
       "type": "person",
       "canonical_name": "Dio of Alexandria",
@@ -3036,6 +3259,21 @@
       "first_appearance": "in-verrem-2-4",
       "categories": [
         "sicilian"
+      ]
+    },
+    {
+      "id": "person:dionysius-tyrannus-syracusarum",
+      "type": "person",
+      "canonical_name": "Dionysius (tyrant of Syracuse)",
+      "short_name": "Dionysius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q300106"
+      },
+      "summary": "Dionysius I or II, tyrants of Syracuse (4th century BC); the type-figures of cruel sovereignty. The Latomiae stone-quarry prison was attributed to them.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "tyrant"
       ]
     },
     {
@@ -3182,6 +3420,34 @@
       ]
     },
     {
+      "id": "person:eubulides-herbitensis",
+      "type": "person",
+      "canonical_name": "Eubulides of Herbita",
+      "short_name": "Eubulides",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Most noble Herbitan; father of one of the captains struck with the axe by Verres. Almost left bare for defending his son and naming Cleomenes.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
+      "id": "person:eumenides-halicyensis",
+      "type": "person",
+      "canonical_name": "Eumenides of Halicyae",
+      "short_name": "Eumenides",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Wealthy Halicyaean noble forced to pay 60,000 sesterces because his bailiff was \"accused\" by Verres's prompting.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
+        "victim"
+      ]
+    },
+    {
       "id": "person:eupolemus-calactinus",
       "type": "person",
       "canonical_name": "Eupolemus of Calacte",
@@ -3237,6 +3503,20 @@
       "categories": [
         "client",
         "governor"
+      ]
+    },
+    {
+      "id": "person:furius-heracleensis",
+      "type": "person",
+      "canonical_name": "Furius (Heraclean captain)",
+      "short_name": "Furius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Heraclean captain who wrote a defence of his case in the prison nights at Syracuse, condemning Verres's cruelty before his execution. The defence-text became a token of resistance throughout Sicily.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
+        "victim"
       ]
     },
     {
@@ -3339,6 +3619,33 @@
       "first_appearance": "in-verrem-2-4",
       "categories": [
         "sicily",
+        "victim"
+      ]
+    },
+    {
+      "id": "person:heracleo-pirata",
+      "type": "person",
+      "canonical_name": "Heracleo (pirate)",
+      "short_name": "Heracleo",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Pirate captain who burned the Roman fleet on the beach at Helorus and sailed unopposed into the Syracusan harbour, while Verres lay drunk in his shore-tents.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "pirate"
+      ]
+    },
+    {
+      "id": "person:heracleus-segestanus",
+      "type": "person",
+      "canonical_name": "Heracleus of Segesta",
+      "short_name": "Heracleus (Segestanus)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Most noble Segestan captain who, on account of an eye-disease, had not sailed and remained at Syracuse on leave; was struck with the axe with the others.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
         "victim"
       ]
     },
@@ -3863,6 +4170,22 @@
       ]
     },
     {
+      "id": "person:l-domitius-ahenobarbus-cos96",
+      "type": "person",
+      "canonical_name": "Lucius Domitius Ahenobarbus (cos 94)",
+      "short_name": "L. Domitius (cos 94)",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q727071"
+      },
+      "summary": "Praetor in Sicily c. 96 BC, consul 94 BC; the proverbial strict praetor who crucified the shepherd that had killed the boar with a hunting-spear.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "consular",
+        "magistrate"
+      ]
+    },
+    {
       "id": "person:l-fannius-myndius",
       "type": "person",
       "canonical_name": "Lucius Fannius",
@@ -4235,6 +4558,19 @@
       ]
     },
     {
+      "id": "person:l-raecius-eques",
+      "type": "person",
+      "canonical_name": "Lucius Raecius",
+      "short_name": "L. Raecius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Splendid Roman knight doing business at Panhormus; named by Gavius as his old commander, who could vouch for his Roman citizenship. Verres did not write to him.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "eques"
+      ]
+    },
+    {
       "id": "person:l-rubrius-eques",
       "type": "person",
       "canonical_name": "Lucius Rubrius",
@@ -4454,6 +4790,32 @@
       ]
     },
     {
+      "id": "person:leon-imacharensis",
+      "type": "person",
+      "canonical_name": "Leon of Imachara",
+      "short_name": "Leon",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Sicilian master treated like Leonidas under Verres's slave-suspicion racket.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian"
+      ]
+    },
+    {
+      "id": "person:leonidas-siculus",
+      "type": "person",
+      "canonical_name": "Leonidas (Sicilian)",
+      "short_name": "Leonidas",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Sicilian master in Triocala territory whose slaves were tried for slave-war conspiracy under Verres, then released by Verres for cash from the bound stake.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian"
+      ]
+    },
+    {
       "id": "person:lollius",
       "type": "person",
       "canonical_name": "Marcus Lollius",
@@ -4599,6 +4961,21 @@
       "categories": [
         "consular",
         "imperator"
+      ]
+    },
+    {
+      "id": "person:m-aurelius-cotta-cos74",
+      "type": "person",
+      "canonical_name": "Marcus Aurelius Cotta",
+      "short_name": "M. Cotta",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1411680"
+      },
+      "summary": "Roman consul 74 BC with L. Lucullus; commander in the Third Mithridatic War, defeated at Chalcedon. Brother of Gaius Cotta cos 75 BC.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "consular"
       ]
     },
     {
@@ -4917,6 +5294,19 @@
       ]
     },
     {
+      "id": "person:m-marius-valentinus",
+      "type": "person",
+      "canonical_name": "Marcus Marius (Valentinus orator)",
+      "short_name": "M. Marius (Valentinus)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Eloquent and noble man who spoke at the Valentian embassy to Verres asking him to act against the Tempsan rump. Verres refused, dressed in the campaign cloak with Tertia present.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "italian-notable"
+      ]
+    },
+    {
       "id": "person:m-modius-eques",
       "type": "person",
       "canonical_name": "Marcus Modius",
@@ -4958,6 +5348,20 @@
       ]
     },
     {
+      "id": "person:m-p-cottii-tauromenitani",
+      "type": "person",
+      "canonical_name": "Marcus and Publius Cottius (Tauromenitan)",
+      "short_name": "Cottii",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Most noble Tauromenitans; witnesses at the Verres trial about the crucifixion of Gavius.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
+        "witness"
+      ]
+    },
+    {
       "id": "person:m-pacilius-thermitanus",
       "type": "person",
       "canonical_name": "Marcus Pacilius",
@@ -4984,6 +5388,22 @@
       "categories": [
         "tribune",
         "popularis"
+      ]
+    },
+    {
+      "id": "person:m-perperna-sertorianus",
+      "type": "person",
+      "canonical_name": "Marcus Perperna Vento",
+      "short_name": "Perperna",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1014411"
+      },
+      "summary": "Marian commander; murdered Sertorius in 73 BC and was himself defeated and killed by Pompey.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "marian",
+        "rebel"
       ]
     },
     {
@@ -5384,6 +5804,33 @@
       ]
     },
     {
+      "id": "person:nice-syracusana",
+      "type": "person",
+      "canonical_name": "Nice (Syracusan)",
+      "short_name": "Nice",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Wife of Cleomenes the Syracusan (Verres's Sicilian fleet commander); Verres put her husband in command of the fleet so that he could keep her on shore at his summer banquets.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian-matron",
+        "favourite"
+      ]
+    },
+    {
+      "id": "person:nico-pirata",
+      "type": "person",
+      "canonical_name": "Nico (pirate)",
+      "short_name": "Nico",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Famous pirate captain twice captured by P. Servilius Vatia.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "pirate"
+      ]
+    },
+    {
       "id": "person:nicomedes-iv",
       "type": "person",
       "canonical_name": "Nicomedes IV of Bithynia",
@@ -5425,6 +5872,20 @@
       "categories": [
         "sicilian",
         "victim"
+      ]
+    },
+    {
+      "id": "person:onasus-segestanus",
+      "type": "person",
+      "canonical_name": "Onasus of Segesta",
+      "short_name": "Onasus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Noble Segestan; testified that he paid Timarchides for the burial of the Segestan captain Heracleus.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
+        "witness"
       ]
     },
     {
@@ -5477,6 +5938,19 @@
       "first_appearance": "ad-familiares-13-51",
       "categories": [
         "correspondent"
+      ]
+    },
+    {
+      "id": "person:p-cervius-legatus",
+      "type": "person",
+      "canonical_name": "Publius Cervius (legate)",
+      "short_name": "P. Cervius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Verres's legate in Sicily; Verres rejected him as juror at his trial because he had been on the spot.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "legate"
       ]
     },
     {
@@ -5551,6 +6025,20 @@
         "sicily",
         "victim",
         "roman-citizen"
+      ]
+    },
+    {
+      "id": "person:p-granius-eques",
+      "type": "person",
+      "canonical_name": "Publius Granius",
+      "short_name": "P. Granius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Puteolan merchant; testified that Verres struck his freedmen with the axe and despoiled his ship and wares.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "eques",
+        "witness"
       ]
     },
     {
@@ -5916,6 +6404,20 @@
       ]
     },
     {
+      "id": "person:phalacrus-centuripinus",
+      "type": "person",
+      "canonical_name": "Phalacrus of Centuripa",
+      "short_name": "Phalacrus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Centuripine captain of the quadrireme on which Cleomenes himself sailed; ransomed himself from the rods at a price; witness at the Verres trial.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian",
+        "witness"
+      ]
+    },
+    {
       "id": "person:phalaris-acragantinus",
       "type": "person",
       "canonical_name": "Phalaris of Acragas",
@@ -6044,6 +6546,20 @@
       "external_ids": {},
       "summary": "Leading Centuripine; charged by Verres with searching out the silver of his city. Witness at the Verres trial.",
       "first_appearance": "in-verrem-2-4",
+      "categories": [
+        "sicilian",
+        "witness"
+      ]
+    },
+    {
+      "id": "person:phylarchus-haluntinus",
+      "type": "person",
+      "canonical_name": "Phylarch of Haluntium (captain)",
+      "short_name": "phylarch (Haluntinus)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Haluntine captain who was captured by the pirates rather than fleeing with Cleomenes; ransomed back by the Locrians, witness at Verres's trial. Distinct from the captain of the Tyndaritans (also called phylarch in 4.29).",
+      "first_appearance": "in-verrem-actio-prima",
       "categories": [
         "sicilian",
         "witness"
@@ -6455,6 +6971,20 @@
       ]
     },
     {
+      "id": "person:q-lucceius-rheginus",
+      "type": "person",
+      "canonical_name": "Quintus Lucceius (banker at Rhegium)",
+      "short_name": "Q. Lucceius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman banker with the largest banking-house at Rhegium; witness at the Verres trial about Gavius.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "eques",
+        "witness"
+      ]
+    },
+    {
       "id": "person:q-lutatius-catulus",
       "type": "person",
       "canonical_name": "Quintus Lutatius Catulus",
@@ -6639,6 +7169,22 @@
       "categories": [
         "senator",
         "victim"
+      ]
+    },
+    {
+      "id": "person:q-pompeius-cos141",
+      "type": "person",
+      "canonical_name": "Quintus Pompeius (cos 141)",
+      "short_name": "Q. Pompeius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q3417781"
+      },
+      "summary": "Roman consul 141 BC, censor 131 BC; the first plebeian Pompeius to reach the consulship. The proverbial new man invoked by Cicero.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "consular",
+        "novus-homo"
       ]
     },
     {
@@ -6882,6 +7428,24 @@
       ]
     },
     {
+      "id": "person:scipio-africanus-maior",
+      "type": "person",
+      "canonical_name": "Publius Cornelius Scipio Africanus (the elder)",
+      "short_name": "Scipio Africanus",
+      "aliases": [
+        "Africanus the elder"
+      ],
+      "external_ids": {
+        "wikidata": "Q188570"
+      },
+      "summary": "Roman consul 205 and 194 BC; victor over Hannibal at Zama 202 BC, ending the Second Punic War. Distinct from Scipio Aemilianus.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "consular",
+        "imperator"
+      ]
+    },
+    {
       "id": "person:scopas-thessalus",
       "type": "person",
       "canonical_name": "Scopas",
@@ -6907,6 +7471,22 @@
       "first_appearance": "in-verrem-2-4",
       "categories": [
         "queen"
+      ]
+    },
+    {
+      "id": "person:sertorius",
+      "type": "person",
+      "canonical_name": "Quintus Sertorius",
+      "short_name": "Sertorius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q193687"
+      },
+      "summary": "Marian general, ruler of Roman Spain in opposition to Sulla and the Senate (82-72 BC); finally murdered by his own officer Perperna. The \"Sertorian fugitive\" was Verres's standing fictive charge against Roman travellers in Sicily.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "marian",
+        "rebel"
       ]
     },
     {
@@ -7339,6 +7919,20 @@
       ]
     },
     {
+      "id": "person:t-herennius-leptitanus",
+      "type": "person",
+      "canonical_name": "Titus Herennius (Leptitan banker)",
+      "short_name": "T. Herennius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman banker at Leptis (in Sicily); recognized at Syracuse by more than a hundred Roman citizens of the assize, but struck with the axe by Verres's order. Distinct from the African-businessman Herennius of Book 1.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "roman-citizen",
+        "victim"
+      ]
+    },
+    {
       "id": "person:t-manilius-witness",
       "type": "person",
       "canonical_name": "Titus Manilius",
@@ -7409,6 +8003,19 @@
       "first_appearance": "pro-roscio-amerino",
       "categories": [
         "adversary"
+      ]
+    },
+    {
+      "id": "person:t-vettius-quaestor-verris",
+      "type": "person",
+      "canonical_name": "Titus Vettius (quaestor of Verres)",
+      "short_name": "T. Vettius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Verres's quaestor in Sicily, brother of P. Vettius Chilo.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "quaestor"
       ]
     },
     {
@@ -8177,6 +8784,21 @@
       ]
     },
     {
+      "id": "place:cannae",
+      "type": "place",
+      "canonical_name": "Cannae",
+      "short_name": "Cannae",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "442526"
+      },
+      "summary": "Apulian battlefield where Hannibal annihilated the Roman army in 216 BC, the proverbial Roman defeat. Cicero invokes the name (\"Battle of Cannae of wickedness\") for Verres's banquets.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "italian-battlefield"
+      ]
+    },
+    {
       "id": "place:capena",
       "type": "place",
       "canonical_name": "Capena",
@@ -8365,6 +8987,23 @@
       "categories": [
         "rome",
         "civic-space"
+      ]
+    },
+    {
+      "id": "place:consa",
+      "type": "place",
+      "canonical_name": "Consa",
+      "short_name": "Consa",
+      "aliases": [
+        "Compsa"
+      ],
+      "external_ids": {
+        "pleiades": "432556"
+      },
+      "summary": "Hirpinian town in southern Italy; home of Publius Gavius, the Roman citizen Verres crucified.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "italian-town"
       ]
     },
     {
@@ -8774,6 +9413,21 @@
       ]
     },
     {
+      "id": "place:helorum",
+      "type": "place",
+      "canonical_name": "Helorum",
+      "short_name": "Helorus",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "462128"
+      },
+      "summary": "Sicilian coastal town south of Syracuse; on its shore Cleomenes ran the fleet aground and abandoned it, and Heracleo burned the ships.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian-town"
+      ]
+    },
+    {
       "id": "place:henna",
       "type": "place",
       "canonical_name": "Henna",
@@ -9009,6 +9663,19 @@
       ]
     },
     {
+      "id": "place:leptis-syracusana",
+      "type": "place",
+      "canonical_name": "Leptis (Sicilian)",
+      "short_name": "Leptis (Sicily)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Coastal place where T. Herennius had his banking-house. Distinct from Leptis Magna in Africa.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian-place"
+      ]
+    },
+    {
       "id": "place:lilybaeum",
       "type": "place",
       "canonical_name": "Lilybaeum",
@@ -9038,6 +9705,21 @@
       "first_appearance": "in-verrem-2-3",
       "categories": [
         "sicilian-island"
+      ]
+    },
+    {
+      "id": "place:locri",
+      "type": "place",
+      "canonical_name": "Locri (Italian)",
+      "short_name": "Locri",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "462256"
+      },
+      "summary": "Greek-Italian town in Bruttium; its citizens ransomed the captive Sicilian phylarch from the pirates after Helorus.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "italian-town"
       ]
     },
     {
@@ -9086,6 +9768,19 @@
       "first_appearance": "in-verrem-2-1",
       "categories": [
         "province"
+      ]
+    },
+    {
+      "id": "place:megaris-syracusana",
+      "type": "place",
+      "canonical_name": "Megaris (near Syracuse)",
+      "short_name": "Megaris",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Place near Syracuse where Caesetius and Tadius (Verres's quaestor and legate) found the pirate vessel laden with plunder.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian-place"
       ]
     },
     {
@@ -9342,6 +10037,21 @@
       ]
     },
     {
+      "id": "place:pachynus",
+      "type": "place",
+      "canonical_name": "Pachynus",
+      "short_name": "Pachynus",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "462347"
+      },
+      "summary": "South-east promontory of Sicily; the Sicilian fleet under Cleomenes put in here on the fifth day, half-empty and the rowers feeding on roots of palms.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian-place"
+      ]
+    },
+    {
       "id": "place:pamphylia",
       "type": "place",
       "canonical_name": "Pamphylia",
@@ -9539,6 +10249,19 @@
       "categories": [
         "region",
         "kingdom"
+      ]
+    },
+    {
+      "id": "place:portus-odysseia",
+      "type": "place",
+      "canonical_name": "Odysseia (harbour)",
+      "short_name": "Odysseia",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Sicilian harbour on the south coast where pirate ships were spotted while the Roman fleet was at Pachynus.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "sicilian-place"
       ]
     },
     {
@@ -9860,6 +10583,20 @@
       ]
     },
     {
+      "id": "place:templum-bellonae",
+      "type": "place",
+      "canonical_name": "Temple of Bellona",
+      "short_name": "Temple of Bellona",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman temple in the Campus Martius outside the pomerium, customary venue for the Senate to receive returning generals or hear from foreign envoys. There the Verres-and-Tempsa dispute was aired.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "rome",
+        "monument"
+      ]
+    },
+    {
       "id": "place:templum-castoris",
       "type": "place",
       "canonical_name": "Aedes Castoris",
@@ -9935,6 +10672,21 @@
       ]
     },
     {
+      "id": "place:tempsa",
+      "type": "place",
+      "canonical_name": "Tempsa",
+      "short_name": "Tempsa",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "462491"
+      },
+      "summary": "Bruttian coastal town; site of a small slave-war remnant after Spartacus, on which Verres was urged to act and refused, lying drunk on the shore with Tertia.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "italian-town"
+      ]
+    },
+    {
       "id": "place:tenedos",
       "type": "place",
       "canonical_name": "Tenedos",
@@ -10004,6 +10756,21 @@
       "external_ids": {},
       "summary": "Small Sicilian town of painstaking and thrifty farmers; harassed by the Venusian slave Diognetus.",
       "first_appearance": "in-verrem-2-3",
+      "categories": [
+        "sicilian-town"
+      ]
+    },
+    {
+      "id": "place:triocala",
+      "type": "place",
+      "canonical_name": "Triocala",
+      "short_name": "Triocala",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "462504"
+      },
+      "summary": "Sicilian inland fortress town; once held by runaway slaves in the Second Servile War. Cicero invokes it as the place from which the slave-conspiracy of Leonidas's household was reported under Verres.",
+      "first_appearance": "in-verrem-2-5",
       "categories": [
         "sicilian-town"
       ]
@@ -10099,6 +10866,53 @@
       "categories": [
         "italy",
         "coastal"
+      ]
+    },
+    {
+      "id": "place:velia",
+      "type": "place",
+      "canonical_name": "Velia",
+      "short_name": "Velia",
+      "aliases": [
+        "Elea"
+      ],
+      "external_ids": {
+        "pleiades": "442565"
+      },
+      "summary": "Greek-Italian coastal town in southern Italy; Cicero passed through it in a small boat on his Sicilian return. Verres landed there with his cargo-ship of plunder.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "italian-town"
+      ]
+    },
+    {
+      "id": "place:via-pompeia",
+      "type": "place",
+      "canonical_name": "Via Pompeia",
+      "short_name": "Via Pompeia",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Sicilian road outside Messana; Verres ordered Gavius's cross to be set up not on its customary spot but in the part facing the strait, so that Italy could be seen from the cross.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "road"
+      ]
+    },
+    {
+      "id": "place:vibo-valentia",
+      "type": "place",
+      "canonical_name": "Vibo Valentia",
+      "short_name": "Valentia",
+      "aliases": [
+        "Vibo"
+      ],
+      "external_ids": {
+        "pleiades": "452569"
+      },
+      "summary": "Coastal town in Bruttium; its envoys, headed by M. Marius, asked Verres to take up the Tempsan slave-rump. He refused.",
+      "first_appearance": "in-verrem-2-5",
+      "categories": [
+        "italian-town"
       ]
     },
     {
