@@ -4,15 +4,15 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 
 ## Summary
 
-- Total works: **956**
-- letters: 873
+- Total works: **959**
+- letters: 876
 - philosophy: 18
 - rhetoric: 7
 - speeches: 58
 
 Status:
-- drafted: 126
-- pending: 830
+- drafted: 137
+- pending: 822
 
 ## Chronological order
 
@@ -147,831 +147,834 @@ Status:
 | 127 | 26 November 57 BC | letters | Ad Atticum 4.3 | drafted |
 | 128 | 57 BC | letters | Ad Familiares 5.17 | drafted |
 | 129 | December 57 BC | letters | Ad Quintum Fratrem 2.1 | drafted |
-| 130 | 56 BC | letters | Ad Quintum Fratrem 2.4 | pending |
-| 131 | 13 January 56 BC | letters | Ad Familiares 1.1 | pending |
-| 132 | January 56 BC | letters | Ad Familiares 1.3 | pending |
-| 133 | 17 January 56 BC | letters | Ad Familiares 1.2 | pending |
-| 134 | 18 January 56 BC | letters | Ad Familiares 1.4 | pending |
-| 135 | 19 January 56 BC | letters | Ad Quintum Fratrem 2.2 | pending |
-| 136 | 30 January 56 BC | letters | Ad Atticum 4.4 | pending |
-| 137 | 56 BC | letters | Ad Quintum Fratrem 2.5 | pending |
-| 138 | 12 February 56 BC | letters | Ad Quintum Fratrem 2.3 | pending |
+| 130 | 13 January 56 BC | letters | Ad Familiares 1.1 | drafted |
+| 131 | January 56 BC | letters | Ad Familiares 1.3 | drafted |
+| 132 | 17 January 56 BC | letters | Ad Familiares 1.2 | drafted |
+| 133 | 18 January 56 BC | letters | Ad Familiares 1.4 | drafted |
+| 134 | 19 January 56 BC | letters | Ad Quintum Fratrem 2.2 | drafted |
+| 135 | 30 January 56 BC | letters | Ad Atticum 4.4 | drafted |
+| 136 | 5 February 56 BC | letters | Ad Familiares 1.5a | drafted |
+| 137 | 10 February 56 BC | letters | Ad Familiares 1.5b | drafted |
+| 138 | 12 February 56 BC | letters | Ad Quintum Fratrem 2.3 | drafted |
 | 139 | March 56 BC | speeches | Against Vatinius | pending |
-| 140 | March 56 BC | speeches | For Publius Sestius | pending |
-| 141 | 56 BC | letters | Ad Quintum Fratrem 2.6 | pending |
-| 142 | 4 April 56 BC | speeches | For Marcus Caelius | pending |
-| 143 | April 56 BC | letters | Ad Atticum 4.6 | pending |
-| 144 | April 56 BC | letters | Ad Atticum 4.7 | pending |
-| 145 | April 56 BC | letters | Ad Atticum 4.8 | pending |
-| 146 | June 56 BC | speeches | On the Consular Provinces | pending |
-| 147 | June 56 BC | letters | Ad Familiares 5.12 | pending |
-| 148 | 56-54 BC | letters | Ad Familiares 1.5 | pending |
-| 149 | 56-54 BC | letters | Ad Quintum Fratrem 2.16 | pending |
-| 150 | 56 BC | speeches | On the Responses of the Haruspices | pending |
-| 151 | 56 BC | speeches | For Lucius Cornelius Balbus | pending |
-| 152 | July 56 BC | letters | Ad Familiares 1.7 | pending |
-| 153 | 56 BC | letters | Ad Familiares 13.51 | pending |
-| 154 | 1 September 56 BC | letters | Ad Familiares 7.3 | pending |
-| 155 | 56 BC | letters | Ad Atticum 4.5 | pending |
-| 156 | 56 BC | letters | Ad Familiares 13.6 | pending |
-| 157 | 56 BC | letters | Ad Familiares 1.6 | pending |
-| 158 | 56 BC | letters | Ad Familiares 5.3 | pending |
-| 159 | January 55 BC | letters | Ad Familiares 1.8 | pending |
-| 160 | 10 April 55 BC | letters | Ad Familiares 16.13 | pending |
-| 161 | 55 BC | letters | Ad Quintum Fratrem 2.7 | pending |
-| 162 | 23 April 55 BC | letters | Ad Atticum 4.10 | pending |
-| 163 | 28 April 55 BC | letters | Ad Atticum 4.9 | pending |
-| 164 | 1 May 55 BC | letters | Ad Atticum 4.11 | pending |
-| 165 | 55 BC | letters | Ad Quintum Fratrem 2.8 | pending |
-| 166 | 55 BC | letters | Ad Atticum 4.12 | pending |
-| 167 | 55 BC | rhetoric | On the Orator | pending |
-| 168 | 55 BC | speeches | Against Piso | pending |
-| 169 | 55 BC | letters | Ad Familiares 13.40 | pending |
-| 170 | October 55 BC | letters | Ad Familiares 7.1 | pending |
-| 171 | 15 November 55 BC | letters | Ad Atticum 4.13 | pending |
-| 172 | 54 BC | letters | Ad Familiares 7.8 | pending |
-| 173 | January 54 BC | letters | Ad Familiares 5.8 | pending |
-| 174 | 54 BC | letters | Ad Quintum Fratrem 3.1 | pending |
-| 175 | 54 BC | letters | Ad Quintum Fratrem 3.2 | pending |
-| 176 | 54 BC | letters | Ad Familiares 1.10 | pending |
-| 177 | April 54 BC | letters | Ad Familiares 7.5 | pending |
-| 178 | May 54 BC | letters | Ad Atticum 4.14 | pending |
-| 179 | May 54 BC | letters | Ad Familiares 7.6 | pending |
-| 180 | May 54 BC | letters | Ad Quintum Fratrem 2.12 | pending |
-| 181 | 54 BC | letters | Ad Quintum Fratrem 2.9 | pending |
-| 182 | June 54 BC | letters | Ad Familiares 7.7 | pending |
-| 183 | June 54 BC | letters | Ad Quintum Fratrem 2.13 | pending |
-| 184 | 54-44 BC | letters | Ad Familiares 13.11 | pending |
-| 185 | 54-44 BC | letters | Ad Familiares 13.12 | pending |
-| 186 | 54-44 BC | letters | Ad Familiares 13.13 | pending |
-| 187 | 54-44 BC | letters | Ad Familiares 13.14 | pending |
-| 188 | 54-44 BC | letters | Ad Familiares 13.16 | pending |
-| 189 | 54-44 BC | letters | Ad Familiares 13.45 | pending |
-| 190 | 54-44 BC | letters | Ad Familiares 13.46 | pending |
-| 191 | 54-44 BC | letters | Ad Familiares 13.49 | pending |
-| 192 | 54-44 BC | letters | Ad Familiares 13.55 | pending |
-| 193 | 54-44 BC | letters | Ad Familiares 13.56 | pending |
-| 194 | 54-44 BC | letters | Ad Familiares 13.61 | pending |
-| 195 | 54-44 BC | letters | Ad Familiares 13.62 | pending |
-| 196 | 54-44 BC | letters | Ad Familiares 13.64 | pending |
-| 197 | 54-44 BC | letters | Ad Familiares 13.65 | pending |
-| 198 | 54-44 BC | letters | Ad Familiares 13.73 | pending |
-| 199 | 54-44 BC | letters | Ad Familiares 13.74 | pending |
-| 200 | 54-44 BC | letters | Ad Familiares 13.76 | pending |
-| 201 | 54-43 BC | letters | Ad Familiares 15.8 | pending |
-| 202 | 54-43 BC | letters | Ad Familiares 15.9 | pending |
-| 203 | 54-43 BC | letters | Ad Familiares 15.11 | pending |
-| 204 | 54-43 BC | letters | Ad Familiares 15.12 | pending |
-| 205 | 54-43 BC | letters | Ad Familiares 15.13 | pending |
-| 206 | 54-44 BC | letters | Ad Familiares 16.20 | pending |
-| 207 | 54 BC | letters | Ad Quintum Fratrem 3.6 | pending |
-| 208 | 54-51 BC | philosophy | On the Commonwealth | pending |
-| 209 | 54 BC | philosophy | On His Times | pending |
-| 210 | 54-46 BC | rhetoric | The Subdivisions of Oratory | pending |
-| 211 | 54 BC | speeches | For Gnaeus Plancius | pending |
-| 212 | 54-53 BC | speeches | For Gaius Rabirius Postumus | pending |
-| 213 | 54 BC | speeches | For Marcus Aemilius Scaurus | pending |
-| 214 | 15 July 54 BC | letters | Ad Atticum 4.16 | pending |
-| 215 | 54 BC | letters | Ad Quintum Fratrem 2.10 | pending |
-| 216 | 27 July 54 BC | letters | Ad Atticum 4.15 | pending |
-| 217 | 27 July 54 BC | letters | Ad Quintum Fratrem 2.14 | pending |
-| 218 | August 54 BC | letters | Ad Quintum Fratrem 2.15 | pending |
-| 219 | 54 BC | letters | Ad Quintum Fratrem 2.11 | pending |
-| 220 | September 54 BC | letters | Ad Familiares 7.9 | pending |
-| 221 | 1 October 54 BC | letters | Ad Atticum 4.17 | pending |
-| 222 | October 54 BC | letters | Ad Atticum 4.18 | pending |
-| 223 | October 54 BC | letters | Ad Quintum Fratrem 3.7 | pending |
-| 224 | 54 BC | letters | Ad Familiares 7.17 | pending |
-| 225 | 24 October 54 BC | letters | Ad Quintum Fratrem 3.4 | pending |
-| 226 | 1 November 54 BC | letters | Ad Quintum Fratrem 3.3 | pending |
-| 227 | 13 November 54 BC | letters | Ad Quintum Fratrem 3.5 | pending |
-| 228 | November 54 BC | letters | Ad Atticum 4.19 | pending |
-| 229 | November 54 BC | letters | Ad Familiares 7.16 | pending |
-| 230 | November 54 BC | letters | Ad Quintum Fratrem 3.8 | pending |
-| 231 | December 54 BC | letters | Ad Familiares 1.9 | pending |
-| 232 | December 54 BC | letters | Ad Familiares 7.10 | pending |
-| 233 | December 54 BC | letters | Ad Quintum Fratrem 3.9 | pending |
-| 234 | 53 BC | letters | Ad Familiares 2.4 | pending |
-| 235 | January 53 BC | letters | Ad Familiares 7.11 | pending |
-| 236 | 53 BC | letters | Ad Familiares 2.5 | pending |
-| 237 | 53 BC | letters | Ad Familiares 3.1 | pending |
-| 238 | 4 March 53 BC | letters | Ad Familiares 7.13 | pending |
-| 239 | 53 BC | letters | Ad Familiares 2.6 | pending |
-| 240 | 8 April 53 BC | letters | Ad Familiares 7.18 | pending |
-| 241 | 11 April 53 BC | letters | Ad Familiares 16.14 | pending |
-| 242 | 13 April 53 BC | letters | Ad Familiares 16.15 | pending |
-| 243 | 17 April 53 BC | letters | Ad Familiares 16.10 | pending |
-| 244 | 53 BC | letters | Ad Familiares 7.12 | pending |
-| 245 | June 53 BC | letters | Ad Familiares 7.15 | pending |
-| 246 | July 53 BC | letters | Ad Familiares 7.14 | pending |
-| 247 | 53 BC | letters | Ad Familiares 16.16 | pending |
-| 248 | 53 BC | letters | Ad Familiares 2.1 | pending |
-| 249 | 53 BC | letters | Ad Familiares 2.2 | pending |
-| 250 | 53 BC | letters | Ad Familiares 2.3 | pending |
-| 251 | March 52 BC | letters | Ad Familiares 5.16 | pending |
-| 252 | March 52 BC | letters | Ad Familiares 7.27 | pending |
-| 253 | March 52 BC | letters | Ad Familiares 5.18 | pending |
-| 254 | April 52 BC | speeches | For Titus Annius Milo | pending |
-| 255 | April 52 BC | letters | Ad Familiares 13.2 | pending |
-| 256 | April 52 BC | letters | Ad Familiares 13.3 | pending |
-| 257 | 52-43 BC | philosophy | On the Laws | pending |
-| 258 | 52 BC | letters | Ad Familiares 13.75 | pending |
-| 259 | February 51 BC | letters | Ad Familiares 7.2 | pending |
-| 260 | 51 BC | letters | Ad Familiares 15.14 | pending |
-| 261 | March 51 BC | letters | Ad Familiares 3.2 | pending |
-| 262 | 51 BC | letters | Ad Familiares 13.47 | pending |
-| 263 | 51 BC | letters | Ad Familiares 2.7 | pending |
-| 264 | 51 BC | letters | Ad Familiares 3.3 | pending |
-| 265 | 51 BC | letters | Ad Atticum 5.8 | pending |
-| 266 | 10 May 51 BC | letters | Ad Atticum 5.2 | pending |
-| 267 | 11 May 51 BC | letters | Ad Atticum 5.3 | pending |
-| 268 | 12 May 51 BC | letters | Ad Atticum 5.4 | pending |
-| 269 | 14 May 51 BC | letters | Ad Atticum 5.5 | pending |
-| 270 | 19 May 51 BC | letters | Ad Atticum 5.6 | pending |
-| 271 | 51 BC | letters | Ad Familiares 15.4 | pending |
-| 272 | 24 May 51 BC | letters | Ad Familiares 8.1 | pending |
-| 273 | 5 June 51 BC | letters | Ad Familiares 3.4 | pending |
-| 274 | 10 June 51 BC | letters | Ad Familiares 8.3 | pending |
-| 275 | 1 July 51 BC | letters | Ad Atticum 5.9 | pending |
-| 276 | 1 July 51 BC | letters | Ad Atticum 5.10 | pending |
-| 277 | 51 BC | letters | Ad Familiares 5.10 | pending |
-| 278 | 6 July 51 BC | letters | Ad Familiares 2.8 | pending |
-| 279 | 6 July 51 BC | letters | Ad Familiares 13.1 | pending |
-| 280 | 7 July 51 BC | letters | Ad Atticum 5.11 | pending |
-| 281 | July 51 BC | letters | Ad Atticum 5.12 | pending |
-| 282 | 51 BC | letters | Ad Familiares 2.10 | pending |
-| 283 | 26 July 51 BC | letters | Ad Atticum 5.13 | pending |
-| 284 | 27 July 51 BC | letters | Ad Atticum 5.14 | pending |
-| 285 | 27 July 51 BC | letters | Ad Familiares 3.5 | pending |
-| 286 | 1 August 51 BC | letters | Ad Familiares 8.4 | pending |
-| 287 | 5 August 51 BC | letters | Ad Atticum 5.15 | pending |
-| 288 | 11 August 51 BC | letters | Ad Atticum 5.16 | pending |
-| 289 | 12 August 51 BC | letters | Ad Atticum 5.17 | pending |
-| 290 | 13 August 51 BC | letters | Ad Familiares 8.5 | pending |
-| 291 | 30 August 51 BC | letters | Ad Familiares 15.3 | pending |
-| 292 | 31 August 51 BC | letters | Ad Familiares 3.6 | pending |
-| 293 | 2 September 51 BC | letters | Ad Familiares 8.9 | pending |
-| 294 | 19 September 51 BC | letters | Ad Familiares 15.1 | pending |
-| 295 | 21 September 51 BC | letters | Ad Atticum 5.18 | pending |
-| 296 | 21 September 51 BC | letters | Ad Familiares 15.7 | pending |
-| 297 | 22 September 51 BC | letters | Ad Atticum 5.19 | pending |
-| 298 | 22 September 51 BC | letters | Ad Familiares 15.2 | pending |
-| 299 | 8 October 51 BC | letters | Ad Familiares 3.8 | pending |
-| 300 | 51 BC | letters | Ad Familiares 13.53 | pending |
-| 301 | October 51 BC | letters | Ad Familiares 8.8 | pending |
-| 302 | 13 November 51 BC | letters | Ad Familiares 2.9 | pending |
-| 303 | 51 BC | letters | Ad Familiares 8.2 | pending |
-| 304 | 51 BC | letters | Ad Familiares 15.10 | pending |
-| 305 | 1 December 51 BC | letters | Ad Familiares 8.10 | pending |
-| 306 | 29 December 51 BC | letters | Ad Atticum 5.20 | pending |
-| 307 | 50 BC | letters | Ad Familiares 14.5 | pending |
-| 308 | 11 February 50 BC | letters | Ad Familiares 7.32 | pending |
-| 309 | 11 February 50 BC | letters | Ad Familiares 13.54 | pending |
-| 310 | 11 February 50 BC | letters | Ad Familiares 13.58 | pending |
-| 311 | 11 February 50 BC | letters | Ad Familiares 13.59 | pending |
-| 312 | 11 February 50 BC | letters | Ad Familiares 13.63 | pending |
-| 313 | 13 February 50 BC | letters | Ad Atticum 5.21 | pending |
-| 314 | 13 February 50 BC | letters | Ad Familiares 3.7 | pending |
-| 315 | February 50 BC | letters | Ad Familiares 2.14 | pending |
-| 316 | February 50 BC | letters | Ad Familiares 8.6 | pending |
-| 317 | 20 February 50 BC | letters | Ad Familiares 3.9 | pending |
-| 318 | 24 February 50 BC | letters | Ad Atticum 6.1 | pending |
-| 319 | 50 BC | letters | Ad Familiares 2.18 | pending |
-| 320 | 4 April 50 BC | letters | Ad Familiares 2.11 | pending |
-| 321 | April 50 BC | letters | Ad Familiares 13.57 | pending |
-| 322 | May 50 BC | letters | Ad Atticum 6.2 | pending |
-| 323 | 15 May 50 BC | letters | Ad Familiares 8.7 | pending |
-| 324 | 15 May 50 BC | letters | Ad Familiares 8.11 | pending |
-| 325 | 15 May 50 BC | letters | Ad Familiares 15.5 | pending |
-| 326 | 23 May 50 BC | letters | Ad Atticum 7.7 | pending |
-| 327 | 5 June 50 BC | letters | Ad Atticum 6.4 | pending |
-| 328 | 13 June 50 BC | letters | Ad Familiares 3.11 | pending |
-| 329 | 13 June 50 BC | letters | Ad Familiares 8.13 | pending |
-| 330 | 22 June 50 BC | letters | Ad Familiares 2.19 | pending |
-| 331 | 26 June 50 BC | letters | Ad Familiares 2.12 | pending |
-| 332 | 27 June 50 BC | letters | Ad Atticum 6.3 | pending |
-| 333 | 27 June 50 BC | letters | Ad Atticum 6.5 | pending |
-| 334 | 17 July 50 BC | letters | Ad Familiares 2.17 | pending |
-| 335 | 30 July 50 BC | letters | Ad Atticum 6.7 | pending |
-| 336 | 1 August 50 BC | letters | Ad Familiares 15.6 | pending |
-| 337 | 4 August 50 BC | letters | Ad Familiares 2.15 | pending |
-| 338 | 4 August 50 BC | letters | Ad Familiares 3.12 | pending |
-| 339 | 10 August 50 BC | letters | Ad Atticum 6.6 | pending |
-| 340 | 10 August 50 BC | letters | Ad Familiares 3.13 | pending |
-| 341 | 20 September 50 BC | letters | Ad Familiares 8.12 | pending |
-| 342 | 24 September 50 BC | letters | Ad Familiares 8.14 | pending |
-| 343 | 31 September 50 BC | letters | Ad Atticum 6.8 | pending |
-| 344 | 15 October 50 BC | letters | Ad Atticum 6.9 | pending |
-| 345 | 16 October 50 BC | letters | Ad Atticum 7.1 | pending |
-| 346 | 50 BC | letters | Ad Familiares 2.13 | pending |
-| 347 | 50 BC | letters | Ad Familiares 3.10 | pending |
-| 348 | 3 November 50 BC | letters | Ad Familiares 16.1 | pending |
-| 349 | 5 November 50 BC | letters | Ad Familiares 16.2 | pending |
-| 350 | 6 November 50 BC | letters | Ad Familiares 16.3 | pending |
-| 351 | 7 November 50 BC | letters | Ad Familiares 16.4 | pending |
-| 352 | 7 November 50 BC | letters | Ad Familiares 16.5 | pending |
-| 353 | 7 November 50 BC | letters | Ad Familiares 16.6 | pending |
-| 354 | 17 November 50 BC | letters | Ad Familiares 16.7 | pending |
-| 355 | 27 November 50 BC | letters | Ad Atticum 7.2 | pending |
-| 356 | 28 November 50 BC | letters | Ad Familiares 16.9 | pending |
-| 357 | 9 December 50 BC | letters | Ad Atticum 7.3 | pending |
-| 358 | 11 December 50 BC | letters | Ad Atticum 7.4 | pending |
-| 359 | 18 December 50 BC | letters | Ad Atticum 7.5 | pending |
-| 360 | 19 December 50 BC | letters | Ad Atticum 7.6 | pending |
-| 361 | 28 December 50 BC | letters | Ad Atticum 7.8 | pending |
-| 362 | 29 December 50 BC | letters | Ad Atticum 7.9 | pending |
-| 363 | 4 January 49 BC | letters | Ad Familiares 5.20 | pending |
-| 364 | 13 January 49 BC | letters | Ad Familiares 16.11 | pending |
-| 365 | January 49 BC | letters | Ad Familiares 16.8 | pending |
-| 366 | 23 January 49 BC | letters | Ad Atticum 7.12 | pending |
-| 367 | 24 January 49 BC | letters | Ad Atticum 7.11 | pending |
-| 368 | 24 January 49 BC | letters | Ad Atticum 7.13 | pending |
-| 369 | 24 January 49 BC | letters | Ad Familiares 14.18 | pending |
-| 370 | 25 January 49 BC | letters | Ad Familiares 14.14 | pending |
-| 371 | 27 January 49 BC | letters | Ad Atticum 7.14 | pending |
-| 372 | 28 January 49 BC | letters | Ad Atticum 7.15 | pending |
-| 373 | 29 January 49 BC | letters | Ad Atticum 7.16 | pending |
-| 374 | 29 January 49 BC | letters | Ad Familiares 16.12 | pending |
-| 375 | 1 February 49 BC | letters | Ad Atticum 7.10 | pending |
-| 376 | 2 February 49 BC | letters | Ad Atticum 7.17 | pending |
-| 377 | 3 February 49 BC | letters | Ad Atticum 7.18 | pending |
-| 378 | 3 February 49 BC | letters | Ad Atticum 7.19 | pending |
-| 379 | 5 February 49 BC | letters | Ad Atticum 7.20 | pending |
-| 380 | 8 February 49 BC | letters | Ad Atticum 7.21 | pending |
-| 381 | 8 February 49 BC | letters | Ad Atticum 7.22 | pending |
-| 382 | 9 February 49 BC | letters | Ad Atticum 7.23 | pending |
-| 383 | 10 February 49 BC | letters | Ad Atticum 7.24 | pending |
-| 384 | 11 February 49 BC | letters | Ad Atticum 7.25 | pending |
-| 385 | 15 February 49 BC | letters | Ad Atticum 7.26 | pending |
-| 386 | 16 February 49 BC | letters | Ad Atticum 8.1 | pending |
-| 387 | 17 February 49 BC | letters | Ad Atticum 8.2 | pending |
-| 388 | 18 February 49 BC | letters | Ad Atticum 8.3 | pending |
-| 389 | 21 February 49 BC | letters | Ad Atticum 8.6 | pending |
-| 390 | 22 February 49 BC | letters | Ad Atticum 8.4 | pending |
-| 391 | 23 February 49 BC | letters | Ad Atticum 8.5 | pending |
-| 392 | 23 February 49 BC | letters | Ad Atticum 8.7 | pending |
-| 393 | 24 February 49 BC | letters | Ad Atticum 8.8 | pending |
-| 394 | 25 February 49 BC | letters | Ad Atticum 8.9 | pending |
-| 395 | 26 February 49 BC | letters | Ad Atticum 8.10 | pending |
-| 396 | 28 February 49 BC | letters | Ad Atticum 8.12 | pending |
-| 397 | 1 March 49 BC | letters | Ad Atticum 8.11 | pending |
-| 398 | 1 March 49 BC | letters | Ad Atticum 8.13 | pending |
-| 399 | 2 March 49 BC | letters | Ad Atticum 8.14 | pending |
-| 400 | 3 March 49 BC | letters | Ad Atticum 8.15 | pending |
-| 401 | 4 March 49 BC | letters | Ad Atticum 8.16 | pending |
-| 402 | 6 March 49 BC | letters | Ad Atticum 9.1 | pending |
-| 403 | 7 March 49 BC | letters | Ad Atticum 9.2 | pending |
-| 404 | 9 March 49 BC | letters | Ad Atticum 9.3 | pending |
-| 405 | 9 March 49 BC | letters | Ad Familiares 8.15 | pending |
-| 406 | 10 March 49 BC | letters | Ad Atticum 9.5 | pending |
-| 407 | 11 March 49 BC | letters | Ad Atticum 9.6 | pending |
-| 408 | 12 March 49 BC | letters | Ad Atticum 9.4 | pending |
-| 409 | 13 March 49 BC | letters | Ad Atticum 9.7 | pending |
-| 410 | 14 March 49 BC | letters | Ad Atticum 9.8 | pending |
-| 411 | 17 March 49 BC | letters | Ad Atticum 9.9 | pending |
-| 412 | 18 March 49 BC | letters | Ad Atticum 9.10 | pending |
-| 413 | 20 March 49 BC | letters | Ad Atticum 9.11 | pending |
-| 414 | 20 March 49 BC | letters | Ad Atticum 9.12 | pending |
-| 415 | 24 March 49 BC | letters | Ad Atticum 9.13 | pending |
-| 416 | 25 March 49 BC | letters | Ad Atticum 9.14 | pending |
-| 417 | 25 March 49 BC | letters | Ad Atticum 9.15 | pending |
-| 418 | 26 March 49 BC | letters | Ad Atticum 9.16 | pending |
-| 419 | 27 March 49 BC | letters | Ad Atticum 9.17 | pending |
-| 420 | 28 March 49 BC | letters | Ad Atticum 9.18 | pending |
-| 421 | 31 March 49 BC | letters | Ad Atticum 9.19 | pending |
-| 422 | 3 April 49 BC | letters | Ad Atticum 10.1 | pending |
-| 423 | 5 April 49 BC | letters | Ad Atticum 10.2 | pending |
-| 424 | 5 April 49 BC | letters | Ad Familiares 4.1 | pending |
-| 425 | 7 April 49 BC | letters | Ad Atticum 10.3 | pending |
-| 426 | 49 BC | letters | Ad Familiares 14.7 | pending |
-| 427 | 15 April 49 BC | letters | Ad Atticum 10.4 | pending |
-| 428 | April 49 BC | letters | Ad Atticum 10.6 | pending |
-| 429 | 16 April 49 BC | letters | Ad Familiares 8.16 | pending |
-| 430 | 17 April 49 BC | letters | Ad Atticum 10.5 | pending |
-| 431 | 23 April 49 BC | letters | Ad Atticum 10.7 | pending |
-| 432 | 28 April 49 BC | letters | Ad Familiares 4.2 | pending |
-| 433 | 28 April 49 BC | letters | Ad Familiares 5.19 | pending |
-| 434 | 2 May 49 BC | letters | Ad Atticum 10.8 | pending |
-| 435 | 3 May 49 BC | letters | Ad Atticum 10.9 | pending |
-| 436 | 3 May 49 BC | letters | Ad Atticum 10.10 | pending |
-| 437 | 4 May 49 BC | letters | Ad Atticum 10.11 | pending |
-| 438 | 4 May 49 BC | letters | Ad Familiares 2.16 | pending |
-| 439 | 5 May 49 BC | letters | Ad Atticum 10.12 | pending |
-| 440 | 6 May 49 BC | letters | Ad Atticum 5.1 | pending |
-| 441 | 12 May 49 BC | letters | Ad Atticum 10.15 | pending |
-| 442 | 14 May 49 BC | letters | Ad Atticum 10.16 | pending |
-| 443 | 15 May 49 BC | letters | Ad Atticum 10.14 | pending |
-| 444 | 16 May 49 BC | letters | Ad Atticum 10.17 | pending |
-| 445 | 20 May 49 BC | letters | Ad Atticum 10.18 | pending |
-| 446 | 22 May 49 BC | letters | Ad Atticum 5.7 | pending |
-| 447 | 49 BC | letters | Ad Atticum 10.13 | pending |
-| 448 | 1 January 48 BC | letters | Ad Atticum 11.8 | pending |
-| 449 | 13 January 48 BC | letters | Ad Atticum 11.1 | pending |
-| 450 | January 48 BC | letters | Ad Familiares 8.17 | pending |
-| 451 | 5 February 48 BC | letters | Ad Atticum 11.2 | pending |
-| 452 | 13 June 48 BC | letters | Ad Atticum 11.3 | pending |
-| 453 | June 48 BC | letters | Ad Familiares 9.9 | pending |
-| 454 | 15 July 48 BC | letters | Ad Atticum 11.4 | pending |
-| 455 | 15 July 48 BC | letters | Ad Familiares 14.6 | pending |
-| 456 | 48 BC | letters | Ad Familiares 14.12 | pending |
-| 457 | 5 November 48 BC | letters | Ad Atticum 11.5 | pending |
-| 458 | 28 November 48 BC | letters | Ad Atticum 11.6 | pending |
-| 459 | 28 November 48 BC | letters | Ad Familiares 14.19 | pending |
-| 460 | 17 December 48 BC | letters | Ad Familiares 14.9 | pending |
-| 461 | 19 December 48 BC | letters | Ad Atticum 11.7 | pending |
-| 462 | 32 December 48 BC | letters | Ad Familiares 14.17 | pending |
-| 463 | 3 January 47 BC | letters | Ad Atticum 11.9 | pending |
-| 464 | 5 January 47 BC | letters | Ad Familiares 14.16 | pending |
-| 465 | 21 January 47 BC | letters | Ad Atticum 11.10 | pending |
-| 466 | 47 BC | letters | Ad Atticum 11.16 | pending |
-| 467 | 47 BC | letters | Ad Familiares 9.1 | pending |
-| 468 | 8 March 47 BC | letters | Ad Atticum 11.12 | pending |
-| 469 | 15 March 47 BC | letters | Ad Atticum 11.11 | pending |
-| 470 | March 47 BC | letters | Ad Atticum 11.13 | pending |
-| 471 | 26 April 47 BC | letters | Ad Atticum 11.14 | pending |
-| 472 | 47 BC | letters | Ad Familiares 13.48 | pending |
-| 473 | 14 May 47 BC | letters | Ad Atticum 11.15 | pending |
-| 474 | 15 May 47 BC | letters | Ad Familiares 16.18 | pending |
-| 475 | 2 June 47 BC | letters | Ad Familiares 14.8 | pending |
-| 476 | 3 June 47 BC | letters | Ad Familiares 14.21 | pending |
-| 477 | 13 June 47 BC | letters | Ad Atticum 11.17 | pending |
-| 478 | 15 June 47 BC | letters | Ad Familiares 14.11 | pending |
-| 479 | 20 June 47 BC | letters | Ad Atticum 11.18 | pending |
-| 480 | 20 June 47 BC | letters | Ad Familiares 14.15 | pending |
-| 481 | 5 July 47 BC | letters | Ad Atticum 11.25 | pending |
-| 482 | 9 July 47 BC | letters | Ad Atticum 11.23 | pending |
-| 483 | 9 July 47 BC | letters | Ad Familiares 14.10 | pending |
-| 484 | 10 July 47 BC | letters | Ad Familiares 14.13 | pending |
-| 485 | 22 July 47 BC | letters | Ad Atticum 11.19 | pending |
-| 486 | 6 August 47 BC | letters | Ad Atticum 11.24 | pending |
-| 487 | 11 August 47 BC | letters | Ad Familiares 14.24 | pending |
-| 488 | 12 August 47 BC | letters | Ad Familiares 14.23 | pending |
-| 489 | August 47 BC | letters | Ad Familiares 15.15 | pending |
-| 490 | 17 August 47 BC | letters | Ad Atticum 11.20 | pending |
-| 491 | 28 August 47 BC | letters | Ad Atticum 11.21 | pending |
-| 492 | 32 August 47 BC | letters | Ad Familiares 14.22 | pending |
-| 493 | 1 September 47 BC | letters | Ad Atticum 11.22 | pending |
-| 494 | 1 October 47 BC | letters | Ad Familiares 14.20 | pending |
-| 495 | 47 BC | letters | Ad Familiares 15.21 | pending |
-| 496 | 47 BC | letters | Ad Familiares 13.29 | pending |
-| 497 | 46 BC | letters | Ad Familiares 13.20 | pending |
-| 498 | 46 BC | letters | Ad Familiares 13.32 | pending |
-| 499 | 46 BC | letters | Ad Familiares 13.68 | pending |
-| 500 | 46 BC | letters | Ad Familiares 13.21 | pending |
-| 501 | 46 BC | letters | Ad Familiares 6.1 | pending |
-| 502 | 46 BC | letters | Ad Familiares 9.13 | pending |
-| 503 | 46 BC | letters | Ad Familiares 13.33 | pending |
-| 504 | 46 BC | letters | Ad Familiares 13.69 | pending |
-| 505 | 46 BC | letters | Ad Familiares 9.26 | pending |
-| 506 | 46 BC | letters | Ad Familiares 13.22 | pending |
-| 507 | 46 BC | letters | Ad Familiares 13.34 | pending |
-| 508 | 46 BC | letters | Ad Familiares 13.10 | pending |
-| 509 | 46 BC | letters | Ad Familiares 6.14 | pending |
-| 510 | 46 BC | letters | Ad Familiares 13.70 | pending |
-| 511 | April 46 BC | rhetoric | Brutus | pending |
-| 512 | 46 BC | letters | Ad Familiares 13.23 | pending |
-| 513 | April 46 BC | letters | Ad Atticum 12.2 | pending |
-| 514 | 20 April 46 BC | letters | Ad Familiares 9.2 | pending |
-| 515 | 46 BC | letters | Ad Familiares 9.15 | pending |
-| 516 | 46 BC | letters | Ad Familiares 13.35 | pending |
-| 517 | 46 BC | letters | Ad Familiares 13.71 | pending |
-| 518 | 46 BC | letters | Ad Familiares 13.72 | pending |
-| 519 | 46 BC | letters | Ad Familiares 13.24 | pending |
-| 520 | 46 BC | letters | Ad Familiares 13.60 | pending |
-| 521 | 46 BC | letters | Ad Familiares 13.36 | pending |
-| 522 | 10 June 46 BC | letters | Ad Familiares 9.4 | pending |
-| 523 | 46 BC | letters | Ad Familiares 13.25 | pending |
-| 524 | 11 June 46 BC | letters | Ad Atticum 12.3 | pending |
-| 525 | 46 BC | letters | Ad Familiares 12.17 | pending |
-| 526 | 15 June 46 BC | letters | Ad Atticum 12.4 | pending |
-| 527 | June 46 BC | letters | Ad Familiares 9.5 | pending |
-| 528 | 46 BC | letters | Ad Familiares 5.21 | pending |
-| 529 | 46 BC | letters | Ad Familiares 4.13 | pending |
-| 530 | 46 BC | letters | Ad Familiares 13.37 | pending |
-| 531 | 25 June 46 BC | letters | Ad Familiares 9.6 | pending |
-| 532 | 46-44 BC | letters | Ad Familiares 9.3 | pending |
-| 533 | 46-44 BC | letters | Ad Familiares 9.25 | pending |
-| 534 | 46 BC | rhetoric | On the Best Kind of Orators | pending |
-| 535 | 46 BC | philosophy | Stoic Paradoxes | pending |
-| 536 | 46 BC | letters | Ad Atticum 12.6 | pending |
-| 537 | 46 BC | letters | Ad Familiares 13.26 | pending |
-| 538 | July 46 BC | letters | Ad Atticum 12.5 | pending |
-| 539 | July 46 BC | letters | Ad Familiares 7.33 | pending |
-| 540 | July 46 BC | letters | Ad Familiares 9.16 | pending |
-| 541 | 20 July 46 BC | letters | Ad Familiares 9.18 | pending |
-| 542 | 46 BC | letters | Ad Familiares 4.14 | pending |
-| 543 | 46 BC | letters | Ad Familiares 13.38 | pending |
-| 544 | 46 BC | letters | Ad Familiares 7.26 | pending |
-| 545 | 46 BC | letters | Ad Atticum 12.7 | pending |
-| 546 | 46 BC | letters | Ad Familiares 4.3 | pending |
-| 547 | 46 BC | letters | Ad Familiares 9.7 | pending |
-| 548 | 46 BC | letters | Ad Familiares 13.27 | pending |
-| 549 | 13 August 46 BC | letters | Ad Familiares 4.7 | pending |
-| 550 | 13 August 46 BC | letters | Ad Familiares 4.9 | pending |
-| 551 | 13 August 46 BC | letters | Ad Familiares 9.17 | pending |
-| 552 | 13 August 46 BC | letters | Ad Familiares 9.19 | pending |
-| 553 | August 46 BC | letters | Ad Familiares 4.8 | pending |
-| 554 | August 46 BC | letters | Ad Familiares 6.10 | pending |
-| 555 | August 46 BC | letters | Ad Familiares 6.13 | pending |
-| 556 | August 46 BC | letters | Ad Familiares 7.28 | pending |
-| 557 | August 46 BC | letters | Ad Familiares 9.20 | pending |
-| 558 | 46 BC | letters | Ad Familiares 4.15 | pending |
-| 559 | 46 BC | letters | Ad Familiares 13.39 | pending |
-| 560 | September 46 BC | rhetoric | Orator: To Marcus Brutus | pending |
-| 561 | September 46 BC | speeches | For Marcus Marcellus | pending |
-| 562 | 46 BC | letters | Ad Atticum 12.8 | pending |
-| 563 | 46 BC | letters | Ad Familiares 7.4 | pending |
-| 564 | 46 BC | letters | Ad Familiares 13.28 | pending |
-| 565 | September 46 BC | letters | Ad Familiares 13.52 | pending |
-| 566 | 1 October 46 BC | letters | Ad Familiares 6.6 | pending |
-| 567 | 46 BC | letters | Ad Familiares 13.17 | pending |
-| 568 | 46 BC | letters | Ad Familiares 13.77 | pending |
-| 569 | 15 October 46 BC | letters | Ad Familiares 4.4 | pending |
-| 570 | October 46 BC | letters | Ad Familiares 4.11 | pending |
-| 571 | 15 October 46 BC | letters | Ad Familiares 12.18 | pending |
-| 572 | 46 BC | letters | Ad Familiares 6.9 | pending |
-| 573 | 46 BC | letters | Ad Familiares 9.21 | pending |
-| 574 | November 46 BC | speeches | For Quintus Ligarius | pending |
-| 575 | 46 BC | letters | Ad Familiares 13.18 | pending |
-| 576 | 46 BC | letters | Ad Familiares 6.22 | pending |
-| 577 | 46 BC | letters | Ad Familiares 13.78 | pending |
-| 578 | November 46 BC | letters | Ad Familiares 4.10 | pending |
-| 579 | November 46 BC | letters | Ad Familiares 6.12 | pending |
-| 580 | 46 BC | letters | Ad Familiares 13.30 | pending |
-| 581 | 24 November 46 BC | letters | Ad Atticum 12.1 | pending |
-| 582 | 46 BC | letters | Ad Familiares 13.19 | pending |
-| 583 | 46 BC | letters | Ad Atticum 12.11 | pending |
-| 584 | 46 BC | letters | Ad Familiares 13.79 | pending |
-| 585 | December 46 BC | letters | Ad Familiares 6.5 | pending |
-| 586 | December 46 BC | letters | Ad Familiares 6.7 | pending |
-| 587 | December 46 BC | letters | Ad Familiares 6.8 | pending |
-| 588 | December 46 BC | letters | Ad Familiares 12.19 | pending |
-| 589 | December 46 BC | letters | Ad Familiares 15.18 | pending |
-| 590 | 46 BC | letters | Ad Familiares 13.31 | pending |
-| 591 | 46 BC | letters | Ad Familiares 13.67 | pending |
-| 592 | 46 BC | letters | Ad Familiares 9.23 | pending |
-| 593 | 30 December 46 BC | letters | Ad Familiares 9.10 | pending |
-| 594 | 30 December 46 BC | letters | Ad Familiares 15.17 | pending |
-| 595 | January 45 BC | letters | Ad Familiares 6.3 | pending |
-| 596 | January 45 BC | letters | Ad Familiares 6.4 | pending |
-| 597 | January 45 BC | letters | Ad Familiares 6.18 | pending |
-| 598 | January 45 BC | letters | Ad Familiares 15.16 | pending |
-| 599 | January 45 BC | letters | Ad Familiares 15.19 | pending |
-| 600 | 45 BC | letters | Ad Familiares 9.12 | pending |
-| 601 | 13 February 45 BC | letters | Ad Familiares 13.66 | pending |
-| 602 | March 45 BC | philosophy | Consolation | pending |
-| 603 | 7 March 45 BC | letters | Ad Atticum 12.13 | pending |
-| 604 | 8 March 45 BC | letters | Ad Atticum 12.14 | pending |
-| 605 | 9 March 45 BC | letters | Ad Atticum 12.15 | pending |
-| 606 | 10 March 45 BC | letters | Ad Atticum 12.16 | pending |
-| 607 | 11 March 45 BC | letters | Ad Atticum 12.18 | pending |
-| 608 | 12 March 45 BC | letters | Ad Atticum 12.17 | pending |
-| 609 | 14 March 45 BC | letters | Ad Atticum 12.19 | pending |
-| 610 | 15 March 45 BC | letters | Ad Atticum 12.20 | pending |
-| 611 | March 45 BC | letters | Ad Atticum 13.6 | pending |
-| 612 | March 45 BC | letters | Ad Familiares 4.5 | pending |
-| 613 | March 45 BC | letters | Ad Familiares 5.13 | pending |
-| 614 | 16 March 45 BC | letters | Ad Atticum 12.12 | pending |
-| 615 | 17 March 45 BC | letters | Ad Atticum 12.21 | pending |
-| 616 | 18 March 45 BC | letters | Ad Atticum 12.22 | pending |
-| 617 | 19 March 45 BC | letters | Ad Atticum 12.23 | pending |
-| 618 | 20 March 45 BC | letters | Ad Atticum 12.24 | pending |
-| 619 | 22 March 45 BC | letters | Ad Atticum 12.25 | pending |
-| 620 | 22 March 45 BC | letters | Ad Atticum 12.26 | pending |
-| 621 | 23 March 45 BC | letters | Ad Atticum 12.27 | pending |
-| 622 | 24 March 45 BC | letters | Ad Atticum 12.28 | pending |
-| 623 | 25 March 45 BC | letters | Ad Atticum 12.29 | pending |
-| 624 | 26 March 45 BC | letters | Ad Atticum 12.33 | pending |
-| 625 | 28 March 45 BC | letters | Ad Atticum 12.32 | pending |
-| 626 | 30 March 45 BC | letters | Ad Atticum 12.34 | pending |
-| 627 | 1 April 45 BC | letters | Ad Atticum 12.31 | pending |
-| 628 | 8 April 45 BC | letters | Ad Atticum 12.30 | pending |
-| 629 | April 45 BC | letters | Ad Familiares 4.6 | pending |
-| 630 | April 45 BC | letters | Ad Familiares 6.21 | pending |
-| 631 | 45 BC | letters | Ad Atticum 12.51 | pending |
-| 632 | 20 April 45 BC | letters | Ad Familiares 6.2 | pending |
-| 633 | 20 April 45 BC | letters | Ad Familiares 9.11 | pending |
-| 634 | May 45 BC | philosophy | Academica | pending |
-| 635 | 2 May 45 BC | letters | Ad Atticum 12.35 | pending |
-| 636 | 3 May 45 BC | letters | Ad Atticum 12.36 | pending |
-| 637 | 4 May 45 BC | letters | Ad Atticum 12.37 | pending |
-| 638 | 6 May 45 BC | letters | Ad Atticum 12.38 | pending |
-| 639 | 8 May 45 BC | letters | Ad Atticum 12.39 | pending |
-| 640 | 9 May 45 BC | letters | Ad Atticum 12.40 | pending |
-| 641 | 10 May 45 BC | letters | Ad Atticum 12.42 | pending |
-| 642 | 11 May 45 BC | letters | Ad Atticum 12.41 | pending |
-| 643 | 12 May 45 BC | letters | Ad Atticum 12.43 | pending |
-| 644 | 13 May 45 BC | letters | Ad Atticum 12.44 | pending |
-| 645 | 14 May 45 BC | letters | Ad Atticum 13.26 | pending |
-| 646 | 15 May 45 BC | letters | Ad Familiares 5.14 | pending |
-| 647 | 16 May 45 BC | letters | Ad Atticum 12.47 | pending |
-| 648 | 17 May 45 BC | letters | Ad Atticum 12.45 | pending |
-| 649 | 17 May 45 BC | letters | Ad Atticum 12.48 | pending |
-| 650 | 18 May 45 BC | letters | Ad Atticum 12.50 | pending |
-| 651 | 19 May 45 BC | letters | Ad Atticum 12.49 | pending |
-| 652 | 21 May 45 BC | letters | Ad Atticum 12.52 | pending |
-| 653 | 45 BC | letters | Ad Familiares 4.12 | pending |
-| 654 | 22 May 45 BC | letters | Ad Atticum 12.53 | pending |
-| 655 | 23 May 45 BC | letters | Ad Atticum 13.1 | pending |
-| 656 | 24 May 45 BC | letters | Ad Atticum 13.2 | pending |
-| 657 | 25 May 45 BC | letters | Ad Atticum 13.27 | pending |
-| 658 | 27 May 45 BC | letters | Ad Atticum 13.29 | pending |
-| 659 | 28 May 45 BC | letters | Ad Atticum 13.30 | pending |
-| 660 | 28 May 45 BC | letters | Ad Atticum 13.31 | pending |
-| 661 | 29 May 45 BC | letters | Ad Atticum 13.32 | pending |
-| 662 | 30 May 45 BC | letters | Ad Atticum 13.3 | pending |
-| 663 | 1 June 45 BC | letters | Ad Atticum 13.4 | pending |
-| 664 | 1 June 45 BC | letters | Ad Atticum 13.28 | pending |
-| 665 | June 45 BC | philosophy | On the Ends of Good and Evil | pending |
-| 666 | 2 June 45 BC | letters | Ad Atticum 13.5 | pending |
-| 667 | 3 June 45 BC | letters | Ad Atticum 13.33 | pending |
-| 668 | 8 June 45 BC | letters | Ad Atticum 13.8 | pending |
-| 669 | 9 June 45 BC | letters | Ad Atticum 13.7 | pending |
-| 670 | June 45 BC | letters | Ad Familiares 6.11 | pending |
-| 671 | June 45 BC | letters | Ad Familiares 9.22 | pending |
-| 672 | 21 June 45 BC | letters | Ad Atticum 13.10 | pending |
-| 673 | 23 June 45 BC | letters | Ad Atticum 13.11 | pending |
-| 674 | 26 June 45 BC | letters | Ad Atticum 13.13 | pending |
-| 675 | 27 June 45 BC | letters | Ad Atticum 13.14 | pending |
-| 676 | 28 June 45 BC | letters | Ad Atticum 13.16 | pending |
-| 677 | 29 June 45 BC | letters | Ad Atticum 13.17 | pending |
-| 678 | 30 June 45 BC | letters | Ad Atticum 13.19 | pending |
-| 679 | 31 June 45 BC | letters | Ad Atticum 13.12 | pending |
-| 680 | 1 July 45 BC | letters | Ad Atticum 13.9 | pending |
-| 681 | 45 BC | letters | Ad Atticum 13.15 | pending |
-| 682 | 45 BC | letters | Ad Atticum 13.18 | pending |
-| 683 | 45 BC | letters | Ad Atticum 13.36 | pending |
-| 684 | 45 BC | philosophy | Hortensius | pending |
-| 685 | 45 BC | philosophy | Timaeus (Latin translation) | pending |
-| 686 | 3 July 45 BC | letters | Ad Atticum 13.20 | pending |
-| 687 | 4 July 45 BC | letters | Ad Atticum 13.22 | pending |
-| 688 | 10 July 45 BC | letters | Ad Atticum 13.23 | pending |
-| 689 | 11 July 45 BC | letters | Ad Atticum 13.24 | pending |
-| 690 | 11 July 45 BC | letters | Ad Familiares 5.9 | pending |
-| 691 | 12 July 45 BC | letters | Ad Atticum 13.25 | pending |
-| 692 | 12 July 45 BC | letters | Ad Familiares 9.8 | pending |
-| 693 | 13 July 45 BC | letters | Ad Atticum 13.35 | pending |
-| 694 | 14 July 45 BC | letters | Ad Atticum 13.43 | pending |
-| 695 | July 45 BC | letters | Ad Familiares 6.20 | pending |
-| 696 | 21 July 45 BC | letters | Ad Atticum 13.44 | pending |
-| 697 | 27 July 45 BC | letters | Ad Atticum 12.9 | pending |
-| 698 | 27 July 45 BC | letters | Ad Atticum 13.34 | pending |
-| 699 | 27 July 45 BC | letters | Ad Familiares 16.22 | pending |
-| 700 | 28 July 45 BC | letters | Ad Atticum 12.10 | pending |
-| 701 | 29 July 45 BC | letters | Ad Atticum 13.21 | pending |
-| 702 | 29 July 45 BC | letters | Ad Familiares 16.17 | pending |
-| 703 | August 45 BC | philosophy | On the Nature of the Gods | pending |
-| 704 | August 45 BC | philosophy | Tusculan Disputations | pending |
-| 705 | 2 August 45 BC | letters | Ad Atticum 13.37 | pending |
-| 706 | 4 August 45 BC | letters | Ad Atticum 13.38 | pending |
-| 707 | 5 August 45 BC | letters | Ad Atticum 13.39 | pending |
-| 708 | 5 August 45 BC | letters | Ad Atticum 13.48 | pending |
-| 709 | 8 August 45 BC | letters | Ad Atticum 13.40 | pending |
-| 710 | 9 August 45 BC | letters | Ad Atticum 13.41 | pending |
-| 711 | 11 August 45 BC | letters | Ad Atticum 13.45 | pending |
-| 712 | 12 August 45 BC | letters | Ad Atticum 13.46 | pending |
-| 713 | 13 August 45 BC | letters | Ad Atticum 13.47 | pending |
-| 714 | August 45 BC | letters | Ad Familiares 6.19 | pending |
-| 715 | August 45 BC | letters | Ad Familiares 16.19 | pending |
-| 716 | 20 August 45 BC | letters | Ad Atticum 13.49 | pending |
-| 717 | 20 August 45 BC | letters | Ad Familiares 7.24 | pending |
-| 718 | 22 August 45 BC | letters | Ad Atticum 13.50 | pending |
-| 719 | 24 August 45 BC | letters | Ad Atticum 13.51 | pending |
-| 720 | 24 August 45 BC | letters | Ad Familiares 7.25 | pending |
-| 721 | 45 BC | letters | Ad Familiares 13.15 | pending |
-| 722 | October 45 BC | letters | Ad Familiares 5.11 | pending |
-| 723 | October 45 BC | letters | Ad Familiares 13.4 | pending |
-| 724 | October 45 BC | letters | Ad Familiares 13.5 | pending |
-| 725 | October 45 BC | letters | Ad Familiares 13.7 | pending |
-| 726 | October 45 BC | letters | Ad Familiares 13.8 | pending |
-| 727 | 1 November 45 BC | letters | Ad Familiares 7.29 | pending |
-| 728 | November 45 BC | speeches | For King Deiotarus | pending |
-| 729 | 45 BC | letters | Ad Atticum 12.46 | pending |
-| 730 | 45 BC | letters | Ad Familiares 5.15 | pending |
-| 731 | December 45 BC | letters | Ad Atticum 13.42 | pending |
-| 732 | 19 December 45 BC | letters | Ad Atticum 13.52 | pending |
-| 733 | January 44 BC | letters | Ad Familiares 7.30 | pending |
-| 734 | January 44 BC | letters | Ad Familiares 13.50 | pending |
-| 735 | 1 March 44 BC | letters | Ad Atticum 14.15 | pending |
-| 736 | 15 March 44 BC | letters | Ad Familiares 6.15 | pending |
-| 737 | March 44 BC | letters | Ad Familiares 6.16 | pending |
-| 738 | 16 March 44 BC | letters | Ad Familiares 11.1 | pending |
-| 739 | April 44 BC | philosophy | Cato the Elder, On Old Age | pending |
-| 740 | April 44 BC | philosophy | On Divination | pending |
-| 741 | 7 April 44 BC | letters | Ad Atticum 14.1 | pending |
-| 742 | 8 April 44 BC | letters | Ad Atticum 14.2 | pending |
-| 743 | 9 April 44 BC | letters | Ad Atticum 14.3 | pending |
-| 744 | 10 April 44 BC | letters | Ad Atticum 14.4 | pending |
-| 745 | 12 April 44 BC | letters | Ad Atticum 14.6 | pending |
-| 746 | 13 April 44 BC | letters | Ad Atticum 14.5 | pending |
-| 747 | 15 April 44 BC | letters | Ad Atticum 14.7 | pending |
-| 748 | 15 April 44 BC | letters | Ad Atticum 14.8 | pending |
-| 749 | April 44 BC | letters | Ad Familiares 6.17 | pending |
-| 750 | April 44 BC | letters | Ad Familiares 15.20 | pending |
-| 751 | 44 BC | letters | Ad Familiares 11.7 | pending |
-| 752 | 17 April 44 BC | letters | Ad Atticum 14.9 | pending |
-| 753 | 19 April 44 BC | letters | Ad Atticum 14.10 | pending |
-| 754 | 21 April 44 BC | letters | Ad Atticum 14.11 | pending |
-| 755 | 22 April 44 BC | letters | Ad Atticum 14.12 | pending |
-| 756 | 26 April 44 BC | letters | Ad Atticum 14.13 | pending |
-| 757 | 27 April 44 BC | letters | Ad Atticum 14.14 | pending |
-| 758 | May 44 BC | philosophy | On Fate | pending |
-| 759 | 3 May 44 BC | letters | Ad Atticum 14.16 | pending |
-| 760 | 3 May 44 BC | letters | Ad Familiares 9.14 | pending |
-| 761 | 3 May 44 BC | letters | Ad Familiares 12.1 | pending |
-| 762 | 4 May 44 BC | letters | Ad Atticum 14.17 | pending |
-| 763 | 9 May 44 BC | letters | Ad Atticum 14.18 | pending |
-| 764 | 11 May 44 BC | letters | Ad Atticum 14.20 | pending |
-| 765 | 11 May 44 BC | letters | Ad Atticum 14.21 | pending |
-| 766 | 14 May 44 BC | letters | Ad Atticum 14.22 | pending |
-| 767 | 15 May 44 BC | letters | Ad Atticum 14.19 | pending |
-| 768 | May 44 BC | letters | Ad Familiares 11.2 | pending |
-| 769 | 17 May 44 BC | letters | Ad Atticum 15.1 | pending |
-| 770 | 18 May 44 BC | letters | Ad Atticum 15.2 | pending |
-| 771 | 24 May 44 BC | letters | Ad Atticum 15.4 | pending |
-| 772 | 25 May 44 BC | letters | Ad Familiares 12.16 | pending |
-| 773 | 27 May 44 BC | letters | Ad Atticum 15.6 | pending |
-| 774 | 28 May 44 BC | letters | Ad Atticum 15.5 | pending |
-| 775 | 28 May 44 BC | letters | Ad Familiares 16.23 | pending |
-| 776 | 29 May 44 BC | letters | Ad Atticum 15.7 | pending |
-| 777 | 31 May 44 BC | letters | Ad Atticum 15.8 | pending |
-| 778 | 1 June 44 BC | letters | Ad Atticum 15.3 | pending |
-| 779 | 2 June 44 BC | letters | Ad Atticum 15.9 | pending |
-| 780 | 5 June 44 BC | letters | Ad Atticum 15.10 | pending |
-| 781 | 8 June 44 BC | letters | Ad Atticum 15.11 | pending |
-| 782 | 10 June 44 BC | letters | Ad Atticum 15.12 | pending |
-| 783 | 12 June 44 BC | letters | Ad Atticum 15.16 | pending |
-| 784 | 13 June 44 BC | letters | Ad Atticum 15.15 | pending |
-| 785 | 13 June 44 BC | letters | Ad Atticum 15.17 | pending |
-| 786 | June 44 BC | letters | Ad Familiares 7.21 | pending |
-| 787 | June 44 BC | letters | Ad Familiares 7.22 | pending |
-| 788 | 16 June 44 BC | letters | Ad Atticum 15.18 | pending |
-| 789 | 21 June 44 BC | letters | Ad Atticum 15.19 | pending |
-| 790 | 21 June 44 BC | letters | Ad Atticum 15.20 | pending |
-| 791 | 22 June 44 BC | letters | Ad Atticum 15.21 | pending |
-| 792 | 25 June 44 BC | letters | Ad Atticum 15.23 | pending |
-| 793 | 26 June 44 BC | letters | Ad Atticum 15.24 | pending |
-| 794 | 27 June 44 BC | letters | Ad Atticum 15.14 | pending |
-| 795 | 27 June 44 BC | letters | Ad Atticum 15.22 | pending |
-| 796 | 29 June 44 BC | letters | Ad Atticum 15.25 | pending |
-| 797 | July 44 BC | philosophy | Laelius, On Friendship | pending |
-| 798 | July 44 BC | rhetoric | Topics: To Gaius Trebatius | pending |
-| 799 | 2 July 44 BC | letters | Ad Atticum 15.26 | pending |
-| 800 | 3 July 44 BC | letters | Ad Atticum 15.27 | pending |
-| 801 | 3 July 44 BC | letters | Ad Atticum 15.28 | pending |
-| 802 | 44 BC | letters | Ad Familiares 16.26 | pending |
-| 803 | 6 July 44 BC | letters | Ad Atticum 16.16 | pending |
-| 804 | 7 July 44 BC | letters | Ad Atticum 15.29 | pending |
-| 805 | 8 July 44 BC | letters | Ad Atticum 16.1 | pending |
-| 806 | 9 July 44 BC | letters | Ad Atticum 16.5 | pending |
-| 807 | 10 July 44 BC | letters | Ad Atticum 16.4 | pending |
-| 808 | 11 July 44 BC | letters | Ad Atticum 16.2 | pending |
-| 809 | 15 July 44 BC | letters | Ad Familiares 11.29 | pending |
-| 810 | July 44 BC | letters | Ad Familiares 16.21 | pending |
-| 811 | 17 July 44 BC | letters | Ad Atticum 16.3 | pending |
-| 812 | 44 BC | letters | Ad Atticum 16.14 | pending |
-| 813 | 20 July 44 BC | letters | Ad Familiares 7.20 | pending |
-| 814 | 25 July 44 BC | letters | Ad Atticum 16.6 | pending |
-| 815 | 29 July 44 BC | letters | Ad Familiares 7.19 | pending |
-| 816 | 4 August 44 BC | letters | Ad Familiares 11.3 | pending |
-| 817 | 19 August 44 BC | letters | Ad Atticum 16.7 | pending |
-| 818 | 30 August 44 BC | letters | Ad Familiares 11.27 | pending |
-| 819 | 2 September 44 BC | letters | Ad Familiares 12.20 | pending |
-| 820 | 2 September 44 BC | speeches | First Philippic | pending |
-| 821 | September 44 BC | letters | Ad Familiares 16.25 | pending |
-| 822 | 19 September 44 BC | letters | Ad Familiares 10.1 | pending |
-| 823 | 19 September 44 BC | letters | Ad Familiares 12.22 | pending |
-| 824 | October 44 BC | speeches | Second Philippic | pending |
-| 825 | 5 October 44 BC | letters | Ad Familiares 10.2 | pending |
-| 826 | 5 October 44 BC | letters | Ad Familiares 12.2 | pending |
-| 827 | 6 October 44 BC | letters | Ad Familiares 12.3 | pending |
-| 828 | 9 October 44 BC | letters | Ad Familiares 12.23 | pending |
-| 829 | October 44 BC | letters | Ad Familiares 11.4 | pending |
-| 830 | 44 BC | letters | Ad Familiares 12.21 | pending |
-| 831 | 25 October 44 BC | letters | Ad Atticum 15.13 | pending |
-| 832 | November 44 BC | philosophy | On Duties | pending |
-| 833 | 2 November 44 BC | letters | Ad Atticum 16.8 | pending |
-| 834 | 4 November 44 BC | letters | Ad Atticum 16.9 | pending |
-| 835 | 5 November 44 BC | letters | Ad Atticum 16.11 | pending |
-| 836 | 8 November 44 BC | letters | Ad Atticum 16.10 | pending |
-| 837 | 10 November 44 BC | letters | Ad Atticum 16.13 | pending |
-| 838 | 11 November 44 BC | letters | Ad Familiares 16.24 | pending |
-| 839 | 13 November 44 BC | letters | Ad Atticum 16.12 | pending |
-| 840 | 44 BC | letters | Ad Familiares 7.31 | pending |
-| 841 | 9 December 44 BC | letters | Ad Atticum 16.15 | pending |
-| 842 | 9 December 44 BC | letters | Ad Familiares 11.5 | pending |
-| 843 | 10 December 44 BC | letters | Ad Familiares 10.3 | pending |
-| 844 | December 44 BC | letters | Ad Familiares 10.4 | pending |
-| 845 | December 44 BC | letters | Ad Familiares 10.5 | pending |
-| 846 | December 44 BC | letters | Ad Familiares 16.27 | pending |
-| 847 | 20 December 44 BC | letters | Ad Familiares 11.6 | pending |
-| 848 | 20 December 44 BC | speeches | Third Philippic | pending |
-| 849 | 20 December 44 BC | speeches | Fourth Philippic | pending |
-| 850 | 43 BC | letters | Ad Familiares 10.8 | pending |
-| 851 | 1 January 43 BC | speeches | Fifth Philippic | pending |
-| 852 | January 43 BC | speeches | Seventh Philippic | pending |
-| 853 | 4 January 43 BC | speeches | Sixth Philippic | pending |
-| 854 | 24 January 43 BC | letters | Ad Familiares 12.24 | pending |
-| 855 | 1 February 43 BC | letters | Ad Familiares 12.4 | pending |
-| 856 | February 43 BC | speeches | Tenth Philippic | pending |
-| 857 | 2 February 43 BC | letters | Ad Familiares 10.28 | pending |
-| 858 | 3 February 43 BC | speeches | Eighth Philippic | pending |
-| 859 | 4 February 43 BC | speeches | Ninth Philippic | pending |
-| 860 | 5 February 43 BC | letters | Ad Familiares 12.5 | pending |
-| 861 | February 43 BC | letters | Ad Familiares 9.24 | pending |
-| 862 | 43 BC | letters | Ad M. Brutum 1.9 | pending |
-| 863 | March 43 BC | speeches | Eleventh Philippic | pending |
-| 864 | March 43 BC | speeches | Twelfth Philippic | pending |
-| 865 | 7 March 43 BC | letters | Ad Familiares 12.11 | pending |
-| 866 | March 43 BC | letters | Ad Familiares 10.7 | pending |
-| 867 | 16 March 43 BC | letters | Ad Familiares 10.31 | pending |
-| 868 | 19 March 43 BC | letters | Ad Familiares 12.25 | pending |
-| 869 | 20 March 43 BC | letters | Ad Familiares 10.6 | pending |
-| 870 | 20 March 43 BC | letters | Ad Familiares 10.27 | pending |
-| 871 | 20 March 43 BC | speeches | Thirteenth Philippic | pending |
-| 872 | 43 BC | letters | Ad Familiares 12.26 | pending |
-| 873 | 30 March 43 BC | letters | Ad Familiares 10.10 | pending |
-| 874 | 32 March 43 BC | letters | Ad M. Brutum 2.3 | pending |
-| 875 | 7 April 43 BC | letters | Ad Familiares 12.6 | pending |
-| 876 | 11 April 43 BC | letters | Ad M. Brutum 2.2 | pending |
-| 877 | 11 April 43 BC | letters | Ad Familiares 10.12 | pending |
-| 878 | 12 April 43 BC | letters | Ad M. Brutum 2.4 | pending |
-| 879 | 13 April 43 BC | letters | Ad M. Brutum 2.1 | pending |
-| 880 | 14 April 43 BC | letters | Ad M. Brutum 2.5 | pending |
-| 881 | April 43 BC | letters | Ad Familiares 10.11 | pending |
-| 882 | 15 April 43 BC | letters | Ad Familiares 10.30 | pending |
-| 883 | 21 April 43 BC | letters | Ad M. Brutum 1.3 | pending |
-| 884 | 21 April 43 BC | speeches | Philippica XIV | pending |
-| 885 | 43 BC | letters | Ad Familiares 12.27 | pending |
-| 886 | 27 April 43 BC | letters | Ad Familiares 10.9 | pending |
-| 887 | 29 April 43 BC | letters | Ad Familiares 11.9 | pending |
-| 888 | 5 May 43 BC | letters | Ad M. Brutum 1.5 | pending |
-| 889 | 5 May 43 BC | letters | Ad Familiares 10.14 | pending |
-| 890 | 5 May 43 BC | letters | Ad Familiares 11.10 | pending |
-| 891 | 6 May 43 BC | letters | Ad Familiares 11.11 | pending |
-| 892 | 7 May 43 BC | letters | Ad Familiares 12.12 | pending |
-| 893 | 11 May 43 BC | letters | Ad Familiares 10.13 | pending |
-| 894 | 12 May 43 BC | letters | Ad Familiares 11.13 | pending |
-| 895 | 13 May 43 BC | letters | Ad Familiares 11.12 | pending |
-| 896 | May 43 BC | letters | Ad M. Brutum 1.2 | pending |
-| 897 | May 43 BC | letters | Ad Familiares 10.16 | pending |
-| 898 | 15 May 43 BC | letters | Ad Familiares 10.21 | pending |
-| 899 | 18 May 43 BC | letters | Ad Familiares 10.18 | pending |
-| 900 | 18 May 43 BC | letters | Ad Familiares 10.34 | pending |
-| 901 | 19 May 43 BC | letters | Ad M. Brutum 1.6 | pending |
-| 902 | 21 May 43 BC | letters | Ad Familiares 11.19 | pending |
-| 903 | 24 May 43 BC | letters | Ad Familiares 11.20 | pending |
-| 904 | 25 May 43 BC | letters | Ad Familiares 11.23 | pending |
-| 905 | 43 BC | letters | Ad Familiares 12.28 | pending |
-| 906 | 26 May 43 BC | letters | Ad Familiares 10.19 | pending |
-| 907 | 26 May 43 BC | letters | Ad Familiares 10.25 | pending |
-| 908 | 29 May 43 BC | letters | Ad Familiares 10.20 | pending |
-| 909 | 29 May 43 BC | letters | Ad Familiares 11.14 | pending |
-| 910 | 30 May 43 BC | letters | Ad Familiares 10.35 | pending |
-| 911 | 1 June 43 BC | letters | Ad Familiares 10.17 | pending |
-| 912 | 1 June 43 BC | letters | Ad Familiares 11.18 | pending |
-| 913 | 1 June 43 BC | letters | Ad Familiares 12.14 | pending |
-| 914 | 3 June 43 BC | letters | Ad Familiares 11.26 | pending |
-| 915 | 4 June 43 BC | letters | Ad Familiares 11.21 | pending |
-| 916 | 5 June 43 BC | letters | Ad Familiares 12.15 | pending |
-| 917 | 6 June 43 BC | letters | Ad Familiares 10.23 | pending |
-| 918 | 6 June 43 BC | letters | Ad Familiares 11.24 | pending |
-| 919 | 8 June 43 BC | letters | Ad Familiares 10.32 | pending |
-| 920 | 9 June 43 BC | letters | Ad Familiares 12.8 | pending |
-| 921 | 9 June 43 BC | letters | Ad Familiares 12.30 | pending |
-| 922 | 13 June 43 BC | letters | Ad M. Brutum 1.8 | pending |
-| 923 | 13 June 43 BC | letters | Ad Familiares 10.33 | pending |
-| 924 | 13 June 43 BC | letters | Ad Familiares 12.13 | pending |
-| 925 | June 43 BC | letters | Ad M. Brutum 1.11 | pending |
-| 926 | 43 BC | letters | Ad M. Brutum 1.1 | pending |
-| 927 | 18 June 43 BC | letters | Ad Familiares 11.25 | pending |
-| 928 | 23 June 43 BC | letters | Ad M. Brutum 1.7 | pending |
-| 929 | 43 BC | letters | Ad Familiares 12.29 | pending |
-| 930 | 29 June 43 BC | letters | Ad Familiares 10.22 | pending |
-| 931 | 29 June 43 BC | letters | Ad Familiares 10.26 | pending |
-| 932 | 29 June 43 BC | letters | Ad Familiares 11.15 | pending |
-| 933 | 29 June 43 BC | letters | Ad Familiares 12.9 | pending |
-| 934 | 1 July 43 BC | letters | Ad M. Brutum 1.13 | pending |
-| 935 | 43 BC | letters | Ad M. Brutum 1.16 | pending |
-| 936 | 43 BC | letters | Ad M. Brutum 2.6 | pending |
-| 937 | 43 BC | letters | Ad M. Brutum 2.7 | pending |
-| 938 | 43 BC | letters | Ad M. Brutum 2.8 | pending |
-| 939 | 43 BC | letters | Ad Familiares 11.8 | pending |
-| 940 | 43 BC | letters | Ad Familiares 11.17 | pending |
-| 941 | 43 BC | letters | Ad Familiares 11.28 | pending |
-| 942 | 1 July 43 BC | letters | Ad Familiares 12.10 | pending |
-| 943 | 6 July 43 BC | letters | Ad Familiares 10.29 | pending |
-| 944 | 11 July 43 BC | letters | Ad M. Brutum 1.14 | pending |
-| 945 | 14 July 43 BC | letters | Ad Familiares 11.22 | pending |
-| 946 | July 43 BC | letters | Ad M. Brutum 1.10 | pending |
-| 947 | July 43 BC | letters | Ad M. Brutum 1.12 | pending |
-| 948 | 15 July 43 BC | letters | Ad Familiares 11.16 | pending |
-| 949 | 28 July 43 BC | letters | Ad Familiares 10.24 | pending |
-| 950 | 43 BC | letters | Ad M. Brutum 1.15 | pending |
-| 951 | 43 BC | letters | Ad Familiares 12.7 | pending |
-| 952 | 43 BC | letters | Ad Familiares 10.15 | pending |
-| 953 | 43 BC | letters | Ad M. Brutum 1.4 | pending |
-| 954 | 43 BC | letters | Ad M. Brutum 1.17 | pending |
-| 955 | 43 BC | letters | Ad M. Brutum 1.18 | pending |
-| 956 | 5 BC | letters | Ad Familiares 13.9 | pending |
+| 140 | March 56 BC | speeches | For Publius Sestius | drafted |
+| 141 | March 56 BC | letters | Ad Familiares 1.6 | pending |
+| 142 | March 56 BC | letters | Ad Quintum Fratrem 2.4 | drafted |
+| 143 | 4 April 56 BC | speeches | For Marcus Caelius | pending |
+| 144 | 8 April 56 BC | letters | Ad Quintum Fratrem 2.5 | pending |
+| 145 | April 56 BC | letters | Ad Atticum 4.4A | pending |
+| 146 | April 56 BC | letters | Ad Atticum 4.5 | pending |
+| 147 | April 56 BC | letters | Ad Atticum 4.6 | pending |
+| 148 | April 56 BC | letters | Ad Atticum 4.7 | pending |
+| 149 | April 56 BC | letters | Ad Atticum 4.8 | pending |
+| 150 | May 56 BC | letters | Ad Quintum Fratrem 2.6 | pending |
+| 151 | June 56 BC | speeches | On the Consular Provinces | pending |
+| 152 | June 56 BC | letters | Ad Familiares 5.12 | pending |
+| 153 | 56-54 BC | letters | Ad Quintum Fratrem 2.16 | pending |
+| 154 | 56 BC | speeches | On the Responses of the Haruspices | pending |
+| 155 | 56 BC | speeches | For Lucius Cornelius Balbus | pending |
+| 156 | July 56 BC | letters | Ad Familiares 1.7 | pending |
+| 157 | 56 BC | letters | Ad Familiares 13.51 | pending |
+| 158 | 1 September 56 BC | letters | Ad Familiares 7.3 | pending |
+| 159 | October 56 BC | letters | Ad Atticum 4.8A | pending |
+| 160 | 56 BC | letters | Ad Familiares 13.6 | pending |
+| 161 | 56 BC | letters | Ad Familiares 5.3 | pending |
+| 162 | January 55 BC | letters | Ad Familiares 1.8 | pending |
+| 163 | 10 April 55 BC | letters | Ad Familiares 16.13 | pending |
+| 164 | 55 BC | letters | Ad Quintum Fratrem 2.7 | pending |
+| 165 | 23 April 55 BC | letters | Ad Atticum 4.10 | pending |
+| 166 | 28 April 55 BC | letters | Ad Atticum 4.9 | pending |
+| 167 | 1 May 55 BC | letters | Ad Atticum 4.11 | pending |
+| 168 | 55 BC | letters | Ad Quintum Fratrem 2.8 | pending |
+| 169 | 55 BC | letters | Ad Atticum 4.12 | pending |
+| 170 | 55 BC | rhetoric | On the Orator | pending |
+| 171 | 55 BC | speeches | Against Piso | pending |
+| 172 | 55 BC | letters | Ad Familiares 13.40 | pending |
+| 173 | October 55 BC | letters | Ad Familiares 7.1 | pending |
+| 174 | 15 November 55 BC | letters | Ad Atticum 4.13 | pending |
+| 175 | 54 BC | letters | Ad Familiares 7.8 | pending |
+| 176 | January 54 BC | letters | Ad Familiares 5.8 | pending |
+| 177 | 54 BC | letters | Ad Quintum Fratrem 3.1 | pending |
+| 178 | 54 BC | letters | Ad Quintum Fratrem 3.2 | pending |
+| 179 | 54 BC | letters | Ad Familiares 1.10 | pending |
+| 180 | April 54 BC | letters | Ad Familiares 7.5 | pending |
+| 181 | May 54 BC | letters | Ad Atticum 4.14 | pending |
+| 182 | May 54 BC | letters | Ad Familiares 7.6 | pending |
+| 183 | May 54 BC | letters | Ad Quintum Fratrem 2.12 | pending |
+| 184 | 54 BC | letters | Ad Quintum Fratrem 2.9 | pending |
+| 185 | June 54 BC | letters | Ad Familiares 7.7 | pending |
+| 186 | June 54 BC | letters | Ad Quintum Fratrem 2.13 | pending |
+| 187 | 54-44 BC | letters | Ad Familiares 13.11 | pending |
+| 188 | 54-44 BC | letters | Ad Familiares 13.12 | pending |
+| 189 | 54-44 BC | letters | Ad Familiares 13.13 | pending |
+| 190 | 54-44 BC | letters | Ad Familiares 13.14 | pending |
+| 191 | 54-44 BC | letters | Ad Familiares 13.16 | pending |
+| 192 | 54-44 BC | letters | Ad Familiares 13.45 | pending |
+| 193 | 54-44 BC | letters | Ad Familiares 13.46 | pending |
+| 194 | 54-44 BC | letters | Ad Familiares 13.49 | pending |
+| 195 | 54-44 BC | letters | Ad Familiares 13.55 | pending |
+| 196 | 54-44 BC | letters | Ad Familiares 13.56 | pending |
+| 197 | 54-44 BC | letters | Ad Familiares 13.61 | pending |
+| 198 | 54-44 BC | letters | Ad Familiares 13.62 | pending |
+| 199 | 54-44 BC | letters | Ad Familiares 13.64 | pending |
+| 200 | 54-44 BC | letters | Ad Familiares 13.65 | pending |
+| 201 | 54-44 BC | letters | Ad Familiares 13.73 | pending |
+| 202 | 54-44 BC | letters | Ad Familiares 13.74 | pending |
+| 203 | 54-44 BC | letters | Ad Familiares 13.76 | pending |
+| 204 | 54-43 BC | letters | Ad Familiares 15.8 | pending |
+| 205 | 54-43 BC | letters | Ad Familiares 15.9 | pending |
+| 206 | 54-43 BC | letters | Ad Familiares 15.11 | pending |
+| 207 | 54-43 BC | letters | Ad Familiares 15.12 | pending |
+| 208 | 54-43 BC | letters | Ad Familiares 15.13 | pending |
+| 209 | 54-44 BC | letters | Ad Familiares 16.20 | pending |
+| 210 | 54 BC | letters | Ad Quintum Fratrem 3.6 | pending |
+| 211 | 54-51 BC | philosophy | On the Commonwealth | pending |
+| 212 | 54 BC | philosophy | On His Times | pending |
+| 213 | 54-46 BC | rhetoric | The Subdivisions of Oratory | pending |
+| 214 | 54 BC | speeches | For Gnaeus Plancius | pending |
+| 215 | 54-53 BC | speeches | For Gaius Rabirius Postumus | pending |
+| 216 | 54 BC | speeches | For Marcus Aemilius Scaurus | pending |
+| 217 | 15 July 54 BC | letters | Ad Atticum 4.16 | pending |
+| 218 | 54 BC | letters | Ad Quintum Fratrem 2.10 | pending |
+| 219 | 27 July 54 BC | letters | Ad Atticum 4.15 | pending |
+| 220 | 27 July 54 BC | letters | Ad Quintum Fratrem 2.14 | pending |
+| 221 | August 54 BC | letters | Ad Quintum Fratrem 2.15 | pending |
+| 222 | 54 BC | letters | Ad Quintum Fratrem 2.11 | pending |
+| 223 | September 54 BC | letters | Ad Familiares 7.9 | pending |
+| 224 | 1 October 54 BC | letters | Ad Atticum 4.17 | pending |
+| 225 | October 54 BC | letters | Ad Atticum 4.18 | pending |
+| 226 | October 54 BC | letters | Ad Quintum Fratrem 3.7 | pending |
+| 227 | 54 BC | letters | Ad Familiares 7.17 | pending |
+| 228 | 24 October 54 BC | letters | Ad Quintum Fratrem 3.4 | pending |
+| 229 | 1 November 54 BC | letters | Ad Quintum Fratrem 3.3 | pending |
+| 230 | 13 November 54 BC | letters | Ad Quintum Fratrem 3.5 | pending |
+| 231 | November 54 BC | letters | Ad Atticum 4.19 | pending |
+| 232 | November 54 BC | letters | Ad Familiares 7.16 | pending |
+| 233 | November 54 BC | letters | Ad Quintum Fratrem 3.8 | pending |
+| 234 | December 54 BC | letters | Ad Familiares 1.9 | pending |
+| 235 | December 54 BC | letters | Ad Familiares 7.10 | pending |
+| 236 | December 54 BC | letters | Ad Quintum Fratrem 3.9 | pending |
+| 237 | 53 BC | letters | Ad Familiares 2.4 | pending |
+| 238 | January 53 BC | letters | Ad Familiares 7.11 | pending |
+| 239 | 53 BC | letters | Ad Familiares 2.5 | pending |
+| 240 | 53 BC | letters | Ad Familiares 3.1 | pending |
+| 241 | 4 March 53 BC | letters | Ad Familiares 7.13 | pending |
+| 242 | 53 BC | letters | Ad Familiares 2.6 | pending |
+| 243 | 8 April 53 BC | letters | Ad Familiares 7.18 | pending |
+| 244 | 11 April 53 BC | letters | Ad Familiares 16.14 | pending |
+| 245 | 13 April 53 BC | letters | Ad Familiares 16.15 | pending |
+| 246 | 17 April 53 BC | letters | Ad Familiares 16.10 | pending |
+| 247 | 53 BC | letters | Ad Familiares 7.12 | pending |
+| 248 | June 53 BC | letters | Ad Familiares 7.15 | pending |
+| 249 | July 53 BC | letters | Ad Familiares 7.14 | pending |
+| 250 | 53 BC | letters | Ad Familiares 16.16 | pending |
+| 251 | 53 BC | letters | Ad Familiares 2.1 | pending |
+| 252 | 53 BC | letters | Ad Familiares 2.2 | pending |
+| 253 | 53 BC | letters | Ad Familiares 2.3 | pending |
+| 254 | March 52 BC | letters | Ad Familiares 5.16 | pending |
+| 255 | March 52 BC | letters | Ad Familiares 7.27 | pending |
+| 256 | March 52 BC | letters | Ad Familiares 5.18 | pending |
+| 257 | April 52 BC | speeches | For Titus Annius Milo | pending |
+| 258 | April 52 BC | letters | Ad Familiares 13.2 | pending |
+| 259 | April 52 BC | letters | Ad Familiares 13.3 | pending |
+| 260 | 52-43 BC | philosophy | On the Laws | pending |
+| 261 | 52 BC | letters | Ad Familiares 13.75 | pending |
+| 262 | February 51 BC | letters | Ad Familiares 7.2 | pending |
+| 263 | 51 BC | letters | Ad Familiares 15.14 | pending |
+| 264 | March 51 BC | letters | Ad Familiares 3.2 | pending |
+| 265 | 51 BC | letters | Ad Familiares 13.47 | pending |
+| 266 | 51 BC | letters | Ad Familiares 2.7 | pending |
+| 267 | 51 BC | letters | Ad Familiares 3.3 | pending |
+| 268 | 51 BC | letters | Ad Atticum 5.8 | pending |
+| 269 | 10 May 51 BC | letters | Ad Atticum 5.2 | pending |
+| 270 | 11 May 51 BC | letters | Ad Atticum 5.3 | pending |
+| 271 | 12 May 51 BC | letters | Ad Atticum 5.4 | pending |
+| 272 | 14 May 51 BC | letters | Ad Atticum 5.5 | pending |
+| 273 | 19 May 51 BC | letters | Ad Atticum 5.6 | pending |
+| 274 | 51 BC | letters | Ad Familiares 15.4 | pending |
+| 275 | 24 May 51 BC | letters | Ad Familiares 8.1 | pending |
+| 276 | 5 June 51 BC | letters | Ad Familiares 3.4 | pending |
+| 277 | 10 June 51 BC | letters | Ad Familiares 8.3 | pending |
+| 278 | 1 July 51 BC | letters | Ad Atticum 5.9 | pending |
+| 279 | 1 July 51 BC | letters | Ad Atticum 5.10 | pending |
+| 280 | 51 BC | letters | Ad Familiares 5.10 | pending |
+| 281 | 6 July 51 BC | letters | Ad Familiares 2.8 | pending |
+| 282 | 6 July 51 BC | letters | Ad Familiares 13.1 | pending |
+| 283 | 7 July 51 BC | letters | Ad Atticum 5.11 | pending |
+| 284 | July 51 BC | letters | Ad Atticum 5.12 | pending |
+| 285 | 51 BC | letters | Ad Familiares 2.10 | pending |
+| 286 | 26 July 51 BC | letters | Ad Atticum 5.13 | pending |
+| 287 | 27 July 51 BC | letters | Ad Atticum 5.14 | pending |
+| 288 | 27 July 51 BC | letters | Ad Familiares 3.5 | pending |
+| 289 | 1 August 51 BC | letters | Ad Familiares 8.4 | pending |
+| 290 | 5 August 51 BC | letters | Ad Atticum 5.15 | pending |
+| 291 | 11 August 51 BC | letters | Ad Atticum 5.16 | pending |
+| 292 | 12 August 51 BC | letters | Ad Atticum 5.17 | pending |
+| 293 | 13 August 51 BC | letters | Ad Familiares 8.5 | pending |
+| 294 | 30 August 51 BC | letters | Ad Familiares 15.3 | pending |
+| 295 | 31 August 51 BC | letters | Ad Familiares 3.6 | pending |
+| 296 | 2 September 51 BC | letters | Ad Familiares 8.9 | pending |
+| 297 | 19 September 51 BC | letters | Ad Familiares 15.1 | pending |
+| 298 | 21 September 51 BC | letters | Ad Atticum 5.18 | pending |
+| 299 | 21 September 51 BC | letters | Ad Familiares 15.7 | pending |
+| 300 | 22 September 51 BC | letters | Ad Atticum 5.19 | pending |
+| 301 | 22 September 51 BC | letters | Ad Familiares 15.2 | pending |
+| 302 | 8 October 51 BC | letters | Ad Familiares 3.8 | pending |
+| 303 | 51 BC | letters | Ad Familiares 13.53 | pending |
+| 304 | October 51 BC | letters | Ad Familiares 8.8 | pending |
+| 305 | 13 November 51 BC | letters | Ad Familiares 2.9 | pending |
+| 306 | 51 BC | letters | Ad Familiares 8.2 | pending |
+| 307 | 51 BC | letters | Ad Familiares 15.10 | pending |
+| 308 | 1 December 51 BC | letters | Ad Familiares 8.10 | pending |
+| 309 | 29 December 51 BC | letters | Ad Atticum 5.20 | pending |
+| 310 | 50 BC | letters | Ad Familiares 14.5 | pending |
+| 311 | 11 February 50 BC | letters | Ad Familiares 7.32 | pending |
+| 312 | 11 February 50 BC | letters | Ad Familiares 13.54 | pending |
+| 313 | 11 February 50 BC | letters | Ad Familiares 13.58 | pending |
+| 314 | 11 February 50 BC | letters | Ad Familiares 13.59 | pending |
+| 315 | 11 February 50 BC | letters | Ad Familiares 13.63 | pending |
+| 316 | 13 February 50 BC | letters | Ad Atticum 5.21 | pending |
+| 317 | 13 February 50 BC | letters | Ad Familiares 3.7 | pending |
+| 318 | February 50 BC | letters | Ad Familiares 2.14 | pending |
+| 319 | February 50 BC | letters | Ad Familiares 8.6 | pending |
+| 320 | 20 February 50 BC | letters | Ad Familiares 3.9 | pending |
+| 321 | 24 February 50 BC | letters | Ad Atticum 6.1 | pending |
+| 322 | 50 BC | letters | Ad Familiares 2.18 | pending |
+| 323 | 4 April 50 BC | letters | Ad Familiares 2.11 | pending |
+| 324 | April 50 BC | letters | Ad Familiares 13.57 | pending |
+| 325 | May 50 BC | letters | Ad Atticum 6.2 | pending |
+| 326 | 15 May 50 BC | letters | Ad Familiares 8.7 | pending |
+| 327 | 15 May 50 BC | letters | Ad Familiares 8.11 | pending |
+| 328 | 15 May 50 BC | letters | Ad Familiares 15.5 | pending |
+| 329 | 23 May 50 BC | letters | Ad Atticum 7.7 | pending |
+| 330 | 5 June 50 BC | letters | Ad Atticum 6.4 | pending |
+| 331 | 13 June 50 BC | letters | Ad Familiares 3.11 | pending |
+| 332 | 13 June 50 BC | letters | Ad Familiares 8.13 | pending |
+| 333 | 22 June 50 BC | letters | Ad Familiares 2.19 | pending |
+| 334 | 26 June 50 BC | letters | Ad Familiares 2.12 | pending |
+| 335 | 27 June 50 BC | letters | Ad Atticum 6.3 | pending |
+| 336 | 27 June 50 BC | letters | Ad Atticum 6.5 | pending |
+| 337 | 17 July 50 BC | letters | Ad Familiares 2.17 | pending |
+| 338 | 30 July 50 BC | letters | Ad Atticum 6.7 | pending |
+| 339 | 1 August 50 BC | letters | Ad Familiares 15.6 | pending |
+| 340 | 4 August 50 BC | letters | Ad Familiares 2.15 | pending |
+| 341 | 4 August 50 BC | letters | Ad Familiares 3.12 | pending |
+| 342 | 10 August 50 BC | letters | Ad Atticum 6.6 | pending |
+| 343 | 10 August 50 BC | letters | Ad Familiares 3.13 | pending |
+| 344 | 20 September 50 BC | letters | Ad Familiares 8.12 | pending |
+| 345 | 24 September 50 BC | letters | Ad Familiares 8.14 | pending |
+| 346 | 31 September 50 BC | letters | Ad Atticum 6.8 | pending |
+| 347 | 15 October 50 BC | letters | Ad Atticum 6.9 | pending |
+| 348 | 16 October 50 BC | letters | Ad Atticum 7.1 | pending |
+| 349 | 50 BC | letters | Ad Familiares 2.13 | pending |
+| 350 | 50 BC | letters | Ad Familiares 3.10 | pending |
+| 351 | 3 November 50 BC | letters | Ad Familiares 16.1 | pending |
+| 352 | 5 November 50 BC | letters | Ad Familiares 16.2 | pending |
+| 353 | 6 November 50 BC | letters | Ad Familiares 16.3 | pending |
+| 354 | 7 November 50 BC | letters | Ad Familiares 16.4 | pending |
+| 355 | 7 November 50 BC | letters | Ad Familiares 16.5 | pending |
+| 356 | 7 November 50 BC | letters | Ad Familiares 16.6 | pending |
+| 357 | 17 November 50 BC | letters | Ad Familiares 16.7 | pending |
+| 358 | 27 November 50 BC | letters | Ad Atticum 7.2 | pending |
+| 359 | 28 November 50 BC | letters | Ad Familiares 16.9 | pending |
+| 360 | 9 December 50 BC | letters | Ad Atticum 7.3 | pending |
+| 361 | 11 December 50 BC | letters | Ad Atticum 7.4 | pending |
+| 362 | 18 December 50 BC | letters | Ad Atticum 7.5 | pending |
+| 363 | 19 December 50 BC | letters | Ad Atticum 7.6 | pending |
+| 364 | 28 December 50 BC | letters | Ad Atticum 7.8 | pending |
+| 365 | 29 December 50 BC | letters | Ad Atticum 7.9 | pending |
+| 366 | 4 January 49 BC | letters | Ad Familiares 5.20 | pending |
+| 367 | 13 January 49 BC | letters | Ad Familiares 16.11 | pending |
+| 368 | January 49 BC | letters | Ad Familiares 16.8 | pending |
+| 369 | 23 January 49 BC | letters | Ad Atticum 7.12 | pending |
+| 370 | 24 January 49 BC | letters | Ad Atticum 7.11 | pending |
+| 371 | 24 January 49 BC | letters | Ad Atticum 7.13 | pending |
+| 372 | 24 January 49 BC | letters | Ad Familiares 14.18 | pending |
+| 373 | 25 January 49 BC | letters | Ad Familiares 14.14 | pending |
+| 374 | 27 January 49 BC | letters | Ad Atticum 7.14 | pending |
+| 375 | 28 January 49 BC | letters | Ad Atticum 7.15 | pending |
+| 376 | 29 January 49 BC | letters | Ad Atticum 7.16 | pending |
+| 377 | 29 January 49 BC | letters | Ad Familiares 16.12 | pending |
+| 378 | 1 February 49 BC | letters | Ad Atticum 7.10 | pending |
+| 379 | 2 February 49 BC | letters | Ad Atticum 7.17 | pending |
+| 380 | 3 February 49 BC | letters | Ad Atticum 7.18 | pending |
+| 381 | 3 February 49 BC | letters | Ad Atticum 7.19 | pending |
+| 382 | 5 February 49 BC | letters | Ad Atticum 7.20 | pending |
+| 383 | 8 February 49 BC | letters | Ad Atticum 7.21 | pending |
+| 384 | 8 February 49 BC | letters | Ad Atticum 7.22 | pending |
+| 385 | 9 February 49 BC | letters | Ad Atticum 7.23 | pending |
+| 386 | 10 February 49 BC | letters | Ad Atticum 7.24 | pending |
+| 387 | 11 February 49 BC | letters | Ad Atticum 7.25 | pending |
+| 388 | 15 February 49 BC | letters | Ad Atticum 7.26 | pending |
+| 389 | 16 February 49 BC | letters | Ad Atticum 8.1 | pending |
+| 390 | 17 February 49 BC | letters | Ad Atticum 8.2 | pending |
+| 391 | 18 February 49 BC | letters | Ad Atticum 8.3 | pending |
+| 392 | 21 February 49 BC | letters | Ad Atticum 8.6 | pending |
+| 393 | 22 February 49 BC | letters | Ad Atticum 8.4 | pending |
+| 394 | 23 February 49 BC | letters | Ad Atticum 8.5 | pending |
+| 395 | 23 February 49 BC | letters | Ad Atticum 8.7 | pending |
+| 396 | 24 February 49 BC | letters | Ad Atticum 8.8 | pending |
+| 397 | 25 February 49 BC | letters | Ad Atticum 8.9 | pending |
+| 398 | 26 February 49 BC | letters | Ad Atticum 8.10 | pending |
+| 399 | 28 February 49 BC | letters | Ad Atticum 8.12 | pending |
+| 400 | 1 March 49 BC | letters | Ad Atticum 8.11 | pending |
+| 401 | 1 March 49 BC | letters | Ad Atticum 8.13 | pending |
+| 402 | 2 March 49 BC | letters | Ad Atticum 8.14 | pending |
+| 403 | 3 March 49 BC | letters | Ad Atticum 8.15 | pending |
+| 404 | 4 March 49 BC | letters | Ad Atticum 8.16 | pending |
+| 405 | 6 March 49 BC | letters | Ad Atticum 9.1 | pending |
+| 406 | 7 March 49 BC | letters | Ad Atticum 9.2 | pending |
+| 407 | 9 March 49 BC | letters | Ad Atticum 9.3 | pending |
+| 408 | 9 March 49 BC | letters | Ad Familiares 8.15 | pending |
+| 409 | 10 March 49 BC | letters | Ad Atticum 9.5 | pending |
+| 410 | 11 March 49 BC | letters | Ad Atticum 9.6 | pending |
+| 411 | 12 March 49 BC | letters | Ad Atticum 9.4 | pending |
+| 412 | 13 March 49 BC | letters | Ad Atticum 9.7 | pending |
+| 413 | 14 March 49 BC | letters | Ad Atticum 9.8 | pending |
+| 414 | 17 March 49 BC | letters | Ad Atticum 9.9 | pending |
+| 415 | 18 March 49 BC | letters | Ad Atticum 9.10 | pending |
+| 416 | 20 March 49 BC | letters | Ad Atticum 9.11 | pending |
+| 417 | 20 March 49 BC | letters | Ad Atticum 9.12 | pending |
+| 418 | 24 March 49 BC | letters | Ad Atticum 9.13 | pending |
+| 419 | 25 March 49 BC | letters | Ad Atticum 9.14 | pending |
+| 420 | 25 March 49 BC | letters | Ad Atticum 9.15 | pending |
+| 421 | 26 March 49 BC | letters | Ad Atticum 9.16 | pending |
+| 422 | 27 March 49 BC | letters | Ad Atticum 9.17 | pending |
+| 423 | 28 March 49 BC | letters | Ad Atticum 9.18 | pending |
+| 424 | 31 March 49 BC | letters | Ad Atticum 9.19 | pending |
+| 425 | 3 April 49 BC | letters | Ad Atticum 10.1 | pending |
+| 426 | 5 April 49 BC | letters | Ad Atticum 10.2 | pending |
+| 427 | 5 April 49 BC | letters | Ad Familiares 4.1 | pending |
+| 428 | 7 April 49 BC | letters | Ad Atticum 10.3 | pending |
+| 429 | 49 BC | letters | Ad Familiares 14.7 | pending |
+| 430 | 15 April 49 BC | letters | Ad Atticum 10.4 | pending |
+| 431 | April 49 BC | letters | Ad Atticum 10.6 | pending |
+| 432 | 16 April 49 BC | letters | Ad Familiares 8.16 | pending |
+| 433 | 17 April 49 BC | letters | Ad Atticum 10.5 | pending |
+| 434 | 23 April 49 BC | letters | Ad Atticum 10.7 | pending |
+| 435 | 28 April 49 BC | letters | Ad Familiares 4.2 | pending |
+| 436 | 28 April 49 BC | letters | Ad Familiares 5.19 | pending |
+| 437 | 2 May 49 BC | letters | Ad Atticum 10.8 | pending |
+| 438 | 3 May 49 BC | letters | Ad Atticum 10.9 | pending |
+| 439 | 3 May 49 BC | letters | Ad Atticum 10.10 | pending |
+| 440 | 4 May 49 BC | letters | Ad Atticum 10.11 | pending |
+| 441 | 4 May 49 BC | letters | Ad Familiares 2.16 | pending |
+| 442 | 5 May 49 BC | letters | Ad Atticum 10.12 | pending |
+| 443 | 6 May 49 BC | letters | Ad Atticum 5.1 | pending |
+| 444 | 12 May 49 BC | letters | Ad Atticum 10.15 | pending |
+| 445 | 14 May 49 BC | letters | Ad Atticum 10.16 | pending |
+| 446 | 15 May 49 BC | letters | Ad Atticum 10.14 | pending |
+| 447 | 16 May 49 BC | letters | Ad Atticum 10.17 | pending |
+| 448 | 20 May 49 BC | letters | Ad Atticum 10.18 | pending |
+| 449 | 22 May 49 BC | letters | Ad Atticum 5.7 | pending |
+| 450 | 49 BC | letters | Ad Atticum 10.13 | pending |
+| 451 | 1 January 48 BC | letters | Ad Atticum 11.8 | pending |
+| 452 | 13 January 48 BC | letters | Ad Atticum 11.1 | pending |
+| 453 | January 48 BC | letters | Ad Familiares 8.17 | pending |
+| 454 | 5 February 48 BC | letters | Ad Atticum 11.2 | pending |
+| 455 | 13 June 48 BC | letters | Ad Atticum 11.3 | pending |
+| 456 | June 48 BC | letters | Ad Familiares 9.9 | pending |
+| 457 | 15 July 48 BC | letters | Ad Atticum 11.4 | pending |
+| 458 | 15 July 48 BC | letters | Ad Familiares 14.6 | pending |
+| 459 | 48 BC | letters | Ad Familiares 14.12 | pending |
+| 460 | 5 November 48 BC | letters | Ad Atticum 11.5 | pending |
+| 461 | 28 November 48 BC | letters | Ad Atticum 11.6 | pending |
+| 462 | 28 November 48 BC | letters | Ad Familiares 14.19 | pending |
+| 463 | 17 December 48 BC | letters | Ad Familiares 14.9 | pending |
+| 464 | 19 December 48 BC | letters | Ad Atticum 11.7 | pending |
+| 465 | 32 December 48 BC | letters | Ad Familiares 14.17 | pending |
+| 466 | 3 January 47 BC | letters | Ad Atticum 11.9 | pending |
+| 467 | 5 January 47 BC | letters | Ad Familiares 14.16 | pending |
+| 468 | 21 January 47 BC | letters | Ad Atticum 11.10 | pending |
+| 469 | 47 BC | letters | Ad Atticum 11.16 | pending |
+| 470 | 47 BC | letters | Ad Familiares 9.1 | pending |
+| 471 | 8 March 47 BC | letters | Ad Atticum 11.12 | pending |
+| 472 | 15 March 47 BC | letters | Ad Atticum 11.11 | pending |
+| 473 | March 47 BC | letters | Ad Atticum 11.13 | pending |
+| 474 | 26 April 47 BC | letters | Ad Atticum 11.14 | pending |
+| 475 | 47 BC | letters | Ad Familiares 13.48 | pending |
+| 476 | 14 May 47 BC | letters | Ad Atticum 11.15 | pending |
+| 477 | 15 May 47 BC | letters | Ad Familiares 16.18 | pending |
+| 478 | 2 June 47 BC | letters | Ad Familiares 14.8 | pending |
+| 479 | 3 June 47 BC | letters | Ad Familiares 14.21 | pending |
+| 480 | 13 June 47 BC | letters | Ad Atticum 11.17 | pending |
+| 481 | 15 June 47 BC | letters | Ad Familiares 14.11 | pending |
+| 482 | 20 June 47 BC | letters | Ad Atticum 11.18 | pending |
+| 483 | 20 June 47 BC | letters | Ad Familiares 14.15 | pending |
+| 484 | 5 July 47 BC | letters | Ad Atticum 11.25 | pending |
+| 485 | 9 July 47 BC | letters | Ad Atticum 11.23 | pending |
+| 486 | 9 July 47 BC | letters | Ad Familiares 14.10 | pending |
+| 487 | 10 July 47 BC | letters | Ad Familiares 14.13 | pending |
+| 488 | 22 July 47 BC | letters | Ad Atticum 11.19 | pending |
+| 489 | 6 August 47 BC | letters | Ad Atticum 11.24 | pending |
+| 490 | 11 August 47 BC | letters | Ad Familiares 14.24 | pending |
+| 491 | 12 August 47 BC | letters | Ad Familiares 14.23 | pending |
+| 492 | August 47 BC | letters | Ad Familiares 15.15 | pending |
+| 493 | 17 August 47 BC | letters | Ad Atticum 11.20 | pending |
+| 494 | 28 August 47 BC | letters | Ad Atticum 11.21 | pending |
+| 495 | 32 August 47 BC | letters | Ad Familiares 14.22 | pending |
+| 496 | 1 September 47 BC | letters | Ad Atticum 11.22 | pending |
+| 497 | 1 October 47 BC | letters | Ad Familiares 14.20 | pending |
+| 498 | 47 BC | letters | Ad Familiares 15.21 | pending |
+| 499 | 47 BC | letters | Ad Familiares 13.29 | pending |
+| 500 | 46 BC | letters | Ad Familiares 13.20 | pending |
+| 501 | 46 BC | letters | Ad Familiares 13.32 | pending |
+| 502 | 46 BC | letters | Ad Familiares 13.68 | pending |
+| 503 | 46 BC | letters | Ad Familiares 13.21 | pending |
+| 504 | 46 BC | letters | Ad Familiares 6.1 | pending |
+| 505 | 46 BC | letters | Ad Familiares 9.13 | pending |
+| 506 | 46 BC | letters | Ad Familiares 13.33 | pending |
+| 507 | 46 BC | letters | Ad Familiares 13.69 | pending |
+| 508 | 46 BC | letters | Ad Familiares 9.26 | pending |
+| 509 | 46 BC | letters | Ad Familiares 13.22 | pending |
+| 510 | 46 BC | letters | Ad Familiares 13.34 | pending |
+| 511 | 46 BC | letters | Ad Familiares 13.10 | pending |
+| 512 | 46 BC | letters | Ad Familiares 6.14 | pending |
+| 513 | 46 BC | letters | Ad Familiares 13.70 | pending |
+| 514 | April 46 BC | rhetoric | Brutus | pending |
+| 515 | 46 BC | letters | Ad Familiares 13.23 | pending |
+| 516 | April 46 BC | letters | Ad Atticum 12.2 | pending |
+| 517 | 20 April 46 BC | letters | Ad Familiares 9.2 | pending |
+| 518 | 46 BC | letters | Ad Familiares 9.15 | pending |
+| 519 | 46 BC | letters | Ad Familiares 13.35 | pending |
+| 520 | 46 BC | letters | Ad Familiares 13.71 | pending |
+| 521 | 46 BC | letters | Ad Familiares 13.72 | pending |
+| 522 | 46 BC | letters | Ad Familiares 13.24 | pending |
+| 523 | 46 BC | letters | Ad Familiares 13.60 | pending |
+| 524 | 46 BC | letters | Ad Familiares 13.36 | pending |
+| 525 | 10 June 46 BC | letters | Ad Familiares 9.4 | pending |
+| 526 | 46 BC | letters | Ad Familiares 13.25 | pending |
+| 527 | 11 June 46 BC | letters | Ad Atticum 12.3 | pending |
+| 528 | 46 BC | letters | Ad Familiares 12.17 | pending |
+| 529 | 15 June 46 BC | letters | Ad Atticum 12.4 | pending |
+| 530 | June 46 BC | letters | Ad Familiares 9.5 | pending |
+| 531 | 46 BC | letters | Ad Familiares 5.21 | pending |
+| 532 | 46 BC | letters | Ad Familiares 4.13 | pending |
+| 533 | 46 BC | letters | Ad Familiares 13.37 | pending |
+| 534 | 25 June 46 BC | letters | Ad Familiares 9.6 | pending |
+| 535 | 46-44 BC | letters | Ad Familiares 9.3 | pending |
+| 536 | 46-44 BC | letters | Ad Familiares 9.25 | pending |
+| 537 | 46 BC | rhetoric | On the Best Kind of Orators | pending |
+| 538 | 46 BC | philosophy | Stoic Paradoxes | pending |
+| 539 | 46 BC | letters | Ad Atticum 12.6 | pending |
+| 540 | 46 BC | letters | Ad Familiares 13.26 | pending |
+| 541 | July 46 BC | letters | Ad Atticum 12.5 | pending |
+| 542 | July 46 BC | letters | Ad Familiares 7.33 | pending |
+| 543 | July 46 BC | letters | Ad Familiares 9.16 | pending |
+| 544 | 20 July 46 BC | letters | Ad Familiares 9.18 | pending |
+| 545 | 46 BC | letters | Ad Familiares 4.14 | pending |
+| 546 | 46 BC | letters | Ad Familiares 13.38 | pending |
+| 547 | 46 BC | letters | Ad Familiares 7.26 | pending |
+| 548 | 46 BC | letters | Ad Atticum 12.7 | pending |
+| 549 | 46 BC | letters | Ad Familiares 4.3 | pending |
+| 550 | 46 BC | letters | Ad Familiares 9.7 | pending |
+| 551 | 46 BC | letters | Ad Familiares 13.27 | pending |
+| 552 | 13 August 46 BC | letters | Ad Familiares 4.7 | pending |
+| 553 | 13 August 46 BC | letters | Ad Familiares 4.9 | pending |
+| 554 | 13 August 46 BC | letters | Ad Familiares 9.17 | pending |
+| 555 | 13 August 46 BC | letters | Ad Familiares 9.19 | pending |
+| 556 | August 46 BC | letters | Ad Familiares 4.8 | pending |
+| 557 | August 46 BC | letters | Ad Familiares 6.10 | pending |
+| 558 | August 46 BC | letters | Ad Familiares 6.13 | pending |
+| 559 | August 46 BC | letters | Ad Familiares 7.28 | pending |
+| 560 | August 46 BC | letters | Ad Familiares 9.20 | pending |
+| 561 | 46 BC | letters | Ad Familiares 4.15 | pending |
+| 562 | 46 BC | letters | Ad Familiares 13.39 | pending |
+| 563 | September 46 BC | rhetoric | Orator: To Marcus Brutus | pending |
+| 564 | September 46 BC | speeches | For Marcus Marcellus | pending |
+| 565 | 46 BC | letters | Ad Atticum 12.8 | pending |
+| 566 | 46 BC | letters | Ad Familiares 7.4 | pending |
+| 567 | 46 BC | letters | Ad Familiares 13.28 | pending |
+| 568 | September 46 BC | letters | Ad Familiares 13.52 | pending |
+| 569 | 1 October 46 BC | letters | Ad Familiares 6.6 | pending |
+| 570 | 46 BC | letters | Ad Familiares 13.17 | pending |
+| 571 | 46 BC | letters | Ad Familiares 13.77 | pending |
+| 572 | 15 October 46 BC | letters | Ad Familiares 4.4 | pending |
+| 573 | October 46 BC | letters | Ad Familiares 4.11 | pending |
+| 574 | 15 October 46 BC | letters | Ad Familiares 12.18 | pending |
+| 575 | 46 BC | letters | Ad Familiares 6.9 | pending |
+| 576 | 46 BC | letters | Ad Familiares 9.21 | pending |
+| 577 | November 46 BC | speeches | For Quintus Ligarius | pending |
+| 578 | 46 BC | letters | Ad Familiares 13.18 | pending |
+| 579 | 46 BC | letters | Ad Familiares 6.22 | pending |
+| 580 | 46 BC | letters | Ad Familiares 13.78 | pending |
+| 581 | November 46 BC | letters | Ad Familiares 4.10 | pending |
+| 582 | November 46 BC | letters | Ad Familiares 6.12 | pending |
+| 583 | 46 BC | letters | Ad Familiares 13.30 | pending |
+| 584 | 24 November 46 BC | letters | Ad Atticum 12.1 | pending |
+| 585 | 46 BC | letters | Ad Familiares 13.19 | pending |
+| 586 | 46 BC | letters | Ad Atticum 12.11 | pending |
+| 587 | 46 BC | letters | Ad Familiares 13.79 | pending |
+| 588 | December 46 BC | letters | Ad Familiares 6.5 | pending |
+| 589 | December 46 BC | letters | Ad Familiares 6.7 | pending |
+| 590 | December 46 BC | letters | Ad Familiares 6.8 | pending |
+| 591 | December 46 BC | letters | Ad Familiares 12.19 | pending |
+| 592 | December 46 BC | letters | Ad Familiares 15.18 | pending |
+| 593 | 46 BC | letters | Ad Familiares 13.31 | pending |
+| 594 | 46 BC | letters | Ad Familiares 13.67 | pending |
+| 595 | 46 BC | letters | Ad Familiares 9.23 | pending |
+| 596 | 30 December 46 BC | letters | Ad Familiares 9.10 | pending |
+| 597 | 30 December 46 BC | letters | Ad Familiares 15.17 | pending |
+| 598 | January 45 BC | letters | Ad Familiares 6.3 | pending |
+| 599 | January 45 BC | letters | Ad Familiares 6.4 | pending |
+| 600 | January 45 BC | letters | Ad Familiares 6.18 | pending |
+| 601 | January 45 BC | letters | Ad Familiares 15.16 | pending |
+| 602 | January 45 BC | letters | Ad Familiares 15.19 | pending |
+| 603 | 45 BC | letters | Ad Familiares 9.12 | pending |
+| 604 | 13 February 45 BC | letters | Ad Familiares 13.66 | pending |
+| 605 | March 45 BC | philosophy | Consolation | pending |
+| 606 | 7 March 45 BC | letters | Ad Atticum 12.13 | pending |
+| 607 | 8 March 45 BC | letters | Ad Atticum 12.14 | pending |
+| 608 | 9 March 45 BC | letters | Ad Atticum 12.15 | pending |
+| 609 | 10 March 45 BC | letters | Ad Atticum 12.16 | pending |
+| 610 | 11 March 45 BC | letters | Ad Atticum 12.18 | pending |
+| 611 | 12 March 45 BC | letters | Ad Atticum 12.17 | pending |
+| 612 | 14 March 45 BC | letters | Ad Atticum 12.19 | pending |
+| 613 | 15 March 45 BC | letters | Ad Atticum 12.20 | pending |
+| 614 | March 45 BC | letters | Ad Atticum 13.6 | pending |
+| 615 | March 45 BC | letters | Ad Familiares 4.5 | pending |
+| 616 | March 45 BC | letters | Ad Familiares 5.13 | pending |
+| 617 | 16 March 45 BC | letters | Ad Atticum 12.12 | pending |
+| 618 | 17 March 45 BC | letters | Ad Atticum 12.21 | pending |
+| 619 | 18 March 45 BC | letters | Ad Atticum 12.22 | pending |
+| 620 | 19 March 45 BC | letters | Ad Atticum 12.23 | pending |
+| 621 | 20 March 45 BC | letters | Ad Atticum 12.24 | pending |
+| 622 | 22 March 45 BC | letters | Ad Atticum 12.25 | pending |
+| 623 | 22 March 45 BC | letters | Ad Atticum 12.26 | pending |
+| 624 | 23 March 45 BC | letters | Ad Atticum 12.27 | pending |
+| 625 | 24 March 45 BC | letters | Ad Atticum 12.28 | pending |
+| 626 | 25 March 45 BC | letters | Ad Atticum 12.29 | pending |
+| 627 | 26 March 45 BC | letters | Ad Atticum 12.33 | pending |
+| 628 | 28 March 45 BC | letters | Ad Atticum 12.32 | pending |
+| 629 | 30 March 45 BC | letters | Ad Atticum 12.34 | pending |
+| 630 | 1 April 45 BC | letters | Ad Atticum 12.31 | pending |
+| 631 | 8 April 45 BC | letters | Ad Atticum 12.30 | pending |
+| 632 | April 45 BC | letters | Ad Familiares 4.6 | pending |
+| 633 | April 45 BC | letters | Ad Familiares 6.21 | pending |
+| 634 | 45 BC | letters | Ad Atticum 12.51 | pending |
+| 635 | 20 April 45 BC | letters | Ad Familiares 6.2 | pending |
+| 636 | 20 April 45 BC | letters | Ad Familiares 9.11 | pending |
+| 637 | May 45 BC | philosophy | Academica | pending |
+| 638 | 2 May 45 BC | letters | Ad Atticum 12.35 | pending |
+| 639 | 3 May 45 BC | letters | Ad Atticum 12.36 | pending |
+| 640 | 4 May 45 BC | letters | Ad Atticum 12.37 | pending |
+| 641 | 6 May 45 BC | letters | Ad Atticum 12.38 | pending |
+| 642 | 8 May 45 BC | letters | Ad Atticum 12.39 | pending |
+| 643 | 9 May 45 BC | letters | Ad Atticum 12.40 | pending |
+| 644 | 10 May 45 BC | letters | Ad Atticum 12.42 | pending |
+| 645 | 11 May 45 BC | letters | Ad Atticum 12.41 | pending |
+| 646 | 12 May 45 BC | letters | Ad Atticum 12.43 | pending |
+| 647 | 13 May 45 BC | letters | Ad Atticum 12.44 | pending |
+| 648 | 14 May 45 BC | letters | Ad Atticum 13.26 | pending |
+| 649 | 15 May 45 BC | letters | Ad Familiares 5.14 | pending |
+| 650 | 16 May 45 BC | letters | Ad Atticum 12.47 | pending |
+| 651 | 17 May 45 BC | letters | Ad Atticum 12.45 | pending |
+| 652 | 17 May 45 BC | letters | Ad Atticum 12.48 | pending |
+| 653 | 18 May 45 BC | letters | Ad Atticum 12.50 | pending |
+| 654 | 19 May 45 BC | letters | Ad Atticum 12.49 | pending |
+| 655 | 21 May 45 BC | letters | Ad Atticum 12.52 | pending |
+| 656 | 45 BC | letters | Ad Familiares 4.12 | pending |
+| 657 | 22 May 45 BC | letters | Ad Atticum 12.53 | pending |
+| 658 | 23 May 45 BC | letters | Ad Atticum 13.1 | pending |
+| 659 | 24 May 45 BC | letters | Ad Atticum 13.2 | pending |
+| 660 | 25 May 45 BC | letters | Ad Atticum 13.27 | pending |
+| 661 | 27 May 45 BC | letters | Ad Atticum 13.29 | pending |
+| 662 | 28 May 45 BC | letters | Ad Atticum 13.30 | pending |
+| 663 | 28 May 45 BC | letters | Ad Atticum 13.31 | pending |
+| 664 | 29 May 45 BC | letters | Ad Atticum 13.32 | pending |
+| 665 | 30 May 45 BC | letters | Ad Atticum 13.3 | pending |
+| 666 | 1 June 45 BC | letters | Ad Atticum 13.4 | pending |
+| 667 | 1 June 45 BC | letters | Ad Atticum 13.28 | pending |
+| 668 | June 45 BC | philosophy | On the Ends of Good and Evil | pending |
+| 669 | 2 June 45 BC | letters | Ad Atticum 13.5 | pending |
+| 670 | 3 June 45 BC | letters | Ad Atticum 13.33 | pending |
+| 671 | 8 June 45 BC | letters | Ad Atticum 13.8 | pending |
+| 672 | 9 June 45 BC | letters | Ad Atticum 13.7 | pending |
+| 673 | June 45 BC | letters | Ad Familiares 6.11 | pending |
+| 674 | June 45 BC | letters | Ad Familiares 9.22 | pending |
+| 675 | 21 June 45 BC | letters | Ad Atticum 13.10 | pending |
+| 676 | 23 June 45 BC | letters | Ad Atticum 13.11 | pending |
+| 677 | 26 June 45 BC | letters | Ad Atticum 13.13 | pending |
+| 678 | 27 June 45 BC | letters | Ad Atticum 13.14 | pending |
+| 679 | 28 June 45 BC | letters | Ad Atticum 13.16 | pending |
+| 680 | 29 June 45 BC | letters | Ad Atticum 13.17 | pending |
+| 681 | 30 June 45 BC | letters | Ad Atticum 13.19 | pending |
+| 682 | 31 June 45 BC | letters | Ad Atticum 13.12 | pending |
+| 683 | 1 July 45 BC | letters | Ad Atticum 13.9 | pending |
+| 684 | 45 BC | letters | Ad Atticum 13.15 | pending |
+| 685 | 45 BC | letters | Ad Atticum 13.18 | pending |
+| 686 | 45 BC | letters | Ad Atticum 13.36 | pending |
+| 687 | 45 BC | philosophy | Hortensius | pending |
+| 688 | 45 BC | philosophy | Timaeus (Latin translation) | pending |
+| 689 | 3 July 45 BC | letters | Ad Atticum 13.20 | pending |
+| 690 | 4 July 45 BC | letters | Ad Atticum 13.22 | pending |
+| 691 | 10 July 45 BC | letters | Ad Atticum 13.23 | pending |
+| 692 | 11 July 45 BC | letters | Ad Atticum 13.24 | pending |
+| 693 | 11 July 45 BC | letters | Ad Familiares 5.9 | pending |
+| 694 | 12 July 45 BC | letters | Ad Atticum 13.25 | pending |
+| 695 | 12 July 45 BC | letters | Ad Familiares 9.8 | pending |
+| 696 | 13 July 45 BC | letters | Ad Atticum 13.35 | pending |
+| 697 | 14 July 45 BC | letters | Ad Atticum 13.43 | pending |
+| 698 | July 45 BC | letters | Ad Familiares 6.20 | pending |
+| 699 | 21 July 45 BC | letters | Ad Atticum 13.44 | pending |
+| 700 | 27 July 45 BC | letters | Ad Atticum 12.9 | pending |
+| 701 | 27 July 45 BC | letters | Ad Atticum 13.34 | pending |
+| 702 | 27 July 45 BC | letters | Ad Familiares 16.22 | pending |
+| 703 | 28 July 45 BC | letters | Ad Atticum 12.10 | pending |
+| 704 | 29 July 45 BC | letters | Ad Atticum 13.21 | pending |
+| 705 | 29 July 45 BC | letters | Ad Familiares 16.17 | pending |
+| 706 | August 45 BC | philosophy | On the Nature of the Gods | pending |
+| 707 | August 45 BC | philosophy | Tusculan Disputations | pending |
+| 708 | 2 August 45 BC | letters | Ad Atticum 13.37 | pending |
+| 709 | 4 August 45 BC | letters | Ad Atticum 13.38 | pending |
+| 710 | 5 August 45 BC | letters | Ad Atticum 13.39 | pending |
+| 711 | 5 August 45 BC | letters | Ad Atticum 13.48 | pending |
+| 712 | 8 August 45 BC | letters | Ad Atticum 13.40 | pending |
+| 713 | 9 August 45 BC | letters | Ad Atticum 13.41 | pending |
+| 714 | 11 August 45 BC | letters | Ad Atticum 13.45 | pending |
+| 715 | 12 August 45 BC | letters | Ad Atticum 13.46 | pending |
+| 716 | 13 August 45 BC | letters | Ad Atticum 13.47 | pending |
+| 717 | August 45 BC | letters | Ad Familiares 6.19 | pending |
+| 718 | August 45 BC | letters | Ad Familiares 16.19 | pending |
+| 719 | 20 August 45 BC | letters | Ad Atticum 13.49 | pending |
+| 720 | 20 August 45 BC | letters | Ad Familiares 7.24 | pending |
+| 721 | 22 August 45 BC | letters | Ad Atticum 13.50 | pending |
+| 722 | 24 August 45 BC | letters | Ad Atticum 13.51 | pending |
+| 723 | 24 August 45 BC | letters | Ad Familiares 7.25 | pending |
+| 724 | 45 BC | letters | Ad Familiares 13.15 | pending |
+| 725 | October 45 BC | letters | Ad Familiares 5.11 | pending |
+| 726 | October 45 BC | letters | Ad Familiares 13.4 | pending |
+| 727 | October 45 BC | letters | Ad Familiares 13.5 | pending |
+| 728 | October 45 BC | letters | Ad Familiares 13.7 | pending |
+| 729 | October 45 BC | letters | Ad Familiares 13.8 | pending |
+| 730 | 1 November 45 BC | letters | Ad Familiares 7.29 | pending |
+| 731 | November 45 BC | speeches | For King Deiotarus | pending |
+| 732 | 45 BC | letters | Ad Atticum 12.46 | pending |
+| 733 | 45 BC | letters | Ad Familiares 5.15 | pending |
+| 734 | December 45 BC | letters | Ad Atticum 13.42 | pending |
+| 735 | 19 December 45 BC | letters | Ad Atticum 13.52 | pending |
+| 736 | January 44 BC | letters | Ad Familiares 7.30 | pending |
+| 737 | January 44 BC | letters | Ad Familiares 13.50 | pending |
+| 738 | 1 March 44 BC | letters | Ad Atticum 14.15 | pending |
+| 739 | 15 March 44 BC | letters | Ad Familiares 6.15 | pending |
+| 740 | March 44 BC | letters | Ad Familiares 6.16 | pending |
+| 741 | 16 March 44 BC | letters | Ad Familiares 11.1 | pending |
+| 742 | April 44 BC | philosophy | Cato the Elder, On Old Age | pending |
+| 743 | April 44 BC | philosophy | On Divination | pending |
+| 744 | 7 April 44 BC | letters | Ad Atticum 14.1 | pending |
+| 745 | 8 April 44 BC | letters | Ad Atticum 14.2 | pending |
+| 746 | 9 April 44 BC | letters | Ad Atticum 14.3 | pending |
+| 747 | 10 April 44 BC | letters | Ad Atticum 14.4 | pending |
+| 748 | 12 April 44 BC | letters | Ad Atticum 14.6 | pending |
+| 749 | 13 April 44 BC | letters | Ad Atticum 14.5 | pending |
+| 750 | 15 April 44 BC | letters | Ad Atticum 14.7 | pending |
+| 751 | 15 April 44 BC | letters | Ad Atticum 14.8 | pending |
+| 752 | April 44 BC | letters | Ad Familiares 6.17 | pending |
+| 753 | April 44 BC | letters | Ad Familiares 15.20 | pending |
+| 754 | 44 BC | letters | Ad Familiares 11.7 | pending |
+| 755 | 17 April 44 BC | letters | Ad Atticum 14.9 | pending |
+| 756 | 19 April 44 BC | letters | Ad Atticum 14.10 | pending |
+| 757 | 21 April 44 BC | letters | Ad Atticum 14.11 | pending |
+| 758 | 22 April 44 BC | letters | Ad Atticum 14.12 | pending |
+| 759 | 26 April 44 BC | letters | Ad Atticum 14.13 | pending |
+| 760 | 27 April 44 BC | letters | Ad Atticum 14.14 | pending |
+| 761 | May 44 BC | philosophy | On Fate | pending |
+| 762 | 3 May 44 BC | letters | Ad Atticum 14.16 | pending |
+| 763 | 3 May 44 BC | letters | Ad Familiares 9.14 | pending |
+| 764 | 3 May 44 BC | letters | Ad Familiares 12.1 | pending |
+| 765 | 4 May 44 BC | letters | Ad Atticum 14.17 | pending |
+| 766 | 9 May 44 BC | letters | Ad Atticum 14.18 | pending |
+| 767 | 11 May 44 BC | letters | Ad Atticum 14.20 | pending |
+| 768 | 11 May 44 BC | letters | Ad Atticum 14.21 | pending |
+| 769 | 14 May 44 BC | letters | Ad Atticum 14.22 | pending |
+| 770 | 15 May 44 BC | letters | Ad Atticum 14.19 | pending |
+| 771 | May 44 BC | letters | Ad Familiares 11.2 | pending |
+| 772 | 17 May 44 BC | letters | Ad Atticum 15.1 | pending |
+| 773 | 18 May 44 BC | letters | Ad Atticum 15.2 | pending |
+| 774 | 24 May 44 BC | letters | Ad Atticum 15.4 | pending |
+| 775 | 25 May 44 BC | letters | Ad Familiares 12.16 | pending |
+| 776 | 27 May 44 BC | letters | Ad Atticum 15.6 | pending |
+| 777 | 28 May 44 BC | letters | Ad Atticum 15.5 | pending |
+| 778 | 28 May 44 BC | letters | Ad Familiares 16.23 | pending |
+| 779 | 29 May 44 BC | letters | Ad Atticum 15.7 | pending |
+| 780 | 31 May 44 BC | letters | Ad Atticum 15.8 | pending |
+| 781 | 1 June 44 BC | letters | Ad Atticum 15.3 | pending |
+| 782 | 2 June 44 BC | letters | Ad Atticum 15.9 | pending |
+| 783 | 5 June 44 BC | letters | Ad Atticum 15.10 | pending |
+| 784 | 8 June 44 BC | letters | Ad Atticum 15.11 | pending |
+| 785 | 10 June 44 BC | letters | Ad Atticum 15.12 | pending |
+| 786 | 12 June 44 BC | letters | Ad Atticum 15.16 | pending |
+| 787 | 13 June 44 BC | letters | Ad Atticum 15.15 | pending |
+| 788 | 13 June 44 BC | letters | Ad Atticum 15.17 | pending |
+| 789 | June 44 BC | letters | Ad Familiares 7.21 | pending |
+| 790 | June 44 BC | letters | Ad Familiares 7.22 | pending |
+| 791 | 16 June 44 BC | letters | Ad Atticum 15.18 | pending |
+| 792 | 21 June 44 BC | letters | Ad Atticum 15.19 | pending |
+| 793 | 21 June 44 BC | letters | Ad Atticum 15.20 | pending |
+| 794 | 22 June 44 BC | letters | Ad Atticum 15.21 | pending |
+| 795 | 25 June 44 BC | letters | Ad Atticum 15.23 | pending |
+| 796 | 26 June 44 BC | letters | Ad Atticum 15.24 | pending |
+| 797 | 27 June 44 BC | letters | Ad Atticum 15.14 | pending |
+| 798 | 27 June 44 BC | letters | Ad Atticum 15.22 | pending |
+| 799 | 29 June 44 BC | letters | Ad Atticum 15.25 | pending |
+| 800 | July 44 BC | philosophy | Laelius, On Friendship | pending |
+| 801 | July 44 BC | rhetoric | Topics: To Gaius Trebatius | pending |
+| 802 | 2 July 44 BC | letters | Ad Atticum 15.26 | pending |
+| 803 | 3 July 44 BC | letters | Ad Atticum 15.27 | pending |
+| 804 | 3 July 44 BC | letters | Ad Atticum 15.28 | pending |
+| 805 | 44 BC | letters | Ad Familiares 16.26 | pending |
+| 806 | 6 July 44 BC | letters | Ad Atticum 16.16 | pending |
+| 807 | 7 July 44 BC | letters | Ad Atticum 15.29 | pending |
+| 808 | 8 July 44 BC | letters | Ad Atticum 16.1 | pending |
+| 809 | 9 July 44 BC | letters | Ad Atticum 16.5 | pending |
+| 810 | 10 July 44 BC | letters | Ad Atticum 16.4 | pending |
+| 811 | 11 July 44 BC | letters | Ad Atticum 16.2 | pending |
+| 812 | 15 July 44 BC | letters | Ad Familiares 11.29 | pending |
+| 813 | July 44 BC | letters | Ad Familiares 16.21 | pending |
+| 814 | 17 July 44 BC | letters | Ad Atticum 16.3 | pending |
+| 815 | 44 BC | letters | Ad Atticum 16.14 | pending |
+| 816 | 20 July 44 BC | letters | Ad Familiares 7.20 | pending |
+| 817 | 25 July 44 BC | letters | Ad Atticum 16.6 | pending |
+| 818 | 29 July 44 BC | letters | Ad Familiares 7.19 | pending |
+| 819 | 4 August 44 BC | letters | Ad Familiares 11.3 | pending |
+| 820 | 19 August 44 BC | letters | Ad Atticum 16.7 | pending |
+| 821 | 30 August 44 BC | letters | Ad Familiares 11.27 | pending |
+| 822 | 2 September 44 BC | letters | Ad Familiares 12.20 | pending |
+| 823 | 2 September 44 BC | speeches | First Philippic | pending |
+| 824 | September 44 BC | letters | Ad Familiares 16.25 | pending |
+| 825 | 19 September 44 BC | letters | Ad Familiares 10.1 | pending |
+| 826 | 19 September 44 BC | letters | Ad Familiares 12.22 | pending |
+| 827 | October 44 BC | speeches | Second Philippic | pending |
+| 828 | 5 October 44 BC | letters | Ad Familiares 10.2 | pending |
+| 829 | 5 October 44 BC | letters | Ad Familiares 12.2 | pending |
+| 830 | 6 October 44 BC | letters | Ad Familiares 12.3 | pending |
+| 831 | 9 October 44 BC | letters | Ad Familiares 12.23 | pending |
+| 832 | October 44 BC | letters | Ad Familiares 11.4 | pending |
+| 833 | 44 BC | letters | Ad Familiares 12.21 | pending |
+| 834 | 25 October 44 BC | letters | Ad Atticum 15.13 | pending |
+| 835 | November 44 BC | philosophy | On Duties | pending |
+| 836 | 2 November 44 BC | letters | Ad Atticum 16.8 | pending |
+| 837 | 4 November 44 BC | letters | Ad Atticum 16.9 | pending |
+| 838 | 5 November 44 BC | letters | Ad Atticum 16.11 | pending |
+| 839 | 8 November 44 BC | letters | Ad Atticum 16.10 | pending |
+| 840 | 10 November 44 BC | letters | Ad Atticum 16.13 | pending |
+| 841 | 11 November 44 BC | letters | Ad Familiares 16.24 | pending |
+| 842 | 13 November 44 BC | letters | Ad Atticum 16.12 | pending |
+| 843 | 44 BC | letters | Ad Familiares 7.31 | pending |
+| 844 | 9 December 44 BC | letters | Ad Atticum 16.15 | pending |
+| 845 | 9 December 44 BC | letters | Ad Familiares 11.5 | pending |
+| 846 | 10 December 44 BC | letters | Ad Familiares 10.3 | pending |
+| 847 | December 44 BC | letters | Ad Familiares 10.4 | pending |
+| 848 | December 44 BC | letters | Ad Familiares 10.5 | pending |
+| 849 | December 44 BC | letters | Ad Familiares 16.27 | pending |
+| 850 | 20 December 44 BC | letters | Ad Familiares 11.6 | pending |
+| 851 | 20 December 44 BC | speeches | Third Philippic | pending |
+| 852 | 20 December 44 BC | speeches | Fourth Philippic | pending |
+| 853 | 43 BC | letters | Ad Familiares 10.8 | pending |
+| 854 | 1 January 43 BC | speeches | Fifth Philippic | pending |
+| 855 | January 43 BC | speeches | Seventh Philippic | pending |
+| 856 | 4 January 43 BC | speeches | Sixth Philippic | pending |
+| 857 | 24 January 43 BC | letters | Ad Familiares 12.24 | pending |
+| 858 | 1 February 43 BC | letters | Ad Familiares 12.4 | pending |
+| 859 | February 43 BC | speeches | Tenth Philippic | pending |
+| 860 | 2 February 43 BC | letters | Ad Familiares 10.28 | pending |
+| 861 | 3 February 43 BC | speeches | Eighth Philippic | pending |
+| 862 | 4 February 43 BC | speeches | Ninth Philippic | pending |
+| 863 | 5 February 43 BC | letters | Ad Familiares 12.5 | pending |
+| 864 | February 43 BC | letters | Ad Familiares 9.24 | pending |
+| 865 | 43 BC | letters | Ad M. Brutum 1.9 | pending |
+| 866 | March 43 BC | speeches | Eleventh Philippic | pending |
+| 867 | March 43 BC | speeches | Twelfth Philippic | pending |
+| 868 | 7 March 43 BC | letters | Ad Familiares 12.11 | pending |
+| 869 | March 43 BC | letters | Ad Familiares 10.7 | pending |
+| 870 | 16 March 43 BC | letters | Ad Familiares 10.31 | pending |
+| 871 | 19 March 43 BC | letters | Ad Familiares 12.25 | pending |
+| 872 | 20 March 43 BC | letters | Ad Familiares 10.6 | pending |
+| 873 | 20 March 43 BC | letters | Ad Familiares 10.27 | pending |
+| 874 | 20 March 43 BC | speeches | Thirteenth Philippic | pending |
+| 875 | 43 BC | letters | Ad Familiares 12.26 | pending |
+| 876 | 30 March 43 BC | letters | Ad Familiares 10.10 | pending |
+| 877 | 32 March 43 BC | letters | Ad M. Brutum 2.3 | pending |
+| 878 | 7 April 43 BC | letters | Ad Familiares 12.6 | pending |
+| 879 | 11 April 43 BC | letters | Ad M. Brutum 2.2 | pending |
+| 880 | 11 April 43 BC | letters | Ad Familiares 10.12 | pending |
+| 881 | 12 April 43 BC | letters | Ad M. Brutum 2.4 | pending |
+| 882 | 13 April 43 BC | letters | Ad M. Brutum 2.1 | pending |
+| 883 | 14 April 43 BC | letters | Ad M. Brutum 2.5 | pending |
+| 884 | April 43 BC | letters | Ad Familiares 10.11 | pending |
+| 885 | 15 April 43 BC | letters | Ad Familiares 10.30 | pending |
+| 886 | 21 April 43 BC | letters | Ad M. Brutum 1.3 | pending |
+| 887 | 21 April 43 BC | speeches | Philippica XIV | pending |
+| 888 | 43 BC | letters | Ad Familiares 12.27 | pending |
+| 889 | 27 April 43 BC | letters | Ad Familiares 10.9 | pending |
+| 890 | 29 April 43 BC | letters | Ad Familiares 11.9 | pending |
+| 891 | 5 May 43 BC | letters | Ad M. Brutum 1.5 | pending |
+| 892 | 5 May 43 BC | letters | Ad Familiares 10.14 | pending |
+| 893 | 5 May 43 BC | letters | Ad Familiares 11.10 | pending |
+| 894 | 6 May 43 BC | letters | Ad Familiares 11.11 | pending |
+| 895 | 7 May 43 BC | letters | Ad Familiares 12.12 | pending |
+| 896 | 11 May 43 BC | letters | Ad Familiares 10.13 | pending |
+| 897 | 12 May 43 BC | letters | Ad Familiares 11.13 | pending |
+| 898 | 13 May 43 BC | letters | Ad Familiares 11.12 | pending |
+| 899 | May 43 BC | letters | Ad M. Brutum 1.2 | pending |
+| 900 | May 43 BC | letters | Ad Familiares 10.16 | pending |
+| 901 | 15 May 43 BC | letters | Ad Familiares 10.21 | pending |
+| 902 | 18 May 43 BC | letters | Ad Familiares 10.18 | pending |
+| 903 | 18 May 43 BC | letters | Ad Familiares 10.34 | pending |
+| 904 | 19 May 43 BC | letters | Ad M. Brutum 1.6 | pending |
+| 905 | 21 May 43 BC | letters | Ad Familiares 11.19 | pending |
+| 906 | 24 May 43 BC | letters | Ad Familiares 11.20 | pending |
+| 907 | 25 May 43 BC | letters | Ad Familiares 11.23 | pending |
+| 908 | 43 BC | letters | Ad Familiares 12.28 | pending |
+| 909 | 26 May 43 BC | letters | Ad Familiares 10.19 | pending |
+| 910 | 26 May 43 BC | letters | Ad Familiares 10.25 | pending |
+| 911 | 29 May 43 BC | letters | Ad Familiares 10.20 | pending |
+| 912 | 29 May 43 BC | letters | Ad Familiares 11.14 | pending |
+| 913 | 30 May 43 BC | letters | Ad Familiares 10.35 | pending |
+| 914 | 1 June 43 BC | letters | Ad Familiares 10.17 | pending |
+| 915 | 1 June 43 BC | letters | Ad Familiares 11.18 | pending |
+| 916 | 1 June 43 BC | letters | Ad Familiares 12.14 | pending |
+| 917 | 3 June 43 BC | letters | Ad Familiares 11.26 | pending |
+| 918 | 4 June 43 BC | letters | Ad Familiares 11.21 | pending |
+| 919 | 5 June 43 BC | letters | Ad Familiares 12.15 | pending |
+| 920 | 6 June 43 BC | letters | Ad Familiares 10.23 | pending |
+| 921 | 6 June 43 BC | letters | Ad Familiares 11.24 | pending |
+| 922 | 8 June 43 BC | letters | Ad Familiares 10.32 | pending |
+| 923 | 9 June 43 BC | letters | Ad Familiares 12.8 | pending |
+| 924 | 9 June 43 BC | letters | Ad Familiares 12.30 | pending |
+| 925 | 13 June 43 BC | letters | Ad M. Brutum 1.8 | pending |
+| 926 | 13 June 43 BC | letters | Ad Familiares 10.33 | pending |
+| 927 | 13 June 43 BC | letters | Ad Familiares 12.13 | pending |
+| 928 | June 43 BC | letters | Ad M. Brutum 1.11 | pending |
+| 929 | 43 BC | letters | Ad M. Brutum 1.1 | pending |
+| 930 | 18 June 43 BC | letters | Ad Familiares 11.25 | pending |
+| 931 | 23 June 43 BC | letters | Ad M. Brutum 1.7 | pending |
+| 932 | 43 BC | letters | Ad Familiares 12.29 | pending |
+| 933 | 29 June 43 BC | letters | Ad Familiares 10.22 | pending |
+| 934 | 29 June 43 BC | letters | Ad Familiares 10.26 | pending |
+| 935 | 29 June 43 BC | letters | Ad Familiares 11.15 | pending |
+| 936 | 29 June 43 BC | letters | Ad Familiares 12.9 | pending |
+| 937 | 1 July 43 BC | letters | Ad M. Brutum 1.13 | pending |
+| 938 | 43 BC | letters | Ad M. Brutum 1.16 | pending |
+| 939 | 43 BC | letters | Ad M. Brutum 2.6 | pending |
+| 940 | 43 BC | letters | Ad M. Brutum 2.7 | pending |
+| 941 | 43 BC | letters | Ad M. Brutum 2.8 | pending |
+| 942 | 43 BC | letters | Ad Familiares 11.8 | pending |
+| 943 | 43 BC | letters | Ad Familiares 11.17 | pending |
+| 944 | 43 BC | letters | Ad Familiares 11.28 | pending |
+| 945 | 1 July 43 BC | letters | Ad Familiares 12.10 | pending |
+| 946 | 6 July 43 BC | letters | Ad Familiares 10.29 | pending |
+| 947 | 11 July 43 BC | letters | Ad M. Brutum 1.14 | pending |
+| 948 | 14 July 43 BC | letters | Ad Familiares 11.22 | pending |
+| 949 | July 43 BC | letters | Ad M. Brutum 1.10 | pending |
+| 950 | July 43 BC | letters | Ad M. Brutum 1.12 | pending |
+| 951 | 15 July 43 BC | letters | Ad Familiares 11.16 | pending |
+| 952 | 28 July 43 BC | letters | Ad Familiares 10.24 | pending |
+| 953 | 43 BC | letters | Ad M. Brutum 1.15 | pending |
+| 954 | 43 BC | letters | Ad Familiares 12.7 | pending |
+| 955 | 43 BC | letters | Ad Familiares 10.15 | pending |
+| 956 | 43 BC | letters | Ad M. Brutum 1.4 | pending |
+| 957 | 43 BC | letters | Ad M. Brutum 1.17 | pending |
+| 958 | 43 BC | letters | Ad M. Brutum 1.18 | pending |
+| 959 | 5 BC | letters | Ad Familiares 13.9 | pending |
 

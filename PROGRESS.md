@@ -6,7 +6,7 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 132 works end-to-end across all categories.
+- **Drafted**: 143 works end-to-end across all categories.
   - **Speeches (30)**: *Pro Quinctio* (81 BC), *Pro Roscio
     Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
     *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
@@ -55,7 +55,7 @@ as milestones are reached.
     opening Q.fr. book 2).
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 824 entries.
+- **Pending**: 816 entries.
 
 ### The chronological situation
 
@@ -242,6 +242,48 @@ fragmentary works (\textit{de-consulatu-suo} 60 BC,
   Resume point moves forward to \textit{Q. fr.} 2.4 and the
   long Lentulus Spinther correspondence opening
   \textit{Ad Familiares} book 1 in early 56 BC.
+- **Fifth continuous session** *(complete)*: the early-56 BC
+  political-letter sequence and \textit{Pro Sestio} drafted
+  end-to-end. The Lentulus Spinther correspondence
+  \textit{Fam.} 1.1--1.5b (Cicero's daily reports on the
+  Senate's struggle over the Egyptian commission and Pompey's
+  collapse on 8 February at the Milo contio); the brother
+  letters \textit{Q. fr.} 2.2 (19 January, dictated through
+  an eye inflammation), 2.3 (12--15 February --- the great
+  companion-piece to Fam. 1.5b on the riot of 8 Feb, the SC
+  at the temple of Apollo, the open break with Crassus), 2.4
+  (mid-March, after the 11 March Sestius acquittal --- the
+  Tyrannio note, the Tullia-Crassipes engagement, Milo's
+  trick of buying up Cato's beast-fighter gang via Racilius);
+  the brief \textit{Att.} 4.4 of 30 January and the
+  recommendation \textit{Fam.} 1.3. Then \textit{Pro Sestio}
+  (147 sections), the great political defence with the long
+  \textit{narratio} of the year of exile (the joint portrait
+  of Gabinius and Piso as the ``two whirlwinds of the
+  commonwealth,'' the apology for not fighting against
+  Marius's and Metellus Numidicus's exiles, the
+  Pompey--Cato--Cyprus stretch), the parallel-with-Milo
+  defence of guarding-by-private-force, and the
+  \textit{cum dignitate otium} digression of \textsection
+  96--143 (the optimate-as-disposition formula, the catalogue
+  of the foundations of peace-with-standing, the
+  contio-vs-populus distinction, the Aesopus-on-the-stage
+  scene from Accius's \textit{Eurysaces} and \textit{Brutus},
+  the gladiatorial show of Scipio Nasica with Sestius from
+  the Maenian column, the closing roll-call of Roman
+  forefathers in the \textit{coetus deorum immortalium}).
+  Eleven works drafted. The session also did the metadata
+  cleanup the resume note flagged: \textit{Fam.} 1.5 split
+  into 1.5a and 1.5b per Perseus (the previous single entry
+  had the wrong Latin Library URL and no speech\_index);
+  \textit{Att.} 4.4A and 4.8A added (present in Perseus,
+  missing from the manifest); placeholder dates corrected
+  against the Perseus datelines for \textit{Q. fr.} 2.4,
+  2.5, 2.6, \textit{Fam.} 1.6, and \textit{Att.} 4.5. Resume
+  point moves forward to \textit{In Vatinium} (the
+  cross-examination of Vatinius from the Sestius trial, which
+  survives as a separate work) and onward through the
+  post-Luca speeches and \textit{Q. fr.} book 2 of 56 BC.
 
 ## Known follow-ups
 
@@ -342,35 +384,46 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The chronology is clean through the end of 57 BC. The whole
-exile and recovery arc is now drafted end-to-end: the entire
-\textit{Att.} book 3 (3.1--3.27, April 58 BC -- end of January
-57 BC), \textit{Att.} 4.1--4.3 (mid-September to 26 November
-57 BC), the four family letters from exile (\textit{Fam.}
-14.1--14.4 and \textit{Fam.} 14.2 in chronological position),
-the four \textit{Q. fr.} letters of 58--57 BC (1.3, 1.4, and
-2.1 added this session), \textit{Fam.} 5.4 to Metellus Nepos,
-\textit{Fam.} 5.17 to Sittius, the recommendation letters
-\textit{Fam.} 13.41--43, and the three speeches that
-mark the return: \textit{Post Reditum in Senatu} (5 Sept 57),
-\textit{Post Reditum ad Quirites} (7 Sept 57), and
-\textit{De Domo Sua} (29 Sept 57, the speech to the College
-of Pontiffs that won back the Palatine site).
+The chronology is clean through mid-March 56 BC. The fifth
+continuous session drafted the early-56 BC dense political
+sequence of letters and \textit{Pro Sestio}: \textit{Fam.}
+1.1 (13 Jan), 1.3 (mid-Jan), 1.2 (17 Jan), 1.4 (~18 Jan),
+\textit{Q. fr.} 2.2 (19 Jan), \textit{Att.} 4.4 (30 Jan),
+\textit{Fam.} 1.5a (~5 Feb), 1.5b (~10 Feb), \textit{Q. fr.}
+2.3 (12--15 Feb), \textit{Q. fr.} 2.4 (mid-March, after the
+11 March Sestius acquittal), and \textit{Pro Sestio} itself
+(March 56, the great political defence with the
+\textit{cum dignitate otium} digression at \textsection 96--143
+and the optimate-front high-water mark of the year).
+This session also did the metadata cleanup: Fam. 1.5 split
+into 1.5a + 1.5b per Perseus's manuscript division (the
+previous single entry had the wrong Latin Library URL and
+no speech\_index); Att. 4.4A and 4.8A added (present in
+Perseus, missing from the manifest); placeholder dates
+corrected against the Perseus datelines for Q.fr. 2.4
+(year-precision Jan placeholder $\to$ March), Fam. 1.6
+(November placeholder $\to$ March), Q.fr. 2.5
+(year-precision Feb $\to$ April 8 day), Q.fr. 2.6 (March
+placeholder $\to$ May), Att. 4.5 (year-precision Oct $\to$
+April month).
 
-The next chronological items are \textit{Q. fr.} 2.4 (year
-56 BC), then the dense early-56 BC correspondence opening
-\textit{Ad Familiares} book 1 --- the long sequence of
-letters to P. Lentulus Spinther in Cilicia
-(\textit{Fam.} 1.1--1.9, January--November 56 BC) ---
-followed by \textit{Att.} 4.4--4.10, the rest of \textit{Q. fr.}
-book 2, and the great post-Luca speeches and treatises of
-56--52 BC (\textit{Pro Sestio}, \textit{In Vatinium},
-\textit{De Provinciis Consularibus}, \textit{Pro Caelio},
-\textit{De Haruspicum Responso}, \textit{Pro Balbo},
-\textit{In Pisonem}, \textit{Pro Plancio}, \textit{Pro
-Rabirio Postumo}, \textit{Pro Milone}, with \textit{De
-Oratore}, \textit{De Re Publica}, and \textit{De Legibus}
-interleaved).
+The next chronological item is \textbf{\textit{In Vatinium}}
+(early March 56, the cross-examination of Vatinius from the
+Sestius trial that survives as a separate work). After that
+the chronology runs through \textit{Fam.} 1.6 (March 56),
+\textit{Att.} 4.4A (April/May 56, the famous library letter
+from Antium with Tyrannio), \textit{Pro Caelio} (4 April 56,
+day-precision: the Clodia speech), \textit{Q. fr.} 2.5
+(8 April 56 from Anagnia), \textit{Att.} 4.5--4.8 (April/May
+56), \textit{Q. fr.} 2.6 (May 56), \textit{De Haruspicum
+Responso} (~late May 56), \textit{De Provinciis Consularibus}
+(June 56 --- the post-Luca about-face), \textit{Pro Balbo}
+(summer 56), \textit{Fam.} 1.7 (July 56), \textit{Att.} 4.8A
+(autumn 56), then \textit{In Pisonem} (Aug/Sept 55 BC),
+\textit{Pro Plancio}, \textit{Pro Rabirio Postumo}, and
+\textit{Pro Milone}, with \textit{De Oratore} (55 BC),
+\textit{De Re Publica} (54 BC), and \textit{De Legibus}
+(52 BC) interleaved.
 
 Forward from the exile correspondence the chronology runs:
 
