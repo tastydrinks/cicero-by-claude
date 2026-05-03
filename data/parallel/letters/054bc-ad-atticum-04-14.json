@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-14",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.14",
+  "title_english": "Ad Atticum 4.14",
+  "date": "-0054-05-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Vestorius noster me per litteras fecit certiorem te Roma a. d. vi Idus Maias putari profectum esse tardius quam dixeras quod minus valuisses. si iam melius vales, vehementer gaudeo. velim domum ad te scribas ut mihi tui libri pateant non secus ac si ipse adesses cum ceteri tum Varronis. est enim mihi utendum quibusdam rebus ex his libris ad eos quos in manibus habeo; quos, ut spero, tibi valde probabo.",
+      "eng": "Our Vestorius has informed me by letter that you are thought to have set out from Rome on 6 Id. Mai., later than you said because you had been less well. If now you are better, I rejoice greatly. I would have you write home that your books may lie open to me, no differently than if you yourself were present — both the rest of them and Varro's especially. For I must use certain things from those books for the work I have in hand; which, I hope, I shall make thoroughly acceptable to you.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu velim si quid forte novi habes, maxime a Quinto fratre, deinde a C. Caesare, et si quid forte de comitiis, de re publica (soles enim tu haec festive odorari), scribas ad me; si nihil habebis, tamen scribas aliquid. numquam enim mihi tua epistula aut intempestiva aut loquax visa est. maxime autem rogo rebus tuis totoque itinere ex sententia confecto nos quam primum revisas. Dionysium iube salvere. cura ut valeas.",
+      "eng": "I would have you write to me, if you happen to have any news, especially from my brother Quintus, then from C. Caesar; and if you have any about the elections or the commonwealth (you tend to scent these things wittily), write to me. If you have nothing, write something all the same. For never has a letter of yours seemed to me either ill-timed or talkative. I ask you most especially, when your business and the whole journey are finished according to your wish, to come back to us as soon as may be. Give Dionysius my greeting. Take care to be well.",
+      "notes": null
+    }
+  ]
+}

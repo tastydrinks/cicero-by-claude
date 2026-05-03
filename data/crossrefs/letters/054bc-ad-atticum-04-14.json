@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-14",
+  "refs": [
+    {
+      "from_loc": "1",
+      "to_work": "de-re-publica",
+      "to_loc": "1",
+      "kind": "self_reference",
+      "certainty": "medium",
+      "note": "\"eos quos in manibus habeo\" --- Cicero is at work on De Re Publica (drafted 54-51 BC), the work for which he most plausibly needs Varro's antiquarian materials at this moment."
+    }
+  ]
+}

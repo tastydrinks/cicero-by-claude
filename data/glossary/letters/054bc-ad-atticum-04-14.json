@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "6 Id. Mai.",
+      "entity_id": null,
+      "note": "Ante diem sextum Idus Maias = 10 May 54 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "Vestorius",
+      "entity_id": "person:c-vestorius",
+      "note": "C. Vestorius of Puteoli, banker and shared correspondent of Cicero, Atticus, and the bay-of-Naples circle; a recurring background figure of the 50s and 40s letters."
+    },
+    {
+      "loc": "1",
+      "anchor": "Varro's",
+      "entity_id": "person:m-terentius-varro",
+      "note": "M. Terentius Varro of Reate, the polymath antiquarian; his books are in Atticus's library, and Cicero is drawing from them for a work in progress (almost certainly De Re Publica, drafted 54-51 BC)."
+    },
+    {
+      "loc": "2",
+      "anchor": "scent these things wittily",
+      "entity_id": null,
+      "note": "\"Festive odorari\" --- the verb is the language of hounds running a scent; Atticus has the political nose, Cicero the political mouth."
+    }
+  ]
+}
