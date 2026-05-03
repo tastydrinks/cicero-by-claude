@@ -6,7 +6,7 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 72 works end-to-end across all categories.
+- **Drafted**: 82 works end-to-end across all categories.
   - **Speeches (27)**: *Pro Quinctio* (81 BC), *Pro Roscio
     Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
     *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
@@ -19,17 +19,22 @@ as milestones are reached.
     \textit{Pro Murena}), the two 62 BC defences
     (\textit{Pro Sulla}, \textit{Pro Archia}), and
     \textit{Pro Flacco} (mid-59 BC).
-  - **Letters (45)**: the early Atticus correspondence ---
+  - **Letters (55)**: the early Atticus correspondence ---
     \textit{Att.} 1.1--1.20 (in chronological, not manuscript,
-    order: 67--60 BC), \textit{Att.} 2.1--2.17, 2.20 (60--mid-59
-    BC); the early Familiares --- \textit{Fam.} 5.1, 5.2, 5.5,
-    5.6, 5.7, 7.23 (62 BC, including Cicero's reply to Metellus
-    Celer in \textit{Fam.} 5.2 and the famous
-    \textit{Fam.} 5.7 to Pompey); the long treatise letter
-    \textit{Ad Quintum Fratrem} 1.1 (late 60 / early 59 BC).
+    order: 67--60 BC), \textit{Att.} 2.1--2.25 (60--late 59
+    BC, including the Vettius affair and the closing of
+    \textit{Att.} book 2 on the eve of Clodius's tribunate);
+    \textit{Att.} 3.1 (April 58 BC, Cicero setting out into
+    exile); the early Familiares --- \textit{Fam.} 5.1, 5.2,
+    5.5, 5.6, 5.7, 7.23 (62 BC, including Cicero's reply to
+    Metellus Celer in \textit{Fam.} 5.2 and the famous
+    \textit{Fam.} 5.7 to Pompey), \textit{Fam.} 13.44 (ca. 58
+    BC, recommendation to Fadius Gallus); the two great
+    treatise letters to Quintus, \textit{Ad Quintum Fratrem}
+    1.1 (late 60 / early 59 BC) and 1.2 (late 59 BC).
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 884 entries.
+- **Pending**: 874 entries.
 
 ### The chronological situation
 
@@ -259,16 +264,24 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-\textit{Pro Flacco} (mid-59 BC) is now drafted end-to-end
-(sections 1--106 plus the Bobiensian fragments and
-\textit{frMed}; headnote written; status flipped to
-\texttt{drafted}). The next chronological item is
-\textit{Att.} 2.18 (15 July 59 BC, the opening of the
-Vettius-affair correspondence). From there the queue runs
-through 2.19, 2.21--2.25 in late 59 BC, then \textit{Att.}
-3.1 begins the exile letters of 58 BC.
+\textit{Pro Flacco} (mid-59 BC) is drafted end-to-end. The
+late-59 BC Atticus correspondence (\textit{Att.} 2.18, 2.19,
+2.21--2.25) is drafted; the long brother-letter \textit{Q.
+fr.} 1.2 (late 59 BC, on Statius and Quintus's letters and
+the Cato-on-the-Rostra incident) is drafted; \textit{Att.}
+3.1 (April 58 BC, setting out into exile) is drafted; the
+recommendation \textit{Fam.} 13.44 (ca. 58 BC) is drafted.
 
-Forward from \textit{Pro Flacco} the chronology runs:
+The next chronological items are the exile letters of 58
+BC: \textit{Att.} 3.2 (Nares Lucanae, early April 58 BC),
+\textit{Att.} 3.3, 3.4, 3.5, and the dense series from the
+journey south through Brundisium and across the strait into
+Greece, with the early letters to wife and family
+(\textit{Fam.} 14.4, 14.2) and the early \textit{Q. fr.}
+exile letters (1.3, 1.4) interleaving. The validator will
+warn the next session of any chronological gap.
+
+Forward from the exile correspondence the chronology runs:
 
 - **late 59 BC** --- \textit{Att.} 2.18, 2.19, 2.21--2.25
   (the Vettius affair, the political mood as Caesar's
