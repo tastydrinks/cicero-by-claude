@@ -4313,6 +4313,285 @@
       "categories": [
         "roman-law"
       ]
+    },
+    {
+      "id": "person:c-vestorius",
+      "type": "person",
+      "canonical_name": "Gaius Vestorius",
+      "short_name": "Vestorius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Banker of Puteoli, Atticus's and Cicero's correspondent on the bay of Naples; a recurring background figure of the 50s and 40s letters, conduit for messages between the brothers and their friends in town.",
+      "first_appearance": "ad-atticum-04-14",
+      "categories": [
+        "banker",
+        "puteoli"
+      ]
+    },
+    {
+      "id": "person:m-terentius-varro",
+      "type": "person",
+      "canonical_name": "Marcus Terentius Varro Reatinus",
+      "short_name": "Varro",
+      "aliases": [
+        "M. Varro",
+        "Varro of Reate"
+      ],
+      "external_ids": {
+        "wikidata": "Q187117"
+      },
+      "summary": "The greatest Roman polymath of the late Republic, antiquarian, grammarian, satirist, and historian. Cicero draws on Varro's books for De Re Publica; later dedicates the Academica to him.",
+      "first_appearance": "ad-atticum-04-14",
+      "categories": [
+        "scholar",
+        "antiquarian",
+        "literary"
+      ]
+    },
+    {
+      "id": "person:l-aemilius-paulus",
+      "type": "person",
+      "canonical_name": "Lucius Aemilius Paulus Macedonicus",
+      "short_name": "L. Aemilius Paulus",
+      "aliases": [
+        "L. Paulus",
+        "Paulus Macedonicus"
+      ],
+      "external_ids": {
+        "wikidata": "Q314137"
+      },
+      "summary": "Consul 182 and 168 BC; victor over Perseus of Macedon at Pydna in 168 BC. Cicero's exemplum of dignified paludatum departure: the type of the Roman commander setting out for war in proper form.",
+      "first_appearance": "ad-atticum-04-13",
+      "categories": [
+        "republic-historical",
+        "general"
+      ]
+    },
+    {
+      "id": "person:m-calpurnius-bibulus",
+      "type": "person",
+      "canonical_name": "Marcus Calpurnius Bibulus",
+      "short_name": "Bibulus",
+      "aliases": [
+        "M. Bibulus"
+      ],
+      "external_ids": {},
+      "summary": "Caesar's bitter and unfortunate colleague as consul in 59 BC, driven to retreat to his house and lodge religious objections from indoors. Optimate stalwart; one of the four senators who voted with Cicero on the Tenedian deputation in early 54 BC.",
+      "first_appearance": "ad-quintum-fratrem-02-09",
+      "categories": [
+        "optimate",
+        "consular"
+      ]
+    },
+    {
+      "id": "person:m-calidius",
+      "type": "person",
+      "canonical_name": "Marcus Calidius",
+      "short_name": "Calidius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Praetor 57 BC, orator of the Atticist school praised by Cicero in Brutus 274–278; one of the four who voted with Cicero on the Tenedian deputation in early 54 BC.",
+      "first_appearance": "ad-quintum-fratrem-02-09",
+      "categories": [
+        "orator",
+        "praetorian"
+      ]
+    },
+    {
+      "id": "person:m-favonius",
+      "type": "person",
+      "canonical_name": "Marcus Favonius",
+      "short_name": "Favonius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Tribune 52 BC, Catonian Stoic and pungent senatorial speaker, often called Cato's ape for his manner. One of the four who voted with Cicero on the Tenedian deputation in early 54 BC.",
+      "first_appearance": "ad-quintum-fratrem-02-09",
+      "categories": [
+        "stoic",
+        "optimate"
+      ]
+    },
+    {
+      "id": "person:l-sestius-pansa",
+      "type": "person",
+      "canonical_name": "Lucius Sestius Pansa",
+      "short_name": "L. Sestius Pansa",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman acting in Asia, evidently a publican or a pro-magistrate's officer, who lodged some demand against the Magnesians from Sipylum; resisted in the senate by Quintus Cicero. Otherwise unknown.",
+      "first_appearance": "ad-quintum-fratrem-02-09",
+      "categories": [
+        "minor"
+      ]
+    },
+    {
+      "id": "person:lucretius",
+      "type": "person",
+      "canonical_name": "Titus Lucretius Carus",
+      "short_name": "Lucretius",
+      "aliases": [
+        "T. Lucretius"
+      ],
+      "external_ids": {
+        "wikidata": "Q43361"
+      },
+      "summary": "Roman poet of the late Republic, author of the De Rerum Natura, the Epicurean cosmological poem in six books. Cicero's brief judgement in Q.fr. 2.9 — many flashes of genius, much craft also (text disputed) — is the earliest known reception.",
+      "first_appearance": "ad-quintum-fratrem-02-09",
+      "categories": [
+        "literary",
+        "epicurean",
+        "poet"
+      ]
+    },
+    {
+      "id": "person:cn-sallustius",
+      "type": "person",
+      "canonical_name": "Gnaeus Sallustius",
+      "short_name": "Sallustius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Friend of Cicero and Atticus; not the historian. Author of the Empedoclea, a turgid Empedoclean cosmological poem in hexameters that the brothers Cicero teased each other for trying to read.",
+      "first_appearance": "ad-quintum-fratrem-02-09",
+      "categories": [
+        "literary",
+        "minor"
+      ]
+    },
+    {
+      "id": "person:c-trebatius-testa",
+      "type": "person",
+      "canonical_name": "Gaius Trebatius Testa",
+      "short_name": "Trebatius",
+      "aliases": [
+        "C. Trebatius"
+      ],
+      "external_ids": {
+        "wikidata": "Q733824"
+      },
+      "summary": "Young Roman jurist, Cicero's protégé, recommended to Caesar in 54 BC; recipient of the Fam. 7 letter-string. The leading Roman jurist of the next generation, dedicatee of Horace's Satires 2.1.",
+      "first_appearance": "ad-familiares-07-07",
+      "categories": [
+        "jurist",
+        "protege"
+      ]
+    },
+    {
+      "id": "person:l-cornelius-balbus",
+      "type": "person",
+      "canonical_name": "Lucius Cornelius Balbus",
+      "short_name": "Balbus",
+      "aliases": [
+        "Balbus of Gades"
+      ],
+      "external_ids": {
+        "wikidata": "Q731434"
+      },
+      "summary": "Spanish-Roman of Gades, Caesar's effective chief of staff and intermediary, defended by Cicero, Pompey, and Crassus on his Roman citizenship in 56 BC (Pro Balbo). Cicero's main channel for advancing Trebatius's career in Caesar's camp in 54 BC.",
+      "first_appearance": "pro-balbo",
+      "categories": [
+        "caesarian",
+        "spanish",
+        "client"
+      ]
+    },
+    {
+      "id": "person:m-curtius",
+      "type": "person",
+      "canonical_name": "Marcus Curtius",
+      "short_name": "M. Curtius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman of the equestrian or senatorial class, candidate for a tribunate of the soldiers in 53 BC, on whose behalf Cicero approached the consul Domitius. Otherwise unidentified.",
+      "first_appearance": "ad-quintum-fratrem-02-13",
+      "categories": [
+        "minor"
+      ]
+    },
+    {
+      "id": "person:l-domitius-ahenobarbus",
+      "type": "person",
+      "canonical_name": "Lucius Domitius Ahenobarbus",
+      "short_name": "Domitius",
+      "aliases": [
+        "L. Domitius"
+      ],
+      "external_ids": {
+        "wikidata": "Q345509"
+      },
+      "summary": "Consul 54 BC, optimate stalwart and brother-in-law of Cato; long-standing enemy of Caesar; commander of Corfinium, captured and released, killed at Pharsalus in 48 BC. Famously stingy with petty patronage during his consulship.",
+      "first_appearance": "ad-quintum-fratrem-02-13",
+      "categories": [
+        "optimate",
+        "consular"
+      ]
+    },
+    {
+      "id": "place:tenedos",
+      "type": "place",
+      "canonical_name": "Tenedos",
+      "short_name": "Tenedos",
+      "aliases": [
+        "Tenedians"
+      ],
+      "external_ids": {
+        "pleiades": "550878"
+      },
+      "summary": "Small island off the Troad in the Aegean, near Troy. The Tenedian axe — proverbially sharp — gave Cicero his pun in Q.fr. 2.9 on the senate's refusal of the Tenedian embassy's request for a renewed grant of liberty.",
+      "first_appearance": "ad-quintum-fratrem-02-09",
+      "categories": [
+        "aegean",
+        "asia-minor-coast"
+      ]
+    },
+    {
+      "id": "place:magnesia-ad-sipylum",
+      "type": "place",
+      "canonical_name": "Magnesia ad Sipylum",
+      "short_name": "Magnesia ad Sipylum",
+      "aliases": [
+        "Magnesia"
+      ],
+      "external_ids": {
+        "pleiades": "550708"
+      },
+      "summary": "Greek city of Lydia at the foot of Mt Sipylus (modern Manisa, Turkey); free city in the Roman period. Subject of an embassy to Rome in early 54 BC at which Quintus Cicero was praised for resisting L. Sestius Pansa.",
+      "first_appearance": "ad-quintum-fratrem-02-09",
+      "categories": [
+        "lydia",
+        "asia-minor"
+      ]
+    },
+    {
+      "id": "place:britannia",
+      "type": "place",
+      "canonical_name": "Britannia",
+      "short_name": "Britain",
+      "aliases": [
+        "Britannia"
+      ],
+      "external_ids": {
+        "pleiades": "1014"
+      },
+      "summary": "The island of Britain, target of Caesar's two expeditions in 55 and 54 BC. Cicero's letters of 54 carry the joke that there was no gold or silver to plunder there, and his pledge to write a poem on the campaign.",
+      "first_appearance": "ad-familiares-07-07",
+      "categories": [
+        "north-west",
+        "barbarian-frontier"
+      ]
+    },
+    {
+      "id": "text:empedoclea-sallustius",
+      "type": "text",
+      "canonical_name": "Empedoclea (Cn. Sallustius)",
+      "short_name": "Empedoclea",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "A poem in Empedoclean style, presumably on cosmological themes after the Greek Pre-Socratic, by Cn. Sallustius (friend of Cicero, not the historian). Lost; known only from Cicero's tease at Q.fr. 2.9.3.",
+      "first_appearance": "ad-quintum-fratrem-02-09",
+      "categories": [
+        "lost",
+        "didactic-poem"
+      ]
     }
   ]
 }

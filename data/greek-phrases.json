@@ -5031,6 +5031,58 @@
       "source_certainty": "unknown",
       "register": "technical",
       "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-0388",
+      "work": "ad-atticum-04-13",
+      "loc": "1",
+      "greek_original": "σκυλμόν",
+      "transliteration": "skylmon",
+      "english_gloss": "harassment, vexation",
+      "context": "Cicero asks Atticus how the consuls are bearing the present \"harassment\" of the year's politics.",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": null
+    },
+    {
+      "id": "gr-0389",
+      "work": "ad-atticum-04-13",
+      "loc": "1",
+      "greek_original": "ὀξύπεινος",
+      "transliteration": "oxypeinos",
+      "english_gloss": "sharp-set, ravenous (for news)",
+      "context": "Cicero applies the appetite-word to his eagerness for political news.",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "colloquial",
+      "notes": null
+    },
+    {
+      "id": "gr-0390",
+      "work": "ad-atticum-04-13",
+      "loc": "2",
+      "greek_original": "τὴν παροῦσαν",
+      "transliteration": "tēn parousan",
+      "english_gloss": "the (lady) present",
+      "context": "Cicero's hint to Atticus that Pilia (Atticus's wife) should be at home for the visit, so he does not arrive as a stranger.",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "in-joke",
+      "notes": null
+    },
+    {
+      "id": "gr-0391",
+      "work": "ad-quintum-fratrem-02-13",
+      "loc": "4",
+      "greek_original": "τοιαῦθ' ὁ τλήμων πόλεμος ἐξεργάζεται",
+      "transliteration": "toiauth' ho tlēmōn polemos exergazetai",
+      "english_gloss": "such are the deeds of wretched war",
+      "context": "Cicero seals the section's bleak political summary with a tragic-style line on civic war.",
+      "suspected_source": "Aristophanes, Acharnians (echo or paraphrase) — possibly a tragic source",
+      "source_certainty": "low",
+      "register": "quotation",
+      "notes": "Tragic register; some attribute to a lost tragedy."
     }
   ]
 }
