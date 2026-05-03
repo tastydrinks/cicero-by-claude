@@ -5031,32 +5031,6 @@
       "source_certainty": "unknown",
       "register": "technical",
       "notes": "backfilled (kind=bracket)"
-    },
-    {
-      "id": "gr-0376",
-      "work": "ad-atticum-04-09",
-      "loc": "1",
-      "greek_original": "καὶ τόδε",
-      "transliteration": "kai tode",
-      "english_gloss": "and this too",
-      "context": "Cicero's marginal tag for Pompey's reported speech: whatever the man says, append `and this too' as a private mental asterisk.",
-      "suspected_source": null,
-      "source_certainty": "unknown",
-      "register": "in-joke",
-      "notes": null
-    },
-    {
-      "id": "gr-0377",
-      "work": "ad-atticum-04-11",
-      "loc": "2",
-      "greek_original": "οὐδὲν",
-      "transliteration": "ouden",
-      "english_gloss": "nothing",
-      "context": "On news from Rome: of news, ``nothing'' --- so write to me as to a curious man what the censors are doing.",
-      "suspected_source": null,
-      "source_certainty": "unknown",
-      "register": "colloquial",
-      "notes": null
     }
   ]
 }
