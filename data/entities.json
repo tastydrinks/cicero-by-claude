@@ -1945,6 +1945,52 @@
       ]
     },
     {
+      "id": "person:c-claudius-marcellus-cos50",
+      "type": "person",
+      "canonical_name": "Gaius Claudius Marcellus (Maior)",
+      "short_name": "C. Marcellus (cos. 50)",
+      "aliases": [
+        "C. Marcellus"
+      ],
+      "external_ids": {},
+      "summary": "Consul 50 BC; brother of C. Marcellus cos. 49 and cousin of M. Marcellus cos. 51. Elected in summer 51 BC, his promotion is celebrated in Cicero's letters from the Cilician journey (Fam. 15.8, 15.9).",
+      "first_appearance": "ad-familiares-15-08",
+      "categories": [
+        "political",
+        "augural-college"
+      ]
+    },
+    {
+      "id": "person:m-claudius-marcellus-cos51",
+      "type": "person",
+      "canonical_name": "Marcus Claudius Marcellus",
+      "short_name": "M. Marcellus",
+      "aliases": [
+        "Marcellus"
+      ],
+      "external_ids": {},
+      "summary": "Consul 51 BC; uncompromising optimate, leading voice for ending Caesar's Gallic command early. Augural colleague of Cicero. Pardoned by Caesar in 46 BC (Pro Marcello); murdered en route home in 45.",
+      "first_appearance": "ad-familiares-15-07",
+      "categories": [
+        "political",
+        "augural-college",
+        "optimate"
+      ]
+    },
+    {
+      "id": "person:iunia-marcelli",
+      "type": "person",
+      "canonical_name": "Iunia",
+      "short_name": "Iunia",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Wife of C. Claudius Marcellus (cos. 50); Cicero greets her in Fam. 15.8 as gravissima atque optima femina.",
+      "first_appearance": "ad-familiares-15-08",
+      "categories": [
+        "family"
+      ]
+    },
+    {
       "id": "person:c-claudius-nero",
       "type": "person",
       "canonical_name": "Gaius Claudius Nero",

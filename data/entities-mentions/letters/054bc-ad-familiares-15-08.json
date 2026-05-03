@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-08",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO PROCOS.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "C. MARCELLO", "entity_id": "person:c-claudius-marcellus-cos50", "in": "lat"},
+    {"loc": "1", "surface": "C. Marcellus", "entity_id": "person:c-claudius-marcellus-cos50", "in": "eng"},
+    {"loc": "1", "surface": "Marcellum tuum", "entity_id": "person:c-claudius-marcellus-cos50", "in": "lat"},
+    {"loc": "1", "surface": "your Marcellus", "entity_id": "person:c-claudius-marcellus-cos50", "in": "eng"},
+    {"loc": "1", "surface": "Iuniae", "entity_id": "person:iunia-marcelli", "in": "lat"},
+    {"loc": "1", "surface": "Iunia", "entity_id": "person:iunia-marcelli", "in": "eng"}
+  ]
+}
