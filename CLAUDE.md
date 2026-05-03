@@ -62,6 +62,12 @@ truth.
 6. One commit per finished work; for long works, WIP commits at
    chunk boundaries plus a final commit when status is flipped.
 
+After a batch of finished works (every several commits, or at the
+end of a session), run `python scripts/build_manifest.py` to
+regenerate `MANIFEST.md` and `build/chronology.tex` from the
+updated `meta/works.yaml`. `session_end.sh` is a fine moment for
+this.
+
 ## The chronology rule
 
 Translations advance in **single-thread chronological order across
@@ -81,23 +87,54 @@ Beyond `STYLE.md`:
   file.
 - **Greek phrases** (Cicero sprinkles them throughout the letters):
   render the meaning in English, then `\textit{[Greek:
-  transliteration]}`.
+  transliteration]}`. Greek script in the Latin (e.g.
+  `μυστικώτερα`) can be passed through inside `\textgreek{…}` when
+  preserving it as marginalia is wanted.
 - **Section numbers** use `\ciceroSection{N}` and preserve standard
   scholarly numbering (Teubner / OCT).
 - The front-matter "Why this exists" note in `build/frontmatter.tex`
   (around line 73) is **Alexander's words and is not to be edited.**
 
+## File-header conventions
+
+Every translation and headnote opens with a short comment block.
+Match this exactly so files are self-identifying.
+
+**English translation file** (`english/<category>/<id>.tex`):
+```
+% Pro Quinctio (pro-quinctio) --- English translation
+% Translated by Claude (Anthropic) from the Latin (Perseus).
+% Style guide: STYLE.md.
+```
+
+**Headnote file** (`headnotes/<category>/<id>.tex`):
+```
+% Pro Quinctio --- headnote
+% pro-quinctio, 81 BC, Rome
+```
+
+The headnote body itself is wrapped in `\textit{…}` blocks (one per
+paragraph), per the convention you can see in any drafted headnote
+under `headnotes/`.
+
+**Latin file headers** are written by `scripts/fetch_latin.py` and
+should not be edited by hand.
+
 ## Timeout discipline
 
 Stream idle timeouts are real and have caused mid-session failures.
-The rules below are not optional.
+**This section supersedes any older guidance** (e.g. the "30–50
+sections per batch" line in earlier `PROGRESS.md` revisions). The
+rules below are not optional.
 
-- **For long speeches: 5 sections per `Edit`, with a WIP commit
-  after each chunk.** Trying to write 30+ sections in one tool call
+- **For long speeches: ~5 sections per `Edit`, with a WIP commit
+  after each chunk.** Trying to write 20+ sections in one tool call
   loses the stream mid-response. 5-section chunks are the safe rate;
   a timeout then costs at most one chunk.
 - **Payload size is the real limit, not section count.** If a single
-  `Write`/`Edit`'s `new_string` is more than a few KB, split it.
+  `Write`/`Edit`'s `new_string` is more than a few KB of new
+  content, split it. Some Cicero sections are short (one or two
+  sentences); some run to a paragraph or two. Adjust accordingly.
 - For short letters (1–7 short sections), one `Write` per English
   file is fine. This discipline only matters for substantial works.
 - **Don't use `cat` / `echo` heredocs in `Bash` to assemble large
@@ -136,11 +173,20 @@ The rules below are not optional.
   for most works. The `latin_source_url_fallback` to
   thelatinlibrary.com generally won't work. If the Perseus URL is
   missing or wrong, fix the entry; don't rely on the fallback.
-- **Five no-Perseus works**: *Aratea* (86 BC), *De Consulatu Suo*
-  (60), *De Temporibus Suis* (54), *Hortensius* (45), *Consolatio*
-  (45). Latin must be supplied manually when the chronology reaches
-  one of these. The validator excludes them from the
+- **Five no-Perseus fragmentary works**: *Aratea* (86 BC),
+  *De Consulatu Suo* (60), *De Temporibus Suis* (54), *Hortensius*
+  (45), *Consolatio* (45). When the chronology reaches one of
+  these, the Latin must be supplied manually (the surviving
+  fragments are gathered in standard Teubner / Loeb editions).
+  Don't try to fetch them via `fetch_latin.py`; the entries carry
+  no Perseus URL. The validator excludes these from the
   chronological-gap check.
+- **One no-Perseus complete work**: *De Legibus* (52 BC) survives
+  in full but is not in Perseus's TEI corpus. When the chronology
+  reaches it, the Latin must be sourced manually
+  (`thelatinlibrary.com/cicero/leg.shtml` was the previous source,
+  but it currently 403s; another classical-Latin repository may
+  need to supply it).
 - **Two deferred works**: *Aratea* (86 BC) and *De Inventione*
   (85 BC) precede *Pro Quinctio* in date but are deliberately
   skipped. Do not circle back to them mid-stream.
