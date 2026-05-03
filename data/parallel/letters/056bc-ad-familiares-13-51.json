@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-51",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.51",
+  "title_english": "Ad Familiares 13.51",
+  "date": "-0056-08-08",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "P. Messienum, equitem R. omnibus rebus ornatum meumque perfamiliarem, tibi commendo ea commendatione quae potest esse diligentissima. peto a te et pro nostra et pro paterna amicitia ut eum in tuam fidem recipias eiusque rem famamque tueare. virum bonum tuaque amicitia dignum tibi adiunxeris mihique gratissimum feceris.",
+      "eng": "I commend to you Publius Messienus, a Roman knight equipped with every quality and a particular intimate of mine, with the most attentive commendation it can carry. I ask of you, in the name both of our friendship and of the friendship between our fathers, that you take him into your protection and look after his interests and his good name. You will have attached to yourself a good man and one worthy of your friendship, and you will have done me the greatest favour.",
+      "notes": null
+    }
+  ]
+}

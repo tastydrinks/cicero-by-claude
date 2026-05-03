@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-06",
+  "mentions": [
+    {"loc": "1", "surface": "Q. VALERIO Q. F. ORCAE", "entity_id": "person:q-valerius-orca", "in": "lat"},
+    {"loc": "1", "surface": "Quintus Valerius Orca", "entity_id": "person:q-valerius-orca", "in": "eng"},
+    {"loc": "1", "surface": "P. Cuspio", "entity_id": "person:p-cuspius", "in": "lat"},
+    {"loc": "1", "surface": "Publius Cuspius", "entity_id": "person:p-cuspius", "in": "eng"},
+    {"loc": "2", "surface": "Africa", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "2", "surface": "Africa", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "3", "surface": "L. Iulium", "entity_id": "person:l-iulius-cuspianus", "in": "lat"},
+    {"loc": "3", "surface": "Lucius Iulius", "entity_id": "person:l-iulius-cuspianus", "in": "eng"}
+  ]
+}

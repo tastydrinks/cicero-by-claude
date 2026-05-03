@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.3",
+  "title_english": "Ad Familiares 7.3",
+  "date": "-0056-09-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "persaepe mihi cogitanti de communibus miseriis, in quibus tot annos versamur et, ut video, versabimur, solet in mentem venire illius temporis, quo proxime fuimus una; quin etiam ipsum diem memoria teneo; nam a. d. iiii Id. Mai. Lentulo et Marcello coss., cum in Pompeianum vesperi venissem, tu mihi sollicito animo praesto fuisti. sollicitum autem te habebat cogitatio cum offici tum etiam periculi mei. si manerem in Italia, verebare ne officio dessem; si proficiscerer ad bellum, periculum te meum commovebat. quo tempore vidisti profecto me quoque ita conturbatum ut non is explicarem quid esset optimum factu. pudori tamen malui famaeque cedere quam salutis meae rationem ducere.",
+      "eng": "Very often, when I am thinking over the common miseries in which we have now spent so many years and, as I see it, will go on spending them, that time we last spent together is apt to come into my mind. Indeed I hold the very day in my memory: for it was on the fourth day before the Ides of May, in the consulship of Lentulus and Marcellus, when I had come to my Pompeian villa late in the day, that you were there to meet me, anxious in mind. What had you anxious was your concern both for my duty and for the danger to me. If I stayed in Italy, you were afraid I should fail in duty; if I set out for the war, my danger weighed on you. At that moment you saw, surely, how I too was so confused that I could not work out what was best to be done. Still, I chose to give way to honour and reputation rather than to take account of my own safety.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "cuius me mei facti paenituit non tam propter periculum meum quam propter vitia multa, quae ibi offendi quo veneram, primum neque magnas copias neque bellicosas; deinde extra ducem paucosque praeterea (de principibus loquor) reliqui primum in ipso bello rapaces, deinde in oratione ita crudeles ut ipsam victoriam horrorem; maximum autem aes alienum amplissimorum virorum. quid quaeris? nihil boni praeter causam. quae cum vidissem, desperans victoriam primum coepi suadere pacem cuius fueram semper auctor; deinde, cum ab ea sententia Pompeius valde abhorreret, suadere institui ut bellum duceret. hoc interdum probabat et in ea sententia videbatur fore et fuisset fortasse, nisi quadam ex pugna coepisset suis militibus confidere. ex eo tempore vir ille summus nullus imperator fuit. signa tirone et collecticio exercitu cum legionibus robustissimis contulit; victus turpissime amissis etiam castris solus fugit.",
+      "eng": "I came to be sorry for that act of mine, not so much because of my own danger as because of the many faults I encountered in the place I had come to: first, no large forces, and none battle-fit; then, apart from the commander and a few besides --- I am speaking of the leading men --- the rest were, in the first place, in the very war itself rapacious, and in the second so cruel of speech that the very victory was a thing of horror; and on top of this the most distinguished men were swimming in the largest debts. What more is there to say? Nothing of any good but the cause. When I had seen this, despairing of victory I began first to urge peace, of which I had always been the advocate; then, when Pompey shrank vehemently from that view, I set about urging him to draw the war out. This he sometimes approved and seemed about to settle in that view, and perhaps would have done so, had he not, after a certain engagement, begun to have confidence in his soldiers. From that moment that great man was no general at all. With raw and pieced-together troops he matched standards against the most seasoned legions; he was beaten in the most disgraceful way; with the very camp lost, he fled alone.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "hunc ego mihi belli finem feci nec putavi, cum integri pares non fuissemus, fractos superiores fore; discessi ab eo bello, in quo aut in acie cadendum fuit aut in aliquas insidias incidendum aut deveniendum in victoris manus aut ad Iubam confugiendum aut capiendus tamquam exsilio locus aut consciscenda mors voluntaria. certe nihil fuit praeterea, si te victori nolles aut non auderes committere. ex omnibus autem iis quae dixi incommodis nihil tolerabilius exsilio, praesertim innocenti ubi nulla adiuncta est turpitudo; addo etiam, cum ea urbe careas in qua nihil sit quod videre possis sine dolore. ego cum meis, si quicquam nunc cuiusquam est, etiam in meis esse malui. quae acciderunt, omnia dixi futura.",
+      "eng": "For myself I made this the end of the war, nor did I think that, having proved unequal at full strength, we should be the stronger when broken. I withdrew from a war in which one had either to fall in line of battle, or be caught in some ambush, or come into the victor's hands, or take refuge with Juba, or take up some place as a kind of exile, or take one's own life by choice. There was, surely, nothing else, if you would not or did not dare to commit yourself to the victor. But of all those troubles I have named, none was more bearable than exile, especially for an innocent man with no shame attached, and especially when one is parted from a city in which one cannot look at anything without grief. As for me, I preferred to be with my own people --- if anyone has anything that is now his own --- and even on what is my own. The things that have happened, I said all of them would happen.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "veni domum, non quo optima vivendi condicio esset, sed tamen, si esset aliqua forma rei p. tamquam in patria ut essem, si nulla, tamquam in exsilio. mortem mihi cur consciscerem causa non visa est, cur optarem multae causae. vetus est enim, ubi non sis qui fueris, non esse cur velis vivere. sed tamen vacare culpa magnum est solacium, praesertim cum habeam duas res quibus me sustentem, optimarum artium scientiam et maximarum rerum gloriam; quarum altera mihi vivo numquam eripietur, altera ne mortuo quidem.",
+      "eng": "I came home, not because the conditions of life were the best, but still that, if some shape of a commonwealth survived, I might be as in my country, and if none, as in exile. To take my own life I saw no reason; to wish for it, many reasons. For there is the old saying: when you are not the man you were, there is no reason to want to live. Even so, to be free of fault is a great consolation, especially when I have two things by which I sustain myself, the knowledge of the noblest pursuits and the renown of the greatest deeds; the one of which will never be torn from me while I live, the other not even when I am dead.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "haec ad te scripsi verbosius et tibi molestus fui, quod te cum mei tum rei p. cognovi amantissimum. notum tibi omne meum consilium esse volui, ut primum scires me numquam voluisse plus quemquam posse quam universam rem p., postea autem quam alicuius culpa tantum valeret unus ut obsisti non posset, me voluisse pacem; amisso exercitu et eo duce, in quo spes fuerat uno, me voluisse etiam reliquis omnibus, postquam non potuerim, mihi ipsi finem fecisse belli; nunc autem si haec civitas est, civem esse me, si non, exsulem esse non incommodiore loco quam si Rhodum aut Mytilenas me contulissem.",
+      "eng": "I have written this to you at some length and have been a burden to you, because I have known you to be devoted both to me and to the commonwealth. I wanted my whole policy to be known to you: first, that I never wished any one man to have more power than the commonwealth as a whole; later, when by someone's fault one man was so strong that he could not be resisted, that I wished for peace; with the army lost and the leader on whom the one hope had rested, that I wished to make an end of the war for everyone else as well; and when I could not, that I made an end of it for myself. Now, however, if this is a state, I am a citizen; if it is not, I am an exile, and in no worse a place than if I had betaken myself to Rhodes or Mytilene.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "haec tecum coram malueram; sed quia longius fiebat, volui per litteras eadem, ut haberes quid diceres, si quando in vituperatores meos incidisses. sunt enim qui, cum meus interitus nihil fuerit rei p. profuturus, criminis loco putent esse quod vivam; quibus ego certo scio non videri satis multos perisse. qui si me audissent, quamvis iniqua pace, honeste tamen viverent; armis enim inferiores, non causa fuissent. habes epistulam verbosiorem fortasse quam velles; quod tibi ita videri putabo, nisi mihi longiorem remiseris. ego si quae volo expediero, brevi tempore te, ut spero, videbo.",
+      "eng": "I had wished to say all this to you face to face; but since the meeting was being put off, I wanted to do it through a letter, so that you should have something to say if you ever came across my detractors. For there are people who, though my destruction would have done the commonwealth no good, take it as a charge against me that I am alive --- and to them, I am very sure, not enough men have died. If they had listened to me, they would still, however unfair the peace, be living honourably; for they would have been beaten in arms, not in cause. There you have a letter perhaps wordier than you would have liked; that I shall take to be how you find it, unless you send back a longer one yourself. If I get done what I want to get done, I shall, as I hope, see you before long.",
+      "notes": null
+    }
+  ]
+}

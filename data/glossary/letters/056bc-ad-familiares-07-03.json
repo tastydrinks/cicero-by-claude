@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "fourth day before the Ides of May",
+      "entity_id": null,
+      "note": "10 May. The Roman dating system counts inclusively backwards from the Ides (the 15th in May)."
+    },
+    {
+      "loc": "1",
+      "anchor": "consulship of Lentulus and Marcellus",
+      "entity_id": null,
+      "note": "L. Cornelius Lentulus Crus and C. Claudius Marcellus, consuls of 49 BC: the year of the civil war's outbreak. The Pompeian villa is Cicero's at Cumae."
+    },
+    {
+      "loc": "3",
+      "anchor": "Juba",
+      "entity_id": "person:juba-i",
+      "note": "Juba I of Numidia, ally of the Pompeians; after Pharsalus the African remnant under Cato, Scipio and Labienus regrouped at his court, where the war ended at Thapsus in April 46 BC."
+    },
+    {
+      "loc": "5",
+      "anchor": "Rhodes or Mytilene",
+      "entity_id": null,
+      "note": "Customary places of polite Roman exile in the Greek east; chosen here as a metaphorical floor of indignity, beneath which Cicero is determined not to be set."
+    }
+  ]
+}
