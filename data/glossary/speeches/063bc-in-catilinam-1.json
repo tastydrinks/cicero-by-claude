@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "in-catilinam-1",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "senators",
+      "entity_id": "institution:senate",
+      "note": "patres conscripti, the formal Senate address. The First Catilinarian was delivered in the temple of Jupiter Stator at the foot of the Palatine on 8 November 63 BC, with Catiline himself present in the chamber."
+    },
+    {
+      "loc": "1",
+      "anchor": "How long, Catiline",
+      "entity_id": "person:catiline",
+      "note": "Quo usque tandem abutere, Catilina, patientia nostra? --- among the most-quoted opening lines in Latin oratory."
+    },
+    {
+      "loc": "11",
+      "anchor": "Jupiter Stator",
+      "entity_id": "place:templum-iovis-statoris",
+      "note": "Temple of Jupiter Stator (\"the Stayer\"), founded by Romulus on the spot where Jupiter caused the Romans to halt and rally against the Sabines; chosen for this Senate meeting for its associations with rallying against an internal threat."
+    },
+    {
+      "loc": "13",
+      "anchor": "the patria speaks",
+      "entity_id": null,
+      "note": "Cicero's first prosopopoeia in this speech: the personified patria addresses Catiline directly. A second prosopopoeia of the patria addresses Cicero himself near the end of the speech."
+    }
+  ]
+}

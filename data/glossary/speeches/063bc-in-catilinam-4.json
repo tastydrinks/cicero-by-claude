@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "in-catilinam-4",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Temple of Concord",
+      "entity_id": "place:templum-concordiae",
+      "note": "The Fourth Catilinarian was delivered before the Senate in the Temple of Concord beside the Forum on 5 December 63 BC, the day of the debate on the conspirators' punishment; the conspirators were executed in the Tullianum that night."
+    },
+    {
+      "loc": "7",
+      "anchor": "Silanus",
+      "entity_id": "person:silanus-consul",
+      "note": "D. Iunius Silanus, consul-elect for 62 BC, opened the senatorial debate by voting for the supreme penalty (death)."
+    },
+    {
+      "loc": "7",
+      "anchor": "Caesar",
+      "entity_id": "person:caesar",
+      "note": "C. Iulius Caesar, then praetor-elect, proposed instead lifelong imprisonment in Italian municipia and confiscation of property. Caesar's intervention is reported at length by Sallust as well as in this speech; it forced Cicero to mount the great defence of the senatorial death-sentence that follows."
+    },
+    {
+      "loc": "23",
+      "anchor": "my little son",
+      "entity_id": "person:marcus-cicero-younger",
+      "note": "Cicero commends his then-two-year-old son to the Senate's care --- a famous closing flourish, contrasting the consul's risk with his hope for the next generation."
+    }
+  ]
+}

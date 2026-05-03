@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "pro-caelio",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "festive days and during the public games",
+      "entity_id": null,
+      "note": "The Ludi Megalenses (4--10 April); Pro Caelio was delivered on 4 April 56 BC, the first day of the games. Cicero's opening exploits the oddity that this trial was being held when normal legal business had paused for the festival."
+    },
+    {
+      "loc": "1",
+      "anchor": "courtesan",
+      "entity_id": "person:clodia",
+      "note": "The unnamed Clodia, sister of P. Clodius and widow of Q. Metellus Celer; the prime mover behind the prosecution. Cicero never names her in this opening, only the surrounding men, building to the great prosopopoeia of her ancestor Appius Claudius Caecus at section 33."
+    },
+    {
+      "loc": "1",
+      "anchor": "Atratinus",
+      "entity_id": "person:atratinus-prosecutor",
+      "note": "L. Sempronius Atratinus, the young prosecutor, son of L. Calpurnius Bestia (whom Caelius had himself prosecuted earlier in 56 BC); the prosecution is partly a son's act of filial dutifulness."
+    },
+    {
+      "loc": "33",
+      "anchor": "Appius Claudius Caecus",
+      "entity_id": null,
+      "note": "Censor 312 BC, builder of the Appian Way, the great ancestor of the Claudian house. In Pro Caelio §§ 33--34 Cicero raises him as a prosopopoeia, addressing Clodia in the voice of her revered forebear --- one of the great pieces of forensic theatre in Latin oratory."
+    },
+    {
+      "loc": "51",
+      "anchor": "Dio",
+      "entity_id": "person:dio-alexandrinus",
+      "note": "Head of the Egyptian embassy of 57 BC opposing Ptolemy XII Auletes; murdered in Rome under suspicious circumstances; one of the five formal charges against Caelius was complicity in this murder."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "pro-caelio",
+  "mentions": [
+    {"loc": "1", "surface": "Atratinus", "entity_id": "person:atratinus-prosecutor", "in": "eng"},
+    {"loc": "1", "surface": "courtesan", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "3", "surface": "M. Caelius", "entity_id": "person:caelius-defendant", "in": "eng"},
+    {"loc": "9", "surface": "Roman knight", "entity_id": null, "in": "eng"},
+    {"loc": "32", "surface": "Clodia", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "32", "surface": "Clodius", "entity_id": "person:clodius", "in": "eng"},
+    {"loc": "33", "surface": "Appius Claudius Caecus", "entity_id": null, "in": "eng"},
+    {"loc": "51", "surface": "Dio", "entity_id": "person:dio-alexandrinus", "in": "eng"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "in-catilinam-2",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "abiit, excessit, evasit, erupit",
+      "entity_id": null,
+      "note": "Cicero's famous four-verb tricolon-plus marking Catiline's flight overnight after the First Catilinarian: \"He has gone, he has departed, he has escaped, he has burst forth.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "Forum",
+      "entity_id": "place:forum-romanum",
+      "note": "The Second Catilinarian was delivered in the Forum on 9 November 63 BC, the day after Catiline's flight; addressed to the assembled people (a contio) rather than the Senate."
+    },
+    {
+      "loc": "18",
+      "anchor": "six classes of conspirators",
+      "entity_id": null,
+      "note": "Cicero's famous typology (sections 18--23): the indebted nobles, the gentlemen who hope to overthrow their creditors, Sulla's veterans, the bankrupts, the criminals and parricides, and finally the praetorian cohort of perfumed boys (his sixth class, the so-called \"praetoria cohors scortorum\")."
+    }
+  ]
+}

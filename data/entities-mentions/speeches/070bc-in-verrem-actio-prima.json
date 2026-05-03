@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-actio-prima",
+  "mentions": [
+    {"loc": "1", "surface": "Verres", "entity_id": "person:verres", "in": "eng"},
+    {"loc": "1", "surface": "Hortensius", "entity_id": "person:hortensius", "in": "eng"},
+    {"loc": "2", "surface": "Sicily", "entity_id": "place:sicilia", "in": "eng"},
+    {"loc": "10", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "10", "surface": "Crassus", "entity_id": "person:crassus", "in": "eng"},
+    {"loc": "16", "surface": "Sthenius", "entity_id": "person:sthenius-thermitanus", "in": "eng"},
+    {"loc": "30", "surface": "Sicilians", "entity_id": "place:sicilia", "in": "eng"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "in-catilinam-3",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Forum",
+      "entity_id": "place:forum-romanum",
+      "note": "The Third Catilinarian was delivered in the Forum on 3 December 63 BC, reporting to the people the seizure of the conspirators and their letters at the Mulvian Bridge the night before."
+    },
+    {
+      "loc": "5",
+      "anchor": "the Allobroges",
+      "entity_id": null,
+      "note": "Gallic emissaries from the Allobroges tribe (Transalpine Gaul); approached by the conspirators to join the rising, they instead reported the plot to the consul Q. Fabius Sanga and were used to entrap the Roman conspirators with written documents at the Mulvian Bridge ambush."
+    },
+    {
+      "loc": "20",
+      "anchor": "the new statue of Jupiter",
+      "entity_id": "god:jupiter",
+      "note": "The new statue of Jupiter Optimus Maximus on the Capitol, set up by the haruspices' direction with its face turned towards the Forum, had been raised that very morning, on 3 December 63 BC --- the very day of the conspirators' arraignment in the Forum below. Cicero presents this as the prodigy that exposed the plot."
+    }
+  ]
+}

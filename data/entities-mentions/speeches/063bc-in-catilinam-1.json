@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "in-catilinam-1",
+  "mentions": [
+    {"loc": "1", "surface": "Catilina", "entity_id": "person:catiline", "in": "lat"},
+    {"loc": "1", "surface": "Catiline", "entity_id": "person:catiline", "in": "eng"},
+    {"loc": "1", "surface": "patres conscripti", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "senators", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "11", "surface": "Iuppiter Stator", "entity_id": "place:templum-iovis-statoris", "in": "lat"},
+    {"loc": "11", "surface": "Jupiter Stator", "entity_id": "place:templum-iovis-statoris", "in": "eng"},
+    {"loc": "33", "surface": "Iuppiter", "entity_id": "god:jupiter", "in": "lat"},
+    {"loc": "33", "surface": "Jupiter", "entity_id": "god:jupiter", "in": "eng"}
+  ]
+}

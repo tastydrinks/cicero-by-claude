@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "id": "pro-archia",
+  "allusions": [
+    {
+      "loc": "18",
+      "surface": "haec studia adulescentiam alunt",
+      "suspected_source": null,
+      "kind": "quotation",
+      "certainty": "low",
+      "translator_note": "Cicero's own coinage; not a quotation, but the lapidary cadence (six matched datives) makes it the most-quoted passage of the speech."
+    },
+    {
+      "loc": "20",
+      "surface": "Africanus quidem in Numantino bello",
+      "suspected_source": "Polybius (oral tradition of Scipio Aemilianus's circle)",
+      "kind": "reference",
+      "certainty": "medium",
+      "translator_note": "Cicero invokes Scipio Aemilianus's well-attested literary patronage; the Polybian tradition is one likely source."
+    },
+    {
+      "loc": "22",
+      "surface": "ille noster Ennius",
+      "suspected_source": "Ennius, Annales (lost passages)",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Multiple references to Ennius across the speech; section 22 cites the Annales by name."
+    },
+    {
+      "loc": "24",
+      "surface": "Sulla, cum quidam Hispalensis poeta",
+      "suspected_source": null,
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Anecdote of Sulla rewarding a bad poet with a literary reward conditional on never writing again --- a piece of Sullan-period lore."
+    },
+    {
+      "loc": "31",
+      "surface": "Homerum Colophonii civem esse dicunt suum",
+      "suspected_source": null,
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "The 'seven cities of Homer' tradition; Cicero's catalogue (Smyrna, Chios, Colophon, Salamis, Rhodes, Argos, Athens) is the locus classicus."
+    }
+  ]
+}

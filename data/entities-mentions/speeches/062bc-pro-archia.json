@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "pro-archia",
+  "mentions": [
+    {"loc": "1", "surface": "iudices", "entity_id": null, "in": "lat"},
+    {"loc": "1", "surface": "judges", "entity_id": null, "in": "eng"},
+    {"loc": "5", "surface": "Antiochiae", "entity_id": null, "in": "lat"},
+    {"loc": "5", "surface": "Antioch", "entity_id": null, "in": "eng"},
+    {"loc": "6", "surface": "Heracleam", "entity_id": null, "in": "lat"},
+    {"loc": "6", "surface": "Heraclea", "entity_id": null, "in": "eng"},
+    {"loc": "6", "surface": "L. Lucullo", "entity_id": null, "in": "lat"},
+    {"loc": "6", "surface": "Lucius Lucullus", "entity_id": null, "in": "eng"},
+    {"loc": "31", "surface": "Ennius", "entity_id": null, "in": "eng"},
+    {"loc": "31", "surface": "Homerum", "entity_id": null, "in": "lat"},
+    {"loc": "31", "surface": "Homer", "entity_id": null, "in": "eng"}
+  ]
+}

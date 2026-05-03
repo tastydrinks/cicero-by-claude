@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "in-catilinam-4",
+  "mentions": [
+    {"loc": "1", "surface": "patres conscripti", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "senators", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "7", "surface": "Silanus", "entity_id": "person:silanus-consul", "in": "eng"},
+    {"loc": "7", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "13", "surface": "Lentulus", "entity_id": "person:lentulus-sura", "in": "eng"},
+    {"loc": "13", "surface": "Cethegus", "entity_id": "person:cethegus-conspirator", "in": "eng"}
+  ]
+}

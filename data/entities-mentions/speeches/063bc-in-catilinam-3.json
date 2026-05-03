@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "in-catilinam-3",
+  "mentions": [
+    {"loc": "1", "surface": "Quirites", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "citizens", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "5", "surface": "Lentulus", "entity_id": "person:lentulus-sura", "in": "eng"},
+    {"loc": "6", "surface": "Cethegus", "entity_id": "person:cethegus-conspirator", "in": "eng"},
+    {"loc": "20", "surface": "Iuppiter", "entity_id": "god:jupiter", "in": "lat"},
+    {"loc": "20", "surface": "Jupiter", "entity_id": "god:jupiter", "in": "eng"},
+    {"loc": "21", "surface": "Capitol", "entity_id": "place:capitolium", "in": "eng"}
+  ]
+}

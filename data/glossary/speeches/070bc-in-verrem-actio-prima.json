@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-actio-prima",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Hortensius",
+      "entity_id": "person:hortensius",
+      "note": "Q. Hortensius Hortalus, the leading orator of his generation, here defending Verres; the rivalry with Cicero in this case made Cicero's reputation."
+    },
+    {
+      "loc": "2",
+      "anchor": "Sicily",
+      "entity_id": "place:sicilia",
+      "note": "Verres governed Sicily as praetor and pro-praetor 73--71 BC; the prosecution gathered evidence from across the island for nine months in 71/70 BC."
+    },
+    {
+      "loc": "20",
+      "anchor": "comperendination",
+      "entity_id": null,
+      "note": "Comperendinatio: the standard two-part trial procedure, prosecution and defence speaking on each. Cicero broke convention here by presenting the evidence rather than a long opening speech, depriving Hortensius of the chance to delay the verdict beyond his consular year."
+    }
+  ]
+}
