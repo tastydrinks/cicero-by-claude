@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "contiones",
+      "entity_id": null,
+      "note": "A contio is an informal public meeting called by a magistrate (commonly a tribune of the plebs) at which speakers harangued the people without the assembly's voting; Clodius's chief instrument throughout 58--56 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "with the role exchanged",
+      "entity_id": null,
+      "note": "Commutata persona: a deliberate echo of Cicero's earlier letter to Nepos (Fam. 5.4) in which he proposed that Nepos take Quintus Cicero's place in his affection, the Caecilii Metelli having become Cicero's brother-figures by reconciliation."
+    },
+    {
+      "loc": "2",
+      "anchor": "Lollius",
+      "entity_id": "person:lollius",
+      "note": "Probably M. Lollius Palicanus or a freedman of his; here clearly Nepos's man of business at Rome, charged with the books of the Spanish province."
+    }
+  ]
+}

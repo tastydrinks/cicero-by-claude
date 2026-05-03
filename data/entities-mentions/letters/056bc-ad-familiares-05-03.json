@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-03",
+  "mentions": [
+    {"loc": "1", "surface": "Q. METELLVS NEPOS", "entity_id": "person:metellus-nepos", "in": "lat"},
+    {"loc": "1", "surface": "Quintus Metellus Nepos", "entity_id": "person:metellus-nepos", "in": "eng"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "hominis importunissimi", "entity_id": "person:clodius", "in": "lat"},
+    {"loc": "1", "surface": "that most insufferable of men", "entity_id": "person:clodius", "in": "eng"},
+    {"loc": "2", "surface": "Lollium", "entity_id": "person:lollius", "in": "lat"},
+    {"loc": "2", "surface": "Lollius", "entity_id": "person:lollius", "in": "eng"}
+  ]
+}

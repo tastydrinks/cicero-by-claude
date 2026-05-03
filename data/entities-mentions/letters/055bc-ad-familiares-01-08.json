@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-08",
+  "mentions": [
+    {"loc": "1", "surface": "P. LENTVLO PROCOS.", "entity_id": "person:lentulus-spinther", "in": "lat"},
+    {"loc": "1", "surface": "Publius Lentulus", "entity_id": "person:lentulus-spinther", "in": "eng"},
+    {"loc": "1", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "M. Plaetorio", "entity_id": "person:m-plaetorius-cestianus", "in": "lat"},
+    {"loc": "1", "surface": "Marcus Plaetorius", "entity_id": "person:m-plaetorius-cestianus", "in": "eng"},
+    {"loc": "2", "surface": "Pompeium", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "3", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "3", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "4", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "4", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "5", "surface": "Pompeium", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "5", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "7", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "7", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"}
+  ]
+}
