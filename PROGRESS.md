@@ -382,6 +382,55 @@ session can `continue` and apply them without re-asking:
   (`scripts/validate.py`, `scripts/build_manifest.py`,
   `scripts/assemble_book.py`); commit and push.
 
+- **Sixth continuous session** *(complete; assigned-list)*:
+  the post-Sestio mid-56 BC senatorial-front sequence ---
+  \textit{De Provinciis Consularibus} (June 56 BC, 47
+  sections, the famous post-Luca about-face speech with the
+  rage-portrait of Gabinius and Piso in the first third
+  followed by the great pivot at \textsection 18 to defend
+  Caesar's continuation in Gaul, with the catalogue of
+  laying-aside-of-feud exempla --- T. Gracchus the elder
+  for Scipio Africanus's brother, the Metelli for Marius
+  in Gaul, M. Lepidus and M. Fulvius reconciled in the
+  Campus on the day of their election to the censorship,
+  Q. Metellus Nepos with Cicero himself --- and the
+  closing legal trap on the Julian-laws-vs-lex-Clodia
+  inconsistency at \textsection 45--46);
+  \textit{Ad Familiares 5.12} (June 56 BC to L. Lucceius,
+  the famous request for an historical monograph on the
+  Catilinarian conspiracy and Cicero's exile-and-recovery,
+  the \textit{epistula non erubescit} apology and the
+  Hellenistic-historiographical exempla in section 7
+  closing on the Naevian \textit{laudari a laudato viro});
+  \textit{De Haruspicum Responsis} (late May / early
+  summer 56 BC, 63 sections, the speech in reply to
+  Clodius's contio reading the haruspical response on the
+  rumble in the agro Latiniensi, with the head-by-head
+  expansion of every clause as a prosecution-of-Clodius
+  and the great catalogue of popularis turncoats from
+  the Gracchi to Sulpicius and Clodius at \textsection
+  41--44, closing on the famous symptoms-of-the-late-
+  Republic catalogue at \textsection 60); and
+  \textit{Pro Balbo} (summer 56 BC, 65 sections, the
+  joint defence with Crassus and Pompey of L. Cornelius
+  Balbus on his Pompeian citizenship grant from the
+  Sertorian war, with the great catalogue of
+  generals'-citizenship-grants from Marius through Sulla
+  to Pompey himself --- the section-51 Ennian Hannibal-
+  fragment \textit{hostem qui feriet, mihi Carthaginiensis
+  erit, quisquis erit} --- and the most explicit surviving
+  statement of the post-Luca self-reckoning at
+  \textsection 61: \textit{voluimus quaedam, contendimus,
+  experti sumus: obtenta non sunt}). Four works drafted.
+  Also a metadata cleanup: the phantom
+  \textit{Ad Quintum Fratrem 2.16} entry deleted from
+  \texttt{meta/works.yaml} (a Tyrrell-Purser numbering
+  artifact: TP split modern Q.fr. 2.3 into 2.3 + 2.4 and
+  so counted 16 letters in book 2; modern Watt OCT,
+  Shackleton Bailey, and Perseus carry only 15, with
+  TP's 2.16 = modern 2.15 already drafted as
+  \texttt{ad-quintum-fratrem-02-15}).
+
 ## Where to resume now
 
 A parallel-assignment session drafted ten letters scattered
@@ -440,23 +489,28 @@ corrected against the Perseus datelines for Q.fr. 2.4
 placeholder $\to$ May), Att. 4.5 (year-precision Oct $\to$
 April month).
 
-The next chronological item is \textbf{\textit{In Vatinium}}
-(early March 56, the cross-examination of Vatinius from the
-Sestius trial that survives as a separate work). After that
-the chronology runs through \textit{Fam.} 1.6 (March 56),
-\textit{Att.} 4.4A (April/May 56, the famous library letter
-from Antium with Tyrannio), \textit{Pro Caelio} (4 April 56,
-day-precision: the Clodia speech), \textit{Q. fr.} 2.5
-(8 April 56 from Anagnia), \textit{Att.} 4.5--4.8 (April/May
-56), \textit{Q. fr.} 2.6 (May 56), \textit{De Haruspicum
-Responso} (~late May 56), \textit{De Provinciis Consularibus}
-(June 56 --- the post-Luca about-face), \textit{Pro Balbo}
-(summer 56), \textit{Fam.} 1.7 (July 56), \textit{Att.} 4.8A
-(autumn 56), then \textit{In Pisonem} (Aug/Sept 55 BC),
-\textit{Pro Plancio}, \textit{Pro Rabirio Postumo}, and
-\textit{Pro Milone}, with \textit{De Oratore} (55 BC),
-\textit{De Re Publica} (54 BC), and \textit{De Legibus}
-(52 BC) interleaved.
+As of the sixth session the four mid-56 BC speeches that
+follow Pro Sestio (\textit{De Provinciis Consularibus},
+\textit{De Haruspicum Responsis}, \textit{Pro Balbo}) are
+drafted, along with \textit{Ad Familiares 5.12} to Lucceius.
+The next chronological items, then, are the early-56 BC
+items the assigned-list session jumped over (which an
+earlier session had not yet picked up): \textbf{\textit{In
+Vatinium}} (early March 56, the cross-examination of
+Vatinius from the Sestius trial that survives as a separate
+work, if not already drafted by the parallel-session work
+on the early-56 sequence), and the parallel post-Luca
+items \textit{Fam.} 1.6 (March 56), \textit{Att.} 4.4A
+(April/May 56, the famous library letter from Antium with
+Tyrannio), \textit{Pro Caelio} (4 April 56, day-precision:
+the Clodia speech, if not already drafted), \textit{Q.
+fr.} 2.5 (8 April 56 from Anagnia), \textit{Att.} 4.5--4.8
+(April/May 56), \textit{Q. fr.} 2.6 (May 56), \textit{Fam.}
+1.7 (July 56), \textit{Att.} 4.8A (autumn 56), then
+\textit{In Pisonem} (Aug/Sept 55 BC), \textit{Pro Plancio},
+\textit{Pro Rabirio Postumo}, and \textit{Pro Milone},
+with \textit{De Oratore} (55 BC), \textit{De Re Publica}
+(54 BC), and \textit{De Legibus} (52 BC) interleaved.
 
 Forward from the exile correspondence the chronology runs:
 
