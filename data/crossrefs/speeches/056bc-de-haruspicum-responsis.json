@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "de-haruspicum-responsis",
+  "refs": [
+    {"from_loc": "12", "to_work": "de-domo-sua", "to_loc": "117-141", "kind": "self_reference", "certainty": "high", "note": "The pontifical hearing of late September 57 BC at which the twenty-strong college freed Cicero's Palatine site is the same hearing whose proceedings are the body of De Domo Sua. The list of attendees here is the more complete record."},
+    {"from_loc": "33", "to_work": "de-domo-sua", "to_loc": "108-115", "kind": "echo", "certainty": "high", "note": "The ``mind you had lost, hand with which you had ruined it'' passage echoes the De Domo Sua attack on Clodius's consecration of the Palatine site (with the famous Tanagran courtesan-statue at Dom. 111-112)."},
+    {"from_loc": "37", "to_work": "self", "to_loc": "4", "kind": "self_reference", "certainty": "high", "note": "The Bona Dea outrage of December 62 BC --- the singed-by-religious-fires figure of section 4 --- returns at section 37 as the climactic prosecution-of-Clodius head of the haruspical text."},
+    {"from_loc": "44", "to_work": "in-vatinium", "to_loc": "27-29", "kind": "echo", "certainty": "medium", "note": "The catalogue of Clodius's Bona Dea costume (saffron robe, headband, slippers, breast-band, lyre) is the most concentrated form of the figure used variously across the post-exile speeches."},
+    {"from_loc": "45", "to_work": "ad-atticum-01-13", "to_loc": "3", "kind": "echo", "certainty": "medium", "note": "Pompey's leadership of the Senate-front against Clodius's transitio ad plebem the year before (61 BC) is described here from Cicero's senatorial perspective; the Atticus letters of 61-60 BC give the unfiltered version of the same."},
+    {"from_loc": "49", "to_work": "post-reditum-in-senatu", "to_loc": "13-14", "kind": "echo", "certainty": "high", "note": "The dagger in the temple of Castor and the home-confinement of Pompey under Clodius's tribunate is the same set of incidents covered at the opening of Post Reditum in Senatu."},
+    {"from_loc": "58", "to_work": "in-vatinium", "to_loc": "18-19", "kind": "echo", "certainty": "medium", "note": "The bill against the lex Aelia and lex Fufia (gutting the religious-obstructionist machinery) was a central charge in the cross-examination of Vatinius and recurs here in the catalogue of Clodian wickedness against the country."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "de-haruspicum-responsis",
+  "allusions": [
+    {"loc": "20", "surface": "ex gigantibus illis, quos poetae ferunt bellum dis immortalibus intulisse", "suspected_source": "Hesiod, Theogony 617-735 (the Gigantomachy); Greek lyric and tragic tradition", "kind": "reference", "certainty": "medium", "translator_note": "The Gigantomachy --- the war of the Giants against the gods --- as a stock figure for the kind of impiety that calls down divine warning."},
+    {"loc": "39", "surface": "non sunt illi eiulatus et gemitus Philoctetae tam miseri, quamquam sunt acerbi, quam illa exsultatio Athamantis", "suspected_source": "Sophocles, Philoctetes; Ennius, Athamas (or another Latin tragedian)", "kind": "reference", "certainty": "medium", "translator_note": "Philoctetes the wounded Greek hero on Lemnos and Athamas the matricide-king driven mad by Hera; the two stock theatrical figures for bodily and mental punishment by the gods. The exsultatio Athamantis points to a Latin Athamas (Ennius, or Accius's Athamas?) more than to a known Greek source."},
+    {"loc": "59", "surface": "quam denique tam immanem Charybdim poetae fingendo exprimere potuerunt", "suspected_source": "Homer, Odyssey 12.85-110, 12.234-259", "kind": "reference", "certainty": "high", "translator_note": "Charybdis and Scylla, the twin monsters of the strait, used here as the figure for Clodius's appetite (Charybdis) and the cohort of Gellii, Clodii, and Titii around him (the dogs of Scylla)."}
+  ]
+}
