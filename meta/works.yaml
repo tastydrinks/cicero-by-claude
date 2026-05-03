@@ -5754,7 +5754,7 @@
   date_precision: year_range
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam15.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam15.shtml
   latin_file: latin/letters/054bc-ad-familiares-15-08.tex
   english_file: english/letters/054bc-ad-familiares-15-08.tex
@@ -5763,6 +5763,7 @@
   notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0043-12-31
+  speech_index: book:15,letter:8
 - id: ad-familiares-15-09
   title_latin: Ad Familiares 15.9
   title_english: Ad Familiares 15.9
@@ -5771,7 +5772,7 @@
   date_precision: year_range
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam15.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam15.shtml
   latin_file: latin/letters/054bc-ad-familiares-15-09.tex
   english_file: english/letters/054bc-ad-familiares-15-09.tex
@@ -5780,6 +5781,7 @@
   notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0043-12-31
+  speech_index: book:15,letter:9
 - id: ad-familiares-15-10
   title_latin: Ad Familiares 15.10
   title_english: Ad Familiares 15.10
