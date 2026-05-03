@@ -483,6 +483,33 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
+A parallel-assignment session drafted three works in
+continuous mode --- the two Marcellus letters of \textit{Ad
+Familiares} 15 (15.8 to C. Marcellus consul-elect for 50,
+15.9 to M. Marcellus consul of 51, both written from the
+Cilician road in late summer 51 BC and carrying placeholder
+54 BC dates per the book-level metadata) --- and then, in
+the same session, the long task of \textit{De Re Publica},
+the six-book dialogue of 54--51 BC. The translation follows
+the Perseus edition (palimpsest text of books 1--3 plus
+fragments of books 4--6 in standard Powell / Ziegler
+numbering). The body covers the preface and Scipio's
+constitutional analysis (book 1), the historical case study
+of the Roman state through the seven kings and the early
+Republic (book 2), the Carneades / Laelius debate on justice
+with the famous \textit{vera lex} formulation (book 3), the
+fragmentary remains on civic education and the
+\textit{rector rei publicae} (books 4--5), and book 6 ---
+the closing fragments and the Somnium Scipionis (6.9--29)
+preserved through Macrobius. The de-re-publica entry adds
+sidecars at section grain (entities-mentions, glossary,
+allusions, crossrefs) and the structural-backfill script has
+regenerated the parallel corpus and the corpus-wide
+greek-phrases / letter-network files.
+
+The previous resume pointer below remains the right one for
+chronological sweep work going forward.
+
 A parallel-assignment session drafted ten letters scattered
 across the long pendents in the middle of 56 BC and the
 spring of 55 BC: the recommendation letters \textit{Fam.}
