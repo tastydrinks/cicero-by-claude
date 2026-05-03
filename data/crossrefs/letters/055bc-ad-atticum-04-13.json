@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-13",
+  "refs": [
+    {
+      "from_loc": "2",
+      "to_work": "de-oratore",
+      "to_loc": "1",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"de libris oratoriis factum est a me diligenter\" --- the De Oratore, finished earlier in 55 BC; Atticus is being authorised to have a copy made."
+    }
+  ]
+}
