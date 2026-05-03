@@ -6,8 +6,8 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 89 works end-to-end across all categories.
-  - **Speeches (27)**: *Pro Quinctio* (81 BC), *Pro Roscio
+- **Drafted**: 132 works end-to-end across all categories.
+  - **Speeches (30)**: *Pro Quinctio* (81 BC), *Pro Roscio
     Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
     *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
     *In Verrem Actio Prima* (5 Aug 70 BC), the entire five-book
@@ -17,42 +17,63 @@ as milestones are reached.
     (\textit{Pro Rabirio Perduellionis Reo}, the three surviving
     \textit{De Lege Agraria}, the four \textit{Catilinarians},
     \textit{Pro Murena}), the two 62 BC defences
-    (\textit{Pro Sulla}, \textit{Pro Archia}), and
-    \textit{Pro Flacco} (mid-59 BC).
-  - **Letters (62)**: the early Atticus correspondence ---
+    (\textit{Pro Sulla}, \textit{Pro Archia}),
+    \textit{Pro Flacco} (mid-59 BC), and the three speeches of
+    September 57 BC marking the return from exile:
+    \textit{Post Reditum in Senatu} (5 Sept), \textit{Post
+    Reditum ad Quirites} (7 Sept), and \textit{De Domo Sua}
+    (29 Sept --- before the College of Pontiffs, on the
+    Palatine house).
+  - **Letters (102)**: the early Atticus correspondence ---
     \textit{Att.} 1.1--1.20 (in chronological, not manuscript,
     order: 67--60 BC), \textit{Att.} 2.1--2.25 (60--late 59
     BC, including the Vettius affair and the closing of
     \textit{Att.} book 2 on the eve of Clodius's tribunate),
-    \textit{Att.} 3.1--3.7 (April--early May 58 BC, the
-    journey south through Lucania to Brundisium and the eve
-    of the crossing); the early Familiares --- \textit{Fam.}
-    5.1, 5.2, 5.5, 5.6, 5.7, 7.23 (62 BC, including Cicero's
-    reply to Metellus Celer in \textit{Fam.} 5.2 and the
-    famous \textit{Fam.} 5.7 to Pompey), \textit{Fam.} 13.44
-    (ca. 58 BC, recommendation to Fadius Gallus), \textit{Fam.}
-    14.4 (Brundisium, late April 58 BC --- the first letter
-    to Terentia from exile); the two great treatise letters
-    to Quintus, \textit{Ad Quintum Fratrem} 1.1 (late 60 /
-    early 59 BC) and 1.2 (late 59 BC, on the close of
-    Quintus's Asian governorship and the Cato-on-the-Rostra
-    incident).
+    \textit{Att.} 3.1--3.27 (April 58 BC -- end of January 57
+    BC: the entire surviving exile correspondence with Atticus,
+    from the journey south through Lucania to Brundisium, the
+    crossing on 30 April, the long Thessalonican stretch,
+    Dyrrachium, and the news of the failed early-January
+    recall attempts), and \textit{Att.} 4.1--4.3 (mid-September
+    to 26 November 57 BC --- return to Rome, the corn-supply
+    crisis and Pompey's \textit{cura annonae}, the Senate
+    proceedings on the house, and the November Clodian
+    violence); the early Familiares --- \textit{Fam.} 5.1,
+    5.2, 5.5, 5.6, 5.7, 7.23 (62 BC), \textit{Fam.} 5.4 (April
+    57 BC to Metellus Nepos), \textit{Fam.} 5.17 (late 57 BC
+    to Sittius); \textit{Fam.} 13.41, 13.42 (ca. early 58 BC
+    to Culleolus), 13.43 (ca. late 59 BC to Quinctius Gallus),
+    13.44 (ca. early 58 BC to Fadius Gallus); the family
+    letters from exile \textit{Fam.} 14.1 (Dyrrachium, 25 Nov
+    58), 14.2 (Thessalonica, 5 Oct 58), 14.3 (Dyrrachium, 29
+    Nov 58), 14.4 (Brundisium, 30 April 58 --- the first letter
+    to Terentia from exile); and the \textit{Ad Quintum
+    Fratrem} sweep --- 1.1 (late 60/early 59 BC), 1.2 (late
+    59 BC), 1.3 (Thessalonica, 13 June 58 --- the famous
+    \textit{mi frater, mi frater, mi frater} letter), 1.4
+    (Thessalonica, ca. 5 Aug 58), 2.1 (Rome, mid-Dec 57 BC,
+    opening Q.fr. book 2).
 - **Reviewed**: 0
 - **Final**: 0
-- **Pending**: 867 entries.
+- **Pending**: 824 entries.
 
 ### The chronological situation
 
-The 67--mid-59 BC catch-up that the previous-cohort sessions had
-left empty is now done, and \textit{Pro Flacco} (mid-59 BC) is
-drafted end-to-end (sections 1--106 plus the twelve Bobiensian
-fragments and the \textit{frMed} block). The chronology is a
-true single-thread sweep from \textit{Pro Quinctio} (81 BC)
-through \textit{Pro Flacco} (mid-59 BC). The next chronological
-items are \textit{Att.} 2.18 and the rest of the late-59 BC
-correspondence (the Vettius affair and the gathering Clodian
-crisis), then the exile letters of 58 BC opening with
-\textit{Att.} 3.1.
+The chronology is now a clean single-thread sweep from
+\textit{Pro Quinctio} (81 BC) through the end of 57 BC: through
+all 27 surviving speeches up to \textit{Pro Flacco} (mid-59
+BC), the entire exile and recovery correspondence
+(\textit{Att.} 3.1--3.27 and 4.1--4.3, the four \textit{Fam.}
+14 family letters, four \textit{Q. fr.} letters of the period,
+\textit{Fam.} 5.4 to Metellus Nepos and \textit{Fam.} 5.17 to
+Sittius, and the recommendation letters \textit{Fam.}
+13.41--13.43), and the three speeches of September 57 BC that
+mark the return: \textit{Post Reditum in Senatu}, \textit{Post
+Reditum ad Quirites}, \textit{De Domo Sua}. The next
+chronological items are \textit{Q. fr.} 2.4 and the long
+correspondence of 56 BC opening with \textit{Ad Familiares}
+book 1 (the Lentulus Spinther sequence on the Egyptian
+question).
 
 The dating infrastructure remains in place: Perseus's
 \texttt{<date when="...">} attributes and dateline parsing
@@ -169,6 +190,58 @@ fragmentary works (\textit{de-consulatu-suo} 60 BC,
   no better but a little gentler). Twenty-four works drafted.
   Resume point moves forward to *Pro Sulla* (62 BC) and *Pro
   Archia* (62 BC).
+- **Fourth continuous session** *(complete)*: the entire
+  exile and recovery arc drafted end-to-end. The Thessalonican
+  letters \textit{Att.} 3.8--3.21 (29 May 58 BC -- 28 October
+  58 BC), with the long key letter \textit{Att.} 3.15 (19
+  August: the \textit{caeci, caeci inquam fuimus} reproach to
+  Atticus); the move to Dyrrachium and the closing letters of
+  58 BC \textit{Att.} 3.22--3.25; the two short
+  letters of January 57 BC \textit{Att.} 3.26 and 3.27 (date
+  corrections in works.yaml); the four family letters
+  (\textit{Fam.} 14.2 of 5 October 58 BC carrying the news that
+  Terentia was hauled from Vesta to the Tabula Valeria;
+  \textit{Fam.} 14.1 of 25 November --- the \textit{vicus}
+  she meant to sell; \textit{Fam.} 14.3 of 29 November ---
+  the three lost options of self-defence: legateship, careful
+  resistance, falling bravely); the two letters to Quintus
+  \textit{Q. fr.} 1.3 (the famous \textit{mi frater, mi
+  frater, mi frater} letter, 13 June 58) and 1.4 (around 5
+  August); \textit{Fam.} 5.4 to Metellus Nepos in spring 57
+  BC; \textit{Fam.} 13.41--43 (recommendation letters from
+  Rome before exile, with date corrections so they sort with
+  the other early-58 letters). The recovery year: \textit{Fam.}
+  5.17 to Sittius, the three speeches that mark the return
+  --- \textit{Post Reditum in Senatu} (5 September 57 BC, 39
+  sections, the senatorial \textit{gratiarum actio} with the
+  great paired invective on Gabinius and Piso),
+  \textit{Post Reditum ad Quirites} (7 September, 25 sections,
+  to the assembled people, with the \textit{devotio}
+  declaration of \textsection 1 and the parallel-and-contrast
+  with Marius's sword-borne return), and \textit{De Domo Sua}
+  (29 September, 147 sections, before the College of Pontiffs:
+  the speech that won back the Palatine site, built on three
+  legal threads --- Clodius was no lawful tribune (the
+  \textit{transitio} attack \textsection 34--42), the
+  \textit{privilegium} argument (\textsection 43--57), the
+  \textit{lex Papiria} argument that the bill carried no word
+  of consecration (\textsection 127--128) --- with the famous
+  satirical genealogy of ``Liberty'' as the marble image of a
+  Tanagran courtesan from a tomb (\textsection 111--112) and
+  the closing prayer to the Capitoline gods,
+  Vesta, the household gods (\textsection 142--147)). The
+  October correspondence \textit{Att.} 4.1 (mid-September,
+  closing on ``We are beginning a kind of second life''),
+  \textit{Att.} 4.2 (the report on the pontifical decision and
+  the senatorial valuation), \textit{Att.} 4.3 (26 November,
+  the November Clodian assault: the ambush on the Sacra Via,
+  the storming of Milo's house, the Marcellinus motion);
+  \textit{Q. fr.} 2.1 (mid-December, opening Q.fr. book 2 with
+  the Senate proceedings on the Campanian land and on Clodius
+  in court). Forty-three works drafted in this session.
+  Resume point moves forward to \textit{Q. fr.} 2.4 and the
+  long Lentulus Spinther correspondence opening
+  \textit{Ad Familiares} book 1 in early 56 BC.
 
 ## Known follow-ups
 
@@ -269,27 +342,35 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-The chronology is clean through 30 April 58 BC: \textit{Pro
-Flacco} (mid-59 BC) drafted end-to-end; the late-59 BC
-Atticus correspondence (\textit{Att.} 2.18, 2.19, 2.21--2.25)
-drafted; \textit{Q. fr.} 1.2 drafted; \textit{Fam.} 13.44
-drafted; the early-58 BC exile correspondence
-\textit{Att.} 3.1--3.7 drafted (journey south through
-Lucania, Vibo, Tarentum, to Brundisium); \textit{Fam.} 14.4
-drafted (the first surviving letter from exile to Terentia,
-Tullia, and young Marcus, sealed at Brundisium 30 April 58
-BC on the eve of the crossing).
+The chronology is clean through the end of 57 BC. The whole
+exile and recovery arc is now drafted end-to-end: the entire
+\textit{Att.} book 3 (3.1--3.27, April 58 BC -- end of January
+57 BC), \textit{Att.} 4.1--4.3 (mid-September to 26 November
+57 BC), the four family letters from exile (\textit{Fam.}
+14.1--14.4 and \textit{Fam.} 14.2 in chronological position),
+the four \textit{Q. fr.} letters of 58--57 BC (1.3, 1.4, and
+2.1 added this session), \textit{Fam.} 5.4 to Metellus Nepos,
+\textit{Fam.} 5.17 to Sittius, the recommendation letters
+\textit{Fam.} 13.41--43, and the three speeches that
+mark the return: \textit{Post Reditum in Senatu} (5 Sept 57),
+\textit{Post Reditum ad Quirites} (7 Sept 57), and
+\textit{De Domo Sua} (29 Sept 57, the speech to the College
+of Pontiffs that won back the Palatine site).
 
-The next chronological item is \textit{Att.} 3.8
-(Thessalonica, 29 May 58 BC --- Cicero's first letter from
-across the sea), then \textit{Att.} 3.9 and \textit{Q. fr.}
-1.3 (both 13 June 58 BC, both from Thessalonica), then the
-dense Thessalonican stretch (\textit{Att.} 3.10--3.20,
-\textit{Q. fr.} 1.4, \textit{Fam.} 14.2 and 14.1) running
-through summer and autumn 58, ending the year with the
-December attempt of the new tribunes to recall Cicero. The
-exile lifts in early August 57 BC; the post-exile speeches
-of 57--52 BC and \textit{Pro Sestio} \textit{etc.} follow.
+The next chronological items are \textit{Q. fr.} 2.4 (year
+56 BC), then the dense early-56 BC correspondence opening
+\textit{Ad Familiares} book 1 --- the long sequence of
+letters to P. Lentulus Spinther in Cilicia
+(\textit{Fam.} 1.1--1.9, January--November 56 BC) ---
+followed by \textit{Att.} 4.4--4.10, the rest of \textit{Q. fr.}
+book 2, and the great post-Luca speeches and treatises of
+56--52 BC (\textit{Pro Sestio}, \textit{In Vatinium},
+\textit{De Provinciis Consularibus}, \textit{Pro Caelio},
+\textit{De Haruspicum Responso}, \textit{Pro Balbo},
+\textit{In Pisonem}, \textit{Pro Plancio}, \textit{Pro
+Rabirio Postumo}, \textit{Pro Milone}, with \textit{De
+Oratore}, \textit{De Re Publica}, and \textit{De Legibus}
+interleaved).
 
 Forward from the exile correspondence the chronology runs:
 
