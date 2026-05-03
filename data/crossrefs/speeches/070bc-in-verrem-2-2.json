@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-2",
+  "refs": [
+    {
+      "from_loc": "15",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"in the previous hearing, from the testimony of Heraclius the Syracusan\" --- the actio prima."
+    },
+    {
+      "from_loc": "16",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"You could understand in the previous hearing\" --- the testimony of Roman citizens from Sicily."
+    },
+    {
+      "from_loc": "20",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Dio's testimony at the actio prima, that one million sesterces was paid to Verres."
+    },
+    {
+      "from_loc": "21",
+      "to_work": "in-verrem-2-1",
+      "to_loc": "104-114",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"Under the same praetor as Annia, daughter of senator P. Annius\": back-reference to the inheritance edict episode of Book 1."
+    },
+    {
+      "from_loc": "23",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Reads testimonies of Lucullus, Chlorus, Dion delivered at the actio prima."
+    },
+    {
+      "from_loc": "29",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "echo",
+      "certainty": "medium",
+      "note": "The Africanus anecdote (\"Do not wonder if you do not obtain this from me\") is a moralizing chreia type, possibly from a published source on Scipio (e.g. Polybius) but presented here as common knowledge."
+    },
+    {
+      "from_loc": "63",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Metellus's reversals reported at the actio prima."
+    },
+    {
+      "from_loc": "66",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Heraclius of Centuripa's testimony in the previous hearing."
+    },
+    {
+      "from_loc": "69",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Timarchides as already known from \"very many witnesses\" at the actio prima."
+    },
+    {
+      "from_loc": "79",
+      "to_work": "pro-cluentio",
+      "to_loc": null,
+      "kind": "echo",
+      "certainty": "medium",
+      "note": "The figures Bulbus and Staienus link forward to the bribe-broker scandal at the heart of Pro Cluentio (66 BC)."
+    },
+    {
+      "from_loc": "102",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Testimony of Sextus Pompeius Chlorus from the previous hearing."
+    },
+    {
+      "from_loc": "109",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "The Cn. Dolabella prosecution (78/77 BC) is the precedent for rescinding in-absence condemnations: Philodamus of Opus's case was reopened then. Cicero treats it as a settled matter of judicial precedent."
+    },
+    {
+      "from_loc": "118",
+      "to_work": null,
+      "to_loc": null,
+      "kind": "reference",
+      "certainty": "high",
+      "note": "The Cn. Domitius Ahenobarbus / M. Silanus / Aegritomarus prosecution (c. 109 BC) is the precedent for crossing class to prosecute on a guest-friend's behalf."
+    },
+    {
+      "from_loc": "120",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Testimonies of envoys from Centuripa, Halaesa, Catina, Panhormus at the actio prima."
+    },
+    {
+      "from_loc": "133",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Timarchides's plundering testified to in the previous hearing by many."
+    },
+    {
+      "from_loc": "156",
+      "to_work": "in-verrem-actio-prima",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Hortensius's quip in the previous hearing about Artemo of Centuripa being \"a prosecutor, not a witness.\""
+    },
+    {
+      "from_loc": "169",
+      "to_work": "in-verrem-2-3",
+      "to_loc": null,
+      "kind": "echo",
+      "certainty": "medium",
+      "note": "Carpinatius and the scriptura partnership become a major thread in Book 2-3 (the tithe-and-grain charges)."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "id": "in-verrem-2-2",
+  "notes": [
+    {
+      "loc": "5",
+      "anchor": "storehouse of our commonwealth",
+      "entity_id": "place:sicilia",
+      "note": "Cellam atque nutricem rei publicae nostrae: M. Cato the Censor's famous epithet for Sicily, the breadbasket and nurse of the Roman state. Cicero quotes it as the touchstone of the province's importance."
+    },
+    {
+      "loc": "8",
+      "anchor": "Gaius Marcellus",
+      "entity_id": "person:c-marcellus-pr79",
+      "note": "Praetor 80 BC, governor of Sicily 79 BC; restored order in the province after the disorders of the late 80s. \"Twice from the same family the safety of Sicily was established\": once by M. Marcellus the conqueror in 212 BC, again by C. Marcellus."
+    },
+    {
+      "loc": "13",
+      "anchor": "Mamertine",
+      "entity_id": "place:messana",
+      "note": "Messana, originally Greek Zankle, occupied in 288 BC by the Mamertines (Campanian mercenaries who took the city by treachery). In Verres's time the Mamertines were a federate city; their alliance with Verres rested on his use of their port for export of plunder."
+    },
+    {
+      "loc": "20",
+      "anchor": "kindness of Quintus Metellus",
+      "entity_id": "person:q-metellus-creticus",
+      "note": "Q. Caecilius Metellus Creticus, consul 69 BC: by his proposal Dio of Halaesa was made a Roman citizen, hence his Roman name \"Q. Caecilius Dion.\" The grant was a deliberate signal in the year of Verres's trial."
+    },
+    {
+      "loc": "21",
+      "anchor": "Erucine Venus",
+      "entity_id": "god:venus-erycina",
+      "note": "Verres's standing pretext: any inheritance with even a side-mention of Venus could be claimed for the goddess of Mt. Eryx (whose temple revenue went to Rome), and Verres was the praetor who would adjudicate. The Naevius Turpio device made the temple a perpetual money-laundering shell."
+    },
+    {
+      "loc": "22",
+      "anchor": "He acquits this man for Venus, condemns him for himself",
+      "entity_id": null,
+      "note": "Cicero's barbed inversion: Verres prefers that men should sin (steal from Dio) rather than that the gods should (collect from Dio's son what they were not owed). The piety is mockery."
+    },
+    {
+      "loc": "31",
+      "anchor": "by the right of the Quirites",
+      "entity_id": null,
+      "note": "Ex iure Quiritium: the technical formula of full Roman ownership in the legis actio sacramento in rem and the formulary procedure. Cicero quotes the standard formula to set up his hypothetical example of a fair iudex (Octavius Balbus) yoked to a perversely worded edict."
+    },
+    {
+      "loc": "32",
+      "anchor": "lex Rupilia",
+      "entity_id": "law:lex-rupilia",
+      "note": "P. Rupilius's provincial charter of 132 BC, given on the advice of the ten senatorial legates after the First Servile War. It governed jurisdiction between Sicilians of different cities, between Sicilians and Romans, and between cities and individuals; the operating constitution of Sicilian justice in Cicero's day."
+    },
+    {
+      "loc": "32",
+      "anchor": "lex Hieronica",
+      "entity_id": "law:lex-hieronica",
+      "note": "The grain-tithe law of King Hieron II of Syracuse (c. 240 BC), kept by Rome on annexation as the regulation of its tithe-collection in Sicily. Verres systematically violated it in selling tithes."
+    },
+    {
+      "loc": "44",
+      "anchor": "lex Rupilia",
+      "entity_id": "law:lex-rupilia",
+      "note": "Verres's irregular substitution of his own consilium for the lex Rupilia's mode of allotting judges in inter-city Sicilian cases is the formal hinge of the Heraclius case."
+    },
+    {
+      "loc": "51",
+      "anchor": "Marcellia ... Mucia",
+      "entity_id": null,
+      "note": "Sicilian Marcellia and Asian Mucia: festivals named for Roman benefactors (M. Marcellus 212 BC, Q. Mucius Scaevola the Pontifex c. 95 BC). Cicero's contrast: even Mithridates kept the Mucia when he occupied Asia in 88 BC, but Verres abolished the Marcellia."
+    },
+    {
+      "loc": "52",
+      "anchor": "Verria",
+      "entity_id": "festival:verria",
+      "note": "Verres's grotesque self-aggrandising substitution: a festival in his own name, the contracts for its rites let out for several years in advance and budgeted from public funds across the cities."
+    },
+    {
+      "loc": "76",
+      "anchor": "name King Ptolemy",
+      "entity_id": "person:ptolemy-xii-auletes",
+      "note": "The senate's recognition of Ptolemy XII Auletes as the legitimate king of Egypt was a recurring matter of intense lobbying and bribery in the late 70s; Cicero's casual mention of it as the kind of business Verres would vote on as senator is a sharp glance at the contemporary political scene."
+    },
+    {
+      "loc": "79",
+      "anchor": "Bulbus, Staienus",
+      "entity_id": null,
+      "note": "Sitting senators notorious for taking bribes as jurors. Their names became proverbial bywords for venality (and the same Staienus is the central figure of the bribe-broker scheme in Pro Cluentio)."
+    },
+    {
+      "loc": "85",
+      "anchor": "monuments of Publius Africanus",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "Statues which Scipio Aemilianus had restored to Sicilian cities after the destruction of Carthage 146 BC. Sthenius's defence of them at Thermae was Verres's pretext for renouncing hospitality and turning prosecutor; the principle (that allies' restored monuments were inviolable while Roman rule stood) is the civic test Sthenius passed and Verres failed."
+    },
+    {
+      "loc": "87",
+      "anchor": "Stesichorus",
+      "entity_id": "person:stesichorus",
+      "note": "The lyric poet of Himera (early 6th century BC); the bronze statue of him at Thermae --- an old man stooped with a book --- was reckoned a masterpiece. Verres coveted it but Sthenius's resistance stopped the public sale."
+    },
+    {
+      "loc": "94",
+      "anchor": "Kalends of December",
+      "entity_id": null,
+      "note": "1 December 72 BC, the day Verres set for Sthenius to appear at Syracuse. The thirty days between the lodging of the charge and that day allowed Verres's father, in Rome, to lobby the senate; Verres convicted Sthenius in absence anyway."
+    },
+    {
+      "loc": "95",
+      "anchor": "consuls Gnaeus Lentulus and Lucius Gellius",
+      "entity_id": null,
+      "note": "Cn. Cornelius Lentulus Clodianus and L. Gellius Poplicola, consuls 72 BC; with their backing the Senate began the deliberation on whether to forbid in-absence prosecutions in the provinces, on Sthenius's case as the prompting outrage."
+    },
+    {
+      "loc": "100",
+      "anchor": "ten tribunes of the plebs",
+      "entity_id": null,
+      "note": "By the joint edict of all ten tribunes of 71 BC, Sthenius was permitted to remain at Rome despite Verres's capital condemnation. Cicero, then a junior senator, pleaded Sthenius's case before the college."
+    },
+    {
+      "loc": "118",
+      "anchor": "Gnaeus Domitius ... Marcus Silanus ... Aegritomarus",
+      "entity_id": null,
+      "note": "Cn. Domitius Ahenobarbus (cos 96, cens 92), in his youth, prosecuted M. (or D.) Iunius Silanus c. 109 BC for wrongs done to his Transalpine guest-friend Aegritomarus. The precedent of crossing class lines for a foreign guest-friend justifies Cicero's prosecution of Verres on Sthenius's behalf."
+    },
+    {
+      "loc": "126",
+      "anchor": "priest of Jupiter",
+      "entity_id": null,
+      "note": "The Syracusan priesthood of Olympian Zeus was the chief sacred office of the city; chosen by lot from three candidates, one from each tribal class. Verres rigged the urn so that all three lots bore Theomnastus's name."
+    },
+    {
+      "loc": "129",
+      "anchor": "exairesimoi days",
+      "entity_id": null,
+      "note": "exairesimoi: \"removable\" days. The Greek lunisolar calendar used intercalation and contraction of months to keep day-count and seasons aligned; Verres's manipulation cut a whole month and a half from the calendar of Cephaloedium so that elections fell on a date when his rival was still in Rome."
+    },
+    {
+      "loc": "138",
+      "anchor": "census under Sextus Peducaeus",
+      "entity_id": "person:sex-peducaeus-iudex",
+      "note": "Sex. Peducaeus, praetor 76 BC, governor of Sicily 75-74 BC, under whom Cicero had served as quaestor at Lilybaeum: an honest census, which Metellus reverted to as soon as Verres's was found unworkable. Almost certainly the same man as the juror let to be rejected in 2-1.18."
+    },
+    {
+      "loc": "154",
+      "anchor": "soter",
+      "entity_id": null,
+      "note": "Greek σωτήρ, \"saviour\": the title given to deified Hellenistic kings and benefactors. Verres took it on himself in inscriptions; Cicero notes that no single Latin word can render it because no single Roman institution corresponded to the cult-style."
+    },
+    {
+      "loc": "159",
+      "anchor": "Rhodians ... Mithridates",
+      "entity_id": null,
+      "note": "Even the Rhodians, who almost alone resisted Mithridates VI in 88 BC and bore his fiercest siege, did not throw down the king's statue in their city. Cicero contrasts: the Sicilians at peace did to Verres's statues what the Rhodians at war would not do to Mithridates's."
+    },
+    {
+      "loc": "160",
+      "anchor": "before the Serapis",
+      "entity_id": "place:serapeum-syracusanum",
+      "note": "Before the temple of Serapis in Syracuse, in the most frequented quarter of the city; chosen by the multitude as the most solemn place to throw down Verres's statues."
+    },
+    {
+      "loc": "169",
+      "anchor": "scriptura of Sicily",
+      "entity_id": null,
+      "note": "scriptura: the tax on pasturage of livestock on public land. The publicani held it in Sicily jointly with the harbour-tax; Carpinatius's role as assistant manager (promagister) gave him insight into Verres's exports and the leverage to lend money to Verres's clients out of Verres's own undeclared funds."
+    },
+    {
+      "loc": "187",
+      "anchor": "Verrucius",
+      "entity_id": "person:c-verrucius-fictus",
+      "note": "The forged substitute-name in Carpinatius's account-books at Syracuse: where the entries had originally read \"Verres,\" the V-E-R-R survived, the rest was on an erasure, and a phantom \"Verrucius\" was put in its place. The image at 191 (\"the Verrine tail, as if dipped in mud, sunk into an erasure\") is one of the most famous in the Verrines."
+    }
+  ]
+}
