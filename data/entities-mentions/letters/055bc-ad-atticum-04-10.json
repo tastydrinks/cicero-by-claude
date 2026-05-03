@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-10",
+  "mentions": [
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Puteolis", "entity_id": "place:puteoli", "in": "lat"},
+    {"loc": "1", "surface": "Puteoli", "entity_id": "place:puteoli", "in": "eng"},
+    {"loc": "1", "surface": "Ptolomaeum", "entity_id": "person:ptolemy-xii-auletes", "in": "lat"},
+    {"loc": "1", "surface": "Ptolemy", "entity_id": "person:ptolemy-xii-auletes", "in": "eng"},
+    {"loc": "1", "surface": "Fausti", "entity_id": "person:faustus-sulla", "in": "lat"},
+    {"loc": "1", "surface": "Faustus", "entity_id": "person:faustus-sulla", "in": "eng"},
+    {"loc": "1", "surface": "Lucrinensibus", "entity_id": "place:lucrine", "in": "lat"},
+    {"loc": "1", "surface": "Lucrine", "entity_id": "place:lucrine", "in": "eng"},
+    {"loc": "1", "surface": "Aristotelis", "entity_id": "person:aristotle", "in": "lat"},
+    {"loc": "1", "surface": "Aristotle", "entity_id": "person:aristotle", "in": "eng"},
+    {"loc": "2", "surface": "Philotimum", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "2", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "2", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Cumanum", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "2", "surface": "Cumae villa", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "2", "surface": "Parilibus", "entity_id": "festival:parilia", "in": "lat"},
+    {"loc": "2", "surface": "Parilia", "entity_id": "festival:parilia", "in": "eng"}
+  ]
+}

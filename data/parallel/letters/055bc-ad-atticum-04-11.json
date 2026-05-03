@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-11",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.11",
+  "title_english": "Ad Atticum 4.11",
+  "date": "-0055-05-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "delectarunt me epistulae tuae quas accepi uno tempore duas ante diem v Kal. Perge reliqua. gestio scire ista omnia. etiam illud cuius modi sit velim perspicias; potes a Demetrio. dixit mihi Pompeius Crassum a se in Albano exspectari ante diem iiii Kal.; is cum venisset, Romam eum et se statim venturos ut rationes cum publicanis putarent. quaesivi gladiatoribusne. respondit ante quam inducerentur. id cuius modi sit aut nunc si scies aut cum is Romam venerit ad me mittas velim.",
+      "eng": "Your letters delighted me, two of them which I received at one time on the fifth day before the Kalends. Get on with the rest. I am itching to know all that. Even of this too I should like you to make sure: you can do it through Demetrius. Pompey told me that Crassus is expected by him at the Alban villa on the fourth day before the Kalends; that when Crassus has come, they will both come at once to Rome to settle the books with the tax-farmers. I asked, in time for the gladiators? He answered, before they go on. What this is, either now if you will know, or when the man has come to Rome, I should like you to send me word.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nos hic voramus litteras cum homine mirifico (ita me hercule sentio) Dionysio qui te omnisque vos salutat. οὐδὲν qua re ut homini curioso ita perscribe ad me quid primus dies, quid secundus, quid censores, quid Appius, quid illa populi Appuleia; denique etiam quid a te fiat ad me velim scribas. non enim, ut vere loquamur, tam rebus novis quam tuis litteris delector. ego mecum praeter Dionysium eduxi neminem nec metuo tamen ne mihi sermo desit. † abs te opere† delector. tu Lucceio nostrum librum dabis. Demetri Magnetis tibi mitto, statim ut sit qui a te mihi epistulam referat.",
+      "eng": "Here we are devouring literature with that wonderful man (so by Hercules I find him), Dionysius, who sends greetings to you and to all of you. Of news, nothing [Greek: ouden]; and so write to me as to a curious man what the first day brought, what the second, what the censors did, what Appius did, what your Appulean lady the people. In short, what you yourself are about, write to me also. For, to speak truly, I am not so much delighted by what is new as by your letters. With me I have brought no one besides Dionysius, and yet I do not fear that conversation will fail me. [crux] I am much delighted by you. [crux] You will give Lucceius my book. Demetrius of Magnesia's I send you, so that you may have someone at hand to bring me a letter back from you.",
+      "notes": "section 2 carries a corrupt passage (`abs te opere`) marked with daggers in modern editions; rendered with brackets in the English."
+    }
+  ]
+}
