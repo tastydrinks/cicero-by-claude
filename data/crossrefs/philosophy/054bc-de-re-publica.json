@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "de-re-publica",
+  "refs": [
+    {
+      "from_loc": "1.10",
+      "to_work": "self",
+      "to_loc": "1.7",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Cicero refers back to his own consulship (63 BC) as the necessity that has called him out of philosophical otium."
+    },
+    {
+      "from_loc": "1.27",
+      "to_work": "de-officiis",
+      "to_loc": "3.1",
+      "kind": "echo",
+      "certainty": "low",
+      "note": "Cato's saying about being never less alone than when alone is also recalled in De Officiis 3.1; Cicero attributes it here through Cato's report of Africanus."
+    },
+    {
+      "from_loc": "2.27",
+      "to_work": "self",
+      "to_loc": "1.34",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Reference back to Polybius and Panaetius as Scipio's authorities for the mixed constitution."
+    },
+    {
+      "from_loc": "2.42",
+      "to_work": "self",
+      "to_loc": "1.42",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Scipio refers back to the threefold typology of states in book 1."
+    },
+    {
+      "from_loc": "2.50",
+      "to_work": "self",
+      "to_loc": "1.43",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "On the fragility of the kingly form, refers back to book 1's treatment of Cyrus."
+    },
+    {
+      "from_loc": "2.65",
+      "to_work": "self",
+      "to_loc": "1.42",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "On the threefold kinds of constitutions; Scipio refers Tubero back to book 1."
+    },
+    {
+      "from_loc": "3.43",
+      "to_work": "self",
+      "to_loc": "2.47",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "``As I said yesterday'': Scipio refers to book 2's account of the corrupt forms of state."
+    },
+    {
+      "from_loc": "6.9",
+      "to_work": "self",
+      "to_loc": "3.24",
+      "kind": "self_reference",
+      "certainty": "medium",
+      "note": "The Somnium, by recalling Africanus's military career, connects back to the discussion of empire and justice in book 3."
+    }
+  ]
+}

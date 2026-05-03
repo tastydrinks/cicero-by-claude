@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "de-re-publica",
+  "notes": [
+    {
+      "loc": "1.14",
+      "anchor": "the Latin holidays",
+      "entity_id": null,
+      "note": "Feriae Latinae: a moveable festival held on the Alban Mount in commemoration of the Latin League, with all magistrates absent from Rome. The four-day vacation gave the leisure for the dialogue's setting in 129 BC."
+    },
+    {
+      "loc": "1.15",
+      "anchor": "two suns reported in the senate",
+      "entity_id": null,
+      "note": "A parhelion (atmospheric phenomenon producing a second image of the sun) reported as a public prodigy in 129 BC. The dialogue uses it to introduce questions about the natural philosophy and the political analogy: a state with two senates and two peoples."
+    },
+    {
+      "loc": "1.21",
+      "anchor": "the celestial globe",
+      "entity_id": "person:archimedes",
+      "note": "An orrery built by Archimedes at Syracuse and brought to Rome by M. Marcellus when the city fell in 212 BC; one solid (a star-globe) and one mechanical (an armillary sphere reproducing the motions of sun, moon, and the five planets). Cicero's description is the principal classical evidence for it."
+    },
+    {
+      "loc": "1.39",
+      "anchor": "the affair of the people",
+      "entity_id": null,
+      "note": "Res publica is here defined as res populi, ``the affair of a people''; with populus defined a moment later as not any gathering of men but a multitude bound together by agreement of right (iuris consensus) and shared interest (utilitatis communio). The double definition is the philosophical heart of book 1."
+    },
+    {
+      "loc": "2.16",
+      "anchor": "the auspices",
+      "entity_id": null,
+      "note": "Public divination by observing the flight and behaviour of birds, instituted by Romulus as one of the foundations of the state. The augurs (a priestly college Cicero himself entered in 53 BC) interpreted them; without favourable auspices no public business could proceed."
+    },
+    {
+      "loc": "2.31",
+      "anchor": "the religion of the fetiales",
+      "entity_id": null,
+      "note": "Fetial law: the priestly college (\\textit{fetiales}) ritualised the declaration of war by demanding redress, then casting a sacred spear into enemy territory at the end of a thirty-day grace period. Cicero's just-war theory in book 3 rests on this institution."
+    },
+    {
+      "loc": "2.39",
+      "anchor": "centuriate organization",
+      "entity_id": "person:servius-tullius",
+      "note": "The Servian arrangement of the Roman people into census classes and centuries, weighted so that the wealthy held the deciding vote. Cicero takes it as the founding example of the Roman mixed constitution: liberty preserved without the dangers of equal voting weights."
+    },
+    {
+      "loc": "2.53",
+      "anchor": "the law on appeal",
+      "entity_id": null,
+      "note": "The lex Valeria de provocatione (509 BC, traditionally), guaranteeing every citizen the right of appeal to the assembly against summary corporal or capital punishment by a magistrate. Cicero treats it as the founding charter of Roman libertas."
+    },
+    {
+      "loc": "3.33",
+      "anchor": "true law is right reason agreeing with nature",
+      "entity_id": null,
+      "note": "The most famous passage in the work, preserved by Lactantius. Cicero's formulation of natural law as universal, eternal, divine, and binding on legislators themselves --- the seedbed of medieval natural-law theory and its passage through Aquinas to Grotius and the modern tradition."
+    },
+    {
+      "loc": "3.35",
+      "anchor": "fetial law",
+      "entity_id": null,
+      "note": "The famous Ciceronian definition: ``no war is just unless waged in answer to wrongdoing or to drive back enemies; no war is just unless declared, announced, with restitution demanded.'' The classical statement of just-war theory."
+    },
+    {
+      "loc": "4.1",
+      "anchor": "the figure of a beast in the figure of a man",
+      "entity_id": null,
+      "note": "Lactantius preserves Cicero's argument from Book 4 that to choose bestial soul over human form would be more wretched than any bodily transformation. The fragmentary remains of Book 4 turn on the formation of citizens through education, custom, and shame."
+    },
+    {
+      "loc": "5.1",
+      "anchor": "On ancient morals stands the Roman state, and on its men",
+      "entity_id": "person:ennius",
+      "note": "The famous opening of Book 5, preserved by Augustine, citing Ennius's line moribus antiquis res stat Romana virisque. Cicero's image of the painting fading with antiquity (his own age neglecting both colours and outline) is among the most resonant passages in the political tradition."
+    },
+    {
+      "loc": "6.9",
+      "anchor": "Somnium Scipionis",
+      "entity_id": null,
+      "note": "The Dream of Scipio, Cicero's answer to the closing myth of Plato's Republic. Preserved separately by Macrobius (whose neo-Platonic commentary, In Somnium Scipionis, made it one of the central philosophical texts of the medieval Latin tradition), it is the only continuous portion of Book 6 to survive."
+    },
+    {
+      "loc": "6.16",
+      "anchor": "the Milky Way",
+      "entity_id": null,
+      "note": "Cicero presents the Milky Way as the seat of the souls of preserving statesmen, taken (he says) from the Greeks. The cosmology blends Platonic, Stoic, and astronomical elements and would furnish, through Macrobius, a great deal of medieval Latin star-lore."
+    },
+    {
+      "loc": "6.18",
+      "anchor": "the harmony of the spheres",
+      "entity_id": null,
+      "note": "The Pythagorean doctrine that the rotating heavenly orbs sound a celestial music, inaudible to humans because we have always heard it. Through this passage and Macrobius's commentary the doctrine entered the medieval quadrivium of music, astronomy, geometry, arithmetic."
+    },
+    {
+      "loc": "6.27",
+      "anchor": "what is always moved is eternal",
+      "entity_id": null,
+      "note": "The closing argument of the Somnium, paraphrasing Plato's Phaedrus 245c-e on the soul as self-moving and so immortal. Augustine cites it admiringly in his Letter 137; it remains one of the most direct Latin transmissions of Platonic psychology."
+    }
+  ]
+}

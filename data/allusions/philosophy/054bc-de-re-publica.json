@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "de-re-publica",
+  "allusions": [
+    {
+      "loc": "1.3",
+      "surface": "great and imperious cities",
+      "suspected_source": "Ennius, Annales (urbes magnas atque imperiosas)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Cicero quotes Ennius by name."
+    },
+    {
+      "loc": "1.25",
+      "surface": "On the Nones of June the moon stood in the sun's path, and night",
+      "suspected_source": "Ennius, Annales (Nonis Iunis soli luna obstitit et nox)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Verbatim Ennian hexameter, cited as such."
+    },
+    {
+      "loc": "1.27",
+      "surface": "never less alone than when he is alone",
+      "suspected_source": "Cato Maior, attributed by Cicero",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Cicero attributes the saying to his grandfather Africanus, on Cato's report."
+    },
+    {
+      "loc": "1.30",
+      "surface": "the eminently sensible man, the shrewd Aelius Sextus",
+      "suspected_source": "Ennius, Annales (Egregie cordatus homo, catus Aelius Sextus)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Verbatim Ennian line cited."
+    },
+    {
+      "loc": "1.30",
+      "surface": "What watching is in heaven among the astrologers' signs",
+      "suspected_source": "Ennius, Iphigenia (the Achilles speech)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Lyric passage from Ennius's tragedy Iphigenia, quoted at length."
+    },
+    {
+      "loc": "1.30",
+      "surface": "wishes to philosophize, but in a few things",
+      "suspected_source": "Ennius (Neoptolemus speech)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Ennius's Neoptolemus, paraphrased by Cicero."
+    },
+    {
+      "loc": "1.49",
+      "surface": "no holy partnership of a kingdom is there, nor any faith",
+      "suspected_source": "Ennius, Annales (nulla regni sancta societas nec fides est)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Ennian hexameter cited by name."
+    },
+    {
+      "loc": "1.56",
+      "surface": "Aratus, who, beginning to speak of great matters, thinks one must begin from Jupiter",
+      "suspected_source": "Aratus, Phaenomena 1 (ek Dios archomestha)",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Cicero himself translated Aratus into Latin verse as a young man (the Aratea)."
+    },
+    {
+      "loc": "1.56",
+      "surface": "as Homer says, with a nod turns the whole of Olympus",
+      "suspected_source": "Homer, Iliad 1.528-30 (the nod of Zeus)",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Cicero referencing the famous nod of Zeus in the Iliad."
+    },
+    {
+      "loc": "1.64",
+      "surface": "their hearts long while are held by yearning, after the death of the best king",
+      "suspected_source": "Ennius, Annales (the death of Romulus)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Verbatim Ennian fragment, cited as such."
+    },
+    {
+      "loc": "1.64",
+      "surface": "O Romulus, divine Romulus, what guardian of his country the gods made you",
+      "suspected_source": "Ennius, Annales (the death of Romulus)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Continuation of the same Ennian passage on Romulus's apotheosis."
+    },
+    {
+      "loc": "1.65",
+      "surface": "When the unfillable throats of the people have parched with the thirst of liberty",
+      "suspected_source": "Plato, Republic 8.562c-563e",
+      "kind": "paraphrase",
+      "certainty": "high",
+      "translator_note": "Cicero is openly translating from Plato's Republic on the cycle from democracy to tyranny."
+    },
+    {
+      "loc": "3.6",
+      "surface": "whom no man could surpass with iron or with gold",
+      "suspected_source": "Ennius (on Manius Curius)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Ennian hexameter on M. Curius Dentatus."
+    },
+    {
+      "loc": "3.14",
+      "surface": "borne in a chariot of winged serpents",
+      "suspected_source": "Pacuvius, Medus or similar tragedy",
+      "kind": "quotation",
+      "certainty": "medium",
+      "translator_note": "Pacuvian tragic line; the source play is uncertain."
+    },
+    {
+      "loc": "3.33",
+      "surface": "true law is right reason agreeing with nature",
+      "suspected_source": "Stoic doctrine (Chrysippus, Diogenes of Babylon)",
+      "kind": "paraphrase",
+      "certainty": "high",
+      "translator_note": "Cicero adapts Stoic natural-law doctrine, perhaps with Posidonian intermediaries."
+    },
+    {
+      "loc": "5.1",
+      "surface": "On ancient morals stands the Roman state, and on its men",
+      "suspected_source": "Ennius, Annales (moribus antiquis res stat Romana virisque)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Famous Ennian hexameter, the opening of Book 5; preserved through Augustine."
+    },
+    {
+      "loc": "6.10",
+      "surface": "as Ennius writes about Homer",
+      "suspected_source": "Ennius, Annales 1 (the dream of Ennius)",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "The dream-vision of Homer at the opening of Ennius's Annales: Cicero's framing for the Somnium."
+    },
+    {
+      "loc": "6.27",
+      "surface": "what is always moved is eternal",
+      "suspected_source": "Plato, Phaedrus 245c-e (the soul's self-motion)",
+      "kind": "paraphrase",
+      "certainty": "high",
+      "translator_note": "Cicero closely paraphrases the famous Phaedrus argument for the immortality of the self-moving soul."
+    }
+  ]
+}

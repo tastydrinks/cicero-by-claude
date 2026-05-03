@@ -3602,6 +3602,553 @@
       ]
     },
     {
+      "id": "person:laelius-sapiens",
+      "type": "person",
+      "canonical_name": "Gaius Laelius Sapiens",
+      "short_name": "Laelius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman statesman (c. 188-after 129 BC), consul 140; close friend of Scipio Aemilianus. Second speaker of De Re Publica and namesake of De Amicitia.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "consular",
+        "philosophical-circle"
+      ]
+    },
+    {
+      "id": "person:l-furius-philus",
+      "type": "person",
+      "canonical_name": "Lucius Furius Philus",
+      "short_name": "Philus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman statesman, consul 136 BC; member of the Scipionic circle. In De Re Publica book 3 he takes up the Carneadean case against natural justice.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "consular",
+        "philosophical-circle"
+      ]
+    },
+    {
+      "id": "person:q-aelius-tubero",
+      "type": "person",
+      "canonical_name": "Quintus Aelius Tubero",
+      "short_name": "Tubero",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Stoic philosopher and jurist, nephew of Scipio Aemilianus through his sister; speaker in De Re Publica.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "philosophical-circle",
+        "stoic"
+      ]
+    },
+    {
+      "id": "person:m-manilius",
+      "type": "person",
+      "canonical_name": "Manius Manilius",
+      "short_name": "Manilius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman jurist, consul 149 BC; in command in Africa during the early stages of the Third Punic War. Speaker in De Re Publica.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "consular",
+        "jurist"
+      ]
+    },
+    {
+      "id": "person:sp-mummius",
+      "type": "person",
+      "canonical_name": "Spurius Mummius",
+      "short_name": "Mummius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman senator, brother of Lucius Mummius the destroyer of Corinth; member of the Scipionic circle and a speaker in De Re Publica.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "philosophical-circle"
+      ]
+    },
+    {
+      "id": "person:p-rutilius-rufus",
+      "type": "person",
+      "canonical_name": "Publius Rutilius Rufus",
+      "short_name": "Rutilius Rufus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman senator, consul 105 BC, Stoic philosopher, historian; condemned for extortion in 92 BC and exiled to Smyrna, where the young Cicero met him. Cicero credits him as the source of the De Re Publica conversation.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "consular",
+        "stoic"
+      ]
+    },
+    {
+      "id": "person:scipio-africanus-maior",
+      "type": "person",
+      "canonical_name": "Publius Cornelius Scipio Africanus",
+      "short_name": "Africanus the Elder",
+      "aliases": [
+        "Africanus"
+      ],
+      "external_ids": {
+        "wikidata": "Q3029"
+      },
+      "summary": "Roman general (236-183 BC), conqueror of Hannibal at Zama. Adoptive grandfather of Scipio Aemilianus; the speaker of the prophecy in the Somnium Scipionis.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "general",
+        "consular"
+      ]
+    },
+    {
+      "id": "person:l-aemilius-paulus",
+      "type": "person",
+      "canonical_name": "Lucius Aemilius Paulus Macedonicus",
+      "short_name": "Paulus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman general, consul 182 and 168 BC; conqueror of Perseus of Macedon at Pydna. Natural father of Scipio Aemilianus; speaker in the Somnium Scipionis.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "general",
+        "consular"
+      ]
+    },
+    {
+      "id": "person:masinissa",
+      "type": "person",
+      "canonical_name": "Masinissa",
+      "short_name": "Masinissa",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q11978"
+      },
+      "summary": "King of Numidia (c. 238-148 BC); ally of Rome from the Second Punic War onward. The setting host of the Somnium Scipionis.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "foreign-king",
+        "ally"
+      ]
+    },
+    {
+      "id": "person:romulus",
+      "type": "person",
+      "canonical_name": "Romulus",
+      "short_name": "Romulus",
+      "aliases": [
+        "Quirinus"
+      ],
+      "external_ids": {
+        "wikidata": "Q35820"
+      },
+      "summary": "Legendary founder and first king of Rome; deified after his death as Quirinus.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "regal",
+        "deified"
+      ]
+    },
+    {
+      "id": "person:numa-pompilius",
+      "type": "person",
+      "canonical_name": "Numa Pompilius",
+      "short_name": "Numa",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Second king of Rome, traditionally 715-673 BC; the Sabine king, founder of Roman religion and of the priestly colleges.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "regal"
+      ]
+    },
+    {
+      "id": "person:tullus-hostilius",
+      "type": "person",
+      "canonical_name": "Tullus Hostilius",
+      "short_name": "Tullus Hostilius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Third king of Rome, traditionally 673-642 BC; warrior-king who instituted the fetial law of just war.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "regal"
+      ]
+    },
+    {
+      "id": "person:ancus-marcius",
+      "type": "person",
+      "canonical_name": "Ancus Marcius",
+      "short_name": "Ancus Marcius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Fourth king of Rome, traditionally 642-617 BC; grandson of Numa, founder of Ostia.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "regal"
+      ]
+    },
+    {
+      "id": "person:tarquinius-priscus",
+      "type": "person",
+      "canonical_name": "Lucius Tarquinius Priscus",
+      "short_name": "Tarquinius Priscus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Fifth king of Rome, of Etruscan and Greek descent; son of Demaratus of Corinth.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "regal"
+      ]
+    },
+    {
+      "id": "person:servius-tullius",
+      "type": "person",
+      "canonical_name": "Servius Tullius",
+      "short_name": "Servius Tullius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Sixth king of Rome; instituted the centuriate organization of the Roman people by census class.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "regal"
+      ]
+    },
+    {
+      "id": "person:tarquinius-superbus",
+      "type": "person",
+      "canonical_name": "Lucius Tarquinius Superbus",
+      "short_name": "Tarquinius Superbus",
+      "aliases": [
+        "Tarquin"
+      ],
+      "external_ids": {},
+      "summary": "Seventh and last king of Rome, traditionally 535-509 BC; expelled after his son Sextus's rape of Lucretia, leading to the founding of the Republic.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "regal",
+        "tyrant"
+      ]
+    },
+    {
+      "id": "person:l-iunius-brutus",
+      "type": "person",
+      "canonical_name": "Lucius Iunius Brutus",
+      "short_name": "Brutus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Founder of the Roman Republic and one of the first two consuls (509 BC); led the expulsion of the Tarquins after the rape of Lucretia.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "consular",
+        "republican-founder"
+      ]
+    },
+    {
+      "id": "person:lucretia",
+      "type": "person",
+      "canonical_name": "Lucretia",
+      "short_name": "Lucretia",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Wife of Tarquinius Collatinus, raped by Sextus Tarquinius; her suicide precipitated the expulsion of the Tarquins.",
+      "first_appearance": "de-re-publica",
+      "categories": []
+    },
+    {
+      "id": "person:p-valerius-publicola",
+      "type": "person",
+      "canonical_name": "Publius Valerius Publicola",
+      "short_name": "Publicola",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "One of the first consuls of the Roman Republic (509 BC and three times after); carried the law on appeal (provocatio) and on lowering the rods to the people.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "consular",
+        "republican-founder"
+      ]
+    },
+    {
+      "id": "person:polybius",
+      "type": "person",
+      "canonical_name": "Polybius of Megalopolis",
+      "short_name": "Polybius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q170800"
+      },
+      "summary": "Greek historian (c. 200-118 BC), brought to Rome as a hostage; member of the Scipionic circle. His Histories analyse the Roman mixed constitution.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "historian",
+        "philosophical-circle"
+      ]
+    },
+    {
+      "id": "person:panaetius",
+      "type": "person",
+      "canonical_name": "Panaetius of Rhodes",
+      "short_name": "Panaetius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q353762"
+      },
+      "summary": "Stoic philosopher (c. 185-110 BC), head of the Stoa; close friend of Scipio Aemilianus and Laelius. Major source for Cicero's De Officiis.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "stoic",
+        "philosophical-circle"
+      ]
+    },
+    {
+      "id": "person:pythagoras",
+      "type": "person",
+      "canonical_name": "Pythagoras of Samos",
+      "short_name": "Pythagoras",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q10261"
+      },
+      "summary": "Greek philosopher and mathematician (sixth century BC); founder of the Pythagorean school in Croton.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "philosopher",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:archimedes",
+      "type": "person",
+      "canonical_name": "Archimedes of Syracuse",
+      "short_name": "Archimedes",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q8739"
+      },
+      "summary": "Greek mathematician and engineer (c. 287-212 BC), killed at the Roman capture of Syracuse. Inventor of the celestial globe described by Sulpicius Gallus in De Re Publica book 1.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "mathematician",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:c-sulpicius-gallus",
+      "type": "person",
+      "canonical_name": "Gaius Sulpicius Gallus",
+      "short_name": "Sulpicius Gallus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman astronomer and statesman, consul 166 BC; predicted the lunar eclipse before the battle of Pydna for L. Aemilius Paulus.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "consular",
+        "astronomer"
+      ]
+    },
+    {
+      "id": "person:lycurgus",
+      "type": "person",
+      "canonical_name": "Lycurgus of Sparta",
+      "short_name": "Lycurgus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Legendary Spartan lawgiver; established the dual kingship, the gerousia, and the famous discipline of the Spartan state.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "lawgiver",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:solon",
+      "type": "person",
+      "canonical_name": "Solon",
+      "short_name": "Solon",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q83055"
+      },
+      "summary": "Athenian lawgiver and one of the Seven Sages of Greece (c. 638-558 BC).",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "lawgiver",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:tiberius-gracchus",
+      "type": "person",
+      "canonical_name": "Tiberius Sempronius Gracchus",
+      "short_name": "Tiberius Gracchus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q317125"
+      },
+      "summary": "Tribune of the plebs 133 BC; carrier of the agrarian law and the Pergamene-inheritance bill; killed by senatorial opponents in 133. The breaking-point of De Re Publica's framing time.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "tribunician",
+        "popularis"
+      ]
+    },
+    {
+      "id": "person:miltiades",
+      "type": "person",
+      "canonical_name": "Miltiades the Younger",
+      "short_name": "Miltiades",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Athenian general, victor of Marathon (490 BC); died in Athenian prison after a fine he could not pay.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "general",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:themistocles",
+      "type": "person",
+      "canonical_name": "Themistocles",
+      "short_name": "Themistocles",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Athenian general, architect of the victory at Salamis (480 BC); ostracized and exiled to Persia, where he died.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "general",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:cyrus",
+      "type": "person",
+      "canonical_name": "Cyrus the Great",
+      "short_name": "Cyrus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q8423"
+      },
+      "summary": "Persian king and founder of the Achaemenid empire (c. 600-530 BC); for Cicero, the type of the just monarch.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "foreign-king"
+      ]
+    },
+    {
+      "id": "person:phalaris",
+      "type": "person",
+      "canonical_name": "Phalaris of Acragas",
+      "short_name": "Phalaris",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Tyrant of Acragas (sixth century BC); proverbial for cruelty (the brazen bull).",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "tyrant",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:dionysius-i",
+      "type": "person",
+      "canonical_name": "Dionysius I of Syracuse",
+      "short_name": "Dionysius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q170450"
+      },
+      "summary": "Tyrant of Syracuse (c. 432-367 BC); for Cicero, with Phalaris, the standard exemplar of tyranny.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "tyrant",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:archytas",
+      "type": "person",
+      "canonical_name": "Archytas of Tarentum",
+      "short_name": "Archytas",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Pythagorean philosopher, mathematician, and statesman (c. 428-347 BC); friend of Plato.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "philosopher",
+        "greek"
+      ]
+    },
+    {
+      "id": "place:carthago",
+      "type": "place",
+      "canonical_name": "Carthago",
+      "short_name": "Carthage",
+      "aliases": [
+        "Karthago"
+      ],
+      "external_ids": {
+        "pleiades": "314921"
+      },
+      "summary": "Phoenician city-state in North Africa; principal Mediterranean rival of Rome; destroyed in 146 BC by Scipio Aemilianus.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "rival-power",
+        "africa"
+      ]
+    },
+    {
+      "id": "place:syracusae",
+      "type": "place",
+      "canonical_name": "Syracusae",
+      "short_name": "Syracuse",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "462503"
+      },
+      "summary": "Greek colony in eastern Sicily; under Dionysius I and II, the seat of the most famous classical tyranny.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "sicily",
+        "greek-city"
+      ]
+    },
+    {
+      "id": "place:sparta",
+      "type": "place",
+      "canonical_name": "Sparta",
+      "short_name": "Sparta",
+      "aliases": [
+        "Lacedaemon"
+      ],
+      "external_ids": {
+        "pleiades": "570685"
+      },
+      "summary": "Doric city-state of the Peloponnese; with its dual kingship and gerousia, the prime classical example of the mixed constitution.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "greek-city",
+        "rival-constitution"
+      ]
+    },
+    {
+      "id": "place:athenae",
+      "type": "place",
+      "canonical_name": "Athenae",
+      "short_name": "Athens",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "579885"
+      },
+      "summary": "Principal city of Attica and seat of the most famous classical democracy; pre-eminent centre of Greek philosophy.",
+      "first_appearance": "de-re-publica",
+      "categories": [
+        "greek-city"
+      ]
+    },
+    {
       "id": "person:simonides",
       "type": "person",
       "canonical_name": "Simonides of Ceos",
