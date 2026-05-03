@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-07",
+  "mentions": [
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "Balbo", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "Quinto", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "Quintus", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "Britannia", "entity_id": "place:britannia", "in": "lat"},
+    {"loc": "1", "surface": "Britain", "entity_id": "place:britannia", "in": "eng"},
+    {"loc": "2", "surface": "Britannia", "entity_id": "place:britannia", "in": "lat"},
+    {"loc": "2", "surface": "Britain", "entity_id": "place:britannia", "in": "eng"},
+    {"loc": "2", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar's", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "frater meus", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "My brother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "Balbus", "entity_id": "person:l-cornelius-balbus", "in": "both"}
+  ]
+}

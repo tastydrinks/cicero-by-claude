@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-07",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.7",
+  "title_english": "Ad Familiares 7.7",
+  "date": "-0054-06-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego te commendare non desisto, sed quid proficiam ex te scire cupio. spem maximam habeo in Balbo, ad quem de te diligentissime et saepissime scribo. illud soleo mirari, non me totiens accipere tuas litteras, quotiens a Quinto mihi fratre adferantur. in Britannia nihil esse audio neque auri neque argenti.",
+      "eng": "I do not let off recommending you, but I should like to know what good I am doing through you. My greatest hope is in Balbus, to whom I write very carefully and very often about you. The thing I usually wonder at is that I do not get your letters as often as they are brought to me from my brother Quintus. I hear there is no gold or silver in Britain.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "id si ita est, essedum aliquod capias suadeo et ad nos quam primum recurras. sin autem sine Britannia tamen adsequi quod volumus possumus, perfice ut sis in familiaribus Caesaris. multum te in eo frater adiuvabit meus, multum Balbus, sed, mihi crede, tuus pudor et labor plurimum. † imperatorem liberalissimum, aetatem opportunissimam, commendationem certe singularem, ut tibi unum timendum sit ne ipse tibi defuisse videare.",
+      "eng": "If that is so, my advice is — grab some war-chariot and run back to us as soon as may be. But if even without Britain we can attain what we want, contrive to be among Caesar's intimates. My brother will help you greatly in this, Balbus greatly; but believe me, your own modesty and effort most of all. † A most generous commander, the most opportune time of life, a recommendation surely without parallel — the only thing for you to fear is that you may seem to have failed yourself.",
+      "notes": "Crux at start of last sentence; manuscripts mark a lacuna or corruption."
+    }
+  ]
+}
