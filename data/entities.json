@@ -6,256 +6,434 @@
       "type": "person",
       "canonical_name": "Marcus Tullius Cicero",
       "short_name": "Cicero",
-      "aliases": ["M. Cicero", "M. Tullius", "Tully"],
+      "aliases": [
+        "M. Cicero",
+        "M. Tullius",
+        "Tully"
+      ],
       "external_ids": {
         "dprr": "TulliusM.f.M.n.1529",
         "wikidata": "Q1541"
       },
       "summary": "The orator, statesman, and philosopher (106–43 BC); author of the corpus. Consul 63 BC.",
       "first_appearance": "pro-quinctio",
-      "categories": ["self"]
+      "categories": [
+        "self"
+      ]
     },
     {
       "id": "person:quintus-cicero",
       "type": "person",
       "canonical_name": "Quintus Tullius Cicero",
       "short_name": "Quintus",
-      "aliases": ["Q. Cicero", "Q. Tullius", "frater"],
-      "external_ids": {"wikidata": "Q310893"},
+      "aliases": [
+        "Q. Cicero",
+        "Q. Tullius",
+        "frater"
+      ],
+      "external_ids": {
+        "wikidata": "Q310893"
+      },
       "summary": "Cicero's younger brother (102–43 BC), praetor 62 BC, governor of Asia 61–58 BC, legate of Caesar in Gaul.",
       "first_appearance": "ad-atticum-01-05",
-      "categories": ["family"]
+      "categories": [
+        "family"
+      ]
     },
     {
       "id": "person:atticus",
       "type": "person",
       "canonical_name": "Titus Pomponius Atticus",
       "short_name": "Atticus",
-      "aliases": ["T. Pomponius", "Pomponius"],
-      "external_ids": {"wikidata": "Q368059"},
+      "aliases": [
+        "T. Pomponius",
+        "Pomponius"
+      ],
+      "external_ids": {
+        "wikidata": "Q368059"
+      },
       "summary": "Cicero's lifelong intimate (110–32 BC), wealthy Epicurean banker, recipient of the Ad Atticum letters; later Q. Cicero's brother-in-law.",
       "first_appearance": "ad-atticum-01-05",
-      "categories": ["correspondent", "epicurean"]
+      "categories": [
+        "correspondent",
+        "epicurean"
+      ]
     },
     {
       "id": "person:terentia",
       "type": "person",
       "canonical_name": "Terentia",
       "short_name": "Terentia",
-      "aliases": ["uxor"],
-      "external_ids": {"wikidata": "Q241525"},
+      "aliases": [
+        "uxor"
+      ],
+      "external_ids": {
+        "wikidata": "Q241525"
+      },
       "summary": "Cicero's first wife (c. 98–c. 6 BC), of independent property; mother of Tullia and Marcus the younger; divorced 46 BC.",
       "first_appearance": "ad-familiares-14-04",
-      "categories": ["family"]
+      "categories": [
+        "family"
+      ]
     },
     {
       "id": "person:tullia",
       "type": "person",
       "canonical_name": "Tullia Ciceronis",
       "short_name": "Tullia",
-      "aliases": ["filia"],
-      "external_ids": {"wikidata": "Q237872"},
+      "aliases": [
+        "filia"
+      ],
+      "external_ids": {
+        "wikidata": "Q237872"
+      },
       "summary": "Cicero's beloved daughter (c. 79–45 BC); married three times (Piso, Crassipes, Dolabella); died after childbirth in February 45 BC, an event that crushed Cicero.",
       "first_appearance": "ad-familiares-14-04",
-      "categories": ["family"]
+      "categories": [
+        "family"
+      ]
     },
     {
       "id": "person:marcus-cicero-younger",
       "type": "person",
       "canonical_name": "Marcus Tullius Cicero (the younger)",
       "short_name": "Cicero the younger",
-      "aliases": ["filius", "Marcus"],
-      "external_ids": {"wikidata": "Q462502"},
+      "aliases": [
+        "filius",
+        "Marcus"
+      ],
+      "external_ids": {
+        "wikidata": "Q462502"
+      },
       "summary": "Cicero's son (65 BC – c. 25 BC); studied at Athens; a tribune under Brutus and later consul under Augustus 30 BC.",
       "first_appearance": "ad-atticum-01-10",
-      "categories": ["family"]
+      "categories": [
+        "family"
+      ]
     },
     {
       "id": "person:hortensius",
       "type": "person",
       "canonical_name": "Quintus Hortensius Hortalus",
       "short_name": "Hortensius",
-      "aliases": ["Q. Hortensi", "Hortalus"],
-      "external_ids": {"wikidata": "Q317432"},
+      "aliases": [
+        "Q. Hortensi",
+        "Hortalus"
+      ],
+      "external_ids": {
+        "wikidata": "Q317432"
+      },
       "summary": "The leading orator of his generation before Cicero (114–50 BC); consul 69 BC. The opposing counsel in Pro Quinctio and the prosecutor in In Verrem; later a friend.",
       "first_appearance": "pro-quinctio",
-      "categories": ["orator", "rival", "later-friend"]
+      "categories": [
+        "orator",
+        "rival",
+        "later-friend"
+      ]
     },
     {
       "id": "person:caesar",
       "type": "person",
       "canonical_name": "Gaius Iulius Caesar",
       "short_name": "Caesar",
-      "aliases": ["C. Iulius", "C. Caesar"],
-      "external_ids": {"wikidata": "Q1048"},
+      "aliases": [
+        "C. Iulius",
+        "C. Caesar"
+      ],
+      "external_ids": {
+        "wikidata": "Q1048"
+      },
       "summary": "The conqueror of Gaul, dictator, and adversary of the Republic (100–44 BC); consul 59 BC; Cicero's patron in 56 BC after Luca; assassinated on the Ides of March.",
       "first_appearance": "pro-lege-manilia",
-      "categories": ["political", "dictator", "patron-then-adversary"]
+      "categories": [
+        "political",
+        "dictator",
+        "patron-then-adversary"
+      ]
     },
     {
       "id": "person:pompey",
       "type": "person",
       "canonical_name": "Gnaeus Pompeius Magnus",
       "short_name": "Pompey",
-      "aliases": ["Cn. Pompei", "Pompeius", "Magnus"],
-      "external_ids": {"wikidata": "Q125414"},
+      "aliases": [
+        "Cn. Pompei",
+        "Pompeius",
+        "Magnus"
+      ],
+      "external_ids": {
+        "wikidata": "Q125414"
+      },
       "summary": "The general (106–48 BC); consul 70, 55, 52 BC; conqueror of Mithridates; member of the First Triumvirate; defeated at Pharsalus and murdered in Egypt.",
       "first_appearance": "pro-lege-manilia",
-      "categories": ["general", "political", "ally"]
+      "categories": [
+        "general",
+        "political",
+        "ally"
+      ]
     },
     {
       "id": "person:crassus",
       "type": "person",
       "canonical_name": "Marcus Licinius Crassus",
       "short_name": "Crassus",
-      "aliases": ["M. Crassus", "M. Licinius"],
-      "external_ids": {"wikidata": "Q170509"},
+      "aliases": [
+        "M. Crassus",
+        "M. Licinius"
+      ],
+      "external_ids": {
+        "wikidata": "Q170509"
+      },
       "summary": "The wealthiest Roman of his age (115–53 BC); consul 70, 55 BC; suppressor of Spartacus; member of the First Triumvirate; killed at Carrhae.",
       "first_appearance": "in-verrem-actio-prima",
-      "categories": ["political", "financier"]
+      "categories": [
+        "political",
+        "financier"
+      ]
     },
     {
       "id": "person:cato-minor",
       "type": "person",
       "canonical_name": "Marcus Porcius Cato (Uticensis)",
       "short_name": "Cato",
-      "aliases": ["M. Cato", "Cato of Utica"],
-      "external_ids": {"wikidata": "Q220247"},
+      "aliases": [
+        "M. Cato",
+        "Cato of Utica"
+      ],
+      "external_ids": {
+        "wikidata": "Q220247"
+      },
       "summary": "The Stoic statesman (95–46 BC), great-grandson of the Censor; tribune 62 BC; champion of senatorial constitutionalism; suicide at Utica after Pharsalus.",
       "first_appearance": "in-catilinam-4",
-      "categories": ["political", "stoic", "moralist"]
+      "categories": [
+        "political",
+        "stoic",
+        "moralist"
+      ]
     },
     {
       "id": "person:clodius",
       "type": "person",
       "canonical_name": "Publius Clodius Pulcher",
       "short_name": "Clodius",
-      "aliases": ["P. Clodi", "Pulcher"],
-      "external_ids": {"wikidata": "Q310894"},
+      "aliases": [
+        "P. Clodi",
+        "Pulcher"
+      ],
+      "external_ids": {
+        "wikidata": "Q310894"
+      },
       "summary": "The popularis tribune (c. 93–52 BC) whose 58 BC bill drove Cicero into exile; a patrician adopted into a plebeian family to qualify for the tribunate; killed by Milo's gang on the Appian Way.",
       "first_appearance": "ad-atticum-01-12",
-      "categories": ["political-enemy", "tribune"]
+      "categories": [
+        "political-enemy",
+        "tribune"
+      ]
     },
     {
       "id": "person:catiline",
       "type": "person",
       "canonical_name": "Lucius Sergius Catilina",
       "short_name": "Catiline",
-      "aliases": ["L. Catilina", "Sergius"],
-      "external_ids": {"wikidata": "Q193466"},
+      "aliases": [
+        "L. Catilina",
+        "Sergius"
+      ],
+      "external_ids": {
+        "wikidata": "Q193466"
+      },
       "summary": "The patrician conspirator (c. 108–62 BC) whose plot against the consular government in 63 BC Cicero exposed and crushed; killed at the battle of Pistoria in January 62 BC.",
       "first_appearance": "in-catilinam-1",
-      "categories": ["political-enemy", "conspirator"]
+      "categories": [
+        "political-enemy",
+        "conspirator"
+      ]
     },
     {
       "id": "person:verres",
       "type": "person",
       "canonical_name": "Gaius Verres",
       "short_name": "Verres",
-      "aliases": ["C. Verres"],
-      "external_ids": {"wikidata": "Q310891"},
+      "aliases": [
+        "C. Verres"
+      ],
+      "external_ids": {
+        "wikidata": "Q310891"
+      },
       "summary": "Praetor and propraetor of Sicily 73–71 BC; prosecuted by Cicero for extortion in 70 BC; withdrew into exile after the first action.",
       "first_appearance": "divinatio-in-caecilium",
-      "categories": ["political-target"]
+      "categories": [
+        "political-target"
+      ]
     },
     {
       "id": "person:milo",
       "type": "person",
       "canonical_name": "Titus Annius Milo",
       "short_name": "Milo",
-      "aliases": ["T. Annius", "Milo Papianus"],
-      "external_ids": {"wikidata": "Q314725"},
+      "aliases": [
+        "T. Annius",
+        "Milo Papianus"
+      ],
+      "external_ids": {
+        "wikidata": "Q314725"
+      },
       "summary": "Tribune 57 BC; champion of Cicero's recall from exile; killed Clodius in the affray on the Appian Way in 52 BC; defended (unsuccessfully) by Cicero in Pro Milone.",
       "first_appearance": "ad-atticum-04-03",
-      "categories": ["political-ally", "tribune"]
+      "categories": [
+        "political-ally",
+        "tribune"
+      ]
     },
     {
       "id": "person:antony",
       "type": "person",
       "canonical_name": "Marcus Antonius",
       "short_name": "Antony",
-      "aliases": ["M. Antoni", "Marcus Antonius"],
-      "external_ids": {"wikidata": "Q43416"},
+      "aliases": [
+        "M. Antoni",
+        "Marcus Antonius"
+      ],
+      "external_ids": {
+        "wikidata": "Q43416"
+      },
       "summary": "Consul 44 BC, triumvir 43 BC; target of the fourteen Philippics; Cicero's death warrant came from him after the proscriptions of November 43 BC.",
       "first_appearance": "philippic-01",
-      "categories": ["political-enemy", "triumvir"]
+      "categories": [
+        "political-enemy",
+        "triumvir"
+      ]
     },
     {
       "id": "person:brutus",
       "type": "person",
       "canonical_name": "Marcus Iunius Brutus",
       "short_name": "Brutus",
-      "aliases": ["M. Brutus", "Brutus Caepio"],
-      "external_ids": {"wikidata": "Q1370"},
+      "aliases": [
+        "M. Brutus",
+        "Brutus Caepio"
+      ],
+      "external_ids": {
+        "wikidata": "Q1370"
+      },
       "summary": "The tyrannicide (85–42 BC); praetor 44 BC; one of the principal assassins of Caesar; recipient of the Ad Brutum letters; defeated and dead at Philippi.",
       "first_appearance": "ad-atticum-01-17",
-      "categories": ["political-ally", "tyrannicide", "correspondent"]
+      "categories": [
+        "political-ally",
+        "tyrannicide",
+        "correspondent"
+      ]
     },
     {
       "id": "person:dolabella",
       "type": "person",
       "canonical_name": "Publius Cornelius Dolabella",
       "short_name": "Dolabella",
-      "aliases": ["P. Dolabella"],
-      "external_ids": {"wikidata": "Q314804"},
+      "aliases": [
+        "P. Dolabella"
+      ],
+      "external_ids": {
+        "wikidata": "Q314804"
+      },
       "summary": "Caesarian, consul 44 BC, married to Tullia 50 BC. Charming and impossible; a constant source of correspondence-borne anxiety to Cicero.",
       "first_appearance": "ad-familiares-02-15",
-      "categories": ["political", "family-by-marriage"]
+      "categories": [
+        "political",
+        "family-by-marriage"
+      ]
     },
     {
       "id": "person:metellus-celer",
       "type": "person",
       "canonical_name": "Quintus Caecilius Metellus Celer",
       "short_name": "Metellus Celer",
-      "aliases": ["Q. Metellus", "Celer"],
-      "external_ids": {"wikidata": "Q521953"},
+      "aliases": [
+        "Q. Metellus",
+        "Celer"
+      ],
+      "external_ids": {
+        "wikidata": "Q521953"
+      },
       "summary": "Consul 60 BC; husband of Clodia (Catullus's Lesbia); died suddenly in 59 BC.",
       "first_appearance": "ad-familiares-05-01",
-      "categories": ["political"]
+      "categories": [
+        "political"
+      ]
     },
     {
       "id": "place:roma",
       "type": "place",
       "canonical_name": "Roma",
       "short_name": "Rome",
-      "aliases": ["Rome", "the City", "urbs"],
-      "external_ids": {"pleiades": "423025", "wikidata": "Q220"},
+      "aliases": [
+        "Rome",
+        "the City",
+        "urbs"
+      ],
+      "external_ids": {
+        "pleiades": "423025",
+        "wikidata": "Q220"
+      },
       "summary": "The capital. Almost every speech is delivered here; almost every letter is sent from or to here.",
       "first_appearance": "pro-quinctio",
-      "categories": ["italy", "city"]
+      "categories": [
+        "italy",
+        "city"
+      ]
     },
     {
       "id": "place:forum-romanum",
       "type": "place",
       "canonical_name": "Forum Romanum",
       "short_name": "the Forum",
-      "aliases": ["the Forum", "forum"],
-      "external_ids": {"pleiades": "423025"},
+      "aliases": [
+        "the Forum",
+        "forum"
+      ],
+      "external_ids": {
+        "pleiades": "423025"
+      },
       "summary": "The civic and judicial heart of Rome; site of the Rostra, the senatorial Curia, the basilicas where Cicero pleads.",
       "first_appearance": "pro-quinctio",
-      "categories": ["rome", "civic-space"]
+      "categories": [
+        "rome",
+        "civic-space"
+      ]
     },
     {
       "id": "place:senate-curia",
       "type": "place",
       "canonical_name": "Curia Hostilia / Curia Iulia",
       "short_name": "the Senate house",
-      "aliases": ["Curia"],
+      "aliases": [
+        "Curia"
+      ],
       "external_ids": {},
       "summary": "The chamber where the Senate met; on the north side of the Forum.",
       "first_appearance": "pro-quinctio",
-      "categories": ["rome", "civic-space"]
+      "categories": [
+        "rome",
+        "civic-space"
+      ]
     },
     {
       "id": "place:capitolium",
       "type": "place",
       "canonical_name": "Capitolium",
       "short_name": "the Capitol",
-      "aliases": ["Capitoline", "Capitoline Hill"],
-      "external_ids": {"pleiades": "423025"},
+      "aliases": [
+        "Capitoline",
+        "Capitoline Hill"
+      ],
+      "external_ids": {
+        "pleiades": "423025"
+      },
       "summary": "The chief hill of Rome, site of the temple of Jupiter Optimus Maximus, where the consuls take vows on the Kalends of January.",
       "first_appearance": "in-catilinam-3",
-      "categories": ["rome", "religious"]
+      "categories": [
+        "rome",
+        "religious"
+      ]
     },
     {
       "id": "place:thessalonica",
@@ -263,164 +441,245 @@
       "canonical_name": "Thessalonica",
       "short_name": "Thessalonica",
       "aliases": [],
-      "external_ids": {"pleiades": "491741"},
+      "external_ids": {
+        "pleiades": "491741"
+      },
       "summary": "Capital of Macedonia; Cicero's residence for most of his exile in 58 BC, in the household of the quaestor Plancius.",
       "first_appearance": "ad-atticum-03-08",
-      "categories": ["greece", "exile"]
+      "categories": [
+        "greece",
+        "exile"
+      ]
     },
     {
       "id": "place:dyrrachium",
       "type": "place",
       "canonical_name": "Dyrrachium",
       "short_name": "Dyrrachium",
-      "aliases": ["Durazzo"],
-      "external_ids": {"pleiades": "481801"},
+      "aliases": [
+        "Durazzo"
+      ],
+      "external_ids": {
+        "pleiades": "481801"
+      },
       "summary": "Adriatic port city of Epirus, terminus of the Via Egnatia; Cicero's residence in late 58 BC and the city he sailed from on returning from exile.",
       "first_appearance": "ad-atticum-03-22",
-      "categories": ["greece", "exile"]
+      "categories": [
+        "greece",
+        "exile"
+      ]
     },
     {
       "id": "place:brundisium",
       "type": "place",
       "canonical_name": "Brundisium",
       "short_name": "Brundisium",
-      "aliases": ["Brindisi"],
-      "external_ids": {"pleiades": "442589"},
+      "aliases": [
+        "Brindisi"
+      ],
+      "external_ids": {
+        "pleiades": "442589"
+      },
       "summary": "The principal port of southern Italy on the Adriatic; the embarkation and return point for Cicero's exile crossings.",
       "first_appearance": "ad-familiares-14-04",
-      "categories": ["italy", "port"]
+      "categories": [
+        "italy",
+        "port"
+      ]
     },
     {
       "id": "place:formiae",
       "type": "place",
       "canonical_name": "Formiae",
       "short_name": "Formiae",
-      "aliases": ["Formianum"],
-      "external_ids": {"pleiades": "432850"},
+      "aliases": [
+        "Formianum"
+      ],
+      "external_ids": {
+        "pleiades": "432850"
+      },
       "summary": "Coastal town in southern Latium; site of one of Cicero's villas, and the place of his murder in December 43 BC.",
       "first_appearance": "ad-atticum-01-04",
-      "categories": ["italy", "villa"]
+      "categories": [
+        "italy",
+        "villa"
+      ]
     },
     {
       "id": "place:tusculum",
       "type": "place",
       "canonical_name": "Tusculum",
       "short_name": "Tusculum",
-      "aliases": ["Tusculanum"],
-      "external_ids": {"pleiades": "423098"},
+      "aliases": [
+        "Tusculanum"
+      ],
+      "external_ids": {
+        "pleiades": "423098"
+      },
       "summary": "Hill town near Rome; site of Cicero's favourite villa and the setting of the Tusculan Disputations.",
       "first_appearance": "ad-atticum-01-05",
-      "categories": ["italy", "villa"]
+      "categories": [
+        "italy",
+        "villa"
+      ]
     },
     {
       "id": "place:antium",
       "type": "place",
       "canonical_name": "Antium",
       "short_name": "Antium",
-      "aliases": ["Anzio"],
-      "external_ids": {"pleiades": "422833"},
+      "aliases": [
+        "Anzio"
+      ],
+      "external_ids": {
+        "pleiades": "422833"
+      },
       "summary": "Coastal town south of Rome; site of one of Cicero's villas; setting of several Atticus letters.",
       "first_appearance": "ad-atticum-02-04",
-      "categories": ["italy", "villa"]
+      "categories": [
+        "italy",
+        "villa"
+      ]
     },
     {
       "id": "office:consul",
       "type": "office",
       "canonical_name": "consul",
       "short_name": "consul",
-      "aliases": ["consules"],
+      "aliases": [
+        "consules"
+      ],
       "external_ids": {},
       "summary": "Head of the Roman state; two were elected annually, gave their names to the year, commanded armies, and presided over the Senate.",
       "first_appearance": "pro-quinctio",
-      "categories": ["magistracy"]
+      "categories": [
+        "magistracy"
+      ]
     },
     {
       "id": "office:praetor",
       "type": "office",
       "canonical_name": "praetor",
       "short_name": "praetor",
-      "aliases": ["praetores"],
+      "aliases": [
+        "praetores"
+      ],
       "external_ids": {},
       "summary": "Annually-elected magistrate ranking below consul; presided over the standing courts and (as praetor urbanus) issued the annual edict that governed civil procedure.",
       "first_appearance": "pro-quinctio",
-      "categories": ["magistracy"]
+      "categories": [
+        "magistracy"
+      ]
     },
     {
       "id": "office:tribune",
       "type": "office",
       "canonical_name": "tribunus plebis",
       "short_name": "tribune of the plebs",
-      "aliases": ["tribunus", "tribuni"],
+      "aliases": [
+        "tribunus",
+        "tribuni"
+      ],
       "external_ids": {},
       "summary": "Magistrate of the plebs (ten elected annually); could veto magistrates and senatorial decrees and convoke the plebeian assembly.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["magistracy"]
+      "categories": [
+        "magistracy"
+      ]
     },
     {
       "id": "office:aedile",
       "type": "office",
       "canonical_name": "aedilis",
       "short_name": "aedile",
-      "aliases": ["aediles"],
+      "aliases": [
+        "aediles"
+      ],
       "external_ids": {},
       "summary": "Junior magistracy concerned with the city, the markets, and the public games; a stepping-stone to the praetorship.",
       "first_appearance": "in-verrem-actio-prima",
-      "categories": ["magistracy"]
+      "categories": [
+        "magistracy"
+      ]
     },
     {
       "id": "office:quaestor",
       "type": "office",
       "canonical_name": "quaestor",
       "short_name": "quaestor",
-      "aliases": ["quaestores"],
+      "aliases": [
+        "quaestores"
+      ],
       "external_ids": {},
       "summary": "Most junior of the regular magistracies; financial officers attached to the consuls and provincial governors.",
       "first_appearance": "in-verrem-actio-prima",
-      "categories": ["magistracy"]
+      "categories": [
+        "magistracy"
+      ]
     },
     {
       "id": "institution:senate",
       "type": "institution",
       "canonical_name": "Senatus Populi Romani",
       "short_name": "the Senate",
-      "aliases": ["Senate", "patres conscripti"],
+      "aliases": [
+        "Senate",
+        "patres conscripti"
+      ],
       "external_ids": {},
       "summary": "The deliberative body of the Roman state, composed of ex-magistrates; addressed by Cicero as patres conscripti. Issued senatus consulta which had moral but not legal force.",
       "first_appearance": "pro-quinctio",
-      "categories": ["governance"]
+      "categories": [
+        "governance"
+      ]
     },
     {
       "id": "institution:populus-romanus",
       "type": "institution",
       "canonical_name": "Populus Romanus",
       "short_name": "the Roman People",
-      "aliases": ["Roman People", "populus", "Quirites"],
+      "aliases": [
+        "Roman People",
+        "populus",
+        "Quirites"
+      ],
       "external_ids": {},
       "summary": "The sovereign assembled body of citizens; legislator and elector, addressed by Cicero from the Rostra as Quirites.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["governance"]
+      "categories": [
+        "governance"
+      ]
     },
     {
       "id": "institution:college-of-pontiffs",
       "type": "institution",
       "canonical_name": "Collegium Pontificum",
       "short_name": "College of Pontiffs",
-      "aliases": ["pontifices"],
+      "aliases": [
+        "pontifices"
+      ],
       "external_ids": {},
       "summary": "Chief Roman priestly college, headed by the pontifex maximus; jurisdiction over sacral law, including consecration of property.",
       "first_appearance": "de-domo-sua",
-      "categories": ["religious"]
+      "categories": [
+        "religious"
+      ]
     },
     {
       "id": "god:jupiter",
       "type": "god",
       "canonical_name": "Iuppiter Optimus Maximus",
       "short_name": "Jupiter",
-      "aliases": ["Iuppiter", "Iove"],
+      "aliases": [
+        "Iuppiter",
+        "Iove"
+      ],
       "external_ids": {},
       "summary": "Chief god of the Roman state, with his temple on the Capitol; addressed by consul Cicero in the Catilinarians.",
       "first_appearance": "in-catilinam-1",
-      "categories": ["state-cult"]
+      "categories": [
+        "state-cult"
+      ]
     },
     {
       "id": "god:vesta",
@@ -431,18 +690,24 @@
       "external_ids": {},
       "summary": "Goddess of the hearth; her cult was tended by the Vestal Virgins at the temple in the Forum.",
       "first_appearance": "de-domo-sua",
-      "categories": ["state-cult"]
+      "categories": [
+        "state-cult"
+      ]
     },
     {
       "id": "person:p-quinctius",
       "type": "person",
       "canonical_name": "Publius Quinctius",
       "short_name": "P. Quinctius",
-      "aliases": ["Quinctius"],
+      "aliases": [
+        "Quinctius"
+      ],
       "external_ids": {},
       "summary": "The defendant in Cicero's first surviving speech (81 BC); brother and heir of Gaius Quinctius; embroiled in a partnership dispute with Sextus Naevius.",
       "first_appearance": "pro-quinctio",
-      "categories": ["client"]
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:c-quinctius",
@@ -453,29 +718,42 @@
       "external_ids": {},
       "summary": "Brother of Publius Quinctius; partner with Sextus Naevius in a Gallic cattle and farming business; died in Gaul before the events of the speech.",
       "first_appearance": "pro-quinctio",
-      "categories": ["secondary"]
+      "categories": [
+        "secondary"
+      ]
     },
     {
       "id": "person:sex-naevius",
       "type": "person",
       "canonical_name": "Sextus Naevius",
       "short_name": "Sex. Naevius",
-      "aliases": ["Naevius"],
+      "aliases": [
+        "Naevius"
+      ],
       "external_ids": {},
       "summary": "The antagonist in Pro Quinctio; a sometime auctioneer turned partner of Gaius Quinctius in Gaul; the speech accuses him of attempting to seize P. Quinctius's goods by procedural fraud.",
       "first_appearance": "pro-quinctio",
-      "categories": ["adversary"]
+      "categories": [
+        "adversary"
+      ]
     },
     {
       "id": "person:c-aquilius-gallus",
       "type": "person",
       "canonical_name": "Gaius Aquilius Gallus",
       "short_name": "Aquilius",
-      "aliases": ["C. Aquili"],
-      "external_ids": {"wikidata": "Q1042192"},
+      "aliases": [
+        "C. Aquili"
+      ],
+      "external_ids": {
+        "wikidata": "Q1042192"
+      },
       "summary": "The praetor and jurist (d. c. 44 BC) presiding as iudex in Pro Quinctio; a celebrated authority on civil law, author of the actio de dolo malo.",
       "first_appearance": "pro-quinctio",
-      "categories": ["jurist", "magistrate"]
+      "categories": [
+        "jurist",
+        "magistrate"
+      ]
     },
     {
       "id": "person:m-iunius",
@@ -486,18 +764,24 @@
       "external_ids": {},
       "summary": "Quinctius's former advocate, absent on a fresh embassy when Pro Quinctio was delivered; Cicero replaced him at short notice.",
       "first_appearance": "pro-quinctio",
-      "categories": ["advocate"]
+      "categories": [
+        "advocate"
+      ]
     },
     {
       "id": "person:sex-alfenus",
       "type": "person",
       "canonical_name": "Sextus Alfenus",
       "short_name": "Sex. Alfenus",
-      "aliases": ["Alfenus"],
+      "aliases": [
+        "Alfenus"
+      ],
       "external_ids": {},
       "summary": "Quinctius's procurator at Rome and a relation of Sextus Naevius; tore down Naevius's notice of attachment and retook a slave Naevius had seized.",
       "first_appearance": "pro-quinctio",
-      "categories": ["procurator"]
+      "categories": [
+        "procurator"
+      ]
     },
     {
       "id": "person:m-trebellius",
@@ -508,7 +792,9 @@
       "external_ids": {},
       "summary": "Common acquaintance of Naevius and Quinctius, named by Naevius as his arbiter in the partnership dispute.",
       "first_appearance": "pro-quinctio",
-      "categories": ["arbiter"]
+      "categories": [
+        "arbiter"
+      ]
     },
     {
       "id": "person:l-albius",
@@ -519,7 +805,9 @@
       "external_ids": {},
       "summary": "Quinctius's travel companion to Gaul on 29 January 83 BC, named in the speech as a respectable witness to the date of departure.",
       "first_appearance": "pro-quinctio",
-      "categories": ["witness"]
+      "categories": [
+        "witness"
+      ]
     },
     {
       "id": "person:l-publicius",
@@ -530,7 +818,9 @@
       "external_ids": {},
       "summary": "An associate of Naevius bringing slaves for sale from Gaul; sighted Quinctius at Vada Volaterrana and reported it to Naevius, triggering the procedural ambush.",
       "first_appearance": "pro-quinctio",
-      "categories": ["informant"]
+      "categories": [
+        "informant"
+      ]
     },
     {
       "id": "person:burrienus",
@@ -541,7 +831,9 @@
       "external_ids": {},
       "summary": "Praetor at Rome at the time Naevius applied to attach Quinctius's goods; his order to advertise the sale is the procedural anchor of the speech.",
       "first_appearance": "pro-quinctio",
-      "categories": ["magistrate"]
+      "categories": [
+        "magistrate"
+      ]
     },
     {
       "id": "person:cn-dolabella-praetor",
@@ -552,18 +844,24 @@
       "external_ids": {},
       "summary": "The praetor (NOT P. Cornelius Dolabella the consul) before whom Naevius later sought to compel the sponsio that became the form of action in Pro Quinctio.",
       "first_appearance": "pro-quinctio",
-      "categories": ["magistrate"]
+      "categories": [
+        "magistrate"
+      ]
     },
     {
       "id": "person:p-scapula",
       "type": "person",
       "canonical_name": "Publius Scapula",
       "short_name": "P. Scapula",
-      "aliases": ["Scapulae"],
+      "aliases": [
+        "Scapulae"
+      ],
       "external_ids": {},
       "summary": "Creditor of Gaius Quinctius; on his death the debt to his children had to be settled by Publius Quinctius, the Scapula children handled by Aquilius's good offices.",
       "first_appearance": "pro-quinctio",
-      "categories": ["creditor"]
+      "categories": [
+        "creditor"
+      ]
     },
     {
       "id": "person:c-flaccus-imperator",
@@ -571,54 +869,87 @@
       "canonical_name": "Gaius Valerius Flaccus",
       "short_name": "C. Flaccus",
       "aliases": [],
-      "external_ids": {"wikidata": "Q5012099"},
+      "external_ids": {
+        "wikidata": "Q5012099"
+      },
       "summary": "Roman commander in Gaul at the time of the events of Pro Quinctio (83 BC); Quinctius took refuge with him after being driven from the partnership land.",
       "first_appearance": "pro-quinctio",
-      "categories": ["commander"]
+      "categories": [
+        "commander"
+      ]
     },
     {
       "id": "place:gallia",
       "type": "place",
       "canonical_name": "Gallia",
       "short_name": "Gaul",
-      "aliases": ["Gaul", "Gallia Cisalpina"],
-      "external_ids": {"pleiades": "991381"},
+      "aliases": [
+        "Gaul",
+        "Gallia Cisalpina"
+      ],
+      "external_ids": {
+        "pleiades": "991381"
+      },
       "summary": "The Roman province (Cisalpine, Transalpine, or both depending on context). In Pro Quinctio: the partnership's pasture land and Naevius's auction site; in the Caesarian letters: the theatre of the Gallic War.",
       "first_appearance": "pro-quinctio",
-      "categories": ["province"]
+      "categories": [
+        "province"
+      ]
     },
     {
       "id": "place:narbo",
       "type": "place",
       "canonical_name": "Narbo Martius",
       "short_name": "Narbo",
-      "aliases": ["Narbonne"],
-      "external_ids": {"pleiades": "246218"},
+      "aliases": [
+        "Narbonne"
+      ],
+      "external_ids": {
+        "pleiades": "246218"
+      },
       "summary": "Roman colony in Transalpine Gaul (founded 118 BC); in Pro Quinctio, the proposed site for an auction Quinctius was dissuaded from holding.",
       "first_appearance": "pro-quinctio",
-      "categories": ["province", "colony"]
+      "categories": [
+        "province",
+        "colony"
+      ]
     },
     {
       "id": "place:vada-volaterrana",
       "type": "place",
       "canonical_name": "Vada Volaterrana",
       "short_name": "Vada Volaterrana",
-      "aliases": ["Vada"],
-      "external_ids": {"pleiades": "413356"},
+      "aliases": [
+        "Vada"
+      ],
+      "external_ids": {
+        "pleiades": "413356"
+      },
       "summary": "Coastal location in Etruria; the place where Quinctius was sighted by Publicius travelling to Gaul on 29 January 83 BC.",
       "first_appearance": "pro-quinctio",
-      "categories": ["italy", "coastal"]
+      "categories": [
+        "italy",
+        "coastal"
+      ]
     },
     {
       "id": "place:templum-castoris",
       "type": "place",
       "canonical_name": "Aedes Castoris",
       "short_name": "Temple of Castor",
-      "aliases": ["Ad Castoris"],
-      "external_ids": {"pleiades": "423025"},
+      "aliases": [
+        "Ad Castoris"
+      ],
+      "external_ids": {
+        "pleiades": "423025"
+      },
       "summary": "Temple in the Forum, used in Cicero's day for public business and as a checking point for treasury account-balances; mentioned in Pro Quinctio §17.",
       "first_appearance": "pro-quinctio",
-      "categories": ["rome", "religious", "civic-space"]
+      "categories": [
+        "rome",
+        "religious",
+        "civic-space"
+      ]
     },
     {
       "id": "place:atria-licinia",
@@ -629,7 +960,10 @@
       "external_ids": {},
       "summary": "Auction halls at Rome; Cicero invokes them in Pro Quinctio as the milieu of Naevius the auctioneer.",
       "first_appearance": "pro-quinctio",
-      "categories": ["rome", "commercial"]
+      "categories": [
+        "rome",
+        "commercial"
+      ]
     },
     {
       "id": "place:tabula-sextia",
@@ -640,7 +974,10 @@
       "external_ids": {},
       "summary": "A money-changer's table or bank in the Forum; the spot where Naevius staged his witness-testifying that Quinctius had not appeared.",
       "first_appearance": "pro-quinctio",
-      "categories": ["rome", "commercial"]
+      "categories": [
+        "rome",
+        "commercial"
+      ]
     },
     {
       "id": "office:procurator",
@@ -651,40 +988,58 @@
       "external_ids": {},
       "summary": "Legally-authorised agent or attorney for an absent principal; central to Pro Quinctio, where Sex. Alfenus stands in for the absent Quinctius.",
       "first_appearance": "pro-quinctio",
-      "categories": ["legal-role"]
+      "categories": [
+        "legal-role"
+      ]
     },
     {
       "id": "law:edictum-praetoris",
       "type": "law",
       "canonical_name": "edictum praetoris",
       "short_name": "praetor's edict",
-      "aliases": ["edict"],
+      "aliases": [
+        "edict"
+      ],
       "external_ids": {},
       "summary": "The annual edict in which each praetor laid out the formulae and remedies he would grant in his year of office; the framework of Roman civil procedure.",
       "first_appearance": "pro-quinctio",
-      "categories": ["civil-law"]
+      "categories": [
+        "civil-law"
+      ]
     },
     {
       "id": "institution:aerarium",
       "type": "institution",
       "canonical_name": "Aerarium Saturni",
       "short_name": "the Treasury",
-      "aliases": ["aerarium"],
+      "aliases": [
+        "aerarium"
+      ],
       "external_ids": {},
       "summary": "The Roman state treasury, housed in the temple of Saturn; under quaestorian custody.",
       "first_appearance": "pro-quinctio",
-      "categories": ["finance"]
+      "categories": [
+        "finance"
+      ]
     },
     {
       "id": "person:sulla",
       "type": "person",
       "canonical_name": "Lucius Cornelius Sulla Felix",
       "short_name": "Sulla",
-      "aliases": ["L. Sulla", "Sulla Felix"],
-      "external_ids": {"wikidata": "Q1632"},
+      "aliases": [
+        "L. Sulla",
+        "Sulla Felix"
+      ],
+      "external_ids": {
+        "wikidata": "Q1632"
+      },
       "summary": "The dictator (138–78 BC); marched on Rome twice; victor of the civil war of 83–82 BC; abdicated 79 BC. The proscriptions of his regime are the political background of Pro Roscio Amerino.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["political", "dictator"]
+      "categories": [
+        "political",
+        "dictator"
+      ]
     },
     {
       "id": "person:chrysogonus",
@@ -692,21 +1047,29 @@
       "canonical_name": "Lucius Cornelius Chrysogonus",
       "short_name": "Chrysogonus",
       "aliases": [],
-      "external_ids": {"wikidata": "Q1331437"},
+      "external_ids": {
+        "wikidata": "Q1331437"
+      },
       "summary": "Sulla's most influential freedman, in charge of the proscription auctions; the unnamed power behind the prosecution in Pro Roscio Amerino.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["adversary"]
+      "categories": [
+        "adversary"
+      ]
     },
     {
       "id": "person:sex-roscius-amerinus",
       "type": "person",
       "canonical_name": "Sextus Roscius Amerinus (the younger)",
       "short_name": "Sex. Roscius (the younger)",
-      "aliases": ["Roscius"],
+      "aliases": [
+        "Roscius"
+      ],
       "external_ids": {},
       "summary": "Defendant in Pro Roscio Amerino; son of the murdered Sex. Roscius the elder; charged with parricide.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["client"]
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:sex-roscius-amerinus-pater",
@@ -717,29 +1080,39 @@
       "external_ids": {},
       "summary": "Murdered father in Pro Roscio Amerino; first man of Ameria, friend of the Metelli, the Servilii, the Scipios; killed near the Pallacinian baths in 81 BC.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["secondary"]
+      "categories": [
+        "secondary"
+      ]
     },
     {
       "id": "person:t-roscius-magnus",
       "type": "person",
       "canonical_name": "Titus Roscius Magnus",
       "short_name": "T. Roscius Magnus",
-      "aliases": ["Magnus"],
+      "aliases": [
+        "Magnus"
+      ],
       "external_ids": {},
       "summary": "Cousin of the murdered Sex. Roscius; named by Cicero as one of the actual murderers and conspirators with Chrysogonus.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["adversary"]
+      "categories": [
+        "adversary"
+      ]
     },
     {
       "id": "person:t-roscius-capito",
       "type": "person",
       "canonical_name": "Titus Roscius Capito",
       "short_name": "T. Roscius Capito",
-      "aliases": ["Capito"],
+      "aliases": [
+        "Capito"
+      ],
       "external_ids": {},
       "summary": "Cousin of the murdered Sex. Roscius; named by Cicero as one of the murderers and conspirators with Chrysogonus.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["adversary"]
+      "categories": [
+        "adversary"
+      ]
     },
     {
       "id": "person:erucius",
@@ -750,7 +1123,9 @@
       "external_ids": {},
       "summary": "Prosecutor in Pro Roscio Amerino; Cicero treats him with deliberate contempt as a hireling of the Roscii.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["adversary"]
+      "categories": [
+        "adversary"
+      ]
     },
     {
       "id": "person:caecilia-metella",
@@ -761,73 +1136,110 @@
       "external_ids": {},
       "summary": "Roman noblewoman, daughter of Q. Caecilius Metellus Balearicus; sheltered Sex. Roscius the younger after his father's murder.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["family"]
+      "categories": [
+        "family"
+      ]
     },
     {
       "id": "person:m-valerius-messalla-niger",
       "type": "person",
       "canonical_name": "Marcus Valerius Messalla Niger",
       "short_name": "Messalla",
-      "aliases": ["M. Messalla"],
-      "external_ids": {"wikidata": "Q3284253"},
+      "aliases": [
+        "M. Messalla"
+      ],
+      "external_ids": {
+        "wikidata": "Q3284253"
+      },
       "summary": "Young noble who took up Roscius's cause and brought it to court; later consul 61 BC.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["political-ally"]
+      "categories": [
+        "political-ally"
+      ]
     },
     {
       "id": "place:ameria",
       "type": "place",
       "canonical_name": "Ameria",
       "short_name": "Ameria",
-      "aliases": ["Amelia"],
-      "external_ids": {"pleiades": "412682"},
+      "aliases": [
+        "Amelia"
+      ],
+      "external_ids": {
+        "pleiades": "412682"
+      },
       "summary": "Umbrian municipality; home of the Roscii in the case of Pro Roscio Amerino.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["italy", "municipium"]
+      "categories": [
+        "italy",
+        "municipium"
+      ]
     },
     {
       "id": "place:volaterrae",
       "type": "place",
       "canonical_name": "Volaterrae",
       "short_name": "Volaterrae",
-      "aliases": ["Volterra"],
-      "external_ids": {"pleiades": "413352"},
+      "aliases": [
+        "Volterra"
+      ],
+      "external_ids": {
+        "pleiades": "413352"
+      },
       "summary": "Etruscan town; site of Sulla's camp during the closing campaign of the civil war (81 BC).",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["italy"]
+      "categories": [
+        "italy"
+      ]
     },
     {
       "id": "law:proscriptions-of-sulla",
       "type": "event",
       "canonical_name": "Sullan proscriptions",
       "short_name": "the proscriptions",
-      "aliases": ["proscriptiones"],
+      "aliases": [
+        "proscriptiones"
+      ],
       "external_ids": {},
       "summary": "Lists of citizens declared outlaw under Sulla in 82–81 BC; their lives forfeit and their property auctioned to the dictator's followers. Pro Roscio Amerino is the first oblique attack on the proscriptions in surviving Latin literature.",
       "first_appearance": "pro-roscio-amerino",
-      "categories": ["civil-war"]
+      "categories": [
+        "civil-war"
+      ]
     },
     {
       "id": "person:q-roscius-comoedus",
       "type": "person",
       "canonical_name": "Quintus Roscius Gallus",
       "short_name": "Q. Roscius",
-      "aliases": ["Roscius the actor", "Roscius comoedus"],
-      "external_ids": {"wikidata": "Q319057"},
+      "aliases": [
+        "Roscius the actor",
+        "Roscius comoedus"
+      ],
+      "external_ids": {
+        "wikidata": "Q319057"
+      },
       "summary": "The most celebrated Roman comic actor of his day (d. c. 62 BC); a friend of Cicero, who acknowledged learning oratorical delivery from him; defendant in Pro Roscio Comoedo.",
       "first_appearance": "pro-roscio-comoedo",
-      "categories": ["actor", "friend"]
+      "categories": [
+        "actor",
+        "friend"
+      ]
     },
     {
       "id": "person:c-fannius-chaerea",
       "type": "person",
       "canonical_name": "Gaius Fannius Chaerea",
       "short_name": "Chaerea",
-      "aliases": ["C. Fannius"],
+      "aliases": [
+        "C. Fannius"
+      ],
       "external_ids": {},
       "summary": "Prosecutor in Pro Roscio Comoedo; suing Roscius the actor over a partnership in the slave-actor Panurgus.",
       "first_appearance": "pro-roscio-comoedo",
-      "categories": ["adversary"]
+      "categories": [
+        "adversary"
+      ]
     },
     {
       "id": "person:c-calpurnius-piso-frugi",
@@ -838,7 +1250,10 @@
       "external_ids": {},
       "summary": "Judge addressed by Cicero in Pro Roscio Comoedo; consul 67 BC.",
       "first_appearance": "pro-roscio-comoedo",
-      "categories": ["judge", "political"]
+      "categories": [
+        "judge",
+        "political"
+      ]
     },
     {
       "id": "person:m-tullius-plaintiff",
@@ -849,7 +1264,9 @@
       "external_ids": {},
       "summary": "Plaintiff in Pro Tullio (NOT the orator); his slaves and pasture were attacked by armed slaves of P. Fabius.",
       "first_appearance": "pro-tullio",
-      "categories": ["client"]
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:p-fabius-defendant",
@@ -860,7 +1277,9 @@
       "external_ids": {},
       "summary": "Defendant in Pro Tullio; admitted (through his counsel L. Quinctius) that his armed slaves had attacked the plaintiff's establishment.",
       "first_appearance": "pro-tullio",
-      "categories": ["adversary"]
+      "categories": [
+        "adversary"
+      ]
     },
     {
       "id": "person:l-quinctius-tribune",
@@ -871,7 +1290,10 @@
       "external_ids": {},
       "summary": "Counsel for the defence in Pro Tullio; tribune 74 BC, an opponent of senatorial control of the courts.",
       "first_appearance": "pro-tullio",
-      "categories": ["adversary", "tribune"]
+      "categories": [
+        "adversary",
+        "tribune"
+      ]
     },
     {
       "id": "person:m-lucullus-praetor",
@@ -879,10 +1301,15 @@
       "canonical_name": "Marcus Terentius Varro Lucullus",
       "short_name": "M. Lucullus",
       "aliases": [],
-      "external_ids": {"wikidata": "Q1340488"},
+      "external_ids": {
+        "wikidata": "Q1340488"
+      },
       "summary": "Brother of L. Lucullus; praetor 76 BC, instituted the formula for damnum vi armata datum which is the form of action in Pro Tullio; consul 73 BC.",
       "first_appearance": "pro-tullio",
-      "categories": ["jurist", "magistrate"]
+      "categories": [
+        "jurist",
+        "magistrate"
+      ]
     },
     {
       "id": "law:damnum-vi-armata-datum",
@@ -893,62 +1320,100 @@
       "external_ids": {},
       "summary": "Civil action for damage done by armed force, instituted by M. Lucullus as praetor in 76 BC; the form of action in Pro Tullio.",
       "first_appearance": "pro-tullio",
-      "categories": ["civil-law"]
+      "categories": [
+        "civil-law"
+      ]
     },
     {
       "id": "person:hiero-ii",
       "type": "person",
       "canonical_name": "Hiero II of Syracuse",
       "short_name": "Hiero",
-      "aliases": ["Hieron"],
-      "external_ids": {"wikidata": "Q316524"},
+      "aliases": [
+        "Hieron"
+      ],
+      "external_ids": {
+        "wikidata": "Q316524"
+      },
       "summary": "King of Syracuse (270–215 BC); a steady ally of Rome through the Punic Wars; framer of the lex Hieronica that governed Sicilian grain taxation under the Roman province.",
       "first_appearance": "in-verrem-2-3",
-      "categories": ["sicily", "king"]
+      "categories": [
+        "sicily",
+        "king"
+      ]
     },
     {
       "id": "place:syracusae",
       "type": "place",
       "canonical_name": "Syracusae",
       "short_name": "Syracuse",
-      "aliases": ["Syracusa"],
-      "external_ids": {"pleiades": "462503"},
+      "aliases": [
+        "Syracusa"
+      ],
+      "external_ids": {
+        "pleiades": "462503"
+      },
       "summary": "Capital of Roman Sicily; centre of Verres's depredations; site of the Achradina executions and the Latomiae quarry-prison in In Verrem II.5.",
       "first_appearance": "in-verrem-2-2",
-      "categories": ["sicily", "city"]
+      "categories": [
+        "sicily",
+        "city"
+      ]
     },
     {
       "id": "place:messana",
       "type": "place",
       "canonical_name": "Messana",
       "short_name": "Messana",
-      "aliases": ["Messina"],
-      "external_ids": {"pleiades": "462202"},
+      "aliases": [
+        "Messina"
+      ],
+      "external_ids": {
+        "pleiades": "462202"
+      },
       "summary": "City on the strait between Sicily and Italy; Verres's collaborators' city, and the site of the cross facing Italy on which Cicero's Roman citizen Publius Gavius was hung.",
       "first_appearance": "in-verrem-2-4",
-      "categories": ["sicily", "city"]
+      "categories": [
+        "sicily",
+        "city"
+      ]
     },
     {
       "id": "place:henna",
       "type": "place",
       "canonical_name": "Henna",
       "short_name": "Henna",
-      "aliases": ["Enna"],
-      "external_ids": {"pleiades": "462138"},
+      "aliases": [
+        "Enna"
+      ],
+      "external_ids": {
+        "pleiades": "462138"
+      },
       "summary": "Sicilian hill-town of the Ceres cult, in the centre of the island; site of the rape of Proserpine in myth, and of Verres's stripping of the temple of Ceres in In Verrem II.4.",
       "first_appearance": "in-verrem-2-4",
-      "categories": ["sicily", "religious"]
+      "categories": [
+        "sicily",
+        "religious"
+      ]
     },
     {
       "id": "place:agrigentum",
       "type": "place",
       "canonical_name": "Agrigentum",
       "short_name": "Agrigentum",
-      "aliases": ["Akragas", "Agrigento"],
-      "external_ids": {"pleiades": "462049"},
+      "aliases": [
+        "Akragas",
+        "Agrigento"
+      ],
+      "external_ids": {
+        "pleiades": "462049"
+      },
       "summary": "Sicilian city on the south coast; site of the temple of Hercules whose statue Verres tried to remove in In Verrem II.4.",
       "first_appearance": "in-verrem-2-4",
-      "categories": ["sicily", "city"]
+      "categories": [
+        "sicily",
+        "city"
+      ]
     },
     {
       "id": "place:segesta",
@@ -956,10 +1421,15 @@
       "canonical_name": "Segesta",
       "short_name": "Segesta",
       "aliases": [],
-      "external_ids": {"pleiades": "462492"},
+      "external_ids": {
+        "pleiades": "462492"
+      },
       "summary": "Sicilian city in the west; site of the bronze Diana whose theft by Verres is one of the famous narrative passages of In Verrem II.4.",
       "first_appearance": "in-verrem-2-4",
-      "categories": ["sicily", "city"]
+      "categories": [
+        "sicily",
+        "city"
+      ]
     },
     {
       "id": "person:heius-mamertinus",
@@ -970,7 +1440,10 @@
       "external_ids": {},
       "summary": "Wealthy and respected citizen of Messana; his shrine of Eros, a small Cupid by Praxiteles, and a Hercules by Myron were taken by Verres in 73 BC; the principal opening victim of In Verrem II.4.",
       "first_appearance": "in-verrem-2-4",
-      "categories": ["sicily", "victim"]
+      "categories": [
+        "sicily",
+        "victim"
+      ]
     },
     {
       "id": "person:sthenius-thermitanus",
@@ -981,7 +1454,10 @@
       "external_ids": {},
       "summary": "Citizen of Thermae in Sicily; his trial in absentia by Verres on a fabricated capital charge is the central narrative of In Verrem II.2.",
       "first_appearance": "in-verrem-2-2",
-      "categories": ["sicily", "victim"]
+      "categories": [
+        "sicily",
+        "victim"
+      ]
     },
     {
       "id": "person:cleomenes-navarchus",
@@ -992,7 +1468,9 @@
       "external_ids": {},
       "summary": "Syracusan put in command of the Sicilian fleet by Verres in 71 BC; his abandonment of the fleet at Helorus and the resulting loss are the spine of In Verrem II.5.",
       "first_appearance": "in-verrem-2-5",
-      "categories": ["sicily"]
+      "categories": [
+        "sicily"
+      ]
     },
     {
       "id": "person:p-gavius-consanus",
@@ -1003,18 +1481,27 @@
       "external_ids": {},
       "summary": "Roman citizen of Consa whom Verres had crucified at Messana facing Italy; his cry \"civis Romanus sum\" is the architectural climax of In Verrem II.5.",
       "first_appearance": "in-verrem-2-5",
-      "categories": ["sicily", "victim", "roman-citizen"]
+      "categories": [
+        "sicily",
+        "victim",
+        "roman-citizen"
+      ]
     },
     {
       "id": "person:apronius",
       "type": "person",
       "canonical_name": "Quintus Apronius",
       "short_name": "Apronius",
-      "aliases": ["Q. Apronius"],
+      "aliases": [
+        "Q. Apronius"
+      ],
       "external_ids": {},
       "summary": "Verres's bagman in the Sicilian grain extortions; the principal villain of In Verrem II.3.",
       "first_appearance": "in-verrem-2-3",
-      "categories": ["sicily", "adversary"]
+      "categories": [
+        "sicily",
+        "adversary"
+      ]
     },
     {
       "id": "law:lex-hieronica",
@@ -1025,18 +1512,26 @@
       "external_ids": {},
       "summary": "Sicilian grain-tithe law inherited by Rome from the kingdom of Hiero II of Syracuse; framework for the tithe-farming Verres allegedly broke; central to In Verrem II.3.",
       "first_appearance": "in-verrem-2-3",
-      "categories": ["provincial-law"]
+      "categories": [
+        "provincial-law"
+      ]
     },
     {
       "id": "place:sicilia",
       "type": "place",
       "canonical_name": "Sicilia",
       "short_name": "Sicily",
-      "aliases": ["Sicilia provincia"],
-      "external_ids": {"pleiades": "462491"},
+      "aliases": [
+        "Sicilia provincia"
+      ],
+      "external_ids": {
+        "pleiades": "462491"
+      },
       "summary": "First Roman province (from 241 BC); subject of In Verrem; its cities supplied much of Rome's grain.",
       "first_appearance": "divinatio-in-caecilium",
-      "categories": ["province"]
+      "categories": [
+        "province"
+      ]
     },
     {
       "id": "person:caecina-volaterranus",
@@ -1047,7 +1542,9 @@
       "external_ids": {},
       "summary": "Defendant in Pro Caecina (69 BC); Etruscan landowner whose interdictum de vi armata claim against Aebutius is the form of action.",
       "first_appearance": "pro-caecina",
-      "categories": ["client"]
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:fonteius-defendant",
@@ -1058,7 +1555,10 @@
       "external_ids": {},
       "summary": "Former praetorian governor of Transalpine Gaul (76–73 BC); defendant in Pro Fonteio (69 BC), prosecuted for extortion by an embassy of Gauls under Indutiomarus.",
       "first_appearance": "pro-fonteio",
-      "categories": ["client", "governor"]
+      "categories": [
+        "client",
+        "governor"
+      ]
     },
     {
       "id": "person:cluentius",
@@ -1069,7 +1569,9 @@
       "external_ids": {},
       "summary": "Defendant in Pro Cluentio (66 BC); accused of poisoning his stepfather Oppianicus; Cicero's defence is the longest of the forensic speeches and turns on the eight-year shadow of the Junian trial.",
       "first_appearance": "pro-cluentio",
-      "categories": ["client"]
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:rabirius-perduellionis-reus",
@@ -1080,7 +1582,9 @@
       "external_ids": {},
       "summary": "Aged senator defended by Cicero in Pro Rabirio Perduellionis Reo (63 BC), revived charge of perduellio for the killing of the tribune L. Saturninus 37 years earlier in 100 BC.",
       "first_appearance": "pro-rabirio-perduellionis-reo",
-      "categories": ["client"]
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:saturninus-tribune",
@@ -1088,10 +1592,15 @@
       "canonical_name": "Lucius Appuleius Saturninus",
       "short_name": "Saturninus",
       "aliases": [],
-      "external_ids": {"wikidata": "Q310935"},
+      "external_ids": {
+        "wikidata": "Q310935"
+      },
       "summary": "Tribune 103 and 100 BC; killed by senatorial action under the senatus consultum ultimum in 100 BC, the precedent revived against Rabirius in 63 BC.",
       "first_appearance": "pro-rabirio-perduellionis-reo",
-      "categories": ["political", "tribune"]
+      "categories": [
+        "political",
+        "tribune"
+      ]
     },
     {
       "id": "person:rullus-tribune",
@@ -1102,7 +1611,11 @@
       "external_ids": {},
       "summary": "Tribune 63 BC; proposer of the agrarian bill against which Cicero spoke the three De Lege Agraria speeches.",
       "first_appearance": "de-lege-agraria-1",
-      "categories": ["political", "tribune", "adversary"]
+      "categories": [
+        "political",
+        "tribune",
+        "adversary"
+      ]
     },
     {
       "id": "person:lentulus-sura",
@@ -1110,10 +1623,15 @@
       "canonical_name": "Publius Cornelius Lentulus Sura",
       "short_name": "Lentulus",
       "aliases": [],
-      "external_ids": {"wikidata": "Q310890"},
+      "external_ids": {
+        "wikidata": "Q310890"
+      },
       "summary": "Praetor 63 BC, Catilinarian conspirator, executed in the Tullianum on Cicero's orders 5 December 63 BC.",
       "first_appearance": "in-catilinam-3",
-      "categories": ["political-enemy", "conspirator"]
+      "categories": [
+        "political-enemy",
+        "conspirator"
+      ]
     },
     {
       "id": "person:cethegus-conspirator",
@@ -1124,7 +1642,10 @@
       "external_ids": {},
       "summary": "Catilinarian conspirator; possessor of the cache of swords in his house; executed with Lentulus 5 December 63 BC.",
       "first_appearance": "in-catilinam-3",
-      "categories": ["political-enemy", "conspirator"]
+      "categories": [
+        "political-enemy",
+        "conspirator"
+      ]
     },
     {
       "id": "person:silanus-consul",
@@ -1135,7 +1656,9 @@
       "external_ids": {},
       "summary": "Consul-elect for 62 BC at the time of the Catilinarian debate; opened the senatorial discussion on 5 December 63 BC voting for the death penalty for the conspirators.",
       "first_appearance": "in-catilinam-4",
-      "categories": ["political"]
+      "categories": [
+        "political"
+      ]
     },
     {
       "id": "person:murena-defendant",
@@ -1143,10 +1666,15 @@
       "canonical_name": "Lucius Licinius Murena",
       "short_name": "Murena",
       "aliases": [],
-      "external_ids": {"wikidata": "Q462421"},
+      "external_ids": {
+        "wikidata": "Q462421"
+      },
       "summary": "Consul-elect for 62 BC; defendant in Pro Murena (late November 63 BC) on charges of canvassing brought under Cicero's own bribery law.",
       "first_appearance": "pro-murena",
-      "categories": ["client", "political"]
+      "categories": [
+        "client",
+        "political"
+      ]
     },
     {
       "id": "place:tullianum",
@@ -1157,7 +1685,10 @@
       "external_ids": {},
       "summary": "Underground state prison near the Forum; place of execution by strangling for state criminals; site of the killing of Lentulus, Cethegus, and the other Catilinarians on the night of 5 December 63 BC.",
       "first_appearance": "in-catilinam-3",
-      "categories": ["rome", "civic-space"]
+      "categories": [
+        "rome",
+        "civic-space"
+      ]
     },
     {
       "id": "place:templum-iovis-statoris",
@@ -1168,7 +1699,10 @@
       "external_ids": {},
       "summary": "Temple at the foot of the Palatine, near the start of the Sacra Via; site of the Senate meeting of 8 November 63 BC at which Cicero delivered the First Catilinarian.",
       "first_appearance": "in-catilinam-1",
-      "categories": ["rome", "religious"]
+      "categories": [
+        "rome",
+        "religious"
+      ]
     },
     {
       "id": "place:templum-concordiae",
@@ -1179,18 +1713,26 @@
       "external_ids": {},
       "summary": "Temple at the foot of the Capitoline beside the Forum; site of the Senate meeting of 5 December 63 BC at which Cicero delivered the Fourth Catilinarian.",
       "first_appearance": "in-catilinam-4",
-      "categories": ["rome", "religious"]
+      "categories": [
+        "rome",
+        "religious"
+      ]
     },
     {
       "id": "law:senatus-consultum-ultimum",
       "type": "law",
       "canonical_name": "Senatus consultum ultimum",
       "short_name": "SCU / final decree",
-      "aliases": ["senatus consultum de re publica defendenda"],
+      "aliases": [
+        "senatus consultum de re publica defendenda"
+      ],
       "external_ids": {},
       "summary": "Senatorial decree commanding the consuls to see that the commonwealth take no harm; first issued in 121 BC against C. Gracchus, then in 100 BC against Saturninus, then in 63 BC against Catiline. Authorised use of force; its constitutional standing was challenged repeatedly by populares.",
       "first_appearance": "pro-rabirio-perduellionis-reo",
-      "categories": ["governance", "civil-war"]
+      "categories": [
+        "governance",
+        "civil-war"
+      ]
     },
     {
       "id": "person:archias-poet",
@@ -1198,10 +1740,16 @@
       "canonical_name": "Aulus Licinius Archias",
       "short_name": "Archias",
       "aliases": [],
-      "external_ids": {"wikidata": "Q310883"},
+      "external_ids": {
+        "wikidata": "Q310883"
+      },
       "summary": "Greek poet of Antioch; client of the Lucullus family; defendant in Pro Archia (62 BC) in a citizenship-status case. Cicero's defence is the famous panegyric of literary culture.",
       "first_appearance": "pro-archia",
-      "categories": ["client", "poet", "greek"]
+      "categories": [
+        "client",
+        "poet",
+        "greek"
+      ]
     },
     {
       "id": "person:sulla-defendant",
@@ -1212,7 +1760,9 @@
       "external_ids": {},
       "summary": "Nephew of the dictator; convicted of electoral bribery in 66 BC, defended by Cicero in Pro Sulla (62 BC) on a charge of complicity in the Catilinarian conspiracy.",
       "first_appearance": "pro-sulla",
-      "categories": ["client"]
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:flaccus-defendant",
@@ -1223,7 +1773,10 @@
       "external_ids": {},
       "summary": "Praetor 63 BC, propraetor of Asia 62 BC; defendant in Pro Flacco (mid-59 BC) on extortion charges; one of Cicero's allies during the Catilinarian crisis.",
       "first_appearance": "pro-flacco",
-      "categories": ["client", "political-ally"]
+      "categories": [
+        "client",
+        "political-ally"
+      ]
     },
     {
       "id": "person:sestius-tribune",
@@ -1234,7 +1787,11 @@
       "external_ids": {},
       "summary": "Tribune 57 BC; champion of Cicero's recall from exile; defendant in Pro Sestio (March 56 BC) on charges of public violence; acquitted unanimously.",
       "first_appearance": "pro-sestio",
-      "categories": ["client", "political-ally", "tribune"]
+      "categories": [
+        "client",
+        "political-ally",
+        "tribune"
+      ]
     },
     {
       "id": "person:vatinius-tribune",
@@ -1242,10 +1799,15 @@
       "canonical_name": "Publius Vatinius",
       "short_name": "Vatinius",
       "aliases": [],
-      "external_ids": {"wikidata": "Q1141014"},
+      "external_ids": {
+        "wikidata": "Q1141014"
+      },
       "summary": "Tribune 59 BC; Caesarian; cross-examined by Cicero in In Vatinium (March 56 BC) as a hostile witness in the Sestius trial.",
       "first_appearance": "in-vatinium",
-      "categories": ["political-enemy", "tribune"]
+      "categories": [
+        "political-enemy",
+        "tribune"
+      ]
     },
     {
       "id": "person:caelius-defendant",
@@ -1253,21 +1815,33 @@
       "canonical_name": "Marcus Caelius Rufus",
       "short_name": "Caelius",
       "aliases": [],
-      "external_ids": {"wikidata": "Q336036"},
+      "external_ids": {
+        "wikidata": "Q336036"
+      },
       "summary": "Younger orator and politician; Cicero's protege; defendant in Pro Caelio (4 April 56 BC), the famous Clodia speech; later a correspondent in the Ad Familiares.",
       "first_appearance": "pro-caelio",
-      "categories": ["client", "correspondent", "political"]
+      "categories": [
+        "client",
+        "correspondent",
+        "political"
+      ]
     },
     {
       "id": "person:clodia",
       "type": "person",
       "canonical_name": "Clodia (Metelli)",
       "short_name": "Clodia",
-      "aliases": ["Lesbia"],
-      "external_ids": {"wikidata": "Q241525"},
+      "aliases": [
+        "Lesbia"
+      ],
+      "external_ids": {
+        "wikidata": "Q241525"
+      },
       "summary": "Sister of P. Clodius and widow of Q. Metellus Celer; the (probable) Lesbia of Catullus; the unnamed accuser behind the prosecution in Pro Caelio.",
       "first_appearance": "pro-caelio",
-      "categories": ["adversary"]
+      "categories": [
+        "adversary"
+      ]
     },
     {
       "id": "person:gabinius",
@@ -1275,10 +1849,15 @@
       "canonical_name": "Aulus Gabinius",
       "short_name": "Gabinius",
       "aliases": [],
-      "external_ids": {"wikidata": "Q269841"},
+      "external_ids": {
+        "wikidata": "Q269841"
+      },
       "summary": "Tribune 67 BC (proposer of the lex Gabinia for Pompey's pirate command), consul 58 BC; one of the consuls under whom Cicero went into exile, hence one of the \"two whirlwinds of the commonwealth\" of Pro Sestio.",
       "first_appearance": "pro-lege-manilia",
-      "categories": ["political", "consul"]
+      "categories": [
+        "political",
+        "consul"
+      ]
     },
     {
       "id": "person:piso-caesoninus",
@@ -1286,10 +1865,15 @@
       "canonical_name": "Lucius Calpurnius Piso Caesoninus",
       "short_name": "Piso",
       "aliases": [],
-      "external_ids": {"wikidata": "Q1158395"},
+      "external_ids": {
+        "wikidata": "Q1158395"
+      },
       "summary": "Consul 58 BC, father-in-law of Caesar; the other of the \"two whirlwinds\" of Pro Sestio (with Gabinius); proconsul of Macedonia and target of In Pisonem (55 BC).",
       "first_appearance": "ad-atticum-03-12",
-      "categories": ["political-enemy", "consul"]
+      "categories": [
+        "political-enemy",
+        "consul"
+      ]
     },
     {
       "id": "person:lentulus-spinther",
@@ -1300,7 +1884,10 @@
       "external_ids": {},
       "summary": "Consul 57 BC; champion of Cicero's recall from exile; recipient of the long Egyptian-question correspondence in Ad Familiares book 1 (early 56 BC).",
       "first_appearance": "ad-familiares-01-01",
-      "categories": ["political-ally", "correspondent"]
+      "categories": [
+        "political-ally",
+        "correspondent"
+      ]
     },
     {
       "id": "person:l-lucullus",
@@ -1308,10 +1895,15 @@
       "canonical_name": "Lucius Licinius Lucullus",
       "short_name": "L. Lucullus",
       "aliases": [],
-      "external_ids": {"wikidata": "Q170587"},
+      "external_ids": {
+        "wikidata": "Q170587"
+      },
       "summary": "Consul 74 BC; commander in the Mithridatic War; brought Archias to Rome under his patronage; great-grandfather of the Lucullan luxury tradition.",
       "first_appearance": "pro-archia",
-      "categories": ["political", "patron"]
+      "categories": [
+        "political",
+        "patron"
+      ]
     },
     {
       "id": "person:ennius",
@@ -1319,21 +1911,32 @@
       "canonical_name": "Quintus Ennius",
       "short_name": "Ennius",
       "aliases": [],
-      "external_ids": {"wikidata": "Q189439"},
+      "external_ids": {
+        "wikidata": "Q189439"
+      },
       "summary": "Roman epic poet (239--169 BC); author of the Annales (the first Roman national epic in hexameters); revered by Cicero as the great early Latin poet, frequently quoted in the corpus.",
       "first_appearance": "pro-archia",
-      "categories": ["literary"]
+      "categories": [
+        "literary"
+      ]
     },
     {
       "id": "person:homer",
       "type": "person",
       "canonical_name": "Homer",
       "short_name": "Homer",
-      "aliases": ["Homerus"],
-      "external_ids": {"wikidata": "Q6691"},
+      "aliases": [
+        "Homerus"
+      ],
+      "external_ids": {
+        "wikidata": "Q6691"
+      },
       "summary": "The Greek poet of the Iliad and Odyssey; the literary touchstone for Cicero, especially in the letters where Greek tags from Homer appear constantly.",
       "first_appearance": "pro-archia",
-      "categories": ["literary", "greek"]
+      "categories": [
+        "literary",
+        "greek"
+      ]
     },
     {
       "id": "place:heraclea-lucania",
@@ -1341,10 +1944,15 @@
       "canonical_name": "Heraclea (Lucania)",
       "short_name": "Heraclea",
       "aliases": [],
-      "external_ids": {"pleiades": "442558"},
+      "external_ids": {
+        "pleiades": "442558"
+      },
       "summary": "Greek federate city in Lucania; the city in whose roll Archias was enrolled, the basis of his claim to Roman citizenship under the lex Plautia Papiria.",
       "first_appearance": "pro-archia",
-      "categories": ["italy", "greek-city"]
+      "categories": [
+        "italy",
+        "greek-city"
+      ]
     },
     {
       "id": "place:antiochia",
@@ -1352,10 +1960,15 @@
       "canonical_name": "Antiochia (Syria)",
       "short_name": "Antioch",
       "aliases": [],
-      "external_ids": {"pleiades": "658381"},
+      "external_ids": {
+        "pleiades": "658381"
+      },
       "summary": "Capital of Seleucid Syria; birthplace of the poet Archias; centre of Greek culture in the eastern Mediterranean.",
       "first_appearance": "pro-archia",
-      "categories": ["greek-city", "syria"]
+      "categories": [
+        "greek-city",
+        "syria"
+      ]
     },
     {
       "id": "person:atratinus-prosecutor",
@@ -1366,7 +1979,9 @@
       "external_ids": {},
       "summary": "Young prosecutor in Pro Caelio (56 BC); son of L. Calpurnius Bestia, whom Caelius had himself prosecuted earlier in 56 BC.",
       "first_appearance": "pro-caelio",
-      "categories": ["adversary"]
+      "categories": [
+        "adversary"
+      ]
     },
     {
       "id": "person:dio-alexandrinus",
@@ -1377,7 +1992,10 @@
       "external_ids": {},
       "summary": "Head of the Egyptian embassy of 57 BC opposing Ptolemy XII Auletes; murdered in Rome under suspicious circumstances. Caelius was charged with complicity in the murder.",
       "first_appearance": "pro-caelio",
-      "categories": ["greek", "victim"]
+      "categories": [
+        "greek",
+        "victim"
+      ]
     },
     {
       "id": "person:bestia-tribune",
@@ -1388,7 +2006,9 @@
       "external_ids": {},
       "summary": "Tribune; prosecuted by Caelius earlier in 56 BC; father of the prosecutor Atratinus in Pro Caelio.",
       "first_appearance": "pro-caelio",
-      "categories": ["political"]
+      "categories": [
+        "political"
+      ]
     },
     {
       "id": "person:p-messienus",
@@ -1399,7 +2019,9 @@
       "external_ids": {},
       "summary": "Roman knight, otherwise unattested; commended in Fam. 13.51 to P. Caesius.",
       "first_appearance": "ad-familiares-13-51",
-      "categories": ["client"]
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:p-caesius",
@@ -1410,7 +2032,9 @@
       "external_ids": {},
       "summary": "Recipient of the recommendation Fam. 13.51; otherwise unattested in the corpus.",
       "first_appearance": "ad-familiares-13-51",
-      "categories": ["correspondent"]
+      "categories": [
+        "correspondent"
+      ]
     },
     {
       "id": "person:m-marius",
@@ -1421,29 +2045,40 @@
       "external_ids": {},
       "summary": "Cicero's near neighbour and intimate friend at Cumae and Pompeii; recipient of Fam. 7.1--7.4 (the Cumae-circle letters), distinguished as a man of leisured cultivation.",
       "first_appearance": "ad-familiares-07-03",
-      "categories": ["correspondent", "intimate"]
+      "categories": [
+        "correspondent",
+        "intimate"
+      ]
     },
     {
       "id": "person:lentulus-crus",
       "type": "person",
       "canonical_name": "Lucius Cornelius Lentulus Crus",
       "short_name": "Lentulus",
-      "aliases": ["L. Lentulus"],
+      "aliases": [
+        "L. Lentulus"
+      ],
       "external_ids": {},
       "summary": "Consul 49 BC; staunch Pompeian; killed in Egypt in 48 BC after Pharsalus.",
       "first_appearance": "ad-familiares-07-03",
-      "categories": ["political"]
+      "categories": [
+        "political"
+      ]
     },
     {
       "id": "person:c-claudius-marcellus-cos49",
       "type": "person",
       "canonical_name": "Gaius Claudius Marcellus",
       "short_name": "Marcellus",
-      "aliases": ["C. Marcellus"],
+      "aliases": [
+        "C. Marcellus"
+      ],
       "external_ids": {},
       "summary": "Consul 49 BC alongside Lentulus Crus; one of three Marcelli of the Caesarian-civil-war years; cousin of M. Marcellus, consul 51 BC.",
       "first_appearance": "ad-familiares-07-03",
-      "categories": ["political"]
+      "categories": [
+        "political"
+      ]
     },
     {
       "id": "person:juba-i",
@@ -1451,21 +2086,31 @@
       "canonical_name": "Juba I of Numidia",
       "short_name": "Juba",
       "aliases": [],
-      "external_ids": {"wikidata": "Q207898"},
+      "external_ids": {
+        "wikidata": "Q207898"
+      },
       "summary": "King of Numidia; ally of the Pompeians in the African campaign of 47--46 BC; defeated at Thapsus, took his own life.",
       "first_appearance": "ad-familiares-07-03",
-      "categories": ["foreign-king", "political"]
+      "categories": [
+        "foreign-king",
+        "political"
+      ]
     },
     {
       "id": "person:q-valerius-orca",
       "type": "person",
       "canonical_name": "Quintus Valerius Orca",
       "short_name": "Orca",
-      "aliases": ["Q. Valerius"],
+      "aliases": [
+        "Q. Valerius"
+      ],
       "external_ids": {},
       "summary": "Praetor 57 BC; propraetor of Africa Vetus 56 BC; later one of Caesar's commissioners settling veterans in Italy.",
       "first_appearance": "ad-familiares-13-06",
-      "categories": ["correspondent", "magistrate"]
+      "categories": [
+        "correspondent",
+        "magistrate"
+      ]
     },
     {
       "id": "person:p-cuspius",
@@ -1476,7 +2121,10 @@
       "external_ids": {},
       "summary": "Twice senior officer of the principal tax-farming partnership in Africa; a friend whom Cicero indulges with serial recommendation letters in Fam. 13.6 and 13.6a.",
       "first_appearance": "ad-familiares-13-06",
-      "categories": ["equestrian", "client"]
+      "categories": [
+        "equestrian",
+        "client"
+      ]
     },
     {
       "id": "person:l-iulius-cuspianus",
@@ -1487,18 +2135,28 @@
       "external_ids": {},
       "summary": "Friend of P. Cuspius commended to Q. Valerius Orca in Fam. 13.6; otherwise unattested.",
       "first_appearance": "ad-familiares-13-06",
-      "categories": ["client"]
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:metellus-nepos",
       "type": "person",
       "canonical_name": "Quintus Caecilius Metellus Nepos",
       "short_name": "Metellus Nepos",
-      "aliases": ["Q. Metellus", "Nepos"],
-      "external_ids": {"wikidata": "Q521973"},
+      "aliases": [
+        "Q. Metellus",
+        "Nepos"
+      ],
+      "external_ids": {
+        "wikidata": "Q521973"
+      },
       "summary": "Tribune 62 BC (blocked Cicero's farewell consular speech); consul 57 BC (withdrew opposition to Cicero's recall); governor of Hither Spain 56--55 BC.",
       "first_appearance": "ad-familiares-05-04",
-      "categories": ["political", "correspondent"]
+      "categories": [
+        "political",
+        "correspondent"
+      ]
     },
     {
       "id": "person:lollius",
@@ -1509,7 +2167,9 @@
       "external_ids": {},
       "summary": "Agent of Q. Caecilius Metellus Nepos at Rome, charged with the books of his Spanish province (Fam. 5.3).",
       "first_appearance": "ad-familiares-05-03",
-      "categories": ["agent"]
+      "categories": [
+        "agent"
+      ]
     },
     {
       "id": "person:m-plaetorius-cestianus",
@@ -1520,7 +2180,10 @@
       "external_ids": {},
       "summary": "Praetor 64 BC; Cicero's man on the Senate floor through the Egyptian commission of 56 BC; bearer of dispatches between Rome and Lentulus Spinther in Cilicia.",
       "first_appearance": "ad-familiares-01-08",
-      "categories": ["magistrate", "agent"]
+      "categories": [
+        "magistrate",
+        "agent"
+      ]
     },
     {
       "id": "person:tiro",
@@ -1528,10 +2191,16 @@
       "canonical_name": "Marcus Tullius Tiro",
       "short_name": "Tiro",
       "aliases": [],
-      "external_ids": {"wikidata": "Q310892"},
+      "external_ids": {
+        "wikidata": "Q310892"
+      },
       "summary": "Cicero's slave, manumitted ca. 53 BC, secretary, literary collaborator and lifelong intimate; recipient of all letters in Ad Familiares book 16; later editor of Cicero's correspondence and posthumous biographer.",
       "first_appearance": "ad-familiares-16-13",
-      "categories": ["familia", "correspondent", "intimate"]
+      "categories": [
+        "familia",
+        "correspondent",
+        "intimate"
+      ]
     },
     {
       "id": "person:menander-slave",
@@ -1542,7 +2211,9 @@
       "external_ids": {},
       "summary": "Slave or freedman of Cicero's, sent ahead to attend Tiro during his illness (Fam. 16.13).",
       "first_appearance": "ad-familiares-16-13",
-      "categories": ["familia"]
+      "categories": [
+        "familia"
+      ]
     },
     {
       "id": "person:l-vibullius-rufus",
@@ -1553,18 +2224,28 @@
       "external_ids": {},
       "summary": "Pompey's praefectus fabrum and trusted confidant; the man with whom Cicero went late at night to Pompey's house in February 55 BC (Q.fr. 2.7).",
       "first_appearance": "ad-quintum-fratrem-02-07",
-      "categories": ["political", "agent"]
+      "categories": [
+        "political",
+        "agent"
+      ]
     },
     {
       "id": "person:p-crassus-younger",
       "type": "person",
       "canonical_name": "Publius Licinius Crassus",
       "short_name": "Publius Crassus",
-      "aliases": ["P. Crassus adulescens"],
-      "external_ids": {"wikidata": "Q452149"},
+      "aliases": [
+        "P. Crassus adulescens"
+      ],
+      "external_ids": {
+        "wikidata": "Q452149"
+      },
       "summary": "Younger son of M. Licinius Crassus; Cicero's literary admirer; cavalry officer with Caesar in Gaul; killed at Carrhae in 53 BC alongside his father.",
       "first_appearance": "ad-quintum-fratrem-02-07",
-      "categories": ["family", "military"]
+      "categories": [
+        "family",
+        "military"
+      ]
     },
     {
       "id": "person:brogitarus",
@@ -1575,7 +2256,10 @@
       "external_ids": {},
       "summary": "Tetrarch of the Trocmi (Galatia) and son-in-law of Deiotarus; bought the priesthood of Cybele at Pessinus in 58 BC under a Clodian law.",
       "first_appearance": "ad-quintum-fratrem-02-07",
-      "categories": ["foreign-king", "political"]
+      "categories": [
+        "foreign-king",
+        "political"
+      ]
     },
     {
       "id": "person:l-afranius",
@@ -1583,21 +2267,33 @@
       "canonical_name": "Lucius Afranius",
       "short_name": "Afranius",
       "aliases": [],
-      "external_ids": {"wikidata": "Q729864"},
+      "external_ids": {
+        "wikidata": "Q729864"
+      },
       "summary": "Pompeian legate of long standing; consul 60 BC; commander of two of Pompey's Spanish legions in 49 BC; killed in Africa in 46 BC after Thapsus.",
       "first_appearance": "ad-quintum-fratrem-02-07",
-      "categories": ["political", "military"]
+      "categories": [
+        "political",
+        "military"
+      ]
     },
     {
       "id": "person:m-valerius-messalla-rufus",
       "type": "person",
       "canonical_name": "Marcus Valerius Messalla Rufus",
       "short_name": "Messalla Rufus",
-      "aliases": ["M. Messalla"],
-      "external_ids": {"wikidata": "Q558720"},
+      "aliases": [
+        "M. Messalla"
+      ],
+      "external_ids": {
+        "wikidata": "Q558720"
+      },
       "summary": "Augur and consul 53 BC after long delay; author of works on the auspices and on Roman families; nephew of Hortensius.",
       "first_appearance": "ad-atticum-04-09",
-      "categories": ["political", "augur"]
+      "categories": [
+        "political",
+        "augur"
+      ]
     },
     {
       "id": "person:l-lucceius",
@@ -1608,7 +2304,10 @@
       "external_ids": {},
       "summary": "Praetor 67 BC; historian; recipient of Fam. 5.12 (the famous letter in which Cicero asks him to write up the consulship monographically).",
       "first_appearance": "ad-atticum-04-06",
-      "categories": ["political", "literary"]
+      "categories": [
+        "political",
+        "literary"
+      ]
     },
     {
       "id": "person:l-papirius-paetus",
@@ -1619,29 +2318,43 @@
       "external_ids": {},
       "summary": "Wealthy literary friend of Cicero's, resident at Naples; recipient of the long sequence Fam. 9.15--9.26 in the late 50s and 40s.",
       "first_appearance": "ad-atticum-04-09",
-      "categories": ["correspondent", "intimate"]
+      "categories": [
+        "correspondent",
+        "intimate"
+      ]
     },
     {
       "id": "person:q-cicero-younger",
       "type": "person",
       "canonical_name": "Quintus Tullius Cicero (the younger)",
       "short_name": "Quintus the younger",
-      "aliases": ["Cicero suavissimus"],
+      "aliases": [
+        "Cicero suavissimus"
+      ],
       "external_ids": {},
       "summary": "Quintus Cicero's son and Cicero's nephew, born ca. 67 BC; later one of the assassins of Caesar (sometimes confused with M. Cicero the son).",
       "first_appearance": "ad-atticum-04-09",
-      "categories": ["family"]
+      "categories": [
+        "family"
+      ]
     },
     {
       "id": "person:ptolemy-xii-auletes",
       "type": "person",
       "canonical_name": "Ptolemy XII Neos Dionysos (Auletes)",
       "short_name": "Ptolemy Auletes",
-      "aliases": ["Ptolemy"],
-      "external_ids": {"wikidata": "Q170428"},
+      "aliases": [
+        "Ptolemy"
+      ],
+      "external_ids": {
+        "wikidata": "Q170428"
+      },
       "summary": "King of Egypt; expelled by Alexandrian uprising 58 BC, restored to the throne by A. Gabinius's army from Syria in spring 55 BC; father of Cleopatra VII.",
       "first_appearance": "ad-familiares-01-01",
-      "categories": ["foreign-king", "political"]
+      "categories": [
+        "foreign-king",
+        "political"
+      ]
     },
     {
       "id": "person:faustus-sulla",
@@ -1649,10 +2362,15 @@
       "canonical_name": "Faustus Cornelius Sulla",
       "short_name": "Faustus",
       "aliases": [],
-      "external_ids": {"wikidata": "Q547499"},
+      "external_ids": {
+        "wikidata": "Q547499"
+      },
       "summary": "Son of the dictator Sulla (born ca. 86 BC); married Pompey's daughter; served as quaestor in Syria with Pompey; killed in Africa after Thapsus 46 BC. Owner of a notable library at Cumae.",
       "first_appearance": "ad-atticum-04-10",
-      "categories": ["political", "literary"]
+      "categories": [
+        "political",
+        "literary"
+      ]
     },
     {
       "id": "person:aristotle",
@@ -1660,10 +2378,15 @@
       "canonical_name": "Aristotle of Stagira",
       "short_name": "Aristotle",
       "aliases": [],
-      "external_ids": {"wikidata": "Q868"},
+      "external_ids": {
+        "wikidata": "Q868"
+      },
       "summary": "The Greek philosopher (384--322 BC); a presence in Cicero's library and study, image (imago) of whom hung above Atticus's reading-chair.",
       "first_appearance": "ad-atticum-04-10",
-      "categories": ["literary", "greek"]
+      "categories": [
+        "literary",
+        "greek"
+      ]
     },
     {
       "id": "person:philotimus",
@@ -1674,7 +2397,10 @@
       "external_ids": {},
       "summary": "Freedman of Terentia; chief manager of Cicero's household business and accounts in the late 50s and through the civil war.",
       "first_appearance": "ad-atticum-04-10",
-      "categories": ["familia", "agent"]
+      "categories": [
+        "familia",
+        "agent"
+      ]
     },
     {
       "id": "person:appius-claudius-pulcher",
@@ -1682,10 +2408,15 @@
       "canonical_name": "Appius Claudius Pulcher",
       "short_name": "Appius",
       "aliases": [],
-      "external_ids": {"wikidata": "Q521947"},
+      "external_ids": {
+        "wikidata": "Q521947"
+      },
       "summary": "Elder brother of Clodius; consul 54 BC, censor 50 BC, governor of Cilicia 53--51 BC (Cicero's predecessor there); recipient of Fam. book 3.",
       "first_appearance": "ad-atticum-04-11",
-      "categories": ["political", "correspondent"]
+      "categories": [
+        "political",
+        "correspondent"
+      ]
     },
     {
       "id": "person:demetrius-courier",
@@ -1696,7 +2427,9 @@
       "external_ids": {},
       "summary": "A courier or freedman of Atticus's mentioned in Att. 4.11 as the man through whom certain matters can be settled; not certainly identifiable with Demetrius of Magnesia.",
       "first_appearance": "ad-atticum-04-11",
-      "categories": ["agent"]
+      "categories": [
+        "agent"
+      ]
     },
     {
       "id": "person:m-pomponius-dionysius",
@@ -1707,7 +2440,11 @@
       "external_ids": {},
       "summary": "Greek freedman of Atticus's, scholar; tutor to the young M. Cicero and Q. Cicero; reading-companion of Cicero's at Cumae in 55 BC.",
       "first_appearance": "ad-atticum-04-11",
-      "categories": ["familia", "literary", "greek"]
+      "categories": [
+        "familia",
+        "literary",
+        "greek"
+      ]
     },
     {
       "id": "person:demetrius-magnes",
@@ -1718,18 +2455,28 @@
       "external_ids": {},
       "summary": "Greek polymath, biographer and bibliographer of Cicero's day; cited in the letters as a literary correspondent.",
       "first_appearance": "ad-atticum-04-11",
-      "categories": ["literary", "greek"]
+      "categories": [
+        "literary",
+        "greek"
+      ]
     },
     {
       "id": "place:cumae",
       "type": "place",
       "canonical_name": "Cumae",
       "short_name": "Cumae",
-      "aliases": ["Cumanum"],
-      "external_ids": {"pleiades": "432785"},
+      "aliases": [
+        "Cumanum"
+      ],
+      "external_ids": {
+        "pleiades": "432785"
+      },
       "summary": "Greek city of Campania on the bay of Naples; site of Cicero's Cumae villa, much used as a writing retreat in the 50s.",
       "first_appearance": "ad-atticum-04-09",
-      "categories": ["italy", "campania"]
+      "categories": [
+        "italy",
+        "campania"
+      ]
     },
     {
       "id": "place:italia",
@@ -1737,10 +2484,14 @@
       "canonical_name": "Italia",
       "short_name": "Italy",
       "aliases": [],
-      "external_ids": {"pleiades": "1052"},
+      "external_ids": {
+        "pleiades": "1052"
+      },
       "summary": "The Italian peninsula; in Cicero's letters of the civil war years synonymous with the homeland Pompey's army left behind in 49 BC.",
       "first_appearance": "ad-familiares-07-03",
-      "categories": ["region"]
+      "categories": [
+        "region"
+      ]
     },
     {
       "id": "place:rhodes",
@@ -1748,10 +2499,14 @@
       "canonical_name": "Rhodes",
       "short_name": "Rhodes",
       "aliases": [],
-      "external_ids": {"pleiades": "590031"},
+      "external_ids": {
+        "pleiades": "590031"
+      },
       "summary": "Aegean island; rhetorical and philosophical centre; conventional place of polite Roman exile in the Greek east.",
       "first_appearance": "ad-familiares-07-03",
-      "categories": ["greek"]
+      "categories": [
+        "greek"
+      ]
     },
     {
       "id": "place:mytilene",
@@ -1759,10 +2514,14 @@
       "canonical_name": "Mytilene",
       "short_name": "Mytilene",
       "aliases": [],
-      "external_ids": {"pleiades": "550762"},
+      "external_ids": {
+        "pleiades": "550762"
+      },
       "summary": "Principal city of Lesbos; another conventional place of cultivated Roman exile.",
       "first_appearance": "ad-familiares-07-03",
-      "categories": ["greek"]
+      "categories": [
+        "greek"
+      ]
     },
     {
       "id": "place:africa",
@@ -1770,10 +2529,14 @@
       "canonical_name": "Africa",
       "short_name": "Africa",
       "aliases": [],
-      "external_ids": {"pleiades": "981503"},
+      "external_ids": {
+        "pleiades": "981503"
+      },
       "summary": "The Roman province of Africa (modern Tunisia and adjacent), administered from Utica; the western Mediterranean's chief grain region after Sicily.",
       "first_appearance": "ad-familiares-13-06",
-      "categories": ["province"]
+      "categories": [
+        "province"
+      ]
     },
     {
       "id": "place:syria",
@@ -1781,21 +2544,32 @@
       "canonical_name": "Syria",
       "short_name": "Syria",
       "aliases": [],
-      "external_ids": {"pleiades": "678392"},
+      "external_ids": {
+        "pleiades": "678392"
+      },
       "summary": "Roman province organised by Pompey in 64 BC; assigned to Crassus by the lex Trebonia of February 55 BC for his five-year proconsulship.",
       "first_appearance": "ad-atticum-04-09",
-      "categories": ["province"]
+      "categories": [
+        "province"
+      ]
     },
     {
       "id": "place:hispania",
       "type": "place",
       "canonical_name": "Hispania",
       "short_name": "Spain",
-      "aliases": ["Hispania citerior", "Hispania ulterior"],
-      "external_ids": {"pleiades": "265919"},
+      "aliases": [
+        "Hispania citerior",
+        "Hispania ulterior"
+      ],
+      "external_ids": {
+        "pleiades": "265919"
+      },
       "summary": "The two Roman Spanish provinces; assigned jointly to Pompey by the lex Trebonia of February 55 BC for his five-year proconsulship.",
       "first_appearance": "ad-familiares-05-03",
-      "categories": ["province"]
+      "categories": [
+        "province"
+      ]
     },
     {
       "id": "place:byzantium",
@@ -1803,32 +2577,50 @@
       "canonical_name": "Byzantium",
       "short_name": "Byzantium",
       "aliases": [],
-      "external_ids": {"pleiades": "520998"},
+      "external_ids": {
+        "pleiades": "520998"
+      },
       "summary": "Greek city on the Bosphorus, gatekeeping the Black Sea grain trade; a frequent target of profitable senatorial legations.",
       "first_appearance": "ad-quintum-fratrem-02-07",
-      "categories": ["greek"]
+      "categories": [
+        "greek"
+      ]
     },
     {
       "id": "place:neapolis",
       "type": "place",
       "canonical_name": "Neapolis",
       "short_name": "Naples",
-      "aliases": ["Neapolis"],
-      "external_ids": {"pleiades": "432857"},
+      "aliases": [
+        "Neapolis"
+      ],
+      "external_ids": {
+        "pleiades": "432857"
+      },
       "summary": "Greek-foundation city of Campania; home of L. Papirius Paetus and a haunt of Cicero's literary set in the 50s and 40s.",
       "first_appearance": "ad-atticum-04-09",
-      "categories": ["italy", "campania"]
+      "categories": [
+        "italy",
+        "campania"
+      ]
     },
     {
       "id": "place:pompeii",
       "type": "place",
       "canonical_name": "Pompeii",
       "short_name": "Pompeii",
-      "aliases": ["Pompeianum"],
-      "external_ids": {"pleiades": "433032"},
+      "aliases": [
+        "Pompeianum"
+      ],
+      "external_ids": {
+        "pleiades": "433032"
+      },
       "summary": "Town on the bay of Naples, on the slope of Vesuvius; site of one of Cicero's villas, the Pompeianum, where he stayed before joining Pompey in 49 BC.",
       "first_appearance": "ad-familiares-07-03",
-      "categories": ["italy", "campania"]
+      "categories": [
+        "italy",
+        "campania"
+      ]
     },
     {
       "id": "place:puteoli",
@@ -1836,32 +2628,51 @@
       "canonical_name": "Puteoli",
       "short_name": "Puteoli",
       "aliases": [],
-      "external_ids": {"pleiades": "433027"},
+      "external_ids": {
+        "pleiades": "433027"
+      },
       "summary": "The chief Roman port for the eastern trade, on the bay of Naples just north-west of the Lucrine lake; a centre of commerce and gossip.",
       "first_appearance": "ad-atticum-04-10",
-      "categories": ["italy", "campania"]
+      "categories": [
+        "italy",
+        "campania"
+      ]
     },
     {
       "id": "place:lucrine",
       "type": "place",
       "canonical_name": "Lacus Lucrinus",
       "short_name": "Lucrine",
-      "aliases": ["Lucrinensia"],
-      "external_ids": {"pleiades": "432933"},
+      "aliases": [
+        "Lucrinensia"
+      ],
+      "external_ids": {
+        "pleiades": "432933"
+      },
       "summary": "Coastal lagoon between Cumae and Puteoli, famed for its oyster beds and luxury villas.",
       "first_appearance": "ad-atticum-04-10",
-      "categories": ["italy", "campania"]
+      "categories": [
+        "italy",
+        "campania"
+      ]
     },
     {
       "id": "place:mons-albanus",
       "type": "place",
       "canonical_name": "Mons Albanus",
       "short_name": "Alban Hills",
-      "aliases": ["Albanum"],
-      "external_ids": {"pleiades": "422822"},
+      "aliases": [
+        "Albanum"
+      ],
+      "external_ids": {
+        "pleiades": "422822"
+      },
       "summary": "Volcanic massif south-east of Rome with many luxury villas; site of Pompey's Alban estate.",
       "first_appearance": "ad-atticum-04-11",
-      "categories": ["italy", "latium"]
+      "categories": [
+        "italy",
+        "latium"
+      ]
     },
     {
       "id": "god:urania",
@@ -1869,21 +2680,33 @@
       "canonical_name": "Urania",
       "short_name": "Urania",
       "aliases": [],
-      "external_ids": {"wikidata": "Q166412"},
+      "external_ids": {
+        "wikidata": "Q166412"
+      },
       "summary": "The Muse of astronomy; Cicero's chosen interlocutor in book 2 of De Consulatu Suo and the autobiographical poem De Temporibus Suis.",
       "first_appearance": "ad-quintum-fratrem-02-07",
-      "categories": ["muse", "literary"]
+      "categories": [
+        "muse",
+        "literary"
+      ]
     },
     {
       "id": "festival:parilia",
       "type": "festival",
       "canonical_name": "Parilia",
       "short_name": "Parilia",
-      "aliases": ["Palilia"],
-      "external_ids": {"wikidata": "Q1135796"},
+      "aliases": [
+        "Palilia"
+      ],
+      "external_ids": {
+        "wikidata": "Q1135796"
+      },
       "summary": "21 April, the festival of Pales, pastoral goddess; the day Romans celebrated the founding of the city.",
       "first_appearance": "ad-atticum-04-10",
-      "categories": ["religious", "founding"]
+      "categories": [
+        "religious",
+        "founding"
+      ]
     },
     {
       "id": "office:censor",
@@ -1894,7 +2717,9 @@
       "external_ids": {},
       "summary": "Two senior magistrates elected normally every five years to revise the lists of citizens, knights, and senators, and to let the public contracts; the highest office an ex-consul could hold.",
       "first_appearance": "ad-atticum-04-11",
-      "categories": ["magistracy"]
+      "categories": [
+        "magistracy"
+      ]
     },
     {
       "id": "text:cicero-de-temporibus-suis",
@@ -1905,7 +2730,1589 @@
       "external_ids": {},
       "summary": "Cicero's lost autobiographical hexameter poem in three books on his consulship, exile and recall, completed ca. 55 BC; the speech of Jupiter mentioned in Q.fr. 2.7 closed its third book.",
       "first_appearance": "ad-quintum-fratrem-02-07",
-      "categories": ["cicero-self"]
+      "categories": [
+        "cicero-self"
+      ]
+    },
+    {
+      "id": "person:statius-q-freedman",
+      "type": "person",
+      "canonical_name": "Statius",
+      "short_name": "Statius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Freedman of Quintus Cicero, much trusted and (in Cicero's opinion) too prominent in the household. Recurring offstage figure in the Q.fr. correspondence.",
+      "first_appearance": "ad-quintum-fratrem-02-08",
+      "categories": [
+        "household"
+      ]
+    },
+    {
+      "id": "person:ptolemy-auletes",
+      "type": "person",
+      "canonical_name": "Ptolemy XII Auletes",
+      "short_name": "Ptolemy",
+      "aliases": [
+        "the king of Egypt"
+      ],
+      "external_ids": {
+        "wikidata": "Q193924"
+      },
+      "summary": "King of Egypt c. 80–58 and 55–51 BC; expelled in 58, restored by A. Gabinius's Roman force in 55. The Egyptian-restoration debate runs through the Spinther correspondence of 56.",
+      "first_appearance": "ad-familiares-01-01",
+      "categories": [
+        "foreign-ruler"
+      ]
+    },
+    {
+      "id": "person:anicius-c",
+      "type": "person",
+      "canonical_name": "Gaius Anicius",
+      "short_name": "Anicius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Senator and friend of Cicero, owner of an estate near Cicero's Pompeianum that could host visitors when the villa was unfinished.",
+      "first_appearance": "ad-quintum-fratrem-02-08",
+      "categories": [
+        "friend"
+      ]
+    },
+    {
+      "id": "person:philoctetes",
+      "type": "person",
+      "canonical_name": "Philoctetes",
+      "short_name": "Philoctetes",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q467117"
+      },
+      "summary": "Mythological hero of the Trojan cycle, abandoned on Lemnos with a festering wound; subject of Sophocles's surviving tragedy and of two lost Roman tragedies, Accius's and Pacuvius's. A figure for the wronged man who watches the spectacles that grieve him.",
+      "first_appearance": "ad-quintum-fratrem-02-08",
+      "categories": [
+        "literary",
+        "myth"
+      ]
+    },
+    {
+      "id": "place:baiae",
+      "type": "place",
+      "canonical_name": "Baiae",
+      "short_name": "Baiae",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "432776"
+      },
+      "summary": "Fashionable seaside resort on the Bay of Naples; hot springs, villas, and (by Cicero's day) a reputation for moral laxity.",
+      "first_appearance": "ad-quintum-fratrem-02-08",
+      "categories": [
+        "italy",
+        "resort"
+      ]
+    },
+    {
+      "id": "place:hymettus",
+      "type": "place",
+      "canonical_name": "Hymettus",
+      "short_name": "Hymettus",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "579885"
+      },
+      "summary": "Mountain near Athens, by metonymy a sign of Athenian (Academic, Stoic) philosophical learning.",
+      "first_appearance": "ad-quintum-fratrem-02-08",
+      "categories": [
+        "greece",
+        "intellectual"
+      ]
+    },
+    {
+      "id": "person:q-ancharius",
+      "type": "person",
+      "canonical_name": "Quintus Ancharius",
+      "short_name": "Ancharius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Praetor 56 BC, then proconsul of Macedonia 55–54 BC; recipient of Fam. 13.40 (a recommendation for the Aurelii) and Fam. 13.41–42.",
+      "first_appearance": "ad-familiares-13-40",
+      "categories": [
+        "correspondent",
+        "magistrate"
+      ]
+    },
+    {
+      "id": "person:l-aurelius",
+      "type": "person",
+      "canonical_name": "Lucius Aurelius",
+      "short_name": "L. Aurelius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Young man, son of Lucius; one of the two Aurelii commended by Cicero to the proconsul Q. Ancharius in Fam. 13.40.",
+      "first_appearance": "ad-familiares-13-40",
+      "categories": [
+        "client"
+      ]
+    },
+    {
+      "id": "person:c-aurelius",
+      "type": "person",
+      "canonical_name": "Gaius Aurelius",
+      "short_name": "C. Aurelius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Brother of L. Aurelius; commended together with him to Q. Ancharius in Fam. 13.40.",
+      "first_appearance": "ad-familiares-13-40",
+      "categories": [
+        "client"
+      ]
+    },
+    {
+      "id": "person:aesopus",
+      "type": "person",
+      "canonical_name": "Clodius Aesopus",
+      "short_name": "Aesopus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q319574"
+      },
+      "summary": "The leading tragic actor of Cicero's day, friend of Cicero. By the games of 55 BC he was elderly; in Fam. 7.1 his voice fails him at the line ``si sciens fallo''.",
+      "first_appearance": "pro-sestio",
+      "categories": [
+        "theatre",
+        "friend"
+      ]
+    },
+    {
+      "id": "person:protogenes",
+      "type": "person",
+      "canonical_name": "Protogenes",
+      "short_name": "Protogenes",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Reader (lector) attached to M. Marius; mentioned in Fam. 7.1 as a man who could be put to read anything but Cicero's speeches aloud.",
+      "first_appearance": "ad-familiares-07-01",
+      "categories": [
+        "household",
+        "literary"
+      ]
+    },
+    {
+      "id": "person:sp-maecius",
+      "type": "person",
+      "canonical_name": "Spurius Maecius Tarpa",
+      "short_name": "Sp. Maecius",
+      "aliases": [
+        "Maecius Tarpa"
+      ],
+      "external_ids": {},
+      "summary": "Roman critic and arbiter of plays selected for the public stage; the man whose taste oversaw the dramatic offerings at Pompey's games of 55 BC.",
+      "first_appearance": "ad-familiares-07-01",
+      "categories": [
+        "literary",
+        "critic"
+      ]
+    },
+    {
+      "id": "person:gallus-canius",
+      "type": "person",
+      "canonical_name": "C. Caninius Gallus",
+      "short_name": "Caninius Gallus",
+      "aliases": [
+        "Gallus Caninius"
+      ],
+      "external_ids": {},
+      "summary": "Tribune 56 BC, defended by Cicero on a maiestas charge in 55 BC; the trial in which Cicero ``almost killed himself'' (dirupi me paene) according to Fam. 7.1.",
+      "first_appearance": "ad-familiares-07-01",
+      "categories": [
+        "client"
+      ]
+    },
+    {
+      "id": "place:stabiae",
+      "type": "place",
+      "canonical_name": "Stabiae",
+      "short_name": "Stabiae",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "433104"
+      },
+      "summary": "Coastal town south of Pompeii, looking onto the Stabian gulf; M. Marius's villa had a window cut to its view.",
+      "first_appearance": "ad-familiares-07-01",
+      "categories": [
+        "italy",
+        "campania"
+      ]
+    },
+    {
+      "id": "person:egnatius-l",
+      "type": "person",
+      "canonical_name": "L. Egnatius Rufus",
+      "short_name": "Egnatius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman knight and friend of Atticus and Cicero, often acting as a financial agent; appears in Att. 4.12 and the later Atticus correspondence.",
+      "first_appearance": "ad-atticum-04-12",
+      "categories": [
+        "friend",
+        "agent"
+      ]
+    },
+    {
+      "id": "person:aquilius-c",
+      "type": "person",
+      "canonical_name": "Gaius Aquilius Gallus",
+      "short_name": "Aquilius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Praetor 66 BC and noted jurist; contemporary of Cicero, mentioned in Att. 4.12 in the Halimetus matter.",
+      "first_appearance": "ad-atticum-04-12",
+      "categories": [
+        "jurist"
+      ]
+    },
+    {
+      "id": "person:macro",
+      "type": "person",
+      "canonical_name": "Macro",
+      "short_name": "Macro",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Friend of Atticus, attending an auction at Larinum on the Ides of May 55 BC; otherwise unknown.",
+      "first_appearance": "ad-atticum-04-12",
+      "categories": [
+        "acquaintance"
+      ]
+    },
+    {
+      "id": "person:pilia",
+      "type": "person",
+      "canonical_name": "Pilia",
+      "short_name": "Pilia",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q3902946"
+      },
+      "summary": "Wife of Atticus from c. 56 BC; mother of Pomponia (Caecilia Attica). A frequent dinner-partner in the late-50s correspondence.",
+      "first_appearance": "ad-atticum-04-12",
+      "categories": [
+        "family-of-correspondent"
+      ]
+    },
+    {
+      "id": "person:crassipes",
+      "type": "person",
+      "canonical_name": "Furius Crassipes",
+      "short_name": "Crassipes",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Cicero's son-in-law (briefly): married Tullia in early 56 BC after her widowhood; the marriage did not last. The horti Crassipedis are Cicero's favourite suburban dining spot in 55 BC.",
+      "first_appearance": "ad-quintum-fratrem-02-04",
+      "categories": [
+        "family"
+      ]
+    },
+    {
+      "id": "place:halimetus",
+      "type": "place",
+      "canonical_name": "Halimetus",
+      "short_name": "Halimetus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Place or estate at issue in the Egnatius–Aquilius matter referenced in Att. 4.12; otherwise unknown.",
+      "first_appearance": "ad-atticum-04-12",
+      "categories": [
+        "italy"
+      ]
+    },
+    {
+      "id": "place:larinum",
+      "type": "place",
+      "canonical_name": "Larinum",
+      "short_name": "Larinum",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "433005"
+      },
+      "summary": "Town in Samnium (modern Larino), famous as the home of the defendant in Pro Cluentio.",
+      "first_appearance": "pro-cluentio",
+      "categories": [
+        "italy",
+        "samnium"
+      ]
+    },
+    {
+      "id": "place:horti-crassipedis",
+      "type": "place",
+      "canonical_name": "Horti Crassipedis",
+      "short_name": "the Crassipes gardens",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Suburban estate of Furius Crassipes outside Rome; a frequent dinner venue for Cicero in the mid-50s.",
+      "first_appearance": "ad-atticum-04-12",
+      "categories": [
+        "italy",
+        "rome-suburb"
+      ]
+    },
+    {
+      "id": "festival:games-of-pompey-55",
+      "type": "festival",
+      "canonical_name": "Pompey's Games (dedication of his theatre, 55 BC)",
+      "short_name": "Pompey's games",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "The lavish games marking the dedication of Pompey's stone theatre in the Campus Martius, late September 55 BC: stage plays under Sp. Maecius Tarpa's curation, gladiators, two five-day venationes, ending with the famous slaughter of elephants whose distress drew the crowd's pity.",
+      "first_appearance": "ad-familiares-07-01",
+      "categories": [
+        "games"
+      ]
+    },
+    {
+      "id": "place:pompeys-theatre",
+      "type": "place",
+      "canonical_name": "Theatrum Pompei",
+      "short_name": "Theatre of Pompey",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "423021"
+      },
+      "summary": "The first permanent stone theatre at Rome, built by Pompey in the Campus Martius and dedicated in 55 BC; the games of Fam. 7.1 inaugurated it.",
+      "first_appearance": "ad-familiares-07-01",
+      "categories": [
+        "rome",
+        "monument"
+      ]
+    },
+    {
+      "id": "text:clytaemnestra-accius",
+      "type": "text",
+      "canonical_name": "Clytaemnestra (Accius)",
+      "short_name": "Clytaemnestra",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Lost Roman tragedy by Lucius Accius, on the murder of Agamemnon; revived at Pompey's games of 55 BC, with six hundred mules in the procession.",
+      "first_appearance": "ad-familiares-07-01",
+      "categories": [
+        "literary",
+        "tragedy"
+      ]
+    },
+    {
+      "id": "text:equus-troianus",
+      "type": "text",
+      "canonical_name": "Equus Troianus",
+      "short_name": "The Trojan Horse",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Lost Roman tragedy (probably Naevius's), on the fall of Troy by the wooden horse; revived at Pompey's games of 55 BC, with three thousand mixing-bowls (creterrarum tria milia) in its triumphal pageant.",
+      "first_appearance": "ad-familiares-07-01",
+      "categories": [
+        "literary",
+        "tragedy"
+      ]
+    },
+    {
+      "id": "text:philoctetes-tragedy",
+      "type": "text",
+      "canonical_name": "Philoctetes",
+      "short_name": "Philoctetes",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Tragedy of the Greek hero Philoctetes; Sophocles's survives, Accius's and Pacuvius's are lost. Cicero's allusion in Q.fr. 2.8 is to the figure rather than to a specific dramatic version.",
+      "first_appearance": "ad-quintum-fratrem-02-08",
+      "categories": [
+        "literary",
+        "tragedy"
+      ]
+    },
+    {
+      "id": "person:l-licinius-crassus",
+      "type": "person",
+      "canonical_name": "Lucius Licinius Crassus",
+      "short_name": "Crassus (the orator)",
+      "aliases": [
+        "L. Crassus"
+      ],
+      "external_ids": {
+        "wikidata": "Q1378530"
+      },
+      "summary": "The supreme Roman orator of Cicero's youth (140-91 BC); consul 95, censor 92, princeps senatus. Speaker in De Oratore; his death of pleurisy ten days after the Ides of September 91 BC frames Book 3 as elegy. Not to be confused with M. Licinius Crassus the triumvir.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "orator",
+        "consular"
+      ]
+    },
+    {
+      "id": "person:m-antonius-orator",
+      "type": "person",
+      "canonical_name": "Marcus Antonius (orator)",
+      "short_name": "Antonius (the orator)",
+      "aliases": [
+        "M. Antonius"
+      ],
+      "external_ids": {
+        "wikidata": "Q307524"
+      },
+      "summary": "Roman orator (143-87 BC), consul 99, censor 97; with Crassus the supreme orator of Cicero's youth. Grandfather of Mark Antony the triumvir. Speaker in De Oratore; killed by Marius's partisans in 87.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "orator",
+        "consular"
+      ]
+    },
+    {
+      "id": "person:q-mucius-scaevola-augur",
+      "type": "person",
+      "canonical_name": "Quintus Mucius Scaevola the Augur",
+      "short_name": "Scaevola the Augur",
+      "aliases": [
+        "Q. Mucius"
+      ],
+      "external_ids": {},
+      "summary": "Roman jurist (c. 159-88 BC), consul 117, augur, son-in-law of Laelius and father-in-law of Crassus the orator. Speaker on the first day of De Oratore. To be distinguished from his cousin Q. Mucius Scaevola the Pontifex.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "jurist",
+        "consular"
+      ]
+    },
+    {
+      "id": "person:c-cotta",
+      "type": "person",
+      "canonical_name": "Gaius Aurelius Cotta",
+      "short_name": "Cotta (orator)",
+      "aliases": [
+        "C. Cotta"
+      ],
+      "external_ids": {},
+      "summary": "Roman orator (124-73 BC), consul 75; an interlocutor in De Oratore as a young man. Cicero's source for the conversation: De Oratore is presented as Cotta's recollection.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "orator",
+        "consular"
+      ]
+    },
+    {
+      "id": "person:p-sulpicius-rufus",
+      "type": "person",
+      "canonical_name": "Publius Sulpicius Rufus",
+      "short_name": "Sulpicius",
+      "aliases": [
+        "P. Sulpicius"
+      ],
+      "external_ids": {
+        "wikidata": "Q374272"
+      },
+      "summary": "Roman orator and tribune of the plebs 88 BC; an interlocutor in De Oratore as a young man. Killed in the Marian-Sullan strife in 88 BC.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "orator",
+        "tribune"
+      ]
+    },
+    {
+      "id": "person:q-lutatius-catulus",
+      "type": "person",
+      "canonical_name": "Quintus Lutatius Catulus",
+      "short_name": "Catulus",
+      "aliases": [
+        "Q. Catulus"
+      ],
+      "external_ids": {
+        "wikidata": "Q1364181"
+      },
+      "summary": "Roman general and orator (149-87 BC), consul 102 with Marius, victor at Vercellae against the Cimbri. Father-in-law of Hortensius. Speaker on the second day of De Oratore.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "orator",
+        "consular",
+        "imperator"
+      ]
+    },
+    {
+      "id": "person:c-iulius-caesar-strabo",
+      "type": "person",
+      "canonical_name": "Gaius Iulius Caesar Strabo Vopiscus",
+      "short_name": "Caesar Strabo",
+      "aliases": [
+        "C. Iulius Caesar"
+      ],
+      "external_ids": {
+        "wikidata": "Q453834"
+      },
+      "summary": "Roman orator and tragic poet (c. 130-87 BC), aedile 90, half-brother of Catulus. Speaker in De Oratore Book 2 on humour. Killed in the Marian-Sullan strife.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "orator",
+        "literary"
+      ]
+    },
+    {
+      "id": "person:plato",
+      "type": "person",
+      "canonical_name": "Plato",
+      "short_name": "Plato",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q859"
+      },
+      "summary": "Athenian philosopher (c. 428-348 BC), pupil of Socrates, founder of the Academy.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "philosopher",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:socrates",
+      "type": "person",
+      "canonical_name": "Socrates",
+      "short_name": "Socrates",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q913"
+      },
+      "summary": "Athenian philosopher (c. 470-399 BC), the founder of the philosophical-ethical tradition; condemned to death at Athens.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "philosopher",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:theophrastus",
+      "type": "person",
+      "canonical_name": "Theophrastus",
+      "short_name": "Theophrastus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q173066"
+      },
+      "summary": "Greek philosopher (c. 371-287 BC), Aristotle's successor as head of the Peripatetic school; author of the Characters and a lost treatise On Style much used by Cicero.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "philosopher",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:demosthenes",
+      "type": "person",
+      "canonical_name": "Demosthenes",
+      "short_name": "Demosthenes",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q83501"
+      },
+      "summary": "Athenian orator and statesman (384-322 BC); the supreme Greek orator of antiquity in Cicero's view. The Philippics and the De Corona are his canonical works.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "orator",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:gorgias",
+      "type": "person",
+      "canonical_name": "Gorgias of Leontini",
+      "short_name": "Gorgias",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q186008"
+      },
+      "summary": "Greek sophist and rhetorician (c. 483-376 BC); reputedly the first to take any topic at the audience's request. The figure of Plato's Gorgias.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "sophist",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:isocrates",
+      "type": "person",
+      "canonical_name": "Isocrates",
+      "short_name": "Isocrates",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q189911"
+      },
+      "summary": "Athenian rhetorician (436-338 BC), founder of the great Athenian school of rhetoric; teacher of Theopompus, Ephorus, and many leading Greek orators.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "rhetorician",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:carneades",
+      "type": "person",
+      "canonical_name": "Carneades",
+      "short_name": "Carneades",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q186980"
+      },
+      "summary": "Greek philosopher (214-129 BC), head of the Academy at Athens; famous for arguing on either side, including the embassy of 155 BC to Rome with Diogenes and Critolaus.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "philosopher",
+        "academic"
+      ]
+    },
+    {
+      "id": "person:charmadas",
+      "type": "person",
+      "canonical_name": "Charmadas",
+      "short_name": "Charmadas",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Greek philosopher of the New Academy (c. 165-95 BC); pupil of Carneades. Crassus heard him at Athens in 110 BC; Cicero presents him as the foil to the rhetoricians.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "philosopher",
+        "academic"
+      ]
+    },
+    {
+      "id": "person:thucydides",
+      "type": "person",
+      "canonical_name": "Thucydides",
+      "short_name": "Thucydides",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q41487"
+      },
+      "summary": "Athenian historian (c. 460-400 BC), author of the History of the Peloponnesian War; the model of dense and weighty prose for Cicero.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "historian",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:herodotus",
+      "type": "person",
+      "canonical_name": "Herodotus",
+      "short_name": "Herodotus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q26825"
+      },
+      "summary": "Greek historian of Halicarnassus (c. 484-425 BC), author of the Histories; the canonical first historian.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "historian",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:theopompus",
+      "type": "person",
+      "canonical_name": "Theopompus of Chios",
+      "short_name": "Theopompus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q299473"
+      },
+      "summary": "Greek historian (c. 380-c. 320 BC), pupil of Isocrates; author of the lost Hellenica and Philippica.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "historian",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:ephorus",
+      "type": "person",
+      "canonical_name": "Ephorus of Cyme",
+      "short_name": "Ephorus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q297303"
+      },
+      "summary": "Greek historian (c. 400-c. 330 BC), pupil of Isocrates; author of the lost universal history in 30 books.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "historian",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:xenophon",
+      "type": "person",
+      "canonical_name": "Xenophon",
+      "short_name": "Xenophon",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q129772"
+      },
+      "summary": "Athenian historian and pupil of Socrates (c. 430-354 BC); author of the Anabasis, Hellenica, Memorabilia, Cyropaedia.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "historian",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:hannibal",
+      "type": "person",
+      "canonical_name": "Hannibal",
+      "short_name": "Hannibal",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q6229"
+      },
+      "summary": "Carthaginian general (247-c. 183 BC), commander in the Second Punic War. The figure of the Hannibal/Phormio anecdote in De Oratore 2.75-76.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "general",
+        "foreign"
+      ]
+    },
+    {
+      "id": "person:c-marius",
+      "type": "person",
+      "canonical_name": "Gaius Marius",
+      "short_name": "Marius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q42891"
+      },
+      "summary": "Roman general and statesman (157-86 BC), seven-time consul; victor over Jugurtha and over the Cimbri and Teutones. The dominant political figure of Cicero's youth.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "general",
+        "consular"
+      ]
+    },
+    {
+      "id": "person:c-mancinus",
+      "type": "person",
+      "canonical_name": "Gaius Hostilius Mancinus",
+      "short_name": "Mancinus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1499942"
+      },
+      "summary": "Roman consul 137 BC; surrendered to the Numantines after defeat, was handed over to them by senatorial decree, but the surrender was rejected and his civil status was contested.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "consular"
+      ]
+    },
+    {
+      "id": "person:cato-maior",
+      "type": "person",
+      "canonical_name": "Marcus Porcius Cato (the Elder)",
+      "short_name": "Cato the Elder",
+      "aliases": [
+        "M. Cato"
+      ],
+      "external_ids": {
+        "wikidata": "Q170079"
+      },
+      "summary": "Roman statesman (234-149 BC), consul 195, censor 184; author of the Origines and De Agri Cultura. The model of the orator-jurist-soldier-citizen for Cicero.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "consular",
+        "writer"
+      ]
+    },
+    {
+      "id": "person:scipio-aemilianus",
+      "type": "person",
+      "canonical_name": "Publius Cornelius Scipio Aemilianus Africanus",
+      "short_name": "Scipio Aemilianus",
+      "aliases": [
+        "Africanus the younger"
+      ],
+      "external_ids": {
+        "wikidata": "Q179031"
+      },
+      "summary": "Roman general and statesman (185-129 BC), consul 147 and 134; conqueror of Carthage and Numantia. The central figure of De Re Publica.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "general",
+        "consular"
+      ]
+    },
+    {
+      "id": "person:simonides",
+      "type": "person",
+      "canonical_name": "Simonides of Ceos",
+      "short_name": "Simonides",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q235459"
+      },
+      "summary": "Greek lyric poet (c. 556-468 BC), credited as the inventor of the art of memory. The Scopas anecdote (Cic. De Or. 2.351-353) is the founding story of the loci-and-images mnemonic system.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "poet",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:scopas-thessalus",
+      "type": "person",
+      "canonical_name": "Scopas",
+      "short_name": "Scopas",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Thessalian noble of Crannon, patron of Simonides; killed when his hall collapsed during a banquet — the catastrophe in which Simonides discovered the loci method.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "foreign-ruler"
+      ]
+    },
+    {
+      "id": "person:metrodorus-scepsius",
+      "type": "person",
+      "canonical_name": "Metrodorus of Scepsis",
+      "short_name": "Metrodorus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Greek rhetorician (c. 145-70 BC), of Asia Minor; famous for his prodigious memory. Antonius heard him as proconsul on the way to Cilicia.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "rhetorician",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:l-marcius-philippus",
+      "type": "person",
+      "canonical_name": "Lucius Marcius Philippus",
+      "short_name": "Philippus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1869923"
+      },
+      "summary": "Roman consul 91 BC; opponent of Drusus's reform programme. The opponent of Crassus's last great speech (De Or. 3.4).",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "consular",
+        "political"
+      ]
+    },
+    {
+      "id": "person:m-livius-drusus-tribunus",
+      "type": "person",
+      "canonical_name": "Marcus Livius Drusus (the tribune)",
+      "short_name": "Drusus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1264321"
+      },
+      "summary": "Tribune of the plebs 91 BC; carried (and lost) a sweeping reform programme — judicial, agrarian, and citizenship; assassinated late in 91 BC. His death precipitated the Social War.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "tribune",
+        "political"
+      ]
+    },
+    {
+      "id": "person:plautus",
+      "type": "person",
+      "canonical_name": "Titus Maccius Plautus",
+      "short_name": "Plautus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q47155"
+      },
+      "summary": "Roman comic playwright (c. 254-184 BC); twenty surviving plays, the great body of early Latin comedy.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "dramatist",
+        "literary"
+      ]
+    },
+    {
+      "id": "person:naevius",
+      "type": "person",
+      "canonical_name": "Gnaeus Naevius",
+      "short_name": "Naevius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q310104"
+      },
+      "summary": "Roman epic and dramatic poet (c. 270-201 BC); author of the Bellum Punicum and several tragedies and comedies.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "poet",
+        "literary"
+      ]
+    },
+    {
+      "id": "person:laelia",
+      "type": "person",
+      "canonical_name": "Laelia",
+      "short_name": "Laelia",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Crassus's mother-in-law (daughter of C. Laelius the wise); her preserved old Roman accent is praised by Crassus as 'Plautine' (De Or. 3.45).",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "family-of-orator"
+      ]
+    },
+    {
+      "id": "person:asclepiades-medicus",
+      "type": "person",
+      "canonical_name": "Asclepiades of Bithynia",
+      "short_name": "Asclepiades",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q345920"
+      },
+      "summary": "Greek physician (c. 124-40 BC), settled at Rome; the dominant medical authority of the late Republic. Friend of Crassus the orator.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "medical",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:m-aquilius",
+      "type": "person",
+      "canonical_name": "Manius Aquilius",
+      "short_name": "M.' Aquilius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman consul 101 BC, victor in the Sicilian Slave War; defended in a repetundae trial by Antonius the orator (the famous tunic-tearing scene of De Or. 2.124, 195).",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "consular"
+      ]
+    },
+    {
+      "id": "person:c-norbanus",
+      "type": "person",
+      "canonical_name": "Gaius Norbanus",
+      "short_name": "Norbanus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Tribune of the plebs c. 103 BC; prosecuted Caepio and was himself prosecuted under the lex Appuleia de maiestate; defended (and acquitted) by Antonius the orator.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "tribune"
+      ]
+    },
+    {
+      "id": "person:m-iunius-brutus-accuser",
+      "type": "person",
+      "canonical_name": "Marcus Iunius Brutus (the accuser)",
+      "short_name": "Brutus (the accuser)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman accuser-orator (early first century BC), of base reputation; ridiculed by Crassus on the bench in the Plancius case. Not to be confused with Cicero's friend M. Iunius Brutus the assassin of Caesar.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "orator"
+      ]
+    },
+    {
+      "id": "person:l-aelius-lamia",
+      "type": "person",
+      "canonical_name": "Lucius Aelius Lamia",
+      "short_name": "Lamia",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Deformed Roman, mocked by Crassus on the bench (De Or. 2.262); the figure of the spirited self-defence with quick wit.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "acquaintance"
+      ]
+    },
+    {
+      "id": "person:c-gracchus",
+      "type": "person",
+      "canonical_name": "Gaius Sempronius Gracchus",
+      "short_name": "Gaius Gracchus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q121601"
+      },
+      "summary": "Roman tribune of the plebs 123-122 BC, brother of Tiberius Gracchus; the second great popularis orator; killed in 121 BC. The famous Whither-shall-I-flee passage (De Or. 3.214) survives only here.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "tribune",
+        "popularis"
+      ]
+    },
+    {
+      "id": "person:roscius-actor",
+      "type": "person",
+      "canonical_name": "Quintus Roscius Gallus",
+      "short_name": "Roscius (the actor)",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q449569"
+      },
+      "summary": "The greatest comic actor of late-Republican Rome (c. 126-62 BC), friend of Cicero, defended by him in 76 BC (Pro Roscio Comoedo); the Roman touchstone of perfect technique.",
+      "first_appearance": "pro-roscio-comoedo",
+      "categories": [
+        "actor",
+        "friend"
+      ]
+    },
+    {
+      "id": "person:hippias-of-elis",
+      "type": "person",
+      "canonical_name": "Hippias of Elis",
+      "short_name": "Hippias",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q325181"
+      },
+      "summary": "Greek sophist (c. 460-400 BC), boasted of his polymath self-sufficiency: he had made the very ring, cloak, and sandals he wore (De Or. 3.127).",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "sophist",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:pisistratus",
+      "type": "person",
+      "canonical_name": "Pisistratus",
+      "short_name": "Pisistratus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q190378"
+      },
+      "summary": "Tyrant of Athens (c. 600-527 BC); credited with first arranging Homer's books in their canonical order.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "foreign-ruler",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:pericles",
+      "type": "person",
+      "canonical_name": "Pericles",
+      "short_name": "Pericles",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q40187"
+      },
+      "summary": "Athenian statesman and orator (c. 495-429 BC); leader of Athens in its greatest age; pupil of Anaxagoras.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "statesman",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:anaxagoras",
+      "type": "person",
+      "canonical_name": "Anaxagoras of Clazomenae",
+      "short_name": "Anaxagoras",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q83041"
+      },
+      "summary": "Pre-Socratic philosopher (c. 500-428 BC); the first to bring philosophy to Athens; teacher of Pericles.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "philosopher",
+        "presocratic"
+      ]
+    },
+    {
+      "id": "person:aeschines-orator",
+      "type": "person",
+      "canonical_name": "Aeschines",
+      "short_name": "Aeschines",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q187330"
+      },
+      "summary": "Athenian orator (c. 389-314 BC), opponent of Demosthenes in the Crown trial; after his exile to Rhodes, allegedly delivered Demosthenes's reply with the famous concession that 'you would have wondered more if you had heard the man himself'.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "orator",
+        "greek"
+      ]
+    },
+    {
+      "id": "place:ithaca",
+      "type": "place",
+      "canonical_name": "Ithaca",
+      "short_name": "Ithaca",
+      "aliases": [],
+      "external_ids": {
+        "pleiades": "530908"
+      },
+      "summary": "Island in the Ionian Sea, kingdom of Odysseus; the figure of beloved homeland in Homer.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "greece",
+        "homeric"
+      ]
+    },
+    {
+      "id": "institution:centumviri",
+      "type": "institution",
+      "canonical_name": "Centumviri",
+      "short_name": "the Hundred Men",
+      "aliases": [
+        "the centumviral court"
+      ],
+      "external_ids": {},
+      "summary": "Roman court of (originally) 105 men chosen by tribe, hearing inheritance and property cases. The setting of several of De Oratore's reference cases (M.' Curius and Coponius, etc.).",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "roman-law"
+      ]
+    },
+    {
+      "id": "law:lex-duodecim-tabularum",
+      "type": "law",
+      "canonical_name": "Lex Duodecim Tabularum",
+      "short_name": "Twelve Tables",
+      "aliases": [
+        "XII Tables"
+      ],
+      "external_ids": {
+        "wikidata": "Q200117"
+      },
+      "summary": "Rome's first written code of law (450 BC); memorised by Roman schoolboys into the late Republic. Crassus's hyperbole at De Or. 1.195: it surpasses the libraries of all the philosophers.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "roman-law",
+        "ancient"
+      ]
+    },
+    {
+      "id": "law:ius-civile",
+      "type": "law",
+      "canonical_name": "Ius Civile",
+      "short_name": "civil law",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman civil law as held and interpreted by the jurisconsults — the body of legal practice within which inheritance, contracts, kinship, and property were governed.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "roman-law"
+      ]
+    },
+    {
+      "id": "festival:ludi-romani",
+      "type": "festival",
+      "canonical_name": "Ludi Romani",
+      "short_name": "Roman Games",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "The great Roman public games of September, in honour of Jupiter Optimus Maximus. The setting of the De Oratore conversation, in 91 BC.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "games",
+        "republican"
+      ]
+    },
+    {
+      "id": "text:phaedrus",
+      "type": "text",
+      "canonical_name": "Plato, Phaedrus",
+      "short_name": "Plato's Phaedrus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q319551"
+      },
+      "summary": "Platonic dialogue on love and rhetoric, set under a plane-tree by the Ilissus stream outside Athens. The model for the Tusculan setting of De Oratore.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "literary",
+        "philosophical"
+      ]
+    },
+    {
+      "id": "person:l-piso",
+      "type": "person",
+      "canonical_name": "Lucius Calpurnius Piso Caesoninus",
+      "short_name": "Piso (the consul of 58)",
+      "aliases": [
+        "L. Piso",
+        "Caesoninus"
+      ],
+      "external_ids": {
+        "wikidata": "Q1402796"
+      },
+      "summary": "Roman senator, consul 58 BC with A. Gabinius; father-in-law of Julius Caesar (whose daughter Calpurnia he had given Caesar in marriage). Defendant of In Pisonem.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "adversary"
+      ]
+    },
+    {
+      "id": "person:a-gabinius",
+      "type": "person",
+      "canonical_name": "Aulus Gabinius",
+      "short_name": "Gabinius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q455814"
+      },
+      "summary": "Roman tribune 67 (carried the lex Gabinia for Pompey against the pirates), consul 58 BC with L. Piso; governor of Syria 57-55 BC. Convicted on his return.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "adversary"
+      ]
+    },
+    {
+      "id": "person:c-antonius-hybrida",
+      "type": "person",
+      "canonical_name": "Gaius Antonius Hybrida",
+      "short_name": "Antonius (Hybrida)",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q450033"
+      },
+      "summary": "Roman consul 63 BC as Cicero's colleague; uncle of Mark Antony. Cicero exchanged provinces with him so as to keep him quiet during the Catilinarian crisis.",
+      "first_appearance": "in-catilinam-01",
+      "categories": [
+        "consular"
+      ]
+    },
+    {
+      "id": "person:c-cotta-cos-75",
+      "type": "person",
+      "canonical_name": "Gaius Aurelius Cotta (consul 75)",
+      "short_name": "C. Cotta (cos. 75)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman consul 75 BC, the orator of De Oratore. Burned with desire for a triumph but was prevented by death.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "orator"
+      ]
+    },
+    {
+      "id": "person:c-curio-cos",
+      "type": "person",
+      "canonical_name": "Gaius Scribonius Curio (consul 76)",
+      "short_name": "C. Curio",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman consul 76 BC, governor of Macedonia, triumphed in 72 BC over the Dardanians. Father of the tribune of 50 BC.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "imperator"
+      ]
+    },
+    {
+      "id": "person:c-piso-frugi-son-in-law",
+      "type": "person",
+      "canonical_name": "Gaius Calpurnius Piso Frugi",
+      "short_name": "Gaius Piso (Cicero's son-in-law)",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Cicero's first son-in-law, husband of Tullia (married c. 63 BC); he died young in 57 BC, much mourned by Cicero. Of the Calpurnian gens but a different branch from L. Piso Caesoninus.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "family"
+      ]
+    },
+    {
+      "id": "person:cn-dolabella-cos",
+      "type": "person",
+      "canonical_name": "Gnaeus Cornelius Dolabella",
+      "short_name": "Cn. Dolabella",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman consul 81 BC, governor of Macedonia, triumphed; convicted at Cicero's prosecution in 77.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "imperator"
+      ]
+    },
+    {
+      "id": "person:cotys-king",
+      "type": "person",
+      "canonical_name": "Cotys",
+      "short_name": "King Cotys",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "King of the Sapaean Thracians, a Roman ally; bought from Piso the head of Rabocentus, chief of the rival Bessian people, for 300 talents.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "foreign-ruler"
+      ]
+    },
+    {
+      "id": "person:l-gellius-poplicola",
+      "type": "person",
+      "canonical_name": "Lucius Gellius Poplicola",
+      "short_name": "L. Gellius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman consul 72 BC, censor 70 BC; one of the senatorial elders of Cicero's day. Spoke in support of Cicero in 63 BC, declaring he had earned a civic crown.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular"
+      ]
+    },
+    {
+      "id": "person:l-manlius-torquatus",
+      "type": "person",
+      "canonical_name": "Lucius Manlius Torquatus",
+      "short_name": "L. Torquatus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman consul 65 BC; supporter of Cicero, advocate of his recall from exile. Triumphed from Macedonia.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "supporter"
+      ]
+    },
+    {
+      "id": "person:l-opimius",
+      "type": "person",
+      "canonical_name": "Lucius Opimius",
+      "short_name": "L. Opimius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1862930"
+      },
+      "summary": "Roman consul 121 BC; carried the senatus consultum ultimum against Gaius Gracchus and killed him. Convicted by the Mamilian commission in 109 BC and exiled.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "consular"
+      ]
+    },
+    {
+      "id": "person:m-claudius-marcellus-cos-3",
+      "type": "person",
+      "canonical_name": "Marcus Claudius Marcellus",
+      "short_name": "M. Marcellus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman consul 166, 155, 152 BC, victor over the Alpine Insubres; perished at sea on a later embassy. Cicero's example of an undeserved death.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "imperator"
+      ]
+    },
+    {
+      "id": "person:m-lucullus",
+      "type": "person",
+      "canonical_name": "Marcus Terentius Varro Lucullus",
+      "short_name": "M. Lucullus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q449537"
+      },
+      "summary": "Roman consul 73 BC; brother of L. Lucullus; triumphed over the Bessi from Macedonia in 71 BC. Supporter of Cicero's recall.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "imperator"
+      ]
+    },
+    {
+      "id": "person:m-regulus",
+      "type": "person",
+      "canonical_name": "Marcus Atilius Regulus",
+      "short_name": "M. Regulus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q367013"
+      },
+      "summary": "Roman consul 267 and 256 BC; captured by the Carthaginians and (in the legend) tortured to death after returning to Rome on parole and advising the senate against terms.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "exemplary"
+      ]
+    },
+    {
+      "id": "person:p-lentulus-spinther",
+      "type": "person",
+      "canonical_name": "Publius Cornelius Lentulus Spinther",
+      "short_name": "P. Lentulus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q367497"
+      },
+      "summary": "Roman consul 57 BC; the chief mover of Cicero's recall from exile. The Lentulus of the Fam. 1 correspondence.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "supporter"
+      ]
+    },
+    {
+      "id": "person:p-rutilius-rufus",
+      "type": "person",
+      "canonical_name": "Publius Rutilius Rufus",
+      "short_name": "P. Rutilius",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q428124"
+      },
+      "summary": "Roman consul 105 BC, austere Stoic; condemned in 92 BC for repetundae as legate in Asia, despite his probity. The locus classicus of judicial injustice.",
+      "first_appearance": "de-oratore",
+      "categories": [
+        "consular",
+        "stoic"
+      ]
+    },
+    {
+      "id": "person:philodemus",
+      "type": "person",
+      "canonical_name": "Philodemus of Gadara",
+      "short_name": "Philodemus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q260041"
+      },
+      "summary": "Greek Epicurean philosopher and erotic poet (c. 110-c. 35 BC); resident in Piso's household. His epigrams survive in the Greek Anthology, his prose works on the Herculaneum papyri.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "philosopher",
+        "poet",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:q-lutatius-catulus-pater",
+      "type": "person",
+      "canonical_name": "Quintus Lutatius Catulus (consul 78)",
+      "short_name": "Catulus the elder of Cicero's day",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q1364200"
+      },
+      "summary": "Roman consul 78 BC, censor 65; \\textit{princeps senatus} from c. 67. The chief honourer of Cicero on the Catilinarian conspiracy: gave him the title \\textit{parens patriae} in the senate.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "supporter"
+      ]
+    },
+    {
+      "id": "person:q-metellus-numidicus",
+      "type": "person",
+      "canonical_name": "Quintus Caecilius Metellus Numidicus",
+      "short_name": "Metellus Numidicus",
+      "aliases": [],
+      "external_ids": {
+        "wikidata": "Q335830"
+      },
+      "summary": "Roman consul 109 BC, victor over Jugurtha; refused to swear to Saturninus's agrarian law in 100 BC and went into exile rather than yield, returning the next year. The model of dignified retreat.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "consular",
+        "exemplary"
+      ]
+    },
+    {
+      "id": "person:sex-clodius",
+      "type": "person",
+      "canonical_name": "Sextus Clodius",
+      "short_name": "Sex. Clodius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Henchman of P. Clodius (the tribune of 58); presided over the Compitalia of 1 January 58 BC against the senate's authority. Likely the author of much of the Clodian legislation.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "henchman",
+        "adversary"
+      ]
+    },
+    {
+      "id": "person:t-albucius",
+      "type": "person",
+      "canonical_name": "Titus Albucius",
+      "short_name": "Albucius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman praetor c. 105 BC, governor of Sardinia; an Epicurean. Triumphed in Sardinia, then was condemned at Rome — Cicero's parallel for Piso.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "epicurean"
+      ]
+    },
+    {
+      "id": "place:placentia",
+      "type": "place",
+      "canonical_name": "Placentia",
+      "short_name": "Placentia",
+      "aliases": [
+        "Piacenza"
+      ],
+      "external_ids": {
+        "pleiades": "383664"
+      },
+      "summary": "Town in Cisalpine Gaul, modern Piacenza; an Insubrian colony of the second century BC. Piso's maternal grandfather's town.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "italy",
+        "cisalpine"
+      ]
+    },
+    {
+      "id": "place:bessi",
+      "type": "place",
+      "canonical_name": "Bessi (Thracian people)",
+      "short_name": "Bessi",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Thracian people of the Rhodope mountain area; perpetually at war with Rome and her allies through Cicero's time.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "foreign-people",
+        "thracian"
+      ]
+    },
+    {
+      "id": "law:lex-aelia-fufia",
+      "type": "law",
+      "canonical_name": "Lex Aelia and Lex Fufia",
+      "short_name": "Aelian and Fufian Law",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Two laws of c. 150 BC governing obnuntiatio (religious obstruction of legislation by claim of unfavourable omens). A safeguard of the senatorial class against popular tribunes; abolished by Clodius's tribunate in 58 BC.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "roman-law",
+        "religious"
+      ]
+    },
+    {
+      "id": "law:lex-iulia-de-rebus-repetundis",
+      "type": "law",
+      "canonical_name": "Lex Iulia de rebus repetundis",
+      "short_name": "Caesar's extortion law",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Caesar's law of 59 BC reorganising the regulation of provincial governors; widely held the most carefully framed of Roman extortion laws and the basis for later trials.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "roman-law"
+      ]
+    },
+    {
+      "id": "law:lex-licinia-pompeia",
+      "type": "law",
+      "canonical_name": "Lex Pompeia (de iudiciis 55 BC)",
+      "short_name": "Pompey's iudiciary law",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Pompey's law of 55 BC reforming the album of jurors by tribe and rank; in Cicero's hope, less liable to political packing than its predecessors.",
+      "first_appearance": "in-pisonem",
+      "categories": [
+        "roman-law"
+      ]
     }
   ]
 }

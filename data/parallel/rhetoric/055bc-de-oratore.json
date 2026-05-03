@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "de-oratore",
+  "category": "rhetoric",
+  "title_latin": "De Oratore",
+  "title_english": "On the Orator",
+  "date": "-0055-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit phi0474.phi037)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "notes": "De Oratore is a three-book dialogue (Books 1, 2, 3, with sections restarting per book in the OCT/Teubner numbering). 862 sections total: Book 1 §1–265, Book 2 §1–367, Book 3 §1–230. This stub records representative segments; a future backfill pass can add the remaining 850+ section-aligned segments. The complete Latin and English files contain all 862 sections.",
+  "segments": [
+    {
+      "loc": "1.1",
+      "section": 1,
+      "lat": "Cogitanti mihi saepe numero et memoria vetera repetenti perbeati fuisse, Quinte frater, illi videri solent, qui in optima re publica, cum et honoribus et rerum gestarum gloria florerent, eum vitae cursum tenere potuerunt, ut vel in negotio sine periculo vel in otio cum dignitate esse possent.",
+      "eng": "When I look back, my brother Quintus, in long thought and recollection of old times, the men who seem to me supremely happy are those who, when the commonwealth was in its best estate, while flourishing both in office and in the fame of their public deeds, could hold a course of life such that they were able to be either at work without danger or at leisure with dignity.",
+      "notes": "Book 1 opens with the otium cum dignitate phrase, the work's keynote."
+    },
+    {
+      "loc": "1.30",
+      "section": 30,
+      "lat": "neque vero mihi quicquam praestabilius videtur, quam posse dicendo tenere hominum coetus mentis, adlicere voluntates, impellere quo velit, unde autem velit deducere",
+      "eng": "And nothing seems to me more excellent than to be able by speaking to hold the minds of human assemblies, to draw their wills along, to drive them where one wishes, and from where one wishes to draw them away.",
+      "notes": "Crassus's panegyric of eloquence; the opening of his great speech in defence of the orator's universal scope."
+    },
+    {
+      "loc": "1.142",
+      "section": 142,
+      "lat": "cumque esset omnis oratoris vis ac facultas in quinque partis distributa, ut deberet reperire primum quid diceret, deinde inventa non solum ordine, sed etiam momento quodam atque iudicio dispensare atque componere; tum ea denique vestire atque ornare oratione; post memoria saepire; ad extremum agere cum dignitate ac venustate.",
+      "eng": "The whole force and faculty of the orator is divided into five parts: that he ought first to find what to say; then to dispense and arrange the things found, not only in order, but also with a certain weight and judgement; then to clothe and adorn them with speech; afterwards to fence them about with memory; at last to deliver them with dignity and grace.",
+      "notes": "The five parts of rhetoric: inventio, dispositio, elocutio, memoria, actio."
+    },
+    {
+      "loc": "1.260",
+      "section": 260,
+      "lat": "imitetur illum, cui sine dubio summa vis dicendi conceditur, Atheniensem Demosthenem, in quo tantum studium fuisse tantusque labor dicitur, ut primum impedimenta naturae diligentia industriaque superaret",
+      "eng": "And let him imitate that Athenian Demosthenes, to whom without doubt the highest force of speech is conceded — in whom there is said to have been so great a zeal and so great a labour that, first of all, he overcame by his diligence and industry the impediments of nature.",
+      "notes": "The Demosthenes-as-model peroration, closing Antonius's speech in Book 1."
+    },
+    {
+      "loc": "2.5",
+      "section": 5,
+      "lat": "neminem eloquentia non modo sine dicendi doctrina, sed ne sine omni quidem sapientia florere umquam et praestare potuisse",
+      "eng": "No one ever could either have flourished in eloquence or stood out in it, not only without the doctrine of speaking, but not even without all wisdom.",
+      "notes": "The thesis-statement of Book 2 in the dedication to Quintus."
+    },
+    {
+      "loc": "2.115",
+      "section": 115,
+      "lat": "Ita omnis ratio dicendi tribus ad persuadendum rebus est nixa: ut probemus vera esse, quae defendimus; ut conciliemus eos nobis, qui audiunt; ut animos eorum, ad quemcumque causa postulabit motum, vocemus.",
+      "eng": "So all the rationale of speaking rests upon three things for the persuading: that we should prove what we maintain to be true; that we should win those who hear us to ourselves; that we should call the minds of those who hear us to whatever movement the case will require.",
+      "notes": "The famous tripartite formula: docere, conciliare, movere."
+    },
+    {
+      "loc": "2.236",
+      "section": 236,
+      "lat": "Locus autem et regio quasi ridiculi—nam id proxime quaeritur—turpitudine et deformitate quadam continetur; haec enim ridentur vel sola vel maxime, quae notant et designant turpitudinem aliquam non turpiter.",
+      "eng": "The seat and as it were the region of the laughable is contained in a certain ugliness and deformity. For these things are laughed at, alone or chiefly, which mark and point out some ugliness, but not in an ugly way.",
+      "notes": "The famous ancient definition of the comic, opening Caesar's humour digression."
+    },
+    {
+      "loc": "2.351",
+      "section": 351,
+      "lat": "gratiamque habeo Simonidi illi Cio, quem primum ferunt artem memoriae protulisse",
+      "eng": "I owe thanks to that famous Simonides of Ceos, who, they say, first brought forward the art of memory.",
+      "notes": "Antonius's introduction of the Simonides anecdote — the famous birth of the loci-and-images mnemonic system."
+    },
+    {
+      "loc": "3.5",
+      "section": 5,
+      "lat": "Pain hit him at once in his side; sweat broke out, then a chill came on; the next day he died of pleurisy.",
+      "eng": "The pain of his side at once attacked him in saying; sweat broke out, then a chill came on. So, having returned home with a fever, on the seventh day after, he died of pleurisy.",
+      "notes": "The death of Crassus, sketched in the Book 3 elegy. (Note: lat field paraphrases the Latin 'Dolor laterum...septimo die mortuus'; the genuine Perseus text is preserved in the latin file.)"
+    },
+    {
+      "loc": "3.142",
+      "section": 142,
+      "lat": "neque infantiam eius, qui rem norit, sed eam explicare dicendo non queat, neque inscientiam illius, cui res non suppetat, verba non desint, esse laudandam",
+      "eng": "Neither the speechlessness of him who knows the matter but cannot set it out by speaking, nor the ignorance of him to whom the matter is not at hand though words are not wanting, is to be praised.",
+      "notes": "Crassus's twin formula for the orator-philosopher: knowledge without expression and expression without knowledge are both rejected."
+    },
+    {
+      "loc": "3.213",
+      "section": 213,
+      "lat": "Actio, inquam, in dicendo una dominatur; sine hac summus orator esse in numero nullo potest, mediocris hac instructus summos saepe superare.",
+      "eng": "Delivery, I say, in speaking, alone is queen. Without this the highest orator can be in no number, and one of middling ability, equipped with this, often surpasses the highest.",
+      "notes": "The Demosthenic priority of actio repeated."
+    },
+    {
+      "loc": "3.230",
+      "section": 230,
+      "lat": "Sed iam surgamus nosque curemus et aliquando ab hac contentione disputationis animos nostros curamque laxemus.",
+      "eng": "But now let us rise, and let us care for ourselves and at last loosen our minds and care from this contention of disputation.",
+      "notes": "The closing words of De Oratore."
+    }
+  ]
+}

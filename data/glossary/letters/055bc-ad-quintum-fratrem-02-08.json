@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Statius",
+      "entity_id": "person:statius-q-freedman",
+      "note": "Quintus's much-trusted (and notorious) freedman, often Q.fr. correspondence's offstage figure; Cicero teases that nobody in the brothers' circle is more apt to interrupt him than Quintus or Statius."
+    },
+    {
+      "loc": "2",
+      "anchor": "Asician litter",
+      "entity_id": null,
+      "note": "Asicius was a friend of Caelius and a partisan of Pompey; the litter once belonged to Ptolemy XII Auletes, who used Asicius's hospitality and entourage during his stay in Italy. The eight bearers and hundred sword-men are the marks of a quasi-royal escort."
+    },
+    {
+      "loc": "3",
+      "anchor": "Hymettus",
+      "entity_id": "place:hymettus",
+      "note": "The mountain near Athens, by metonymy a sign of Athenian (Academic, Stoic) learning; Cicero's joke is that his philosophy is rough-and-ready Italian, not polished Greek."
+    },
+    {
+      "loc": "4",
+      "anchor": "Philoctetes",
+      "entity_id": "person:philoctetes",
+      "note": "Sophocles's hero, abandoned on Lemnos with a festering wound; here a figure for the wronged citizen who watches the spectacles that grieve him."
+    }
+  ]
+}

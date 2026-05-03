@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-08",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 2.8",
+  "title_english": "Ad Quintum Fratrem 2.8",
+  "date": "-0055-05-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "tu metuis ne me interpelles? primum, si in isto essem, tu scis quid sit interpellare an te Statius? me hercule mihi docere videris istius generis humanitatem, qua quidem ego nihil utor abs te. tu vero ut me et appelles et interpelles et obloquare et conloquare velim. quid enim mihi suavius? non me hercule quisquam mousopataktos libentius sua recentia poemata legit quam ego te audio quacumque de re, publica, privata, rustica, urbana. sed mea factum est insulsa verecundia ut te proficiscens non tollerem. opposuisti semel anantilekton causam, Ciceronis nostri valetudinem; conticui.",
+      "eng": "You are afraid you may interrupt me? In the first place, even if I were absorbed in something, do you, of all people, know what an interruption is — you, or Statius? By Hercules, you seem to be lecturing me on a politeness of just that sort which I, for my part, do not in the least require from you. As for you, I would have you address me and interrupt me and talk back at me and talk with me. What is sweeter to me? By Hercules, no muse-stricken poet reads out his latest verses with more relish than I listen to you on any subject at all — public, private, country, town. But it was my own dull modesty that made me fail to take you with me when I left. You set against me, once, an unanswerable ground — our young Cicero's health; I fell silent.",
+      "notes": "Two Greek words in the Latin: mousopataktos (muse-stricken) and anantilekton (unanswerable)."
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "iterum Cicerones; quievi. nunc mihi iucunditatis plena epistula hoc adspersit molestiae quod videris ne mihi molestus esses veritus esse atque etiam nunc vereri. litigarem tecum, si fas esset; sed me hercule, istuc si umquam suspicatus ero, nihil dicam aliud nisi verebor ne quando ego tibi, cum sum una, molestus sim. video, te ingemuisse. sic fit, eid' en aiai ezesas: numquam enim dicam: ea pasas. Marium autem nostrum in lecticam me hercule coniecissem, non illam regis Ptolomaei Asicianam; memini enim, cum hominem portaret ad Baias Neapoli octaphoro Asiciano machaerophoris centum sequentibus, miros risus nos edere cum ille ignarus sui comitatus repente aperuit lecticam et paene ille timore, ego risu corrui. hunc, ut dico, certe sustulissem ut aliquando subtilitatem veteris urbanitatis et humanissimi sermonis attingerem; sed hominem infirmum in villam apertam ac ne rudem quidem etiam nunc invitare nolui.",
+      "eng": "A second time, the boys; I gave way. Now this letter of yours, full of charm, has sprinkled into my pleasure this one bit of irritation: that you seem to have been afraid you were a bother to me, and even now to be afraid of it. I should quarrel with you over it, if I might; but by Hercules, if I ever suspect such a thing, I shall say nothing else except that I shall be afraid I may at some time be a bother to you, when I am at your side. I see you have groaned. Yes, that is how it goes — eid' en aiai ezesas; for I shall never say ea pasas. As for our Marius, by Hercules I should have flung him into a litter — not that famous Asician one of King Ptolemy's. For I remember, when it was carrying the man from Naples to Baiae in an eight-bearer Asician litter with a hundred sword-men following, what wonderful laughter we let out when he, all unaware of his escort, suddenly threw the curtains open, and he nearly collapsed from fright and I from laughter. Marius, as I say, I should certainly have brought along, so that I might at last touch some shred of the old urbanity and the most cultivated conversation; but I was unwilling to invite a frail man into a villa still wide open, and not even rough-finished as yet.",
+      "notes": "Two Greek phrases in the Latin are corrupt in the manuscript tradition; sense uncertain."
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "hoc vero mihi peculiare fuerit, hic etiam isto frui. nam illorum praediorum scito mihi vicinum Marium lumen esse. apud Anicium videbimus ut paratum sit. nos enim ita philologi sumus ut vel cum fabris habitare possimus. habemus hanc philosophiam non ab Hymetto sed ab †araxira†. Marius et valetudine est et natura imbecillior.",
+      "eng": "This, however, will be a special pleasure of mine — to enjoy him here as well. For of those estates of mine, you may take it, my neighbour Marius is a beacon. At Anicius's place we shall see to it that everything is made ready; for we are such philologists that we can live even among the carpenters. We get this philosophy not from Hymettus but from araxira. Marius, what is more, is on the weaker side both in health and in temperament.",
+      "notes": "araxira corrupt; sense unrecoverable."
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de interpellatione tantum sumam a vobis temporis ad scribendum quantum dabitis. Vtinam nihil detis, ut potius vestra iniuria quam ignavia mea cessem de re publica nimium te laborare doleo et meliorem civem esse quam Philoctetam, qui accepta iniuria ea spectacula quaerebat quae tibi acerba esse video. amabo te, advola (consolabor te et omnem abstergebo dolorem) et adduc, si me amas, Marium; sed adproperate. hortus domi est.",
+      "eng": "As to interruption: I shall take only so much of my time from the two of you for writing as you give me. May you give me none, that I may pause from rest through your fault rather than through any sloth of my own. That you should be too sore at heart over the commonwealth grieves me — that you are a better citizen than Philoctetes, who, after the wrong done him, sought out the very spectacles which I see are bitter to you. I beseech you, fly here (I shall console you and wipe away all your pain) and bring with you, if you love me, Marius; but make haste, both of you. The garden is at home.",
+      "notes": null
+    }
+  ]
+}

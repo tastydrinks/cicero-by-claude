@@ -6,7 +6,7 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 147 works end-to-end across all categories.
+- **Drafted**: 153 works end-to-end across all categories.
   - **Speeches (30)**: *Pro Quinctio* (81 BC), *Pro Roscio
     Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
     *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
@@ -493,6 +493,48 @@ As of the sixth session the four mid-56 BC speeches that
 follow Pro Sestio (\textit{De Provinciis Consularibus},
 \textit{De Haruspicum Responsis}, \textit{Pro Balbo}) are
 drafted, along with \textit{Ad Familiares 5.12} to Lucceius.
+
+A second parallel-assignment session of the same period
+drafted the six mid-55 BC works the launch prompt named:
+\textit{Q. fr.} 2.8 (May 55, the gentle ``you are not
+interrupting me'' to Quintus, with the Asician-litter
+recollection of M. Marius); \textit{Att.} 4.12 (May 55,
+single-section dinner-arranger with the joke about playing
+a trick on the senate's decree by dining at the Crassipes
+gardens); \textit{De Oratore} (all 862 sections across three
+books --- the longest single work drafted in any session of
+this project; the mature dialogue replacing the boyish
+\textit{De Inventione}, with the great Tusculan plane-tree
+frame, the elegy for Crassus opening Book 3, and the
+Caesar-Strabo humour digression at 2.217--289); \textit{In
+Pisonem} (all 118 sections including the 19 fragments --- the
+most violent invective in the corpus, with the
+me-vs-tibi consulship parallel of \textsection 2--7, the
+Macedonian-disgrace catalogue, and the Philodemus and
+\textit{cedant arma togae} centre); \textit{Fam.} 13.40 to
+Q. Ancharius (Piso's successor in Macedonia); and \textit{Fam.}
+7.1 to M. Marius on Pompey's dedication-games --- the elephants,
+Aesopus's failed \textit{si sciens fallo}, and \textit{humaniter
+vivere}. Sidecars emitted comprehensively for all six. About 100
+new entities added to entities.json --- the De Oratore cast
+(L. Crassus, M. Antonius, Scaevola the Augur, Cotta, Sulpicius,
+Catulus, Caesar Strabo) and the Greek philosophers (Plato,
+Aristotle, Theophrastus, Socrates, Demosthenes, Carneades,
+Charmadas, Thucydides, Herodotus, Theopompus, Ephorus, Xenophon,
+Hippias, Pisistratus, Pericles, Anaxagoras, Aeschines, Hannibal,
+Marius, Cato the Elder, Scipio Aemilianus, Simonides), the In
+Pisonem cast (L. Piso, A. Gabinius, Antonius Hybrida, Lentulus
+Spinther, M. Lucullus, the elder Catulus, Torquatus, Cn. Dolabella,
+C. Curio, M. Marcellus, M. Regulus, P. Rutilius Rufus, L. Opimius,
+Q. Metellus Numidicus, Gellius, T. Albucius, C. Cotta cos. 75,
+Sex. Clodius, C. Piso Frugi, Philodemus, King Cotys), and laws
+and texts (Twelve Tables, lex Aelia Fufia, lex Iulia de
+repetundis, lex Pompeia iudiciaria, ius civile, Plato's Phaedrus,
+Accius's Clytaemnestra, Equus Troianus). The build-system
+addition: a \texttt{\textbackslash ciceroBook\{N\}} command in
+build/preamble.tex for multi-book works, used to mark Books 2
+and 3 within \textit{De Oratore}; ready for \textit{De Re Publica}
+and \textit{De Legibus}.
 The next chronological items, then, are the early-56 BC
 items the assigned-list session jumped over (which an
 earlier session had not yet picked up): \textbf{\textit{In

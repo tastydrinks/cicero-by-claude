@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-40",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.40",
+  "title_english": "Ad Familiares 13.40",
+  "date": "-0055-12-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. et C. Aurelios L. filios, quibus et ipsis et patre eorum, viro optimo, familiarissime utor, commendo tibi maiorem in modum, adulescentis omnibus optimis artibus ornatos, meos pernecessarios, tua amicitia dignissimos. si ulla mea apud te commendatio valuit (quod scio multas plurimum valuisse), haec ut valeat rogo. quod si eos honorifice liberaliterque tractaris, et tibi gratissimos optimosque adulescentis adiunxeris et mihi gratissimum feceris.",
+      "eng": "Lucius and Gaius Aurelius, sons of Lucius — with whom themselves, and with their father, an excellent man, I am on most familiar terms — I commend to you most warmly: young men adorned with all the best accomplishments, my closest friends, most worthy of your friendship. If any commendation of mine has ever availed with you (which I know many have very greatly availed), let this one prevail, I ask. If you should treat them honourably and generously, you will both have attached to yourself most grateful and excellent young men, and you will have done me a most welcome service.",
+      "notes": null
+    }
+  ]
+}

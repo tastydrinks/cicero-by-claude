@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-01",
+  "mentions": [
+    {"loc": "1", "surface": "M. MARIO", "entity_id": "person:m-marius", "in": "lat"},
+    {"loc": "1", "surface": "Marius", "entity_id": "person:m-marius", "in": "eng"},
+    {"loc": "1", "surface": "Stabianum", "entity_id": "place:stabiae", "in": "lat"},
+    {"loc": "1", "surface": "Stabiae", "entity_id": "place:stabiae", "in": "eng"},
+    {"loc": "1", "surface": "Sp. Maecius", "entity_id": "person:sp-maecius", "in": "lat"},
+    {"loc": "1", "surface": "Spurius Maecius", "entity_id": "person:sp-maecius", "in": "eng"},
+    {"loc": "2", "surface": "Aesopus", "entity_id": "person:aesopus", "in": "lat"},
+    {"loc": "2", "surface": "Aesopus", "entity_id": "person:aesopus", "in": "eng"},
+    {"loc": "2", "surface": "Clytaemestra", "entity_id": "text:clytaemnestra-accius", "in": "lat"},
+    {"loc": "2", "surface": "Clytaemnestra", "entity_id": "text:clytaemnestra-accius", "in": "eng"},
+    {"loc": "2", "surface": "Equo Troiano", "entity_id": "text:equus-troianus", "in": "lat"},
+    {"loc": "2", "surface": "Trojan Horse", "entity_id": "text:equus-troianus", "in": "eng"},
+    {"loc": "3", "surface": "Protogeni", "entity_id": "person:protogenes", "in": "lat"},
+    {"loc": "3", "surface": "Protogenes", "entity_id": "person:protogenes", "in": "eng"},
+    {"loc": "3", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "3", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "4", "surface": "Galli Canini", "entity_id": "person:gallus-canius", "in": "lat"},
+    {"loc": "4", "surface": "Caninius Gallus", "entity_id": "person:gallus-canius", "in": "eng"}
+  ]
+}

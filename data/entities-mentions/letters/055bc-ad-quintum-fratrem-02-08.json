@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-08",
+  "mentions": [
+    {"loc": "1", "surface": "QVINTO FRATRI", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "Quintus", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "Statius", "entity_id": "person:statius-q-freedman", "in": "lat"},
+    {"loc": "1", "surface": "Statius", "entity_id": "person:statius-q-freedman", "in": "eng"},
+    {"loc": "1", "surface": "Ciceronis nostri", "entity_id": "person:marcus-cicero-younger", "in": "lat"},
+    {"loc": "1", "surface": "young Cicero", "entity_id": "person:marcus-cicero-younger", "in": "eng"},
+    {"loc": "2", "surface": "Marium", "entity_id": "person:m-marius", "in": "lat"},
+    {"loc": "2", "surface": "Marius", "entity_id": "person:m-marius", "in": "eng"},
+    {"loc": "2", "surface": "regis Ptolomaei", "entity_id": "person:ptolemy-auletes", "in": "lat"},
+    {"loc": "2", "surface": "King Ptolemy", "entity_id": "person:ptolemy-auletes", "in": "eng"},
+    {"loc": "2", "surface": "Baias", "entity_id": "place:baiae", "in": "lat"},
+    {"loc": "2", "surface": "Baiae", "entity_id": "place:baiae", "in": "eng"},
+    {"loc": "2", "surface": "Neapoli", "entity_id": "place:neapolis", "in": "lat"},
+    {"loc": "2", "surface": "Naples", "entity_id": "place:neapolis", "in": "eng"},
+    {"loc": "3", "surface": "Marium", "entity_id": "person:m-marius", "in": "lat"},
+    {"loc": "3", "surface": "Marius", "entity_id": "person:m-marius", "in": "eng"},
+    {"loc": "3", "surface": "Anicium", "entity_id": "person:anicius-c", "in": "lat"},
+    {"loc": "3", "surface": "Anicius", "entity_id": "person:anicius-c", "in": "eng"},
+    {"loc": "3", "surface": "Hymetto", "entity_id": "place:hymettus", "in": "lat"},
+    {"loc": "3", "surface": "Hymettus", "entity_id": "place:hymettus", "in": "eng"},
+    {"loc": "4", "surface": "Philoctetam", "entity_id": "person:philoctetes", "in": "lat"},
+    {"loc": "4", "surface": "Philoctetes", "entity_id": "person:philoctetes", "in": "eng"},
+    {"loc": "4", "surface": "Marium", "entity_id": "person:m-marius", "in": "lat"},
+    {"loc": "4", "surface": "Marius", "entity_id": "person:m-marius", "in": "eng"}
+  ]
+}

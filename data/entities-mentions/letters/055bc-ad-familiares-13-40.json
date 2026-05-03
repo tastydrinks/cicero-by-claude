@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-40",
+  "mentions": [
+    {"loc": "1", "surface": "Q. ANCHARIO", "entity_id": "person:q-ancharius", "in": "lat"},
+    {"loc": "1", "surface": "Quintus Ancharius", "entity_id": "person:q-ancharius", "in": "eng"},
+    {"loc": "1", "surface": "L. Aurelios", "entity_id": "person:l-aurelius", "in": "lat"},
+    {"loc": "1", "surface": "Lucius Aurelius", "entity_id": "person:l-aurelius", "in": "eng"},
+    {"loc": "1", "surface": "C. Aurelios", "entity_id": "person:c-aurelius", "in": "lat"},
+    {"loc": "1", "surface": "Gaius Aurelius", "entity_id": "person:c-aurelius", "in": "eng"}
+  ]
+}

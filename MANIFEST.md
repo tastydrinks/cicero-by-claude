@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 171
-- pending: 787
+- drafted: 177
+- pending: 781
 
 ## Chronological order
 
@@ -184,12 +184,12 @@ Status:
 | 164 | 23 April 55 BC | letters | Ad Atticum 4.10 | drafted |
 | 165 | 28 April 55 BC | letters | Ad Atticum 4.9 | drafted |
 | 166 | 1 May 55 BC | letters | Ad Atticum 4.11 | drafted |
-| 167 | 55 BC | letters | Ad Quintum Fratrem 2.8 | pending |
-| 168 | 55 BC | letters | Ad Atticum 4.12 | pending |
-| 169 | 55 BC | rhetoric | On the Orator | pending |
-| 170 | 55 BC | speeches | Against Piso | pending |
-| 171 | 55 BC | letters | Ad Familiares 13.40 | pending |
-| 172 | October 55 BC | letters | Ad Familiares 7.1 | pending |
+| 167 | 55 BC | letters | Ad Quintum Fratrem 2.8 | drafted |
+| 168 | 55 BC | letters | Ad Atticum 4.12 | drafted |
+| 169 | 55 BC | rhetoric | On the Orator | drafted |
+| 170 | 55 BC | speeches | Against Piso | drafted |
+| 171 | 55 BC | letters | Ad Familiares 13.40 | drafted |
+| 172 | October 55 BC | letters | Ad Familiares 7.1 | drafted |
 | 173 | 15 November 55 BC | letters | Ad Atticum 4.13 | pending |
 | 174 | January 54 BC | letters | Ad Familiares 5.8 | drafted |
 | 175 | April 54 BC | letters | Ad Familiares 7.5 | drafted |

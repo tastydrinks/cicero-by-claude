@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-12",
+  "mentions": [
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Egnatius", "entity_id": "person:egnatius-l", "in": "lat"},
+    {"loc": "1", "surface": "Egnatius", "entity_id": "person:egnatius-l", "in": "eng"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Halimeti", "entity_id": "place:halimetus", "in": "lat"},
+    {"loc": "1", "surface": "Halimetus", "entity_id": "place:halimetus", "in": "eng"},
+    {"loc": "1", "surface": "Anti", "entity_id": "place:antium", "in": "lat"},
+    {"loc": "1", "surface": "Antium", "entity_id": "place:antium", "in": "eng"},
+    {"loc": "1", "surface": "Aquilio", "entity_id": "person:aquilius-c", "in": "lat"},
+    {"loc": "1", "surface": "Aquilius", "entity_id": "person:aquilius-c", "in": "eng"},
+    {"loc": "1", "surface": "Macroni", "entity_id": "person:macro", "in": "lat"},
+    {"loc": "1", "surface": "Macro", "entity_id": "person:macro", "in": "eng"},
+    {"loc": "1", "surface": "Larini", "entity_id": "place:larinum", "in": "lat"},
+    {"loc": "1", "surface": "Larinum", "entity_id": "place:larinum", "in": "eng"},
+    {"loc": "1", "surface": "Pilia", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "1", "surface": "Pilia", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "1", "surface": "Crassipedis", "entity_id": "person:crassipes", "in": "lat"},
+    {"loc": "1", "surface": "Crassipes", "entity_id": "person:crassipes", "in": "eng"},
+    {"loc": "1", "surface": "Crassipedis", "entity_id": "place:horti-crassipedis", "in": "lat"},
+    {"loc": "1", "surface": "Crassipes gardens", "entity_id": "place:horti-crassipedis", "in": "eng"},
+    {"loc": "1", "surface": "Miloni", "entity_id": "person:milo", "in": "lat"},
+    {"loc": "1", "surface": "Milo", "entity_id": "person:milo", "in": "eng"}
+  ]
+}

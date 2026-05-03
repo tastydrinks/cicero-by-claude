@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "id": "in-pisonem",
+  "category": "speeches",
+  "title_latin": "In Pisonem",
+  "title_english": "Against Piso",
+  "date": "-0055-09-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit phi0474.phi027)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "notes": "118 sections: 19 fragments (fr1–fr19) preserved by ancient grammarians, then continuous text §1–99. The opening of the speech is lost. Stub of representative segments; full backfill possible from the per-section files.",
+  "segments": [
+    {
+      "loc": "fr1",
+      "section": 1,
+      "lat": "pro di inmortales! qui hic inluxit dies mihi quidem, patres conscripti, peroptatus, ut hoc portentum huius loci, monstrum urbis, prodigium civitatis viderem!",
+      "eng": "By the immortal gods! What a day, senators, has dawned upon me — most longed-for! — that I should see this portent of this place, this monster of the city, this prodigy of the state!",
+      "notes": "The most famous opening of the surviving fragments."
+    },
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "iamne vides, belua, iamne sentis quae sit hominum querela frontis tuae?",
+      "eng": "Now do you see, beast, now do you feel what is the men's complaint about your face?",
+      "notes": "The opening of the continuous text."
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "ergo his fundamentis positis consulatus tui triduo post inspectante et tacente te a fatali portento prodigioque rei publicae lex Aelia et Fufia eversa est",
+      "eng": "Therefore with these foundations laid for your consulship, three days afterwards, with you looking on and silent, by that fatal portent and prodigy of the commonwealth the Aelian and Fufian Law was overturned",
+      "notes": "Clodius's tribunate, the abolition of the Aelian-Fufian Law."
+    },
+    {
+      "loc": "52",
+      "section": 52,
+      "lat": "unus ille dies mihi quidem immortalitatis instar fuit quo in patriam redii",
+      "eng": "That single day was to me the equal of immortality, on which I returned to my country",
+      "notes": "Cicero's return from exile, 4 September 57 BC."
+    },
+    {
+      "loc": "73",
+      "section": 73,
+      "lat": "non opus est verbis sed fustibus",
+      "eng": "There is no need of words but of cudgels.",
+      "notes": "Cicero's reply to Piso's literary criticism of cedant arma togae."
+    },
+    {
+      "loc": "99",
+      "section": 99,
+      "lat": "numquam ego sanguinem expetivi tuum, numquam illud extremum quod posset esse improbis et probis commune supplicium legis ac iudici, sed abiectum, contemptum, despectum a ceteris, a te ipso desperatum et relictum, circumspectantem omnia, quicquid increpuisset pertimescentem, diffidentem tuis rebus, sine voce, sine libertate, sine auctoritate, sine ulla specie consulari, horrentem, trementem, adulantem omnis videre te volui; vidi.",
+      "eng": "I have never sought your blood; I have never sought that final punishment of the law and the courts that could be common to good men and to bad. I have wished to see you cast down, contemned, despised by the rest, despaired of and abandoned by yourself, looking round at everything, frightened at whatever sound, distrusting your own affairs, without voice, without freedom, without authority, without any consular appearance, shuddering, trembling, fawning on all — and I have seen it.",
+      "notes": "The closing peroration: not blood, but the perpetual sight of Piso fawning."
+    }
+  ]
+}

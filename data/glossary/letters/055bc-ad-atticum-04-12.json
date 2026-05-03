@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Crassipes gardens",
+      "entity_id": "place:horti-crassipedis",
+      "note": "The suburban estate of Furius Crassipes, Cicero's son-in-law of 56 BC; just outside the city-line and a frequent dinner venue. A dinner there counted, technically, as ``at an inn'' rather than ``at home''."
+    },
+    {
+      "loc": "1",
+      "anchor": "playing a trick on the senate's decree",
+      "entity_id": null,
+      "note": "Probably a reference to the recurrent senatorial sumptuary regulation governing dinners at home. By dining at Crassipes's suburban gardens (technically extra-urban) Cicero takes himself outside the decree's reach."
+    },
+    {
+      "loc": "1",
+      "anchor": "Kalends",
+      "entity_id": null,
+      "note": "The first day of the month; here, the Kalends of June 55 BC. Cicero plans to dine on the Kalends and again on the day after."
+    },
+    {
+      "loc": "1",
+      "anchor": "Ides",
+      "entity_id": null,
+      "note": "The thirteenth of the month, or the fifteenth in March, May, July, and October; here the Ides of May 55 BC, when Cicero will be at Larinum for an auction."
+    }
+  ]
+}

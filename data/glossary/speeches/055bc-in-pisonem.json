@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "in-pisonem",
+  "notes": [
+    {
+      "loc": "fr1",
+      "anchor": "this prodigy",
+      "entity_id": "person:l-piso",
+      "note": "L. Calpurnius Piso Caesoninus, consul 58 BC, father-in-law of Julius Caesar; the consul of Cicero's exile-year, here returned from his Macedonian governorship and now in the Senate."
+    },
+    {
+      "loc": "fr11",
+      "anchor": "Insubrian",
+      "entity_id": null,
+      "note": "Of the Insubres, a Gallic people of Cisalpine Gaul (around modern Milan); Cicero's invective traces Piso's maternal grandfather to Placentia (modern Piacenza), an Insubrian colony."
+    },
+    {
+      "loc": "9",
+      "anchor": "Aelian and Fufian Law",
+      "entity_id": "law:lex-aelia-fufia",
+      "note": "The lex Aelia and lex Fufia, two laws of c. 150 BC restricting popular legislation by religious obstruction (\\textit{obnuntiatio}); abolished by Clodius's tribunate in 58 BC. The 'bulwarks of tranquillity' for Cicero."
+    },
+    {
+      "loc": "21",
+      "anchor": "that funeral creature",
+      "entity_id": "person:clodius",
+      "note": "P. Clodius Pulcher, tribune of the plebs 58 BC, who carried Cicero's exile. The 'wicked debauchery, civil bloodshed' refer to the Bona Dea scandal of 62 BC."
+    },
+    {
+      "loc": "37",
+      "anchor": "Caesar's law",
+      "entity_id": "law:lex-iulia-de-rebus-repetundis",
+      "note": "The lex Iulia de rebus repetundis (Caesar's extortion law of 59 BC), establishing detailed regulations of provincial governors. Cicero contrasts Caesar's law (which freed peoples) with the consular-province law of Clodius (which gave them to Piso)."
+    },
+    {
+      "loc": "53",
+      "anchor": "trousered kindred",
+      "entity_id": null,
+      "note": "Cicero plays on the Cisalpine Gallic origin of Piso's mother — \\textit{bracatae}, 'wearing trousers', a distinctively Gallic article of clothing in Roman eyes."
+    },
+    {
+      "loc": "58",
+      "anchor": "Cn. Pompey ... three times triumphed",
+      "entity_id": "person:pompey",
+      "note": "Pompey's three triumphs: African (81 BC, over the Marians), Spanish (71 BC, over Sertorius), and Asian (61 BC, over Mithridates). The most-recorded triple-triumph in Roman history before Caesar."
+    },
+    {
+      "loc": "62",
+      "anchor": "Mediolanian crier",
+      "entity_id": null,
+      "note": "Mediolanum (modern Milan), in Cisalpine Gaul; Piso's maternal grandfather Calventius is sneered at as a praeco (auctioneer/crier) in this provincial town — a low-status occupation despised in Roman society."
+    },
+    {
+      "loc": "67",
+      "anchor": "Greeks crammed five to a couch",
+      "entity_id": null,
+      "note": "A breach of Roman triclinium etiquette, which had three couches with three diners each (totalling nine, the Muse-number). To pack five on a couch is the mark of a low Greek dive."
+    },
+    {
+      "loc": "70",
+      "anchor": "the Greek who wrote them",
+      "entity_id": "person:philodemus",
+      "note": "Philodemus of Gadara (c. 110-c. 35 BC), Epicurean philosopher and erotic poet, who lived in Piso's household; many of his epigrams survive in the Greek Anthology, and his prose-works are preserved on the carbonised papyri of the Villa of the Papyri at Herculaneum."
+    },
+    {
+      "loc": "72",
+      "anchor": "cedant arma togae",
+      "entity_id": null,
+      "note": "Cicero's most famous self-quotation, from his lost epic \\textit{De Consulatu Suo} (c. 60 BC): 'Let arms yield to the toga, let the laurel yield to praise' — a much-mocked verse for its self-praise (cf. Sen. \\textit{Suas.} 6.26)."
+    },
+    {
+      "loc": "84",
+      "anchor": "King Cotys",
+      "entity_id": "person:cotys-king",
+      "note": "Cotys, king of the Sapaean Thracians; Piso took 300 talents from him for the murder of Rabocentus, chief of the rival Bessi."
+    },
+    {
+      "loc": "94",
+      "anchor": "Iudiciary law",
+      "entity_id": "law:lex-licinia-pompeia",
+      "note": "Probably the lex Pompeia of 55 BC reforming the album of judges by tribe and rank — making it harder for prosecutors to be packed against. Cicero hopes it will deliver fairer juries for any future trial of Piso."
+    },
+    {
+      "loc": "95",
+      "anchor": "P. Rutilius",
+      "entity_id": "person:p-rutilius-rufus",
+      "note": "P. Rutilius Rufus, consul 105 BC; condemned in 92 BC for repetundae in his governorship of Asia, despite (or because of) his austere honesty — which threatened the publicans on the equestrian juries. The locus classicus for the failure of provincial-governor courts under equestrian juries."
+    },
+    {
+      "loc": "95",
+      "anchor": "L. Opimius",
+      "entity_id": "person:l-opimius",
+      "note": "L. Opimius, consul 121 BC, the killer of Gaius Gracchus; condemned in 109 BC and exiled, dying at Dyrrachium. The locus classicus for the senate-versus-courts opposition."
+    }
+  ]
+}

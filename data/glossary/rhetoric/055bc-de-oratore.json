@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "de-oratore",
+  "notes": [
+    {
+      "loc": "1.24",
+      "anchor": "Roman Games",
+      "entity_id": "festival:ludi-romani",
+      "note": "The Ludi Romani, the great September public games at Rome; the dialogue is set during them in 91 BC, just before the Social War."
+    },
+    {
+      "loc": "1.142",
+      "anchor": "five parts",
+      "entity_id": null,
+      "note": "Inventio (finding), dispositio (arrangement), elocutio (style), memoria (memory), pronuntiatio/actio (delivery): the canonical five parts of rhetoric. Crassus presents this as well-worn schoolroom doctrine, then Antonius unfolds the first four through Books 1-2 and Crassus the last (style and delivery) in Book 3."
+    },
+    {
+      "loc": "1.180",
+      "anchor": "Hundred Men",
+      "entity_id": "institution:centumviri",
+      "note": "The centumviral court at Rome, hearing inheritance and property cases, with judges drawn by tribe. Crassus's defence of M.' Curius before the Hundred Men (in 92 BC, against Q. Mucius Scaevola the Pontifex) is a recurring touchstone of the dialogue."
+    },
+    {
+      "loc": "1.193",
+      "anchor": "Twelve Tables",
+      "entity_id": "law:lex-duodecim-tabularum",
+      "note": "Rome's first written law (450 BC), still memorised by schoolboys in Cicero's day; Crassus's hyperbolic claim that the little book of the XII Tables surpasses the libraries of all the philosophers is one of the work's most-quoted lines."
+    },
+    {
+      "loc": "1.196",
+      "anchor": "preferred his Ithaca",
+      "entity_id": null,
+      "note": "Odysseus refuses immortality (offered by Calypso) to return to his home in Ithaca: Homer, Odyssey 5.215-224. The 'wisest of men' line that will be picked up by Cicero later (Att. 4.18, etc.)."
+    },
+    {
+      "loc": "2.115",
+      "anchor": "three things for the persuading",
+      "entity_id": null,
+      "note": "Cicero's tripartite formula: docere (teach/prove), conciliare (win goodwill), movere (rouse passion). The doctrine that runs through the Latin tradition (cf. Brutus, Orator); rooted in Aristotle, Rhetoric 1.2 (logos, ethos, pathos)."
+    },
+    {
+      "loc": "2.236",
+      "anchor": "ugliness and deformity",
+      "entity_id": null,
+      "note": "The classic ancient definition of the comic, taken up by the medieval and Renaissance critical tradition: laughter springs from the ugliness or deformity that does not also cause pain. Caesar Strabo's humour digression (§217-289) is the longest surviving ancient discussion of wit and the locus classicus for examples of Roman jokes."
+    },
+    {
+      "loc": "2.240",
+      "anchor": "Lacerat lacertum Largi",
+      "entity_id": null,
+      "note": "Crassus's invented punning inscription on Tarracina's walls: an example of \"matter\" wit (the made-up story) joined with verbal play on lacerat/lacertus. Survives as a specimen of Roman pun-craft."
+    },
+    {
+      "loc": "2.351",
+      "anchor": "Simonides",
+      "entity_id": "person:simonides",
+      "note": "The Greek lyric poet (c. 556-468 BC) credited as the inventor of the art of memory by means of loci and images. The story Antonius tells (the collapse of Scopas's hall, Simonides recalling guests by their seats) is the founding myth of the mnemonic system that runs through medieval rhetoric and Renaissance memory-arts."
+    },
+    {
+      "loc": "3.4",
+      "anchor": "this tongue must be cut out",
+      "entity_id": null,
+      "note": "Crassus's last great defiance, against the consul Philippus on the Ides of September 91 BC. Cicero's dialogue ends a few days before Crassus's sudden death of pleurisy (described §6); the historical setting frames the work as elegy."
+    },
+    {
+      "loc": "3.45",
+      "anchor": "Laelia",
+      "entity_id": "person:laelia",
+      "note": "Crassus's mother-in-law (daughter of C. Laelius the wise), whose pure preserved old Roman accent Cicero treasures: 'I seem to be hearing Plautus or Naevius'. The locus classicus for the idea that Roman women preserve archaic speech."
+    },
+    {
+      "loc": "3.83",
+      "anchor": "Apollonius of Alabanda",
+      "entity_id": null,
+      "note": "Apollonius Molon's countryman and contemporary, a famous teacher of rhetoric at Rhodes; though paid, he refused to take pupils he judged unfit, and would direct them to other arts. Crassus's standard for the rejection of unsuitable students."
+    },
+    {
+      "loc": "3.93",
+      "anchor": "censor's edict",
+      "entity_id": null,
+      "note": "Crassus and Domitius Ahenobarbus as censors in 92 BC closed the new Latin schools of rhetoric (rhetores Latini) by edict. Crassus here defends his act: not against the Latin language but against rhetoric divorced from the wider learning."
+    },
+    {
+      "loc": "3.213",
+      "anchor": "Demosthenes",
+      "entity_id": "person:demosthenes",
+      "note": "The Demosthenic anecdote (delivery first, second, third) is the locus classicus for the priority of actio in classical rhetoric. The pairing with Aeschines's tribute on Rhodes makes it the canonical form."
+    },
+    {
+      "loc": "3.225",
+      "anchor": "Gracchus's pipe",
+      "entity_id": null,
+      "note": "Gaius Gracchus had a slave with an ivory pipe stand secretly behind him in assembly to check his voice's pitch — too high, the slave blew the calming note; too low, the rousing one. Crassus uses the device to introduce the doctrine of vocal modulation: every voice has a middle pitch, an upper limit before strain, and a lower limit before muffling."
+    }
+  ]
+}

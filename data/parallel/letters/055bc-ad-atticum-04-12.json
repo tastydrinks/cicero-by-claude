@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-12",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.12",
+  "title_english": "Ad Atticum 4.12",
+  "date": "-0055-05-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Egnatius Romae est. sed ego cum eo de re Halimeti vehementer Anti egi. graviter se acturum cum Aquilio confirmavit. videbis ergo hominem si voles. Macroni vix videor praesto esse posse; Idibus enim auctionem Larini video et biduum praeterea. id tu, quoniam Macronem tanti facis, ignoscas mihi velim. sed si me diligis, postridie Kal. cena apud me cum Pilia. prorsus id facies. Kalendis cogito in hortis Crassipedis quasi in deversorio cenare. facio fraudem senatus consulto. inde domum cenatus, ut sim mane praesto Miloni. ibi te igitur videbo et permanebo. domus te nostra tota salutat.",
+      "eng": "Egnatius is at Rome. But I had a hard talk with him at Antium about the Halimetus business. He has given me his word that he will press the matter on Aquilius without sparing him. So you will see the man, if you wish. As for Macro, I hardly seem able to be there for him; for on the Ides I have an auction at Larinum, and two days besides. Since you make so much of Macro, please forgive me on that. But if you love me, dine at my house the day after the Kalends, you and Pilia. Simply do it. On the Kalends I am thinking of dining at the Crassipes gardens, as if at a wayside inn. I am playing a trick on the senate's decree. Then home after dinner, that I may be at Milo's call early in the morning. There then I shall see you and stay. The whole household salutes you.",
+      "notes": null
+    }
+  ]
+}

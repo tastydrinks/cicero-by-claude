@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "de-oratore",
+  "allusions": [
+    {
+      "loc": "1.28",
+      "surface": "Socrates in Plato's Phaedrus",
+      "suspected_source": "Plato, Phaedrus 230b (the plane-tree by the Ilissus)",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Scaevola explicitly invokes the opening scene of Plato's Phaedrus to set the dialogue under the plane-tree at Tusculum."
+    },
+    {
+      "loc": "1.47",
+      "surface": "Plato's Gorgias",
+      "suspected_source": "Plato, Gorgias",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Crassus's reading of the Gorgias at Athens with Charmadas; Plato deriding orators while himself the supreme orator."
+    },
+    {
+      "loc": "1.196",
+      "surface": "Ithacam illam in asperrimis saxulis tamquam nidulum adfixam",
+      "suspected_source": "Homer, Odyssey 9.21-27 (also 5.215-224)",
+      "kind": "reference",
+      "certainty": "high",
+      "translator_note": "Odysseus's praise of his rugged Ithaca; the figure of the wisest man preferring his rocky homeland to immortality."
+    },
+    {
+      "loc": "1.198",
+      "surface": "egregie cordatus homo, catus Aelius Sextus",
+      "suspected_source": "Ennius, Annales fr. 329 Skutsch",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Cited as the supreme poet's tribute to the jurisconsult Sex. Aelius Paetus."
+    },
+    {
+      "loc": "1.199",
+      "surface": "Ennius's Pythian Apollo",
+      "suspected_source": "Ennius, tragedy fragment (Telamo or Annales)",
+      "kind": "quotation",
+      "certainty": "medium",
+      "translator_note": "Crassus quotes Apollo's words about giving counsel to the uncertain — 'quos ego ope mea ex incertis certos compotesque consili dimitto'. Place uncertain."
+    },
+    {
+      "loc": "1.245",
+      "surface": "uti lingua nuncupassit",
+      "suspected_source": "XII Tables, Tabula 6 (the legal formula for verbal disposition)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "The famous Tabula 6 phrase on inheritance-by-tongue; Antonius cites it ironically against Crassus's exaltation of the XII Tables."
+    },
+    {
+      "loc": "2.193",
+      "surface": "segregare abs te ausu's ausus es",
+      "suspected_source": "Pacuvius, Niptra (or another Telamon-tragedy)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "From a lost Roman tragedy on Telamon, with Telamon raging at his son Ajax. Cited by Antonius as a model of the actor's burning eyes through the mask."
+    },
+    {
+      "loc": "2.193",
+      "surface": "cum aetate exacta indigem liberum lacerasti",
+      "suspected_source": "Pacuvius, Niptra (continuation of the same tragedy)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "The piteous note of Telamon mourning, cited in the same passage."
+    },
+    {
+      "loc": "2.217",
+      "surface": "ut ait ille in Trinummo",
+      "suspected_source": "Plautus, Trinummus 705",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Catulus quotes Plautus's 'non possum quin exclamem' to introduce his own outburst of praise."
+    },
+    {
+      "loc": "3.45",
+      "surface": "ut Plautum mihi aut Naevium videar audire",
+      "suspected_source": "Plautus and Naevius (general reference)",
+      "kind": "echo",
+      "certainty": "high",
+      "translator_note": "Laelia's archaic Roman speech evokes the early Roman comic and epic dramatist."
+    },
+    {
+      "loc": "3.141",
+      "surface": "ille enim turpe sibi ait esse tacere",
+      "suspected_source": "Euripides, Philoctetes (lost) — quoted by Aristotle",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Aristotle's saying: 'It is base to be silent and let Isocrates speak' — adapted from a verse of Euripides's Philoctetes."
+    },
+    {
+      "loc": "3.157",
+      "surface": "inhorrescit mare ... fervit aestu pelagus",
+      "suspected_source": "Pacuvius, Teucer (lost) or another tragedy",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "A long passage of high tragic storm-imagery, used to illustrate metaphor."
+    },
+    {
+      "loc": "3.162",
+      "surface": "Vive, Ulixes; dum licet",
+      "suspected_source": "Pacuvius, Niptra (lost)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "Ulysses's dying words in Pacuvius's Niptra; cited for the apt metaphor 'rape' (snatch up)."
+    },
+    {
+      "loc": "3.214",
+      "surface": "Quo me miser conferam? Quo vertam?",
+      "suspected_source": "Gaius Gracchus, public speech (after Tiberius's death)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "C. Gracchus's most famous surviving line, on the choice of refuges after his brother's murder. Crassus quotes it to illustrate Gracchus's actio."
+    },
+    {
+      "loc": "3.217",
+      "surface": "ipsus hortatur me frater",
+      "suspected_source": "Accius, Atreus (lost)",
+      "kind": "quotation",
+      "certainty": "high",
+      "translator_note": "From the Thyestean tragedy. Cicero gives a series of voice-colour examples from Accius's Atreus and Pacuvius's tragedies — the most extensive surviving sample of how Roman tragic verses were 'coloured' in delivery."
+    }
+  ]
+}

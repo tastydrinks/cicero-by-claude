@@ -4901,6 +4901,45 @@
       "source_certainty": "unknown",
       "register": "colloquial",
       "notes": null
+    },
+    {
+      "id": "gr-0378",
+      "work": "ad-quintum-fratrem-02-08",
+      "loc": "2",
+      "greek_original": "εἰδ' ἐν αἴᾳ ἔζησας",
+      "transliteration": "eid' en aiai ezesas",
+      "english_gloss": "uncertain (corrupt in MSS)",
+      "context": "Cicero's playful Greek tag after noting that Quintus has groaned; the manuscripts are corrupt.",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "jocular",
+      "notes": "Manuscript text corrupt; may quote a comic or tragic line, irrecoverable."
+    },
+    {
+      "id": "gr-0379",
+      "work": "ad-quintum-fratrem-02-08",
+      "loc": "2",
+      "greek_original": "ἔα πάσας",
+      "transliteration": "ea pasas",
+      "english_gloss": "let them all go",
+      "context": "Paired with the corrupt tag above; Cicero says he will never say it.",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "jocular",
+      "notes": null
+    },
+    {
+      "id": "gr-0380",
+      "work": "ad-quintum-fratrem-02-08",
+      "loc": "3",
+      "greek_original": "",
+      "transliteration": "araxira",
+      "english_gloss": "uncertain (corrupt in MSS)",
+      "context": "Cicero contrasts a homespun philosophy with Athenian (Hymettus); the second place name is corrupt.",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "jocular",
+      "notes": "The reading is corrupt; some editors emend to a place name from Asia Minor."
     }
   ]
 }

@@ -88,6 +88,11 @@
 % environment.
 \newcommand{\ciceroLetterOpener}[1]{\par\noindent\textsc{\small #1}\par\smallskip}
 
+% \ciceroBook{N} prints a centred book-division header, used inside multi-book
+% works (De Oratore, De Re Publica, De Legibus, the philosophical treatises,
+% and so on) to mark the start of a new book where section numbering restarts.
+\newcommand{\ciceroBook}[1]{\par\vspace{1em}\begin{center}{\scshape\large Book #1}\end{center}\par\vspace{0.5em}}
+
 % --- environments ---------------------------------------------------------
 % \begin{cicerowork}{id}{english title}{latin title}{date label}
 % Speeches, treatises, rhetorical works, fragments — full display.

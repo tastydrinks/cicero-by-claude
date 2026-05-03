@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the gulf of Stabiae",
+      "entity_id": "place:stabiae",
+      "note": "Stabiae, the coastal town south of Pompeii on the Bay of Naples; M. Marius's villa had a window cut in the bedroom-wall to its view."
+    },
+    {
+      "loc": "1",
+      "anchor": "the games",
+      "entity_id": "festival:games-of-pompey-55",
+      "note": "The lavish dedication-games of Pompey's stone theatre, the first permanent theatre at Rome (in the Campus Martius), held in late September 55 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "Spurius Maecius",
+      "entity_id": "person:sp-maecius",
+      "note": "Sp. Maecius Tarpa, the Roman dramatic critic; under whose curation the stage-plays at Pompey's games were chosen. His taste was the offence."
+    },
+    {
+      "loc": "2",
+      "anchor": "si sciens fallo",
+      "entity_id": null,
+      "note": "``If I knowingly deceive'' — the Roman oath formula. Aesopus, the great tragic actor and Cicero's friend, was elderly by 55 BC; his voice failing on this very line was a marked moment."
+    },
+    {
+      "loc": "2",
+      "anchor": "six hundred mules in Clytaemnestra",
+      "entity_id": "text:clytaemnestra-accius",
+      "note": "Accius's lost tragedy, revived at the games with a triumphal procession of six hundred mules and three thousand mixing-bowls — the kind of stage-overload Cicero deplored."
+    },
+    {
+      "loc": "3",
+      "anchor": "the elephants",
+      "entity_id": null,
+      "note": "Pompey's games closed with a slaughter of elephants in the Circus, on the last (fifth) day of the venatio. The crowd, unexpectedly, took pity on them, and the show backfired (cf. Pliny NH 8.21)."
+    },
+    {
+      "loc": "4",
+      "anchor": "Caninius Gallus",
+      "entity_id": "person:gallus-canius",
+      "note": "C. Caninius Gallus, tribune of the plebs 56 BC, defended by Cicero on a maiestas charge in 55 BC. Cicero ``almost burst himself'' (\\textit{dirupi me paene}) defending him."
+    },
+    {
+      "loc": "5",
+      "anchor": "humaniter vivere",
+      "entity_id": null,
+      "note": "``To live as a human being'' — the famous Ciceronian phrase, the goal of \\textit{otium cum dignitate}. Cicero will, when he is at last free, learn from Marius this art of leisure."
+    }
+  ]
+}

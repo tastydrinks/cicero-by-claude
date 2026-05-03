@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "de-oratore",
+  "refs": [
+    {
+      "from_loc": "1.5",
+      "to_work": "de-inventione",
+      "to_loc": "1",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Cicero's reference to 'the things which slipped from us as boys or growing youths out of our little notebooks, half-finished and rough' is unmistakably his rejection of his own juvenile De Inventione."
+    },
+    {
+      "from_loc": "1.94",
+      "to_work": "de-inventione",
+      "to_loc": "1.4",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Antonius reports having written in 'a certain little book' that 'I had known some skilful speakers, but as yet no eloquent one' — a paraphrase of the famous opening doctrine of his (lost) De Ratione Dicendi, mentioned again at 1.206 as the 'one little book'."
+    },
+    {
+      "from_loc": "1.206",
+      "to_work": "self",
+      "to_loc": "1.94",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "Antonius's 'one little book' that has 'slipped from him' (excidisse) — i.e., his De Ratione Dicendi, here recalled by Crassus."
+    },
+    {
+      "from_loc": "2.124",
+      "to_work": "self",
+      "to_loc": "2.197",
+      "kind": "echo",
+      "certainty": "medium",
+      "note": "The tearing-of-the-tunic passage at 2.124 anticipates Antonius's M.' Aquilius narrative at 2.195 (and his recollection of the Norbanus case at 2.197 ff.)."
+    },
+    {
+      "from_loc": "2.353",
+      "to_work": "self",
+      "to_loc": "2.357",
+      "kind": "paraphrase",
+      "certainty": "high",
+      "note": "Antonius's Simonides-and-Scopas anecdote at 2.353 is the basis of the discussion of mnemonic loci that follows at 2.354-360."
+    },
+    {
+      "from_loc": "3.4",
+      "to_work": "self",
+      "to_loc": "1.24",
+      "kind": "echo",
+      "certainty": "high",
+      "note": "Crassus's defiance of Philippus at 3.4 ('this tongue must be cut out') is the historical climax that closes the time-frame of the dialogue, set ten days earlier (3.6)."
+    },
+    {
+      "from_loc": "3.45",
+      "to_work": "self",
+      "to_loc": "3.46",
+      "kind": "echo",
+      "certainty": "high",
+      "note": "The Laelia passage at 3.45 (Roman matronly purity) is followed at 3.46 by the corresponding rebuke of Sulpicius's harvester-Latin."
+    },
+    {
+      "from_loc": "3.171",
+      "to_work": "self",
+      "to_loc": "1.72",
+      "kind": "echo",
+      "certainty": "medium",
+      "note": "Lucilius's joke about Albucius as son-in-law (3.171) recalls Crassus's earlier reference to Lucilius as 'a man somewhat angry at you' (1.72)."
+    },
+    {
+      "from_loc": "3.213",
+      "to_work": "self",
+      "to_loc": "1.18",
+      "kind": "echo",
+      "certainty": "high",
+      "note": "Crassus's praise of actio at 3.213 builds on his much earlier mention (1.18) of delivery as the very thing in which 'how much it amounts to all by itself, the light art of actors and the stage make plain'."
+    }
+  ]
+}
