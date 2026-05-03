@@ -4904,6 +4904,84 @@
     },
     {
       "id": "gr-0378",
+      "work": "ad-atticum-04-13",
+      "loc": "1",
+      "greek_original": "σκυλμὸν",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0379",
+      "work": "ad-atticum-04-13",
+      "loc": "1",
+      "greek_original": "ὀξύπεινοσ",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0380",
+      "work": "ad-atticum-04-13",
+      "loc": "1",
+      "greek_original": "",
+      "transliteration": "skylmon",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-0381",
+      "work": "ad-atticum-04-13",
+      "loc": "1",
+      "greek_original": "",
+      "transliteration": "oxypeinos",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-0382",
+      "work": "ad-atticum-04-13",
+      "loc": "2",
+      "greek_original": "τὴν παροῦσαν",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0383",
+      "work": "ad-atticum-04-13",
+      "loc": "2",
+      "greek_original": "",
+      "transliteration": "tēn parousan",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-0384",
       "work": "ad-quintum-fratrem-02-12",
       "loc": "1",
       "greek_original": "πολιτικά",
@@ -4916,7 +4994,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-0379",
+      "id": "gr-0385",
       "work": "ad-quintum-fratrem-02-12",
       "loc": "1",
       "greek_original": "",
@@ -4929,7 +5007,46 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-0380",
+      "id": "gr-0386",
+      "work": "ad-quintum-fratrem-02-13",
+      "loc": "4",
+      "greek_original": "τοιαῦτ",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0387",
+      "work": "ad-quintum-fratrem-02-13",
+      "loc": "4",
+      "greek_original": "ὁ τλήμων πόλεμοσ ἐξεργάζεται",
+      "transliteration": "",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=unicode)"
+    },
+    {
+      "id": "gr-0388",
+      "work": "ad-quintum-fratrem-02-13",
+      "loc": "4",
+      "greek_original": "",
+      "transliteration": "toiauth' ho tlēmōn polemos exergazetai",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-0389",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "18",
       "greek_original": "δευτέρασ φροντίδασ",
@@ -4942,7 +5059,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-0381",
+      "id": "gr-0390",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "18",
       "greek_original": "",
@@ -4955,7 +5072,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-0382",
+      "id": "gr-0391",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "23",
       "greek_original": "Γνῶθι πῶσ ἄλλῳ κέχρηται",
@@ -4968,7 +5085,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-0383",
+      "id": "gr-0392",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "23",
       "greek_original": "",
@@ -4981,7 +5098,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-0384",
+      "id": "gr-0393",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "5",
       "greek_original": "ἀποδυτηρίῳ",
@@ -4994,7 +5111,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-0385",
+      "id": "gr-0394",
       "work": "ad-quintum-fratrem-03-01",
       "loc": "5",
       "greek_original": "",
@@ -5007,7 +5124,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-0386",
+      "id": "gr-0395",
       "work": "ad-quintum-fratrem-03-02",
       "loc": "2",
       "greek_original": "Ἀπότευγμα",
@@ -5020,7 +5137,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-0387",
+      "id": "gr-0396",
       "work": "ad-quintum-fratrem-03-02",
       "loc": "2",
       "greek_original": "",
@@ -5031,58 +5148,6 @@
       "source_certainty": "unknown",
       "register": "technical",
       "notes": "backfilled (kind=bracket)"
-    },
-    {
-      "id": "gr-0388",
-      "work": "ad-atticum-04-13",
-      "loc": "1",
-      "greek_original": "σκυλμόν",
-      "transliteration": "skylmon",
-      "english_gloss": "harassment, vexation",
-      "context": "Cicero asks Atticus how the consuls are bearing the present \"harassment\" of the year's politics.",
-      "suspected_source": null,
-      "source_certainty": "unknown",
-      "register": "technical",
-      "notes": null
-    },
-    {
-      "id": "gr-0389",
-      "work": "ad-atticum-04-13",
-      "loc": "1",
-      "greek_original": "ὀξύπεινος",
-      "transliteration": "oxypeinos",
-      "english_gloss": "sharp-set, ravenous (for news)",
-      "context": "Cicero applies the appetite-word to his eagerness for political news.",
-      "suspected_source": null,
-      "source_certainty": "unknown",
-      "register": "colloquial",
-      "notes": null
-    },
-    {
-      "id": "gr-0390",
-      "work": "ad-atticum-04-13",
-      "loc": "2",
-      "greek_original": "τὴν παροῦσαν",
-      "transliteration": "tēn parousan",
-      "english_gloss": "the (lady) present",
-      "context": "Cicero's hint to Atticus that Pilia (Atticus's wife) should be at home for the visit, so he does not arrive as a stranger.",
-      "suspected_source": null,
-      "source_certainty": "unknown",
-      "register": "in-joke",
-      "notes": null
-    },
-    {
-      "id": "gr-0391",
-      "work": "ad-quintum-fratrem-02-13",
-      "loc": "4",
-      "greek_original": "τοιαῦθ' ὁ τλήμων πόλεμος ἐξεργάζεται",
-      "transliteration": "toiauth' ho tlēmōn polemos exergazetai",
-      "english_gloss": "such are the deeds of wretched war",
-      "context": "Cicero seals the section's bleak political summary with a tragic-style line on civic war.",
-      "suspected_source": "Aristophanes, Acharnians (echo or paraphrase) — possibly a tragic source",
-      "source_certainty": "low",
-      "register": "quotation",
-      "notes": "Tragic register; some attribute to a lost tragedy."
     }
   ]
 }

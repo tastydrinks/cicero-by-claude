@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 182
-- pending: 776
+- drafted: 185
+- pending: 773
 
 ## Chronological order
 
@@ -216,14 +216,14 @@ Status:
 | 196 | 54-44 BC | letters | Ad Familiares 13.73 | pending |
 | 197 | 54-44 BC | letters | Ad Familiares 13.74 | pending |
 | 198 | 54-44 BC | letters | Ad Familiares 13.76 | pending |
-| 199 | 54-43 BC | letters | Ad Familiares 15.8 | pending |
-| 200 | 54-43 BC | letters | Ad Familiares 15.9 | pending |
+| 199 | 54-43 BC | letters | Ad Familiares 15.8 | drafted |
+| 200 | 54-43 BC | letters | Ad Familiares 15.9 | drafted |
 | 201 | 54-43 BC | letters | Ad Familiares 15.11 | pending |
 | 202 | 54-43 BC | letters | Ad Familiares 15.12 | pending |
 | 203 | 54-43 BC | letters | Ad Familiares 15.13 | pending |
 | 204 | 54-44 BC | letters | Ad Familiares 16.20 | pending |
 | 205 | 54 BC | letters | Ad Quintum Fratrem 3.6 | pending |
-| 206 | 54-51 BC | philosophy | On the Commonwealth | pending |
+| 206 | 54-51 BC | philosophy | On the Commonwealth | drafted |
 | 207 | 54 BC | philosophy | On His Times | pending |
 | 208 | 54-46 BC | rhetoric | The Subdivisions of Oratory | pending |
 | 209 | 54 BC | speeches | For Gnaeus Plancius | pending |

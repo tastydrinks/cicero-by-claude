@@ -132,11 +132,8 @@
       "place_received_id": null,
       "date": "-0067-10-22",
       "date_precision": "year",
-      "topics": [
-        "estate-business",
-        "tusculanum"
-      ],
-      "mood": "businesslike",
+      "topics": [],
+      "mood": null,
       "length_sections": 8,
       "carries_greek": false
     },
@@ -305,11 +302,8 @@
       "place_received_id": null,
       "date": "-0061-01-01",
       "date_precision": "day",
-      "topics": [
-        "clodius-bona-dea",
-        "tullia-affairs"
-      ],
-      "mood": "anxious",
+      "topics": [],
+      "mood": null,
       "length_sections": 4,
       "carries_greek": true
     },
@@ -376,12 +370,8 @@
       "place_received_id": null,
       "date": "-0061-09-05",
       "date_precision": "year",
-      "topics": [
-        "clodius-bona-dea",
-        "trial",
-        "verdict"
-      ],
-      "mood": "indignant",
+      "topics": [],
+      "mood": null,
       "length_sections": 18,
       "carries_greek": true
     },
@@ -397,11 +387,8 @@
       "place_received_id": null,
       "date": "-0061-12-05",
       "date_precision": "day",
-      "topics": [
-        "quintus-rebuke",
-        "atticus-friendship"
-      ],
-      "mood": "warm",
+      "topics": [],
+      "mood": null,
       "length_sections": 11,
       "carries_greek": false
     },
@@ -808,12 +795,8 @@
       "place_received_id": null,
       "date": "-0059-07-15",
       "date_precision": "month",
-      "topics": [
-        "clodius",
-        "caesar-consulship",
-        "vettius"
-      ],
-      "mood": "anxious",
+      "topics": [],
+      "mood": null,
       "length_sections": 4,
       "carries_greek": true
     },
@@ -829,11 +812,8 @@
       "place_received_id": null,
       "date": "-0059-07-25",
       "date_precision": "day",
-      "topics": [
-        "caesar-consulship",
-        "popular-feeling"
-      ],
-      "mood": "anxious",
+      "topics": [],
+      "mood": null,
       "length_sections": 6,
       "carries_greek": false
     },
@@ -849,10 +829,8 @@
       "place_received_id": null,
       "date": "-0059-10-15",
       "date_precision": "month",
-      "topics": [
-        "closing-of-book"
-      ],
-      "mood": "businesslike",
+      "topics": [],
+      "mood": null,
       "length_sections": 2,
       "carries_greek": true
     },
@@ -902,11 +880,8 @@
       "place_received_id": null,
       "date": "-0059-10-18",
       "date_precision": "day",
-      "topics": [
-        "vettius",
-        "caesar"
-      ],
-      "mood": "alarmed",
+      "topics": [],
+      "mood": null,
       "length_sections": 5,
       "carries_greek": false
     },
@@ -1024,13 +999,8 @@
       "place_received_id": null,
       "date": "-0058-03-01",
       "date_precision": "day",
-      "topics": [
-        "exile",
-        "brundisium",
-        "terentia",
-        "first-letter-from-exile"
-      ],
-      "mood": "anguished",
+      "topics": [],
+      "mood": null,
       "length_sections": 6,
       "carries_greek": false
     },
@@ -1046,13 +1016,8 @@
       "place_received_id": null,
       "date": "-0058-04-05",
       "date_precision": "day",
-      "topics": [
-        "exile",
-        "self-reproach",
-        "atticus's-silence",
-        "journey-south"
-      ],
-      "mood": "anguished",
+      "topics": [],
+      "mood": null,
       "length_sections": 0,
       "carries_greek": false
     },
@@ -1136,13 +1101,8 @@
       "place_received_id": null,
       "date": "-0058-05-01",
       "date_precision": "day",
-      "topics": [
-        "exile",
-        "brundisium",
-        "crossing",
-        "destination-uncertain"
-      ],
-      "mood": "despondent",
+      "topics": [],
+      "mood": null,
       "length_sections": 3,
       "carries_greek": false
     },
@@ -1192,13 +1152,8 @@
       "place_received_id": null,
       "date": "-0058-06-13",
       "date_precision": "day",
-      "topics": [
-        "exile",
-        "thessalonica",
-        "mi-frater",
-        "self-reproach"
-      ],
-      "mood": "anguished",
+      "topics": [],
+      "mood": null,
       "length_sections": 10,
       "carries_greek": false
     },
@@ -1299,12 +1254,8 @@
       "place_received_id": null,
       "date": "-0058-08-15",
       "date_precision": "month",
-      "topics": [
-        "exile",
-        "thessalonica",
-        "instructions"
-      ],
-      "mood": "anguished",
+      "topics": [],
+      "mood": null,
       "length_sections": 5,
       "carries_greek": false
     },
@@ -1320,13 +1271,8 @@
       "place_received_id": null,
       "date": "-0058-08-19",
       "date_precision": "day",
-      "topics": [
-        "exile",
-        "self-reproach",
-        "caeci-caeci-fuimus",
-        "thessalonica"
-      ],
-      "mood": "anguished",
+      "topics": [],
+      "mood": null,
       "length_sections": 8,
       "carries_greek": false
     },
@@ -1393,12 +1339,8 @@
       "place_received_id": null,
       "date": "-0058-09-16",
       "date_precision": "day",
-      "topics": [
-        "exile",
-        "thessalonica",
-        "no-news"
-      ],
-      "mood": "despondent",
+      "topics": [],
+      "mood": null,
       "length_sections": 3,
       "carries_greek": false
     },
@@ -1448,13 +1390,8 @@
       "place_received_id": null,
       "date": "-0058-11-03",
       "date_precision": "year",
-      "topics": [
-        "exile",
-        "thessalonica",
-        "terentia",
-        "vesta-temple"
-      ],
-      "mood": "anguished",
+      "topics": [],
+      "mood": null,
       "length_sections": 4,
       "carries_greek": false
     },
@@ -1470,13 +1407,8 @@
       "place_received_id": null,
       "date": "-0058-11-25",
       "date_precision": "day",
-      "topics": [
-        "exile",
-        "dyrrachium",
-        "terentia",
-        "vicus-sale"
-      ],
-      "mood": "anguished",
+      "topics": [],
+      "mood": null,
       "length_sections": 7,
       "carries_greek": false
     },
@@ -1492,12 +1424,8 @@
       "place_received_id": null,
       "date": "-0058-11-26",
       "date_precision": "day",
-      "topics": [
-        "exile",
-        "dyrrachium",
-        "move"
-      ],
-      "mood": "resigned",
+      "topics": [],
+      "mood": null,
       "length_sections": 4,
       "carries_greek": false
     },
@@ -1530,13 +1458,8 @@
       "place_received_id": null,
       "date": "-0058-12-01",
       "date_precision": "day",
-      "topics": [
-        "exile",
-        "dyrrachium",
-        "terentia",
-        "self-reproach"
-      ],
-      "mood": "anguished",
+      "topics": [],
+      "mood": null,
       "length_sections": 5,
       "carries_greek": false
     },
@@ -1637,12 +1560,8 @@
       "place_received_id": null,
       "date": "-0057-09-15",
       "date_precision": "month",
-      "topics": [
-        "return-from-exile",
-        "atticus",
-        "second-life"
-      ],
-      "mood": "triumphant",
+      "topics": [],
+      "mood": null,
       "length_sections": 7,
       "carries_greek": false
     },
@@ -1675,12 +1594,8 @@
       "place_received_id": null,
       "date": "-0057-11-26",
       "date_precision": "day",
-      "topics": [
-        "clodian-violence",
-        "milo",
-        "sacra-via-ambush"
-      ],
-      "mood": "anxious",
+      "topics": [],
+      "mood": null,
       "length_sections": 5,
       "carries_greek": false
     },
@@ -1713,12 +1628,8 @@
       "place_received_id": null,
       "date": "-0057-12-15",
       "date_precision": "month",
-      "topics": [
-        "senate-proceedings",
-        "campanian-land",
-        "quintus"
-      ],
-      "mood": "businesslike",
+      "topics": [],
+      "mood": null,
       "length_sections": 3,
       "carries_greek": false
     },
@@ -1734,12 +1645,8 @@
       "place_received_id": null,
       "date": "-0056-01-13",
       "date_precision": "day",
-      "topics": [
-        "egyptian-question",
-        "lentulus-spinther",
-        "senate-report"
-      ],
-      "mood": "businesslike",
+      "topics": [],
+      "mood": null,
       "length_sections": 4,
       "carries_greek": false
     },
@@ -1772,11 +1679,8 @@
       "place_received_id": null,
       "date": "-0056-01-17",
       "date_precision": "day",
-      "topics": [
-        "egyptian-question",
-        "lentulus-spinther"
-      ],
-      "mood": "businesslike",
+      "topics": [],
+      "mood": null,
       "length_sections": 4,
       "carries_greek": false
     },
@@ -1792,11 +1696,8 @@
       "place_received_id": null,
       "date": "-0056-01-18",
       "date_precision": "day",
-      "topics": [
-        "egyptian-question",
-        "lentulus-spinther"
-      ],
-      "mood": "businesslike",
+      "topics": [],
+      "mood": null,
       "length_sections": 3,
       "carries_greek": false
     },
@@ -1812,12 +1713,8 @@
       "place_received_id": null,
       "date": "-0056-01-19",
       "date_precision": "day",
-      "topics": [
-        "dictated",
-        "eye-inflammation",
-        "senate"
-      ],
-      "mood": "hurried",
+      "topics": [],
+      "mood": null,
       "length_sections": 4,
       "carries_greek": false
     },
@@ -1850,11 +1747,8 @@
       "place_received_id": null,
       "date": "-0056-02-05",
       "date_precision": "day",
-      "topics": [
-        "egyptian-question",
-        "lentulus-spinther"
-      ],
-      "mood": "businesslike",
+      "topics": [],
+      "mood": null,
       "length_sections": 4,
       "carries_greek": false
     },
@@ -1870,12 +1764,8 @@
       "place_received_id": null,
       "date": "-0056-02-10",
       "date_precision": "day",
-      "topics": [
-        "egyptian-question",
-        "milo-riot",
-        "pompey-collapse"
-      ],
-      "mood": "anxious",
+      "topics": [],
+      "mood": null,
       "length_sections": 2,
       "carries_greek": false
     },
@@ -1891,12 +1781,8 @@
       "place_received_id": null,
       "date": "-0056-02-12",
       "date_precision": "day",
-      "topics": [
-        "milo-riot",
-        "apollo-meeting",
-        "crassus-break"
-      ],
-      "mood": "anxious",
+      "topics": [],
+      "mood": null,
       "length_sections": 7,
       "carries_greek": true
     },
@@ -1929,12 +1815,8 @@
       "place_received_id": null,
       "date": "-0056-03-15",
       "date_precision": "month",
-      "topics": [
-        "sestius-acquittal",
-        "tyrannio",
-        "tullia-engagement"
-      ],
-      "mood": "warm",
+      "topics": [],
+      "mood": null,
       "length_sections": 7,
       "carries_greek": true
     },
@@ -2347,6 +2229,23 @@
       "carries_greek": false
     },
     {
+      "id": "ad-atticum-04-13",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "ATTICO",
+      "recipient_id": "person:attico",
+      "place_written": "in Tusculano",
+      "place_written_id": "place:in-tusculano",
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0055-11-15",
+      "date_precision": "day",
+      "topics": [],
+      "mood": null,
+      "length_sections": 2,
+      "carries_greek": true
+    },
+    {
       "id": "ad-familiares-05-08",
       "sender": "M. Tullius Cicero",
       "sender_id": "person:cicero",
@@ -2378,6 +2277,23 @@
       "topics": [],
       "mood": null,
       "length_sections": 3,
+      "carries_greek": false
+    },
+    {
+      "id": "ad-atticum-04-14",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "ATTICO",
+      "recipient_id": "person:attico",
+      "place_written": "in Cumano",
+      "place_written_id": "place:in-cumano",
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0054-05-15",
+      "date_precision": "month",
+      "topics": [],
+      "mood": null,
+      "length_sections": 2,
       "carries_greek": false
     },
     {
@@ -2413,6 +2329,91 @@
       "mood": null,
       "length_sections": 3,
       "carries_greek": true
+    },
+    {
+      "id": "ad-quintum-fratrem-02-09",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "MARCVS QVINTO FRATRI",
+      "recipient_id": "person:marcvs-qvinto-fratri",
+      "place_written": "ineunte",
+      "place_written_id": "place:ineunte",
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0054-06-14",
+      "date_precision": "year",
+      "topics": [],
+      "mood": null,
+      "length_sections": 3,
+      "carries_greek": false
+    },
+    {
+      "id": "ad-familiares-07-07",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "TREBATIO",
+      "recipient_id": "person:trebatio",
+      "place_written": "Romae",
+      "place_written_id": "place:romae",
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0054-06-15",
+      "date_precision": "month",
+      "topics": [],
+      "mood": null,
+      "length_sections": 2,
+      "carries_greek": false
+    },
+    {
+      "id": "ad-quintum-fratrem-02-13",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "MARCVS QVINTO FRATRI",
+      "recipient_id": "person:marcvs-qvinto-fratri",
+      "place_written": "Romae",
+      "place_written_id": "place:romae",
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0054-06-15",
+      "date_precision": "month",
+      "topics": [],
+      "mood": null,
+      "length_sections": 4,
+      "carries_greek": true
+    },
+    {
+      "id": "ad-familiares-15-08",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "",
+      "recipient_id": null,
+      "place_written": null,
+      "place_written_id": null,
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0054-07-01",
+      "date_precision": "year_range",
+      "topics": [],
+      "mood": null,
+      "length_sections": 1,
+      "carries_greek": false
+    },
+    {
+      "id": "ad-familiares-15-09",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "",
+      "recipient_id": null,
+      "place_written": null,
+      "place_written_id": null,
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0054-07-01",
+      "date_precision": "year_range",
+      "topics": [],
+      "mood": null,
+      "length_sections": 3,
+      "carries_greek": false
     },
     {
       "id": "ad-familiares-07-08",
@@ -2480,125 +2481,6 @@
       "topics": [],
       "mood": null,
       "length_sections": 1,
-      "carries_greek": false
-    },
-    {
-      "id": "ad-atticum-04-13",
-      "sender": "M. Tullius Cicero",
-      "sender_id": "person:cicero",
-      "recipient": "T. Pomponius Atticus",
-      "recipient_id": "person:atticus",
-      "place_written": "Tusculanum",
-      "place_written_id": "place:tusculum",
-      "place_received": null,
-      "place_received_id": null,
-      "date": "-0055-11-15",
-      "date_precision": "day",
-      "topics": ["politics", "elections", "milo-wedding", "crassus-departure", "de-oratore"],
-      "mood": "anxious",
-      "length_sections": 2,
-      "carries_greek": true
-    },
-    {
-      "id": "ad-atticum-04-14",
-      "sender": "M. Tullius Cicero",
-      "sender_id": "person:cicero",
-      "recipient": "T. Pomponius Atticus",
-      "recipient_id": "person:atticus",
-      "place_written": "Cumanum",
-      "place_written_id": "place:cumae",
-      "place_received": null,
-      "place_received_id": null,
-      "date": "-0054-05-15",
-      "date_precision": "month",
-      "topics": ["library", "varro", "elections", "news-from-quintus", "news-from-caesar"],
-      "mood": "businesslike",
-      "length_sections": 2,
-      "carries_greek": false
-    },
-    {
-      "id": "ad-quintum-fratrem-02-09",
-      "sender": "M. Tullius Cicero",
-      "sender_id": "person:cicero",
-      "recipient": "Q. Tullius Cicero",
-      "recipient_id": "person:quintus-cicero",
-      "place_written": "Romae",
-      "place_written_id": "place:roma",
-      "place_received": null,
-      "place_received_id": null,
-      "date": "-0054-02-05",
-      "date_precision": "month",
-      "topics": ["senate", "tenedos", "magnesia-ad-sipylum", "lucretius", "literary-criticism"],
-      "mood": "intimate",
-      "length_sections": 3,
-      "carries_greek": false
-    },
-    {
-      "id": "ad-familiares-07-07",
-      "sender": "M. Tullius Cicero",
-      "sender_id": "person:cicero",
-      "recipient": "C. Trebatius Testa",
-      "recipient_id": "person:c-trebatius-testa",
-      "place_written": "Romae",
-      "place_written_id": "place:roma",
-      "place_received": null,
-      "place_received_id": null,
-      "date": "-0054-06-30",
-      "date_precision": "month",
-      "topics": ["britain", "trebatius-career", "balbus", "caesar-camp"],
-      "mood": "jocular",
-      "length_sections": 2,
-      "carries_greek": false
-    },
-    {
-      "id": "ad-quintum-fratrem-02-13",
-      "sender": "M. Tullius Cicero",
-      "sender_id": "person:cicero",
-      "recipient": "Q. Tullius Cicero",
-      "recipient_id": "person:quintus-cicero",
-      "place_written": "Romae",
-      "place_written_id": "place:roma",
-      "place_received": null,
-      "place_received_id": null,
-      "date": "-0054-05-29",
-      "date_precision": "day",
-      "topics": ["caesar-correspondence", "british-poem", "trebatius", "tribunate-curtius", "domitius", "appius", "elections", "dictatorship-rumour"],
-      "mood": "warm",
-      "length_sections": 4,
-      "carries_greek": true
-    },
-    {
-      "id": "ad-familiares-15-08",
-      "sender": "M. Tullius Cicero",
-      "sender_id": "person:cicero",
-      "recipient": "C. Claudius Marcellus (cos. 50)",
-      "recipient_id": "person:c-claudius-marcellus-cos50",
-      "place_written": "in itinere (per Lycaoniam)",
-      "place_written_id": null,
-      "place_received": null,
-      "place_received_id": null,
-      "date": "-0054-07-01",
-      "date_precision": "year_range",
-      "topics": ["congratulation", "consular-election", "augural-college"],
-      "mood": "warm",
-      "length_sections": 1,
-      "carries_greek": false
-    },
-    {
-      "id": "ad-familiares-15-09",
-      "sender": "M. Tullius Cicero",
-      "sender_id": "person:cicero",
-      "recipient": "M. Claudius Marcellus (cos. 51)",
-      "recipient_id": "person:m-claudius-marcellus-cos51",
-      "place_written": "in itinere (per Lycaoniam)",
-      "place_written_id": null,
-      "place_received": null,
-      "place_received_id": null,
-      "date": "-0054-07-01",
-      "date_precision": "year_range",
-      "topics": ["congratulation", "consular-election", "parthian-news", "proconsular-term"],
-      "mood": "warm",
-      "length_sections": 3,
       "carries_greek": false
     }
   ]

@@ -4,7 +4,7 @@
   "category": "letters",
   "title_latin": "Ad Quintum Fratrem 2.9",
   "title_english": "Ad Quintum Fratrem 2.9",
-  "date": "-0054-02-05",
+  "date": "-0054-06-14",
   "source_latin": "Perseus Digital Library (canonical-latinLit)",
   "translator": "Claude (Anthropic), via cicero-by-claude",
   "license": "CC BY-NC-SA 4.0",
@@ -27,9 +27,9 @@
     {
       "loc": "3",
       "section": 3,
-      "lat": "Lucreti poemata, ut scribis, ita sunt, multis luminibus ingeni, multae tamen artis. sed cum veneris. virum te putabo si Sallusti Empedoclea legeris, hominem non putabo.",
+      "lat": "Lucreti poemata, ut scribis, ita sunt, multis luminibus ingeni, inultae tamen artis. sed cum veneris. virum te putabo si Sallusti Empedoclea legeris, hominem non putabo.",
       "eng": "Lucretius's poems are as you write — many flashes of genius, yet much craft as well. But — when you come. I shall count you a man if you read Sallustius's Empedoclea; a human being I shall not count you.",
-      "notes": "Latin text crux: Perseus carries 'inultae tamen artis', evidently corrupt; rendered as 'multae tamen artis' (Watt OCT)."
+      "notes": null
     }
   ]
 }
