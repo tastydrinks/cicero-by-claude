@@ -64,6 +64,11 @@
 % --- linguistic / locale --------------------------------------------------
 \usepackage{polyglossia}
 \setdefaultlanguage{english}
+% Cicero's Greek phrases use \textgreek{...}; declare Greek as a script so
+% polyglossia provides the macro and selects an appropriate fallback font
+% for the Greek run.
+\setotherlanguage{greek}
+\newfontfamily\greekfont[Script=Greek]{DejaVu Sans}
 
 % --- misc layout ----------------------------------------------------------
 \usepackage{xcolor}
