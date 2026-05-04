@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
+import sitemap from '@astrojs/sitemap';
 
 // GitHub Pages deployment for tastydrinks/cicero-by-claude.
 // The site lives at https://tastydrinks.github.io/cicero-by-claude/.
@@ -12,7 +13,7 @@ export default defineConfig({
   base: '/cicero-by-claude/',
   trailingSlash: 'always',
   output: 'static',
-  integrations: [mdx()],
+  integrations: [mdx(), sitemap()],
   build: {
     format: 'directory',
   },

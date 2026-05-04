@@ -404,8 +404,15 @@ not get buried in `PROGRESS.md` (which is translation-focused).
 | Tier 2: web edition (Phase 2.1: skeleton) | shipped (Astro + GitHub Pages workflow; landing page reads `meta/works.yaml`) |
 | Tier 2: web edition (Phase 2.2: per-work pages) | shipped (200 pages: 198 work pages + landing + index, English-default + Latin-toggle reading mode, prev/next chronological nav) |
 | Tier 2: web edition (Phase 2.3: chronology timeline) | shipped (`/chronology/` — every drafted work grouped by year, with Cicero's life events as anchors) |
-| Tier 2: web edition (later phases) | not yet implemented |
-| Tier 3: agent-discoverable corpus (Phase 2.11) | not yet implemented; folded into Tier 2 |
+| Tier 2: web edition (Phase 2.4: entity glossary index) | shipped (`/glossary/` — 831 entities grouped by type with external IDs) |
+| Tier 2: web edition (Phase 2.6: letter-network table) | shipped (`/letters/` — chronological table with mood/topic tags where curated; graph rendering pending) |
+| Tier 2: web edition (Phase 2.8: Greek catalogue) | shipped (`/greek/` — 400 Greek phrases grouped by work) |
+| Tier 2: web edition (Phase 2.5: hover prosopography) | not yet implemented |
+| Tier 2: web edition (Phase 2.7: full-text search) | not yet implemented |
+| Tier 2: web edition (Phase 2.9: apparatus profile toggle) | not yet implemented |
+| Tier 2: web edition (Phase 2.10: visual polish, mobile, RSS) | not yet implemented |
+| Tier 2: web edition (Phase 2.11: agent discoverability — `llms.txt`, sitemap, archive) | not yet implemented |
+| Tier 2: web edition (Phase 2.12: EPUB export) | not yet implemented |
 
 Update this table as work lands.
 
