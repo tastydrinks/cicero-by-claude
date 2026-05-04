@@ -159,7 +159,10 @@
 
 % --- hyperlinks (clickable TOC, chronology, cross-references) ------------
 % hyperref is loaded last so it can hook into all the structural commands
-% defined above.
+% defined above. hidelinks suppresses the on-screen coloured boxes and the
+% printed-link borders, which is what we want: the print run looks identical
+% to the non-hyperlinked book, while screen readers (Preview, Acrobat, etc.)
+% still resolve clicks because the hyperref machinery is intact.
 \usepackage[hidelinks]{hyperref}
 \hypersetup{
   pdftitle={Cicero},
@@ -170,6 +173,21 @@
   bookmarksopen=true,
   bookmarksopenlevel=1,
 }
+
+% --- PDF tooltip annotations ---------------------------------------------
+% pdfcomment provides \pdftooltip{visible}{text}; we use it to attach an
+% invisible English gloss to Greek phrases whose meaning is recoverable.
+% The visible text is unchanged on the page; hovering in a PDF reader that
+% supports tooltip annotations reveals the gloss. Print is unaffected.
+\usepackage{pdfcomment}
+
+% \ciceroGreekGloss{visible}{gloss} -- thin wrapper so the build pipeline
+% can emit a tooltip without baking pdfcomment specifics into the data
+% layer. preprocess_english.py wraps a Greek phrase whose
+% greek-phrases.json entry carries a non-empty english_gloss. (As of v0.3
+% no glosses are populated, so this macro is unused at present; it is in
+% place so glosses can be filled in later without further build changes.)
+\newcommand{\ciceroGreekGloss}[2]{\pdftooltip{#1}{#2}}
 
 \title{Cicero by Claude}
 \author{Marcus Tullius Cicero \\ \itshape{translated by Claude}}
