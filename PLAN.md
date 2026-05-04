@@ -40,13 +40,15 @@ forms:
    with the works arrayed chronologically. Full-text search. The
    apparatus collapsible by reader preference.
 
-Plus, as a deferred fourth surface:
+Plus, as a fourth, lower-cost surface:
 
-4. **The AI companion** — a small companion endpoint backed by an
-   LLM and the structured corpus, that can answer reader questions
-   ("what's the political context of this letter?", "show me where
-   Cicero says something similar elsewhere") with the actual sidecar
-   data as ground truth.
+4. **Agent-discoverable corpus** — the published corpus is structured so
+   that any third-party AI agent (Claude, GPT, etc.) brought by a reader
+   can navigate and cite it cleanly. This project does NOT host an AI
+   companion endpoint or chat widget; it makes the data discoverable so
+   readers can bring their own agent on their own budget. Implemented as
+   `llms.txt`, sitemap, machine-readable JSON URLs mirroring every page,
+   and a downloadable archive (folded into the Tier 2 phasing).
 
 ## What makes this project unprecedented
 
@@ -194,41 +196,75 @@ deepen both simultaneously.
 - **Phase 2.9** — apparatus profile toggle in localStorage.
 - **Phase 2.10** — visual polish, mobile responsiveness, RSS feed,
   whatever else the corpus deserves.
+- **Phase 2.11** — agent discoverability: `/llms.txt`,
+  `/sitemap.xml`, machine-readable JSON URL mirrors of every page,
+  the downloadable corpus archive, and license signalling. See
+  Tier 3 below.
 
 Each phase is one or two sessions. Translation batches continue
 in parallel; the web edition deepens automatically as the corpus
 deepens.
 
-## Tier 3 — The AI companion
+## Tier 3 — Agent-discoverable corpus
 
-**Status**: deferred. Architecture documented now so Tier 2 doesn't
-make decisions that block it.
+**Status**: scoped. Folded into the Tier 2 phasing rather than built as
+a separate hosted service.
 
-**Goal**: the reader can ask natural-language questions of the
-corpus and get answers backed by the structured data.
+**Reframe (per Alexander)**: this project does NOT host an AI companion
+endpoint. The reader who wants AI assistance brings their own agent
+(Claude Code, ChatGPT, a third-party tool — their choice, on their
+budget). Tier 3 is therefore the discipline of making the corpus
+maximally discoverable and usable by *someone else's* agent.
 
-**Implementation sketch:**
+**Goal**: when an external agent is pointed at the published web
+edition, it should be able to:
 
-- Cloudflare Worker (or any small endpoint) wrapping an Anthropic
-  Claude API call.
-- The full `data/` directory fits easily in a single context
-  window (a few hundred KB at corpus completion).
-- System prompt: "You are a research companion for cicero-by-claude.
-  Use the structured sidecars as ground truth. When you cite a
-  passage, link to the work-page on the web edition."
-- Web edition embeds an "Ask" widget on each page that posts the
-  current page's context plus the user's question to the worker.
-- Cost-bounded by use; can be rate-limited per IP.
+- Discover the corpus structure from a small set of canonical entry
+  points without crawling everything blindly.
+- Fetch the full structured data (entities, mentions, parallel corpus,
+  letter network, Greek catalogue) from stable machine-readable URLs.
+- Cite passages with stable permalinks the user can verify in a
+  browser.
+- Optionally consume the entire corpus offline as a single archive.
 
-**What Tier 2 should do to keep Tier 3 cheap to add:**
+**Implementation (folded into Tier 2 phases):**
 
-- Keep `data/` directly URL-addressable from the web edition's
-  origin (so the worker can fetch it at runtime, not bundle it).
-- Use canonical work URLs (`/works/<id>/`) so citations from the
-  AI link cleanly.
-- Don't strip or transform the structured fields when rendering;
-  the same JSON should be the AI's source of truth and the
-  rendering layer's source of truth.
+- **`/llms.txt`** at the site root — a small markdown file pointing
+  agents at the canonical entry points (chronology, glossary, parallel
+  corpus, letter network) and stating the project's purpose, license,
+  and citation form. The emerging convention for agent-discoverability.
+- **`/sitemap.xml`** auto-generated from the work IDs — every work
+  page, every glossary entry, every index page enumerated.
+- **Machine-readable JSON URLs** mirroring every page:
+  `/works/<id>.json` returns the parallel corpus + sidecars for that
+  work; `/glossary/<entity-id>.json` returns the entity record plus
+  its mention back-links; etc. The web edition serves these as static
+  files generated alongside the HTML.
+- **Downloadable archive**: `/cicero-by-claude.zip` containing the
+  full `data/` directory, prose files, and a README pointing at the
+  web edition. Regenerated on each web build.
+- **Stable URL grammar**: work IDs become permanent slugs; section
+  anchors are `#section-<n>`; any restructuring requires HTTP
+  redirects from the old URL.
+- **License signalling**: `/llms.txt` and the archive's README state
+  the license clearly. (Currently CC BY-NC-SA 4.0; the NC clause
+  may need revisiting for commercial AI use, but that's an
+  Alexander-decides question deferred until needed.)
+
+**What this means for Tier 2's phasing:**
+
+- Phase 2.1 (skeleton) bakes in the URL grammar; once published,
+  changing it later is expensive.
+- Phase 2.2 (per-work pages) emits `/works/<id>.json` alongside the
+  HTML page from the same data loader.
+- A new **Phase 2.11 — agent discoverability** lands `llms.txt`,
+  `sitemap.xml`, the archive build step, and the license signalling.
+
+**What this is NOT:**
+
+- Not a hosted AI endpoint, not an "Ask" widget, not a chat UI, not
+  an Anthropic API key in this project's deployment. None of those.
+  Readers who want AI bring their own.
 
 ## What stays the same
 
@@ -279,7 +315,7 @@ not get buried in `PROGRESS.md` (which is translation-focused).
 | Tier 2: web edition (Phase 2.1: skeleton) | not yet implemented |
 | Tier 2: web edition (Phase 2.2: per-work pages) | not yet implemented |
 | Tier 2: web edition (later phases) | not yet implemented |
-| Tier 3: AI companion | deferred |
+| Tier 3: agent-discoverable corpus (Phase 2.11) | not yet implemented; folded into Tier 2 |
 
 Update this table as work lands.
 
