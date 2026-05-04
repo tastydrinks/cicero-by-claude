@@ -1,0 +1,115 @@
+name: Repo admin (branch cleanup, etc.)
+
+# Triggers on issue comments matching BRANCH_CLEANUP_TOKEN, used by the
+# session-Claude to delete merged session branches without needing
+# Alexander to use the GitHub UI. The actual REPO_ACCESS personal-access
+# token (not visible to session-Claude) is consumed inside the action.
+#
+# Comment format the session-Claude posts to dispatch a cleanup:
+#
+#   BRANCH_CLEANUP_TOKEN: branch-1,branch-2,...
+#
+# Each comma-separated branch is verified to be a strict ancestor of main
+# before deletion (defense in depth: only branches whose work is already
+# in main are eligible).
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  cleanup-branches:
+    if: ${{ contains(github.event.comment.body, 'BRANCH_CLEANUP_TOKEN:') }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Parse + delete merged branches
+        env:
+          GH_TOKEN: ${{ secrets.REPO_ACCESS }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
+        run: |
+          set -euo pipefail
+
+          # Extract the comma-separated branch list after the token marker.
+          list=$(printf '%s\n' "$COMMENT_BODY" \
+            | grep -oE 'BRANCH_CLEANUP_TOKEN:[^[:space:]]*' \
+            | head -1 \
+            | sed 's/^BRANCH_CLEANUP_TOKEN: *//')
+
+          if [ -z "$list" ]; then
+            echo "No branch list found in comment."
+            exit 0
+          fi
+
+          deleted=()
+          skipped=()
+          failed=()
+
+          IFS=',' read -ra branches <<< "$list"
+          for raw in "${branches[@]}"; do
+            branch=$(echo "$raw" | tr -d '[:space:]')
+            [ -z "$branch" ] && continue
+            if [ "$branch" = "main" ]; then
+              skipped+=("$branch (refused: never delete main)")
+              continue
+            fi
+
+            # Verify it's a strict ancestor of main (work already merged).
+            if ! git fetch --depth=1 origin "$branch" 2>/dev/null; then
+              skipped+=("$branch (does not exist on origin)")
+              continue
+            fi
+            if ! git merge-base --is-ancestor "FETCH_HEAD" origin/main 2>/dev/null; then
+              skipped+=("$branch (NOT ancestor of main; has unmerged work; refusing)")
+              continue
+            fi
+
+            # Delete via API
+            status=$(curl -s -o /tmp/api.out -w '%{http_code}' \
+              -X DELETE \
+              -H "Authorization: token $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/$OWNER/$REPO/git/refs/heads/$branch")
+            if [ "$status" = "204" ]; then
+              deleted+=("$branch")
+            else
+              failed+=("$branch (HTTP $status: $(cat /tmp/api.out))")
+            fi
+          done
+
+          # Report back via comment
+          {
+            echo "**Branch cleanup result**"
+            echo
+            if [ ${#deleted[@]} -gt 0 ]; then
+              echo "Deleted (${#deleted[@]}):"
+              for b in "${deleted[@]}"; do echo "  - \`$b\`"; done
+              echo
+            fi
+            if [ ${#skipped[@]} -gt 0 ]; then
+              echo "Skipped:"
+              for b in "${skipped[@]}"; do echo "  - $b"; done
+              echo
+            fi
+            if [ ${#failed[@]} -gt 0 ]; then
+              echo "Failed:"
+              for b in "${failed[@]}"; do echo "  - $b"; done
+            fi
+          } > /tmp/comment.md
+
+          curl -s \
+            -X POST \
+            -H "Authorization: token $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$OWNER/$REPO/issues/$ISSUE_NUMBER/comments" \
+            --data "$(jq -Rsn --arg body "$(cat /tmp/comment.md)" '{body: $body}')"
