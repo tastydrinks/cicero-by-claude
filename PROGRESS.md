@@ -6,8 +6,7 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 153 works end-to-end across all categories.
-- **Drafted**: 147 works end-to-end across all categories.
+- **Drafted**: 160 works end-to-end across all categories.
   - **Speeches (30)**: *Pro Quinctio* (81 BC), *Pro Roscio
     Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
     *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
@@ -522,6 +521,50 @@ session can `continue` and apply them without re-asking:
   repository in a later pass.}
 
 ## Where to resume now
+
+A parallel-assignment session drafted six undated
+recommendation letters from \textit{Ad Familiares} 13 ---
+the cluster Cicero sent during his Cilician proconsulship
+of 51--50 BC to the propraetors of the neighbouring
+provinces, written about the same season as \textit{Fam.}
+13.53. To Q. Minucius Thermus, propraetor of Asia: 13.55
+(the case of Cicero's legate M. Anneius against the people
+of Sardis) and 13.56 (the M. Cluvius of Puteoli debt
+collection across Mylasa, Alabanda, Heraclea Salbace,
+Bargylia, Caunus --- the letter that carries four Greek
+technical terms in beta-code: \textit{Mulaseis},
+\textit{Alabandeis}, \textit{ekdikoi},
+\textit{hupothekas}). To P. Silius, propraetor of Bithynia:
+13.61 (the eight-million-sesterce debt of Nicaea to the
+Pinnius estate, on which Cicero was guardian and second
+heir to the boy), 13.62 (the brief intimate letter
+combining thanks for Atilius's case with the request that
+brother Quintus be received as Cicero would be ---
+\textit{te in meo aere esse}, the account-book idiom), 13.64
+(Tiberius Claudius Nero's debut in provincial diplomacy:
+Pausanias of Alabanda, the city of Nysa as a hereditary
+Claudian client, and Servilius Strabo --- with the
+recurring \textit{magnum theatrum habet ista provincia}
+figure for the foreign command as the public stage), and
+13.65 (P. Terentius Hispo and the \textit{societas
+scripturae}, the publican company on the pasturage-tax of
+the Asian provinces).
+
+The metadata required correction: all six entries had
+pointed at the 403'd Latin Library and lacked
+\textit{speech\_index}. They are in fact in Perseus's TEI
+corpus; the entries now point there and carry the right
+\textit{book:13,letter:N} indices. Thirteen new person
+entities (Anneius, Thermus, Silius, Cluvius, Euthydemus,
+Philocles, Pinnius pater + filius, Atilius, Ti. Claudius
+Nero, Pausanias, Servilius Strabo, Hispo) and eight new
+place entities (Sardis, Mylasa, Alabanda, Heraclea Salbace,
+Bargylia, Caunus, Nicaea, Nysa) registered. Four entries
+added to greek-phrases.json; six to letter-network.json;
+one to translator-notes.jsonl.
+
+The previous resume pointer below remains the right one
+for chronological sweep work going forward.
 
 A parallel-assignment session drafted three works in
 continuous mode --- the two Marcellus letters of \textit{Ad
