@@ -481,6 +481,46 @@ session can `continue` and apply them without re-asking:
   the \textit{currentem hortaris} idiom, the \textit{oricula
   infima} proverb).
 
+- **Eighth-or-later parallel-assignment session** *(complete;
+  assigned-list)*: seven of the eight Fam. 13 recommendation letters
+  named in the launch prompt drafted end-to-end --- the four-letter
+  Brutus-as-proconsul-of-Cisalpine-Gaul cluster (Fam. 13.11 commending
+  three Roman-knight legates of Arpinum --- Q. Fufidius, M. Faucius,
+  Q. Mamercius --- to oversee the municipal revenues Arpinum holds in
+  Cisalpine Gaul, with the closing reference to Cicero's son and
+  nephew and M. Caesius being the three Arpinate aediles in this same
+  year; Fam. 13.12 the separate warmer commendation of Q. Fufidius;
+  Fam. 13.13 for L. Castronius Paetus of Luca; Fam. 13.14 the
+  remanded debt-recovery for L. Titius Strabo against P. Cornelius);
+  the long Caesar-letter Fam. 13.16 commending Apollonius the Greek
+  freedman of P. Crassus iunior, who served Cicero in Cilicia,
+  Caesar in the Alexandrian war, and now sets out for Spain in 45 BC
+  to write the history of Caesar's wars in Greek (the longest of the
+  seven, with the Diodotus-the-Stoic backstory in section 4); and
+  the two short Appuleius-as-proquaestor-of-Asia letters Fam. 13.45
+  (L. Egnatius's slave Anchialus on Asian business) and 13.46
+  (L. Nostius Zoilus, Cicero's coheir and freedman of his patron).
+  Sidecars emitted comprehensively (parallel, mentions, glossary,
+  letter-network, two translator's notes for the Fam. 13.16 textual
+  crux \texttt{eximus} -> \texttt{eximiis} and the
+  \textit{litterae Graecae} idiom). Eighteen new entities added to
+  \texttt{entities.json}: the Arpinate cluster
+  (Q. Fufidius, M. Faucius, Q. Mamercius, M. Caesius, place:arpinum)
+  plus Cicero's son and nephew (Marcus and Quintus the Younger), the
+  Brutus-letter cast (L. Castronius Paetus, place:luca, L. Titius
+  Strabo, P. Cornelius the debtor, C. Volcacius Tullus the urban
+  praetor), the Caesar letter cast (P. Crassus iunior, Apollonius
+  the freedman, Diodotus the Stoic, event:alexandrian-war), and the
+  Appuleius cluster (M. Appuleius, L. Egnatius Rufus, Anchialus,
+  L. Nostius Zoilus). Metadata fix: the eight assigned letters had
+  their \texttt{latin\_source\_url} pointing at the 403'd Latin
+  Library; updated to Perseus phi0474.phi056 and \texttt{speech\_index}
+  added per entry. \textbf{The eighth assigned letter ---
+  ad-familiares-13-49 --- is absent from Perseus's edition (book 13
+  jumps from letter 48 directly to 50) and could not be fetched;
+  remains pending and will need manual sourcing from another Latin
+  repository in a later pass.}
+
 ## Where to resume now
 
 A parallel-assignment session drafted three works in
