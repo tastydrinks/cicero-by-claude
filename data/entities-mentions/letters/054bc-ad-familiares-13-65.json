@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-65",
+  "mentions": [
+    {"loc": "1", "surface": "P. Terentio Hispone", "entity_id": "person:p-terentius-hispo", "in": "lat"},
+    {"loc": "1", "surface": "Publius Terentius Hispo", "entity_id": "person:p-terentius-hispo", "in": "eng"},
+    {"loc": "1", "surface": "Ephesi", "entity_id": "place:ephesus", "in": "lat"},
+    {"loc": "1", "surface": "Ephesus", "entity_id": "place:ephesus", "in": "eng"},
+    {"loc": "1", "surface": "Ephesiis", "entity_id": "place:ephesus", "in": "lat"},
+    {"loc": "1", "surface": "the Ephesians", "entity_id": "place:ephesus", "in": "eng"},
+    {"loc": "1", "surface": "Hisponem", "entity_id": "person:p-terentius-hispo", "in": "lat"},
+    {"loc": "1", "surface": "Hispo", "entity_id": "person:p-terentius-hispo", "in": "eng"},
+    {"loc": "2", "surface": "Hisponem meum", "entity_id": "person:p-terentius-hispo", "in": "lat"},
+    {"loc": "2", "surface": "my Hispo", "entity_id": "person:p-terentius-hispo", "in": "eng"}
+  ]
+}
