@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-62",
+  "mentions": [
+    {"loc": "1", "surface": "Atili", "entity_id": "person:atilius-eques", "in": "lat"},
+    {"loc": "1", "surface": "Atilius", "entity_id": "person:atilius-eques", "in": "eng"},
+    {"loc": "1", "surface": "Lamiae", "entity_id": "person:l-aelius-lamia", "in": "lat"},
+    {"loc": "1", "surface": "Lamia", "entity_id": "person:l-aelius-lamia", "in": "eng"},
+    {"loc": "1", "surface": "Quintum, fratrem meum", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "Quintus, my brother", "entity_id": "person:quintus-cicero", "in": "eng"}
+  ]
+}
