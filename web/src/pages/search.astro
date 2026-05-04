@@ -1,0 +1,52 @@
+---
+import Base from '../layouts/Base.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<Base title="Search" description="Full-text search across the corpus, Latin and English.">
+  <h1>Search</h1>
+  <p>
+    Full-text search across the drafted corpus, Latin and English.
+    Type anything — a phrase, a name, a Greek transliteration. Results
+    show snippets with the matching text highlighted.
+  </p>
+
+  <div id="search"></div>
+
+  <link href={`${base}/pagefind/pagefind-ui.css`} rel="stylesheet" />
+  <script src={`${base}/pagefind/pagefind-ui.js`} is:inline></script>
+  <script is:inline define:vars={{ base }}>
+    window.addEventListener('DOMContentLoaded', () => {
+      // eslint-disable-next-line no-undef
+      new PagefindUI({
+        element: '#search',
+        showSubResults: true,
+        showImages: false,
+        bundlePath: `${base}/pagefind/`,
+        translations: {
+          placeholder: 'Search Latin and English…',
+          zero_results: 'No matches in the drafted corpus yet.',
+        },
+      });
+    });
+  </script>
+
+  <style>
+    #search {
+      margin: 2rem 0 4rem;
+    }
+    /* Pagefind's default styling is fine but we tone it down slightly
+       to match the EB Garamond aesthetic. */
+    :global(.pagefind-ui__form) {
+      border: 1px solid var(--rule);
+      border-radius: 0;
+    }
+    :global(.pagefind-ui__search-input) {
+      font-family: var(--serif) !important;
+      font-size: 1.1rem !important;
+    }
+    :global(.pagefind-ui__result-title a) {
+      font-family: var(--serif) !important;
+      color: var(--accent) !important;
+    }
+  </style>
+</Base>
