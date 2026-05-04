@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-13",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.13",
+  "title_english": "Ad Familiares 13.13",
+  "date": "-0054-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Castronius Paetus, longe princeps municipi Lucensis, est honestus, gravis, plenus offici, bonus plane vir et cum virtutibus tum etiam fortuna, si quid hoc ad rem pertinet, ornatus ; meus autem est familiarissimus, sic prosus ut nostri ordinis observet neminem diligentius. qua re ut et meum amicum et tua dignum amicitia tibi commendo. cui quibuscumque rebus commodaveris, tibi profecto iucundum, mihi certe erit gratum. vale .",
+      "eng": "L. Castronius Paetus, by far the leading man of the municipality of Luca, is honourable, weighty, full of duty, plainly a good man, and adorned both by his virtues and --- if this counts for anything --- by his fortune as well; and he is my closest intimate, so wholly so that he respects no one of our order more diligently than me. For these reasons I commend him to you both as my friend and as one worthy of your friendship. In whatever matters you may oblige him, you yourself will surely find pleasure in it; to me, certainly, it will be welcome. Farewell.",
+      "notes": null
+    }
+  ]
+}

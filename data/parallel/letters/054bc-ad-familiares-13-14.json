@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-14",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.14",
+  "title_english": "Ad Familiares 13.14",
+  "date": "-0054-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Titio Strabone, equite R. in primis honesto et ornato, familiarissime utor ; omnia mihi cum eo intercedunt iura summae necessitudinis. huic in tua provincia pecuniam debet P. Cornelius. ea res a Volcacio, qui Romae ius dicit, reiecta in Galliam est.",
+      "eng": "L. Titius Strabo, a Roman knight of the first rank in honour and standing, I make the closest use of: between him and me run all the rights of the deepest friendship. To him in your province P. Cornelius owes money. The matter has been remanded by Volcacius, who administers the law at Rome, to Gaul.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "peto a te hoc diligentius quam si mea res esset, quo est honestius de amicorum pecunia laborare quam de sua, ut negotium conficiendum cures, ipse suscipias, transigas operamque des, quoad tibi aequum et rectum videbitur, ut quam commodissima condicione libertus Strabonis, qui eius rei causa missus est, negotium conficiat ad nummosque perveniat. id et mihi gratissimum erit et tu ipse L. Titium cognosces amicitia tua dignissimum. quod ut tibi curae sit, ut omnia solent esse quae me velle scis, te vehementer etiam atque etiam rogo.",
+      "eng": "I ask you to attend to this with more diligence than if it were my own affair --- since it is more honourable to take trouble over a friend's money than over one's own --- to see the business through, to take it up yourself, settle it, and so far as may seem to you fair and right take pains that on as convenient terms as possible Strabo's freedman, who has been sent for this very purpose, may finish the business and come into the cash. This will both be most welcome to me, and you yourself will come to know L. Titius as a man most worthy of your friendship. That you will take this to heart, as you have always taken everything you know I want, I most earnestly --- again and again --- ask of you.",
+      "notes": null
+    }
+  ]
+}

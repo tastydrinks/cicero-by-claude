@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-45",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.45",
+  "title_english": "Ad Familiares 13.45",
+  "date": "-0054-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Egnatio uno equite R. vel familiarissime utor. eius Anchialum servum negotiaque quae habet in Asia tibi commendo non minore studio quam si rem meam commendarem. sic enim existimes velim, mihi cum eo non modo cotidianam consuetudinem summam intercedere, sed etiam officia magna et mutua nostra inter nos esse. quam ob rem etiam atque etiam a te peto ut cures ut intellegat me ad te satis diligenter scripsisse ; nam de tua erga me voluntate non dubitabat. id ut facias te etiam atque etiam rogo. vale .",
+      "eng": "L. Egnatius is one Roman knight whom I make use of, indeed, with the closest familiarity. His slave Anchialus and the affairs which he has in Asia I commend to you with no less zeal than if I were commending an affair of my own. For I would have you reckon that not only does the most daily intimacy run between him and me, but that great and mutual services pass between us. For which reason I beg of you again and again that you take care he comes to know I have written to you diligently enough; for of your goodwill towards me he had no doubt. That you will do this, I again and again ask of you. Farewell.",
+      "notes": null
+    }
+  ]
+}
