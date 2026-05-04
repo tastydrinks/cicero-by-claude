@@ -1,0 +1,138 @@
+---
+import Base from '../layouts/Base.astro';
+import { loadWorks } from '../lib/works.ts';
+import { chronologicalSort, isDrafted, parseDate, shortDate } from '../lib/chronology.ts';
+
+const works = loadWorks();
+const drafted = chronologicalSort(works.filter(isDrafted));
+
+// Group works by year
+type Group = { year: number; works: typeof drafted };
+const byYear = new Map<number, Group>();
+for (const w of drafted) {
+  const [y] = parseDate(w.date);
+  if (!byYear.has(y)) byYear.set(y, { year: y, works: [] });
+  byYear.get(y)!.works.push(w);
+}
+const groups: Group[] = Array.from(byYear.values()).sort((a, b) => a.year - b.year);
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const categoryShortLabels: Record<string, string> = {
+  speeches: 'speech',
+  letters: 'letter',
+  philosophy: 'phil',
+  rhetoric: 'rhet',
+};
+
+// Cicero's life events for context anchors on the timeline
+const lifeEvents: { year: number; label: string }[] = [
+  { year: -106, label: 'Born at Arpinum (3 January)' },
+  { year: -91, label: 'Begins legal training at Rome' },
+  { year: -81, label: 'First surviving speech (Pro Quinctio)' },
+  { year: -75, label: 'Quaestor at Lilybaeum, Sicily' },
+  { year: -70, label: 'Prosecutes Verres for extortion' },
+  { year: -66, label: 'Praetor; Pro Lege Manilia (first political speech)' },
+  { year: -63, label: 'Consul; the Catilinarian conspiracy' },
+  { year: -58, label: 'Exiled by Clodius; sent to Greece' },
+  { year: -57, label: 'Recalled from exile (4 August)' },
+  { year: -56, label: 'Conference of Luca; political about-face' },
+  { year: -55, label: 'De Oratore' },
+  { year: -54, label: 'De Re Publica' },
+  { year: -52, label: 'Defends Milo (delivered speech failed); De Legibus' },
+  { year: -51, label: 'Proconsul of Cilicia' },
+  { year: -49, label: 'Civil war begins; reluctantly joins Pompey' },
+  { year: -48, label: 'Pompey defeated at Pharsalus' },
+  { year: -46, label: 'Caesar pardons; philosophical torrent begins' },
+  { year: -45, label: "Tullia's death; Consolatio, Hortensius, Tusculanae" },
+  { year: -44, label: 'Caesar assassinated (Ides of March); Philippics' },
+  { year: -43, label: 'Proscribed by triumvirs; killed at Formiae (7 December)' },
+];
+const eventsByYear = new Map(lifeEvents.map((e) => [e.year, e.label]));
+---
+<Base title="Chronology" description="Cicero's surviving works arrayed in chronological order, year by year.">
+  <h1>Chronology</h1>
+  <p>
+    Every drafted work, year by year, alongside the events of Cicero's
+    life. Click a work to read it.
+  </p>
+
+  <div class="timeline">
+    {groups.map((g) => (
+      <section class="year">
+        <header class="year-head">
+          <h2 class="year-num">{Math.abs(g.year)} BC</h2>
+          {eventsByYear.has(g.year) && (
+            <p class="year-event">{eventsByYear.get(g.year)}</p>
+          )}
+        </header>
+        <ol class="year-works">
+          {g.works.map((w) => (
+            <li>
+              <a href={`${base}/works/${w.id}/`}>
+                <span class="cat">{categoryShortLabels[w.category] ?? w.category}</span>
+                <span class="title">{w.title_english}</span>
+                <span class="date">{shortDate(w.date, w.date_precision)}</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))}
+  </div>
+
+  <style>
+    .timeline { margin: 2rem 0; }
+    .year {
+      display: grid;
+      grid-template-columns: 7rem 1fr;
+      gap: 1.5rem;
+      padding: 1rem 0;
+      border-bottom: 1px dotted var(--rule);
+    }
+    .year-head { margin: 0; }
+    .year-num {
+      margin: 0;
+      font-size: 1.4rem;
+      color: var(--accent);
+      font-weight: 500;
+      font-variant-numeric: tabular-nums;
+      line-height: 1.2;
+    }
+    .year-event {
+      color: var(--muted);
+      font-size: 0.85rem;
+      font-style: italic;
+      margin: 0.3rem 0 0;
+      line-height: 1.35;
+    }
+    .year-works {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .year-works li { margin: 0; padding: 0.15rem 0; }
+    .year-works a {
+      display: grid;
+      grid-template-columns: 4rem 1fr auto;
+      gap: 0.6rem;
+      align-items: baseline;
+      border-bottom: none;
+      color: var(--ink);
+      padding: 0.15rem 0;
+    }
+    .year-works a:hover .title { color: var(--accent); }
+    .year-works .cat {
+      color: var(--muted);
+      font-variant: small-caps;
+      letter-spacing: 0.04em;
+      font-size: 0.8rem;
+    }
+    .year-works .title { font-size: 1rem; }
+    .year-works .date {
+      color: var(--muted);
+      font-size: 0.85rem;
+      font-variant-numeric: tabular-nums;
+    }
+  </style>
+</Base>
