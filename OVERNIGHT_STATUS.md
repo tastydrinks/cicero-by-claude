@@ -3,6 +3,42 @@
 This file is the wake-up note Alexander finds when he opens GitHub.
 Auto-deleted once read; not part of the project's permanent docs.
 
+## Two things you need to do (5 minutes total when you wake up)
+
+### 1. Reset the OAuth secret (described in detail below)
+
+### 2. Delete 12 merged session branches
+
+The harness's git server refuses branch deletions, so they accumulate
+on `origin`. All of the branches below are strict ancestors of `main`
+(their work is already merged) and safe to delete. **Bulk-delete via
+the GitHub web UI**: repo → **Branches** → trash icon next to each.
+GitHub mobile shows the same trash icon.
+
+Safe to delete (12):
+
+- `claude/add-internal-hyperlinks-7O761`
+- `claude/astro-github-pages-setup-oSdgK`
+- `claude/research-similar-projects-Y60aO`
+- `claude/translate-ad-familiares-13-nVJvr`
+- `claude/translate-cicero-letters-4KyOj`
+- `claude/translate-cicero-letters-ki3FG`
+- `claude/translate-cicero-works-krtUO`
+- `claude/translate-cicero-works-kv81y`
+- `claude/translate-latin-letters-6xISV`
+- `claude/translate-latin-letters-TznHk`
+- `claude/translate-latin-works-VBQT5`
+- `claude/verrines-actio-secunda-sidecars-GO9V2`
+
+Keep: `main` only.
+
+I cannot delete these myself — confirmed: harness git refuses
+deletions (HTTP 403), no `delete_branch` tool exists in my GitHub
+MCP, no API token with `repo` scope is available in my environment.
+You're the only path to a clean branch list.
+
+---
+
 ## What you need to do (5 minutes when you wake up)
 
 **Reset the `CLAUDE_CODE_OAUTH_TOKEN` secret in GitHub.** The PM-Claude
