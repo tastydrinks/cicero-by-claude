@@ -34,7 +34,13 @@ Read these in order before writing a word of translation:
    profile system. The bound volume is built in three editions
    from the same source; the apparatus is generated from the
    sidecars.
-7. One finished letter headnote (e.g.
+7. `PLAN.md` — the multi-surface roadmap. The bound book is one
+   expression of the corpus; the hyperlinked PDF, web edition, and
+   AI companion are the others. Read this so you know the broader
+   context — even if your session is purely translation, you may be
+   asked to extend a non-translation surface, and the plan tells
+   you where the seams are.
+8. One finished letter headnote (e.g.
    `headnotes/letters/058bc-ad-atticum-03-07.tex`) for the
    established convention.
 

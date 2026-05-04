@@ -4,11 +4,25 @@
 
 A repository for producing a fresh, chronological English translation of the
 complete surviving works of Marcus Tullius Cicero, rendered from the Latin.
-The end product is a typeset book (PDF, print-ready) in which speeches,
-philosophical treatises, rhetorical works, and letters are interleaved in
-strict chronological order, with letters given a distinct visual treatment.
-The book is designed as a single bound volume on India paper, intended for
-finishing by a specialty bookbinder.
+The translation is single-voice across the entire corpus.
+
+The project produces **multiple surfaces** over the same translation:
+
+1. **A typeset bound volume on India paper**, finished by a specialty
+   bookbinder — the named artifact.
+2. **A hyperlinked digital PDF** — the same volume with internal links
+   activated; entities click to glossary entries, cross-references resolve,
+   Greek phrases reveal their gloss.
+3. **A web edition** — interactive reading and research surface, side-by-side
+   Latin/English, hover prosopography, letter-network graph, timeline,
+   full-text search, collapsible apparatus.
+4. **An AI companion** (deferred) — the structured corpus exposed through
+   an LLM that answers reader questions with the sidecar data as ground
+   truth.
+
+All surfaces read from the same source (`data/` plus the prose files); the
+bound book is one expression and the digital surfaces are others. See
+`PLAN.md` for the multi-surface roadmap.
 
 The translator is Claude (Anthropic). The human collaborator is Alexander
 Woods. The project is named in the tradition of attributed classical
