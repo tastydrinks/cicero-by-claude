@@ -325,6 +325,7 @@ def regenerate_derived_files() -> bool:
         ["build_manifest.py"],
         ["backfill_structural.py"],
         ["enrich_letter_network.py"],
+        ["stub_unknown_entities.py"],
         ["generate_backmatter.py", "--profile", "reading"],
     ]
     for cmd in scripts:

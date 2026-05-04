@@ -73,8 +73,15 @@ truth.
      translation is preferred.
    - `data/entities-mentions/<category>/<id>.json` — every named
      person, place, office, institution, law, festival, god, or
-     external text mentioned, tagged with stable entity IDs. New
-     entities are added to `data/entities.json`.
+     external text mentioned, tagged with stable entity IDs. **Every
+     entity_id you reference in a mention or glossary note must also
+     exist in `data/entities.json`.** If you introduce a new id, add
+     a registry entry in the same commit (id, type, canonical_name,
+     short summary, first_appearance). The validator warns on unknown
+     ids, and the finalizer auto-stubs them at batch end --- but a
+     stub is a placeholder, not real apparatus, and creates work for
+     a later enrichment pass. Better to write the real entry the
+     first time.
    - `data/glossary/<category>/<id>.json` — short realia notes for
      things a non-classicist would miss (the kalends, the
      pontifices, particular families). One per anchor per work.
