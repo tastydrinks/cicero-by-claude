@@ -9,6 +9,25 @@ chronological order, for a single typeset bound volume on India
 paper. The human collaborator is **Alexander Woods** (never
 abbreviated). The translator is Claude.
 
+## Project management
+
+The day-to-day project manager for this work is **Claude Cowork**
+(Anthropic's desktop agentic product), running on Alexander's
+machine against this repository. When you read a launch prompt
+that gives you specific work IDs, those came from Cowork — follow
+them as the binding scope for your session, per the parallel-
+session protocol below. When you finish, Cowork will run the
+finalization scripts and plan the next batch.
+
+If you are Cowork itself reading this brief: your role is to
+dispatch parallel translation and infrastructure sessions
+(typically 2--5 at a time), wait for them to finish, run
+`scripts/finalize_parallel_batch.py` to merge their work into
+`main`, regenerate derived files, and plan the next batch. The
+chronology rule + parallel-session protocol below tell you how to
+slice assignments. PLAN.md tells you what surfaces to build
+toward.
+
 ## Required reading at session start
 
 Read these in order before writing a word of translation:

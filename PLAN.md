@@ -362,6 +362,32 @@ The single rule: **agents read the documentation first, then make
 the change in a way the next agent will discover by reading the
 same documentation.**
 
+## Project management: Claude Cowork
+
+**The day-to-day project manager is Claude Cowork** (Anthropic's
+desktop agentic product), running on Alexander's machine against
+this repository. Cowork's job:
+
+1. Read this `PLAN.md`, `PROGRESS.md`, and `CLAUDE.md` at session
+   start to know the current state.
+2. Plan the next batch of work — typically a mix of: forward
+   chronological translation, Tier 1/2 infrastructure phases, and
+   stub-enrichment / judgment-heavy backfill on already-drafted
+   works.
+3. Dispatch parallel sessions (Cowork's built-in sub-agents, on
+   Alexander's Max subscription quota — no separate API billing).
+4. Wait for them to finish, then run
+   `bash scripts/finalize_parallel_batch.py` to merge their work
+   to `main`, regenerate derived files, and validate.
+5. Update `PROGRESS.md` "Where to resume now" so the next session
+   inherits a clean pointer.
+
+The earlier "PM-Claude via GitHub Actions" plan is **retired** —
+Cowork supersedes it because it runs on subscription quota rather
+than an API key. The `.github/workflows/repo-admin.yml` workflow
+remains useful as a way to do GitHub-side admin (branch cleanup
+etc.) by issue-comment dispatch when needed.
+
 ## Status tracking
 
 Living progress on the multi-surface plan tracks here so it does
@@ -369,14 +395,15 @@ not get buried in `PROGRESS.md` (which is translation-focused).
 
 | Item | Status |
 |---|---|
-| Translation backbone (single-voice corpus) | in progress (185 / ~795 works as of v0.2) |
+| Translation backbone (single-voice corpus) | in progress (198 / 958 works, ~20%) |
 | Sidecar infrastructure | shipped (`data/SCHEMA.md`, validators, backfill) |
 | Bound-book build pipeline (`reading` profile) | shipped |
 | Bound-book build pipeline (`study` profile) | shipped |
 | Bound-book build pipeline (`scholar` profile) | shipped |
 | Tier 1: hyperlinked PDF | shipped (v0.3 scholar; Greek tooltips pending gloss data) |
 | Tier 2: web edition (Phase 2.1: skeleton) | shipped (Astro + GitHub Pages workflow; landing page reads `meta/works.yaml`) |
-| Tier 2: web edition (Phase 2.2: per-work pages) | not yet implemented |
+| Tier 2: web edition (Phase 2.2: per-work pages) | shipped (200 pages: 198 work pages + landing + index, English-default + Latin-toggle reading mode, prev/next chronological nav) |
+| Tier 2: web edition (Phase 2.3: chronology timeline) | shipped (`/chronology/` — every drafted work grouped by year, with Cicero's life events as anchors) |
 | Tier 2: web edition (later phases) | not yet implemented |
 | Tier 3: agent-discoverable corpus (Phase 2.11) | not yet implemented; folded into Tier 2 |
 
