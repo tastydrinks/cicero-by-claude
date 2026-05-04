@@ -522,6 +522,33 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
+**Current state (post-batch-3 finalization):** 198 / 958
+works drafted (\~20\%). Latest drafted: \textit{Ad Familiares}
+1.10 (Dec 54 BC). Earliest pending: \textit{Ad Familiares}
+13.49 and the year-precision cluster around July 54 BC. Next
+substantial works in the queue beyond the recommendation
+letters: \textit{Pro Plancio}, \textit{Pro Rabirio Postumo},
+\textit{Pro Scauro} (year-precision 54 BC), then
+\textit{Partitiones Oratoriae}, then the autumn-54 BC Atticus
+letters.
+
+**Multi-surface progress:** the Tier 1 hyperlinked PDF shipped
+as \texttt{build/output/cicero-v0.3-scholar.pdf} (Greek
+tooltips pending gloss data; entity links and cross-references
+live). The Tier 2 web edition's Phase 2.1 skeleton shipped
+(Astro site at \texttt{web/}, deploys to GitHub Pages on
+pushes touching \texttt{web/}, \texttt{meta/}, \texttt{data/},
+or the prose dirs). The PM-Claude orchestration workflow
+\texttt{.github/workflows/claude.yml} is being validated; once
+green, future translation and infrastructure batches will be
+dispatched via \texttt{@claude} mentions on issues by the
+session-Claude rather than launched manually by Alexander.
+See \texttt{PLAN.md} for the multi-surface roadmap.
+
+**The previous resume notes below remain accurate** for
+chronological sweep work; the only thing that has changed is
+the chronology pointer has moved forward.
+
 A parallel-assignment session drafted six undated
 recommendation letters from \textit{Ad Familiares} 13 ---
 the cluster Cicero sent during his Cilician proconsulship
