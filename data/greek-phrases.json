@@ -5148,6 +5148,58 @@
       "source_certainty": "unknown",
       "register": "technical",
       "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-0397",
+      "work": "ad-familiares-13-56",
+      "loc": "1",
+      "greek_original": "Μυλασεῖς",
+      "transliteration": "Mulaseis",
+      "english_gloss": "the Mylasians",
+      "context": "Cicero writes the city's ethnonym in Greek script as a routine technical reflex when writing about Greek civic affairs.",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": null
+    },
+    {
+      "id": "gr-0398",
+      "work": "ad-familiares-13-56",
+      "loc": "1",
+      "greek_original": "Ἀλαβανδεῖς",
+      "transliteration": "Alabandeis",
+      "english_gloss": "the Alabandans",
+      "context": "Cicero writes the city's ethnonym in Greek script in a list of debtor cities of the publican-banker Cluvius.",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": null
+    },
+    {
+      "id": "gr-0399",
+      "work": "ad-familiares-13-56",
+      "loc": "1",
+      "greek_original": "ἔκδικοι",
+      "transliteration": "ekdikoi",
+      "english_gloss": "legal representatives",
+      "context": "Cicero distinguishes ekdikoi (Greek civic agents formally empowered to litigate and settle) from mere legati (envoys), and asks Thermus to require the cities to send the former.",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": null
+    },
+    {
+      "id": "gr-0400",
+      "work": "ad-familiares-13-56",
+      "loc": "2",
+      "greek_original": "ὑποθήκας",
+      "transliteration": "hupothekas",
+      "english_gloss": "mortgages",
+      "context": "Cicero uses the Greek term for property pledged as security in a debt of Philocles of Alabanda to Cluvius; the loan has been breached and the security is forfeit.",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": null
     }
   ]
 }

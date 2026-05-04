@@ -1571,6 +1571,19 @@
       "categories": []
     },
     {
+      "id": "person:atilius-eques",
+      "type": "person",
+      "canonical_name": "Atilius",
+      "short_name": "Atilius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman knight whose case in Bithynia was decided by P. Silius in his favour at Cicero's belated request, mediated through their common friend L. Aelius Lamia. Otherwise unattested.",
+      "first_appearance": "ad-familiares-13-62",
+      "categories": [
+        "client"
+      ]
+    },
+    {
       "id": "person:atratinus-prosecutor",
       "type": "person",
       "canonical_name": "Lucius Sempronius Atratinus",
@@ -3417,6 +3430,21 @@
       "categories": []
     },
     {
+      "id": "person:euthydemus-mylasa",
+      "type": "person",
+      "canonical_name": "Euthydemus",
+      "short_name": "Euthydemus",
+      "aliases": [
+        "Euthydemus of Mylasa"
+      ],
+      "external_ids": {},
+      "summary": "Leading citizen of Mylasa in Caria, on whom Cicero relied (when at Ephesus during his Cilician proconsulship of 51--50 BC) to send Greek civic representatives (ekdikoi) to Rome to settle the city's debt to the publican-banker Cluvius. Probably the same Euthydemus mentioned by Strabo as a magnate of the city.",
+      "first_appearance": "ad-familiares-13-56",
+      "categories": [
+        "greek-magnate"
+      ]
+    },
+    {
       "id": "person:faustus-sulla",
       "type": "person",
       "canonical_name": "Faustus Cornelius Sulla",
@@ -4928,6 +4956,22 @@
       "categories": []
     },
     {
+      "id": "person:m-anneius",
+      "type": "person",
+      "canonical_name": "M. Anneius",
+      "short_name": "M. Anneius",
+      "aliases": [
+        "Marcus Anneius"
+      ],
+      "external_ids": {},
+      "summary": "Senator and one of Cicero's four legates during his proconsulship of Cilicia (51--50 BC); offered the legateship by Cicero unsolicited, when others had been refused. Served alongside Cicero in the Parthian-frontier campaign and was the subject of a recommendation to Q. Minucius Thermus over a dispute with the city of Sardis.",
+      "first_appearance": "ad-familiares-13-55",
+      "categories": [
+        "legate",
+        "cilician-staff"
+      ]
+    },
+    {
       "id": "person:m-annius-eques",
       "type": "person",
       "canonical_name": "M. Annium",
@@ -5135,6 +5179,23 @@
         "political",
         "augural-college",
         "optimate"
+      ]
+    },
+    {
+      "id": "person:m-cluvius-puteolanus",
+      "type": "person",
+      "canonical_name": "Marcus Cluvius",
+      "short_name": "Cluvius",
+      "aliases": [
+        "Cluvius of Puteoli",
+        "Cluvius Puteolanus"
+      ],
+      "external_ids": {},
+      "summary": "Banker and financier of Puteoli, an intimate friend of Cicero, with extensive lending interests in the Greek cities of Asia. Pompey was a backer of his Asian business; Cicero pressed his case repeatedly with the governors of Asia and Bithynia in 51--50 BC. Mentioned in his will Cicero among his heirs (Att. 13.46.3).",
+      "first_appearance": "ad-familiares-13-56",
+      "categories": [
+        "financier",
+        "puteoli"
       ]
     },
     {
@@ -6363,6 +6424,24 @@
       "categories": []
     },
     {
+      "id": "person:p-silius-pr",
+      "type": "person",
+      "canonical_name": "Publius Silius",
+      "short_name": "P. Silius",
+      "aliases": [
+        "P. Silius Nerva",
+        "Publius Silius Nerva"
+      ],
+      "external_ids": {},
+      "summary": "Propraetor of Bithynia and Pontus in 51--50 BC, contemporary with Cicero's proconsulship of Cilicia. The recipient of Fam. 13.61--65 and other recommendations during the same season. Probably the father of P. Silius cos. suff. 3 BC.",
+      "first_appearance": "ad-familiares-13-61",
+      "categories": [
+        "magistrate",
+        "promagistrate",
+        "bithynia"
+      ]
+    },
+    {
       "id": "person:p-sulpicius-rufus",
       "type": "person",
       "canonical_name": "Publius Sulpicius Rufus",
@@ -6393,6 +6472,22 @@
       "summary": "(stub --- to be enriched)",
       "first_appearance": "in-verrem-2-1",
       "categories": []
+    },
+    {
+      "id": "person:p-terentius-hispo",
+      "type": "person",
+      "canonical_name": "Publius Terentius Hispo",
+      "short_name": "Hispo",
+      "aliases": [
+        "P. Terentius Hispo"
+      ],
+      "external_ids": {},
+      "summary": "Equestrian agent (pro magistro) of the Roman publican company that held the contract on the scriptura, the pasturage-tax of the Asian provinces. A long-standing intimate of Cicero, recommended to P. Silius in 51--50 BC for help in concluding settlement-agreements (pactiones) with the cities of Bithynia.",
+      "first_appearance": "ad-familiares-13-65",
+      "categories": [
+        "publican",
+        "equestrian"
+      ]
     },
     {
       "id": "person:p-tettius",
@@ -6499,6 +6594,21 @@
       "summary": "(stub --- to be enriched)",
       "first_appearance": "in-verrem-2-3",
       "categories": []
+    },
+    {
+      "id": "person:pausanias-alabandensis",
+      "type": "person",
+      "canonical_name": "Pausanias",
+      "short_name": "Pausanias",
+      "aliases": [
+        "Pausanias of Alabanda"
+      ],
+      "external_ids": {},
+      "summary": "Citizen of Alabanda in Caria whose case in the province of Bithynia young Tiberius Claudius Nero wished held over until he could arrive in person. Otherwise unattested.",
+      "first_appearance": "ad-familiares-13-64",
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:percennii-pompeii",
@@ -6620,6 +6730,22 @@
       "summary": "(stub --- to be enriched)",
       "first_appearance": "in-verrem-2-1",
       "categories": []
+    },
+    {
+      "id": "person:philocles-alabandensis",
+      "type": "person",
+      "canonical_name": "Philocles",
+      "short_name": "Philocles",
+      "aliases": [
+        "Philocles of Alabanda"
+      ],
+      "external_ids": {},
+      "summary": "Debtor of the Puteolan banker Cluvius, of the city of Alabanda in Caria. Had pledged property as security (hupothekai) on a loan, which had been forfeited by 51--50 BC; Cicero asked the propraetor of Asia, Q. Minucius Thermus, to compel either the surrender of the security or payment.",
+      "first_appearance": "ad-familiares-13-56",
+      "categories": [
+        "debtor",
+        "alabanda"
+      ]
     },
     {
       "id": "person:philoctetes",
@@ -7292,6 +7418,23 @@
       "categories": []
     },
     {
+      "id": "person:q-minucius-thermus-pr",
+      "type": "person",
+      "canonical_name": "Quintus Minucius Thermus",
+      "short_name": "Thermus",
+      "aliases": [
+        "Q. Minucius Thermus"
+      ],
+      "external_ids": {},
+      "summary": "Praetor by 53 BC, propraetor of Asia in 51--50 BC, contemporary with Cicero's proconsulship of Cilicia. The recipient of a cluster of recommendation letters (Fam. 13.53--57) covering the affairs of Cicero's friends and clients in the province. Pompeian in the civil war; killed at Apamea in 43 BC.",
+      "first_appearance": "ad-familiares-13-53",
+      "categories": [
+        "magistrate",
+        "promagistrate",
+        "asia-province"
+      ]
+    },
+    {
       "id": "person:q-mucius-scaevola-augur",
       "type": "person",
       "canonical_name": "Quintus Mucius Scaevola the Augur",
@@ -7666,6 +7809,21 @@
       "summary": "(stub --- to be enriched)",
       "first_appearance": "in-verrem-2-2",
       "categories": []
+    },
+    {
+      "id": "person:servilius-strabo",
+      "type": "person",
+      "canonical_name": "Servilius Strabo",
+      "short_name": "Servilius Strabo",
+      "aliases": [
+        "Strabo Servilius"
+      ],
+      "external_ids": {},
+      "summary": "Cicero's repeated client in a case before P. Silius, propraetor of Bithynia, in 51--50 BC; the case had also been taken up by Tiberius Claudius Nero. Otherwise unattested.",
+      "first_appearance": "ad-familiares-13-64",
+      "categories": [
+        "client"
+      ]
     },
     {
       "id": "person:servius-tullius",
@@ -8156,6 +8314,38 @@
       "categories": []
     },
     {
+      "id": "person:t-pinnius-filius",
+      "type": "person",
+      "canonical_name": "Titus Pinnius (filius)",
+      "short_name": "Pinnius (the son)",
+      "aliases": [
+        "Pinnius",
+        "Pinnio"
+      ],
+      "external_ids": {},
+      "summary": "Son of T. Pinnius the elder; a young man of cultivated parts (mire studioso et erudito et modesto) under Cicero's guardianship in 51--50 BC. The Bithynian city of Nicaea owed his estate eight million sesterces; Cicero asked P. Silius to expedite payment.",
+      "first_appearance": "ad-familiares-13-61",
+      "categories": [
+        "ward"
+      ]
+    },
+    {
+      "id": "person:t-pinnius-pater",
+      "type": "person",
+      "canonical_name": "Titus Pinnius",
+      "short_name": "T. Pinnius",
+      "aliases": [
+        "Titus Pinnius the elder"
+      ],
+      "external_ids": {},
+      "summary": "Roman intimate of Cicero, deceased by 51--50 BC; named Cicero in his will as guardian (tutor) of his son and as second heir, a mark of close trust. Otherwise unattested.",
+      "first_appearance": "ad-familiares-13-61",
+      "categories": [
+        "friend",
+        "deceased"
+      ]
+    },
+    {
       "id": "person:t-quinctius-flamininus",
       "type": "person",
       "canonical_name": "Flaminino",
@@ -8400,6 +8590,25 @@
       "categories": [
         "historian",
         "greek"
+      ]
+    },
+    {
+      "id": "person:ti-claudius-nero",
+      "type": "person",
+      "canonical_name": "Tiberius Claudius Nero",
+      "short_name": "Nero",
+      "aliases": [
+        "Ti. Claudius Nero",
+        "Ti. Nero"
+      ],
+      "external_ids": {
+        "wikidata": "Q734851"
+      },
+      "summary": "Young Roman noble (b. c. 85 BC), of the Claudian gens; quaestor under Cicero in Cilicia (51--50 BC). Suitor for Tullia in 50 BC, but lost out to Dolabella. Father, by Livia Drusilla, of the future emperor Tiberius. Pompeian, then Caesarian; praetor 42 BC.",
+      "first_appearance": "ad-familiares-13-64",
+      "categories": [
+        "noble",
+        "young-friend"
       ]
     },
     {
@@ -8744,6 +8953,26 @@
       "categories": []
     },
     {
+      "id": "place:alabanda",
+      "type": "place",
+      "canonical_name": "Alabanda",
+      "short_name": "Alabanda",
+      "aliases": [
+        "Alabandeis",
+        "Alabandans",
+        "the Alabandans"
+      ],
+      "external_ids": {
+        "pleiades": "599566"
+      },
+      "summary": "Greek city in Caria, on the road between Mylasa and Tralles, in the Roman province of Asia. Several of its citizens (Philocles, Pausanias) appear in Cicero's letters of 51--50 BC as parties to debt litigation or recommendation.",
+      "first_appearance": "ad-familiares-13-56",
+      "categories": [
+        "asia-minor",
+        "caria"
+      ]
+    },
+    {
       "id": "place:ameria",
       "type": "place",
       "canonical_name": "Ameria",
@@ -8902,6 +9131,25 @@
       "categories": [
         "italy",
         "resort"
+      ]
+    },
+    {
+      "id": "place:bargylia",
+      "type": "place",
+      "canonical_name": "Bargylia",
+      "short_name": "Bargylia",
+      "aliases": [
+        "Bargylietae",
+        "the Bargylietae"
+      ],
+      "external_ids": {
+        "pleiades": "599575"
+      },
+      "summary": "Greek coastal city in Caria, on the gulf opposite the island of Cos, in the Roman province of Asia. Among the cities indebted to the publican-banker Cluvius in 51--50 BC.",
+      "first_appearance": "ad-familiares-13-56",
+      "categories": [
+        "asia-minor",
+        "caria"
       ]
     },
     {
@@ -9089,6 +9337,25 @@
       "summary": "(stub --- to be enriched)",
       "first_appearance": "in-verrem-2-2",
       "categories": []
+    },
+    {
+      "id": "place:caunus",
+      "type": "place",
+      "canonical_name": "Caunus",
+      "short_name": "Caunus",
+      "aliases": [
+        "Caunii",
+        "the Caunians"
+      ],
+      "external_ids": {
+        "pleiades": "638784"
+      },
+      "summary": "Greek coastal city in southern Caria, near the border with Lycia, in the Roman province of Asia. Among the cities indebted to the publican-banker Cluvius in 51--50 BC; pleaded judicial deposit against the running of interest.",
+      "first_appearance": "ad-familiares-13-56",
+      "categories": [
+        "asia-minor",
+        "caria"
+      ]
     },
     {
       "id": "place:centuripa",
@@ -9602,6 +9869,25 @@
       ]
     },
     {
+      "id": "place:heraclea-caria",
+      "type": "place",
+      "canonical_name": "Heraclea Salbace",
+      "short_name": "Heraclea (Caria)",
+      "aliases": [
+        "Heracleotae",
+        "the Heracleotans"
+      ],
+      "external_ids": {
+        "pleiades": "599714"
+      },
+      "summary": "Greek city in Caria, in the Roman province of Asia. Among the cities indebted to the publican-banker Cluvius in 51--50 BC. Probably Heraclea Salbace, the inland Carian city, distinct from the homonymous cities of Lucania and Sicily.",
+      "first_appearance": "ad-familiares-13-56",
+      "categories": [
+        "asia-minor",
+        "caria"
+      ]
+    },
+    {
       "id": "place:heraclea-lucania",
       "type": "place",
       "canonical_name": "Heraclea (Lucania)",
@@ -10023,6 +10309,27 @@
       "categories": []
     },
     {
+      "id": "place:mylasa",
+      "type": "place",
+      "canonical_name": "Mylasa",
+      "short_name": "Mylasa",
+      "aliases": [
+        "Mylaseis",
+        "Mulaseis",
+        "Mylasinis",
+        "the Mylasians"
+      ],
+      "external_ids": {
+        "pleiades": "599820"
+      },
+      "summary": "Principal inland city of Caria, in the Roman province of Asia, an old Hekatomnid centre. Among the cities indebted to the publican-banker Cluvius in 51--50 BC; Cicero relied on the local magnate Euthydemus to send the city's legal representatives to Rome.",
+      "first_appearance": "ad-familiares-13-56",
+      "categories": [
+        "asia-minor",
+        "caria"
+      ]
+    },
+    {
       "id": "place:myndus",
       "type": "place",
       "canonical_name": "Myndum",
@@ -10107,6 +10414,44 @@
       "summary": "(stub --- to be enriched)",
       "first_appearance": "in-verrem-2-2",
       "categories": []
+    },
+    {
+      "id": "place:nicaea",
+      "type": "place",
+      "canonical_name": "Nicaea",
+      "short_name": "Nicaea",
+      "aliases": [
+        "Nicaeenses",
+        "the Nicaeans"
+      ],
+      "external_ids": {
+        "pleiades": "511337"
+      },
+      "summary": "Principal inland city of Bithynia, on the eastern shore of Lake Ascanius. In 51--50 BC owed eight million sesterces to the estate of T. Pinnius; Cicero, as guardian of Pinnius's son, asked P. Silius the propraetor to expedite payment.",
+      "first_appearance": "ad-familiares-13-61",
+      "categories": [
+        "asia-minor",
+        "bithynia"
+      ]
+    },
+    {
+      "id": "place:nysa",
+      "type": "place",
+      "canonical_name": "Nysa",
+      "short_name": "Nysa",
+      "aliases": [
+        "Nysaei",
+        "the Nysaeans"
+      ],
+      "external_ids": {
+        "pleiades": "599844"
+      },
+      "summary": "Greek city in inland Caria, in the Roman province of Asia, on the Maeander valley. A hereditary client-city of Tiberius Claudius Nero in 51--50 BC, commended by him through Cicero to P. Silius.",
+      "first_appearance": "ad-familiares-13-64",
+      "categories": [
+        "asia-minor",
+        "caria"
+      ]
     },
     {
       "id": "place:olympus-isauria",
@@ -10444,6 +10789,26 @@
       "summary": "(stub --- to be enriched)",
       "first_appearance": "in-verrem-2-2",
       "categories": []
+    },
+    {
+      "id": "place:sardis",
+      "type": "place",
+      "canonical_name": "Sardis",
+      "short_name": "Sardis",
+      "aliases": [
+        "Sardiani",
+        "the Sardians",
+        "the people of Sardis"
+      ],
+      "external_ids": {
+        "pleiades": "550867"
+      },
+      "summary": "Ancient Lydian capital, the chief inland city of the Roman province of Asia, on the road between Pergamum and Ephesus. The seat of one of the conventus of the province.",
+      "first_appearance": "ad-familiares-13-55",
+      "categories": [
+        "asia-minor",
+        "lydia"
+      ]
     },
     {
       "id": "place:segesta",

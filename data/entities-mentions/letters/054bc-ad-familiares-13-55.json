@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-55",
+  "mentions": [
+    {"loc": "1", "surface": "M. Annei", "entity_id": "person:m-anneius", "in": "lat"},
+    {"loc": "1", "surface": "Marcus Anneius", "entity_id": "person:m-anneius", "in": "eng"},
+    {"loc": "1", "surface": "Ephesi", "entity_id": "place:ephesus", "in": "lat"},
+    {"loc": "1", "surface": "Ephesus", "entity_id": "place:ephesus", "in": "eng"},
+    {"loc": "1", "surface": "Sardianis", "entity_id": "place:sardis", "in": "lat"},
+    {"loc": "1", "surface": "the people of Sardis", "entity_id": "place:sardis", "in": "eng"},
+    {"loc": "2", "surface": "M. Anneius", "entity_id": "person:m-anneius", "in": "lat"},
+    {"loc": "2", "surface": "Marcus Anneius", "entity_id": "person:m-anneius", "in": "eng"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-55",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "legate",
+      "entity_id": null,
+      "note": "Legatus: a senior member of a provincial governor's staff, of senatorial rank, often serving in a military command. Cicero, as proconsul of Cilicia in 51--50 BC, had four legates."
+    },
+    {
+      "loc": "1",
+      "anchor": "the people of Sardis",
+      "entity_id": "place:sardis",
+      "note": "Sardis: ancient Lydian capital, the chief inland city of the Roman province of Asia, on the road between Pergamum and Ephesus. The dispute between Anneius and the city is not further specified in the corpus."
+    },
+    {
+      "loc": "2",
+      "anchor": "praetor",
+      "entity_id": null,
+      "note": "Thermus held propraetorian rank as governor of Asia (51--50 BC). Cicero uses praetor here in the broad sense of a magistrate exercising imperium in a province."
+    }
+  ]
+}
