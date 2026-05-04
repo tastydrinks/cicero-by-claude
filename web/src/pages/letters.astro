@@ -1,0 +1,179 @@
+---
+import Base from '../layouts/Base.astro';
+import { readFileSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { dirname, resolve } from 'node:path';
+import { loadWorks } from '../lib/works.ts';
+import { shortDate } from '../lib/chronology.ts';
+
+const here = dirname(fileURLToPath(import.meta.url));
+const dataPath = resolve(here, '../../../data/letter-network.json');
+
+interface LetterNode {
+  id: string;
+  sender?: string;
+  recipient?: string;
+  place_written?: string | null;
+  date: string;
+  date_precision?: string;
+  topics?: string[];
+  mood?: string | null;
+  length_sections?: number;
+  carries_greek?: boolean;
+}
+
+const blob = JSON.parse(readFileSync(dataPath, 'utf8')) as {
+  schema_version: number;
+  letters: LetterNode[];
+};
+const letters = blob.letters;
+
+const works = loadWorks();
+const titleById = new Map(works.map((w) => [w.id, w.title_english] as const));
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Aggregate counts for the summary panel
+const byRecipient = new Map<string, number>();
+for (const l of letters) {
+  const r = (l.recipient || '?').trim() || '?';
+  byRecipient.set(r, (byRecipient.get(r) ?? 0) + 1);
+}
+const topRecipients = Array.from(byRecipient.entries()).sort((a, b) => b[1] - a[1]).slice(0, 8);
+const carriesGreek = letters.filter((l) => l.carries_greek).length;
+---
+<Base title="Letter network" description="Cicero's correspondence as a graph: sender, recipient, place, date, mood.">
+  <h1>Letter network</h1>
+  <p>
+    Cicero's correspondence as a graph. {letters.length.toLocaleString()} letters
+    drafted; {carriesGreek.toLocaleString()} carry at least one Greek phrase.
+  </p>
+
+  <section class="summary">
+    <h2>Most-frequent recipients</h2>
+    <ul class="recipients">
+      {topRecipients.map(([name, count]) => (
+        <li>
+          <span class="recipient-name">{name}</span>
+          <span class="recipient-count">{count} letter{count === 1 ? '' : 's'}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="table-section">
+    <h2>All letters in chronological order</h2>
+    <p class="hint">
+      Each letter links to its full text. Mood / topics tags are
+      hand-curated for the most-read letters and absent from the rest
+      until enrichment.
+    </p>
+    <div class="table-wrap">
+      <table class="letter-table">
+        <thead>
+          <tr>
+            <th>Letter</th>
+            <th>To</th>
+            <th>From (place)</th>
+            <th>Date</th>
+            <th>Mood</th>
+            <th class="num">§§</th>
+          </tr>
+        </thead>
+        <tbody>
+          {letters.map((l) => (
+            <tr class={l.mood ? 'has-mood' : ''}>
+              <td>
+                <a href={`${base}/works/${l.id}/`}>
+                  {titleById.get(l.id) ?? l.id}
+                </a>
+              </td>
+              <td>{l.recipient || ''}</td>
+              <td>
+                {l.place_written || ''}
+              </td>
+              <td class="date">
+                {shortDate(l.date, l.date_precision)}
+              </td>
+              <td class="mood">
+                {l.mood || ''}
+              </td>
+              <td class="num">{l.length_sections ?? ''}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <style>
+    .summary {
+      margin: 2rem 0;
+      padding: 1rem 1.2rem;
+      background: rgba(207, 198, 184, 0.18);
+      border-left: 3px solid var(--rule);
+    }
+    .recipients {
+      list-style: none;
+      padding: 0;
+      margin: 0.5rem 0 0;
+      columns: 2;
+      column-gap: 2rem;
+    }
+    .recipients li {
+      padding: 0.2rem 0;
+      break-inside: avoid;
+    }
+    .recipient-count {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-left: 0.5em;
+    }
+
+    .hint {
+      color: var(--muted);
+      font-style: italic;
+      font-size: 0.95rem;
+    }
+    .table-wrap {
+      overflow-x: auto;
+      margin: 1rem 0;
+    }
+    .letter-table {
+      border-collapse: collapse;
+      width: 100%;
+      font-size: 0.95rem;
+    }
+    .letter-table th {
+      text-align: left;
+      padding: 0.4rem 0.7rem;
+      border-bottom: 1px solid var(--rule);
+      font-variant: small-caps;
+      letter-spacing: 0.04em;
+      color: var(--muted);
+      font-weight: 500;
+    }
+    .letter-table th.num { text-align: right; }
+    .letter-table td {
+      padding: 0.35rem 0.7rem;
+      border-bottom: 1px dotted rgba(207, 198, 184, 0.5);
+      vertical-align: top;
+    }
+    .letter-table td.date {
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+    }
+    .letter-table td.mood {
+      color: var(--accent);
+      font-style: italic;
+    }
+    .letter-table td.num {
+      text-align: right;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+    .letter-table tr.has-mood td.mood {
+      font-weight: 500;
+    }
+  </style>
+</Base>

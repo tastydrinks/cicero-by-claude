@@ -1,0 +1,150 @@
+---
+import Base from '../layouts/Base.astro';
+import { readFileSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { dirname, resolve } from 'node:path';
+import { loadWorks } from '../lib/works.ts';
+
+const here = dirname(fileURLToPath(import.meta.url));
+const dataPath = resolve(here, '../../../data/greek-phrases.json');
+
+interface GreekEntry {
+  id: string;
+  work: string;
+  loc: string;
+  greek_original?: string;
+  transliteration?: string;
+  english_gloss?: string;
+  context?: string;
+  suspected_source?: string | null;
+  source_certainty?: string;
+  register?: string;
+  notes?: string;
+}
+
+const blob = JSON.parse(readFileSync(dataPath, 'utf8')) as {
+  schema_version: number;
+  entries: GreekEntry[];
+};
+const entries = blob.entries;
+
+const works = loadWorks();
+const titleById = new Map(works.map((w) => [w.id, w.title_english] as const));
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const withGloss = entries.filter((e) => e.english_gloss && e.english_gloss.trim()).length;
+const withSource = entries.filter((e) => e.suspected_source && e.suspected_source.trim()).length;
+
+// Group by work for compact display
+const byWork = new Map<string, GreekEntry[]>();
+for (const e of entries) {
+  if (!byWork.has(e.work)) byWork.set(e.work, []);
+  byWork.get(e.work)!.push(e);
+}
+const workOrder = Array.from(byWork.keys());
+---
+<Base title="Cicero's Greek" description="Every Greek phrase Cicero deploys, with locus and gloss where known.">
+  <h1>Cicero's Greek</h1>
+  <p>
+    {entries.length.toLocaleString()} Greek occurrences catalogued across the
+    drafted corpus. {withGloss.toLocaleString()} carry an English gloss;
+    {withSource.toLocaleString()} carry a suspected source. The bulk are
+    awaiting enrichment passes.
+  </p>
+  <p class="hint">
+    Cicero salts his prose — especially the letters — with Greek phrases
+    of every register: technical, jocular, literary, euphemistic. The
+    catalogue collects them so a reader (or a researcher with a question)
+    can survey the whole at once.
+  </p>
+
+  {workOrder.map((wid) => {
+    const list = byWork.get(wid)!;
+    const title = titleById.get(wid) ?? wid;
+    return (
+      <section class="work-greek">
+        <h2 id={wid}>
+          <a href={`${base}/works/${wid}/`}>{title}</a>
+          <span class="count">{list.length} phrase{list.length === 1 ? '' : 's'}</span>
+        </h2>
+        <dl>
+          {list.map((e) => (
+            <>
+              <dt class={e.greek_original ? 'has-greek' : ''}>
+                {e.greek_original ? (
+                  <span lang="el">{e.greek_original}</span>
+                ) : (
+                  <span class="translit">{e.transliteration}</span>
+                )}
+                <span class="loc">§{e.loc}</span>
+              </dt>
+              <dd>
+                {e.english_gloss && <span>{e.english_gloss}. </span>}
+                {e.context && <span class="context">{e.context}</span>}
+                {e.suspected_source && (
+                  <span class="source"> Source: {e.suspected_source}.</span>
+                )}
+              </dd>
+            </>
+          ))}
+        </dl>
+      </section>
+    );
+  })}
+
+  <style>
+    .hint {
+      color: var(--muted);
+      font-style: italic;
+      font-size: 0.95rem;
+    }
+    .work-greek {
+      margin: 2.2rem 0;
+    }
+    .work-greek h2 {
+      border-bottom: 1px solid var(--rule);
+      padding-bottom: 0.4rem;
+      margin-bottom: 0.8rem;
+      font-size: 1.2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+    }
+    .work-greek h2 a {
+      border-bottom: none;
+      color: var(--ink);
+      font-weight: 500;
+    }
+    .work-greek h2 a:hover { color: var(--accent); }
+    .work-greek h2 .count {
+      color: var(--muted);
+      font-size: 0.9rem;
+      font-variant: small-caps;
+      letter-spacing: 0.04em;
+    }
+    dl { margin: 0.5rem 0; }
+    dt {
+      margin-top: 0.6rem;
+      font-weight: 500;
+    }
+    dt:first-child { margin-top: 0; }
+    dt .translit {
+      font-style: italic;
+      color: var(--muted);
+    }
+    dt .loc {
+      margin-left: 0.6em;
+      font-variant-numeric: tabular-nums;
+      color: var(--muted);
+      font-weight: 400;
+      font-size: 0.9em;
+    }
+    dd {
+      margin: 0.1rem 0 0 0;
+      color: #2c2723;
+    }
+    dd .context { font-style: italic; }
+    dd .source { color: var(--accent); font-size: 0.95em; }
+  </style>
+</Base>

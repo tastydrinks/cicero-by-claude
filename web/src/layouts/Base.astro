@@ -120,6 +120,21 @@ const base = import.meta.env.BASE_URL;
         margin: 0.3rem 0 0;
       }
 
+      .site-nav {
+        margin: 0.8rem 0 0;
+        font-size: 0.95rem;
+      }
+      .site-nav a {
+        margin: 0 0.6rem;
+        color: var(--muted);
+        font-variant: small-caps;
+        letter-spacing: 0.06em;
+        border-bottom: none;
+      }
+      .site-nav a:hover {
+        color: var(--accent);
+      }
+
       main {
         max-width: var(--measure);
         margin: 2.5rem auto 4rem;
@@ -139,6 +154,13 @@ const base = import.meta.env.BASE_URL;
     <header class="site-header">
       <h1 class="title"><a href={base}>Cicero by Claude</a></h1>
       <p class="subtitle">The complete works in a single translator&rsquo;s voice</p>
+      <nav class="site-nav">
+        <a href={`${base}/works/`}>Works</a>
+        <a href={`${base}/chronology/`}>Chronology</a>
+        <a href={`${base}/letters/`}>Letters</a>
+        <a href={`${base}/glossary/`}>Glossary</a>
+        <a href={`${base}/greek/`}>Greek</a>
+      </nav>
     </header>
     <main>
       <slot />

@@ -1,0 +1,165 @@
+---
+import Base from '../layouts/Base.astro';
+import { loadEntities, entitiesByType, isStub } from '../lib/entities.ts';
+
+const entities = loadEntities();
+const grouped = entitiesByType(entities);
+
+const typeLabels: Record<string, string> = {
+  person: 'People',
+  place: 'Places',
+  office: 'Offices and magistracies',
+  institution: 'Institutions',
+  law: 'Laws and procedures',
+  event: 'Events',
+  festival: 'Festivals',
+  unit: 'Military units',
+  god: 'Gods and divinities',
+  text: 'External texts',
+};
+
+const typeOrder = ['person', 'place', 'office', 'institution', 'law', 'event', 'festival', 'god', 'unit', 'text'];
+
+const totalEnriched = entities.filter((e) => !isStub(e)).length;
+const totalStubs = entities.length - totalEnriched;
+
+function externalUrl(scheme: string, value: string): string {
+  switch (scheme) {
+    case 'wikidata':
+      return `https://www.wikidata.org/wiki/${value}`;
+    case 'pleiades':
+      return `https://pleiades.stoa.org/places/${value}`;
+    case 'dprr':
+      return `https://romanrepublic.ac.uk/person/${value}/`;
+    case 'loeb':
+      return `https://www.loebclassics.com/search?searchText=${encodeURIComponent(value)}`;
+    case 'ocd5':
+      return `https://oxfordre.com/classics/search?q=${encodeURIComponent(value)}`;
+    default:
+      return `#${scheme}-${value}`;
+  }
+}
+---
+<Base title="Glossary of names" description="Every named person, place, office, institution, law, festival, god, or external text mentioned in Cicero's corpus.">
+  <h1>Glossary of names</h1>
+  <p>
+    Every named person, place, office, institution, law, festival, god,
+    or external text mentioned across the corpus. {entities.length.toLocaleString()}
+    entries — {totalEnriched.toLocaleString()} curated, {totalStubs.toLocaleString()} stubs
+    awaiting enrichment.
+  </p>
+  <p class="hint">
+    Stubs (marked with <span class="stub-mark">·</span>) are placeholders
+    auto-generated from sidecar references; their summaries will be
+    filled in by future enrichment passes.
+  </p>
+
+  <nav class="type-jump">
+    {typeOrder.filter((t) => grouped.has(t)).map((t) => (
+      <a href={`#${t}`}>{typeLabels[t] ?? t} ({grouped.get(t)!.length})</a>
+    ))}
+  </nav>
+
+  {typeOrder.filter((t) => grouped.has(t)).map((t) => {
+    const list = grouped.get(t)!;
+    return (
+      <section class="entity-group">
+        <h2 id={t}>{typeLabels[t] ?? t}</h2>
+        <dl>
+          {list.map((e) => (
+            <>
+              <dt id={e.id}>
+                {e.canonical_name ?? e.id}
+                {isStub(e) && <span class="stub-mark" aria-label="stub">·</span>}
+                {e.aliases && e.aliases.length > 0 && (
+                  <span class="aliases">
+                    ({e.aliases.map((a, i) => <><em>{a}</em>{i < e.aliases!.length - 1 ? ', ' : ''}</>)})
+                  </span>
+                )}
+              </dt>
+              <dd>
+                {isStub(e) ? (
+                  <em class="stub-summary">Awaiting enrichment.</em>
+                ) : (
+                  <span>{e.summary}</span>
+                )}
+                {e.external_ids && Object.keys(e.external_ids).length > 0 && (
+                  <span class="ext-ids">
+                    {Object.entries(e.external_ids).map(([k, v]) => (
+                      <a class="ext-id" href={externalUrl(k, v)} target="_blank" rel="noopener">{k}</a>
+                    ))}
+                  </span>
+                )}
+              </dd>
+            </>
+          ))}
+        </dl>
+      </section>
+    );
+  })}
+
+  <style>
+    .hint {
+      color: var(--muted);
+      font-style: italic;
+      font-size: 0.95rem;
+    }
+    .type-jump {
+      margin: 1.5rem 0 2rem;
+      padding: 0.8rem 1rem;
+      background: rgba(207, 198, 184, 0.18);
+      border-left: 3px solid var(--rule);
+      font-size: 0.95rem;
+    }
+    .type-jump a {
+      margin-right: 1rem;
+      white-space: nowrap;
+    }
+    .entity-group {
+      margin: 2.5rem 0;
+    }
+    .entity-group h2 {
+      border-bottom: 1px solid var(--rule);
+      padding-bottom: 0.4rem;
+      scroll-margin-top: 1rem;
+    }
+    dl {
+      margin: 1rem 0;
+    }
+    dt {
+      font-weight: 500;
+      margin-top: 0.8rem;
+      scroll-margin-top: 1rem;
+    }
+    dt:first-child { margin-top: 0; }
+    dd {
+      margin: 0.2rem 0 0 0;
+      color: #2c2723;
+      padding-left: 0;
+    }
+    .aliases {
+      color: var(--muted);
+      font-weight: 400;
+      font-size: 0.95em;
+      margin-left: 0.4em;
+    }
+    .stub-mark {
+      color: var(--muted);
+      margin-left: 0.3em;
+      font-size: 1.2em;
+    }
+    .stub-summary {
+      color: var(--muted);
+    }
+    .ext-ids {
+      margin-left: 0.6em;
+      font-size: 0.85em;
+    }
+    .ext-id {
+      margin-left: 0.3em;
+      color: var(--muted);
+      font-variant: small-caps;
+      letter-spacing: 0.04em;
+    }
+  </style>
+</Base>
