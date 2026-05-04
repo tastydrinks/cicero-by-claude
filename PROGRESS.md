@@ -522,32 +522,79 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
-**Current state (post-batch-3 finalization):** 198 / 958
-works drafted (\~20\%). Latest drafted: \textit{Ad Familiares}
-1.10 (Dec 54 BC). Earliest pending: \textit{Ad Familiares}
-13.49 and the year-precision cluster around July 54 BC. Next
-substantial works in the queue beyond the recommendation
-letters: \textit{Pro Plancio}, \textit{Pro Rabirio Postumo},
-\textit{Pro Scauro} (year-precision 54 BC), then
-\textit{Partitiones Oratoriae}, then the autumn-54 BC Atticus
-letters.
+**Project management is now Claude Cowork** (running on Alexander's
+desktop, on his Max subscription quota). When Cowork opens this
+repo, this is the first section to read; \texttt{PLAN.md} is the
+binding multi-surface roadmap.
 
-**Multi-surface progress:** the Tier 1 hyperlinked PDF shipped
-as \texttt{build/output/cicero-v0.3-scholar.pdf} (Greek
-tooltips pending gloss data; entity links and cross-references
-live). The Tier 2 web edition's Phase 2.1 skeleton shipped
-(Astro site at \texttt{web/}, deploys to GitHub Pages on
-pushes touching \texttt{web/}, \texttt{meta/}, \texttt{data/},
-or the prose dirs). The PM-Claude orchestration workflow
-\texttt{.github/workflows/claude.yml} is being validated; once
-green, future translation and infrastructure batches will be
-dispatched via \texttt{@claude} mentions on issues by the
-session-Claude rather than launched manually by Alexander.
-See \texttt{PLAN.md} for the multi-surface roadmap.
+**Translation state (post-batch-3 finalization):** 198 / 958 works
+drafted (\~20\%). Latest drafted: \textit{Ad Familiares} 1.10
+(Dec 54 BC). Earliest pending: \textit{Ad Familiares} 13.49 and
+the year-precision cluster around July 54 BC. Next substantial
+works in the queue beyond the recommendation letters: \textit{Pro
+Plancio}, \textit{Pro Rabirio Postumo}, \textit{Pro Scauro}
+(year-precision 54 BC), then \textit{Partitiones Oratoriae}, then
+the autumn-54 BC Atticus letters.
 
-**The previous resume notes below remain accurate** for
-chronological sweep work; the only thing that has changed is
-the chronology pointer has moved forward.
+\textbf{Suggested next translation batch} (Cowork can dispatch as
+parallel sessions):
+\begin{itemize}
+\item Slice A (5--10 short \textit{Fam.} 13 recommendation letters):
+\texttt{ad-familiares-13-49}, \texttt{-13-73}, \texttt{-13-74},
+\texttt{-13-76}, \texttt{ad-quintum-fratrem-03-06}.
+\item Slice B (the autumn-54 BC sweep): \texttt{ad-atticum-04-15}
+through \texttt{04-19}, plus \texttt{ad-quintum-fratrem-02-10}
+through \texttt{-02-12}.
+\item Slice C (the year-precision 54 BC speeches and rhetoric):
+\texttt{partitiones-oratoriae}, \texttt{pro-plancio},
+\texttt{pro-rabirio-postumo}, \texttt{pro-scauro}.
+\end{itemize}
+
+\textbf{Suggested polishing-pass batch} (also dispatchable in
+parallel; doesn't conflict with translation):
+\begin{itemize}
+\item Enrich the 472 entity stubs in \texttt{data/entities.json}
+(those with \texttt{summary: "(stub --- to be enriched)"}).
+Stubs were auto-generated from sidecar references in earlier
+sessions; replace placeholder summaries with real entries
+(canonical name, aliases, summary, external IDs where known
+\textemdash{} DPRR for people, Pleiades for places, Wikidata for
+either). Walk through systematically.
+\item Backfill judgment-heavy sidecars on the 161 already-drafted
+works that don't yet have entity-mention or glossary files.
+Pro Quinctio is the worked example for what "complete" looks like.
+\end{itemize}
+
+\textbf{Multi-surface progress (all on \texttt{main}):} Tier 1
+hyperlinked PDF shipped as \texttt{build/output/cicero-v0.3-scholar.pdf}
+(Greek tooltips pending gloss data; entity links and
+cross-references live). Tier 2 web edition Phases 2.1 (skeleton),
+2.2 (per-work pages with English-default + Latin-toggle), 2.3
+(chronology timeline with life events), 2.4 (entity glossary
+index), 2.6 (letter-network table), 2.8a (Greek catalogue), and
+2.11 (agent discoverability \textemdash{} \texttt{llms.txt},
+sitemap, per-work JSON mirrors) all shipped. Live at
+\url{https://tastydrinks.github.io/cicero-by-claude/}. Pending
+Tier 2 phases: 2.5 (hover prosopography), 2.7 (full-text search),
+2.9 (apparatus profile toggle), 2.10 (visual polish + mobile),
+2.12 (EPUB export).
+
+\textbf{Workflow:}
+\begin{enumerate}
+\item Cowork reads this section + \texttt{PLAN.md} at session start.
+\item Plans next batch (translation + polishing + Tier 2 phase).
+\item Dispatches parallel sub-agents with explicit work-id lists or
+infrastructure-phase scope (per CLAUDE.md \S{} ``Parallel sessions'').
+\item Waits for completion, runs
+\texttt{bash scripts/finalize\_parallel\_batch.py} to merge work
+to \texttt{main}, regenerate derived files, and validate.
+\item Updates this section so the next session inherits a clean
+pointer.
+\end{enumerate}
+
+\textbf{The previous resume notes below remain accurate} for
+chronological sweep work; the only thing that has changed is the
+chronology pointer has moved forward.
 
 A parallel-assignment session drafted six undated
 recommendation letters from \textit{Ad Familiares} 13 ---
