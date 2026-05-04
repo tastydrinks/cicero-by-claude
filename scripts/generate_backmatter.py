@@ -50,6 +50,39 @@ def tex_escape(s: str) -> str:
     return "".join(_TEX_REPLACEMENTS.get(c, c) for c in (s or ""))
 
 
+def entity_hyperlink_target(entity_id: str) -> str:
+    """Stable hyperref anchor name for an entity_id.
+
+    Entity IDs are kebab-case slugs prefixed with type, separated by a colon
+    (e.g. ``person:cicero``). hyperref names treat ``:`` as ordinary, but for
+    durability across PDF readers we replace it with ``-``. The ``entity-``
+    prefix scopes the namespace so entity anchors don't collide with section
+    anchors (``work-...``) or other targets.
+    """
+    return "entity-" + entity_id.replace(":", "-")
+
+
+def section_hyperlink_target(work_id: str, loc: str) -> str:
+    """Stable anchor for a section within a work."""
+    safe_loc = str(loc).replace(":", "-")
+    return f"work-{work_id}-sec-{safe_loc}"
+
+
+def _section_anchor_loc(loc: str) -> str:
+    """Extract a single section number for anchor purposes.
+
+    crossrefs and other sidecars carry locs like ``"5"``, ``"5.2"``,
+    ``"5.2-5.4"``, or ``"117-141"``. Section anchors are placed at the
+    integer-section opening (``\\ciceroSection{N}``), so we resolve any of
+    those forms back to the leading section number for the link target.
+    """
+    if not loc:
+        return ""
+    head = str(loc).split("-", 1)[0]
+    head = head.split(".", 1)[0]
+    return head.strip()
+
+
 def parse_date(s: str) -> tuple[int, int, int]:
     if s.startswith("-"):
         ys, rest = s[1:].split("-", 1)
@@ -126,7 +159,9 @@ def emit_glossary(works_by_id: dict[str, dict[str, Any]]) -> str:
         by_type[e.get("type", "other")].append(e)
     for etype in sorted(by_type):
         for entity in sorted(by_type[etype], key=lambda x: x.get("canonical_name", "")):
-            name = tex_escape(entity.get("canonical_name", entity["id"]))
+            eid = entity["id"]
+            target = entity_hyperlink_target(eid)
+            name = tex_escape(entity.get("canonical_name", eid))
             summary = tex_escape(entity.get("summary", ""))
             aliases = entity.get("aliases", []) or []
             alias_str = ""
@@ -134,7 +169,9 @@ def emit_glossary(works_by_id: dict[str, dict[str, Any]]) -> str:
                 alias_str = " (" + ", ".join(
                     "\\textit{" + tex_escape(a) + "}" for a in aliases
                 ) + ")"
-            lines.append(f"  \\item[{name}]{alias_str} {summary}")
+            lines.append(
+                f"  \\item[\\hypertarget{{{target}}}{{}}{name}]{alias_str} {summary}"
+            )
     lines.append("\\end{description}")
     lines.append("")
     return "\n".join(lines)
@@ -242,14 +279,24 @@ def emit_crossrefs(works_by_id: dict[str, dict[str, Any]]) -> str:
         lines.append(f"\\subsection*{{{title}}}")
         lines.append("\\begin{description}")
         for ref in by_work[wid]:
-            from_loc = tex_escape(ref.get("from_loc", ""))
-            tw = ref.get("to_work", "")
-            to_loc = tex_escape(ref.get("to_loc", ""))
+            from_loc_raw = str(ref.get("from_loc", ""))
+            from_loc = tex_escape(from_loc_raw)
+            tw_raw = ref.get("to_work", "")
+            tw = tw_raw if tw_raw != "self" else wid
+            to_loc_raw = str(ref.get("to_loc", ""))
+            to_loc = tex_escape(to_loc_raw)
             tw_label = tex_escape(works_by_id.get(tw, {}).get("title_english", tw))
             kind = tex_escape(ref.get("kind", ""))
             note = tex_escape(ref.get("note", "") or "")
+            from_anchor = section_hyperlink_target(
+                wid, _section_anchor_loc(from_loc_raw)
+            )
+            to_anchor = section_hyperlink_target(
+                tw, _section_anchor_loc(to_loc_raw)
+            )
             lines.append(
-                f"  \\item[\\S{from_loc}] $\\to$ {tw_label} \\S{to_loc} "
+                f"  \\item[\\hyperlink{{{from_anchor}}}{{\\S{from_loc}}}] "
+                f"$\\to$ \\hyperlink{{{to_anchor}}}{{{tw_label} \\S{to_loc}}} "
                 f"({kind}). {note}"
             )
         lines.append("\\end{description}")

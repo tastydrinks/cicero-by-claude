@@ -32,6 +32,12 @@ except ImportError:
 REPO = Path(__file__).resolve().parent.parent
 WORKS_YAML = REPO / "meta" / "works.yaml"
 BODY_TEX = REPO / "build" / "body.tex"
+BUILD_ENGLISH_DIR = REPO / "build" / "english"
+
+# preprocess_english lives next to us; importing keeps the build pipeline a
+# single Python invocation and avoids re-parsing works.yaml from a subprocess.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from preprocess_english import preprocess_work  # noqa: E402
 
 
 def parse_date(s: str) -> tuple[int, int, int]:
@@ -77,9 +83,18 @@ def emit_block(work: dict) -> str:
     title_latin = tex_escape(work["title_latin"])
     year_label = tex_escape(short_year(work))
     headnote_path = work["headnote_file"]
-    english_path = work["english_file"]
     work_id = tex_escape(work["id"])
     env = "ciceroletter" if work["category"] == "letters" else "cicerowork"
+
+    # Emit the preprocessed (hyperlinked) English file from build/english/
+    # rather than the raw english/ source. preprocess_work() writes to
+    # build/english/<category>/<filename>.tex; the path below is relative to
+    # build/cicero.tex's location.
+    pre = preprocess_work(work)
+    if pre is not None:
+        english_input_path = pre.relative_to(REPO / "build").as_posix()
+    else:
+        english_input_path = "../" + work["english_file"]
 
     lines = [
         f"% --- {work['id']} -----------------------------------------------",
@@ -88,7 +103,7 @@ def emit_block(work: dict) -> str:
     headnote_full = REPO / headnote_path
     if headnote_full.exists():
         lines.append(f"  \\input{{../{headnote_path}}}")
-    lines.append(f"  \\input{{../{english_path}}}")
+    lines.append(f"  \\input{{{english_input_path}}}")
     lines.append(f"\\end{{{env}}}")
     lines.append("")
     return "\n".join(lines)

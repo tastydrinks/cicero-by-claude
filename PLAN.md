@@ -101,7 +101,7 @@ upstream-of and independent-from the rendering layer.
 
 ## Tier 1 — The hyperlinked PDF
 
-**Status**: not yet implemented.
+**Status**: shipped at v0.3 (`build/output/cicero-v0.3-scholar.pdf`).
 
 **Goal**: turn the existing scholar-profile PDF into a navigable
 digital document. Print remains identical (links don't print).
@@ -125,6 +125,40 @@ digital document. Print remains identical (links don't print).
 
 **Deliverable**: `build/output/cicero-v0.3-scholar.pdf` with internal
 links live and visible in any PDF reader that supports them.
+
+**Implementation landed (v0.3):**
+
+- `build/preamble.tex` keeps `hyperref[hidelinks]` (the printed page is
+  identical to v0.2; on-screen the hand-cursor and bookmarks pane reveal
+  clickability), and adds `pdfcomment` plus a `\ciceroGreekGloss` macro
+  for Greek tooltips.
+- `scripts/preprocess_english.py` reads each per-work English file at
+  build time, walks it section by section, and writes a hyperlink-wrapped
+  copy to `build/english/<category>/<id>.tex`. The source `english/`
+  files are never modified.
+  - Every `\ciceroSection{N}` opening becomes a `\hypertarget{work-<id>-sec-N}{}`.
+  - Every entity mention with `in` ∈ {`eng`, `both`} wraps its first
+    surface-form occurrence in `\hyperlink{entity-<entity-id>}{...}`.
+  - Cross-references wrap the originating `\ciceroSection{N}` in
+    `\hyperlink{work-<to_work>-sec-<to_loc>}{...}`.
+- `scripts/generate_backmatter.py` emits `\hypertarget{entity-<id>}{}`
+  next to each glossary entry's name and wraps the cross-reference
+  index entries with `\hyperlink` so the apparatus chapters are
+  navigable too.
+- `scripts/assemble_book.py` invokes `preprocess_english.preprocess_work`
+  inline and `\input{}`s the preprocessed copy.
+
+**Counts in v0.3**: 788 entity destinations, ~4,260 section anchors,
+~1,350 internal link annotations across the 1,834-page scholar PDF.
+
+**Open follow-ups (v0.4+):**
+
+- Greek tooltips are infrastructure-only at v0.3. The
+  `\ciceroGreekGloss` macro and the data-driven wrapping in
+  `preprocess_english.py` are in place, but `data/greek-phrases.json`
+  carries no `english_gloss` values yet. Filling in the gloss column
+  during a Greek-pass session will activate the tooltips automatically
+  on the next build, with no further code changes.
 
 **Not part of Tier 1**: external links (Wikidata, Pleiades, etc.).
 Those are web-edition territory. The print PDF stays self-contained.
@@ -340,7 +374,7 @@ not get buried in `PROGRESS.md` (which is translation-focused).
 | Bound-book build pipeline (`reading` profile) | shipped |
 | Bound-book build pipeline (`study` profile) | shipped |
 | Bound-book build pipeline (`scholar` profile) | shipped |
-| Tier 1: hyperlinked PDF | not yet implemented |
+| Tier 1: hyperlinked PDF | shipped (v0.3 scholar; Greek tooltips pending gloss data) |
 | Tier 2: web edition (Phase 2.1: skeleton) | not yet implemented |
 | Tier 2: web edition (Phase 2.2: per-work pages) | not yet implemented |
 | Tier 2: web edition (later phases) | not yet implemented |
