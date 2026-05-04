@@ -4403,7 +4403,7 @@
   date_precision: year_range
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam13.shtml
   latin_file: latin/letters/054bc-ad-familiares-13-11.tex
   english_file: english/letters/054bc-ad-familiares-13-11.tex
@@ -4412,6 +4412,7 @@
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
+  speech_index: book:13,letter:11
 - id: ad-familiares-13-12
   title_latin: Ad Familiares 13.12
   title_english: Ad Familiares 13.12
@@ -4420,7 +4421,7 @@
   date_precision: year_range
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam13.shtml
   latin_file: latin/letters/054bc-ad-familiares-13-12.tex
   english_file: english/letters/054bc-ad-familiares-13-12.tex
@@ -4429,6 +4430,7 @@
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
+  speech_index: book:13,letter:12
 - id: ad-familiares-13-13
   title_latin: Ad Familiares 13.13
   title_english: Ad Familiares 13.13
@@ -4437,7 +4439,7 @@
   date_precision: year_range
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam13.shtml
   latin_file: latin/letters/054bc-ad-familiares-13-13.tex
   english_file: english/letters/054bc-ad-familiares-13-13.tex
@@ -4446,6 +4448,7 @@
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
+  speech_index: book:13,letter:13
 - id: ad-familiares-13-14
   title_latin: Ad Familiares 13.14
   title_english: Ad Familiares 13.14
@@ -4454,7 +4457,7 @@
   date_precision: year_range
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam13.shtml
   latin_file: latin/letters/054bc-ad-familiares-13-14.tex
   english_file: english/letters/054bc-ad-familiares-13-14.tex
@@ -4463,6 +4466,7 @@
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
+  speech_index: book:13,letter:14
 - id: ad-familiares-13-15
   title_latin: Ad Familiares 13.15
   title_english: Ad Familiares 13.15
@@ -4489,7 +4493,7 @@
   date_precision: year_range
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam13.shtml
   latin_file: latin/letters/054bc-ad-familiares-13-16.tex
   english_file: english/letters/054bc-ad-familiares-13-16.tex
@@ -4498,6 +4502,7 @@
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
+  speech_index: book:13,letter:16
 - id: ad-familiares-13-17
   title_latin: Ad Familiares 13.17
   title_english: Ad Familiares 13.17
@@ -5010,7 +5015,7 @@
   date_precision: year_range
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam13.shtml
   latin_file: latin/letters/054bc-ad-familiares-13-45.tex
   english_file: english/letters/054bc-ad-familiares-13-45.tex
@@ -5019,6 +5024,7 @@
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
+  speech_index: book:13,letter:45
 - id: ad-familiares-13-46
   title_latin: Ad Familiares 13.46
   title_english: Ad Familiares 13.46
@@ -5027,7 +5033,7 @@
   date_precision: year_range
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam13.shtml
   latin_file: latin/letters/054bc-ad-familiares-13-46.tex
   english_file: english/letters/054bc-ad-familiares-13-46.tex
@@ -5036,6 +5042,7 @@
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
+  speech_index: book:13,letter:46
 - id: ad-familiares-13-47
   title_latin: Ad Familiares 13.47
   title_english: Ad Familiares 13.47
@@ -5080,7 +5087,7 @@
   date_precision: year_range
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam13.shtml
   latin_file: latin/letters/054bc-ad-familiares-13-49.tex
   english_file: english/letters/054bc-ad-familiares-13-49.tex
@@ -5089,6 +5096,7 @@
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
+  speech_index: book:13,letter:49
 - id: ad-familiares-13-50
   title_latin: Ad Familiares 13.50
   title_english: Ad Familiares 13.50
