@@ -1,0 +1,66 @@
+---
+import Base from '../../layouts/Base.astro';
+import { loadWorks } from '../../lib/works.ts';
+import { chronologicalSort, isDrafted, shortDate } from '../../lib/chronology.ts';
+
+const works = loadWorks();
+const drafted = chronologicalSort(works.filter(isDrafted));
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const categoryLabels: Record<string, string> = {
+  speeches: 'Speech',
+  letters: 'Letter',
+  philosophy: 'Philosophy',
+  rhetoric: 'Rhetoric',
+};
+---
+<Base title="Works" description="Drafted works in chronological order.">
+  <h1>Drafted works</h1>
+  <p>
+    {drafted.length} works in chronological order. Click any to read.
+  </p>
+  <ol class="works-list">
+    {drafted.map((w) => (
+      <li>
+        <a href={`${base}/works/${w.id}/`}>
+          <span class="cat">{categoryLabels[w.category] ?? w.category}</span>
+          <span class="title">{w.title_english}</span>
+          <span class="date">{shortDate(w.date, w.date_precision)}</span>
+        </a>
+      </li>
+    ))}
+  </ol>
+
+  <style>
+    .works-list {
+      list-style: none;
+      padding: 0;
+      margin: 1.5rem 0;
+    }
+    .works-list li {
+      border-bottom: 1px dotted var(--rule);
+    }
+    .works-list a {
+      display: grid;
+      grid-template-columns: 6rem 1fr auto;
+      gap: 0.8rem;
+      padding: 0.6rem 0;
+      align-items: baseline;
+      border-bottom: none;
+      color: var(--ink);
+    }
+    .works-list a:hover .title { color: var(--accent); }
+    .cat {
+      color: var(--muted);
+      font-variant: small-caps;
+      letter-spacing: 0.04em;
+      font-size: 0.85rem;
+    }
+    .title { font-size: 1.05rem; }
+    .date {
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+      font-size: 0.9rem;
+    }
+  </style>
+</Base>

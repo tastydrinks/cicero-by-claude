@@ -1,0 +1,252 @@
+---
+import Base from '../../layouts/Base.astro';
+import { loadWorks, type Work } from '../../lib/works.ts';
+import { loadParallel } from '../../lib/parallel.ts';
+import { loadHeadnote } from '../../lib/headnote.ts';
+import {
+  chronologicalSort,
+  isDrafted,
+  neighboursDrafted,
+  shortDate,
+} from '../../lib/chronology.ts';
+
+export function getStaticPaths() {
+  const works = loadWorks();
+  return chronologicalSort(works.filter(isDrafted)).map((w) => ({
+    params: { id: w.id },
+    props: { work: w, allWorks: works },
+  }));
+}
+
+interface Props {
+  work: Work;
+  allWorks: Work[];
+}
+
+const { work, allWorks } = Astro.props;
+const parallel = loadParallel(work);
+const headnote = loadHeadnote(work);
+const { prev, next } = neighboursDrafted(allWorks, work);
+const dateLabel = shortDate(work.date, work.date_precision);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const categoryLabels: Record<string, string> = {
+  speeches: 'Speech',
+  letters: 'Letter',
+  philosophy: 'Philosophy',
+  rhetoric: 'Rhetoric',
+};
+---
+<Base title={work.title_english} description={`${work.title_english} (${dateLabel})`}>
+  <article class="work">
+    <header class="work-head">
+      <p class="work-meta">
+        <span class="work-cat">{categoryLabels[work.category] ?? work.category}</span>
+        <span class="work-sep">·</span>
+        <span class="work-date">{dateLabel}</span>
+        {work.location_written && (
+          <>
+            <span class="work-sep">·</span>
+            <span class="work-place">{work.location_written}</span>
+          </>
+        )}
+      </p>
+      <h1 class="work-title">{work.title_english}</h1>
+      <p class="work-title-lat"><em>{work.title_latin}</em></p>
+    </header>
+
+    {headnote && (
+      <details class="headnote" open>
+        <summary>Headnote</summary>
+        <div class="headnote-body">
+          {headnote.split(/\n\n+/).map((p) => <p>{p}</p>)}
+        </div>
+      </details>
+    )}
+
+    <div class="reading-controls">
+      <label>
+        <input type="checkbox" id="show-latin" />
+        Show Latin alongside English
+      </label>
+    </div>
+
+    {parallel ? (
+      <div class="prose" id="prose">
+        {parallel.segments.map((seg) => (
+          <div class="seg" data-loc={seg.loc}>
+            <span class="seg-num" aria-hidden="true">{seg.loc}</span>
+            <div class="seg-eng">{seg.eng}</div>
+            <div class="seg-lat" lang="la">{seg.lat}</div>
+          </div>
+        ))}
+      </div>
+    ) : (
+      <p class="prose-missing">
+        <em>Parallel corpus not yet generated for this work. Run
+        <code>scripts/backfill_structural.py</code> to produce it.</em>
+      </p>
+    )}
+
+    <nav class="work-nav">
+      {prev ? (
+        <a class="nav-prev" href={`${base}/works/${prev.id}/`}>
+          <span class="nav-arrow">←</span>
+          <span class="nav-meta">{shortDate(prev.date, prev.date_precision)}</span>
+          <span class="nav-title">{prev.title_english}</span>
+        </a>
+      ) : <span />}
+      {next ? (
+        <a class="nav-next" href={`${base}/works/${next.id}/`}>
+          <span class="nav-arrow">→</span>
+          <span class="nav-meta">{shortDate(next.date, next.date_precision)}</span>
+          <span class="nav-title">{next.title_english}</span>
+        </a>
+      ) : <span />}
+    </nav>
+  </article>
+
+  <style>
+    .work-head {
+      text-align: center;
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .work-meta {
+      color: var(--muted);
+      font-variant: small-caps;
+      letter-spacing: 0.04em;
+      font-size: 0.95rem;
+      margin: 0 0 1rem;
+    }
+    .work-sep {
+      margin: 0 0.5em;
+      opacity: 0.5;
+    }
+    .work-title {
+      margin: 0;
+      font-size: 2rem;
+      font-weight: 500;
+    }
+    .work-title-lat {
+      color: var(--muted);
+      margin: 0.3rem 0 0;
+      font-size: 1.1rem;
+    }
+
+    .headnote {
+      background: rgba(207, 198, 184, 0.18);
+      border-left: 3px solid var(--rule);
+      padding: 1rem 1.25rem;
+      margin: 1.5rem 0 2rem;
+      font-style: italic;
+      color: #2c2723;
+    }
+    .headnote summary {
+      cursor: pointer;
+      font-style: normal;
+      font-variant: small-caps;
+      letter-spacing: 0.04em;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+    .headnote-body { margin-top: 0.6rem; }
+    .headnote-body p { margin: 0 0 0.6em; }
+    .headnote-body p:last-child { margin-bottom: 0; }
+
+    .reading-controls {
+      margin: 1rem 0 1.5rem;
+      font-size: 0.95rem;
+      color: var(--muted);
+    }
+    .reading-controls label {
+      cursor: pointer;
+      user-select: none;
+    }
+    .reading-controls input { vertical-align: middle; margin-right: 0.4em; }
+
+    .prose .seg {
+      display: grid;
+      grid-template-columns: 2.5em 1fr;
+      gap: 0.4em 0.8em;
+      margin: 0 0 1.4em;
+      align-items: start;
+    }
+    .prose .seg-num {
+      color: var(--muted);
+      font-size: 0.8em;
+      font-variant-numeric: tabular-nums;
+      text-align: right;
+      padding-top: 0.2em;
+    }
+    .prose .seg-eng {
+      grid-column: 2;
+      line-height: 1.55;
+    }
+    .prose .seg-lat {
+      grid-column: 2;
+      color: var(--muted);
+      font-style: italic;
+      line-height: 1.55;
+      display: none;
+      padding: 0.3em 0 0;
+      border-top: 1px dashed rgba(207, 198, 184, 0.4);
+      margin-top: 0.4em;
+    }
+    .prose.with-latin .seg-lat { display: block; }
+
+    .work-nav {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      margin: 4rem 0 1rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--rule);
+    }
+    .work-nav a {
+      max-width: 45%;
+      display: flex;
+      flex-direction: column;
+      border-bottom: none;
+      color: var(--ink);
+    }
+    .work-nav a:hover .nav-title { color: var(--accent); }
+    .nav-prev { text-align: left; }
+    .nav-next { text-align: right; align-items: flex-end; }
+    .nav-arrow {
+      color: var(--muted);
+      font-size: 1.2em;
+    }
+    .nav-meta {
+      color: var(--muted);
+      font-variant: small-caps;
+      letter-spacing: 0.04em;
+      font-size: 0.85rem;
+      margin-top: 0.2em;
+    }
+    .nav-title {
+      font-size: 1.05rem;
+      margin-top: 0.1em;
+    }
+
+    .prose-missing { color: var(--muted); font-style: italic; }
+  </style>
+
+  <script>
+    const checkbox = document.getElementById('show-latin') as HTMLInputElement | null;
+    const prose = document.getElementById('prose');
+    const STORAGE_KEY = 'cicero:show-latin';
+    if (checkbox && prose) {
+      const saved = localStorage.getItem(STORAGE_KEY);
+      if (saved === 'true') {
+        checkbox.checked = true;
+        prose.classList.add('with-latin');
+      }
+      checkbox.addEventListener('change', () => {
+        prose.classList.toggle('with-latin', checkbox.checked);
+        localStorage.setItem(STORAGE_KEY, String(checkbox.checked));
+      });
+    }
+  </script>
+</Base>
