@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-61",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.61",
+  "title_english": "Ad Familiares 13.61",
+  "date": "-0054-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "T. Pinnio familiarissime me usum esse scire te arbitror; quod quidem ille testamento declaravit, qui me cum tutorem tum etiam secundum heredem instituerit. eius filio mire studioso et erudito et modesto pecuniam Nicaeenses grandem debent, ad sestertium octogies, et, ut audio, in primis ei volunt solvere. pergratum igitur mihi feceris, quoniam non modo reliqui tutores qui sciunt quanti me facias sed etiam puer ipse sibi persuasit te omnia mea causa facturum esse, si dederis operam, quoad tua fides dignitasque patietur, ut quam plurimum pecuniae Pinnio solvatur Nicaeensium nomine.",
+      "eng": "I think you know that I was on the most familiar terms with Titus Pinnius --- a thing he indeed declared by his will, having appointed me both as guardian and as second heir. To his son --- a young man wonderfully studious, learned, and modest --- the Nicaeans owe a large sum, to the tune of eight million sesterces, and, as I hear, they wish above all to pay him. You will therefore do me a most welcome favour if, since not only the rest of the guardians who know how highly you value me, but also the boy himself has persuaded himself that you will do everything for my sake, you take pains, so far as your honour and dignity allow, that as much money as possible be paid to Pinnius on the Nicaeans' account.",
+      "notes": null
+    }
+  ]
+}
