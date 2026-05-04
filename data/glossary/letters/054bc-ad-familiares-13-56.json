@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-56",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "legal representatives",
+      "entity_id": null,
+      "note": "Cicero uses the Greek ekdikoi: agents formally empowered by a Greek city to represent it in litigation. Distinct from envoys (legati), who could only speak; ekdikoi could settle. Cicero is asking Thermus to compel the cities to send the latter."
+    },
+    {
+      "loc": "2",
+      "anchor": "mortgages",
+      "entity_id": null,
+      "note": "Cicero uses the Greek hupothekas, the standard term in Greek civic law for property pledged as security for a loan; the verb commissae sunt indicates that the loan terms have been breached and the security is forfeit."
+    },
+    {
+      "loc": "3",
+      "anchor": "lodged the money in deposit",
+      "entity_id": null,
+      "note": "Pecuniam depositam habere: a debtor's standard plea that the disputed sum has been placed in judicial deposit, suspending the running of interest. Cicero asks Thermus to verify that any such deposit was made under the proper edict or decree."
+    }
+  ]
+}
