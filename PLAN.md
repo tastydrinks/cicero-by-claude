@@ -200,6 +200,35 @@ deepen both simultaneously.
   `/sitemap.xml`, machine-readable JSON URL mirrors of every page,
   the downloadable corpus archive, and license signalling. See
   Tier 3 below.
+- **Phase 2.12** — EPUB export. Pandoc converts the LaTeX to EPUB;
+  output committed to `build/output/cicero-v*.epub` alongside the
+  PDF milestones. Mirrors the build profiles (`reading`, `study`,
+  `scholar`).
+
+## Confirmed design decisions (Alexander, this session)
+
+These have been answered and are now binding (overridable later, but
+the implementation phases proceed under these assumptions):
+
+- **Visual style**: book-mirror. Web edition uses EB Garamond and
+  classical proportions to reinforce that print and web are two
+  surfaces of one project.
+- **Default reading mode**: English-only, with a one-click toggle to
+  reveal Latin (side-by-side or interlinear, implementor's choice).
+- **Mobile**: desktop-first; mobile is "good enough" but not the
+  primary design target. Tablet-readable a priority within "desktop-
+  first."
+- **Search scope**: bilingual (Latin + English), with a language
+  filter in the UI. Phase 2.7 implementation needs a Latin
+  tokenizer and diacritic normalization; budget extra time.
+- **`llms.txt`**: yes, ship at site root in Phase 2.11.
+- **Downloadable archive**: yes, ship as `/cicero-by-claude.zip` in
+  Phase 2.11.
+- **License**: CC BY-NC-SA 4.0 stays. The NC clause is the
+  protection against commercial scraping; personal-agent use by a
+  reader is non-commercial and permitted. `llms.txt` should state
+  this explicitly so agents read the constraint upfront.
+- **EPUB**: yes, future addition (Phase 2.12), not blocking.
 
 Each phase is one or two sessions. Translation batches continue
 in parallel; the web edition deepens automatically as the corpus
