@@ -1,0 +1,72 @@
+---
+import Base from '../layouts/Base.astro';
+import { loadWorks, summarize } from '../lib/works.ts';
+
+const works = loadWorks();
+const summary = summarize(works);
+
+const categoryOrder = ['speeches', 'letters', 'philosophy', 'rhetoric'] as const;
+const categoryLabels: Record<string, string> = {
+  speeches: 'Speeches',
+  letters: 'Letters',
+  philosophy: 'Philosophy',
+  rhetoric: 'Rhetoric',
+};
+
+const percentDrafted =
+  summary.total === 0 ? 0 : Math.round((summary.drafted / summary.total) * 100);
+---
+<Base>
+  <h1>Cicero, in English</h1>
+  <p>
+    A first-class English edition of the surviving works of <em>Marcus
+    Tullius Cicero</em>, translated in chronological order by a single voice
+    (Claude) in collaboration with Alexander Woods. The same source feeds a
+    typeset bound volume, a hyperlinked PDF, and this web edition.
+  </p>
+
+  <h2>Progress</h2>
+  <p>
+    <strong>{summary.drafted.toLocaleString()}</strong> of
+    <strong>{summary.total.toLocaleString()}</strong> works drafted
+    ({percentDrafted}%).
+  </p>
+
+  <table style="border-collapse: collapse; margin: 1.5rem 0;">
+    <thead>
+      <tr>
+        <th style="text-align: left; padding: 0.4rem 1rem 0.4rem 0; border-bottom: 1px solid var(--rule);">Category</th>
+        <th style="text-align: right; padding: 0.4rem 1rem; border-bottom: 1px solid var(--rule);">Drafted</th>
+        <th style="text-align: right; padding: 0.4rem 0 0.4rem 1rem; border-bottom: 1px solid var(--rule);">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      {categoryOrder.map((cat) => (
+        <tr>
+          <td style="padding: 0.4rem 1rem 0.4rem 0;">{categoryLabels[cat] ?? cat}</td>
+          <td style="text-align: right; padding: 0.4rem 1rem;">{(summary.draftedByCategory[cat] ?? 0).toLocaleString()}</td>
+          <td style="text-align: right; padding: 0.4rem 0 0.4rem 1rem; color: var(--muted);">{(summary.totalByCategory[cat] ?? 0).toLocaleString()}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2>What this is</h2>
+  <p>
+    Loeb Classical Library uses many translators across many decades.
+    Perseus has structured data but no consistent voice. This project does
+    something neither has: the entire Cicero corpus rendered in one
+    English voice, with structured apparatus (entity registry,
+    sentence-aligned parallel corpus, Greek catalogue, letter network,
+    cross-references) generated as a side effect.
+  </p>
+
+  <h2>Coming soon</h2>
+  <p>
+    This page is the skeleton. Per-work pages, the chronology timeline,
+    the entity glossary, the letter-network graph, hover prosopography,
+    and full-text search arrive in the phases laid out in
+    <code>PLAN.md</code>. The translation work continues independently;
+    each batch deepens this surface automatically.
+  </p>
+</Base>

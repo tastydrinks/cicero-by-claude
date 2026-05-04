@@ -341,7 +341,7 @@ not get buried in `PROGRESS.md` (which is translation-focused).
 | Bound-book build pipeline (`study` profile) | shipped |
 | Bound-book build pipeline (`scholar` profile) | shipped |
 | Tier 1: hyperlinked PDF | not yet implemented |
-| Tier 2: web edition (Phase 2.1: skeleton) | not yet implemented |
+| Tier 2: web edition (Phase 2.1: skeleton) | shipped (Astro + GitHub Pages workflow; landing page reads `meta/works.yaml`) |
 | Tier 2: web edition (Phase 2.2: per-work pages) | not yet implemented |
 | Tier 2: web edition (later phases) | not yet implemented |
 | Tier 3: agent-discoverable corpus (Phase 2.11) | not yet implemented; folded into Tier 2 |

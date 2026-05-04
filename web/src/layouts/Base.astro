@@ -1,0 +1,153 @@
+---
+// Base layout. EB Garamond via Google Fonts to mirror the bound book's
+// typography (per Alexander's directive in PLAN.md: visual style is
+// book-mirror).
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+const pageTitle = title ? `${title} — Cicero by Claude` : 'Cicero by Claude';
+const pageDescription =
+  description ??
+  'A complete English translation of the surviving works of Cicero, in a single translator’s voice.';
+const base = import.meta.env.BASE_URL;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDescription} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap"
+    />
+    <style is:global>
+      :root {
+        --serif: 'EB Garamond', 'Garamond', 'Georgia', serif;
+        --ink: #1a1614;
+        --paper: #fbf9f4;
+        --rule: #cfc6b8;
+        --muted: #6b6356;
+        --accent: #6b1f1a;
+        --measure: 36rem;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        background: var(--paper);
+        color: var(--ink);
+      }
+
+      body {
+        font-family: var(--serif);
+        font-size: 1.15rem;
+        line-height: 1.55;
+        font-feature-settings: 'liga', 'kern', 'onum';
+        -webkit-font-smoothing: antialiased;
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+        border-bottom: 1px solid rgba(107, 31, 26, 0.3);
+      }
+
+      a:hover {
+        border-bottom-color: var(--accent);
+      }
+
+      h1,
+      h2,
+      h3,
+      h4 {
+        font-weight: 500;
+        line-height: 1.2;
+        margin: 1.6em 0 0.6em;
+      }
+
+      h1 {
+        font-size: 2.4rem;
+        letter-spacing: 0.01em;
+      }
+
+      h2 {
+        font-size: 1.6rem;
+      }
+
+      h3 {
+        font-size: 1.25rem;
+      }
+
+      p {
+        margin: 0 0 1em;
+      }
+
+      .site-header {
+        border-bottom: 1px solid var(--rule);
+        padding: 1.6rem 2rem;
+        text-align: center;
+      }
+
+      .site-header .title {
+        font-size: 1.5rem;
+        font-variant: small-caps;
+        letter-spacing: 0.06em;
+        margin: 0;
+      }
+
+      .site-header .title a {
+        color: var(--ink);
+        border-bottom: none;
+      }
+
+      .site-header .subtitle {
+        color: var(--muted);
+        font-style: italic;
+        font-size: 1rem;
+        margin: 0.3rem 0 0;
+      }
+
+      main {
+        max-width: var(--measure);
+        margin: 2.5rem auto 4rem;
+        padding: 0 1.5rem;
+      }
+
+      .site-footer {
+        border-top: 1px solid var(--rule);
+        padding: 1.5rem 2rem;
+        text-align: center;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <h1 class="title"><a href={base}>Cicero by Claude</a></h1>
+      <p class="subtitle">The complete works in a single translator&rsquo;s voice</p>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>
+        Translated by Claude with Alexander Woods. Released under
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
+      </p>
+    </footer>
+  </body>
+</html>

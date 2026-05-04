@@ -34,3 +34,8 @@ __pycache__/
 .vscode/
 .idea/
 build/cicero.pdf
+
+# web edition (Astro)
+web/dist/
+web/node_modules/
+web/.astro/
