@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-64",
+  "mentions": [
+    {"loc": "1", "surface": "Nero meus", "entity_id": "person:ti-claudius-nero", "in": "lat"},
+    {"loc": "1", "surface": "My dear Nero", "entity_id": "person:ti-claudius-nero", "in": "eng"},
+    {"loc": "1", "surface": "Pausania Alabandensi", "entity_id": "person:pausanias-alabandensis", "in": "lat"},
+    {"loc": "1", "surface": "Pausanias of Alabanda", "entity_id": "person:pausanias-alabandensis", "in": "eng"},
+    {"loc": "1", "surface": "Nero", "entity_id": "person:ti-claudius-nero", "in": "lat"},
+    {"loc": "1", "surface": "Nero", "entity_id": "person:ti-claudius-nero", "in": "eng"},
+    {"loc": "1", "surface": "Nysaeos", "entity_id": "place:nysa", "in": "lat"},
+    {"loc": "1", "surface": "the Nysaeans", "entity_id": "place:nysa", "in": "eng"},
+    {"loc": "1", "surface": "Neronis", "entity_id": "person:ti-claudius-nero", "in": "lat"},
+    {"loc": "1", "surface": "Nero's", "entity_id": "person:ti-claudius-nero", "in": "eng"},
+    {"loc": "1", "surface": "Strabonem Servilium", "entity_id": "person:servilius-strabo", "in": "lat"},
+    {"loc": "1", "surface": "Servilius Strabo", "entity_id": "person:servilius-strabo", "in": "eng"},
+    {"loc": "2", "surface": "Neronem", "entity_id": "person:ti-claudius-nero", "in": "lat"},
+    {"loc": "2", "surface": "Nero", "entity_id": "person:ti-claudius-nero", "in": "eng"}
+  ]
+}
