@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-12",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.12",
+  "title_english": "Ad Familiares 13.12",
+  "date": "-0054-07-01",
+  "source_latin": "Perseus phi0474.phi056 (book 13, letter 12)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "alia epistula communiter commendavi tibi legatos Arpinatium, ut potui diligentissime, hac separatim Q. Fufidium, quocum mihi omnes necessitudines sunt, diligentius commendo, non ut aliquid de illa commendatione deminuam, sed ut ad hanc addam. nam et privignus est M. Caesi, mei maxime et familiaris et necessari, et fuit in Cilicia mecum tribunus militum; quo in munere ita se tractavit, ut accepisse ab eo beneficium viderer, non dedisse.",
+      "eng": "In another letter I have commended to you collectively the legates of the men of Arpinum, as carefully as I could; in this one I commend with greater particularity Q. Fufidius, with whom I have every kind of close tie — not so as to take anything away from that earlier commendation, but to add to this one. For he is the stepson of M. Caesius, my closest friend and intimate; and he was with me in Cilicia as military tribune, in which office he conducted himself in such a way that I seemed to have received a favour from him, not given one.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "est praeterea, quod apud te valet plurimum, a nostris studiis non abhorrens. qua re velim eum quam liberalissime complectare operamque des ut in ea legatione, quam suscepit contra suum commodum secutus auctoritatem meam, quam maxime eius excellat industria. vult enim, id quod optimo cuique natura tributum est, quam maximam laudem cum a nobis, qui eum impulimus, tum a municipio consequi; quod ei continget, si hac mea commendatione tuum erga se studium erit consecutus.",
+      "eng": "He is besides — a thing which counts for very much with you — no stranger to our studies. So I would have you embrace him as generously as you can, and take pains that on this legation, which he undertook against his own convenience in deference to my authority, his diligence may stand out as much as possible. For he wishes — as nature has granted to every man of the best sort — to win the greatest praise both from us, who urged him on, and from his municipality; and that will fall to him if through this commendation of mine he has obtained your zeal towards him.",
+      "notes": null
+    }
+  ]
+}

@@ -11076,6 +11076,313 @@
         "literary",
         "tragedy"
       ]
+    },
+    {
+      "id": "place:arpinum",
+      "type": "place",
+      "canonical_name": "Arpinum",
+      "short_name": "Arpinum",
+      "aliases": [
+        "Arpinas"
+      ],
+      "external_ids": {},
+      "summary": "Volscian hill-town in southern Latium, Cicero's native municipality (and Marius's). Granted Roman citizenship in 188 BC; its only elected magistracy was a college of three aediles. Cicero's family estate sat on an islet in the Fibrenus river below the town.",
+      "first_appearance": "ad-familiares-13-11",
+      "categories": [
+        "italy",
+        "municipality",
+        "homeland"
+      ]
+    },
+    {
+      "id": "place:luca",
+      "type": "place",
+      "canonical_name": "Luca",
+      "short_name": "Luca",
+      "aliases": [
+        "Lucca"
+      ],
+      "external_ids": {},
+      "summary": "Etruscan town on the southern road into Cisalpine Gaul; the site of the triumvirs' summit conference of April 56 BC, after which Cicero accepted political silence on Caesar's continuation in Gaul.",
+      "first_appearance": "ad-familiares-13-13",
+      "categories": [
+        "italy",
+        "municipality"
+      ]
+    },
+    {
+      "id": "person:q-fufidius",
+      "type": "person",
+      "canonical_name": "Quintus Fufidius",
+      "short_name": "Q. Fufidius",
+      "aliases": [
+        "Fufidius"
+      ],
+      "external_ids": {},
+      "summary": "Roman knight of Arpinum, stepson of M. Caesius. Served as military tribune under Cicero in Cilicia (51–50 BC), and was sent in ca. 46 BC as one of three Arpinate legates to Cisalpine Gaul to oversee the municipality's revenues there. Twice commended by Cicero to Brutus (Fam. 13.11, 13.12).",
+      "first_appearance": "ad-familiares-13-11",
+      "categories": [
+        "knight",
+        "arpinum"
+      ]
+    },
+    {
+      "id": "person:m-faucius",
+      "type": "person",
+      "canonical_name": "Marcus Faucius",
+      "short_name": "M. Faucius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman knight of Arpinum, one of the three Arpinate legates sent in ca. 46 BC to Cisalpine Gaul to oversee the municipality's revenues. Otherwise unknown.",
+      "first_appearance": "ad-familiares-13-11",
+      "categories": [
+        "knight",
+        "arpinum"
+      ]
+    },
+    {
+      "id": "person:q-mamercius",
+      "type": "person",
+      "canonical_name": "Quintus Mamercius",
+      "short_name": "Q. Mamercius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman knight of Arpinum, one of the three Arpinate legates sent in ca. 46 BC to Cisalpine Gaul to oversee the municipality's revenues. Otherwise unknown.",
+      "first_appearance": "ad-familiares-13-11",
+      "categories": [
+        "knight",
+        "arpinum"
+      ]
+    },
+    {
+      "id": "person:m-caesius",
+      "type": "person",
+      "canonical_name": "Marcus Caesius",
+      "short_name": "M. Caesius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Cicero's closest friend at Arpinum and stepfather of Q. Fufidius. One of the three aediles of the municipality in ca. 46 BC, the year Cicero put forward his son Marcus and his nephew Quintus for the same college.",
+      "first_appearance": "ad-familiares-13-11",
+      "categories": [
+        "friend",
+        "arpinum"
+      ]
+    },
+    {
+      "id": "person:m-cicero-the-younger",
+      "type": "person",
+      "canonical_name": "Marcus Tullius Cicero (filius)",
+      "short_name": "Marcus the Younger",
+      "aliases": [
+        "young Marcus",
+        "filius",
+        "Cicero's son"
+      ],
+      "external_ids": {
+        "wikidata": "Q1335006"
+      },
+      "summary": "Cicero's only son, born ca. 65 BC. Aedile of Arpinum in ca. 46 BC; later sent to Athens for philosophical studies (the addressee of De Officiis), and consul suffect in 30 BC. The reluctant heir to the orator's name.",
+      "first_appearance": "ad-familiares-13-11",
+      "categories": [
+        "family"
+      ]
+    },
+    {
+      "id": "person:q-cicero-the-younger",
+      "type": "person",
+      "canonical_name": "Quintus Tullius Cicero (filius)",
+      "short_name": "Quintus the Younger",
+      "aliases": [
+        "young Quintus",
+        "Quintus filius",
+        "Cicero's nephew"
+      ],
+      "external_ids": {},
+      "summary": "Cicero's nephew, son of his brother Quintus and Pomponia. Aedile of Arpinum in ca. 46 BC; later embroiled in the political treacheries of 44–43 BC and proscribed with his father in November 43.",
+      "first_appearance": "ad-familiares-13-11",
+      "categories": [
+        "family"
+      ]
+    },
+    {
+      "id": "person:l-castronius-paetus",
+      "type": "person",
+      "canonical_name": "Lucius Castronius Paetus",
+      "short_name": "L. Castronius Paetus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Leading citizen (\"longe princeps\") of the Etruscan municipality of Luca; commended by Cicero to Brutus as proconsul of Cisalpine Gaul (Fam. 13.13).",
+      "first_appearance": "ad-familiares-13-13",
+      "categories": [
+        "knight",
+        "italian-elite"
+      ]
+    },
+    {
+      "id": "person:l-titius-strabo",
+      "type": "person",
+      "canonical_name": "Lucius Titius Strabo",
+      "short_name": "L. Titius Strabo",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Roman knight, close friend of Cicero, owed money in Cisalpine Gaul by P. Cornelius. The case had been remanded by the urban praetor Volcacius from Rome to the province; Cicero asks Brutus to push the recovery (Fam. 13.14).",
+      "first_appearance": "ad-familiares-13-14",
+      "categories": [
+        "knight",
+        "creditor"
+      ]
+    },
+    {
+      "id": "person:p-cornelius-debtor",
+      "type": "person",
+      "canonical_name": "Publius Cornelius (the Cisalpine debtor)",
+      "short_name": "P. Cornelius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Debtor of L. Titius Strabo in Cisalpine Gaul, ca. 46 BC; named only in Fam. 13.14, otherwise unknown.",
+      "first_appearance": "ad-familiares-13-14",
+      "categories": [
+        "debtor"
+      ]
+    },
+    {
+      "id": "person:c-volcacius-tullus",
+      "type": "person",
+      "canonical_name": "Gaius Volcacius Tullus",
+      "short_name": "Volcacius",
+      "aliases": [
+        "C. Volcacius"
+      ],
+      "external_ids": {},
+      "summary": "Urban praetor at Rome ca. 46 BC who remanded the Strabo–Cornelius debt case from the city to the province of Cisalpine Gaul (Fam. 13.14).",
+      "first_appearance": "ad-familiares-13-14",
+      "categories": [
+        "magistrate",
+        "praetor"
+      ]
+    },
+    {
+      "id": "person:p-crassus-iunior",
+      "type": "person",
+      "canonical_name": "Publius Licinius Crassus",
+      "short_name": "P. Crassus",
+      "aliases": [
+        "Publius Crassus",
+        "young Crassus"
+      ],
+      "external_ids": {
+        "wikidata": "Q1340"
+      },
+      "summary": "Younger son of the triumvir M. Crassus, husband of Cornelia; served brilliantly under Caesar in Gaul (commander of cavalry against the Aquitani) and accompanied his father to Parthia, where he died in the cavalry charge that broke at Carrhae in June 53 BC. Cicero's favourite of the rising Republican nobility.",
+      "first_appearance": "ad-familiares-13-16",
+      "categories": [
+        "nobility",
+        "carrhae"
+      ]
+    },
+    {
+      "id": "person:apollonius-libertus",
+      "type": "person",
+      "canonical_name": "Apollonius (freedman of P. Crassus)",
+      "short_name": "Apollonius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Greek freedman of P. Licinius Crassus the younger; brought up in Cicero's house alongside Diodotus the Stoic. Served Cicero in Cilicia (51–50 BC) and Caesar in the Alexandrian war (48–47), then set out for Spain in 45 BC to write the history of Caesar's campaigns in Greek (Fam. 13.16).",
+      "first_appearance": "ad-familiares-13-16",
+      "categories": [
+        "freedman",
+        "literary",
+        "greek"
+      ]
+    },
+    {
+      "id": "person:diodotus-stoicus",
+      "type": "person",
+      "canonical_name": "Diodotus the Stoic",
+      "short_name": "Diodotus",
+      "aliases": [
+        "Diodotus Stoicus"
+      ],
+      "external_ids": {},
+      "summary": "Greek Stoic philosopher and Cicero's lifelong companion: lived in Cicero's house from the orator's youth to his own death in 60 BC, blind in his last years; left Cicero his fortune. The teacher whose lessons in dialectic Cicero refers back to in the philosophical works.",
+      "first_appearance": "ad-familiares-13-16",
+      "categories": [
+        "philosopher",
+        "stoic",
+        "household"
+      ]
+    },
+    {
+      "id": "event:alexandrian-war",
+      "type": "event",
+      "canonical_name": "Alexandrian War (48–47 BC)",
+      "short_name": "the Alexandrian war",
+      "aliases": [
+        "bellum Alexandrinum"
+      ],
+      "external_ids": {},
+      "summary": "Caesar's eight-month campaign at Alexandria in pursuit of Pompey's killers (autumn 48 to spring 47 BC), with the dynastic intervention on behalf of Cleopatra against her brother Ptolemy XIII. Recorded in the Caesarian Bellum Alexandrinum.",
+      "first_appearance": "ad-familiares-13-16",
+      "categories": [
+        "civil-war",
+        "egypt"
+      ]
+    },
+    {
+      "id": "person:m-appuleius",
+      "type": "person",
+      "canonical_name": "Marcus Appuleius",
+      "short_name": "Appuleius",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Proquaestor (probably of the province of Asia in 45–44 BC); recipient of Fam. 13.45 and 13.46 and several other recommendation letters of the same period.",
+      "first_appearance": "ad-familiares-13-45",
+      "categories": [
+        "magistrate",
+        "quaestor"
+      ]
+    },
+    {
+      "id": "person:l-egnatius-rufus",
+      "type": "person",
+      "canonical_name": "Lucius Egnatius Rufus",
+      "short_name": "L. Egnatius",
+      "aliases": [
+        "Egnatius"
+      ],
+      "external_ids": {},
+      "summary": "Roman banker and knight, close friend of Cicero with provincial business interests in Asia and elsewhere. Cicero commends his agents and slaves in Fam. 13.43, 13.45, and other recommendations.",
+      "first_appearance": "ad-familiares-13-45",
+      "categories": [
+        "knight",
+        "banker"
+      ]
+    },
+    {
+      "id": "person:anchialus",
+      "type": "person",
+      "canonical_name": "Anchialus",
+      "short_name": "Anchialus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Slave of L. Egnatius Rufus, sent to Asia on his master's business and commended by Cicero to the proquaestor Appuleius (Fam. 13.45).",
+      "first_appearance": "ad-familiares-13-45",
+      "categories": [
+        "slave"
+      ]
+    },
+    {
+      "id": "person:l-nostius-zoilus",
+      "type": "person",
+      "canonical_name": "Lucius Nostius Zoilus",
+      "short_name": "L. Nostius Zoilus",
+      "aliases": [],
+      "external_ids": {},
+      "summary": "Freedman, coheir with Cicero in his patron's estate; commended to the proquaestor Appuleius in Fam. 13.46 \"as one of my own household.\"",
+      "first_appearance": "ad-familiares-13-46",
+      "categories": [
+        "freedman"
+      ]
     }
   ]
 }

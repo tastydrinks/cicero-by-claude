@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-12",
+  "mentions": [
+    {"loc": "1", "surface": "BRVTO", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "Arpinatium", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "1", "surface": "Arpinum", "entity_id": "place:arpinum", "in": "eng"},
+    {"loc": "1", "surface": "Q. Fufidium", "entity_id": "person:q-fufidius", "in": "lat"},
+    {"loc": "1", "surface": "Q. Fufidius", "entity_id": "person:q-fufidius", "in": "eng"},
+    {"loc": "1", "surface": "M. Caesi", "entity_id": "person:m-caesius", "in": "lat"},
+    {"loc": "1", "surface": "M. Caesius", "entity_id": "person:m-caesius", "in": "eng"},
+    {"loc": "1", "surface": "Cilicia", "entity_id": "place:cilicia", "in": "lat"},
+    {"loc": "1", "surface": "Cilicia", "entity_id": "place:cilicia", "in": "eng"},
+    {"loc": "2", "surface": "municipio", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "2", "surface": "his municipality", "entity_id": "place:arpinum", "in": "eng"}
+  ]
+}

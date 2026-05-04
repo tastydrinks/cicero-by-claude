@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "fellow-townsmen of Arpinum",
+      "entity_id": "place:arpinum",
+      "note": "Arpinum was the Volscian hill-town in southern Latium where Cicero (and Marius before him) was born; full Roman citizenship since 188 BC. The municipality elected only a college of three aediles."
+    },
+    {
+      "loc": "1",
+      "anchor": "the province of Gaul",
+      "entity_id": "place:gallia-cisalpina",
+      "note": "Cisalpine Gaul, the province north of the Apennines under the proconsulship of M. Iunius Brutus in this period; Arpinum's revenue-bearing lands lay within it."
+    },
+    {
+      "loc": "1",
+      "anchor": "Roman knights",
+      "entity_id": null,
+      "note": "Equites Romani: members of the equestrian order, the second of the two senatorial-and-equestrian propertied classes; most provincial and municipal business was carried by men of this status."
+    },
+    {
+      "loc": "3",
+      "anchor": "made aedile",
+      "entity_id": null,
+      "note": "At Arpinum the only elected magistracy was a college of three aediles; the year Cicero is writing of, his son Marcus, his nephew Quintus, and his friend M. Caesius held the three slots."
+    }
+  ]
+}

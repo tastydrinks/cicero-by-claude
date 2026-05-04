@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-45",
+  "mentions": [
+    {"loc": "1", "surface": "APPVLEIO PROQVAESTORI", "entity_id": "person:m-appuleius", "in": "lat"},
+    {"loc": "1", "surface": "Appuleius, proquaestor", "entity_id": "person:m-appuleius", "in": "eng"},
+    {"loc": "1", "surface": "L. Egnatio", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "L. Egnatius", "entity_id": "person:l-egnatius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "Anchialum", "entity_id": "person:anchialus", "in": "lat"},
+    {"loc": "1", "surface": "Anchialus", "entity_id": "person:anchialus", "in": "eng"},
+    {"loc": "1", "surface": "Asia", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "Asia", "entity_id": "place:asia-province", "in": "eng"}
+  ]
+}

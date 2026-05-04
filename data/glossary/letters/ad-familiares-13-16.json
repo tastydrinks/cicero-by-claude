@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "P. Crassus",
+      "entity_id": "person:p-crassus-iunior",
+      "note": "Publius Licinius Crassus, younger son of the triumvir; served as cavalry commander under Caesar in Gaul, then died in the cavalry charge that broke at Carrhae in June 53 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Alexandrian war",
+      "entity_id": "event:alexandrian-war",
+      "note": "Caesar's eight-month campaign at Alexandria in pursuit of Pompey's killers (autumn 48 to spring 47 BC), with the dynastic intervention on behalf of Cleopatra against her brother Ptolemy XIII."
+    },
+    {
+      "loc": "3",
+      "anchor": "Spain",
+      "entity_id": "place:hispania",
+      "note": "Caesar was in Spain from the end of 46 BC for the Munda campaign, which closed the surviving Pompeian resistance in March 45 BC."
+    },
+    {
+      "loc": "4",
+      "anchor": "Diodotus the Stoic",
+      "entity_id": "person:diodotus-stoicus",
+      "note": "The Stoic philosopher who lived in Cicero's house from his youth until Diodotus's death in 60 BC, blind in his last years; the teacher whose lessons in dialectic Cicero refers back to in the philosophical works."
+    },
+    {
+      "loc": "4",
+      "anchor": "in Greek",
+      "entity_id": null,
+      "note": "Hellenistic kings and Roman dynasts cultivated Greek-language historical celebrants; Apollonius's project would have been a prose history in Greek, in the tradition of Theophanes of Mytilene's life of Pompey."
+    }
+  ]
+}
