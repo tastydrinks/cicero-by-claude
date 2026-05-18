@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-07",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.7",
+  "title_english": "Ad Familiares 15.7",
+  "date": "-0051-09-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "maxima sum laetitia adfectus, cum audivi consulem te factum esse, eumque honorem tibi deos fortunare volo atque a te pro tua parentisque tui dignitate administrari. nam cum te semper amavi dilexique, tum mei amantissimum cognovi in omni varietate rerum mearum, tum patris tui pluribus beneficiis vel defensus tristibus temporibus vel ornatus secundis et sum totus vester et esse debeo, cum praesertim matris tuae, gravissimae atque optimae feminae, maiora erga salutem dignitatemque meam studia quam erant a muliere postulanda perspexerim. quapropter a te peto in maiorem modum ut me absentem diligas atque defendas.",
+      "eng": "The greatest joy filled me when I heard you had been made consul, and I pray the gods grant you good fortune in that honour, and that you discharge it as befits your own dignity and your father's. For while I have always loved and valued you, and have known you most affectionate to me in every turn of my own affairs, and while by your father's many kindnesses I have been both defended in dark hours and adorned in fair ones, I belong wholly to your house, and ought to belong --- the more so since I have seen plainly in your mother, that most weighty and excellent of women, greater zeal for my safety and standing than is to be asked of a woman. Wherefore I ask of you in the warmest terms that you hold the absent in affection and defend him.",
+      "notes": null
+    }
+  ]
+}

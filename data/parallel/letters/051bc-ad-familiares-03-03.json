@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 3.3",
+  "title_english": "Ad Familiares 3.3",
+  "date": "-0051-05-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A. d. xi K. Iun. Brundisium cum venissem, Q. Fabius Vergilianus, legatus tuus, mihi praesto fuit eaque me ex tuis mandatis monuit, quae non mihi, ad quem pertinebant, sed universo senatui venerant in mentem, praesidio firmiore opus esse ad istam provinciam; censebant enim omnes fere, ut in Italia supplementum meis et Bibuli legionibus scriberetur. id cum Sulpicius consul passurum se negaret, multa nos quidem questi sumus, sed tantus consensus senatus fuit ut mature proficisceremur, parendum ut fuerit, itaque fecimus. nunc , quod a te petii litteris iis, quas Romae tabellariis tuis dedi, velim tibi curae sit ut, quae successori coniunctissimo et amicissimo commodare potest is, qui provinciam tradit, ut ea pro nostra consociatissima voluntate cura ac diligentia tua complectare, ut omnes intellegant nec me benevolentiori cuiquam succedere nec te amiciori potuisse provinciam tradere.",
+      "eng": "When I had reached Brundisium on the eleventh day before the Kalends of June, your legate Q. Fabius Vergilianus was waiting for me there, and he reminded me, on your instructions, of what had occurred not to me, the man it concerned, but to the entire Senate: that a stronger garrison force was needed for that province of yours. Almost all were of the opinion that a supplement should be enrolled in Italy for my legions and Bibulus's. When the consul Sulpicius said he would not suffer it, we lodged many complaints; but so unanimous was the will of the Senate that we should set out in good time that obedience had to be given. So we obeyed. Now, as I requested of you in the letter I gave to your couriers at Rome, I should be glad if you would take care that whatever it is in the power of an outgoing governor to do for a successor most closely bound to him and most friendly, you will embrace such things --- in keeping with our fully shared goodwill --- with all the care and diligence that are yours; so that everyone may understand that I have succeeded no one more well-disposed and that you could have handed the province over to no one more friendly.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ex iis litteris, quarum ad me exemplum misisti, quas in senatu recitari voluisti, sic intellexeram, permultos a te milites esse dimissos; sed mihi Fabius idem demonstravit te id cogitasse facere, sed, cum ipse a te discederet, integrum militum numerum fuisse. id si ita est, pergratum mihi feceris, si istas exiguas copias, quas habuisti, quam minime imminueris. qua de re senatus consulta quae facta sunt, ad te missa esse arbitror. equidem pro eo, quanti te facio, quicquid feceris, approbabo, sed te quoque confido ea facturum, quae mihi intelleges maxime esse accommodata. ego C. Pomptinum, legatum meum, Brundisi exspectabam eumque ante K. Iun. Brundisium venturum arbitrabar. qui cum venerit, quae primum navigandi nobis facultas data erit, utemur.",
+      "eng": "From that letter of which you sent me a copy, the one you wished read out in the Senate, I had understood that very many soldiers had been discharged by you; but Fabius himself made plain to me that this was indeed what you had been thinking of doing, but that, when he himself parted from you, the number of the soldiers was intact. If that is so, you will do me a great kindness if you reduce as little as possible those slender forces you have had. On this matter the decrees of the Senate that have been passed I think have been sent on to you. For my part, given how highly I value you, whatever you do I shall approve; but I am also confident that you will do what you understand to be most fitted to my needs. I was waiting at Brundisium for my legate C. Pomptinus, and I was reckoning that he would reach Brundisium before the Kalends of June. When he comes, we shall make use of the first chance of sailing that is given us.",
+      "notes": null
+    }
+  ]
+}

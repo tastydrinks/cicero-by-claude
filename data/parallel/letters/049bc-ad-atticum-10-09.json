@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-09",
+  "category": "letters",
+  "title_latin": "Ad Atticum 10.9",
+  "title_english": "Ad Atticum 10.9",
+  "date": "-0049-05-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "adventus Philotimi (at cuius hominis, quam insulsi et quam saepe pro Pompeio mentientis!) exanimavit omnis qui mecum erant; nam ipse obdurui. dubitabat nostrum nemo quin Caesar itinera repressisset—volare dicitur; Petreius cum Afranio coniunxisset se —nihil adfert eius modi. quid quaeris? etiam illud erat persuasum, Pompeium cum magnis copiis iter in Germaniam per Illyricum fecisse; id enim αὐθεντικῶσ nuntiabatur. Melitam igitur opinor capessamus, dum quid in Hispania. quod quidem prope modum videor ex Caesaris litteris voluntate facere posse, qui negat neque honestius neque tutius mihi quicquam esse quam ab omni contentione abesse.",
+      "eng": "The arrival of Philotimus --- and what a fellow he is, what a tasteless creature, and what a serial liar on Pompey's behalf! --- left everyone here with me stricken; I myself have gone numb. None of us doubted that Caesar had halted his march --- in fact he is reported to be flying; and that Petreius had joined Afranius --- he brings no such news. What more can I say? It was even believed that Pompey had marched with great forces into Germany by way of Illyricum; for that was being reported [Greek: authentik\\=os], on first authority. So let us make for Malta, I think, until something happens in Spain. And in fact I seem to be able to do that almost with Caesar's blessing, judging by his letter, which says that nothing can be more honourable or safer for me than to keep clear of all the strife.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "dices , ubi ergo tuus ille animus quem proximis litteris? adest et idem est; sed utinam meo solum capite decernerem! lacrimae meorum me interdum molliunt precantium ut de Hispaniis exspectemus. M. Caeli quidem epistulam scriptam miserabiliter, cum hoc idem obsecraret ut exspectarem, ne fortunas meas, ne unicum filium, ne meos omnis tam temere proderem, non sine magno fletu legerunt pueri nostri; etsi meus quidem est fortior eoque ipso vehementius commovet nec quicquam nisi de dignatione laborat. Melitam igitur, deinde quo videbitur.",
+      "eng": "You will say: where, then, is that spirit of yours from your last letter? It is here, and it is the same; but if only I had only my own head to risk! The tears of my own people sometimes soften me, when they beg me to wait on what comes from Spain. As for the letter from Marcus Caelius --- a piteously written thing, in which he too begged me to wait, not to throw away my fortunes, not to throw away my only son, not to throw away all my people so rashly --- our boys could not read it without bursting into tears. Though mine, indeed, is the stronger of them, and for that very reason moves me the more violently; and he has no concern for anything except my standing. To Malta, then; afterwards, wherever seems best.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "tu tamen etiam nunc mihi aliquid litterarum et maxime si quid ab Afranio. ego si cum Antonio locutus ero, scribam ad te quid actum sit. ero tamen in credendo, ut mones, cautus; nam occultandi ratio cum difficilis tum etiam periculosa est. Servium exspecto ad Nonas, et adigit ita Postumia et Servius Flius. quartanam leviorem esse gaudeo. misi ad te Caeli etiam litterarum exemplum.",
+      "eng": "You, even so, send me some scrap of a letter, especially anything from Afranius. If I have a conversation with Antonius, I will write you what was said. I shall, however, be cautious in trusting, as you warn me; for the method of concealment is not only difficult but also dangerous. I am expecting Servius by the Nones; Postumia and young Servius are pressing me. I am glad to hear the quartan fever has eased. I have also sent you a copy of Caelius's letter.",
+      "notes": null
+    }
+  ]
+}

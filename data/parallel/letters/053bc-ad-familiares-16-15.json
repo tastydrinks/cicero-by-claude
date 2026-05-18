@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-15",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.15",
+  "title_english": "Ad Familiares 16.15",
+  "date": "-0053-04-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Aegypta ad me venit pr. Idus Apr. is etsi mihi nuntiavit te plane febri carere et belle habere, tamen, quod negavit te potuisse ad me scribere, curam mi attulit, et eo magis, quod Hermia, quem eodem die venire oportuerat, non venerat. incredibili sum sollicitudine de tua valetudine ; qua si me liberaris, ego te omni cura liberabo. plura scriberem, si iam putarem libenter te legere posse. ingenium tuum, quod ego maximi facio, confer ad te mihi tibique conservandum ; cura te etiam atque etiam diligenter. vale .",
+      "eng": "Aegypta reached me on the day before the Ides of April. Even though he reported that you are altogether free of fever and doing nicely, still --- because he said you had not been able to write to me --- he caused me anxiety, and all the more so because Hermia, who ought to have arrived on the same day, had not arrived. I am incredibly worried about your health; if you free me from that, I will free you from every care. I would write more, if I thought you could now read me with any pleasure. Bring that intelligence of yours, which I value most highly, to bear on keeping yourself safe for me and for you. Look after yourself, once more and again, with diligence. Farewell.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "scripta iam epistula Hermia venit. accepi tuam epistulam vacillantibus litterulis, nec mirum tam gravi morbo. ego ad te Aegyptam misi, quod nec inhumanus est et te visus est mihi diligere, ut is tecum esset, et cum eo cocum, quo uterere. vale .",
+      "eng": "The letter was already written when Hermia arrived. I received your note in a tottering little hand --- no wonder, with so heavy an illness on you. I have sent Aegypta to you, since he is not ungentle and seemed to me to be fond of you, so that he may be with you; and a cook along with him, for you to make use of. Farewell.",
+      "notes": null
+    }
+  ]
+}

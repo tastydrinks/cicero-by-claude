@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-27",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.27",
+  "title_english": "Ad Familiares 7.27",
+  "date": "-0052-03-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "miror cur me accuses, cum tibi id facere non liceat. quod si liceret, tamen non debebas. ' ego enim te in consulatu observaram,' et ais fore ut te Caesar restituat. multa tu quidem dicis, sed tibi nemo credit. tribunatum plebei dicis te mea causa petisse. utinam semper esses tribunus! intercessorem non quaereres. negas me audere quod sentiam dicere: quasi tibi, cum impudenter me rogares, parum fortiter responderim.",
+      "eng": "I am amazed you should accuse me, when it is not even open to you to do so. And if it were, even so you ought not. ``I dutifully attended you in your consulship,'' you say, and you assert that Caesar is going to restore you. You say a great deal, but no one believes you. You claim you sought the tribunate of the plebs for my sake. I wish you were tribune still! You would not be looking about for someone to interpose a veto. You say I do not dare to speak what I think: as though, when you put your shameless request to me, I did not answer you firmly enough.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "haec tibi scripsi, ut isto ipso in genere, in quo aliquid posse vis, te nihil esse cognosceres. quod si humaniter mecum questus esses, libenter tibi me et facile purgassem; non enim ingrata mihi sunt quae fecisti, sed quae scripsisti, molesta. me autem, propter quem ceteri liberi sunt, tibi liberum non visum demiror. nam si falsa fuerunt quae tu ad me, ut ais, 'detulisti,' quod tibi ego debeo? si vera tu es optimus testis quid mihi p. R. debeat.",
+      "eng": "I have written this to you so that, in the very art in which you wish to be thought of consequence, you may recognise that you are nothing. If you had complained with me as a civilised man, I should have made my case to you readily and with good will: for what you have done is not unwelcome to me; it is what you have written that is offensive. You wonder that I --- the man on account of whom the rest are free --- have not seemed free to you. As for the reports that you, as you say, ``brought to me'' --- if they were false, what do I owe you? If they were true, you are the best witness as to what the Roman People owes me.",
+      "notes": null
+    }
+  ]
+}

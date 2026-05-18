@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-10",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 2.10",
+  "title_english": "Ad Quintum Fratrem 2.10",
+  "date": "-0054-02-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gaudeo tibi iucundas esse meas litteras, nec tamen habuissem scribendi nunc quidem ullum argumentum nisi tuas accepissem. nam pridie Idus, cum Appius senatum infrequentem coegisset, tantum fuit frigus ut populi convicio coactus sit nos dimittere.",
+      "eng": "I am glad my letters please you; though even so I should have had no subject for writing now if I had not received yours. For on the day before the Ides, when Appius had convened a thin Senate, the cold was so bitter that, driven by the shouting of the people, he was forced to dismiss us.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Commageno, quod rem totam discusseram, mirifice mihi et per se et per pom ponium blanditur Appius ; videt enim, hoc genere dicendi si utar in ceteris, Februarium sterilem futurum Eumque lusi iocose satis neque solum illud extorsi oppidulum quod erat positum in Euphrati Zeugmate sed praeterea togam sum eius praetextam quam erat adeptus Caesare consule magno hominum risu cavillatus.",
+      "eng": "On the Commagenian business --- since I had pulled the whole thing to pieces --- Appius makes wonderful court to me, both in person and through Pomponius; for he sees that if I use this manner of speaking on the rest, February will be barren. Him I rallied playfully enough, and not only wrung from him that little town set at the Zeugma of the Euphrates, but went on to make fun, to the great laughter of those present, of the praetexta he had got in Caesar's consulship.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "' quod vult,' inquam, 'renovari honores eosdem, quo minus togam praetextam quotannis interpolet decernendum nihil censeo ; vos autem homines nobiles, qui Bostrenum praetextatum non ferebatis, Commagenum feretis?' genus vides et locum iocandi. multa dixi in ignobilem regem quibus totus est explosus. quo genere commotus, ut dixi, Appius totum me amplexatur ; nihil est enim facilius quam reliqua discutere. sed non faciam ut illum offendam ne imploret fidem Iovis Ho/spitalis, Gra/ios omnis co/nvocet, per quos mecum in gratiam rediit.",
+      "eng": "``As to his wanting the same honours renewed,'' said I, ``so that he need not patch up his praetexta every year --- I propose that nothing be decreed; but will you noble gentlemen, who could not endure a Bostrene in the praetexta, endure a Commagenian in it?'' You see the kind of joke and the place for it. I said many things against this obscure little king, by which he was hooted off altogether. Stirred by this style, as I said, Appius is all over me; for nothing is easier than to break up the rest. But I shall not offend him, for fear he invoke the faith of Jove the Host, and summon all the Greeks --- through whom he came back into favour with me.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Theopompo satis faciemus. de Caesare fugerat me ad te scribere ; video enim quas tu litteras exspectaris. sed ille scripsit ad Balbum fasciculum illum epistularum in quo fuerat mea et Balbi totum sibi aqua madidum redditum esse ut ne illud quidem sciat meam fuisse aliquam epis stulam. sed ex Balbi epistula pauca verba intellexerat ad quae rescripsit his verbis : de Cicerone te video quiddam scripsisse quod ego non intellexi ; quantum autem coniectura consequebar, id erat eius modi ut magis optandum quam sperandum putarem.'",
+      "eng": "Theopompus we shall satisfy. About Caesar --- I had forgotten to write to you; for I see the sort of letter you have been waiting for. But he has written to Balbus that the bundle of letters in which mine and Balbus's were enclosed reached him completely sodden, so that he does not even know there was a letter of mine in it. Out of Balbus's letter, though, he had made out a few words, to which he replied in these terms: ``I see you have written something about Cicero which I did not catch; but as far as I could make out by conjecture, it was such that I thought it more to be wished than hoped for.''",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "itaque postea misi ad Caesarem eodem illo exemplo litteras. iocum autem illius de sua egestate ne sis aspernatus. ad quem ego rescripsi nihil esse quod posthac arcae nostrae fiducia conturbaret lusique in eo genere et familiariter et cum dignitate. amor autem eius erga nos perfertur omnium nuntiis singularis. Litterae quidem ad id quod exspectas fere cum tuo reditu iungentur. reliqua singulorum dierum scribemus ad te, si modo tabellarios tu praebebis. quamquam eius modi frigus impendebat ut summum periculum esset ne Appio suae aedes urerentur.",
+      "eng": "So afterwards I sent Caesar a letter on the same model. Don't take his joke about his own poverty lightly. To him I wrote back that hereafter he had no reason on the strength of our strong-box to throw his accounts into confusion --- and I played upon the theme both intimately and with dignity. His affection for us is reported, by every messenger, as remarkable. The letter on what you are waiting for will follow closely on your return. The day-by-day remainder I shall write you --- provided you supply the couriers. Though such a frost was hanging over us that there was the gravest danger of Appius's having his own house burned down about his ears.",
+      "notes": null
+    }
+  ]
+}

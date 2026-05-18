@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-26",
+  "category": "letters",
+  "title_latin": "Ad Atticum 7.26",
+  "title_english": "Ad Atticum 7.26",
+  "date": "-0049-02-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non venit idem usu mihi quod tu tibi scribis, quotiens exorior. ego enim nunc primum paulum exorior et maxime quidem iis litteris quae Roma adferuntur de Domitio, de Picentium cohortibus. omnia erant facta hoc biduo laetiora. itaque fuga quae parabatur repressa est; Caesaris interdicta, si te/ secundo lúmine hic offéndero— respuuntur; bona de Domitio, praeclara de Afranio fama est.",
+      "eng": "It is not now happening to me as you write happens to you, as often as you rise. For I am rising a little now, and for the first time, and most of all thanks to those letters which are coming in from Rome about Domitius, about the cohorts of the Picene country. Everything within the last two days has been made more cheerful. Accordingly the flight that was being prepared has been checked; Caesar's threats --- ``if on a second day's light I find you here'' --- are being rejected; fine news of Domitius, splendid news of Afranius.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod me amicissime admones ut mihi integrum quoad possim servem, gratum est; quod addis, ne propensior ad turpem causam videar, certe videri possum. ego me ducem in civili bello quoad de pace ageretur negavi esse, non quin rectum esset sed quia quod multo rectius fuit id mihi fraudem tulit. plane eum quoi noster alterum consulatum deferret et triumphum (at quibus verbis! pro tuis rebus gestis amplissimis ) inimicum habere nolueram. ego scio et quem metuam et quam ob rem. sin erit bellum, ut video fore, partes meae non desiderabuntur.",
+      "eng": "As to your friendly warning, that I keep myself a free hand as long as I can, I am grateful; as to your adding that I should not seem too far inclined toward the dishonourable cause, I can certainly seem so. I have refused to be a leader in civil war for so long as peace was being negotiated --- not that it was not the right course, but because the course that was very much more right was the one that brought me harm. I had simply not wanted to have as an enemy a man on whom our friend would have liked to confer a second consulship and a triumph --- and in what terms! ``for your most ample achievements in office''. I know whom I have to fear, and on what grounds. But if there is to be war, as I see there will be, my part will not be wanting.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de HS X_X_ Terentia tibi rescripsit. Dionysio, dum existimabam vagos nos fore, nolui molestus esse; tibi autem crebro ad me scribenti de eius officio nihil rescripsi, quod diem ex die exspectabam ut statuerem quid esset faciendum. nunc , ut video, pueri certe in Formiano videntur hiematuri. et ego? nescio . si enim erit bellum, cum Pompeio esse constitui. quod habebo certi faciam ut scias. ego bellum foedissimum futurum puto, nisi qui, ut tu scribis, Parthicus casus exstiterit.",
+      "eng": "As for the twenty thousand sesterces, Terentia has written you back. As for Dionysius --- while I was supposing we were going to be on the move --- I did not want to be a trouble to him; as for yourself, who write to me again and again about his obligations, I have written nothing back, because I was waiting from day to day, to settle what was to be done. Now, as I see, the boys at least seem likely to winter at the Formian villa. And I? I do not know. For if there is to be a war, I have decided to be with Pompey. What I have settled, I shall make sure you know. I think the war will be the foulest there has been, unless --- as you write --- some Parthian accident should arise.",
+      "notes": null
+    }
+  ]
+}

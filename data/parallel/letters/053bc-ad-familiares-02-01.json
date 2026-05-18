@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-01",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.1",
+  "title_english": "Ad Familiares 2.1",
+  "date": "-0053-10-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quamquam me nomine neglegentiae suspectum tibi esse doleo, tamen non tam mihi molestum fuit accusari abs te officium meum quam iucundum requiri, praesertim quom, in quo accusabar, culpa vacarem, in quo autem desiderare te significabas meas litteras, prae te ferres perspectum mihi quidem, sed tamen dulcem et optatum amorem tuum. equidem neminem praetermisi, quem quidem ad te perventurum putarem, cui litteras non dederim; etenim quis est tam in scribendo impiger quam ego? a te vero bis terve summum et eas perbrevis accepi. qua re, si iniquus es in me iudex, condemnabo eodem ego te crimine; sin me id facere noles, te mihi aequum praebere debebis. sed de litteris hactenus; non enim vereor ne non scribendo te expleam, praesertim si in eo genere studium meum non aspernabere.",
+      "eng": "Though it pains me to be under suspicion with you on the score of neglect, still I have found it less irksome to be charged by you with shirking my duty than gratifying to be missed --- particularly since on the count of which you accused me I am innocent, while in the matter where you let it be seen that you wanted letters from me, you were displaying to me an affection long well known to me, but for all that sweet and longed-for. For my part, I have not let slip anyone whom I supposed would in fact reach you to whom I did not give a letter; and indeed, who is so untiring in writing as I am? From you, however, I have received at most two or three, and those very short. Therefore, if you are a stern judge against me, I shall condemn you on the same charge; if on the other hand you would rather not have me do so, you will owe it to me to show yourself fair in turn. But enough on letters; for I am not afraid I shall fail to satisfy you in the writing, especially if my zeal in that kind is not despised by you.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego te afuisse tam diu a nobis et dolui, quod carui fructu iucundissimae consuetudinis, et laetor, quod absens omnia cum maxima dignitate es consecutus quodque in omnibus tuis rebus meis optatis fortuna respondit. breve est, quod me tibi praecipere meus incredibilis in te amor cogit. tanta est exspectatio vel animi vel ingeni tui, ut ego te obsecrare obtestarique non dubitem, sic ad nos conformatus revertare, ut, quam exspectationem tui concitasti, hanc sustinere ac tueri possis; et, quoniam meam tuorum erga me meritorum memoriam nulla umquam delebit oblivio, te rogo ut memineris, quantaecumque tibi accessiones fient et fortunae et dignitatis, eas te non potuisse consequi, nisi meis puer olim fidelissimis atque amantissimis consiliis paruisses. qua re hoc animo in nos esse debebis, ut, aetas nostra iam ingravescens in amore atque in adulescentia tua conquiescat.",
+      "eng": "For myself, that you have been so long away from us I have both grieved over --- since I lost the enjoyment of the most delightful companionship --- and rejoiced at, since in your absence you have attained everything with the highest distinction, and since in all your affairs fortune has answered my wishes. There is a brief charge which my incredible love for you compels me to lay upon you. So great is the expectation of your spirit and your talent that I have no hesitation in beseeching and adjuring you: return to us so shaped that you can sustain and uphold the expectation you have stirred up of yourself. And, since no forgetfulness will ever erase from me the memory of your kindnesses to me, I ask you to remember this: whatever accessions of fortune and standing fall to you, you could not have attained them, had you not once as a boy obeyed my counsels --- counsels of the most loyal and most loving kind. For this reason you ought to be disposed toward me thus: that my own years, now growing heavy, may find rest in your love and in your youth.",
+      "notes": null
+    }
+  ]
+}

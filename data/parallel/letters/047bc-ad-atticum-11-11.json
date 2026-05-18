@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-11",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.11",
+  "title_english": "Ad Atticum 11.11",
+  "date": "-0047-03-08",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "confectus iam cruciatu maximorum dolorum ne si sit quidem quod ad te debeam scribere facile id exsequi possim, hoc minus, quod res nulla est quae scribenda sit cum praesertim ne spes quidem ulla ostendatur fore melius. ita iam ne tuas quidem litteras exspecto, quamquam semper aliud adferunt quod velim. qua re tu quidem scribito, cum erit quoi des. ego tuis proximis, quas tamen iam pridem accepi, nihil habeo quod rescribam; longo enim intervallo video immutata esse omnia; illa esse firma quae debeant, nos stultitiae nostrae gravissimas poenas pendere.",
+      "eng": "Worn out as I am now by the rack of these greatest of pains, I could not easily get through writing to you even if there were something I owed you, the less so when there is nothing to be set down, especially when not so much as a hope is held out that things will be better. So now I am not waiting even for letters from you, although they always bring something I want. Write, then, whenever there is someone to give them to. As for your last letter --- which even so I have had a long time now --- I have nothing to write back; over so long an interval I see that everything has been altered, that those things stand firm which ought to stand, and that I am paying the heaviest penalties for my own folly.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "P. Sallustio curanda sunt HS. x_x_x_ quae accepi a Cn. Sallustio. velim videas ut sine mora curentur. de ea re scripsi ad Terentiam. atque hoc ipsum iam prope consumptum est. qua re id quoque velim cum illa videas, ut sit qui utamur. hic fortasse potero sumere, si sciam istic paratum fore; sed, prius quam id scirem, nihil sum ausus sumere. qui sit omnium rerum status noster vides. nihil est mali quod non et sustineam et exspectem. quarum rerum eo gravior est dolor quo culpa maior. ille in Achaia non cessat de nobis detrahere. nihil videlicet tuae litterae profecerunt. vale . viii Idus Mart.",
+      "eng": "Publius Sallustius is to be paid the thirty thousand sesterces which I received from Gnaeus Sallustius. Please see that the payment is made without delay. I have written to Terentia about it. And this sum itself is now almost used up. So I should like you to see to that too with her, that there should be something for me to use. Here perhaps I shall be able to draw on something, if I know that money will be ready there; but until I knew that, I have not ventured to draw on anything. You see how every part of my situation stands. There is no evil I am not both enduring and expecting. And of these things the grief is the heavier in proportion as the fault is the greater. The other man, in Achaea, does not let up in running me down. Clearly your letters did no good. Farewell. The eighth day before the Ides of March.",
+      "notes": null
+    }
+  ]
+}

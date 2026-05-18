@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-24",
+  "category": "letters",
+  "title_latin": "Ad Atticum 7.24",
+  "title_english": "Ad Atticum 7.24",
+  "date": "-0049-02-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Philotimi litterae me quidem non nimis sed eos qui in his locis erant admodum delectarunt. ecce postridie Cassio litterae Capua a Lucretio, familiari eius, Nigidium a Domitio Capuam venisse. eum dicere Vibullium cum paucis militibus e Piceno currere ad Gnaeum, confestim insequi Caesarem, Domitium non habere militum iii milia. idem scripsit Capua consules discessisse. non dubito quin Gnaeus in fuga sit; modo effugiat. ego a consilio fugiendi, ut tu censes, absum.",
+      "eng": "Philotimus's letter did not delight me very much, but those who were in these parts it delighted greatly. Then, the next day, a letter for Cassius arrived at Capua from Lucretius, a friend of his: that Nigidius had come from Domitius to Capua, and that he was saying Vibullius with a few soldiers was hurrying from Picenum to Gnaeus, that Caesar was hot on his heels, and that Domitius had not three thousand soldiers. He wrote also that the consuls had left Capua. I have no doubt that Gnaeus is in flight; may he only get away. As for me, I am keeping my distance from the plan of flight, as you advise.",
+      "notes": null
+    }
+  ]
+}

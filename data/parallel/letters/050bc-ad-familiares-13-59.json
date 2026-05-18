@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-59",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.59",
+  "title_english": "Ad Familiares 13.59",
+  "date": "-0050-02-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "M. Fadium unice diligo, summaque mihi cum eo consuetudo et familiaritas est pervetus. in eius controversiis quid decernas a te non peto (servabis, ut tua fides et dignitas postulat, edictum et institutum tuum), sed ut quam facillimos ad te aditus habeat, quae erunt aequa libente te impetret, ut meam amicitiam sibi, etiam cum procul absim, prodesse sentiat, praesertim apud te. hoc te vehementer etiam atque etiam rogo.",
+      "eng": "I value M. Fadius beyond measure, and my acquaintance and intimacy with him is of very long standing. As to what you should decide in his disputes I do not ask --- you will keep your edict and your established practice, as your good faith and your rank require; only that he have the easiest possible access to you, that whatever is fair he may obtain with your good will, and that he may feel my friendship doing him good, even when I am at a distance, and most of all at your tribunal. This I ask of you most earnestly, again and again.",
+      "notes": null
+    }
+  ]
+}

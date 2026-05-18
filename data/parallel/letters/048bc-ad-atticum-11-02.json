@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-02",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.2",
+  "title_english": "Ad Atticum 11.2",
+  "date": "-0048-02-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "litteras tuas accepi pr. Non. Febr. eoque ipso die ex testamento crevi hereditatem. ex multis meis miserrimis curis est una levata si, ut scribis, ista hereditas fidem et famam meam tueri potest; quam quidem intellego te etiam sine hereditate tuis opibus defensurum fuisse.",
+      "eng": "I received your letter on the day before the Nones of February, and on that same day I formally entered upon the inheritance under the terms of the will. Out of my many most wretched anxieties one has been lightened, if, as you write, that inheritance can protect my credit and my good name --- a credit which, I know well enough, you would have defended out of your own resources even without an inheritance.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de dote quod scribis, per omnis deos te obtestor ut totam rem suscipias et illam miseram mea culpa et neglegentia tueare meis opibus si quae sunt, tuis quibus tibi molestum non erit facultatibus. quoi quidem deesse omnia, quod scribis, obsecro te, noli pati. in quos enim sumptus abeunt fructus praediorum? iam illa HS L_X_ quae scribis nemo mihi umquam dixit ex dote esse detracta; numquam enim essem passus. sed haec minima est ex iis iniuriis quas accepi; de quibus ad te dolore et lacrimis scribere prohibeor. ex ea pecunia quae fuit in Asia partem dimidiam fere exegi.",
+      "eng": "As to what you write about the dowry, by all the gods I beseech you, take up the whole business and protect that unhappy girl --- whose ruin is from my own fault and negligence --- out of my resources, if I have any, and out of yours so far as it gives you no trouble. That she lacks for everything, as you write, do not, I implore you, allow it. For into what expenses are the proceeds of the estates running off? As for that sixty thousand sesterces you mention, no one ever told me it had been deducted from the dowry; I would never have allowed it. But this is the smallest of the wrongs I have suffered --- of which I am forbidden by my grief and my tears from writing to you. From the money that was in Asia I have collected nearly half.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "tutius videbatur fore ibi ubi est quam apud publicanos. quod me hortaris ut firmo sim animo, vellem posses aliquid adferre quam ob rem id facere possem. sed si ad ceteras miserias accessit etiam id quod mihi Chrysippus dixit parari (tu nihil significasti) de domo, quis me miserior uno iam fuit? oro , obsecro, ignosce. non possum plura scribere. quanto maerore urgear profecto vides. quod si mihi commune cum ceteris esset qui videntur in eadem causa esse, minor mea culpa videretur et eo tolerabilior esset. nunc nihil est quod consoletur, nisi quid tu efficis, si modo etiam nunc effici potest ut ne qua singulari adficiar calamitate et iniuria.",
+      "eng": "It seemed safer for it to be where it is than with the tax-farmers. As to your urging me to keep my spirits firm, I could wish that you were able to bring forward something to make that possible for me. But if, on top of my other miseries, the report Chrysippus brought me about the house has also come true --- which you gave no hint of --- has any one man yet been more wretched than I? I beg you, I implore you, forgive me. I cannot write more. With what grief I am pressed down, surely you see. If this trouble were shared with the rest who seem to be in the same case, my own fault would look smaller and would for that reason be more bearable. As things stand there is nothing to console me, unless you can bring it about --- if even now it can still be brought about --- that I be not visited with some particular and singular calamity and outrage.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "tardius ad te remisi tabellarium quod potestas mittendi non fuit. a tuis et nummorum accepi HS L_X_X_ et vestimentorum quod opus fuit. quibus tibi videbitur velim des litteras meo nomine. nosti meos familiaris. si signum requirent aut manum, dices me propter custodias ea vitasse.",
+      "eng": "I have sent your courier back rather slowly because I have had no means of dispatching him. From your people I received seventy thousand sesterces, and the clothing that I needed. Please give letters in my name to whomever you think right. You know my friends. If they look for the seal or the handwriting, you will say that on account of the watchers set on me I avoided these.",
+      "notes": null
+    }
+  ]
+}

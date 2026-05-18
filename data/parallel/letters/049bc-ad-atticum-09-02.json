@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-02",
+  "category": "letters",
+  "title_latin": "Ad Atticum 9.2",
+  "title_english": "Ad Atticum 9.2",
+  "date": "-0049-03-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Ets i Nonis Martiis die tuo, ut opinor, exspectabam epistulam a te longiorem, tamen ad eam ipsam brevem quam IIII Nonas ὑπὸ τὴν διαλῆψιν dedisti rescribendum putavi. gaudere ais te mansisse me et scribis in sententia te manere. mihi autem superioribus litteris videbare non dubitare quin cederem ita si et Gnaeus bene comitatus conscendisset et consules transissent. utrum hoc tu parum commeministi, an ego non satis intellexi, an mutasti sententiam? sed aut ex epistula quam exspecto perspiciam quid sentias aut alias abs te litteras eliciam. Brundisio nihildum erat adlatum",
+      "eng": "Although on the Nones of March, your birthday, I think, I was looking for a longer letter from you, still I thought I should reply to that short one which you dashed off, four days before the Nones, at the moment of decision [Greek: hypo tēn dialēpsin]. You say you are glad I stayed, and you write that you stand by your earlier opinion. But in your previous letter you seemed to me not to doubt that I should withdraw --- provided both that Gnaeus had embarked well attended and that the consuls had crossed over. Have you not quite remembered this, or did I not properly understand, or have you changed your mind? But either I shall make out what you think from the letter I am waiting for, or I shall draw another letter out of you. From Brundisium nothing had yet been brought.",
+      "notes": null
+    }
+  ]
+}

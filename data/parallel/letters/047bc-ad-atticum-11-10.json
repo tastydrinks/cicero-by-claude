@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-10",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.10",
+  "title_english": "Ad Atticum 11.10",
+  "date": "-0047-01-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ad meas incredibilis aegritudines aliquid novi accedit ex iis quae de Q. Q. ad me adferuntur. P. Terentius meus necessarius operas in portu et scriptura Asiae pro magistro dedit. is Quintum filium Ephesi vidit vi Idus Decembr. eumque studiose propter amicitiam nostram invitavit; cumque ex eo de me percontaretur, eum sibi ita dixisse narrabat, se mihi esse inimicissimum, volumenque sibi ostendisse orationis quam apud Caesarem contra me esset habiturus. multa a se dicta contra eius amentiam. multa postea Patris simili scelere secum Quintum patrem locutum; cuius furorem ex iis epistulis quas ad te misi perspicere potuisti. haec tibi dolori esse certo scio; me quidem excruciant et eo magis quod mihi cum illis ne querendi quidem locum futurum puto.",
+      "eng": "To my unbelievable miseries something new has been added by the reports that reach me about my Quintus the younger. Publius Terentius, my close associate, has served as deputy in the port and pasture-tax of Asia. He saw young Quintus at Ephesus on the sixth day before the Ides of December, and on account of our friendship pressed his hospitality on him warmly; and when he questioned him about me, he reported that Quintus told him this --- that he was my bitterest enemy, and showed him the roll of a speech which he was going to deliver against me before Caesar. Terentius said many things against the boy's mad behaviour. Later, at Patrae, Quintus the father spoke with him in the same wicked vein; you have been able to make out his frenzy from the letters of his which I sent on to you. I know for a fact that all this is a grief to you; it tears at me, all the more because I think there will not even be room for me to complain to those men.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Africanis rebus longe alia nobis ac tu scripseras nuntiantur. nihil enim firmius esse dicunt, nihil paratius. accedit Hispania et alienata Italia, legionum nec vis eadem nec voluntas, urbanae res perditae. quid est ubi acquiescam, nisi quam diu tuas litteras lego? quae essent profecto crebriores, si quid haberes quo putares meam molestiam minui posse. sed tamen te rogo ut ne intermittas scribere ad me quicquid erit eosque qui mihi tam crudeliter inimici sunt, si odisse non potes, accuses tamen, non ut aliquid proficias sed ut tibi me carum esse sentiant. plura ad te scribam, si mihi ad eas litteras quas proxime ad te dedi rescripseris. vale . xii K. Febr.",
+      "eng": "The news brought from Africa is altogether other than what you had written. They say nothing is more solidly placed, nothing more in readiness. Add Spain, and an Italy alienated, legions whose strength and whose loyalty are no longer the same, the affairs of the city in ruin. What place is there for me to find any rest, except for as long as I am reading your letters? Letters which would surely come more thickly, if you had anything by which you thought my distress could be lessened. Even so I ask you not to leave off writing to me whatever there is, and to denounce those who are so cruelly hostile to me --- if you cannot hate them --- not to accomplish anything by it, but so that they feel that I am dear to you. I shall write more to you when you have answered the letter I sent off last. Farewell. The twelfth day before the Kalends of February.",
+      "notes": null
+    }
+  ]
+}

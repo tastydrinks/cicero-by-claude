@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-01",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.1",
+  "title_english": "Ad Familiares 16.1",
+  "date": "-0050-11-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Paulo facilius putavi posse me ferre desiderium tui, sed plane non fero et, quamquam magni ad honorem nostrum interest quam primum ad urbem me venire, tamen peccasse mihi videor qui a te discesserim ; sed quia tua voluntas ea videbatur esse, ut prorsus nisi confirmato corpore nolles navigare, approbavi tuum consilium neque nunc muto, si tu in eadem es sententia ; sin autem, postea quam cibum cepisti, videris tibi posse me consequi, tuum consilium est. Marionem ad te eo misi, ut aut tecum ad me quam primum veniret aut, si tu morarere, statim ad me rediret.",
+      "eng": "I thought I could bear missing you a little more easily; but plainly I cannot bear it at all, and although it matters greatly to my standing that I reach the city as soon as possible, I feel all the same that I did wrong to leave you. But because your own wish seemed to be that you would on no account sail unless your strength was assured, I approved your decision, and I do not change it now if you are still of the same mind. If, however, now that you are taking food, you think you can catch up to me, that is for you to judge. I have sent Marion to you for this purpose: either to come back to me with you as soon as possible, or, if you are still delayed, to return to me at once.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu autem hoc tibi persuade, si commodo valetudinis tuae fieri possit, nihil me malle quam te esse mecum ; si autem intelleges opus esse te Patris convalescendi causa paulum commorari, nihil me malle quam te valere. si statim navigas, nos Leucade consequere ; sin te confirmare vis, et comites et tempestates et navem idoneam ut habeas diligenter videbis. unum illud, mi Tiro, videto, si me amas, ne te Marionis adventus et hae litterae moveant. quod valetudini tuae maxime conducet si feceris, maxime obtemperaris voluntati meae.",
+      "eng": "But take it for certain: if it can be done without harm to your health, there is nothing I want more than to have you with me. If, on the other hand, you understand that you need to stay on a little at Patrae for the sake of getting well, there is nothing I want more than that you be well. If you sail at once, you will catch us at Leucas. If you mean to firm up your strength, you will see to it carefully that you have proper companions, the right weather, and a sound ship. One thing, my dear Tiro, see to, if you love me: do not let Marion's arrival or this letter sway you. If you do what is most conducive to your health, you will most fully be obeying my wish.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "haec pro tuo ingenio considera. nos ita te desideramus, ut amemus ; amor ut valentem videamus hortatur, desiderium ut quam primum ; illud igitur potius. cura ergo potissimum ut valeas. de tuis innumerabilibus in me officiis erit hoc gratissimum. III non . non",
+      "eng": "Weigh these things with that good sense of yours. We miss you so much because we love you; the love urges us to see you well, the missing to see you as soon as possible --- so the former wins. Take care, then, above all, to be well. Of your countless services to me, this will be the most welcome. The third day before the Nones. The Nones.",
+      "notes": null
+    }
+  ]
+}

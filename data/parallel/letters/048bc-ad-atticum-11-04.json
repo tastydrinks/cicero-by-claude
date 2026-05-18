@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-04",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.4",
+  "title_english": "Ad Atticum 11.4",
+  "date": "-0048-07-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "accepi ab Isidoro litteras et postea datas binas. ex proximis cognovi praedia non venisse. videbis ergo ut sustentetur per te. de Frusinati, si modo fruituri sumus, erit mihi res opportuna. meas litteras quod requiris, impedior inopia rerum quas nullas habeo litteris dignas, quippe cui nec quae accidunt nec quae aguntur ullo modo probentur. utinam coram tecum olim potius quam per epistulas! hic tua, ut possum, tueor apud hos. cetera Celer. ipse fugi adhuc omne munus eo magis quod ita nihil poterat agi ut mihi et meis rebus aptum esset.",
+      "eng": "I have received a letter from Isidorus and, dispatched later, two more. From the most recent I learned that the estates have not been sold. You will see to it, then, that they are kept solvent through you. As to the property at Frusino, if only I am to enjoy it, it will be a thing well suited to me. As for your asking me for letters, I am held back by a dearth of material; I have nothing worth a letter, given that I can approve neither what is happening to me nor what is being done. If only I were with you in person one day, rather than by letters! Here I look after your interests, as best I can, with these people. The rest Celer will tell. I myself have so far avoided every duty, all the more because nothing could be done in any way that suited me and my circumstances.",
+      "notes": null
+    }
+  ]
+}

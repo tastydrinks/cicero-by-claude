@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.3",
+  "title_english": "Ad Familiares 13.3",
+  "date": "-0052-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A. Fufium, unum ex meis intimis observantissimum studiosissimumque nostri, eruditum hominem et summa humanitate tuaque amicitia dignissimum, velim ita tractes ut mihi coram recepisti. tam gratum mihi id erit quam quod gratissimum ; ipsum praeterea summo officio et summa observantia tibi in perpetuum devinxeris.",
+      "eng": "A. Fufius, one of my closest friends, a man most devoted and most attentive to me, learned and altogether worthy of your friendship, I should like you to treat in the way you assured me in person you would. It will be as welcome to me as anything that could possibly be more welcome; and in him besides --- given his perfect dutifulness and devoted attention --- you will have bound a man to you for life.",
+      "notes": null
+    }
+  ]
+}

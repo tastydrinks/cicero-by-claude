@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-10",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.10",
+  "title_english": "Ad Familiares 7.10",
+  "date": "-0054-12-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "legi tuas litteras ex quibus intellexi te Caesari nostro valde iure consultum videri. est quod gaudeas te in ista loca venisse, ubi aliquid sapere viderere. quod si in Britanniam quoque profectus esses, profecto nemo in illa tanta insula peritior te fuisset. verum tamen (rideamus licet; sum enim a te invitatus) subinvideo tibi ultro etiam accersitum ab eo, ad quem ceteri non propter superbiam eius sed propter occupationem aspirare non possunt.",
+      "eng": "I have read your letter, from which I gathered that our friend Caesar takes you for a thorough jurist. You may well be pleased to have come to a place where you can seem to know something. And if you had pushed on to Britain as well, surely no one in that whole great island would have been more learned than you. All the same --- you may laugh, since you have invited it --- I rather envy you, summoned of his own motion by the man whom others cannot get near, not because of his pride but because of his press of business.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed tu in ista epistula nihil mihi scripsisti de tuis rebus, quae me hercule mihi non minori curae sunt quam meae. valde metuo ne frigeas in hibernis. quam ob rem camino luculento utendum censeo (idem Mucio et Manilio placebat), praesertim qui sagis non abundares. quamquam vos nunc istic satis calere audio; quo quidem nuntio valde me hercule de te timueram. sed tu in re militari multo es cautior quam in advocationibus, qui neque in Oceano natare volueris studiosissimus homo natandi neque spectare essedarios, quem antea ne andabata quidem defraudare poteramus. sed iam satis iocati sumus.",
+      "eng": "But in that letter of yours you wrote me nothing about your own affairs, which by Hercules are no less a concern of mine than my own. I am very much afraid you are freezing in your winter quarters; for which reason I advise you to make use of a good stove --- Mucius and Manilius were of the same view --- especially as you are not exactly well supplied with cloaks. Though I hear you are warm enough out there now; at which news, by Hercules, I felt real fear for you. But you are far more cautious in matters of war than in court advocacy: you who, devoted swimmer that you are, refused to swim in the Ocean, and refused even to watch the chariot-fighters, you whom before this we could not have cheated even of a blindfold-gladiator match. But we have joked enough.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ego de te ad Caesarem quam diligenter scripserim, tute scis, quam saepe, ego; sed me hercule iam intermiseram, ne viderer liberalissimi hominis meique amantissimi voluntati erga me diffidere. sed tamen iis litteris, quas proxime dedi, putavi esse hominem commonendum. id feci; quid profecerim, facias me velim certiorem et simul de toto statu tuo consiliisque omnibus; scire enim cupio quid agas, quid exspectes, quam longum istum tuum discessum a nobis futurum putes.",
+      "eng": "You know yourself how carefully and how often I have written to Caesar on your behalf; but by Hercules, I had now let off, so as not to seem to distrust the disposition toward me of so generous a man and so devoted a friend. Still, in the letter I sent him most recently, I thought he ought to be jogged. I have done it; how much it has accomplished, please let me know --- and at the same time about your whole situation and all your plans. For I am eager to know what you are doing, what you are looking for, how long you think this absence of yours from us is going to be.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "sic enim tibi persuadeas velim, unum mihi esse solacium qua re facilius possim pati te esse sine nobis, si tibi esse id emolumento sciam; sin autem id non est, nihil duobus nobis est 'stultius, me, qui te non Romam attraham, te, qui non huc advoles. una me hercule nostra vel severa vel iocosa congressio pluris erit quam non modo hostes, sed etiam fratres nostri Haedui. qua re omnibus de rebus fac ut quam primum sciam. aut consolando aut consilio aut re iuvero.",
+      "eng": "For I would have you be persuaded that this is my one consolation for bearing your being away from us more easily: knowing that it is to your profit. If it is not, then nothing is more ``stupid'' than the two of us --- I, who do not drag you back to Rome, you, who do not come flying here. By Hercules, one meeting between us, serious or jocular, will be worth more than not only our enemies but even our brothers the Aedui. So see that I learn everything, and as soon as possible. By consolation, by counsel, or by action, I shall come to your aid.",
+      "notes": null
+    }
+  ]
+}

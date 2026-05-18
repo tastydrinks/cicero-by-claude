@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-10",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.10",
+  "title_english": "Ad Familiares 16.10",
+  "date": "-0053-04-17",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego vero cupio te ad me venire, sed viam timeo. gravissime aegrotasti, inedia et purgationibus et vi ipsius morbi consumptus es ; graves solent offensiones esse ex gravibus morbis si quae culpa commissa est ; iam ad id biduum, quod fueris in via, dum in Cumanum venis, accedent continuo ad reditum dies quinque. ego in Formiano a. d. III K. esse volo. ibi te ut firmum offendam, mi Tiro, effice.",
+      "eng": "I do indeed want you to come to me, but I am afraid of the road. You have been gravely ill; you have been worn down by fasting and purges and the sheer force of the disease itself. The relapses that follow heavy illnesses are usually heavy, if any blunder is committed. Already, on top of the two days you will have been on the road to reach Cumae, five more will be added at once for the return. I want to be at the Formian villa on the third day before the Kalends. See to it, my Tiro, that I find you there in good strength.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "litterulae meae sive nostrae tui desiderio oblanguerunt, hac tamen epistula, quam Acastus attulit, oculos paulum sustulerunt. Pompeius erat apud me, cum haec scribebam, hilare et libenter. ei cupienti audire nostra dixi sine te omnia mea muta esse. tu Musis nostris para ut operas reddas. nostra ad diem dictam fient; docui enim te fides e)/tumon quod haberet. fac plane ut valeas. nos adsumus. vale . xiiii K.",
+      "eng": "My poor pages, or rather ours, have grown listless with longing for you; but at this letter, which Acastus brought, they lifted their eyes a little. Pompey was with me as I was writing this, in good and easy spirits. I told him, when he wanted to hear something of our work, that without you everything of mine is mute. Make yourself ready to render service to our Muses again. What I promised will be done on the day named; for I have taught you what the true meaning of fides --- good faith --- contains [Greek: etymon]. Take great care to be well. I am here. Farewell. The fourteenth day before the Kalends.",
+      "notes": null
+    }
+  ]
+}

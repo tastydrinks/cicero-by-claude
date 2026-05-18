@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.8",
+  "title_english": "Ad Atticum 5.8",
+  "date": "-0051-05-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "me et incommoda valetudo, e qua iam emerseram utpote cum sine febri laborassem, et Pomptini exspectatio de quo adhuc ne rumor quidem venerat, tenebat duodecimum iam diem Brundisi; sed cursum exspectabamus.",
+      "eng": "Both an ill turn of health, from which I had now emerged --- since I had laboured under it without fever --- and waiting for Pomptinus, of whom up to this point not even a rumour had come, have held me here at Brundisium for twelve days now; but we were watching for a fair run.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu si modo es Romae (vix enim puto), sin es, hoc vehementer animadvertas velim. Roma acceperam litteras Milonem meum queri per litteras iniuriam meam quod Philotimus socius esset in bonis suis. id ego ita fieri volui de C. Duroni sententia quem et amicissimum Miloni perspexeram et talem virum qualem tu iudicas cognoram. eius autem consilium meumque hoc fuerat, primum ut in potestate nostra esset res, ne illum malus emptor alienus mancipiis quae permulta secum habet spoliaret, deinde ut Faustae quoi cautum ille esse voluisset ratum esset. erat etiam illud ut ipsi nos si quid servari posset quam facillime servaremus.",
+      "eng": "If you are at Rome --- though I scarcely think so, but if you are --- I should like you to attend to this very keenly. From Rome I had received a letter saying that my Milo was complaining by letter of an injury done him by me, in that Philotimus was a partner in his property. I willed this to be done on C. Duronius's advice, a man I had clearly seen to be most friendly to Milo and had come to know to be of the sort you reckon him. His thinking and mine had been this: first, that the matter should be in our power, so that no malign outsider as buyer might strip him of the very many slaves he has with him; next, that what he had wished secured for Fausta might be made firm. There was this too --- that we ourselves might most easily preserve whatever could be preserved.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "nunc rem totam perspicias velim; nobis enim scribuntur saepe maiora. si ille queritur, si scribit ad amicos, si idem Fausta vult, Philotimus, ut ego ei coram dixeram mihique ille receperat, ne sit invito Milone in bonis. nihil nobis fuerat tanti. sin haec leviora sunt, tu iudicabis. loquere cum Duronio. scripsi etiam ad Camillum, ad Caelium , ad Lamiam eoque magis quod non confidebam Romae te esse. summa erit haec. statues ut ex fide, fama reque mea videbitur.",
+      "eng": "Now I should like you to look the whole matter through; for things are often written to me as larger than they are. If he is complaining, if he is writing to friends, if Fausta wants the same thing, then let Philotimus --- just as I had said face to face to him and he had pledged to me --- not be in the property against Milo's will. Nothing was so much to us. But if these are slighter matters, you shall judge. Speak with Duronius. I have written too to Camillus, to Caelius, to Lamia, and the more so because I had no confidence that you were at Rome. The sum will be this: you shall settle it as it seems to fit with my honour, my reputation, and my interest.",
+      "notes": null
+    }
+  ]
+}

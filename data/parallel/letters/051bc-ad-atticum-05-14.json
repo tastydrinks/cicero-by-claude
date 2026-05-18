@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-14",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.14",
+  "title_english": "Ad Atticum 5.14",
+  "date": "-0051-07-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ante quam aliquo loco consedero, neque longas a me neque semper mea manu litteras exspectabis; cum autem erit spatium, utrumque praestabo. nunc iter conficiebamus aestuosa et pulverulenta via. dederam Epheso pridie; has dedi Trallibus. in provincia mea fore me putabam Kal. Sextilibus. ex ea die, si me amas, παράπηγμα ἐνιαύσιον commoveto. interea tamen haec mihi quae vellem adferebantur, primum otium Parthicum, dein confectae pactiones publicanorum, postremo seditio militum sedata ab Appio stipendiumque eis usque ad Idus Quintilis persolutum.",
+      "eng": "Until I have settled somewhere, you must not expect long letters from me, nor always in my own hand; when there is leisure, I shall manage both. As things stand we were finishing a stage of the road, by a route hot and full of dust. I had posted a letter from Ephesus the day before; this one I post from Tralles. I was reckoning to be in my province on the Kalends of August. From that day, if you love me, set the year-calendar in motion [Greek: parapegma eniausion]. Meanwhile, however, the following news, such as I could wish for, was being brought to me: first, that there was peace with Parthia; next, that the contracts of the publicans had been settled; lastly, that a mutiny of the soldiers had been put down by Appius, and their pay made over to them in full down to the Ides of July.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nos Asia accepit admirabiliter. adventus noster nemini ne minimo quidem fuit sumptui. spero meos omnis servire laudi meae. tamen magno timore sum sed bene speramus. omnes iam nostri praeter Tullium tuum venerunt. erat mihi in animo recta proficisci ad exercitum, aestivos mensis reliquos rei militari dare, hibernos iuris dictioni.",
+      "eng": "Asia has received us splendidly. Our arrival has put no one, not even the least, to expense. I hope my whole household is serving my good name. All the same I am in great fear --- but we have good hopes. All my people have now arrived except your Tullius. It was in my mind to set out straight for the army, to give the rest of the summer months to soldiering and the winter months to holding court.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "tu velim, si me nihilo minus nosti curiosum in re publica quam te, scribas ad me omnia quae sint, quae futura sint. nihil mihi gratius facere potes; nisi tamen id erit mihi gratissimum, si quae tibi mandavi confeceris imprimisque illud ἐνδόμυχον , quo mihi scis nihil esse carius. habes epistulam plenam festinationis et pulveris; reliquae subtiliores erunt.",
+      "eng": "I should be glad if you, knowing me to be no less curious about public affairs than yourself, would write me everything that is, everything that is to be. There is nothing you can do that would please me more --- unless it be this, that you finish off the business I gave you, and above all that inmost matter [Greek: endomychon], which you know I hold dearer than anything. There you have a letter full of haste and dust; the rest will be more nicely worked.",
+      "notes": null
+    }
+  ]
+}

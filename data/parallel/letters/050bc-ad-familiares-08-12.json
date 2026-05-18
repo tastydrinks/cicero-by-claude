@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-12",
+  "category": "letters",
+  "title_latin": "Ad Familiares 8.12",
+  "title_english": "Ad Familiares 8.12",
+  "date": "-0050-09-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "pudet me tibi confiteri et queri de Appi, hominis ingratissimi, iniuriis, qui me odisse, quia magna mihi debebat beneficia, coepit et, cum homo avarus ut ea solveret sibi imperare non posset, occultum bellum mihi indixit, ita occultum tamen ut multi mihi renuntiarent et ipse facile animadverterem male eum de me cogitare. postea quam vero comperi eum conlegium temptasse, deinde aperte cum quibusdam locutum, cum L. Domitio, ut nunc est, mihi inimicissimo homine, deliberare, velle hoc munusculum deferre Cn. Pompeio, ipsum reprenderem et ab eo deprecarer iniuriam, quem vitam mihi debere putaram, impetrare a me non potui.",
+      "eng": "It shames me to confess to you, and to complain to you, of the wrongs of Appius --- a most ungrateful man, who began to hate me because he owed me great kindnesses, and who, when as a man of avarice he could not bring himself to pay them, declared a secret war on me --- though secret in such a way that many men reported it to me, and I could easily see for myself that he was thinking ill of me. But when I learned for certain that he had been sounding out the augural college, and then was speaking openly with certain men, was holding counsel with L. Domitius (a man, as things stand, my bitterest enemy), and meant to make a present of this little gift to Cn. Pompey, then I went to find him, and to beg him off from doing me an injury, when I had thought him to owe me his very life --- and I could not get it out of him.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quid ergo est? tamen quasi aliquot amicis, qui testes erant meorum in illum meritorum, locutus sum. postea quam illum ne quoi satis faceret quidem me dignum habere sensi, malui conlegae eius, homini alienissimo mihi et propter amicitiam tuam non aequissimo, me obligare quam illius simiae vultum subire. id postquam resciit, excanduit et me causam inimicitiarum quaerere clamitavit, ut, si mihi in pecunia minus satis fecisset, per hanc speciem simultatis eum consectarer. postea non destitit accersere Polam Servium accusatorem, mire cum Domitio consilia.",
+      "eng": "What then? Even so I spoke to a number of friends, the witnesses to my services to him. After I had perceived that the man did not even hold me worthy of his giving satisfaction to anyone, I preferred to put myself under obligation to his colleague --- a man as remote from me as could be, and, on account of his friendship with you, not the best disposed to me --- rather than submit to the looks of that ape. When he found that out, he flared up and shouted that I was casting about for a ground of quarrel, so that, if he were to fail of satisfying me in the money matter, I should pursue him under this colour of feud. After that he was forever sending for Pola Servius to bring the prosecution, and laying his plots with Domitius in earnest.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quibus cum parum procederet ut ulla lege mihi ponerent accusatorem, compellari ea lege me voluerunt qua dicere non poterant ; insolentissimi homines summis Circensibus ludis meis postulandum me lege Scantinia curarunt. vix hoc erat Pola elocutus, cum ego Appium censorem eadem lege postulavi. quod melius caderet nihil vidi ; nam sic est a populo et non infimo quoque approbatum, ut maiorem Appio dolorem fama quam postulatio attulerit. praeterea coepi sacellum, in domo quod est, ab eo petere.",
+      "eng": "When they were getting nowhere in their attempt to set a prosecutor on me under any other law, they thought to indict me under the very one under which they had no case to bring: with monumental insolence the men saw to it that, at the height of my games at the Circus, I should be summoned under the Lex Scantinia (a statute against unnatural offences). Pola had scarcely uttered the indictment when I served Appius as censor with summons under the same law. Nothing could have fallen out better: for it has been so applauded by the people --- and not by the lowest sort either --- that the rumour of it has stung Appius worse than the summons itself. Besides, I have begun to demand of him the chapel that stands in his house.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "conturbat me mora servi huius qui tibi litteras attulit ; nam acceptis prioribus litteris amplius dies quadraginta mansit. quid tibi scribam nescio. scis Domitio comitiorum diem timori esse. te exspecto valde et quam primum videre cupio. A te peto ut meas iniurias proinde doleas, ut me existimas et dolere et ulcisci tuas solere.",
+      "eng": "The delay of this slave of mine who brought the letter to you puts me out: after he had received the earlier letters, he stayed on more than forty days. What I am to write to you I do not know. You know that Domitius is in dread of the day of the elections. I look for you eagerly and long to see you at the earliest. From you I ask this --- that you grieve for my wrongs as you reckon I am wont both to grieve for yours and to avenge them.",
+      "notes": null
+    }
+  ]
+}

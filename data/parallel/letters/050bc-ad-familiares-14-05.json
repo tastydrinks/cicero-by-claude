@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.5",
+  "title_english": "Ad Familiares 14.5",
+  "date": "-0050-10-16",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "si tu et Tullia, lux nostra, valetis, ego et suavissimus Cicero valemus. Pr. Idus Oct. Athenas venimus, cum sane adversis ventis usi essemus tardeque et incommode navigassemus. de nave exeuntibus nobis Acastus cum litteris praesto fuit uno et vicesimo die sane strenue. accepi tuas litteras, quibus intellexi te vereri ne superiores mihi redditae non essent. omnes sunt redditae diligentissimeque a te perscripta sunt omnia, idque mihi gratissimum fuit. neque sum admiratus hanc epistulam, quam Acastus attulit, brevem fuisse ; iam enim me ipsum exspectas sive nos ipsos, qui quidem quam primum ad vos venire cupimus, etsi in quam rem p. veniamus intellego. cognovi enim ex multorum amicorum litteris, quas attulit Acastus, ad arma rem spectare, ut mihi, cum venero, dissimulare non liceat quid sentiam. sed quoniam subeunda fortuna est, eo citius dabimus operam ut veniamus, quo facilius de tota re deliberemus. tu velim, quod commodo valetudinis tuae fiat, quam longissime poteris obviam nobis prodeas.",
+      "eng": "If you and Tullia, light of my life, are well, then I and our dearest Cicero are well. We came to Athens on the day before the Ides of October, having had thoroughly contrary winds and a slow and unpleasant crossing. As we were stepping off the ship Acastus was on hand with letters, on the twenty-first day --- briskly enough indeed. I have received your letter, from which I gather that you have been afraid the earlier ones were never delivered to me. All of them were delivered, and you have written everything out most carefully, and that has been most welcome to me. Nor was I surprised that this letter, which Acastus brought, was a short one; for by now you are expecting me in person, or rather us, who do wish to come to you as quickly as we can, even though I see well enough what sort of public situation I am coming back to. I have learned, from the letters of many friends which Acastus has brought, that the matter is tending toward arms, so that, when I arrive, it will not be open to me to dissemble what I feel. But since one's fortune must be faced, I shall press on the more quickly to get there, so that we may the more easily deliberate on the whole business. I should like you, so far as the state of your health allows, to come as far as you possibly can to meet me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de hereditate Preciana (quae quidem mihi magno dolori est valde enim illum amavi) sed hoc velim cures, si auctio ante meum adventum fiet, ut Pomponius aut, si is minus poterit, Camillus nostrum negotium curet; nos cum salvi venerimus, reliqua per nos agemus ; sin tu iam Roma profecta eris, tamen curabis ut hoc ita fiat. nos , si dii adiuvabunt, circiter Idus Nov. in Italia speramus fore. vos , mea suavissima et optatissima Terentia, si nos amatis, curate ut valeatis. vale . Athenis a. d. xvii K. Novemb.",
+      "eng": "On the Precius inheritance (which is in truth a great grief to me, for I loved the man dearly): I should like you to see to it, if the auction takes place before my arrival, that Pomponius --- or, if he is unable, then Camillus --- look after our business; once we have come home safe we shall handle the rest ourselves. If however you have already set out from Rome, you will see to it all the same that the matter is so handled. We hope, the gods helping, to be in Italy about the Ides of November. Take care, my sweetest and most-longed-for Terentia, if you love us, that you keep well. Farewell. Athens, the seventeenth day before the Kalends of November.",
+      "notes": null
+    }
+  ]
+}

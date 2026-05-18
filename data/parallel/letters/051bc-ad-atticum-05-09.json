@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-09",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.9",
+  "title_english": "Ad Atticum 5.9",
+  "date": "-0051-06-17",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Actium venimus a. d. xvii Kal. Quintilis , cum quidem et Corcyrae et Sybotis muneribus tuis quae et Araus et meus amicus Eutychides opipare et φιλοπροσηνέστατα nobis congesserant epulati essemus Saliarem in modum. Actio maluimus iter facere pedibus qui incommodissime navigassemus, et Leucatam flectere molestum videbatur, actuariis autem minutis Patras accedere sine impedimentis non satis visum est decorum. ego , ut saepe tu me currentem hortatus es, cotidie meditor, praecipio meis, faciam denique ut summa modestia et summa abstinentia munus hoc extraordinarium traducamus. Parthus velim quiescat et fortuna nos iuvet, nostra praestabimus.",
+      "eng": "We came to Actium on the seventeenth day before the Kalends of July, having feasted in Salian style at Corcyra and Sybota on your gifts, which both Araus and my friend Eutychides had heaped before us lavishly and [Greek: with the most welcoming hospitality]. From Actium we preferred to make our way on foot, having had a most uncomfortable sail; and to round Leucas seemed too tiresome, while to put in at Patrae on light skiffs without the baggage did not look quite seemly. As for myself --- as you have so often urged me on while I was already running --- every day I rehearse it, I lay it down to my people, I shall in the end so contrive it that we carry this extraordinary command through with the utmost restraint and the utmost abstinence. May the Parthian only stay quiet and fortune help us; for our own part we shall come up to the mark.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu quaeso quid agas, ubi quoque tempore futurus sis, qualis res nostras Romae reliqueris, maxime de X_X_ et D_C_C_C cura ut sciamus. id unis diligenter litteris datis quae ad me utique perferantur consequere. illud tamen, quoniam nunc abes cum id non agitur, aderis autem ad tempus, ut mihi recepisti, memento curare per te et per omnis nostros, in primis per Hortensium, ut annus noster maneat suo statu, ne quid novi decernatur. hoc tibi ita mando ut dubitem an etiam te rogem ut pugnes ne intercaletur. sed non audeo tibi omnia onera imponere; annum quidem utique teneto. Cicero meus, modestissimus et suavissimus puer, tibi salutem dicit. Dionysium semper equidem, ut scis, dilexi, sed cotidie pluris facio et me hercule in primis quod te amat nec tui mentionem intermitti sinit.",
+      "eng": "You, I beg you, see that we know what you are doing, where you will be and at what season, and in what state you have left our affairs at Rome --- and above all about the twenty thousand and the eight hundred. By one carefully entrusted letter, taken pains to reach me by all means, you can accomplish this. There is this too, since you are away just now when the question is not active, but you will be there when the moment comes, as you have undertaken to me --- remember to see to it, through yourself and through all our friends, and above all through Hortensius, that our year stands at its present term, and that nothing new be decreed. I lay this charge on you in such a way that I half-think to ask you besides to fight against any intercalation. But I do not dare to load every burden on you; the year, at any rate, hold fast. My Cicero --- a most modest and most charming boy --- sends you his greetings. Dionysius I have always, as you know, been fond of, but every day I think more of him, and indeed before all else because he loves you and lets no mention of you drop out.",
+      "notes": null
+    }
+  ]
+}

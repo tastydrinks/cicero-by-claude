@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-21",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.21",
+  "title_english": "Ad Atticum 11.21",
+  "date": "-0047-08-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "accepi vi Kal. Sept. litteras a te datas xii Kal. doloremque quem ex Quinti scelere iam pridem acceptum iam abieceram, lecta eius epistula gravissimum cepi. tu etsi non potuisti ullo modo facere ut mihi illam epistulam non mitteres, tamen mallem non esse missam. ad ea autem quae scribis de testamento, videbis quid et quo modo. de nummis et illa sic scripsit ut ego ad te antea, et nos, si quid opus erit, utemur ex eo de quo scribis.",
+      "eng": "On the sixth day before the Kalends of September I received a letter from you sent on the twelfth day before the Kalends, and the grief which I had long since taken from my brother Quintus's wickedness, and had already cast off, on reading his letter I took on again in its most crushing form. You, even if there was no way to avoid sending me that letter, I should still rather you had not sent. As to what you write about the will, you will see what is to be done and how. As for the money, she too has written what I wrote earlier to you, and we shall make use, if there is need of anything, of the source you mention.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ille ad Kal. Sept. Athenis non videtur fore. multa eum in Asia dicuntur morari, maxime Pharnaces. legio xii, ad quam primam Sulla venit, lapidibus egisse hominem dicitur. nullam putant se commoturam. illum arbitrabantur protinus Patris in Siciliam. sed si hoc ita est, huc veniat necesse est. ac mallem †illum†; aliquo enim modo hinc evasissem. nunc metuo ne sit exspectandum et cum reliquis etiam loci gravitas huic miserrimae perferenda.",
+      "eng": "He does not seem likely to be at Athens by the Kalends of September. Many things are said to be detaining him in Asia, Pharnaces above all. The twelfth legion, which Sulla approached first, is said to have driven the man off with stones. They reckon they will not stir a single legion. People used to expect him to go straight from Patrae to Sicily. But if that is true, he must come here. And I should have preferred \\dag the other course\\dag; for I should have got away from here somehow. As things stand, I am afraid I shall have to wait, and that, on top of all the rest, the foulness of this place too must be borne, wretched as my position is.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod me mones ut ea quae agam ad tempus accommodem, facerem, si res pateretur et si ullo modo fieri posset. sed in tantis nostris peccatis tantisque nostrorum iniuriis nihil est quod aut facere dignum nobis aut simulare possim. Sullana confers; in quibus omnia genere ipso praeclarissima fuerunt, moderatione paulo minus temperata. haec autem eius modi sunt ut obliviscar mei multoque malim quod omnibus sit melius quam quorum utilitatem meam iunxi. tu ad me tamen velim quam saepissime scribas eoque magis quod praeterea nemo scribit ac, si omnes, tuas tamen maxime exspectarem. quod scribis illum per me Quinto fore placatiorem, scripsi ad te antea eum statim Quinto filio omnia tribuisse, nostri nullam mentionem. vale .",
+      "eng": "As for your urging me to accommodate what I do to the moment --- I should, if the situation allowed it and if it could be done in any way at all. But amid my own great faults, and the great wrongs done me by my own people, there is nothing that I can either do worthy of myself or pretend to do. You bring in the precedents of Sulla's time: there everything was, in its kind, of the most distinguished sort, just tempered with somewhat less moderation. But the present circumstances are such that I forget myself, and would far rather what is better for everyone than the cause to whose advantage I have bound my own. All the same, I should like you to write to me as often as possible, the more so because no one else writes; and even if everyone did, it is yours I should be waiting for above all. As for your writing that he will be more reconciled to Quintus on my account, I wrote to you before --- he assigned everything to my brother Quintus's son on the spot, and made no mention of me. Farewell.",
+      "notes": null
+    }
+  ]
+}

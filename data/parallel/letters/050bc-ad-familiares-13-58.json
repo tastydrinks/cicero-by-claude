@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-58",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.58",
+  "title_english": "Ad Familiares 13.58",
+  "date": "-0050-02-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Custidius est tribulis et municeps et familiaris meus. is causam habet, quam causam ad te deferet. commendo tibi hominem, sic ut tua fides et meus pudor postulat, tantum ut facilis ad te aditus habeat, quae aequa postulabit ut libente te impetret, sentiatque meam sibi amicitiam, etiam cum longissime absim, prodesse, in primis apud te.",
+      "eng": "L. Custidius is my fellow tribesman, my fellow townsman, and a close friend. He has a case, which he will bring before you. I commend the man to you in such terms as your good faith and my own sense of restraint require: only that he have easy access to you, that whatever is fair he may obtain with your good will, and that he feel my friendship doing him good, even when I am far away, and most of all at your tribunal.",
+      "notes": null
+    }
+  ]
+}

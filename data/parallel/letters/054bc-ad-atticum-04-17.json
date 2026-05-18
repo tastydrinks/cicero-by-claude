@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-17",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.17",
+  "title_english": "Ad Atticum 4.17",
+  "date": "-0054-10-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "puto te existimare me nunc oblitum consuetudinis et instituti mei rarius ad te scribere quam solebam; sed quoniam loca et itinera tua nihil habere certi video, neque in Epirum neque Athenas neque in Asiam cuiquam nisi ad te ipsum proficiscenti dedi litteras. neque enim eae sunt epistulae nostrae quae si perlatae non sint nihil ea res nos offensura sit; quae tantum habent mysteriorum ut eas ne librariis quidem fere committamus, †lepidum quo excidat†.",
+      "eng": "I imagine you suppose that I have forgotten my custom and my settled rule, and that I am writing to you more rarely than I used to; but since I see that your whereabouts and your route are nothing certain, I have not given a letter for you, whether bound for Epirus or for Athens or for Asia, to anyone except a man going to you in person. For my letters are not of the sort that nothing will be lost on us if they fail to arrive; they carry such confidences in them that I scarcely entrust them even to my own copyists \\dots\\ [text corrupt].",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "consules flagrant infamia quod C. Memmius candidatus pactionem in senatu recitavit quam ipse et suus competitor Domitius cum consulibus fecisset uti ambo HS quadragena consulibus darent, si essent ipsi consules facti, nisi tris augures dedissent qui se adfuisse dicerent cum lex curiata ferretur quae lata non esset, et duo consularis qui se dicerent in ornandis provinciis consularibus scribendo adfuisse, cum omnino ne senatus quidem fuisset. haec pactio non verbis sed nominibus et perscriptionibus multorum tabulis cum esse facta diceretur, prolata a Memmio est nominibus inductis auctore Pompeio. hic Appius erat idem. nihil sane iacturae. corruerat alter et plane inquam iacebat.",
+      "eng": "The consuls are ablaze with scandal: the candidate C. Memmius has read out in the Senate the bargain he himself and his fellow-competitor Domitius had struck with the consuls --- that they would each pay the consuls 40,000 sesterces if they themselves were made consul, unless they could produce three augurs to swear they had been present when a lex curiata was passed, which had not in fact been passed, and two consulars to swear they had been present at the drafting of the decree on the consular provinces, when in truth there had been no meeting of the Senate at all. This compact, said to have been made not by mere words but by named sureties and by entries in many men's account-books, was brought forward by Memmius with the names inserted, on Pompey's urging. Appius here was the same man as ever. No loss to him, of course. The other had collapsed --- was, I tell you, flat on the ground already.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Memmius autem dirempta coitione invito Calvino plane refrixerat et eo magis nunc totus iacet quod iam intellegebamus enuntiationem illam Memmi valde Caesari displicere. Messalla noster et eius Domitius competitor liberalis in populo valde fuit. nihil gratius. certi erant consules. at senatus decrevit ut tacitum iudicium ante comitia fieret ab iis consiliis quae erant ex omnibus sortita in singulos candidatos. magnus timor candidatorum. sed quidam iudices, in his Opimius, Veiento, Rantius, tribunos pl. appellarunt, ne iniussu populi iudicarent. res cedit; comitia dilata ex senatus consulto dum lex de tacito iudicio ferretur. venit legi dies. Terentius intercessit. consules qui illud levi bracchio egissent rem ad senatum detulerunt. hic Abdera non tacente me. dices tamen tu non quiescis? ignosce , vix possum. verum tamen quid tam ridiculum? senatus decreverat ne prius comitia haberentur quam lex lata esset; si qui intercessisset, res integra referretur. coepta ferri leviter, intercessum non invitis, res ad senatum. de ea re ita censuerunt comitia primo quoque tempore haberi esse e re publica.",
+      "eng": "Memmius, with the coalition broken off against Calvinus's wishes, was simply going cold; and now he is wholly prostrate, all the more so because we were already aware that the disclosure had thoroughly displeased Caesar. Our Messalla, and his competitor Domitius, have been very liberal indeed to the people. Nothing more popular. They were certainties for the consulship. But then the Senate decreed that a silent verdict should be passed before the elections, on each candidate individually, by the panels drawn by lot from the whole body. Great alarm among the candidates. But certain of the jurors --- Opimius, Veiento, Rantius among them --- appealed to the tribunes, that they should not be required to render judgement without the people's order. The matter gives way; the elections are postponed by senatorial decree until the law on the silent verdict shall have been carried. The day for the law arrives. Terentius interposes his veto. The consuls, who had pushed the business through with a feeble hand, refer the matter to the Senate. At this point: ``Abdera!'' --- and not in silence on my part. You will say, ``So you cannot keep quiet?'' Forgive me, I can scarcely manage it. But really, what is more ridiculous? The Senate had decreed that the elections were not to be held before the law had been passed; that if anyone vetoed, the matter should come back open. The proposal is brought forward feebly, the veto is interposed without their displeasure, the matter goes back to the Senate. And on the question they then decreed that it was in the public interest for the elections to be held at the earliest possible time.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Scaurus qui erat paucis diebus illis absolutus, cum ego †patrem† eius ornatissime defendissem, obnuntiationibus per Scaevolam interpositis singulis diebus usque ad pr. Kal. Octobr., quo ego haec die scripsi, sublatis populo tributim domi suae satis fecerat. sed tamen etsi uberior liberalitas huius, gratior esse videbatur eorum qui occuparant. cuperem vultum videre tuum cum haec legeres; nam profecto spem habes nullam haec negotia multarum nundinarum fore. sed senatus hodie fuerat futurus, id est Kal. Octobribus; iam enim luciscit. ibi loquetur praeter Antium et Favonium libere nemo; nam Cato aegrotat. de me nihil timueris, sed tamen promitto nihil.",
+      "eng": "Scaurus, who a few days before had been acquitted (after I had defended his father most lavishly), had had obnuntiationes interposed through Scaevola on each successive day right up to the day before the Kalends of October --- the day on which I am writing this --- and once these were lifted he had courted the people tribe by tribe at his own house. Yet, even so, although his liberality was the more lavish, the gratitude felt seemed to go rather to those who had got in first. I should love to see your expression as you read this; for surely you have no hope at all that these affairs will be the business of many market-days yet. But the Senate was supposed to be sitting today, that is, on the Kalends of October; it is already growing light. There no one will speak freely save Antius and Favonius; for Cato is unwell. As for me, fear nothing --- though even so I promise nothing.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "quid quaeris aliud? iudicia , credo. Drusus, Scaurus non fecisse videntur. tres candidati fore rei putabantur, Domitius a Memmio, Messalla a Q. Pompeio Rufo, Scaurus a Triario aut a L. Caesare. quid poteris inquies pro iis dicere? ne vivam si scio; in illis quidem tribus libris quos tu dilaudas nihil reperio.",
+      "eng": "What else do you want to know? The trials, I imagine. Drusus and Scaurus appear not to have done it. Three of the candidates were thought to be on the point of being indicted: Domitius by Memmius, Messalla by Q. Pompeius Rufus, Scaurus by Triarius or by L. Caesar. What, you will ask, will you be able to say on their behalf? May I not live, if I know; in those three books of mine that you praise so highly I find nothing.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "cognosce cetera. ex fratris litteris incredibilia de Caesaris in me amore cognovi, eaque sunt ipsius Caesaris uberrimis litteris confirmata. Britannici belli exitus exspectatur; constat enim aditus insulae esse muratos mirificis molibus. etiam illud iam cognitum est neque argenti scripulum esse ullum in illa insula neque ullam spem praedae nisi ex mancipiis; ex quibus nullos puto te litteris aut musicis eruditos exspectare.",
+      "eng": "Hear the rest. From my brother's letter I have learned incredible things about Caesar's affection for me, and they have been confirmed by a most copious letter from Caesar himself. The outcome of the British war is awaited; for it is established that the approaches to the island are walled in with prodigious works. This too is now known: there is not a scruple of silver on that island, and no hope of plunder save from the slaves --- of whom I do not suppose you expect any to be schooled in letters or in music.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "Paulus in medio foro basilicam iam paene texerat isdem antiquis columnis, illam autem quam locavit facit magnificentissimam. quid quaeris? nihil gratius illo monumento, nihil gloriosius. itaque Caesaris amici, me dico et Oppium, dirumparis licet, in monumentum illud quod tu tollere laudibus solebas, ut forum laxaremus et usque ad atrium Libertatis explicaremus, contempsimus sexcenties HS; cum privatis non poterat transigi minore pecunia. efficiemus rem gloriosissimam; nam in campo Martio saepta tributis comitiis marmorea sumus et tecta facturi eaque cingemus excelsa porticu, ut mille passuum conficiatur. simul adiungetur huic operi villa etiam publica. dices quid mihi hoc monumentum proderit? † ad quid id laboramus res Romanas†. non enim te puto de lustro quod iam desperatum est, aut de iudiciis quae lege †Coctia† fiant quaerere.",
+      "eng": "Paulus in the middle of the Forum has now almost finished roofing his basilica with the same old columns; the other, however, which he has contracted out, he is building in the most magnificent style. Need I say more? Nothing more popular than that monument, nothing more glorious. So Caesar's friends --- I mean myself and Oppius, burst with envy as you may --- have thought nothing of pouring out sixty million sesterces on that monument which you used to praise to the skies, the one to widen out the Forum and to extend it all the way to the Atrium of Liberty; for with the private owners we could not settle for any less. We shall bring off a most glorious thing; for in the Campus Martius we are going to build the precincts for the tribal elections in marble and roof them in, and we will ring them with a high portico to make up a mile in circuit. To this same work the Villa Publica too will be joined. You will say, ``What good will this monument do me?'' \\dots\\ [text corrupt]. For I do not suppose you are asking about the lustrum, which is already despaired of, or about the trials being held under the lex Coctia [so the manuscripts; reading uncertain].",
+      "notes": null
+    }
+  ]
+}

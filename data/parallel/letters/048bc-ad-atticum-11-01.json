@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-01",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.1",
+  "title_english": "Ad Atticum 11.1",
+  "date": "-0048-01-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "accepi a te signatum libellum quem Anteros attulerat; ex quo nihil scire potui de nostris domesticis rebus. de quibus acerbissime adflictor quod qui eas dispensavit neque adest istic neque ubi terrarum sit scio. omnem autem spem habeo existimationis privatarumque rerum in tua erga me mihi perspectissima benevolentia. quam si his temporibus miseris et extremis praestiteris, haec pericula quae mihi communia sunt cum ceteris fortius feram; idque ut facias te obtestor atque obsecro.",
+      "eng": "I received from you the sealed packet that Anteros had brought; from it I was able to learn nothing about my household affairs. About these I am most bitterly tormented, because the man who managed them is neither there with you nor, so far as I know, anywhere on earth. The whole hope I have for my standing and my private affairs rests on the goodwill toward me which I have so thoroughly proved in you. If you sustain that goodwill in these wretched and final times, I shall bear the more bravely these dangers I share with everyone else; and that you should do this I beg and beseech you.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego in cistophoro in Asia habeo ad sestertium bis et viciens. huius pecuniae permutatione fidem nostram facile tuebere; quam quidem ego nisi expeditam relinquere me putassem credens ei cui tu scis iam pridem minime credere me debere , commoratus essem paulisper nec domesticas res impeditas reliquissem. ob eamque causam serius ad te scribo quod sero intellexi quid timendum esset. te etiam atque etiam oro ut me totum tuendum suscipias, ut, si ii salvi erunt quibuscum sum, una cum iis possim incolumis esse salutemque meam benevolentiae tuae acceptam referre.",
+      "eng": "I have on deposit in Asia, in cistophori, to the amount of twenty-two hundred thousand sesterces. By the transfer of this money you will easily protect my credit; and I should not have left it unsecured --- I trusted the man you know I have long had every reason not to trust --- had I not supposed I was leaving it in good order. I would have stayed a little longer and not left my household affairs in a tangle. And it is for this reason that I write to you so belatedly: I understood too late what there was to fear. Again and again I beg you to take me wholly into your protection, so that, if those with whom I am stand safe, I may stand safe along with them, and may owe my preservation to your goodwill.",
+      "notes": null
+    }
+  ]
+}

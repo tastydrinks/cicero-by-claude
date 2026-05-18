@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-23",
+  "category": "letters",
+  "title_latin": "Ad Atticum 7.23",
+  "title_english": "Ad Atticum 7.23",
+  "date": "-0049-02-09",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "v Idus Febr. vesperi a Philotimo litteras accepi Domitium exercitum firmum habere, cohortis ex Piceno Lentulo et Thermo ducentibus cum Domiti exercitu coniunctas esse, Caesarem intercludi posse eumque id timere, bonorum animos recreatos Romae, improbos quasi perculsos. haec metuo equidem ne sint somnia, sed tamen M'. Lepidum, L. Torquatum, C. Cassium tribunum pl. (hi enim sunt nobiscum, id est in Formiano) Philotimi litterae ad vitam revocaverunt. ego autem illa metuo ne veriora sint, nos omnis paene iam captos esse, Pompeium Italia cedere; quem quidem (o rem acerbam!) persequi Caesar dicitur. persequi Caesar Pompeium? quid? ut interficiat? o me miserum! et non omnes nostra corpora opponimus? in quo tu quoque ingemiscis. sed quid faciamus? victi , oppressi, capti plane sumus.",
+      "eng": "On the fifth day before the Ides of February, in the evening, I had a letter from Philotimus: that Domitius has a strong army, that cohorts from Picenum under Lentulus and Thermus have joined Domitius's force, that Caesar can be cut off and is in fear of it, that the spirits of the loyalists have been revived at Rome and the disloyal are as if stunned. These things, I am afraid, may be dreams; even so, Manius Lepidus, Lucius Torquatus, Gaius Cassius, tribune of the plebs --- these are with us, that is, at the Formian villa --- Philotimus's letter has called them back to life. As for me, I am afraid the other things are nearer the truth: that almost all of us are now as good as taken, that Pompey is quitting Italy --- whom (O the bitterness of it!) Caesar is said to be pursuing. Caesar pursuing Pompey? What for? To kill him? O wretched me! And do we not all of us throw our bodies in his way? At which you too groan. But what are we to do? We are beaten, crushed, taken outright.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego tamen Philotimi litteris lectis mutavi consilium de mulieribus. quas , ut scripseram ad te, Romam remittebam; sed mihi venit in mentem multum fore sermonem me iudicium iam de causa publica fecisse; qua desperata quasi hunc gradum mei reditus esse quod mulieres revertissent. de me autem ipso tibi adsentior, ne me dem incertae et periculosae fugae, cum rei publicae nihil prosim, nihil Pompeio; pro quo emori cum pie possum tum libenter. manebo igitur, etsi vivere—.",
+      "eng": "Still, on reading Philotimus's letter I have changed my mind about the women. As I had written to you, I was sending them back to Rome; but it came to me that it would be much talked of --- that I had now passed judgement on the public cause, and that, having despaired of it, this in effect was the first step of my own homecoming, that the women had gone back. As for myself, I agree with you: I should not commit myself to an uncertain and dangerous flight when I can do no good to the commonwealth and none to Pompey --- for whom I can die both with piety and with gladness. I shall stay, then; though to go on living ---.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod quaeris hic quid agatur, tota Capua et omnis hic dilectus iacet; desperata res est, in fuga omnes sunt, nisi qui deus iuverit ut Pompeius istas Domiti copias cum suis coniungat. sed videbamur omnia biduo triduove scituri. Caesaris litterarum exemplum tibi misi; rogaras enim. cui nos valde satis facere multi ad me scripserunt; quod patior facile, dum ut adhuc nihil faciam turpiter.",
+      "eng": "As to your question of what is happening here: all Capua and every levy here is on the floor; the cause is desperate; everyone is in flight, unless some god help us so that Pompey may join those forces of Domitius's to his own. But we seemed likely to know everything within two or three days. I have sent you a copy of Caesar's letter; you had asked for it. Many have written to me that I am very acceptable to him; which I am content to bear, so long as I do nothing disgraceful, as up to now.",
+      "notes": null
+    }
+  ]
+}

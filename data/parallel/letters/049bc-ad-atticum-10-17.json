@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-17",
+  "category": "letters",
+  "title_latin": "Ad Atticum 10.17",
+  "title_english": "Ad Atticum 10.17",
+  "date": "-0049-05-16",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Pr. Idus Hortensius ad me venit scripta epistula. † vellem cetera eius†, quam in me incredibilem ἐκτένειαν ! qua quidem cogito uti. deinde Serapion cum epistula tua. quam prius quam aperuissem, dixi ei te ad me de eo scripsisse antea, ut feceras. deinde epistula †scripta† cumulatissime cetera. et hercule hominem probo; nam et doctum et probum existimo; quin etiam navi eius me et ipso convectore usurum puto.",
+      "eng": "On the day before the Ides Hortensius came to me, my letter already written. \\dag\\ I could wish the rest of him matched it\\dag\\ --- but what extraordinary devotion he shows me, [Greek: ekten\\=eian], eagerness; and I do mean to make use of it. Then Serapion came in with your letter. Before I opened it, I told him that you had written to me about him before, as you had. And then the letter \\dag did so\\dag\\ in the fullest possible terms. And by Hercules, I approve of the man; I take him to be both learned and honest. I think, in fact, that I shall make use of his ship, and of him as my fellow-passenger.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "crebro refricat lippitudo non illa quidem perodiosa sed tamen quae impediat scriptionem meam. valetudinem tuam iam confirmatam esse et a vetere morbo et a novis temptationibus gaudeo.",
+      "eng": "The inflammation of the eyes keeps flaring up afresh --- not unbearably, but enough to hamper my writing. I am glad your health is now firmly restored, both from the old illness and from the new bouts.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Ocellam vellem haberemus; videntur enim esse haec paulo faciliora futura . nunc quidem aequinoctium nos moratur quod valde perturbatum erat. † id si cras† erit, utinam idem maneat Hortensius! si quidem, ut adhuc erat, liberalius esse nihil potest.",
+      "eng": "I wish we had Ocella with us; matters here seem likely to be a little easier from now on. As things stand, what holds us up is the equinox, which has been very rough. \\dag If it settles tomorrow,\\dag\\ I hope Hortensius continues as he is; for nothing could be more generous than he has been so far.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de diplomate admiraris quasi nescio cuius te flagiti insimularim. negas enim te reperire qui mihi id in mentem venerit. ego autem, quia scripseras te proficisci cogitare (etenim audieram nemini aliter licere), eo te habere censebam et quia pueris diploma sumpseras. habes causam opinionis meae. et tamen velim scire quid cogites in primisque si quid etiam nunc novi est. xvii K. Iun.",
+      "eng": "About the warrant, you are astonished, as though I had accused you of some scandal or other. You say you cannot guess what put it into my head. Well: because you had written that you were thinking of setting out (and I had heard that no one was permitted to do so on any other terms), I took it for granted that you had one; and also because you had drawn one for your slaves. There you have the basis of my opinion. Even so, I should like to know what you are thinking, and especially anything new even now. The seventeenth day before the Kalends of June.",
+      "notes": null
+    }
+  ]
+}

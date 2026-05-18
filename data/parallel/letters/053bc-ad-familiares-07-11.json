@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-11",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.11",
+  "title_english": "Ad Familiares 7.11",
+  "date": "-0053-01-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Nisi ante Roma profectus esses, nunc eam certe relinqueres; quis enim tot interregnis iure consultum desiderat? ego omnibus, unde petitur, hoc consili dederim, ut a singulis interregibus binas advocationes postulent. satisne tibi videor abs te ius civile didicisse?",
+      "eng": "If you had not already set out from Rome, you would certainly be leaving it now: who needs a jurist amid so many interregna? My own advice to all defendants would be this --- demand two adjournments from each interrex. Do I seem to have learned my civil law sufficiently from you?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed heus tu! quid agis? ecquid fit? video enim te iam iocari per litteras haec signa meliora sunt quam in meo Tusculano. sed quid sit scire cupio. consuli quidem te a Caesare scribis; sed ego tibi ab illo consuli mallem. quod si aut fit aut futurum putas, perfer istam militiam et permane; ego enim desiderium tui spe tuorum commodorum consolabor; sin autem ista sunt inaniora, recipe te ad nos. nam aut erit hic aliquid aliquando aut, si minus, una me hercule conlocutio nostra pluris erit quam omnes Samarobrivae. denique , si cito te rettuleris, sermo nullus erit; si diutius frustra afueris, non modo Laberium sed etiam sodalem nostrum Valerium pertimesco; mira enim persona induci potest Britannici iure consulti.",
+      "eng": "But come now! How are you doing? Is anything happening? For I see you are already cracking jokes by letter --- these signs are better than the statues in my Tusculan villa. But I want to know what your situation is. You write that Caesar is consulting you; I should have preferred that he were looking after you. If that is happening, or if you think it will, stick out your campaign and stay where you are: I will console myself for the loss of you with hope of your advantage. But if all that is rather hollow, take yourself back to us. For something here will turn up at some point; or, failing that, by Hercules a single conversation between us will be worth more than all the Samarobrivas. In short, if you bring yourself back quickly, there will be no talk; but if you stay away too long, and to no purpose, I am in fear not only of Laberius but of our comrade Valerius too --- for an astonishing character could be put on stage, the British jurisconsult.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "haec ego non rideo, quamvis tu rideas, sed de re severissima tecum, ut soleo, iocor. remoto ioco tibi hoc amicissimo animo praecipio, ut, si istic mea commendatione tuam dignitatem obtinebis, perferas nostri desiderium, honestatem et facultates tuas augeas, sin autem ista frigebunt, recipias te ad nos. omnia tamen quae vis et tua virtute profecto et nostro summo erga te studio consequere.",
+      "eng": "I am not laughing at this, however much you may laugh; I am joking with you, as I always do, about a thoroughly serious matter. Joking aside, I give you this counsel, with the most friendly intention: if out there, on my recommendation, you can hold on to your standing, then bear with our missing you, and increase your honour and your means; but if all that grows cold, take yourself back to us. Still, everything you wish for you will surely attain, both by your own merit and through my own utmost zeal on your behalf.",
+      "notes": null
+    }
+  ]
+}

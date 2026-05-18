@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-19",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.19",
+  "title_english": "Ad Atticum 4.19",
+  "date": "-0054-11-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "o exspectatas mihi tuas litteras! o gratum adventum! o constantiam promissi et fidem miram! o navigationem amandam! quam me hercule ego valde timebam recordans superioris tuae transmissionis δέρρεισ . sed nisi fallor citius te quam scribis videbo. credo enim te putasse tuas mulieres in Apulia esse. quod cum secus erit, quid te Apulia moretur? num Vestorio dandi sunt dies et ille Latinus ἀττικισμὸσ ex intervallo regustandus? quin tu huc advolas et invisis illius nostrae rei publicae †Germane putavi de nummis† ante comitia tributim uno loco divisis palam, inde absolutum Gabinium dictaturam †fruere iustitio et omnium rerum licentia†.",
+      "eng": "How I had longed for your letter! How welcome its arrival! What constancy of promise, what remarkable good faith! What a lovable voyage! --- one which, by Hercules, I had dreaded keenly, remembering the leather screens of your earlier crossing [Greek: derreis]. But unless I am mistaken I shall see you sooner than you write. For I believe you supposed your womenfolk to be in Apulia. Since that is otherwise, what is Apulia to detain you? Are days really to be granted to Vestorius, and that Latin Atticism [Greek: Attikismos] to be tasted again after so long an interval? Come, fly to us here and look in on the state of that commonwealth of ours --- $\\dagger$Germane putavi de nummis$\\dagger$ --- with the cash openly distributed before the elections tribe by tribe in one place, Gabinius thereupon acquitted, the dictatorship --- $\\dagger$fruere iustitio et omnium rerum licentia$\\dagger$.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "perspice aequitatem animi mei et †ludum et contemptionem Seleucianae provinciae† et me hercule cum Caesare suavissimam coniunctionem (haec enim me una ex hoc naufragio tabula delectat); qui quidem Quintum meum tuumque, di boni! quem ad modum tractat honore, dignitate, gratia! non secus ac si ego essem imperator. hiberna legionis eligendi optio delata commodum, ut ad me Quintus scribit. hunc tu non ames? quem igitur istorum? sed heus tu! scripseramne tibi me esse legatum Pompeio et extra urbem quidem fore ex Idibus Ianuariis ? visum est hoc mihi ad multa quadrare. sed quid plura? coram opinor reliqua, ut tu tamen aliquid exspectes. Dionysio plurimam salutem; cui quidem ego non modo servavi sed etiam aedificavi locum. quid quaeris? ad summam laetitiam meam quam ex tuo reditu capio magnus illius adventus cumulus accedet. quo die ad me venies, tu, si me amas, apud me cum tuis maneas.",
+      "eng": "Take note of my evenness of mind, and $\\dagger$ludum et contemptionem Seleucianae provinciae$\\dagger$, and, by Hercules, my most agreeable connection with Caesar --- for this is the one plank from the shipwreck that gives me pleasure; he indeed, on my Quintus and yours, good gods! how he handles him --- with honour, with rank, with favour! No differently than if I were the commander myself. The choice of winter quarters for the legion has just been handed to him, as Quintus writes to me. Are you not to love such a man? Whom then, of all those others? But listen --- had I written to you that I have been made a legate to Pompey, and shall in fact be outside the city from the Ides of January? This struck me as fitting to many considerations. But why more? The rest, I think, face to face, so that you have something still to look forward to. Give Dionysius my warmest greeting; for him I have not only kept but actually built up a position. In short: to the great happiness I take from your return, his coming will add a great heap on top. The day you come to me, if you love me, stay with me along with your people.",
+      "notes": null
+    }
+  ]
+}

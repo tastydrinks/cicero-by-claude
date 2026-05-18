@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-04",
+  "category": "letters",
+  "title_latin": "Ad Atticum 6.4",
+  "title_english": "Ad Atticum 6.4",
+  "date": "-0050-06-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Tarsum venimus Nonis Iuniis. ibi me multa moverunt, magnum in Syria bellum, magna in Cilicia latrocinia, mihi difficilis ratio administrandi, quod paucos dies habebam reliquos annui muneris, illud autem difficillimum, relinquendus erat ex senatus consulto qui praeesset. nihil minus probari poterat quam quaestor Mescinius. nam de Coelio nihil audiebamus. rectissimum videbatur fratrem cum imperio relinquere; in quo multa molesta, discessus noster, belli periculum, militum improbitas, sescenta praeterea. o rem totam odiosam! sed haec fortuna viderit, quoniam consilio non multum uti licet.",
+      "eng": "We came to Tarsus on the Nones of June. Many things weighed on me there: a great war in Syria, great brigandage in Cilicia, and for me a difficult task of administration --- because I had only a few days left of my year of office, and what was hardest of all: by the senate's decree someone had to be left in charge. Nothing could have been less approved than the quaestor Mescinius. As for Coelius, we were hearing nothing. It seemed most correct to leave my brother with the command; but in that there were many things to grieve --- our parting, the danger of the war, the unruliness of the soldiers, six hundred other things besides. What a hateful business altogether! But let fortune look to all this, since deliberation is not much allowed me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu quando Romam salvus ut spero venisti, videbis, ut soles, omnia quae intelleges nostra interesse, imprimis de Tullia mea, cuius de condicione quid mihi placeret scripsi ad Terentiam cum tu in Graecia esses; deinde de honore nostro. quod enim tu afuisti, vereor ut satis diligenter actum in senatu sit de litteris meis. illud praeterea μυστικώτερον ad te scribam, tu sagacius a odorabere. τῆσ δάμαρτόσ μου ὁ ἀπελεύθεροσ ( οἶσθα ὃν ) ἔδοξέ μοι πρώην, ἐξ ὧν ἀλογευόμενος παρεφθέγγετο, πεφυρακέναι τὰσ ψήφουσ ἐκ τῆσ ὠνῆσ τῶν ὑπαρχόντων τῶν τοῦ † νοήσῃς. † εἷσ δήπου . non queo tantum quantum vereor scribere; tu autem fac ut mihi tuae litterae volent obviae. haec festinans scripsi in itinere atque agmine. Piliae et puellae Caeciliae bellissimae salutem dices.",
+      "eng": "You, then, since by now you have come safe to Rome, as I hope, will see to it, as you always do, in everything that you know touches my interest --- above all about my Tullia, on whose match I wrote what I thought to Terentia while you were in Greece; and then about my own honour. For since you were away, I am afraid the matter of my despatch was not handled in the Senate with sufficient diligence. There is one further thing I shall write to you about [Greek: more in the mystery-key]; you, more keenly, will sniff it out. [Greek: My wife's freedman --- you know the one --- it seemed to me the other day, from what he was letting fall in his calculations, that he has been juggling the accounts in the matter of the purchase of the holdings of\\ldots that you may understand. One man, presumably.] I cannot write as much as I fear; but you --- see to it that your letters come flying to meet me. I have written this in haste, on the road and on the march. Give my best greetings to Pilia and the lovely little Caecilia.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-03",
+  "category": "letters",
+  "title_latin": "Ad Atticum 7.3",
+  "title_english": "Ad Atticum 7.3",
+  "date": "-0050-12-09",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A. d. viii Idus Decembr. Aeculanum veni et ibi tuas litteras legi quas Philotimus mihi reddidit. e quibus hanc primo aspectu voluptatem cepi quod erant a te ipso scriptae, deinde earum accuratissima diligentia sum mirum in modum delectatus. ac primum illud in quo te Dicaearcho adsentiri negas, etsi cupidissime expetitum a me est et te approbante ne diutius anno in provincia essem, tamen non est nostra contentione perfectum. sic enim scito, verbum in senatu factum esse numquam de ullo nostrum qui provincias obtinuimus quo in iis diutius quam ex senatus consulto maneremus, ut iam ne istius quidem rei culpam sustineam quod minus diu fuerim in provincia quam fortasse fuerit utile.",
+      "eng": "On the eighth day before the Ides of December I came to Aeculanum, and there I read the letter of yours which Philotimus had delivered to me. From it I derived this pleasure at first glance --- that it was written in your own hand; and then I was wonderfully delighted by its most careful and exact diligence. First of all, that point on which you say you do not assent to Dicaearchus: although it was most eagerly desired by me, and with your approval, that I not stay in the province longer than a year, all the same it was not by my insistence that this was carried through. For know this: not one word was uttered in the Senate, about any of us who held provinces, that we should stay there longer than the decree of the Senate prescribed --- so that I do not even bear the blame for this, that I was in the province for a shorter time than perhaps would have been useful.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed quid si hoc melius? saepe opportune dici videtur ut in hoc ipso. sive enim ad concordiam res adduci potest sive ad bonorum victoriam, utriusvis rei me aut adiutorem velim esse aut certe non expertem; sin vincuntur boni, ubicumque essem, una cum iis victus essem. qua re celeritas nostri reditus ἀμεταμέλητοσ debet esse. quod si ista nobis cogitatio de triumpho iniecta non esset quam tu quoque approbas, ne tu haud multum requireres illum virum qui in sexto libro informatus est. quid enim tibi faciam qui illos libros devorasti? quin nunc ipsum non dubitabo rem tantam abicere, si id erit rectius. utrumque vero simul agi non potest et de triumpho ambitiose et de re publica libere. sed ne dubitaris quin quod honestius id mihi futurum sit antiquius.",
+      "eng": "But what if this is better? It often seems pertinent to say so, as in this very case. For if the matter can be brought either to concord or to a victory of the loyalists, in either outcome I should wish to be a helper, or at least not absent; but if the loyalists are beaten, wherever I might have been, I should have gone down with them. Therefore the speed of my return ought to be [Greek: a thing not to be regretted]. But if that notion about a triumph --- which you also approve --- had not been thrown in my way, you would by no means greatly miss that man portrayed in the sixth book. For what am I to do with you, who have devoured those books? Indeed, even now I shall not hesitate to throw so great a thing away, if that proves the more right course. The two cannot be pursued at once: a triumph by canvass, and the commonwealth in freedom. But do not doubt this: that whatever is the more honourable will be the more important to me.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "nam quod putas utilius esse vel mihi quod tutius sit vel etiam ut rei publicae prodesse possim, me esse cum imperio, id coram considerabimus quale sit. habet enim res deliberationem; etsi ex parte magna tibi adsentior. de animo autem meo erga rem publicam bene facis quod non dubitas, et illud probe iudicas nequaquam satis pro meis officiis, pro ipsius in alios effusione illum in me liberalem fuisse, eiusque rei causam vere explicas, et eis quae de Fabio Caninioque acta scribis valde consentiunt. quae si secus essent totumque se ille in me profudisset, tamen illa quam scribis custos urbis me praeclarae inscriptionis memorem esse cogeret nec mihi concederet ut imitarer Volcacium aut Servium quibus tu es contentus, sed aliquid nos vellet nobis dignum et sentire et defendere. quod quidem agerem, si liceret, alio modo ac nunc agendum est.",
+      "eng": "As for your view that it is more useful --- either, on my account, that it is safer, or so that I may be of service to the commonwealth --- for me to retain imperium, let us consider in person what that proposition is worth. The matter calls for deliberation; though in great part I agree with you. About my own disposition toward the commonwealth, you do well not to doubt it; and you judge rightly in this --- that in nothing like proportion to my services, in nothing like proportion to his own lavishness toward others, has he been generous to me; and you give the true reason. And what you write about the action concerning Fabius and Caninius squares with all this. Even were it otherwise, even had he poured himself out wholly upon me, still that ``guardian of the city'' you describe would compel me to remember her splendid inscription, and would not let me imitate Volcatius or Servius, with whom you are content, but would wish me to think and to defend something worthy of myself. That, indeed, I would do, were I permitted, in a different fashion from what is required now.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de sua potentia dimicant homines hoc tempore periculo civitatis. nam si res publica defenditur, cur ea consule isto ipso defensa non est? cur ego in cuius causa rei publicae salus consistebat defensus postero anno non sum? cur imperium illi aut cur illo modo prorogatum est? cur tanto opere pugnatum est ut de eius absentis ratione habenda decem tribuni pl. ferrent? his ille rebus ita convaluit ut nunc in uno civi spes ad resistendum sit; qui mallem tantas ei viris non dedisset quam nunc tam valenti resisteret.",
+      "eng": "It is for their own power that these men are fighting, at this time, with the state itself in danger. For if the commonwealth is being defended, why was it not defended under this very man's consulship? Why was I, in whose cause the safety of the commonwealth was at stake, not defended the following year? Why was his command prorogued --- and why was it prorogued in such a fashion? Why was it fought for so strenuously that the ten tribunes of the plebs should propose a measure to allow his candidacy in absentia? By these very things he has grown so strong that the hope of resistance now rests on a single citizen --- who, for my part, I had rather not given him such forces in the first place than now have to resist him at his full strength.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "sed quoniam res eo deducta est, non quaeram, ut scribis, ποῦ σκάφοσ τὸ τῶν Ἀτρειδῶν; mihi σκάφοσ unum erit quod a Pompeio gubernabitur. illud ipsum quod ais, quid fiet, cum erit dictum, dic, M. Tulli? — σύντομα Cn. Pompeio adsentior. ipsum tamen Pompeium separatim ad concordiam hortabor. sic enim sentio, maximo in periculo rem esse. vos scilicet plura qui in urbe estis. verum tamen haec video, cum homine audacissimo paratissimoque negotium esse, omnis damnatos, omnis ignominia adfectos, omnis damnatione ignominiaque dignos illac facere, omnem fere iuventutem, omnem illam urbanam ac perditam plebem, tribunos valentis addito C. Cassio, omnis qui aere alieno premantur, quos pluris esse intellego quam putaram (causam solum illa causa non habet, ceteris rebus abundat); hic omnia facere omnis ne armis decernatur, quorum exitus semper incerti, nunc vero etiam in alteram partem magis timendi. Bibulus de provincia decessit, Veientonem praefecit; in decedendo erit, ut audio, tardior. quem cum ornavit Cato, declaravit iis se solis non invidere quibus nihil aut non multum ad dignitatem posset accedere.",
+      "eng": "But since matters have come to this pass, I shall not ask, as you do, [Greek: Where is the ship of the Atridae?]; for me there will be one ship, that one which Pompey steers. As for what you ask --- ``what will be done, when it has been said, `Speak, Marcus Tullius!'\\,'' --- [Greek: in short], I assent to Gnaeus Pompey. But I shall, all the same, exhort Pompey himself in private to concord. For so I judge: the commonwealth is in the gravest danger. You no doubt see more, who are in the city. Yet this much I see: the business is with a man of the utmost audacity and readiness; that on his side are all the condemned, all the disgraced, all who deserve to be condemned and disgraced; nearly all the youth; all that ruined urban rabble; tribunes who are formidable, with Gaius Cassius added; everyone who is pressed by debt --- whom I now perceive to be more numerous than I had thought (a case is the one thing that side wants; everything else, it has in abundance). On this side, everything is being done to keep it from coming to arms --- the outcome of which is always uncertain, but now to be feared even on the other side as well. Bibulus has come away from his province and put Veiento in charge; in coming back, however, he will be the more leisurely, as I hear. When Cato dressed him up with the supplication, he made it plain that he envies only those to whom nothing, or not much, can be added in the way of standing.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "nunc venio ad privata; fere enim respondi tuis litteris de re publica et iis quas in suburbano et iis quas postea scripsisti. ad privata venio. unum etiam de Caelio tantum abest ut meam ille sententiam moveat ut valde ego ipsi quod de sua sententia decesserit paenitendum putem. sed quid est quod ei vici Luccei sint addicti? hoc te praetermisisse miror.",
+      "eng": "Now I come to private matters; for I have nearly answered your letters on the commonwealth --- both the one you wrote at the suburban villa and the one you wrote afterwards. To private matters, then. One more thing about Caelius. So far is he from moving my opinion, that I judge him strongly to be in need of regret for having shifted from his own. But what is it, that the blocks of Lucceius have been knocked down to him? I wonder you have passed this over.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "de Philotimo faciam equidem ut mones. sed ego mihi ab illo hoc tempore non rationes exspectabam quas tibi edidit, verum id reliquum quod ipse in Tusculano me referre in commentarium mea manu voluit quodque idem in Asia mihi sua manu scriptum dedit. id si praestaret, quantum mihi aeris alieni esse tibi edidit tantum et plus etiam mihi ipse deberet. sed in hoc genere, si modo per rem publicam licebit, non accusabimur posthac, neque hercule antea neglegentes fuimus sed amicorum multitudine occupati. ergo utemur, ut polliceris, et opera et consilio tuo nec tibi erimus, ut spero, in eo molesti.",
+      "eng": "About Philotimus, I shall do as you advise. But what I expected from him at this point was not the accounts which he has handed over to you, but that residual sum which at the Tusculan villa he insisted I enter into a memorandum-book in my own hand, and which the same man in Asia gave me written in his own hand. If he were to make that good, he himself would owe me as much as he has declared to you to be my debt, and more besides. But in this department, if only the commonwealth permits, I shall not be open to reproach hereafter --- nor, by Hercules, was I previously careless, but rather caught up in the throng of friends. So I shall use, as you promise, both your help and your counsel; and I shall not, I trust, be a burden to you in the matter.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "de serperastris cohortis meae nihil est quod doleas. ipsi enim se conlegerunt admiratione integritatis meae. sed me moverat nemo magis quam is quem tu neminem putas. idem et initio fuerat et nunc est egregius. sed in ipsa decessione significavit sperasse se aliquid et id quod animum induxerat paulisper non tenuit sed cito ad se rediit meisque honorificentissimis erga se officiis victus pluris ea duxit quam omnem pecuniam.",
+      "eng": "About the little crookbacks of my staff, there is no reason for you to be distressed. They straightened themselves out, in admiration of my integrity. But no one had moved me more than the one you reckon least of all. He had been outstanding both at the beginning and is so now. But in the very act of taking leave, he intimated that he had been hoping for something, and for a little while did not hold to that resolve he had taken --- but quickly came back to himself, and, won over by my most honourable conduct toward him, valued that more than any amount of money.",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "ego a Curio tabulas accepi quas mecum porto. Hortensi legata cognovi. nunc aveo scire quid hominis sit et quarum rerum auctionem instituat. nescio enim cur, cum portam Flumentanam Caelius occuparit, ego Puteolos non meos faciam.",
+      "eng": "I have received from Curius the accounts which I am bringing with me. I have learned Hortensius's bequests. Now I am eager to know what sort of man the heir is, and of what items he is arranging the auction. For I do not see why, when Caelius has seized the Flumentane Gate, I should not make Puteoli my own.",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "venio ad Piraeea, in quo magis reprehendendus sum quod homo Romanus Piraeea scripserim, non Piraeum (sic enim omnes nostri locuti sunt), quam quod addiderim in . non enim hoc ut oppido praeposui sed ut loco. et tamen Dionysius noster et qui est nobiscum Nicias Cous non rebatur oppidum esse Piraeea. sed de re videro. nostrum quidem si est peccatum, in eo est quod non ut de oppido locutus sum sed ut de loco secutusque sum non dico Caecilium, máne ut ex portu ín Piraeum (malus enim auctor Latinitatis est), sed Terentium cuius fabellae propter elegantiam sermonis putabantur a C. Laelio scribi, heri áliquot adulescéntuli coíimus in Piraéum, et idem, Mercátor hoc addébat, captam e Súnio. quod si δήμουσ oppida volumus esse, tam est oppidum Sunium quam Piraeus. sed quoniam grammaticus es, si hoc mihi ζήτημα persolveris, magna me molestia liberans.",
+      "eng": "I come to the Piraeea, in which I am rather to be censured for having, as a Roman, written Piraeea, not Piraeum (for so all our people have said), than for having added the preposition in. I did not prefix it as one does to a town, but as one does to a place. And nevertheless our friend Dionysius, and Nicias of Cos, who is with us, did not reckon the Piraeus to be a town. But that issue I shall look into. As for my own, if there has been a slip, it lies in this --- that I spoke of it not as one speaks of a town, but as one speaks of a place; and I followed --- I will not say Caecilius, ``in the morning, just out of harbour, to Piraeum'' (a poor authority for Latinity), but Terence, whose little plays were thought, on account of the elegance of their language, to be written by Gaius Laelius: ``yesterday some young men of us met together in Piraeum,'' and likewise, in the Mercator, he added: ``a captive from Sunium.'' So if we want the [Greek: demes] to be towns, then Sunium is as much a town as the Piraeus. But since you are the grammarian, if you settle this [Greek: investigation] for me you will free me from a great vexation.",
+      "notes": null
+    },
+    {
+      "loc": "11",
+      "section": 11,
+      "lat": "ille mihi litteras blandas mittit; facit idem pro eo Balbus. mihi certum est ab honestissima sententia digitum nusquam. sed scis illi reliquum quantum sit. Putasne igitur verendum esse ne aut obiciat id nobis aliquis, si languidius, aut repetat, si fortius? quid ad haec reperis? solvamus inquis. age , a Caelio mutuabimur. hoc tu tamen consideres velim; puto enim, in senatu si quando praeclare pro re publica dixero, Tartessium istum tuum mihi exeunti, iube sodes nummos curare.",
+      "eng": "He sends me flattering letters; Balbus does the same on his behalf. As for me, I am resolved not to budge a finger's breadth from the most honourable course. But you know how much is still outstanding on his account. Do you think, then, there is reason to fear that someone may either reproach us with it, if I am too soft, or recall it, if I am the more firm? What do you find for this? ``Let us pay it off,'' you say. Very well: I shall borrow from Caelius. But I would have you consider this, all the same; for I suppose, if ever I should speak splendidly in the Senate for the commonwealth, that Tartessian of yours will say to me as I leave, ``be a good fellow and see to the money.''",
+      "notes": null
+    },
+    {
+      "loc": "12",
+      "section": 12,
+      "lat": "quid superest? etiam . gener est suavis mihi, Tulliae, Terentiae. quantumvis vel ingeni vel humanitatis, †satis†; reliqua, quae nosti, ferenda. scis enim quos †aperierimus†. qui omnes praeter eum de quo per te egimus, †reum† me facerent. ipsis enim expensum nemo feret. sed haec coram; nam multi sermonis sunt. Tironis reficiendi spes est in M'. Curio, cui ego scripsi tibi eum gratissimum facturum. data v Idus Decembr. a Pontio ex Trebulano.",
+      "eng": "What remains? Just this. The son-in-law is delightful to me, to Tullia, to Terentia. As much as you please of cleverness or refinement; the rest, as you know, must be borne. For you know what sort of men we have laid ourselves open to. Every one of them, except the one we settled through you, would make me a defendant. For no one will record the payment as made out to them. But this in person; for it is matter for a long conversation. The hope of getting Tiro back on his feet lies with Manius Curius, to whom I have written that he will do you a great kindness. Sent on the fifth day before the Ides of December, from Pontius's place at Trebula.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-05",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.5",
+  "title_english": "Ad Atticum 5.5",
+  "date": "-0051-05-14",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "plane deest quod scribam; nam nec quod mandem habeo (nihil enim praetermissum est), nec quod narrem (novi enim nihil), nec iocandi locus est; ita me multa sollicitant. tantum tamen scito, Idibus Maiis nos Venusia mane proficiscentis has dedisse. eo autem die credo aliquid actum in senatu. sequantur igitur nos tuae litterae quibus non modo res omnis sed etiam rumores cognoscamus. eas accipiemus Brundisi; ibi enim Pomptinum ad eam diem quam tu scripsisti exspectare consilium est.",
+      "eng": "Plainly there is nothing to write; for I have neither anything to charge you with --- nothing has been left out --- nor anything to tell --- I know nothing new --- nor is this a place for joking, so many cares press on me. Yet know this much: on the Ides of May, as we were setting out from Venusia in the morning, we gave out this letter. On that day, I expect, some business was conducted in the Senate. So let your letters follow after us, so that we may know not only every matter but the rumours too. We shall receive them at Brundisium; for it is the plan to wait there for Pomptinus up to the day you have written.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nos Tarenti quos cum Pompeio διαλόγουσ de re publica habuerimus ad te perscribemus. etsi id ipsum scire cupio quod ad tempus recte ad te scribere possim, id est quam diu Romae futurus sis, ut aut quo dem posthac litteras sciam aut ne dem frustra. sed ante quam proficiscare, utique explicatum sit illud HS x_x_ et d_c_c_c_ . hoc velim in maximis rebus et maxime necessariis habeas, ut quod auctore te velle coepi adiutore adsequar.",
+      "eng": "The discussions [Greek: dialogous] I have at Tarentum with Pompey on the commonwealth I will write out for you in full. Although the very thing I want to know is: up to what point I can rightly write to you --- that is, how long you will be at Rome --- so that I may know either where to give the letters from now on, or not to give them in vain. But before you set out, let that matter of the twenty thousand and the eight hundred thousand sesterces in any case be wound up. I should be glad if you would hold this in the highest and most pressing rank of business: that what, on your urging, I have begun to want, by your help I may attain.",
+      "notes": null
+    }
+  ]
+}

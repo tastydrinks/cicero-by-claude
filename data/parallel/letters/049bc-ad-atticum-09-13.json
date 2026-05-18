@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-13",
+  "category": "letters",
+  "title_latin": "Ad Atticum 9.13",
+  "title_english": "Ad Atticum 9.13",
+  "date": "-0049-03-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "οὐκ ἔστ' ἔτυμοσ λόγοσ , ut opinor, ille de ratibus. quid enim esset quod Dolabella iis litteris quas iii Idus Martias a Brundisio dedit hanc quasi εὐημερίαν Caesaris scriberet, Pompeium in fuga esse eumque primo vento navigaturum? quod valde discrepat ab iis epistulis quarum exempla antea ad te misi. hic quidem mera scelera loquuntur; sed non erat nec recentior auctor nec huius quidem rei melior Dolabella.",
+      "eng": "The tale is not true [Greek: ouk \\'est' \\'etumos l\\'ogos], I think, that one about the rafts. For why would Dolabella write, in the letter he sent from Brundisium on the third day before the Ides of March, of this so-called fine day [Greek: euh\\=emer\\'ian] of Caesar's --- that Pompey was in flight, and would sail with the first wind --- which is utterly at odds with those letters whose copies I sent you earlier? Here, indeed, men talk nothing but villainy; but there could be no more recent authority, nor on this matter a better one, than Dolabella.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tuas xi K. accepi litteras quibus omnia consilia differs in id tempus cum scierimus quid actum sit. et certe ita est, nec interim potest quicquam non modo statui sed ne cogitari quidem. quamquam hae me litterae Dolabellae iubent ad pristinas cogitationes reverti. fuit enim pridie Quinquatrus egregia tempestas; qua ego illum usum puto.",
+      "eng": "On the eleventh day before the Kalends I received your letter in which you put all decisions off to the time when we shall know what has been done. And surely it is so; in the meanwhile nothing can be settled --- nor even thought through. And yet this letter of Dolabella's bids me return to my old reflections. For the day before the Quinquatria there was a magnificent storm-wind; that, I take it, is what Pompey made use of.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "συναγωγὴ consiliorum tuorum non est a me conlecta ad querelam sed magis ad consolationem meam. nec enim me tam haec mala angebant quam suspicio culpae ac temeritatis meae. eam nullam puto esse, quoniam cum consiliis tuis mea facta et consilia consentiunt. quod mea praedicatione factum esse scribis magis quam illius merito ut tantum ei debere viderer, est ita. ego illa extuli semper et eo quidem magis ne quid ille superiorum meminisse me putaret. quae si maxime meminissem, tamen illius temporis similitudinem iam sequi deberem. nihil me adiuvit cum posset; sed postea fuit amicus, etiam valde, nec quam ob causam plane scio. ergo ego quoque illi. quin etiam illud par in utroque nostrum, quod ab eisdem inlecti sumus. sed utinam tantum ego ei prodesse potuissem quantum mihi ille potuit! mihi tamen quod fecit gratissimum. nec ego nunc eum iuvare qua re possim scio nec, si possem, cum tam pestiferum bellum pararet, adiuvandum putarem.",
+      "eng": "Your collection [Greek: sunag\\=og\\'e] of counsels was gathered up by me not for complaint but rather for my own consolation. For not so much was I troubled by these present ills as by the suspicion of fault and rashness on my own side. I judge there has been none, since my actions and counsels agree with yours. As for your writing that it has come about more by my own proclamations than by his desert that I seem to owe him so much --- it is true. I have always cried up Caesar's services to me, and the more for this reason: that he might not think me to be remembering the older grievances. Yet even if I were remembering them most sharply, I should still by now have to follow the precedent of that time. He gave me no help when he could; yet afterwards he was a friend, even very much so, and quite why I do not plainly know. Therefore I in turn am his friend. There is even this further pairing between the two of us: that we were drawn in by the same men. But would that I had been able to do as much for him as he was able to do for me! Still, what he did was most welcome to me. And I do not now know in what way I could help him; nor, if I could, when he is preparing so destructive a war, should I think I ought to help him.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "tantum offendere animum eius hic manens nolo nec me hercule ista videre quae tu potes iam animo providere, nec interesse istis malis possem. sed eo tardior ad discedendum fui quod difficile est de discessu voluntario sine ulla spe reditus cogitare. nam ego hunc ita paratum video peditatu, equitatu, classibus, auxiliis Gallorum quos Matius ἐλάπιζεν , ut puto, sed certe dicebat peditum, equitum se polliceri sumptu suo annos decem. sed sit hoc λάπισμα ; magnas habet certe copias et habebit non Italiae vectigal sed civium bona. adde confidentiam hominis, adde imbecillitatem bonorum virorum qui quidem, quod illum sibi merito iratum putant, oderunt, ut tu scribis †ludum cc vellem scribis, quisnam hic significasset. sed et iste, quia† plus ostenderat quam fecit et vulgo illum qui amarunt non amant; municipia vero et rustici Romani illum metuunt, hunc adhuc diligunt. qua re ita paratus est ut, etiam si vincere non possit, quo modo tamen vinci ipse possit non videam. ego autem non tam γοητείαν huius timeo quam πειθανάγκην . αἱ γὰρ τῶν τυράννων δεήσεισ inquit Πλάτων oi)=sq' o(/ti memigme/nai a)na/gkais.",
+      "eng": "I only do not wish to offend him in spirit by staying here, nor, by Hercules, to see those things which you can already foresee in your mind; nor could I be present at those evils. But I have been the slower in withdrawing for this reason: that it is hard to think of a voluntary departure when there is no hope of return. For I see this man so equipped in infantry, cavalry, fleets, and the auxiliaries of the Gauls --- whom Matius was puffing up [Greek: el\\'apizen], I take it, though certainly he was saying so --- to be undertaking on his own resources, for ten years, the upkeep of his infantry and cavalry. But let that be exaggeration [Greek: l\\'apisma]; he has, for certain, great forces, and will have, not from any revenue of Italy but from citizens' property. Add to this the man's confidence; add the feebleness of the honest men, who, because they think he is rightly enraged at them, hate him --- as you write †I should have liked you to write, who it was you had in mind. But this man too, because† he had displayed more than he carried out, even those who loved him commonly love him no longer; the municipal towns, however, and the country gentry of Rome, fear that one and so far still hold this one dear. And so he is so well prepared that, even if he cannot win, I do not see how he himself can be beaten. As for me, I dread not so much his wizardry [Greek: go\\=ete\\'ian] as his compulsion-through-persuasion [Greek: peithan\\'ank\\=en]. For ``the requests of tyrants,'' says Plato, ``you know are mixed with compulsion'' [Greek: hai g\\`ar t\\^on tur\\'ann\\=on de\\'eseis... oisth' h\\'oti memigm\\'enai an\\'ankais].",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "illa ἀλίμενα video tibi non probari. quae ne mihi quidem placebant; sed habebam in illis et occultationem et ὑπηρεσίαν fidelem. quae si mihi Brundisi suppeterent, mallem; sed ibi occultatio nulla est. verum , ut scribis, cum sciemus.",
+      "eng": "Those harbourless coasts [Greek: al\\'imena] I see do not meet with your approval. Nor did they please me; but I had with them concealment, and a trustworthy service-crew [Greek: hup\\=eres\\'ian]. If those were to be had for me at Brundisium, I should prefer it; but there there is no concealment. Still, as you write, when we shall know.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "viris bonis me non nimis excuso. quas enim eos cenas et facere et obire scripsit ad me Sextus, quam lautas, quam tempestivas! sed sint quamvis boni, non sunt meliores quam nos. moverent me, si essent fortiores. de Lanuvino Phameae erravi; Troianum somniaveram. id ego volui Q. sed pluris est. istuc tamen cuperem emere, si ullam spem fruendi viderem.",
+      "eng": "To the honest men I do not too much excuse myself. The dinners that, as Sextus has written me, they give and attend --- how sumptuous, how seasonable! But let them be as honest as you please, they are no better than ourselves. They would move me if they were braver. About Phamea's place at Lanuvium I was mistaken; I had dreamed of one near Troia. That I did want for Quintus; but the price is higher. That property of yours, all the same, I should be glad to buy, if I saw any hope of enjoying it.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "nos quae monstra cotidie legamus intelleges ex illo libello qui in epistulam coniectus est. Lentulus noster Puteolis est, ἀδημονῶν is, ut Caesius narrat, quid agat. διατροπὴν Corfiniensem reformidat. Pompeio nunc putat satis factum, beneficio Caesaris movetur, sed tamen movetur magis prospectare.",
+      "eng": "What monstrosities we are reading every day, you will gather from the little booklet that has been thrown in with the letter. Our Lentulus is at Puteoli, at his wits' end [Greek: ad\\=emon\\^on], as Caesius reports, what to do. He dreads a repetition [Greek: diatrop\\'en] of the Corfinium business. By now he thinks Pompey has been done by enough; he is moved by Caesar's kindness; but still he is moved more by looking out for what is to come.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "tene haec posse ferre? omnia misera sed hoc nihil miserius. Pompeius N. Magium de pace misit et tamen oppugnatur. quod ego non credebam, sed habeo a Balbo litteras quarum ad te exemplum misi. lege , quaeso, et illud infimum caput ipsius Balbi optimi, cui Gnaeus noster locum ubi hortos aedificaret dedit, quem cui nostrum non saepe praetulit? itaque miser torquetur. sed ne bis eadem legas, ad ipsam te epistulam reicio. spem autem pacis habeo nullam. Dolabella suis litteris iii Idus Mart. datis merum bellum loquitur. maneamus ergo in illa eadem sententia misera et desperata, quando hoc miserius esse nihil potest.",
+      "eng": "That you should be able to bear this! Everything wretched, but nothing more wretched than this. Pompey sent N.\\ Magius about peace, and even so is being besieged. This I did not believe; but I have a letter from Balbus, a copy of which I have sent you. Read, I beg you, the last paragraph by that excellent Balbus himself --- the man to whom our friend Cnaeus once gave a site to build pleasure-gardens on, whom Cnaeus did not often prefer to any one of us. So now the wretch is in agony. But not to make you read the same thing twice, I refer you to the letter itself. Of peace, however, I have no hope at all. Dolabella, in his letter sent on the third day before the Ides of March, talks unmixed war. Let us stay, then, in that same wretched and despairing mind, since nothing can be more wretched than this.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 8.3",
+  "title_english": "Ad Familiares 8.3",
+  "date": "-0051-06-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "estne ? vici et tibi saepe, quod negaras discedens curaturum tibi, litteras mitto? est , si quidem perferuntur, quas do. atque hoc eo diligentius facio quod, cum otiosus sum, plane ubi delectem otiolum meum non habeo. tu cum Romae eras, hoc mihi certum ac iucundissimum vacanti negotium erat, tecum id oti tempus consumere idque non mediocriter desidero, ut mihi non modo solus esse sed Romae te profecto solitudo videatur facta, et, qui, quae mea neglegentia est, multos saepe dies ad te, cum hic eras, non accedebam, nunc cotidie non esse te ad quem cursitem discrucior. maxime vero ut te dies noctesque quaeram competitor Hirrus curat. quo modo illum putas auguratus tuum competitorem dolere et dissimulare me certiorem quam se candidatum? de quo ut quem optas quam primum nuntium accipias, tua medius fidius magis quam mea causa cupio; nam mea, si fio, forsitan cum locupletiore referam; sed hoc usque eo suave est ut, si acciderit, tota vita risus nobis desse non possit. † sed tanti sed me hercules non multum M. Octavius eorum odia quae Hirrum premunt, quae permulta sunt, sublevat.",
+      "eng": "Well? Have I won? Am I now actually sending you the letters which on parting you said I would never trouble to send? I am --- at any rate provided that those I despatch get through. And I do this all the more diligently because, when I have time on my hands, I have no clear place to spend my modest little leisure. When you were at Rome, this was the fixed and most agreeable employment of my idle hours: to spend that leisure-time in your company. I miss it more than a little: it has come to feel to me as if not merely being alone, but Rome itself, has been made into a solitude by your departure; and where formerly, such is my carelessness, I would often go many days at a stretch without coming round to you when you were here, now I am tortured every day that you are not there for me to scurry over to. But it is above all my fellow-candidate Hirrus who sees to it that I miss you day and night. How sore do you think your rival for the augurate must be, and what a face he puts on his knowing that I am a stronger candidate than himself? On that score, so help me, I want you to hear the news you long for as quickly as possible more for your own sake than for mine; for if I succeed, I shall perhaps win an election in better-heeled company; but the other prospect is so sweet that, if it comes off, I shall not lack for laughter for the rest of my life. \\textdagger But it is worth that price\\textdagger; though, by Hercules, M. Octavius does not relieve very much the hatreds which press on Hirrus --- and there are a great many of them.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod ad Philotimi liberti officium et bona Milonis attinet, dedimus operam ut et Philotimus quam honestissime Miloni absenti eiusque necessariis satis faceret et secundum eius fidem et sedulitatem existimatio tua conservaretur.",
+      "eng": "As to the service due from your freedman Philotimus and the estate of Milo, I have taken care that Philotimus should give the most honourable possible satisfaction to Milo in his absence and to those connected with him, and that, in step with his good faith and zeal, your good name should be preserved.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "illud nunc a te peto, si eris, ut spero, otiosus, aliquod ad nos, ut intellegamus nos tibi curae esse, su/ntagma conscribas. ' qui tibi istuc,' inquis, 'in mentem venit, homini non inepto?' opto aliquod ex tam multis tuis monumentis exstare quod nostrae amicitiae memoriam posteris quoque prodat. cuius modi velim, puto, quaeris. tu citius, qui omnem nosti disciplinam, quod maxime convenit excogitabis, genere tamen quod et ad nos pertineat et didaskali/an quandam, ut versetur inter manus, habeat.",
+      "eng": "This now I beg of you: if, as I hope, you have leisure, compose some treatise for us, so that we may know that we are of some concern to you. ``How did that occur to you,'' you ask, ``not a foolish man?'' I should like there to survive, out of all your many monuments, some one work that may transmit the memory of our friendship to posterity also. Of what sort I want it, you ask, I imagine. You, who know every department of the discipline, will sooner think out the most fitting kind than I can; but let it be of a kind that pertains to us, and that has some [Greek: didaskalia] --- some instructional matter --- to keep it passing through people's hands.",
+      "notes": null
+    }
+  ]
+}

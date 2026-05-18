@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-14",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.14",
+  "title_english": "Ad Familiares 7.14",
+  "date": "-0053-07-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Chrysippus Vettius, Cyri architecti libertus fecit ut te non immemorem putarem mei; salutem enim verbis tuis mihi nuntiarat. valde iam lautus es qui gravere litteras ad me dare homini praesertim prope domestico. quod si scribere oblitus es, minus multi iam te advocato causa cadent si nostri oblitus es, dabo operam ut istuc veniam ante quam plane ex animo tuo effluo; sin aestivorum timor te debilitat, aliquid excogita, ut fecisti de Britannia.",
+      "eng": "Chrysippus Vettius, freedman of Cyrus the architect, has put me in mind that you are not forgetful of me: he had brought me your greetings in your own words. Very fine you have grown, that you find it a burden to send me a letter --- and to a man practically of your own household at that. But if you have forgotten how to write, the fewer suitors will be losing their cases now with you as their counsel; and if it is me you have forgotten, I shall make a point of coming out there before I drop clean out of your mind altogether. But if it is the fear of the summer campaigns that is wearing you down, contrive something --- as you did over Britain.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "illud quidem perlibenter audivi ex eodem Chrysippo, te esse Caesari familiarem; sed me hercule mallem, id quod erat aequius, de tuis rebus ex tuis litteris quam saepissime cognoscerem. quod certe ita fieret, si tu maluisses benevolentiae quam litium iura perdiscere. sed haec iocati sumus et tuo more et non nihil etiam nostro. te valde amamus nosque a te amari cum volumus tum etiam confidimus.",
+      "eng": "One thing I was very glad indeed to hear, from the same Chrysippus: that you are on familiar terms with Caesar. But I should have preferred --- as was only fair --- to learn of your affairs from your own letters, as often as could be. That is certainly what would happen if you had chosen to learn the law of friendship by heart, rather than the law of litigation. But we have been jesting in your way, and not a little in our own. We love you greatly, and that we are loved by you we both wish and indeed trust.",
+      "notes": null
+    }
+  ]
+}

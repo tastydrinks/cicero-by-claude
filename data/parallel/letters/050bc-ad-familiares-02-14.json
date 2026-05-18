@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-14",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.14",
+  "title_english": "Ad Familiares 2.14",
+  "date": "-0050-02-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "M. Fadio, viro optimo et homine doctissimo, familiarissime utor mirificeque eum diligo cum propter summum ingenium eius summamque doctrinam tum propter singularem modestiam. eius negotium sic velim suscipias, ut si esset res mea Novi ego vos magnos patronos; hominem occidat oportet, qui vestra opera uti velit. sed in hoc homine nullam accipio excusationem. omnia relinques, si me amabis, cum tua opera Fadius uti volet. ego res Romanas vehementer exspecto et desidero in primisque quid agas scire cupio; nam iam diu propter hiemis magnitudinem nihil novi ad nos adferebatur.",
+      "eng": "With Marcus Fadius, a most excellent man and a most learned one, I am on the closest terms; I value him marvellously, both for his great talent and great learning and for his singular modesty. His business please take up as if it were my own. I know you great patrons --- one has to commit murder before he can hope for your services. But in this man's case I take no excuse: you will drop everything, if you love me, whenever Fadius wants your help. I am eagerly awaiting news of Roman affairs and long for it; and above all I want to know what you are doing. For now, on account of the severity of the winter, nothing new has been brought to us for a long while.",
+      "notes": null
+    }
+  ]
+}

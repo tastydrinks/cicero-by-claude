@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.5",
+  "title_english": "Ad Familiares 2.5",
+  "date": "-0053-02-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "haec negotia quo modo se habeant, ne epistula quidem narrare audeo. tibi , etsi, ubicumque es, ut scripsi ad te ante, in eadem es navi, tamen, quod abes, gratulor, vel quia non vides ea quae nos, vel quod excelso et inlustri loco sita est laus tua in plurimorum et sociorum et civium conspectu, quae ad nos nec obscuro nec vario sermone, sed et clarissima et una omnium voce perfertur.",
+      "eng": "How matters here stand, I do not dare to recount even in a letter. For you, though --- granted that wherever you are, as I wrote to you before, you are in the same ship --- still, since you are away, I congratulate you: either because you do not see what we see, or because your good name is set up on a high and conspicuous footing, in the view of very many of our allies and citizens, and reaches us in no obscure or wavering talk, but in the clearest and single voice of them all.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "unum illud nescio, gratulerne tibi an timeam, quod mirabilis est exspectatio reditus tui, non quo verear ne tua virtus opinioni hominum non respondeat, sed me hercule ne, cum veneris, non habeas iam, quod cures; ita sunt omnia debilitata et iam prope exstincta. sed haec ipsa nescio rectene sint litteris commissa; qua re cetera cognosces ex aliis. tu tamen, sive habes aliquam spem de re publica sive desperas, ea para, meditare, cogita, quae esse in eo civi ac viro debent, qui sit rem publicam adflictam et oppressam miseris temporibus ac perditis moribus in veterem dignitatem et libertatem vindicaturus.",
+      "eng": "One thing alone I do not know: whether to congratulate you or to fear for you, that the expectation of your return is so extraordinary --- not because I am afraid that your virtue will not answer to men's opinion, but, by Hercules, that when you do arrive you may find nothing left to take in hand: so weakened, so nearly extinguished, is everything. But even these things I am not sure can rightly be entrusted to a letter; the rest, therefore, you will learn from others. You, however --- whether you have any hope of the commonwealth or are in despair --- prepare, rehearse, consider those qualities that ought to be in the citizen and the man who is to vindicate a commonwealth struck down and oppressed, in wretched times and ruined morals, back into its old dignity and freedom.",
+      "notes": null
+    }
+  ]
+}

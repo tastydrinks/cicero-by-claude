@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.2",
+  "title_english": "Ad Familiares 16.2",
+  "date": "-0050-11-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non queo ad te nec libet scribere quo animo sim adfectus ; tantum scribo et tibi et mihi maximae voluptati fore, si te firmum quam primum videro. Tertio die abs te ad Alyziam accesseramus (is locus est citra Leucadem stadia cxx); Leucade aut te ipsum aut tuas litteras a Marione putabam me accepturum. quantum me diligis, is tantum fac ut valeas, vel quantum te a me scis diligi. non . Nov. Alyzia.",
+      "eng": "I cannot bring myself to write, nor do I want to write, in what state of mind I am. I write only this: that it will be the greatest pleasure both to you and to me if I see you in good strength as soon as possible. On the third day after leaving you we reached Alyzia (the place is a hundred and twenty stadia this side of Leucas). At Leucas I expected to receive either you yourself or a letter from you through Marion. As much as you love me, so much take care to be well --- or as much as you know you are loved by me. The Nones of November, Alyzia.",
+      "notes": null
+    }
+  ]
+}

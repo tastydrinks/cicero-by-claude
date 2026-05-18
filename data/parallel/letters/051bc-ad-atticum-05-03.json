@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-03",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.3",
+  "title_english": "Ad Atticum 5.3",
+  "date": "-0051-05-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A. d. vi Idus Maias veni in Trebulanum ad Pontium. ibi mihi tuae litterae binae redditae sunt tertio abs te die. eodem autem exiens e Pompeiano Philotimo dederam ad te litteras; nec vero nunc erat sane quod scriberem. qui de re publica rumores scribe, quaeso; in oppidis enim summum video timorem sed multa inania. quid de his cogites et quando scire velim.",
+      "eng": "On the sixth day before the Ides of May I came to the Trebulan villa to Pontius's place. There a double letter from you was delivered to me, on the third day from your side. The same day, leaving the Pompeian estate, I had given Philotimus a letter for you; nor in fact is there now anything special to write about. The rumours, please, about the commonwealth --- write to me what they are. In the country towns I see the highest fear; but much of it is empty. What you yourself think about these things, and when, I should like to know.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ad quas litteras tibi rescribi velis nescio. nullas enim adhuc acceperam praeter quae mihi binae simul in Trebulano redditae sunt; quarum alterae edictum P. Licini habebant (erant autem Nonis Maiis datae), alterae rescriptae ad meas Menturnensis. quam vereor ne quid fuerit σπουδαιότερον in iis quas non accepi quibus rescribi vis! apud Lentulum ponam te in gratia.",
+      "eng": "To which letter you want me to reply, I do not know. For I had received none up to this point except the double one that was delivered to me at Trebula at one stroke; of these, one contained an edict of P. Licinius (it had been sent on the Nones of May), the other was the reply to my Minturnae letter. I am afraid there may have been something [Greek: spoudaioteron] --- more urgent --- in those I did not receive, the ones you want answered. I shall set you in good standing with Lentulus.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Dionysius nobis cordi est. Nicanor tuus operam mihi dat egregiam. iam deest quod scribam et lucet. Beneventi cogitabam hodie. nostra continentia et diligentia †esse satis faciemus satis. a Pontio ex Trebulano a. d. v Idus Maias.",
+      "eng": "Dionysius is dear to us. Your Nicanor is giving me outstanding service. There is nothing left now to write, and it is getting light. Beneventum is what I have in mind for today. By our own restraint and diligence $\\dagger$esse satis faciemus satis. From Pontius's at Trebula, on the fifth day before the Ides of May.",
+      "notes": null
+    }
+  ]
+}

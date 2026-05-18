@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-05",
+  "category": "letters",
+  "title_latin": "Ad Atticum 10.5",
+  "title_english": "Ad Atticum 10.5",
+  "date": "-0049-04-17",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de tota mea cogitatione scripsi ad te antea satis, ut mihi visus sum, diligenter. de die nihil sane potest scribi certi praeter hoc, non ante lunam novam.",
+      "eng": "About my whole train of thought I wrote to you earlier, carefully enough, as it seemed to me. About the day, nothing certain can possibly be written, save this: not before the new moon.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Curionis sermo postridie eandem habuit fere summam, nisi quod apertius significavit se harum rerum exitum non videre. quod mihi mandas de Quinto regendo, Ἀρκαδίαν . tamen nihil praetermittam. atque utinam tu—, sed molestior non ero. epistulam ad Vestorium statim detuli, ac valde requirere solebat.",
+      "eng": "Curio's conversation on the next day came to roughly the same total, except that he indicated more openly that he does not see the outcome of these affairs. As for what you charge me with about managing Quintus --- you are asking Arcadia of me [Greek: Arkadian]. Still, I shall pass over nothing. Would that you --- but I will not be more troublesome. The letter to Vestorius I delivered at once; he kept asking after it very pressingly.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Commodius tecum Vettienus est locutus quam ad me scripserat. sed mirari satis hominis neglegentiam non queo. cum enim mihi Philotimus dixisset se HS L_ emere de Canuleio deversorium illud posse, minoris etiam empturum si Vettienum rogassem, rogavi ut, si quid posset, ex ea summa detraheret. promisit . ad me nuper se HS X_X_X_ emisse; ut scriberem cui vellem addici; diem pecuniae Idus Novembr. esse. rescripsi ei stomachosius cum ioco tamen familiari. nunc quoniam agit liberaliter, nihil accuso hominem scripsique ad eum me a te certiorem esse factum. tu de tuo itinere quid et quando cogites velim me certiorem facias. A. d. xv K. Maias.",
+      "eng": "Vettienus spoke to you more handsomely than he had written to me. But I cannot wonder enough at the man's negligence. For when Philotimus had told me he could buy that lodging from Canuleius for fifty thousand sesterces, and could buy it even for less if I asked Vettienus, I asked him to take whatever he could off the sum. He promised. Recently he wrote that he had bought it for thirty thousand, and asked to whom I wished the property assigned; the day for payment was to be the Ides of November. I wrote back to him rather testily, but still with the banter of an old friend. Now, since he is dealing generously, I make no complaint against the man, and have written to him that I have been informed by you. As to your own journey --- what you have in mind and when --- please let me know. The fifteenth day before the Kalends of May.",
+      "notes": null
+    }
+  ]
+}

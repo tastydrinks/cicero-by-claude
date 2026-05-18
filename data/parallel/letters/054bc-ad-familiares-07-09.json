@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.9",
+  "title_english": "Ad Familiares 7.9",
+  "date": "-0054-09-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "iam diu ignoro quid agas; nihil enim scribis; neque ego ad te bis duobus mensibus scripseram. quod cum Quinto fratre meo non eras, quo mitterem aut cui darem nesciebam. cupio scire quid agas et ubi sis hiematurus; equidem velim cum Caesare, sed ad eum propter eius luctum nihil sum ausus scribere; ad Balbum tamen scripsi.",
+      "eng": "For a long time now I have had no idea what you are up to; for you write nothing, and I have not written to you in these last two months. Since you were not with my brother Quintus, I did not know where to send a letter or to whom to give one. I am eager to know what you are doing and where you will winter; for my part I should wish it to be with Caesar, but on account of his grief I have not ventured to write anything to him. To Balbus, however, I have written.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu tibi desse noli; serius potius ad nos, dum plenior. quod huc properes, nihil est, praesertim Battara mortuo. sed tibi consilium non dest. quid constitueris, cupio scire.",
+      "eng": "Do not fail yourself. Later to us, rather, and fuller for it. As for hurrying back here, there is no point in it, especially now that Battara is dead. But you do not lack judgement. I am eager to know what you decide.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Cn. Octavius est an Cn. Cornelius quidam, tuus familiaris, summo genere natus, terrae filius. is me quia scit tuum familiarem esse, crebro ad cenam invitat. adhuc non potuit perducere, sed mihi tamen gratum est.",
+      "eng": "There is a certain Cn. Octavius --- or is it Cn. Cornelius? --- a friend of yours, born of the highest family, a son of the earth. Because he knows I am a friend of yours, he is forever inviting me to dinner. So far he has not managed to bring it off, but I am grateful all the same.",
+      "notes": null
+    }
+  ]
+}

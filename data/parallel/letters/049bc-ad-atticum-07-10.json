@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-10",
+  "category": "letters",
+  "title_latin": "Ad Atticum 7.10",
+  "title_english": "Ad Atticum 7.10",
+  "date": "-0049-01-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "subito consilium cepi ut ante quam luceret exirem, ne qui conspectus fieret aut sermo, lictoribus praesertim laureatis. de reliquo neque hercule quid agam neque quid acturus sim scio; ita sum perturbatus temeritate nostri amentissimi consili. tibi vero quid suadeam quoius ipse consilium exspecto? Gnaeus noster quid consili ceperit capiatve nescio, adhuc in oppidis coartatus et stupens. omnes , si in Italia consistat, erimus una; sin cedet, consili res est. adhuc certe, nisi ego insanio, stulte omnia et incaute. tu , quaeso, crebro ad me scribe vel quod in buccam venerit.",
+      "eng": "On a sudden I have decided to leave before daybreak, so that no one shall set eyes on me and there shall be no talk --- given especially the laurelled lictors. As for what comes next, by Hercules I know neither what I am doing nor what I am about to do, so disordered am I by the recklessness of our most insensate counsel. What can I urge on you, when it is your own counsel I am waiting for? What course our Gnaeus has taken, or is about to take, I do not know --- penned up so far in the country towns, and stupefied. All of us, if he makes a stand in Italy, will be together; if he gives way, the matter becomes one for deliberation. So far, certainly, unless I am out of my mind, everything has been done foolishly and without forethought. Write to me, I beg you, and often --- even whatever first comes to mind.",
+      "notes": null
+    }
+  ]
+}

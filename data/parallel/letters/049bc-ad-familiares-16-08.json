@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-08",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.8",
+  "title_english": "Ad Familiares 16.8",
+  "date": "-0049-01-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "magnae nobis est sollicitudini valetudo tua. nam tametsi qui veniunt a)ki/nduna me\\n xroniw/tera de\\ nuntiant, tamen in magna consolatione ingens inest sollicitudo, si diutius a nobis afuturus es is, cuius usum et suavitatem desiderando sentimus. at tamen quamquam videre te tota cogitatione cupio, tamen te penitus rogo ne te tam longae navigationi et viae per hiemem nisi bene firmum committas neve naviges nisi explorate.",
+      "eng": "Your health is a great anxiety to us. For although those who come from you report it as ``free of danger, but slower to clear'' [Greek: akinduna men chroniotera de], even so, in the midst of that large consolation a vast anxiety remains, if you are to be away from us for any further time --- you, whose company and sweetness we know by missing them. And yet, although with my whole mind I long to see you, I most earnestly beg you not to commit yourself to so long a voyage and journey in winter unless you are quite strong, and not to put to sea unless the crossing is sure.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "vix in ipsis tectis et oppidis frigus infirma valetudine vitatur, nedum in mari et via sit facile abesse ab iniuria temporis. yu=xos de\\ leptw=| xrwti\\ polemiw/taton, inquit Euripides ; cui tu quantum credas nescio ; ego certe singulos eius versus singula eius testimonia puto. effice , si me diligis, ut valeas et ut ad nos firmus ac valens quam primum venias. ama nos et vale. Quintus f. tibi salutem dicit.",
+      "eng": "Within the very walls of houses and towns one barely keeps off the cold when the constitution is weak; far less, then, on the sea and the road is it easy to be free of the season's injury. [Greek: psuchos de leptoi chroti polemiotaton], ``cold is the bitterest enemy of a delicate skin'' --- so Euripides says; how much weight you give him I do not know, but for my own part I count every single one of his lines a single piece of testimony. See to it, if you love me, that you get well and come to us strong and sound as soon as you can. Love us, and farewell. Quintus the son sends you his greetings.",
+      "notes": null
+    }
+  ]
+}

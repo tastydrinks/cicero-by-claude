@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.9",
+  "title_english": "Ad Familiares 16.9",
+  "date": "-0050-11-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nos a te, ut scis, discessimus a. d. iiii Non. Nov. Leucadem venimus a. d. viii Id. Nov. , a. d. vii Actium. ibi propter tempestatem a. d. vi Id. morati sumus. Inde a. d. v Id. Corcyram bellissime navigavimus. Corcyrae fuimus usque ad a. d. xvi K. Dec. tempestatibus retenti. A. d. xv K. in portum Corcyraeorum ad Cassiopen stadia cxx processimus. ibi retenti ventis sumus usque ad a. d. viiii K. interea , qui cupide profecti sunt, multi naufragia fecerunt.",
+      "eng": "We parted from you, as you know, on the fourth day before the Nones of November. We reached Leucas on the eighth day before the Ides of November, Actium on the seventh. There we were held up by a storm on the sixth. From there, on the fifth, we made a beautiful crossing to Corcyra. We stayed at Corcyra until the sixteenth day before the Kalends of December, kept back by storms. On the fifteenth day before the Kalends we put out a hundred and twenty stades to the Corcyrean harbour at Cassiope. There we were held back by the winds until the ninth day before the Kalends. Meanwhile, many who had set out eagerly suffered shipwreck.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nos eo die cenati solvimus ; inde austro lenissimo caelo sereno nocte illa et die postero in Italiam ad Hydruntem ludibundi pervenimus eodemque vento postridie (id erat a. d. vii K. Dec. ) hora iiii Brundisium venimus, eodemque tempore simul nobiscum in oppidum introiit Terentia, quae te facit plurimi. A. d. v K. Dec. servus Cn. Planci Brundisi tandem aliquando mihi a te exspectatissimas litteras reddidit datas Idibus Nov., quae me molestia valde levarunt utinam omnino liberassent! sed tamen Asclapo medicus plane confirmat propediem te valentem fore.",
+      "eng": "We dined that day and weighed anchor; then, with the gentlest south wind and a clear sky, that night and the following day we came happily across to Italy, to Hydrus, and on the next day, with the same wind (it was the seventh day before the Kalends of December), at the fourth hour, we arrived at Brundisium. At that same moment Terentia, who thinks the world of you, came into the town along with us. On the fifth day before the Kalends of December, the slave of Gnaeus Plancius at Brundisium at long last delivered to me your most eagerly awaited letter, dated the Ides of November --- it has relieved me greatly of my distress; would it had freed me entirely! But still, Asclapo the doctor plainly assures me you will soon be well.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "nunc quid ego te horter ut omnem diligentiam adhibeas ad convalescendum? tuam prudentiam, temperantiam, amorem erga me novi ; scio te omnia facturum ut nobiscum quam primum sis, sed tamen ita velim, ut ne quid properes. symphoniam Lysonis vellem vitasses, ne in quartam hebdomada incideres ; sed quoniam pudori tuo maluisti obsequi quam valetudini, reliqua cura. Curio misi ut medico honos haberetur et tibi daret quod opus esset me cui iussisset curaturum. Ecum et mulum Brundisi tibi reliqui. Romae vereor ne e x K. Ian. magni tumultus sint. nos agemus omnia modice.",
+      "eng": "Now what call have I to urge you to use every diligence to get back your strength? I know your good sense, your self-discipline, your love for me; I know you will do everything to be with us as soon as possible. But I would have it so: that you not rush. I wish you had avoided Lyson's concert, lest you fall into a fourth-week relapse. But since you preferred to indulge your modesty rather than your health, the rest is up to your own care. I have written to Curius to see that the doctor is properly paid and to give you whatever you need; I shall reimburse him whatever sum he directs. I have left a horse and mule for you at Brundisium. At Rome, I am afraid that from the tenth day before the Kalends of January onward there will be great upheavals. We shall conduct ourselves in everything with moderation.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "reliquum est ut te hoc rogem et a te petam ne temere naviges (solent nautae festinare quaestus sui causa), cautus sis, mi Tiro (mare magnum et difficile tibi restat), si poteris, cum Mescinio (caute is solet navigare), si minus, cum honesto aliquo homine, cuius auctoritate navicularius moveatur. in hoc omnem diligentiam si adhibueris teque nobis incolumem steteris, omnia a te habebo. etiam atque etiam, noster Tiro, vale. Medico, Curio, Lysoni de te scripsi diligentissime. vale , salve.",
+      "eng": "It remains for me to ask you this and to beg it of you: do not sail rashly (sailors are apt to be in a hurry for their own profit), be careful, my dear Tiro --- a great and difficult sea still lies before you. If you can, sail with Mescinius (he is in the habit of sailing cautiously); if not, with some respectable person, of a standing that may move the captain. If you give every care to this, and present yourself to us safe and sound, I shall have everything from you. Once again, and again, my dear Tiro, farewell. I have written most attentively about you to your doctor, to Curius, and to Lyson. Farewell, and good health to you.",
+      "notes": null
+    }
+  ]
+}

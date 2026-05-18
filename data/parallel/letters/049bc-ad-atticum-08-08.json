@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 8.8",
+  "title_english": "Ad Atticum 8.8",
+  "date": "-0049-02-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "o rem turpem et ea re miseram! sic enim sentio, id demum aut potius id solum esse miserum quod turpe sit. aluerat Caesarem; eundem repente timere coeperat, condicionem pacis nullam probarat, nihil ad bellum pararat, urbem reliquerat, Picenum amiserat culpa, in Apuliam se compegerat, ibat in Graeciam, omnis nos ἀπροσφωνήτουσ , expertis sui tanti, tam inusitati consili relinquebat.",
+      "eng": "What a shameful business, and miserable on that very account! For so I feel: that what is miserable, in the end, or rather what alone is miserable, is what is shameful. He had fed Caesar up; the same man he had suddenly begun to fear; he had approved no terms of peace; he had made no preparation for war; he had abandoned the City; he had lost Picenum by his own fault; he had bottled himself up in Apulia; he was setting off for Greece, leaving all of us without a word of farewell [Greek: aprosphōnētous], with no share in a design of his so vast, so unprecedented.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ecce subito litterae Domiti ad illum, ipsius ad consules. fulsisse mihi videbatur τὸ καλὸν ad oculos eius et exclamasse ille vir qui esse debuit, πρὸσ ταῦθ' ὅ τι χρὴ καὶ παλαμάσθων καὶ πάντ' ἐπ' ἐμοὶ τεκταινέσθων: τὸ γὰρ εὖ μετ' ἐμοῦ. at ille tibi πολλὰ χαίρειν τῷ καλῷ dicens pergit Brundisium. Domitium autem aiunt re audita et eos qui una essent se tradidisse. o rem lugubrem! itaque intercludor dolore quo minus ad te plura scribam. tuas litteras exspecto.",
+      "eng": "And now suddenly --- letters from Domitius to him, his own to the consuls. It seemed to me that the honourable [Greek: to kalon] had flashed before his eyes, and that he, the man he ought to have been, had cried out: In the face of this, let them devise what they must and contrive every plot against me; for the right is with me [Greek: pros tauth' ho ti chrē kai palamasthōn kai pant' ep' emoi tektainesthōn: to gar eu met' emou]. But he, bidding the honourable a long farewell [Greek: polla chairein tō kalō], pushes on for Brundisium. Domitius, they say, on hearing the news, has given himself up, and the men who were with him as well. What a thing for mourning! And so grief blocks me from writing you more. I am waiting for your letters.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-14",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.14",
+  "title_english": "Ad Atticum 11.14",
+  "date": "-0047-04-26",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non me offendit veritas litterarum tuarum quod me cum communibus tum praecipuis malis oppressum ne incipis quidem, ut solebas, consolari faterisque id fieri iam non posse. nec enim ea sunt quae erant antea cum, ut nihil aliud, comites me et socios habere putabam. omnes enim Achaici deprecatores itemque in Asia quibus non erat ignotum, etiam quibus erat, in Africam dicuntur navigaturi. ita praeter Laelium neminem habeo culpae socium; qui tamen hoc meliore in causa est quod iam est receptus.",
+      "eng": "The truthfulness of your letter does not offend me --- that you do not even begin, as you used to, to console me, crushed as I am by ills both general and particular, and admit that this can no longer be done. For things are not as they were before, when, if nothing else, I supposed I had companions and partners. For all those in Achaia who were pleading for pardon, and likewise in Asia those who were not pardoned (and even those who were), are said to be on the point of sailing to Africa. So apart from Laelius I have no partner in my fault; and even he is in a better case, in that he has already been received back.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de me autem non dubito quin ad Balbum et ad Oppium scripserit; a quibus, si quid esset laetius, certior factus essem, tecum etiam essent locuti. quibuscum tu de hoc ipso conloquare velim et ad me quid tibi responderint scribas, non quod ab isto salus data quicquam habitura sit firmitudinis, sed tamen aliquid consuli et prospici poterit. etsi omnium conspectum horreo, praesertim hoc genero, tamen in tantis malis quid aliud velim non reperio.",
+      "eng": "As for me, I do not doubt he has written to Balbus and Oppius; and if anything more cheerful had come from them, I should have been informed, and they would also have spoken to you. I should like you to confer with them on this very point, and to write back to me what answer they give --- not because any deliverance granted from that quarter will have anything firm about it, but still some plan and provision can be made. Although I shudder at being seen by anyone, especially with this son-in-law of mine, still in such ills I can find nothing else to wish for.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Quintus pergit, ut ad me et Pansa scripsit et Hirtius, isque item Africam petere cum ceteris dicitur. ad Minucium Tarentum scribam et tuas litteras mittam; ad te scribam num quid egerim. HS x_x_x_ potuisse mirarer, nisi multa de Fufidianis praediis. † et advideo tamen exspecto†; quem videre, si ullo modo potest (poscit enim res), pervelim. iam extremum concluditur; †ibi facile est, quod quale sit hic gravius existimare†. vale .",
+      "eng": "Quintus is pressing on, as both Pansa and Hirtius have written to me, and he too is said to be making for Africa with the rest. I shall write to Minucius at Tarentum and send him your letter; I shall write to you what I have managed. I should be surprised that thirty thousand sesterces could be raised, were it not for the proceeds of the Fufidian estates. \\dag and yet I see... I am waiting\\dag; whom I want very much to see, if it is in any way possible (for the situation demands it). Now the final reckoning is closing in; \\dag there it is easy to judge, but how grave it is, here is harder to judge.\\dag\\ Farewell.",
+      "notes": null
+    }
+  ]
+}

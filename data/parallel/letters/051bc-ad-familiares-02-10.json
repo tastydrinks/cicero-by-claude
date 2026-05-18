@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-10",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.10",
+  "title_english": "Ad Familiares 2.10",
+  "date": "-0051-11-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "tu vide, quam ad me litterae non perferantur; non enim possim adduci ut abs te, postea quam aedilis es factus, nullas putem datas, praesertim cum esset tanta res tantae gratulationis, de te, quia quod sperabam, de Hillo (balbus enim sum), quod non putaram. atqui sic habeto, nullam me epistulam accepisse tuam post comitia ista praeclara, quae me laetitia extulerunt; ex quo vereor ne idem eveniat in meas litteras. equidem numquam domum misi unam epistulam quin esset ad te altera, nec mihi est te iucundius quicquam nec carius. sed (balbi non sumus) ad rem redeamus.",
+      "eng": "See how letters fail to reach me: I cannot be brought to think that you have sent none since you were made aedile, especially as there was such great matter for great congratulation --- about you, because what I had hoped for, about Hillus (for stammerer that I am), because what I had not. And so understand it thus: I have received no letter of yours since those splendid elections, which lifted me out of myself for joy. From which I am afraid the same is befalling my own letters. For my part I have never sent home a single letter without there being a second to you; and nothing is more pleasing or more dear to me than you. But (we are not stammerers) let us return to the matter.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ut optasti, ita est; velles enim, ais, tantum modo ut haberem negoti, quod esset ad laureolam satis, Parthos times, quia diffidis copiis nostris. ergo ita accidit; nam Parthico bello nuntiato locorum quibusdam angustiis et natura montium fretus ad Amanum exercitum adduxi satis probe ornatum auxiliis et quadam auctoritate apud eos, qui me non norant, nominis nostri; multum est enim in his locis: ' hicine est ille, qui urbem? quem senatus?' nosti cetera. Cum venissem ad Amanum, qui mons mihi cum Bibulo communis est divisus aquarum divertiis, Cassius noster, quod mihi magnae voluptati fuit, feliciter ab Antiochea hostem re iecerat, Bibulus provinciam acceperat.",
+      "eng": "As you wished, so it has come about. ``You should only wish,'' you said, ``that I have just enough on hand to bring me my little laurel,'' --- you fear the Parthians because you mistrust our forces. So it has fallen out. For when the Parthian war was reported, relying on certain narrow places and the nature of the mountains I led the army to the Amanus, well enough furnished with auxiliaries and with a certain authority among those who did not know me of our name; for it is much in those parts: ``Is this the man who saved the city? whom the Senate?...'' You know the rest. When I came to the Amanus --- which mountain I share with Bibulus, divided by the watershed --- our friend Cassius, much to my pleasure, had thrown the enemy back from Antioch with success, and Bibulus had received his province.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "interea cum meis copiis omnibus vexavi Amaniensis, hostis sempiternos; multi occisi, capti, reliqui dissipati; castella munita improviso adventu capta et incensa. ita victoria iusta imperator appellatus apud Issum, quo in loco, saepe ut ex te audivi, Clitarchus tibi narravit Dareum ab Alexandro esse superatum, abduxi exercitum ad infestissimam Ciliciae partem. ibi quintum et vicesimum iam diem aggeribus, viniis, turribus oppugnabam oppidum munitissimum, Pindenissum, tantis opibus tantoque negotio, ut mihi ad summam gloriam nihil desit nisi nomen oppidi.",
+      "eng": "In the meantime, with all my forces, I harried the Amanienses, our eternal enemies: many were killed, taken captive, the rest scattered; their strongholds, sound as they were, taken and fired by a sudden assault. Thus, after a real victory, I was hailed as imperator at Issus, in that place where, as I have often heard from you, Clitarchus told you Darius was overcome by Alexander, and I led the army away to the most hostile part of Cilicia. There I am now in the twenty-fifth day battering with mounds, mantlets, and towers a most strongly walled town, Pindenissus, with such resources and such effort that nothing is wanting to my crowning glory but the town's name.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quod si, ut spero, cepero, tum vero litteras publice mittam; haec ad te in praesenti scripsi, ut sperares te adsequi id, quod optasses. sed ut redeam ad Parthos, haec aestas habuit hunc exitum satis felicem; ea, quae sequitur, magno est in timore. qua re, mi Rufe, vigila, primum ut mihi succedatur ; sin id erit, ut scribis et ut ego arbitror, spissius, illud, quod facile est, ne quid mihi temporis prorogetur. de re publica ex tuis litteris, ut antea tibi scripsi, cum praesentia tum etiam futura magis exspecto. qua re, ut ad me omnia quam diligentissime perscribas, te vehementer rogo.",
+      "eng": "If, as I hope, I take it, then in earnest I shall send the official despatch; this present letter I write you so that you may hope to obtain what you wanted. But to come back to the Parthians: this summer has had a happy enough end; the next is in great fear. For which reason, my Rufus, be watchful: first, that a successor be sent me; if that proves, as you write --- and as I myself judge --- too slow in coming, then for the easier thing, that no prorogation of my time be added on. As for matters of state, from your letters, as I have written you before, I look forward more to what is to come than to what is now present. For which reason I beg you most earnestly to write me out every thing as carefully as may be.",
+      "notes": null
+    }
+  ]
+}

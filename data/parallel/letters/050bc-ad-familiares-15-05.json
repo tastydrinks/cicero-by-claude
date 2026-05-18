@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.5",
+  "title_english": "Ad Familiares 15.5",
+  "date": "-0050-04-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quod et res p. me et nostra amicitia hortatur, libenter facio ut tuam virtutem, innocentiam, diligentiam cognitam in maximis rebus domi togati, armati foris pari industria administrare gaudeam. itaque , quod pro meo iudicio facere potui, ut innocentia consilioque tuo defensam provinciam, servatum Ariobarzanis cum ipso rege regnum, sociorum revocatam ad studium imperi nostri voluntatem sententia mea et decreto laudarem, feci.",
+      "eng": "What both the public interest and our friendship urge upon me, I do gladly: I rejoice that the integrity, the unblemished conduct, the diligence which were known of you in matters of the highest weight at home, in civilian dress, you now administer with equal industry abroad under arms. Accordingly, so far as it lay in my power to act on my judgement, I gave you, both by my vote and by my expressed opinion, the praise that was due --- that by your unblemished conduct and counsel the province was defended, the kingdom of Ariobarzanes preserved together with the king himself, and the goodwill of our allies recalled to a zeal for our rule. That much I have done.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "supplicationem decretam, si tu, qua in re nihil fortuito sed summa tua ratione et continentia rei p. provisum est, dis immortalibus gratulari nos quam tibi referre acceptum mavis, gaudeo ; quod si triumphi praerogativam putas supplicationem et idcirco casum potius quam te laudari mavis, neque supplicationem sequitur semper triumphus, et triumpho multo clarius est senatum iudicare potius mansuetudine et innocentia imperatoris provinciam quam vi militum aut benignitate deorum retentam atque conservatam esse ; quod ego mea sententia censebam.",
+      "eng": "As for the decreed thanksgiving: if you would rather that we render thanks to the immortal gods for what was secured for the commonwealth by no chance but by your own supreme prudence and self-restraint, than that we credit the matter to your account --- then I am glad. But if you reckon a thanksgiving the foretaste of a triumph, and prefer for that reason that fortune be praised rather than yourself, then I have two things to say: a triumph does not always follow upon a thanksgiving; and it is a much more illustrious thing than a triumph for the Senate to give it as their judgement that a province has been held and kept safe by the mildness and unblemished conduct of its commander, rather than by force of soldiers or by the favour of the gods. That, in my own vote, is what I declared.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "atque haec ego idcirco ad te contra consuetudinem meam pluribus scripsi ut, quod maxime volo, existimes me laborare ut tibi persuadeam me et voluisse de tua maiestate quod amplissimum sim arbitratus et quod tu maluisti factum esse gaudere. vale et nos dilige et instituto itinere severitatem diligentiamque sociis et rei p. praesta.",
+      "eng": "And I have written this to you at greater length than is my custom for this reason: that --- which I most want --- you should reckon I am taking pains to persuade you both that I wished, in the matter of your honour, what I judged to be most ample, and that I rejoice that what you preferred has come to pass. Farewell, and have us in your affection; and on the journey you have set in train, maintain for our allies and for the commonwealth your strictness and your diligence.",
+      "notes": null
+    }
+  ]
+}

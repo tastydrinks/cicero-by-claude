@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.2",
+  "title_english": "Ad Familiares 13.2",
+  "date": "-0052-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "C. Avianio Evandro, qui habitat in tuo sacrario, et ipso multum utor et patrono eius M. Aemilio familiarissime. peto igitur a te in maiorem modum, quod sine tua molestia fiat, ut ei de habitatione accommodes. nam propter opera instituta multa multorum subitum est ei remigrare K. Quintilibus. impedior verecundia ne te pluribus verbis rogem ; neque tamen dubito quin, si tua nihil aut non multum intersit, eo sis animo, quo ego essem si quid tu me rogares. mihi certe gratissimum feceris.",
+      "eng": "C. Avianius Evander, who lives in your shrine-house, is a man I see a great deal of, and I am on the most familiar terms with his patron M. Aemilius. I therefore ask you in the strongest terms, so far as it can be done without trouble to you, to accommodate him in the matter of his lodging. Because so many works of so many people are already underway, it is an awkward thing for him to have to move out on the Kalends of July. Modesty prevents me from pressing you in more words; and yet I do not doubt that, if it is no concern of yours or only a slight one, you will be of the same mind that I would be of, if you were asking something of me. You will certainly do me a very welcome favour.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-13",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.13",
+  "title_english": "Ad Familiares 7.13",
+  "date": "-0053-03-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "adeone me iniustum esse existimasti ut tibi irascerer, quod parum mihi constans et nimium cupidus decedendi viderere, ob eamque causam me arbitrarere litteras ad te iam diu non misisse? mihi perturbatio animi tui, quam primis litteris perspiciebam, molestiam attulit; neque alia ulla fuit causa intermissionis epistularum, nisi quod ubi esses plane nesciebam. hic tu me etiam insimulas nec satisfactionem meam accipis ? audi , Testa mi: utrum superbiorem te pecunia facit, an quod te imperator consulit? moriar ni, quae tua gloria est, puto te malle a Caesare consuli quam inaurari. si vero utrumque est, quis te feret praeter me, qui omnia ferre possum?",
+      "eng": "Did you really think me so unjust as to be angry with you because you struck me as insufficiently steady and rather too eager to come home, and that this was the reason I had not written to you for so long? The agitation of mind which I perceived in your first letters distressed me; and there was no other cause for the lapse in my correspondence than that I plainly did not know where you were. And now you actually accuse me on top of it, and will not accept my explanation? Listen, my dear Testa: which is it that makes you so haughty --- your purse, or that the imperator consults you? May I die if I do not believe, knowing your taste in glory, that you would rather be consulted by Caesar than gilded by him. But if it is both at once, who will put up with you besides me, who can put up with anything?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed ut ad rem redeam, te istic invitum non esse vehementer gaudeo et, ut illud erat molestum, sic hoc est iucundum. tantum metuo ne artificium tuum tibi parum prosit; nam, ut audio, istic non ex iure manum consertum, sed magis ferro rem repetunt, et tu soles ad vim faciundam adhiberi, neque est quod illam exceptionem in interdicto pertimescas: 'QVOD TV PRIOR vi HOMINIBVS ARMATIS NON VENERIS'; scio enim te non esse procacem in lacessendo. sed ut ego quoque te aliquid admoneam de vestris cautionibus, Treviros vites censeo. audio capitalis esse; mallem 'aere, argento, auro' essent. sed alias iocabimur. tu ad me de istis rebus omnibus scribas velim quam diligentissime. D. IIII non . Mart",
+      "eng": "But to return to the matter at hand --- I am heartily glad that you are not unwilling to be out there; and just as your former mood was a trouble to me, so this one is a pleasure. My one fear is that your professional skill may be of little use to you out there; for, as I hear, in those parts they do not press claims by going to lay hand on the property in due legal form, but rather by the sword --- and you are not one who is usually called in to do violence. Nor is there any reason for you to dread that famous exception in the interdict, ``provided that you have not been the first to come with armed men and force''; for I know that you are not aggressive in giving provocation. But, to give you in turn a word of warning on those niceties of yours: I advise you to steer clear of the Treveri. I am told they are capital fellows; I should have preferred them to be only ``of bronze, silver, and gold.'' But we shall jest of these things another time. Do please write to me on all these matters as fully as you can. Dispatched the fourth day before the Nones of March.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-15",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.15",
+  "title_english": "Ad Atticum 5.15",
+  "date": "-0051-08-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Laodiceam veni pridie Kal. Sextilis. ex hoc die clavum anni movebis. nihil exoptatius adventu meo, nihil carius. sed est incredibile quam me negoti taedeat, non habeat satis magnum campum ille tibi non ignotus cursus animi et industriae meae, praeclara opera cesset. quippe , ius Laodiceae me dicere, cum Romae A. Plotius dicat, et, cum exercitum noster amicus habeat tantum, me nomen habere duarum legionum exilium? denique haec non desidero, lucem, forum, urbem, domum, vos desidero. sed feram ut potero, sit modo annuum. si prorogatur, actum est. verum perfacile resisti potest, tu modo Romae sis.",
+      "eng": "I reached Laodicea on the day before the Kalends of August. From this day on you may start clicking off the year. Nothing more longed-for than my arrival, nothing more welcome. But you would not believe how the business sickens me. That well-known galloping pace of mine in mind and effort --- you know it --- has not a field large enough to run in, and so the splendid work goes to waste. Of course --- that I should be giving judgments at Laodicea while A. Plotius gives them at Rome; that, while our friend has so big an army, I should hold the name only of two skeleton legions! And then again --- it is not these things I miss; I miss the daylight, the Forum, the City, my house, you. But I shall bear it as I can, provided only it stay a single year. If it is prorogued, it is finished. Yet it can perfectly well be resisted --- you have only to be at Rome.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quaeris quid hic agam. ita vivam ut maximos sumptus facio. mirifice delector hoc instituto. admirabilis abstinentia ex praeceptis tuis, ut verear ne illud quod tecum permutavi versura mihi solvendum sit. Appi vulnera non refrico, sed apparent nec occuli possunt. iter Laodicea faciebam a. d. iii Non. Sextilis , cum has litteras dabam, in castra in Lycaoniam. inde ad Taurum cogitabam, ut cum Moeragene signis collatis, si possem, de servo tuo deciderem. clítellae bovi súnt impositae; pláne non est nóstrum onus. sed feremus, modo, si me amas, sim annuus adsis tu ad tempus ut senatum totum excites. mirifice sollicitus sum quod iam diu mihi ignota sunt ista omnia. qua re ut ad te ante scripsi, cum cetera tum res publica cura ut mihi nota sit. plura scribam †tarde tibi redditu iri†, sed dabam familiari homini ac domestico, C. Andronico Puteolano. tu autem saepe dare tabellariis publicanorum poteris per magistros scripturae et portus nostrarum dioecesium.",
+      "eng": "You ask what I am doing here. I'll tell you: I am spending money on a vast scale. I am wonderfully taken with the rule. The abstinence enjoined by your precepts is admirable --- to the point that I fear what I obtained from you on exchange may have to be paid back by a new loan. I do not rub Appius's wounds open, but they are plain to see and cannot be hidden. I was on the march from Laodicea on the third day before the Nones of August, when I was posting this letter, into camp in Lycaonia. From there I was thinking to go to Taurus, so that I might settle, in pitched battle, if I could, with Moeragenes about your slave. The pack-saddle has been laid on the ox: the load is plainly not mine. Still, I will bear it, provided that, if you love me, I am a one-year man and you are on the spot when the time comes, to rouse the whole Senate. I am marvellously anxious because for so long now all those affairs of yours have been unknown to me. So, as I have written you before, take care that all the rest, and especially the state of the Republic, is known to me. I would write more, (of being slowly delivered to you) but I was posting with a familiar man, of my own household, C. Andronicus of Puteoli. You for your part will often be able to send by the letter-carriers of the publicans, through the masters of pasturage-dues and harbour-dues of our districts.",
+      "notes": null
+    }
+  ]
+}

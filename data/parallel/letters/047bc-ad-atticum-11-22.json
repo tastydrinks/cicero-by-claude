@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-22",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.22",
+  "title_english": "Ad Atticum 11.22",
+  "date": "-0047-09-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "diligenter mihi fasciculum reddidit Balbi tabellarius. accepi enim a te litteras quibus videris vereri ut epistulas illas acceperim. quas quidem vellem mihi numquam redditas; auxerunt enim mihi dolorem nec , si in aliquem incidissent, quicquam novi attulissent. quid enim tam pervulgatum quam illius in me odium et genus hoc litterarum? quod ne Caesar quidem ad istos videtur misisse, quasi qui illius improbitate offenderetur, sed, credo, uti notiora nostra mala essent. nam quod te vereri scribis ne illi obsint eique rei me vis mederi, ne rogari quidem se passus est de illo. quod quidem mihi molestum non est; illud molestius, istas impetrationes nostras nihil valere.",
+      "eng": "Balbus's courier delivered the packet to me promptly. I have received from you a letter in which you seem to be afraid that those letters of mine did not reach me. I only wish they never had been delivered; they have increased my pain, and even if they had fallen into someone else's hands they would have brought nothing new. For what is more common knowledge than his hatred of me and this whole style of letter? Not even Caesar appears to have sent these things on to your set as if he were offended by the fellow's baseness; rather, I suspect, to spread word of my troubles. As for what you write --- that you fear they may harm him, and you want me to do something to repair it --- Caesar did not even allow himself to be petitioned about him. That, in fact, does not distress me; what distresses me more is that these requests of mine carry no weight.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Sulla, ut opinor, cras erit hic cum Messalla. currunt ad illum pulsi a militibus qui se negant usquam, nisi acceperint. ergo ille huc veniet, quod non putabant, tarde quidem. itinera enim ita facit ut multos dies in †oppidum† ponat. Pharnaces autem, quoquo modo aget, adferet moram. quid mihi igitur censes? iam enim corpore vix sustineo gravitatem huius caeli quae mihi languorem adfert in dolore. an his illuc euntibus mandem ut me excusent, ipse accedam propius? quaeso , attende et me, quod adhuc saepe rogatus non fecisti, consilio iuva. scio rem difficilem esse, sed ut in malis etiam illud mea magni interest te ut videam. profecto aliquid profecero, si id acciderit. de testamento, ut scribis, animadvertes.",
+      "eng": "Sulla, I believe, will be here tomorrow with Messalla. They are running off to him --- driven there by the troops, who say they will not budge anywhere unless they have received their pay. So he will be coming this way, which is what they did not think, though slowly: for he travels in such a way as to spend many days in one \\dag town.\\dag\\ And Pharnaces, whatever way he handles things, will impose delay. What then is your advice? My body can scarcely now bear up against the oppressiveness of this climate, which adds languor to grief. Should I send a message of excuse by these people on their way to him, and approach nearer myself? Please, attend to this, and give me the help of your counsel, which up to now, though often asked, you have not given. I know the matter is hard, but as one of my miseries this too weighs much with me --- to see you. Surely I shall accomplish something if that happens. As to the will, you will see to it, as you write.",
+      "notes": null
+    }
+  ]
+}

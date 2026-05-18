@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-14",
+  "category": "letters",
+  "title_latin": "Ad Atticum 9.14",
+  "title_english": "Ad Atticum 9.14",
+  "date": "-0049-03-25",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "miseram ad te viiii K. exemplum epistulae Balbi ad me et Caesaris ad eum. ecce tibi eodem die Capua litteras accepi ab Q. Pedio Caesarem ad se pridie Idus Martias hoc exemplo: Pompeius se oppido tenet. nos ad portas castra habemus. conamur opus magnum et multorum dierum propter altitudinem maris. sed tamen nihil est quod potius faciamus. ab utroque portus cornu moles iacimus, ut aut illum quam primum traicere quod habet Brundisi copiarum cogamus aut exitu prohibeamus.",
+      "eng": "On the ninth day before the Kalends I sent you a copy of Balbus's letter to me and of Caesar's to him. Here, on the same day, I received a letter from Capua from Quintus Pedius, with Caesar's letter to him of the day before the Ides of March copied out in these terms: ``Pompey is keeping himself within the town. Our camp is at the gates. We are attempting a great work, the labour of many days, because of the depth of the sea; but still there is nothing better we could be doing. From each horn of the harbour we are throwing out moles, so as either to force him to ferry across what troops he has at Brundisium as soon as possible, or else to shut off his way out.''",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ubi est illa pax de qua Balbus scripserat torqueri se? ecquid acerbius, ecquid crudelius? atque eum loqui quidam αὐθεντικῶσ narrabat Cn. Carbonis, M. Bruti se poenas persequi omniumque eorum in quos Sulla crudelis hoc socio fuisset; nihil Curionem se duce facere quod non hic Sulla duce fecisset; †ad ambitionem†, quibus exsili poena superioribus legibus non fuisset, ab illo patriae proditores de exsilio reductos esse; queri de Milone per vim expulso; neminem tamen se violaturum nisi qui arma contra. haec Baebius quidam a Curione iii Id. profectus, homo non infans sed †quis ulli† non dicat. plane nescio quid agam. illim equidem Gnaeum profectum puto. quicquid est biduo sciemus. a te nihil ne Anteros quidem litterarum; nec mirum. quid enim est quod scribamus? ego tamen nullum diem praetermitto.",
+      "eng": "Where is that peace which Balbus wrote he was on the rack for? Could anything be more bitter, anything more cruel? And some fellow has been telling me that Caesar speaks straight out [Greek: authentik\\=os] of exacting vengeance for Cnaeus Carbo, for Marcus Brutus, and for all those on whom Sulla was cruel with this Pompey as his partner; that nothing he is doing with Curio as his agent has not been done before with Sulla as agent; that $\\dagger$by way of canvassing$\\dagger$ men for whom exile had not been the penalty under earlier laws have been recalled by him from exile as betrayers of their country; that he complains of Milo, driven out by violence; that he will lay a hand on no one, however, save those who bear arms against him. This is from a certain Baebius, who set out from Curio on the third day before the Ides --- not an inarticulate man, but $\\dagger$who would not say to anyone$\\dagger$ --- I plainly do not know what to do. From over there I take it Cnaeus has set out by now. Whatever the truth is, in two days we shall know. From you no letter, not even by Anteros; and no wonder. For what is there for us to write about? I, all the same, let no day slip by.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "scripta epistula litterae mihi ante lucem a Lepta Capua redditae sunt Idib. Mart. Pompeium a Brundisio conscendisse, at Caesarem a. d. vii Kal. Aprilis Capuae fore.",
+      "eng": "The letter written, a dispatch was put into my hand before daybreak from Lepta at Capua: that on the Ides of March Pompey had embarked from Brundisium, and that Caesar would be at Capua on the seventh day before the Kalends of April.",
+      "notes": null
+    }
+  ]
+}

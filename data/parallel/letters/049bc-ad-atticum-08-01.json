@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-01",
+  "category": "letters",
+  "title_latin": "Ad Atticum 8.1",
+  "title_english": "Ad Atticum 8.1",
+  "date": "-0049-02-16",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum ad te litteras dedissem, redditae mihi litterae sunt a Pompeio: cetera de rebus in Piceno gestis quae ad se Vibullius scripsisset, de dilectu Domiti, quae sunt vobis nota nec tamen tam laeta erant in iis litteris quam ad me Philotimus scripserat. ipsam tibi epistulam misissem sed iam subito fratris puer proficiscebatur. cras igitur mittam. sed in ea Pompei epistula erat in extremo ipsius manu, tu censeo Luceriam venias. nusquam eris tutius. id ego in eam partem accepi, haec oppida atque oram maritimam illum pro derelicto habere, nec sum miratus eum qui caput ipsum reliquisset reliquis membris non parcere.",
+      "eng": "After I had sent off my letter to you, a letter was delivered to me from Pompey: as to the rest, on the affairs in Picenum that Vibullius had written to him, on Domitius's levy, things which are known to you and which were yet not so cheerful in his letter as Philotimus had written to me. I should have sent you the letter itself, but my brother's boy was just on the point of setting off. I shall send it, then, tomorrow. But in that letter of Pompey's there was, at the end, in his own hand: ``you, I think, should come to Luceria. Nowhere will you be safer.'' I took this in the sense that he is treating these towns and the seacoast as good as abandoned, and I was not surprised that a man who had given up the head should not spare the remaining limbs.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ei statim rescripsi hominemque certum misi de comitibus meis, nec non quaerere ubi tutissimo essem; si me vellet sua aut rei publicae causa Luceriam venire, statim esse venturum; hortatusque sum ut oram maritimam retineret, si rem frumentariam sibi ex provinciis suppeditari vellet. hoc me frustra scribere videbam; sed uti in urbe retinenda tunc, sic nunc in Italia non relinquenda testificabar sententiam meam. sic enim parari video ut Luceriam omnes copiae contrahantur et ne is quidem locus sit stabilis sed ex eo ipso, si urgeamur, paretur fuga.",
+      "eng": "I wrote back to him at once, and sent a trusted man from my own retinue --- not failing to enquire where I should be safest; that if he wanted me, for his own sake or for the commonwealth's, to come to Luceria, I would come at once; and I urged him to hold the seacoast, if he wanted his grain supply to be furnished him from the provinces. This I saw I was writing in vain; but as on the holding of the city then, so now on Italy's not being abandoned, I was placing on record my own opinion. For I see the preparations being made are these: that all the forces are to be drawn together at Luceria, and that not even that place will be a stable one, but from there itself, if we are pressed, flight will be prepared.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quo minus mirere, si invitus in eam causam descendo in qua neque pacis neque victoriae ratio quaesita sit umquam sed semper flagitiosae et calamitosae fugae, eundum, ut quemcumque fors tulerit casum subeam potius cum iis qui dicuntur esse boni quam videar a bonis dissentire. etsi prope diem video bonorum, id est lautorum et locupletum, urbem refertam fore, municipiis vero his relictis refertissimam. quo ego in numero essem, si hos lictores molestissimos non haberem, nec me M'. Lepidi, L. Volcaci, Ser. Sulpici comitum paeniteret, quorum nemo nec stultior est quam L. Domitius nec inconstantior quam Ap. Claudius.",
+      "eng": "The less, then, should you wonder if I am going down unwillingly into a cause in which no calculation of peace or of victory has ever been sought, but always one of disgraceful and ruinous flight: I must go, that I may meet whatever event chance brings me with men who are called loyal, rather than be thought to dissent from the loyalists. And yet I see that very soon the city will be packed with loyalists --- that is, with the well-dressed and the well-to-do --- and, with these country towns abandoned, packed to the rafters. I should be of their number, if I did not have these most vexatious lictors, and if I were not ashamed of having M.~Lepidus, L.~Volcacius, and Ser.~Sulpicius as my companions --- of whom none is either more foolish than L.~Domitius or more inconstant than Ap.~Claudius.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "unus Pompeius me movet beneficio, non auctoritate. quam enim ille habeat auctoritatem in hac causa? qui, cum omnes Caesarem metuebamus, ipse eum diligebat, postquam ipse metuere coepit, putat omnis hostis illi esse oportere. ibimus tamen Luceriam. nec eum fortasse delectabit noster adventus; dissimulare enim non potero mihi quae adhuc acta sint displicere. ego si somnum capere possem, tam longis te epistulis non obtunderem. tu , si tibi eadem causa est, me remunerere sane velim.",
+      "eng": "Pompey alone moves me --- by past favour, not by authority. For what authority can he have in this cause? --- a man who, while all the rest of us were afraid of Caesar, was himself fond of him, and now, the moment he himself has begun to be afraid, thinks everyone else ought to be Caesar's enemy. We shall go to Luceria nonetheless. Nor will my arrival, perhaps, give him any pleasure; for I shall not be able to hide that what has been done up to now displeases me. If I could only get any sleep, I should not be wearying you with such long letters. If your own case is the same, you might very well pay me back in kind.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.5",
+  "title_english": "Ad Familiares 16.5",
+  "date": "-0050-11-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "vide quanta sit in te suavitas. duas horas Thyrrei fuimus. Xenomenes hospes tam te diligit quam si vixerit tecum. is omnia pollicitus est quae tibi essent opus ; facturum puto. mihi placebat, si firmior esses, ut te Leucadem deportaret, ut ibi te plane confirmares. videbis quid Curio, quid Lysoni, quid medico placeat. volebam ad te Marionem remittere quem, cum meliuscule tibi esset, ad me mitteres ; sed cogitavi unas litteras Marionem adferre posse, me autem crebras exspectare.",
+      "eng": "See what charm there is in you. We were two hours at Thyrreum. Your host Xenomenes is as fond of you as if he had lived with you all his life. He has promised everything you might need; I think he will do it. My own preference, if you should grow stronger, would be that he convey you down to Leucas, so that you might fully recover there. You will see what Curius thinks, and Lyso, and the doctor. I was going to send Marion back to you, with instructions that, when you were a little better, you should send him on to me. But it struck me that Marion could only deliver one letter, and what I want is letters from you in steady succession.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "poteris igitur et facies, si me diligis, ut cotidie sit Acastus in portu. multi erunt quibus recte litteras dare possis, qui ad me libenter perferant ; equidem Patras euntem neminem praetermittam. ego omnem spem tui diligenter curandi in Curio habeo. nihil potest illo fieri humanius, nihil nostri amantius. ei te totum trade. malo te paulo post valentem quam statim imbecillum videre. cura igitur nihil aliud nisi ut valeas ; cetera ego curabo. etiam atque etiam vale. Leucade so proficiscens vii Id. Nov.",
+      "eng": "You will be able, and you will see to it --- if you love me --- that Acastus is down at the harbour every day. There will be many men to whom you can properly give a letter, and who will gladly carry it on to me. For my own part, I shall let no one go past me bound for Patrae. My whole hope for your being carefully looked after rests in Curius. There can be no man more humane than he, no one fonder of us. Hand yourself over to him entire. I would rather see you well a little later than weak and ill at once. Take care for nothing, then, except that you get well; the rest I shall take care of myself. Once more, and again, farewell. The seventh day before the Ides of November, on the point of setting out from Leucas.",
+      "notes": null
+    }
+  ]
+}

@@ -28,6 +28,45 @@ chronology rule + parallel-session protocol below tell you how to
 slice assignments. PLAN.md tells you what surfaces to build
 toward.
 
+## Cowork operating model (read at every Cowork session start)
+
+`OPERATING_PLAN.md` is the binding multi-session plan. Read it
+after `STYLE.md`, `BRIEF.md`, this file, and `PROGRESS.md`'s
+"Where to resume now" section. It covers:
+
+- The per-session loop (read docs → pick batch → pre-fetch → dispatch
+  parallel workers → consolidate → update PROGRESS → stop on clean
+  boundary).
+- The multi-letter-per-agent dispatch pattern (each worker handles
+  3--5 short letters end-to-end, so the PM's context budget translates
+  to ~30 letters/session instead of ~5).
+- The phasing of remaining work (~80 sessions total: bulk letters →
+  substantial letters + minor speeches → major works → apparatus
+  enrichment → Tier 2 finish → final assembly).
+
+**Sandbox constraints to know:**
+- Cowork's sandbox has no SSH access to `origin`. `git fetch` and
+  `git push` both fail. The PM stages changes locally; Alexander
+  runs `bash scripts/cowork_handoff.sh "session N: …"` after each
+  session to land everything.
+- Cowork's sandbox cannot delete files. Avoid running `git status`
+  during a session (it creates a `.git/index.lock` that the sandbox
+  then can't unlink, blocking further git writes). Rely on
+  `validate.py` and file listings instead. The handoff script removes
+  the lock.
+- If `fetch_latin.py` produces wrong content (e.g., a Latin Library
+  fallback dumping a whole book file), overwrite the bad file with a
+  short `% PLACEHOLDER` stub explaining what happened; the handoff
+  script's cleanup step removes the stub on Alexander's side.
+
+**The handoff is one command for Alexander:**
+
+```bash
+bash scripts/cowork_handoff.sh "session N: brief description"
+```
+
+That handles lock cleanup, stub removal, staging, commit, and push.
+
 ## Required reading at session start
 
 Read these in order before writing a word of translation:

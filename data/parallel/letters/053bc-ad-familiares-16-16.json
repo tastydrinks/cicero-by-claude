@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-16",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.16",
+  "title_english": "Ad Familiares 16.16",
+  "date": "-0053-05-31",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de Tirone, mi Marce, ita te meumque Ciceronem et meam Tulliolam tuumque filium videam, ut mihi gratissimum fecisti, quom eum indignum illa fortuna ac nobis amicum quam servum esse maluisti. mihi crede, tuis et illius litteris perlectis exsilui gaudio et tibi et ago gratias et gratulor.",
+      "eng": "About Tiro, my dear Marcus --- so may I look upon you and my own Cicero and my Tulliola and your son! --- you have done me the most welcome thing in the world by preferring that he, unworthy of that station, should be our friend rather than our slave. Believe me, when I had read your letter and his through, I leapt for joy. I thank you, and congratulate you besides.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "si enim mihi Stati fidelitas est tantae voluptati, quanti esse in isto haec eadem bona debent additis litteris, et sermonibus humanitate, quae sunt his ipsis commodis potiora! amo te omnibus equidem de maximis causis, verum etiam propter hanc vel quod mihi sic ut debuisti nuntiasti. te totum in litteris vidi. Sabini pueris et promisi omnia et faciam.",
+      "eng": "For if the loyalty of my Statius is so great a pleasure to me, how much more valuable must those same qualities be in him, with letters added, and conversation, and the humanity that outweighs the rest of what he brings! I love you, surely, for all the greatest reasons, but for this one too --- and for the fact that you reported the news to me just as you should have. I saw the whole of you in your letter. To Sabinus's slave-boys I have promised everything, and I will see to it.",
+      "notes": null
+    }
+  ]
+}

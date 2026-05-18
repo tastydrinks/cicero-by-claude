@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.3",
+  "title_english": "Ad Familiares 15.3",
+  "date": "-0051-08-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum ad me legati missi ab Antiocho Commageno venissent in castra ad Iconium a. d. iii AS Sept. iique mihi nuntiassent regis Parthorum filium, quocum esset nupta regis Armeniorum soror, a d Euphratem cum maximis Parthorum copiis multarumque praeterea gentium magna manu venisse Euphratemque iam transire coepisse dicique Armenium regem in Cappadociam impetum esse facturum, putavi pro nostra necessitudine me hoc ad te scribere oportere.",
+      "eng": "When envoys sent by Antiochus of Commagene had come to me in camp near Iconium on the 30th of August, and had reported to me that the son of the king of the Parthians, to whom the sister of the king of the Armenians is married, had come to the Euphrates with the greatest forces of the Parthians and, in addition, a great band drawn from many tribes, and had now begun to cross the Euphrates, and that the king of the Armenians was said to be about to make an attack upon Cappadocia, I thought, in view of our close tie, that I ought to write to you of this.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "publice propter duas causas nihil scripsi, quod et ipsum Commagenum legati dicebant ad senatum statim nuntios litterasque misisse et existimabam M. Bibulum procos., qui circiter Idus Sext. ab Epheso in Syriam navibus profectus erat, quod secundos ventos habuisset, iam in provinciam suam pervenisse ; cuius litteris omnia certiora perlatum iri ad senatum putabam. mihi , ut in eius modi re tantoque bello, maximae curae est ut, quae copiis et opibus tenere vix possumus, ea mansuetudine et continentia nostra, sociorum fidelitate teneamus. tu velim, ut consuesti, nos absentis diligas et defendas.",
+      "eng": "Officially I have written nothing, for two reasons: because the envoys of the Commagenian himself said that he had at once sent his own messengers and a letter to the Senate, and because I judged that M. Bibulus the proconsul, who about the Ides of August had set sail from Ephesus for Syria, since he had had favourable winds, would now have reached his province; that, by his letter, fuller and surer report would be brought to the Senate. My own greatest care, in a matter of this kind and in so great a war, is that what we can scarcely hold by forces and resources we may hold by our mildness and self-restraint, and by the loyalty of the allies. I should be glad if you would, as has been your custom, hold in affection and defend the absent.",
+      "notes": null
+    }
+  ]
+}

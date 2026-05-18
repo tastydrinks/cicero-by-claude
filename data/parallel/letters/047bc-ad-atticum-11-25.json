@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-25",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.25",
+  "title_english": "Ad Atticum 11.25",
+  "date": "-0047-07-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "facile adsentior tuis litteris quibus exponis pluribus verbis nullum consistere consilium quo a te possim iuvari. consolatio certe nulla est quae levare possit dolorem meum. nihil est enim contractum casu (nam id esset ferendum), sed omnia fecimus iis erroribus et miseriis et animi et corporis quibus proximi utinam mederi maluissent! quam ob rem quoniam neque consili tui neque consolationis cuiusquam spes ulla mihi ostenditur, non quaeram haec a te posthac; tantum velim ne intermittas, scribas ad me quicquid veniet tibi in mentem cum habebis cui des et dum erit ad quem des; quod longum non erit.",
+      "eng": "I readily assent to your letter, in which you set out at length that no plan stands by which I can be helped by you. There is certainly no consolation that can lighten my grief. Nothing has been brought on by chance --- that would be bearable --- but everything we have done to ourselves, by errors and miseries of mind and body which I only wish those nearest to me had cared to remedy. Therefore, since no hope of counsel from you, or of consolation from anyone, is set before me, I shall not be asking these things of you hereafter; only do not break off --- write to me whatever comes into your mind, when you have someone to whom you can give the letter, and as long as there is someone to whom to send it; and that will not be long.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "illum discessisse Alexandria rumor est non firmus ortus ex Sulpici litteris; quas cuncti postea nuntii confirmarunt. quod verum an falsum sit, quoniam mea nihil interest, utrum malim nescio.",
+      "eng": "The rumour that he has set out from Alexandria first arose, not on firm ground, from a letter of Sulpicius; all the subsequent messengers have confirmed it. Whether it is true or false, since it makes no difference to me, I do not know which I should prefer.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod ad te iam pridem de testamento scripsi, apud †epistulas velim ut possim adversas.† ego huius miserrimae †facultate† confectus conflictor. nihil umquam simile atum puto. quoi si qua re consulere aliquid possum, cupi a te admoneri. video eandem esse difficultatem quam in consilio dando ante. tamen hoc me magis sollicitat quam omnia. in pensione secunda caeci fuimus. aliud mallem; sed praeteriit. te oro, ut in perditis rebus si quid cogi, confici potest quod sit in tuto, ex argento atque satis multa ex supellectile, des operam. iam enim mihi videtur adesse extremum nec ulla fore condicio pacis eaque quae sunt etiam sine adversario peritura. haec etiam, si videbitur, cum Terentia loquere opportune. non queo omnia scribere. vale . iii Non. Quintil.",
+      "eng": "As to what I wrote you long since about the will, \\dag I should wish that in the letters I might be able to face what is against me.\\dag\\ I am wrecked by this most wretched girl's \\dag situation,\\dag\\ and I am fighting against it. I think nothing was ever like it. If by anything I can take thought for her, I should like to be reminded by you. I see that the difficulty is the same as it was before about giving counsel; yet this disturbs me more than everything else. At the second installment we were blind. I should have wished otherwise; but it is past. I beg you, in our ruin, if anything can be gathered and got into safekeeping --- out of the silver, and a good deal too out of the furniture --- give your effort to it. For now the end seems to be on us, and there will be no terms of peace, and what we have will perish even without an enemy. Speak of these things, if it seems right, with Terentia at a fitting moment. I cannot write everything. Farewell. The third day before the Nones of Quintilis.",
+      "notes": null
+    }
+  ]
+}

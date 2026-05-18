@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-19",
+  "category": "letters",
+  "title_latin": "Ad Atticum 7.19",
+  "title_english": "Ad Atticum 7.19",
+  "date": "-0049-02-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nihil habeo quod ad te scribam qui etiam eam epistulam quam eram elucubratus ad te non dederim. erat enim plena spei bonae, quod et contionis voluntatem audieram et illum condicionibus usurum putabam, praesertim suis. ecce tibi iii Nonas Febr. inane accepi litteras tuas, Philotimi, Furni, Curionis ad Furnium, quibus inridet L. Caesaris legationem. plane oppressi videmur nec quid consili capiam scio. nec me hercule de me laboro, de pueris quid agam non habeo. Capuam tamen proficiscebar haec scribens quo facilius de Pompei rebus cognoscerem.",
+      "eng": "I have nothing to write to you about --- I who have not even sent you the letter I had burned the midnight oil over. For it was full of good hope, since I had heard the temper of the assembly, and was supposing that Caesar would make use of the terms, especially his own. And now, look: on the third day before the Nones of February I received your letter --- empty --- and letters from Philotimus, Furnius, and Curio to Furnius, in which he mocks Lucius Caesar's embassy. We seem plainly overwhelmed, nor do I know what plan to take up. Nor, by Hercules, am I concerned for myself; for the boys I do not have what I am to do. I was setting out, all the same, for Capua as I write this, so that I might more easily learn about Pompey's affairs.",
+      "notes": null
+    }
+  ]
+}

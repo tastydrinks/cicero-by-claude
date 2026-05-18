@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 3.5",
+  "title_english": "Ad Familiares 3.5",
+  "date": "-0051-07-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Trallis veni a. d. vi K. Sext. ibi mihi praesto fuit L. Lucilius cum litteris mandatisque tuis; quo quidem hominem neminem potuisti nec mihi amiciorem nec, ut arbitror, ad ea cognoscenda, quae scire volebam, aptiorem prudentioremve mittere. ego autem et tuas litteras legi libenter et audivi Lucilium diligenter. nunc , quoniam et tu ita sentis (scribis enim, quae de nostris officiis ego ad te scripserim, etsi tibi iucunda fuerint, tamen, quoniam ex alto repetita sint, non necessaria te putasse), et re vera con-firmata amicitia et perspecta fide commemoratio officiorum supervacanea est, eam partem orationis praetermittam, tibi tamen agam, ut debeo, gratias; animadverti enim et didici ex tuis litteris te omnibus in rebus habuisse rationem, ut mihi consuleres restitueresque et parares quodam modo omnia, quo mea ratio facilior et solutior esse posset.",
+      "eng": "I reached Tralles on the 27th of July. There L. Lucilius was waiting for me with your letter and your instructions; and indeed you could have sent no man more friendly to me, nor, in my judgement, better fitted or more discerning for finding out the things I wished to know. I read your letter with pleasure and listened to Lucilius carefully. Now, since you yourself feel as you do --- for you write that what I had written to you about our mutual good offices, though it gave you pleasure, you nonetheless thought unnecessary, since it had been fetched from so far back --- and since in truth, when a friendship is firmly established and good faith has been proven through and through, the rehearsing of good offices is superfluous, I shall pass over that part of my answer; thanks I shall nevertheless render you, as I ought; for I have noted, and have learned from your letter, that in every matter you have taken thought for me, with a view to consulting my interest and to restoring and in some manner preparing everything in such a way that my own administration might be the easier and the less encumbered.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "hoc tuum officium cum mihi gratissimum esse dicam, sequitur illud, ut te existimare velim mihi magnae curae fore atque esse iam, primum ut ipse tu tuique omnes, deinde ut etiam reliqui scire possint me tibi esse amicissimum. quod quibus adhuc non satis est perspectum, ii mihi nolle magis nos hoc animo esse quam non intellegere videntur; sed profecto intellegent, neque enim obscuris personis nec parvis in causis res agetur. sed haec fieri melius quam dici aut scribi volo.",
+      "eng": "While I say that this good office on your part is most welcome to me, what follows is this: that I should wish you to believe it will be a great care to me --- and is already --- that, first you yourself and all your people, and then the rest as well, may know that I am most attached to you. Those to whom this is not yet fully clear seem to me to be unwilling that we should feel as we do, rather than incapable of understanding it; but surely they will understand, for the business will be transacted with no obscure persons and on no small occasion. But I would rather have these things shown by deed than said or written.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod itinerum meorum ratio te non nullam in dubitationem videtur adducere, visurusne me sis in provincia, ea res sic se habet: Brundisi cum loquerer cum Phania, liberto tuo, veni in eum sermonem, ut dicerem me libenter ad eam partem provinciae primum esse venturum, quo te maxime velle arbitrarer. tunc mihi ille dixit, quod classe tu velles decedere, per fore accommodatum tibi si ad illam maritimam partem provinciae navibus accessissem. dixi me esse facturum itaque fecissem, nisi mi L. Clodius noster Corcyrae dixisset minime id esse faciendum; te Laudiceae fore ad meum adventum. erat id mihi multo brevius multoque commodius, cum praesertim te ita malle arbitrarer. tua ratio postea est commutata.",
+      "eng": "As for the schedule of my journey seeming to lead you into some doubt whether you will see me in the province, the matter stands thus: at Brundisium, when I was speaking with your freedman Phania, the talk came round to my saying that I would gladly come first to whichever part of the province I judged you most to wish. Then he told me that, since you wished to leave by sea, it would suit you well if I approached the maritime part of the province by ship. I said I would do so, and so I would have done, had not our friend L. Clodius told me at Corcyra that this was on no account to be done: that you would be at Laodicea on my arrival. That was much shorter for me and much more convenient, especially as I judged you preferred it so. Your plan was afterwards changed.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "nunc quid fieri possit, tu facillime statues; ego tibi meum consilium exponam: Pr. K. Sextilis puto me Laudiceae fore. perpaucos dies, dum pecunia accipitur, quae mihi ex publica permutatione debetur, commorabor. deinde iter faciam ad exercitum, ut circiter id . Sext. putem me ad Iconium fore. sed , si quid nunc me fallit in scribendo (procul enim aberam ab. re ipsa et a locis), simul ac progredi coepero, quam celerrime potero et quam creberrimis litteris faciam ut tibi nota sit omnis ratio dierum atque itinerum meorum. oneris tibi imponere nec audeo quicquam nec debeo; sed, quod commodo tuo fieri possit, utriusque nostrum magni interest ut te videam ante quam decedas. quam facultatem si quis casus eripuerit, mea tamen in te omnia officia constabunt non secus ac si te vidissem; tibi de nostris rebus nihil sum ante mandaturus per litteras quam desperaro coram me tecum agere posse.",
+      "eng": "Now what can be done you will most easily settle yourself; I shall lay out my own plan to you. On the 31st of July I expect to be at Laodicea. I shall stay a very few days, while the money owed me from the public exchange is being received. Then I shall set out for the army, so that around the Ides of August I think I shall be near Iconium. But if anything is now misleading me in what I write --- for I was far from the matter itself and from the country --- as soon as I have begun to advance, as quickly as I can and by letters as frequent as possible I shall see to it that the whole schedule of my days and journeys is known to you. To impose any burden on you I neither dare nor ought; but, so far as may be done at your convenience, it is greatly in the interest of us both that I see you before you leave. If some accident snatches away that opportunity, my good offices toward you in everything will all the same hold firm, no less than if I had seen you; on our affairs I shall send you nothing by letter until I have despaired of being able to deal with you face to face.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "quod te a Scaevola petisse dicis, ut, dum tu abesses, ante adventum meum provinciae praeesset, eum ego Ephesi vidi fuitque mecum familiariter triduum illud, quod ego Ephesi commoratus sum, nec ex eo quicquam audivi, quod sibi a te mandatum diceret. ac sane vellem potuisset obsequi voluntati tuae; non enim arbitror noluisse.",
+      "eng": "As to your saying that you had asked Scaevola, while you were absent, to preside over the province until my arrival, I saw him at Ephesus and he was on familiar terms with me through those three days I stayed at Ephesus, and I heard nothing from him of any such charge from you. And in truth I should have wished he could have complied with your wish; for I do not think he was unwilling.",
+      "notes": null
+    }
+  ]
+}

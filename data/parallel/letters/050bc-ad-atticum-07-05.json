@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-05",
+  "category": "letters",
+  "title_latin": "Ad Atticum 7.5",
+  "title_english": "Ad Atticum 7.5",
+  "date": "-0050-12-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "multas uno tempore accepi epistulas tuas; quae mihi, quamquam recentiora audiebam ex iis qui ad me veniebant, tamen erant iucundae; studium enim et benevolentiam declarabant. valetudine tua moveor et Piliam in idem genus morbi delapsam curam tibi adferre maiorem sentio.",
+      "eng": "I received many letters from you at one time; which, although I was hearing fresher news from those who were coming to me, were welcome all the same, for they declared your zeal and goodwill. Your health worries me, and that Pilia has slipped into the same kind of illness, I sense, adds the greater burden of care to yours.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "date igitur operam ut valeatis. de Tirone video tibi curae esse. quem quidem ego, etsi mirabilis utilitates mihi praebet, cum valet, in omni genere vel negotiorum vel studiorum meorum, tamen propter humanitatem et modestiam malo salvum quam propter usum meum.",
+      "eng": "Take pains, then, that the two of you get well. About Tiro I see you are concerned. As for him, even though he provides me with marvelous services, when he is in health, in every kind of business or study of mine, still it is for his humanity and modesty that I would rather have him safe than for my own use of him.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Philogenes mecum nihil umquam de Luscenio locutus est; de ceteris rebus habes Dionysium. sororem tuam non venisse in Arcanum miror. de Chrysippo meum consilium probari tibi non moleste fero. ego in Tusculanum nihil sane hoc tempore; devium est τοῖς ἀπαντῶσιν et habet alia δύσχρηστα . sed de Formiano Tarracinam pridie Kal. Ian. inde Pomptinam summam, inde in Albanum Pompei. ita ad urbem iii Nonas natali meo.",
+      "eng": "Philogenes has never said a word to me about Luscenius; on the other matters you have Dionysius. That your sister did not come to Arcanum I find strange. About Chrysippus, that my decision meets your approval I am not sorry to hear. I really do not want to be at the Tusculan villa at this season; it lies out of the way for [Greek: those one meets] and has other [Greek: inconveniences]. From Formiae instead to Tarracina on the day before the Kalends of January; from there to the top of the Pomptine; from there to Pompey's place at Alba. Thus to the City on the third day before the Nones --- my birthday.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de re publica cotidie magis timeo. non enim boni, ut putantur, consentiunt. quos ego equites Romanos, quos senatores vidi, qui acerrime cum cetera tum hoc iter Pompei vituperarent! pace opus est. ex victoria cum multa mala tum certe tyrannus exsistet. sed haec propediem coram. iam plane mihi deest quod ad te scribam; nec enim de re publica quod uterque nostrum scit eadem, et domestica nota sunt ambobus.",
+      "eng": "About the commonwealth I grow more afraid by the day. For the loyalists, as people suppose them, are not of one mind. What Roman knights, what senators I have seen, who poured abuse on Pompey for everything else, but above all for this journey of his! Peace is what we need. From victory there will come many evils and surely a tyrant. But of these things shortly, face to face. By now I have nothing left to write to you about; for of the commonwealth there is nothing each of us does not know already, and our domestic affairs are familiar to us both.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "reliquum est iocari, si hic sinat. nam ego is sum qui illi concedi putem utilius esse quod postulat quam signa conferri. sero enim resistimus ei quem per annos decem aluimus contra nos. quid senties igitur? inquis. nihil scilicet nisi de sententia tua nec prius quidem quam nostrum negotium aut confecerimus aut deposuerimus. cura igitur ut valeas. aliquando ἀπότριψαι quartanam istam diligentia quae in te summa est.",
+      "eng": "It remains to make jokes, if this man here will allow it. For I am of the school which holds it more useful to concede what he demands than to join battle. We resist too late one whom for ten years we have nourished against ourselves. ``What, then, will be your view?'' you ask. None, of course, but in line with yours, and not even that until I have either finished or laid aside my own business. So take care of your health. [Greek: Shake off] at last that quartan ague, by the diligence which in you is supreme.",
+      "notes": null
+    }
+  ]
+}

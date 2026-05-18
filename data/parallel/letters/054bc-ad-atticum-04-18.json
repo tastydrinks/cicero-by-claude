@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-18",
+  "category": "letters",
+  "title_latin": "Ad Atticum 4.18",
+  "title_english": "Ad Atticum 4.18",
+  "date": "-0054-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "* * * † nunc ut opinionem habeas rerum†, ferendum est. quaeris ego me ut gesserim. constanter et libere. quid ? ille inquies ut ferebat? humaniter meaeque dignitatis quoad mihi satis factum esset habendam sibi rationem putabat. quo modo ergo absolutus? omnino † πορπαπυμνα †. accusatorum incredibilis infantia, id est L. Lentuli L. f., quem fremunt omnes praevaricatum, deinde Pompei mira contentio, iudicum sordes. ac tamen xxxii condemnarunt xxxviii absolverunt. iudicia reliqua impendent.",
+      "eng": "* * * \\dots{} [so that you may have some notion of how things stand], the thing must be borne. You ask how I conducted myself. With consistency and with frankness. ``What?'' you will say, ``how did he take it?'' Civilly: he reckoned that, until satisfaction had been done to my dignity, he must take account of me. How then was he acquitted? Entirely by [corrupt: πορπαπυμνα]. The prosecutors' incredible incompetence --- I mean L. Lentulus, son of Lucius, whom all are murmuring to have played the double game; then Pompey's astonishing exertion; the squalor of the jurors. And yet thirty-two condemned, thirty-eight acquitted. The other trials are still hanging over him.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nondum est plane expeditus. dices tu ergo haec quo modo fers? belle me hercule et in eo me valde amo. amisimus , mi Pomponi, omnem non modo sucum ac sanguinem sed etiam colorem et speciem pristinam civitatis. nulla est res publica quae delectet, in qua acquiescam. idne igitur inquies facile fers? id ipsum; recordor enim quam bella paulisper nobis gubernantibus civitas fuerit, quae mihi gratia relata sit. nullus dolor me angit unum omnia posse; dirumpuntur ii qui me aliquid posse doluerunt. multa mihi dant solacia, nec tamen ego de meo statu demigro, quaeque vita maxime est ad naturam ad eam me refero, ad litteras et studia nostra. dicendi laborem delectatione oratoria consolor; domus me et rura nostra delectant; non recordor unde ceciderim sed unde surrexerim. fratrem mecum et te si habebo, per me isti pedibus trahantur; vobis ἐμφιλοσοφῆσαι possum. locus ille animi nostri stomachus ubi habitabat olim concalluit; privata modo et domestica nos delectant. miram securitatem videbis; cuius plurimae me hercule partes sunt in tuo reditu; nemo enim in terris est mihi tam consentientibus sensibus.",
+      "eng": "He is not yet plainly in the clear. You will say then: ``how do you take this?'' Beautifully, by Hercules, and on that score I am much pleased with myself. We have lost, my dear Pomponius, not only the sap and blood of the state but also the very colour and outward form she once had. There is no commonwealth left that gives me any pleasure, no commonwealth in which I may rest. ``And this,'' you will say, ``you bear easily?'' Just that. For I recall how lovely the state was, for a little while, with us at her helm --- and what gratitude was rendered me in return. No grief torments me that one man can do everything; the people who grieved that I could do something are bursting. Many things give me consolation, and I do not budge from my own station; I retire to the life that is most after nature, to our letters and our studies. The labour of public speaking I console with the pleasures of oratory; my house and our country places delight me; I do not remember the height from which I fell, but the depth from which I rose. If I have my brother and you here with me, those men can be dragged off feet first for all I care; with you two I am free to philosophize [Greek: emphilosophēsai]. That seat of the soul, where indignation once kept house, has grown calloused; only private and domestic things give me pleasure now. You will see a wonderful tranquillity --- much the larger share of which, by Hercules, hangs upon your return; for there is no man on earth so attuned to my feelings as you.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed accipe alia. res fluit ad interregnum, et est non nullus odor dictaturae, sermo quidem multus; qui etiam Gabinium apud timidos iudices adiuvit. candidati consulares omnes rei ambitus. accedit etiam Gabinius; quem P. Sulla non dubitans quin foris esset postularat contra dicente et nihil obtinente Torquato. sed omnes absolventur nec posthac quisquam damnabitur nisi qui hominem occiderit. hoc tamen agitur severius, itaque iudicia calent. M. Fulvius Nobilior condemnatus est; multi alii urbani ne respondent quidem.",
+      "eng": "But take some other news. The thing is drifting toward an interregnum, and there is some whiff of a dictatorship --- talk of it, at any rate, in plenty; which has even helped Gabinius before timid jurors. The consular candidates are all up on the charge of electoral corruption. Now Gabinius is added too: P. Sulla, in no doubt that he was outside the city bounds, arraigned him --- Torquatus speaking against and getting nowhere. But all will be acquitted, and after this no one will be condemned unless he has killed a man. That charge, however, is pursued more strictly, so the courts there run hot. M. Fulvius Nobilior has been condemned; many other defendants in town do not even answer the summons.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quid aliud novi? etiam . absoluto Gabinio stomachantes alii iudices hora post Antiochum Gabinium nescio quem e Sopolidis pictoribus libertum, accensum Gabini, lege Papia condemnarunt. itaque dixit statim †resp. lege maiestatis ουσοιμρισαμαφιηι †. Pomptinus vult a. d. iiii Non. Novembr. triumphare. huic obviam Cato et Servilius praetores ad portam et Q. Mucius tribunus. negant enim latum de imperio, et est latum hercule insulse. sed erit cum Pomptino Appius consul. Cato tamen adfirmat se vivo illum non triumphaturum. id ego puto ut multa eiusdem ad nihilum recasurum. Appius sine lege suo sumptu in Ciliciam cogitat.",
+      "eng": "What other news? Just this. When Gabinius had been acquitted, another set of jurors, in a temper, within an hour condemned under the Lex Papia (a law on citizenship) one Antiochus Gabinius --- some freedman, from the workshop of the painter Sopolis, an attendant of Gabinius's. So Gabinius said at once --- [the next clause is corrupt: ``the commonwealth \\dots{ under the law on treason ουσοιμρισαμαφιηι'']}. Pomptinus wants to triumph on the fourth day before the Nones of November. To block him at the gate stand the praetors Cato and Servilius, and the tribune Q. Mucius: they say no formal grant of imperium was carried, and the carrying of it was, by Hercules, a tasteless business. But Appius the consul will be on Pomptinus's side. Cato, however, swears that while he lives the man shall not have his triumph. I think this, like much else of Cato's, will come to nothing. Appius is planning to go off to Cilicia at his own charge, without a law.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "a Quinto fratre et a Caesare accepi a. d. viiii Kal. Nov. xvii litteras datas a litoribus Britanniae proximis a. d. vi Kal. Octobr. confecta Britannia, obsidibus acceptis, nulla praeda, imperata tamen pecunia exercitum ex Britannia reportabant. Q. Pilius erat iam ad Caesarem profectus. tu , si aut amor in te est nostri ac tuorum aut ulla veritas aut etiam si sapis ac frui tuis commodis cogitas, adventare et prope adesse iam debes. non me hercule aequo animo te careo; te autem quid mirum, qui Dionysium tanto opere desiderem? quem quidem abs te cum dies venerit et ego et Cicero meus flagitabit. abs te proximas litteras habebam Epheso a. d. v Idus Sextil. datas.",
+      "eng": "From my brother Quintus and from Caesar I received, on the ninth day before the Kalends of November, seventeen letters dispatched from the nearest shores of Britain on the sixth day before the Kalends of October. Britain was finished, hostages taken, no booty taken, but a sum of money imposed; they were bringing the army back out of Britain. Q. Pilius had already set off to join Caesar. As for you --- if you have any affection for me and your own people, or any truthfulness left in you, or even if you have any sense and intend to enjoy what is yours, by now you ought to be making your approach, and almost at hand. By Hercules, I do not bear your absence with an even mind; and as for you, what wonder, when I miss Dionysius so badly? When the day comes, both I and my Cicero will be clamouring for him from you. The last letter I had from you was sent from Ephesus on the fifth day before the Ides of Sextilis.",
+      "notes": null
+    }
+  ]
+}

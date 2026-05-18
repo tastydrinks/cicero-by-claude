@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-17",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.17",
+  "title_english": "Ad Atticum 5.17",
+  "date": "-0051-08-12",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "accepi Roma sine epistula tua fasciculum litterarum; in quo, si modo valuisti et Romae fuisti, Philotimi duco esse culpam, non tuam. haud epistulam dictavi sedens in raeda, cum in castra proficiscerer a quibus aberam bidui. paucis diebus habebam certos homines quibus darem litteras. itaque eo me servavi.",
+      "eng": "I have received from Rome a packet of letters without one from you; in which, if you have only been well and at Rome, I reckon the fault is Philotimus's, not yours. I have dictated this letter sitting in the carriage, on the way to the camp, from which I was two days off. In a few days I should have trustworthy men to whom I could entrust correspondence; and so I have saved myself for that.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nos tamen, etsi hoc te ex aliis audire malo, sic in provincia nos gerimus, quod ad abstinentiam attinet, ut nullus terruncius insumatur in quemquam. id fit etiam et legatorum et tribunorum et praefectorum diligentia; nam omnes mirifice συμφιλοδοξοῦσιν gloriae meae. Lepta noster mirificus est. sed nunc propero. perscribam ad te paucis diebus omnia.",
+      "eng": "As for us --- though I had rather you heard it from others --- we are conducting ourselves in the province, in the matter of abstinence, in such a way that not a single farthing is spent on anyone. That is being achieved also by the diligence of the legates, the tribunes, the prefects; for all of them are wonderfully sharing my passion for glory [Greek: symphilodoxousin]. Our Lepta is a wonder. But for the present I am in a hurry. I shall write you the whole account in a few days.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Cicerones nostros Deiotarus filius, qui rex ab senatu appellatus est, secum in regnum. dum in aestivis nos essemus, illum pueris locum esse bellissimum duximus.",
+      "eng": "Our two Ciceros, the younger Deiotarus has taken with him into his kingdom --- the man who has been styled king by the Senate. While we were in our summer quarters, we judged that for the boys this would be the most charming place possible.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Sestius ad me scripsit quae tecum esset de mea domestica et maxima cura locutus et quid tibi esset visum. amabo te, incumbe in eam rem et ad me scribe quid et possit et tu censeas.",
+      "eng": "Sestius wrote to me of the conversation he had had with you about my private and gravest concern, and what was your view of it. Please do, throw yourself into the matter, and write to me what is possible and what you yourself recommend.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "idem scripsit Hortensium de proroganda nostra provincia dixisse nescio quid. mihi in Cumano diligentissime se ut annui essemus defensurum receperat. si quicquam me amas, hunc locum muni. dici non potest quam invitus a vobis absim; et simul hanc gloriam iustitiae et abstinentiae fore inlustriorem spero si cito decesserimus, id quod Scaevolae contigit qui solos novem mensis Asiae praefuit.",
+      "eng": "The same Sestius wrote that Hortensius had said something about the prorogation of our province. To me at Cumae he had pledged most punctiliously that he would defend the principle that we should be a one-year man. If you love me at all, fortify this position. It cannot be said how unwillingly I am away from you all; and at the same time I hope that this glory of justice and abstinence will be the more conspicuous if I withdraw soon --- the same thing that fell to Scaevola, who alone presided over Asia for nine months.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "Appius noster cum me adventare videret, profectus est Tarsum usque Laodicea. ibi forum agit, cum ego sim in provincia. quam eius iniuriam non insector. satis enim habeo negoti in sanandis vulneribus quae sunt imposita provinciae; quod do operam ut faciam quam minima cum illius contumelia. sed hoc Bruto nostro velim dicas, illum fecisse non belle qui adventu meo quam longissime potuerit discesserit.",
+      "eng": "Our Appius, when he saw I was on my way, set off from Laodicea all the way to Tarsus. There he is holding court, while I am in the province. I do not press this injury of his. I have business enough in healing the wounds that have been inflicted on the province; and I am taking pains to do it with as little affront to him as possible. But I should be grateful if you would say this to our Brutus --- that he has not behaved nicely, in that on my arrival he has gone off to the furthest possible distance.",
+      "notes": null
+    }
+  ]
+}

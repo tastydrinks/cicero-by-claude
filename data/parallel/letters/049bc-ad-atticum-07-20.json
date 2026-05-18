@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-20",
+  "category": "letters",
+  "title_latin": "Ad Atticum 7.20",
+  "title_english": "Ad Atticum 7.20",
+  "date": "-0049-02-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "breviloquentem iam me tempus ipsum facit. pacem enim desperavi, bellum nostri nullum administrant. cave enim putes quicquam esse minoris his consulibus; quorum ego spe audiendi aliquid et cognoscendi nostri apparatus maximo imbri Capuam veni pridie Nonas, ut eram iussus. illi autem nondum venerant sed erant venturi inanes, imparati. Gnaeus autem Luceriae dicebatur esse et adire cohortis legionum Appianarum non firmissimarum. at illum ruere nuntiant et iam iamque adesse, non ut manum conserat (quicum enim?) sed ut fugam intercludat.",
+      "eng": "The moment itself is making me terse. I have given up on peace; our side is conducting no war. For do not suppose that anything is worth less than these consuls of ours --- in hope of hearing something from whom, and of getting some sense of our preparations, I came to Capua on the day before the Nones in a downpour, as I had been ordered. But they had not yet arrived, and were going to arrive empty-handed and unprepared. Gnaeus, meanwhile, was said to be at Luceria and to be visiting the cohorts of the Appian legions --- not the steadiest of troops. But they report that the other is hurtling on and is at the very gates, not to come to grips (with whom, after all?) but to cut off any retreat.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego autem in Italia καὶ συναποθανεῖν —nec te id consulo; sin extra, quid ago? ad manendum hiems, lictores, improvidi et neglegentes duces, ad fugam hortatur amicitia Gnaei, causa bonorum, turpitudo coniungendi cum tyranno; qui quidem incertum est Phalarimne an Pisistratum sit imitaturus. haec velim explices et me iuves consilio; etsi te ipsum istic iam calere puto, sed tamen quantum poteris. ego si quid hic hodie novi cognoro, scies; iam enim aderunt consules ad suas Nonas. tuas cotidie litteras exspectabo; ad has autem cum poteris rescribes. mulieres et Cicerones in Formiano reliqui.",
+      "eng": "For my part, if I stay in Italy, [Greek: I will die with them too] --- nor am I consulting you about that; but if outside, what do I do? To stay, I am urged by winter, by my lictors, by leaders who are improvident and careless; to flee, by friendship with Gnaeus, by the cause of the loyalists, by the disgrace of joining hands with a tyrant --- and which one he is going to imitate, Phalaris or Pisistratus, is still uncertain. I should be glad if you would untangle these things and help me with your counsel; though I suppose you yourselves at Rome are now in the thick of it, still --- so far as you can. If I learn anything new here today, you will know it; for the consuls will soon be here for their own Nones. I shall be looking out for your letters every day; and to this one you will write back when you can. The women and the young Ciceros I have left at the Formian villa.",
+      "notes": null
+    }
+  ]
+}

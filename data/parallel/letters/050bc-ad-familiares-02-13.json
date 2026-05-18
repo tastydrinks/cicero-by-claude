@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-13",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.13",
+  "title_english": "Ad Familiares 2.13",
+  "date": "-0050-05-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "raras tuas quidem (fortasse enim non perferuntur), sed suavis accipio litteras; vel quas proxime acceperam, quam prudentis, quam multi et offici et consili! etsi omnia sic constitueram mihi agenda, ut tu admonebas tamen conio firmantur nostra consilia, cum sentimus prudentibus fideliterque suadentibus idem videri.",
+      "eng": "Your letters are rare --- perhaps they do not get through --- but how welcome when they come; the most recent above all: how shrewd it was, how full of both kindness and counsel! Even though I had already laid out for myself the very course you were urging on me, all the same our resolutions take firmer shape when we sense that the prudent and the loyal are advising the same thing.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego Appium, ut saepe tecum locutus sum, valde diligo meque ab eo diligi statim coeptum esse, ut simultatem deposuimus, sensi; nam et honorificus in me cos. fuit et suavis amicus et studiosus studiorum etiam meorum; mea vero officia ei non defuisse tu es testis, quoi iam kwmiko\\s martu/s ut opinor, accedit Phania, et me hercule etiam pluris eum feci, quod te amari ab eo sensi. iam me Pompei totum esse scis; Brutum a me amari intellegis. quid est causae cur mihi non in optatis sit complecti hominem florentem aetate, opibus, honoribus, ingenio, liberis, propinquis, adfinibus, amicis, conlegam meum praesertim et in ipsa collegi laude et scientia studiosum mei? haec eo pluribus scripsi, quod non nihil significabant tuae litterae subdubitare, qua essem erga illum voluntate. credo te audisse aliquid. falsum est, mihi crede, si quid audisti. genus institutorum et rationum mearum dissimilitudinem non nullam habet cum illius administratione provinciae; ex eo quidam suspicati fortasse sunt animorum contentione, non opinionum dissensione me ab eo discrepare; nihil autem feci umquam neque dixi, quod contra illius existimationem esse vellem, post hoc negotium autem et temeritatem nostri Dolabellae deprecatorem me pro illius periculo praebeo.",
+      "eng": "As to Appius, I am very fond of him, as I have often told you, and I felt that I was being made fond of by him on his side from the moment we set down our quarrel; for as consul he was a man of honour towards me, an agreeable friend, and even encouraging of the very studies that are mine; and that my own good offices did not fail him, you yourself are witness, to whom by now (as I take it) there is added Phania, that comic-stage witness [Greek: k\\=omikos martys]; and by Hercules I have come to value him still more, because I have sensed that you are valued by him. That I am now wholly Pompey's, you know; that Brutus is loved by me, you understand. What reason could there be why I should not have it among my wishes to embrace a man flourishing in years, resources, distinctions, talent, children, kindred, connections, and friends --- my own colleague besides, and, in the very prestige and learning of our college, a partisan of mine? I have written these things at the greater length because your letter gave some hint of a quiet doubt as to my disposition towards him. I take it you have heard something. It is false, believe me, if you have heard anything. The cast of my own arrangements and methods has some unlikeness to his administration of his province; from this some have perhaps suspected that I am at odds with him by clash of feeling, not by difference of view. But I have never done or said anything I would have wish to be against his standing; and since this recent business and the recklessness of our friend Dolabella, I have set myself up as advocate against the danger he is in.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "erat in eadem epistula 'veternus civitatis.' gaudebam sane et congelasse nostrum amicum laetabar otio. extrema pagella pupugit me tuo chirographo. quid ais? Caesarem nunc defendit 'Curio? quis hoc putaret praeter me? nam, ita vivam, putavi. di immortales, quam ego risum nostrum desidero! mihi erat in animo, quoniam iuris dictionem confeceram, civitates locupletaram, publicanis etiam superioris lustri reliqua sine sociorum ulla querela conservaram, privatis, summis infimis, fueram iucundus, proficisci in Ciliciam Nonis Mais et, cum prima aestiva attigissem militemque conlocassem, decedere ex senatus consulto. cupio te aedilem videre, miroque desiderio me urbs adficit et omnes mei tuque in primis.",
+      "eng": "There was in the same letter the phrase ``the lethargy of the state.'' I was glad indeed, and rejoiced that our friend had frozen over into peace. The bottom of the page pricked me with your own handwriting. What's that you say? Curio defending Caesar now? Who would have thought it, besides me? For --- so may I live --- I did think it. Immortal gods, how I miss our laughter together! I had it in mind, since I had finished the assizes, since I had set the cities on their feet, since I had even kept the arrears of the previous five-year cycle for the tax-farmers without one complaint from our allies, since I had been welcome to private men, both the greatest and the least --- to set out for Cilicia on the Nones of May, and, once I had reached the first summer encampment and placed the soldier in quarters, to depart by decree of the Senate. I am eager to see you aedile, and a marvellous longing for the city possesses me, and for all my own people, and for you above the rest.",
+      "notes": null
+    }
+  ]
+}

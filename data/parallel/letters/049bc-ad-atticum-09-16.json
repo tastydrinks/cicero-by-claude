@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-16",
+  "category": "letters",
+  "title_latin": "Ad Atticum 9.16",
+  "title_english": "Ad Atticum 9.16",
+  "date": "-0049-03-26",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum quod scriberem ad te nihil haberem, tamen ne quem diem intermitterem has dedi litteras. A. d. vi K. Caesarem Sinuessae mansurum nuntiabant. ab eo mihi litterae redditae sunt a. d. vii K. quibus iam opes meas, non ut superioribus litteris opem exspectat. cum eius clementiam Corfiniensem illam per litteras conlaudavissem rescripsit hoc exemplo:",
+      "eng": "Though I had nothing to write to you, still, that I might not let a day slip by, I send this letter. They report that Caesar will lodge on the sixth day before the Kalends at Sinuessa. From him a letter was put into my hand on the seventh day before the Kalends, in which he is now looking for my resources, not, as in the earlier letter, for my help. When I had praised by letter that famous clemency of his at Corfinium, he wrote back in these terms:",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "CAESAR IMP. CICERONI IMP. salutem DIC. recte auguraris de me (bene enim tibi cognitus sum) nihil a me abesse longius crudelitate. atque ego cum ex ipsa re magnam capio voluptatem tum meum factum probari abs te triumpho gaudio. neque illud me movet quod ii qui a me dimissi sunt discessisse dicuntur ut mihi rursus bellum inferrent. nihil enim malo quam et me mei similem esse et illos sui.",
+      "eng": "``Caesar imperator to Cicero imperator, greeting. You divine rightly about me --- for you know me well --- that nothing lies further from me than cruelty. And as I myself take great pleasure in the thing itself, so I also rejoice in triumph that my conduct meets with your approval. Nor does it move me that those whom I let go are said to have made off in order to bring war upon me again. I want nothing more than that I should be like myself, and they like themselves.''",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "tu velim mihi ad urbem praesto sis ut tuis consiliis atque opibus, ut consuevi, in omnibus rebus utar. Dolabella tuo nihil scito mihi esse iucundius. hanc adeo habebo gratiam illi; neque enim aliter facere poterit. tanta eius humanitas, is sensus, ea in me est benevolentia.",
+      "eng": "I should be glad if you would be at hand to me near the City, so that I may, as I have been used to, draw on your counsel and your good offices in everything. Of your Dolabella, you may be sure, nothing is more pleasing to me. Indeed I shall owe him this thanks for it; for he cannot do otherwise --- such is his humanity, such his good sense, such his goodwill toward me.",
+      "notes": null
+    }
+  ]
+}

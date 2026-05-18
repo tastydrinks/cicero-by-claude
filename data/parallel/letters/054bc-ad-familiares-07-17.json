@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-17",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.17",
+  "title_english": "Ad Familiares 7.17",
+  "date": "-0054-10-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ex tuis litteris et Quinto fratri gratias egi et te aliquando conlaudare possum, quod iam videris certa aliqua in sententia constitisse. nam primorum mensum litteris tuis vehementer commovebar, quod mihi interdum (pace tua dixerim) levis in urbis urbanitatisque desiderio, interdum piger, interdum timidus in labore militari, saepe autem etiam, quod a te alienissimum est, subimpudens videbare. tamquam enim syngrapham ad imperatorem non epistulam attulisses, sic pecunia ablata domum redire properabas, nec tibi in mentem veniebat eos ipsos qui cum syngraphis venissent Alexandream nummum adhuc nullum auferre potuisse.",
+      "eng": "From your letters I have both thanked my brother Quintus and am at last in a position to praise you, because you now seem to have settled into some firm resolve. For by the letters of the first months I was greatly disturbed, since at times (be it said with your leave) you seemed to me frivolous in your longing for the city and city manners, at times lazy in the labour of soldiering, often even --- which is most foreign to your character --- a bit shameless. For as though you had brought a promissory note to the commander rather than a letter, you were hurrying to come home with the cash carried off; nor did it cross your mind that those very men who had gone to Alexandria with notes in hand have not yet been able to carry off a single coin.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego si mei commodi rationem ducerem, te mecum esse maxime vellem; non enim mediocri adficiebar vel voluptate ex consuetudine nostra vel utilitate ex consilio atque opera tua; sed cum te ex adulescentia tua in amicitiam et fidem meam contulisses; semper te non modo tuendum mihi sed etiam augendum atque ornandum putavi. itaque quoad opinatus sum me in provinciam exiturum, quae ad te ultro detulerim meminisse te credo. postea quam ea mutata ratio est, cum viderem me a Caesare honorificentissime tractari et unice diligi hominisque liberalitatem incredibilem et singularem fidem nossem, sic ei te commendavi et tradidi, ut gravissime diligentissimeque potui. quod ille ita et accepit et mihi saepe litteris significavit et tibi et verbis et re ostendit mea commendatione sese valde esse commotum. hunc tu virum nactus, si me aut sapere aliquid aut velle tua causa putas, ne dimiseris et, si quae te forte res aliquando offenderit, cum ille aut occupatione aut difficultate tardior tibi erit visus, perferto et ultima exspectato; quae ego tibi iucunda et honesta praestabo.",
+      "eng": "If I were taking the measure of my own convenience, I would want you with me above all; for I used to be affected, and not modestly, both by the pleasure of our company and by the use I had of your counsel and your work. But since you had committed yourself, from your youth, to my friendship and my protection, I have always thought you were to be not only looked after by me but advanced and adorned as well. Accordingly, so long as I supposed I was going out to a province, I believe you remember what offers I made you of my own accord. After that plan changed, when I saw that I was being treated by Caesar in the most honourable way and uniquely valued, and when I had come to know the man's astonishing generosity and singular good faith, I commended you to him and handed you over with all the weight and care I could muster. And he both took it in that spirit, and has often made the fact plain to me in letters, and has shown to you in word and in deed that he was deeply moved by my commendation. Having got hold of such a man, if you think that I have any wisdom or any goodwill toward you, do not let him slip; and if at some point anything happens to offend you --- when he seems to you slow, whether through being occupied or through some difficulty --- bear with it, and wait for the end: I will see to it that what comes out of it is pleasant and honourable for you.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "pluribus te hortari non debeo; tantum moneo, neque amicitiae confirmandae clarissimi ac liberalissimi viri neque uberioris provinciae neque aetatis magis idoneum tempus, si hoc amiseris, te esse ullum umquam reperturum. ' hoc ,' quem ad modum vos scribere soletis in vestris libris, 'idem Q. Cornelio videbatur.' in Britanniam te profectum non esse gaudeo, quod et labore caruisti et ego te de rebus illis non audiam. Ubi sis hibernaturus et qua spe aut condicione perscribas ad me velim.",
+      "eng": "I ought not to urge you with more words; this much only I warn you --- no time more suited for cementing the friendship of the most illustrious and most generous of men, nor for a richer province, nor for your stage of life, will you ever find again, if you let this one slip. ``This,'' as you people are accustomed to write in your books, ``was also the view of Q. Cornelius.'' That you have not set out for Britain I am glad of, both because you have been spared the labour, and because I shall not have to hear you on the subject. Where you are going to winter, and on what expectation or what terms, please write to me in detail.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-01",
+  "category": "letters",
+  "title_latin": "Ad Familiares 3.1",
+  "title_english": "Ad Familiares 3.1",
+  "date": "-0053-02-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "si ipsa res p. tibi narrare posset, quo modo sese haberet, non facilius ex ea cognoscere posses quam ex liberto tuo Phania; ita est homo non modo prudens, verum etiam, quod iuvet; curiosus. quapropter ille tibi omnia explanabit; id enim mihi et ad brevitatem est aptius et ad reliquas res providentius. de mea autem benevolentia erga te etsi potes ex eodem Phania cognoscere, tamen videntur etiam aliquae meae partes; sic enim tibi persuade, carissimum te mihi esse cum propter multas suavitates ingeni, offici, humanitatis tuae, tum quod ex tuis litteris et ex multorum sermonibus intellego omnia, quae a me profecta sunt in te, tibi accidisse gratissima. quod cum ita sit, perficiam profecto, ut longi temporis usuram, qua caruimus intermissa nostra consuetudine, et gratia et crebritate et magnitudine officiorum meorum sarciam, idque me, quoniam tu ita vis, puto non invita Minerva esse facturum; quam quidem ego, si forte de tuis sumpsero, non solum *polia/da , sed etiam *)appia/da nominabo.",
+      "eng": "If the commonwealth herself could relate to you how she stands, you could not learn it from her more easily than from your freedman Phania; so much is the man not only sensible, but also --- which is welcome --- inquisitive. He, therefore, will set forth everything to you; for this is better suited both to my brevity and to attention to my other affairs. As for my goodwill toward you, although you can learn that too from the same Phania, still some part in the matter seems to belong to me as well. Persuade yourself, then, of this: that you are most dear to me, both on account of the many charms of your character, your good offices, and your humanity, and because I understand from your letters and from the talk of many that everything which has gone out from me toward you has been received by you most gratefully. Since that is so, I shall surely contrive that the long lapse of time during which we have done without our accustomed intercourse I shall make up by the favour, the frequency, and the magnitude of my services; and this, since you so wish, I think I shall do not unwillingly --- nor unwilling, I trust, will Minerva be. Whom indeed, if I happen to take her from your own household, I shall name not only [Greek: Polias] but [Greek: Appias].",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Cilix, libertus tuus, antea mihi minus fuit notus; sed, ut mihi reddidit a te litteras plenas et amoris et offici, mirifice ipse suo sermone subsecutus est humanitatem litterarum tuarum. iucunda mihi eius oratio fuit, cum de animo tuo, de sermonibus, quos de me haberes cotidie, mihi narraret; quid quaeris? biduo factus est mihi familiaris, ita tamen, ut Phaniam valde sim desideraturus. quem cum Romam remittes, quod, ut putabamus, celeriter eras facturus, omnibus ei de rebus, quas agi, quas curari a me voles, mandata des velim.",
+      "eng": "Cilix, your freedman, was hitherto less known to me; but when he handed me a letter from you full both of affection and of attentive service, he himself by his own conversation followed up wonderfully the humanity of your letters. His talk was pleasing to me, when he related to me your feeling, and the conversations you have about me every day. What more? In two days he was made familiar to me --- yet so that I shall greatly miss Phania. When you send him back to Rome, which, as we thought, you were going to do shortly, I beg you to give him instructions on every matter concerning which you wish me to act or to take care.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "L. Valerium iureconsultum valde tibi commendo, sed ita etiam, si non est iure consultus; melius enim ei cavere volo quam ipse aliis solet. valde hominem diligo; est ex meis domesticis atque intimis familiaribus. omnino tibi agit gratias, sed idem scribit meas litteras maximum apud te pondus habituras. id eum ne fallat, etiam atque etiam rogo. vale .",
+      "eng": "L. Valerius the jurisconsult I commend warmly to you --- but in such a way that, even if he is not a jurisconsult, I want him better protected than he himself usually protects others. I am very fond of the man; he is one of my own household and intimate friends. He does indeed give you thanks, but he also writes that my letter will carry the greatest weight with you. That this expectation may not deceive him, I ask again and again. Farewell.",
+      "notes": null
+    }
+  ]
+}

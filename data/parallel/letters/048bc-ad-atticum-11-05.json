@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-05",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.5",
+  "title_english": "Ad Atticum 11.5",
+  "date": "-0048-11-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quae me causae moverint, quam acerbae, quam graves, quam novae, coegerintque impetu magis quodam animi uti quam cogitatione, non possum ad te sine maximo dolore scribere. fuerunt quidem tantae ut id quod vides effecerint. itaque nec quid ad te scribam de meis rebus nec quid a te petam reperio; rem et summam negoti vides. equidem ex tuis litteris intellexi et iis quas communiter cum aliis scripsisti et iis quas tuo nomine, quod etiam mea sponte videbam, te subita re quasi debilitatum novas rationes tuendi mei quaerere.",
+      "eng": "The causes that moved me --- how bitter they were, how heavy, how unprecedented, and how they forced me to act by a kind of impulse of the mind rather than by deliberation --- I cannot write to you of without the greatest pain. They were such, in any event, that they produced what you now see. And so I can find nothing to write to you about my affairs, nor anything to ask of you; you see the matter and the whole of the business. From your letters --- both those you wrote together with others and those in your own name --- I understood (and was seeing of my own accord) that you, almost paralysed by the suddenness of the thing, are casting about for new ways of protecting me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod scribis placere ut propius accedam iterque per oppida noctu faciam, non sane video quem ad modum id fieri possit. neque enim ita apta habeo deversoria ut tota tempora diurna in iis possim consumere, neque ad id quod quaeris multum interest utrum me homines in oppido videant an in via. sed tamen hoc ipsum sicut alia considerabo quem ad modum commodissime fieri posse videatur.",
+      "eng": "You write that you think I should come closer, and travel by night through the towns. I do not really see how that can be done. I have no lodgings so suitable that I could pass the whole daylight hours inside them, and, for the purpose you are after, it makes little difference whether people see me in a town or on the road. Still, I will consider this as I do the rest, in the way it seems it can most conveniently be managed.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ego propter incredibilem et animi et corporis molestiam conficere pluris litteras non potui; iis tantum rescripsi a quibus acceperam. tu velim et Basilo et quibus praeterea videbitur, etiam Servilio conscribas, ut tibi videbitur, meo nomine. quod tanto intervallo nihil omnino ad vos scripsi, his litteris profecto intellegis rem mihi desse de qua scribam, non voluntatem.",
+      "eng": "Because of incredible distress of both mind and body I could not complete more letters; I have only written back to those from whom I had received letters. I should be grateful if you would write, in my name, to Basilus and to anyone else you think fit --- to Servilius as well --- as seems best to you. That over so long an interval I have written nothing at all to your circle, you will surely understand from this letter is for want of matter to write of, not for want of will.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quod de Vatinio quaeris, neque illius neque cuiusquam mihi praeterea officium desset, si reperire possent qua in re me iuvarent. Quintus aversissimo a me animo Patris fuit. eodem Corcyra filius venit. inde profectos eos una cum ceteris arbitror.",
+      "eng": "As for your asking about Vatinius --- neither his good offices nor anyone else's would be wanting to me, if only they could find some matter in which to help me. Quintus was in a thoroughly hostile frame of mind toward me at Patrae. His son joined him there from Corcyra. From there I suppose they set out, along with the rest.",
+      "notes": null
+    }
+  ]
+}

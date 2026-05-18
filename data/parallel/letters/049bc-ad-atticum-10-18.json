@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-18",
+  "category": "letters",
+  "title_latin": "Ad Atticum 10.18",
+  "title_english": "Ad Atticum 10.18",
+  "date": "-0049-05-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Tullia mea peperit x iiii K. Iun. puerum ἑπταμηνιαῖον . quod εὐτόκησεν gaudeo; quod quidem est natum perimbecillum est. me mirificae tranquillitates adhuc tenuerunt atque maiori impedimento fuerunt quam custodiae quibus adservor. nam illa Hortensiana omnia †fuere infantia ita fiet† homo nequissimus a Salvio liberto depravatus est. itaque posthac non scribam ad te quid facturus sim sed quid fecerim; omnes enim Κωρυκαῖοι videntur subauscultare quae loquor.",
+      "eng": "My Tullia was delivered on the fourteenth day before the Kalends of June of a boy, [Greek: heptam\\=eniaios], a seven-months child. I am glad the delivery was easy, [Greek: eutok\\=esen]; what was born, however, is desperately weak. Up to now an extraordinary spell of calm weather has kept me here, and has been more of a hindrance than the watchers who are set on me. As for all that Hortensius business, \\dag it has come to nothing,\\dag\\ \\dag and so it will turn out:\\dag\\ the man is utterly worthless --- corrupted by the freedman Salvius. So from now on I shall not write to you what I am about to do, but what I have done; for every [Greek: K\\=orukaios], every eavesdropper of Corycus, seems to be listening in on what I say.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu tamen si quid de Hispaniis sive quid aliud perge, quaeso, scribere nec meas litteras exspectaris, nisi cum quo opto pervenerimus aut si quid ex cursu. sed hoc quoque timide scribo; ita omnia tarda adhuc et spissa. ut male posuimus initia sic cetera sequuntur.",
+      "eng": "You, even so, if anything comes through from Spain or anything else, please go on writing; and do not wait for letters from me, except when we have arrived where I wish, or if anything turns up in the course of the journey. But even this I write timidly; so slow and so dense is everything still. As we have made a bad beginning, so the rest follows.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Formias nunc sequimur; eodem nos fortasse Furiae persequentur. ex Balbi autem sermone quem tecum habuit, non probamus de Melita. dubitas igitur quin nos in hostium numero habeat? scripsi equidem Balbo te ad me et de benevolentia scripsisse et de suspicione.",
+      "eng": "It is for Formiae now that I am making; perhaps the Furies will follow me there too. From the conversation Balbus had with you, I do not approve about Malta. So can you doubt that he regards me as among his enemies? I have written to Balbus that you have written to me of both his goodwill and his suspicion.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "egi gratias; de altero ei me purga. ecquem tu hominem infeliciorem? non loquor plura, ne te quoque excruciem. ipse conficior venisse tempus cum iam nec fortiter nec prudenter quicquam facere possim.",
+      "eng": "I gave him my thanks; on the other point, clear me with him. Has there ever been a more unlucky man than I? I shall say no more, to spare you the rack too. I am being torn apart at the realisation that the moment has come when I can no longer do anything either bravely or prudently.",
+      "notes": null
+    }
+  ]
+}

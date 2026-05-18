@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-73",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.73",
+  "title_english": "Ad Familiares 13.73",
+  "date": "-0054-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gratulor tibi, quod ex provincia salvum te ad tuos recepisti incolumi fama et re p. quod si Romae fuissem, te vidissem coramque gratias egissem, quod tibi L. Egnatius familiarissimus meus, absens, L. Oppius praesens curae fuisset.",
+      "eng": "I congratulate you on having brought yourself home safe from your province to your own people, with your reputation and the commonwealth alike intact. Had I been at Rome, I should have seen you in person and thanked you face to face for the care you took of L. Egnatius, my very close friend, in his absence, and of L. Oppius on the spot.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Cum Antipatro Derbete mihi non solum hospitium verum etiam summa familiaritas intercedit. ei te vehementer suscensuisse audivi et moleste tuli. de re nihil possum iudicare, nisi illud mihi persuadeo, te, talem virum, nihil temere so fecisse. A te autem pro vetere nostra necessitudine etiam atque etiam peto ut eius filios, qui in tua potestate sunt, mihi potissimum condones, nisi quid existimas in ea re violari existimationem tuam. quod ego si arbitrarer, num quam te rogarem mihique tua fama multo antiquior esset quam illa necessitudo est ; sed mihi ita persuadeo (potest fieri ut fallar) eam rem laudi tibi potius quam vituperationi fore. quid fieri possit et quid mea causa facere possis (nam quin velis non dubito) velim, si tibi grave non erit, . certiorem me facias.",
+      "eng": "With Antipater of Derbe there subsists, on my side, not only the tie of guest-friendship but the closest familiarity. I have heard that you were violently angry with him, and I was sorry to hear it. About the matter itself I can pass no judgement, except this much: I am satisfied that you, being the man you are, have done nothing rashly. On the strength, however, of our old connection, I ask you again and again to grant me his sons, who are in your power --- to me before anyone else, unless you think your good name would be touched at all by such a thing. If I thought it would, I should never ask you, and your reputation would weigh with me far more heavily than that old connection does; but my conviction is (and I may be mistaken) that the matter would tell to your credit rather than against you. As to what can be done, and what you can do for my sake --- for that you wish to, I do not doubt --- I should be grateful, if it is not a burden, to be told.",
+      "notes": null
+    }
+  ]
+}

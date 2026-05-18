@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-14",
+  "category": "letters",
+  "title_latin": "Ad Atticum 8.14",
+  "title_english": "Ad Atticum 8.14",
+  "date": "-0049-03-02",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non dubito quin tibi odiosae sint epistulae cotidianae, cum praesertim neque nova de re aliqua certiorem te faciam neque novam denique iam reperiam scribendi ullam sententiam. sed si dedita opera, cum causa nulla esset, tabellarios ad te cum inanibus epistulis mitterem, facerem inepte; euntibus vero, domesticis praesertim, ut nihil ad te dem litterarum facere non possum et simul, crede mihi, requiesco paulum in his miseriis, cum quasi tecum loquor, cum vero tuas epistulas lego, multo etiam magis. omnino intellego nullum fuisse tempus post has fugas et formidines nostras quod magis debuerit mutum esse a litteris, propterea quod neque Romae quicquam auditur novi nec in his locis quae a Brundisio absunt propius quam tu bidui aut tridui. Brundisi autem omne certamen vertitur huius primi temporis. qua quidem exspectatione torqueor. sed omnia ante Nonas sciemus. eodem enim die video Caesarem a Corfinio post meridiem profectum esse, id est Feralibus, quo Canusio mane Pompeium. eo modo autem ambulat Caesar et iis †diariis† militum celeritatem incitat ut timeam ne citius ad Brundisium quam opus sit accesserit.",
+      "eng": "I do not doubt that my daily letters are tiresome to you, especially as I am neither informing you of anything new in any matter, nor by now finding any new thought to write about. But if I were sending couriers to you with empty letters as a matter of policy, when there was no reason, I should be acting foolishly; with men going in any case, however --- members of the household at that --- I cannot bring myself to give you no letter at all, and at the same time, believe me, I rest a little from these miseries when I am, as it were, talking with you, and when I read your letters, very much more. I quite understand that there has been no time, since these flights and panics of ours began, that ought more to have been mute of letters, since neither at Rome is anything new being heard, nor in these parts that lie nearer to Brundisium than you do --- by two days' or three days' journey. At Brundisium, however, the whole contest of this first phase is turning. By the suspense of it, I am tortured. But we shall know everything before the Nones. For I see that Caesar set out from Corfinium on the same day, in the afternoon --- that is, on the Feralia --- on which Pompey set out from Canusium in the morning. And Caesar marches at such a rate, and so spurs the troops' speed on with their daily rations, that I am afraid he may reach Brundisium sooner than he should.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "dices , quid igitur proficis qui anticipes eius rei molestiam quam triduo sciturus sis? nihil equidem; sed, ut supra dixi, tecum perlibenter loquor, et simul scito labare meum consilium illud quod satis iam fixum videbatur. non mihi satis idonei sunt auctores ii qui a te probantur. quod enim umquam eorum in re publica forte factum exstitit? aut quis ab iis ullam rem laude dignam desiderat? nec me hercule laudandos existimo qui trans mare belli parandi causa profecti sunt—quamquam haec ferenda non erant—, video enim quantum id bellum et quam pestiferum futurum sit; sed me movet unus vir cuius fugientis comes, rem publicam reciperantis socius videor esse debere. totiensne igitur sententiam mutas? ego tecum tamquam mecum loquor. quis autem est tanta quidem de re quin varie secum ipse disputet? simul et elicere cupio sententiam tuam, si manet, ut firmior sim, si mutata est, ut tibi adsentiar.",
+      "eng": "You will say --- what good does it do you, then, to anticipate the vexation of a matter you are going to know in three days? None, certainly; but, as I said above, I talk with you with the greatest pleasure, and at the same time, you should know that my plan, which seemed by now to be fairly fixed, is tottering. The authorities approved by you do not weigh enough with me. For what brave deed of theirs in public affairs has ever stood out? Or from them, who looks for any action worthy of praise? Nor, by Hercules, do I think those men are to be praised who have set out across the sea for the sake of preparing war --- though these things were not to be borne --- for I see how great that war will be, and how pestilential; but one man moves me, whose companion in flight, whose ally in recovering the state, I seem bound to be. So many times do you change your mind? I am talking with you as if with myself. But who is there, in a matter so great, who does not debate variously with himself? At the same time I want to draw out your opinion --- if it stands, that I may be the firmer; if it has changed, that I may agree with you.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "omnino ad id de quo dubito pertinet me scire quid Domitius acturus sit, quid noster Lentulus. de Domitio varia audimus †modo esse in Tiburti aut lepidi quo cum lepidus accessisse ad urbem†, quod item falsum video esse. ait enim Lepidus eum nescio quo penetrasse itineribus †occultandi† sui causa an maris adipiscendi ne is quidem scit. ignorat etiam de filio. addit illud sane molestum, pecuniam Domitio satis grandem quam is Corfini habuerit non esse redditam. de Lentulo autem nihil audivimus. haec velim exquiras ad meque perscribas.",
+      "eng": "It bears entirely on the question I am in doubt about, that I should know what Domitius is going to do, and what our Lentulus. Of Domitius we hear various things --- that he is now at Tibur, now with Lepidus, with whom he has come up to the city --- which I see to be likewise false. For Lepidus says that he has slipped away, by I-know-not-what roads, with a view either to concealing himself or to gaining the sea --- not even he knows. He is also in the dark about Domitius's son. He adds this point, certainly an unpleasant one: that a sum of money quite large, which Domitius had at Corfinium, has not been returned to him. About Lentulus, however, we have heard nothing. These things I should like you to find out, and to write me in full.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-18",
+  "category": "letters",
+  "title_latin": "Ad Familiares 5.18",
+  "title_english": "Ad Familiares 5.18",
+  "date": "-0052-03-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi egomet, qui te consolari cupio, consolandus ipse sum, propterea quod nullam rem gravius iam diu tuli quam incommodum tuum, tamen te magno opere non hortor solum, sed etiam pro amore nostro rogo atque oro, te conligas virumque te praebeas et, qua condicione omnes homines et quibus temporibus nos nati simus, cogites. plus tibi virtus tua dedit quam fortuna abstulit, propterea quod adeptus es quod non multi homines novi, amisisti quae plurimi homines nobilissimi. ea denique videtur condicio impendere legum, iudiciorum, temporum, ut optime actum cum eo videatur esse, qui quam levissima poena ab hac re p. discesserit.",
+      "eng": "Although I myself, who wish to console you, am in need of consolation --- for a long while now nothing has weighed on me more heavily than your misfortune --- still I not only urge you most strenuously but also, in the name of our affection, beg and entreat you: pull yourself together, show yourself a man, and consider the condition under which all men, and the times under which we in particular, were born. Your own virtue has given you more than fortune has taken away, because you have attained what not many new men have, and you have lost what most men of the noblest birth have lost. In short, the condition of our laws, our courts, and our times looks to be pressing down so hard that the man seems best served who has parted from this commonwealth at the lightest possible cost.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu vero, qui et fortunas et liberos habeas et nos ceterosque necessitudine et benevolentia tecum coniunctissimos, quomque magnam facultatem sis habiturus nobiscum et cum omnibus tuis vivendi, et cum unum sit iudicium ex tam multis quod reprehendatur, ut quod una sententia eaque dubia potentiae alicuius condonatum existimetur, omnibus his de causis debes istam molestiam quam lenissime ferre. meus animus erit in te liberosque tuos semper, quem tu esse vis et qui esse debet.",
+      "eng": "You, however, who still have your fortune and your children, and have us and the rest of those most closely joined to you in intimacy and goodwill; you, who will have ample opportunity to live with us and with all your own; and considering that out of so many verdicts only one is open to objection --- one that is reckoned the gift of some man's influence, carried by a single vote, and that a doubtful one --- for all these reasons, you ought to bear this trouble of yours as patiently as you can. My disposition toward you and your children will always be what you would have it be, and what it ought to be.",
+      "notes": null
+    }
+  ]
+}

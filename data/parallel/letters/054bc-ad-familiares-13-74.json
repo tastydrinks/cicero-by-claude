@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-74",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.74",
+  "title_english": "Ad Familiares 13.74",
+  "date": "-0054-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi non dubito pro tua in me observantia proque nostra necessitudine quin commendationem meam memoria teneas, tamen etiam atque etiam eundem tibi L. Oppium, familiarem meum, praesentem et L. Egnati, familiarissimi mei, absentis negotia commendo. tanta mihi cum eo necessitudo est familiaritasque, ut si mea res esset non magis laborarem. quapropter gratissimum mihi feceris, si curaris ut is intellegat me a te tantum amari quantum ipse existimo. hoc mihi gratius facere nihil potes, idque ut facias te vehementer rogo.",
+      "eng": "Although I do not doubt, given your regard for me and the connection between us, that you keep my recommendation in mind, still I commend to you again and again the same L. Oppius, my close friend, on the spot, and the business affairs of the absent L. Egnatius, who is most intimate with me. So close are my ties of connection and familiarity with Egnatius that, were it my own concern, I could feel it no more keenly. You will therefore oblige me most highly if you see to it that he understands he is loved by you as much as I myself reckon him to be. You can do me no greater kindness than this, and I beg you earnestly to do it.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-11",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.11",
+  "title_english": "Ad Atticum 5.11",
+  "date": "-0051-07-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "hui, totiensne me litteras dedisse Romam, cum ad te nullas darem? at vero posthac frustra potius dabo quam, si recte dari potuerint, committam ut non dem. ne provincia nobis prorogetur, per fortunas! dum ades, quicquid provideri poterit provide. non dici potest quam flagrem desiderio urbis, quam vix harum rerum insulsitatem feram.",
+      "eng": "Heavens, that I should have sent so many letters to Rome and none to you! But truly from now on I shall send to no purpose rather than --- if there is any chance they may be properly delivered --- commit the fault of not sending. By all our fortunes, do not let the province be prolonged for me! While you are there, foresee whatever can be foreseen. It cannot be told how I burn with longing for the city, how I scarcely bear the dullness of things in these parts.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Marcellus foede in Comensi. etsi ille magistratum non gesserat, erat tamen Transpadanus. ita mihi videtur non minus stomachi nostro quam Caesari fecisse. sed hoc ipse viderit.",
+      "eng": "Marcellus has acted foully in the man from Comum. Granted, the fellow had not held a magistracy --- still, he was a Transpadane. The deed has, to my mind, stirred no less bile in me than in Caesar. But he must see to that himself.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Pompeius mihi quoque videbatur, quod scribis Varronem dicere, in Hispaniam certe iturus. id ego minime probabam; qui quidem Theophani facile persuasi nihil esse melius quam illum nusquam discedere. ergo Graecus incumbet. valet autem auctoritas eius apud illum plurimum.",
+      "eng": "Pompey, as you write that Varro is saying, seemed to me too to be set on going to Spain. I disapproved of that very strongly; in fact I easily persuaded Theophanes that nothing was better than that the man should not stir from his place. So the Greek shall put his weight in; and his authority with him counts for a great deal.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "ego has pr. Nonas Quintilis proficiscens Athenis dedi, cum ibi decem ipsos fuissem dies. venerat Pomptinus, una Cn. Volusius; aderat quaestor; tuus unus Tullius aberat. aphracta Rhodiorum et dicrota Mytilenaeorum habebam et aliquid ἐπικώπων . de Parthis erat silentium. quod superest, di iuvent!",
+      "eng": "I sent this letter from Athens on the day before the Nones of July as I was setting out, having stayed there a full ten days. Pomptinus had come, and Cn. Volusius with him; the quaestor was on hand; only your Tullius was missing. I had Rhodian undecked vessels and Mytilenaean two-bankers and some [Greek: oared craft]. Of the Parthians there was silence. As for what remains, may the gods aid us!",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "nos adhuc iter per Graeciam summa cum admiratione fecimus, nec me hercule habeo quod adhuc quem accusem meorum. videntur mihi nosse nostram causam et condicionem profectionis suae; plane serviunt existimationi meae. quod superest, si verum illud est οἵαπερ ἡ , certe permanebunt. nihil enim a me fieri ita videbunt ut sibi sit delinquendi locus. sin id parum profuerit, fiet aliquid a nobis severius. nam adhuc lenitate dulces sumus et, ut spero, proficimus aliquantum. sed ego hanc, ut Siculi dicunt, ἀνεξίαν in unum annum meditatus sum. proinde pugna ne, si quid prorogatum sit, turpis inveniar.",
+      "eng": "So far we have made our journey through Greece amid the highest admiration, and by Hercules I have nothing thus far to blame any of my people for. They seem to me to know our case and the terms of their setting out; they serve my repute entirely. As for what remains, if that old saying is true, [Greek: as the mistress, so are the maids], they will certainly hold to it; for they will see nothing being done by me that gives them any opening to slip. But if that proves to count for little, something sharper will be done by me. For up to now we are sweet with gentleness and, as I hope, making some progress. Yet this [Greek: equanimity], as the Sicilians put it, I have schooled myself to for one year. So fight that, if anything is prolonged, I may not be caught out a disgrace.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "nunc redeo ad quae mihi mandas. †in praefectis excusatio iis†, quos voles deferto. non ero tam μετέωροσ quam in Appuleio fui. Xenonem tam diligo quam tu, quod ipsum sentire certo scio. apud Patronem et reliquos barones te in maxima gratia posui et hercule merito tuo feci. nam mihi Ister dixit te scripsisse ad se mihi ex illius litteris rem illam curae fuisse, quod ei pergratum erat. sed cum Patro mecum egisset ut peterem a vestro Ariopago ὑπομνηματισμὸν tollerent quem Polycharmo praetore fecerant, commodius visum est et Xenoni et post ipsi Patroni me ad Memmium scribere, qui pridie quam ego Athenas veni Mytilenas profectus erat, ut is ad suos scriberet posse id sua voluntate fieri. non enim dubitabat Xeno quin ab Ariopagitis invito Memmio impetrari non posset. Memmius autem aedificandi consilium abiecerat; sed erat Patroni iratus. itaque scripsi ad eum accurate; cuius epistulae misi ad te exemplum.",
+      "eng": "Now I return to the charges you have laid on me. \\textdagger{}As for the prefectures' exemption,\\textdagger{} hand them out to whom you wish. I shall not be so [Greek: up in the clouds] as I was in the case of Appuleius. Xeno I cherish as much as you do --- and I am sure he feels as much himself. With Patro and the other big-bellies I have set you in the highest favour, and by Hercules I have done it on your deserving. For Ister told me you had written to him that the matter had been my concern out of his letter --- which was most welcome to him. But when Patro had urged me to ask of your Areopagus that they cancel a [Greek: minute of record] which they had made in Polycharmus's praetorship, it seemed more practicable, both to Xeno and afterwards to Patro himself, that I should write to Memmius (who had set out for Mytilene the day before I reached Athens) so that he should write to his friends here saying that it could be done with his consent. For Xeno had no doubt that nothing could be wrung out of the Areopagites against Memmius's will. Memmius, however, had given up his plan of building; but he was angry with Patro. So I wrote to him carefully, and a copy of the letter I have sent you.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "tu velim Piliam meis verbis consolere. indicabo enim tibi, tu illi nihil dixeris. accepi fasciculum in quo erat epistula Piliae. abstuli , aperui, legi. valde scripta est συμπαθῶσ . Brundisio quae tibi epistulae redditae sunt sine mea, tum videlicet datas cum ego me non belle haberem. nam illam † νομαναρια † me excusationem ne acceperis. cura ut omnia sciam sed maxime ut valeas.",
+      "eng": "I should be glad if you would console Pilia in my name. I shall tell you, but you say nothing to her. I received a packet in which there was a letter from Pilia. I took it, opened it, read it. It is written very [Greek: sympathetically]. The letters delivered to you from Brundisium without one from me were no doubt sent off when I was not well. As for that \\textdagger{}nomanaria\\textdagger{} of mine, do not accept that excuse from me. See to it that I know everything --- but above all that you are well.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.9",
+  "title_english": "Ad Familiares 2.9",
+  "date": "-0051-11-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "primum tibi, ut debeo, gratulor laetorque cum praesenti tum etiam sperata tua dignitate, serius non neglegentia mea, sed ignoratione rerum omnium; in iis enim sum locis, quo et propter longinquitatem et propter latrocinia tardissime omnia perferuntur. et cum gratulor tum vero quibus verbis tibi gratias agam non reperio, quod ita factus sis, ut dederis nobis, quem ad modum scripseras ad me, quem semper ridere possemus. itaque , cum primum audivi, ego ille ipse factus sum (scis quem dicam) egique omnis illos adulescentis, quos ille iactitat.",
+      "eng": "First of all I congratulate you, as I am bound to do, and I am delighted both at your present standing and at what is now in prospect, somewhat late not through any neglect of mine but because of ignorance of everything: I am in country to which, both for its remoteness and for the brigandage, all news is conveyed with the greatest slowness. And when I have done congratulating you, then in truth I cannot find the words in which to thank you for being so made as to have given us --- in the way you wrote to me --- someone we can laugh at always. So when first I heard, I became that very same man myself (you know whom I mean), and acted out all those young men he is always parading.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "difficile est loqui ; te autem contemplans absentem et quasi tecum coram loquerer: non édepol, quantam rem égeris neque quántum facinus féceris; quod quia praeter opinionem mihi acciderat, referebam me ad illud: Íncredibile hoc fáctu obicitur; repente vero incessi omnibus laetitiis laetus. in quo cum obiurgarer, quod nimio gaudio paene desiperem, ita me defendebam Égo voluptatem ánimi nimiam—.",
+      "eng": "It is hard to put it; but, looking at you, who are not here, and as if I were talking to you face to face: ``By Pollux, what a feat you've performed, and what a deed you've done!'' Then, because the thing had happened to me beyond my expectation, I fell back on this: ``Incredible, this, that is now charged'' --- but then suddenly I marched through every gladness, glad. And when I was rebuked for almost losing my wits with too much joy, this is how I defended myself: ``The excessive pleasure of the mind in me --- ''",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quid quaeris? dum illum rideo, paene sum factus ille. sed haec pluribus multaque alia et de te et ad te, quom primum ero aliquid nactus oti. te vero, mi Rufe, diligo, quem mihi fortuna dedit amplificatorem dignitatis meae, ultorem non modo inimicorum sed etiam invidorum meorum, ut eos partim scelerum suorum, partim etiam ineptiarum paeniteret.",
+      "eng": "What more would you have? While I am laughing at him, I have almost turned into him. But of these things, and of much else both about you and to you, when I shall have first laid hold on some leisure. Truly, my Rufus, I love you --- you whom fortune has given me as the magnifier of my standing, the avenger not only of my enemies but of my detractors too, so that they have come to regret in part their own crimes, in part their own follies.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-12",
+  "category": "letters",
+  "title_latin": "Ad Atticum 9.12",
+  "title_english": "Ad Atticum 9.12",
+  "date": "-0049-03-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "legeram tuas litteras xiii K., cum mihi epistula adfertur a Lepta circumvallatum esse Pompeium, ratibus etiam exitus portus teneri. non medius fidius prae lacrimis possum reliqua nec cogitare nec scribere. misi ad te exemplum. miseros nos! cur non omnes fatum illius una exsecuti sumus? ecce autem a Matio et Trebatio eadem, quibus Menturnis obvii Caesaris tabellarii. torqueor infelix, ut iam illum Mucianum exitum exoptem. at quam honesta, at quam expedita tua consilia, quam evigilata tuis cogitationibus, qua itineris, qua navigationis, qua congressus sermonisque cum Caesare! omnia cum honesta tum cauta. in Epirum vero invitatio quam suavis, quam liberalis, quam fraterna!",
+      "eng": "I had read your letter on the thirteenth day before the Kalends when a dispatch is brought to me from Lepta: that Pompey is shut in by a siege-wall, and that the very exits of the harbour are held by rafts. So help me, for the tears I cannot think out the rest, nor write it. I have sent you a copy. Wretched that we are! Why did we not all run his fate down to the end with him? Then, look, the same news from Matius and Trebatius, whom Caesar's couriers met at Minturnae. Unhappy, I am racked, so that by now I long for that end of Mucius. But how honourable, how clear-cut your counsels are, how thoroughly worked through in your thinking --- the route by land, the route by sea, the meeting and conversation with Caesar! Everything alike honourable and cautious. And the invitation to Epirus --- how sweet, how generous, how brotherly!",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Dionysio sum admiratus qui apud me honoratior fuit quam apud Scipionem Panaetius; a quo impurissime haec nostra fortuna despecta est. odi hominem et odero; utinam ulcisci possem! sed illum ulciscentur mores sui.",
+      "eng": "About Dionysius I have been astonished: a man more highly placed in my house than Panaetius was in Scipio's, and our present fortune has been looked down on by him in the foulest way. I hate the man, and I shall go on hating him; would I could take revenge! But his own character will take revenge on him.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "tu , quaeso, nunc vel maxime quid agendum nobis sit cogita. populi Romani exercitus Cn. Pompeium circumsedet, fossa et vallo saeptum tenet, fuga prohibet; nos vivimus, et stat urbs ista, praetores ius dicunt, aediles ludos parant, viri boni usuras perscribunt, ego ipse sedeo! coner illuc ire ut insanus, implorare fidem municipiorum? boni non sequentur, leves inridebunt, rerum novarum cupidi, victores praesertim et armati, vim et manus adferent.",
+      "eng": "You then, I beg you, now above all consider what I am to do. The army of the Roman people sits down around Cnaeus Pompey, holds him hemmed in by ditch and rampart, cuts off his escape; and we go on living, and that City of ours stands, the praetors give judgement, the aediles get up the games, the honest men enter up their interest payments --- and I myself sit still! Should I try to go there like a madman, and call on the loyalty of the municipal towns? The honest men will not follow; the trivial will laugh; lovers of revolution, the conquering side and armed, will lay hands on me by force.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quid censes igitur? ecquidnam est tui consili †ad† finis huius miserrimae vitae? nunc doleo, nunc torqueor, cum quoidam aut sapiens videor quod una non ierim aut felix fuisse. mihi contra. numquam enim illius victoriae socius esse volui, calamitatis mallem fuisse. quid ego nunc tuas litteras, quid tuam prudentiam aut benevolentiam implorem? actum est; nulla re iam possum iuvari qui ne quod optem quidem iam habeo nisi ut aliqua inimici misericordia liberemur.",
+      "eng": "What, then, is your opinion? Have you any plan for ending this most wretched life of mine? Now I grieve, now I am racked, when to some I seem either wise, because I did not go with him, or even fortunate. To me, the opposite. I never wished to be a sharer of his victory; I should have preferred to share his calamity. What use is it now for me to call on your letters, on your prudence or your goodwill? It is done with; by nothing now can I be helped, I who no longer have even anything left to wish for --- except to be set free by some mercy of an enemy.",
+      "notes": null
+    }
+  ]
+}

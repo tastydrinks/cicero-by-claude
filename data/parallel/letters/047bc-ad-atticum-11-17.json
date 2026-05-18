@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-17",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.17",
+  "title_english": "Ad Atticum 11.17",
+  "date": "-0047-06-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "properantibus tabellariis alienis hanc epistulam dedi. eo brevior est et quod eram missurus nostros. Tullia mea venit ad me pr. Idus Iunias deque tua erga se observantia benevolentiaque mihi plurima exposuit litterasque reddidit trinas. ego autem ex ipsius virtute, humanitate, pietate non modo eam voluptatem non cepi quam capere ex singulari filia debui sed etiam incredibili sum dolore adfectus tale ingenium in tam misera fortuna versari idque accidere nullo ipsius delicto summa culpa mea. itaque a te neque consolationem iam qua cupere te uti video nec consilium quod capi nullum potest exspecto teque omnia cum superioribus saepe litteris tum proximis temptasse intellego.",
+      "eng": "I have entrusted this letter to other people's couriers, who were in haste. It is the shorter for that, and because I was about to send my own. My Tullia came to me on the day before the Ides of June, and gave me a long account of your attentiveness and goodwill toward her, and delivered three letters. As for me, in view of her own courage, her humanity, her devotion, I have not merely failed to take the pleasure I ought to have taken in so exceptional a daughter --- I have been struck with an unbelievable grief that so fine a nature should be caught in so wretched a fortune, and that through no fault of hers, but by the gravest fault of mine. And so from you I now expect neither the consolation you plainly want to offer nor any counsel, since no counsel can be devised; and I understand that you have tried everything, both in many earlier letters and most recently.",
+      "notes": null
+    }
+  ]
+}

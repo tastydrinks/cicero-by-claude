@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.2",
+  "title_english": "Ad Familiares 7.2",
+  "date": "-0051-02-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "mandatum tuum curabo diligenter. sed homo acutus ei mandasti potissimum, cui expediret illud venire quam plurimo. sed eo vidisti multum, quod praefinisti quo ne pluris emerem. quod si mihi permisisses, qui meus amor in te est, confecissem cum coheredibus; nunc, quoniam tuum pretium novi, inlicitatorem potius ponam quam illud minoris veneat. sed de ioco satis est. tuum negotium agam, sicuti debeo, diligenter.",
+      "eng": "Your commission I shall see to diligently. But, sharp man that you are, you have entrusted it to the very person whom it would suit best to have the thing sell for as much as possible. Still, you saw far in setting in advance a ceiling beyond which I am not to buy. If you had left it to my discretion --- such as my love for you is --- I should have settled the matter with the co-heirs; as it is, since I know your price, I shall put up a fictitious bidder rather than let it go for less. But enough of the joke. Your business I shall handle, as I ought, with care.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Bursa te gaudere certo scio; sed nimis verecunde mihi gratularis ; putas enim, ut scribis, propter hominis sordis minus me magnam illam laetitiam putare. credas mihi velim magis me iudicio hoc quam morte inimici laetatum. primum enim iudicio malo quam gladio, deinde gloria potius amici quam calamitate in primisque me deIectavit tantum studium bonorum in me exstitisse contra incredibilem contentionem clarissimi et potentissimi viri;",
+      "eng": "That you are glad about Bursa I know for certain; but you congratulate me far too modestly. You suppose, as you write, that on account of the man's squalor I count this no great joy. Believe me, I beg you: I have taken more pleasure in this verdict than I should have in my enemy's death. For in the first place I prefer a judgment to a sword; and next, the glory of a friend to the misfortune of an enemy. Above all, I was delighted that so much zeal for me was shown by good men against the incredible exertions of a most illustrious and most powerful man.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "postremo (vix veri simile fortasse videatur) oderam multo peius hunc quam illum ipsum Clodium. illum enim oppugnaram, hunc defenderam ; et ille, cum omnis res p. in meo capite discrimen esset habitura, magnum quiddam spectavit, nec sua sponte sed eorum auxilio, qui me stante stare non poterant, hic simiolus animi causa me in quem inveberetur delegerat persuaseratque non nullis invidis meis se in me emissarium semper fore. quam ob rem valde iubeo gaudere te. Magna res gesta est. numquam ulli fortiores cives fuerunt quam qui ausi sunt eum contra tantas opes eius, a quo ipsi lecti iudices erant, condemnare; quod fecissent numquam, nisi iis dolori meus fuisset dolor.",
+      "eng": "And finally --- though it may scarcely seem plausible --- I hated this man much worse than Clodius himself. Clodius I had fought; this one I had defended. And Clodius, when the whole commonwealth was about to face its crisis on my head, had some great object in view, and did what he did not of his own initiative but with the help of men who could not stand while I stood; this little ape, for the sake of his own amusement, had picked me out as the man to ride against, and had persuaded certain enviers of mine that he would always be on hand as their thrown weapon to be hurled at me. So I bid you rejoice indeed, and heartily. A great thing has been done. Never were there braver citizens than the men who dared, against the vast resources of one by whom they themselves had been picked as jurors, to condemn him --- which they would never have done, had my pain not been their pain.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "nos hic in multitudine et celebritate iudiciorum et novis legibus ita distinemur ut cotidie vota faciamus ne intercaletur, ut quam primum te videre possimus.",
+      "eng": "Here we are kept so busy by the crowd and press of trials and by new legislation that we make our vows daily that no intercalary month be inserted, so that we may see you as soon as possible.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-04",
+  "category": "letters",
+  "title_latin": "Ad Atticum 7.4",
+  "title_english": "Ad Atticum 7.4",
+  "date": "-0050-12-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Dionysium flagrantem desiderio tui misi ad te nec me hercule aequo animo, sed fuit concedendum. quem quidem cognovi quom doctum, quod mihi iam ante erat notum tum sane plenum offici, studiosum etiam meae laudis, frugi hominem ac, ne libertinum laudare videar, plane virum bonum. Pompeium vidi iiii Idus Decembris.",
+      "eng": "I have sent Dionysius to you, burning with longing for you --- and, by Hercules, not with an easy mind; but the indulgence had to be granted. The man I have come to know as not only learned (which I knew before) but full of attentiveness, eager too for my reputation, a sound fellow, and --- not to seem to praise a freedman --- plainly a good man. Pompey I saw on the fourth day before the Ides of December.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "fuimus una horas duas fortasse. magna laetitia mihi visus est adfici meo adventu; de triumpho hortari, suscipere partis suas, monere ne ante in senatum accederem quam rem confecissem, ne dicendis sententiis aliquem tribunum alienarem. quid quaeris? in hoc officio sermonis nihil potuit esse prolixius. de re publica autem ita mecum locutus est quasi non dubium bellum haberemus, nihil ad spem concordiae. plane illum a se alienatum cum ante intellegeret, tum vero proxime iudicasse. venisse Hirtium a Caesare qui esset illi familiarissimus, ad se non accessisse et, cum ille a. d. viii Idus Decembr. vesperi venisset, Balbus de tota re constituisset a. d. vii ad Scipionem ante lucem venire, multa de nocte eum profectum esse ad Caesarem. hoc illi τεκμηριῶδεσ videbatur esse alienationis.",
+      "eng": "We were together for perhaps two hours. He seemed to me to be touched with great delight at my arrival; he urged me on toward the triumph, took the business upon himself, warned me not to enter the Senate before I had brought the matter through, lest by delivering my opinion I alienate some tribune. In short: in this duty of conversation nothing could have been fuller. About the commonwealth, however, he spoke with me as though we had a war on our hands beyond question; nothing left of hope for concord. The man, he said, whom he had previously understood to be alienated from him he had now, very recently, decided clearly was so. Hirtius had come from Caesar --- a man on the closest terms with him --- and had not come to him. And when Hirtius had reached the city on the evening of the eighth day before the Ides of December, and Balbus had arranged with Scipio that on the seventh, before dawn, they should go to Scipio together, Hirtius had left for Caesar deep in the night. This Pompey reckoned as [Greek: a clear piece of evidence] of the breach.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quid multa? nihil me aliud consolatur nisi quod illum, quoi etiam inimici alterum consulatum, fortuna summam potentiam dederit, non arbitror fore tam amentem ut haec in discrimen adducat. quod si ruere coeperit, ne ego multa timeo, quae non audeo scribere. sed ut nunc est, a. d. iii Nonas Ian. ad urbem cogito.",
+      "eng": "What more? Nothing else consoles me, except that I do not suppose the man on whom even his enemies have bestowed a second consulship, and Fortune the highest power, will be so deranged as to drive these things to extremity. But if he does begin to plunge ahead --- well, there are many things I fear that I do not dare to put in writing. As things now stand, I am minded to be at the city on the third day before the Nones of January.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 9.8",
+  "title_english": "Ad Atticum 9.8",
+  "date": "-0049-03-14",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cenantibus ii Idus nobis ac noctu quidem Statius a te epistulam brevem attulit. de L. Torquato quod quaeris, non modo Lucius sed etiam Aulus profectus est, alter multos. de Reatinorum corona quod scribis, moleste fero in agro Sabino sementem fieri proscriptionis. senatores multos esse Romae nos quoque audieramus. ecquid potes dicere cur exierint?",
+      "eng": "On the second day before the Ides, while we were at dinner --- and indeed already by night --- Statius brought a short letter from you. About Lucius Torquatus, the man you ask after: not only Lucius but Aulus too has set out, and the latter many days ago. As for what you write about the crown of the Reatines, I take it hard that in the Sabine country the seed of proscription is being sown. That many senators are at Rome we too had heard. Can you tell at all why they have come out?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "in his locis opinio est coniectura magis quam nuntio aut litteris Caesarem Formiis a. d. xi Kal. Aprilis fore. hic ego vellem habere Homeri illam Minervam simulatam Mentori cui dicerem, Μέντορ, πῶσ τ' ἄρ' ἴω, πῶσ τ' ἂρ nullam rem umquam difficiliorem cogitavi, sed cogito tamen nec ero, ut in malis, imparatus. sed cura ut valeas. puto enim diem tuum heri fuisse.",
+      "eng": "In these parts the opinion is, by guesswork rather than by any messenger or letter, that Caesar will be at Formiae on the eleventh day before the Kalends of April. I could wish I had here Homer's Minerva in the likeness of Mentor, to whom I might say: ``Mentor, how am I to go up to him, how am I to'' [Greek: M\\'entor, p\\^os t' \\'ar' \\'i\\=o, p\\^os t' \\'ar] $\\ldots$. Never have I thought over any matter more difficult; yet I am thinking it over, and shall not be, as one in straits, unprepared. But take care to keep well. For I think yesterday was your day.",
+      "notes": null
+    }
+  ]
+}

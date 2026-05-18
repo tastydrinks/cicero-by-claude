@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-16",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.16",
+  "title_english": "Ad Familiares 7.16",
+  "date": "-0054-11-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "in 'Equo Troiano' scis esse in extremo 'sero sapiunt.' tu tamen, mi vetule, non sero. primas illas rabiosulas sat fatuas dedisti; deinde quod in Britannia non nimis filoqe/wron te praebuisti, plane non reprehendo. nunc vero in hibernis iniectus mihi videris itaque te commovere non curas. Usquequaque sapere oportet; id erit telum acerrimum.",
+      "eng": "In the Trojan Horse, you know, there is a line near the end: ``they grow wise too late.'' You, however, my old friend, were not late. Those first snappish little letters of yours were quite silly enough; then, when you showed yourself not overly fond of sight-seeing\\ [Greek: philotheoron] in Britain, I do not blame you at all. Now, however, you seem to me to have flung yourself into winter quarters and so cannot be bothered to stir. One must be wise everywhere; that will be your sharpest weapon.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego si foris cenitarem, Cn. Octavio, familiari tuo, non defuissem; cui tamen dixi, cum me aliquotiens invitaret: ' oro te, quis tu es?' sed me hercules extra iocum homo bellus est; vellem eum tecum abduxisses.",
+      "eng": "If I were in the habit of dining out, I would not have failed Cn. Octavius, your friend. Still, when he had invited me several times, I said to him: ``I beg you, who are you?'' But by Hercules, jokes aside, he is a fine fellow; I wish you had taken him along with you.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quid agatis et ecquid in Italiam venturi sitis hac hieme fac plane sciam. Balbus mihi confirmavit te divitem futurum. id utrum Romano more locutus sit, bene nummatum te futurum, an quo modo Stoici dicunt, omnis esse divites qui caelo et terra frui possint, postea videbo. qui istinc veniunt, superbiam tuam accusant, quod negent te percontantibus respondere. sed tamen est quod gaudeas; constat enim inter omnis neminem te uno Samarobrivae iuris peritiorem esse.",
+      "eng": "Let me know precisely what you are doing and whether you are coming to Italy this winter. Balbus has assured me you will be a rich man. Whether he meant it in the Roman sense --- that you will be well supplied with cash --- or in the way the Stoics speak, that all men are rich who can enjoy heaven and earth, I shall see hereafter. People coming from your part of the world accuse you of arrogance, because they say you give no answer to their questions. Still, there is something here to be pleased about: it is agreed by all that no one in Samarobriva knows the law better than you alone.",
+      "notes": null
+    }
+  ]
+}

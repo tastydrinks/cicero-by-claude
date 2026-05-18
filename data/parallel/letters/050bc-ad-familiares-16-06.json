@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-06",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.6",
+  "title_english": "Ad Familiares 16.6",
+  "date": "-0050-11-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Tertiam ad te hanc epistulam scripsi eodem die magis instituti mei tenendi causa, quia nactus eram cui darem, quam quo haberem quid scriberem. igitur illa : quantum me diligis, tantum adhibe in te diligentiae ; ad tua innumerabilia in me officia adde hoc, quod mihi erit gratissimum omnium cum valetudinis rationem, ut spero, habueris, habeto etiam navigationis ;",
+      "eng": "This is the third letter I have written to you on the same day, more to keep up my own habit, because I had found a courier to give it to, than because I had anything new to say. So in brief: as much as you love me, give that much care to yourself; to your services to me, beyond counting, add this one --- which will be the most welcome of them all --- that, having considered the case of your health, as I hope you will, you consider also the case of your voyage.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "in Italiam euntibus omnibus ad me litteras dabis, ut ego euntem Patras neminem praetermitto ; cura, cura te, mi Tiro. quoniam non contigit ut simul navigares, nihil est quod festines nec quicquam cures nisi ut valeas. etiam atque etiam vale. viI Idus Nov. Actio vesperi.",
+      "eng": "To everyone bound for Italy you will give a letter for me, just as I let no one go past me bound for Patrae. Take care, take care of yourself, my Tiro. Since it has not fallen out that you could sail along with me, there is nothing for you to hurry over, and nothing for you to be anxious about except getting well. Once more, and again, farewell. The seventh day before the Ides of November, at Actium, in the evening.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-01",
+  "category": "letters",
+  "title_latin": "Ad Atticum 9.1",
+  "title_english": "Ad Atticum 9.1",
+  "date": "-0049-03-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi cum tu has litteras legeres putabam fore ut scirem iam quid Brundisi actum esset (nam Canusio viiii Kal. profectus erat Gnaeus; haec autem scribebam pridie Nonas xiiii die post quam ille Canusio moverat), tamen angebar singularum horarum exspectatione mirabarque nihil adlatum esse ne rumoris quidem; nam erat mirum silentium. sed haec fortasse κενόσπουδα sunt, quae tamen iam sciantur necesse est;",
+      "eng": "Although by the time you were reading this letter I was expecting that I should know already what had happened at Brundisium (for Gnaeus set out from Canusium on the ninth day before the Kalends, and I am writing this the day before the Nones, on the fourteenth day since he moved from Canusium), still I was being tormented by the expectation of each passing hour, and wondering that nothing had been brought, not even a rumour; for the silence was extraordinary. But perhaps these are idle preoccupations [Greek: kenospouda] --- which, all the same, must by now be known;",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "illud molestum me adhuc investigare non posse ubi P. Lentulus noster sit, ubi Domitius. quaero autem, quo facilius scire possim quid acturi sint, iturine ad Pompeium et, si sunt, qua quandove ituri sint. urbem quidem iam refertam esse optimatium audio, Sosium et Lupum quos Gnaeus noster ante putabat Brundisium venturos esse quam se ius dicere. hinc vero vulgo vadunt; etiam M'. Lepidus quocum diem conterere solebam cras cogitabat.",
+      "eng": "this, though, is a trouble: that I still cannot find out where our Publius Lentulus is, or where Domitius. And I ask, the better to know what they mean to do, whether they are going to Pompey, and, if they are, by what road and when. The City, I hear, is already crammed with the leading men; Sosius and Lupus, who, our Gnaeus thought, would arrive at Brundisium before he could hold court. From here, indeed, they are going in droves; even Manius Lepidus, with whom I used to wear away the day, was thinking of going tomorrow.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "nos autem in Formiano morabamur, quo citius audiremus; deinde Arpinum volebamus; inde iter qua maxime ἀπάντητον esset ad mare superum remotis sive omnino missis lictoribus. audio enim bonis viris qui et nunc et saepe antea magno praesidio rei publicae fuerunt hanc cunctationem nostram non probari multaque in me et severe in conviviis tempestivis quidem disputari. cedamus igitur et, ut boni cives simus, bellum Italiae terra marique inferamus et odia improborum rursus in nos quae iam exstincta erant incendamus et Luccei consilia ac Theophani persequamur.",
+      "eng": "I, however, was lingering at the Formian villa, to hear the news the sooner; after that I meant to make for Arpinum; and from there, by whatever route was least frequented [Greek: apantēton], to the Upper Sea, with the lictors set aside --- or sent away altogether. For I hear that the good men, who both now and many times before have been a great safeguard to the commonwealth, do not approve of this hanging back of mine, and that much is said against me, and harshly, over the dinner-parties --- the well-timed ones, at any rate. So let us yield, then; let us, that we may be good citizens, bring war upon Italy by land and sea, kindle once more against ourselves the hatreds of the wicked which had now been extinguished, and follow out the counsels of Lucceius and of Theophanes.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "nam Scinio vel in Syriam proficiscitur sorte vel cum genero honeste vel Caesarem fugit iratum. Marcelli quidem, nisi gladium Caesaris timuissent, manerent. Appius est eodem in timore et inimicitiarum recentium etiam. praeter hunc et C. Cassium reliqui legati, Faustus pro quaestore; ego unus cui utrumvis licet. frater accedit quem socium huius fortunae esse non erat aequum. cui magis etiam Caesar irascetur, sed impetrare non possum ut maneat. dabimus hoc Pompeio quoi debemus. nam me quidem alius nemo movet, non sermo bonorum qui nulli sunt, non causa quae acta timide est, agetur improbe. uni, uni hoc damus ne id quidem roganti nec suam causam, ut ait, agenti sed publicam. tu quid cogites de transeundo in Epirum scire sane velim.",
+      "eng": "For Scipio is setting off either to Syria, by allotment, or with his son-in-law, honourably enough, or else is fleeing an angered Caesar. The Marcelli, certainly, would be staying, had they not feared Caesar's sword. Appius is in the same dread, and with fresh enmities besides. Apart from him and Gaius Cassius, the remaining legates --- Faustus serves as proquaestor; I am the one man to whom either course is open. Then there is my brother, whom it was not right to make a partner in this fortune of mine. Caesar will be the angrier with him; and yet I cannot prevail upon him to stay. This we shall give to Pompey, since it is his due. For no one else, certainly, moves me --- not the talk of the good men, who are nowhere to be found; not the cause, which has been timidly conducted and will now be conducted wickedly. To one man, to one alone, we make this concession --- and he does not even ask it; he is, as he says, pleading not his own cause but the commonwealth's. I should very much like to know what you are thinking about crossing over into Epirus.",
+      "notes": null
+    }
+  ]
+}

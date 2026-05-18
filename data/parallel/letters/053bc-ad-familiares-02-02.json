@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.2",
+  "title_english": "Ad Familiares 2.2",
+  "date": "-0053-11-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gravi teste privatus sum amoris summi erga te mei patre tuo, clarissimo viro. qui cum suis laudibus tum vero te filio superasset omnium fortunam, si ei contigisset ut te ante videret, quam a vita discederet. sed spero nostram amicitiam non egere testibus. tibi patrimonium dei fortunent; me certe habebis, cui et carus aeque sis et iucundus ac fuisti patri.",
+      "eng": "I have been deprived of a weighty witness to my deepest love for you in your father, a most distinguished man --- who would have outdone all the world in fortune, both by his own honours and especially in the matter of having you as his son, had it fallen to his lot to see you once more before he passed from this life. But I hope our friendship has no need of witnesses. May the gods bless your patrimony; me at any rate you will have, to whom you are as dear and as welcome as you were to your father.",
+      "notes": null
+    }
+  ]
+}

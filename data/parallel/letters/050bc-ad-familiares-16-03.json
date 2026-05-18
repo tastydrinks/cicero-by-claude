@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.3",
+  "title_english": "Ad Familiares 16.3",
+  "date": "-0050-11-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nos apud Alyziam, ex quo loco tibi litteras ante dederamus, unum diem commorati sumus, quod Quintus nos consecutus non erat. is dies fuit non . Nov. Inde ante lucem proficiscentes ante diem viii Idus Nov. has litteras dedimus. tu si nos omnis amas et praecipue me, magistrum tuum, confirma te.",
+      "eng": "We stayed one day at Alyzia, from which place we sent you our last letter, because Quintus had not caught up with us. That day was the Nones of November. Setting out before daylight, on the eighth day before the Ides of November we send this. If you love us all, and especially me, your master, get your strength back.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego valde suspenso animo exspecto primum te scilicet, deinde Marionem cum tuis litteris. omnes cupimus, ego in primis, quam primum te videre sed, mi Tiro, valentem. qua re nihil properaris ; satis cito te videro, si valebis. utilitatibus tuis possum carere ; te valere tua causa primum volo, tum mea, mi Tiro. vale .",
+      "eng": "For my part I wait in the greatest suspense of mind, first for you yourself, of course, and after that for Marion with your letter. We all wish, and I above all, to see you as soon as possible --- but, my dear Tiro, well. So make no haste: I shall see you soon enough if I see you well. I can do without your services; I want you to be well, first for your own sake, then for mine, my dear Tiro. Farewell.",
+      "notes": null
+    }
+  ]
+}

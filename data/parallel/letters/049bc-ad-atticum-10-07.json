@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-07",
+  "category": "letters",
+  "title_latin": "Ad Atticum 10.7",
+  "title_english": "Ad Atticum 10.7",
+  "date": "-0049-04-23",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego vero Apuliam et Sipontum et tergiversationem istam probo nec tuam rationem eandem esse duco quam meam, non quin in re publica rectum idem sit utrique nostrum, sed ea non agitur. regnandi contentio est, in qua pulsus est modestior rex et probior et integrior et is, qui nisi vincit, nomen populi Romani deleatur necesse est, sin autem vincit, Sullano more exemploque vincet. ergo hac in contentione neutrum tibi palam sentiendum et tempori serviendum est. mea causa autem alia est, quod beneficio vinctus ingratus esse non possum, nec tamen in acie me sed Melitae aut alio in loco simili oppidulo futurum puto. nihil inquies iuvas eum in quem ingratus esse non vis? immo minus fortasse voluisset. sed de hoc videbimus; exeamus modo. quod ut meliore tempore possimus facit Adriano mari Dolabella, Fretensi Curio.",
+      "eng": "For my part I approve of your Apulia and Sipontum, and that quiet evasion of yours, and I do not consider your reasoning the same as mine --- not because what is right in public affairs is not one and the same for us both, but because that is not what is at stake. This is a contest about kingship, in which the more modest king has been driven out, and the more upright, and the more sound; the king whom, unless he wins, the very name of the Roman people must be wiped out; whereas if he wins, he will win in Sulla's manner and after Sulla's example. So in this contest you must show no open sympathy for either side, and must give way to the times. My own case is different: I am bound by a kindness and cannot be ungrateful; yet I do not suppose I shall be in the battle-line, but rather on Malta or in some other little town like it. ``You give him no help at all,'' you will say, ``the man you do not wish to be ungrateful to.'' But then perhaps he would have wanted me less. We shall see about that; only let us get away. That we may do so in better weather is the business of Dolabella on the Adriatic side and of Curio on the side of the Strait.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "iniecta autem mihi spes quaedam est velle mecum Ser. Sulpicium conloqui. ad eum misi Philotimum libertum cum litteris. si vir esse volet, praeclara συνοδία , sin autem—, erimus nos qui solemus.",
+      "eng": "A certain hope has been cast in my way that Servius Sulpicius wants to confer with me. I have sent Philotimus, my freedman, to him with a letter. If he means to be a man, an admirable companionship [Greek: synodia]; but if not ---, we shall be the men we have always been.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Curio mecum vixit iacere Caesarem putans offensione populari Siciliaeque diffidens si Pompeius navigare coepisset. Quintum puerum accepi vehementer. avaritiam video fuisse et spem magni congiari. magnum hoc malum est, sed scelus illud quod timueramus spero nullum fuisse. hoc autem vitium puto te existimare non a nostra indulgentia sed a natura profectum. quem tamen nos disciplina regemus. de Oppiis Veliensibus quid placeat cum Philotimo videbis Epirum nostram putabimus sed alios cursus videbamur habituri.",
+      "eng": "Curio has been with me. He thinks Caesar is on the ground, on account of his unpopularity, and has no confidence in Sicily if Pompey begins to sail. The boy Quintus I received severely. I see there has been greed, and the expectation of a large bounty. This is a great evil, but the crime we had feared has, I hope, been none at all. As for this fault, I take it you judge that it sprang not from any indulgence on our side but from his own nature. Even so we shall manage him by discipline. About the Oppii of Velia, what you think best you will see to with Philotimus. We shall regard our Epirus as ours still; but it had seemed we were going to take other courses.",
+      "notes": null
+    }
+  ]
+}

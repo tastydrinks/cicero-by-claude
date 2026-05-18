@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-16",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.16",
+  "title_english": "Ad Atticum 11.16",
+  "date": "-0047-06-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non meo vitio fit hoc quidem tempore (ante enim est peccatum) ut me ista epistula nihil consoletur. nam et exigue scripta est et suspiciones magnas habet non esse ab illo; quas animadvertisse te existimo. de obviam itione ita faciam ut suades. neque enim ulla de adventu eius opinio est neque si qui ex Asia veniunt quicquam auditum esse dicunt de pace; cuius ego spe in hanc fraudem incidi. nihil video quod sperandum putem, nunc praesertim cum ea plaga in Asia sit accepta, in Illyrico, in Cassiano negotio, in ipsa Alexandrea, in urbe, in Italia. ego vero etiam si rediturus ille est qui adhuc bellum gerere dicitur tamen ante reditum eius negotium confectum iri puto.",
+      "eng": "It is not by any fault of mine at this present time (for the wrong was done before) that this letter of yours offers me no consolation. For it has been written sparingly and carries strong suspicions of not being from him --- suspicions which I imagine you have noticed yourself. About going to meet him, I shall do as you advise. There is no report of his coming, and the men who arrive from Asia say they have heard nothing about peace --- in hope of which I fell into this trap. I see nothing that I think can be hoped for, especially now that the blow has been received in Asia, in Illyricum, in the Cassius business, in Alexandria itself, at Rome, and in Italy. As for me, even if he is going to come back, who is still said to be waging war, even so I think the business will be finished before his return.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod autem scribis quandam laetitiam bonorum esse commotam ut sit auditum de litteris, tu quidem nihil praetermittis in quo putes aliquid solaci esse, sed ego non adducor quemquam bonum ullam salutem putare mihi tanti fuisse ut eam peterem ab illo, et eo minus quod huius consili iam ne socium quidem habeo quemquam. qui in Asia sunt rerum exitum exspectant, Achaici etiam Fufio spem deprecationis adferunt. Horum et timor idem fuit primo qui meus et constitutum; mora Alexandrina causam illorum correxit, meam evertit.",
+      "eng": "As to what you write, that a certain joy was stirred among the good when news of the letter got out --- you, for your part, leave out nothing in which you think there is some comfort, but I am not brought to believe that any good man supposed any safety of mine worth my purchasing it from him; and the less so because of this present plan I no longer have even a single partner. Those in Asia are awaiting the outcome of events; the Achaian party are now also holding out to Fufius the hope of suing for pardon. They had at first the same fear, and the same resolution, as I had; the delay at Alexandria has set their cause right, and overturned mine.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quam ob rem idem a te nunc peto quod superioribus litteris, ut, si quid in perditis rebus dispiceres quod mihi putares faciendum, me moneres. si recipior ab his, quod vides non fieri, tamen quoad bellum erit quid agam aut ubi sim non reperio; sin iactor, eo minus. itaque tuas litteras exspecto easque ut ad me sine dubitatione scribas rogo.",
+      "eng": "For which reason I ask you now what I asked in my earlier letters: that, if in this ruin you can make out anything you think I ought to do, you advise me. If I am received by these men --- which you see is not happening --- still, so long as the war lasts, I cannot find what I am to do or where I am to be; if I am tossed aside, even less so. So I am waiting for your letter, and I ask you to write to me without hesitation.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quod suades ut ad Quintum scribam de his litteris, facerem, si me quicquam istae litterae delectarent. etsi quidam scripsit ad me his verbis, ego ut in his malis Patris sum non invitus; essem libentius, si frater tuus ea de te loqueretur quae ego audire vellem. quod ais illum ad te scribere me sibi nullas litteras remittere, semel ab ipso accepi. ad eas Cephalioni dedi qui multos mensis tempestatibus retentus est. Quintum filium ad me acerbissime scripsisse iam ante ad te scripsi.",
+      "eng": "As to your urging me to write to Quintus about this letter, I would do so if I took any pleasure in that letter. Though a certain person has written to me in these words --- ``I, given these ills, am not unwilling to be at Patrae; I should be more glad of it if your brother spoke of you as I should wish to hear.'' As for what you say, that he writes to you that I send him no letters in reply, I had a letter from him once; to that I gave a reply to Cephalio, who has been held up for many months by the weather. That Quintus my nephew has written to me in the bitterest terms, I have already written to you.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "extremum est quod te orem, si putas rectum esse et a te suscipi posse, cum Camillo communices ut Terentiam moneatis de testamento. tempora monent ut videat ut satis faciat quibus debeat. auditum ex Philotimo est eam scelerate quaedam facere. credibile vix est, sed certe, si quid est quod fieri possit, providendum est. de omnibus rebus velim ad me scribas et maxime quid sentias de ea in qua tuo consilio egeo etiam si nihil excogitas. id enim mihi erit pro desperato. iii Non. Iun.",
+      "eng": "What remains is to ask you, if you think it right and that you can take it on yourself, to consult with Camillus so that you may both advise Terentia about her will. The times warn her to see that she satisfies those to whom she is in debt. I have heard from Philotimus that she is doing certain wicked things. It is scarcely credible; but at any rate, if there is anything that can be done, it must be provided for. On all matters I should like you to write to me, and above all what you think on that one in which I need your counsel, even if you can think of nothing. For that itself will count with me as despair confirmed. The third day before the Nones of June.",
+      "notes": null
+    }
+  ]
+}

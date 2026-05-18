@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-19",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.19",
+  "title_english": "Ad Atticum 11.19",
+  "date": "-0047-07-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum tuis dare possem litteras non praetermisi, etsi quod scriberem non habebam. tu ad nos et rarius scribis quam solebas et brevius, credo quia nihil habes quod me putes libenter legere aut audire posse. verum tamen velim si quid erit, qualecumque erit, scribas. est autem unum quod mihi sit optandum si quid agi de pace possit; quod nulla equidem habeo in spe; sed quia tu leviter interdum significas, cogis me sperare quod optandum vix est.",
+      "eng": "Since I had the chance to send a letter with your own people, I have not let it pass, although I had nothing to write. You for your part write to me less often than you used to, and more briefly --- because, I suppose, you have nothing you think I could be glad to read or hear. Even so, I should like you to write whatever there is, of whatever kind. There is one thing in particular for me to wish for, if anything can be done about peace; for that I have no hope at all; but because you from time to time hint at it in passing, you force me to hope for what is hardly to be hoped for.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Philotimus dicitur Id. Sext. nihil habeo de illo amplius. tu velim ad ea mihi rescribas quae ad te antea scripsi. mihi tantum temporis satis est dum ut in pessimis rebus aliquid caveam qui nihil umquam cavi. vale . xi Kal. Sextil.",
+      "eng": "Philotimus is said to be coming on the Ides of Sextilis. I have nothing further about him. I should like you to write back to me on the points I wrote to you about before. I have time enough only for this --- to be on my guard, amid the worst of circumstances, where I have never in my life been on my guard at all. Farewell. The eleventh day before the Kalends of Sextilis.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-02",
+  "category": "letters",
+  "title_latin": "Ad Atticum 10.2",
+  "title_english": "Ad Atticum 10.2",
+  "date": "-0049-04-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego cum accepissem tuas litteras Nonis Aprilibus quas Cephalio attulerat, essemque Menturnis postridie mansurus et inde protinus, sustinui me in Arcano fratris, ut, dum aliquid certius adferretur, occultiore in loco essemus agerenturque nihilo minus quae sine nobis agi possunt. λαλαγεῦσα iam adest et animus ardet, neque est quicquam, quo et qua.",
+      "eng": "When I had received your letter on the Nones of April, which Cephalio had brought, and was due to spend the next day at Minturnae and to go on directly from there, I stopped myself at my brother's place at Arcanum, so that, until something more certain should be reported, we might be in a more out-of-the-way spot, and what can be transacted without us might still be transacted no less. The chattering swallow [Greek: lalageusa] is here already and the spirit burns, but there is nothing --- not what, not where.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed haec nostra erit cura et peritorum. tu tamen quod poteris, ut adhuc fecisti, nos consiliis iuvabis. res sunt inexplicabiles. fortunae sunt committenda omnia. sine spe conamur ulla. melius si quid acciderit, mirabimur. Dionysium nollem ad me profectum; de quo ad me Tullia mea scripsit. sed et tempus alienum est, et homini non amico nostra incommoda, tanta praesertim, spectaculo esse nollem; cui te meo nomine inimicum esse nolo.",
+      "eng": "But this will be the care of my own and of the experts. Yet what you can do, as you have done so far, you will help me with by your counsels. The matters are past unravelling. Everything must be entrusted to fortune. We try without any hope. If anything better comes of it, we shall be amazed. I wish Dionysius had not set out to me; about whom my Tullia has written to me. But the time is unsuitable, and I would not wish our troubles, especially as great as these, to be a spectacle to a man no friend of ours --- to whom I do not want you, on my account, to be an enemy.",
+      "notes": null
+    }
+  ]
+}

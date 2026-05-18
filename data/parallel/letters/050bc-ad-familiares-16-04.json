@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-04",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.4",
+  "title_english": "Ad Familiares 16.4",
+  "date": "-0050-11-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Varie sum adfectus tuis litteris, valde priore pagina perturbatus, paulum altera recreatus. qua re nunc quidem non dubito quin, quoad plane valeas, te neque navigationi neque viae committas. satis te mature videro, si plane confirmatum videro. de medico et tu bene existimari scribis et ego sic audio ; sed plane curationes eius non probo ; ius enim dandum tibi non fuit, quom kakosto/maxos esses. sed tamen et ad illum scripsi accurate et ad Lysonem.",
+      "eng": "Your letter affected me in opposite ways: the first page deeply unsettled me, the second cheered me a little. So now at any rate I have no doubt that until you are really well you should commit yourself neither to a sea voyage nor to a journey by road. I shall see you soon enough if I see you fully recovered. As for the doctor, you write that he is well thought of, and so I hear; but I cannot at all approve his treatment. Broth should not have been given you when your stomach was weak [Greek: kakostomachos]. Still, I have written carefully both to him and to Lyso.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ad Curium vero, suavissimum hominem et summi offici summaeque humanitatis, multa scripsi, in his etiam ut, si tibi videretur, te ad se traferret ; Lyso enim noster vereor ne neglegentior sit, primum quia omnes Graeci, deinde quod, cum a me litteras accepisset, mihi nullas remisit. sed eum tu laudas ; tu igitur quid faciendum sit iudicabis. illud , mi Tird, te rogo sumptu ne parcas ulla in re, quod ad valetudinem opus sit. scripsi ad Curium quod dixisses daret. Medico ipsi puto aliquid dandum esse, quo sit studiosior.",
+      "eng": "To Curius, that most agreeable of men and a person of the highest sense of duty and the highest humanity, I have written at length, and among other things that, if it seems good to you, he should have you moved over to his house. For our friend Lyso, I am afraid, may be on the careless side --- first because all Greeks are, and second because, after receiving a letter from me, he sent me none back. But you speak well of him; so you yourself will judge what is to be done. This I do ask you, my Tiro: spare no expense in any matter that bears on your health. I have written to Curius to give whatever you said. The doctor himself, I think, should be given something, so that he may be more attentive.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "innumerabilia tua sunt in me officia domestica, forensia, urbana, provincialia, in re privata, in publica, in studiis, in litteris nostris ; omnia viceris, si, ut spero, te validum videro. ego puto te bellissime, si recte erit, cum quaestore Mescinio decursurum. non inhumanus est teque, ut mihi visus est, diligit. et cum valetudini tuae diligentissime consulueris, tum, mi Tiro, consulito navigationi. nulla in re iam te festinare volo ; nihil laboro, nisi ut salvus sis.",
+      "eng": "Your services to me are past counting --- at home and in the Forum, in Rome and in the province, in private and in public life, in my studies and in my writing. You will outdo them all if, as I hope, I see you well. I think you will make the crossing very nicely, if all goes right, in the company of the quaestor Mescinius. He is not without courtesy, and as he struck me he is fond of you. And once you have taken the most scrupulous care for your health, then, my Tiro, take care for your voyage. I want no haste from you in anything now; I am anxious about one thing only --- that you should be safe.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "sic habeto, mi Tiro, neminem esse qui me amet quin idem te amet, et cum tua et mea maxime interest te valere, tum multis est curae. adhuc dum mihi nullo loco deesse vis, numquam te confirmare potuisti ; nunc te nihil impedit ; omnia depone, corpori servi. quantam diligentiam in valetudinem tuam contuleris, tanti me fieri a te iudicabo. vale , mi Tiro, vale, vale et salve. Lepta tibi salutem dicit et omnes. vale . VII id . Nov. Leucade.",
+      "eng": "Be assured of this, my Tiro: there is no one who loves me who does not also love you, and while your getting well matters most to me and to you, it is the concern of many besides. Up to now, your wish never to fail me at any post has made it impossible for you to recover; nothing impedes you now. Set everything aside; be the servant of your body. I shall judge how much you value me by the care you devote to your health. Farewell, my Tiro; farewell, farewell and good health to you. Lepta sends you his greeting, and so does everyone. Farewell. The seventh day before the Ides of November, at Leucas.",
+      "notes": null
+    }
+  ]
+}

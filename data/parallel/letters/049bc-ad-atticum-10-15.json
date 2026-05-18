@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-15",
+  "category": "letters",
+  "title_latin": "Ad Atticum 10.15",
+  "title_english": "Ad Atticum 10.15",
+  "date": "-0049-05-12",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Servius cum esset apud me, Cephalio cum tuis litteris vi Idus venit; quae nobis magnam spem attulerunt meliorum rerum de octo cohortibus. etenim eae quoque quae in his locis sunt labare dicuntur. eodem die Funisulanus a te attulit litteras in quibus erat confirmatius idem illud. ei de suo negotio respondi cumulate cum omni tua gratia. adhuc non satis faciebat; debet autem mihi multos nummos nec habetur locuples. nunc ait se daturum; cui expensum tulerit morari; †tabellarius si apud te esse quas satis fecissest dares. quantum sit Eros Philotimi tibi dicet. sed ad maiora redeamus.",
+      "eng": "While Servius was with me, Cephalio arrived with your letter on the sixth day before the Ides; it brought us great hope of better things touching the eight cohorts. For even those that are in these parts are said to be wavering. On the same day Funisulanus delivered a letter from you which confirmed the same news more firmly. I gave him a fully favourable answer about his business, with every expression of obligation to you. So far he was not making good; he owes me a great deal of money and is not held to be solvent. Now he says he will pay; but he is delaying the man to whom he had charged the debt; $\\dagger$ tabellarius si apud te esse quas satis fecissest dares $\\dagger$. How much it amounts to, Eros, the agent of Philotimus, will tell you. But let us return to greater matters.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod optas, Caelianum illud maturescit. itaque torqueor utrum ventum exspectem. vexillo opus est; convolabunt. quod suades ut palam, prorsus adsentior itaque me profecturum puto. tuas tamen interim litteras exspecto. Servi consilio nihil expeditur. omnes captiones in omni sententia occurrunt. unum C. Marcellum cognovi timidiorem; quem consulem fuisse paenitet. ὢ πολλῆσ ἀγεννείασ ! qui etiam Antonium confirmasse dicitur ut me impediret, quo ipse, credo, honestius.",
+      "eng": "What you hope for, the affair in Caelius's letter, is ripening. So I am tormented over whether I should wait for a fair wind. A standard is what is needed; they will come flying to it. As to your urging that I go openly, I agree entirely, and so I think I shall set out. Meanwhile, however, I am waiting for your letter. Nothing is settled by Servius's counsel. Every snare in every proposition comes up against him. The one man I have known to be more timid still is Gaius Marcellus, who regrets having been consul. Oh, the depths of ignobility! [Greek: \\=o poll\\=es agenneias] --- the man who is even said to have strengthened Antony in his resolve to obstruct me, all the more honourably for himself, I suppose.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Antonius autem vi Idus Capuam profectus est. ad me misit se pudore deterritum ad me non venisse quod me sibi suscensere putaret. ibitur igitur et ita quidem ut censes, nisi cuius gravioris personae suscipiendae spes erit ante oblata. sed vix erit tam cito. Allienus autem praetor putabat aliquem, si ego non, ex conlegis suis. quivis licet dum modo aliquis.",
+      "eng": "Antony for his part set out for Capua on the sixth day before the Ides. He sent word to me that he had been deterred by embarrassment from coming to me himself, since he supposed me angry with him. I shall go, then, and indeed just as you advise, unless some prospect of a more weighty role to be taken on is offered me beforehand. But that will hardly come so soon. The praetor Allienus, however, thought that someone --- if not I, then one of his colleagues --- would do. Anyone will serve, so long as it is somebody.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de sorore laudo. de Quinto puero datur opera; spero esse meliora. de Quinto fratre scito eum non mediocriter laborare de versura sed adhuc nihil a L. Egnatio expressit. Axius de duodecim milibus pudens! saepe enim ad me scripsit ut Gallio quantum is vellet darem. quod si non scripsisset, possemne aliter? et quidem saepe sum pollicitus sed tantum voluit cito. me vero adiuvarent his in angustiis. sed di istos! verum alias. te a quartana liberatum gaudeo itemque Piliam. ego , dum panis et cetera in navem parantur, excurro in Pompeianum. Vettieno velim gratias quod studiosus sit; si quemquam nactus eris qui perferat, litteras des ante quam discedimus.",
+      "eng": "About your sister, I commend her. About young Quintus, effort is being made; I hope things are looking up. About your brother Quintus, you should know he is in no small trouble over the loan transfer, but so far he has got nothing out of Lucius Egnatius. Axius, about the twelve thousand --- the shamelessness! For he has often written to me to pay Gallius as much as he wished. And if he had not written, could I have done otherwise? I have indeed often promised; only he wanted as much, and quickly. Let them help me, indeed, in these straits! But may the gods take care of such fellows! Another time on this. I am glad you are free of the quartan, and Pilia too. I, while the bread and other provisions are being put aboard ship, am running over to my Pompeian villa. I should be grateful if you would thank Vettienus, who is being attentive; if you can find anyone to carry it, send me a letter before we set sail.",
+      "notes": null
+    }
+  ]
+}

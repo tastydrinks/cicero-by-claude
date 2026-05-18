@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-05",
+  "category": "letters",
+  "title_latin": "Ad Atticum 8.5",
+  "title_english": "Ad Atticum 8.5",
+  "date": "-0049-02-23",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum ante lucem viii Kal. litteras ad te de Dionysio dedissem, vesperi ad nos eodem die venit ipse Dionysius auctoritate tua permotus, ut suspicor; quid enim putem aliud? etsi solet eum, cum aliquid furiose fecit, paenitere. numquam autem cerritior fuit quam in hoc negotio. nam quod ad te non scripseram, postea audivi a tertio miliario tum eum isse πολλὰ μάτην κεράεσσιν ἐσ ἠέρα θυμήναντα, multa, inquam, mala cum dixisset: suo capiti, ut aiunt. sed en meam mansuetudinem! coniecerim in fasciculum una cum tua vehementem ad illum epistulam. hanc ad me referri volo nec ullam ob aliam causam Pollicem servum a pedibus meum Romam misi. eo autem ad te scripsi ut, si tibi forte reddita esset, mihi curares referendam, ne in illius manus perveniret.",
+      "eng": "After I had given you a letter before dawn on the eighth day before the Kalends about Dionysius, that same evening Dionysius himself came to me, moved (I suspect) by your authority; for what else am I to think? Though he is in the habit, after some furious act, of regretting it. He has never, however, been more beside himself than in this business. For there is something I had not written to you: I heard later that, from the third milestone, he had gone away [Greek: tossing his horns idly into the air in his rage] --- saying, I mean, many bad things: upon his own head, as the saying goes. But behold my mildness! I went and tossed into the packet, along with yours, a vehement letter of mine to him. This letter I want sent back to me, and for no other reason have I dispatched my body-slave Pollex to Rome. I have written to you about it so that, if it should happen to be delivered to you, you can see to its being sent back to me, and so prevent it from coming into his hands.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "novi si quid esset scripsissem. pendeo animi exspectatione de re Corfiniensi, in qua de salute rei publicae decernetur. tu fasciculum, qui est M'. Curio inscriptus, velim cures ad eum perferendum Tironemque Curio commendes et ut det ei si quid opus erit in sumptum roges.",
+      "eng": "If I had had any news, I should have written it. I am suspended in mind, awaiting the Corfinium business, in which the safety of the commonwealth will be decided. As for the packet inscribed to M'. Curius, please see that it is delivered through to him, and recommend Tiro to Curius, and ask him to give Tiro whatever may be needed for expenses.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-03",
+  "category": "letters",
+  "title_latin": "Ad Atticum 10.3",
+  "title_english": "Ad Atticum 10.3",
+  "date": "-0049-04-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum quod scriberem plane nihil haberem, haec autem reliqua essent quae scire cuperem, profectusne esset, quo in statu urbem reliquisset, in ipsa Italia quem cuique regioni aut negotio praefecisset, ecqui essent ad Pompeium et ad consules ex senatus consulto de pace legati, ut igitur haec scirem dedita opera has ad te litteras misi. feceris igitur commode mihique gratum si me de his rebus et si quid erit aliud quod scire opus sit feceris certiorem. ego in Arcano opperior dum ista cognosco.",
+      "eng": "Since I had absolutely nothing to write, but these matters remained which I was eager to know --- whether he had set out, in what state he had left the City, in Italy itself whom he had placed in charge of each region or business, whether any envoys to Pompey and to the consuls had been sent by decree of the Senate concerning peace --- to learn these things, then, I have sent this letter to you on purpose. You will do me a kindness, then, and one I shall be grateful for, if you let me know about these matters and, if there is anything else worth knowing, about that too. I am waiting at Arcanum until I have your news.",
+      "notes": null
+    }
+  ]
+}

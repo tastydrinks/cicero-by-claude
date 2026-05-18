@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-20",
+  "category": "letters",
+  "title_latin": "Ad Atticum 11.20",
+  "title_english": "Ad Atticum 11.20",
+  "date": "-0047-08-17",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "xvii K. Septembris venerat die xxviii Seleucea Pieria C. Treboni libertus qui se Antiocheae diceret apud Caesarem vidisse Quintum filium cum Hirtio; eos de Quinto quae voluissent impetrasse nullo quidem negotio. quod ego magis gauderem si ista nobis impetrata quicquam ad spem explorati haberent. sed et alia timenda sunt ab aliis Quintis que, et ab hoc ipso quae dantur, ut a domino, rursus in eiusdem sunt potestate. etiam Sallustio ignovit.",
+      "eng": "On the seventeenth day before the Kalends of September there arrived --- having left Seleucia in Pieria twenty-eight days before --- a freedman of Gaius Trebonius, who said that at Antioch, with Caesar, he had seen my brother Quintus's son together with Hirtius; that on the matter of Quintus they had obtained what they wanted, and with no trouble at all. I should have been more glad of this if their having got what they wanted on that question carried with it anything to ground a hope that has been thought through. But there are other things to be feared from other Quintuses too, and what is granted by this one fellow himself, granted as by a master, is again in the same person's power to revoke. He has even pardoned Sallustius.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "omnino dicitur nemini negare; quod ipsum est suspectum, notionem eius differri. M. Gallius Q. f. mancipia Sallustio reddidit. is venit ut legiones in Siciliam traduceret. eo protinus iturum Caesarem Patris. quod si faciet ego, quod ante mallem, aliquo propius accedam. tuas litteras ad eas quibus a te proxime consilium petivi vehementer exspecto. vale . xvi Kal. Septembris.",
+      "eng": "He is said to refuse no one absolutely; which is itself suspect --- the recognition of him is put off. Marcus Gallius, son of Quintus, has returned the slaves to Sallustius. He has come to convey legions across into Sicily. Caesar will be going straight from there to Patrae. If he does so, I, who would have preferred this before, shall move somewhere a little nearer. I am keenly waiting for your reply to the letters in which I most recently asked your advice. Farewell. The sixteenth day before the Kalends of September.",
+      "notes": null
+    }
+  ]
+}

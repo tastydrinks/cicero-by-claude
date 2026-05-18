@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-10",
+  "category": "letters",
+  "title_latin": "Ad Atticum 8.10",
+  "title_english": "Ad Atticum 8.10",
+  "date": "-0049-02-26",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Dionysius cum ad me praeter opinionem meam venisset, locutus sum cum eo liberalissime; tempora exposui, rogavi ut diceret quid haberet in animo; me nihil ab ipso invito contendere. respondit se quod in nummis haberet nescire quo loci esset; alios non solvere, aliorum diem nondum esse. dixit etiam alia quaedam de servulis suis qua re nobiscum esse non posset. morem gessi; dimisi a me ut magistrum Ciceronum non libenter, ut hominem ingratum non invitus. volui te scire et quid ego de eius facto iudicarem.",
+      "eng": "Dionysius, having come to me beyond my expectation, I spoke with as openly as could be. I set out the times to him; I asked him to say what he had in mind; I told him I was pressing nothing on him against his will. He answered that, as for the money he had, he did not know where it was; some debtors were not paying, others' dates had not come due. He also mentioned certain matters about his slaves, on account of which he could not be with us. I let him have his way. I sent him off --- as the boys' teacher, not gladly; as an ungrateful man, not unwillingly. I wanted you to know, and to know also what I judged of his conduct.",
+      "notes": null
+    }
+  ]
+}

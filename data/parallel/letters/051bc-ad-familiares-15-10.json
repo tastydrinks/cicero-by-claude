@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-10",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.10",
+  "title_english": "Ad Familiares 15.10",
+  "date": "-0051-11-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quoniam id accidit, quod mihi maxime fuit optatum, ut omnium Marcellorum, Marcellinorum etiam (mirificus enim generis ac nominis vestri fuit erga me semper animus) quoniam ergo ita accidit, ut omnium vestrum studio tuus consulatus satis facere posset, in quem meae res gestae lausque et honos earum potissimum incideret, peto a te, id quod facillimum factu est non aspernante, ut confido, senatu, ut quam honorificentissime senatus consultum haeris meis recitatis faciendum cures.",
+      "eng": "Since it has fallen out as I most wished --- that out of all the Marcelli, and the Marcellini too (for the disposition of your house and name toward me has always been remarkable) --- since, then, it has fallen out so that your consulship of all years can satisfy the zeal of you all, and that into it my campaigns, with their praise and the honour due them, have particularly fallen: I ask of you what is most easily done --- the Senate, as I trust, not refusing --- that you see to it that, when my letter is read out, a decree of the Senate is made in the most honourable terms.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "si mihi tecum minus esset quam est cum tuis omnibus, adlegarem ad te illos a quibus intellegis me praecipue diligi. Patris tui beneficia in me sunt amplissima ; neque enim saluti meae neque honori amicior quisquam dici potest ; frater tuus quanti me faciat semperque fecerit esse hominem qui ignoret arbitror neminem ; domus tua denique tota me semper omnibus summis officiis prosecuta est ; neque vero tu in me diligendo cuiquam concessisti tuorum. qua re a te peto in maiorem modum ut me per te quam ornatissimum velis esse meamque et in supplicatione decernenda et in ceteris rebus existimationem satis tibi esse commendatam putes.",
+      "eng": "If I were less close to you than I am to all who belong to you, I would send to you those by whom you understand that I am especially loved. Your father's services to me are very great; for no man can be called a closer friend either to my safety or to my honour. Your brother's regard for me, and the regard he has always shown, there is no one, I think, who does not know. Your whole house, finally, has always attended me with every highest service; nor, in your affection for me, have you yielded to anyone in your family. Wherefore I ask you in the strongest possible terms that you wish me, through your agency, to be as honoured as may be, and that you think my standing, both in the decree of the supplicatio and in other matters, sufficiently commended to your care.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-12",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.12",
+  "title_english": "Ad Familiares 2.12",
+  "date": "-0050-06-26",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "sollicitus equidem eram de rebus urbanis; ita tumultuosae contiones, ita molestae Quinquatrus adferebantur (nam citeriora nondum audiebamus); sed tamen nihil me magis sollicitabat quam in iis molestiis non me, si quae ridenda essent, ridere tecum; sunt enim multa, sed ea non audeo scribere. illud moleste fero, nihil me adhuc his de rebus habere tuarum litterarum. qua re etsi, cum tu haec leges, ego iam annuum munus confecero, tamen obviae mihi velim sint tuae litterae, quae me erudiant de omni re publica, ne hospes plane veniam. hoc melius quam tu facere nemo potest.",
+      "eng": "I was indeed anxious about affairs in the city: the public meetings, we were told, were so tumultuous, the Quinquatrus so vexed (for of nearer events we had as yet heard nothing); but nothing was making me more anxious than this, that, in the midst of these vexations, I was not laughing with you at the things that were worth a laugh; for there are many, but I do not dare to write them. This grieves me, that on these matters I have so far had not one letter of yours. So, even though, by the time you read this, I shall already have finished my year's service, I should like your letters to meet me on the way, to school me as to the whole state of the commonwealth, lest I come back a plain stranger. No one can do this better than you.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Diogenes tuus, homo modestus, a me cum Philone Pessinunte discessit. iter habebant ad Adiatorigem, quamquam omnia nec benigna nec copiosa cognorant. urbem , urbem, mi Rufe, cole et in ista luce vive; omnis peregrinatio, quod ego ab adulescentia iudicavi, obscura et sordidast iis, quorum industria Romae potest inlustris esse. quod cum probe scirem, utinam in sententia permansissem! cum una me hercule ambulatiuncula atque uno sermone nostro omnis fructus provinciae non confero.",
+      "eng": "Your Diogenes, that modest man, parted from me at Pessinus along with Philo. They were going on to Adiatorix, though they had learned that everything there was neither kindly nor abundant. The City, my dear Rufus, the City: hold to her, and live in her light. All foreign service --- as I have judged it from my earliest manhood --- is obscure and squalid for men whose industry can shine at Rome. Knowing this perfectly well, would that I had stood by my own judgement! With one short walk and one of our conversations, I would not, by Hercules, compare all the rewards of a province.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "spero me integritatis laudem consecutum; non erat minor ex contemnenda quam est ex conservata provincia. ' spem triumphi?' inquis. satis gloriose triumpharem; non essem quidem tam diu in desiderio rerum mihi carissimarum. sed , ut spero, propediem te videbo; tu mihi obviam mitte epistulas te dignas.",
+      "eng": "I hope I have won the praise of integrity; it was no smaller from a province despised than it is from a province preserved. ``The hope of a triumph?'' you say. I should triumph creditably enough; but at least I should not be so long deprived of what is dearest to me. But, as I hope, before long I shall see you; do you send me letters worthy of you to meet me on the road.",
+      "notes": null
+    }
+  ]
+}

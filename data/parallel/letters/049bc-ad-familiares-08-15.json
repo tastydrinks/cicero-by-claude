@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-15",
+  "category": "letters",
+  "title_latin": "Ad Familiares 8.15",
+  "title_english": "Ad Familiares 8.15",
+  "date": "-0049-03-09",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Ecquando tu hominem ineptiorem quam tuum Cn. Pompeium vidisti, qui tantas turbas, qui tam nugax esset, commorit? ecquem autem Caesare nostro acriorem in rebus gerendis, eodem in victoria temperatiorem aut legisti aut audisti? quid est? num tibi nostri milites, qui durissimis et frigidissimis locis, taeterrima hieme bellum ambulando confecerunt, malis orbiculatis esse pasti videntur? ' quid iam?' inquis. gloriose omnia. si scias quam sollicitus sim, tum hanc meam gloriam quae ad me nihil pertinet derideas ; quae tibi exponere nisi coram non possum, idque celeriter fore spero ; nam me, cum expulisset ex Italia Pompeium, constituit ad urbem vocare, id quod iam existimo confectum, nisi si maluit Pompeius Brundisi circumsederi.",
+      "eng": "Did you ever see a man more ineffectual than your Cn. Pompey, who stirred up such commotion when he was so trifling a thing? And did you ever read or hear of anyone keener than our Caesar in the conduct of affairs, and at the same time more temperate in victory? What now? Do you suppose our soldiers, who in the harshest, coldest country and in the foulest winter finished off a war by mere walking, were being fed on apples? ``What of it?'' you say. All gloriously. If you knew how anxious I am, you would laugh at this glory of mine, which has nothing to do with me. I cannot lay it out to you except face to face, and I hope that will be soon: for he, once he had driven Pompey out of Italy, decided to call me to the city, which I now reckon as good as done --- unless Pompey has preferred to be hemmed in at Brundisium.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "peream , si minima causa est properandi isto mihi, quod te videre et omnia intima conferre discupio, habeo autem quam multa. Hui vereor, quod solet fieri, ne cum te videro omnia obliviscar. sed tamen quod ob scelus iter mihi necessarium retro ad Alpis versus incidit? ideo quod Intimilii in armis sunt, neque de magna causa. Bellienus, verna Demetri, qui ibi cum praesidio erat, Domitium quendam, nobilem illi, Caesaris hospitem, a contraria factione nummis acceptis comprendit et strangulavit ; civitas ad arma iit ; eo †num cohortibus mihi per nivis eundum est. ' usque quaque,' inquis, 'se Domitii male dant.' vellem quidem Venere prognatus tantum animi habuisset in vestro Domitio quantum Psecade natus in hoc habuit. Ciceroni f. s. d.",
+      "eng": "May I perish if the least reason for my hurrying there is not that I am dying to see you and pour out everything in private --- and I have plenty to pour out. Bah, I am afraid, as usually happens, that when I have you in front of me I shall forget the lot. But still --- for what sin has this necessary journey back toward the Alps fallen to me? Because the Intimilii are in arms, and over no great matter. Bellienus, a homebred slave of Demetrius, who was there with the garrison, took money from the opposite faction and arrested and strangled a certain Domitius --- a man of standing in those parts, a guest-friend of Caesar's. The town went to arms; for that reason I now have to go through the snows with my cohorts. ``Always,'' you say, ``the Domitii come to a bad end.'' I could indeed wish that the man sprung from Venus had shown as much spirit toward your Domitius as the one born of Psecas showed toward this one. Greetings to young Cicero.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-21",
+  "category": "letters",
+  "title_latin": "Ad Atticum 7.21",
+  "title_english": "Ad Atticum 7.21",
+  "date": "-0049-02-08",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de malis nostris tu prius audis quam ego. istim enim emanant. boni autem hinc quod exspectes nihil est. veni Capuam ad Nonas Febr. ita ut iusserant consules. eo die Lentulus venit sero. alter consul omnino non venerat vii Idus. eo enim die ego Capua discessi et mansi Calibus. inde has litteras postridie ante lucem dedi. haec Capuae dum fui cognovi, nihil in consulibus, nullum usquam dilectum. nec enim conquisitores φαινοπροσωπεῖν audent cum ille adsit, contraque noster dux nusquam sit, nihil agat, nec nomina dant. deficit enim non voluntas sed spes. Gnaeus autem noster (o rem miseram et incredibilem!) ut totus iacet! non animus est, non consilium, non copiae, non diligentia. mittam illa, fugam ab urbe turpissimam, timidissimas in oppidis contiones, ignorationem non solum adversari sed etiam suarum copiarum; hoc cuius modi est?",
+      "eng": "About our troubles you hear before I do --- they ooze out from your end. From this end there is nothing good for you to look out for. I came to Capua on the Nones of February, as the consuls had ordered. Lentulus got in late that day; the other consul had not arrived at all by the seventh day before the Ides --- for that was the day I left Capua and slept the night at Cales. From there I gave this letter the next day before dawn. What I learned at Capua while I was there: nothing in the consuls, no levy anywhere. The recruiting officers do not dare [Greek: to show their faces] while he is at hand, and our own commander, on the contrary, is nowhere, does nothing, and no one is putting in his name. It is not the will that is failing, but the hope. And our Gnaeus --- O wretched, incredible business! --- how utterly he is laid low. There is no spirit, no plan, no forces, no diligence. I pass over the rest: the disgraceful flight from the city, the cowardly speeches in the towns, the ignorance not just of the enemy but of his own forces. What sort of thing is this?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "vii Idus Febr. Capuam C. Cassius tribunus pl. venit, adtulit mandata ad consules ut Romam venirent, pecuniam de sanctiore aerario auferrent, statim exirent. urbe relicta redeant; quo praesidio? deinde exeant; quis sinat? consul ei rescripsit ut prius ipse in Picenum. at illud totum erat amissum; sciebat nemo praeter me ex litteris Dolabellae. mihi dubium non erat quin ille iam iamque foret in Apulia, Gnaeus noster in navi.",
+      "eng": "On the seventh day before the Ides of February, C. Cassius, tribune of the plebs, came to Capua. He brought instructions to the consuls: that they should go to Rome, take money from the inner treasury, and leave at once. Return, after they had abandoned the city --- under what escort? Then leave again --- who is going to let them? The consul wrote back to him that he should first go into Picenum himself. But that whole region was lost; no one knew it except me, from a letter of Dolabella. I had no doubt that the one was already at the gates of Apulia, and our Gnaeus on board ship.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ego quid agam σκέμμα magnum—neque me hercule mihi quidem ullum, nisi omnia essent acta turpissime, neque ego ullius consili particeps—sed tamen quod me deceat. ipse me Caesar ad pacem hortatur; sed antiquiores litterae quam ruere coepit. Dolabella, Caelius me illi valde satis facere. mira me ἀπορία torquet. iuva me consilio si potes, et tamen ista quantum potes provide. nihil habeo tanta rerum perturbatione quod scribam. tuas litteras exspecto.",
+      "eng": "What I am to do is a great [Greek: matter for thought] --- and by Hercules, in my own case, none at all, were it not that everything had been done so disgracefully and I have been party to no plan --- but still, what suits me. Caesar himself is urging me to peace; but the letter is earlier than the day he started his charge. Dolabella, Caelius --- they say I am very acceptable to him. A strange [Greek: perplexity] is tearing at me. Help me with counsel if you can, and for the rest look out for those matters there as much as you can. With things in such turmoil I have nothing to write. I wait for your letters.",
+      "notes": null
+    }
+  ]
+}

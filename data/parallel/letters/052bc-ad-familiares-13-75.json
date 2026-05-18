@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-75",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.75",
+  "title_english": "Ad Familiares 13.75",
+  "date": "-0052-08-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi non dubito quin apud te mea commendatio prima satis valeat, tamen obsequor homini familiarissimo, C. Avianio Flacco, cuius causa omnia cum cupio tum me hercule etiam debeo. de quo et praesens tecum egi diligenter, cum tu mihi humanissime respondisti, et scripsi ad te accurate antea ; sed putat interesse sua me ad te quam so saepissime scribere. qua re velim mihi ignoscas, si illius voluntati obtemperans minus videbor meminisse constantiae tuae.",
+      "eng": "Although I have no doubt that my first recommendation carries enough weight with you, still I am indulging a man on most familiar terms with me, C. Avianius Flaccus, on whose behalf I not only wish to do everything but, by Hercules, owe it too. I spoke about him to you carefully in person, and you answered me in the kindest possible way; and I have already written to you at some length about him. But he thinks it makes a difference to him that I write to you as often as possible. So I should like you to forgive me if, in deferring to his wish, I seem to be too little mindful of your own consistency.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "A te idem illud peto ut de loco, quo deportet frumentum, et de tempore Avianio commodes, quorum utrumque per eundem me obtinuit triennium, dum Pompeius isti negotio praefuit. summa est, in quo mihi gratissimum facere possis, si curaris ut Avianius, quoniam se a me amari putat, me a te amari sciat. erit id mihi pergratum.",
+      "eng": "What I ask of you is that same thing as before: that you accommodate Avianius both in the place to which he is to convey the grain and in the matter of the timing. He obtained both, through my agency, for three years while Pompey was in charge of that office. The substance is this: you can do nothing more welcome to me than to see to it that, since Avianius thinks himself loved by me, he may know himself loved by you. That will be most gratifying to me indeed.",
+      "notes": null
+    }
+  ]
+}

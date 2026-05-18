@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-06",
+  "category": "letters",
+  "title_latin": "Ad Atticum 10.6",
+  "title_english": "Ad Atticum 10.6",
+  "date": "-0049-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "me adhuc nihil praeter tempestatem moratur. astute nihil sum acturus, fiat in Hispania quidlibet: et tamen †recitet et†. meas cogitationes omnis explicavi tibi superioribus litteris. quocirca hae sunt breves, †et tamen† quia festinabam eramque occupatior.",
+      "eng": "So far nothing detains me except the weather. I shall do nothing cunning, whatever happens in Spain. \\dag{}And yet let him recite\\dag{}. I unfolded all my thinking to you in my previous letter. So this one is brief, \\dag{}and yet\\dag{} because I was in a hurry and rather pressed.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Quinto filio fit a me quidem sedulo; sed nosti reliqua. quod dein me mones, et amice et prudenter me mones, sed erunt omnia facilia si ab uno illo cavero. magnum opus est, mirabilia multa, nihil simplex, nihil sincerum. vellem suscepisses iuvenem regendum; pater enim nimis indulgens, quicquid ego adstrinxi relaxat. si sine illo possem, regerem; quod tu potes. sed ignosco; magnum, inquam, opus est.",
+      "eng": "About young Quintus I am doing what I can, in earnest; but you know the rest. As for what you go on to warn me of, you warn me as a friend and shrewdly --- but it will all be easy if I can only guard against that one man. It is a great business; many strange things; nothing straightforward, nothing sincere. I wish you had taken on the steering of the lad yourself; for his father is too indulgent, and whatever I have tightened up he loosens. If I could manage without his father, I would steer the boy --- which you can do. But I forgive him; it is a great business, I tell you.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Pompeium pro certo habemus per Illyricum proficisci in Galliam. ego nunc qua et quo videbo.",
+      "eng": "We have it on good authority that Pompey is setting out for Gaul by way of Illyricum. I shall now look to by what route and where.",
+      "notes": null
+    }
+  ]
+}

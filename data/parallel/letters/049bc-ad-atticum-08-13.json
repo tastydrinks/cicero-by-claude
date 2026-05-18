@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-13",
+  "category": "letters",
+  "title_latin": "Ad Atticum 8.13",
+  "title_english": "Ad Atticum 8.13",
+  "date": "-0049-03-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "lippitudinis meae signum tibi sit librari manus et eadem causa brevitatis; etsi nunc quidem quod scriberem nihil erat. omnis exspectatio nostra erat in nuntiis Brundisinis si nactus hic esset Gnaeum nostrum, spes dubia pacis, sin ille ante tramisisset, exitiosi belli metus. sed videsne in quem hominem inciderit res publica, quam acutum, quam vigilantem, quam paratum? si me hercule neminem occiderit nec cuiquam quicquam ademerit, ab iis qui eum maxime timuerant maxime diligetur.",
+      "eng": "Let my secretary's hand be a sign to you of my eye-inflammation, and the same the cause of my brevity --- though, just now, I had in fact nothing to write. All our expectation hangs upon the news from Brundisium: if our Cnaeus has caught the man there, a doubtful hope of peace; but if he has crossed over first, the fear of a deadly war. Yet do you see on what kind of a man the commonwealth has fallen --- how shrewd, how vigilant, how prepared? By Hercules, if he kills no one and takes nothing from anyone, he will be most loved by those who had most feared him.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "multum mecum municipales homines loquuntur, multum rusticani; nihil prorsus aliud curant nisi agros, nisi villulas, nisi nummulos suos. et vide quam conversa res sit; illum quo antea confidebant metuunt, hunc amant quem timebant. id quantis nostris peccatis vitiisque evenerit non possum sine molestia cogitare. quae autem impendere putarem, scripseram ad te et iam tuas litteras exspectabam.",
+      "eng": "The country-town men talk much with me, the country people much; absolutely nothing else is on their minds but their fields, their little farmhouses, their little funds. And see how the matter is turned about: the man in whom before they had confidence, they fear; this man they love, whom they had been afraid of. With what great faults and vices of our own this has come about, I cannot think of without distress. The things I supposed were hanging over us I had written to you, and now I was waiting on your letter.",
+      "notes": null
+    }
+  ]
+}

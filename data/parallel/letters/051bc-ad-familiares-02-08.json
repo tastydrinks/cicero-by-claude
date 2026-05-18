@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-08",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.8",
+  "title_english": "Ad Familiares 2.8",
+  "date": "-0051-07-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quid ? tu me hoc tibi mandasse existimas, ut mihi gladiatorum compositiones, ut vadimonia dilata et Chresti compilationem mitteres et ea, quae nobis, cum Romae sumus, narrare nemo audeat? vide , quantum tibi meo iudicio tribuam (nec me hercule iniuria; politikw/teron enim te adhuc neminem cognovi). ne illa quidem curo mihi scribas, quae maximis in rebus rei publicae geruntur cotidie, nisi quid ad me ipsum pertinebit; scribent alii, multi nuntiabunt, perferet multa etiam ipse rumor. qua re ego nec praeterita nec praesentia abs te, sed ut ab homine longe in posterum prospiciente futura exspecto, ut, ex tuis litteris cum formam rei publicae viderim, quale aedificium futurum sit scire possim.",
+      "eng": "What? Do you really suppose I commissioned you for this --- to send me match-ups of gladiators, adjournments of legal sureties, the Chrestus catalogue of pickpocketings, and the kind of things which no one, when I am at Rome, would dare to recount to me? See how much credit I give your judgement (and, by Hercules, not undeservedly: I have known nobody to date more politically perceptive than you, [Greek: politikoteron]). I am not asking you to write to me even what is being transacted day by day in the greatest matters of state, unless something is going to bear upon me personally; others will write, many will report, rumour itself will carry much. So from you I look neither for the past nor for the present: I look, as from a man with the longest view of the future, for what is to come, so that, when I have seen the shape of the commonwealth out of your letters, I may know what kind of edifice is going to rise.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "neque tamen adhuc habeo quod te accusem; neque enim fuit quod tu plus providere posses quam quivis nostrum in primisque ego, qui cum Pompeio compluris dies nullis in aliis nisi de re publica sermonibus versatus sum; quae nec possunt scribi nec scribenda sunt; tantum habeto, civem egregium esse Pompeium et ad omnia, quae providenda sunt in re publica, et animo et consilio paratum. qua re da te homini; complectetur, mihi crede. iam idem illi et boni et mali cives videntur, qui nobis videri solent.",
+      "eng": "And yet so far I have nothing to charge you with: there has been nothing you could see further on than the rest of us --- myself in particular, since I have been with Pompey for a good many days running, on no other terms of conversation than affairs of state, of which it is not possible to write, and not proper to write. Take only this: Pompey is an outstanding citizen, both in spirit and in judgement prepared for all that must be looked after in the commonwealth. So commit yourself to the man; he will embrace you --- believe me. He now takes the same view, both of good citizens and of bad, that we have always taken.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ego cum Athenis decem ipsos dies fuissem multumque mecum Gallus noster Caninius, proficiscebar inde pridie Nonas Quintilis, cum hoc ad te litterarum dedi. tibi cum omnia mea commendatissima esse cupio tum nihil magis quam ne tempus nobis provinciae prorogetur; in eo mihi sunt omnia. quod quando et quo modo et per quos agendum sit, tu optime constitues.",
+      "eng": "I had been at Athens a full ten days, and our friend Caninius Gallus was much with me, when I set out from there on the 6th of July, the day on which I am giving you this letter. I want everything of mine to be very highly commended to you, but nothing more than this: that no extension of time be granted on my province. In that everything for me consists. When, in what way, and through whom this business is to be managed, you will best determine.",
+      "notes": null
+    }
+  ]
+}

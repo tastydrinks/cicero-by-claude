@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-07",
+  "category": "letters",
+  "title_latin": "Ad Atticum 6.7",
+  "title_english": "Ad Atticum 6.7",
+  "date": "-0050-07-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Quintus filius pie sane, me quidem certe multum hortante, sed currentem animum patris sui sorori tuae reconciliavit. eum valde tuae litterae excitarunt. quid quaeris? confido rem ut volumus esse. bis ad te antea scripsi de re mea familiari, si modo tibi redditae litterae sunt, Graece ἐν αἰνιγμοῖσ . scilicet nihil est movendum; sed tamen ἀφελῶσ percontando de nominibus Milonis et ut expediat ut mihi receperit hortando aliquid †aut† proficies",
+      "eng": "Quintus the son --- dutifully enough, and with much urging on my part, certainly, though it was a willing horse I was spurring --- has reconciled his father's heart to your sister. Your letter has stirred him greatly. In short: I trust that matter is as we wish. I have written to you twice before about my private affairs, if the letters have reached you, in Greek and [Greek: in riddles]. Plainly, nothing is to be set in motion; but still, by inquiring [Greek: plainly] into Milo's debts, and by urging him to make good what he undertook to me, you will do some good.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego Laodiceae quaestorem Mescinium exspectare iussi, ut confectas rationes lege Iulia apud duas civitates possem relinquere. Rhodum volo puerorum causa, inde quam primum Athenas, etsi etesiae valde reflant; sed plane volo his magistratibus quorum voluntatem in supplicatione sum expertus. tu tamen mitte mihi, quaeso, obviam litteras numquid putes rei publicae nomine tardandum esse nobis. Tiro ad te dedisset litteras, nisi eum graviter aegrum Issi reliquissem. sed nuntiant melius esse. ego tamen angor; nihil enim illo adulescente castius, nihil diligentius.",
+      "eng": "I have given orders for the quaestor Mescinius to wait for me at Laodicea, so that I may deposit my accounts, made up under the Julian Law, with two cities. I want to go to Rhodes for the boys' sake, then to Athens as soon as possible --- though the etesian winds blow hard against it. Even so, I positively want to be there under these magistrates, whose goodwill I have proved in the matter of the supplicatio. Still, please send letters to meet me, in case you think we ought to be delayed on any account of public business. Tiro would have given you a letter, had I not had to leave him gravely ill at Issus. They report him better. I am wretched, all the same; for there is no more chaste young man, no more diligent.",
+      "notes": null
+    }
+  ]
+}

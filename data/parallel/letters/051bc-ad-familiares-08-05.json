@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 8.5",
+  "title_english": "Ad Familiares 8.5",
+  "date": "-0051-08-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "qua tu cura sis, quod ad pacem provinciae tuae finitimarumque regionum attinet, nescio; ego quidem vehementer animi pendeo. nam si hoc modo rem moderari possemus, ut pro viribus copiarum tuarum belli quoque exsisteret magnitudo et quantum gloriae triumphoque opus esset adsequeremur, periculosam et gravem illam dimicationem evitaremus, nihil tam esset optandum; nunc si Parthus movet aliquid, scio non mediocrem fore contentionem; tuus porro exercitus vix unum saltum tueri potest. hanc autem nemo ducit rationem, sed omnia desiderantur ab eo, tamquam nihil denegatum sit ei quo minus quam paratissimus esset, qui publico negotio praepositus est.",
+      "eng": "What anxiety you may be in over the peace of your province and of the neighbouring regions, I do not know; I, for my part, am acutely on edge. For if we could only steer matters in this fashion --- that the scale of the war should rise in step with the strength of your forces, and we should achieve just so much glory and triumph as is necessary, while avoiding that perilous and grave contest --- nothing would be more to be wished for; but as it is, if the Parthian moves at all, I know the struggle will be no light one; and your army can barely cover a single mountain pass. And yet nobody takes this calculation into account: everything is asked of him, as though nothing had been denied him to keep him from being as fully prepared as possible --- this man who has been put in charge of the public business.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "accedit huc quod successionem futuram propter Galliarum controversiam non video. tametsi hac de re puto te constitutum quid facturus esses habere, tamen, quo maturius constitueres, cum hunc eventum providebam, visum est ut te facerem certiorem. Nosti enim haec tralaticia: de Galliis constituetur; erit qui intercedat; deinde alius exsistet qui, nisi libere liceat de omnibus provinciis decernere senatui, reliquas impediat. sic multum ac diu ludetur, atque ita diu ut plus biennium in his tricis moretur.",
+      "eng": "On top of this, I cannot see any prospect of a successor, on account of the dispute over the Gauls. And although on this point I imagine you already have your mind made up on what you would do, still, so that you can make it up more in good time, I thought, foreseeing this outcome, that I should inform you. For you know how these proceedings go, the standard manoeuvres: a resolution will be passed on the Gauls; someone will interpose a veto; then another will rise up who, unless the Senate is given a free hand to decide on all the provinces together, will obstruct the rest. So the game will be played, much and at length, and at such length that the business will be hung up in these snares for more than a full two years.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "si quid novi de re p. quod tibi scriberem haberem, usus essem mea consuetudine, ut diligenter et quid actum esset et quid ex eo futurum sperarem per.scriberem. sane tamquam in quodam incili iam omnia adhaeserunt. Marcellus idem illud de provinciis urget neque adhuc frequentiam senatus efficere potuit. hoc si praeterito anno Curio tribunus erit, eadem actio de provinciis introibit. quam facile nunc sit omnia impedire et quam hoc Caesari, qui sua causa rem p. non curent, †superet, non te fallit.",
+      "eng": "If I had anything new in the commonwealth to write to you about, I should be using my usual practice --- to write you out diligently both what had been done and what I hoped would come of it. But everything has now stuck fast, as if in some drainage-ditch. Marcellus is pressing that same point about the provinces, and so far has not managed to muster a full attendance of the Senate. If, with this year passed by, Curio is to be tribune, the same action on the provinces will be set in motion. How easy it is now to obstruct everything --- and how much this \\textdagger plays into the hand of Caesar\\textdagger, and of those who care nothing for the commonwealth where it stands against their own interest --- does not escape you.",
+      "notes": null
+    }
+  ]
+}

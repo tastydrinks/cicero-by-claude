@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-07",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.7",
+  "title_english": "Ad Familiares 2.7",
+  "date": "-0051-12-19",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "sera gratulatio reprehendi non solet, praesertim si nulla neglegentia praetermissa est; longe enim absum, audio sero; sed tibi et gratulor et, ut sempiternae laudi tibi sit iste tribunatus, exopto teque hortor, ut omnia gubernes et moderere prudentia tua, ne te auferant aliorum consilia. nemo est qui tibi sapientius suadere possit te ipso; numquam labere, si te audies. non scribo hoc temere; cui scribam, video; novi animum, novi consilium tuum; non vereor ne quid timide, ne quid stulte facias, si ea defendes, quae ipse recta esse senties.",
+      "eng": "A late congratulation is not usually rebuked, especially when no negligence is to blame for the delay --- for I am far away, and hear things late. But I do congratulate you; and I pray that this tribunate of yours may be a sempiternal praise to you; and I urge you to steer and moderate the whole by your own prudence, lest the counsels of others carry you away. No one can advise you more wisely than you yourself. You will never stumble, if you listen to yourself. I do not write this idly. I see to whom I am writing; I know your spirit, I know your judgement. I do not fear that you will do anything timidly or anything foolishly, if you defend what you yourself shall feel to be right.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod in rei publicae tempus non incideris, sed veneris (iudicio enim tuo, non casu in ipsum discrimen rerum contulisti tribunatum tuum), profecto vides; quanta vis in re publica temporum sit, quanta varietas rerum, quam incerti exitus, quam flexibiles hominum voluntates, quid insidiarum, quid vanitatis in vita, non dubito quin cogites. sed , amabo te, cura et cogita, Curio,—nihil novi, sed illud idem, quod initio scripsi : tecum o loquere, te adhibe in consilium, te audi, tibi obtempera. alteri qui melius consilium dare possit quam tu, non facile. inveniri potest; tibi vero ipsi certe nemo melius dabit. Dii immortales! cur ego absum vel spectator laudum tuarum vel particeps vel socius vel minister consiliorum? tametsi hoc minime. tibi deest; sed tamen efficeret magnitudo et vis amoris mei, consilio te ut possem luvare.",
+      "eng": "That you have not stumbled into the present hour of the commonwealth, but come into it (for by your own judgement and not by chance you brought your tribunate forward to the very crisis of affairs), you surely see. How great a force in the commonwealth lies in the times, how great a variety in things, how uncertain their issues, how pliable men's wills, what snares, what emptiness in life, I do not doubt you weigh. But, I beg you, take care and think, Curio --- nothing new, but only what I wrote at the start: speak with yourself, take yourself into counsel, listen to yourself, obey yourself. Another who could give you better advice than you yourself can give --- such a one will not easily be found; but better counsel than you yourself certainly no one will give. Immortal gods, why am I not there --- whether as spectator of your praises, or sharer in them, or ally, or minister of your counsels? Though indeed that you least of all lack; still, the magnitude and force of my love would have brought it about that I could help you with counsel.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "scribam ad te plura alias; paucis enim diebus eram missurus domesticos tabellarios, ut, quoniam sane feliciter et ex mea sententia rem publicam gessimus, unis litteris totius aestatis res gestas ad senatum perscriberem. de sacerdotio tuo quantam curam adhibuerim quamque difficili in re atque causa, cognosces ex iis litteris, quas Thrasoni, liberto tuo, dedi.",
+      "eng": "I shall write to you more another time; for in a few days I was going to send out my household couriers, so that, since we have managed the affairs of state successfully and according to my own wish, I might write up in a single letter to the Senate all the summer's deeds. As to your priesthood --- how great a care I have taken, and in how difficult an affair and case --- you shall learn from the letter I have given to Thraso, your freedman.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "te , mi Curio, pro tua incredibili in me benevolentia meaque item in te singulari rogo atque oro, ne patiare quicquam mihi ad hanc provincialem molestiam temporis prorogari. praesens tecum egi, cum te tr. pl. isto anno fore non putarem, itemque petivi saepe per litteras, sed tum quasi a †senatuore, nobilissimo tamen adulescente et gratiosissimo, nunc a tr. pl. et a Curione tribuno, non ut decernatur aliquid novi, quod solet esse difficilius, sed ut ne quid novi decernatur, ut et senati consultum et leges defendas, eaque mihi condicio maneat, qua profectus sum. hoc te vehementer etiam atque etiam rogo.",
+      "eng": "You, my Curio, by your incredible benevolence toward me, and by my own toward you no less singular, I ask and pray: do not allow any extension of time to be granted me in this provincial vexation. I dealt with you in person, when I did not yet suppose you would be tribune of the plebs that year; and I have made the same request many times by letter, but then as from one who was, so to speak, merely a senator --- though a most noble young man and a most gracious --- and now from a tribune of the plebs, and from Curio the tribune; not that something new be decreed (which is wont to be the harder thing), but that nothing new be decreed, that you defend both the decree of the Senate and the laws, and that the condition under which I set out remain mine. This I urge you again and again, with all the earnestness I have.",
+      "notes": null
+    }
+  ]
+}

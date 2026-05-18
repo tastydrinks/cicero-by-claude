@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-07",
+  "category": "letters",
+  "title_latin": "Ad Atticum 9.7",
+  "title_english": "Ad Atticum 9.7",
+  "date": "-0049-03-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "scripseram ad te epistulam quam darem iiii Idus. sed eo die is cui dare volueram non est profectus. venit autem eo ipso die ille celeripes quem Salvius dixerat. attulit uberrimas tuas litteras; quae mihi quiddam quasi animulae instillarunt; recreatum enim me non queo dicere. sed plane τὸ συνέχον effecisti. ego enim non iam id ago, mihi crede, ut prosperos exitus consequar. sic enim video, nec duobus his vivis nec hoc uno nos umquam rem publicam habituros. ita neque de otio nostro spero iam nec ullam acerbitatem recuso. unum illud extimescebam, ne quid turpiter facerem vel dicam iam ne fecissem.",
+      "eng": "I had written you a letter to send on the fourth day before the Ides; but on that day the man I had meant to give it to did not set out. Then, on that very same day, that swift-footed courier whom Salvius had spoken of arrived. He brought your very full letter, which dripped, as it were, a little life back into me; for I cannot say it actually revived me. Still, you have plainly furnished the one thing essential [Greek: to syn\\'echon]. I am no longer working, believe me, to secure a prosperous outcome. For so I see it: while these two men live, or even while this one alone lives, we shall never have a commonwealth. So I no longer hope for any rest of my own, nor do I refuse any bitterness. The one thing I was dreading was that I might do something dishonourable --- or rather, by now, that I might already have done it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sic ergo habeto, salutaris te mihi litteras misisse neque solum has longiores quibus nihil potest esse explicatius, nihil perfectius, sed etiam illas breviores in quibus hoc mihi iucundissimum fuit, consilium factumque nostrum a Sexto probari, pergratumque mihi tu fecisti; a quo et diligi me et quid rectum sit intellegi scio. longior vero tua epistula non me solum sed meos omnis aegritudine levavit. itaque utar tuo consilio et ero in Formiano, ne aut ad urbem ἀπάντησισ mea animadvertatur aut, si nec hic nec illic eum videro, devitatum se a me putet.",
+      "eng": "Take it from me, then: you sent me a letter of true salvation, and not only this longer one, than which nothing can be more lucid, nothing more complete, but also the shorter one before, in which what I found most welcome was that our plan and our action have Sextus's approval. You did me a very great kindness, since I know I am loved by him, and that he understands what is right. The longer letter, though, lifted not me alone but my whole household out of dejection. So I shall take your advice and stay in Formiae, so that my going up to meet him [Greek: ap\\'ant\\=esis] is not noticed near the City --- or, if I do not meet him here or there, he may think himself avoided by me.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod autem suades ut ab eo petam ut mihi concedat ut idem tribuam Pompeio quod ipsi tribuerim, id me iam pridem agere intelleges ex litteris Balbi et Oppi quarum exempla tibi misi. misi etiam Caesaris ad eos sana mente scriptas quo modo in tanta insania. sin mihi Caesar hoc non concedat, video tibi placere illud, me πολίτευμα de pace suscipere; in quo non extimesco periculum (cum enim tot impendeant, cur non honestissimo depecisci velim?) sed vereor ne Pompeio quid oneris imponam, μή μοι intorqueat. mirandum enim in modum Gnaeus noster Sullani regni similitudinem concupivit. εἰδώσ σοι λέγω . nihil ille umquam minus obscure tulit. cum hocne igitur inquies esse vis? beneficium sequor, mihi crede, non causam, ut in Milone, ut in . . . sed hactenus. causa igitur non bona est?",
+      "eng": "As for your urging me to ask of him that he allow me to extend to Pompey the same conduct I have extended to himself: that I have been at this for some time you will see from the letters of Balbus and Oppius, copies of which I have sent you. I have sent also a letter of Caesar's to them --- written in a sound state of mind, so far as anyone could be sound amid such madness. But if Caesar will not grant me this, I see that you think it good that I undertake the office of speaking out for peace [Greek: pol\\'iteuma]. In that I do not dread the danger --- since so many dangers hang over me, why should I not be willing to barter the matter for the most honourable terms? --- but I am afraid of laying some burden on Pompey, and that he may not turn upon me [Greek: m\\'e moi]. For our friend Cnaeus has, to a wonderful degree, conceived an appetite for a Sullan kingship. I speak from knowledge [Greek: eid\\'os soi l\\'eg\\=o]. He has never carried anything less under cover. ``So is this the man,'' you will say, ``you want as your associate?'' I am following the obligation, believe me, not the cause: as I did in Milo's case, as in $\\ldots$ --- but enough. The cause, then, is not a good one?",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "immo optima, sed agetur, memento, foedissime. primum consilium est suffocare urbem et Italiam fame, deinde agros vastare, urere, pecuniis locupletum non abstinere. sed cum eadem metuam ab hac parte, si illim beneficium non sit, rectius putem quidvis domi perpeti. sed ita meruisse illum de me puto ut ἀχαριστίασ crimen subire non audeam, quamquam a te eius quoque rei iusta defensio est explicata.",
+      "eng": "On the contrary, it is excellent --- but it will be carried on, remember, in the foulest way imaginable. The first plan is to starve out the City and Italy by hunger; then to ravage the lands, to burn them, to keep no hands off the wealth of the rich. But since I fear the same from this other side, then if there is no obligation from the first quarter I should think it more right to endure anything at home. Still, I judge that he has so earned my gratitude that I dare not face the charge of ingratitude [Greek: acharist\\'ias] --- though you have set out for me an honest defence on that score too.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "de triumpho tibi adsentior quem quidem totum facile et libenter abiecero. Egregie probo fore ut, dum vagamur, πλόος ὡραῖοσ obrepat. si modo inquis satis ille erit firmus. est firmior etiam quam putabamus. de isto licet bene speres. promitto tibi, si valebit, tegulam illum in Italia nullam relicturum. Tene igitur socio? contra me hercule meum iudicium et contra omnium antiquorum auctoritatem, nec tam ut illa adiuvem quam ut haec ne videam cupio discedere. noli enim putare tolerabilis horum insanias nec unius modi fore. etsi quid te horum fugit, legibus, iudiciis, senatu sublato libidines, audacias, sumptus, egestates tot egentissimorum hominum nec privatas posse res nec rem publicam sustinere? abeamus igitur inde qualibet navigatione; etsi id quidem ut tibi videbitur, sed certe abeamus. sciemus enim, id quod exspectas, quid Brundisi actum sit.",
+      "eng": "About the triumph I agree with you; the whole thing I shall throw aside readily and gladly. I thoroughly approve your idea that, while we drift, the sailing season [Greek: pl\\'oos h\\=ora\\^ios] should steal up on us --- ``if only,'' you say, ``he will be firm enough.'' He is firmer even than we thought. About that man you may have good hope. I promise you, if he holds his health, he will not leave Caesar a single roof-tile in Italy. ``With that man, then, as your partner?'' Yes --- against, by Hercules, my own judgement, and against the authority of all the men of old; nor is my wish to leave so much to support his cause as not to have to see what is now before me. For do not suppose that the madnesses of these men will be tolerable, or of one kind only. And in truth what part of this escapes you --- that, with laws, courts, and Senate done away with, lusts, audacities, extravagances, and the destitutions of so many destitute men can sustain neither private fortunes nor the commonwealth? Let us go away from here, then, by whatever passage we can; though that, indeed, as you think best --- but go away we surely must. For we shall know, the thing you are waiting for, what has been done at Brundisium.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "bonis viris quod ais probari quae adhuc fecerimus scirique ab iis nos non profectos valde gaudeo, si est nunc ullus gaudendi locus. de Lentulo investigabo diligentius. id mandavi Philotimo, homini forti ac nimium optimati.",
+      "eng": "That my conduct so far meets with the approval of honest men, as you say, and that they know I have not gone --- this I greatly rejoice at, if there is now any place at all for rejoicing. About Lentulus I shall make further inquiries. I have charged Philotimus with that --- a brave fellow, and indeed too much an optimate.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "extremum est ut tibi argumentum ad scribendum fortasse iam desit. nec enim alia de re nunc ulla scribi potest, et de hac quid iam amplius inveniri potest? sed quoniam et ingenium suppeditat (dico me hercule ut sentio) et amor quo et meum ingenium incitatur, perge, ut facis, et scribe quantum potes. in Epirum quod me non invitas, comitem non molestum, subirascor. sed vale. nam ut tibi ambulandum, ungendum, sic mihi dormiendum. etenim litterae tuae mihi somnum attulerunt",
+      "eng": "The last point is that perhaps by now you find yourself short of matter to write of. For nothing else can now be written about, and on this subject what more can be discovered? But since you are not wanting in talent (I say it, by Hercules, as I feel it), nor in love --- which incites my own talent in turn --- go on as you are doing, and write me as much as you can. That you do not invite me to Epirus, when I should be no troublesome companion, makes me a little cross. But farewell. For as you must walk and have yourself rubbed down, so I must sleep. Indeed your letter has brought me sleep.",
+      "notes": null
+    }
+  ]
+}

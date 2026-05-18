@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-06",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.6",
+  "title_english": "Ad Familiares 15.6",
+  "date": "-0050-08-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "' laetus sum laudari me,' inquit Hector, opinor, apud Naevium 'abs te, pater, a laudato viro.' ea est enim profecto iucunda laus, quae ab iis proficiscitur qui ipsi in laude vixerunt. ego vero vel gratulatione litterarum tuarum vel testimoniis sententiae dictae nihil est quod me non adsecutum putem, idque mihi cum amplissimum tum gratissimum est, te libenter amicitiae dedisse quod liquido veritati dares. et , si non modo omnes verum etiam multi Catones essent in civitate nostra, in qua unum exstitisse mirabile est, quem ego currum aut quam lauream cum tua laudatione conferrem? nam ad meum sensum et ad illud sincerum ac subtile iudicium nihil potest esse laudabilius quam ea tua oratio, quae est ad me perscripta a meis necessariis.",
+      "eng": "``I am glad to be praised'' --- so Hector says, I believe, in Naevius --- ``by you, father, a man who has himself been praised.'' For surely that praise is gratifying which proceeds from those who have themselves lived in praise. As for me, between your letter of congratulation and the testimony of the opinion you delivered, there is nothing I do not reckon I have attained; and what I count as both the most ample thing and the most welcome is that you have given freely to friendship what you would have given without reserve to the truth. And if not all, but even merely many Catos existed in our state --- in which it is a wonder that one has appeared --- what chariot, what laurel could I match with your formal commendation? For as I feel, and as that pure and discriminating judgement of yours feels, nothing could be more praiseworthy than that speech of yours which has been written out to me in full by my close friends.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed causam meae voluntatis, non enim dicam 'cupiditatis,' exposui tibi superioribus litteris ; quae etiam si parum iusta tibi visa est, hanc tamen habet 0rationem, non ut nimis concupiscendus honos sed tamen, si deferatur a senatu, minime aspernandus esse videatur. spero autem illum ordinem pro meis ob rem p. susceptis laboribus me non indignum honore, usitato praesertim, existimaturum. quod si ita erit, tantum ex te peto, quod amicissime scribis, ut, cum tuo iudicio quod amplissimum esse arbitraris mihi tribueris, si id quod maluero acciderit, gaudeas. sic enim fecisse te et sensisse et scripsisse video, resque ipsa declarat tibi illum honorem nostrum supplicationis iucundum fuisse, quod scribendo adfuisti ; haec enim senatus consulta non ignoro ab amicissimis eius, cuius de honore agitur, scribi solere. ego , ut spero, te propediem videbo, atque utinam re p. meliore quam timeo!",
+      "eng": "But the ground of my wish --- for I will not call it ``my craving'' --- I set out for you in my earlier letter. Even if it seemed to you not quite to be justified, it has at least this much sense in it: that, while the honour need not be too eagerly hunted for, still, if conferred by the Senate, it should appear in no way to be disdained. And I trust that that body will not reckon me unworthy, for the labours I have undertaken on behalf of the commonwealth, of an honour and of one customarily granted. If so, then this is all I ask of you --- and you write of it in the friendliest spirit --- that, having bestowed on me what your own judgement holds to be the most ample thing, you will, if what I would have preferred has come to pass, rejoice in it. For so, I see, you have acted and felt and written; and the matter itself makes plain that this honour of mine, the thanksgiving, was gratifying to you, since you were present at the drafting. For I am well aware that decrees of the Senate of this sort are customarily drafted by the closest friends of the man whose honour is in question. As for me, I hope to see you very soon --- and would that the commonwealth be in a better state than I fear!",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-04",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.4",
+  "title_english": "Ad Atticum 5.4",
+  "date": "-0051-05-12",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Beneventum veni a. d. v Idus Majas. ibi accepi eas litteras quas tu superioribus litteris significaveras te dedisse; ad quas ego eo ipso die dederam ex Trebulano a Pontio. ac binas quidem tuas Beneventi accepi quarum alteras Funisulanus multo mane mihi dedit, alteras scriba Tullius. gratissima est mihi tua cura de illo meo primo et maximo mandato; sed tua profectio spem meam debilitat. ac †me ille illud labat†, non quo—, sed inopia cogimur eo contenti esse. de illo altero quem scribis tibi visum esse non alienum, vereor adduci ut nostra possit, et tu ais δυσδιάγνωστον esse. equidem sum facilis, sed tu aberis et me absente res haerebit . habebis mei rationem. nam posset aliquid, si utervis nostrum adesset, agente Servilia Servio fieri probabile. nunc si iam res placeat, agendi tamen viam non video.",
+      "eng": "I came to Beneventum on the fifth day before the Ides of May. There I received the letter you had indicated, in your earlier letter, that you had given out; to which I had, on that very day, sent back a reply from Pontius's villa at Trebula. And a doubled letter from you came to me at Beneventum: one of which Funisulanus gave me very early in the morning, the other Tullius the secretary. Most welcome to me is the care you are taking over my first and greatest charge; but the prospect of your setting out weakens my hope. And $\\dagger$me ille illud labat$\\dagger$ --- not that ---, but want forces us to be content with what is to hand. As for that other man you write seemed to you not unsuitable, I fear he could not be brought to consent to be one of ours; and you yourself say he is [Greek: dysdiagnoston] --- hard to discern. For my part I am pliable; but you will be away, and in my absence the matter will hang. You will have regard for me. For something could be made of it, if either of us were on the spot --- with Servilia at work on Servius the thing might come to look likely. As it is, even if the match should now please us, I do not see the way to push it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nunc venio ad eam epistulam quam accepi a Tullio. de Marcello fecisti diligenter. igitur senatus consultum si erit factum, scribes ad me; si minus, rem tamen conficies; mihi enim attribui oportebit, item Bibulo. sed non dubito quin senatus consultum expeditum sit in quo praesertim sit compendium populi. de Torquato probe. de Masone et Ligure, cum venerint. de illo quod Chaerippus (quoniam hic quoque πρόσνευσιν sustulisti), o provincia! etiamne hic mihi curandus est? curandus autem hactenus ne quid ad senatum consule! aut numera ! nam de ceteris — sed tamen commode, quod cum Scrofa. de Pomptino recte scribis. est enim ita ut, si ante Kal. Iunias Brundisi futurus sit, minus urgendi fuerint M'. Anneius et L. Tullius.",
+      "eng": "Now I come to the letter I received from Tullius. About Marcellus you have acted diligently. So if a decree of the Senate is passed, write to me; if not, you will get the business through all the same. For the credit will need to be entered to me, and likewise to Bibulus. But I have no doubt that the decree of the Senate will go through unhindered --- especially when there is in it a saving for the people. About Torquatus, good. About Maso and Ligus, when they come. About what Chaerippus reports --- now that you have lifted off the [Greek: prosneusin] on this too --- O province! Is even this man to be looked after by me here? But looked after only this far: ``Do not lay it before the Senate, consul!'' or ``Call the count!'' For about the rest --- well, all the same, conveniently enough that it is with Scrofa. About Pomptinus you write rightly. For it is just as you say: if he is to be at Brundisium before the Kalends of June, less press should have been put on M'. Anneius and L. Tullius.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quae de Sicinio audisti ea mihi probantur, modo ne illa exceptio in aliquem incurrat bene de nobis meritum. sed considerabimus, rem enim probo. de nostro itinere quod statuero, de quinque praefectis quid Pompeius facturus sit cum ex ipso cognoro faciam ut scias. de Oppio bene curasti quod ei de d_c_c_c_ exposuisti idque, quoniam Philotimum habes, perfice et cognosce rationem et ut agam planius, si me amas, prius quam proficiscaris effice. Magna me cura levaris.",
+      "eng": "What you have heard about Sicinius is acceptable to me, provided only that the saving clause is not aimed at someone who has done well by us. But we shall consider it; for I approve the substance. About my journey, what I decide, and about the five prefects, what Pompey is going to do, I shall make sure you know when I have learned from the man himself. About Oppius, you have done well in laying out for him the matter of the eight hundred thousand sesterces; and since you have Philotimus to hand, push it through, master the account, and (if you love me) settle it more clearly before you set out, so that I can carry it forward. You will lift a great worry from me.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "habes ad omnia. etsi paene praeterii chartam tibi deesse. mea captio est, si quidem eius inopia minus multa ad me scribis. tu vero aufer ducentos; etsi meam in eo parsimoniam huius paginae contractio significat. dum acta et rumores vel etiam si qua certa babes de Caesare exspecto. litteras et aliis et Pomptino de omnibus rebus diligenter dabis.",
+      "eng": "You have it all. Although I had almost passed over that you are short of paper. The catch is on my side, if it is really through want of that that you write me less. Take two hundred, then. Yet my own thrift in the matter is shown by the cramped size of this page. While I wait for the news and the rumours, or for any certain word you have about Caesar, send letters thoroughly --- both to others and through Pomptinus --- on every subject.",
+      "notes": null
+    }
+  ]
+}

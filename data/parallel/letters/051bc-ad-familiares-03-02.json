@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 3.2",
+  "title_english": "Ad Familiares 3.2",
+  "date": "-0051-03-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum et contra voluntatem meam et praeter opinionem accidisset, ut mihi cum imperio in provinciam proficisci necesse esset, in multis et variis molestiis cogitationibusque meis haec una consolatio occurrebat, quod neque tibi amicior, quam ego sum, quisquam posset succedere neque ego ab ullo provinciam accipere, qui mallet eam quam maxime mihi aptam explicatamque tradere. quod si tu quoque eandem de mea voluntate erga te spem habes, ea te profecto numquam fallet. A te maximo opere pro nostra summa coniunctione tuaque singulari humanitate etiam atque etiam quaeso et peto ut, quibuscumque rebus poteris (poteris autem plurimis), prospicias et consulas rationibus meis.",
+      "eng": "When it had fallen out, against my wishes and beyond my expectation, that I must set out for a province with command, this one consolation kept presenting itself among my many and varied vexations and reflections: that no one could come as your successor more your friend than I am, and that I could receive a province from no one who would prefer to hand it over to me in the most prepared and most fully disengaged condition. And if you too entertain the same hope of my goodwill toward you, that hope assuredly will never fail you. From you, in the name of our great mutual connection and your own singular humanity, I ask, again and again, that by every means in your power (and many will be in your power) you look ahead and consult for my interests.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "vides ex senatus consulto provinciam esse habendam. si eam, quod eius facere potueris, quam expeditissimam mihi tradideris, facilior erit mihi quasi decursus mei temporis. quid in eo genere efficere possis, tui consili est; ego te, quod tibi veniet in mentem mea interesse, valde rogo. pluribus verbis ad te scriberem, si aut tua humanitas longiorem orationem exspectaret aut id fieri nostra amicitia pateretur aut res verba desideraret ac non pro se ipsa loqueretur. hoc velim tibi persuadeas, si rationibus meis provisum a te esse intellexero, magnam te ex eo et perpetuam voluptatem esse capturum. vale .",
+      "eng": "You see that, by senatorial decree, the province must be administered. If, so far as you can compass it, you hand it over to me in the freest condition, my passage through my term will be the easier. What in that line you can effect lies in your own judgement; whatever shall occur to you as in my interest, I earnestly ask. I should write to you at greater length, did either your humanity look for a longer speech, or our friendship admit of it, or the matter call for words and not rather speak for itself. Let me put this to you to believe: that if I come to understand my interests have been provided for by you, you will derive from it a great and lasting pleasure. Farewell.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-02",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.2",
+  "title_english": "Ad Atticum 5.2",
+  "date": "-0051-05-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A. d. vi Idus Maias , cum has dabam litteras, ex Pompeiano proficiscebar ut eo die manerem in Trebulano apud Pontium. deinde cogitabam sine ulla mora iusta itinera facere. in Cumano cum essem, venit ad me, quod mihi pergratum fuit, noster Hortensius; cui deposcenti mea mandata cetera universe mandavi, illud proprie, ne pateretur quantum esset in ipso prorogari nobis provincias. in quo eum tu velim confirmes gratumque mihi fecisse dicas quod et venerit ad me et hoc mihi praetereaque si quid opus esset promiserit. confirmavi ad eam causam etiam Furnium nostrum quem ad annum tribunum pl. videbam fore.",
+      "eng": "On the sixth day before the Ides of May, as I was giving out this letter, I was setting out from my Pompeian estate to spend that day at the Trebulan villa with Pontius. From there I was minded, without any delay, to make regular day-stages. While I was at the Cumanum, our Hortensius came to see me, which was a great pleasure --- and when he asked of his own accord for my charges, I committed the rest to him in a general way, but this one specifically: that he should not suffer it, so far as it lay in him, that our provinces be extended. On which point I should be glad if you would brace him up and tell him he has done me a kindness by coming to me and by promising me this and whatever else might be needed. I have braced up for that cause our Furnius as well, whom I saw was going to be tribune of the people for the coming year.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "habuimus in Cumano quasi pusillam Romam. tanta erat in his locis multitudo; cum interim Rufio noster, quod se a Vestorio observari videbat, strategemate hominem percussit; nam ad me non accessit. itane ? cum Hortensius veniret et infirmus et tam longe et Hortensius, cum maxima praeterea multitudo, ille non venit? non , inquam. non vidisti igitur hominem? inquies. qui potui non videre cum per emporium Puteolanorum iter facerem? in quo illum agentem aliquid credo salutavi, post etiam iussi valere cum me exiens e sua villa numquid vellem rogasset. hunc hominem parum gratum quisquam putet aut non in eo ipso laudandum quod laudari non laborarit?",
+      "eng": "We had at the Cumanum what was almost a little Rome --- so great was the crowd in those parts. Meanwhile our Rufio, seeing himself watched by Vestorius, struck the man down with a piece of strategy: he simply did not come to me. Really? When Hortensius came to me --- and an unwell Hortensius, and from so far, and Hortensius at that --- with a great crowd besides, he did not come? He did not, I say. ``Then you didn't see the man?'' you will ask. How could I help seeing him, when I was passing through the emporium of Puteoli? I saluted him there, I think, while he was busy at something --- and afterwards even bade him farewell, when he had asked me on coming out from his own villa whether I wanted anything. Could anyone think this man not gracious enough --- or not, on that very ground, deserving of praise, that he gave no trouble to get praised?",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed redeo ad illud. noli putare mihi aliam consolationem esse huius ingentis molestiae nisi quod spero non longiorem annua fore. hoc me ita velle multi non credunt ex consuetudine aliorum; tu qui scis omnem diligentiam adhibebis tum scilicet cum id agi debebit, cum ex Epiro redieris. de re publica scribas ad me velim si quid erit quod †operare†. nondum enim satis huc erat adlatum quo modo Caesar ferret de auctoritate perscripta, eratque rumor de Transpadanis eos iussos iiii viros creare. quod si ita est, magnos motus timeo. sed aliquid ex Pompeio sciam.",
+      "eng": "But I return to that other business. Do not suppose that there is any consolation for me in this enormous burden except that I hope it will be no longer than a single year. Many do not believe I really wish it so, judging by the habits of others; you, who do know, will bring all your diligence to bear --- when, that is, the matter must be pressed, after you have come back from Epirus. About the commonwealth I should be glad if you would write to me, if there is anything that $\\dagger$operare$\\dagger$. For there had not yet been brought through to here a sufficient account of how Caesar was taking the decree once written up, and there was a rumour about the Transpadanes that they had been instructed to elect four-men commissioners. If that is so, I fear great upheavals. But I shall learn something from Pompey.",
+      "notes": null
+    }
+  ]
+}
