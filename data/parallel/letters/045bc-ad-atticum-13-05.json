@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-05",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.5",
+  "title_english": "Ad Atticum 13.5",
+  "date": "-0045-06-02",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Sp. Mummium putaram in decem legatis fuisse sed videlicet (etenim εὔλογον ) fratri fuisse. fuit enim ad Corinthum. misi tibi Torquatum. conloquere tu quidem cum Silio, ut scribis, et urge. illam diem negabat esse mense Maio, istam non negabat. sed tu ut omnia istuc quoque ages diligenter. de Crispo et Mustela scilicet quom quid egeris.",
+      "eng": "I had supposed that Sp. Mummius was among the ten legates --- but evidently (it does indeed stand to reason [Greek: eulogon]) it was his brother. For he was the one at Corinth. I have sent you the Torquatus. Do speak with Silius, as you write, and press him. He was denying that that day fell in May; this one he was not denying. But you, as in everything, will handle this too with care. About Crispus and Mustela, of course, when you have got something done.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quoniam ad Bruti adventum fore te nobiscum polliceris, satis est, praesertim cum hi tibi dies in magno nostro negotio consumantur.",
+      "eng": "Since you promise to be with us by the time Brutus arrives, that is enough --- especially as these days of yours are being consumed on a great business of mine.",
+      "notes": null
+    }
+  ]
+}

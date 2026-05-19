@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-04",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.4",
+  "title_english": "Ad Atticum 14.4",
+  "date": "-0044-04-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "numquid putas me Lanuvi? ac ego te istic cotidie aliquid novi suspicor. tument negotia. nam cum Matius, quid censes ceteros? equidem doleo, quod numquam in ulla civitate accidit non una cum libertate rem publicam reciperatam. horribile est quae loquantur, quae minitentur. ac vereor Gallica etiam bella, ipse Sextus quo evadat. sed omnia licet concurrant, Idus Martiae consolantur. nostri autem ἥρωεσ , quod per ipsos confici potuit, gloriosissime et magnificentissime confecerunt; reliquae res opes et copias desiderant, quas nullas habemus. haec ego ad te. tu , si quid novi (nam cotidie aliquid exspecto), confestim ad me et, si novi nihil, nostro more tamen ne patiamur intermitti litterulas. equidem non committam.",
+      "eng": "Do you suppose I have any news at Lanuvium? Whereas I imagine you, where you are, hear something new every day. Affairs are swelling. For if Matius talks like this, what do you suppose the rest are saying? For my part, I grieve --- what has never happened in any state --- that the commonwealth has not been recovered along with liberty. The things they say, the things they threaten, are horrible. I fear Gallic wars too, and where Sextus himself will come out. But let it all converge: the Ides of March are a consolation. Our heroes [Greek: hērōes], so far as the thing could be carried through by themselves, carried it through with the greatest glory and magnificence; what remains demands resources and forces, which we have none of. So much I say to you. You, if there is anything new --- for I expect something every day --- write to me at once; and if nothing new, even so, in our way, let us not allow the little notes to lapse. I, for my part, shall not be the one to break.",
+      "notes": null
+    }
+  ]
+}

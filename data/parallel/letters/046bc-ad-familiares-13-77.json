@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-77",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.77",
+  "title_english": "Ad Familiares 13.77",
+  "date": "-0046-11-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum his temporibus non sane in senatum ventitarem, tamen, ut tuas litteras legi, non existimavi me salvo iure nostrae veteris amicitiae multorumque inter nos officiorum facere posse ut honori tuo deessem. itaque adfui supplicationemque tibi libenter decrevi nec reliquo tempore ullo aut rei aut existimationi aut dignitati tuae deero. atque hoc ut tui necessarii sciant, hoc me animo erga te esse, velim facias eos per litteras certiores, ut si quid tibi opus sit ne dubitent mihi iure suo denuntiare.",
+      "eng": "Although in these times I have not been much in the habit of coming into the Senate, still, when I had read your letter, I did not think I could --- with the rights of our old friendship intact and of the many services that have passed between us --- fail to be present at your honour. So I was there, and I voted gladly for a public thanksgiving on your behalf; nor for the rest of the time shall I ever fail you in your interests, your reputation, or your standing. And to let your friends know that this is my disposition towards you, I should be glad if you would inform them by letter, so that, if there is anything you need, they may not hesitate to call upon me as is their right.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "M. Bolanum, virum bonum et fortem et omnibus rebus ornatum meumque veterem amicum, tibi magno opere commendo. pergratum mihi feceris, si curaris ut is intellegat hanc commendationem sibi magno adiumento fuisse ; ipsumque virum optimum gratissimumque cognosces. promitto tibi te ex eius amicitia magnam voluptatem esse capturum.",
+      "eng": "M. Bolanus, a man good and brave and graced in every quality, an old friend of mine, I commend to you most warmly. You will do me a most welcome favour if you take care that he understands this recommendation has been of great help to him; the man himself you will find to be of the finest character and full of gratitude. I promise you that you will draw great pleasure from his friendship.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "praeterea a te peto in maiorem modum pro nostra amicitia et pro tuo perpetuo in me studio ut in hac re etiam elabores : Dionysius, servus meus, qui meam bibliothecen multorum nummorum tractavit, cum multos libros surripuisset nec se impune laturum putaret, aufugit. is est in provincia tua. Eum et M. Bolanus, meus familiaris, et multi alii Naronae viderunt, sed, cum se a me manu missum esse diceret, crediderunt. hunc tu si mihi restituendum curaris, non possum dicere quam mihi gratum futurum sit. res ipsa parva, sed animi mei dolor magnus est. Ubi sit et quid fieri possit Bolanus te docebit. ego si hominem per te reciperaro, summo me a te beneficio adfectum arbitrabor.",
+      "eng": "Besides this, I ask of you in the largest measure, in the name of our friendship and of your unbroken zeal on my behalf, that you exert yourself in this matter as well. Dionysius, my slave, who handled my library, worth no small sum, after he had pilfered many books and supposed he would not get away with it scot-free, ran off. He is in your province. M. Bolanus, my close friend, and many others have seen him at Narona, but, when he said he had been manumitted by me, they believed him. If you would see to having him restored to me, I cannot say how grateful that would be. The matter in itself is small, but the pain to my mind is great. Where he is and what can be done, Bolanus will explain to you. If I recover the man through your offices, I shall consider myself the recipient of the greatest of kindnesses at your hands.",
+      "notes": null
+    }
+  ]
+}

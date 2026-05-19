@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-36",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.36",
+  "title_english": "Ad Familiares 13.36",
+  "date": "-0046-05-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum Demetrio Mega mihi vetustum hospitium est, familiaritas autem tanta quanta cum Siculo nullo. ei Dolabella rogatu meo civitatem a Caesare impetravit, qua in re ego interfui; itaque nunc P. Cornelius vocatur ; cumque propter quosdam sordidos homines, qui Caesaris beneficia vendebant, tabulam, in qua nomina civitate donatorum incisa essent, revelli iussisset, eidem Dolabellae me audiente Caesar dixit nihil esse quod de Mega vereretur ; beneficium suum in eo manere.",
+      "eng": "With Demetrius Megas I have a tie of hospitality of long standing, and a familiarity such as I have with no other Sicilian. Dolabella, at my request, obtained Roman citizenship for him from Caesar, in which transaction I myself took part; and so he is now called Publius Cornelius. And when, on account of certain disreputable men who were selling Caesar's benefactions, Caesar had ordered the tablet on which the names of those granted citizenship were inscribed to be torn down, he said to Dolabella, in my hearing, that there was no reason for him to feel concern on Megas's account: his grant of favour stood in his case.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "hoc te scire volui, ut eum in civium Romanorum numero haberes, ceterisque in rebus tibi eum ita commendo, ut maiore studio neminem commendarim. gratissimum mihi feceris, si eum ita tractaris, ut intellegat meam commendationem magno sibi ornamento fuisse.",
+      "eng": "I wanted you to know this, so that you may count him among the Roman citizens; and in all other matters I commend him to you with such zeal that I could commend no one with greater. You will do me the most welcome of favours if you treat him in such a way that he understands my recommendation to have served him as a great mark of distinction.",
+      "notes": null
+    }
+  ]
+}

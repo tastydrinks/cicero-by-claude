@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-16-16",
+  "category": "letters",
+  "title_latin": "Ad Atticum 16.16",
+  "title_english": "Ad Atticum 16.16",
+  "date": "-0044-07-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "iucundissimas tuas legi litteras. ad Plancum scripsi, misi. habes exemplum. cum Tirone quid sit locutus cognoscam ex ipso. cum sorore ages attentius, si te occupatione ista relaxaris.",
+      "eng": "I have read your letter with the greatest delight. I have written to Plancus, and sent the letter off; you have the copy. What he and Tiro discussed I shall learn from Tiro himself. With your sister you will deal more attentively, if you can free yourself a little from that business of yours.",
+      "notes": null
+    }
+  ]
+}

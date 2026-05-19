@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-17",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.17",
+  "title_english": "Ad Atticum 12.17",
+  "date": "-0045-03-12",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Marcianus ad me scripsit me excusatum esse apud Appuleium a Laterense, Nasone, Laenate, Torquato, Strabone. iis velim meo nomine reddendas litteras cures gratum mihi eos fecisse. quod pro Cornificio me abhinc amplius annis xxv spopondisse dicit Flavius, etsi reus locuples est et Appuleius praediator liberalis, tamen velim des operam ut investiges ex consponsorum tabulis sitne ita (mihi enim ante aedilitatem meam nihil erat cum Cornificio. potest tamen fieri; sed scire certum velim), et appelles procuratores si tibi videtur. quamquam quid ad me? verum tamen—Pansae profectionem scribes cum scies. Atticam salvere iube et eam cura, obsecro, diligenter. Piliae salutem.",
+      "eng": "Marcianus has written to me that I have been excused before Appuleius by Laterensis, Naso, Laenas, Torquatus, and Strabo. Please see to it that letters in my name are delivered to them, saying it is gratifying to me that they have done so. As to Flavius's saying that I stood surety for Cornificius more than twenty-five years ago: even though the defendant is a man of means and Appuleius the auctioneer a generous one, I should still like you to make the effort to find out, from the co-sureties' books, whether it is so (for I had no dealings with Cornificius at all before my aedileship; still, it may be --- but I should like to know for certain), and to call on the agents if you see fit. Though what is it to me? Yet for all that --- Pansa's departure you will write me of when you know. Bid Attica greetings and care for her, I beg you, with diligence. Greetings to Pilia.",
+      "notes": null
+    }
+  ]
+}

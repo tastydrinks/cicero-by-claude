@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-17",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.17",
+  "title_english": "Ad Familiares 13.17",
+  "date": "-0046-10-02",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "M'. Curius, qui Patris negotiatur, multis et magnis de causis a me diligitur ; nam et amicitia pervetus mihi cum eo est ut primum in forum venit instituta, et Patris cum aliquotiens antea tum proxime hoc miserrimo bello domus eius tota mihi patuit; qua si opus fuisset tam essem usus quam mea. maximum autem mihi vinculum cum eo est quasi sanctioris cuiusdam necessitudinis, quod est Attici nostri familiarissimus eumque unum praeter ceteros observat ac diligit.",
+      "eng": "I am fond of M'. Curius, who carries on business at Patrae, on many and weighty grounds; for there is between him and me a very old friendship, contracted when I first came into the Forum, and at Patrae, in this most wretched war as on several earlier occasions, his whole house lay open to me; had I needed it, I should have used it as my own. But my strongest bond with him is, as it were, of a more sacred tie: he is the closest intimate of our friend Atticus, and beyond all others it is he alone whom Atticus singles out for his regard and affection.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quem si tu iam forte cognosti, puto me hoc quod facio facere serius ; ea est enim humanitate et observantia, ut eum tibi iam ipsum per se commendatum putem. quod tamen si ita est, magno opere a te quaeso ut ad eam voluntatem, si quam in illum ante bas meas litteras contulisti, quam maximus potest mea commendatione cumulus accedat ;",
+      "eng": "If you have by now happened to make his acquaintance, I think I am doing this thing of mine somewhat late; for his civility and his attentiveness are such that I count him as already commended to you by his own merits. If so, all the same I ask you most earnestly that to whatever favour you had bestowed upon him before this letter of mine, my recommendation should now add the largest possible increment;",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sin autem propter verecundiam suam minus se tibi obtulit aut nondum eum satis habes cognitum aut quae causa est cur maioris commendationis indigeat, sic tibi eum commendo, ut neque maiore studio quemquam neque iustioribus de causis commendare possim, faciamque id quod debent facere ii qui religiose et sine ambitione commendant ; spondebo enim tibi vel potius spondeo in meque recipio eos esse M'. Curi mores eamque cum probitatem tum etiam humanitatem, ut eum et amicitia tua et tam accurata commendatione, si tibi sit cognitus, dignum sis existimaturus. mihi certe gratissimum feceris, si intellexero has litteras tantum, quantum scribens confidebam, apud te pondus habuisse.",
+      "eng": "but if, out of his own modesty, he has presented himself to you too sparingly, or if you have not yet come to know him sufficiently, or if there is any other reason why he should need a fuller recommendation, then I commend him to you on these terms: that I could not commend any man with greater earnestness or on juster grounds, and I shall do what those should do who recommend conscientiously and without self-interest. I will pledge to you --- or rather, I do pledge, and I take it upon myself --- that M'. Curius is of such character, and of such uprightness and civility besides, that, once you have come to know him, you will judge him worthy both of your friendship and of so studied a recommendation. To me, certainly, you will have done the most welcome thing if I learn that this letter has carried with you the weight that, as I wrote it, I was confident it would.",
+      "notes": null
+    }
+  ]
+}

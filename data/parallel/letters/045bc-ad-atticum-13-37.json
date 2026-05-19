@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-37",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.37",
+  "title_english": "Ad Atticum 13.37",
+  "date": "-0045-08-02",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "has alteras hodie litteras. de Xenonis nomine et de Epiroticis x_x_x_x_ nihil potest fieri nec commodius nec aptius quam ut scribis. id erat locutus mecum eodem modo Balbus minor.",
+      "eng": "This is the second letter today. About the debt owed by Xenon and the Epirote affair \\dag x x x x \\dag --- nothing could be handier or more fitting than what you propose. Balbus the younger had spoken to me to the same effect.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nihil novi sane nisi Hirtium cum Quinto acerrime pro me litigasse; omnibus eum locis furere maximeque in conviviis cum multa de me tum redire ad patrem; nihil autem ab eo tam ἀξιοπίστωσ dici quam alienissimos nos esse a Caesare; fidem nobis habendam non esse, me vero etiam cavendum ( φοβερὸν ἂν ἦν nisi viderem scire regem me animi nihil habere), Ciceronem vero meum vexari; sed id quidem arbitratu suo.",
+      "eng": "Nothing really new, except that Hirtius has been quarrelling fiercely with Quintus on my behalf. The man is in a rage wherever he goes, but most of all at dinner parties: a great deal about me, and then back to his father. Nothing, however, is asserted by him more convincingly [Greek: axiopistos] than that we are utterly estranged from Caesar, that we are not to be trusted, that I in particular am to be watched --- it would be alarming [Greek: phoberon an en], if I did not see that the king knows I have no spirit left in me. As for my son Cicero, he is the one being harried; but on that point my nephew can do as he likes.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "laudationem Porciae gaudeo me ante dedisse Leptae tabellario quam tuas acceperim litteras. eam tu igitur, si me amas, curabis, si modo mittetur, isto modo mittendam Domitio et Bruto.",
+      "eng": "I am glad I gave the eulogy of Porcia to Lepta's courier before your letter reached me. So please, if you love me, see to it --- if it is to be sent at all --- that it goes in just the same way to Domitius and to Brutus.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de gladiatoribus, de ceteris quae scribis ἀνεμοφόρητα , facies me cotidie certiorem. velim , si tibi videtur, appelles Balbum et Offilium. de auctione proscribenda equidem locutus sum cum Balbo. placebat (puto conscripta habere Offilium omnia; habet et Balbus) sed Balbo placebat propinquum diem et Romae; si Caesar moraretur, posse diem differri. sed is quidem adesse videtur. totum igitur considera; placet enim Vestorio.",
+      "eng": "About the gladiators, and the other matters you describe as flighty rumours [Greek: anemophoreta], keep me posted daily. And, if you think it right, please approach Balbus and Offilius. About advertising the auction I have spoken with Balbus myself. He approved (I imagine Offilius has the inventory in full; Balbus has it too) --- but Balbus was for an early date, and at Rome. If Caesar were to delay, the date could be put off. Yet he does seem to be on his way. Think the whole thing through, then; Vestorius is for it as well.",
+      "notes": null
+    }
+  ]
+}

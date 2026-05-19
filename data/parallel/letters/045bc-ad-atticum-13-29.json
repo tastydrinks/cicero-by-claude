@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-29",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.29",
+  "title_english": "Ad Atticum 13.29",
+  "date": "-0045-05-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de hortis ex tuis litteris cognovi et ex Chrysippo. in villa cuius insulsitatem bene noram video nihil aut pauca mutata; balnearia tamen laudat maiora, de minoribus ait hiberna effici posse. tecta igitur ambulatiuncula addenda est; quam ut tantam faciamus quantam in Tusculano fecimus prope dimidio minoris constabit isto loco. ad id autem quod volumus ἀφίδρυμα nihil aptius videtur quam lucus quem ego noram; sed celebritatem nullam tum habebat, nunc audio maximam. nihil est quod ego malim. in hoc τὸν τῦφόν μου πρὸσ θεῶν τροποφόρησον . reliquum est, si Faberius nobis nomen illud explicat, noli quaerere quanti; Othonem vincas volo. nec tamen insaniturum illum puto; nosse enim mihi hominem videor. ita male autem audio ipsum esse tractatum ut mihi ille emptor non esse videatur. quid enim? pateretur? sed quid argumentor?",
+      "eng": "About the gardens, I have learned both from your letter and from Chrysippus. As for the villa, whose tastelessness I knew well, I see that nothing or only a little has been altered; he does, however, praise the larger bathrooms, and says that the smaller can be converted into winter quarters. So a covered walk will have to be added; and to make it as large as the one we made at Tusculum, in that place it will cost nearly half as much. For what we have in mind, no spot seems more fitting as a shrine [Greek: aphidruma] than that grove I knew; but it had then no traffic about it, whereas now, I hear, it has a great deal. There is nothing I should like better. In this matter, in the gods' name, bear with my vanity [Greek: ton typhon mou pros theōn tropophorēson]. What remains is this: if Faberius clears that debt for us, do not ask the price --- I want you to outbid Otho. And yet I do not think he will go wild on it: I feel I know the man. Indeed, I hear that he himself has been so badly treated that he does not strike me as a buyer at all. For why would he? Could he afford to? But why am I arguing the case?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "si Faberianum explicas, emamus vel magno; si minus, ne parvo quidem possumus. Clodiam igitur. a qua ipsa ob eam causam sperare videor, quod et multo minoris sunt et Dolabellae nomen tam expeditum videtur ut etiam repraesentatione confidam. de hortis satis. cras aut te aut causam; quam quidem puto futuram Faberianam. sed si poteris. Ciceronis epistulam tibi remisi.",
+      "eng": "If you clear the Faberian business, let us buy even at a high figure; if not, we cannot do it even at a low one. Clodia's, then. From her in particular I seem to have grounds for hope, both because her gardens are far cheaper and because the Dolabella debt looks so available that I have confidence even of cash on the nail. So much for the gardens. Tomorrow, either you yourself or the reason for your absence --- which, I think, will be the Faberian business. But if you can, come. I have sent Cicero's letter back to you.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "o te ferreum qui illius periculis non moveris! me quoque accusat. eam tibi epistulam †misissem†. nam illam alteram de rebus gestis eodem exemplo puto . in Cumanum hodie misi tabellarium. ei dedi tuas ad Vestorium quas Pharnaci dederas.",
+      "eng": "What an iron man you are, not to be moved by his straits! He accuses me too. That letter I should have \\dag{}sent\\dag{} to you. As for the other one about his doings, I think it is to the same effect. I have sent a courier to Cumae today. To him I gave your letter to Vestorius, which you had given to Pharnaces.",
+      "notes": null
+    }
+  ]
+}

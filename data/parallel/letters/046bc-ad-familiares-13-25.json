@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-25",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.25",
+  "title_english": "Ad Familiares 13.25",
+  "date": "-0046-06-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Hagesaretus Larisaeus magnis meis beneficiis ornatus in consulatu meo memor et gratus fuit meque postea diligentissime coluit. Eum tibi magno opere commendo ut et hospitem meum et familiarem meum et gratum hominem et virum bonum et principem civitatis suae et tua necessitudine dignissimum. pergratum mihi feceris, si dederis operam ut is intellegat hanc meam commendationem magnum apud te pondus habuisse.",
+      "eng": "Hagesaretus of Larisa, distinguished by great benefits at my hand during my consulship, has shown himself mindful and grateful, and has paid me afterwards the most assiduous attentions. Him I commend to you most earnestly: as my host and intimate, a man grateful, a good man, the leading citizen of his town, and most worthy of attachment to you. You will do me a most welcome service if you take care that he understand this recommendation of mine to have carried great weight with you.",
+      "notes": null
+    }
+  ]
+}

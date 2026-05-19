@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.2",
+  "title_english": "Ad Familiares 6.2",
+  "date": "-0045-04-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "peto a te ne me putes oblivione tui rarius ad te scribere, quam solebam, sed aut gravitate valetudinis, qua tamen iam paulum videor levari, aut quod absim ab urbe, ut, qui ad te proficiscantur, scire non possim. qua re velim ita statutum habeas, me tui memoriam cum summa benevolentia tenere tuasque omnis res non minori mihi curae quam meas esse.",
+      "eng": "I beg you not to suppose that I write to you more rarely than I used to because I have forgotten you. The cause is either the seriousness of my ill health (from which I do now seem to be a little relieved), or that I am away from the city, so that I cannot know who is setting out to you. Hold it for settled, then, that I keep the memory of you with the warmest goodwill, and that all your affairs are no less my care than my own.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod maiore in varietate versata est adhuc tua causa quam homines aut volebant aut opinabantur, mihi crede, non est pro malis temporum quod moleste feras; necesse est enim aut armis urgeri rem p. sempiternis aut iis positis recreari aliquando aut funditus interire. si arma valebunt, nec eos, a quibus reciperis, vereri debes nec eos, quos adiuvisti; si armis aut condicione positis aut defetigatione abiectis aut victoria detractis civitas respiraverit, et dignitate tua frui tibi et fortunis licebit; sin omnino interierint omnia fueritque is exitus, quem vir prudentissimus, M. Antonius, iam tum timebat, cum tantum instare malorum suspicabatur, misera est illa quidem consolatio, tali praesertim civi et viro, sed tamen necessaria, nihil esse praecipue cuiquam dolendum in eo quod accidat universis.",
+      "eng": "As for the fact that your case has so far been turned about in a greater diversity of outcomes than men either wished or supposed, believe me, you have nothing to bear hard, given the evils of the times. For one of three things must happen: either the commonwealth is pressed by everlasting arms; or, those arms laid down, it is restored to itself in time; or it perishes utterly. If arms prevail, you have no need to fear either those by whose side you are taken back, or those you helped; if, with the arms laid down --- either by terms, or by being thrown aside out of weariness, or stripped away by victory --- the state shall breathe again, you shall be permitted both to enjoy your standing and your fortunes; if, however, everything perishes outright, and the issue is the one which Marcus Antonius, that most prudent of men, was already fearing even then, when he was suspecting that so much evil was at hand, then the consolation is a wretched one, in particular for so distinguished a citizen and a man --- but a necessary one all the same: that no man has any peculiar reason to grieve over what is happening to all.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quae vis insit in his paucis verbis (plura enim committenda epistulae non erant), si attendes, quod facis, profecto etiam sine meis litteris intelleges te aliquid habere, quod speres, nihil, quod aut hoc aut aliquo rei p. statu timeas; omnia si interierint, cum superstitem te esse rei publicae ne si liceat quidem velis, ferendam esse fortunam, praesertim quae absit a culpa. sed haec hactenus. tu velim scribas ad me quid agas et ubi futurus sis, ut aut quo scribam aut quo veniam scire possim.",
+      "eng": "What force there is in these few words --- for I had no business committing more to a letter --- you will, if you attend to it (as you do), perceive surely even without my writing: that you have something to hope for, nothing to fear in this or any other state of the commonwealth; and that if everything is to perish --- since you would not wish, even if it were allowed, to be the survivor of the commonwealth --- fortune must be borne, especially fortune that is free from fault. But enough of this. I should be glad if you would write to me what you are doing and where you mean to be, so that I may know either where to send a letter or where to come.",
+      "notes": null
+    }
+  ]
+}

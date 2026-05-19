@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-32",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.32",
+  "title_english": "Ad Atticum 13.32",
+  "date": "-0045-05-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "alteram a te epistulam cum hodie accepissem, nolui te una mea contentum. tu vero age, quod scribis, de Faberio. in eo enim totum est positum id quod cogitamus; quae cogitatio si non incidisset, mihi crede, istuc ut cetera non laborarem. quam ob rem, ut facis (istuc enim addi nihil potest), urge, insta, perfice.",
+      "eng": "Since I received a second letter from you today, I did not want you to be content with just one from me. By all means proceed, as you write, on the Faberian business. For the whole of what we are planning rests on that; and if that plan had not crossed my mind, believe me, I should not be exerting myself over this place any more than over the rest. So, as you are doing (for nothing can be added to your work as it stands), press, push, finish it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Dicaearchi περὶ ψυχῆσ utrosque velim mittas et καταβάσεωσ . Τριπολιτικὸν non invenio et epistulam eius quam ad Aristoxenum misit. tris eos libros maxime nunc vellem; apti essent ad id quod cogito.",
+      "eng": "Of Dicaearchus's On the Soul [Greek: peri psychēs], I should like you to send both volumes, and the Descent [Greek: katabaseōs] as well. I cannot find the Tripoliticus [Greek: Tripolitikon], nor his letter to Aristoxenus. Those three works are what I most need now; they would suit what I have in mind.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Torquatus Romae est. misi ut tibi daretur. Catulum et Lucullum, ut opinor, antea. his libris nova prohoemia sunt addita quibus eorum uterque laudatur. eas litteras volo habeas et sunt quaedam alia. et quod ad te de decem legatis scripsi parum intellexisti, credo, quia διὰ σημείων scripseram. de C. Tuditano enim quaerebam quem ex Hortensio audieram fuisse in decem. eum video in Libonis praetorem P. Popilio P. Rupilio coss. Annis xiiii ante quam praetor factus est legatus esse potuisset, nisi admodum sero quaestor est factus? quod non arbitror. video enim curulis magistratus eum legitimis annis perfacile cepisse. Postumium autem cuius statuam in Isthmo meminisse te dicis nesciebam fuisse. is autem est qui cos. cum L. Lucullo fuit; quem tu mihi addidisti sane ad illum σύλλογον personam idoneam. videbis igitur, si poteris, ceteros, ut possimus πομπεῦσαι καὶ τοῖσ προσώποισ .",
+      "eng": "Torquatus is at Rome. I have given orders for the book to be delivered to you. Catulus and Lucullus, as I think, were sent earlier. To these books new prefaces have been added, in which each of them is praised. I want you to have those passages, and there are certain other things as well. As for what I wrote to you about the ten commissioners, you did not, I believe, fully grasp it, because I had written in shorthand [Greek: dia sēmeiōn]. What I was asking about was Gaius Tuditanus, whom I had heard from Hortensius to have been one of the ten. I see in Libo's annal that he was made praetor in the consulship of Publius Popilius and Publius Rupilius. Fourteen years before he was made praetor, could he have served as a commissioner --- unless he was made quaestor remarkably late? Which I do not think. For I see that he took the curule magistracies very easily in the regular years. As for Postumius, whose statue at the Isthmus you say you remember, I did not know he had been there. He is the man who was consul with Lucius Lucullus; whom you have supplied to me, just the right figure for that assembly [Greek: syllogon]. So you will see, if you can, about the rest, so that we can stage our procession with the right cast [Greek: pompeusai kai tois prosōpois].",
+      "notes": null
+    }
+  ]
+}

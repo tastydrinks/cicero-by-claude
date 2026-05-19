@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-19",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.19",
+  "title_english": "Ad Atticum 15.19",
+  "date": "-0044-06-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quidnam est quod agendum amplius de Buthrotiis sit ? sat egisse enim te frustra scribis. quid autem se refert Brutus? doleo me hercules te tam esse distentum, quod decem hominibus referendum est acceptum. est illud quidem ἐργῶδεσ sed ἀνεκτὸν mihique gratissimum. de armis nihil vidi apertius. fugiamus igitur et, ut ais, coram. Theophanes quid velit nescio. scripserat enim ad me. cui rescripsi ut potui. mihi autem scribit venire ad me se velle ut et de suis rebus et quaedam quae ad me pertinerent. tuas litteras exspecto. vide , quaeso, ne quid temere fiat.",
+      "eng": "What further is to be done about the Buthrotians? You write that you have laboured in vain. And why on earth does Brutus take it back upon himself? I am sorry, by Hercules, that you are so pulled about, with ten men's business to be reckoned to your account. It is laborious work [Greek: erg\\=odes], no doubt, but bearable [Greek: anekton], and most welcome to me. About the arms, I have seen nothing more open. Let us run, then, and, as you say, face to face. What Theophanes wants, I do not know. He had written to me; I have written back as best I could. He writes that he wishes to come to me, both on his own affairs and on certain matters that concern me. I am waiting for a letter from you. See, please, that nothing is done rashly.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Statius scripsit ad me locutum secum esse Q. Ciceronem valde adseveranter se haec ferre non posse; certum sibi esse ad Brutum et Cassium transire. hoc enim vero nunc discere aveo, hoc ego quid sit interpretari non possum. potest aliquid iratus Antonio, potest gloriam iam novam quaerere, potest totum esse σχεδίασμα ; et nimirum ita est. sed tamen et ego vereor et pater conturbatus est; scit enim quae ille de hoc, mecum quidem ἄφατα olim. plane quid velit nescio. a Dolabella mandata habebo quae mihi videbuntur, id est nihil. dic mihi, C. Antonius voluitne fieri septemvir? fuit certe dignus. de Menedemo est ut scribis. facies omnia mihi nota.",
+      "eng": "Statius has written to me that Quintus Cicero has spoken with him, asserting most emphatically that he cannot bear these things; that he is determined to go over to Brutus and Cassius. I am very eager just now to learn this --- what it is I cannot interpret. It may be that he is angry with Antony; it may be that he is now seeking new glory; it may be the whole thing is improvised [Greek: schediasma]; and so, no doubt, it is. And yet I have my fears, and his father is upset, for he knows what the younger Quintus has said about him, things to me of old beyond words [Greek: aphata]. I simply do not know what he wants. From Dolabella I shall have such instructions as seem fit to me --- that is, none. Tell me: did Gaius Antonius wish to be made a member of the board of seven? Certainly he was deserving of it. About Menedemus, things are as you write. You will let me know everything.",
+      "notes": null
+    }
+  ]
+}

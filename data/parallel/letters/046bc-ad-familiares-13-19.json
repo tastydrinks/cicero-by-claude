@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-19",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.19",
+  "title_english": "Ad Familiares 13.19",
+  "date": "-0046-12-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum Lysone Patrensi est mihi quidem hospitium vetus, quam ego necessitudinem sancte colendam puto ; sed ea causa est etiam cum aliis compluribus, familiaritas tanta nullo cum hospite, et ea cum officiis eius multis tum etiam consuetudine cotidiana sic est aucta, ut nihil sit familiaritate nostra coniunctius. is cum Romae annum prope ita fuisset, ut mecum viveret, etsi eramus in magna spe te meis litteris commendationeque diligentissime facturum id, quod fecisti, ut eius rem et fortunas absentis tuerere, tamen, quod in unius potestate erant omnia et quod Lyso fuerat in nostra causa nostrisque praesidiis, cotidie aliquid timebamus. effectum tamen est et ipsius splendore et nostro reliquorumque hospitum studio ut omnia quae vellemus a Caesare impetrarentur, quod intelleges ex iis litteris, quas Caesar ad te dedit.",
+      "eng": "With Lyso of Patrae I have indeed an old guest-friendship, a bond which I think must be cherished scrupulously; but the same is true for me with a good many others, whereas with no other guest-friend is the closeness so great. It has been so strengthened by his many good services and by daily intimacy besides, that nothing is more tightly knit than the friendship between us. While he was at Rome for nearly a year, living, as it were, under one roof with me, we were in great hopes that you, on the strength of my letter and recommendation, would do most carefully what you have in fact done --- watch over his affairs and his property in his absence. Yet because the whole disposition of things lay in one man's power, and because Lyso had been in our camp and under our protection, there was something we feared every day. As things turned out, by his own distinguished standing and by my zeal, and that of his other guest-friends, we obtained from Caesar everything we wanted; you will see this from the letter Caesar has written to you.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nunc non modo non remittimus tibi aliquid ex nostra commendatione quasi adepti iam omnia, sed eo vehementius a te contendimus ut Lysonem in fidem necessitudinemque tuam recipias ; cuius dubia fortuna timidius tecum agebamus verentes ne quid accideret eius modi ut ne tu quidem mederi posses ; explorata vero eius incolumitate omnia a te summo studio et cura peto. quae ne singula enumerem, totam tibi domum commendo, in his adulescentem filium eius, quem C. Maenius Gemellus, cliens meus, cum in calamitate exsili sui Patrensis civis factus esset, Patrensium legibus adoptavit1 ut eius ipsius hereditatis ius causamque tueare.",
+      "eng": "As for myself, so far from now abating any part of my recommendation, as though we had already gained the whole, I press it on you the more strenuously: I ask you to take Lyso into your good faith and your circle of intimates. While his fortune was uncertain we approached you more tentatively about him, fearing that some such turn of events might come about as not even you could remedy; but now that his safety is assured, I ask everything from you with the highest zeal and care. To avoid enumerating the particulars: I commend to you his whole household, and among them his young son, whom my client C. Maenius Gemellus, when in the calamity of his exile he had been made a citizen of Patrae, adopted under the laws of that city --- that you may guard the very right and the case of the inheritance that this brings him.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "caput illud est ut Lysonem, quem ego virum optimum a gratissimumque cognovi, recipias in necessitudinem tuam. quod si feceris, non dubito quin in eo diligendo ceterisque postea commendando idem quod ego sis iudici et voluntatis habiturus. quod cum fieri vehementer studeo tum etiam illud vereor ne, si minus cumulate videbere fecisse aliquid eius causa, me ille neglegenter scripsisse putet, non te oblitum mei. quanti enim me faceres cum ex sermonibus cotidianis meis tum ex epistulis etiam tuis potuit cognoscere.",
+      "eng": "The chief point is this: that Lyso, whom I have come to know as a man of the highest worth and of the warmest gratitude, you receive into your circle of intimates. If you do so, I have no doubt that, in cherishing him --- and in commending others to me hereafter --- you will be of the same mind and the same disposition that I am. The thing I am eager should be done; and yet I have this further fear, that if you should appear to have done anything on his behalf less than fully, he will think I have written without diligence, not that you have been forgetful of me. How much you make of me, he has had means enough to learn, both from my own daily conversation and indeed from your own letters.",
+      "notes": null
+    }
+  ]
+}

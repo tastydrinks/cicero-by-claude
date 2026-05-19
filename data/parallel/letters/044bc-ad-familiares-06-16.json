@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-16",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.16",
+  "title_english": "Ad Familiares 6.16",
+  "date": "-0044-03-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "si mihi tecum non et multae et iustae causae amicitiae privatim essent, repeterem initia amicitiae ex parentibus nostris, quod faciendum iis existimo qui paternam amicitiam nullis ipsi officiis prosecuti sunt. itaque contentus ero nostra ipsorum amicitia . cuius fiducia peto a te, ut absentem me, quibuscumque in rebus opus fuerit, tueare, si nullum officium tuum apud me intermoriturum existimas. vale .",
+      "eng": "If I did not have, in my own right, both many and good reasons for friendship with you, I should go back to the beginnings of that friendship in our fathers --- the course I think proper for men who have themselves done nothing in office to carry on a paternal friendship. As it is, I shall be content with the friendship that is ours alone. On the strength of that confidence I ask of you, in my absence, to look after my interests in whatever matters there may be need, if you suppose that any service of yours toward me will not be allowed to die. Farewell.",
+      "notes": null
+    }
+  ]
+}

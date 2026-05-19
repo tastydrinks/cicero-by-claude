@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-03",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.3",
+  "title_english": "Ad Atticum 13.3",
+  "date": "-0045-05-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego vero ista nomina sic probo ut nihil aliud me moveat nisi quod tu videris dubitare. illud enim non accipio in bonam partem, quod ad me refers; qui si ipse negotium meum gererem, nihil gererem nisi consilio tuo. sed tamen intellego magis te id facere diligentia qua semper uteris quam quod dubites de nominibus istis. etenim Caelium non probas, plura non vis. utrumque laudo. his igitur utendum †espraes† aliquando factus esset in his quidem tabulis. a me igitur omnia. quod dies longior est (teneamus modo quod volumus), puto fore istam etiam a praecone diem, certe ab heredibus.",
+      "eng": "As for those debt-claims, I approve them so far that nothing else gives me pause, except that you yourself seem to hesitate. For that other thing I do not take in good part --- that you refer the matter to me; since, if I were managing my own affair, I should manage nothing except by your advice. But still I understand that you are doing this more from the carefulness you always use than from any doubt about those particular claims. As for Caelius, you do not approve; you would not have more of him. I commend both. These, then, are the ones to use $\\dagger$espraes$\\dagger$ \\dots\\ at some point it would have been settled, at least on these ledgers. From me, then, all of it. As to the longer term --- provided we keep what we want --- I think that day will come round even from the auctioneer, and certainly from the heirs.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Crispo et Mustela videbis, et velim scire quae sit pars duorum. de Bruti adventu eram factus certior. attulerat enim ab eo Aegypta libertus litteras. misi ad te epistulam, quia commode scripta erat.",
+      "eng": "About Crispus and Mustela, you will see to it; and I should like to know what the share of the two of them is. About Brutus's arrival I had been informed: the freedman Aegypta had brought a letter from him. I have sent you the letter, since it was conveniently written.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-20",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.20",
+  "title_english": "Ad Familiares 9.20",
+  "date": "-0046-08-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "dupliciter delectatus sum tuis litteris, et quod ipse risi et quod te intellexi iam posse ridere ; me autem a te ut scurram velitem malis oneratum esse non moleste tuli ; illud doleo, in ista loca venire me, ut constitueram, non potuisse ; habuisses enim non hospitem sed contubernalem. at quem virum! non eum, quem tu es solitus promulside conficere ; integram famem ad ovum adfero, itaque usque ad assum vitulinum opera perducitur. illa mea, quae solebas antea laudare, 'O hominem facilem! O hospitem non gravem!' abierunt ; nam omnem nostram de re p. curam, cogitationem de dicenda in senatu sententia, commentationem causarum abiecimus, in Epicuri nos, adversari nostri, castra coniecimus, nec tamen ad hanc insolentiam, sed ad illam tuam lautitiam, veterem dico, cum in sumptum habebas ; etsi numquam plura praedia habuisti.",
+      "eng": "I was delighted by your letter on two counts: that I myself had a laugh, and that I gathered you can laugh again now. As for being pelted with apples by you, like some skirmisher of a comic buffoon, I did not take that hard. What I do grieve at is that I have not been able, as I had settled to do, to come into your part of the country; for you would have had not a guest but a messmate. And what a man you would have had! Not the sort you used to dispatch at the appetizer course; my appetite is whole and untouched when I get to the egg, so the labour is carried on all the way to the roast veal. Those old qualities of mine, which you used to praise --- ``what an easy fellow! what an unburdensome guest!'' --- have packed up and gone; for I have tossed away every care for the commonwealth, every meditation on what view to deliver in the Senate, every working-up of cases at law, and have flung myself into the camp of Epicurus, my adversary --- not, however, to this present extravagance, but to that old elegant style of yours, I mean when you had the means to spend; though you never had more landed estate than now.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "proinde te para; cum homine et edaci tibi res est et qui iam aliquid intellegat ( o)yimaqei=s autem homines scis quam insolentes sint) ; dediscendae tibi sunt sportellae et artologam tui. nos iam †ex artis tantum habemus, ut Verrium tuum et Camillum (qua munditia homines, qua elegantia!) vocare saepius audeamus. sed vide audaciam ; etiam Hirtio cenam dedi, sine pavone tamen. in ea cena cocus meus praeter ius fervens nihil non potuit imitari.",
+      "eng": "So prepare yourself accordingly: you have to deal with a man who is both a heavy eater and who now begins to know something --- and you know how overbearing late learners [Greek: opsimatheis] can be. You will have to unlearn your little baskets and your bread-and-pastry trays. I myself am now so far advanced in the art that I dare summon, time and again, your Verrius and your Camillus --- what cleanly, what elegant fellows! But behold my boldness: I have even given Hirtius a dinner --- without peacock, however. At that dinner my cook could imitate everything except the boiling sauce.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "haec igitur est nunc vita nostra: mane salutamus domi et bonos viros multos, sed tristis, et hos laetos victores, qui me quidem perofficiose et peramanter observant. Ubi salutatio defluxit, litteris me involvo, aut scribo aut lego ; veniunt etiam qui me audiunt quasi doctum hominem, quia paulo sum quam ipsi doctior. Inde corpori omne tempus datur. patriam eluxi iam et gravius et diutius quam ulla mater unicum filium. sed cura, si me amas, ut valeas, ne ego te iacente bona tua comedim ; statui enim tibi ne aegroto quidem parcere.",
+      "eng": "This, then, is my life now: in the morning I receive the salutations at home, of many good men, but downcast ones, and of these jubilant victors, who for their part attend on me with great deference and great fondness. When the salutation has ebbed away, I wrap myself up in books and either write or read; some come even to hear me as a man of learning, because I am a little more learned than they themselves. After that, the whole rest of my time is given to the body. I have already mourned my country more heavily and longer than ever a mother mourned her only son. But take care, if you love me, to keep your health; otherwise I shall devour your property with you lying flat. For I have made up my mind to spare you not even when you are ill.",
+      "notes": null
+    }
+  ]
+}

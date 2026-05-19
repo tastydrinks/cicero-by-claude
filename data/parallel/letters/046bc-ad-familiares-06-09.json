@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.9",
+  "title_english": "Ad Familiares 6.9",
+  "date": "-0046-12-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum A. Caecina tanta mihi familiaritas consuetudoque semper fuit, ut nulla maior esse possit; nam et patre eius, claro homine et forti viro, plurimum usi sumus et hunc a puero, quod et spem magnam mihi adferebat summae probitatis summaeque eloquentiae et vivebat mecum coniunctissime non solum officiis amicitiae sed etiam studiis communibus, sic semper dilexi, nullo ut cum homine coniunctius viverem.",
+      "eng": "With A. Caecina I have always been on terms of such close intimacy and habitual association that no greater could exist; for I knew his father, a distinguished man and a man of courage, on the most intimate footing, and as for the son himself I have loved him from boyhood --- both because he gave me high hopes of the highest probity and the highest eloquence, and because he lived in the closest union with me, joined to me not only by the offices of friendship but also by our shared studies --- with such affection that there is no man with whom I have lived in closer union.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nihil attinet me plura scribere; quam mihi necesse sit eius salutem et fortunas quibuscumque rebus possim tueri, vides. reliquum est ut, cum cognorim pluribus rebus quid tu et de bonorum fortuna et de rei p. calamitatibus sentires, nihil a te petam nisi ut ad eam voluntatem, quam tua sponte erga Caecinam habiturus es, tantus cumulus accedat commendatione mea, quanti me a te fieri intellego. hoc mihi gratius facere nihil potes. vale .",
+      "eng": "There is no point in my writing at length: how necessary it is for me to safeguard his welfare and his fortunes by whatever means I can, you see for yourself. It remains only this: since I have learned in many ways what your sentiments are both on the fortunes of good men and on the calamities of the commonwealth, I ask of you nothing except that the goodwill which you will have toward Caecina of your own accord should receive, from my recommendation, just as great an increment as I understand I am valued by you. You can do nothing that would oblige me more than this. Farewell.",
+      "notes": null
+    }
+  ]
+}

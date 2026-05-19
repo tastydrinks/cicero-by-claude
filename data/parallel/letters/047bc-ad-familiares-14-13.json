@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-13",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.13",
+  "title_english": "Ad Familiares 14.13",
+  "date": "-0047-07-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quod scripsi ad te proximis litteris de nuntio remittendo, quae sit istius vis hoc tempore et quae concitatio multitudinis ignoro. si metuendus iratus est, quiesces ; tamen ab illo fortasse nascetur. totum iudicabis quale sit et, quod in miserrimis rebus minime miserum putabis, id facies. vale . vi Id. Quintilis.",
+      "eng": "As to what I wrote to you in my last letter about sending the notice of divorce --- what that fellow's power is at the moment, and what the agitation of the crowd, I have no idea. If he is to be feared when angry, hold off; even so, perhaps the move will come from him. You will judge the whole as it stands, and what in these most wretched circumstances you shall reckon the least wretched, that you will do. Farewell. The sixth day before the Ides of Quintilis.",
+      "notes": null
+    }
+  ]
+}

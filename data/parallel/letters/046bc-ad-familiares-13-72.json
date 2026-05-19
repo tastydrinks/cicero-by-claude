@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-72",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.72",
+  "title_english": "Ad Familiares 13.72",
+  "date": "-0046-05-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Caerelliae, necessariae meae, rem, nomina, possessiones Asiaticas commendavi tibi praesens in hortis tuis quam potui diligentissime, tuque mihi pro tua consuetudine proque tuis in me perpetuis maximisque officiis omnia te facturum liberalissime recepisti. meminisse te id spero ; scio enim solere. sed tamen Caerelliae procuratores scripserunt te propter magnitudinem provinciae multitudinemque negotiorum etiam atque etiam esse commonefaciendum.",
+      "eng": "The affairs, the debt-claims, and the Asian holdings of Caerellia, my close friend, I commended to you in person, in your gardens, as carefully as I could; and you, in keeping with your usual practice and with the unbroken and very great kindnesses you have shown me, undertook most generously that you would do everything. I trust you remember it; I know your habit. But all the same, Caerellia's agents have written that, in view of the size of the province and the multitude of matters before you, you ought to be reminded again and again.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "peto igitur ut memineris te omnia, quae tua fides pateretur, mihi cumulate recepisse. equidem existimo habere te magnam facultatem (sed hoc tui est consili et iudici) ex eo s. c., quod in heredes C. Vennoni factum est, Caerelliae commodandi. id senatus consultum tu interpretabere pro tua sapientia ; scio enim eius ordinis auctoritatem semper apud te magni fuisse. quod reliquum est, sic velim existimes quibuscumque rebus Caerelliae benigne feceris mihi te gratissimum esse facturum.",
+      "eng": "I ask you, then, to bear in mind that you accepted from me, in full measure, everything that your conscience could countenance. For my part I judge that you have a great opening --- though this is a matter of your own deliberation and judgment --- to oblige Caerellia, by means of that decree of the Senate which was passed concerning the heirs of C. Vennonius. You will interpret that decree of the Senate as your good sense directs; for I know that the authority of that order has always carried great weight with you. As for what remains, this is how I would have you reckon it: in whatever ways you treat Caerellia kindly, you will be doing me the most welcome of services.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-48",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.48",
+  "title_english": "Ad Atticum 12.48",
+  "date": "-0045-05-17",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Hirti librum, ut facis, divulga. de Philotimo idem et ego arbitrabar. domum tuam pluris video futuram vicino Caesare. tabellarium meum hodie exspectamus. nos de Pilia et Attica certiores faciet. domi te libenter esse facile credo. sed velim scire quid tibi restet aut iamne confeceris. ego te in Tusculano exspecto eoque magis quod Tironi statim te venturum scripsisti et addidisti te putare opus esse.",
+      "eng": "Distribute Hirtius' book, as you are doing. About Philotimus I thought the same. I see your house will be worth more with Caesar for a neighbour. I am expecting my courier today. He will give us news of Pilia and Attica. That you are happy at home I readily believe. But I should like to know what business is left for you, or whether you have already finished. I am expecting you at the Tusculanum, and all the more because you wrote Tiro that you would come at once, and added that you thought it necessary.",
+      "notes": null
+    }
+  ]
+}

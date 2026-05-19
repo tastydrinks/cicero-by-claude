@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-20",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.20",
+  "title_english": "Ad Familiares 13.20",
+  "date": "-0046-01-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Asclapone Patrensi medico utor familiariter, eiusque cum consuetudo mihi iucunda fuit tum ars etiam, quam sum expertus in valetudine meorum ; in qua mihi cum ipsa scientia tum etiam fidelitate benevolentiaque satis fecit. hunc igitur tibi commendo et a te peto ut des operam ut intellegat diligenter me scripsisse de sese meamque commendationem usui magno sibi fuisse. erit id mihi vehementer gratum.",
+      "eng": "I am on close terms with Asclapo, a physician of Patrae. His company has been agreeable to me, and so too has his skill, of which I have had experience in the illnesses of my own people; and in that he has satisfied me by his knowledge no less than by his loyalty and good will. Him, therefore, I recommend to you, and I ask you to take care that he understand I have written carefully on his behalf and that my recommendation has been of great service to him. That will be deeply welcome to me.",
+      "notes": null
+    }
+  ]
+}

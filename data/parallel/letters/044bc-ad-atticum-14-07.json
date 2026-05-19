@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-07",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.7",
+  "title_english": "Ad Atticum 14.7",
+  "date": "-0044-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "postridie Idus Paulum Caietae vidi. is mihi de Mario et de re publica quaedam sane pessima. a te scilicet nihil; nemo enim meorum. sed Brutum nostrum audio visum sub Lanuvio. ubi tandem est futurus? nam cum reliqua tum de hoc scire aveo omnia. ego e Formiano exiens xvii Kal. ut inde altero die in Puteolanum scripsi haec.",
+      "eng": "On the day after the Ides I saw Paulus at Caieta. He gave me some thoroughly wretched news about Marius and the state of affairs. From you, of course, nothing --- nor from any of my people. But I hear our Brutus has been seen at Lanuvium. Where in the end is he going to settle? Of this above all, as of the rest, I want full word. I am writing this on leaving the Formian villa on the seventeenth day before the Kalends, on my way to the Puteolan estate by the day after next.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "a Cicerone mihi litterae sane πεπινωμέναι et bene longae. cetera autem vel fingi possunt, πίνοσ litterarum significat doctiorem. nunc magno opere a te peto, de quo sum nuper tecum locutus, ut videas ne quid ei desit. id cum ad officium nostrum pertinet tum ad existimationem et dignitatem; quod idem intellexi tibi videri. omnino si ego, ut volo, mense Quintili in Graeciam, sunt omnia faciliora; sed cum sint ea tempora ut certi nihil esse possit quid honestum mihi sit, quid liceat, quid expediat, quaeso, da operam ut illum quam honestissime copiosissimeque tueamur. haec et cetera quae ad nos pertinebunt, ut soles, cogita bis ad meque aut quod ad rem pertineat aut, si nihil erit, quod in buccam venerit scribes.",
+      "eng": "From my son a letter, thoroughly [Greek: pepinomenai], well-polished, and a good long one. The rest can be feigned, but [Greek: pinos], polish in writing, marks the better-trained mind. Now I urgently ask of you what I spoke of with you lately: see that he wants for nothing. The matter touches our duty and our standing and our dignity --- and I understood that you take the same view. If, as I wish, I am off to Greece in the month of Quintilis, all will be easier; but since the times are such that nothing can be settled --- what is honourable for me, what is open to me, what is to my advantage --- please, see to it that we maintain him as honourably and as amply as we can. On this and the other matters that concern us, as you always do, think things over thoroughly, and write to me --- either on what bears on the business, or, if there is nothing, whatever first comes to mind.",
+      "notes": null
+    }
+  ]
+}

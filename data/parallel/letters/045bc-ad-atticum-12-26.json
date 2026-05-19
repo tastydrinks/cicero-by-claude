@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-26",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.26",
+  "title_english": "Ad Atticum 12.26",
+  "date": "-0045-03-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Sicca, ut scribit, etiam si nihil confecerit cum A. Silio, tamen se scribit x Kal. esse venturum. tuis occupationibus ignosco eaeque mihi sunt notae. de voluntate tua ut simul simus vel studio potius et cupiditate non dubito.",
+      "eng": "Sicca writes that, even if he settles nothing with A.~Silius, he will still be here by the tenth before the Kalends. I forgive your engagements; they are familiar to me. As to your wish that we should be together --- or rather, your eagerness and longing for it --- I have no doubt at all.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Nicia quod scribis, si ita me haberem ut eius humanitate frui possem, in primis vellem illum mecum habere. sed mihi solitudo et recessus provincia est. quod quia facile ferebat Sicca, eo magis illum desidero. praeterea nosti Niciae nostri imbecillitatem, mollitiam, consuetudinem victus. cur ergo illi molestus esse velim, cum mihi ille iucundus esse non possit? voluntas tamen eius mihi grata est. unam rem ad me scripsisti; de qua decrevi nihil tibi rescribere. spero enim me a te impetrasse ut privares me ista molestia. Piliae et Atticae salutem.",
+      "eng": "About what you write of Nicias: if I were in such a state as to be able to enjoy his cultivated company, I should very much wish to have him with me. But solitude and seclusion are my province now. And because that was a thing Sicca bore easily, I miss him the more. Besides, you know our Nicias' frailty, his softness, his fastidious way of life. Why then should I want to be a trouble to him, when he cannot be a pleasure to me? Still, the goodwill on his side is gratifying. There is one thing you wrote to me about, on which I have resolved to send you no reply. For I hope I have prevailed on you to spare me that vexation. My greetings to Pilia and Attica.",
+      "notes": null
+    }
+  ]
+}

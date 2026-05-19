@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-24",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.24",
+  "title_english": "Ad Familiares 13.24",
+  "date": "-0046-05-09",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum antea capiebam ex officio meo voluptatem, quod memineram quam tibi diligenter Lysonem, hospitem et familiarem meum, commendassem, tum vero, postea quam ex litteris eius cognovi tibi eum falso suspectum fuisse, vehementissime laetatus sum me tam diligentem in eo commendando fuisse. ita enim scripsit ad me, sibi meam commendationem maximo adiumento fuisse, quod ad te delatum diceret sese contra dignitatem tuam Romae de te loqui solitum esse.",
+      "eng": "While I had already been taking pleasure in a service of mine --- in that I remembered how carefully I had commended to you Lyso, my host and friend --- I was even more delighted, after learning from his own letter that he had been falsely under suspicion with you, that I had taken such pains in commending him. For he wrote to me that my recommendation had been of the greatest assistance to him, because (as he said) it had been reported to you that he was in the habit of speaking at Rome against your standing.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de quo etsi pro tua facilitate et humanitate purgatum se tibi scribit esse, tamen primum, ut debeo, tibi maximas gratias ago, cum tantum litterae meae potuerunt, ut iis lectis omnem offensionem suspicionis, quam habueras de Lysone, deponeres, deinde credas mihi adfirmanti velim me hoc non pro Lysone magis quam pro omnibus scribere, hominem esse neminem, qui umquam mentionem tui sine tua summa laude fecerit ; Lyso vero cum mecum prope cotidie esset unaque viveret, non solum quia libenter me audire arbitrabatur, sed quia libentius ipse loquebatur, omnia mihi tua et facta et dicta laudabat.",
+      "eng": "On that score, although he writes me that, thanks to your easy temper and humanity, he has cleared himself with you, still --- first, as I ought, I give you the deepest thanks, since my letter availed so much that on reading it you laid aside every offence of suspicion you had felt against Lyso; and next, I should like you to take my word for this: I am writing it not so much for Lyso as for everyone --- that there is no one alive who has ever made mention of you except with the highest praise. As for Lyso in particular, since he was with me almost daily and we lived as one, not only because he supposed I listened gladly but because he himself spoke the more gladly, he was forever praising to me everything you said and everything you did.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quapropter etsi a te ita tractatur, ut iam non desideret commendationem meam unisque se litteris meis omnia consecutum putet, tamen a te peto in maiorem modum ut eum etiam atque etiam tuis officiis, liberalitate conplectare. scriberem ad te qualis vir esset, ut superioribus litteris feceram, nisi eum iam per se ipsum tibi satis notum esse arbitrarer.",
+      "eng": "For all that, although he is now so handled by you that he no longer requires any recommendation of mine and reckons that he has accomplished everything by my one letter, I ask of you in the strongest terms that you embrace him still further with your good offices and your generosity. I should write to you what kind of man he is, as I did in my earlier letter, did I not now suppose him to be sufficiently known to you on his own showing.",
+      "notes": null
+    }
+  ]
+}

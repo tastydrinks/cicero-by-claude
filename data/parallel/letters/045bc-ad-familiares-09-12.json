@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-12",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.12",
+  "title_english": "Ad Familiares 9.12",
+  "date": "-0045-11-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gratulor Baiis nostris, si quidem, ut scribis, salubres repente factae sunt ; nisi forte te amant et tibi adsentantur et tam diu, dum tu ades, sunt oblitae sui. quod quidem si ita est, minime miror caelum etiam et terras vim suam, si ita tibi conveniat, dimittere.",
+      "eng": "I congratulate our friends at Baiae, if indeed, as you write, they have become healthful all of a sudden --- unless, perhaps, they are in love with you, and flattering you, and have forgotten their own nature for as long as you are there. Which, if it is so, I am not in the least surprised that even sky and earth let go of their natural force, if it suits you so.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "oratiunculam pro Deiotaro, quam requirebas, habebam mecum, quod non putaram. itaque eam tibi misi ; quam velim sic legas ut causam tenuem et inopem nec scriptione magno opere dignam ; sed ego hospiti veteri et amico munusculum mittere volui levidense crasso filo, cuius modi ipsius solent esse munera. tu velim animo sapienti fortique sis, ut tua moderatio et gravitas aliorum infamet iniuriam.",
+      "eng": "The little speech on behalf of Deiotarus, which you were asking for, I had with me --- a thing I had not thought I did; and so I am sending it to you. I should like you to read it as a case both thin and threadbare, and not greatly worth committing to writing; but I wished to send an old friend and guest a little present of slight stuff and coarse thread, such as his own gifts usually are. For your part, I would have you keep a wise and brave spirit, that your moderation and your gravity may put to shame the injustice of others.",
+      "notes": null
+    }
+  ]
+}

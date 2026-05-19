@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-05",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.5",
+  "title_english": "Ad Atticum 14.5",
+  "date": "-0044-04-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "spero tibi iam esse ut volumus, quoniam quidem ἠσίτησασ quom leviter commotus esses; sed tamen velim scire quid agas. signa bella quod Calvena moleste fert se suspectum esse Bruto; illa signa non bona si cum signis legiones veniunt e Gallia. quid tu illas putas quae fuerunt in Hispania? nonne idem postulaturas? quid, quas Annius transportavit? C. Asinium volui sed μνημονικὸν ἁμάρτημα . a balneatore φυρμὸς πολύσ . nam ista quidem Caesaris libertorum coniuratio facile opprimeretur, si recte saperet Antonius.",
+      "eng": "I hope that by now things are as we would wish, since you went without food when you were a little unwell; still, I should like to know how you are. Pretty signs, that Calvena takes it badly that Brutus suspects him; nothing pretty about the signs, if it is with the standards that the legions are coming from Gaul. What of those that were in Spain --- what do you suppose? Will they not demand the same? And what of those Annius shipped over? I meant Gaius Asinius --- but a [Greek: mnemonikon hamartema], a slip of memory. From the bath-keeper a [Greek: phurmos polus], a great muddle. As for that conspiracy of Caesar's freedmen, it could easily be put down, if Antony had any sense.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "o meam stultam verecundiam! qui legari noluerim ante res prolatas ne deserere viderer hunc rerum tumorem; cui certe si possem mederi, desse non deberem. sed vides magistratus, si quidem illi magistratus, vides tamen tyranni satellites in imperiis, vides eiusdem exercitus, vides in latere veteranos, quae sunt εὐρίπιστα omnia, eos autem qui orbis terrae custodiis non modo saepti verum etiam magni esse debebant tantum modo laudari atque amari sed parietibus contineri. atque illi quoquo modo beati, civitas misera.",
+      "eng": "What a foolish scruple of mine! I refused a legation before the recess of business, for fear of seeming to desert this swollen state of things --- when, if I could in fact apply a remedy to it, I ought not to fail it. But you see the magistrates, if magistrates is what they are; you see, all the same, the tyrant's hangers-on holding commands; you see his armies still in being; you see the veterans at our flank, all things [Greek: euripista], easily blown about; and the men who ought to be not only ringed but made great by the world's protection, only praised and only loved --- and shut indoors within four walls. And so, however things stand for them, they are happy; the state is wretched.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed velim scire quid adventus Octavi, num qui concursus ad eum, num quae νεωτερισμοῦ suspicio. non puto equidem, sed tamen, quicquid est, scire cupio. haec scripsi ad te proficiscens Astura iii Idus.",
+      "eng": "But I should like to know about Octavius's arrival --- whether there is any rallying to him, any suspicion of [Greek: neoterismou], of a new agitation. I do not think so, but whatever the truth is, I want to know it. I have written this to you as I set out from Astura, on the third day before the Ides.",
+      "notes": null
+    }
+  ]
+}

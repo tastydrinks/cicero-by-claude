@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-17",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.17",
+  "title_english": "Ad Familiares 14.17",
+  "date": "-0048-12-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. h. e. v. si quid haberem quod ad te scriberem, facerem id et pluribus verbis et saepius. nunc quae sint negotia vides ; ego autem quo modo sim adfectus ex Lepta et Trebatio poteris cognoscere. tu fac ut tuam et Tulliae valetudinem cures. vale .",
+      "eng": "If you are well, it is well; I am well. If I had anything to write to you, I would write it both at greater length and more often. As things are, you see what business there is; how I myself am affected you will be able to learn from Lepta and Trebatius. See to it that you take care of your health and Tullia's. Farewell.",
+      "notes": null
+    }
+  ]
+}

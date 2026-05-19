@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-16",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.16",
+  "title_english": "Ad Atticum 13.16",
+  "date": "-0045-06-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nos cum flumina et solitudinem sequeremur quo facilius sustentare nos possemus, pedem e villa adhuc egressi non sumus; ita magnos et adsiduos imbris habebamus. illam Ἀκαδημικὴν σύνταξιν totam ad Varronem traduximus. primo fuit Catuli, Luculli, Hortensi; deinde quia παρὰ τὸ πρέπον videbatur, quod erat hominibus nota non illa quidem ἀπαιδευσία sed in iis rebus ἀτριψία , simul ac veni ad villam, eosdem illos sermones ad Catonem Brutumque transtuli. ecce tuae litterae de Varrone. nemini visa est aptior Antiochia ratio.",
+      "eng": "Though we were after rivers and solitude, the easier to keep ourselves going, we have not yet set foot outside the villa --- so heavy and relentless have the rains been. That entire Academic composition [Greek: Akademik\\=en syntaxin] I have transferred to Varro. To begin with it belonged to Catulus, Lucullus, and Hortensius; then, because it seemed contrary to what was fitting [Greek: para to prepon] --- since these men were known not, indeed, for ignorance [Greek: apaideusia], but for inexperience [Greek: atripsia] in matters of that kind --- as soon as I had come to the villa I transferred those same conversations to Cato and Brutus. And here arrives your letter about Varro. To no one did the Antiochean line of argument seem more suited.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed tamen velim scribas ad me, primum placeatne tibi aliquid ad illum, deinde, si placebit, hocne potissimum. quid ? Servilia iamne venit? Brutus ecquid agit et quando? de Caesare quid auditur? ego ad Nonas, quem ad modum dixi. tu cum Pisone, si quid poteris.",
+      "eng": "Still, I should like you to write to me, first whether you approve of dedicating anything to him at all, and then, if you approve, whether this in particular. What of Servilia --- has she come yet? Brutus, is he doing anything, and when? What is being heard about Caesar? For my own part, I shall be back by the Nones, as I said. You for your part, do what you can with Piso.",
+      "notes": null
+    }
+  ]
+}

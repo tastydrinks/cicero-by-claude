@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-34",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.34",
+  "title_english": "Ad Atticum 12.34",
+  "date": "-0045-03-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego hic vel sine Sicca (Tironi enim melius est) facillime possem esse ut in malis sed, quom scribas videndum mihi esse ne opprimar, ex quo intellegam te certum diem illius profectionis non habere, putavi esse commodius me istuc venire; quod idem video tibi placere. cras igitur in Siccae suburbano. inde , quem ad modum suades, puto me in Ficulensi fore.",
+      "eng": "Here, even without Sicca (for it is better so for Tiro), I could easily enough be, as things in a bad way go; but since you write that I must take care not to be caught out --- from which I gather that you have no fixed day for that man's departure --- I have thought it more convenient that I should come over to you. I see that you think the same. So tomorrow at Sicca's place outside the city; and from there, as you advise, I expect to be at Ficulea.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quibus de rebus ad me scripsisti, quoniam ipse venio, coram videbimus. tuam quidem et in agendis nostris rebus et in consiliis ineundis mihique dandis in ipsis litteris quas mittis benevolentiam, diligentiam, prudentiam mirifice diligo. tu tamen si quid cum Silio, vel illo ipso die quo ad Siccam venturus ero, certiorem me velim facias, et maxime cuius loci detractionem fieri velit. quod enim scribis extremi, vide ne is ipse locus sit cuius causa de tota re, ut scis, est a nobis cogitatum. Hirti epistulam tibi misi et recentem et benevole scriptam.",
+      "eng": "The matters you have written to me about, since I am coming myself, we shall see to face to face. Your goodwill, both in transacting my business and in framing and offering me your counsels in the very letters you send, your diligence, your good sense --- I love them marvellously. Still, if there is anything with Silius, I should be glad to be informed even on the day itself when I am to arrive at Sicca's, and above all what particular plot he wants to be cut out of the sale. For as for what you mention at the end --- take care that this is not the very plot for whose sake, as you know, the whole thing was contemplated by us. I have sent you Hirtius' letter, both fresh and kindly written.",
+      "notes": null
+    }
+  ]
+}

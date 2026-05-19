@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-42",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.42",
+  "title_english": "Ad Atticum 13.42",
+  "date": "-0045-12-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "venit ille ad me καὶ . et ego, σὺ δὲ δὴ τί σύννους; rogas ? inquit, quoi iter instet et iter ad bellum idque cum periculosum tum etiam turpe! quae vis igitur? inquam. aes inquit alienum et tamen ne viaticum quidem. hoc loco ego sumpsi quiddam de tua eloquentia; nam tacui. at ille, sed me maxime angit avunculus. quidnam ? inquam. quod mihi inquit iratus est. cur pateris? inquam, malo enim ita dicere quam cur committis? non patiar inquit, causam enim tollam. et ego, rectissime quidem; sed si grave non est, velim scire quid sit causae. quia , dum dubitabam quam ducerem, non satis faciebam matri; ita ne illi quidem. nunc nihil mihi tanti est. faciam quod volunt. feliciter velim inquam teque laudo. sed quando? nihil ad me inquit de tempore, quoniam rem probo. at ego inquam censeo prius quam proficiscaris. ita patri quoque morem gesseris.",
+      "eng": "The man himself came to see me [and:] [Greek: kai]. And I: ``But you --- why so pensive?'' [Greek: su de de ti synnous?] ``Do you ask?'' he says. ``A man with a journey ahead, and a journey to war --- and a war as dangerous as it is shameful!'' ``What's the trouble, then?'' I say. ``Debt,'' he says, ``and not even the travel-money to leave with.'' At this point I borrowed a little something from your style of speaking: I said nothing. But he went on: ``Still, what really tortures me is my uncle.'' ``Why's that?'' I say. ``He's angry with me.'' ``Why do you put up with it?'' I say --- for I prefer to put it that way rather than ``Why bring it on yourself?'' ``I shall not put up with it,'' he says: ``I shall take away the cause.'' And I: ``Very right; but, if it isn't a hardship, I should like to know what the cause is.'' ``Because, while I was hesitating which woman to marry, I did not satisfy my mother --- and so not him either. Now nothing is worth that much to me. I shall do as they want.'' ``Good luck to it,'' I said, ``and I commend you. But when?'' ``As for the timing,'' he says, ``that's nothing to me, since I approve the principle.'' ``But for my part,'' I said, ``I think you should do it before you set out. So you will have humoured your father as well.''",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "faciam inquit ut censes. hic dialogus sic conclusus est.",
+      "eng": "``I shall do as you advise,'' he says. So ended the dialogue.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed heus tu, diem meum scis esse iii Nonas Ianuarias; aderis igitur. scripseram iam: ecce tibi orat Lepidus ut veniam. opinor augures velle habere ad templum effandum. Eatur; μὴ σκόρδου . videbimus te igitur.",
+      "eng": "But, listen --- you know my birthday is the third before the Nones of January; you will be there, of course. I had already written this --- when, look: Lepidus is begging me to come. The augurs want, I gather, to have me there for the ritual marking-out of a temple. So I am to go. No garlic [Greek: me skordou]. I shall see you, then.",
+      "notes": null
+    }
+  ]
+}

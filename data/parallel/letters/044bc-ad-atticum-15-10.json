@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-10",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.10",
+  "title_english": "Ad Atticum 15.10",
+  "date": "-0044-06-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "o Bruti amanter scriptas litteras! o iniquum tuum tempus qui ad eum ire non possis! ego autem quid scribam? ut beneficio istorum utantur? quid turpius? ut moliantur aliquid? nec audent nec iam possunt. age , quiescant auctoribus nobis; quis incolumitatem praestat? si vero aliquid de Decimo gravius, quae nostris vita, etiam si nemo molestus sit? ludos vero non facere! quid foedius? frumentum imponere! quae est alia Dionis legatio aut quod munus in re publica sordidius? prorsus quidem consilia tali in re ne iis quidem tuta sunt qui dant; sed possim id neglegere proficiens; frustra vero qui ingrediar? matris consilio cum utatur vel etiam precibus, quid me interponam? sed tamen cogitabo quo genere utar litterarum; nam silere non possum. statim igitur mittam vel Antium vel Circeios.",
+      "eng": "Oh, the affectionate letter from Brutus! Oh, the cruelty of your timing, that you cannot go to him! And as for me, what am I to write? That he should accept the favour of those people? What could be more shameful? That he should attempt something? They neither dare nor any longer can. Well then --- let them keep quiet on our advice; who will guarantee his safety? And if some heavier news comes about Decimus, what kind of life is there for ours, even if no one molests them? To miss the games --- what could be more disgraceful? To take on a grain-commission --- what other office is the embassy of Dio, or what duty in public life more sordid? In fact in a case of this kind even those who give counsel are not safe; but I might disregard that if I were getting somewhere; what is the use of stepping in for nothing? When he uses his mother's counsel --- her entreaties, even --- where do I interpose myself? Still, I will think over what kind of letter to write; for keep silent I cannot. I shall send the man off at once, either to Antium or to Circeii.",
+      "notes": null
+    }
+  ]
+}

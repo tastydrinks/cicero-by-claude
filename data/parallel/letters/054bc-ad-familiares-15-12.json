@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-12",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.12",
+  "title_english": "Ad Familiares 15.12",
+  "date": "-0051-09-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi mihi numquam fuit dubium quin te populus R. pro tuis summis in rem p. meritis et pro amplissima familiae dignitate summo studio cunctis suffragiis consulem facturus esset, tamen incredibili laetitia sum adfectus, cum id mihi nuntiatum est, eumque honorem tibi deos fortunare volo a teque ex tua maiorumque tuorum dignitate administrari.",
+      "eng": "Although I never doubted that, in view of your supreme services to the commonwealth and the supreme distinction of your family, the Roman people would make you consul with the highest enthusiasm and by every vote, still I have been filled with incredible joy at the news. May the gods prosper that office for you, and may you administer it in a manner worthy of your own and your ancestors' standing.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "atque utinam praesens illum diem mihi optatissimum videre potuissem proque tuis amplissimis erga me studiis atque beneficiis tibi operam meam studiumque navare! quam mihi facultatem quoniam hic nec opinatus et improvisus provinciae casus eripuit, tamen ut te consulem rem p. pro tua dignitate gerentem videre possim, magno opere a te peto ut operam des efficiasque ne quid mihi fiat iniuriae neve quid temporis ad meum annuum munus accedat. quod si feceris, magnus ad tua pristina erga me studia cumulus accedet.",
+      "eng": "And how I wish I could have been present to see that day, the day I have most longed for, and to bring my own effort and devotion to bear in return for the supreme zeal and kindnesses you have shown me! Since this unforeseen and unlooked-for accident of a province has snatched that opportunity from me, still --- so that I may at least be able to see you serving as consul and conducting the commonwealth as your dignity requires --- I urgently ask you to take pains, and to see to it, that no injury be done me and that no time be added to my year-long commission. If you do this, a great further weight will be added to your old zeal on my behalf.",
+      "notes": null
+    }
+  ]
+}

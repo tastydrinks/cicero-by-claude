@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-43",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.43",
+  "title_english": "Ad Atticum 13.43",
+  "date": "-0045-07-14",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego vero utar prorogatione diei, tuque humanissime fecisti qui me certiorem feceris atque ita ut eo tempore acciperem litteras quo non exspectarem tuque ut ab ludis scriberes. sunt omnino mihi quaedam agenda Romae sed consequemur biduo post.",
+      "eng": "I will indeed make use of the postponement, and it was very good of you to let me know --- and to do it in such a way that I received your letter at a moment when I was not expecting one, and that you wrote from the games themselves. I have, to be sure, some business to do at Rome; but we shall follow on two days later.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-16-04",
+  "category": "letters",
+  "title_latin": "Ad Atticum 16.4",
+  "title_english": "Ad Atticum 16.4",
+  "date": "-0044-07-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ita ut heri tibi narravi vel fortasse hodie (Quintus enim altero die se aiebat), in Nesida viii Idus. ibi Brutus. quam ille doluit de Nonis Ivliis ! mirifice est conturbatus. itaque sese scripturum aiebat ut venationem eam quae postridie ludos Apollinaris futura est proscriberent in III Idvs Qvintilis . Libo intervenit. is Philonem Pompei libertum et Hilarum suum libertum venisse a Sexto cum litteris ad consules sive quo alio nomine sunt. earum exemplum nobis legit, si quid videretur. pauca παρὰ λέξιν , ceteroqui et satis graviter et non contumaciter. tantum addi placuit, quod erat coss. solum, ut esset Praett. , TRIBB. PL., SENATVI, ne illi non proferrent eas quae ad ipsos missae essent.",
+      "eng": "Just as I told you yesterday --- or perhaps today (for Quintus said he would set out the day after) --- I went to Nesis on the eighth before the Ides. Brutus was there. How grieved he was about the Nones of July! He is wonderfully shaken. And so he said he would write asking that the beast-hunt scheduled for the day after the Apollinarian games be advertised for the third day before the Ides of July. Libo turned up. He reported that Philo, Pompey's freedman, and his own freedman Hilarus had come from Sextus with a letter for the consuls --- or whatever title they go by. He read us the copy of it, in case anything seemed worth noting. A few points were off in expression [Greek: para lexin]; for the rest, weighty enough and not defiant. The one addition agreed on --- since the address had been only coss. --- was to make it praett., tribb. pl., senatui, lest those men decline to produce letters that had been sent only to themselves.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Sextum autem nuntiant cum una solum legione fuisse Karthagine eique eo ipso die quo oppidum Baream cepisset nuntiatum esse de Caesare, capto oppido miram laetitiam commutationemque animorum concursumque undique; sed illum ad sex legiones quas in ulteriore reliquisset revertisse. ad ipsum autem Libonem scripsit nihil esse nisi ad larem suum liceret. summa postulatorum ut omnes exercitus dimittantur qui ubique sint. haec fere de Sexto.",
+      "eng": "As for Sextus, they report that he was at Carthage with only one legion, and that on the very day he had taken the town of Baria news reached him about Caesar; that on the capture of the town there was wonderful rejoicing and a turn of feeling and a rush of men to him from every quarter; but that he went back to the six legions he had left in Further Spain. To Libo himself he wrote that there was nothing to be done unless he were permitted to return to his own hearth. The sum of his demands is that all armies, wherever they are, be disbanded. So much, more or less, about Sextus.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de Buthrotiis undique quaerens nihil reperiebam. alii concisos agripetas, alii Plancum acceptis nummis relictis illis aufugisse. itaque non video sciturum me quid eius sit ni statim aliquid litterarum.",
+      "eng": "About the Buthrotians: asking on every side, I could find out nothing. Some say the settlers have been cut down; others, that Plancus has taken the money and run off, leaving them behind. So I do not see how I shall know how the matter stands unless some letter arrives at once.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "iter illud Brundisium de quo dubitabam sublatum videtur. legiones enim adventare dicuntur. haec autem navigatio habet quasdam suspiciones periculi. itaque constituebam uti ὁμοπλοίᾳ . paratiorem enim offendi Brutum quam audiebam. nam et ipse et Domitius bona plane habet dicrota suntque navigia praeterea luculenta Sesti, Buciliani, ceterorum. nam Cassi classem quae plane bella est non numero ultra fretum. illud est mihi submolestum quod parum Brutus properare videtur. primum confectorum ludorum nuntios exspectat; deinde, quantum intellego, tarde est navigaturus consistens in locis pluribus. tamen arbitror esse commodius tarde navigare quam omnino non navigare; et si, cum processerimus, exploratiora videbuntur, etesiis utemur.",
+      "eng": "That overland journey to Brundisium, about which I was hesitating, seems off the table. The legions, they say, are on the move. But this voyage of ours has its own suspicions of danger. And so I was resolving to use a convoy [Greek: homoploiai]. For I have found Brutus better prepared than I had heard. He himself --- and Domitius too --- has thoroughly good two-banked vessels, and besides there are fine craft belonging to Sestius, Bucilianus, and the others. Cassius's flotilla --- a really pretty one --- I do not count, as it is past the strait. This one thing is somewhat troubling: that Brutus seems in no hurry. First he is waiting for word that the games are finished; then, as far as I can tell, he means to sail slowly, putting in at several places. Still, I judge it more advisable to sail slowly than not to sail at all; and if, once we have set out, conditions look better, we shall use the Etesian winds.",
+      "notes": null
+    }
+  ]
+}

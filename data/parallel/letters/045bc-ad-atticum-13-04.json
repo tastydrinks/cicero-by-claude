@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-04",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.4",
+  "title_english": "Ad Atticum 13.4",
+  "date": "-0045-06-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "habeo munus a te elaboratum decem legatorum: et quidem de Tuditano idem puto. nam filius anno post quaestor fuit quam consul Mummius. sed quoniam saepius de nominibus quaeris quid placeat, ego quoque tibi saepius respondeo placere. si quid poteris, cum Pisone conficies; Avius enim videtur in officio futurus. velim ante possis, si minus, utique simul simus quom Brutus veniet in Tusculanum. magni interest mea una nos esse. scies autem qui dies is futurus sit, si puero negotium dederis ut quaerat.",
+      "eng": "I have the gift you worked up for me on the ten legates --- and I think the same about Tuditanus. For the son was quaestor a year after Mummius was consul. But since you keep asking what my pleasure is on the debts, I keep answering you the same: that it pleases me. If you can manage anything, you will settle it with Piso; Avius, indeed, looks likely to do his duty. I should like you to come earlier if you can; failing that, at least let us be together when Brutus comes to the Tusculanum. It matters greatly to me that we be there at the same time. You will know what day that is to be if you send a boy with instructions to find out.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-52",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.52",
+  "title_english": "Ad Atticum 12.52",
+  "date": "-0045-05-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Tullium Montanum nosti qui cum Cicerone profectus est. ab eius sororis viro litteras accepi Montanum Planco debere, quod praes pro Flaminio sit, HS x_x_ ; de ea re nescio quid te a Montano rogatum. sane velim, sive Plancus est rogandus sive qua re potes illum iuvare, iuves. pertinet ad nostrum officium. si res tibi forte notior est quam mihi, aut si Plancum rogandum putas, scribas ad me velim ut quid rei sit et quid rogandum sciam.",
+      "eng": "You know Lucius Tullius Montanus, who went out with my Cicero. I have had a letter from his sister's husband: that Montanus owes Plancus 20{,}000 sesterces, on the ground that he stood surety for Flaminius. About this business I gather you have had some request from Montanus. I should very much like you to do what you can to help him --- whether by asking Plancus, or by any other means in your power. It belongs to my obligation. If the matter happens to be better known to you than to me, or if you think Plancus is the one to be asked, please write and let me know how things stand and what is to be asked.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de epistula ad Caesarem quid egeris exspecto. de Silio non ita sane laboro. tu mi aut Scapulanos aut Clodianos efficias necesse est. sed nescio quid videris dubitare de Clodia; utrum quando veniat an sintne venales? sed quid est quod audio Spintherem fecisse divortium? de lingua Latina securi es animi. dices , qui talia a conscribis?' ἀπόγραφα sunt, minore labore fiunt; verba tantum adfero quibus abundo.",
+      "eng": "About the letter to Caesar, I am waiting to hear what you have done. About Silius I am not particularly anxious. You must manage to secure for me either the Scapulan gardens or the Clodian. But you seem to be in some hesitation about Clodia --- whether about when she is coming, or whether they are for sale. And what is this I hear, that Spinther has divorced his wife? About the Latin work, set your mind at ease. You will say, ``How do you compose such things?'' They are transcripts [Greek: apographa] --- they get made with less labour; I am supplying only the words, which I have in abundance.",
+      "notes": null
+    }
+  ]
+}

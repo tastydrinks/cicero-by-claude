@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-23",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.23",
+  "title_english": "Ad Familiares 9.23",
+  "date": "-0046-12-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Here veni in Cumanum, cras ad te fortasse ; sed cum certum sciam, faciam te paulo ante certiorem ; etsi M. Caeparius, cum mihi in silva gallinaria obviam venisset quaesissemque quid ageres, dixit te in lecto esse, quod ex pedibus laborares. tuli scilicet moleste, ut debui, sed tamen constitui ad te venire, ut et viderem te et viserem et cenarem etiam ; non enim arbitror cocum etiam te arthriticum habere. exspecta igitur hospitem cum minime edacem tum inimicum cenis sumptuosis.",
+      "eng": "Yesterday I came to my house at Cumae; tomorrow, perhaps, to you --- but as soon as I know for certain I shall give you a little more notice. Even so, M. Caeparius, when he met me in the Gallinarian Wood and I asked him how you were doing, said that you were laid up in bed, suffering with your feet. I took it hard, of course, as I ought; but for all that I am determined to come to you, both to see you and to look in on you and even to dine --- since I do not suppose that your cook too has the gout. Expect, then, a guest at once least greedy and no friend to extravagant dinners.",
+      "notes": null
+    }
+  ]
+}

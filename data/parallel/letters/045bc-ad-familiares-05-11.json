@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-11",
+  "category": "letters",
+  "title_latin": "Ad Familiares 5.11",
+  "title_english": "Ad Familiares 5.11",
+  "date": "-0045-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "grata tibi mea esse officia non miror; cognovi enim te gratissimum omnium, idque numquam destiti praedicare. nec enim tu mihi habuisti modo gratiam, verum etiam cumulatissime rettulisti. quam ob rem in reliquis tuis rebus omnibus pari me studio erga te et eadem voluntate cognosces.",
+      "eng": "That my good offices please you does not surprise me; I have come to know that you are the most grateful of all men, and I have never stopped saying so. Nor indeed have you merely felt the obligation to me --- you have repaid it in heaped-up measure. So in all your other affairs you will find me at one with you in the same zeal and the same goodwill.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod mihi feminam primariam, Pompeiam, uxorem tuam, commendas, cum Sura nostro statim tuis litteris lectis locutus sum, ut ei meis verbis diceret, ut, quicquid opus esset, mihi denuntiaret; me omnia quae ea vellet, summo studio curaque facturum. itaque faciam eamque, si opus esse videbitur, ipse conveniam. tu tamen ei velim scribas, ut nullam rem neque tam magnam neque tam parvam putet quae mihi aut difficilis aut parum me digna videatur. omnia , quae in tuis rebus agam, et non laboriosa mihi et honesta videbuntur.",
+      "eng": "As for your commending to me that most distinguished lady, your wife Pompeia: the moment your letter was read I spoke with our friend Sura, that he should tell her, in my name, to send me word whatever she might need, that I would attend to everything she wished with the highest zeal and care. So I shall do, and shall call on her in person if it seems necessary. But I should like you to write to her not to think any matter, great or small, either difficult for me or beneath my dignity. Everything I do in your affairs will seem to me both not laborious and an honour.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de Dionysio, si me amas, confice. quamcumque ei fidem dederis, praestabo; si vero improbus fuerit, ut est, duces eum captivum in triumpho. Dalmatis di male faciant, qui tibi molesti sunt ! sed , ut scribis, brevi capientur et inlustrabunt res tuas gestas; semper enim habiti sunt bellicosi.",
+      "eng": "About Dionysius, if you love me, see the thing through. Whatever pledge you have given him I shall make good; but if he turns out to be a scoundrel, as in fact he is, you shall lead him captive in your triumph. May the gods deal ill with the Dalmatians, who are giving you such trouble! But, as you write, they will soon be taken and will set off your exploits in good light --- they have always been counted a warlike people.",
+      "notes": null
+    }
+  ]
+}

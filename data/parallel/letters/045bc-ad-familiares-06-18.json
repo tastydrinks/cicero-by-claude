@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-18",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.18",
+  "title_english": "Ad Familiares 6.18",
+  "date": "-0045-01-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "simul atque accepi a Seleuco tuo litteras, statim quaesivi e Balbo per codicillos quid esset in lege. rescripsit eos, qui facerent praeconium, vetari esse in decurionibus ; qui fecissent, non vetari. qua re bono animo sint et tui et mei familiares ; neque enim erat ferendum, cum qui hodie haruspicinam facerent in senatum Romae legerentur, eos qui aliquando praeconium fecissent in municipiis decuriones esse non licere",
+      "eng": "The moment I had the letter from your man Seleucus, I sent to Balbus on the spot, by note, to ask what the law actually said. He wrote back that those who are acting as auctioneers are forbidden to sit among the decurions; those who have done so are not forbidden. So your friends, and mine, may take heart; for it would have been past bearing that, when men who today practise haruspicy are being enrolled into the Senate at Rome, men who at some point acted as auctioneers should not be allowed to sit on a town council.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Hispaniis novi nihil. Magnum tamen exercitum Pompeium habere constat ; nam Caesar ipse ad suos misit exemplum Paciaeci litterarum, in quo erat illas xi esse legiones. scripserat etiam Messalla Q. Salasso P. Curtium, fratrem eius, iussu Pompei inspectante exercitu interfectum, quod consensisset cum Hispanis quibusdam, si in oppidum nescio quod Pompeius rei frumentariae causa venisset, eum comprehendere ad Caesaremque deducere",
+      "eng": "From the Spains there is no news. It is established, however, that Pompeius has a large army; for Caesar himself has sent his people a copy of a letter of Paciaecus, in which it was written that those legions number eleven. Messalla had also written that Q.~Salassus had had his brother, P.~Curtius, put to death on Pompeius's order, in the sight of the army, because he had conspired with certain Spaniards that, if Pompeius came into some town or other on a corn-supply errand, they would seize him and bring him over to Caesar.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de tuo negotio, quod sponsor es pro Pompeio, si Galba, consponsor tuus, redierit, homo in re familiari non parum diligens, non desinam cum illo communicare, si quid expediri possit ; quod videbatur mihi ille confidere",
+      "eng": "As to your own business --- that you stand surety for Pompeius --- if Galba, your co-surety, comes back (a man not lacking in care over private affairs), I shall not stop conferring with him as to whether anything can be worked out; that, it seemed to me, was something he had confidence in.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "' oratorem ' meum tanto opere a te probari vehementer gaudeo. mihi quidem sic persuadeo me, quicquid habuerim I iudici de dicendo, in illum librum contulisse. qui si est talis qualem tibi videri scribis, ego quoque aliquid sum ; sin aliter, non recuso quin, quantum de illo libro, tantundem de mei iudici fama detrahatur. Leptam nostrum cupio delectari iam talibus scriptis. etsi abest maturitas aetatis, tamen personare auris eius huius modi vocibus non est inutile.",
+      "eng": "That my Orator has your warm approval gives me great delight. For my own part I am convinced that whatever judgement I had about speaking, I put into that book. If it is the kind of thing you write me it seems to you to be, then I too am something; if otherwise, I do not object that as much as is taken from the book's standing should be taken from the reputation of my judgement. I should like our young Lepta to be taking pleasure in such writings already. The ripeness of years is lacking, no doubt; even so, it does no harm to ring his ears with words of this kind.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "me Romae tenuit omnino Tulliae meae partus. sed cum ea, quem ad modum spero, satis firma sit, teneor tamen, dum a Dolabellae procuratoribus exigam primam pensionem ; et me hercule non tam sum peregrinator iam quam solebam. aedificia mea me delectant, et otium ; domus est quae nulli mearum villarum cedat, otium omni desertissima regione maius. itaque ne litterae quidem meae impediuntur, in quibus sine ulla interpellatione versor. qua re, ut arbitror, prius hic te nos quam istic tu nos videbis. Lepta suavissimus ediscat Hesiodum et habeat in ore th=s d' a)reth=s i(drw=ta et cetera.",
+      "eng": "What kept me at Rome, more than anything, was my Tullia's confinement. But although she is now, as I hope, reasonably strong, I am still held back here until I get the first instalment out of Dolabella's agents. And, by Hercules, I am not such a traveller now as I used to be. My buildings are my delight --- and my leisure. I have a house that yields to none of my villas; my leisure, to none in the most secluded region. So even my literary work is not interrupted, and I keep at it without any breaking in. So I rather think you will see us here before we see you there. Let our sweetest little Lepta learn his Hesiod by heart and have on his lips but in front of excellence [Greek: t\\=es d' aret\\=es hidr\\=ota] and the rest.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-16",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.16",
+  "title_english": "Ad Familiares 14.16",
+  "date": "-0047-01-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. b. e. v. etsi eius modi tempora nostra sunt ut nihil habeam quod aut a te litterarum exspectem aut ipse ad te scribam, tamen nescio quo modo et ipse vestras litteras exspecto et scribo ad vos, cum habeo qui ferat. Volumnia debuit in ' te officiosior esse quam fuit, et id ipsum quod fecit potuit diligentius facere et cautius. quamquam alia sunt quae magis curemus magisque doleamus quae me ita conficiunt, ut ii voluerunt qui me de mea sententia detruserunt. cura ut valeas. Pr. non . Ian.",
+      "eng": "If you are well, it is well; I am well. Although our times are such that I have nothing either to expect by way of letters from you or to write to you myself, still --- somehow or other --- I both look out for letters from you and write to you whenever I have someone to carry them. Volumnia ought to have been more dutiful toward you than she was, and what she did do she might have done with more care and more circumspection. But there are other matters that concern us more and that we grieve over more, and that wear me down to the very state which those men wanted who pushed me away from my own resolve. Take care of your health. The day before the Nones of January.",
+      "notes": null
+    }
+  ]
+}

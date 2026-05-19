@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-45",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.45",
+  "title_english": "Ad Atticum 12.45",
+  "date": "-0045-05-17",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de Attica optime. ἀκηδία tua me movet, etsi scribis nihil esse. in Tusculano eo commodius ero quod et crebrius tuas litteras accipiam et te ipsum non numquam videbo; nam ceteroqui ἀνεκτότερα erant Asturae. nec haec quae refricant hic me magis angunt; etsi tamen, ubicumque sum, illa sunt mecum. de Caesare vicino scripseram ad te, quia cognoram ex tuis litteris. eum σύνναον Quirini malo quam Salutis. tu vero pervulga Hirtium. id enim ipsum putaram quod scribis, ut cum ingenium amici nostri probaretur, ὑπόθεσισ vituperandi Catonis inrideretur.",
+      "eng": "Excellent news about Attica. Your listlessness [Greek: ak\\=edia] moves me, even though you write that it is nothing. I shall be the more comfortably placed at the Tusculanum for this --- that I shall receive your letters more often, and shall now and then see you yourself; for otherwise things were more bearable [Greek: anektotera] at Astura. Nor do the things that chafe at me here distress me any more than there; though still, wherever I am, those things are with me. About Caesar as neighbour I had written to you, because I had learned of it from your letter. I would rather have him a temple-mate of Quirinus, a [Greek: synnaon] of Quirinus, than of Salus. But yes, do spread Hirtius about. For I had thought the very thing you write --- that, while our friend's talent is approved, the theme [Greek: hypothesis] of vilifying Cato may be laughed off.",
+      "notes": null
+    }
+  ]
+}

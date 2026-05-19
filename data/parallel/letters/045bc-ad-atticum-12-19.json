@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-19",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.19",
+  "title_english": "Ad Atticum 12.19",
+  "date": "-0045-03-14",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "est hic quidem locus amoenus et in mari ipso qui et Antio et Circeiis aspici possit; sed ineunda nobis ratio est quem ad modum in omni mutatione dominorum, quae innumerabiles fieri possunt in infinita posteritate, si modo haec stabunt, illud quasi consecratum remanere possit. equidem iam nihil egeo vectigalibus et parvo contentus esse possum. cogito interdum trans Tiberim hortos aliquos parare et quidem ob hanc causam maxime: nihil enim video quod tam celebre esse possit. sed quos, coram videbimus, ita tamen ut hac aestate fanum absolutum sit. tu tamen cum Apella Chio confice de columnis.",
+      "eng": "The place here is indeed pleasant, set in the sea itself in such a way that it can be looked across to from Antium and from Circeii; but we must work out some plan by which, in any change of owners --- and these may come without number through endless posterity, if only the present order holds --- that consecrated thing may yet remain. For my part I now have no need of revenues, and can be content with little. I sometimes consider acquiring some gardens across the Tiber, and chiefly for this reason: I see nothing else that can be so much frequented. Which gardens, we will see when we meet --- in such a way, however, that the shrine is finished this summer. You meanwhile, settle with Apella of Chios about the columns.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Cocceio et Libone quae scribis approbo, maxime quod de iudicatu meo. de sponsu si quid perspexeris et tamen quid procuratores Cornifici dicant velim scire, ita ut in ea re te cum tam occupatus sis, non multum operae velim ponere. de Antonio Balbus quoque ad me cum Oppio conscripsit idque tibi placuisse ne perturbarer. illis egi gratias. te tamen, ut iam ante ad te scripsi, scire volo me neque isto nuntio esse perturbatum nec iam ullo perturbatum iri.",
+      "eng": "As to what you write about Cocceius and Libo, I approve, and most of all your handling of my judgeship. About the surety, if you have made anything out --- and even so, what Cornificius's agents say I should like to know --- arrange it so that you give the matter, busy as you are, not too much labour. About Antonius, Balbus too has written to me jointly with Oppius, and added that this was your wish, that I should not be agitated. I thanked them. But you, as I have already written to you before, I want to know that I was not agitated by that news and shall not now be agitated by any.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Pansa si hodie, ut putabas, profectus est, posthac iam incipito scribere ad me de Bruti adventu quid exspectes, id est quos ad dies. id , si scies ubi iam sit, facile coniectura adsequere.",
+      "eng": "If Pansa has set off today, as you thought, begin from now on to write to me about Brutus's coming --- what you expect, that is to say, by what dates. If you know where he is by now, you will easily come at it by guess.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quod ad Tironem de Terentia scribis, obsecro te, mi Attice, suscipe totum negotium. vides et officium agi meum quoddam cui tu es conscius et, ut non nulli putant, Ciceronis rem. me quidem id multo magis movet quod mihi est et sanctius et antiquius, praesertim cum hoc alterum neque sincerum neque firmum putem fore.",
+      "eng": "As to what you write to Tiro about Terentia, I beg you, my dear Atticus, take the whole business in hand. You see that an obligation of my own is at stake, of which you are conscious, and, as some think, the standing of young Cicero. For me, it is much more the former that moves me, as the more sacred and the older claim, especially since I think the second neither sound nor secure.",
+      "notes": null
+    }
+  ]
+}

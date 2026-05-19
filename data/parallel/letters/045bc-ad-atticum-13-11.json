@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-11",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.11",
+  "title_english": "Ad Atticum 13.11",
+  "date": "-0045-06-23",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "οὐ ταὐτὸν εἶδοσ . credebam esse facile; totum est aliud postea quam sum a te diiunctior. sed fuit faciendum ut et constituerem mercedulas praediorum et ne magnum onus observantiae Bruto nostro imponerem. posthac enim poterimus commodius colere inter nos in Tusculano. hoc autem tempore, cum ille me cotidie videre vellet, ego ad illum ire non possem, privabatur omni delectatione Tusculani.",
+      "eng": "Not the same look [Greek: ou tauton eidos]. I had believed it would be easy --- it is altogether another thing now that I am cut off further from you. But it had to be done, both to put my little rents from the estates in order and to keep myself from laying too heavy a burden of attendance on our friend Brutus. Hereafter we shall be able to keep one another's company more conveniently in the Tusculanum. As things stood --- with him wanting to see me every day, and me unable to come to him --- he was being deprived of all the pleasure of the Tusculanum.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu igitur si Servilia venerit, si Brutus quid egerit, etiam si constituerit quando obviam, quicquid denique erit quod scire me oporteat scribes. Pisonem, si poteris, convenies. vides quam maturum sit. sed tamen quod commodo tuo fiat.",
+      "eng": "You, then, if Servilia has come, if Brutus has done anything, even if he has fixed a date for our meeting, whatever in short there is that I need to know, will write. Piso, if you can, you will meet with. You see how ripe it is. But still, only as suits your convenience.",
+      "notes": null
+    }
+  ]
+}

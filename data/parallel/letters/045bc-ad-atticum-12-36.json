@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-36",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.36",
+  "title_english": "Ad Atticum 12.36",
+  "date": "-0045-05-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "fanum fieri volo neque hoc mihi eripi potest. sepulcri similitudinem effugere non tam propter poenam legis studeo quam ut maxime adsequar ἀποθέωσιν . quod poteram, si in ipsa villa facerem; sed ut saepe locuti sumus, commutationes dominorum reformido. in agro ubicumque fecero, mihi videor adsequi posse ut posteritas habeat religionem. hae meae tibi ineptiae (fateor enim) ferendae sunt; nam habeo ne me quidem ipsum quicum tam audacter communicem quam tecum. sin tibi res, si locus, si institutum placet, lege, quaeso, legem mihique eam mitte. si quid in mentem veniet quo modo eam effugere possimus, utemur.",
+      "eng": "I want a shrine made, and this cannot be torn from me. I am bent on escaping the look of a tomb --- not so much to avoid the law's penalty as that I may attain, so far as possible, an apotheosis [Greek: apothe\\=osin]. This I could do, if I were to make it within the villa itself; but as we have often said in conversation, I dread the changes of owners. In a field, wherever I make it, I think I can ensure that posterity will hold it religiously. These foolish notions of mine --- for I confess them to be such --- you must bear with me; for I have no one, not even myself, with whom I can speak of them as boldly as I do with you. But if the matter pleases you, the place, the plan, then read the law, please, and send it to me. If anything comes into your mind by which we may evade it, we shall use it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ad Brutum si quid scribes, nisi alienum putabis, obiurgato eum quod in Cumano esse noluerit propter eam causam quam tibi dixi. cogitanti enim mihi nihil tam videtur potuisse facere rustice. et si tibi placebit sic agere de fano ut coepimus, velim cohortere et exacuas Cluatium. nam etiam si alio loco placebit, illius nobis opera consilioque utendum puto. tu ad villam fortasse cras.",
+      "eng": "If you write anything to Brutus, scold him --- unless you think it out of place --- because he would not be at the Cumanum, for the reason I told you. For as I turn it over, it does not seem to me he could have done anything so churlish. And if it seems good to you to handle the shrine business as we have begun, I should like you to encourage and spur on Cluatius. For even if some other site finally suits, I think we shall need his work and his counsel. You yourself, perhaps, will be at the villa tomorrow.",
+      "notes": null
+    }
+  ]
+}

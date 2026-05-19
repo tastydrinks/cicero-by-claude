@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-17",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.17",
+  "title_english": "Ad Atticum 14.17",
+  "date": "-0044-05-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "in Pompeianum veni v Nonas Maias, cum pridie, ut antea ad te scripsi, Piliam in Cumano conlocavissem. ibi mihi cenanti litterae tuae sunt redditae quas dederas Demetrio liberto pr. Kal.; in quibus multa sapienter, sed tamen talia, quem ad modum tute scribebas, ut omne consilium in fortuna positum videretur. itaque his de rebus ex tempore et coram.",
+      "eng": "I came to Pompeii on the fifth before the Nones of May, after I had, on the day before, as I wrote you earlier, settled Pilia at the Cumean villa. There, while I was dining, a letter from you was delivered to me which you had given to the freedman Demetrius on the day before the Kalends; in which were many wise things, but of such a kind --- as you yourself wrote --- that every plan seemed to depend on fortune. So of these matters, then, as the moment requires, and in person.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Buthrotio negotio utinam quidem Antonium conveniam! multum profecto proficiam. sed non arbitrantur eum a Capua declinaturum; quo quidem metuo ne magno rei publicae malo venerit. quod idem L. Caesari videbatur quem pridie Neapoli adfectum graviter videram. quam ob rem ista nobis ad Kal. Iunias tractanda et perficienda sunt. sed hactenus.",
+      "eng": "On the Buthrotian business: how I wish I might meet Antony! I should certainly accomplish much. But people do not think he will be turning aside from Capua --- where, indeed, I am afraid he has come to the Republic's great hurt. The same was the opinion of Lucius Caesar, whom I had seen the day before at Naples, gravely ill. For which reason these matters of ours are to be handled and brought to completion by the Kalends of June. But enough of that.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Quintus filius ad patrem acerbissimas litteras misit quae sunt ei redditae cum venissemus in Pompeianum. quarum tamen erat caput Aquiliam novercam non esse laturum. sed hoc tolerabile fortasse, illud vero, se a Caesare habuisse omnia, nihil a patre, reliqua sperare ab Antonio—o perditum hominem! sed μελήσει .",
+      "eng": "Quintus the son has sent his father a most bitter letter, which was delivered to him just as we had come to Pompeii. The heart of it, however, was that he would not put up with his stepmother Aquilia. But this perhaps is bearable. The other point indeed --- that he had had everything from Caesar, nothing from his father, and was looking for the rest from Antony --- O the lost soul! But [Greek: mel\\=esei] --- it will be seen to.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "ad Brutum nostrum, ad Cassium, ad Dolabellam epistulas scripsi. earum exempla tibi misi, non ut deliberarem reddendaene essent. plane enim iudico esse reddendas, quod non dubito quin tu idem existimaturus sis.",
+      "eng": "I have written letters to our Brutus, to Cassius, to Dolabella. I have sent you copies, not to deliberate whether they should be delivered. For I judge plainly that they should be delivered --- as I do not doubt that you too will think.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "Ciceroni meo, mi Attice, suppeditabis quantum videbitur meque hoc tibi onus imponere patiere. quae adhuc fecisti mihi sunt gratissima.",
+      "eng": "To my Cicero, my dear Atticus, you will supply as much as seems good, and you will allow me to lay this burden upon you. The things you have done so far are most welcome to me.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "librum meum illum ἀνέκδοτον nondum, ut volui, perpolivi; ista vero quae tu contexi vis aliud quoddam separatum volumen exspectant. ego autem, credas mihi velim, minore periculo existimo contra illas nefarias partis vivo tyranno dici potuisse quam mortuo. ille enim nescio quo pacto ferebat me quidem mirabiliter; nunc quacumque nos commovimus, ad Caesaris non modo acta verum etiam cogitata revocamur. de Montano, quoniam Flamma venit, videbis. puto rem meliore loco esse debere.",
+      "eng": "That book of mine, the unpublished one [Greek: anekdoton], I have not yet, as I wished, given its final polish; but the things you want woven in await a separate volume of their own. I myself --- and I would have you believe me --- judge that with less risk one could have spoken against that wicked party while the tyrant was alive than now that he is dead. For he, somehow or other, used to bear with me wonderfully; whereas now, wherever we have stirred, we are called back to the acts --- not only the acts, but even the thoughts --- of Caesar. About Montanus, since Flamma has come, you will see to it. I think the matter should be in a better way.",
+      "notes": null
+    }
+  ]
+}

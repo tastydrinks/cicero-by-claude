@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-50",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.50",
+  "title_english": "Ad Atticum 13.50",
+  "date": "-0045-08-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "admonitus quibusdam tuis litteris ut ad Caesarem uberiores litteras mittere instituerem, cum mihi Balbus nuper in Lanuvino dixisset se et Oppium scripsisse ad Caesarem me legisse libros contra Catonem et vehementer probasse, conscripsi de iis ipsis libris epistulam Caesari quae deferretur ad Dolabellam; sed eius exemplum misi ad Oppium et Balbum scripsique ad eos ut tum deferri ad Dolabellam iuberent meas litteras si ipsi exemplum probassent. ita mihi rescripserunt nihil umquam se legisse melius epistulamque meam iusserunt dari Dolabellae.",
+      "eng": "Prompted by certain letters of yours that I should begin writing fuller letters to Caesar, and after Balbus had told me lately at the Lanuvian villa that he and Oppius had written to Caesar that I had read the books against Cato and had heartily approved them, I have composed a letter to Caesar on those very books, to be delivered to him by Dolabella; but I have sent a copy of it to Oppius and Balbus, and have written to them to give the order for my letter to be delivered to Dolabella only if they themselves approved the copy. They have written back that they had never read anything better, and have given the order for my letter to be handed over to Dolabella.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Vestorius ad me scripsit ut iuberem mancipio dari servo suo pro mea parte Hetereio cuidam fundum Brinnianum ut ipse ei Puteolis recte mancipio dare posset. eum servum, si tibi videbitur, ad me mittes; opinor enim ad te etiam scripsisse Vestorium.",
+      "eng": "Vestorius has written to me to instruct that for my share a slave of his be given by formal conveyance to a certain Hetereius for the Brinnian estate, so that he can himself convey it duly at Puteoli. The slave, if you think it best, will you send to me; for I think Vestorius has written to you as well.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de adventu Caesaris idem quod a te mihi scriptum est ab Oppio et Balbo. miror te nihildum cum Tigellio, velut hoc ipsum, quantum acceperit: prorsus aveo scire nec tamen flocci facio.",
+      "eng": "About Caesar's coming, the same word I had from you I have had from Oppius and Balbus. I am surprised you have nothing yet from Tigellius --- for instance, this point: how much he has received. I am altogether eager to know it, and yet I do not care a straw.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quaeris quid cogitem de obviam itione. quid censes nisi Alsium? et quidem ad Murenam de hospitio scripseram, sed opinor cum Matio profectum. Sallustius igitur urgebitur.",
+      "eng": "You ask what I am thinking about going to meet him. What do you suppose, but Alsium? And indeed I had written to Murena about lodgings, but I gather he has set out with Matius. So Sallustius will be pressed into service.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "scripto iam superiore versiculo Eros mihi dixit sibi Murenam liberalissime respondisse. eo igitur utamur. nam Silius culcitas non habet. Dida autem, opinor, hospitibus totam villam concessit.",
+      "eng": "The previous little line just written, Eros tells me Murena has answered him most handsomely. So let us use his house. For Silius has no cushions. And Dida, I gather, has given over the whole villa to guests.",
+      "notes": null
+    }
+  ]
+}

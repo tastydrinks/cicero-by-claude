@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-18",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.18",
+  "title_english": "Ad Familiares 9.18",
+  "date": "-0046-07-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum essem otiosus in Tusculano, propterea quod discipulos obviam miseram ut eadem me quam maxime conciliarent familiari suo, accepi tuas litteras plenissimas suavitatis ; ex quibus intellexi probari tibi meum consilium, quod, ut Dionysius tyrannus, cum Syracusis pulsus esset, Corinthi dicitur ludum aperuisse, sic ego sublatis iudiciis, amisso regno forensi ludum quasi habere coeperim.",
+      "eng": "While I was sitting idle at my Tusculan place --- for the reason that I had sent my pupils on ahead to meet him, so that the same parties might commend me as warmly as possible to their own intimate friend --- there came a letter of yours, brimming with sweetness; and from it I gathered that you approve of the plan of mine, by which, just as the tyrant Dionysius, when he had been driven from Syracuse, is said to have opened a school at Corinth, so I, with the courts taken away and my kingdom of the Forum lost, have started to keep a kind of school myself.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quid quaeris? me quoque delectat consilium ; multa enim consequor. primum , id quod maxime nunc opus est, munio me ad haec tempora. id cuius modi sit nescio ; tantum video, nullius adhuc consilium me huic anteponere ; nisi forte mori melius fuit. in lectulo, fateor, sed non accidit ; in acie non fui ; ceteri quidem, Pompeius, Lentulus tuus, Scipio, Afranius foede perierunt. at Cato praeclare. iam istuc quidem, cum volemus, licebit ; demus modo operam ne tam necesse nobis sit, quam illi fuit, id quod agimus. ergo hoc primum.",
+      "eng": "What more shall I say? The plan delights me too; for I am getting a great deal out of it. First --- and this is what is most necessary just now --- I fortify myself against the present times. Of what sort that fortification is, I do not know; only this much I see, that so far I prefer no other man's plan to this one --- unless perhaps it would have been better to die. In bed? I grant it; but it did not happen. In the line of battle? I was not there. Others certainly --- Pompey, your Lentulus, Scipio, Afranius --- perished foully enough. ``But Cato gloriously.'' That, when we wish, will at any rate be open to us; let us only see to it that the thing we are doing be not as necessary for us as it was for him. So much, then, for the first point.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sequitur illud: ipse melior fio primum valetudine, quam intermissis exercitationibus amiseram ; deinde ipsa illa, si qua fuit in me, facultas orationis, nisi me ad has exercitationes rettulissem, exaruisset. extremum illud est, quod tu nescio an primum putes: pluris iam pavones confeci quam tu pullos columbinos. tu istic te Hateriano iure delectas, ego me hic Hirtiano. veni igitur, si vir es, et disce a me prolegome/nas , quas quaeris ; etsi sus Minervam, †sed quo modo video.",
+      "eng": "The second follows: I am becoming better in myself --- first in health, which by giving up my exercises I had lost; then that faculty of speech, such as it ever was in me, would have dried up if I had not brought myself back to these exercises. The last point is one which you perhaps will rank first: I have now polished off more peacocks than you have wood-pigeon squabs. You delight yourself there in Haterius's gravy, I delight myself here in Hirtius's. Come therefore, if you are a man, and learn from me the introductions [Greek: prolegomenas] you are asking after; though it is a pig giving lessons to Minerva --- but, as I see, however it may be.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "si aestimationes tuas vendere non potes neque ollam denariorum implere, Romam tibi remigrandum est ; satius est hic cruditate quam istic fame. video te bona perdidisse ; spero idem istuc familiaris tuos. actum igitur de te est, nisi provides. potes mulo isto, quem tibi reliquum dicis esse, quoniam cantherium comedisti, Romam pervehi. sella tibi erit in ludo tamquam hypodidascalo proxima ; eam pulvinus sequetur.",
+      "eng": "If you cannot sell off your assessed assets nor fill your pot of denarii, you must come back to Rome. Better to suffer indigestion here than starvation there. I see that you have lost your goods; I hope your dear friends have lost theirs the same way. It is therefore all up with you, unless you take thought. On that mule of yours, which you say is what you have left over, since you have eaten the gelding, you can be conveyed to Rome. There will be a seat for you in the school, next to me, as junior master; a cushion will go with it.",
+      "notes": null
+    }
+  ]
+}

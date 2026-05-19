@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-14",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.14",
+  "title_english": "Ad Atticum 14.14",
+  "date": "-0044-04-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Iteradum eadem ista mihi. coronatus Quintus noster Parilibus! Parilibus. solusne ? etsi addis Lamiam quod demiror equidem, sed scire cupio qui fuerint alii; quamquam satis scio nisi improbum neminem. explanabis igitur hoc diligentius. ego autem casu cum dedissem ad te litteras vi Kal. satis multis verbis, tribus fere horis post accepi tuas et magni quidem ponderis. itaque ioca tua plena facetiarum de haeresi Vestoriana et de †Pherionum more† Puteolano risisse me satis nihil est necesse rescribere. πολιτικώτερα illa videamus.",
+      "eng": "Tell me that same thing again. Our Quintus crowned at the Parilia! At the Parilia! Was he the only one? Even though you add Lamia --- which does indeed surprise me --- I want to know who the others were; though I am quite sure there can have been none but scoundrels. You will therefore explain this more carefully. As for me, by chance, when I had sent off a letter to you on the sixth before the Kalends at considerable length, about three hours later I received yours, and one of much weight indeed. So there is no need to write back that your jokes, full of wit, about the Vestorian school and the †Pherionian fashion† at Puteoli made me laugh enough. Let us look at the more political matters [Greek: politik\\=otera].",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ita Brutos Cassiumque defendis quasi eos ego reprehendam; quos satis laudare non possum. rerum ego vitia conlegi, non hominum. sublato enim tyranno tyrannida manere video. nam quae ille facturus non fuit ea fiunt, ut de Clodio de quo mihi exploratum est illum non modo non facturum sed etiam ne passurum quidem fuisse. sequetur Rufio Vestorianus, Victor numquam scriptus, ceteri, quis non? cui servire ipsi non potuimus eius libellis paremus. nam Liberalibus quis potuit in senatum non venire? fac id potuisse aliquo modo; num etiam, cum venissemus, libere potuimus sententiam dicere? nonne omni ratione veterani qui armati aderant cum praesidi nos nihil haberemus defendendi fuerunt? illam sessionem Capitolinam mihi non placuisse tu testis es. quid ergo? ista culpa Brutorum? minime illorum quidem sed aliorum brutorum qui se cautos ac sapientis putant; quibus satis fuit laetari, non nullis etiam gratulari, nullis permanere.",
+      "eng": "You defend the Bruti and Cassius as though I were finding fault with them --- whom I cannot praise enough. It is the faults of the situation I have collected, not of the men. For with the tyrant removed I see the tyranny still standing. The things he would not have done are being done; as about Clodius, in whose case I have it for certain that he not only would not have done it, but would not even have allowed it. Next will come Rufio of the Vestorian set, then Victor (whose name was never on the rolls), then the rest --- who not? We obey the docket-papers of one whose own slave we could not bear to be. For at the Liberalia, who could fail to come to the Senate? Suppose somehow he could have stayed away: when we did come, could we then have spoken our minds freely? Was it not in every way our duty to defend ourselves against the veterans who were standing by under arms, while we had no garrison of our own? That I did not approve of the sitting on the Capitol, you can witness. What then? Is the blame the Bruti's? Not in the least theirs --- but of other ``brutes'' who fancy themselves cautious and wise; for whom it was enough to rejoice; for some of them, even to add their congratulations; for none, to see it through.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed praeterita omittamus; istos omni cura praesidioque tueamur et, quem ad modum tu praecipis, contenti Idibus Martiis simus; quae quidem nostris amicis divinis viris aditum ad caelum dederunt, libertatem populo Romano non dederunt. recordare tua. nonne meministi clamare te omnia perisse si ille funere elatus esset? sapienter id quidem. itaque ex eo quae manarint vides.",
+      "eng": "But let us drop the past. Let us guard those men with every care and protection, and, as you advise, let us be content with the Ides of March --- which gave to our friends, those godlike men, a way of approach to heaven, but did not give liberty to the Roman People. Recall your own words. Do you not remember that you used to cry out that everything would be lost if he were given a public funeral? That was wise judgement. And so you see what has flowed from it.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quae scribis K. Iuniis Antonium de provinciis relaturum, ut et ipse Gallias habeat et utrisque dies prorogetur, licebitne decerni libere? si licuerit, libertatem esse reciperatam laetabor; si non licuerit, quid mihi attulerit ista domini mutatio praeter laetitiam quam oculis cepi iusto interitu tyranni?",
+      "eng": "You write that on the Kalends of June Antony will bring before the Senate the matter of the provinces, so that he himself shall hold both Gauls and the terms of both governorships be extended. Will a free decision be possible? If it is, I shall rejoice that liberty has been recovered; if it is not, what has that change of master brought me, beyond the joy I had with my eyes from the tyrant's just destruction?",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "rapinas scribis ad Opis fieri; quas nos quoque tum videbamus. ne nos et liberati ab egregiis viris nec liberi sumus. ita laus illorum est, culpa nostra. et hortaris me ut historias scribam, ut conligam tanta eorum scelera a quibus etiam nunc obsidemur! poterone eos ipsos non laudare qui te obsignatorem adhibuerint? nec me hercule me raudusculum movet, sed homines benevolos, qualescumque sunt, grave est insequi contumelia.",
+      "eng": "You write that depredations are going on at the Temple of Ops; we too were seeing them at the time. So we have neither been liberated by those excellent men nor are we free. So the credit is theirs, the blame ours. And you urge me to write history, to assemble such vast crimes of those by whom even now we are beleaguered! Shall I be able to refrain from praising the very men who employed you as a witness to their seals? Nor, by Hercules, is it the petty cash that moves me, but to attack with reproach men of goodwill, of whatever sort they are, is a heavy thing.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "sed de omnibus meis consiliis, ut scribis, existimo exploratius nos ad K. Iunias statuere posse. ad quas adero et omni ope atque opera enitar, adiuvante me scilicet auctoritate tua et gratia et summa aequitate causae, ut de Buthrotiis senatus consultum quale scribis fiat. quod me cogitare iubes, cogitabo equidem, etsi tibi dederam superiore epistula cogitandum. tu autem quasi iam reciperata re publica vicinis tuis Massiliensibus sua reddis. haec armis, quae quam firma habeamus ignoro, restitui fortasse possunt, auctoritate non possunt.",
+      "eng": "But as for all my plans, as you write, I think we can settle them more surely by the Kalends of June. I shall be there for them, and shall strain every effort and exertion --- helped, of course, by your authority and influence and the perfect justice of the case --- to see that the decree of the Senate concerning the people of Buthrotum comes out as you describe. As for what you bid me think over, I shall indeed think it over, though in my previous letter I had given you something to think over. You, meanwhile, as though the Republic were already recovered, are restoring to your neighbours the Massiliotes what is theirs. These things can perhaps be restored by arms (how firm a hold we have on arms I do not know); by mere authority they cannot.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "epistula brevis quae postea a te scripta est sane mihi fuit iucunda de Bruti ad Antonium et de eiusdem ad te litteris. posse videntur esse meliora quam adhuc fuerunt. sed nobis ubi simus et quo iam nunc nos conferamus providendum est.",
+      "eng": "The short letter that was written afterwards by you was very welcome to me, about Brutus's letter to Antony and the same man's letter to you. Things look as though they could be better than they have been so far. But for ourselves we must look ahead --- where we are to be, and where we are now to take ourselves.",
+      "notes": null
+    }
+  ]
+}

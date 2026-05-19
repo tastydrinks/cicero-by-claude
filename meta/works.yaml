@@ -905,7 +905,7 @@
   latin_file: latin/letters/045bc-ad-familiares-05-09.tex
   english_file: english/letters/045bc-ad-familiares-05-09.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-05-09.tex
-  status: pending
+  status: drafted
   notes: 'Various correspondents: Pompey, Antony, Vatinius, Lucceius, Cato, M. Marius. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0044-12-31
@@ -939,7 +939,7 @@
   latin_file: latin/letters/045bc-ad-familiares-05-11.tex
   english_file: english/letters/045bc-ad-familiares-05-11.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-05-11.tex
-  status: pending
+  status: drafted
   notes: 'Various correspondents: Pompey, Antony, Vatinius, Lucceius, Cato, M. Marius. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0044-12-31
@@ -975,7 +975,7 @@
   latin_file: latin/letters/045bc-ad-familiares-05-13.tex
   english_file: english/letters/045bc-ad-familiares-05-13.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-05-13.tex
-  status: pending
+  status: drafted
   notes: 'Various correspondents: Pompey, Antony, Vatinius, Lucceius, Cato, M. Marius. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0044-12-31
@@ -984,16 +984,16 @@
   title_latin: Ad Familiares 5.14
   title_english: Ad Familiares 5.14
   category: letters
-  date: -0045-05-15
+  date: -0045-05-09
   date_precision: day
-  location_written: Romae vii
+  location_written: Romae
   recipient: L. LVCCEIVS Q. F. M. TVLLIO M. F
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam5.shtml
   latin_file: latin/letters/045bc-ad-familiares-05-14.tex
   english_file: english/letters/045bc-ad-familiares-05-14.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-05-14.tex
-  status: pending
+  status: drafted
   notes: 'Various correspondents: Pompey, Antony, Vatinius, Lucceius, Cato, M. Marius. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0044-12-31
@@ -2283,7 +2283,7 @@
   title_latin: Ad Familiares 14.6
   title_english: Ad Familiares 14.6
   category: letters
-  date: -0048-07-15
+  date: -0048-07-14
   date_precision: day
   location_written: Dyrrhach
   recipient: SVIS
@@ -2292,7 +2292,7 @@
   latin_file: latin/letters/048bc-ad-familiares-14-06.tex
   english_file: english/letters/048bc-ad-familiares-14-06.tex
   headnote_file: headnotes/letters/048bc-ad-familiares-14-06.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2328,7 +2328,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-08.tex
   english_file: english/letters/047bc-ad-familiares-14-08.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-08.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2346,7 +2346,7 @@
   latin_file: latin/letters/048bc-ad-familiares-14-09.tex
   english_file: english/letters/048bc-ad-familiares-14-09.tex
   headnote_file: headnotes/letters/048bc-ad-familiares-14-09.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2364,7 +2364,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-10.tex
   english_file: english/letters/047bc-ad-familiares-14-10.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-10.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2382,7 +2382,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-11.tex
   english_file: english/letters/047bc-ad-familiares-14-11.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-11.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2391,8 +2391,8 @@
   title_latin: Ad Familiares 14.12
   title_english: Ad Familiares 14.12
   category: letters
-  date: -0048-09-13
-  date_precision: year
+  date: -0048-11-05
+  date_precision: day
   location_written: Brundisi
   recipient: TVLLIVS TERENTIAE SVAE
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -2400,7 +2400,7 @@
   latin_file: latin/letters/048bc-ad-familiares-14-12.tex
   english_file: english/letters/048bc-ad-familiares-14-12.tex
   headnote_file: headnotes/letters/048bc-ad-familiares-14-12.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2418,7 +2418,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-13.tex
   english_file: english/letters/047bc-ad-familiares-14-13.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-13.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2454,7 +2454,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-15.tex
   english_file: english/letters/047bc-ad-familiares-14-15.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-15.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2463,7 +2463,7 @@
   title_latin: Ad Familiares 14.16
   title_english: Ad Familiares 14.16
   category: letters
-  date: -0047-01-05
+  date: -0047-01-04
   date_precision: day
   location_written: Brundisi pr
   recipient: TVLLIVS TERENTIAE SVAE
@@ -2472,7 +2472,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-16.tex
   english_file: english/letters/047bc-ad-familiares-14-16.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-16.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2481,8 +2481,8 @@
   title_latin: Ad Familiares 14.17
   title_english: Ad Familiares 14.17
   category: letters
-  date: -0048-12-32
-  date_precision: day
+  date: -0048-12-22
+  date_precision: month
   location_written: Brundisi
   recipient: TVLLIVS TERENTIAE SVAE
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -2490,7 +2490,7 @@
   latin_file: latin/letters/048bc-ad-familiares-14-17.tex
   english_file: english/letters/048bc-ad-familiares-14-17.tex
   headnote_file: headnotes/letters/048bc-ad-familiares-14-17.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2526,7 +2526,7 @@
   latin_file: latin/letters/048bc-ad-familiares-14-19.tex
   english_file: english/letters/048bc-ad-familiares-14-19.tex
   headnote_file: headnotes/letters/048bc-ad-familiares-14-19.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2544,7 +2544,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-20.tex
   english_file: english/letters/047bc-ad-familiares-14-20.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-20.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2562,7 +2562,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-21.tex
   english_file: english/letters/047bc-ad-familiares-14-21.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-21.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2571,7 +2571,7 @@
   title_latin: Ad Familiares 14.22
   title_english: Ad Familiares 14.22
   category: letters
-  date: -0047-08-32
+  date: -0047-08-31
   date_precision: day
   location_written: Brundis
   recipient: TVLLIVS TERENTIAE SVAE
@@ -2580,7 +2580,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-22.tex
   english_file: english/letters/047bc-ad-familiares-14-22.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-22.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2598,7 +2598,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-23.tex
   english_file: english/letters/047bc-ad-familiares-14-23.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-23.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -2616,7 +2616,7 @@
   latin_file: latin/letters/047bc-ad-familiares-14-24.tex
   english_file: english/letters/047bc-ad-familiares-14-24.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-14-24.tex
-  status: pending
+  status: drafted
   notes: Letters to Terentia, Tullia, and the family. Date assigned at book-level precision; exact dating to be refined against
     Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0047-12-31
@@ -4183,16 +4183,16 @@
   title_latin: Ad Familiares 7.32
   title_english: Ad Familiares 7.32
   category: letters
-  date: -0050-02-11
+  date: -0050-02-12
   date_precision: day
-  location_written: Laudiceae post
-  recipient: VOLVMINO
+  location_written: Laudiceae
+  recipient: VOLVMNIO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam7.shtml
   latin_file: latin/letters/050bc-ad-familiares-07-32.tex
   english_file: english/letters/050bc-ad-familiares-07-32.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-07-32.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to C. Trebatius Testa, M. Marius, M. Fabius Gallus. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4390,7 +4390,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-10.tex
   english_file: english/letters/046bc-ad-familiares-13-10.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-10.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4516,7 +4516,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-17.tex
   english_file: english/letters/046bc-ad-familiares-13-17.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-17.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4534,7 +4534,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-18.tex
   english_file: english/letters/046bc-ad-familiares-13-18.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-18.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4552,7 +4552,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-19.tex
   english_file: english/letters/046bc-ad-familiares-13-19.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-19.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4570,7 +4570,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-20.tex
   english_file: english/letters/046bc-ad-familiares-13-20.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-20.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4588,7 +4588,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-21.tex
   english_file: english/letters/046bc-ad-familiares-13-21.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-21.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4606,7 +4606,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-22.tex
   english_file: english/letters/046bc-ad-familiares-13-22.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-22.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4624,7 +4624,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-23.tex
   english_file: english/letters/046bc-ad-familiares-13-23.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-23.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4642,7 +4642,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-24.tex
   english_file: english/letters/046bc-ad-familiares-13-24.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-24.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4660,7 +4660,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-25.tex
   english_file: english/letters/046bc-ad-familiares-13-25.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-25.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4678,7 +4678,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-26.tex
   english_file: english/letters/046bc-ad-familiares-13-26.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-26.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4696,7 +4696,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-27.tex
   english_file: english/letters/046bc-ad-familiares-13-27.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-27.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4714,7 +4714,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-28.tex
   english_file: english/letters/046bc-ad-familiares-13-28.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-28.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4732,7 +4732,7 @@
   latin_file: latin/letters/047bc-ad-familiares-13-29.tex
   english_file: english/letters/047bc-ad-familiares-13-29.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-13-29.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4750,7 +4750,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-30.tex
   english_file: english/letters/046bc-ad-familiares-13-30.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-30.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4768,7 +4768,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-31.tex
   english_file: english/letters/046bc-ad-familiares-13-31.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-31.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4786,7 +4786,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-32.tex
   english_file: english/letters/046bc-ad-familiares-13-32.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-32.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4804,7 +4804,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-33.tex
   english_file: english/letters/046bc-ad-familiares-13-33.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-33.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4822,7 +4822,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-34.tex
   english_file: english/letters/046bc-ad-familiares-13-34.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-34.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4840,7 +4840,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-35.tex
   english_file: english/letters/046bc-ad-familiares-13-35.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-35.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4858,7 +4858,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-36.tex
   english_file: english/letters/046bc-ad-familiares-13-36.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-36.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4876,7 +4876,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-37.tex
   english_file: english/letters/046bc-ad-familiares-13-37.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-37.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4894,7 +4894,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-38.tex
   english_file: english/letters/046bc-ad-familiares-13-38.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-38.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -4912,7 +4912,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-39.tex
   english_file: english/letters/046bc-ad-familiares-13-39.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-39.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5151,7 +5151,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-52.tex
   english_file: english/letters/046bc-ad-familiares-13-52.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-52.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5169,7 +5169,7 @@
   latin_file: latin/letters/051bc-ad-familiares-13-53.tex
   english_file: english/letters/051bc-ad-familiares-13-53.tex
   headnote_file: headnotes/letters/051bc-ad-familiares-13-53.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5241,7 +5241,7 @@
   latin_file: latin/letters/050bc-ad-familiares-13-57.tex
   english_file: english/letters/050bc-ad-familiares-13-57.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-13-57.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5403,7 +5403,7 @@
   latin_file: latin/letters/045bc-ad-familiares-13-66.tex
   english_file: english/letters/045bc-ad-familiares-13-66.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-13-66.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5421,7 +5421,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-67.tex
   english_file: english/letters/046bc-ad-familiares-13-67.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-67.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5430,8 +5430,8 @@
   title_latin: Ad Familiares 13.68
   title_english: Ad Familiares 13.68
   category: letters
-  date: -0046-01-25
-  date_precision: year
+  date: -0046-09-05
+  date_precision: month
   location_written: Romae circ. med. in. Sept
   recipient: M. TVLLIVS P. SERVILIO ISAVRICO PROCOS. CONLEGAE S. P
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -5439,7 +5439,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-68.tex
   english_file: english/letters/046bc-ad-familiares-13-68.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-68.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5457,7 +5457,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-69.tex
   english_file: english/letters/046bc-ad-familiares-13-69.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-69.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5475,7 +5475,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-70.tex
   english_file: english/letters/046bc-ad-familiares-13-70.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-70.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5493,7 +5493,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-71.tex
   english_file: english/letters/046bc-ad-familiares-13-71.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-71.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5511,7 +5511,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-72.tex
   english_file: english/letters/046bc-ad-familiares-13-72.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-72.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5592,8 +5592,8 @@
   title_latin: Ad Familiares 13.77
   title_english: Ad Familiares 13.77
   category: letters
-  date: -0046-10-06
-  date_precision: year
+  date: -0046-11-15
+  date_precision: month
   location_written: Romae
   recipient: n SVLPICIO IMfl
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -5601,7 +5601,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-77.tex
   english_file: english/letters/046bc-ad-familiares-13-77.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-77.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5619,7 +5619,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-78.tex
   english_file: english/letters/046bc-ad-familiares-13-78.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-78.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5637,7 +5637,7 @@
   latin_file: latin/letters/046bc-ad-familiares-13-79.tex
   english_file: english/letters/046bc-ad-familiares-13-79.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-13-79.tex
-  status: pending
+  status: drafted
   notes: Letters of recommendation, scattered across many years. Date assigned at book-level precision; exact dating to be
     refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -5826,53 +5826,60 @@
   title_latin: Ad Familiares 15.11
   title_english: Ad Familiares 15.11
   category: letters
-  date: -0054-07-01
-  date_precision: year_range
-  location_written: null
-  recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam15.shtml
+  date: -0050-08-01
+  date_precision: month
+  location_written: Tarsi
+  recipient: C. MARCELLO COS.
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam15.shtml
   latin_file: latin/letters/054bc-ad-familiares-15-11.tex
   english_file: english/letters/054bc-ad-familiares-15-11.tex
   headnote_file: headnotes/letters/054bc-ad-familiares-15-11.tex
-  status: pending
-  notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date assigned at book-level precision; exact dating to be refined
-    against Shackleton Bailey''s chronological commentary or another standard reference.'
+  status: drafted
+  notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date corrected from year-range placeholder -0054-07-01 to -0050-08-01
+    month-precision per Perseus dateline "eodem loco et temp. quo ep. vi" (= 15.6, dated 1 Aug 50 BC at Tarsus). Filename prefix
+    054bc- is stale and should be renamed to 050bc- in a future metadata-cleanup pass.'
   date_range_end: -0043-12-31
+  speech_index: book:15,letter:11
 - id: ad-familiares-15-12
   title_latin: Ad Familiares 15.12
   title_english: Ad Familiares 15.12
   category: letters
-  date: -0054-07-01
-  date_precision: year_range
-  location_written: null
-  recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam15.shtml
+  date: -0051-09-21
+  date_precision: month
+  location_written: in itinere per Lycaoniam
+  recipient: L. PAVLLO COS. DESIG.
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam15.shtml
   latin_file: latin/letters/054bc-ad-familiares-15-12.tex
   english_file: english/letters/054bc-ad-familiares-15-12.tex
   headnote_file: headnotes/letters/054bc-ad-familiares-15-12.tex
-  status: pending
-  notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date assigned at book-level precision; exact dating to be refined
-    against Shackleton Bailey''s chronological commentary or another standard reference.'
+  status: drafted
+  notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date corrected from year-range placeholder -0054-07-01 to -0051-09-21
+    month-precision per Perseus dateline "eodem loco et temp. quo ep. vii, viii ix" (= 15.7 dated 21 Sept 51 BC on the journey
+    through Lycaonia). Filename prefix 054bc- is stale and should be renamed to 051bc- in a future metadata-cleanup pass.'
   date_range_end: -0043-12-31
+  speech_index: book:15,letter:12
 - id: ad-familiares-15-13
   title_latin: Ad Familiares 15.13
   title_english: Ad Familiares 15.13
   category: letters
-  date: -0054-07-01
-  date_precision: year_range
-  location_written: null
-  recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam15.shtml
+  date: -0050-01-01
+  date_precision: month
+  location_written: Tarsi
+  recipient: L. PAVLLO COS.
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam15.shtml
   latin_file: latin/letters/054bc-ad-familiares-15-13.tex
   english_file: english/letters/054bc-ad-familiares-15-13.tex
   headnote_file: headnotes/letters/054bc-ad-familiares-15-13.tex
-  status: pending
-  notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date assigned at book-level precision; exact dating to be refined
-    against Shackleton Bailey''s chronological commentary or another standard reference.'
+  status: drafted
+  notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date corrected from year-range placeholder -0054-07-01 to -0050-01-01
+    month-precision per Perseus dateline "eodem loco et tempore quo ep. iv et x" (= 15.4/15.10 of late 51 BC) BUT salutation
+    L. PAVLLO COS. (not cos. desig.) requires a date on or after 1 Jan 50 BC when Paullus took office. Filename prefix 054bc-
+    is stale and should be renamed to 050bc- in a future metadata-cleanup pass.'
   date_range_end: -0043-12-31
+  speech_index: book:15,letter:13
 - id: ad-familiares-15-14
   title_latin: Ad Familiares 15.14
   title_english: Ad Familiares 15.14
@@ -5922,7 +5929,7 @@
   latin_file: latin/letters/045bc-ad-familiares-15-16.tex
   english_file: english/letters/045bc-ad-familiares-15-16.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-15-16.tex
-  status: pending
+  status: drafted
   notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0043-12-31
@@ -5940,7 +5947,7 @@
   latin_file: latin/letters/046bc-ad-familiares-15-17.tex
   english_file: english/letters/046bc-ad-familiares-15-17.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-15-17.tex
-  status: pending
+  status: drafted
   notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0043-12-31
@@ -5958,7 +5965,7 @@
   latin_file: latin/letters/046bc-ad-familiares-15-18.tex
   english_file: english/letters/046bc-ad-familiares-15-18.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-15-18.tex
-  status: pending
+  status: drafted
   notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0043-12-31
@@ -5976,7 +5983,7 @@
   latin_file: latin/letters/045bc-ad-familiares-15-19.tex
   english_file: english/letters/045bc-ad-familiares-15-19.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-15-19.tex
-  status: pending
+  status: drafted
   notes: 'Various: Cato, Lentulus, Cassius, Hirtius, Pansa. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey''s chronological commentary or another standard reference.'
   date_range_end: -0043-12-31
@@ -6363,19 +6370,22 @@
   title_latin: Ad Familiares 16.20
   title_english: Ad Familiares 16.20
   category: letters
-  date: -0054-07-01
-  date_precision: year_range
-  location_written: null
-  recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam16.shtml
+  date: -0047-05-15
+  date_precision: month
+  location_written: Romae
+  recipient: TIRONI
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam16.shtml
   latin_file: latin/letters/054bc-ad-familiares-16-20.tex
   english_file: english/letters/054bc-ad-familiares-16-20.tex
   headnote_file: headnotes/letters/054bc-ad-familiares-16-20.tex
-  status: pending
-  notes: Letters to and concerning Tiro. Date assigned at book-level precision; exact dating to be refined against Shackleton
-    Bailey's chronological commentary or another standard reference.
+  status: drafted
+  notes: Letters to and concerning Tiro. Date corrected from year-range placeholder -0054-07-01 to -0047-05-15 month-precision
+    per Perseus dateline "eodem loco et tempore quo ep. xviii" (= 16.18 dated 15 May 47 BC at Rome). Tiro convalescing under
+    the doctor Metrodorus; Kalends of June 47 gladiator games referenced. Filename prefix 054bc- is stale and should be renamed
+    to 047bc- in a future metadata-cleanup pass.
   date_range_end: -0044-12-31
+  speech_index: book:16,letter:20
 - id: ad-familiares-16-21
   title_latin: Ad Familiares 16.21
   title_english: Ad Familiares 16.21
@@ -6549,7 +6559,7 @@
   latin_file: latin/letters/054bc-ad-quintum-fratrem-03-03.tex
   english_file: english/letters/054bc-ad-quintum-fratrem-03-03.tex
   headnote_file: headnotes/letters/054bc-ad-quintum-fratrem-03-03.tex
-  status: pending
+  status: drafted
   notes: Letters to Quintus serving on Caesar's staff in Gaul. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:3,letter:3
@@ -6566,16 +6576,16 @@
   latin_file: latin/letters/054bc-ad-quintum-fratrem-03-04.tex
   english_file: english/letters/054bc-ad-quintum-fratrem-03-04.tex
   headnote_file: headnotes/letters/054bc-ad-quintum-fratrem-03-04.tex
-  status: pending
+  status: drafted
   notes: Letters to Quintus serving on Caesar's staff in Gaul. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:3,letter:4
 - id: ad-quintum-fratrem-03-05
-  title_latin: Ad Quintum Fratrem 3.5
-  title_english: Ad Quintum Fratrem 3.5
+  title_latin: Ad Quintum Fratrem 3.5 (= 3.5+3.6 in Shackleton Bailey)
+  title_english: Ad Quintum Fratrem 3.5 (combined with 3.6 as the single SB letter 3.5b)
   category: letters
-  date: -0054-11-13
-  date_precision: day
+  date: -0054-11-01
+  date_precision: month
   location_written: in Tusculano
   recipient: MARCVS QVINTO FRATRI
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi058/phi0474.phi058.perseus-lat1.xml
@@ -6583,7 +6593,7 @@
   latin_file: latin/letters/054bc-ad-quintum-fratrem-03-05.tex
   english_file: english/letters/054bc-ad-quintum-fratrem-03-05.tex
   headnote_file: headnotes/letters/054bc-ad-quintum-fratrem-03-05.tex
-  status: pending
+  status: drafted
   notes: Letters to Quintus serving on Caesar's staff in Gaul. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:3,letter:5
@@ -6591,18 +6601,18 @@
   title_latin: Ad Quintum Fratrem 3.6 (= 3.5b in Shackleton Bailey)
   title_english: Ad Quintum Fratrem 3.6 (combined with 3.5 in modern editions)
   category: letters
-  date: -0054-07-01
-  date_precision: year
-  location_written: null
-  recipient: null
+  date: -0054-11-01
+  date_precision: month
+  location_written: in Tusculano
+  recipient: MARCVS QVINTO FRATRI
   latin_source_url: https://www.thelatinlibrary.com/cicero/qfr3.shtml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/qfr3.shtml
   latin_file: latin/letters/054bc-ad-quintum-fratrem-03-06.tex
   english_file: english/letters/054bc-ad-quintum-fratrem-03-06.tex
   headnote_file: headnotes/letters/054bc-ad-quintum-fratrem-03-06.tex
   no_perseus: true
-  no_perseus_reason: 'In Perseus TEI book 3 goes 1,2,3,4,5,7,8,9 — no 6. Modern editions combine 3.6 with 3.5 as a single letter (SB Q.fr 3.5b). When translating Q.fr 3.5, include the 3.6 material; mark this entry drafted in the same commit. Alternative: source the Latin from a Teubner/Loeb edition manually.'
-  status: pending
+  no_perseus_reason: 'In Perseus TEI book 3 goes 1,2,3,4,5,7,8,9 — no 6. Modern editions combine 3.6 with 3.5 as a single letter (SB Q.fr 3.5b). Drafted together with 3.5; no separate file emitted.'
+  status: drafted
   notes: Letters to Quintus serving on Caesar's staff in Gaul. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey's chronological commentary or another standard reference.
 - id: ad-quintum-fratrem-03-07
@@ -6618,7 +6628,7 @@
   latin_file: latin/letters/054bc-ad-quintum-fratrem-03-07.tex
   english_file: english/letters/054bc-ad-quintum-fratrem-03-07.tex
   headnote_file: headnotes/letters/054bc-ad-quintum-fratrem-03-07.tex
-  status: pending
+  status: drafted
   notes: Letters to Quintus serving on Caesar's staff in Gaul. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:3,letter:7
@@ -6635,7 +6645,7 @@
   latin_file: latin/letters/054bc-ad-quintum-fratrem-03-08.tex
   english_file: english/letters/054bc-ad-quintum-fratrem-03-08.tex
   headnote_file: headnotes/letters/054bc-ad-quintum-fratrem-03-08.tex
-  status: pending
+  status: drafted
   notes: Letters to Quintus serving on Caesar's staff in Gaul. Date assigned at book-level precision; exact dating to be refined
     against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:3,letter:8
@@ -7061,7 +7071,7 @@
   latin_file: latin/letters/050bc-ad-familiares-02-17.tex
   english_file: english/letters/050bc-ad-familiares-02-17.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-02-17.tex
-  status: pending
+  status: drafted
   notes: 'Various correspondents: C. Curio, M. Caelius Rufus, Appius Pulcher; touching the run-up to civil war. Date assigned
     at book-level precision; exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard
     reference.'
@@ -7071,8 +7081,8 @@
   title_latin: Ad Familiares 2.18
   title_english: Ad Familiares 2.18
   category: letters
-  date: -0050-03-23
-  date_precision: year
+  date: -0050-05-01
+  date_precision: month
   location_written: Laudiceae
   recipient: IMP. Q THERMO PROPR
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -7080,7 +7090,7 @@
   latin_file: latin/letters/050bc-ad-familiares-02-18.tex
   english_file: english/letters/050bc-ad-familiares-02-18.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-02-18.tex
-  status: pending
+  status: drafted
   notes: 'Various correspondents: C. Curio, M. Caelius Rufus, Appius Pulcher; touching the run-up to civil war. Date assigned
     at book-level precision; exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard
     reference.'
@@ -7099,7 +7109,7 @@
   latin_file: latin/letters/050bc-ad-familiares-02-19.tex
   english_file: english/letters/050bc-ad-familiares-02-19.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-02-19.tex
-  status: pending
+  status: drafted
   notes: 'Various correspondents: C. Curio, M. Caelius Rufus, Appius Pulcher; touching the run-up to civil war. Date assigned
     at book-level precision; exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard
     reference.'
@@ -7271,8 +7281,8 @@
   title_latin: Ad Familiares 3.10
   title_english: Ad Familiares 3.10
   category: letters
-  date: -0050-11-03
-  date_precision: year
+  date: -0050-04-01
+  date_precision: month
   location_written: Laudiceae
   recipient: APPIO PVLCHRO S
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -7280,7 +7290,7 @@
   latin_file: latin/letters/050bc-ad-familiares-03-10.tex
   english_file: english/letters/050bc-ad-familiares-03-10.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-03-10.tex
-  status: pending
+  status: drafted
   notes: Correspondence with Appius Claudius Pulcher on the Cilician handover. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0050-12-31
@@ -7298,7 +7308,7 @@
   latin_file: latin/letters/050bc-ad-familiares-03-11.tex
   english_file: english/letters/050bc-ad-familiares-03-11.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-03-11.tex
-  status: pending
+  status: drafted
   notes: Correspondence with Appius Claudius Pulcher on the Cilician handover. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0050-12-31
@@ -7316,7 +7326,7 @@
   latin_file: latin/letters/050bc-ad-familiares-03-12.tex
   english_file: english/letters/050bc-ad-familiares-03-12.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-03-12.tex
-  status: pending
+  status: drafted
   notes: Correspondence with Appius Claudius Pulcher on the Cilician handover. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0050-12-31
@@ -7334,7 +7344,7 @@
   latin_file: latin/letters/050bc-ad-familiares-03-13.tex
   english_file: english/letters/050bc-ad-familiares-03-13.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-03-13.tex
-  status: pending
+  status: drafted
   notes: Correspondence with Appius Claudius Pulcher on the Cilician handover. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0050-12-31
@@ -7722,7 +7732,7 @@
   latin_file: latin/letters/050bc-ad-atticum-05-21.tex
   english_file: english/letters/050bc-ad-atticum-05-21.tex
   headnote_file: headnotes/letters/050bc-ad-atticum-05-21.tex
-  status: pending
+  status: drafted
   notes: 'Letters of 51 BC: departure for and journey to the governorship of Cilicia. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:5,letter:21
@@ -7748,8 +7758,8 @@
   title_latin: Ad Familiares 8.2
   title_english: Ad Familiares 8.2
   category: letters
-  date: -0051-11-19
-  date_precision: year
+  date: -0051-06-15
+  date_precision: month
   location_written: Romae
   recipient: CAELIVS CICERONI S
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -7757,9 +7767,10 @@
   latin_file: latin/letters/051bc-ad-familiares-08-02.tex
   english_file: english/letters/051bc-ad-familiares-08-02.tex
   headnote_file: headnotes/letters/051bc-ad-familiares-08-02.tex
-  status: pending
-  notes: 'Letters of M. Caelius Rufus to Cicero in Cilicia: Roman political news. Date assigned at book-level precision; exact
-    dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
+  status: drafted
+  notes: 'Letters of M. Caelius Rufus to Cicero in Cilicia: Roman political news. Date corrected from year-precision placeholder
+    -0051-11-19 to -0051-06-15 month-precision per Perseus dateline "m. Iun. a. 703 (51)" (= June 51 BC); Messalla acquittal
+    and Hortensius hissed at the games.'
   date_range_end: -0050-12-31
   speech_index: book:8,letter:2
 - id: ad-familiares-08-03
@@ -7829,17 +7840,17 @@
   latin_file: latin/letters/050bc-ad-familiares-08-06.tex
   english_file: english/letters/050bc-ad-familiares-08-06.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-08-06.tex
-  status: pending
-  notes: 'Letters of M. Caelius Rufus to Cicero in Cilicia: Roman political news. Date assigned at book-level precision; exact
-    dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
+  status: drafted
+  notes: 'Letters of M. Caelius Rufus to Cicero in Cilicia: Roman political news. Perseus dateline "ante ex. m. Febr. a. 704
+    (50)" = before the end of February 50 BC at Rome; date kept at -0050-02-15 month-precision.'
   date_range_end: -0050-12-31
   speech_index: book:8,letter:6
 - id: ad-familiares-08-07
   title_latin: Ad Familiares 8.7
   title_english: Ad Familiares 8.7
   category: letters
-  date: -0050-05-15
-  date_precision: day
+  date: -0050-05-01
+  date_precision: month
   location_written: Romae
   recipient: CAELIVS CICERONI S
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -7847,9 +7858,10 @@
   latin_file: latin/letters/050bc-ad-familiares-08-07.tex
   english_file: english/letters/050bc-ad-familiares-08-07.tex
   headnote_file: headnotes/letters/050bc-ad-familiares-08-07.tex
-  status: pending
-  notes: 'Letters of M. Caelius Rufus to Cicero in Cilicia: Roman political news. Date assigned at book-level precision; exact
-    dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
+  status: drafted
+  notes: 'Letters of M. Caelius Rufus to Cicero in Cilicia: Roman political news. Date corrected from day-precision placeholder
+    -0050-05-15 to -0050-05-01 month-precision per Perseus dateline "ex. m. Apr. aut in. Mai. a. 704 (50)" = end of April or
+    beginning of May 50 BC; hurried courier letter on Cornificius betrothal and Servius Ocella scandal.'
   date_range_end: -0050-12-31
   speech_index: book:8,letter:7
 - id: ad-familiares-08-08
@@ -8018,7 +8030,7 @@
   title_latin: Ad Familiares 8.17
   title_english: Ad Familiares 8.17
   category: letters
-  date: -0048-01-15
+  date: -0048-02-01
   date_precision: month
   location_written: Romae vel
   recipient: CAELIVS CICERONI S
@@ -8027,9 +8039,11 @@
   latin_file: latin/letters/048bc-ad-familiares-08-17.tex
   english_file: english/letters/048bc-ad-familiares-08-17.tex
   headnote_file: headnotes/letters/048bc-ad-familiares-08-17.tex
-  status: pending
-  notes: 'Letters of M. Caelius Rufus to Cicero in Cilicia: Roman political news. Date assigned at book-level precision; exact
-    dating to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
+  status: drafted
+  notes: 'Letters of M. Caelius Rufus to Cicero in Cilicia: Roman political news. Date adjusted from -0048-01-15 month-precision
+    to -0048-02-01 month-precision per Perseus dateline "vel ex. m. Ian. vel m. Febr. a. 706 (48)" = end of January or in February
+    48 BC; Caelius is now on the Caesarian side after Pharsalus-prelude; the last surviving letter from him before his death
+    later in 48.'
   date_range_end: -0050-12-31
   speech_index: book:8,letter:17
 - id: ad-atticum-06-01
@@ -10017,7 +10031,7 @@
   latin_file: latin/letters/046bc-ad-familiares-06-01.tex
   english_file: english/letters/046bc-ad-familiares-06-01.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-06-01.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10035,7 +10049,7 @@
   latin_file: latin/letters/045bc-ad-familiares-06-02.tex
   english_file: english/letters/045bc-ad-familiares-06-02.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-06-02.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10053,7 +10067,7 @@
   latin_file: latin/letters/045bc-ad-familiares-06-03.tex
   english_file: english/letters/045bc-ad-familiares-06-03.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-06-03.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10071,7 +10085,7 @@
   latin_file: latin/letters/045bc-ad-familiares-06-04.tex
   english_file: english/letters/045bc-ad-familiares-06-04.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-06-04.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10080,7 +10094,7 @@
   title_latin: Ad Familiares 6.5
   title_english: Ad Familiares 6.5
   category: letters
-  date: -0046-12-15
+  date: -0046-12-25
   date_precision: month
   location_written: Romae
   recipient: A. CAECINAE
@@ -10089,7 +10103,7 @@
   latin_file: latin/letters/046bc-ad-familiares-06-05.tex
   english_file: english/letters/046bc-ad-familiares-06-05.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-06-05.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10107,7 +10121,7 @@
   latin_file: latin/letters/046bc-ad-familiares-06-06.tex
   english_file: english/letters/046bc-ad-familiares-06-06.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-06-06.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10125,7 +10139,7 @@
   latin_file: latin/letters/046bc-ad-familiares-06-07.tex
   english_file: english/letters/046bc-ad-familiares-06-07.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-06-07.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10134,7 +10148,7 @@
   title_latin: Ad Familiares 6.8
   title_english: Ad Familiares 6.8
   category: letters
-  date: -0046-12-15
+  date: -0046-12-05
   date_precision: month
   location_written: Romae
   recipient: CAECINAE
@@ -10143,7 +10157,7 @@
   latin_file: latin/letters/046bc-ad-familiares-06-08.tex
   english_file: english/letters/046bc-ad-familiares-06-08.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-06-08.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10152,16 +10166,16 @@
   title_latin: Ad Familiares 6.9
   title_english: Ad Familiares 6.9
   category: letters
-  date: -0046-10-22
-  date_precision: year
-  location_written: Romae ica. in. Dee
+  date: -0046-12-01
+  date_precision: month
+  location_written: Romae
   recipient: FVRFANIO PROCOS. S
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam6.shtml
   latin_file: latin/letters/046bc-ad-familiares-06-09.tex
   english_file: english/letters/046bc-ad-familiares-06-09.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-06-09.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10179,7 +10193,7 @@
   latin_file: latin/letters/046bc-ad-familiares-06-10.tex
   english_file: english/letters/046bc-ad-familiares-06-10.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-06-10.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10197,7 +10211,7 @@
   latin_file: latin/letters/045bc-ad-familiares-06-11.tex
   english_file: english/letters/045bc-ad-familiares-06-11.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-06-11.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10215,7 +10229,7 @@
   latin_file: latin/letters/046bc-ad-familiares-06-12.tex
   english_file: english/letters/046bc-ad-familiares-06-12.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-06-12.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10233,7 +10247,7 @@
   latin_file: latin/letters/046bc-ad-familiares-06-13.tex
   english_file: english/letters/046bc-ad-familiares-06-13.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-06-13.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10251,7 +10265,7 @@
   latin_file: latin/letters/046bc-ad-familiares-06-14.tex
   english_file: english/letters/046bc-ad-familiares-06-14.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-06-14.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10269,7 +10283,7 @@
   latin_file: latin/letters/044bc-ad-familiares-06-15.tex
   english_file: english/letters/044bc-ad-familiares-06-15.tex
   headnote_file: headnotes/letters/044bc-ad-familiares-06-15.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10287,7 +10301,7 @@
   latin_file: latin/letters/044bc-ad-familiares-06-16.tex
   english_file: english/letters/044bc-ad-familiares-06-16.tex
   headnote_file: headnotes/letters/044bc-ad-familiares-06-16.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10305,7 +10319,7 @@
   latin_file: latin/letters/044bc-ad-familiares-06-17.tex
   english_file: english/letters/044bc-ad-familiares-06-17.tex
   headnote_file: headnotes/letters/044bc-ad-familiares-06-17.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10323,7 +10337,7 @@
   latin_file: latin/letters/045bc-ad-familiares-06-18.tex
   english_file: english/letters/045bc-ad-familiares-06-18.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-06-18.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10341,7 +10355,7 @@
   latin_file: latin/letters/045bc-ad-familiares-06-19.tex
   english_file: english/letters/045bc-ad-familiares-06-19.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-06-19.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10377,7 +10391,7 @@
   latin_file: latin/letters/045bc-ad-familiares-06-21.tex
   english_file: english/letters/045bc-ad-familiares-06-21.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-06-21.tex
-  status: pending
+  status: drafted
   notes: Letters to Caesarian and Pompeian friends after Pharsalus. Date assigned at book-level precision; exact dating to
     be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10643,7 +10657,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-13.tex
   english_file: english/letters/045bc-ad-atticum-12-13.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-13.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10661,7 +10675,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-14.tex
   english_file: english/letters/045bc-ad-atticum-12-14.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-14.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10679,7 +10693,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-15.tex
   english_file: english/letters/045bc-ad-atticum-12-15.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-15.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10697,7 +10711,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-16.tex
   english_file: english/letters/045bc-ad-atticum-12-16.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-16.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10715,7 +10729,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-17.tex
   english_file: english/letters/045bc-ad-atticum-12-17.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-17.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10733,7 +10747,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-18.tex
   english_file: english/letters/045bc-ad-atticum-12-18.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-18.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10751,7 +10765,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-19.tex
   english_file: english/letters/045bc-ad-atticum-12-19.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-19.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10769,7 +10783,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-20.tex
   english_file: english/letters/045bc-ad-atticum-12-20.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-20.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10787,7 +10801,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-21.tex
   english_file: english/letters/045bc-ad-atticum-12-21.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-21.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10805,7 +10819,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-22.tex
   english_file: english/letters/045bc-ad-atticum-12-22.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-22.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10823,7 +10837,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-23.tex
   english_file: english/letters/045bc-ad-atticum-12-23.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-23.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10841,7 +10855,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-24.tex
   english_file: english/letters/045bc-ad-atticum-12-24.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-24.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10859,7 +10873,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-25.tex
   english_file: english/letters/045bc-ad-atticum-12-25.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-25.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10877,7 +10891,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-26.tex
   english_file: english/letters/045bc-ad-atticum-12-26.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-26.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10895,7 +10909,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-27.tex
   english_file: english/letters/045bc-ad-atticum-12-27.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-27.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10913,7 +10927,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-28.tex
   english_file: english/letters/045bc-ad-atticum-12-28.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-28.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10931,7 +10945,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-29.tex
   english_file: english/letters/045bc-ad-atticum-12-29.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-29.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10949,7 +10963,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-30.tex
   english_file: english/letters/045bc-ad-atticum-12-30.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-30.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10958,16 +10972,16 @@
   title_latin: Ad Atticum 12.31
   title_english: Ad Atticum 12.31
   category: letters
-  date: -0045-04-01
+  date: -0045-03-29
   date_precision: day
-  location_written: Asturae iv
+  location_written: Asturae
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att12.shtml
   latin_file: latin/letters/045bc-ad-atticum-12-31.tex
   english_file: english/letters/045bc-ad-atticum-12-31.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-31.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -10985,7 +10999,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-32.tex
   english_file: english/letters/045bc-ad-atticum-12-32.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-32.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11003,7 +11017,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-33.tex
   english_file: english/letters/045bc-ad-atticum-12-33.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-33.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11021,7 +11035,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-34.tex
   english_file: english/letters/045bc-ad-atticum-12-34.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-34.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11039,7 +11053,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-35.tex
   english_file: english/letters/045bc-ad-atticum-12-35.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-35.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11057,7 +11071,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-36.tex
   english_file: english/letters/045bc-ad-atticum-12-36.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-36.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11075,7 +11089,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-37.tex
   english_file: english/letters/045bc-ad-atticum-12-37.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-37.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11093,7 +11107,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-38.tex
   english_file: english/letters/045bc-ad-atticum-12-38.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-38.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11111,7 +11125,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-39.tex
   english_file: english/letters/045bc-ad-atticum-12-39.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-39.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11129,7 +11143,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-40.tex
   english_file: english/letters/045bc-ad-atticum-12-40.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-40.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11147,7 +11161,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-41.tex
   english_file: english/letters/045bc-ad-atticum-12-41.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-41.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11165,7 +11179,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-42.tex
   english_file: english/letters/045bc-ad-atticum-12-42.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-42.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11183,7 +11197,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-43.tex
   english_file: english/letters/045bc-ad-atticum-12-43.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-43.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11201,7 +11215,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-44.tex
   english_file: english/letters/045bc-ad-atticum-12-44.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-44.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11219,7 +11233,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-45.tex
   english_file: english/letters/045bc-ad-atticum-12-45.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-45.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11228,16 +11242,16 @@
   title_latin: Ad Atticum 12.46
   title_english: Ad Atticum 12.46
   category: letters
-  date: -0045-11-15
-  date_precision: year
-  location_written: Asturae ld. Mai
+  date: -0045-05-15
+  date_precision: day
+  location_written: Asturae
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att12.shtml
   latin_file: latin/letters/045bc-ad-atticum-12-46.tex
   english_file: english/letters/045bc-ad-atticum-12-46.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-46.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11255,7 +11269,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-47.tex
   english_file: english/letters/045bc-ad-atticum-12-47.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-47.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11273,7 +11287,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-48.tex
   english_file: english/letters/045bc-ad-atticum-12-48.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-48.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11291,7 +11305,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-49.tex
   english_file: english/letters/045bc-ad-atticum-12-49.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-49.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11309,7 +11323,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-50.tex
   english_file: english/letters/045bc-ad-atticum-12-50.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-50.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11318,8 +11332,8 @@
   title_latin: Ad Atticum 12.51
   title_english: Ad Atticum 12.51
   category: letters
-  date: -0045-04-20
-  date_precision: year
+  date: -0045-05-20
+  date_precision: day
   location_written: in Tusculano
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
@@ -11327,7 +11341,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-51.tex
   english_file: english/letters/045bc-ad-atticum-12-51.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-51.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11345,7 +11359,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-52.tex
   english_file: english/letters/045bc-ad-atticum-12-52.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-52.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11363,7 +11377,7 @@
   latin_file: latin/letters/045bc-ad-atticum-12-53.tex
   english_file: english/letters/045bc-ad-atticum-12-53.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-12-53.tex
-  status: pending
+  status: drafted
   notes: Letters of 46-45 BC, especially after the death of Tullia in February 45 BC. Date assigned at book-level precision;
     exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0045-12-31
@@ -11453,7 +11467,7 @@
   latin_file: latin/letters/045bc-ad-familiares-04-05.tex
   english_file: english/letters/045bc-ad-familiares-04-05.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-04-05.tex
-  status: pending
+  status: drafted
   notes: Various, including the consolatory letter of Servius Sulpicius Rufus and Cicero's reply. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0043-12-31
@@ -11471,7 +11485,7 @@
   latin_file: latin/letters/045bc-ad-familiares-04-06.tex
   english_file: english/letters/045bc-ad-familiares-04-06.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-04-06.tex
-  status: pending
+  status: drafted
   notes: Various, including the consolatory letter of Servius Sulpicius Rufus and Cicero's reply. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0043-12-31
@@ -11489,7 +11503,7 @@
   latin_file: latin/letters/046bc-ad-familiares-04-07.tex
   english_file: english/letters/046bc-ad-familiares-04-07.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-04-07.tex
-  status: pending
+  status: drafted
   notes: Various, including the consolatory letter of Servius Sulpicius Rufus and Cicero's reply. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0043-12-31
@@ -11507,7 +11521,7 @@
   latin_file: latin/letters/046bc-ad-familiares-04-08.tex
   english_file: english/letters/046bc-ad-familiares-04-08.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-04-08.tex
-  status: pending
+  status: drafted
   notes: Various, including the consolatory letter of Servius Sulpicius Rufus and Cicero's reply. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0043-12-31
@@ -11525,7 +11539,7 @@
   latin_file: latin/letters/046bc-ad-familiares-04-09.tex
   english_file: english/letters/046bc-ad-familiares-04-09.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-04-09.tex
-  status: pending
+  status: drafted
   notes: Various, including the consolatory letter of Servius Sulpicius Rufus and Cicero's reply. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0043-12-31
@@ -11543,7 +11557,7 @@
   latin_file: latin/letters/046bc-ad-familiares-04-10.tex
   english_file: english/letters/046bc-ad-familiares-04-10.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-04-10.tex
-  status: pending
+  status: drafted
   notes: Various, including the consolatory letter of Servius Sulpicius Rufus and Cicero's reply. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0043-12-31
@@ -11561,7 +11575,7 @@
   latin_file: latin/letters/046bc-ad-familiares-04-11.tex
   english_file: english/letters/046bc-ad-familiares-04-11.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-04-11.tex
-  status: pending
+  status: drafted
   notes: Various, including the consolatory letter of Servius Sulpicius Rufus and Cicero's reply. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0043-12-31
@@ -11642,8 +11656,8 @@
   title_latin: Ad Familiares 9.1
   title_english: Ad Familiares 9.1
   category: letters
-  date: -0047-02-06
-  date_precision: year
+  date: -0047-12-15
+  date_precision: month
   location_written: Romae
   recipient: M. VARRONI S
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -11651,9 +11665,10 @@
   latin_file: latin/letters/047bc-ad-familiares-09-01.tex
   english_file: english/letters/047bc-ad-familiares-09-01.tex
   headnote_file: headnotes/letters/047bc-ad-familiares-09-01.tex
-  status: pending
-  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
-    to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  status: drafted
+  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date corrected from year-precision placeholder -0047-02-06
+    to -0047-12-15 month-precision per Perseus dateline "ex. a. 707 (47) aut in. a. 708 (46)" = end of 47 BC or beginning of
+    46 BC at Rome; the staged-reconciliation-with-the-books letter.
   date_range_end: -0044-12-31
   speech_index: book:9,letter:1
 - id: ad-familiares-09-02
@@ -11669,28 +11684,30 @@
   latin_file: latin/letters/046bc-ad-familiares-09-02.tex
   english_file: english/letters/046bc-ad-familiares-09-02.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-02.tex
-  status: pending
-  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
-    to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  status: drafted
+  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Perseus dateline "paulo post xii K. Mai. a. 708 (46)"
+    = a little after 20 April 46 BC at Rome; the long architects/builders metaphor and Greek terms heolos, lelethotos, politeias.
   date_range_end: -0044-12-31
   speech_index: book:9,letter:2
 - id: ad-familiares-09-03
   title_latin: Ad Familiares 9.3
   title_english: Ad Familiares 9.3
   category: letters
-  date: -0046-07-01
-  date_precision: year_range
-  location_written: null
-  recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam9.shtml
+  date: -0046-04-19
+  date_precision: day
+  location_written: Romae
+  recipient: VARRONI
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam9.shtml
   latin_file: latin/letters/046bc-ad-familiares-09-03.tex
   english_file: english/letters/046bc-ad-familiares-09-03.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-03.tex
-  status: pending
-  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
-    to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  status: drafted
+  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date corrected from year-range placeholder -0046-07-01
+    to -0046-04-19 day-precision per Perseus dateline "Romae paulo ante ep. 2" = shortly before 9.2 of 20 April 46 BC; contains
+    the proverbial Greek tag "glauk' eis Athenas" (owls to Athens).
   date_range_end: -0044-12-31
+  speech_index: book:9,letter:3
 - id: ad-familiares-09-04
   title_latin: Ad Familiares 9.4
   title_english: Ad Familiares 9.4
@@ -11704,9 +11721,11 @@
   latin_file: latin/letters/046bc-ad-familiares-09-04.tex
   english_file: english/letters/046bc-ad-familiares-09-04.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-04.tex
-  status: pending
-  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
-    to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  status: drafted
+  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Perseus dateline "in Tusculano inter viii et iv Id.
+    Iun. a. 708 (46)" = between 6 and 10 June 46 BC at Tusculum; the one-paragraph philosophical joke on Diodorus Cronus's
+    Master Argument vs. Chrysippus on modal possibility, five Greek phrases (peri dynaton, kata Diodoron, adynaton, krisis,
+    kata Chrysippon dynaton).
   date_range_end: -0044-12-31
   speech_index: book:9,letter:4
 - id: ad-familiares-09-05
@@ -11722,9 +11741,9 @@
   latin_file: latin/letters/046bc-ad-familiares-09-05.tex
   english_file: english/letters/046bc-ad-familiares-09-05.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-05.tex
-  status: pending
-  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
-    to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  status: drafted
+  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Perseus dateline "Romae in. m. Iun. a. 708 (46)" = beginning
+    of June 46 BC at Rome; the severitas otiosorum line and the otium/negotium pair.
   date_range_end: -0044-12-31
   speech_index: book:9,letter:5
 - id: ad-familiares-09-06
@@ -11740,7 +11759,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-06.tex
   english_file: english/letters/046bc-ad-familiares-09-06.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-06.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11749,8 +11768,8 @@
   title_latin: Ad Familiares 9.7
   title_english: Ad Familiares 9.7
   category: letters
-  date: -0046-08-12
-  date_precision: year
+  date: -0046-05-30
+  date_precision: month
   location_written: Romae
   recipient: VARRONI
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -11758,7 +11777,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-07.tex
   english_file: english/letters/046bc-ad-familiares-09-07.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-07.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11794,7 +11813,7 @@
   latin_file: latin/letters/048bc-ad-familiares-09-09.tex
   english_file: english/letters/048bc-ad-familiares-09-09.tex
   headnote_file: headnotes/letters/048bc-ad-familiares-09-09.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11812,7 +11831,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-10.tex
   english_file: english/letters/046bc-ad-familiares-09-10.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-10.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11830,7 +11849,7 @@
   latin_file: latin/letters/045bc-ad-familiares-09-11.tex
   english_file: english/letters/045bc-ad-familiares-09-11.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-09-11.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11839,8 +11858,8 @@
   title_latin: Ad Familiares 9.12
   title_english: Ad Familiares 9.12
   category: letters
-  date: -0045-01-17
-  date_precision: year
+  date: -0045-11-15
+  date_precision: month
   location_written: in Cumano mcd
   recipient: DOLABELLAE
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -11848,7 +11867,7 @@
   latin_file: latin/letters/045bc-ad-familiares-09-12.tex
   english_file: english/letters/045bc-ad-familiares-09-12.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-09-12.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11857,8 +11876,8 @@
   title_latin: Ad Familiares 9.13
   title_english: Ad Familiares 9.13
   category: letters
-  date: -0046-02-18
-  date_precision: year
+  date: -0046-12-15
+  date_precision: month
   location_written: Romae
   recipient: DOLABELLAE S
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -11866,7 +11885,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-13.tex
   english_file: english/letters/046bc-ad-familiares-09-13.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-13.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11893,8 +11912,8 @@
   title_latin: Ad Familiares 9.15
   title_english: Ad Familiares 9.15
   category: letters
-  date: -0046-04-20
-  date_precision: year
+  date: -0046-11-15
+  date_precision: month
   location_written: Romae in. interc. priore
   recipient: PAETO S
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -11902,7 +11921,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-15.tex
   english_file: english/letters/046bc-ad-familiares-09-15.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-15.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11920,7 +11939,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-16.tex
   english_file: english/letters/046bc-ad-familiares-09-16.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-16.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11929,8 +11948,8 @@
   title_latin: Ad Familiares 9.17
   title_english: Ad Familiares 9.17
   category: letters
-  date: -0046-08-13
-  date_precision: day
+  date: -0046-08-20
+  date_precision: month
   location_written: Romae post
   recipient: L. PAPIRIO PAETO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -11938,7 +11957,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-17.tex
   english_file: english/letters/046bc-ad-familiares-09-17.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-17.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11956,7 +11975,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-18.tex
   english_file: english/letters/046bc-ad-familiares-09-18.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-18.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11965,8 +11984,8 @@
   title_latin: Ad Familiares 9.19
   title_english: Ad Familiares 9.19
   category: letters
-  date: -0046-08-13
-  date_precision: day
+  date: -0046-08-20
+  date_precision: month
   location_written: Romae post
   recipient: LL. PAPIRIO PAETO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -11974,7 +11993,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-19.tex
   english_file: english/letters/046bc-ad-familiares-09-19.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-19.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -11992,7 +12011,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-20.tex
   english_file: english/letters/046bc-ad-familiares-09-20.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-20.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -12001,8 +12020,8 @@
   title_latin: Ad Familiares 9.21
   title_english: Ad Familiares 9.21
   category: letters
-  date: -0046-10-26
-  date_precision: year
+  date: -0046-11-15
+  date_precision: month
   location_written: ut videtur, circ
   recipient: PAETO S
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -12010,7 +12029,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-21.tex
   english_file: english/letters/046bc-ad-familiares-09-21.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-21.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -12028,7 +12047,7 @@
   latin_file: latin/letters/045bc-ad-familiares-09-22.tex
   english_file: english/letters/045bc-ad-familiares-09-22.tex
   headnote_file: headnotes/letters/045bc-ad-familiares-09-22.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -12037,8 +12056,8 @@
   title_latin: Ad Familiares 9.23
   title_english: Ad Familiares 9.23
   category: letters
-  date: -0046-12-28
-  date_precision: year
+  date: -0046-12-15
+  date_precision: month
   location_written: in Cumano
   recipient: PAETO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -12046,7 +12065,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-23.tex
   english_file: english/letters/046bc-ad-familiares-09-23.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-23.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -12090,8 +12109,8 @@
   title_latin: Ad Familiares 9.26
   title_english: Ad Familiares 9.26
   category: letters
-  date: -0046-03-03
-  date_precision: year
+  date: -0046-11-15
+  date_precision: month
   location_written: Romae
   recipient: PAETO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
@@ -12099,7 +12118,7 @@
   latin_file: latin/letters/046bc-ad-familiares-09-26.tex
   english_file: english/letters/046bc-ad-familiares-09-26.tex
   headnote_file: headnotes/letters/046bc-ad-familiares-09-26.tex
-  status: pending
+  status: drafted
   notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   date_range_end: -0044-12-31
@@ -12230,7 +12249,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-01.tex
   english_file: english/letters/045bc-ad-atticum-13-01.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-01.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:1
@@ -12247,7 +12266,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-02.tex
   english_file: english/letters/045bc-ad-atticum-13-02.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-02.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:2
@@ -12264,7 +12283,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-03.tex
   english_file: english/letters/045bc-ad-atticum-13-03.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-03.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:3
@@ -12281,7 +12300,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-04.tex
   english_file: english/letters/045bc-ad-atticum-13-04.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-04.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:4
@@ -12298,7 +12317,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-05.tex
   english_file: english/letters/045bc-ad-atticum-13-05.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-05.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:5
@@ -12315,7 +12334,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-06.tex
   english_file: english/letters/045bc-ad-atticum-13-06.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-06.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:6
@@ -12332,7 +12351,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-07.tex
   english_file: english/letters/045bc-ad-atticum-13-07.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-07.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:7
@@ -12349,7 +12368,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-08.tex
   english_file: english/letters/045bc-ad-atticum-13-08.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-08.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:8
@@ -12366,7 +12385,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-09.tex
   english_file: english/letters/045bc-ad-atticum-13-09.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-09.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:9
@@ -12383,7 +12402,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-10.tex
   english_file: english/letters/045bc-ad-atticum-13-10.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-10.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:10
@@ -12400,7 +12419,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-11.tex
   english_file: english/letters/045bc-ad-atticum-13-11.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-11.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:11
@@ -12408,16 +12427,16 @@
   title_latin: Ad Atticum 13.12
   title_english: Ad Atticum 13.12
   category: letters
-  date: -0045-06-31
+  date: -0045-06-24
   date_precision: day
-  location_written: in Arpinati vh
+  location_written: in Arpinati
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att13.shtml
   latin_file: latin/letters/045bc-ad-atticum-13-12.tex
   english_file: english/letters/045bc-ad-atticum-13-12.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-12.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:12
@@ -12434,7 +12453,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-13.tex
   english_file: english/letters/045bc-ad-atticum-13-13.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-13.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:13
@@ -12451,7 +12470,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-14.tex
   english_file: english/letters/045bc-ad-atticum-13-14.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-14.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:14
@@ -12484,7 +12503,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-16.tex
   english_file: english/letters/045bc-ad-atticum-13-16.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-16.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:16
@@ -12501,7 +12520,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-17.tex
   english_file: english/letters/045bc-ad-atticum-13-17.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-17.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:17
@@ -12534,7 +12553,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-19.tex
   english_file: english/letters/045bc-ad-atticum-13-19.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-19.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:19
@@ -12551,7 +12570,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-20.tex
   english_file: english/letters/045bc-ad-atticum-13-20.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-20.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:20
@@ -12568,7 +12587,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-21.tex
   english_file: english/letters/045bc-ad-atticum-13-21.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-21.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:21
@@ -12585,7 +12604,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-22.tex
   english_file: english/letters/045bc-ad-atticum-13-22.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-22.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:22
@@ -12602,7 +12621,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-23.tex
   english_file: english/letters/045bc-ad-atticum-13-23.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-23.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:23
@@ -12619,7 +12638,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-24.tex
   english_file: english/letters/045bc-ad-atticum-13-24.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-24.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:24
@@ -12636,7 +12655,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-25.tex
   english_file: english/letters/045bc-ad-atticum-13-25.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-25.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:25
@@ -12653,7 +12672,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-26.tex
   english_file: english/letters/045bc-ad-atticum-13-26.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-26.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:26
@@ -12670,7 +12689,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-27.tex
   english_file: english/letters/045bc-ad-atticum-13-27.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-27.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:27
@@ -12687,7 +12706,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-28.tex
   english_file: english/letters/045bc-ad-atticum-13-28.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-28.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:28
@@ -12704,7 +12723,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-29.tex
   english_file: english/letters/045bc-ad-atticum-13-29.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-29.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:29
@@ -12721,7 +12740,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-30.tex
   english_file: english/letters/045bc-ad-atticum-13-30.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-30.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:30
@@ -12738,7 +12757,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-31.tex
   english_file: english/letters/045bc-ad-atticum-13-31.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-31.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:31
@@ -12755,7 +12774,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-32.tex
   english_file: english/letters/045bc-ad-atticum-13-32.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-32.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:32
@@ -12772,7 +12791,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-33.tex
   english_file: english/letters/045bc-ad-atticum-13-33.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-33.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:33
@@ -12789,7 +12808,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-34.tex
   english_file: english/letters/045bc-ad-atticum-13-34.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-34.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:34
@@ -12806,7 +12825,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-35.tex
   english_file: english/letters/045bc-ad-atticum-13-35.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-35.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:35
@@ -12839,7 +12858,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-37.tex
   english_file: english/letters/045bc-ad-atticum-13-37.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-37.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:37
@@ -12856,7 +12875,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-38.tex
   english_file: english/letters/045bc-ad-atticum-13-38.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-38.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:38
@@ -12873,7 +12892,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-39.tex
   english_file: english/letters/045bc-ad-atticum-13-39.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-39.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:39
@@ -12890,7 +12909,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-40.tex
   english_file: english/letters/045bc-ad-atticum-13-40.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-40.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:40
@@ -12907,7 +12926,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-41.tex
   english_file: english/letters/045bc-ad-atticum-13-41.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-41.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:41
@@ -12924,7 +12943,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-42.tex
   english_file: english/letters/045bc-ad-atticum-13-42.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-42.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:42
@@ -12941,7 +12960,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-43.tex
   english_file: english/letters/045bc-ad-atticum-13-43.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-43.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:43
@@ -12958,7 +12977,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-44.tex
   english_file: english/letters/045bc-ad-atticum-13-44.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-44.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:44
@@ -12975,7 +12994,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-45.tex
   english_file: english/letters/045bc-ad-atticum-13-45.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-45.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:45
@@ -12992,7 +13011,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-46.tex
   english_file: english/letters/045bc-ad-atticum-13-46.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-46.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:46
@@ -13009,7 +13028,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-47.tex
   english_file: english/letters/045bc-ad-atticum-13-47.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-47.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:47
@@ -13026,7 +13045,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-48.tex
   english_file: english/letters/045bc-ad-atticum-13-48.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-48.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:48
@@ -13043,7 +13062,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-49.tex
   english_file: english/letters/045bc-ad-atticum-13-49.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-49.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:49
@@ -13060,7 +13079,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-50.tex
   english_file: english/letters/045bc-ad-atticum-13-50.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-50.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:50
@@ -13077,7 +13096,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-51.tex
   english_file: english/letters/045bc-ad-atticum-13-51.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-51.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:51
@@ -13094,7 +13113,7 @@
   latin_file: latin/letters/045bc-ad-atticum-13-52.tex
   english_file: english/letters/045bc-ad-atticum-13-52.tex
   headnote_file: headnotes/letters/045bc-ad-atticum-13-52.tex
-  status: pending
+  status: drafted
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:13,letter:52
@@ -13225,7 +13244,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-01.tex
   english_file: english/letters/044bc-ad-atticum-14-01.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-01.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:1
@@ -13242,7 +13261,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-02.tex
   english_file: english/letters/044bc-ad-atticum-14-02.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-02.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:2
@@ -13259,7 +13278,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-03.tex
   english_file: english/letters/044bc-ad-atticum-14-03.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-03.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:3
@@ -13276,7 +13295,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-04.tex
   english_file: english/letters/044bc-ad-atticum-14-04.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-04.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:4
@@ -13293,7 +13312,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-05.tex
   english_file: english/letters/044bc-ad-atticum-14-05.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-05.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:5
@@ -13310,7 +13329,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-06.tex
   english_file: english/letters/044bc-ad-atticum-14-06.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-06.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:6
@@ -13327,7 +13346,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-07.tex
   english_file: english/letters/044bc-ad-atticum-14-07.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-07.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:7
@@ -13344,7 +13363,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-08.tex
   english_file: english/letters/044bc-ad-atticum-14-08.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-08.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:8
@@ -13361,7 +13380,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-09.tex
   english_file: english/letters/044bc-ad-atticum-14-09.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-09.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:9
@@ -13378,7 +13397,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-10.tex
   english_file: english/letters/044bc-ad-atticum-14-10.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-10.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:10
@@ -13395,7 +13414,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-11.tex
   english_file: english/letters/044bc-ad-atticum-14-11.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-11.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:11
@@ -13412,7 +13431,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-12.tex
   english_file: english/letters/044bc-ad-atticum-14-12.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-12.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:12
@@ -13429,7 +13448,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-13.tex
   english_file: english/letters/044bc-ad-atticum-14-13.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-13.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:13
@@ -13446,7 +13465,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-14.tex
   english_file: english/letters/044bc-ad-atticum-14-14.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-14.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:14
@@ -13463,7 +13482,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-15.tex
   english_file: english/letters/044bc-ad-atticum-14-15.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-15.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:15
@@ -13480,7 +13499,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-16.tex
   english_file: english/letters/044bc-ad-atticum-14-16.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-16.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:16
@@ -13497,7 +13516,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-17.tex
   english_file: english/letters/044bc-ad-atticum-14-17.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-17.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:17
@@ -13514,7 +13533,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-18.tex
   english_file: english/letters/044bc-ad-atticum-14-18.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-18.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:18
@@ -13531,7 +13550,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-19.tex
   english_file: english/letters/044bc-ad-atticum-14-19.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-19.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:19
@@ -13548,7 +13567,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-20.tex
   english_file: english/letters/044bc-ad-atticum-14-20.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-20.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:20
@@ -13565,7 +13584,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-21.tex
   english_file: english/letters/044bc-ad-atticum-14-21.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-21.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:21
@@ -13582,7 +13601,7 @@
   latin_file: latin/letters/044bc-ad-atticum-14-22.tex
   english_file: english/letters/044bc-ad-atticum-14-22.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-14-22.tex
-  status: pending
+  status: drafted
   notes: 'Letters of April-May 44 BC: the weeks after the Ides of March. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey''s chronological commentary or another standard reference.'
   speech_index: book:14,letter:22
@@ -13599,7 +13618,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-01.tex
   english_file: english/letters/044bc-ad-atticum-15-01.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-01.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:1
@@ -13616,7 +13635,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-02.tex
   english_file: english/letters/044bc-ad-atticum-15-02.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-02.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:2
@@ -13624,16 +13643,16 @@
   title_latin: Ad Atticum 15.3
   title_english: Ad Atticum 15.3
   category: letters
-  date: -0044-06-01
+  date: -0044-05-22
   date_precision: day
-  location_written: in Arpinati xt
+  location_written: in Arpinati
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att15.shtml
   latin_file: latin/letters/044bc-ad-atticum-15-03.tex
   english_file: english/letters/044bc-ad-atticum-15-03.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-03.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:3
@@ -13650,7 +13669,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-04.tex
   english_file: english/letters/044bc-ad-atticum-15-04.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-04.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:4
@@ -13667,7 +13686,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-05.tex
   english_file: english/letters/044bc-ad-atticum-15-05.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-05.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:5
@@ -13684,7 +13703,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-06.tex
   english_file: english/letters/044bc-ad-atticum-15-06.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-06.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:6
@@ -13701,7 +13720,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-07.tex
   english_file: english/letters/044bc-ad-atticum-15-07.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-07.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:7
@@ -13718,7 +13737,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-08.tex
   english_file: english/letters/044bc-ad-atticum-15-08.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-08.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:8
@@ -13735,7 +13754,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-09.tex
   english_file: english/letters/044bc-ad-atticum-15-09.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-09.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:9
@@ -13752,7 +13771,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-10.tex
   english_file: english/letters/044bc-ad-atticum-15-10.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-10.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:10
@@ -13769,7 +13788,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-11.tex
   english_file: english/letters/044bc-ad-atticum-15-11.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-11.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:11
@@ -13786,7 +13805,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-12.tex
   english_file: english/letters/044bc-ad-atticum-15-12.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-12.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:12
@@ -13803,7 +13822,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-13.tex
   english_file: english/letters/044bc-ad-atticum-15-13.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-13.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:13
@@ -13820,7 +13839,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-14.tex
   english_file: english/letters/044bc-ad-atticum-15-14.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-14.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:14
@@ -13837,7 +13856,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-15.tex
   english_file: english/letters/044bc-ad-atticum-15-15.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-15.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:15
@@ -13847,14 +13866,14 @@
   category: letters
   date: -0044-06-12
   date_precision: day
-  location_written: in Antiati iii aut
+  location_written: in Antiati
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att15.shtml
   latin_file: latin/letters/044bc-ad-atticum-15-16.tex
   english_file: english/letters/044bc-ad-atticum-15-16.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-16.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:16
@@ -13862,16 +13881,16 @@
   title_latin: Ad Atticum 15.17
   title_english: Ad Atticum 15.17
   category: letters
-  date: -0044-06-13
+  date: -0044-06-14
   date_precision: day
-  location_written: in Antiati postr
-  recipient: ATTlCO
+  location_written: in Antiati
+  recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att15.shtml
   latin_file: latin/letters/044bc-ad-atticum-15-17.tex
   english_file: english/letters/044bc-ad-atticum-15-17.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-17.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:17
@@ -13888,7 +13907,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-18.tex
   english_file: english/letters/044bc-ad-atticum-15-18.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-18.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:18
@@ -13905,7 +13924,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-19.tex
   english_file: english/letters/044bc-ad-atticum-15-19.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-19.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:19
@@ -13922,7 +13941,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-20.tex
   english_file: english/letters/044bc-ad-atticum-15-20.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-20.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:20
@@ -13939,7 +13958,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-21.tex
   english_file: english/letters/044bc-ad-atticum-15-21.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-21.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:21
@@ -13956,7 +13975,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-22.tex
   english_file: english/letters/044bc-ad-atticum-15-22.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-22.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:22
@@ -13966,14 +13985,14 @@
   category: letters
   date: -0044-06-25
   date_precision: day
-  location_written: in Tusculano viW aut
+  location_written: in Tusculano
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att15.shtml
   latin_file: latin/letters/044bc-ad-atticum-15-23.tex
   english_file: english/letters/044bc-ad-atticum-15-23.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-23.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:23
@@ -13990,7 +14009,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-24.tex
   english_file: english/letters/044bc-ad-atticum-15-24.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-24.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:24
@@ -14007,7 +14026,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-25.tex
   english_file: english/letters/044bc-ad-atticum-15-25.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-25.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:25
@@ -14024,7 +14043,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-26.tex
   english_file: english/letters/044bc-ad-atticum-15-26.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-26.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:26
@@ -14041,7 +14060,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-27.tex
   english_file: english/letters/044bc-ad-atticum-15-27.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-27.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:27
@@ -14058,7 +14077,7 @@
   latin_file: latin/letters/044bc-ad-atticum-15-28.tex
   english_file: english/letters/044bc-ad-atticum-15-28.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-28.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:28
@@ -14066,16 +14085,16 @@
   title_latin: Ad Atticum 15.29
   title_english: Ad Atticum 15.29
   category: letters
-  date: -0044-07-07
+  date: -0044-07-06
   date_precision: day
-  location_written: in Formiano prict
+  location_written: in Formiano
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att15.shtml
   latin_file: latin/letters/044bc-ad-atticum-15-29.tex
   english_file: english/letters/044bc-ad-atticum-15-29.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-15-29.tex
-  status: pending
+  status: drafted
   notes: Letters of May-July 44 BC. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's
     chronological commentary or another standard reference.
   speech_index: book:15,letter:29
@@ -14092,7 +14111,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-01.tex
   english_file: english/letters/044bc-ad-atticum-16-01.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-01.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:1
@@ -14109,7 +14128,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-02.tex
   english_file: english/letters/044bc-ad-atticum-16-02.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-02.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:2
@@ -14126,7 +14145,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-03.tex
   english_file: english/letters/044bc-ad-atticum-16-03.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-03.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:3
@@ -14143,7 +14162,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-04.tex
   english_file: english/letters/044bc-ad-atticum-16-04.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-04.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:4
@@ -14160,7 +14179,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-05.tex
   english_file: english/letters/044bc-ad-atticum-16-05.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-05.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:5
@@ -14177,7 +14196,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-06.tex
   english_file: english/letters/044bc-ad-atticum-16-06.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-06.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:6
@@ -14194,7 +14213,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-07.tex
   english_file: english/letters/044bc-ad-atticum-16-07.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-07.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:7
@@ -14211,7 +14230,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-08.tex
   english_file: english/letters/044bc-ad-atticum-16-08.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-08.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:8
@@ -14228,7 +14247,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-09.tex
   english_file: english/letters/044bc-ad-atticum-16-09.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-09.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:9
@@ -14245,7 +14264,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-10.tex
   english_file: english/letters/044bc-ad-atticum-16-10.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-10.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:10
@@ -14262,7 +14281,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-11.tex
   english_file: english/letters/044bc-ad-atticum-16-11.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-11.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:11
@@ -14272,14 +14291,14 @@
   category: letters
   date: -0044-11-13
   date_precision: day
-  location_written: in Puteolano vht
+  location_written: in Puteolano
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att16.shtml
   latin_file: latin/letters/044bc-ad-atticum-16-12.tex
   english_file: english/letters/044bc-ad-atticum-16-12.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-12.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:12
@@ -14296,7 +14315,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-13.tex
   english_file: english/letters/044bc-ad-atticum-16-13.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-13.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:13
@@ -14304,8 +14323,8 @@
   title_latin: Ad Atticum 16.14
   title_english: Ad Atticum 16.14
   category: letters
-  date: -0044-07-19
-  date_precision: year
+  date: -0044-11-15
+  date_precision: month
   location_written: in Arpinati
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
@@ -14313,7 +14332,7 @@
   latin_file: latin/letters/044bc-ad-atticum-16-14.tex
   english_file: english/letters/044bc-ad-atticum-16-14.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-14.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:14
@@ -14323,14 +14342,14 @@
   category: letters
   date: -0044-12-09
   date_precision: day
-  location_written: in Arpinati ante
+  location_written: in Arpinati
   recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att16.shtml
   latin_file: latin/letters/044bc-ad-atticum-16-15.tex
   english_file: english/letters/044bc-ad-atticum-16-15.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-15.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:15
@@ -14341,13 +14360,13 @@
   date: -0044-07-06
   date_precision: day
   location_written: in Tusculano
-  recipient: suo  DIC. ATTICO
+  recipient: ATTICO
   latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att16.shtml
   latin_file: latin/letters/044bc-ad-atticum-16-16.tex
   english_file: english/letters/044bc-ad-atticum-16-16.tex
   headnote_file: headnotes/letters/044bc-ad-atticum-16-16.tex
-  status: pending
+  status: drafted
   notes: Letters of July-November 44 BC, the last of the Atticus correspondence. Date assigned at book-level precision; exact
     dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
   speech_index: book:16,letter:16

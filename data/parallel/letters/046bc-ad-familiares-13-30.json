@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-30",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.30",
+  "title_english": "Ad Familiares 13.30",
+  "date": "-0046-11-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Manlius est Sosis. is fuit Catinensis, sed est una cum reliquis Neapolitanis civis R. factus decurioque Neapoli ; erat enim adscriptus in id municipium ante civitatem sociis et Latinis datam. eius frater Catinae nuper mortuus est. nullam omnino arbitramur de ea hereditate controversiam eum habiturum, et est hodie in bonis ; sed quoniam habet praeterea negotia vetera in Sicilia sua, et hanc hereditatem fraternam et omnia eius tibi commendo in primisque ipsum, virum optimum mihique familiarissimum, iis studiis litterarum doctrinaeque praeditum, quibus ego maxime delector.",
+      "eng": "Lucius Manlius Sosis is from Catina, but in company with the other Neapolitans he was made a Roman citizen, and is a decurion at Naples; for he had been enrolled in that municipality before the citizenship was given to the Italian allies and the Latins. His brother died not long ago at Catina. We expect that he will have no dispute at all about the inheritance, and as of today he is in possession of the estate; but since he has, besides this, business of long standing in his old province of Sicily, I commend to you both this fraternal inheritance and all his other concerns, and above all the man himself --- a man of the finest character and on the most familiar terms with me, endowed with those literary and scholarly pursuits which give me the greatest delight.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "peto igitur abs te ut eum, sive aderit sive non venerit in Siciliam, in meis intimis maximeque necessariis scias esse itaque tractes, ut intellegat meam sibi commendationem magno adiumento fuisse.",
+      "eng": "I therefore ask of you that, whether he is present in Sicily or whether he does not come there, you regard him as among my closest intimates and most particular connections, and so treat him that he may understand my recommendation to have been of great service to him.",
+      "notes": null
+    }
+  ]
+}

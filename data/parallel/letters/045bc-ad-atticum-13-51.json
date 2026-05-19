@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-51",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.51",
+  "title_english": "Ad Atticum 13.51",
+  "date": "-0045-08-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ad Caesarem quam misi epistulam eius exemplum fugit me tum tibi mittere. nec id fuit quod suspicaris, ut me puderet tui ne ridicule †micillus†, nec me hercule scripsi aliter ac si πρὸσ ἴσον ὅμοιόν que scriberem. bene enim existimo de illis libris, ut tibi coram. itaque scripsi et ἀκολακεύτωσ et tamen sic ut nihil eum existimem lecturum libentius.",
+      "eng": "The letter I sent to Caesar --- it slipped my mind to send you the copy at the time. It was not what you suspect, that I was ashamed before you of cutting a ridiculous figure as \\dag micillus \\dag, nor, by Hercules, did I write it any differently than if I had been writing to my peer and equal [Greek: pros ison homoion]. For I think well of those books, as I have said to you face to face. So I wrote without flattery [Greek: akolakeutos], and yet in such a way that I expect there is nothing he will read with more pleasure.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Attica nunc demum mihi est exploratum; itaque ei de integro gratulare. Tigellium totum mihi et quidem quam primum; nam pendeo animi. narro tibi, Quintus cras; sed ad me an ad te nescio. mi scripsit Romam viii Kal. sed misi qui invitaret. etsi hercle iam Romam veniendum est ne ille ante advolet.",
+      "eng": "About Attica I now at last have certainty; so congratulate her on my behalf afresh. The whole of Tigellius, and as soon as may be; for I am hanging in suspense. I tell you, Quintus tomorrow; but whether to me or to you I do not know. He wrote me he would be in Rome on the eighth before the Kalends, but I have sent someone to invite him out. Though by Hercules I shall have to come up to Rome myself, or he will be flying over before I get there.",
+      "notes": null
+    }
+  ]
+}

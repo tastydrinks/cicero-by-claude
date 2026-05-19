@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-16-12",
+  "category": "letters",
+  "title_latin": "Ad Atticum 16.12",
+  "title_english": "Ad Atticum 16.12",
+  "date": "-0044-11-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Oppi epistulae, quia perhumana erat, tibi misi exemplum. de Ocella, dum tu muginaris nec mihi quicquam rescribis, cepi consilium domesticum itaque me pr. Idus arbitror Romae futurum. commodius est visum frustra me istic t esse, cum id non necesse esset, quam, si opus esset, non adesse, et simul ne intercluderer metuebam. ille enim iam adventare potest. etsi varii rumores multique quos cuperem veros, nihil tamen certi. ego vero, quicquid est, tecum potius quam animi pendeam, cum a te absim, et de te et de me. sed quid tibi dicam? bonum animum. de Ἡρακλειδείῳ Varronis negotia salsa. me quidem nihil umquam sic delectavit. sed haec et alia maiora coram.",
+      "eng": "I have sent you a copy of Oppius's letter, since it was very kind. About Ocella, while you dither and write me back nothing, I have come to a private decision; and so I think I shall be at Rome on the day before the Ides. It seemed more sensible that I should be there in vain, when it was not necessary, than not be there if there were need; and at the same time I was afraid of being cut off. For he can be on the move at any moment now. Though there are mixed rumours, many of them such as I should wish true, still nothing certain. As for me --- whatever comes of it, I would rather have my mind hanging in suspense beside you than away from you, for both your sake and my own. But what shall I say? Take heart. About the Heraclidean piece [Greek: Hērakleideion] of Varro --- nice work. Nothing has ever so delighted me. But this and other greater matters in person.",
+      "notes": null
+    }
+  ]
+}

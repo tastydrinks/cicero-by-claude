@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-29",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.29",
+  "title_english": "Ad Atticum 12.29",
+  "date": "-0045-03-25",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Silius, ut scribis, hodie. cras igitur vel potius cum poteris scribes, si quid erit cum videris. nec ego Brutum vito nec tamen ab eo levationem ullam exspecto; sed erant causae cur hoc tempore istic esse nollem. quae si manebunt, quaerenda erit excusatio ad Brutum et, ut nunc est, mansurae videntur.",
+      "eng": "Silius today, as you write. So tomorrow --- or rather, when you can --- write to me, if there is anything once you have seen him. I am not avoiding Brutus, nor on the other hand do I expect any relief from him; but there were reasons why I did not wish to be there at this time. If those reasons hold, I shall have to look for some excuse to Brutus --- and as things stand, they look likely to hold.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de hortis, quaeso, explica. caput illud est quod scis. sequitur ut etiam mihi ipsi quiddam opus sit; nec enim esse in turba possum nec a vobis abesse. huic meo consilio nihil reperio isto loco aptius et de hac re quid tui consili sit. mihi persuasum est et eo magis quod idem intellexi tibi videri me ab Oppio et Balbo valde diligi. cum his communices quanto opere et qua re velim hortos; sed id ita posse, si expediatur illud Faberianum; sint ne igitur auctores futuri. si qua etiam iactura facienda sit in repraesentando, quoad possunt adducito; totum enim illud desperatum. denique intelleges ecquid inclinent ad hoc meum consilium adiuvandum. si quid erit, magnum est adiumentum; si minus, quacumque ratione contendamus. vel tu illud ἐγγήραμα , quem ad modum scripsisti, vel ἐντάφιον putato. de illo Ostiensi nihil est cogitandum. si hoc non adsequimur (a Lamia non puto posse), Damasippi experiendum est.",
+      "eng": "About the gardens, please bring it to a head. The capital point is the one you know. Then comes this: that there must also be something for me myself; for I can neither live in a crowd nor be away from you. For this plan of mine I find nothing better suited than that place, and on this matter --- what is your own counsel? My mind is made up, and the more so because I have understood the same thing seems good to you, that I am very warmly esteemed by Oppius and Balbus. Make clear to them how very much I want the gardens, and on what grounds; but say also that this can only be if that Faberian business is cleared up --- so let them be the prime movers in it. If some sacrifice has to be made in paying ready cash, get them to come up as far as they can; for that whole sum is otherwise written off. In short, you will see whether they show any inclination at all toward helping this plan of mine forward. If they do, it is great help; if not, by whatever way we can, let us push on. You may treat it either as that ``thing to grow old in'' [Greek: enge\\=erama], as you wrote, or as a ``thing to be buried in'' [Greek: entaphion]. The Ostia place is not to be thought of. If we do not get this --- and I do not think we can get it from Lamia --- we must try Damasippus' offer.",
+      "notes": null
+    }
+  ]
+}

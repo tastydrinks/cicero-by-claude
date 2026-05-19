@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-28",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.28",
+  "title_english": "Ad Atticum 15.28",
+  "date": "-0044-07-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego , ut ad te pridie scripseram, Nonis constitueram venire in Puteolanum. ibi igitur cotidie tuas litteras exspectabo et maxime de ludis; de quibus etiam ad Brutum tibi scribendum est. cuius epistulae quam interpretari ipse vix poteram exemplum pridie tibi miseram. Atticae meae velim me ita excuses ut omnem culpam in te transferas et ei tamen confirmes me immutatum amorem meum mecum abstulisse.",
+      "eng": "As I had written to you the day before, I had decided to come to the Puteolanum on the Nones. There, then, I shall daily await your letters, and especially about the games --- about which you must write to Brutus as well. Of his letter, which I could scarcely interpret myself, I sent you a copy the day before. Make my excuses to my dear Attica in such a way as to lay all the blame on you, and assure her even so that I have carried off with me a love for her that has not changed.",
+      "notes": null
+    }
+  ]
+}

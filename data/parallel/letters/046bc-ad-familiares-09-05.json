@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.5",
+  "title_english": "Ad Familiares 9.5",
+  "date": "-0046-06-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "mihi vero ad Nonas bene maturum videtur fore, neque solum propter rei p. sed etiam propter anni tempus ; qua re istum diem probo, itaque eundem ipse sequar.",
+      "eng": "For my part the Nones seems amply soon enough, and not only on the public's account but also on the season's; so I approve that day, and I myself shall keep to the same.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "consili nostri, ne si eos quidem, qui id secuti non sunt, non paeniteret, nobis paenitendum putarem ; secuti enim sumus non spem sed officium, reliquimus autem non officium sed desperationem. ita verecundiores fuimus quam qui se domo non commoverunt, saniores quam qui amissis opibus. domum non reverterunt. sed nihil minus fero quam severitatem otiosorum et, quoquo modo se res habet, magis illos vereor, qui in bello occiderunt, quam hos curo, quibus non satis facimus, quia vivimus.",
+      "eng": "As for the course we took, I should hold us bound to regret it only if even those who did not follow it had no regret. What we followed was not hope but duty; what we abandoned was not duty but a lost cause. So we have been more scrupulous than the men who never stirred from home, and saner than those who, after their resources were gone, did not come home again. Nothing, however, I bear less than the severity of the disengaged; and however the matter stands, I am more reverent toward those who fell in the war than I am anxious about these others, whom we do not satisfy because we go on living.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "mihi si spatium fuerit in Tusculanum ante Nonas veniendi, istic te videbo ; si minus, persequar in Cumanum et ante te certiorem faciam, ut lavatio parata sit",
+      "eng": "If I have time to come to the Tusculan villa before the Nones, I shall see you there; if not, I shall follow on into the Cumanum, and I shall let you know in advance, so that the bath may be ready.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-17",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.17",
+  "title_english": "Ad Familiares 9.17",
+  "date": "-0046-08-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non tu homo ridiculus es qui, cum Balbus noster apud te fuerit, ex me quaeras quid de istis municipiis et agris futurum putem? quasi aut ego quicquam sciam quod iste nesciat, aut, si quid aliquando scio, non ex isto soleam scire. immo vero, si me amas, tu fac ut sciam, quid de nobis futurum sit ; habuisti enim in tua potestate, ex quo vel ex sobrio vel certe ex ebrio scire posses. sed ego ista, mi Paete, non quaero, primum quia de lucro prope iam quadriennium vivimus, si aut hoc lucrum est aut haec vita, superstitem rei p. vivere ; deinde quod scire quoque mihi videor, quid futurum sit. fiet enim quodcumque volent, qui valebunt ; valebunt autem semper arma. satis igitur nobis esse debet, quicquid conceditur. hoc si qui pati non potuit, mori debuit.",
+      "eng": "Are you not an absurd fellow, asking me what I think will become of those townships and their land --- you, who have had our friend Balbus staying at your house? As though I knew anything that the man does not know, or, if I ever do know something, did not regularly learn it from him. On the contrary, if you love me, you tell me what is to become of us; for you have had him in your power, in such conditions that you could have got it out of him either sober or, failing that, drunk. As for me, my Paetus, I do not ask these things --- first, because it is now going on four years that we have been living on bonus time, if it is bonus time, or living at all, to outlive the commonwealth; second, because I think I too know what is going to happen. What will happen is whatever those who have the strength want; and the strength will always be with arms. We must therefore be content with whatever is conceded. The man who could not put up with this should have died.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Veientem quidem agrum et Capenatem metiuntur ; hoc non longe abest a Tusculano ; nihil tamen timeo. fruor dum licet, opto ut semper liceat; si id minus contigerit, tamen quoniam ego vir fortis idemque philosophus vivere pulcherrimum duxi, non possum eum non diligere, cuius beneficio id consecutus sum. qui si cupiat esse rem p., qualem fortasse et ille vult et omnes optare debemus, quid faciat tamen non habet ; ita se cum multis conligavit.",
+      "eng": "They are now measuring out the Veientine and Capenate land; this is not far from Tusculum. Yet I am not afraid. I enjoy it while I may; I pray I may always; if that is denied me, then since, brave man and philosopher both as I am, I have counted living the finest of things, I cannot help loving the man through whose kindness I have come by it. As for him --- if he wished the commonwealth to be such as perhaps he himself wishes too, and as we all ought to wish, still he has no way to bring it about: so thoroughly has he bound himself up with so many.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed longius progredior ; scribo enim ad te. hoc tamen scito non modo me qui consiliis non intersum sed ne ipsum quidem principem scire quid futurum sit ; nos enim illi servimus, ipse temporibus. ita nec ille, quid tempora postulatura sint, nec nos, quid ille cogitet, scire possumus. haec tibi antea non rescripsi, non quo cessator esse solerem, praesertim in litteris, sed, cum explorati nihil haberem, nec tibi sollicitudinem ex dubitatione mea nec spem ex adfirmatione adferre volui. illud tamen adscribam, quod est verissimum, me his temporibus adhuc de isto periculo nihil audisse. tu tamen pro tua sapientia debebis optare optima, cogitare difficillima, ferre quaecumque erunt.",
+      "eng": "But I am going on too far; for I am writing to you. Yet know this much: not only do I, who have no part in the deliberations, not know what is to be --- the chief man himself does not know either. We are slaves to him, he to circumstances. So neither can he know what the times will demand, nor we what he is planning. I had not written you back on these matters before --- not that I am usually a slacker, particularly with the pen, but because, having nothing settled, I did not want either to give you anxiety from my own doubt or hope from any assurance. One thing, however, I will add, which is altogether true: I have heard nothing yet, in this present hour, of the danger you speak of. You, for your part, in keeping with your wisdom, should hope for the best, brace for the worst, and bear whatever comes.",
+      "notes": null
+    }
+  ]
+}

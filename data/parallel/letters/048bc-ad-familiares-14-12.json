@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-12",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.12",
+  "title_english": "Ad Familiares 14.12",
+  "date": "-0048-11-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quod nos in Italiam salvos venisse gaudes, perpetuo gaudeas velim ; sed perturbati dolore animi magnisque iniuriis metuo ne id consili ceperimus, quod non facile explicare possimus. qua re quantum potes adiuva ; quid autem possis mihi in mentem non venit. in viam quod te des hoc tempore nihil est. et longum est iter et non tutum, et non video quid prodesse possis, si veneris. vale . D. pr. Non. Nov. Brundisio.",
+      "eng": "That you rejoice we have come safe into Italy --- may you rejoice in it always; but I fear that, shaken in mind by grief and by great wrongs, we may have taken the kind of course we shall not easily extricate ourselves from. Therefore help as much as you can; what you can do, however, does not come into my mind. There is no point in your taking the road at this time. The journey is long and not safe, and I do not see what good you could do by coming. Farewell. Despatched the day before the Nones of November, from Brundisium.",
+      "notes": null
+    }
+  ]
+}

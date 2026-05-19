@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-21",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.21",
+  "title_english": "Ad Atticum 15.21",
+  "date": "-0044-06-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "narro tibi, Quintus pater exsultat laetitia. scripsit enim filius se idcirco profugere ad Brutum voluisse quod, cum sibi negotium daret Antonius ut eum dictatorem efficeret, praesidium occuparet, id recusasset; recusasse autem se ne patris animum offenderet; ex eo sibi illum hostem. tum me inquit conlegi verens ne quid mihi ille iratus tibi noceret. itaque eum placavi. et quidem c_c_c_c_ certa, reliqua in spe. scribit autem Statius illum cum patre habitare velle (hoc vero mirum) et id gaudet. ecquem tu illo certiorem nebulonem?",
+      "eng": "Let me tell you: Quintus the father is beside himself with joy. For his son has written that he had wanted to take refuge with Brutus for this reason --- that when Antony was giving him the commission to make him dictator and seize the garrison, he had refused; and that he refused so as not to offend his father's mind; that from this Antony became his enemy. ``Then,'' he says, ``I pulled myself together, fearing that, in his anger, he might do you some harm. And so I appeased him.'' And indeed 400,000 sesterces are secure, the rest he hopes for. Statius writes, moreover, that the young man wants to live with his father (this is truly remarkable), and the father is delighted. Did you ever know a more thorough fraud than that fellow?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ἐποχὴν vestram de re Cani deliberationis probo. nihil eram suspicatus de tabulis, ἀκεραίωσ restitutam arbitrabar. quae differs ut mecum coram exspectabo. tabellarios quoad voles tenebis; es enim occupatus. quod ad Xenonem, probe. quod scribo, cum absolvero. Quinto scripsisti te ad eum litteras. nemo attulerat. Tiro negat iam tibi placere Brundisium et quidem dicere aliquid de militibus. at ego iam destinaram Hydruntem quidem. movebant me tuae quinque horae. hic autem quantus πλοῦσ ! sed videbimus. nullas a te xi Kal. quippe`, quid enim iam novi? cum primum igitur poteris, venies. ego propero ne ante Sextus, quem adventare aiunt.",
+      "eng": "Your suspension [Greek: epoch\\=en] of deliberation on Canus's business I approve of. I had suspected nothing about the accounts; I supposed them restored without compromise [Greek: akerai\\={os]}. What you defer I shall await for our meeting in person. You can keep the couriers as long as you wish; you are busy enough. As for Xeno --- well done. What I am writing about, I shall tell you when I have concluded it. You wrote to Quintus that you had sent him a letter. Nobody had brought it. Tiro tells me that Brundisium no longer appeals to you, and that you say something also about the soldiers. But I had by now fixed on Hydruntum. Your five hours were giving me pause. But what a voyage [Greek: plous] there is here! Still, we shall see. Nothing from you on the eleventh before the Kalends --- naturally, what news could there be? Come, then, as soon as you can. I am pressing on, so as to be off before Sextus, who they say is on his way.",
+      "notes": null
+    }
+  ]
+}

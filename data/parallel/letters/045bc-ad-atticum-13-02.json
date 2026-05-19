@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-02",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.2",
+  "title_english": "Ad Atticum 13.2",
+  "date": "-0045-05-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gratior mihi celeritas tua quam ipsa res. quid enim indignius? sed iam ad ista obduruimus et humanitatem omnem exuimus. tuas litteras hodie exspectabam, nihil equidem ut ex iis novi; quid enim? verum tamen—",
+      "eng": "Your promptness was more welcome to me than the matter itself. For what could be more outrageous? But by now we have grown hard to such things, and have stripped off all humanity. I was expecting your letter today --- not, of course, to learn anything new from it; for what could there be? But all the same ---",
+      "notes": null
+    }
+  ]
+}

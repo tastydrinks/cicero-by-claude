@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-11",
+  "category": "letters",
+  "title_latin": "Ad Familiares 3.11",
+  "title_english": "Ad Familiares 3.11",
+  "date": "-0050-06-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum essem in castris ad fluvium Pyramum, redditae mihi sunt uno tempore a te epistulae duae, quas ad me Q. Servilius Tarso miserat. earum in altera dies erat ascripta Nonarum Aprilium, in altera, quae mihi recentior videbatur, dies non erat. respondebo igitur superiori prius, in qua scribis ad me de absolutione maiestatis. de qua etsi permulto ante certior factus eram litteris, nuntiis, fama denique ipsa (nihil enim fuit clarius; non quo quisquam aliter putasset, sed nihil de insignibus ad laudem viris obscure nuntiari solet), tamen eadem illa laetiora fecerunt mihi tuae litterae, non solum quia planius loquebantur et uberius quam vulgi sermo, sed etiam quia magis videbar tibi gratulari, cum de te ex te ipso audiebam.",
+      "eng": "When I was in camp by the river Pyramus, two letters from you were brought to me at the same time, which Q. Servilius had sent me from Tarsus. The one had the date marked on it: the Nones of April; the other, which seemed to me the more recent, was undated. I will answer the earlier first, in which you write to me of your acquittal on the maiestas charge. Of this, although I had been informed long before --- by letters, by messengers, by rumour itself in the end (for nothing was more public; not that anyone had thought the other way, but where men distinguished for their renown are concerned nothing is reported in muffled terms) --- still, that same news was made the more cheerful for me by your letter, not only because it spoke more plainly and more fully than common talk, but also because I felt I was congratulating you the more truly when I heard about you from yourself.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "complexus igitur sum cogitatione te absentem, epistulam vero osculatus etiam ipse mihi gratulatus sum; quae enim a cuncto populo, a senatu, a iudicibus ingenio, industriae, virtuti tribuuntur, quia mihi ipse adsentor fortasse, cum ea esse in me fingo, mihi quoque ipsi tribui puto. nec tam gloriosum exitum tui iudici exstitisse, sed tam pravam inimicorum tuorum mentem fuisse mirabar. ' de ambitu vero quid interest,' inquies, 'an de maiestate?' ad rem nihil; alterum enim non attigisti, alteram auxisti. † verum tamen est maiestas, etsi Sulla voluit, ne in quemvis impune declamari liceret; ambitus vero ita apertam vim habet, ut aut accusetur improbe aut defendatur. quid enim? facta necne facta largitio, ignorari potest? tuorum autem honorum cursus cui suspectus umquam fuit?",
+      "eng": "So I embraced you in thought even in your absence; the letter itself I actually kissed, and I congratulated myself as well. For what the whole people, the Senate, and the jurors render in tribute to your talent, your industry, your virtue --- because perhaps I flatter myself, when I imagine those qualities to be in me --- I count as rendered to me too. Nor did I marvel that the outcome of your trial was so glorious, but that your enemies' minds were so warped. ``But what difference does it make,'' you will say, ``ambitus or maiestas?'' For the substance, none: the one you have not touched, the other you have positively magnified. Maiestas indeed, however, is what Sulla meant it to be, so that men should not be free to declaim against anyone they pleased with impunity; but ambitus carries with it so plain a violence that the charge must either be brought disgracefully or be defended. For: can it really be unknown whether or not bribery has been committed? And in your case, whose suspicions has the course of your honours ever raised?",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "me miserum, qui non, adfuerim! quos ego risus excitassem! sed de maiestatis iudicio duo mihi illa ex tuis litteris iucundissima fuerunt, unum, quod te ab ipsa re publica defensum scribis, quae quidem etiam in summa bonorum et fortium civium copia tueri talis viros deberet, nunc vero eo magis, quod tanta penuria est in omni vel honoris vel aetatis gradu, ut tam orba civitas talis tutores complecti debeat; alterum, quod Pompei et Bruti fidem benevolentiamque mirifice laudas. laetor virtute et officio quom tuorum necessariorum, meorum amicissimorum, tum alterius omnium saeculorum et gentium principis, alterius iam pridem iuventutis, celeriter, ut spero, civitatis. de mercennariis testibus a suis civitatibus notandis nisi iam factum aliquid est per Flaccum, fiet a me, cum per Asiam decedam.",
+      "eng": "Wretched me, that I was not there! What peals of laughter I would have raised! But on the maiestas verdict, two things in your letter gave me the greatest pleasure: one, that you write you were defended by the commonwealth itself --- which even amid an abundance of good and brave citizens ought to be standing by men of your stamp, and far more now, when there is such a dearth at every rank, of office or of age, that a state thus orphaned ought to embrace its few remaining guardians; the other, that you praise the loyalty and goodwill of Pompey and of Brutus in marvellous terms. I rejoice at the virtue and the dutifulness both of your kinsmen, who are also my closest friends --- the one of them the first man of every age and nation, the other long since the first of our young men and soon, as I hope, of our state. As for marking the hired witnesses by way of their own communities: unless something has already been done in the matter through Flaccus, I shall see to it as I make my way back through Asia.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "nunc ad alteram epistulam venio. quod ad me quasi formam communium temporum et totius rei publicae misisti expressam, prudentia litterarum tuarum valde mihi est grata; video enim et pericula leviora, quam timebam, et maiora praesidia, siquidem, ut scribis, omnes vires civitatis se ad Pompei ductum applicaverunt; tuumque simul promptum animum et alacrem perspexi ad defendendam rem publicam mirificamque cepi voluptatem ex hac tua diligentia, quod in summis tuis occupationibus mihi tamen rei publicae statum per te notum esse voluisti. nam auguralis libros ad commune utriusque nostrum otium serva. ego enim, a te cum tua promissa per litteras flagitabam, ad urbem te otiosissimum esse arbitrabar; nunc tamen, ut ipse polliceris, pro auguralibus libris orationes tuas confectas omnis exspectabo.",
+      "eng": "Now I come to the second letter. That you have sent me, as it were, a likeness of the common condition of the times and of the whole commonwealth, drawn out in detail, is most welcome to me on account of the practical wisdom of your letter; for I see both that the dangers are lighter than I feared, and that the resources are greater --- if, as you write, all the forces of the state have ranged themselves under Pompey's command. At the same time I have read clear evidence of your own prompt and eager spirit in the defence of the commonwealth, and I have taken extraordinary pleasure from this attentiveness of yours --- that in the midst of your highest occupations you should yet have wished the state of the commonwealth to be known to me through you. As for the books on augural law, keep them for the leisure we shall share. For when by letter I was pressing you to deliver on your promises, I supposed you to be most at leisure near the city; now, however, as you yourself pledge, in place of the augural books I shall await all your speeches collected.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "D. Tullius, cui mandata ad me dedisti, non convenerat me; nec erat iam quisquam mecum tuorum praeter omnis meos, qui sunt omnes tui. ' stomachosiores ' meas litteras quas dicas esse, non intellego. Bis ad te scripsi me purgans diligenter, te leviter accusans in eo, quod de me cito credidisses. quod genus querelae mihi quidem videbatur esse amici; sin tibi displicet, non utar eo posthac. sed si, ut scribis, eae litterae non fuerunt 'disertae,' scito meas non fuisse. ut enim Aristarchus Homeri versum negat, quem non probat, sic tu (libet enim mihi iocari), quod disertum non erit, ne putaris meum. vale et in censura, si iam es censor, ut spero, de proavo multum cogitato tuo.",
+      "eng": "D. Tullius, to whom you gave commissions for me, had not met up with me; and there was no one of your people now with me apart from all my own --- who are all yours. As to which of my letters you call ``rather peevish,'' I do not understand. Twice I wrote to you, carefully exonerating myself, and faulting you mildly for having believed, on no evidence, things about me. This kind of complaint did seem to me, indeed, the part of a friend; but if it displeases you, I will not use it hereafter. As for that letter not being ``eloquent,'' as you put it: if so, you may be sure it was not mine. For as Aristarchus pronounces any line he does not approve to be not Homer's, so you in the same way --- for I like to joke --- if anything is unpolished, do not suppose it mine. Farewell, and in your censorship, if you are now censor, as I hope, think much of your great-grandfather.",
+      "notes": null
+    }
+  ]
+}

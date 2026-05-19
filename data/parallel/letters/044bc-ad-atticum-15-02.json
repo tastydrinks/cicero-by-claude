@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-02",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.2",
+  "title_english": "Ad Atticum 15.2",
+  "date": "-0044-05-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "xv Kal. e Sinuessano proficiscens cum dedissem ad te litteras devertissemque †acutius† in Vescino accepi a tabellario tuas litteras; in quibus nimis multa de Buthroto. non enim tibi ea res maiori curae aut est aut erit quam mihi. sic enim decet te mea curare, tua me. quam ob rem id quidem sic susceptum est mihi ut nihil sim habiturus antiquius.",
+      "eng": "On the fifteenth before the Kalends, as I was setting out from the Sinuessan villa, after I had despatched a letter to you and turned aside \\dots\\ to the Vescine, I received your letter from the courier --- in which there is far too much about Buthrotum. For that business is not, and will not be, more of a care to you than to me. So it ought to be: that you should mind my affairs, and I yours. For that reason this charge has been so taken up by me that I shall hold nothing more in front of it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "L. Antonium contionatum esse cognovi tuis litteris et aliis sordide; sed id quale fuerit nescio; nihil enim scripti. de Menedemo probe. Quintus certe ea dictitat quae scribis. consilium meum a te probari quod ea non scribam quae tu a me postularis facile patior, multoque magis id probabis, si orationem eam de qua hodie ad te scripsi legeris. quae de legionibus scribis, ea vera sunt. sed non satis hoc mihi videris tibi persuasisse qui de Buthrotiis nostris per senatum speres confici posse † quod puto. tantum † enim video, non videmur esse victuri, sed, ut iam nos hoc fallat, de Buthroto te non fallet.",
+      "eng": "I learn from your letter and from others that L.~Antonius has spoken at a public meeting, and squalidly so; but what sort of thing it was I do not know, for nothing has been written down. About Menedemus, well done. Quintus certainly keeps repeating what you write. That you approve my plan --- that I do not write what you have demanded of me --- I bear easily; and you will approve it much more if you have read the speech I wrote to you about today. What you write about the legions is true. But you do not seem to have convinced yourself of this sufficiently, when you hope our Buthrotian business can be settled through the Senate \\dots\\ which I think. For this much I see: we do not seem destined to be victors; but, granting that this judgment of mine deceives us, about Buthrotum it will not deceive you.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de Octavi contione idem sentio quod tu, ludorumque eius apparatus et Matius ac Postumus mihi procuratores non placent; Saserna conlega dignus. sed isti omnes, quem ad modum sentis, non minus otium timent quam nos arma. Balbum levari invidia per nos velim, sed ne ipse quidem id fieri posse confidit. itaque alia cogitat.",
+      "eng": "About Octavius's public meeting I feel just as you do; and his preparations for the games, and Matius and Postumus as his managers, do not please me; Saserna is a fitting colleague. But all that crowd, as you perceive, fear peace no less than we fear arms. I should be glad if Balbus could be lightened of public hatred through our agency; but even he himself does not trust that it can be done. And so he is meditating other courses.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quod prima disputatio Tusculana te confirmat sane gaudeo; neque enim ullum est perfugium aut melius aut paratius. Flamma quod bene loquitur non moleste fero. Tyndaritanorum causa, de qua causa laborat, quae sit ignoro. hos tamen πεντέλοιπον movere ista videntur in primis erogatio pecuniae. de Alexione doleo, sed quoniam inciderat in tam gravem morbum, bene actum cum illo arbitror. quos tamen secundos heredes scire velim et diem testamenti.",
+      "eng": "That the first book of the Tusculan Disputations fortifies you, I am very glad; for indeed there is no refuge either better or more ready to hand. That Flamma speaks well of me, I take in good part. The case of the Tyndaritans, in which he is exerting himself, I do not know what it is. These five-remaining points ([Greek: pentel\\=oipon]) seem to move them in particular --- the outlay of money. About Alexio I grieve; but since he had fallen into so grave an illness, I judge things went well with him. Still, I should like to know who his secondary heirs are and the date of the will.",
+      "notes": null
+    }
+  ]
+}

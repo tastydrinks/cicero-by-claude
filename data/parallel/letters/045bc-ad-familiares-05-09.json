@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 5.9",
+  "title_english": "Ad Familiares 5.9",
+  "date": "-0045-07-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "V. B. E. E. V. si tuam consuetudinem in patrociniis tuendis servas, P. Vatinius cliens advenit, qui pro se causam dicier vult. non , puto, repudiabis in honore, quem in periculo recepisti. ego autem quem potius adoptem aut invocem quam illum, quo defendente vincere didici? an verear ne, qui potentissimorum hominum conspirationem neglexerit pro mea salute, is pro honore meo pusillorum ac malevolorum obtrectationes et invidias non prosternat atque obterat? qua re, si me, sicut soles, amas, suscipe meme totum atque hoc, quicquid est oneris ac muneris, pro mea dignitate tibi tuendum ac sustinendum puta. scis meam fortunam nescio quo modo facile obtrectatores invenire non meo quidem me hercules merito, sed quanti id refert, si tamen fato nescio qua accidit? si qui forte fuerit qui nostrae dignitati obesse velit, peto a te ut tuam consuetudinem et liberalitatem in me absente defendendo mihi praestes. Litteras ad senatum de rebus nostris gestis, quo exemplo miseram, infra tibi perscripsi.",
+      "eng": "If you are well, I am glad; I myself am well. If you keep to your old habit of taking on clients to defend, here comes Publius Vatinius, your client, who wants to have his cause pleaded. You will not, I think, turn me away when I come for an honour, having taken me up in a moment of danger. And whom should I rather adopt as patron, or call upon, than the man under whose defence I learned how to win? Or am I to fear that the man who made nothing of the conspiracy of the most powerful when my safety was at stake should not, for the sake of my honour, knock down and trample the carpings and envious sneers of mean and ill-disposed little men? So then, if you love me as you are wont to, take me up entire, and consider this whole burden and business, whatever it is, as something to be upheld and carried by you for the sake of my standing. You know that my fortune --- somehow or other --- easily turns up detractors, certainly through no fault of mine, by Hercules, but what does that matter, if it nevertheless happens by some fate I do not understand? If by chance there should be anyone with a will to harm our standing, I ask of you that, in the matter of defending me in my absence, you maintain your usual openhandedness toward me. The dispatch to the Senate on our exploits I have written out below in the same form in which I sent it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "dicitur mihi tuus servus anagnostes fugitivus cum Vardaeis esse. de quo tu mihi nihil mandasti, ego tamen, terra marique ut conquireretur, praemandavi et profecto tibi illum reperiam, nisi si in Dalmatiam aufugerit, et inde tamen aliquando eruam. tu nos fac ames. vale . A. d. v Id. Quintilis ex castris Narona.",
+      "eng": "I am told that your reader, that runaway slave of yours, is among the Vardaeans. About him you gave me no instructions, but I have all the same sent ahead orders that he be hunted up by land and sea, and I shall surely find him for you --- unless he has slipped off into Dalmatia, and even from there I shall in the end dig him out. Make sure you love us. Farewell. 11 July, from the camp at Narona.",
+      "notes": null
+    }
+  ]
+}

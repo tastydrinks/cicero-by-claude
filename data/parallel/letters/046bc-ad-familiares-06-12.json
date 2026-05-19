@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-12",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.12",
+  "title_english": "Ad Familiares 6.12",
+  "date": "-0046-11-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gratulor tibi, mi Balbe, vereque gratulor nec sum tam stultus ut te usura falsi gaudi frui velim, deinde frangi repente atque ita cadere ut nulla res te ad aequitatem animi possit postea extollere. egi tuam causam apertius quam mea tempora ferebant. vincebatur enim fortuna ipsa debilitatae gratiae nostrae tui cantate et meo perpetuo erga te amore culto a te diligentissime. omnia promissa confirmata certa et rata sunt, quae ad reditum et ad salutem tuam pertinent; vidi, cognovi, interfui.",
+      "eng": "I congratulate you, my Balbus, and truly I congratulate you; nor am I so foolish as to want you to enjoy the usury of a false joy, only to be broken all at once, and to fall in such a way that nothing afterward could lift you back to evenness of mind. I have taken up your cause more openly than my own circumstances easily bore. For the very ill fortune of my crippled favour was being overcome by my love for you, and by my unbroken affection toward you --- an affection you have most assiduously cultivated. All the promises that bear on your return and your safety are confirmed, settled, ratified, beyond reach of doubt: I saw it, I came to know it, I was there for it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "etenim omnis Caesaris familiaris satis opportune habeo implicatos consuetudine et benevolentia sic ut, cum ab illo discesserint, me habeant proximum. hoc Pansa, Hirtius, Balbus, Oppius, Matius, Postumius plane ita faciunt ut me unice diligant. quod si mihi per me efficiendum fuisset, non me paeniteret pro ratione temporum ita esse molitum; sed nihil est a me inservitum temporis causa. veteres mihi necessitudines cum his omnibus intercedunt, quibuscum ego agere de te non destiti; principem tamen habuimus Pansam, tui studiosissimum, mei cupidum, qui valeret apud illum non minus auctoritate quam gratia. Cimber autem Tillius mihi plane satis fecit. valent tamen apud Caesarem non tam ambitiosae rogationes quam necessariae; quam quia Cimber habebat, plus valuit quam pro ullo alio valere potuisset.",
+      "eng": "For the truth is, I have all Caesar's familiars conveniently bound to me by long association and goodwill in such a way that, once they have left him, they have me as the next nearest. So it is with Pansa, Hirtius, Balbus, Oppius, Matius, Postumius --- they treat me singularly as their own. And if I had had to bring this about for myself, I should not be sorry to have worked at it as the times called. But I have not been time-serving with any of them. Old ties of mine go back with the whole set, and with these men I have never let off pleading your case. The leader of them was Pansa, your most devoted friend and the friend of mine, who weighs with Caesar by authority no less than by favour. Cimber Tillius, too, did me full justice. Yet with Caesar what carries weight is not so much ambitious petitions as urgent ones; and because Cimber's request was of that kind, it carried more weight than it could have for anyone else.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "diploma statim non est datum, quod mirifica est improbitas in quibusdam qui tulissent acerbius veniam tibi dari, quem illi appellant 'tubam belli civilis,' multaque ita dicunt quasi non gaudeant id bellum incidisse. qua re visum est occultius agendum neque ullo modo divulgandum de te iam esse perfectum; sed id erit perbrevi, nec dubito quin legente te has litteras confecta iam res futura sit. Pansa quidem mihi, gravis homo et certus, non solum confirmavit verum etiam recepit perceleriter se ablaturum diploma. mihi tamen placuit haec ad te perscribi; minus enim te firmum sermo Eppuleiae tuae lacrimaeque Ampiae declarabant quam significant tuae litterae, atque illae arbitrabantur, quoniam a te abessent ipsae, multo in graviore te cura futurum. qua re magno opere e re putavi angoris et doloris tui levandi causa pro certis ad te ea, quae essent certa, perscribi.",
+      "eng": "The warrant has not been issued at once. There is a remarkable nastiness in certain men who would have taken it sourly that pardon was granted you --- the man whom they call ``the trumpet of the civil war'' --- and who say many things in such a way as if they were not pleased that the war ever broke out. So it seemed best to act more quietly, and not to put it about in any way that everything in your case was already done; but it will be very soon, and I do not doubt that by the time you are reading this letter the business will already be settled. Pansa indeed, a serious and trustworthy man, not only assured me but actually pledged that he would have the warrant in his own hands very quickly. Yet I thought it best to write you all this in full; for the talk of your Eppuleia and the tears of Ampia showed you less stout-hearted than your letters suggest --- and they kept supposing that, since they themselves were away from you, you must be lying under a much heavier care. And so I judged it a great point, to relieve your anguish and your pain, to write to you for certain those things that are certain.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "scis me antea sic solitum esse scribere ad te, magis ut consolarer fortem virum atque sapientem quam ut exploratam spem salutis ostenderem nisi eam, quam ab ipsa re p., cum hic ardor restinctus esset, sperari oportere censerem. recordare tuas litteras, quibus et magnum animum mihi semper ostendisti et ad omnis casus ferendos constantem ac paratum. quod ego non mirabar, cum recordarer te et a primis temporibus. aetatis in re p. esse versatum et tuos magistratus in ipsa discrimina incidisse salutis fortunarumque communium et in hoc ipsum bellum esse ingressum, non solum ut victor beatus sed etiam ut, si ita accidisset, victus sapiens esses.",
+      "eng": "You know that earlier I was in the habit of writing to you rather to console a brave and a wise man than to hold out before him any tested hope of safety --- save that hope which I held one ought to hope for from the commonwealth itself, once this present fire had been put out. Recall your own letters, in which you have always shown me a great spirit, and one steady and prepared for the bearing of every kind of reverse. I did not wonder at it, when I called to mind that you had been engaged in the commonwealth from the earliest years of your life, that your magistracies had fallen at the very turning-points of our common safety and our common fortunes, and that you had entered upon this present war so as to be not only a happy victor but also, if so it should fall out, a wise loser.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "deinde , cum studium tuum consumas in virorum fortium factis memoriae prodendis, considerare debes nihil tibi esse committendum quam ob rem eorum, quos laudas, te non simillimum praebeas. sed haec oratio magis esset apta ad illa tempora quae iam effugisti; nunc vero tantum te para ad haec nobiscum ferenda, quibus ego si quam medicinam invenirem tibi quoque eandem traderem. sed est unum perfugium doctrina ac litterae, quibus semper usi sumus, quae secundis rebus delectationem modo habere videbantur, nunc vero etiam salutem. sed ut ad initium revertar, cave dubites quin omnia de salute ac reditu tuo perfecta sint.",
+      "eng": "And then --- since you spend your zeal upon handing down to memory the deeds of brave men --- you ought to consider that you have no licence to give any ground for not showing yourself most like to those you praise. But this kind of speech would have been more apt to the times you have already escaped. Now, you have only to prepare yourself to bear with us what we have to bear; for which, if I could find any medicine, I would hand that same medicine over to you. But there is one refuge: learning and letters, in which we have always engaged, which used to look like a means only of pleasure in prosperity, and now are even of preservation. But, to return to where I began: do not doubt that everything bearing on your safety and your return is done.",
+      "notes": null
+    }
+  ]
+}

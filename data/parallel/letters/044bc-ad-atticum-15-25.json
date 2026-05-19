@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-25",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.25",
+  "title_english": "Ad Atticum 15.25",
+  "date": "-0044-06-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de meo itinere variae sententiae; multi enim ad me. sed tu incumbe, quaeso, in eam curam. magna res est. an probas, si ad Kal. Ian. cogitamus? meus animus est aequus, sic tamen ut si nihil offensionis sit. † et tu etiam scire quo die Olympia cum mysteria scilicet. ut tu scires†, casus consilium nostri itineris iudicabit. dubitemus igitur. est enim hiberna navigatio odiosa, eoque ex te quaesieram mysteriorum diem. Brutum, ut scribis, visum iri a me puto. ego hinc volo pr. Kal.",
+      "eng": "On my journey, opinions vary; many come to me about it. But you, please, bend yourself to that concern. It is a great matter. Do you approve, if we are reckoning on the Kalends of January? My own mind is composed --- provided, however, that there be no setback. \\dag And so that you may also know on what day Olympia falls, with the mysteries, that is. So that you may know.\\dag\\ Chance will be the judge of our plan for the journey. So let us hold in doubt. A winter voyage is hateful, and that is the reason I had asked you for the date of the mysteries. Brutus, as you write, I expect I shall see. I want to leave here on the day before the Kalends.",
+      "notes": null
+    }
+  ]
+}

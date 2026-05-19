@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-39",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.39",
+  "title_english": "Ad Atticum 13.39",
+  "date": "-0045-08-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "o incredibilem vanitatem! ad patrem domo sibi carendum propter matrem, ad matrem plenam pietatis. hic autem iam languescit et ait sibi illum iure iratum.",
+      "eng": "What incredible falsity! To his father, that he has to be out of the house on account of his mother; to his mother, full of devotion. And now the fellow is already going soft, and says his father is rightly angry with him.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed utar tuo consilio; σκολιὰ enim tibi video placere. Romam, ut censes, veniam sed invitus; valde enim in scribendo haereo. Brutum inquis eadem. scilicet ; sed nisi hoc esset, res me ista non cogeret. nec enim inde venit unde mallem neque diu afuit neque ullam litteram ad me. sed tamen scire aveo qualis ei totius itineris summa fuerit. libros mihi de quibus ad te antea scripsi velim mittas et maxime Φαίδρου περὶ Θεῶν et .",
+      "eng": "But I will follow your advice; for I see you favour the crooked path [Greek: skolia]. To Rome, as you propose, I will come, though against my will: I am stuck fast in my writing. ``Brutus too,'' you say. Of course; but if it were not for this, the affair would not be forcing me. He has not come back from the place I would have wished, nor has he been away long, nor has he sent me so much as a single line. Still, I am eager to know how the whole tour has wound up for him. The books I wrote you about earlier --- please send them, and above all Phaedrus, On the Gods [Greek: Phaidrou peri Theon] and \\dag\\ \\dag.",
+      "notes": null
+    }
+  ]
+}

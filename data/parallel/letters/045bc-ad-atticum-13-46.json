@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-46",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.46",
+  "title_english": "Ad Atticum 13.46",
+  "date": "-0045-08-12",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Pollex quidem, ut dixerat ad Idus Sextilis, ita mihi Lanuvi pridie Idus praesto fuit, sed plane pollex, non index.",
+      "eng": "Pollex, just as he had said, on the Ides of Sextilis --- or rather, the day before the Ides at Lanuvium --- presented himself; but plainly a thumb (pollex), not a pointer (index).",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "cognosces igitur ex ipso. Balbum conveni—Lepta enim de sua munerum curatione laborans me ad eum perduxerat—in eo autem Lanuvino quod Lepido tradidit. ex eo hoc primum, Paulo ante acceperam eas litteras in quibus magno opere confirmat ante ludos Romanos. legi epistulam. multa de meo Catone, quo saepissime legendo se dicit copiosiorem factum, Bruti Catone lecto se sibi visum disertum.",
+      "eng": "So you will learn it from the man himself. I met Balbus --- Lepta, in distress over his management of the games, had taken me to him --- at his Lanuvine place, the one he handed over to Lepidus. There first of all this: a little earlier I had received the letter in which he confirms strenuously that he will be back before the Roman Games. I read the letter through: much in it about my Cato, which he says he has been made more copious by reading over and over; that after reading Brutus's Cato he had thought himself eloquent.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "tum ex eo cognovi cretionem Cluvi Vestorium neglegentem!) liberam cretionem testibus praesentibus sexaginta diebus. metuebam ne ille arcessendus esset. nunc mittendum est ut meo iussu cernat. idem igitur Pollex. etiam de hortis Cluvianis egi cum Balbo. nil liberalius. se enim statim ad Caesarem scripturum, Cluvium autem a T. Hordeonio legare et Terentiae HS iↃↃↃ et sepulcro multisque rebus, nihil a nobis. subaccusa , quaeso, Vestorium. quid minus probandum quam Plotium unguentarium per suos pueros omnia tanto ante Balbo, illum mi ne per meos quidem? de Cossinio doleo; dilexi hominem.",
+      "eng": "Then from him I learned about the entry on Cluvius's inheritance (Vestorius is being negligent!): formal acceptance, with witnesses present, within sixty days. I had been afraid we should have to summon him. As it is, he must be sent so as to enter the inheritance at my instruction. The same task, then, falls to Pollex. About the Cluvian gardens too I dealt with Balbus. Nothing could have been more obliging. He will write to Caesar at once, he says, and that Cluvius leaves a legacy from T. Hordeonius and to Terentia 50,000 sesterces, and for the tomb and many other items, but nothing from us. Please reprove Vestorius a little. What could be less acceptable than that Plotius the perfumer, through his own slaves, should have got everything to Balbus so long in advance, while the man here gets none of it through to me even through my own? About Cossinius I am sorry; I loved the man.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Quinto delegabo si quid aeri meo alieno superabit et emptionibus ex quibus mi etiam aes alienum faciendum puto. de domo Arpini nil scio. Vestorium nil est quod accuses. iam enim obsignata hac epistula noctu tabellarius noster venit et ab eo litteras diligenter scriptas attulit et exemplum testamenti.",
+      "eng": "To Quintus I shall consign anything left over after my own debt and after the purchases for which I think I shall have to take on yet more debt. About the house at Arpinum I know nothing. There is no reason to find fault with Vestorius. For now, when this letter had already been sealed, our courier arrived by night, and brought from him a carefully written letter and a copy of the will.",
+      "notes": null
+    }
+  ]
+}

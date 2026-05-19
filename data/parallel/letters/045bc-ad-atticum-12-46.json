@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-46",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.46",
+  "title_english": "Ad Atticum 12.46",
+  "date": "-0045-05-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "vincam , opinor, animum et Lanuvio pergam in Tusculanum. aut enim mihi in perpetuum fundo illo carendum est (nam dolor idem manebit, tantum modo occultius) aut nescio quid intersit utrum illuc nunc veniam an ad decem annos. neque enim ista maior admonitio quam quibus adsidue conficior et dies et noctes. quid ergo? inquies, nihil litterae? in hac quidem re vereor ne etiam contra; nam essem fortasse durior. exculto enim animo nihil agreste, nihil inhumanum est.",
+      "eng": "I shall master my mind, I think, and go on from Lanuvium to the Tusculanum. For either I must do without that estate forever (since the same grief will remain, only more concealed) or I cannot see what difference it makes whether I come there now or ten years from now. Indeed it will be no greater reminder than the things by which I am constantly worn down day and night. What then? you will say --- do letters do nothing? In this matter, at any rate, I am afraid they may even do the opposite; for perhaps I should be the hardier without them. To a cultivated mind nothing is uncouth, nothing inhuman.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu igitur, ut scripsisti, nec id incommodo tuo. vel binae enim poterunt litterae. occurram etiam si necesse erit. ergo id quidem ut poteris.",
+      "eng": "You, then, as you wrote --- but not at your own inconvenience. Even two letters will do. I shall come to meet you too, if it is necessary. So manage that as you can.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.8",
+  "title_english": "Ad Atticum 13.8",
+  "date": "-0045-06-08",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "plane nihil erat quod ad te scriberem; modo enim discesseras et paulo post triplicis remiseras. velim cures fasciculum ad Vestorium deferendum et aliquoi des negotium qui quaerat. Q. Staberi fundus num quis in Pompeiano Nolanove venalis sit. epitomen Bruti Caelianorum velim mihi mittas et a Philoxeno Παναιτίου περὶ Προνοίασ . te Idibus videbo cum tuis.",
+      "eng": "Plainly there was nothing for me to write to you about; you had only just left, and a little later you had sent back the triple-tablets. Please see to it that the packet is delivered to Vestorius, and put someone on the job of finding out whether Q.~Staberius' estate, or any other, is up for sale in the territory of Pompeii or Nola. Send me, please, Brutus' epitome of the Caelian annals, and from Philoxenus Panaetius On Providence [Greek: Panaitiou peri Pronoias]. I shall see you on the Ides with your people.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-03",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.3",
+  "title_english": "Ad Atticum 15.3",
+  "date": "-0044-05-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "undecimo Kal. accepi in Arpinati duas epistulas tuas, quibus duabus meis respondisti. una erat xv Kal., altera xii data. ad superiorem igitur prius. accurres in Tusculanum, ut scribis; quo me vi Kal. venturum arbitrabar. quod scribis parendum victoribus, non mihi quidem cui sunt multa potiora. nam illa quae recordaris Lentulo et Marcello consulibus acta in aede Apollinis, nec causa eadem est nec simile tempus, praesertim cum Marcellum scribas aliosque discedere. erit igitur nobis coram odorandum et constituendum tutone Romae esse possimus. novi conventus habitatores sane movent; in magnis enim versamur angustiis. sed sunt ista parvi; quin et maiora contemnimus. Calvae testamentum cognovi, hominis turpis ac sordidi; tabula Demonici quod tibi curae est gratum. de †malo† scripsi iam pridem ad Dolabellam accuratissime, modo redditae litterae sint. eius causa et cupio et debeo.",
+      "eng": "On the eleventh before the Kalends I received in the Arpinate two letters from you, in which you replied to two of mine. One was dated the fifteenth, the other the twelfth before the Kalends. To the earlier, then, first. You will hurry to the Tusculan villa, as you write; where I had thought I should arrive on the sixth before the Kalends. As to your saying that one must obey the victors --- not I, at any rate, who have many things weightier. For those proceedings you call to mind, conducted in the temple of Apollo in the consulship of Lentulus and Marcellus, the case is not the same nor is the season comparable, especially when you write that Marcellus and others are taking themselves off. We must, then, scent it out face to face and settle whether we can be safely at Rome. The settlers in the new colony certainly do move me; for we are turning amid great straits. But those things are small; indeed we hold even greater in contempt. I have learned the will of Calva, a base and sordid man. The will-tablet of Demonicus, which you care for, I am grateful for. About \\dots\\ I have already long since written to Dolabella in the fullest detail, provided the letter has been delivered. On his account I both wish and owe it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "venio ad propiorem. cognovi de Alexione quae desiderabam. Hirtius est tuus. Antonio, †quoniam† est, volo peius esse. de Quinto filio, ut scribis, †A. M. C.† de patre coram agemus. Brutum omni re qua possum cupio iuvare. cuius de oratiuncula idem te quod me sentire video. sed parum intellego quid me velis scribere quasi a Bruto habita oratione, cum ille ediderit. qui tandem convenit? an sic ut in tyrannum iure optimo caesum? multa dicentur, multa scribentur a nobis sed alio modo et tempore. de sella Caesaris bene tribuni; praeclaros etiam xiv ordines! Brutum apud me fuisse gaudeo, modo et libenter fuerit et sat diu.",
+      "eng": "I come to the nearer letter. About Alexio I have learned what I wanted. Hirtius is on your side. As for Antony, since he is what he is, I want it the worse for him. About young Quintus, as you write, \\dots; about the father we shall deal face to face. Brutus I desire to help with every means I can. As for his little speech, I see that you feel about it as I do. But I scarcely understand what you want me to write --- as though it were a speech delivered by Brutus, when he himself has published it. How, after all, does that fit together? Or in the way I should write of a tyrant most justly slain? Many things will be said, many written by me, but in another manner and at another time. About Caesar's chair --- well done by the tribunes; splendid too about the fourteen rows! That Brutus was with me, I am glad --- provided he was there willingly and long enough.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-21",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.21",
+  "title_english": "Ad Atticum 13.21",
+  "date": "-0045-07-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ad Hirtium dederam epistulam sane grandem quam scripseram proxime in Tusculano. huic quam tu mihi misisti rescribam alias.",
+      "eng": "I had given to Hirtius a letter of considerable size which I had written most recently at the Tusculan villa. To the one you have just sent me I shall reply another time.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nunc alia malo. quid possum de Torquato, nisi aliquid a Dolabella? quod simul ac, continuo scietis. exspectabam hodie aut summum cras ab eo tabellarios; qui simul ac venerint, mittentur ad te. a Quinto exspecto. proficiscens enim e Tusculano viii Kal., ut scis, misi ad eum tabellarios.",
+      "eng": "Now I prefer other business. What can I say about Torquatus until I get something from Dolabella? As soon as I do, you shall both know straight away. I was expecting couriers from him today or at the latest tomorrow; as soon as they arrive, they shall be sent on to you. I am waiting on Quintus. For when I set out from the Tusculan villa on the eighth day before the Kalends, as you know, I dispatched couriers to him.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "nunc ad rem ut redeam, inhibere illud tuum, quod valde mihi adriserat, vehementer displicet. est enim verbum totum nauticum. quamquam id quidem sciebam sed arbitrabar sustineri remos cum inhibere essent remiges iussi. id non esse eius modi didici heri cum ad villam nostram navis appelleretur. non enim sustinent sed alio modo remigant. id ab ἐποχῇ remotissimum est. qua re facies ut ita sit in libro quem ad modum fuit. dices hoc idem Varroni, si forte mutavit. nec est melius quicquam quam ut Lucilius, sustineas currum ut bonus saepe agitator equosque. semperque Carneades προβολὴν pugilis et retentionem aurigae similem facit ἐποχῇ . inhibitio autem remigum motum habet et vehementiorem quidem remigationis navem convertentis ad puppim. vides quanto haec diligentius curem quam aut de rumore aut de Pollione.",
+      "eng": "Now, to come back to the matter at hand: that inhibere of yours which had so taken my fancy is something I now thoroughly dislike. For the word is altogether nautical. I knew that much, of course, but I had supposed that the oars were held steady when the rowers were ordered inhibere. That it is not so I learned yesterday, when a ship was being put in at our villa. They do not hold the oars steady --- they row, but in a different fashion. That is the very opposite of epoch\\=e [Greek: epoch\\=ei]. So please see to it that in the book it stands as it did before. You will say the same to Varro, in case he has happened to make the change. And nothing is better than Lucilius's line: sustineas currum ut bonus saepe agitator equosque --- ``hold back the chariot and the horses, as a good driver often does.'' And Carneades always compares the boxer's guard [Greek: probol\\=en] and the charioteer's reining-in to epoch\\=e [Greek: epoch\\=ei]. The rowers' inhibitio, on the other hand, involves motion --- and indeed a more vigorous motion of rowing, that turns the ship toward its stern. You see how much more carefully I attend to this than to the gossip or to Pollio.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de Pansa etiam si quid certius (credo enim palam factum esse), de Critonio, si quid †esset certe ne† de Metello et Balbino.",
+      "eng": "About Pansa too, if you have anything more definite (for I take it the thing has been made public); about Critonius, if there is anything \\dag{}esset certe ne\\dag{} about Metellus and Balbinus.",
+      "notes": null
+    }
+  ]
+}

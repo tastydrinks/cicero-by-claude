@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-07",
+  "category": "letters",
+  "title_latin": "Ad Familiares 4.7",
+  "title_english": "Ad Familiares 4.7",
+  "date": "-0046-08-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi eo te adhuc consilio usum intellego, ut id reprehendere non audeam, .non quin ab eo ipse dissentiam, sed quod ea te sapientia esse iudicem, ut meum consilium non anteponam tuo, tamen et amicitiae nostrae vetustas et tua summa erga me benevolentia, quae mihi iam a pueritia tua cognita est, me hortata est ut ea scriberem ad te, quae et saluti tuae conducere arbitrarer et non aliena esse ducerem a dignitate.",
+      "eng": "Though I see that the course you have followed thus far is one I do not presume to fault --- not that I would not myself dissent from it, but because I judge you to be of such wisdom that I will not set my judgement above your own --- still, the long-standing of our friendship, and that warm goodwill you have shown me from your boyhood onward, have urged me to write to you what I think will conduce to your welfare and what I judge not foreign to your standing.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego eum te esse, qui horum malorum initia multo ante videris, consulatum magnificentissime atque optime gesseris, praeclare memini; sed idem etiam illa vidi, neque te consilium civilis belli ita gerendi nec copias Cn. Pompei nec genus exercitus probare semperque summe diffidere; qua in sententia me quoque fuisse memoria tenere te arbitror. itaque neque tu multum interfuisti rebus gerendis et ego id semper egi, ne interessem ; non enim iis rebus pugna bamus, quibus valere poteramus, consilio, auctoritate, causa, quae erant in nobis superiora, sed lacertis et viribus, quibus pares non eramus. victi sumus igitur aut, si vinci dignitas non potest, fracti certe et abiecti. in quo tuum consilium nemo potest non maxime laudare, quod cum spe vincendi simul abiecisti certandi etiam cupiditatem ostendistique sapientem et bonum civem initia belli civilis invitum suscipere, extrema libenter non persequi.",
+      "eng": "I remember vividly that you were the man who foresaw the beginnings of these present miseries long in advance, and who held the consulship with the greatest distinction and the greatest worth. But I saw this much, too: that you did not approve the plan by which the civil war was being conducted, nor the forces of Gnaeus Pompeius, nor the character of his army, and that you mistrusted the whole affair to the utmost. I think you remember that I held that same view. And so you took little part in the campaign, and I made it my business throughout to take no part at all. For we were not fighting with the weapons in which we had the advantage --- counsel, authority, the justice of our cause, in which we were the stronger --- but with sinew and force, in which we were no match. We were beaten, then; or, if standing cannot be beaten, we were broken at any rate, and laid low. In all this no one can fail to praise, in the highest terms, the course you took: that you cast off, together with the hope of victory, even the appetite for further struggle, and showed that the wise and good citizen takes up the opening of a civil war unwillingly, and does not gladly pursue its end.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "qui non idem consilium quod tu secuti sunt, eos video in duo genera esse distractos ; aut enim renovare bellum conati sunt, ii qui se in Africam contulerunt, aut quem ad modum nos victori sese crediderunt. medium quoddam tuum consilium fuit qui hoc fortasse humilis animi duceres, illud pertinacis. fateor a plerisque vel dicam ab omnibus sapiens tuum consilium, a multis etiam magni ac fortis animi iudicatum ; sed habet ista ratio, ut mihi quidem videtur, quendam modum, praesertim cum nihil tibi deesse arbitrer ad tuas fortunas omnis obtinendas praeter voluntatem. sic enim intellexi, nihil aliud esse quod dubitationem adferret ei, penes quem est potestas, nisi quod vereretur ne tu illud beneficium omnino non putares. de quo quid sentiam nihil attinet dicere, cum appareat, ipse quid fecerim.",
+      "eng": "Those who did not follow the course you did, I see have been pulled apart into two camps. Either they have tried to revive the war --- these are the men who have taken themselves to Africa --- or, like me, they have entrusted themselves to the victor. Yours has been a middle course, which you may perhaps think the others lowness of spirit on the one hand, and stubbornness on the other. I admit that by most men --- I would even say by all --- your course has been judged wise; by many, indeed, the act of a great and brave spirit. But this reasoning, as it seems to me at least, has a limit; the more so since I believe nothing is wanting to you for the recovery of your whole estate but the will to have it back. For I have understood this clearly: nothing else makes him hesitate --- the man in whose hands the power lies --- except his fear that you would not count it as a benefit at all. What I think on that point there is no need to say, since my own actions make it plain.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "sed tamen, si iam ita constituisses, ut abesse perpetuo malles quam ea, quae nolles, videre, tamen id cogitare deberes, ubicumque esses, te fore in eius ipsius, quem fugeres, potestate. qui si facile passurus esset te carentem patria et fortunis tuis quiete et libere vivere, cogitandum tibi tamen esset Romaene et domi tuae, cuicuimodi res esset, an Mitylenis aut Rhodi malles vivere. sed cum ita late pateat eius potestas, quem veremur, ut terrarum orbem complexa sit, nonne mavis sine periculo tuae domi esse quam cum periculo alienae? equidem , etiam si oppetenda mors esset, domi atque in patria mallem quam in externis atque alienis locis. hoc idem omnes, qui te diligunt, sentiunt ; quorum est magna pro tuis maximis clarissimisque virtutibus multitudo.",
+      "eng": "But even so: even had you so settled the matter that you would rather be away forever than see the things you would not wish to see, still you ought to consider this --- that wherever you are, you will be in the power of the very man you flee. If he were going to let you live, deprived of country and fortune, in quiet and freedom, you ought still to weigh whether you would rather live at Rome and in your own home, whatever its state, or at Mytilene or at Rhodes. But since the power of the man we fear extends so widely as to embrace the whole globe, would you not rather be without danger at your own house than with danger at another's? For my part, even if death had to be met, I would meet it at home and in my own country rather than in places foreign and not my own. All who love you feel the same; and the number of those, in proportion to your great and shining virtues, is great.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "habemus etiam rationem rei familiaris tuae, quam dissipari nolumus. nam , etsi nullam potest accipere iniuriam, quae futura perpetua sit, propterea quod neque is, qui tenet rem publicam, patietur neque ipsa res publica, tamen impetum praedonum in tuas fortunas fieri nolo ; ii autem qui essent, auderem scribere, nisi te intellegere confiderem.",
+      "eng": "We have in mind, too, your household estate, which we do not wish to see scattered. For though it can take no injury that will be permanent --- since neither he who holds the state will allow it, nor will the state itself --- still I do not wish a raid by plunderers to be made upon your fortunes. Who these would be I would venture to write, did I not trust you to understand.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "hic te unius sollicitudines, unius etiam multae et assiduae lacrimae, C. Marcelli, fratris optimi, deprecantur. nos cura et dolore proximi sumus, precibus tardiores, quod ius adeundi, cum ipsi deprecatione eguerimus, non habemus ; gratia tantum possumus quantum victi ; sed tamen consilio, studio Marcello non desumus. A tuis reliquis non adhibemur ; ad omnia parati sumus.",
+      "eng": "Here the anxieties of one man, the many and constant tears too of one man, plead for you: of Gaius Marcellus, your splendid brother. In care and in pain we are next to him; in pleading the slower, because we have no right of approach, having needed entreaty on our own behalf; in influence we can do what defeated men can do; but in counsel, in zeal, we do not fail Marcellus. By the rest of your kin we are not called on; for everything we are ready.",
+      "notes": null
+    }
+  ]
+}

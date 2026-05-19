@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-47",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.47",
+  "title_english": "Ad Atticum 12.47",
+  "date": "-0045-05-16",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de Mustela, ut scribis, etsi magnum opus est. eo magis delabor ad Clodiam. quamquam in utroque Faberianum nomen explorandum est. de quo nihil nocuerit si aliquid cum Balbo eris locutus et quidem, ut res est, emere nos velle nec posse sine isto nomine nec audere re incerta. sed quando Clodia Romae futura est et quanti rem aestimas? eo prorsus specto, non quin illud malim sed et magna res est et difficile certamen cum cupido, cum locuplete, cum herede. etsi de cupiditate nemini concedam; ceteris rebus inferiores sumus. sed haec coram.",
+      "eng": "About Mustela, as you write --- though it is a large business. I am leaning all the more towards Clodia. Yet in either case the Faberian bond has to be looked into. It would do no harm if you had a word with Balbus about it, and indeed (as is the truth) said that we want to buy, that we cannot without that bond, and that we dare not while the matter is uncertain. But when is Clodia going to be in Rome, and at what do you estimate the property? My eye is on her side, not that I would not rather have the other --- but it is a large business, too, and a hard contest, against a covetous person, a wealthy one, an heir. Though in covetousness I shall yield to no one; in the rest we are the inferior. But more of this face to face.",
+      "notes": null
+    }
+  ]
+}

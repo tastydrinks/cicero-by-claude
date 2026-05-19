@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-28",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.28",
+  "title_english": "Ad Atticum 12.28",
+  "date": "-0045-03-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de Silio nilo plura cognovi ex praesente Sicca quam ex litteris eius. scripserat enim diligenter. si igitur tu illum conveneris, scribes ad me si quid videbitur. de quo putas ad me missum esse, sit missum necne nescio; dictum quidem mihi certe nihil est. tu igitur, ut coepisti, et si quid ita conficies, quod equidem non arbitror fieri posse, ut illi probetur, Ciceronem, si tibi placebit, adhibebis. eius aliquid interest videri illius causa voluisse, mea quidem nihil nisi quod tu scis, quod ego magni aestimo.",
+      "eng": "About Silius I learned nothing more from Sicca in person than from his letter; he had written carefully. So if you meet with the man yourself, write to me if anything seems worth saying. As to what you think was reported to me --- whether it was reported or not I do not know; certainly nothing was said to me. So you, just as you have begun, and if you do bring the thing through --- which for my part I do not think possible --- so as to satisfy him, you will, if you think fit, bring Cicero in too. It is of some interest to him that he should be seen to have acted for the man's sake; for me, of no interest at all, except in the one thing you know about, which I do reckon at much.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod me ad meam consuetudinem revocas, fuit meum quidem iam pridem rem publicam lugere, quod faciebam, sed mitius; erat enim ubi acquiescerem. nunc plane nec ego victum nec vitam illam colere possum nec in ea re quid aliis videatur mihi puto curandum; mea mihi conscientia pluris est quam omnium sermo. quod me ipse per litteras consolatus sum, non paenitet me quantum profecerim. maerorem minui, dolorem nec potui nec, si possem, vellem.",
+      "eng": "As to your recalling me to my old way of life --- it had been mine, long enough, to mourn for the republic, and so I was doing, but more mildly; for there was a place where I could find rest. Now I plainly cannot keep up either that mode of living or that life, and I do not think I need worry, in this matter, what others may think; my own conscience weighs more with me than what anyone says. As for the consolation I administered to myself in writing, I do not regret how far I have got with it. I have lessened my grief; my pain I neither could lessen, nor, if I could, would I wish to.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de Triario bene interpretaris voluntatem meam. tu vero nihil nisi ut illi volent. amo illum mortuum, tutor sum liberis, totam domum diligo. de Castriciano negotio, si Castricius pro mancipiis pecuniam accipere volet eamque †ei† solvi ut nunc solvitur, certe nihil est commodius. sin autem ita actum est ut ipsa mancipia abduceret, non mihi videtur esse aequum (rogas enim me ut tibi scribam quid mihi videatur); nolo enim negoti Quintum fratrem quicquam habere; quod videor mihi intellexisse tibi videri idem. Publilius, si aequinoctium exspectat, ut scribis Aledium dicere, navigaturus videtur. mihi autem dixerat per Siciliam. utrum et quando velim scire. et velim aliquando, cum erit tuum commodum, Lentulum puerum visas eique de mancipiis quae tibi videbitur attribuas. Piliae, Atticae salutem.",
+      "eng": "About Triarius you read my wish rightly. Anything at all, so long as his people want it. I love him in his death, I am guardian to his children, I cherish the whole house. On the Castricius business: if Castricius is willing to take money for the slaves, and to have it paid \\dag to him\\dag\\ as it is now being paid, plainly nothing is more convenient. But if it has been arranged for him to take the slaves themselves away, that does not seem to me equitable (since you ask me to write you what I think); for I do not want my brother Quintus to have any of the business in hand --- and I think I have understood that the same thing seems so to you. Publilius, if he is waiting for the equinox, as you write Aledius says he is, looks to be sailing. But he had told me he was going by way of Sicily. I should like to know which, and when. And I should like you, when it is convenient, to look in some time on the boy Lentulus, and to assign him whichever of the slaves you think fit. My greetings to Pilia and Attica.",
+      "notes": null
+    }
+  ]
+}

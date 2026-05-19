@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-16-09",
+  "category": "letters",
+  "title_latin": "Ad Atticum 16.9",
+  "title_english": "Ad Atticum 16.9",
+  "date": "-0044-11-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "binae uno die mihi litterae ab Octaviano, nunc quidem ut Romam statim veniam; velle se rem agere per senatum. cui ego non posse senatum ante K. Ianuar., quod quidem ita credo. ille autem addit consilio tuo. quid multa? ille urget, ego autem σκήπτομαι . non confido aetati, ignoro quo animo. nil sine Pansa tuo volo. vereor ne valeat Antonius nec a mari discedere libet et metuo ne quae ἀριστεία me absente. Varroni quidem displicet consilium pueri, mihi non. si firmas copias habet, Brutum habere potest, et rem gerit palam. centuriat Capuae, dinumerat. iam iamque video bellum. ad haec rescribe. tabellarium meum Kalend. Roma profectum sine tuis litteris miror.",
+      "eng": "Two letters in one day from Octavian, now indeed urging that I come to Rome at once: he wants to handle the matter through the Senate. To which I say that the Senate cannot meet before the Kalends of January --- as in fact I believe. But he adds, ``on your counsel.'' To make it short: he presses, I [Greek: skēptomai] --- I plead an excuse. I have no confidence in his youth, I do not know in what spirit he is acting. I want nothing done without your Pansa. I fear that Antony may prove too strong, and I am loath to leave the sea, and I am afraid of some [Greek: aristeia] --- some heroic deed --- being done in my absence. Varro indeed disapproves of the boy's plan; I do not. If he has strong forces, he can have Brutus too --- and he is conducting his affairs in the open. He is enrolling at Capua, he is counting out the money. Already, already I see war. Reply to this. I am surprised that my courier set out from Rome on the Kalends without a letter from you.",
+      "notes": null
+    }
+  ]
+}

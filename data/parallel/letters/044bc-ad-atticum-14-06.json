@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-06",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.6",
+  "title_english": "Ad Atticum 14.6",
+  "date": "-0044-04-12",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "pridie Idus Fundis accepi tuas litteras cenans. primum igitur melius esse, deinde meliora te nuntiare. odiosa illa enim fuerant, legiones venire. nam de Octavio susque deque. exspecto quid de Mario; quem quidem ego sublatum rebar a Caesare. Antonio conloquium cum heroibus nostris pro re nata non incommodum. sed tamen adhuc me nihil delectat praeter Idus Martias. nam quoniam Fundis sum cum Ligure nostro, discrucior Sextili fundum a verberone Curtilio possideri.",
+      "eng": "On the day before the Ides, at Fundi, your letter reached me at dinner. First, that you are better; next, that the news you bring is better. The earlier word had been hateful --- that the legions are coming. As for Octavius, it makes no odds. I am waiting to hear about Marius; I had supposed Caesar disposed of him. Antony's conference with our heroes, given the circumstances, is not unwelcome. Still, so far nothing pleases me except the Ides of March. For while I am at Fundi with our friend Ligus, it torments me that Sextilius's estate is in the hands of that scoundrel Curtilius.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod cum dico, de toto genere dico. quid enim miserius quam ea nos tueri propter quae illum oderamus? etiamne consules et tribunos pl. in biennium quos ille voluit? nullo modo reperio quem ad modum possim πολιτεύεσθαι . nihil enim tam σόλοικον quam tyrannoctonos in caelo esse, tyranni facta defendi. sed vides consules, vides reliquos magistratus, si isti magistratus, vides languorem bonorum. exsultant laetitia in municipiis. dici enim non potest quanto opere gaudeant, ut ad me concurrant, ut audire cupiant mea verba de re p. nec ulla interea decreta. sic enim πεπολιτεύμεθα ut victos metueremus. haec ad te scripsi apposita secunda mensa; plura et πολιτικώτερα postea, et tu quid agas quidque agatur.",
+      "eng": "When I say that, I mean it of the whole class of cases. What is more wretched than to find ourselves defending the very things on account of which we hated him? Even the consuls and tribunes of the plebs he chose for the next two years? I can find no way at all to engage in [Greek: politeuesthai], to play the citizen. For nothing is more [Greek: soloikon], more solecism, than that tyrannicides should be in heaven and the tyrant's acts defended. But you see the consuls, you see the rest of the magistrates --- if those are magistrates --- you see the languor of the loyalists. In the country towns they leap with joy. It is past saying how glad the people are, how they pour out to me, how eager they are to hear my words on the state. Yet meanwhile not one decree. So far have we played the citizen [Greek: pepoliteumetha] that we go in fear of the beaten. I have written this to you with the second course set out; more, and more [Greek: politikotera], more political, later --- and you, what you are doing, and what is being done.",
+      "notes": null
+    }
+  ]
+}

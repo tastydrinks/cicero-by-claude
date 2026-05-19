@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-07",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 3.7",
+  "title_english": "Ad Quintum Fratrem 3.7",
+  "date": "-0054-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Romae et maxime †et Appia ad Martis mira luvies †. Crassipedis ambulatio ablata, horti, tabernae plurimae ; magna vis aquae usque ad piscinam publicam. viget illud Homeri : ἤματ' ὀπωρινῷ, ὅτε λαβρότατον χέει ὕδωρ Ζεύς, ὅτε δή ῤ' ἄνδρεσσι κοτεσσάμενοσ χαλεπήνῃ. cadit enim in absolutionem Gabini : οἳ βίῃ εἰν ἀγορῇ σκολιὰσ κρίνωσι θέμιστας, ἐκ δὲ δίκην ἐλάσωσι, θεῶν ὄπιν οὐκ ἀλέγοντες.",
+      "eng": "At Rome, and most of all on the Appian Way by the temple of Mars, a wonderful flood. Crassipes's promenade carried off, the gardens, very many shops; a great force of water all the way up to the Piscina Publica. That line of Homer is in force: [Greek: h\\=emat' op\\=orin\\=oi, hote labrotaton chee\\=i hyd\\=or Zeus, hote d\\=e rh' andressi kotessamenos chalep\\=en\\=ei] --- ``on the autumn day when Zeus pours down his most furious water, when in his wrath he is hard on men.'' For it fits the acquittal of Gabinius: [Greek: hoi bi\\=ei ein agor\\=ei skolias krin\\=osi themistas, ek de dik\\=en elas\\=osi, the\\=on opin ouk alegontes] --- ``those who in the assembly judge crooked dooms by violence and drive out justice, regarding not the vengeance of the gods.''",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed haec non curare decrevi. Romam cum venero, quae perspexero scribam ad te et maxime de dictatura, et ad Labienum et ad ligurium litteras dabo. hanc scripsi ante lucem ad lychnuchum ligneolum, qui mihi erat periucundus, quod eum te aiebant, cum esses Sami, curasse faciendum. vale , mi suavissime et optime frater.",
+      "eng": "But these things I have resolved not to care about. When I have come to Rome, what I have looked into I will write to you, and most of all about the dictatorship; and I will give letters to Labienus and to Ligurius. This I have written before light by a little wooden lampstand, which was very pleasing to me because they were saying you had had it made when you were on Samos. Farewell, my sweetest and best brother.",
+      "notes": null
+    }
+  ]
+}

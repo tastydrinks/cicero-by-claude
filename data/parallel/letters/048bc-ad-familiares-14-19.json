@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-19",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.19",
+  "title_english": "Ad Familiares 14.19",
+  "date": "-0048-11-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "in maximis meis doloribus excruciat me valetudo Tulliae nostrae, de qua nihil est quod ad te plura scribam ; tibi enim aeque magnae curae esse certo scio. quod me propius vultis accedere, video ita esse faciendum et iam ante fecissem, sed me multa impediverunt, quae ne nunc quidem expedita sunt. sed a Pomponio exspecto litteras ; quas ad me quam primum perferendas cures velim. da operam ut valeas.",
+      "eng": "In the midst of my greatest griefs, our Tullia's health torments me --- about which there is no reason for me to write more to you, since I know for certain it is just as great a care to you. That you wish me to come nearer to you, I see I must do, and would have done before now, except that many things have stood in the way, things which are not even now cleared up. But I am awaiting a letter from Pomponius; please see that it is brought to me as soon as possible. Take pains to keep well.",
+      "notes": null
+    }
+  ]
+}

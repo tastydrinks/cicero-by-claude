@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-22",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.22",
+  "title_english": "Ad Atticum 12.22",
+  "date": "-0045-03-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de Terentia quod mihi omne onus imponis, non cognosco tuam in me indulgentiam. ista enim sunt ipsa vulnera quae non possum tractare sine maximo gemitu. moderare igitur, quaeso, ut potes. neque enim a te plus quam potes postulo.",
+      "eng": "As to Terentia: in laying the whole burden on me you do not show the indulgence toward me I know. These are the very wounds I cannot handle without the deepest groan. Temper it, then, I beg, so far as you can. I ask of you no more than you can do.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "potes autem quid veri sit perspicere tu unus. de Rutilia quoniam videris dubitare, scribes ad me cum scies sed quam primum, et num Clodia D. Bruto consulari filio suo mortuo vixerit. id de Marcello aut certe de Postumia sciri potest, illud autem de M. Cotta aut de Syro aut de Satyro.",
+      "eng": "And you alone can see clearly what the truth of the matter is. About Rutilia, since you seem to be in doubt, write to me as soon as you know --- as soon as possible --- and also whether Clodia outlived her son, the ex-consul Decimus Brutus. The one can be ascertained from Marcellus, or certainly from Postumia; the other from Marcus Cotta, or from Syrus, or from Satyrus.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de hortis etiam atque etiam rogo. omnibus meis eorumque quos scio mihi non defuturos facultatibus (sed potero meis) enitendum mihi est. sunt etiam quae vendere facile possim. sed ut non vendam eique usuram pendam a quo emero non plus annum, possum adsequi quod volo, si tu me adiuvas. paratissimi sunt Drusi; cupit enim vendere. proximos puto Lamiae; sed abest. tu tamen, si quid potes, odorare. ne Silius quidem quicquam utitur et iis† usuris facillime sustentabitur. habe tuum negotium nec quid res mea familiaris postulet quam ego non curo sed quid velim et cur velim existima.",
+      "eng": "About the gardens, I beg you again and again. I must strain after them with all my own resources and those of the men I know will not fail me --- though my own will do. There are even things I could sell easily. But if I do not sell, and pay interest to the seller for no more than a year, I can manage what I want, if you help me. The readiest are Drusus's gardens; he is eager to sell. Lamia's, I think, come next; but he is away. Even so, sniff out what you can. Silius does not even use his, and he will easily be carried on those† interest payments. Treat the business as your own, and weigh not what my finances demand --- of which I take no care --- but what I want and why I want it.",
+      "notes": null
+    }
+  ]
+}

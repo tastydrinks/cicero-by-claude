@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-21",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.21",
+  "title_english": "Ad Familiares 6.21",
+  "date": "-0045-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi cum haec ad te scribebam, aut appropinquare exitus huius calamitosissimi belli aut iam aliquid actum et confectum videbatur, tamen cotidie commemorabam te unum in tanto exercitu mihi fuisse adsensorem et me tibi, solosque nos vidisse quantum esset in eo bello mali, in quo spe pacis exclusa ipsa victoria futura esset acerbissima, quae aut interitum adlatura esset, si victus esses, aut si vicisses, servitutem. itaque ego, quem tum fortes illi viri et sapientes, Domitii et Lentuli, timidum esse dicebant (eram plane; timebam enim ne evenirent ea quae acciderunt), idem nunc nihil timeo et ad omnem eventum paratus sum. Cum aliquid videbatur caveri posse, tum id neglegi dolebam; nunc vero eversis omnibus rebus, cum consilio profici nihil possit, una ratio videtur, quicquid evenerit, ferre moderate, praesertim cum omnium rerum mors sit extremum et mihi sim conscius me, quoad licuerit, dignitati rei p. consuluisse et hac amissa salutem retinere voluisse.",
+      "eng": "Although, as I was writing this to you, it seemed that either the end of this most disastrous war was at hand or something had already been done and finished, still I have been reminding myself daily that you alone in that whole army agreed with me, and I with you, and that we two alone saw how much evil there was in that war --- in which, with all hope of peace shut out, the very victory was bound to be of the bitterest kind: destruction it would bring, if you were defeated; if you conquered, slavery. And so I, whom in those days those brave men of wisdom, the Domitii and Lentuli, used to call timid (I was, plainly: I feared that the very things would come about that have come about), I, the same man, now fear nothing and am ready for any outcome. While it still seemed something could be guarded against, then it grieved me to see it neglected; but now, with everything overthrown, when no profit can come of policy, one course alone seems left --- to bear with moderation whatever shall come; especially since death is the end of all things, and I am conscious to myself that, so long as it was permitted, I took thought for the dignity of the commonwealth, and that, once this was lost, I wished to preserve survival.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "haec scripsi, non ut de me ipse dicerem, sed ut tu, qui coniunctissima fuisti mecum et sententia et voluntate, eadem cogitares. Magna enim consolatio est cum recordare, etiamsi secus acciderit, te tamen recte vereque sensisse. atque utinam liceat aliquando aliquo rei p. statu nos frui inter nosque conferre sollicitudines nostras, quas pertulimus tum cum timidi putabamur, quia dicebamus ea futura quae facta sunt.",
+      "eng": "I have written this not to speak of myself, but so that you, who were most closely joined with me in conviction and in resolve, may have the same thoughts. For it is a great consolation, when you call it to mind, that even if things have turned out otherwise, you yet judged rightly and truly. And how I wish it might be permitted us one day to enjoy together some settled state of the commonwealth, and to share between us the anxieties we bore back when we were thought timid --- because we were saying that the things which have come about would come about.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de tuis rebus nihil esse quod timeas praeter universae rei p. interitum tibi confirmo; de me autem sic velim iudices, quantum ego possim, me tibi, saluti tuae liberisque tuis summo cum studio praesto semper futurum. vale .",
+      "eng": "As to your own affairs, I assure you there is nothing you should fear except the destruction of the commonwealth as a whole. As to me, I would have you judge thus: that, so far as it lies in my power, I shall always be at your service with the keenest zeal for you, for your safety, and for your children. Farewell.",
+      "notes": null
+    }
+  ]
+}

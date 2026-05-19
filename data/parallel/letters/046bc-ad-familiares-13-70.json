@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-70",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.70",
+  "title_english": "Ad Familiares 13.70",
+  "date": "-0046-03-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quia non est obscura tua in me benevolentia, sic fit ut multi per me tibi velint commendari ; ego autem tribuo non numquam in vulgus, sed plerumque necessariis, ut hoc tempore. nam cum T. Ampio Balbo mihi summa familiaritas necessitudoque est. eius libertum, T. Ampium Menandrum, hominem frugi et modestum et patrono et nobis vehementer probatum, tibi commendo maiorem in modum. vehementer mihi gratum feceris, si quibuscumque rebus sine tua molestia poteris ei commodaris. quod ut facias te vehementer etiam atque etiam rogo.",
+      "eng": "Because your good will toward me is no secret, it comes about that many wish to be recommended to you through me; and I, for my part, sometimes dispense my recommendations indiscriminately, but for the most part to those bound to me, as at the present time. For I have the closest friendship and intimacy with T. Ampius Balbus. His freedman, T. Ampius Menander, an honest and modest man, highly thought of both by his patron and by me, I recommend to you in the strongest terms. You will do me a very welcome service if you will oblige him in whatever respects you can without inconvenience to yourself. That you should do so, I most earnestly beg of you, again and again.",
+      "notes": null
+    }
+  ]
+}

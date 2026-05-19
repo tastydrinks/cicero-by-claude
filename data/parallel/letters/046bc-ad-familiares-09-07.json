@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-07",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.7",
+  "title_english": "Ad Familiares 9.7",
+  "date": "-0046-05-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cenabam apud Seium, cum utrique nostrum redditae sunt a te litterae. mihi vero iam maturum videtur ; nam quod ante calumniatus sum, indicabo malitiam meam ; volebam prope alicubi esse, si quid bonae salutis, su/n te du/' e)rxome/nw ; nunc quoniam confecta sunt omnia, dubitandum non est quin equis viris. nam ut audivi de L. Caesare filio, mecum ipse: quí d hic mihi faciét patri? itaque non desino apud istos, qui nunc dominantur, cenitare.",
+      "eng": "I was dining at Seius's house when your letters were delivered to each of us. To me it now seems quite ripe; for as to what I cavilled at before, I will own up to my own bad faith --- I wanted to be somewhere within reach, if there should be any safe issue [Greek: sun te du' erchomenō]. Now, since the thing is over and done with, there is no doubt about it: with horse and foot. For when I heard the news about young Lucius Caesar, I said to myself: ``What will this fellow do to me, given what he did to his own father?'' And so I do not give up dining at the houses of these men who are now masters.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quid faciam? tempori serviendum est. sed ridicula missa, praesertim cum sit nihil quod rideamus: Africa terribili tremit horrida terra tumultu. itaque nullum est a)poprohgme/non quod non verear. sed quod quaeris, quando, qua, quo, nihil adhuc scimus. istuc ipsum de Baiis, non nulli dubitant an per Sardiniam veniat ; illud enim adhuc praedium suum non inspexit nec ullum habet deterius, sed tamen non contemnit. ego omnino magis arbitror per Siciliam Veliam, sed iam sciemus ; adventat enim Dolabella. Eum puto magistrum fore. polloi\\ maqhtai\\ krei/ssones didaska/lwn. sed tamen, si sciam quid tu constitueris', meum consilium accommodabo potissimum ad tuum ; qua re exspecto tuas litteras.",
+      "eng": "What am I to do? One must serve the time. But enough of the jokes, especially when there is nothing to laugh at: Africa terribili tremit horrida terra tumultu --- ``Africa, the bristling land, trembles with a terrible commotion.'' And so there is nothing on the list of [Greek: apoproēgmena] (the Stoic ``dispreferred'') that I do not fear. As for what you ask --- when, by what route, where --- we know nothing as yet. Even that question about Baiae: some have their doubts whether he may come by way of Sardinia, since he has not yet inspected that property of his (no worse property does he own, but still he does not look down on it). For my own part I rather think it will be through Sicily and Velia; but soon we shall know, for Dolabella is on his way. He, I suppose, will be our master in the news: [Greek: polloi mathētai kreissones didaskalōn] --- ``many pupils outdo their teachers.'' But all the same, if I knew what you had settled on, I should most of all fit my plan to yours; so I am waiting for a letter from you.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-15",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.15",
+  "title_english": "Ad Atticum 15.15",
+  "date": "-0044-06-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Antonio male sit, si quidem Buthrotiis molestus est! ego testimonium composui quod cum voles obsignabitur. nummos Arpinatium, si L. Fadius aedilis petet, vel omnis reddito. ego ad te alia epistula scripsi de HS C_X_ quae Statio curarentur. si ergo petet Fadius, ei volo reddi, praeter Fadium nemini. apud me †item puto depositum† id scripsi ad Erotem ut redderet.",
+      "eng": "A curse on Lucius Antonius, if he really is making trouble for the Buthrotians! I have drawn up a deposition which will be sealed whenever you wish. As to the money of the Arpinates, if Lucius Fadius the aedile demands it, hand over the whole sum. I have written to you in another letter about the 110,000 sesterces which were to be looked after by Statius. So if Fadius asks for it, I want it paid to him; to no one but Fadius. I have written to Eros that he should pay it over from a deposit \\dag I believe is held with me. \\dag",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "reginam odi. id me iure facere scit sponsor promissorum eius Ammonius, quae quidem erant φιλόλογα et dignitatis meae ut vel in contione dicere auderem. Saran autem, praeterquam quod nefarium hominem, cognovi praeterea in me contumacem. semel eum omnino domi meae vidi. cum φιλοφρόνωσ ex eo quaererem quid opus esset, Atticum se dixit quaerere. superbiam autem ipsius reginae, cum esset trans Tiberim in hortis, commemorare sine magno dolore non possum. nihil igitur cum istis; nec tam animum me quam stomachum habere arbitrantur.",
+      "eng": "I detest the queen. That I do so with reason, Ammonius, the guarantor of her promises, knows --- promises which were literary [Greek: philologa] and worthy of my standing, such that I should have dared to speak of them even in a public assembly. As for Sara, besides being a wicked fellow, I have found him insolent toward me into the bargain. I saw him at my house once and once only. When I asked him cordially [Greek: philophronos] what he wanted, he said he was looking for Atticus. The arrogance of the queen herself, when she was in her gardens across the Tiber, I cannot recall without great pain. Nothing, then, with those people. They suppose I have no spirit --- or rather no stomach.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "profectionem meam, ut video, Erotis dispensatio impedit. nam cum ex reliquis quae Nonis Aprilibus fecit abundare debeam, cogor mutuari, quodque ex istis fructuosis rebus receptum est, id ego ad illud fanum sepositum putabam. sed haec Tironi mandavi quem ob eam causam Romam misi; te nolui impeditum impedire.",
+      "eng": "My departure, as I see, is being held up by Eros's bookkeeping. For although by the balance of what he made up on the 5th of April I ought to be in surplus, I am being forced to borrow; and what was received from those productive sources of yours, I had reckoned set aside for that shrine. But I have entrusted this business to Tiro, whom I have sent to Rome on that account; I did not wish to encumber you when you are encumbered already.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Cicero noster quo modestior est eo me magis commovet. ad me enim de hac re nihil scripsit ad quem nimirum potissimum debuit; scripsit hoc autem ad Tironem, sibi post Kalend. Aprilis (sic enim annuum tempus confici) nihil datum esse. tibi pro tua natura semper placuisse teque existimasse †id etiam ad dignitatem meam pertinere eum non modo perliberaliter a nobis sed etiam ornate cumulateque tractari. qua re velim cures (nec tibi essem molestus, si per alium hoc agere possem) ut permutetur Athenas quod sit in annuum sumptum ei. scilicet Eros numerabit. eius rei causa Tironem misi. curabis igitur et ad me si quid tibi de eo videbitur scribes.",
+      "eng": "Our Cicero, the more modest he is the more he moves me. For he has written nothing to me about this matter --- to whom of all people he most surely should have written; he has written instead to Tiro that nothing has been paid him since the Kalends of April (for the year's allowance is reckoned to run from then). It has always been your view, in keeping with your nature, and you have judged \\dag that it bears upon my dignity \\dag that he be treated by us not only most liberally but lavishly and abundantly. I should therefore like you to see to it (and I should not be troubling you, were there any other way I could manage this) that his year's allowance be transferred for him to Athens. Eros will of course count out the money. It is for this purpose that I have sent Tiro. So you will take care of it, and write to me whatever seems right to you concerning him.",
+      "notes": null
+    }
+  ]
+}

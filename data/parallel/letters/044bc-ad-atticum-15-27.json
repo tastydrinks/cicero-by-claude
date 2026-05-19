@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-27",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.27",
+  "title_english": "Ad Atticum 15.27",
+  "date": "-0044-07-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gaudeo id te mihi suadere quod ego mea sponte pridie feceram. nam cum ad te VI Nonas darem, eidem tabellario dedi etiam ad Sestium scriptas πάνυ φιλοστόργωσ . ille autem, quod Puteolos persequitur, humane, quod queritur, iniuste. non enim ego tam illum exspectare dum de Cosano rediret debui quam ille aut non ire ante quam me vidisset aut citius reverti. sciebat enim me celeriter velle proficisci seseque ad me in Tusculanum scripserat esse venturum.",
+      "eng": "I am glad that you are urging on me what I had done of my own accord the day before. For when I sent off the letter to you six days before the Nones, I gave the same courier a letter to Sestius too, written in the most affectionate terms [Greek: panu philostorg\\=os]. As for him --- in pursuing me to Puteoli, generous; in his complaint, unjust. For I was not so bound to wait for him to come back from the Cosa estate as he was either not to go before he had seen me, or to come back sooner. He knew I wanted to set out quickly, and he had written that he was coming to me at the Tusculan villa.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "te , ut a me discesseris, lacrimasse moleste ferebam. quod si me praesente fecisses, consilium totius itineris fortasse mutassem. sed illud praeclare quod te consolata est spes brevi tempore congrediendi; quae quidem exspectatio me maxime sustentat. meae tibi litterae non deerunt. de Bruto scribam ad te omnia. librum tibi celeriter mittam de gloria. excudam aliquid Ἡρακλείδειον quod lateat in thesauris tuis. de Planco memini.",
+      "eng": "That you wept on parting from me grieved me. Had you done it in my presence, I might have changed the plan of the whole journey. But it was admirable that the hope of meeting again in a short time gave you comfort; and that expectation is what most sustains me too. Letters from me you shall not lack. About Brutus I will write you everything. The book I will send you quickly --- the one on glory. I will hammer out something in the Heraclidean manner [Greek: H\\=erakleideion], to lie hidden in your storerooms. About Plancus, I have it in mind.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Attica iure queritur. quod me de Bacchi, de statuarum coronis certiorem fecisti, valde gratum; nec quicquam posthac non modo tantum sed ne tantulum quidem praeterieris. et de Herode et Mettio meminero et de omnibus quae te velle suspicabor modo. o turpem sororis tuae filium! cum haec scriberem, adventabat αὐτῇ βουλύσει cenantibus nobis.",
+      "eng": "Attica is justified in complaining. That you informed me about Bacchis, about the garlands for the statues --- most welcome; and after this you must let no detail pass me by, neither great nor even the smallest. About Herodes and Mettius I will remember, and about everything I shall suspect you want, in the smallest hint. What a disgraceful son your sister has! As I was writing this he was coming up, with the ox-loosing [Greek: aut\\=ei boulysei], while we were at dinner.",
+      "notes": null
+    }
+  ]
+}

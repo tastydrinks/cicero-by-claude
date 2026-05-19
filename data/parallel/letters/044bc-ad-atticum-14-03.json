@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-03",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.3",
+  "title_english": "Ad Atticum 14.3",
+  "date": "-0044-04-09",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Tranquillae tuae quidem litterae. quod utinam diutius! nam Matius posse negabat. ecce autem structores nostri ad frumentum profecti, cum inanes redissent, rumorem adferunt magnum Romae domum ad Antonium frumentum omne portari. πανικὸν certe; scripsisses enim. Corumbus Balbi nullus adhuc: est mihi notum nomen; bellus enim esse dicitur architectus.",
+      "eng": "Your letter, at any rate, is tranquil. If only it stayed so! For Matius said it could not. And then --- our builders had gone out for grain, and came back empty-handed bringing a great rumour: that at Rome all the grain is being carted to Antony's house. A piece of panic, surely --- a Pan-fright [Greek: panikon] --- for otherwise you would have written. Of Balbus's Corumbus, still no sign: I know the name; he is said to be a fine architect.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ad obsignandum tu adhibitus non sine causa videris. volunt enim nos ita putare; nescio cur non animo quoque sentiant. sed quid haec ad nos? odorare tamen Antoni διάθεσιν ; quem quidem ego epularum magis arbitror rationem habere quam quicquam mali cogitare. tu si quid πραγματικὸν habes rescribe; sin minus, populi ἐπισημασίαν et mimorum dicta perscribito. Piliae et Atticae salutem.",
+      "eng": "You seem to have been called in as a witness to the sealing not without reason. For they want us to think so, and I do not see why they should not feel it in their hearts as well. But what is this to us? Still, sound out Antony's frame of mind [Greek: diathesin]; though I think he is more concerned with the calculation of his dinner parties than plotting any real mischief. If you have anything substantive to report [Greek: pragmatikon], write back; if not, write up the public's mood and the actors' jokes --- the cheers [Greek: episēmasian] of the people and what the mimes have to say. My greetings to Pilia and Attica.",
+      "notes": null
+    }
+  ]
+}

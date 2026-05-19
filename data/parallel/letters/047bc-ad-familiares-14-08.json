@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-08",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.8",
+  "title_english": "Ad Familiares 14.8",
+  "date": "-0047-06-02",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "si vales, bene est, ego valeo. valetudinem tuam velim cures diligentissime. nam mihi et scriptum et nuntiatum est te in febrim subito incidisse. quod celeriter me fecisti is de Caesaris litteris certiorem, fecisti mihi gratum. item posthac, si quid opus erit, si quid acciderit novi, facies ut sciam. cura ut valeas. vale . D. iiii Non. Iun.",
+      "eng": "If you are well, it is well; I am well. I should like you to take the most careful care of your health, for I have had it both written and reported to me that you have suddenly fallen into a fever. That you let me know so quickly about Caesar's letter --- for that I am grateful. So, hereafter too, if there should be any need, if anything new should happen, see that I know. Take care of your health. Farewell. Despatched the fourth day before the Nones of June.",
+      "notes": null
+    }
+  ]
+}

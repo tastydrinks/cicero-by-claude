@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-78",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.78",
+  "title_english": "Ad Familiares 13.78",
+  "date": "-0046-11-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Democritus Sicyonius non solum hospes meus est sed etiam, quod non multis contigit, Graecis praesertim, valde familiaris ; est enim in eo summa probitas, summa virtus, summa in hospites liberalitas et observantia, meque praeter ceteros et colit et observat et diligit. Eum tu non modo suorum civium verum paene Achaiae principem cognosces.",
+      "eng": "Democritus of Sicyon is not only my host but, what has fallen to the lot of few, and to few Greeks in particular, a very close friend; for there is in him the highest probity, the highest worth, the highest liberality and attentiveness toward his guests, and beyond all others he both cultivates me and attends me and holds me in regard. You will find him not merely a leading citizen among his own people but very nearly the foremost man of Achaea.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "huic ego tantum modo aditum ad tuam cognitionem patefacio et munio ; cognitum per te ipsum, quae tua natura est, dignum tua amicitia atque hospitio iudicabis. peto igitur a te ut his litteris lectis recipias eum in tuam fidem, polliceare omnia te facturum mea causa. de reliquo si, id quod confido fore, dignum eum tua amicitia hospitioque cognoveris, peto ut eum complectare, diligas, in tuis habeas. erit id mihi maiorem in modum gratum. vale .",
+      "eng": "For him I merely open the way and clear the approach to your acquaintance; once you have come to know him in person --- given the nature you have --- you will judge him worthy of your friendship and your hospitality. I therefore ask you that, when you have read this letter, you receive him into your good faith, and promise that you will do everything for my sake. As for the rest, if --- as I am confident will be the case --- you have come to find him worthy of your friendship and hospitality, I ask that you embrace him, that you hold him dear, that you count him among your own. This will be welcome to me beyond measure. Farewell.",
+      "notes": null
+    }
+  ]
+}

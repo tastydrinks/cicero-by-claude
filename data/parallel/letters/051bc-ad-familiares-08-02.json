@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 8.2",
+  "title_english": "Ad Familiares 8.2",
+  "date": "-0051-06-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "certe , inquam, absolutus est (me †repraesentante pronuntiatum est), et quidem omnibus ordinibus et singulis in uno quoque ordine sententiis. ' ride modo,' inquis. non me hercules; nihil umquam enim tam praeter opinionem, tam quod videretur omnibus indignum, accidit. quin ego . cum pro amicitia validissime faverem ei et me iam ad dolendum praeparassem, postquam factum est, obstipui et mihi visus sum captus esse. quid alios putas? clamoribus scilicet maximis iudices corripuerunt et ostenderunt plane esse quod ferri non posset. itaque relictus legi Liciniae maiore esse periculo videtur. accessit huc quod postridie eius absolutionem in theatrum Curionis Hortensius introiit, puto, ut suum gaudium gauderemus. hic tibi strepitus , fremitus, clamor tonitruum et rudentum sibilus. hoc magis animadversum est, quod intactus ab sibilo pervenerat Hortensius ad senectutem; sed tum tam bene, ut in totam vitam quoivis satis esset et paeniteret eum iam vicisse.",
+      "eng": "``Acquitted, I tell you,'' --- and the verdict announced in my presence [corrupt], and indeed by every order, with the votes in each order falling all one way. ``Now laugh,'' you'll say. By Hercules, no. Never has anything happened so wholly against expectation, so plainly intolerable in everyone's eyes. As for me --- though out of friendship I was rooting for him as hard as I could and had already braced myself to grieve --- when the thing was actually done I went numb; I felt I had been struck dumb. What do you suppose the rest did? The jurors, naturally, were set upon with the most enormous shouts and shown beyond doubt that the verdict was not to be borne. So when he comes up under the Lex Licinia, with this still hanging over him, he is reckoned to be in worse danger than before. Add to this that the day after the acquittal Hortensius walked into Curio's theatre --- to make us share his joy, I suppose. Then, my dear fellow: such an uproar, such howling, such thunderclap shouting and rope-end hissing! And it was the more noted because Hortensius had reached old age without once being hissed: but this time so thoroughly that it would have done anyone for a whole lifetime, and he repented of having won.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de re p. quod tibi scribam nihil habeo. Marcelli impetus resederunt non inertia sed, ut mihi videbantur, consilio. de comitiis consularibus incertissima est existimatio. ego incidi in competitorem nobilem et nobilem agentem; nam M. Octavius Cn. f. et C. Hirrus mecum petit. hoc ideo scripsi, quod scio te acriter propter Hirrum nuntium nostrorum comitiorum exspectaturum. tu tamen simul ac me designatum audieris, ut tibi curae sit quod ad pantheras attinet rogo. syngrapham Sittianam tibi commendo. commentarium rerum urbanarum primum dedi L. Castrinio Paeto, secundum ei qui has litteras tibi dedit.",
+      "eng": "On the state of the commonwealth I have nothing to write you. Marcellus's onslaughts have died down --- not from sluggishness, I think, but from policy. About the consular elections, opinion is as unsettled as can be. I have run into a noble competitor, and a noble who is hustling: M. Octavius son of Cnaeus and C. Hirrus are standing against me. I write this for the simple reason that I know you will be hanging on the news of our elections, on account of Hirrus. Anyway, the moment you hear of my being elected designate, do please give some thought to the panthers business. The Sittian bond I commend to you. The first instalment of the city-news bulletin I gave to L. Castrinius Paetus; the second, to the man who is bringing you this letter.",
+      "notes": null
+    }
+  ]
+}

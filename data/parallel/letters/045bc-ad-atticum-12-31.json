@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-31",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.31",
+  "title_english": "Ad Atticum 12.31",
+  "date": "-0045-03-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Silium mutasse sententiam Sicca mirabatur. equidem magis miror quod, cum in filium causam conferret quae mihi non iniusta videtur (habet enim qualem vult), ais te putare, si addiderimus aliud a quo refugiat, cum ab ipso id fuerit destinatum, venditurum.",
+      "eng": "Sicca was surprised that Silius had changed his mind. For my part I am the more surprised that, when he is laying the cause on his son --- and that does not seem to me unreasonable, for he has the sort of son he wants --- you say you think that, if we add some further point from which he will shrink back, even though the terms were settled by himself, he will sell after all.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quaeris a me quod summum pretium constituam et quantum anteire istos hortos Drusi. accessi numquam; Coponianam villam et veterem et non magnam novi, silvam nobilem, fructum autem neutrius, quod tamen puto nos scire oportere. sed mihi utrivis istorum tempore magis meo quam ratione aestimandi sunt. possim autem adsequi necne tu velim cogites. si enim Faberianum venderem, explicare vel repraesentatione non dubitarem de Silianis, si modo adduceretur ut venderet. si venalis non haberet, transirem ad Drusum vel tanti quanti Egnatius illum velle tibi dixit. magno etiam adiumento nobis Hermogenes potest esse in repraesentando. at tu concede mihi, quaeso, ut eo animo sim quo is debeat esse qui emere cupiat, et tamen ita servio cupiditati et dolori meo ut a te regi velim.",
+      "eng": "You ask what top price I would set, and by how much the Silius gardens outstrip those of Drusus. I have never been to them; the Coponian villa I do know --- old and not large --- and the famous wood, but I know the yield of neither, which we ought, all the same, to know. But for me both properties are to be valued more by my circumstances than by reasoned calculation. Whether I can attain it or not, I want you to consider. For if I could sell the Faberian asset, I would not hesitate to close --- even by paying ready money --- for the Silius gardens, if only he could be brought to sell. If he would not put them up for sale, I would cross over to Drusus, even at the price Egnatius told you he wants. Hermogenes too can be a great help to us in paying cash down. But grant me this, please --- that I may be in the frame of mind which a man ought to be in who is set on buying; and yet I am so much the servant of my own desire and grief that I want you to be the one who guides me.",
+      "notes": null
+    }
+  ]
+}

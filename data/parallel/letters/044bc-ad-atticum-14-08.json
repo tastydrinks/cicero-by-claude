@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.8",
+  "title_english": "Ad Atticum 14.8",
+  "date": "-0044-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "tu me iam rebare, cum scribebas, in actis esse nostris, et ego accepi xvii Kal. in deversoriolo Sinuessano tuas litteras. de Mario probe, etsi doleo L. Crassi nepotem. optime iam etiam Bruto nostro probari Antonium. nam quod Iuniam scribis moderate et amice scriptas litteras attulisse, mihi Paulus dedit ad se a fratre missas; quibus in extremis erat sibi insidias fieri; se id certis auctoribus comperisse. hoc nec mihi placebat et multo illi minus. reginae fuga mihi non molesta est. Clodia quid egerit scribas ad me velim. de Byzantiis curabis ut cetera et Pelopem ad te arcesses. ego , ut postulas, Baiana negotia chorumque illum de quo scire vis, cum perspexero, tum scribam, ne quid ignores.",
+      "eng": "You were already supposing me, when you wrote, to be in our records; and I received, on the seventeenth day before the Kalends, your letter at the little inn at Sinuessa. About Marius, well done --- though I am sorry for the grandson of Lucius Crassus. Excellent too that our Brutus is now finding even Antony acceptable. As for your writing that Junia delivered a letter written in moderate and friendly terms, Paulus gave me one his brother had sent to him --- the last lines of which said that a plot was being laid against him, and that he had this from sure informants. That did not please me, and pleased him far less. The queen's flight does not trouble me. What Clodia has done you might write to me. About the Byzantines, you will see to it as you do to the rest, and you will summon Pelops to you. As for the Baian affair and that whole chorus you want to know of: as you require, I shall write when I have looked things over on the ground, so that nothing escapes you.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quid Galli, quid Hispani, quid Sextus agat vehementer exspecto. ea scilicet tu declarabis qui cetera. nauseolam tibi tuam causam oti dedisse facile patiebar. videbare enim mihi legenti tuas litteras requiesse paulisper. de Bruto semper ad me omnia perscribito, ubi sit, quid cogitet. quem quidem ego spero iam tuto vel solum tota urbe vagari posse. verum tamen—.",
+      "eng": "What the Gauls, what the Spaniards, what Sextus is up to, I am eagerly waiting to hear. You, of course, will set out those matters who set out the rest. That a touch of nausea has given you some grounds for rest --- this I was content to bear. For as I read your letter you seemed to me to have had a brief moment's repose. About Brutus always write me everything --- where he is, what he is contemplating. As for him, I now hope he can roam in safety, even alone, through the whole city. And yet --- .",
+      "notes": null
+    }
+  ]
+}

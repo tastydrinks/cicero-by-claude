@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-11",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.11",
+  "title_english": "Ad Atticum 14.11",
+  "date": "-0044-04-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nudius tertius dedi ad te epistulam longiorem; nunc ad ea quae proxime. velim me hercule Asturae Brutus. ἀκολασίαν istorum scribis. an censebas aliter? equidem etiam maiora exspecto. quom equidem contionem lego de tanto viro, de clarissimo civi, ferre non queo. etsi ista iam ad risum. sed memento, sic alitur consuetudo perditarum contionum ut nostri illi non heroes sed di futuri quidem in gloria sempiterna sint, sed non sine invidia, ne sine periculo quidem. verum illis magna consolatio conscientia maximi et clarissimi facti, nobis quae? qui interfecto rege liberi non sumus. sed haec fortuna viderit, quoniam ratio non gubernat.",
+      "eng": "The day before yesterday I sent you a longer letter; now to your most recent. I should be glad, by Hercules, if Brutus were at Astura. You write of their licence [Greek: akolasian]. Did you suppose otherwise? For my part I expect worse still. When I read out a speech of that kind about so great a man, so illustrious a citizen, I cannot bear it. And yet by now such things move me to laughter. But remember: this is how the habit of ruinous public assemblies is fed --- so that our friends, those not heroes but gods-to-be, will indeed have everlasting glory, but not without envy, indeed not without danger. The great consolation for them is the consciousness of an act supreme and most illustrious; for us, what? --- for us, who, the king once killed, are not free. But fortune may look to this, since reason does not govern.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Cicerone quae scribis iucunda mihi sunt; velim sint prospera. quod curae tibi est ut ei suppeditetur ad usum et cultum copiose per mihi gratum est, idque ut facias te etiam atque etiam rogo. de Buthrotiis et tu recte cogitas et ego non dimitto istam curam. suscipiam omnem etiam actionem quam video cotidie faciliorem. de Cluviano, quoniam in re mea me ipsum diligentia vincis, res ad centena perducitur. ruina rem non fecit deteriorem, haud scio an etiam fructuosiorem. hic mecum Balbus, Hirtius, Pansa. modo venit Octavius et quidem in proximam villam Philippi mihi totus deditus; Lentulus Spinther hodie apud me; cras mane vadit.",
+      "eng": "What you write about Cicero is welcome to me; I hope it goes well. That you take care to supply him liberally for his maintenance and upkeep is most agreeable to me, and I beg you again and again to keep doing so. About the Buthrotians, you for your part are taking the right line, and I do not let go of the concern. I shall take up the whole business in court too --- a business I see grows easier by the day. About the Cluvian estate: since in my own affair you outdo me in diligence, the income is being brought up to a hundred thousand. The collapse has not made it worse, perhaps even more profitable. Here with me are Balbus, Hirtius, Pansa. Octavius has just arrived, into the villa of Philippus right next door, and devoted entirely to me; Lentulus Spinther is with me today; tomorrow morning he leaves.",
+      "notes": null
+    }
+  ]
+}

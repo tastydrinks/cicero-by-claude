@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-09",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.9",
+  "title_english": "Ad Atticum 15.9",
+  "date": "-0044-06-02",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "iiiii Non. vesperi a Balbo redditae mihi litterae fore Nonis senatum, ut Brutus in Asia, Cassius in Sicilia frumentum emendum et ad urbem mittendum curarent. o rem miseram! primum ullam ab istis, dein, si aliquam, hanc †legatoriam† provinciam! atque haud scio an melius sit quam ad Eurotam sedere. sed haec casus gubernabit. ait autem eodem tempore decretum iri ut et iis et reliquis praetoriis provinciae decernantur. hoc certe melius quam illa Περσικὴ porticus; nolo enim Lacedaemonem †longinquo quom Lanuvium existimavit†. rides inquies in talibus rebus? quid faciam? plorando fessus sum.",
+      "eng": "On the evening of the fifth before the Nones, a letter from Balbus reached me: the Senate is to meet on the Nones to arrange that Brutus see to the buying and shipping of grain to the city from Asia, Cassius from Sicily. A wretched business! First, any province at all from that crowd; and then, if any, this \\dag legate's-errand\\dag\\ of a province! And yet perhaps it is better than sitting by the Eurotas. But these things chance will steer. He says, too, that at the same time it will be decreed that the rest of the praetorians, like these, are to have provinces assigned. That is certainly better than the famous Persian Portico; for I would not have Lacedaemon \\dag he reckoned as far off as Lanuvium\\dag. You will say I am laughing at such matters? What am I to do? I am tired of weeping.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "di immortales! quam me conturbatum tenuit epistulae tuae prior pagina! quid autem iste in domo tua casus armorum? sed hunc quidem nimbum cito transisse laetor. tu quid egeris tua cum tristi tum etiam difficili ad consiliandum legatione vehementer exspecto; est enim inexplicabilis. ita circumsedemur copiis omnibus. me quidem Bruti litterae quas ostendis a te lectas ita perturbarunt ut, quamquam ante egebam consilio, tamen animi dolore sim tardior. sed plura, cum ista cognoro. hoc autem tempore quod scriberem nihil erat, eoque minus quod dubitabam tu has ipsas litteras essesne accepturus. erat enim incertum visurusne te esset tabellarius. ego tuas litteras vehementer exspecto.",
+      "eng": "Immortal gods! What dismay the first page of your letter held me in! What was that business of armed men in your house? Still, I am glad this cloud at any rate passed off quickly. What you have done about your own embassy --- sad in itself, and a hard matter to take counsel on --- I am keenly waiting to hear; for there is no way out of it. We are encircled on every side by their forces. As for me, the letter of Brutus which you say you have read disturbed me so violently that, in want of counsel as I was already, I am slower now from sheer pain of mind. But more, when I have learned how things stand with you. Just now there was nothing to write, and the less so because I was in doubt whether you would even receive this letter; for it was uncertain whether the courier would manage to see you. I am keenly waiting for your letter.",
+      "notes": null
+    }
+  ]
+}

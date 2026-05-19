@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-07",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.7",
+  "title_english": "Ad Atticum 15.7",
+  "date": "-0044-05-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gratum quod mihi epistulas; quae quidem me delectarunt, in primis Sexti nostri. dices , quia te laudat. puto me hercule id quoque esse causae, sed tamen etiam ante quam ad eum locum veni, valde mihi placebat cum sensus eius de re publica †cum tum† scribendi. Servius vero pacificator cum librariolo suo videtur obisse legationem et omnis captiunculas pertimescere. debuerat autem non ex iure manum consertum sed quae sequuntur; tuque scribes.",
+      "eng": "Thank you for the letters --- they delighted me, our Sextus's most of all. You will say it is because he praises me. By Hercules, I think that is part of it; but even so, before I came to that passage, I was already very pleased with both his sentiments on the commonwealth and his manner of writing. Servius, on the other hand, our peacemaker, seems to have undertaken the embassy in company with his little notary, and to be in terror of every quibble. He ought to have gone, not by the formal claim of right with hand laid on, but by what follows from it; you will write back.",
+      "notes": null
+    }
+  ]
+}

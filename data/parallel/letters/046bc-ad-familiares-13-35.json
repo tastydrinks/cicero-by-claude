@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-35",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.35",
+  "title_english": "Ad Familiares 13.35",
+  "date": "-0046-04-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "C. Avianius Philoxenus antiquus est hospes meus et praeter hospitium valde etiam familiaris ; quem Caesar meo beneficio in Novocomensis rettulit; nomen autem Aviani secutus est, quod homine nullo plus est usus quam Flacco Avianio, meo, quem ad modum te scire arbitror, familiarissimo. quae ego omnia conlegi, ut intellegeres non vulgarem esse commendationem hanc meam.",
+      "eng": "Gaius Avianius Philoxenus is an old guest-friend of mine, and beyond the bond of hospitality a particularly close one besides. Through my good offices Caesar enrolled him among the men of Novum Comum; and he took the name of Avianius because no one stood him in better stead than Flaccus Avianius, who was, as I think you know, on the most intimate terms with me. All this I have gathered together so that you may understand that this recommendation of mine is no ordinary one.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "peto igitur abs te ut omnibus rebus, quod sine molestia tua facere possis, ei commodes habeasque in numero tuorum perficiasque ut intellegat has litteras meas magno sibi usui fuisse. erit id mihi maiorem in modum gratum.",
+      "eng": "I ask of you, then, that in all matters, so far as you can do so without inconvenience to yourself, you assist him and count him among your own, and bring it about that he understands this letter of mine to have been of great service to him. That will be deeply welcome to me.",
+      "notes": null
+    }
+  ]
+}

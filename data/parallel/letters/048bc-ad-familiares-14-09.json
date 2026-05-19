@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.9",
+  "title_english": "Ad Familiares 14.9",
+  "date": "-0048-12-17",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ad ceteras meas miserias accessit dolor et de Dolabellae valetudine et de Tulliae. omnino de omnibus rebus nec quid consili capiam nec quid faciam scio. tu velim tuam et Tulliae valetudinem cures. vale .",
+      "eng": "To my other miseries grief has been added, both about Dolabella's health and about Tullia's. About everything in sum I know neither what plan to take nor what to do. Please look after your own health and Tullia's. Farewell.",
+      "notes": null
+    }
+  ]
+}

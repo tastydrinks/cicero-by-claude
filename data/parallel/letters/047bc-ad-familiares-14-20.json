@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-20",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.20",
+  "title_english": "Ad Familiares 14.20",
+  "date": "-0047-10-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "in Tusculanum nos venturos putamus aut Nonis aut postridie. ibi ut sint omnia parata (plures enim fortasse nobiscum erunt et, ut, arbitror, diutius ibi commorabimur) ; labrum si in balineo non est, ut sit, item cetera quae sunt ad victum et ad valetudinem necessaria. vale . K. Oct. de Venusino.",
+      "eng": "We expect to reach the Tusculan villa either on the Nones or the day after. See that everything there is ready --- there will be several of us, perhaps, and I think we shall be staying for some time. If there is no tub in the bath, see that there is one; likewise whatever else is needed for food and for health. Farewell. The Kalends of October, from the Venusian district.",
+      "notes": null
+    }
+  ]
+}

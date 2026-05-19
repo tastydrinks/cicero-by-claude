@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.8",
+  "title_english": "Ad Atticum 15.8",
+  "date": "-0044-05-31",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "post tuum discessum binas a Balbo (nihil novi) itemque ab Hirtio, qui se scribit vehementer offensum esse veteranis. exspectat animus quidnam agam de K. Mart. . misi igitur Tironem et cum Tirone pluris quibus singulis, ut quidque accidisset, dares litteras, atque etiam scripsi ad Antonium de legatione, ne, si ad Dolabellam solum scripsissem, iracundus homo commoveretur. quod autem aditus ad eum difficilior esse dicitur, scripsi ad Eutrapelum ut is ei meas litteras redderet; legatione mihi opus esse. honestior est votiva, sed licet uti utraque.",
+      "eng": "Since your departure, two letters from Balbus (nothing new), and the same from Hirtius, who writes that he is violently offended with the veterans. My mind is waiting for what I am to do about the Kalends of June. So I have sent off Tiro, and along with Tiro several others, so that you may give each a letter as each piece of news occurs; I have also written to Antony about the embassy, lest, if I had written to Dolabella alone, the irascible man should take umbrage. And since the approach to him is said to be more difficult, I have written to Eutrapelus asking him to hand over my letter; that I have need of an embassy. The votive embassy is the more honourable, but one is free to use either.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de te, quaeso, etiam atque etiam vide. velim possis coram; si minus possis , litteris idem consequemur. Graeceius ad me scripsit C. Cassium sibi scripsisse homines comparari qui armati in Tusculanum mitterentur. † id quidem mihi videbatur†; sed cavendum tamen †ut ille que† plures videndae. sed aliquid crastinus dies ad cogitandum nobis †dare†.",
+      "eng": "About yourself, please, look at the matter again and again. I should like it to be possible face to face; if not, by letter we shall achieve the same end. Graeceius has written to me that Gaius Cassius has written to him that men are being mustered to be sent armed into the Tusculan country. That, at least, was how it appeared to me; but caution must still be taken --- more eyes are needed. But tomorrow may give us something further for thought.",
+      "notes": null
+    }
+  ]
+}

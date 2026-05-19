@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-06",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.6",
+  "title_english": "Ad Atticum 13.6",
+  "date": "-0045-03-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de aquae ductu probe fecisti. columnarium vide ne nullum debeamus; quamquam mihi videor isse a Camillo commutatam esse legem.",
+      "eng": "On the aqueduct, well done. Look into the column-tax --- I should not like us to be in arrears on any of it, although I think I recall going to Camillus and having the law amended.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Pisoni quid est quod honestius respondere possimus quam solitudinem Catonis? nec coheredibus solum Herennianis sed etiam, ut scis (tu enim mecum egisti), de puero Lucullo, quam pecuniam tutor (nam hoc quoque ad rem pertinet) in Achaia sumpserat. sed agit liberaliter, quoniam negat se quicquam facturum contra nostram voluntatem. coram igitur ut scribis, constituemus quem ad modum rem explicemus. quod reliquos coheredes convenisti, plane bene.",
+      "eng": "As for Piso, what answer could we more honourably give him than Cato's lonely position? And not only with the Herennius co-heirs, but, as you know (you yourself acted in the business with me), in the case of the boy Lucullus too --- the money which his guardian (and this point too has a bearing on the matter) had taken up in Achaia. But he is behaving handsomely, since he says he will do nothing against our wishes. Face to face, then, as you write, let us settle how to unwind the thing. That you have spoken with the remaining co-heirs is plainly good.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod epistulam meam ad Brutum poscis, non habeo eius exemplum; sed tamen salvum est et ait Tiro te habere oportere et, ut recordor, una cum illius obiurgatoria tibi meam quoque quam ad eum rescripseram misi.",
+      "eng": "As to your asking for my letter to Brutus, I have no copy of it; but it is safe, and Tiro says you ought to have it, and, as I recall, along with that scolding letter of his I sent you mine as well, which I had written back to him.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "iudiciali molestia ut caream videbis.",
+      "eng": "See to it that I am spared the trouble of the lawsuit.",
+      "notes": null
+    }
+  ]
+}

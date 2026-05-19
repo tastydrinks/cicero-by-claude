@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-26",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.26",
+  "title_english": "Ad Atticum 13.26",
+  "date": "-0045-05-14",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de Vergili parte valde probo. sic ages igitur. et quidem id erit primum, proximum Clodiae. quod si neutrum, metuo ne turbem et inruam in Drusum. intemperans sum in eius rei cupiditate quam nosti. itaque revolvor identidem in Tusculanum. quidvis enim potius quam ut non hac aestate absolvatur.",
+      "eng": "About Vergilius's share I thoroughly approve. So that is the way you will proceed. And indeed that one will be the first choice, Clodia's the next. If neither answers, I am afraid I shall make a wreck of things and rush at Drusus. I am beyond restraint in my desire for the thing you know of. So I keep coming back round to the Tusculan villa. Anything rather than have the business not closed this summer.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego , ut tempus est nostrum, locum habeo nullum ubi facilius esse possim quam Asturae. sed quia qui mecum sunt, credo, quod maestitiam meam non ferunt, domum properant, etsi poteram remanere, tamen, ut scripsi tibi, proficiscar hinc ne relictus videar. quo autem? Lanuvio conor equidem in Tusculanum. sed faciam te statim certiorem. tu litteras conficies. equidem credibile non est quantum scribam, quin etiam noctibus; nihil enim somni. heri etiam effeci epistulam ad Caesarem; tibi enim placebat. quam non fuit malum scribi, si forte opus esse putares; ut quidem nunc est, nihil sane est necesse mittere. sed id quidem, ut tibi videbitur. mittam tamen ad te exemplum fortasse Lanuvio, nisi forte Romam. sed cras scies.",
+      "eng": "As for me, things being as they are with us, I have no place where I can find more ease than at Astura. But since those who are with me, I take it, cannot bear my gloom and are hurrying home, I shall set out from here --- as I wrote to you --- so as not to seem to have been left behind, even though I could have stayed on. Where, though? From Lanuvium I am, for my part, trying to push on to the Tusculan villa. But I shall let you know at once. You will see the letters out. As for me, the amount I am writing is past belief --- even at night, for I get no sleep. Yesterday I even completed the letter to Caesar; that was what you wanted. There was no harm in its being written, if you happened to think it useful; as things stand now, there is really no necessity to send it. But on that point, do as you see fit. I shall send you a copy, from Lanuvium perhaps, unless I do it from Rome. But you shall know tomorrow.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-38",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.38",
+  "title_english": "Ad Familiares 13.38",
+  "date": "-0046-07-23",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Bruttius, eques R., adulescens omnibus rebus ornatus, in meis familiarissimis est meque observat diligentissime ; cuius cum patre magna mihi fuit amicitia iam inde a quaestura mea Siciliensi. omnino nunc ipse Bruttius Romae mecum est ; sed tamen domum eius et rem familiarem et procuratores tibi sic commendo, ut maiore studio commendare non possim. gratissimum mihi feceris, si curaris ut intellegat Bruttius, id quod ei recepi, hanc meam commendationem sibi magno adiumento fuisse.",
+      "eng": "Lucius Bruttius, a Roman knight, a young man distinguished in every respect, is among my closest connections and pays me the most assiduous attention; and with his father I had a great friendship going back as far as my quaestorship in Sicily. As it happens Bruttius himself is now at Rome with me; but I commend to you nevertheless his household, his estate, and his agents in such terms that I could not commend them with greater zeal. You will do me the most welcome of favours if you see to it that Bruttius understands what I undertook to him for: that this recommendation of mine has been of great help to him.",
+      "notes": null
+    }
+  ]
+}

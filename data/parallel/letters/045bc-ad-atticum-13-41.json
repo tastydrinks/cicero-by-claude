@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-41",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.41",
+  "title_english": "Ad Atticum 13.41",
+  "date": "-0045-08-09",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego vero Quinto epistulam ad sororem misi. cum ille quereretur filio cum matre bellum et se ob eam causam domo cessurum filio diceret, dixi illum commodas ad matrem litteras, ad te nullas. ille alterum mirabatur, de te autem suam culpam quod saepe graviter ad filium scripsisset de tua in illum iniuria. quod autem relanguisse se dicit, ego ei tuis litteris lectis σκολιαῖσ ἀπάταισ significavi me non fore tum enim mentio Canae.",
+      "eng": "For my part, I have forwarded to Quintus the letter to his sister. When he was complaining of war between his son and the mother, and saying that he himself would have to give up the house to his son on that account, I told him that the boy had written a pleasant enough letter to his mother --- but none to you. The one thing astonished him; about you, he laid the blame on himself, since he had written sharply and repeatedly to his son about the wrong done to you. As for the boy's saying that he is going soft, I read your letter and let it be known --- with crooked stratagems [Greek: skoliais apatais] --- that I would not be on hand: for at that point Cana was being talked of.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "omnino si id consilium placeret, esset necesse; sed, ut scribis, ratio est habenda gravitatis, et utriusque nostrum idem consilium esse debet, etsi in me graviores iniuriae et certe notiores. si vero etiam Brutus aliquid adferet, nulla dubitatio est. sed coram. magna enim res et multae cautionis. cras igitur, nisi quid a te commeatus.",
+      "eng": "On the whole, if that course were to be approved, it would have to be done. But, as you write, our dignity has to be taken into account, and the same course must be agreed between us, even though the wrongs done to me are graver, and certainly better known. If indeed Brutus too will bring something to bear, there can be no doubt. But face to face: it is a large matter and needs much caution. Tomorrow, then --- unless you send some leave of absence.",
+      "notes": null
+    }
+  ]
+}

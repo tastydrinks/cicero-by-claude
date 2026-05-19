@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-10",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.10",
+  "title_english": "Ad Familiares 14.10",
+  "date": "-0047-07-09",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quid fieri placeret scripsi ad Pomponium serius quam oportuit. Cum eo si locuta eris, intelleges quid fieri velim ; apertius scribi, quoniam ad illum scripseram, necesse non fuit. de ea re et de ceteris rebus quam primum velim nobis litteras mittas. valetudinem tuam cura diligenter. vale . vii Idus Quintilis.",
+      "eng": "What I wanted done I wrote to Pomponius --- later than I should have. When you have spoken with him you will understand what I want done; to write of it more openly was not necessary, since I had already written to him. About this matter and the rest, I should like you to send us letters as soon as possible. Take careful care of your health. Farewell. The seventh day before the Ides of Quintilis.",
+      "notes": null
+    }
+  ]
+}

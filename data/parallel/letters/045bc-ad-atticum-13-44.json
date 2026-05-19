@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-44",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.44",
+  "title_english": "Ad Atticum 13.44",
+  "date": "-0045-07-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "suavis tuas litteras! (etsi acerba pompa. verum tamen scire omnia non acerbum est, vel de Cotta) populum vero praeclarum quod propter malum vicinum ne Victoriae quidem ploditur! Brutus apud me fuit; quoi quidem valde placebat me aliquid ad Caesarem. adnueram ; sed pompa deterret.",
+      "eng": "What a delightful letter of yours! (Even if the procession was a bitter business; still, it is not bitter to know it all, including about Cotta.) And the people --- splendid of them, that on account of so bad a neighbour even Victory herself was not applauded! Brutus has been with me; he was very keen indeed that I should write something to Caesar. I had assented; but the procession deters me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu tamen ausus es Varroni dare! exspecto quid iudicet. quando autem pelleget? de Attica probo. est quiddam etiam animum levari cum spectatione tum etiam religionis opinione et fama.",
+      "eng": "Yet you ventured to give it to Varro! I am waiting to see what he makes of it. And when, indeed, will he read it through? About Attica, I approve. There is something in it that even the spirit is lifted, both by the spectacle and by the sense and reputation of piety.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Cottam mi velim mittas; Libonem mecum habeo et habueram ante Cascam. Brutus mihi T. Ligari verbis nuntiavit, quod appelletur L. Corfidius in oratione Ligariana, erratum esse meum. sed , ut aiunt, μνημονικὸν ἁμάρτημα . sciebam Corfidium pernecessarium Ligariorum; sed eum video ante esse mortuum. da igitur, quaeso, negotium Pharnaci, Antaeo, Salvio ut id nomen ex omnibus libris tollatur.",
+      "eng": "Send me Cotta, if you will; I have Libo with me, and earlier I had Casca. Brutus told me, in the words of Titus Ligarius, that the mention of Lucius Corfidius in the speech for Ligarius is a mistake of mine. But, as they say, a slip of memory [Greek: mnemonikon hamartema]. I knew that Corfidius was a close intimate of the Ligarii; but I now see that he in fact died earlier. Please, then, give Pharnaces, Antaeus, and Salvius the job of striking that name out of every copy.",
+      "notes": null
+    }
+  ]
+}

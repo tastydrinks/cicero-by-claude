@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-04",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.4",
+  "title_english": "Ad Familiares 9.4",
+  "date": "-0046-06-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "*peri\\ dunatw=n me scito kata\\ *dio/dwron kri/nein . quapropter si venturus es, scito necesse esse te venire ; sin autem non es, a)duna/twn est te venire. nunc vide utra te kri/sis magis delectet, Chrysippi an haec, quam noster Diodotus non concoquebat. sed de his etiam rebus, otiosi cum erimus, loquemur ; hoc etiam kata\\ *xru/sippon dunato\\n ? est. de Coctio mihi gratum est ; nam id etiam Attico mandaram. tu si minus ad nos, nos accurremus ad te ; si hortum in bybliotheca habes, deerit nihil.",
+      "eng": "On possibles [Greek: peri dynatōn] you should know that I judge along the lines of Diodorus [Greek: kata Diodōron]. So: if you are going to come, you should know that it is necessary that you come; and if you are not, then your coming is of the class of impossibles [Greek: adynatōn]. Now consider which judgment [Greek: krisis] pleases you more --- that of Chrysippus, or this one, which our friend Diodotus could never quite digest. But on these things too we shall talk when we have leisure for them; this is also, according to Chrysippus, possible [Greek: kata Chrysippon dynaton]. About Cocceius I am much obliged --- I had given that very business in charge to Atticus as well. If you do not come to us, we shall hurry to you; if you have a garden along with your library, nothing will be wanting.",
+      "notes": null
+    }
+  ]
+}

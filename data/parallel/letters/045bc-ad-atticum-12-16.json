@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-16",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.16",
+  "title_english": "Ad Atticum 12.16",
+  "date": "-0045-03-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "te tuis negotiis relictis nolo ad me venire, ego potius accedam, si diutius impediere. etsi ne discessissem qui dem e conspectu tuo, nisi me plane nihil ulla res adiuvaret. quod si esset aliquod levamen, id esset in te uno, et cum primum ab aliquo poterit esse, a te erit. nunc tamen ipsum sine te esse non possum. sed nec tuae domi probabatur nec meae poteram nec, si propius essem uspiam, tecum tamen essem. idem enim te impediret quo minus mecum esses, quod nunc etiam impedit. mihi nihil adhuc aptius fuit hac solitudine; quam vereor ne Philippus tollat. heri enim vesperi venerat. me scriptio et litterae non leniunt sed obturbant.",
+      "eng": "I do not want you to leave your own business and come to me; I will rather come to you, if you are held up longer. Although I would not have gone out of your sight at all, had any single thing in any way helped me. If there were some relief to be had, it would be in you alone, and as soon as it can come from anyone, it will come from you. Even now, for all that, I cannot bear to be without you. But neither was your house thought right for me, nor could I bear my own, nor, if I were anywhere nearer, would I therefore be with you. The same thing that hinders you from being with me now would hinder you then. Nothing so far has suited me better than this solitude --- which I fear Philippus will break up. He had arrived yesterday evening. Writing and books do not soothe me but bewilder me.",
+      "notes": null
+    }
+  ]
+}

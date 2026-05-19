@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-33",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.33",
+  "title_english": "Ad Atticum 13.33",
+  "date": "-0045-06-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "O neglegentiam miram! semelne putas mihi dixisse Balbum et Faberium professionem relatam? qui etiam eorum iussu miserim qui profiteretur. ita enim oportere dicebant. professus est Philotimus libertus. nosti , credo, librarium.",
+      "eng": "What extraordinary carelessness! Do you suppose Balbus and Faberius told me only once that the declaration had been filed? Why, I even sent, on their own instructions, a man to do the filing --- for so they kept saying it had to be done. My freedman Philotimus has made the declaration. You know the clerk, I take it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed scribes et quidem confectum. ad Faberium, ut tibi placet, litteras misi, cum Balbo autem puto te aliquid fecisse †H in Capitolio†. in Vergilio mihi nulla est δυσωπία . nec enim eius causa sane debeo et, si emero, quid erit quod postulet? sed videbis ne is tum sit in Africa ut Caelius. de nomine tu videbis cum Cispio; sed si Plancus destinat, tum habet res difficultatem. te ad me venire uterque nostrum cupit; sed ista res nullo modo relinquenda est. Othonem quod speras posse vinci sane bene narras. de aestimatione, ut scribis, cum agere coeperimus; etsi nihil scripsit nisi de modo agri. cum Pisone, si quid poterit. Dicaearchi librum accepi et καταβάσεωσ †exspecto†.",
+      "eng": "But you will write, and that with the business actually settled. I have sent a letter to Faberius, as you wanted; with Balbus, however, I imagine you have done something \\dag{}H in Capitolio\\dag{}. About Vergilius I feel no embarrassment [Greek: dys\\=opia]. I am under no real obligation to him; and if I do buy, what claim will he have? But see to it that he is not then in Africa, as Caelius is. As to the debt, you will look into it with Cispius; but if Plancus is fixed on it, then the matter is difficult. We both want you to come to me; but on no account is that affair to be left undone. That you hope Otho can be beaten down --- very good news indeed. About the valuation, as you write, when we have begun to act on it; though he has written nothing except about the size of the estate. With Piso, do what you can. I have received Dicaearchus's book, and the Descent [Greek: katabase\\=os] I \\dag{}am waiting for\\dag{}.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "* * * negotium dederis, reperiet ex eo libro in quo sunt servatus consulta Cn. Cornelio L. Mummio coss. de Tuditano autem quod putas, εὔλογον est tum illum, quoniam fuit ad Corinthum (non enim temere dixit Hortensius), aut quaestorem aut tribunum mil. fuisse, idque potius credo. tu de Antiocho scire poteris †vide etiam†, quo anno quaestor aut tribunus mil. fuerit; si neutrum †ea de† in praefectis an in contubernalibus fuerit, modo fuerit in eo bello.",
+      "eng": "* * * if you have given the assignment, he will find it from the book in which the decrees of the Senate are preserved for the consulship of Gnaeus Cornelius and Lucius Mummius. As for what you suppose about Tuditanus, it is plausible [Greek: eulogon] that, since he was at Corinth (Hortensius did not say it at random), he was at that point either a quaestor or a military tribune; the latter I rather think. You can find out about Antiochus \\dag{}see also\\dag{} in what year he was quaestor or military tribune; if neither, \\dag{}ea de\\dag{} whether he was among the prefects or the military companions --- only that he was in that war.",
+      "notes": null
+    }
+  ]
+}

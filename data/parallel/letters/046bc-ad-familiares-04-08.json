@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-08",
+  "category": "letters",
+  "title_latin": "Ad Familiares 4.8",
+  "title_english": "Ad Familiares 4.8",
+  "date": "-0046-08-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "neque monere te audeo, praestanti prudentia virum, nec confirmare, maximi animi hominem unumque fortissimum, consolari vero nullo modo. nam , si ea, quae acciderunt, ita fers, ut audio, gratulari magis virtuti debeo quam consolari dolorem tuum; sin te tanta mala rei publicae frangunt, non ita abundo ingenio, ut te consoler, cum ipse me non possim. reliquum est igitur, ut tibi me in omni re eum praebeam praestemque et ad omnia, quae tui velint, ita sim praesto, ut me non solum omnia debere †tua causa, sed causa quoque, etiam quae non possim, putem.",
+      "eng": "I do not presume to advise a man of such pre-eminent good sense; nor to give heart to a man of the greatest spirit and unmatched courage; nor, in any way, to console you. For if you bear what has happened as I hear you bear it, I owe your virtue congratulation rather than your sorrow consolation; and if these great public miseries break you, I am not so rich in talent as to console you, when I cannot console myself. What remains, then, is this: that I show myself, and prove myself, your man in every matter, and stand ready for everything those you love would wish, with the conviction that I owe you all things --- not only for your sake but for my own sake too, even what is beyond my power.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "illud tamen vel tu me monuisse vel censuisse puta vel propter benevolentiam tacere non potuisse, ut, quod ego facio, tu quoque animum inducas, si sit aliqua res publica, in ea te esse oportere iudicio hominum reque principem, necessitate cedentem tempori; sin autem nulla sit, hunc tamen aptissimum esse etiam ad exsulandum locum. si enim libertatem sequimur, qui locus hoc dominatu vacat? sin qualemcumque locum, quae est domestica sede iucundior? sed , mihi crede, etiam is, qui omnia tenet, favet ingeniis, nobilitatem vero et dignitates hominum, quantum ei res et ipsius causa concedit, amplectitur. sed plura quam statueram. redeo ergo ad unum illud, me tuum esse; fore cum tuis, si modo erunt tui, si minus, me certe in omnibus rebus satis nostrae coniunctioni amorique facturum. vale .",
+      "eng": "But here is something --- take it as you will: as my advising, or as my judging, or as a thing my goodwill could not keep silent. Bring yourself to the position I have brought myself to. If there is to be any commonwealth, in that commonwealth you must be, by the judgement of men and in fact a leading man, yielding only as necessity yields to the times; and if there is no commonwealth, then this is still the most fitting place even for going into exile. For if it is liberty we seek, what place is empty of this tyranny? And if any place at all, what place is pleasanter than one's own home? Believe me, even the man who holds all things looks kindly upon talent, and nobility and the standing of men he embraces, so far as his own situation and his own cause permit. But I have written more than I meant to. So I come back to that one point: that I am yours; and that I will be with your people, if indeed I shall have any of your people; and if not, that for my part I will satisfy our union and our love in all things, sufficiently and beyond. Farewell.",
+      "notes": null
+    }
+  ]
+}

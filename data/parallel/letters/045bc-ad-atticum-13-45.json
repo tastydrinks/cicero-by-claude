@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-45",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.45",
+  "title_english": "Ad Atticum 13.45",
+  "date": "-0045-08-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "fuit apud me Lamia post discessum tuum epistulamque ad me attulit missam sibi a Caesare. quae quamquam ante data erat quam illae Diocharinae, tamen plane declarabat illum ante ludos Romanos esse venturum. in qua extrema scriptum erat ut ad ludos omnia pararet neve committeret ut frustra ipse properasset. prorsus ex his litteris non videbatur esse dubium quin ante eam diem venturus esset, itemque Balbo cum eam epistulam legisset videri Lamia dicebat. dies feriarum mihi additos video sed quam multos fac, si me amas, sciam. de Baebio poteris et de altero vicino Egnatio.",
+      "eng": "Lamia was with me after you left, and brought me a letter that had been sent to him by Caesar. Although it had been written earlier than the one to Diochares, it nevertheless made plain that he would be here before the Roman Games. At the end of it was written that Lamia should get everything ready for the games and not let his master hurry in vain. On the face of these lines there seemed to be no doubt that he would arrive before that day, and Lamia said that Balbus too, when he had read the letter, was of the same opinion. I see that holidays have been added to my calendar --- but, if you love me, see to it that I am told just how many. About Baebius you will be able to act, and about the other neighbour Egnatius.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod me hortaris ut eos dies consumam in philosophia explicanda, currentem tu quidem; sed cum Dolabella vivendum esse istis diebus vides. quod nisi me Torquati causa teneret satis erat dierum ut Puteolos excurrere possem et ad tempus redire.",
+      "eng": "As for your urging me to spend those days on philosophical exposition --- you are urging on a runner; but you can see that during those days I must live with Dolabella. If it were not Torquatus's case that held me here, there would be enough days for me to make the run down to Puteoli and be back in time.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Lamia quidem a Balbo, ut videbatur, audiverat multos nummos domi esse numeratos quos oporteret quam primum dividi, magnum pondus argenti; auctionem XIII. xlv M. TVLLI CICERONIS praeter praedia primo quoque tempore fieri oportere. scribas ad me velim quid tibi placeat. equidem si ex omnibus esset eligendum, nec diligentiorem nec officiosiorem nec me hercule nostri studiosiorem facile delegissem Vestorio, ad quem accuratissimas litteras dedi; quod idem te fecisse arbitror. mihi quidem hoc satis videtur. tu quid dicis? unum enim pungit ne neglegentiores esse videamur. exspectabo igitur tuas litteras.",
+      "eng": "Lamia, in any case, had heard from Balbus (so it seemed) that a great deal of money was counted out at the house and ought to be divided as soon as possible, a great weight of silver; that the auction of M. Tullius Cicero's [property], apart from the estates, ought to be held at the earliest opportunity. I should be glad if you would write to me what you think. For my part, if I had to pick from the lot, I should not easily have chosen a more careful or more obliging or, by Hercules, more devoted man than Vestorius, to whom I have written a most considered letter; and the same, I take it, you have done. To me this seems enough. What do you say? One thing only stings me --- that we should not appear too negligent. So I shall be waiting for your letter.",
+      "notes": null
+    }
+  ]
+}

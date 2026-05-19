@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-10",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.10",
+  "title_english": "Ad Atticum 14.10",
+  "date": "-0044-04-19",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "itane vero? hoc meus et tuus Brutus egit ut Lanuvi esset, ut Trebonius itineribus deviis proficisceretur in provinciam, ut omnia facta, scripta, dicta, promissa, cogitata Caesaris plus valerent quam si ipse viveret? meministine me clamare illo ipso primo Capitolino die debere senatum in Capitolium a praetoribus vocari? di immortales, quae tum opera effici potuerunt laetantibus omnibus bonis, etiam sat bonis, fractis latronibus! Liberalia tu accusas. quid fieri tum potuit? iam pridem perieramus. meministine te clamare causam perisse si funere elatus esset? at ille etiam in foro combustus laudatusque miserabiliter servique et egentes in tecta nostra cum facibus immissi. quae deinde? ut audeant dicere, tune contra Caesaris nutum? haec et talia ferre non possum. itaque γῆν πρὸ γῆσ cogito; tua tamen ὑπηνέμιοσ .",
+      "eng": "Is it really so? This is what my Brutus --- and yours --- has brought about: that he should be at Lanuvium; that Trebonius should set off for his province by back-roads; that all of Caesar's acts, writings, sayings, promises, and intentions should carry more weight than if he himself were alive? Do you remember how I cried out on that very first day on the Capitol that the praetors ought to summon the Senate to the Capitoline? Immortal gods, what could have been achieved then, with every honest man rejoicing --- even the merely passably honest --- and the brigands broken! You blame the Liberalia. What could have been done then? We were already long since lost. Do you remember how you cried out that our cause was finished if he was given a public funeral? But in fact he was even burned and eulogized in the Forum, with tears, and slaves and beggars were set loose on our houses with torches. What followed? That they dared to say, ``You against Caesar's wish?'' --- I cannot bear these things and the like. So I am turning over in my mind one land after another [Greek: g\\=en pro g\\=es]; though yours is wind-borne [Greek: hyp\\=enemios].",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nausea iamne plane abiit? mihi quidem ex tuis litteris coniectanti ita videbatur. redeo ad Tebassos, Scaevas, Fangones. hos tu existimas confidere se illa habituros stantibus nobis? in quibus plus virtutis putarunt quam experti sunt. pacis isti scilicet amatores et non latrocini auctores. at ego, cum tibi de Curtilio scripsi Sextilianoque fundo, scripsi de Censorino, de Messalla, de Planco, de Postumo, de genere toto. melius fuit perisse illo interfecto, quod numquam accidisset, quam haec videre.",
+      "eng": "Has your nausea now quite passed off? At least from your letter I gathered as much. I come back to the Tebassi, the Scaevae, the Fangones. Do you suppose these men believe they will keep their holdings while we stand? --- men in whom they reckoned more courage than they have found in practice. Lovers of peace, no doubt, these fellows, and not promoters of brigandage. But when I wrote to you about Curtilius and the Sextilian estate, I was also writing about Censorinus, about Messalla, about Plancus, about Postumus, about the whole tribe. It would have been better to have died in his killing --- which would never have happened --- than to see this.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Octavius Neapolim venit x iiii Kal. ibi eum Balbus mane postridie eodemque die mecum in Cumano, illum hereditatem aditurum. sed , ut scribis, † ῤιξόθεμιν † magnam cum Antonio. Buthrotia mihi tua res est, ut debet, eritque curae. quod quaeris, iamne ad centena Cluvianum, adventare videtur. scilicet primo anno L_X_X_X_ detersimus.",
+      "eng": "Octavius arrived at Naples on the fourteenth day before the Kalends. There Balbus saw him early next morning, and on the same day was with me at the Cumean villa; the young man is going to accept the inheritance. But, as you write, there is a great rixothemin [Greek: rhixothemin (text corrupt)] with Antony. The Buthrotian business is mine, as it must be, and shall have my care. As for your question, whether the Cluvian estate is by now up to a hundred thousand: it seems to be getting there. In the first year, evidently, we have skimmed off eighty thousand.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Quintus pater ad me gravia de filio, maxime quod matri nunc indulgeat cui antea bene merenti fuerit inimicus. ardentis in eum litteras ad me misit. ille autem quid agat si scis nequedum Roma es profectus, scribas ad me velim et hercule si quid aliud. vehementer delector tuis litteris.",
+      "eng": "Quintus the father writes me bitterly about his son, above all because the boy now indulges his mother --- when he had previously been hostile to her, who had deserved well of him. He has sent me a letter blazing against him. As for what young Quintus is up to: if you know, and you have not yet left Rome, please write me; and by Hercules, anything else as well. I take huge pleasure in your letters.",
+      "notes": null
+    }
+  ]
+}

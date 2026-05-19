@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-44",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.44",
+  "title_english": "Ad Atticum 12.44",
+  "date": "-0045-05-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "et Hirtium aliquid ad te συμπαθῶσ de me scripsisse facile patior (fecit enim humane) et te eius epistulam ad me non misisse multo facilius; tu enim etiam humanius. illius librum quem ad me misit de Catone propterea volo divulgari a tuis ut ex istorum vituperatione sit illius maior laudatio.",
+      "eng": "That Hirtius wrote something to you sympathetically [Greek: sympath\\=os] about me --- this I take in good part (for he did it humanely); and that you did not send me his letter --- that I take much more in good part (for you did so even more humanely). The book of his on Cato, which he sent to me --- this I want your people to circulate, so that the praise of him may be the greater for those men's reproach.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod per Mustelam agis, habes hominem valde idoneum meique sane studiosum iam inde a Pontiano. perfice igitur aliquid. quid autem aliud nisi ut aditus sit emptori? quod per quemvis heredem potest effici. sed Mustelam id perfecturum, si rogaris, puto. mihi vero et locum quem opto ad id quod volumus dederis et praeterea ἐγγήραμα . nam illa Sili et Drusi non satis οἰκοδεσποτικὰ mihi videntur. quid enim? sedere totos dies in villa? ista igitur malim, primum Othonis, deinde Clodiae. si nihil fiet, aut Druso ludus est suggerendus aut utendum Tusculano.",
+      "eng": "As for what you are doing through Mustela: you have a thoroughly suitable man there, sincerely attached to me ever since the time of Pontianus. So accomplish something. And what is there to accomplish, except that there be access for a buyer? That can be effected through any of the heirs. But Mustela, I think, will bring it off if asked. To me you will have given both the spot I wish for, with a view to what I want, and besides a place to grow old in, an [Greek: eng\\=erama]. For those of Silius and Drusus do not seem to me sufficiently master-of-the-house, [Greek: oikodespotika]. What then? sit whole days in a country house? Those, then, I should prefer --- Otho's first, then Clodia's. If nothing comes of it, we must either play Drusus along or make use of the Tusculanum.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod domi te inclusisti ratione fecisti; sed, quaeso, confice et te vacuum redde nobis. ego hinc, ut scripsi antea, postridie Idus Lanuvi, deinde postridie in Tusculano. Contudi enim animum et fortasse vici, si modo permansero. scies igitur fortasse cras, summum perendie. sed quid est, quaeso? Philotimus nec Carteiae Pompeium teneri (qua de re litterarum ad Clodium Patavinum missarum exemplum mihi Oppius et Balbus miserant, se id factum arbitrari) bellumque narrat reliquum satis magnum. solet omnino esse Fulviniaster. sed tamen, si quid habes. volo etiam de naufragio Caniniano scire quid sit.",
+      "eng": "That you shut yourself up at home, you did with reason; but, I beg you, finish, and give yourself back to me a free man. As for me --- from here, as I wrote before, on the day after the Ides to Lanuvium, then the day after that to the Tusculanum. For I have beaten down my spirit, and perhaps conquered it, if only I hold out. So you will know perhaps tomorrow, at latest the day after. But what is this, please? Philotimus reports that Pompey is not being held at Carteia (about which Oppius and Balbus had sent me a copy of the letter sent to Clodius Patavinus, saying they took it for fact), and tells of a sizable war still to come. He is, to be sure, a regular little Fulvinius. Still, if you have any news. I should also like to know what the matter is with Caninius' shipwreck.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "ego hic duo magna συντάγματα absolvi; nullo enim alio modo a miseria quasi aberrare possum. tu mihi, etiam si nihil erit quod scribas, quod fore ita video, tamen id ipsum scribas velim te nihil habuisse quod scriberes, dum modo ne his verbis.",
+      "eng": "I have completed here two great treatises [Greek: syntagmata]; for in no other way can I, so to speak, stray from my misery. As for you --- even if there will be nothing to write, as I see will be the case, still I should like you to write me that very thing: that you had nothing to write of --- provided not in those words.",
+      "notes": null
+    }
+  ]
+}

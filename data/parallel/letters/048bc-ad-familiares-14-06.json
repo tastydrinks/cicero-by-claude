@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-06",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.6",
+  "title_english": "Ad Familiares 14.6",
+  "date": "-0048-07-14",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nec saepe est cui litteras demus nec rem habemus ullam quam scribere velimus. ex tuis litteris, quas proxime accepi, cognovi praedium nullum venire potuisse. qua re videatis velim quo modo satis fiat ei, cui scitis me satis fieri velle. quod nostra tibi gratias agit, id ego non miror te mereri ut ea tibi merito tuo gratias agere possit. Pollicem, si adhuc non est profectus, quam primum fac extrudas. cura ut valeas. Idib. Quint.",
+      "eng": "There is seldom anyone to whom we can give letters, and we have nothing we should care to write. From the letters of yours which I last received I have learned that no property could be sold. Please therefore see how satisfaction may be made to the man to whom, as you know, I wish satisfaction made. That our Tullia gives you her thanks --- I am not surprised that you deserve it, that she should be able to thank you for what you have earned. If Pollex has not yet set out, send him packing as soon as you can. Take care of your health. On the Ides of July.",
+      "notes": null
+    }
+  ]
+}

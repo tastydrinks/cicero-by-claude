@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-19",
+  "category": "letters",
+  "title_latin": "Ad Familiares 2.19",
+  "title_english": "Ad Familiares 2.19",
+  "date": "-0050-06-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum optatissimum nuntium accepissem te mihi quaestorem obtigisse, eo iucundiorem mihi eam sortem sperabam fore, quo diutius in provincia mecum fuisses; magni enim videbatur interesse ad eam necessitudinem, quam nobis sors tribuisset, consuetudinem quoque accedere. postea , quom mihi nihil neque a te ipso neque ab ullo alio de adventu tuo scriberetur, verebar ne ita caderet, quod etiam nunc vereor, ne, ante quam tu in provinciam venisses, ego de provincia decederem. accepi autem a te missas litteras in Cilicia, cum essem in castris, a. d. x K. Quintilis scriptas humanissime, quibus facile et officium et ingenium tuum perspici posset, sed neque unde nec quo die datae essent aut quo tempore te exspectarem significabant, nec is, qui attulerat, a te acceperat, ut ex eo scirem, quo ex loco aut quo tempore essent datae.",
+      "eng": "When I had received the most welcome news that you had fallen to me by lot as quaestor, I had hoped the allotment would be all the more pleasing the longer you would be with me in the province; for it seemed to me to matter greatly that to the connection which the lot had assigned us, the habit of one another's company should also accrue. Afterwards, when no word reached me from you or anyone else about your coming, I began to fear what I fear still, that the case might fall out so that I should be stepping down from the province before you had set foot in it. I have, however, received a letter from you, sent in Cilicia while I was in camp, dated the tenth day before the Kalends of Quintilis, written in the warmest tone, by which both your good faith and your natural disposition could readily be discerned; but it did not say from where, or on what day, it had been despatched, nor at what time I should look for you; nor had the bearer received any word from you that would let me know from what place or at what time it had been sent.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quae cum essent incerta, existimavi tamen faciundum esse ut ad te statores meos et lictores cum litteris mitterem. quas si satis opportuno tempore accepisti, gratissimum mihi feceris, si ad me in Ciliciam quam primum veneris. nam , quod ad me Curius, consobrinus tuus, mihi, ut scis, maxime necessarius, quod item C. Vergilius, propinquus tuus, familiarissimus noster, de te accuratissime scripsit, valet id quidem apud me multum, sicuti debet hominum amicissimorum diligens commendatio, sed tuae litterae de tua praesertim dignitate et de nostra coniunctione maximi sunt apud me ponderis. mihi quaestor optatior obtingere nemo potuit. quam ob rem, quaecumque a me ornamenta †ad te proficiscentur, ut omnes intellegant a me habitam esse rationem tuae maiorumque tuorum dignitatis. sed id facilius consequar, si ad me in Ciliciam veneris; quod ego et mea et rei publicae et maxime tua interesse arbitror.",
+      "eng": "Things being so uncertain, I judged nevertheless that I had to send my orderlies and lictors to you with a letter. If you have received it at a sufficiently opportune time, you will have done me a most welcome service if you come to me in Cilicia at the earliest moment. For although Curius, your cousin --- a man, as you know, on the most intimate footing with me --- and likewise C. Vergilius, your kinsman and one of my closest friends, have written to me about you in the most particular detail, and that does count for much with me (as the diligent recommendation of the dearest friends ought), still your own letter, especially about your own dignity and our shared bond, weighs with me most. No quaestor more welcome could have fallen to me. Therefore, whatever marks of distinction shall set out from me †towards you, they shall be such that all men may see I have taken into account both your dignity and the dignity of your ancestors. But this I shall achieve the more easily if you come to me in Cilicia --- which I judge to be in my interest, in the commonwealth's, and most of all in yours.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-22",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.22",
+  "title_english": "Ad Atticum 13.22",
+  "date": "-0045-07-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de Varrone non sine causa quid tibi placeat tam diligenter exquiro. occurrunt mihi quaedam. sed ea coram. te autem ἀσμεναίτατα intexui faciamque id crebrius. proximis enim tuis litteris primum te id non nolle cognovi.",
+      "eng": "About Varro, it is not without reason that I am pressing you so carefully on what you think best. Certain things come to my mind. But of those, face to face. As for you, I wove you in most gladly [Greek: asmenaitata], and I shall do so more frequently. For in your most recent letter I learned for the first time that you do not object to it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Marcello scripserat ad me Cassius antea, τὰ κατὰ μέροσ Servius. o rem acerbam!",
+      "eng": "About Marcellus Cassius had written to me before; Servius has now sent the particulars [Greek: ta kata meros]. O bitter business!",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ad prima redeo. scripta nostra nusquam malo esse quam apud te, sed ea tum foras dari cum utrique nostrum videbitur. ego et librarios tuos culpa libero neque te accuso et tamen aliud quiddam ad te scripseram, Caerelliam quaedam habere quae nisi a te habere non potuerit. Balbo quidem intellegebam sat faciendum fuisse, tantum nolebam aut obsoletum Bruto aut Balbo incohatum dari. Varroni, simul ac te videro, si tibi videbitur, mittam. quid autem dubitarim, cum videro te, scies.",
+      "eng": "I come back to the first matter. I prefer my writings to be nowhere rather than with you, but only to be put out abroad when both of us think it right. I acquit your copyists of any blame, and I am not accusing you; even so, I had written something else to you --- that Caerellia has certain pieces which she could not have got except from you. To Balbo, certainly, I saw it had to be given; I only did not want either an outdated copy to be given to Brutus or an unfinished one to Balbus. To Varro I shall send it, as soon as I see you, if you think well of it. What it was that made me hesitate, you will know when I see you.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "attributos quod appellas valde probe. te de praedio Oviae exerceri moleste fero. de Bruto nostro perodiosum, sed vita fert. mulieres autem vix satis humane quae inimico animo ferant, cum in utraque officio pareat. Tullium scribam nihil fuit quod appellares; nam tibi mandassem si fuisset. nihil enim est apud eum positum nomine voti, sed est quiddam apud illum meum. id ego in hanc rem statui conferre. itaque et ego recte tibi dixi ubi esset, et tibi ille recte negavit. sed hoc quoque ipsum continuo adoriamur. Lucum hominibus non sane probo quod est desertior, sed habet εὐλογίαν . verum hoc quoque ut censueris, quippe qui omnia. ego , ut constitui, adero, atque utinam tu quoque eodem die! sin quid (multa enim), utique postridie. etenim coheredes †a quis sine te opprimi militia est†. alteris iam litteris nihil ad me de Attica. sed id quidem in optima spe pono; illud accuso non te sed illam, ne salutem quidem. at tu et illi et Piliae plurimam, nec me tamen irasci indicaris. epistulam Caesaris misi, si minus legisses.",
+      "eng": "That you are dunning the assigned debtors, very well done. That you are being put through your paces over Ovia's property I am sorry. Our friend Brutus' business is most tiresome; but life brings such things. The women, however, are scarcely behaving decently, since they take it in a hostile spirit when on both sides he is doing his duty. Tullius my secretary there was no occasion for you to dun; for I should have charged you with it if there had been. Nothing is deposited with him under the head of a vow, but there is a certain sum of mine in his hands. That I have determined to apply to this purpose. So I told you rightly where it was, and he rightly denied it to you. But let us tackle this matter too at once. The grove --- I do not really approve of it for the men's purposes, because the spot is too lonely; but it has its plausibility [Greek: eulogian]. Yet this too as you shall judge, since indeed in everything you do. I shall be there, as I have arranged --- and I only wish you too on the same day! But if anything intervenes (many things may), then on the following day at all events. For the co-heirs --- \\dag{}from whom to be put down without you is hard service\\dag{}. Two letters running now, and nothing to me about Attica. But this I set down to the best hope; what I do complain of is not you but her, that she has not so much as sent a greeting. But you for your part give my warmest to her and to Pilia, and do not let on, however, that I am cross. I have sent Caesar's letter, in case you had not read it.",
+      "notes": null
+    }
+  ]
+}

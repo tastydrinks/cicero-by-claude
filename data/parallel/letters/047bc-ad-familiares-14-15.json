@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-15",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.15",
+  "title_english": "Ad Familiares 14.15",
+  "date": "-0047-06-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "si vales, bene est. constitueramus , ut ad te antea scripseram, obviam Ciceronem Caesari mittere, sed mutavimus consilium, quia de illius adventu nihil audiebamus. de ceteris rebus, etsi nihil erat novi, tamen quid velimus et quid hoc tempore putemus opus esse ex Sicca poteris cognoscere. Tulliam adhuc mecum teneo. valetudinem tuam cura diligenter. vale . xii K. Quintilis.",
+      "eng": "If you are well, it is well. We had decided, as I wrote to you earlier, to send our Cicero to meet Caesar, but we have changed the plan, since we hear nothing of his arrival. About the rest, though there is nothing new, still what we want and what we judge needs doing at this moment you can learn from Sicca. Tullia I keep with me still. Take careful care of your health. Farewell. The twelfth day before the Kalends of Quintilis.",
+      "notes": null
+    }
+  ]
+}

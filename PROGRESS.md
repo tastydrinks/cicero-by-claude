@@ -6,7 +6,9 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 160 works end-to-end across all categories.
+- **Drafted**: 722 / 958 works end-to-end across all categories (~75.4%). See "Where to resume now" below for the post-session-23 chronology pointer and next-batch suggestions. The prose summary that follows describes the project state through session 4 only (drafted=160 then); the current authoritative state is in "Where to resume now."
+
+- **Drafted (legacy session-4 snapshot — see "Where to resume now" for current)**: 160 works end-to-end across all categories.
   - **Speeches (30)**: *Pro Quinctio* (81 BC), *Pro Roscio
     Amerino* (80 BC), *Pro Roscio Comoedo* (~76 BC),
     *Pro Tullio* (71 BC), *Divinatio in Caecilium* (Jan 70 BC),
@@ -526,6 +528,4347 @@ session can `continue` and apply them without re-asking:
 desktop, on his Max subscription quota). When Cowork opens this
 repo, this is the first section to read; \texttt{PLAN.md} is the
 binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-23):} 722 / 958 works
+drafted (\~75.4\%). \textbf{Latest drafted by deep chronology
+advanced} from \textit{Ad Atticum} 16.3 (Pompeianum, 17 July 44
+BC) to \textit{Ad Atticum} 16.15 (Arpinum, 9 December 44 BC) ---
+the entire remainder of the surviving Atticus correspondence
+through to its final letter. \textbf{Session 23 drafted all 13
+pending letters of \textit{Att.} 16 (16.4--16.16) in a single
+parallel wave of four workers.} This closes the book and brings
+the Atticus correspondence to its complete drafted state through
+December 44 BC. The chronological-gap warning now reports
+\textbf{115 pending works dated earlier than the latest-drafted
+(16.15 at -0044-12-09)}, down from 118 immediately after session
+22; the marker advance from -0044-10-25 to -0044-12-09 surfaced
+additional pending letters but the 13 letters drafted this session
+net to a modest reduction.
+
+\textbf{Cowork session 23 --- 13 letters drafted in one parallel
+wave (four workers):}
+\begin{itemize}
+\item \textbf{Worker A (\textit{Att.} 16.4--16.6, 3 letters, 9--25
+July 44 BC, Puteolanum / Vibo Valentia):} 16.5 (9 July, Puteolanum,
+the playful exchange about Brutus's mistaken expectation of an
+Accius \textit{Brutus} at his games, with the clustered Greek
+epithets \textit{am\=ym\=on / ambrotos} ``matchless / divine'' in
+Homeric-rank wordplay; the brilliant self-deprecating close ``Look
+around you --- only do it before I blush''); 16.4 (10 July, Puteolanum,
+the bitter ``or whatever title they go by'' refusing to dignify
+Antony and Dolabella with the consular title; ``the Nones of July''
+play on the renamed \textit{Quintilis}); 16.6 (25 July, Vibo Valentia,
+the \textit{ocellos Italiae, villulas meas} ``little eyes of Italy,
+my own small villas'' diminutives carrying a probable Catullus 31
+echo --- allusion-sidecar candidate; \textit{dolichon ploon} ``long
+voyage'' opening the journey-letters proper).
+\item \textbf{Worker B (\textit{Att.} 16.7--16.9, 3 letters, 19
+August -- 4 November 44 BC, navigans / Puteolanum):} \textbf{16.7
+(the famous turnabout letter, written while sailing back up the
+coast from Leucopetra after the meeting with Brutus at Velia,
+recounting the storm-driven return, the Olympia-reproach insinuation
+that Cicero was running off to spectate the games, and the Senate
+session of 1 August where Piso was abandoned --- the corpus's
+clearest first-person account of the decision to return and make
+the political fight that becomes the Philippics; seven Greek phrases
+including the Homeric-resonant \textit{anemes\=eta} ``past blame,''
+\textit{euthanasian} ``a good ending,'' and the medical
+\textit{peirazesthai paralysei} on Pilia's stroke; lacuna at §2
+in the manuscript preserved as a numbering gap)}; 16.8 (the
+\textit{vide nomen, vide aetatem} ``look at the name, look at the
+age'' Octavian-paradox compressed to four words, the apostrophe
+\textit{o Brute, ubi es?}\ ``O Brutus, where are you?,'' and the
+archaic numeral \textit{ci\b{$\supset$} ci\b{$\supset$} ci\b{$\supset$}}
+= 3,000 for Octavian's veterans); 16.9 (very short, the doubled
+\textit{iam iamque video bellum} ``already, already I see war'').
+\item \textbf{Worker C (\textit{Att.} 16.10--16.13, 4 letters,
+5--13 November 44 BC, Puteolanum / Sinuessanum / Aquinum):} 16.10
+(Sinuessanum, very short, plain Roman date-arithmetic); \textbf{16.11
+(\textbf{the long political-strategy letter}, Puteolanum, 5 Nov ---
+the Second Philippic pamphlet under Sextus Peducaeus's
+\textit{samizdat} circulation referred to as \textit{nostrum
+opus} ``my work,'' the Heraclitus B49 tag \textit{heis emoi
+murioi} ``one man is to me ten thousand,'' the Iliad 7.93
+\textit{aidesthen men an\=enasthai} ``ashamed to refuse'' applied
+to Octavian's overtures, plus eighteen Greek phrases including
+\textit{P\=eplographia}, \textit{H\=erakleideion},
+\textit{taxiarch\=es}, the dense \textit{ta peri tou kath\=ekontos}
+and \textit{prosph\=on\=o} dedications on \textit{De Officiis}
+under composition --- corpus-level hinges)}; \textbf{16.12 (very
+short, Puteolanum, 13 Nov; \textbf{location-field cleanup
+\texttt{in Puteolano vht} $\rightarrow$ \texttt{in Puteolano}};
+section-1 stray \textit{frustra me istic} \textbf{t} \textit{esse}
+preserved as a textual oddity)}; 16.13 (Aquinum, 10 Nov, two
+Homeric tags from the same Odyssey 3 passage --- \textit{dolichon
+ploon hormainonta} and \textit{par' \=enemoenta Mimanta} ---
+worth a translator-note on Cicero's epistolary citation habit;
+section 3 opens with a manuscript lacuna preserved as
+\texttt{* * *}).
+\item \textbf{Worker D (\textit{Att.} 16.14--16.16, 3 letters,
+middle November -- 9 December 44 BC + the chronologically misplaced
+16.16):} \textbf{16.14 (Arpinum, \textbf{date correction
+\mbox{-0044-07-19} $\rightarrow$ \mbox{-0044-11-15},
+\texttt{date\_precision} \texttt{year} $\rightarrow$ \texttt{month}}
+per Perseus \textit{medio mense Novembri}; two Greek phrases
+\textit{kath\=ekon} ``duty/the proper'' and \textit{hypomn\=ema}
+``memorandum''; the cryptic closing \textit{avi tui pronepos
+scribit ad patris mei nepotem\ldots aedem Opis explicaturum}
+``your grandfather's great-grandson writes to my father's grandson
+\ldots will open the temple of Ops'' --- a Roman family riddle
+transparent to Atticus but opaque now, worth a translator-note;
+\S2 missing from Perseus preserved as a numbering gap)};
+\textbf{15-Dec 16.15 (Arpinum, \textbf{the last surviving Atticus
+letter chronologically, the close of the Atticus archive}; four
+Greek phrases including the famous outburst against Octavian
+\textit{m\=ede s\=othei\=en hypo ge toioutou} ``may I never be
+saved by the likes of him'' --- bitterly ironic in light of the
+Second Triumvirate proscriptions a year later, definite
+translator-note --- and the comic-stage \textit{Stratullax}
+``strutter'' applied to Antony as a comic-soldier-type; four
+daggered cruxes preserved as defensively translated stretches};
+\textbf{location-field cleanup \texttt{in Arpinati ante}
+$\rightarrow$ \texttt{in Arpinati}})}; \textbf{16.16 (Tusculanum,
+3--6 July 44 BC, \textbf{chronologically much earlier than the
+surrounding book-16 cluster, bound at the close of book 16 by the
+manuscript transmission}; Perseus's TEI carries \textbf{only the
+brief four-sentence cover-note}; the standard composite editions
+attach 16.16A--E forwarded letters to Plancus, Capito, Cupiennius
+\textit{et al.}\ which are \textbf{not present in our source} and
+were not invented; \textbf{recipient-field cleanup \texttt{suo
+DIC. ATTICO} $\rightarrow$ \texttt{ATTICO}}, the OCR-contaminated
+salutation rendered as the standard \textit{CICERO ATTICO salutem}
+opener in the English file)}.
+\end{itemize}
+
+\textbf{Date corrections and location/recipient cleanups committed
+to \texttt{meta/works.yaml} during session 23 (one date correction
++ three location/recipient cleanups):}
+\begin{itemize}
+\item \textit{Att.} 16.14: date \mbox{-0044-07-19} $\rightarrow$
+\mbox{-0044-11-15} and \texttt{date\_precision} \texttt{year}
+$\rightarrow$ \texttt{month}, per Perseus \textit{medio mense
+Novembri a. 710 (44)}. The year-precision placeholder was
+plainly wrong; this is the headline correction.
+\item \textit{Att.} 16.12: \texttt{location\_written} \texttt{in
+Puteolano vht} $\rightarrow$ \texttt{in Puteolano} (OCR-bleed of
+the dateline's corrupt \texttt{vht Id. Nov.}\ into the location
+field). The dateline itself remains \texttt{vht Id. Nov.}\ in the
+Latin-file comment header; reading as \texttt{Id. Nov.}\ = 13
+November, which matches the meta-entry date \mbox{-0044-11-13}.
+\item \textit{Att.} 16.15: \texttt{location\_written} \texttt{in
+Arpinati ante} $\rightarrow$ \texttt{in Arpinati} (OCR-bleed of
+the dateline's \textit{ante v Id. Dec.}\ ``before 9 December''
+into the location field).
+\item \textit{Att.} 16.16: \texttt{recipient} \texttt{suo  DIC.
+ATTICO} $\rightarrow$ \texttt{ATTICO} (OCR-contaminated salutation
+\textit{CICERO suo salutem DIC. ATTICO} cleaned to the standard
+form; the worker's English file renders the opener as \textit{CICERO
+ATTICO salutem}).
+\end{itemize}
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{The Att.\ 16.6 \textit{ocellos Italiae, villulas
+meas} echo of Catullus 31.} The diminutives ``little eyes of
+Italy, my own small villas'' carry the Catullan \textit{Sirmio,
+insularum ocelle} as a probable allusion --- the bay-of-Naples
+estate-talk drawing on the Sirmio territory of intimate ownership.
+Worth a high-certainty allusion-sidecar entry.
+\item \textbf{The Att.\ 16.7 Leucopetra turnabout as the corpus's
+clearest first-person account of the decision that produces the
+Philippics.} The letter combines the storm-driven return, the
+Velia meeting with Brutus, and the Olympia-reproach insinuation
+into a single narrative arc; the implicit answer to the
+\textit{o Brute, ubi es?}\ apostrophe in 16.8. Worth a sustained
+corpus-level translator-note on the Velia-meeting hinge.
+\item \textbf{The Att.\ 16.7 \textit{anemes\=eta} Homeric register.}
+``Past blame'' / ``not such as to draw nemesis'' --- a markedly
+epic-register Greek choice for a letter whose subject is whether
+his return from Leucopetra was honourable or shameful. Worth a
+translator-note on Cicero's reach for Homer when the question is
+his own honour.
+\item \textbf{The Att.\ 16.8 \textit{ci\b{$\supset$}
+ci\b{$\supset$} ci\b{$\supset$}}\ = 3,000 archaic Roman numeral.}
+The antiquarian apostrophus numeral form is preserved in Perseus
+and rendered ``three thousand veterans'' in the English. Worth a
+glossary-realia note on the apostrophus numeral system and its
+survival in epistolary Latin.
+\item \textbf{The Att.\ 16.11 corpus-level \textit{De Officiis}
+notice and the Second Philippic \textit{samizdat}.} The double-
+hinge letter: \textit{ta peri tou kath\=ekontos\ldots prosph\=on\=o}
+``on the proper duties\ldots I dedicate'' marks \textit{De Officiis}
+in active dedication, while \textit{nostrum opus} ``my work''
+circulating among Sextus Peducaeus's circle marks the Second
+Philippic in pre-publication pamphlet form. Worth a sustained
+corpus-level note on these two parallel literary projects
+through November 44.
+\item \textbf{The Att.\ 16.11 Heraclitus B49 \textit{heis emoi
+murioi} citation.} ``One man is to me ten thousand'' --- the
+philosophical-justification fragment Cicero deploys to make his
+political stance bear weight. High-certainty allusion-sidecar
+entry candidate for the Heraclitus fragment.
+\item \textbf{The Att.\ 16.13 doubled Odyssey 3 citations
+(\textit{dolichon ploon hormainonta}, \textit{par' \=enemoenta
+Mimanta}).} Two phrases from \textit{Odyssey} 3.169--172 in the
+same letter --- Cicero's epistolary citation habit at its densest.
+Worth a translator-note on Cicero's distinctive Homeric
+mosaic-citation style and an allusion-sidecar entry for both.
+\item \textbf{The Att.\ 16.14 \textit{avi tui pronepos
+\ldots aedem Opis explicaturum} family riddle.} ``Your
+grandfather's great-grandson writes to my father's grandson\ldots
+will open the temple of Ops.'' The Roman-family identification
+that was transparent to Atticus is now opaque; preserved
+literally with a flag in the headnote. Worth a translator-note
+on the unrecoverable referent.
+\item \textbf{The Att.\ 16.15 \textit{m\=ede s\=othei\=en hypo ge
+toioutou} ``may I never be saved by the likes of him''
+outburst against Octavian.} Bitterly ironic given the Second
+Triumvirate proscriptions a year later that proscribe and kill
+Cicero. Worth the most sustained translator-note in the cluster
+on Cicero's missed reading of the young heir.
+\item \textbf{The Att.\ 16.15 \textit{Stratullax} comic-soldier
+applied to Antony.} The obscure comic-stage type (perhaps from a
+lost Plautine play) applied to Antony as a strutting-soldier
+caricature. Worth a glossary-realia note on the Stratullax type
+and its application.
+\item \textbf{The Att.\ 16.16 Perseus-TEI truncation versus modern
+composite editions.} A corpus-level note on the discrepancy
+between Perseus's brief cover-note and the standard Shackleton
+Bailey / Tyrrell--Purser composite of 16.16 + 16.16A--E. Worth
+flagging in the manifest so the reader of the bound volume sees
+the editorial scope.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 23 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 23:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item \textbf{Slice U opening: \textit{Ad Familiares} 10 to
+Plancus.} With the Atticus correspondence drafted complete
+through 9 December 44 BC, the chronologically next active
+sub-sequence is \textit{Fam.} 10, the Plancus correspondence
+covering September 44 BC through 43 BC --- Cicero's epistolary
+campaign to keep L. Munatius Plancus loyal to the Senate during
+the Mutina campaign. About 24 letters, parallel-dispatchable at
+3--4 per worker. \textit{Fam.} 10.1 (Romae, 19 September 44 BC,
+to Plancus) is the chronologically next pending letter.
+\item \textbf{Slice S (the chronological-gap sweep, 115 pending
+letters earlier than the new -0044-12-09 marker):} substantial
+backlog --- the \textit{Att.} 13.36 metadata-followup (no Perseus
+URL --- check whether it merges with 13.35 per Shackleton Bailey),
+the two pending \textit{Att.} 13.15 and 13.18 placeholder stubs
+(awaiting manual Latin from session 18), the remaining
+\textit{Fam.} 5 sub-cluster (5.15--5.18, all 45 BC,
+parallel-dispatchable), and the \textit{Fam.} 5.10a/5.10b split
+work flagged in session 20. The 16.15 marker advance to 9 December
+exposes some early-43 BC letters that may now sit above the marker.
+\item \textbf{Slice C (substantial speeches blocking the
+chronological-gap sweep, dispatch one per session not in
+parallel):} \texttt{pro-milone} (52 BC), \texttt{partitiones-oratoriae},
+\texttt{pro-plancio}, \texttt{pro-rabirio-postumo},
+\texttt{pro-scauro}. None advanced this session.
+\item \textbf{Slice M (entity-stub enrichment):} the entity registry
+still has $\sim$472 stub entries needing real summaries --- ripe
+for an aggressive parallel pass.
+\end{itemize}
+
+
+\textbf{Translation state (post-Cowork-session-22):} 709 / 958
+works drafted (\~74.0\%). \textbf{Latest drafted by deep chronology
+advanced} from \textit{Ad Atticum} 15.8 (Tusculanum, 31 May 44 BC)
+to \textit{Ad Atticum} 16.3 (Pompeianum, 17 July 44 BC) --- a
+seven-week advance that walks the journey out of Tusculum through
+Antium, the return to Tusculum, the Arpinum-and-Formiae detour,
+and into the opening of \textit{Att.} 16's Puteoli/Pompeii July
+sequence. \textbf{Session 22 drafted 24 letters in two parallel
+waves (three workers in each wave)} --- the entire remaining
+\textit{Att.} 15 cluster from 15.9 through 15.29 (21 letters; the
+Tusculanum/Antium June 44 BC daily-letter sequence, including the
+historically central 15.11 council-of-Antium letter where Cicero
+sits in on Brutus, Cassius, Servilia, Porcia and Tertia debating
+whether Brutus should accept the cura annonae, and the famously
+out-of-order 15.13 from 25 October 44 BC bound by the manuscript
+transmission into the June cluster) and the opening three letters
+of \textit{Att.} 16 (16.1--16.3, Puteoli and Pompeii, 8--17 July
+44 BC, including 16.1's joke ``could anything be more disgraceful
+than `July' for Brutus?'' on the renamed Quinctilis/Iulius). The
+chronological-gap warning now reports \textbf{118 pending works
+dated earlier than the latest-drafted (15.13 at -0044-10-25)},
+down from 130 immediately after wave-1 consolidation; the gap
+metric jumped at the start of session 22 because 15.13's October
+date became the new latest-drafted, exposing many previously-
+above-marker letters; the closing 118 reflects the 24 drafted
+this session minus the surface-exposure inflation.
+
+\textbf{Cowork session 22 --- 24 letters drafted across two
+parallel waves (six workers):}
+
+\textbf{Wave 1 (3 workers, 12 letters --- the opening Att. 15
+June daily-letter cluster):}
+\begin{itemize}
+\item \textbf{Worker A (\textit{Att.} 15.9--15.12, 4 letters,
+2--10 June 44 BC, Tusculanum / Antium):} 15.9 (the Persian
+Portico / Eurotas / Lacedaemon ekphrasis with two daggered cruxes
+on \textit{legatoriam} and the Lacedaemon clause); 15.10 (the
+\textit{Dionis legatio} allusion to Dio the Academic's humiliating
+embassy under Ptolemy XII; date editorial choice 5 vs. 6 June
+flagged); \textbf{15.11 (\textbf{the historically central
+council-of-Antium letter}, the eye-witness report of the
+Brutus/Cassius/Servilia/Porcia/Tertia conference debating
+whether Brutus should accept the cura annonae or sail east; the
+Euripidean \textit{Iphigeneia in Aulis} 956 tag \textit{h\=e
+deur' hodos soi ti dynatai nyn, theoprope?} ``what does this
+journey of yours hither avail you now, prophet?'' turned by
+Cicero from Achilles-to-Calchas into self-address; one daggered
+crux at \S2)}; 15.12 (Antium, the first substantial Ciceronian
+portrait of the young Octavian's political schooling, four Greek
+phrases including \textit{kat\=ech\=esei} ``indoctrination'' --- a
+notably Greek-philosophical word for what is being done to him,
+\textit{h\=er\=oas} ``heroes'' for the conspirators, and the
+mock-tragic \textit{t\=onde aitian t\=on Brout\=on tis echei}
+``one of the Bruti bears the blame for this'' applied to Decimus).
+\item \textbf{Worker B (\textit{Att.} 15.13--15.16, 4 letters):}
+\textbf{15.13 (Puteolanum, 25 October 44 BC --- the famously
+out-of-place letter bound by the manuscript transmission into
+the June cluster but actually four months later, after the
+Philippics had begun); the first explicit announcement of
+\textit{De Officiis} in composition --- \textit{philosophoumen
+ta peri tou kath\=ekontos} ``we philosophize the proper
+duties'' --- and the \textit{prosph\=onoumen} dedication phrase};
+15.14 (Tusculanum, 27 June, \textit{synt\Vaxeis} and
+\textit{mete\=oros} ``adrift''); 15.15 (Antium, the
+\textit{animus/stomachus} courage-versus-spleen pun and two
+daggered cruxes); 15.16 (Antium, very short, \textit{pepin\=omen\=os}
+``elegantly'' and \textit{prokop\=e} ``progress'').
+\item \textbf{Worker C (\textit{Att.} 15.17--15.20, 4 letters,
+14--21 June 44 BC, Antium / Antium-to-Tusculum journey /
+Tusculanum):} 15.17 (Antium, \textit{philostorg\=os} ``warm of
+heart'' twice in one letter and \textit{eupin\=os} ``neatly
+turned''; \textbf{date correction \mbox{-0044-06-13}
+$\rightarrow$ \mbox{-0044-06-14} per Perseus
+\textit{postridie Idus} = the 14th, not the Ides itself; also
+location \texttt{in Antiati postr} $\rightarrow$ \texttt{in
+Antiati} OCR-bleed; recipient \texttt{ATTlCO} $\rightarrow$
+\texttt{ATTICO} lowercase-L typo}); 15.18 (the journey-back
+letter, \textit{in itinere ex Antiati in Tusculanum}, the Latin
+opens xvii Kal.\ but the dateline gives xvi K.\ Quint.\
+--- editorial choice 16 June retained); 15.19 (\textit{erg\=odes
+/ anekton} ``laborious / bearable'' antithesis,
+\textit{schediasma} ``improvisation, off-the-cuff''); 15.20
+(Tusculanum, the lobster-pot \textit{nassa} image preserved
+literally, the elliptical \textit{di illi mortuo qui umquam
+Buthrotum!} curse over the Buthrotum settler-land issue, and
+the closing \textit{mea manu} ``in my own hand'' notice; section
+2 absent from the Perseus text, preserved as-is).
+\end{itemize}
+
+\textbf{Wave 2 (3 workers, 12 letters --- the closing Att. 15
+late-June/early-July cluster + the opening Att. 16 sub-cluster):}
+\begin{itemize}
+\item \textbf{Worker D (\textit{Att.} 15.21--15.24, 4 letters,
+22--27 June 44 BC, Tusculanum):} 15.21 (the 400,000-sesterces
+\textit{CCCC} financial notation and the bitter close
+\textit{ecquem tu illo certiorem nebulonem?} ``did you ever
+know a more thorough fraud than that fellow?''; three Greek
+phrases \textit{epoch\=en} ``suspension,'' \textit{akerai\={o}s}
+``without compromise,'' \textit{plous} ``voyage''); 15.22
+(the \textit{noster Cytherius} Antony-and-Cytheris reference and
+the tricolon of sceptic's questions culminating in
+\textit{quousque ludemur?} ``how long shall we be played
+with?''); 15.23 (Tusculanum, \textbf{location correction
+\texttt{in Tusculano viW aut} $\rightarrow$ \texttt{in
+Tusculano} OCR-bleed of date numerals \textit{vi aut vii} into
+the location field}; the paradox opener \textit{mirifice torqueor,
+sine dolore tamen} ``I am racked exceedingly, yet without pain'';
+\textit{hypomn\=ema} ``memorandum''); 15.24 (very short, one
+daggered crux on the toponym Brutus set out for ---
+Lanuvium/Antium/Nesis conjectures).
+\item \textbf{Worker E (\textit{Att.} 15.25--15.29, 5 letters,
+29 June -- 6 July 44 BC, Tusculanum / Arpinum / Formiae):}
+15.25 (very short, one daggered Olympia/mysteries syntax);
+\textbf{15.26 (Arpinum, the political reading of Brutus's
+\textit{ludi Apollinares} games as a public test of nerve;
+\textit{pseudengraph\=oi} ``forged'' and \textit{atop\=otaton}
+``most absurd''; section 4 daggered corrupt stretch around
+Caerellia and an eighth-share inheritance)}; 15.27 (Arpinum,
+\textit{H\=erakleideion} ``in the Heraclidean manner''
+[Heraclides Ponticus's dialogue form], the Homeric \textit{aut\=ei
+boulysei} ``at the ox-loosing'' [late afternoon] from
+\textit{Iliad} 16.779 / \textit{Odyssey} 9.58 --- a high-certainty
+allusion-sidecar candidate); 15.28 (very short, paired with 15.27
+on the same courier same day); \textbf{15.29 (\textbf{date
+correction \mbox{-0044-07-07} $\rightarrow$ \mbox{-0044-07-06}}
+per Perseus \textit{prid.\ Non.\ Quint.}\ and the decisive
+internal evidence at \S3 \textit{pridie quam hoc scribebam, id
+est III Non.}\ ``the day before I was writing this, that is on
+the 3rd before the Nones'' --- so writing-date = pridie Non.\ =
+6 July; \textbf{location correction \texttt{in Formiano prict}
+$\rightarrow$ \texttt{in Formiano} OCR-bleed of \texttt{prid.}\
+into the location field}; five Greek phrases including
+\textit{am\=echania} ``helplessness,'' \textit{speisasthai}
+``to make a treaty,'' \textit{ebdelyttom\=en} ``I was
+disgusted'')}.
+\item \textbf{Worker F (\textit{Att.} 16.1--16.3, 3 letters,
+8--17 July 44 BC, Puteoli / Pompeii --- \textbf{opening of Book
+16, the last surviving book of the Atticus correspondence,
+running July through early November 44 BC}):} \textbf{16.1
+(Puteolanum, the renamed \textit{Quinctilis} $\rightarrow$
+\textit{Iulius} joke ``could anything be more disgraceful than
+`July' for Brutus?'' on Caesar's calendar rebrand, five Greek
+phrases including \textit{l\=eros polus} ``much twaddle'' and
+\textit{glischr\=os} ``pinchingly'', and two daggered cruxes)};
+16.2 (Puteolanum, the \textit{H\=erakleideion} treatise progress
+report and the metrically-accented quasi-versified close
+\textit{dum modo doleant aliquid, doleant quidlibet} ``as long
+as they suffer something, let them suffer whatever'' --- possibly
+Naevius / Accius, unidentified, allusion-sidecar candidate;
+\textit{eklogai} ``excerpts'' for the \textit{De Officiis}
+material being drawn); 16.3 (Pompeianum, the
+\textit{archetypon} ``the original itself'' / \textit{syntagma}
+``treatise'' pair, and the embedded Ennian \textit{o Tite, si
+quid} tag --- a Tite-praenomen pun playing on Atticus's name,
+high-certainty Ennius \textit{Annales} allusion candidate).
+\end{itemize}
+
+\textbf{Date corrections and precision changes committed to
+\texttt{meta/works.yaml} during session 22 (two date corrections
++ three location/recipient cleanups):}
+\begin{itemize}
+\item \textit{Att.} 15.17: date \mbox{-0044-06-13} $\rightarrow$
+\mbox{-0044-06-14} day-precision (Perseus \textit{postridie Idus}
+= the 14th, not the Ides itself).
+\item \textit{Att.} 15.17: \texttt{location\_written} \texttt{in
+Antiati postr} $\rightarrow$ \texttt{in Antiati} (OCR-bleed of
+the dateline's \textit{postridie}).
+\item \textit{Att.} 15.17: \texttt{recipient} \texttt{ATTlCO}
+$\rightarrow$ \texttt{ATTICO} (lowercase-L for I typo).
+\item \textit{Att.} 15.16: \texttt{location\_written} \texttt{in
+Antiati iii aut} $\rightarrow$ \texttt{in Antiati} (OCR-bleed of
+date numerals \textit{iii aut} into the location field).
+\item \textit{Att.} 15.23: \texttt{location\_written} \texttt{in
+Tusculano viW aut} $\rightarrow$ \texttt{in Tusculano} (OCR-bleed
+of date numerals \textit{vi aut vii} into the location field).
+\item \textit{Att.} 15.29: date \mbox{-0044-07-07} $\rightarrow$
+\mbox{-0044-07-06} day-precision (Perseus \textit{prid.\ Non.\
+Quint.}\ and decisive \S3 internal evidence).
+\item \textit{Att.} 15.29: \texttt{location\_written} \texttt{in
+Formiano prict} $\rightarrow$ \texttt{in Formiano} (OCR-bleed of
+\textit{prid.}\ from the dateline). No file rename needed under
+either reading; the \texttt{044bc-} prefix remains correct.
+\end{itemize}
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{The Att.\ 15.11 \textit{h\=e deur' hodos soi ti
+dynatai nyn, theoprope?} (Euripides, \textit{Iphigeneia in
+Aulis} 956) self-redeployment.} The line Achilles flings at
+Calchas the prophet --- ``what does this journey of yours hither
+avail you now?'' --- Cicero turns into a self-question after the
+council of Antium fails to clarify Brutus's course. Worth a
+corpus-level translator-note both for the Euripidean
+identification and for the move from prophet-figure to
+political-actor-figure.
+\item \textbf{The Att.\ 15.12 portrait of the young Octavian's
+political \textit{kat\=ech\=esis}.} Cicero's first substantial
+portrait of Octavian's schooling under the Caesarian veterans
+deploys \textit{kat\=ech\=esei} --- a markedly Greek-philosophical
+word for ``indoctrination / oral instruction'' usually applied
+to Stoic or Epicurean catechesis. Cicero is reading the young
+heir as a philosophical-pupil-in-formation; the political
+implications are sharp and the word-choice doctrinal. Worth a
+sustained corpus-level translator-note.
+\item \textbf{The Att.\ 15.13 \textit{De Officiis}-in-composition
+announcement.} The October-25 dating places this letter four
+months later than the surrounding June cluster, and the line
+\textit{philosophoumen ta peri tou kath\=ekontos.\
+prosph\=onoumen} ``we philosophize the proper duties.\ we
+dedicate'' is the first explicit notice of \textit{De Officiis}
+under composition --- a corpus-level hinge.
+\item \textbf{The Att.\ 15.20 \textit{di illi mortuo qui umquam
+Buthrotum!} curse.} The elliptical imprecation against
+``whichever dead man'' first proposed the Buthrotian land seizure
+preserves the depth of Cicero's frustration with the
+veteran-settler programme; the referent (likely a Caesarian
+veteran or settler) is unrecoverable. Worth a translator-note
+on the ellipsis and a glossary note on the Buthrotum issue.
+\item \textbf{The Att.\ 15.27 \textit{aut\=ei boulysei} Homeric
+quotation.} High-certainty allusion to \textit{Iliad} 16.779 /
+\textit{Odyssey} 9.58 (``at the ox-loosing,'' i.e.\ late
+afternoon when oxen are unyoked) --- the more colloquial of
+Cicero's Homeric phrase-borrowings. Worth a future allusion-
+sidecar entry.
+\item \textbf{The Att.\ 16.1 \textit{Iulius}-Quinctilis joke
+``could anything be more disgraceful than `July' for Brutus?''}
+The renaming of \textit{Quinctilis} (the fifth month) to
+\textit{Iulius} after Caesar makes the proper time-marking of
+Brutus's \textit{ludi Apollinares} into a political offence;
+holding the games in ``July'' rather than \textit{Quinctilis}
+silently endorses the Caesarian-calendar rebrand. Worth a
+sustained translator-note both on the punning sharpness and on
+the corpus-wide question of how Cicero handles month-names in
+post-Ides letters.
+\item \textbf{The Att.\ 16.2 quasi-versified close \textit{dum
+modo doleant aliquid, doleant quidlibet}.} The metrically-
+accented phrasing in Perseus suggests a versified citation,
+possibly from Naevius or Accius, but unidentified. Worth flagging
+as an open allusion-sidecar candidate.
+\item \textbf{The Att.\ 16.3 \textit{o Tite, si quid} Ennian
+tag.} The high-certainty Ennius \textit{Annales} tag turns on
+Atticus's praenomen Titus --- ``O Titus, if anything\ldots''
+The vocative play between epic-fragment and personal address is
+one of Cicero's recurring Ennian moves; worth a corpus-level
+note on the recurrence pattern.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 22 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 22:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item \textbf{Slice T continuation: \textit{Att.} 16.4 onward
+through 16.16.} Book 16 continues with thirteen more letters
+(16.4--16.16), from late-July through early November 44 BC,
+covering Cicero's aborted Greek voyage, the return to Rome, the
+beginning of the Philippics confrontation with Antony, and the
+final close of the Atticus correspondence. Short-to-medium
+letters, ideal for parallel dispatch at 3--4 per worker. This
+is the natural Slice T continuation and the chronologically
+most-current sequence.
+\item \textbf{Slice S (the chronological-gap sweep, 118 pending
+letters earlier than the new -0044-10-25 marker):} substantial
+backlog --- the \textit{Att.} 13.36 metadata-followup (no Perseus
+URL --- check whether it merges with 13.35 per Shackleton
+Bailey), the two pending \textit{Att.} 13.15 and 13.18
+placeholder stubs (awaiting manual Latin from session 18), the
+remaining \textit{Fam.} 5 sub-cluster (5.15--5.18, all 45 BC,
+parallel-dispatchable), and the \textit{Fam.} 5.10a/5.10b split
+work flagged in session 20.
+\item \textbf{Slice C (substantial speeches blocking the
+chronological-gap sweep, dispatch one per session not in
+parallel):} \texttt{pro-milone} (52 BC),
+\texttt{partitiones-oratoriae}, \texttt{pro-plancio},
+\texttt{pro-rabirio-postumo}, \texttt{pro-scauro}. None advanced
+this session.
+\item \textbf{Slice V continuation: the Paetus 45 BC tail.} Only
+\textit{Fam.} 9.24 (February 43 BC) and \textit{Fam.} 9.25
+(placeholder, no usable Latin) remain in book 9 pending.
+\item \textbf{Slice M (entity-stub enrichment):} the entity
+registry still has $\sim$472 stub entries needing real summaries
+--- ripe for an aggressive parallel pass.
+\end{itemize}
+
+
+\textbf{Translation state (post-Cowork-session-21):} 685 / 958
+works drafted (\~71.5\%). \textbf{Latest drafted by deep chronology
+advanced} from \textit{Ad Atticum} 14.9 (Cumanum, 17 April 44 BC)
+to \textit{Ad Atticum} 15.8 (Tusculanum, 31 May 44 BC) --- a
+six-week advance that walks the post-Ides itinerary forward from
+Cumae through Puteoli, the Pompeianum, the Vescinum, Arpinum, and
+into the Tusculan villa where the May daily-letter sequence
+settles. \textbf{Session 21 drafted 21 letters in two parallel
+waves (three workers in wave 1, two in wave 2)} --- the entire
+remaining post-Ides \textit{Att.} 14 cluster from 14.10 through
+14.22 (13 letters; the Cumanum/Puteolanum/Pompeianum journey-north
+sequence of April--May 44 BC, including the famously out-of-order
+14.15 dated K. Mart.\ celebrating Dolabella's tearing-down of the
+altar/column at Caesar's funeral-pyre site and crucifying the
+false-Marius pretenders), and the opening \textit{Att.} 15
+sub-cluster 15.1--15.8 (Puteolanum through Vescinum, Arpinum, and
+Tusculanum, 17--31 May 44 BC, including 15.1's death of the
+doctor Alexio, 15.4's \textit{me Idus Martiae non delectant} ``the
+Ides of March do not delight me'' / \textit{excisa enim est arbor,
+non evulsa} ``the tree was cut down, not torn up by the roots''
+retraction --- the sharpest single recantation of the assassination
+in the corpus --- and 15.6's rare embedded verbatim
+\textit{Hirtius Ciceroni} sub-letter). The chronological-gap
+warning is now \textbf{89 pending works dated earlier than the
+latest-drafted} (up from 84 at the end of session 20; the small
+net increase reflects the six-week advance into late May exposing
+additional earlier-pending letters that were previously above the
+marker).
+
+\textbf{Cowork session 21 --- 21 letters drafted across two
+parallel waves (five workers):}
+
+\textbf{Wave 1 (3 workers, 13 letters --- the closing Att. 14
+post-Ides journey-north sequence):}
+\begin{itemize}
+\item \textbf{Worker A (\textit{Att.} 14.10--14.13, 4 letters,
+19--26 April 44 BC, Cumanum / Puteoli):} 14.10 (Cumanum,
+\textit{g\=en pro g\=es} ``one land after another,''
+\textit{hyp\=enemios} ``wind-borne,'' and the daggered crux \dag\
+\textit{rixothemin} \dag\ probably encoding a quarrel with
+Antony); 14.11 (\textit{akolasian} ``licence''); 14.12 (Puteoli,
+the truncated tragic tag \textit{ubi nec Pelopidarum, inquit}
+``where neither the Pelopidae's name . . .,'' source uncertain
+in the Accius/Ennius range); 14.13 (the substantial Antony-letter
+reply, with two Homeric quotations --- \textit{Iliad} 9.228--230
+adapted as \textit{all' ou daitos erat\=es erga mem\=elen} ``but
+the works of the loved banquet have not been our care,'' and
+\textit{Iliad} 5.428--429 with the famous Ciceronian
+re-pointing of \textit{logoio} for \textit{gamoio} --- Aphrodite's
+instruction to leave war for marriage becomes leave war for
+speech).
+\item \textbf{Worker B (\textit{Att.} 14.14--14.17, 4 letters, 27
+April / 1 March / 3--4 May 44 BC):} 14.14 (Cumanum, the
+obelised \dag\ \textit{Pherionum more} \dag\ ``Pherionian
+fashion'' --- conjectured ``ferryman's'' or a proper-name corruption ---
+and the \textit{Brutorum / brutorum} ``Bruti's / brutes'' pun);
+\textbf{14.15 (Cumanum, the famously out-of-order K.\ Mart.\ =
+1 March 44 BC letter)}, \textit{o mirificum Dolabellam meum!}
+celebrating Dolabella's punitive demolition of the altar/column
+at Caesar's funeral-pyre site and the punishment of the
+false-Marius pretenders \textit{de saxo, in crucem} ``from the
+rock --- to the cross''; 14.16 (Puteolanum / hortis Cluvianis,
+\textit{aristeian}, \textit{anathe\=or\=esis}, \textit{kata
+miton} ``thread by thread,'' and the \textit{tyrotarichum}
+``cheese-and-salt-fish'' Paetus-table comic shorthand); 14.17
+(Pompeianum, \textit{anekdoton} ``unpublished'' --- the suppressed
+political memoir, identity debated between \textit{De Gloria} and
+the lost \textit{Secret History} --- and the striking observation
+that ``things could be said less dangerously with the tyrant
+alive than with him dead'').
+\item \textbf{Worker C (\textit{Att.} 14.18--14.22, 5 letters,
+9--14 May 44 BC, Pompeianum / Puteolanum):} 14.18 (the locus
+desperatus \dag\ \textit{suspendiatus est} \dag\ in \S2
+preserved); 14.19 (Pompeianum, the corrupt \dag\ \textit{aritia}
+\dag\ in \S1 and \textit{praxin} ``exploit'' twice in \S5); 14.20
+(Puteolanum, the rare Atilius iambic-septenarius fragment
+\textit{suam quoique sponsam, mihi meam} ``to each his own bride,
+mine to me,'' \textit{katholikon the\=or\=ema} ``general
+theorem,'' and the teasing \textit{m\=e} near-blasphemy against
+Epicurus); 14.21 (Puteolanum, the cluster's densest Greek-phrase
+letter --- \textit{huposolokia}, \textit{bebi\=otai},
+\textit{pentel\=opion}, \textit{l\=eros polus}, four in one short
+letter --- plus the embedded iambic-feel epigram \textit{hoc
+metuere, alterum in metu non ponere}); 14.22 (Puteolanum, the
+Sophoclean tragic-iambic fragment \textit{allois en esthlois
+tond' ap\=othountai psogon} ``in other goods men shake off this
+reproach,'' attributed by editors to the lost \textit{Erigone},
+plus four Greek phrases including \textit{phainopros\=op\=eteon}
+``one must put on a brave face'' and \textit{iteon} ``one must
+go,'' the cluster's clearest Stoic-flavoured imperative).
+\end{itemize}
+
+\textbf{Wave 2 (2 workers, 8 letters --- the opening Att. 15
+sub-cluster 17--31 May 44 BC):}
+\begin{itemize}
+\item \textbf{Worker D (\textit{Att.} 15.1--15.4, 4 letters, 17,
+18, 22, 24 May 44 BC):} 15.1 (Puteolanum, \textbf{the death of
+the doctor Alexio}, \textit{ouden} and \textit{to ek toutou}; the
+daggered \dag\ \textit{attinet} \dag\ in \S2 and the embedded
+comic-iambic verse \textit{quid est aut\'em cur ego pers\'onatus
+amb\'ulem?} ``why am I to be the one walking around in a mask?'',
+possibly from a lost togata); 15.2 (Vescinum, the corrupt
+\textit{pentel\=oipon} ``five-remaining points'' rendered by
+surface sense; two daggered Latin loci preserved); \textbf{15.3
+(Arpinati, \textbf{date correction committed} from works.yaml's
+\mbox{-0044-06-01} to \mbox{-0044-05-22}, Perseus dateline
+\textit{in Arpinati xt K.\ Iun.} restored conventionally as
+\textit{xi K.\ Iun.} = 22 May, with the May-22 placement
+consistent with the manuscript order; location field also
+trimmed from ``in Arpinati xt'' to ``in Arpinati''); 15.4
+(Arpinati, \textbf{the corpus's sharpest single Ides-of-March
+retraction} \textit{me Idus Martiae non delectant. nihil enim
+nisi quod illud lubet . . . excisa enim est arbor, non evulsa}
+``the Ides of March do not delight me . . .\ for the tree was
+cut down, not torn up by the roots,'' plus five Greek phrases
+\textit{an\=o}, \textit{aporia}, \textit{mel\=esei},
+\textit{parencheir\=esis}, \textit{H\=erakleideion}; daggered
+\dag\ \textit{aps condoleo} \dag\ in \S1 preserved by ellipsis).}
+\item \textbf{Worker E (\textit{Att.} 15.5--15.8, 4 letters,
+27--31 May 44 BC, Tusculanum):} 15.5 (the Cassius-Hirtius letter
+opening with the daggered Greek proverb \dag\ \textit{ho
+th\=esauros anthrakes} \dag\ ``the treasure is coals,'' Cicero's
+mordant Hellenistic-comic shorthand for hopes turning worthless,
+deployed for Cassius's request that Cicero use his influence with
+Hirtius); \textbf{15.6 (the rare embedded sub-letter --- 15.6
+\S2 reproduces verbatim Hirtius's reply \textit{HIRTIVS CICERONI
+suo salutem}, not a Brutus/Cassius edict-reply; the
+\textit{vesperi} dateline confirms 27 May evening per works.yaml)};
+15.7 (very short, no \ciceroSection markers in the Latin,
+rendered as single paragraph; the archaic-litigation idiom
+\textit{ex iure manum consertum} ``laying-hands-on by formula of
+law'' --- the technical opening of a property-suit before the
+magistrate --- preserved with a translator-notes candidate on the
+Servius jab depending on the formula being only the
+\textit{opening} move); 15.8 (the closing \textit{Att.} 15
+sub-cluster letter, two daggered Latin passages in \S2 plus the
+manuscript slip \textit{K.\ Mart.} for \textit{K.\ Iun.} restored
+silently to ``the Kalends of June'').
+\end{itemize}
+
+\textbf{Date corrections and precision changes committed to
+\texttt{meta/works.yaml} during session 21 (one entry):}
+\begin{itemize}
+\item \textit{Att.} 15.3: \mbox{-0044-06-01} day-precision
+$\rightarrow$ \mbox{-0044-05-22} day-precision per Perseus
+\textit{in Arpinati xt K.\ Iun.} (corrupt \textit{xt} restored
+conventionally as \textit{xi} = 11 K.\ Iun.\ = 22 May), with the
+May-22 placement consistent with the manuscript order between
+15.2 (18 May) and 15.4 (24 May). \texttt{location\_written} also
+trimmed from ``in Arpinati xt'' to ``in Arpinati'' (the ``xt''
+was OCR-bleed of the date numeral into the location field). The
+\texttt{044bc-} file-prefix is correct under either reading; no
+rename needed.
+\end{itemize}
+
+\textbf{Other date / text observations (flagged but not corrected
+this session):}
+\begin{itemize}
+\item \textit{Att.} 14.19: Perseus dateline \textit{i Id.\ Mai.}
+literally = pridie Idus = 14 May; works.yaml carries
+\mbox{-0044-05-15} (Idibus). Preserved per conventional editorial
+choice; defer to Shackleton Bailey. The ``vh'' in
+\texttt{location\_written} (``in Pompeiano vh'') is OCR-noise and
+should be trimmed in a future cleanup.
+\item \textit{Att.} 15.6: Perseus dateline \textit{vi K.\ Iun.\
+vesperi} = 27 May evening; works.yaml's \mbox{-0044-05-27} is
+already correct (the launch prompt's tentative ``28 May'' was
+wrong).
+\item \textit{Att.} 15.7: Perseus dateline \textit{v aut iv K.\
+Iun.} = 28 or 29 May; works.yaml takes 29 May per editorial
+choice, retained.
+\item \textit{Att.} 15.8 \S1: the Latin reads \textit{K.\ Mart.}
+where context plainly wants \textit{K.\ Iun.}\ --- a manuscript
+slip silently restored to ``the Kalends of June'' in the English.
+Worth a future translator-notes entry.
+\item Multiple daggered cruxes preserved with \dag\ markers:
+14.10 \dag\ \textit{rixothemin} \dag, 14.14 \dag\
+\textit{Pherionum more} \dag, 14.18 \dag\ \textit{suspendiatus
+est} \dag, 14.19 \dag\ \textit{aritia} \dag, 15.1 \dag\
+\textit{attinet} \dag, 15.2 multiple, 15.3 \dag\ \textit{malo}
+\dag\ and \dag\ \textit{A.\ M.\ C.} \dag, 15.4 \dag\ \textit{aps
+condoleo} \dag, 15.5 \dag\ \textit{ho th\=esauros anthrakes}
+\dag, 15.8 \dag\ \textit{id quidem mihi videbatur} \dag\ and
+\dag\ \textit{ut ille que} \dag. All preserved in body with
+daggers and flagged in parallel-JSON notes; aggregate
+translator-notes worth a corpus-level pass.
+\end{itemize}
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{The Att.\ 14.13 Homeric re-pointing
+(\textit{logoio} for \textit{gamoio}).} Cicero's substitution of
+\textit{logoio} (``of speech'') for the Homeric \textit{gamoio}
+(``of marriage'') in \textit{Iliad} 5.428--429 --- Aphrodite's
+instruction to Helen to leave the works of war for the works of
+marriage becomes Cicero's self-instruction to leave the works of
+war for the works of speech --- is one of the corpus's sharpest
+single Homeric reapplications and a doctrinal hinge for the
+April-44 letters' negotiation of the post-Ides political
+withdrawal.
+\item \textbf{The Att.\ 14.15 Dolabella-and-the-pyre-altar
+celebration as out-of-order chronology.} The K.\ Mart.\ =
+1 March 44 BC dating, two weeks before the Ides, sits the letter
+chronologically before the Ides cluster but in manuscript order
+after the late-April letters because of the manuscript
+transmission. The \textit{de saxo, in crucem} asyndeton
+compresses the Tarpeian Rock and crucifixion into a single tight
+construction --- the punitive register Dolabella adopted against
+the false-Marius pretenders, and one of the clearest single
+windows onto Cicero's brief Dolabellan enthusiasm before the
+April-May letters' disillusionment.
+\item \textbf{The Att.\ 14.17 \textit{anekdoton} ``unpublished''
+reference as a corpus-level question.} The identity of the
+suppressed political work referenced as \textit{anekdoton} ---
+debated between \textit{De Gloria} and the lost
+\textit{Secret History} --- is a sustained scholarly crux.
+Worth a corpus-level note when the apparatus pass runs.
+\item \textbf{The Att.\ 14.17 political-register line
+\textit{minore periculo \ldots\ vivo tyranno dici potuisse quam
+mortuo} ``things could be said less dangerously with the tyrant
+alive than with him dead.''} One of the cluster's sharpest single
+post-Ides political observations and a candidate for the
+volume's chosen pull-quote for the April-44 sequence.
+\item \textbf{The Att.\ 14.21 epigram \textit{hoc metuere,
+alterum in metu non ponere}.} A rhythmical iambic-feel line in
+the manuscripts (some editors print it with metrical accents),
+possibly Cicero's own off-the-cuff iambics rather than a
+quotation. Worth a sustained translator-notes entry on the
+quotation-vs.-own-coinage question.
+\item \textbf{The Att.\ 14.22 Sophoclean fragment \textit{allois
+en esthlois tond' ap\=othountai psogon} ``in other goods men
+shake off this reproach.''} Attributed by editors to the lost
+Sophoclean \textit{Erigone}; rendered as a tidy English clause
+inside quotation marks. Worth a future allusion-sidecar entry
+when that pass runs.
+\item \textbf{The Att.\ 15.4 \textit{me Idus Martiae non
+delectant. \ldots\ excisa enim est arbor, non evulsa} retraction
+as the corpus's sharpest single Ides-of-March recantation.} The
+tree-image antithesis (cut down vs.\ torn up by the roots) is
+the doctrinal hinge of Cicero's May-44 disillusionment with the
+assassination's incompleteness; the rendering ``the tree was cut
+down, not torn up by the roots'' preserves the violent extraction
+the verb \textit{evellere} insists on. Worth a sustained
+corpus-level translator-note both for the rhetorical figure and
+for the historical pivot.
+\item \textbf{The Att.\ 15.5 \dag\ \textit{ho th\=esauros
+anthrakes} \dag\ ``the treasure is coals.''} The Hellenistic-
+comic proverb (the tale of digging up a buried treasure to find
+only ashes) is mordantly redeployed for Cassius's request that
+Cicero use his influence with Hirtius. Worth a translator-note
+on the proverb's Aesopian / New-Comedy provenance and Cicero's
+choice to wield it in Greek rather than render it in Latin.
+\item \textbf{The Att.\ 15.6 \textit{Hirtius Ciceroni} embedded
+sub-letter.} One of the rare passages in the entire
+correspondence where Hirtius's voice survives verbatim; the
+\textit{vesperi} timestamp gives the May-27 evening more granular
+detail than usual. Worth a corpus-level note for the doctrinal
+weight of Hirtius's words as transmitted by Cicero.
+\item \textbf{The Att.\ 15.7 \textit{ex iure manum consertum}
+formula as the Servius-jab's load-bearing detail.} The technical
+opening-of-a-property-suit formula has to be heard as the
+\textit{opening} move, not the substantive proceeding, for the
+Servius jab ``not in the formula but in what follows from it''
+to land. Worth a glossary note on the formula and a separate
+translator-note on the rendering.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 21 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 21:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item \textbf{Slice T continuation: \textit{Att.} 15.9 onward
+through 15.20 or so.} The Tusculanum daily-letter cluster
+continues through early-to-mid June 44 BC, all short letters,
+ideal for parallel dispatch at 4--5 letters per worker; this is
+the densest single concentration in book 15.
+\item \textbf{Slice S continuation (the chronological-gap sweep,
+89 pending letters earlier than the new -0044-05-31 marker):}
+the \textit{Att.} 13.36 metadata-followup (no Perseus URL ---
+check whether it merges with 13.35 per Shackleton Bailey), the
+two pending \textit{Att.} 13.15 and 13.18 placeholder stubs
+(awaiting manual Latin from session 18), the remaining
+\textit{Fam.} 5 sub-cluster (5.15--5.18, all 45 BC,
+parallel-dispatchable), and the \textit{Fam.} 5.10a/5.10b split
+work flagged in session 20.
+\item \textbf{Slice C (substantial speeches blocking the
+chronological-gap sweep, dispatch one per session not in
+parallel):} \texttt{pro-milone} (52 BC),
+\texttt{partitiones-oratoriae}, \texttt{pro-plancio},
+\texttt{pro-rabirio-postumo}, \texttt{pro-scauro}. None advanced
+this session.
+\item \textbf{Slice V continuation: the Paetus 45 BC tail.}
+Only \textit{Fam.} 9.24 (February 43 BC) and \textit{Fam.} 9.25
+(placeholder, no usable Latin) remain in book 9 pending.
+\item \textbf{Slice P (post-session metadata follow-up):} resolve
+\textit{Fam.} 5.10a/5.10b split (supply Latin from Shackleton
+Bailey); investigate \textit{Att.} 13.36's missing Perseus URL;
+trim the OCR-noise ``vh'' from \textit{Att.} 14.19's
+\texttt{location\_written}; consider \texttt{fetch\_latin.py}
+scrub for the trailing OCR-bleed of date numerals into location
+fields (\textit{Att.} 15.3's ``in Arpinati xt'' was the second
+such instance found this session).
+\item \textbf{Slice M (entity-stub enrichment):} the entity
+registry still has $\sim$472 stub entries needing real summaries
+--- ripe for an aggressive parallel pass.
+\end{itemize}
+
+
+\textbf{Translation state (post-Cowork-session-20):} 664 / 958
+works drafted (\~69.3\%). \textbf{Latest drafted by deep chronology
+advanced} from \textit{Ad Familiares} 6.17 (Latium, mid-April 44
+BC) to \textit{Ad Atticum} 14.9 (Cumanum, 17 April 44 BC) --- a
+two-day advance that consolidates the early-post-Ides itinerary
+from Matius's suburban villa through Tusculum, Lanuvium, Astura,
+Fundi, Formiae, Sinuessa, and into Cumae. \textbf{Session 20
+drafted 29 letters in two parallel waves (four workers in wave 1,
+two in wave 2)} --- the entire remaining \textit{Att.} 13 cluster
+from 13.37 through 13.52 (16 letters; Tusculanum daily-letter
+sequence early-to-mid August 45 BC plus the December 45 BC
+Puteolanum coda including 13.52's famous record of Caesar's
+\textit{epistathmeia} visit on 19 December), the first nine
+post-Ides \textit{Att.} 14 letters (14.1--14.9, 7--17 April 44
+BC, the journey-south sequence opening with Matius's
+``everything is in confusion'' opener), and four 45 BC Vatinius
+and Lucceius letters (\textit{Fam.} 5.9, 5.11, 5.13, 5.14, the
+post-Tullia consolation cluster plus the Vatinius supplicatio
+campaign). The chronological-gap warning is now \textbf{84
+pending works dated earlier than the latest-drafted} (down from
+108 at the end of session 19; net -24, reflecting the 29
+in-cluster letters drafted minus the 5 letters whose dates were
+already earlier than 6.17).
+
+\textbf{Cowork session 20 --- 29 letters drafted across two
+parallel waves (six workers):}
+
+\textbf{Wave 1 (4 workers, 20 letters --- the closing Att. 13
+August/December cluster + the opening Att. 14 post-Ides days):}
+\begin{itemize}
+\item \textbf{Worker A (\textit{Att.} 13.37--13.42, 6 letters,
+2--9 August + late December 45 BC):} 13.37 (\textit{axiopistos},
+\textit{phoberon an en}, \textit{anemophoreta}; daggered crux
+\dag\ \textit{x x x x} \dag\ around an Epirote name in \S1; the
+plain admission of political quietism under Caesar worth a
+translator-note); 13.38 (\textit{ouk epestesen},
+\textit{poteron e skoliais apatais}, and the Pindar \textit{Nemean}
+7.25 tag \textit{dicha moi noos atrekeian eipein} --- ``my mind
+is divided on speaking the plain truth''); 13.39 (\textit{skolia},
+the Phaedrus title \textit{peri Theon}; one bracketed crux in
+\S2 where a second book title has dropped out); 13.40 (the
+Parthenon-tableau letter, \textit{euangelia}, \textit{philotechnema},
+\textit{kekepphomai}, \textit{ta hola}; two daggered cruxes in
+\S1 and \S2 from heavy corruption); 13.41 (\textit{skoliais apatais}
+recurring; the soldierly-comic \textit{commeatus} ``leave of absence''
+at close); 13.42 (the long Cicero/Quintus father-and-son
+confrontation dialogue, the daggered \textit{kai} dangling-Greek,
+the \textit{me skordou} ``no garlic'' colloquial in-joke, and the
+self-conscious aside ``I borrowed a little something from your style
+of speaking: I said nothing''). \textbf{Date precision tightened
+in JSON only:} 13.42 from works.yaml's mid-December
+placeholder to Perseus \textit{ex.\ m.\ Dec.} ($\approx$ 28
+December 45 BC) --- not committed to works.yaml pending Shackleton
+Bailey check.
+\item \textbf{Worker B (\textit{Att.} 13.43--13.47, 5 letters,
+14--21 July + 11--13 August 45 BC):} 13.43 (one-section thank-you,
+no Greek); 13.44 (one Greek phrase \textit{mnemonikon hamartema}
+``slip of memory''; the cautious phrase \textit{pompa deterret} ``the
+procession deters me'' carrying the political reticence about
+Caesar's statue in the \textit{ludi}; date ambiguity 20/21 July
+flagged but 21 retained); 13.45 (the auction-of-Cicero's-property
+letter; \textit{currentem tu quidem} idiom for ``urging on a runner,''
+expanded for clarity; one OCR artifact \texttt{XIII. xlv} bleed-through
+from Perseus dropped from the English); 13.46 (the Pollex/index
+thumb-pun preserved with parenthetical Latin gloss; \textit{HS iↃↃↃ}
+= 50,000 sesterces rendered numerically; the famous Caesar reading
+Brutus's \textit{Cato} ``and thinking himself eloquent'' line); 13.47
+(\textit{edolavi} rendered ``roughed out'' to keep the
+carpenter's-axe image; closing \textit{o magistrum molestum!} as
+``what a tiresome schoolmaster!'' --- the joke being that Dolabella
+is the declamation-pupil, so the master is the one finding his pupil
+exhausting).
+\item \textbf{Worker C (\textit{Att.} 13.48--13.52, 5 letters, 5--24
+August + 19 December 45 BC):} 13.48 (the inheritance-fractions
+letter, \textit{ex uncia / ex triente} rendered as Roman shares;
+one Greek phrase \textit{alogos}; Perseus dateline garbled
+\textit{t\%u Non.\ Sext.} flagged as OCR drift); 13.49 (one Greek
+phrase \textit{mempsin anapherei}; closing antithesis
+\textit{non omnibus dormire / observare servire est} preserved as
+``not bound to sleep for everyone... not bound to dance attendance''); 
+13.50 (no Greek; one long German-style period in \S1 reproduced
+intact); 13.51 (\textit{pros ison homoion} ``to peer and equal,''
+\textit{akolakeutos} ``without flattery''; \dag\ \textit{micillus}
+\dag\ preserved as a daggered crux --- editors propose
+\textit{Micyllus} the Lucianic cobbler or \textit{Mucius}; the
+dagger preserves the question). \textbf{13.52, historically
+loaded:} the \textbf{Caesar-at-Puteoli visit on 19 December 45
+BC, the only surviving first-person record of Caesar dining with
+Cicero}; \textbf{seven Greek phrases} in two sections including
+the politically pointed pivot from Latin \textit{hospitium} (peer
+guest-friendship) to Greek \textit{epistathmeia} (compulsory
+military quartering) --- ``a piece of hospitality --- a billeting,
+rather --- that was a burden to me, not a bother''; the exclamatory
+\textit{o hospitem mihi tam gravem ametameleton!} rendered
+``Oh, what a burdensome guest he was --- and yet I have no regrets''
+(rather than the older ``burdensome but not regrettable'');
+\textit{hominum ciↃ ciↃ} (Roman numeral CIↃ CIↃ = 2000) rendered
+``two thousand men, no less.''
+\item \textbf{Worker D (\textit{Att.} 14.1--14.4, 4 letters, 7--10
+April 44 BC, the post-Ides retreat):} \textbf{14.1, historically
+loaded:} the Matius opener letter, the three-hammer
+\textit{nihil perditius; explicari rem non posse; ille gaudens}
+rendered ``Nothing could be more lost; the thing cannot be untangled;
+he said it, at any rate, with pleasure'' --- the trimeter-feel
+preserved; Matius's grim relish kept as Matius's, not a third-party
+qualification; Caesar's reported colloquy preserved in
+double-quotes per existing convention; 14.2 (the cluster's
+two-Greek-tag letter, \textit{phalakoma}/\textit{phalakroma}
+``bald-pate'' doublet, the second the standard Attic form; two
+daggered cruxes preserved \dag\ ... \dag; Perseus segmentation
+skips \S3, preserved as a gap); 14.3 (the Pan-fright letter, four
+Greek phrases \textit{panikon}, \textit{diathesin},
+\textit{pragmatikon}, \textit{episemasian}; \textit{bellus
+architectus} as ``a fine architect''); 14.4 (the
+\textit{rem publicam reciperatam} grief-letter, one Greek phrase
+\textit{heroes}; works.yaml correctly carries Lanuvium as
+\texttt{location\_written}, matching Perseus \textit{Scr.\ Lanuvi
+iv Id.\ Apr.\ a.\ 710 (44)} --- no correction needed).
+\end{itemize}
+
+\textbf{Wave 2 (2 workers, 9 letters --- Att. 14 continuation +
+Fam. 5 gap-fill):}
+\begin{itemize}
+\item \textbf{Worker E (\textit{Att.} 14.5--14.9, 5 letters, 12--17
+April 44 BC):} 14.5 (Astura, the signs/standards wordplay
+\textit{signa bella ... non bona / cum signis} preserved as a
+triple-pun; five Greek phrases \textit{esitesas},
+\textit{mnemonikon hamartema}, \textit{phurmos polus},
+\textit{euripista}, \textit{neoterismou}; Perseus dateline
+\textit{Scr.\ Asturae it Id.\ Apr.} carries an OCR-typo ``it''
+flagged but works.yaml 13 April retained); 14.6 (Fundi, the
+\textit{politeuesthai}/\textit{soloikon}/\textit{pepoliteumetha}/
+\textit{politikotera} four-word Greek cluster on the same root;
+\textit{heroibus nostris} ``our heroes'' affectionate-ironic; the
+12 April date is manuscript-order, genuinely earlier than 14.5's
+13 April, preserved); 14.7 (Formiae, \textit{pepinomenai} and
+\textit{pinos}; the \textit{quod in buccam venerit} idiom rendered
+``whatever first comes to mind'' per STYLE.md's explicit example);
+14.8 (Sinuessa, no Greek; the aposiopesis \textit{verum tamen---}
+preserved as ``And yet ---''; the \textit{in actis esse nostris}
+records/journal pun preserved); 14.9 (Cumae, the
+\textit{vivit tyrannis, tyrannus occidit!} chiasm preserved as
+``the tyranny lives, the tyrant fallen'' --- a candidate
+translator-note; the Phaedo-style apostrophe
+\textit{o Socrate et Socratici viri!} kept with stagy archaism;
+the Pacorus / Caecilius Bassus / Volcatius Tullus / Vetus Syrian-
+campaign passage preserved with bare names, prosopography deferred).
+\item \textbf{Worker F (\textit{Fam.} 5.9 + 5.11 + 5.13 + 5.14, 4
+letters, mid-March through end-October 45 BC, the post-Tullia
+consolation cluster + Vatinius supplicatio):} \textit{Fam.} 5.9
+(11 July 45 BC, \textbf{INCOMING from Vatinius IMP. at the camp
+at Narona}, the supplicatio-angling letter; the
+\textit{honor}/\textit{periculum} wordplay between Vatinius's
+supplicatio campaign and his 54 BC trial preserved; one Greek-
+derived term \textit{anagnostes} ``reader'' for the runaway
+slave; the soldier's opening formula \textit{V.\ B.\ E.\ E.\ V.}
+= ``If you are well, I am glad; I myself am well'' rendered
+explicitly); \textit{Fam.} 5.11 (end of October 45 BC, Rome,
+\textbf{OUTGOING from Cicero to Vatinius IMP.}, salutation
+\textit{M.\ CICERO VATINIO IMP.\ S.} confirmed --- works.yaml's
+\texttt{recipient: VATINIO IMP.} is correct, the prompt's
+hypothesis about incoming direction was wrong; the jocular
+\textit{duces eum captivum in triumpho} preserved literally as the
+triumph-campaign joke); \textit{Fam.} 5.13 (mid-March 45 BC,
+Astura or Atticus's Ficuleano, \textbf{Cicero TO L.\ Lucceius},
+the grief-reply to Lucceius's consolation; \textit{praeceptorem
+fortitudinis} rendered ``my teacher in bravery'' with the
+half-smile intact since Cicero is the famous teacher in the
+friendship; \textit{membra rei p.} kept as ``limbs of the
+commonwealth''); \textit{Fam.} 5.14 (\textbf{9 May 45 BC, Rome,
+INCOMING from L.\ Lucceius}, salutation
+\textit{L.\ LVCCEIVS Q.\ F.\ M.\ TVLLIO M.\ F.\ S.}; the
+soldier's-formula opener \textit{S.\ V.\ B.\ E.\ V.} with one V
+dropped, rendered explicitly; the \S2 triple-anaphora
+\textit{tu solus ... tu non intelleges ... non intelleges ...}
+preserved as three parallel English questions; \textit{convictum
+nostrum} rendered ``our company'' not ``conviviality'' --- the
+false-cognate trap avoided). \textbf{Date correction committed
+to works.yaml:} 5.14 date corrected from \mbox{-0045-05-15} to
+\mbox{-0045-05-09} per Perseus \textit{vii Id.\ Mai.\ a.\ 709
+(45)} = 9 May (counting inclusively); \texttt{location\_written}
+also trimmed from ``Romae vii'' to ``Romae'' (the ``vii'' was OCR-
+bleed of the dateline numeral into the location field).
+\end{itemize}
+
+\textbf{Date corrections and precision changes committed to
+\texttt{meta/works.yaml} during session 20 (one entry):}
+\begin{itemize}
+\item \textit{Fam.} 5.14: \mbox{-0045-05-15} day-precision
+$\rightarrow$ \mbox{-0045-05-09} day-precision per Perseus
+\textit{vii Id.\ Mai.\ a.\ 709 (45)} = 9 May counting inclusively
+(20 \texttt{vii} = 9, not 15). \texttt{location\_written} also
+trimmed from ``Romae vii'' to ``Romae.''
+\end{itemize}
+
+\textbf{Other date observations (flagged but not corrected this
+session):}
+\begin{itemize}
+\item \textit{Att.} 13.42: works.yaml carries month-precision
+\mbox{-0045-12-15}; Perseus \textit{ex.\ m.\ Dec.\ a.\ 709 (45)}
+= closing days of December, so ca.\ 28 December would be more
+accurate. Left at month-precision for now; the parallel sidecar
+JSON uses 28 December.
+\item \textit{Att.} 13.44: Perseus \textit{xiii aut xii K.\ Sext.}
+= 20 or 21 July; works.yaml's 21 July retained per conventional
+editorial choice.
+\item \textit{Att.} 13.45: Perseus Latin file carries an
+apparatus-marker bleed-through \texttt{XIII.\ xlv} mid-sentence
+(Perseus chapter-marker, not Cicero's text); dropped from the
+English. Worth considering a \texttt{fetch\_latin.py} scrub for
+\texttt{XIII\.\textbackslash s+xlv} patterns.
+\item \textit{Att.} 13.48: Perseus dateline \texttt{t\%u Non.\
+Sext.} is corrupted at the day numeral (probably percent-encoded
+\textit{v} or \textit{iii}); works.yaml 5 August retained.
+\item \textit{Att.} 14.5: Perseus dateline \textit{Scr.\ Asturae
+it Id.\ Apr.\ a.\ 710 (44)} carries an OCR-typo ``it'' (for
+\textit{iii} or \textit{Id.}); works.yaml 13 April retained per
+conventional editorial choice. Body text's \textit{iii Idus} would
+give 11 April; defer to Shackleton Bailey.
+\end{itemize}
+
+\textbf{Other metadata work and stub-creation this session:}
+\begin{itemize}
+\item \textit{Fam.} 5.10: Perseus's TEI book 5 jumps from 5.9 to
+5.11; the Latin Library fallback dumped the whole book 5 file
+($\sim$57\,KB) into \texttt{latin/letters/051bc-ad-familiares-05-10.tex}.
+Overwritten with a placeholder stub explaining the situation. The
+Latin Library splits 5.10 into ``Xa'' and ``Xb'' (which Shackleton
+Bailey numbers as separate letters). The works.yaml entry currently
+carries the wrong year (\mbox{-0051-07-01}) since 5.10 to Vatinius
+is in fact a 45 BC letter in the Vatinius cluster, but 5.10a/5.10b
+in SB are 51 BC letters from Cilicia. \textbf{Followup needed:}
+decide whether to split the works.yaml entry into \texttt{ad-
+familiares-05-10a} and \texttt{ad-familiares-05-10b}, and supply
+the Latin from Shackleton Bailey (Loeb or Cambridge) manually.
+\end{itemize}
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{The Caesar-at-Puteoli letter (\textit{Att.} 13.52)
+as a corpus-level historical pivot.} The Latin
+\textit{hospitium}/Greek \textit{epistathmeia} pivot is the
+sharpest single political-register line in the 45 BC cluster
+--- the moment Cicero codes Caesar's visit as not peer
+guest-friendship but military quartering. Worth a sustained
+corpus-level note both for the rhetorical move and for the
+historical occasion (the only surviving first-person record of
+Caesar dining with Cicero). The exclamatory ``Oh, what a
+burdensome guest he was --- and yet I have no regrets'' is
+chosen over the older ``burdensome but not regrettable'' on
+exclamatory-accusative grounds.
+\item \textbf{The Matius ``everything is in confusion'' opener
+(\textit{Att.} 14.1) as the corpus's threshold to the post-Ides
+world.} The three-hammer trimeter-feel
+\textit{nihil perditius; explicari rem non posse; ille gaudens}
+is the cluster's clearest single window onto the immediate
+political mood. Worth a corpus-level note both for the rhetorical
+construction and for what Cicero's ear hears in a Caesarian's
+mouth on 7 April 44 BC.
+\item \textbf{The \textit{vivit tyrannis, tyrannus occidit!}
+chiasm (\textit{Att.} 14.9).} A two-clause four-word chiasm
+that distinguishes the death of the tyrant from the survival of
+the tyranny --- one of the sharpest single rhetorical figures
+in the whole post-Ides cluster, and the doctrinal hinge of
+Cicero's despair through April 44 BC. Worth a sustained
+translator-note on the rendering ``the tyranny lives, the tyrant
+fallen.''
+\item \textbf{The Pindar \textit{Nemean} 7.25 tag (\textit{Att.}
+13.38).} \textit{dicha moi noos atrekeian eipein} ``my mind is
+divided on speaking the plain truth'' --- one of the densest
+single-letter Pindaric allusions in the corpus. Worth flagging
+in a future allusions-pass.
+\item \textbf{The \textit{currentem tu quidem} idiom and the
+Pollex/index pun.} Two diagnostic short-letter idiom cruxes
+worth recording: \textit{currentem hortari} = ``urge on a runner''
+(13.45); \textit{Pollex/index} thumb-pun (13.46). Both are the
+sort of micro-decision the project's translator-notes apparatus
+exists to capture.
+\item \textbf{The Vatinius supplicatio campaign (\textit{Fam.}
+5.9 + 5.11) as a structural exception.} 5.9 (incoming from
+Vatinius) and 5.11 (Cicero's outgoing reply) bracket Vatinius's
+mid-45-BC angling for a supplicatio honouring his Illyrian
+campaign; the \textit{honor}/\textit{periculum} pun (5.9 \S1)
+is the structural hinge.
+\item \textbf{The post-Tullia Lucceius exchange (\textit{Fam.}
+5.13--5.14) as a two-way consolation cluster.} 5.14 from
+Lucceius (incoming, 9 May 45 BC) and 5.13 from Cicero
+(outgoing reply, mid-March 45 BC --- the manuscript-order is
+not chronological) form an exchange in the Servius Sulpicius
+mode but with Lucceius as the addressee; the
+\textit{praeceptorem fortitudinis} ``teacher in bravery'' line
+in 5.13 is the doctrinal hinge.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 20 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 20:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item \textbf{Slice T continuation: \textit{Att.} 14.10 onward
+through 14.22, then 15.1 onward.} The post-Ides journey continues
+through Cumae, Puteoli, and back toward Astura; 14.10--14.22 are
+the densest single concentration in book 14, all short letters,
+ideal for parallel dispatch at 4--5 letters per worker.
+\item \textbf{Slice S continuation (the chronological-gap sweep,
+84 pending letters earlier than the new -0044-04-17 marker):} the
+\textit{Att.} 13.36 metadata-followup (no Perseus URL --- check
+whether it merges with 13.35 per Shackleton Bailey), the two
+pending \textit{Att.} 13.15 and 13.18 placeholder stubs
+(awaiting manual Latin from session 18), the remaining
+\textit{Fam.} 5 sub-cluster (5.15--5.18, all 45 BC,
+parallel-dispatchable), and the \textit{Fam.} 5.10a/5.10b split
+work flagged this session.
+\item \textbf{Slice C (substantial speeches blocking the
+chronological-gap sweep, dispatch one per session not in
+parallel):} \texttt{pro-milone} (52 BC),
+\texttt{partitiones-oratoriae}, \texttt{pro-plancio},
+\texttt{pro-rabirio-postumo}, \texttt{pro-scauro}. None advanced
+this session.
+\item \textbf{Slice V continuation: the Paetus 45 BC tail.}
+Only \textit{Fam.} 9.24 (February 43 BC) and \textit{Fam.} 9.25
+(placeholder, no usable Latin) remain in book 9 pending --- 9.24
+moves the marker further forward into 43 BC if picked up early.
+\item \textbf{Slice P (post-session metadata follow-up):} resolve
+\textit{Fam.} 5.10a/5.10b split (supply Latin from Shackleton
+Bailey); investigate \textit{Att.} 13.36's missing Perseus URL;
+consider \texttt{fetch\_latin.py} scrub for the Perseus apparatus-
+marker bleed-through (\texttt{XIII\.\textbackslash s+xlv} and
+similar) found in 13.45.
+\item \textbf{Slice M (entity-stub enrichment):} the entity
+registry still has $\sim$472 stub entries needing real summaries
+--- ripe for an aggressive parallel pass.
+\end{itemize}
+
+
+\textbf{Translation state (post-Cowork-session-19):} 635 / 958
+works drafted (\~66.3\%). \textbf{Latest drafted by deep
+chronology advanced significantly} from \textit{Ad Familiares}
+9.12 (Cumanum, late November 45 BC) to \textit{Ad Familiares} 6.17
+(Latium, mid-April 44 BC) --- a 5-month forward jump into 44 BC,
+crossing the Ides of March. \textbf{Session 19 drafted 16 letters
+in four parallel workers} --- the remaining \textit{Att.} 13
+mid-/late-May Tusculanum daily-letter run (\textit{Att.} 13.21,
+13.26--13.35, 11 letters), the Lepta business note from Astura
+(\textit{Fam.} 6.19), and the Pompeian-exile / post-Ides cluster
+gap-fill (\textit{Fam.} 6.9 to Furfanius, plus the historic
+\textit{Fam.} 6.15 to Basilus on the Ides of March itself, plus
+the Bithynicus exchange \textit{Fam.} 6.16--6.17). The
+chronological-gap warning is now \textbf{108 pending works dated
+earlier than the latest-drafted} (vs.\ 106 at the end of session
+18; the small net increase reflects the new 5-month advance
+exposing additional earlier-pending letters that were previously
+above the marker).
+
+\textbf{Cowork session 19 --- 16 letters drafted across one
+parallel wave (four workers):}
+
+\textbf{Worker A (\textit{Att.} 13.21, 13.26--13.28, 4 letters,
+mid-May / 1 June / 29 July 45 BC):}
+\begin{itemize}
+\item \textit{Att.} 13.21 (Astura, 29 July 45 BC, the
+boxing-and-suspension Sceptic letter): two Greek phrases
+\textit{epoch\=ei} (\textgreek{ἐποχῇ}, the Sceptic technical
+``suspension of judgement,'' twice) and \textit{probol\=en}
+(\textgreek{προβολὴν}, ``boxer's guard''); one daggered crux \dag\
+\textit{esset certe ne} \dag\ in \S4 preserved; the
+\textit{inhibere}/\textit{inhibitio} debate kept in italicized
+Latin in the body since the whole section turns on the Latin verb
+--- translator-note candidate.
+\item \textit{Att.} 13.26 (Tusculanum, 14 May 45 BC, the
+book-13-shelved earliest letter): no Greek; the allusive ``my
+desire for the thing you know of'' (\textit{eius rei \ldots\ quam
+nosti}) rendered without expansion --- the unspoken referent is
+the search for a property for Tullia's shrine, supplied only in
+the headnote.
+\item \textit{Att.} 13.27 (Tusculanum, 25 May 45 BC, the
+\textit{Cato}/\textit{Anticato} sop-letter): \textbf{six Greek
+phrases} \textit{kolakeia}, \textit{epiteugma},
+\textit{apoteugma}, \textit{parakinduneuein}, \textit{meiligma},
+\textit{spoud\=e}; the \textit{Catonis} \textgreek{μείλιγμα}
+rendered ``a sop to balance my Cato'' --- the polemic-and-reply
+context (Cicero's \textit{Cato} and Caesar's \textit{Anticato})
+flagged in the headnote.
+\item \textit{Att.} 13.28 (Tusculanum, 1 June 45 BC, the
+``letter-to-Caesar'' withdrawal, one of the cluster's most
+historically loaded letters): one Greek phrase
+\textit{probl\=ema Archid\=emou} (\textgreek{πρόβλημα Ἀρχιδήμου},
+Stoic-dialectical ``Archidemus's puzzle''); the bitter
+\textit{hunc de pompa Quirini contubernalem} ``this messmate of
+Quirinus's procession'' preserved (the irony of Caesar's statue
+carried with the gods); HS \overline{DCCC} = 800{,}000 sesterces
+rendered numerically; \textit{hoc manu mea} preserved as ``This in
+my own hand,'' the autograph-postscript marker. \textbf{Date
+discrepancy flagged but NOT corrected:} Perseus dateline reads
+\textit{Vii. K. Iun.} which by literal Roman count = 26 May, not 1
+June; the editorial tradition's 1 June is preserved in works.yaml
+pending a Shackleton Bailey check.
+\end{itemize}
+
+\textbf{Worker B (\textit{Att.} 13.29--13.32, 4 letters, 27--29
+May 45 BC, Tusculanum):}
+\begin{itemize}
+\item \textit{Att.} 13.29 (27 May): two Greek phrases
+\textit{aphidruma} (\textgreek{ἀφίδρυμα}, ``shrine'') and
+\textit{ton typhon mou pros the\=on tropophor\=eson}
+(\textgreek{τὸν τῦφόν μου πρὸς θεῶν τροποφόρησον}, ``in the gods'
+name, bear with my vanity'' --- Cicero's Greek-coded request that
+Atticus indulge his Tullia-shrine preoccupation); one daggered
+crux \dag\ \textit{misissem} \dag\ in \S3.
+\item \textit{Att.} 13.30 (28 May, the Mummius-commission
+research letter): two Greek phrases \textit{kolakeiai}
+(\textgreek{κολακεῖαι}, ``flatteries'') and \textit{politikon
+syllogon} (\textgreek{πολιτικὸν σύλλογον}, ``political
+assembly,'' the Dicaearchus dialogue-design framework). The
+Mummian-commission prosopographical hunt (Polybius, Albinus,
+Sp.\ Mummius, Tuditanus) opens here and resolves in 13.32. The
+Perseus dateline string carries the orphan fragment ``post op
+xxxi'' which appears to be a scribal marker; preserved in the
+Latin file.
+\item \textit{Att.} 13.31 (28 May, same dateline as 13.30): two
+Greek phrases \textit{katabase\=os} (\textgreek{καταβάσεως}, ``of
+the \textit{Descent},'' title of Dicaearchus's lost work) and
+\textit{kekrika} (\textgreek{κέκρικα}, the Greek perfect ``I have
+decided,'' marking settled judgement). HS \overline{CXV} =
+11{,}500{,}000 sesterces rendered numerically. The ``letter to
+Caesar'' (the suppressed advice-letter, the subject of 13.27 and
+13.28's \textit{probl\=ema Archid\=emou}) referenced again ---
+crossref candidate.
+\item \textit{Att.} 13.32 (29 May, the cluster's
+Mummius-commission resolution + Dicaearchus-shopping letter):
+\textbf{six Greek phrases} \textit{peri psych\=es}
+(\textgreek{περὶ ψυχῆς}, ``On the Soul,'' Dicaearchus title);
+\textit{katabase\=os}; \textit{Tripolitikon} (book title);
+\textit{dia s\=emei\=on} (\textgreek{διὰ σημείων}, ``in
+shorthand''); \textit{syllogon}; \textit{pompeusai kai tois
+pros\=opois} (\textgreek{πομπεῦσαι καὶ τοῖς προσώποις}, ``stage
+our procession with the right cast/characters''). The
+\textit{Catulus} and \textit{Lucullus} (earlier two-book
+\textit{Academica}) and ``new prefaces'' crossref candidates
+deferred to apparatus pass.
+\end{itemize}
+
+\textbf{Worker C (\textit{Att.} 13.33--13.35 +
+\textit{Fam.} 6.19, 4 letters, early June to late August 45 BC):}
+\begin{itemize}
+\item \textit{Att.} 13.33 (3 June 45 BC, Tusculanum): three Greek
+phrases \textit{dys\=opia} (\textgreek{δυσωπία}, ``embarrassment''),
+\textit{katabase\=os}, \textit{eulogon}; \textbf{four daggered
+cruxes} \dag\ \textit{H in Capitolio} \dag, \dag\ \textit{exspecto}
+\dag\ (governing \textit{katabase\=os}), \dag\ \textit{vide etiam}
+\dag, and \dag\ \textit{ea de} \dag\ preserved; a Perseus lacuna
+\texttt{* * *} opens \S3.
+\item \textit{Att.} 13.34 (27 July 45 BC, Astura, the brief
+arrival note): no Greek; the very-short note (``arrived viii Kal.
+in the evening; rested three hours at Lanuvium to avoid the
+heat'') previewed of the gardens-and-Publilius business; the
+``Publilio'' in the Latin is the masculine form (Publilia's
+brother/agent), not Publilia herself --- preserved as ``the
+business with Publilius.''
+\item \textit{Att.} 13.35 (13 July 45 BC, Tusculanum, the
+Pomponius-gentilis letter): no Greek; opening \textit{gentilis
+tuus urbem auget} flagged in the headnote on the conventional
+identification with a Caesarian Pomponius working on Caesar's
+urban-renewal plans; treats 13.35 and 13.36 as separate letters
+per Perseus's segmentation (Shackleton Bailey's reconstruction
+merges them; deferred to a future enrichment pass).
+\item \textit{Fam.} 6.19 (late August 45 BC, Astura, to Lepta on
+the curatorship of Caesar's planned games): no Greek;
+\textit{curatio aliqua munerum regiorum} rendered ``some sort of
+curatorship of the royal games'' (\textit{munera regia} as
+Caesar's planned spectacles, glossed in the headnote);
+\textbf{date precision worth tightening:} works.yaml has month-
+precision \mbox{-0045-08-15}; Perseus dateline \textit{ex.\ m.\
+Sext.\ a.\ 709 (45)} = closing days of Sextilis, so ca.\ \mbox{-
+0045-08-25} would be more accurate. Left at month-precision for
+now.
+\end{itemize}
+
+\textbf{Worker D (\textit{Fam.} 6.9, 6.15, 6.16, 6.17, 4 letters,
+December 46 BC through mid-April 44 BC, the post-Ides cluster):}
+\begin{itemize}
+\item \textit{Fam.} 6.9 to Furfanius Postumus (early December 46
+BC, Rome, the Caecina recommendation): no Greek; the
+\textit{cumulus} ``heaping-up'' image kept as the figure of the
+letter and registered in the headnote; \textbf{date correction
+committed:} \mbox{-0046-10-22} year-precision $\rightarrow$
+\mbox{-0046-12-01} month-precision per Perseus dateline (the
+OCR-garbled ``ica.\ in.\ Dee.\ a.\ 708 (46)'' resolved as
+\textit{circa initium Decembris 708 (46)}); \texttt{location\_
+written} also cleaned from ``Romae ica.\ in.\ Dee'' to
+``Romae.''
+\item \textit{Fam.} 6.15 to L.\ Minucius Basilus (\textbf{15
+March 44 BC, Rome --- the Ides of March itself, to one of the
+assassins}): no Greek; the entire letter is a single, tightly
+chiastic sentence \textit{tibi gratulor, mihi gaudeo; te amo, tua
+tueor; a te amari et quid agas quidque agatur certior fieri volo}
+rendered preserving the six-clause sequence and the I/you
+interlocking; \textit{quid agatur} rendered as the deniable
+passive ``what is being done''; the historic date and the
+chiastic structure registered in the headnote per the launch-
+prompt's explicit requirement. \textbf{One of the most
+historically remarkable single sentences in the corpus.}
+\item \textit{Fam.} 6.16 from A.\ Pompeius Bithynicus
+(\textbf{INCOMING --- the only incoming letter in this cluster},
+late March 44 BC, in Sicily): no Greek; the salutation
+\texttt{BITHYNICVS CICERONI S.} preserved as the marker that
+this is the unusual incoming direction; \textit{intermoriturum}
+in the closing clause rendered to keep the perfective-future
+sense ``be allowed to die out''; the headnote registers
+explicitly that the letter is Bithynicus to Cicero from Sicily.
+\item \textit{Fam.} 6.17 to Bithynicus (mid-April 44 BC, in
+Latio, Cicero's reply to 6.16): no Greek; the hinge antithesis
+\textit{beneficiorum magnitudine} vs.\ \textit{necessitudine}
+(``size of obligation'' vs.\ ``family tie'') preserved; the
+Perseus transcription quirks ``a.\ 720 (44)'' = OCR typo for
+``a.\ 710 (44)'' = 44 BC, and the apparent want of a final
+\textit{vale}, both noted in the sidecar.
+\end{itemize}
+
+\textbf{Date corrections and precision changes committed to
+\texttt{meta/works.yaml} during session 19 (one entry):}
+\begin{itemize}
+\item \textit{Fam.} 6.9: \mbox{-0046-10-22} year-precision
+$\rightarrow$ \mbox{-0046-12-01} month-precision per Perseus
+\textit{circa initium Decembris 708 (46)} (OCR garble ``ica.\
+in.\ Dee.'' resolved). \texttt{location\_written} also trimmed
+from ``Romae ica.\ in.\ Dee'' to ``Romae.'' The \texttt{046bc-}
+file-prefix is correct under either reading; no rename needed.
+\end{itemize}
+
+\textbf{Other date observations (flagged but not corrected
+this session):}
+\begin{itemize}
+\item \textit{Att.} 13.28: Perseus dateline \textit{Vii.\ K.\
+Iun.\ a.\ 709 (45)} reads literally as 26 May; works.yaml's
+day-precision \mbox{-0045-06-01} preserved per the editorial
+tradition. Defer to a Shackleton Bailey consultation.
+\item \textit{Att.} 13.30 and 13.31 share the dateline \textit{v
+K.\ Iun.} = 28 May; works.yaml carries both as \mbox{-0045-05-28},
+correct.
+\item \textit{Fam.} 6.19: month-precision \mbox{-0045-08-15}
+could be tightened to \mbox{-0045-08-25} per Perseus
+\textit{ex.\ m.\ Sext.}; left as month-precision for now.
+\item \textit{Fam.} 6.16 / 6.17: works.yaml month-precision
+\mbox{-0044-03-15} and \mbox{-0044-04-15} are conventional
+placeholders within the months Perseus gives; left as-is.
+\end{itemize}
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{The \textit{Att.} 13.28 ``letter to Caesar''
+withdrawal as a structural pivot in the cluster.} The Greek
+\textit{probl\=ema Archid\=emou} (Stoic-dialectical ``Archidemus's
+puzzle'') frames the dilemma; the bitter \textit{hunc de pompa
+Quirini contubernalem} (Caesar as ``messmate of Quirinus's
+procession,'' i.e.\ his statue carried with the gods at the
+\textit{ludi}) is the cluster's sharpest single line of political
+register. Worth a corpus-level note as the moment Cicero finally
+abandons the project of writing an advice-letter to Caesar.
+\item \textbf{The \textit{Cato}/\textit{Anticato} sop-register
+(\textit{Att.} 13.27).} The \textit{Catonis
+\textgreek{μείλιγμα}} ``a sop to balance my Cato'' is the
+cluster's clearest single window onto how Cicero received
+Caesar's \textit{Anticato} as a polemic exchange. The
+\textit{epiteugma}/\textit{apoteugma} pair (success/failure) is
+also worth a glossary note as the Stoic-rhetorical technical
+vocabulary the letter deploys.
+\item \textbf{The Dicaearchus revival cluster (\textit{Att.}
+13.30, 13.31, 13.32, 13.33).} Dicaearchus's \textit{Descent}
+(\textit{katabase\=os}), \textit{On the Soul} (\textit{peri
+psych\=es}), and the \textit{Tripolitikon} surface across four
+consecutive letters as the framing models for Cicero's own
+projected dialogue \textit{\textgreek{πολιτικὸν σύλλογον}}
+(``political assembly''). The cluster is the densest single
+deployment of Dicaearchus in the corpus and is worth a sustained
+allusion-pass entry.
+\item \textbf{The \textit{Fam.} 6.15 chiasm as a single-sentence
+masterpiece.} The Ides-of-March note to Basilus is six clauses
+of perfect I/you-interlocking parallelism, and the deniable
+passive \textit{quid agatur} (``what is being done'') is itself
+an act of literary self-protection. Worth a corpus-level note
+both for the rhetorical construction and for the date.
+\item \textbf{The Bithynicus exchange (\textit{Fam.} 6.16--6.17)
+as the cluster's unusual two-way pair.} 6.16 is the only
+incoming letter in book 6's post-Pharsalus cluster; 6.17 is
+Cicero's direct reply. Worth registering as a structural
+exception to the cluster's one-direction-only norm. The
+\textit{beneficiorum magnitudine} vs.\ \textit{necessitudine}
+antithesis is the doctrinal hinge of 6.17.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 19 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 19:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item \textbf{Slice T finish: \textit{Att.} 13.36 onward
+through 13.52 + \textit{Att.} 14.1 onward.} 13.36 has dating
+issues (year-precision, no Perseus URL in works.yaml --- only
+the Latin Library fallback); skip 13.36 (and re-investigate at a
+later metadata pass) and pick up at 13.37. The Att.\ 14 sequence
+opens in April 44 BC at Astura/Lanuvium just after the Ides ---
+parallel-dispatchable as 3--4 short letters per worker.
+\item \textbf{Slice S (the chronological-gap sweep, 108 pending
+letters earlier than the new -0044-04-15 marker):} the largest
+single concentration is in \textit{Ad Familiares} 5
+(\textit{Fam.} 5.9--5.18, 9 letters, all 45 BC) and the
+remaining \textit{Att.} 12 / 13 holes (e.g.\ 13.15 and 13.18,
+both still on placeholder stubs awaiting manual Latin from
+Shackleton Bailey). Dispatch \textit{Fam.} 5.9--5.14 (6 letters)
+as a single worker's batch; small and clustered chronologically
+in 45 BC.
+\item \textbf{Slice V continuation: the Paetus 45 BC tail.}
+Only \textit{Fam.} 9.24 (February 43 BC) and \textit{Fam.} 9.25
+(placeholder, no usable Latin) remain in book 9 pending --- 9.24
+moves the marker further forward into 43 BC if picked up early.
+\item \textbf{Slice C (substantial speeches blocking the
+chronological-gap sweep, dispatch one per session not in
+parallel):} \texttt{pro-milone} (52 BC),
+\texttt{partitiones-oratoriae}, \texttt{pro-plancio},
+\texttt{pro-rabirio-postumo}, \texttt{pro-scauro}. None advanced
+this session.
+\item \textbf{Slice P (post-session metadata follow-up):} supply
+manual Latin for \textit{Att.} 13.15 and 13.18 (placeholder
+stubs from session 18) and resolve \textit{Att.} 13.28's
+date-tradition discrepancy (Perseus literal 26 May vs.\ works.yaml
+1 June) against Shackleton Bailey vol.\ 5. Also: investigate
+\textit{Att.} 13.36's missing Perseus URL (works.yaml currently
+points only to the Latin Library fallback, which 403s in the
+sandbox).
+\item \textbf{Slice M (entity-stub enrichment):} the entity
+registry still has $\sim$472 stub entries needing real summaries
+--- ripe for an aggressive parallel pass once the Att.\ 14
+sequence is opened.
+\end{itemize}
+
+
+\textbf{Translation state (post-Cowork-session-18):} 619 / 958
+works drafted (\~64.6\%). Latest drafted by deep chronology
+unchanged: \textit{Ad Familiares} 9.12 (Cumanum, late November 45
+BC). \textbf{Session 18 drafted 20 letters --- the
+Arpinum-to-Tusculanum daily-letter sequence of late-June/early-July
+45 BC (\textit{Att.} 13.10--13.14, 13.16, 13.17, 13.19, 13.20,
+13.22--13.25; 13 letters), plus the Paetus 45 BC / late-46 BC
+continuation (\textit{Fam.} 9.22, 9.23, 9.26; 3 letters), plus the
+Pompeian-exile cluster gap-fill (\textit{Fam.} 6.10, 6.11, 6.12,
+6.13; 4 letters) --- in two parallel waves (five workers total),
+plus three date corrections and one date-precision tightening.}
+The chronological-gap warning is now \textbf{106 pending works
+dated earlier than the latest-drafted} (down from 126 at the end of
+session 17). The pointer for ``latest drafted by date'' did not
+advance --- session 18 continued the gap-fill sweep, this time
+nearly closing out the Arpinum daily-letter run of late June 45 BC
+and continuing the Paetus / Pompeian-exile threads.
+
+\textbf{Cowork session 18 --- 20 letters drafted across two
+parallel waves (five workers):}
+
+\textbf{Wave 1 (3 workers, 12 letters --- \textit{Att.} 13.10--13.24,
+the late-June Arpinum-Tusculanum daily-letter run):}
+\begin{itemize}
+\item \textbf{Worker A (\textit{Att.} 13.10--13.13):} 13.10 (the
+\textit{politikoteros}/\textit{koinoteros} register run, range-
+dateline xiiii--xi K. Quint. = 18--21 June 45 BC; one daggered crux
+\dag\ \textit{aut erat} \dag\ in \S3); 13.11 (one Greek phrase
+\textit{ou tauton eidos}); 13.12 (the \textit{Academica}
+dedication-shuffle locus: seven Greek transliterations including
+\textit{Kallippides}, \textit{auto to metro kai}, and the Hesiod
+\textit{Works and Days} 350 quotation \textit{ai ke dunai}; the
+\textit{prosphonesis} register reactivated; \textbf{date correction}
+from invalid placeholder \mbox{-0045-06-31} to \mbox{-0045-06-24}
+per Perseus OCR-garbled dateline \textit{vh i K. Quint.}, restored
+as viii K. Quint., supported by the surrounding sequence
+13.11 = ix K. = 23 June, 13.13 = vi K. = 26 June; \textbf{also
+trimmed} \texttt{location\_written} from ``in Arpinati vh'' to
+``in Arpinati''); 13.13 (five Greek transliterations, including
+the Hector tag \textit{aideomai Troas} from \textit{Iliad} VI.442;
+bibliographically important note on the \textit{Academica}
+expansion from 2 to 4 books).
+
+\item \textbf{Worker B (\textit{Att.} 13.14, 13.16, 13.17, 13.19):}
+13.14 (very brief, no Greek); 13.16 (\textbf{four Greek phrases}
+\textit{Akademiken syntaxin}, \textit{para to prepon},
+\textit{apaideusia}, \textit{atripsia}, the last pair a candidate
+translator-note for the rare second term); 13.17 (three Greek
+phrases, daggered crux \dag\ \textit{non imperassem. igitur aliquid
+tuis} \dag\ in \S1 preserved); 13.19 (the long letter at $\sim$620
+words, \textbf{nine Greek transliterations} including
+\textit{akindyna}, \textit{philendoxos}, \textit{akatalepsian},
+\textit{kophon prosopon}, \textit{Aristoteleion}, \textit{logikotera},
+\textit{hermaion}; daggered crux \dag\ \textit{easque} \dag\ in
+\S4; the \textit{De Finibus} reference \textit{quinque libros peri}
+restored to ``On Ends'' without note per editorial consensus).
+\textbf{Att. 13.15 and 13.18 were SKIPPED} --- the Latin Library
+edition combines 13.14--13.15 and 13.17--13.18, and Perseus's TEI
+book 13 lacks discrete \texttt{n=15} and \texttt{n=18} positions
+matching the works.yaml entries; placeholder stubs left in the
+Latin files explaining the situation. Manual Latin from Shackleton
+Bailey or another standard edition is needed before these two can
+be translated.
+
+\item \textbf{Worker C (\textit{Att.} 13.20, 13.22--13.24):} 13.20
+(four Greek phrases \textit{philaitios}, \textit{philosophos},
+\textit{dedechthai}, \textit{me gar autois}; daggered crux \dag\
+\textit{in toto} \dag\ in \S4; dateline ``vi aut v Non. Quint.''
+ambiguous between 2 and 3 July, works.yaml's 07-03 reading
+preserved); 13.22 (three Greek phrases including
+\textit{asmenaitata} and \textit{eulogian} --- the \textit{eulogon}
+register continues from 13.05/13.07; daggered crux \dag\ \textit{a
+quis sine te opprimi militia est} \dag\ at end of \S4); 13.23
+(two Greek phrases including \textit{symbiosis} ``shared life,''
+the cluster's most resonant Greek term for the Atticus friendship;
+daggered crux \dag\ \textit{deffecti} \dag\ in \S2; the veiled
+grievance against Brutus motivating the \textit{symbiosis} remark
+kept opaque in translation per the Latin); 13.24 (very brief, two
+Greek phrases \textit{diphtherai} and \textit{aideomai}; the
+``Cicero'' in \S1 disambiguated in JSON notes as the son, not the
+orator).
+\end{itemize}
+
+\textbf{Wave 2 (2 workers, 8 letters --- \textit{Att.} 13.25 +
+\textit{Fam.} 9.22, 9.23, 9.26 + \textit{Fam.} 6.10--6.13, the
+late-Tusculanum closure and the Paetus / Pompeian-exile gap-fill):}
+\begin{itemize}
+\item \textbf{Worker D (\textit{Att.} 13.25 + \textit{Fam.} 9.22,
+9.23, 9.26):} 13.25 (four Greek phrases including the Homer
+\textit{Iliad} 11.654 allusion \textit{tacha ken kai anaition
+aitiooto} ``even a guiltless man might be blamed,'' and the closing
+\textit{o Academiam volaticam et sui similem!}); 9.22 (the long
+bawdy Stoic-parrhesia letter at $\sim$860 words: one Greek phrase
+\textit{ho sophos euthyrrhemonesei} ``the wise man will speak
+openly''; Cicero's elaborate defence of plain Latin terms for
+genital matters [\textit{mentula}, \textit{coleos}, etc.] preserved
+literally where the joke turns on the Latin word --- a major Paetus-
+register set-piece; \textit{suppedit} read as ``pisses underneath
+himself'' against Shackleton Bailey's emendation, candidate
+translator-note); 9.23 (very brief at $\sim$115 words; no Greek;
+the Perseus transcript's known glitch ``Here veni'' restored to
+``Heri veni'' = ``Yesterday I came''; the gout joke and chiastic
+close \textit{minime edacem} / \textit{inimicum cenis sumptuosis}
+preserved; \textbf{date-precision update} from year to month, date
+moved from -0046-12-28 placeholder to -0046-12-15 per Perseus
+\textit{m. interc. post a. 708 (46)} = second [later] intercalary
+month of 46 BC, $\sim$mid-to-late December Julian); 9.26 (one Greek
+phrase \textit{zetema} ``a question'' put to Dion the philosopher;
+pseudo-Ennian mock-epic verse \textit{cuius ob os Graii ora
+obvertebant sua} preserved; Aristippus's \textit{habeo, non habeor
+a Laide} ``I have, I am not had by, Lais'' with the parenthetical
+``in Greek the saying is better''; \textbf{major date correction}
+from wildly-wrong placeholder \mbox{-0046-03-03} year-precision to
+\mbox{-0046-11-15} month-precision per Perseus dateline
+\textit{Romae ex. m. interc. pr. aut in. post a. 708 (46)} =
+seam between earlier and later intercalary months of 46 BC,
+$\sim$mid-November Julian).
+
+\item \textbf{Worker E (\textit{Fam.} 6.10--6.13 Pompeian-exile
+cluster):} 6.10 to Trebianus ($\sim$830 words; no Greek; the
+doctrinal pivot at \S4 \textit{conscientia factorum et consiliorum}
+``the consciousness of one's deeds and counsels'' established as
+the binding Stoic-consolatio formula of the cluster, mirrored
+verbatim at the close of 6.13; the ``tilts of the times''
+\textit{temporum inclinationibus} as the Book 6 keynote); 6.11 to
+Trebianus (no Greek; daggered crux \dag\ \textit{opus esse} \dag\
+in \S1; the quiet parenthetical greeting to Siro the Epicurean as
+the cluster's Stoic-vs-Epicurean seam); 6.12 to Ampius Balbus (no
+Greek; the live coinage \textit{tuba belli civilis} ``the trumpet
+of the civil war'' preserved as direct quotation; the late-46
+regime roll-call --- Pansa, Hirtius, Balbus, Oppius, Matius,
+Postumius, \textit{Tillius Cimber}, who in three years will stand
+among the Liberators --- left to register the irony without
+commentary; the doctrinal pivot at \S5 sharpened to
+\textit{doctrina ac litterae} as the single refuge ``now even of
+preservation [\textit{nunc vero etiam salutem}],'' a tighter
+formulation than 6.10's; ring-form \textit{ut ad initium revertar});
+6.13 to Ligarius (no Greek; the same self-deprecating formula
+\textit{si tantum possem quantum in ea re p., de qua ita sum
+meritus} as Fam 6.10.2 --- same hand, same month; closes at \S5
+with the identical \textit{conscientia et factorum et consiliorum
+tuorum} pivot; the addressee is the Ligarius of the speech
+\textit{Pro Ligario} the following year).
+\end{itemize}
+
+\textbf{Date corrections and precision changes committed to
+\texttt{meta/works.yaml} during session 18 (three entries):}
+\begin{itemize}
+\item \textit{Att.} 13.12: invalid placeholder \mbox{-0045-06-31}
+$\rightarrow$ \mbox{-0045-06-24} day-precision per Perseus OCR-
+garbled dateline \textit{vh i K. Quint.}, restored as viii K. Quint.
+(= 24 June 45 BC; vii K. = 25 June also defensible). The
+\texttt{location\_written} field was also trimmed from ``in
+Arpinati vh'' (carrying the dateline-garble fragment) to ``in
+Arpinati''.
+\item \textit{Fam.} 9.23: \mbox{-0046-12-28} year-precision
+$\rightarrow$ \mbox{-0046-12-15} month-precision per Perseus
+\textit{Scr. in Cumano m. interc. post a. 708 (46)} (= second
+[later] intercalary month of 46 BC, $\sim$mid-to-late December
+Julian).
+\item \textit{Fam.} 9.26: wildly-wrong placeholder
+\mbox{-0046-03-03} year-precision $\rightarrow$ \mbox{-0046-11-15}
+month-precision per Perseus \textit{Romae ex. m. interc. pr. aut
+in. post a. 708 (46)} (= seam between earlier and later intercalary
+months of 46 BC, $\sim$mid-November Julian). The \texttt{046bc-}
+file-prefix is correct under either reading; no rename needed.
+\end{itemize}
+
+\textbf{Other date observations (no correction needed):}
+\begin{itemize}
+\item \textit{Att.} 13.10 dateline range \textit{xiiii et xi K.
+Quint.} = 18--21 June 45 BC; works.yaml's day-precision -0045-06-21
+(the final day of the range, xi K.) preserved as the conventional
+landing point.
+\item \textit{Att.} 13.20 dateline \textit{vi aut v Non. Quint.}
+ambiguous between 2 July (vi Non.) and 3 July (v Non.);
+works.yaml's day-precision 07-03 (v Non.) preserved.
+\item \textit{Fam.} 9.22 dateline \textit{m. Iun. aut Quint.}
+month-precision uncertain between June and July of 45 BC;
+works.yaml's month-precision 06-15 covers the earlier of the two
+options.
+\item \textit{Fam.} 6.11 dateline \textit{in. m. Iun. a. 709 (45)}
+could be tightened from month-precision 06-15 to $\sim$06-01;
+month-precision left in place as sufficient.
+\item \textit{Fam.} 6.12 dateline \textit{ex. m. Nov. a. 708 (46)}
+could be tightened from month-precision 11-15 to $\sim$11-28;
+month-precision left in place.
+\item \textit{Fam.} 6.13 dateline \textit{in. m. Sext. a. 708 (46)}
+could be tightened from month-precision 08-15 to $\sim$08-01;
+month-precision left in place.
+\end{itemize}
+
+\textbf{Two letters skipped this session (Latin not usable):}
+\begin{itemize}
+\item \textit{Att.} 13.15 --- placeholder stub written to the
+Latin file. The works.yaml entry lacks a Perseus URL; the Latin
+Library edition combines 13.14--13.15 (TOC line ``13--14 14--15
+16''). Modern editors (Shackleton Bailey) variously assign the
+text. Manual Latin from a standard edition needed before this can
+be translated.
+\item \textit{Att.} 13.18 --- placeholder stub written to the
+Latin file. Same situation: works.yaml lacks a Perseus URL; Latin
+Library combines 13.17--13.18. Manual Latin needed.
+\end{itemize}
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{The Arpinum daily-letter \textit{Academica}-shuffle
+cluster (\textit{Att.} 13.10--13.25).} The cluster's binding
+preoccupation is the rapid-cycle revision of the
+\textit{Academica}: dedication shifted from Catulus/Lucullus to
+Varro (13.12, 13.13, 13.16, 13.19, 13.25), book-count expanded
+from two to four (13.13), and the prefatory \textit{prosphonesis}
+to Varro composed and revised across multiple letters. The Greek
+\textit{Akademiken syntaxin} ``the Academic arrangement'' (13.16,
+13.19) becomes a fixed cluster keyword. Worth a corpus-level note
+as the first sustained look at a Ciceronian philosophical
+publication in active revision.
+\item \textbf{The \textit{symbiosis} register in \textit{Att.}
+13.23.} \textit{symbiosis} ``shared life'' is the cluster's most
+resonant Greek term for the Atticus friendship under strain ---
+the veiled grievance against Brutus (whose recent behaviour
+provokes the remark) is left unspoken in the Latin. Worth flagging
+as a binding emotional keyword of the Atticus correspondence in
+this stretch.
+\item \textbf{The Paetus parrhesia letter (\textit{Fam.} 9.22)
+and its place in the Paetus cluster.} The bawdy Stoic-parrhesia
+set-piece (the elaborate defence of plain Latin terms for genital
+matters: \textit{mentula}, \textit{coleos}, \textit{cauda},
+\textit{penis}, the corrupt stage-quotations and the false
+etymologies) is the cluster's most distinctive single performance.
+The Greek \textit{ho sophos euthyrrhemonesei} ``the wise man will
+speak openly'' frames the whole as Stoic doctrine; the joke turns
+on Cicero adopting the philosophical pretext for what is in fact
+sustained low-diction comedy. The \textit{suppedit} reading
+``pisses underneath himself'' vs.\ Shackleton Bailey's emendation
+is the translator-note candidate.
+\item \textbf{The Pompeian-exile doctrinal pivot
+(\textit{conscientia factorum et consiliorum}).} The same
+Stoic-consolatio formula recurs verbatim in \textit{Fam.} 6.10.4
+and 6.13.5 --- a deliberate binding refrain across the Book 6
+cluster. Worth flagging as the cluster's stable doctrinal pivot;
+the 6.12.5 sharpening to ``now even of preservation
+[\textit{nunc vero etiam salutem}]'' is the cluster's most acute
+formulation.
+\item \textbf{Homer and Hesiod allusions in Atticus 13.x.}
+\textit{Iliad} VI.442 (Hector's \textit{aideomai Troas}) at
+13.13; \textit{Iliad} 11.654 (\textit{tacha ken kai anaition
+aitiooto}) at 13.25; Hesiod \textit{Works and Days} 350
+(\textit{ai ke dunai}) at 13.12. Worth corpus-level allusion
+entries and glossary notes at the apparatus pass.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 18 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 18:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item \textbf{Slice T continuation: \textit{Att.} 13.21 + remaining
+\textit{Att.} 13 mid-book (13.26 onward as they fall by date).}
+13.21 (29 July 45 BC, Asturae) is the next surviving Atticus
+letter after the daily-run cluster. 13.26 onward continues the
+sequence (note 13.26 is dated -0045-05-14, well before 13.10, so
+it's an earlier letter shelved in book 13 by manuscript order ---
+treat similarly to the 13.06 mid-March-out-of-sequence case from
+session 17).
+\item \textbf{Slice V finish (the Paetus 45 BC sequence):} only
+\textit{Fam.} 9.24 (Feb 43 BC, much later in chronology) and
+\textit{Fam.} 9.25 (placeholder, no usable Latin) remain in book
+9 pending; effectively the Paetus 45 BC cluster is closed with
+session 18's 9.22, 9.23, 9.26.
+\item \textbf{Slice W continuation (the Pompeian-exile cluster):}
+\textit{Fam.} 6.8, 6.9 (to Caecina, mid-late 46 BC, both short),
+6.15--6.17 (to Basilus / Mescinius / Fadius Gallus and others,
+44--45 BC if pending). Confirm pending status against works.yaml
+before dispatching.
+\item \textbf{Slice C (substantial speeches blocking the
+chronological-gap sweep, dispatch one per session not in
+parallel):} \texttt{pro-milone} (52 BC),
+\texttt{partitiones-oratoriae}, \texttt{pro-plancio},
+\texttt{pro-rabirio-postumo}, \texttt{pro-scauro}. None advanced
+this session.
+\item \textbf{Slice P (post-session metadata follow-up): supply
+manual Latin for \textit{Att.} 13.15 and 13.18}, both skipped
+this session due to no usable upstream source. Source: Shackleton
+Bailey, \textit{Cicero's Letters to Atticus} vol.\ 5 (Cambridge),
+or any modern critical edition. Until supplied, these two entries
+remain pending and the \textit{Att.} 13 run has two visible holes.
+\item \textbf{Slice M (entity-stub enrichment):} the entity
+registry still has $\sim$472 stub entries needing real summaries.
+\end{itemize}
+
+
+\textbf{Translation state (post-Cowork-session-17):} 599 / 958
+works drafted (\~62.5\%). Latest drafted by deep chronology
+unchanged: \textit{Ad Familiares} 9.12 (Cumanum, late November 45
+BC). \textbf{Session 17 drafted 24 letters --- the Tusculanum
+late-May/early-June 45 BC run (\textit{Att.} 12.51--12.53 +
+\textit{Att.} 13.1--13.9, 12 letters, 20 May--17 June/1 July 45 BC,
+incorporating one out-of-sequence Astura mid-March letter 13.6),
+plus the Paetus mid-46 BC to late-46 BC sequence (\textit{Fam.}
+9.15--9.21, 7 letters), plus the Torquatus consolation cluster
+(\textit{Fam.} 6.2--6.4, 3 letters, early 45 BC), plus the Lepta
+practical note (\textit{Fam.} 6.18, end January 45 BC) and the
+Toranius condolence (\textit{Fam.} 6.21, c.\ April 45 BC) --- in
+three parallel waves (eight workers total) and applied five date
+corrections.} The chronological-gap warning is now \textbf{126
+pending works dated earlier than the latest-drafted} (down from
+150 at the end of session 16). The pointer for ``latest drafted by
+date'' did not advance --- session 17 continued the gap-fill sweep,
+this time advancing the Astura-to-Tusculanum daily letter sequence
+beyond mid-May, opening \textit{Att.} 13, and resuming the Paetus
+witty-dining cluster after a long gap.
+
+\textbf{Cowork session 17 --- 24 letters drafted across three
+parallel waves (eight workers):}
+
+\textbf{Wave 1 (3 workers, 8 letters --- the
+Tusculanum-late-May/Astura-cluster closure and \textit{Att.} 13
+opening, 20--30 May plus 1--2 June 45 BC, in Tusculano):}
+\begin{itemize}
+\item \textbf{Worker A (\textit{Att.} 12.51--12.53):} 12.51 (the
+\textit{politikoi} / \textit{touto de m\=el\=os\=ei} pair --- two
+Greek phrases, the surgical-probe metaphor preserved; the
+\textit{hoc metuere, alterum in metu non ponere} antithesis kept
+balanced; \textbf{date correction} from year-precision placeholder
+\mbox{-0045-04-20} to day-precision \mbox{-0045-05-20} per Perseus
+dateline \textit{xiii K. Iun.} = 20 May 45 BC, with the explicit
+note that Perseus prints \textit{K. luit.} as an OCR garble for
+\textit{K. Iun.} per the surrounding sequence
+[12.52 = xii K. Iun. = 21 May, 12.53 = xi K. Iun. = 22 May];
+\textit{perscriptio} rendered ``assignment'' on the banker's-
+transfer reading; possible senarius accentuation
+\textit{hoc m\'etuere, \'in metu non p\'onere} noted but rendered
+as plain antithetic prose); 12.52 (one Greek phrase
+\textit{apographa} ``transcripts'' --- the closing tease about
+Cicero's Latin philosophical works as transcripts of Greek
+originals, the cluster's first explicit metareflection on the
+\textit{syntagmata} now occupying him; HS \overline{XX} rendered
+``20{,}000 sesterces''; the throwaway \textit{de lingua Latina
+securi es animi} confirmed as referring to the in-progress
+\textit{Academica}); 12.53 (very brief, no Greek; the cluster's
+characteristic ``write daily even with nothing to write'' moment
+foregrounded; one-paragraph headnote per the brief).
+
+\item \textbf{Worker B (\textit{Att.} 13.01--13.03):} 13.01 (one
+Greek phrase \textit{katabi\=osin} ``a running-down of life'' /
+``passing of remaining years''; one daggered crux \dag\
+\textit{totum in hunc} \dag\ in \S3 preserved); 13.02 (very brief,
+60 words, the manuscript breaks off mid-sentence at
+\textit{verum tamen---} preserved with the em-dash; the
+\textit{humanitatem exuimus} ``we have stripped off all
+humanity'' echo of the grief-cluster register); 13.03 (one
+daggered crux \dag\ \textit{espraes} \dag\ in \S1 preserved,
+with the headnote suggesting \textit{ex praesenti} as a possible
+restoration per flag-not-resolve).
+
+\item \textbf{Worker C (\textit{Att.} 13.04--13.05):} 13.04
+(no Greek; the saepius/saepius parallelism preserved as ``keep
+asking \ldots\ keep answering''; \textit{nomina} in the financial
+sense rendered ``debts''; the Terentia-dowry context flagged in
+the headnote); 13.05 (one Greek phrase \textit{eulogon}
+``stands to reason'' --- Stoic dialectical term in parenthesis;
+the \textit{misi tibi Torquatum} rendered ``I have sent you the
+\textit{Torquatus}'', the standard reading as the presentation
+copy of what becomes \textit{De Finibus} Book 1; the Mummius
+ambiguity --- L.\ Mummius Achaicus vs.\ his brother Spurius ---
+resolved in headnote).
+\end{itemize}
+
+\textbf{Wave 2 (2 workers, 7 letters --- \textit{Att.} 13.6--13.9
+\& \textit{Fam.} 9.15--9.17, mid-March 45 BC + mid-46 BC):}
+\begin{itemize}
+\item \textbf{Worker D (\textit{Att.} 13.06--13.09):} 13.06
+(Astura, mid-March 45 BC, out-of-sequence within \textit{Att.} 13
+--- the editorial decision to leave it under 13 rather than
+re-shelving into the Astura cluster preserved; no Greek;
+\textit{columnarium} rendered ``column-tax'' [the Caesarian
+assessment]; \textit{solitudinem Catonis} translated literally as
+``Cato's lonely position'' with the resonance carried by the
+headnote); 13.07 (one Greek phrase \textit{eulogon}
+``reasonable''; the sly self-distancing
+\textit{nisi placet hanc ipsam sententiam nos persequi}
+``unless one cares to take up that very line of thought oneself''
+preserved); 13.08 (one Greek phrase
+\textit{Panaitiou peri Pronoias} ``Panaetius \textit{On
+Providence}''; \textit{triplicis} rendered ``triple-tablets'' for
+the three-leaf wax tablets; \textit{Caelianorum} taken with
+\textit{epitomen Bruti} as Brutus's epitome of the annals of
+L.\ Coelius Antipater); 13.09 (\textbf{five Greek phrases}
+\textit{ektenesteron} ``more attentive,''
+\textit{philostorgoteron} ``more affectionate,'' \textit{aphata}
+``unspeakable,'' \textit{adi\=eg\=eta} ``not to be recounted,''
+\textit{eukair\=os} ``at just the right moment'' --- the dense
+Greek-deployment cluster of the spring; the dateline
+\textit{xttv K. Quint.} is an OCR garble [restorations: xiv K.
+Quint.\ = 18 June OR K.\ Quint.\ = 1 July] for which the
+translation does not depend on disambiguation; \texttt{works.yaml}
+date preserved at \mbox{-0045-07-01} per current entry, with the
+headnote naming both readings).
+
+\item \textbf{Worker E (\textit{Fam.} 9.15--9.17):} 9.15
+(no Greek; \textit{clavum tenebamus \ldots\ vix est in sentina
+locus} rendered ``we sat on the stern and held the helm \ldots\
+now there is barely room in the bilge'' preserving the
+helmsman/bilge contrast; \textit{noster hic praefectus moribus}
+``our prefect of morals'' [of Caesar]; \textbf{date correction}
+from year-precision placeholder \mbox{-0046-04-20} to
+month-precision \mbox{-0046-11-15} per Perseus dateline
+\textit{Romae in.\ interc.\ priore} = beginning of the earlier
+intercalary month of 46 BC = ca.\ mid-November of Caesar's
+calendar-reform year); 9.16 (one Greek phrase
+\textit{apophthegmaton} ``sayings''; two daggered cruxes \dag\
+\textit{popillium} \dag\ and \dag\ \textit{denarium} \dag\
+preserved with explicit dagger markers; the magnificent
+\textit{salis enim satis est, sannionum parum} ``Salt there is
+enough; clowns, too few'' epigram preserved as Cicero's perfectly-
+balanced chiasm; \textit{tyrotarichi patinam} rendered ``dish of
+cheese-and-salt-fish'' in the diaspora-of-poor-man's-food
+register; \textit{polypum miniati Iovis similem} rendered ``an
+octopus to match a red-leaded Jupiter'' on the red-Capitoline-
+Jupiter reading); 9.17 (no Greek; the
+\textit{de lucro prope iam quadriennium vivimus} idiom rendered
+``for nearly four years we have been living on bonus time'';
+closing tricolon \textit{optare optima, cogitare difficillima,
+ferre quaecumque erunt} rendered ``hope for the best, brace for
+the worst, and bear whatever comes,'' with \textit{cogitare} taken
+in its Stoic-\textit{proso{\=c}h\=e} sense; \textbf{date
+correction} from day-precision \mbox{-0046-08-13} to
+month-precision \mbox{-0046-08-20} per Perseus
+\textit{post Id.\ Sext.} = ``after the Ides of Sextilis''
+= 14--31 August 46 BC).
+\end{itemize}
+
+\textbf{Wave 3 (3 workers, 9 letters --- \textit{Fam.} 9.18--9.21
++ \textit{Fam.} 6.2--6.4 + \textit{Fam.} 6.18, 6.21, the Paetus
+late-46/Torquatus-early-45/Lepta-Toranius cluster):}
+\begin{itemize}
+\item \textbf{Worker F (\textit{Fam.} 9.18--9.21):} 9.18
+(one Greek phrase \textit{prolegomenas} ``rhetorical preludes'';
+the schoolmaster conceit \textit{quasi habere coeperim} preserved;
+proverb \textit{sus Minervam} rendered ``a pig giving lessons to
+Minerva''; the Pompey/Lentulus/Scipio/Afranius vs.\ ``Cato
+gloriously'' death-catalogue kept terse; the Haterianum/Hirtianum
+sauce chiasm balance preserved); 9.19 (no Greek; the Balbus
+wordplay \textit{balbos / disertos} ``stutterers / well-spoken''
+glossed inline as the joke's whole point;
+\textit{ad suam} rendered tactfully but visibly as ``to his
+lady's house''); 9.20 (one Greek phrase \textit{opsimatheis}
+``late-learners''; \textit{scurram velitem malis oneratum}
+rendered ``skirmisher of a comic buffoon \ldots\ pelted with
+apples'' [the \textit{mala} = apples flung at comic actors];
+\textit{in Epicuri castra coniecimus} kept military as ``flung
+myself into the camp of Epicurus''; the closing threat
+\textit{te iacente bona tua comedim} kept blunt as ``I shall
+devour your property with you lying flat'';
+\dag\ \textit{ex artis tantum habemus} \dag\ preserved as crux);
+9.21 (one Greek phrase \textit{apoteugma} ``misfire'';
+\textit{Papisii dicebamini} preserved as direct address
+``you used to be called the Papisii''; \textit{a Trabea} flagged
+as a comic-poet tag of unknown content; \textit{cantharidas
+sumpsisse} and \textit{sutorio atramento absolutus} kept literal
+with notes on the cantharides/shoemaker's-blacking suicide-or-ink
+ambiguity; \textbf{date correction} from year-precision
+\mbox{-0046-10-26} to month-precision \mbox{-0046-11-15} per
+Perseus \textit{ut videtur, circ.\ m.\ intercal.\ pr.} = around
+the earlier intercalary month of 46 BC).
+
+\item \textbf{Worker G (\textit{Fam.} 6.2--6.4 Torquatus
+consolation cluster):} 6.2 (no Greek; \S2's Stoic trichotomy
+[arms prevail / peace restored / total ruin] rendered as a
+numbered ``one of three things'' to make the rhetorical
+scaffolding visible; the M.\ Antonius the orator [Torquatus's
+grandfather-in-law] disambiguated from the triumvir in headnote);
+6.3 (one Greek phrase \textbf{\textit{glauk' eis Ath\=enas}}
+``owls to Athens'' --- particularly pointed since Torquatus is
+literally in Athens; one daggered crux \dag\
+\textit{quemvis aut} \dag\ in \S4 preserved); 6.4 (the longest
+of the three at 838 words; no Greek; the doctrinal pivot
+\textit{conscientiam rectae voluntatis maximam consolationem esse
+rerum incommodarum nec esse ullum magnum malum praeter culpam}
+rendered to preserve the parallel ``X is the greatest consolation
+\ldots\ there is no great evil except guilt''; \S4's turn from
+consoler to consoled flagged in the headnote as the
+characteristic move of the cluster; one daggered crux \dag\
+\textit{non quo, sed quod difficilis erat coniectura} \dag\
+preserved).
+
+\item \textbf{Worker H (\textit{Fam.} 6.18 Lepta + 6.21
+Toranius):} 6.18 (one Greek phrase \textbf{Hesiod \textit{Works
+and Days} 289 \textit{t\=es d' aret\=es hidr\=ota}} ``but in
+front of excellence [the gods set sweat]'' --- the cluster's only
+Hesiod quotation; the Caesarian municipal-law distinction
+between \textit{qui faciunt} [currently practising auctioneers,
+barred] and \textit{qui fecissent} [former auctioneers, not
+barred] preserved literally to keep the legal-technical force;
+\textit{me hercule} rendered ``by Hercules'' per STYLE.md; the
+diminutive ``our young Lepta'' for the son distinguished from
+the father throughout); 6.21 (no Greek; the dramatic antithesis
+\textit{aut interitum \ldots\ aut \ldots\ servitutem} rendered
+as a colon-split parallel ``destruction it would bring, if you
+were defeated; if you conquered, slavery'' to preserve Cicero's
+chiastic shape; \textit{salutem retinere} rendered ``preserve
+survival'' rather than ``preserve safety'' for the sharp post-
+Pharsalus sense against \textit{dignitati \ldots\ consuluisse}).
+\end{itemize}
+
+\textbf{Date corrections committed to \texttt{meta/works.yaml}
+during session 17 (five entries):}
+\begin{itemize}
+\item \textit{Att.} 12.51: \mbox{-0045-04-20} year-precision
+$\rightarrow$ \mbox{-0045-05-20} day-precision per Perseus
+\textit{xiii K. Iun.} (= 20 May 45 BC; ``K. luit.'' in Perseus is
+an OCR garble for ``K. Iun.'' per surrounding sequence).
+\item \textit{Fam.} 9.15: \mbox{-0046-04-20} year-precision
+$\rightarrow$ \mbox{-0046-11-15} month-precision per Perseus
+\textit{Romae in.\ interc.\ priore} (= beginning of earlier
+intercalary month of 46 BC, ca.\ mid-November).
+\item \textit{Fam.} 9.17: \mbox{-0046-08-13} day-precision
+$\rightarrow$ \mbox{-0046-08-20} month-precision per Perseus
+\textit{Romae post Id.\ Sext.} (= 14--31 August 46 BC; original
+day-precision Aug 13 was inconsistent with ``post Id.'').
+\item \textit{Fam.} 9.19: \mbox{-0046-08-13} day-precision
+$\rightarrow$ \mbox{-0046-08-20} month-precision (same as 9.17).
+\item \textit{Fam.} 9.21: \mbox{-0046-10-26} year-precision
+$\rightarrow$ \mbox{-0046-11-15} month-precision per Perseus
+\textit{circ.\ m.\ intercal.\ pr.} (= around earlier intercalary
+month of 46 BC).
+\end{itemize}
+
+\textbf{Other date observations (no correction needed or
+deferred):}
+\begin{itemize}
+\item \textit{Att.} 13.09 dateline OCR garble: Perseus prints
+\textit{xttv K. Quint.} which is not a valid Roman numeral. The
+two standard restorations are (a) \textit{xiv K. Quint.}
+= 18 June 45 BC (Shackleton Bailey, Tyrrell--Purser), or
+(b) \textit{K. Quint.} alone = 1 July 45 BC. \texttt{works.yaml}
+has \mbox{-0045-07-01} day-precision matching restoration (b);
+preserved pending review against Shackleton Bailey.
+\item \textit{Fam.} 6.2: Perseus \textit{ante xii K. Mai.}
+(= before 20 April). \texttt{works.yaml} has \mbox{-0045-04-20}
+day-precision; technically ``ante'' suggests slightly earlier,
+but the precision is close enough not to demand a correction.
+\item \textit{Fam.} 6.18: Perseus \textit{ex.\ m.\ Ian.}
+(= end of January). \texttt{works.yaml} has \mbox{-0045-01-15}
+month-precision; could be tightened to \mbox{-0045-01-28} but
+month-precision covers the range.
+\end{itemize}
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{The Paetus voice register reactivated (\textit{Fam.}
+9.15--9.21).} After the long gap since 9.10--9.13 was drafted in
+earlier sessions, the Paetus cluster's distinctive register
+returns in force: food language as Cicero's medium of
+self-mockery (\textit{tyrotarichum}, \textit{lucanicae},
+\textit{polypus miniati Iovis}, the appetizer-to-roast-veal
+\textit{promulside ad assum vitulinum}), chiastic epigrams
+(\textit{dicendi discipulos, cenandi magistros}; \textit{salis
+satis est, sannionum parum}), deliberate slumming into low
+diction (the \textit{Popillius/denarius} cruxes in 9.16, the
+threat-as-affection close \textit{bona tua comedim} in 9.20),
+mock-formal verbs (\textit{censeo}), and the wordplay that drives
+each joke's whole point (Balbi/balbos in 9.19; the philosophical
+defection-to-Epicurus military metaphor in 9.20). Worth a
+corpus-level note as the cluster's binding voice across the 18
+months it spans.
+\item \textbf{The Torquatus consolation register vs.\ the
+Toranius condolence register (\textit{Fam.} 6.2--6.4 vs.\ 6.21).}
+Two Pompeian-exile registers in proximity: Torquatus letters are
+grave, philosophically pitched, with full Stoic-consolatio
+machinery deployed (\textit{conscientiam rectae voluntatis
+maximam consolationem esse rerum incommodarum} as the doctrinal
+pivot); Toranius letter is more distant, more measured, with the
+philosophical resources surfacing only briefly. The two registers
+should sound audibly different even though the subject (Pompeian
+defeat, Caesarian clemency, Athens-as-refuge) is the same.
+\item \textbf{The Hesiod quotation in \textit{Fam.} 6.18.}
+The Hesiod \textit{Works and Days} 289 quotation
+\textit{t\=es d' aret\=es hidr\=ota} ``but in front of excellence
+[the gods set sweat]'' is a canonical line, frequently quoted by
+Cicero across his philosophical and rhetorical works. Worth a
+corpus-level allusion entry and a glossary note when the
+apparatus pass reaches \textit{Fam.} 6.
+\item \textbf{The Caesarian municipal-law technical distinction
+in \textit{Fam.} 6.18.1.} The \textit{qui faciunt} /
+\textit{qui fecissent} contrast (currently practising auctioneers
+barred from public office vs.\ former ones not barred) is a
+small but precise window onto the legal-technical drafting style
+of Caesar's \textit{lex municipalis}. Worth preserving literally
+in translation; modernizing into ``current'' / ``former'' loses
+the explicit verbal-aspect contrast that the Latin foregrounds.
+\item \textbf{The \textit{cantharidas} / \textit{sutorio
+atramento} suicide-or-ink ambiguity in \textit{Fam.} 9.21.4.}
+\textit{cantharidas sumpsisse} (``took cantharides,'' a poisonous
+beetle) and \textit{sutorio atramento absolutus} (``acquitted by
+shoemaker's blacking'') are two interlocked obscurities in
+Cicero's antiquarian Papisius/Carbo joke. The standard reading
+is that both are suicide-by-poison idioms (with the ``ink'' of
+shoemaker's atramentum standing for the poison). The translation
+preserves the literal images with the obscurity intact rather
+than disambiguating in body; a translator-notes entry should
+record the choice.
+\item \textbf{The \textit{eulogon} doubling across \textit{Att.}
+13.05 and 13.07.} \textit{eulogon} ``reasonable'' / ``stands to
+reason'' appears in two consecutive letters of the Tusculanum
+philosophical-writing cluster, both times as a Stoic dialectical
+term in parenthesis. Worth flagging as the cluster's stable
+philosophical-technical vocabulary item.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 17 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 17:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item \textbf{Slice T continuation: \textit{Att.} 13.10--13.20 +
+\textit{Att.} 13.22 onward as they fall by Perseus dating.} The
+Tusculanum daily-letter sequence of June 45 BC continues; the
+\textit{Att.} 13 mid-book run is the natural continuation.
+Plan 12--15 letters across 3 workers, watching for the
+\textit{Att.} 13 manuscript-order/date-order disagreements that
+have already shown up in 12.49/12.50 and 13.07/13.08.
+\item \textbf{Slice V continuation (the Paetus 45 BC sequence):}
+\textit{Fam.} 9.22, 9.23 (the two remaining year-precision
+pending Paetus letters, both 45 BC), plus 9.24--9.26 if they
+fall pending in the chronological sweep. The Paetus voice is now
+firmly re-established; running the remaining Paetus letters as a
+single sub-batch capitalises on the worker's voice continuity.
+\item \textbf{Slice W continuation (the Pompeian-exile
+condolence cluster):} \textit{Fam.} 6.5, 6.6 (early 45 BC, to
+Caecina, both substantial), 6.7 (Caecina to Cicero, a rare
+non-Cicero voice in book 6), 6.10--6.14 (Trebianus and Plancius
+consolations of 46 BC, gap-fill).
+\item \textbf{Slice C (substantial speeches blocking the
+chronological-gap sweep, dispatch one per session not in
+parallel):} \texttt{pro-milone} (52 BC),
+\texttt{partitiones-oratoriae}, \texttt{pro-plancio},
+\texttt{pro-rabirio-postumo}, \texttt{pro-scauro}. None advanced
+this session.
+\item \textbf{Slice M (entity-stub enrichment):} the entity
+registry still has $\sim$472 stub entries needing real summaries.
+\end{itemize}
+
+
+\textbf{Translation state (post-Cowork-session-16):} 575 / 958
+works drafted (\~60.0\%). Latest drafted by deep chronology
+unchanged: \textit{Ad Familiares} 9.12 (Cumanum, late November 45
+BC). \textbf{Session 16 drafted 17 letters --- the conclusion of
+the Astura grief sequence (\textit{Att.} 12.38--12.50, 13 letters,
+6--19 May 45 BC) plus the Cassius / Stoic-Epicurean diptych
+(\textit{Fam.} 15.16--15.19, 4 letters, mid-Dec 46 BC--end Jan 45
+BC) --- in two parallel waves (four workers) and applied one date
+correction.} The chronological-gap warning is now \textbf{150
+pending works dated earlier than the latest-drafted} (down from
+166 at the end of session 15). The pointer for ``latest drafted by
+date'' did not advance --- session 16 continued the gap-fill sweep
+of pre-Fam.\ 9.12 letters.
+
+\textbf{Cowork session 16 --- 17 letters drafted across two
+parallel waves (four workers):}
+
+\textbf{Wave 1 (3 workers, 13 letters --- the Astura grief
+sequence concludes, 6--19 May 45 BC):}
+\begin{itemize}
+\item \textbf{Worker A (\textit{Att.} 12.38--12.41, 6--11 May 45
+BC, Astura):} 12.38 (the brief opening on writing as a partial
+release, \textit{aberro} ``I get out of myself a little'' added to
+the cluster's \textit{levari}/\textit{adlevor} register);
+12.39 (the lift-up vocabulary \textit{adlevor} ``I am lifted up a
+little''); 12.40 (the \textit{Anticato}/\textit{laudatio Catonis}
+question, with \textbf{four Greek phrases}
+\textit{sumbouleutikon} ``a piece of political counsel,''
+\textit{Aristotelous} ``Aristotle's,'' \textit{Theopompou}
+``Theopompus's,'' \textit{pros Alexandron} ``addressed to
+Alexander'' --- the \textit{Anticato}-rebuttal genre placed by
+ancient analogy; one daggered crux \dag\ \textit{est in eo} \dag\
+in \S4 [of Lentulus, sense uncertain] preserved literally;
+\textit{frequentia} ``crowd of visitors'' kept distinct from
+\textit{celebritas} ``frequented spot,'' the \textit{fanum}-cluster
+keyword); 12.41 (\textbf{two Greek phrases}
+\textit{philaition sumphora} ``how prone misfortune is to find
+fault,'' a proverb-like opener, and \textit{proplasma} ``a kind of
+preliminary sketch'' --- the \textit{Laudatio Tulliae} as a
+sculptor's clay model; Perseus transmits \S\S1, 2, 4 only --- no
+\S3 --- preserved as in source). Six Greek phrases; one daggered
+crux; gaps preserved.
+
+\item \textbf{Worker B (\textit{Att.} 12.42--12.45, 10--17 May 45
+BC, Astura then Tusculanum):} 12.42 (the brief logistical note
+with manuscript-break mid-sentence \textit{placet mihi res sic ut
+secundum / Othonem nihil magis} preserved across the section
+boundary); 12.43 (one daggered passage \dag\ \textit{quod scies
+recte illam rem fore levamento, bene facis cumidesse} \dag\
+preserved as in 12.32 convention); 12.44 (\textbf{four Greek
+phrases}: \textit{sympath\=os} ``sympathetically,''
+\textit{eng\=erama} ``a place to grow old in'' [the cluster's
+turning point from \textit{fanum} narrowly to retirement-residence
+broadly, recurring from 12.29.2], \textit{oikodespotika}
+``befitting a master of the household,'' \textit{syntagmata}
+``treatises'' --- the first explicit reference to the philosophical
+writing as deliberate self-medication, \textit{nec aliter possum
+errare quam a miseria mea}; the visceral \textit{contundo animum}
+``I have beaten down my spirit''); 12.45 (\textbf{four Greek
+phrases}: \textit{ak\=edia} ``listlessness/indifference''
+[reserved as Atticus's state, distinct from Cicero's
+\textit{dolor}/\textit{maeror}], \textit{anektotera}
+``more bearable'' --- the cluster's first retrospective on
+\textit{solitudo} as a lower threshold of distress,
+\textit{synnaon} ``temple-mate'' [in the dark political joke
+\textit{synnaon Quirini malo quam Salutis}, deified Romulus over
+Safety personified --- a coded line preserved literally with the
+headnote unpacking it], \textit{hypothesis} ``theme''; the
+chronological pivot from Astura to Tusculanum). Eight Greek
+phrases; one daggered crux.
+
+\item \textbf{Worker C (\textit{Att.} 12.46--12.50, 15--19 May 45
+BC, Astura $\rightarrow$ Lanuvium $\rightarrow$ Tusculanum):}
+12.46 (\textbf{date correction} from placeholder year-precision
+\mbox{-0045-11-15} to day-precision \mbox{-0045-05-15} per Perseus
+dateline \textit{Id. Mai. a. 709 (45)} = Ides of May; the
+\textit{location\_written: Asturae ld. Mai} entry had silently
+encoded the date into the location field --- corrected to plain
+\textit{Asturae}; the philosophical-discipline note \textit{vincam
+animum} ``I shall master my mind'' continuing 12.44's
+\textit{contundo animum} register; the near-Terentian
+\textit{exculto enim animo nihil agreste, nihil inhumanum est}
+``to a cultivated mind nothing is uncouth, nothing inhuman''
+rendered freshly without echoing the famous \textit{Heauton
+Timorumenos} line --- worth a corpus-level allusion flag);
+12.47 (Lanuvium, 16 May, the \textit{Faberianum nomen}
+``Faberian bond'' --- a debt instrument used as currency for the
+shrine-property purchase, the cluster's first sustained financial-
+instrument language; tricolon \textit{cupido, locuples, heres}
+``covetous, wealthy, an heir'' preserved); 12.48 (Lanuvium, 17
+May, brief morning note --- Perseus marks the time of writing
+\textit{mane} ``in the morning,'' preserved in the headnote;
+\textit{divulga} of Hirtius's book rendered ``distribute'' rather
+than ``publish,'' on the ongoing-circulation reading); 12.49
+(Tusculanum, 19 May, the famous Curtius-consulship paragraph
+\textit{o tempora! fore cum dubitet Curtius consulatum petere!}
+``what times! that there should be one when Curtius hesitates to
+stand for the consulship!'' rendered freshly as ``What times!''
+to avoid the Catilinarian shadow --- worth a translator-notes
+entry on rendering \textit{o tempora} afresh outside the famous
+speech-context; \textit{viri optimi et hominis liberalissimi} of
+Caesar rendered straight, leaving the irony for the reader);
+12.50 (Tusculanum, 18 May --- chronologically precedes 12.49 by
+one day despite the manuscript numbering; clean antithesis
+\textit{ut me levarat tuus adventus sic discessus adfiixit} ``as
+your coming had relieved me, so your departure has cast me down,''
+the \textit{adventus}/\textit{discessus} and
+\textit{levare}/\textit{adfligere} pairs added to the cluster's
+register). One date + location\_written correction; one daggered
+crux carried over from 12.49 phrasing; the closure of the Astura
+sweep.
+\end{itemize}
+
+\textbf{Wave 2 (1 worker, 4 letters --- Slice U, the Cassius /
+Stoic-Epicurean diptych, mid-Dec 46 BC--end Jan 45 BC):}
+\begin{itemize}
+\item \textbf{Worker D (\textit{Fam.} 15.16--15.19):}
+\textit{Fam.} 15.16 (Cicero $\rightarrow$ Cassius, Rome, m.\ Ian.\
+45 BC --- the famous \textit{eid\=ola} ``images'' /
+\textit{phantasias} ``impressions'' /
+\textit{dianoetikas phantasias} ``impressions of thought''
+philosophical-tease letter on Cassius's recent Epicurean conversion;
+the mock-juridical \textit{interdict} ``\textsc{vi hominibus
+armatis}'' ``by men under arms'' [Gaius 4.155] preserved in
+small-caps Latin; \textit{hairesei} ``school/sect'' used twice in
+mock-praetorian register; Catius the Insubrian Epicurean named as
+the inventor of \textit{spectra} as Latin for \textit{eid\=ola});
+\textit{Fam.} 15.17 (Cicero $\rightarrow$ Cassius, Rome, 30 Dec.\
+46 BC --- the fast-moving political snapshot with \textbf{five
+Greek phrases}: \textit{panta peri pant\=on} ``everything about
+everything,'' \textit{pros\=opon pole\=os} ``the public face of
+the city,'' \textit{adespotoi} ``unattributed'' [of rumours],
+\textit{to kalon di' hauto haireton} ``the noble [is] to be
+chosen for its own sake'' [the Stoic slogan in its first cluster
+appearance, returned on by Cassius in 15.19], \textit{akenospoudos}
+``free from idle eagerness''; Brutus's Cisalpine governorship and
+Sittius in the post-Munda months; \textit{praeposteros tabellarios}
+``back-to-front couriers'' as the rendering choice;
+\textit{hasta refrixisset} ``the auction-spear cooled off''
+preserving the confiscation-market metaphor); \textit{Fam.} 15.18
+(Cicero $\rightarrow$ Cassius, Rome, c.\ mid-Dec 46 BC --- short,
+with \textit{phluaron} ``nonsense'' and \textit{spoudazein} ``to
+be in earnest''; the brief \textit{convicium Platonis} ``Plato's
+rebuke'' rendered calmly rather than as ``a railing''); \textit{Fam.}
+15.19 (Cassius $\rightarrow$ Cicero, Brundisium, ex.\ m.\ Ian.\
+45 BC --- the only Cassius-voice letter in the cluster: shorter
+clauses, fewer suspensions, colloquial oaths preserved at full
+force \textit{peream nisi sollicitus sum} ``I will be damned if I
+am not [fretting]'' as a register-loosening choice for Cassius
+specifically; \textit{antimukt\=erisai} ``to sneer back''
+preserved as a rare and pungent Greek verb; canonical Epicurus
+quotation \textit{ouk estin h\=ede\=os aneu tou kal\=os kai
+dikai\=os z\=en} ``there is no living pleasantly without living
+finely and justly'' [the doctrinal centre of the cluster, and
+Cassius's reply to 15.17's \textit{to kalon} slogan]; the
+philhedonic/philokaloi/philodikaioi tricolon
+\textit{phil\=edonoi}, \textit{philokaloi}, \textit{philodikaioi}
+``pleasure-lovers, lovers of the noble, lovers of the just'' ---
+Cassius's own coinage and the closest the cluster comes to a
+synoptic Epicurean reply to Stoic ethics; the closing one-liner
+\textit{si vicerit Caesar, celeriter ad te veniam} ``if Caesar has
+won, expect me soon'' left bare, the brevity carrying the
+political content). Eighteen Greek phrases across the four
+letters; no daggered cruxes; the Cassius-voice register shift
+worth carrying forward whenever a non-Cicero correspondent voice
+appears.
+\end{itemize}
+
+\textbf{Date corrections committed to \texttt{meta/works.yaml}
+during session 16 (one entry):}
+\textit{Att.} 12.46 corrected from placeholder year-precision
+\mbox{-0045-11-15} to day-precision \mbox{-0045-05-15} per Perseus
+dateline \textit{Id. Mai. a. 709 (45)} = Ides of May = 15 May
+45 BC. Precision upgraded \texttt{year} $\rightarrow$ \texttt{day}.
+The corrupted \texttt{location\_written: Asturae ld. Mai} (the
+``ld. Mai'' had leaked in from the date abbreviation in a prior
+edit, exactly the same failure mode as the 12.31 ``Asturae iv''
+silently corrected in session 15) was silently restored to
+\texttt{location\_written: Asturae} in the same edit.
+
+\textbf{Other date observations (no correction needed):}
+- \textit{Att.} 12.49 (xiv K. Iun. = 19 May) and 12.50 (xv K. Iun.
+= 18 May) form a manuscript-order/date-order disagreement: 12.50
+chronologically precedes 12.49 by one day despite the manuscript
+numbering. Both \texttt{works.yaml} dates are correct per Perseus;
+the chronology builder should be aware that manuscript ordering
+within a single book is not always strict chronological order in
+this stretch of \textit{Ad Atticum} 12.
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{The \textit{frequentia} / \textit{celebritas}
+distinction in \textit{Att.} 12.40.3.} The two words look like
+synonyms but are kept deliberately distinct across the cluster:
+\textit{celebritas} ``frequented spot'' is the \textit{fanum}-
+cluster keyword (the positive value Cicero now wants for the
+shrine site, the reversal of 12.13--12.16's
+\textit{solitudo}-love); \textit{frequentia} ``crowd of
+visitors'' is the negative thing he flees on his estates. Worth a
+corpus-level note as the cluster's most precise lexical choice.
+\item \textbf{The \textit{eng\=erama} broadening in \textit{Att.}
+12.44.2.} The Greek term first appeared in 12.29.2 (Atticus
+suggests Cicero buy a property as ``something to grow old in'')
+and was paired there with \textit{entaphion} ``something to be
+buried in.'' Here in 12.44 the term broadens from a specific
+property-purchase to the conceptual goal of the whole project:
+not just a shrine but a \textit{place to grow old in}. Worth
+flagging as the moment the project takes on its later, broader
+character.
+\item \textbf{The \textit{contundo} / \textit{vincam} / \textit{exculto}
+philosophical-discipline register, \textit{Att.}
+12.44.3--12.46.1.} The brutal physical metaphor
+\textit{contundo animum} ``I have beaten down my spirit''
+(12.44.3) is picked up and softened to \textit{vincam animum}
+``I shall master my mind'' (12.46.1), and then sublimated into
+the cultivated-mind formula \textit{exculto enim animo nihil
+agreste, nihil inhumanum est} (12.46.1, near-Terentian).
+The three-step progression --- pound, master, cultivate --- is the
+cluster's clearest philosophical-discipline arc. Worth a corpus-
+level note.
+\item \textbf{The \textit{o tempora!} rendering at \textit{Att.}
+12.49.2.} Rendered ``What times!'' deliberately fresh rather than
+``O the times!'' to avoid echoing the famous Catilinarian
+\textit{o tempora, o mores}. The principle of fresh-rendering of
+canonical lines (STYLE.md ``Things to avoid'' \S3) applies even
+to Cicero quoting himself --- arguably especially. Worth a
+translator-notes entry as a methodological example.
+\item \textbf{The Cassius voice register in \textit{Fam.} 15.19.}
+Shorter clauses, fewer suspensions, colloquial oaths preserved at
+full force (\textit{peream nisi sollicitus sum} ``I will be
+damned if I am not''), denser per-word Greek deployment with
+technical coinages (the \textit{philhedonic/philokaloi/philodikaioi}
+tricolon), military tricolon \textit{scis ... scis ... scis}.
+Worth a corpus-level note on non-Cicero correspondent voices: the
+project's working assumption that they should sound audibly
+different from Cicero's own voice while remaining clean modern
+English.
+\item \textbf{The canonical Epicurus quotation in \textit{Fam.}
+15.19.} \textit{ouk estin h\=ede\=os aneu tou kal\=os kai
+dikai\=os z\=en} ``there is no living pleasantly without living
+finely and justly'' --- a verbatim Epicurus citation by Cassius.
+Worth a corpus-level allusion entry and a glossary note when the
+apparatus pass reaches \textit{Fam.} 15.
+\item \textbf{The mock-juridical \textsc{vi hominibus armatis} in
+\textit{Fam.} 15.16.3.} The all-caps quotation of the praetor's
+interdict (Gaius 4.155) preserved in small-caps Latin rather than
+rendered in mock-archaic English (``by armed men with violence''
+or the like). Worth a translator-notes entry on the choice not to
+archaize legal formulae when their Latin form is the joke.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 16 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 16:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item \textbf{Slice T continuation: \textit{Att.} 12.51--12.53 +
+the \textit{Att.} 13 opening run (13.1, 13.6, 13.7a, 13.9 ff.\ as
+they fall by Perseus dating).} The Astura sequence's mid-May
+closure (12.50) sets up the Tusculanum-from-Tusculanum letters of
+late May and into June 45 BC; the \textit{Att.} 12 tail and
+\textit{Att.} 13 opening are the natural continuation. Plan
+12--15 letters across 3 workers.
+\item \textbf{Slice V (the Paetus winter-46/spring-45 sequence)}:
+\textit{Fam.} 9.15--9.23 still pending, filling forward from the
+9.5--9.13 cluster drafted earlier. Nine short, witty letters;
+parallelisable across 2 workers.
+\item \textbf{Slice W (the Torquatus / Lepta / Toranius condolence
+continuations of early 45 BC):} \textit{Fam.} 6.2, 6.3, 6.4
+(Cicero $\rightarrow$ Torquatus, all year-precision Jan.\ 45 BC),
+6.18 (Lepta), 6.21 (Toranius). All short.
+\item \textbf{Slice C (substantial speeches blocking the
+chronological-gap sweep, dispatch one per session not in
+parallel):} \texttt{pro-milone} (52 BC),
+\texttt{partitiones-oratoriae}, \texttt{pro-plancio},
+\texttt{pro-rabirio-postumo}, \texttt{pro-scauro}. None advanced
+this session.
+\item \textbf{Slice M (entity-stub enrichment):} the entity
+registry still has $\sim$472 stub entries needing real summaries.
+\end{itemize}
+
+
+\textbf{Translation state (post-Cowork-session-15):} 558 / 958
+works drafted (\~58.2\%). Latest drafted by deep chronology
+unchanged: \textit{Ad Familiares} 9.12 (Cumanum, late November 45
+BC). \textbf{Session 15 drafted 25 letters of the Astura grief
+sequence in two parallel waves (six workers) and applied one
+date correction.} The chronological-gap warning is now
+\textbf{166 pending works dated earlier than the latest-drafted}
+(down from 191 at the end of session 14). The pointer for ``latest
+drafted by date'' did not advance --- session 15 was a
+gap-fill sweep through the post-Tullia letters of March--early May
+45 BC, all earlier than \textit{Fam.} 9.12.
+
+\textbf{Cowork session 15 --- 25 letters drafted across two
+parallel waves of \textit{Ad Atticum} 12 (the Astura grief
+sequence, post-Tullia):}
+
+\textbf{Wave 1 (4 workers, 17 letters, 7--25 March 45 BC):}
+\begin{itemize}
+\item \textbf{Worker A (\textit{Att.} 12.13--12.17, 7--12 March 45
+BC):} the opening of the Astura retreat. 12.13 (the \textit{ardor
+ille idem urget et manet} grief-burning, the avoidance of
+Appuleius's banquets via the \textit{morbi causa} excuse, the
+search for a \textit{latibulum et perfugium doloris mei}
+``hiding-place and refuge for my grief''); 12.14 (the
+\textit{Consolatio} self-reference \textit{feci quod profecto ante
+me nemo, ut ipse me per litteras consolarer} ``I have done what
+surely no man has done before me, console myself by writing'' as
+the moment in the corpus where the \textit{Consolatio} is named as
+already begun; the \textit{non ad animum sed ad vultum ipsum}
+distinction); 12.15 (the famous \textit{secundum te nihil est mihi
+amicius solitudine} ``after you, nothing is more friendly to me
+than solitude,'' the day-long retreats into the
+\textit{silvam densam et asperam} ``thick and rough woods''); 12.16
+(unsectioned in Perseus TEI, wrapped as \texttt{\textbackslash
+ciceroSection\{1\}} for parallel-JSON consistency; the
+counter-statement \textit{me scriptio et litterae non leniunt sed
+obturbant} ``writing and books do not soothe me, but unsettle me''
+as the dark twin to 12.14.3); 12.17 (the only pure-business letter
+in the opening, with the lone grief mark \textit{quamquam quid ad
+me?} ``but what is it to me?''; one-day gap from 12.16 noted in
+the headnote). \textbf{Stable cluster register established:}
+\textit{solitudo}\,$\rightarrow$\,``solitude''; \textit{ardor}\,$\rightarrow$\,``burning''; \textit{dolor}\,$\rightarrow$\,``grief'' or
+``pain''; \textit{maeror}\,$\rightarrow$\,``mourning''/``sorrow'';
+\textit{fletus}\,$\rightarrow$\,``weeping''. No Greek; no daggered cruxes.
+
+\item \textbf{Worker B (\textit{Att.} 12.18--12.21, 11--17 March
+45 BC):} 12.18 (the quiet Epicurean turn \textit{longum illud
+tempus cum non ero} ``that long stretch of time when I shall not
+be''); 12.19 (the \textit{sanctius et antiquius} ``more sacred
+and older'' formula on the obligation of building the
+\textit{fanum} preserved as a Roman-feeling pledge rather than
+flattened); 12.20 (the closing \textit{de luctu minuendo} ``on
+the lessening of grief'' as the cluster's nearest reference to
+the \textit{Consolatio} being now nearly complete); 12.21 (the
+longest letter in the sub-batch, with one daggered crux
+\dag\ \textit{aut quatenus} \dag\ in \S5 preserved literally;
+the \textit{optimum consulem} ``the best of consuls'' sarcasm
+rendered with bite via the surrounding \textit{ieiunius}). No
+Greek; one daggered crux preserved.
+
+\item \textbf{Worker C (\textit{Att.} 12.22--12.25, 18--22 March
+45 BC):} 12.22 (one daggered crux \textit{iis\dag\ usuris}
+preserved literally); 12.23 (the dictum \textit{occidimus,
+occidimus, Attice} rendered ``we are finished, finished, Atticus''
+deliberately fresh, not Shackleton-Bailey's ``I am done for'';
+\textbf{one Greek phrase} \textit{politikoi} ``statesmen'' in \S2
+on the men of letters not engaging in public life under Caesar);
+12.24 (the antiquarian death-of-children \textit{exempla}
+gathered for the consolation work, \textit{meas ineptias}
+rendered ``my own trifles''); 12.25 (\textbf{two Greek phrases},
+both load-bearing: \textit{tetyph\=osthai} ``infatuated/puffed up
+by vanity'' as Stoic-Cynic technical term, and the famous
+\textit{engēērama} ``something to grow old with'' --- Atticus's
+tactful counsel that Cicero choose a property as a retirement
+seat; Cicero's reply \textit{actum de illa re} ``that matter is
+done with'' the cluster's bleakest two-word rejection of further
+life). One crux preserved; three Greek phrases handled.
+
+\item \textbf{Worker D (\textit{Att.} 12.26--12.29, 22--25 March
+45 BC):} 12.26 (the elliptical refusal \textit{unam rem ad me
+scripsisti; de qua decrevi nihil tibi rescribere} ``you have
+written to me about one matter; on which I have determined to
+write nothing back to you'' --- almost certainly the
+Publilia/remarriage question, recurring across the cluster);
+12.27 (the conceptual hinge \textit{sequor celebritatem} ``what I
+am after is a frequented spot'' --- Cicero, who had earlier sought
+\textit{solitudo}, now wants \textit{celebritas} for the shrine's
+site; the central pivot of the \textit{fanum} project); 12.28
+(the famous Stoic-precision distinction \textit{maerorem minui,
+dolorem nec potui nec, si possem, vellem} ``my mourning I have
+lessened; my grief I could not lessen, nor would I, if I could''
+--- the canonical \textit{maeror}/\textit{dolor} split between
+public mourning and inward pain; one daggered crux \dag\
+``to him''\dag\ in \S3 in the Castricius slave-transaction
+passage preserved literally); 12.29 (\textbf{two Greek phrases,
+the most-quoted of the four:} \textit{engēērama} ``thing to grow
+old in'' and \textit{entaphion} ``thing to be buried in,''
+deliberately rendered as plain English glosses rather than
+something more literary). One crux preserved; two Greek phrases
+handled.
+\end{itemize}
+
+\textbf{Wave 2 (2 workers, 8 letters, 26 March--4 May 45 BC):}
+\begin{itemize}
+\item \textbf{Worker E (\textit{Att.} 12.30--12.33):} 12.30 (8
+April 45 BC, Astura --- short three-sentence note on the Otho
+gardens negotiation; no grief mark); 12.31 (\textbf{date
+corrected from \mbox{-0045-04-01} to \mbox{-0045-03-29}} per
+Perseus dateline \textit{iv. K. Apr. a. 709 (45)} = 29 March 45
+BC; \textbf{location\_written corrupted ``Asturae iv'' silently
+corrected to ``Asturae''} --- the ``iv'' had leaked in from the
+date abbreviation in a prior edit; the closing \textit{servio
+cupiditati et dolori meo ut a te regi velim} ``I am the slave
+of my own longing and grief, and so I want to be steered by
+you'' as the cluster's most personal admission of dependence on
+Atticus); 12.32 (the famous Publilia letter, with one
+daggered crux \dag\ \textit{cum Publilio loqueretur} \dag\
+preserved literally in \S2 [the textual question is whether the
+mother was speaking with Publilius or Publilia herself was
+writing after speaking with him]; the autograph mark \textit{haec
+ad te mea manu} ``this part to you in my own hand'' as Cicero
+shifts to autograph for the Publilia paragraph); 12.33 (one
+three-sentence inventory of unmemorable estate lots,
+\textit{nescio quotenorum iugerum} ``of so-many iugera apiece
+(size unknown)''). One date correction; one location-string
+correction; one daggered crux preserved.
+
+\item \textbf{Worker F (\textit{Att.} 12.34--12.37, 30 March--4
+May 45 BC):} 12.34 (the brief Sicca-suburbanum announcement of
+the planned overnight trip out of Astura toward Rome); 12.35
+(\textbf{location\_written = ``fort.\ in suburbano Siccae''}
+already correct in works.yaml; Perseus dateline \textit{K.\ vesp.\
+aut mane vi Non.\ Mai.\ a.\ 709 (45)} = evening of 1 May or
+morning of 2 May 45 BC; works.yaml date \mbox{-0045-05-02}
+maintained, worker JSON uses \mbox{-0045-05-01} per the
+\textit{vesp.}\ reading --- both within the same overnight
+window; \textbf{one Greek phrase} \textit{alog\=os}
+``unreasonably'' as Cicero's self-deprecating Stoic/Academic
+technical aside admitting his attachment to the word
+\textit{fanum} is non-rational; the lex-funeral provision noted
+in passing as the discovery that triggered the \textit{fanum}
+shift); 12.36 (\textbf{one Greek phrase} \textit{apotheōsin}
+``apotheosis'' as the conceptual goal of the shrine project,
+deliberately Greek --- Latin had no word for the private-person
+cult-deification at this date); 12.37 (the conceptual completion
+of the \textit{celebritas} hinge, \textit{celebritatem requiro}
+``I am after a frequented spot''; \textit{nescio quo pacto}
+``somehow'' preserves the self-puzzled quality of the
+\textit{solitudo}-to-\textit{celebritas} reversal). Two Greek
+phrases handled.
+\end{itemize}
+
+\textbf{Date corrections committed to \texttt{meta/works.yaml}
+during session 15 (one entry):}
+(a) \textit{Att.} 12.31 corrected from day-precision
+\mbox{-0045-04-01} to day-precision \mbox{-0045-03-29} per Perseus
+dateline \textit{iv. K. Apr. a. 709 (45)} = ante diem IV Kalendas
+Apriles = 29 March 45 BC. The 1 April placeholder was off by
+three days; precision unchanged (\texttt{day}). The same entry
+carried a corrupted \texttt{location\_written: Asturae iv}
+(the ``iv'' had leaked in from the date abbreviation in a prior
+edit); silently corrected to \texttt{location\_written: Asturae}
+in the same edit.
+
+\textbf{Other date observations (no correction needed):}
+- The launch prompt assigned to Worker E/F by the PM agent listed
+several letters with March/April placeholder dates that turned
+out to be wrong; the actual \texttt{meta/works.yaml} entries for
+12.35, 12.36, and 12.37 already carried the correct May 45 BC
+dates per Perseus. The workers' \texttt{data/parallel/} JSON
+files use the Perseus dates throughout, matching works.yaml.
+- 12.35 has a half-day ambiguity in the Perseus dateline
+(\textit{K. vesp. aut mane vi Non. Mai.}) between 1 May evening
+and 2 May morning; works.yaml takes the conservative 2 May
+reading, while the worker's JSON took 1 May. Both readings are
+valid for the same letter; left as is.
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{The \textit{maeror}/\textit{dolor} distinction in
+\textit{Att.} 12.28.2.} \textit{maerorem minui, dolorem nec
+potui nec, si possem, vellem} is the canonical Ciceronian split
+between \textit{maeror} (public mourning, the kind one performs
+and can modulate) and \textit{dolor} (inward grief, which one
+cannot reduce by an act of will and would not, even if one
+could). The rendering choice between ``mourning''/``grief'' vs
+the more uniform ``grief''/``pain'' shapes the whole Astura
+cluster. Worth a corpus-level note.
+\item \textbf{The \textit{engēērama}/\textit{entaphion} pair in
+\textit{Att.} 12.29.2.} Atticus suggests Cicero purchase a
+property as something to grow old in (\textit{engēērama}); Cicero
+replies that what he wants is something to be buried in
+(\textit{entaphion}). The two Greek words are the most-quoted
+moment of the four-letter sub-batch; rendered as plain English
+glosses (``thing to grow old in'' / ``thing to be buried in'')
+rather than something more literary, on the principle that the
+diminutive force of the Greek terms lands in their literal
+ordinariness.
+\item \textbf{The \textit{solitudo}-to-\textit{celebritas}
+reversal across \textit{Att.} 12.13--12.37.} Cicero's opening
+position is the famous \textit{secundum te nihil est mihi amicius
+solitudine} (12.15.1); by 12.27.1 the position has reversed
+into \textit{sequor celebritatem} ``what I am after is a
+frequented spot,'' and by 12.37.2 \textit{celebritatem requiro}
+``I am after a frequented spot'' has become the engine of the
+\textit{fanum} project. The reversal is the cluster's central
+arc and worth a corpus-level note on how the shrine project
+re-orients the grief.
+\item \textbf{The \textit{Consolatio} self-reference in
+\textit{Att.} 12.14.3.} \textit{feci quod profecto ante me nemo,
+ut ipse me per litteras consolarer} is the cluster's clearest
+naming of the now-lost \textit{Consolatio} as a self-addressed
+literary act. With 12.20.3 (\textit{de luctu minuendo}), the two
+references bracket the composition of the treatise within the
+March 45 BC retreat. Worth a corpus-level note when the lost
+\textit{Consolatio} is reconstructed for the apparatus pass.
+\item \textbf{The Publilia question's elliptical refusals in
+\textit{Att.} 12.26.2 and the daggered crux of 12.32.2.} The
+\textit{unam rem ad me scripsisti; de qua decrevi nihil tibi
+rescribere} of 12.26.2 and the \dag\ \textit{cum Publilio
+loqueretur} \dag\ crux of 12.32.2 (autograph paragraph) are the
+cluster's two Publilia moments; both are deliberately elliptical
+in the Latin and rendered without expansion in the English.
+Worth a translator-notes entry on the cluster's discretion
+around the marriage's dissolution.
+\item \textbf{The \textit{cupiditas}/\textit{dolor} pairing in
+\textit{Att.} 12.31.2.} \textit{servio cupiditati et dolori meo
+ut a te regi velim} (``I am the slave of my own longing and
+grief, and so I want to be steered by you'') is the cluster's
+most personal admission of dependence on Atticus; the
+\textit{cupiditas} here is the longing for the shrine, not for
+remarriage. Worth a corpus-level note on \textit{cupiditas}
+under grief, distinct from \textit{cupiditas} under desire.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 15 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 15:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item \textbf{Slice T continuation: \textit{Att.} 12.38--12.50}
+(the rest of the Astura grief sequence into mid-May 45 BC; the
+\textit{fanum} project's culmination and Cicero's brief journey
+out of Astura). All short; a worker batch of 10--13 letters
+across 2--3 workers is realistic. The cluster's lexicon is now
+stable (see session-15 register notes above), making this an
+efficient continuation.
+\item Slice U (the \textit{Cassius Longinus} / Stoic-Epicurean
+diptych of January 45 BC): \textit{Fam.} 15.16, 15.17, 15.18,
+15.19. A four-letter cluster on Cassius's philosophical
+conversion to Epicureanism; load-bearing for the
+political-philosophical network 45--44 BC.
+\item Slice V (the Paetus winter-46/spring-45 sequence,
+Cicero $\rightarrow$ L.\ Papirius Paetus, the dinner-and-wit
+correspondence): \textit{Fam.} 9.15--9.23 (filling forward from
+9.5--9.13 drafted earlier).
+\item Slice W (the Torquatus / Lepta / Toranius condolence
+continuations of early 45 BC): \textit{Fam.} 6.2, 6.3, 6.4
+(Cicero $\rightarrow$ Torquatus, all year-precision Jan.\ 45
+BC), 6.18 (Lepta), 6.21 (Toranius). All short.
+\item Slice C (substantial speeches blocking the chronological-
+gap sweep, dispatch one per session not in parallel):
+\texttt{pro-milone} (52 BC), \texttt{partitiones-oratoriae},
+\texttt{pro-plancio}, \texttt{pro-rabirio-postumo},
+\texttt{pro-scauro}. None advanced this session.
+\item Slice M (entity-stub enrichment): the entity registry
+still has $\sim$472 stub entries needing real summaries.
+\end{itemize}
+
+
+\textbf{Translation state (post-Cowork-session-14):} 533 / 958
+works drafted (\~55.6\%). Latest drafted by deep chronology:
+\textit{Ad Familiares} 9.12 (Cumanum, late November 45 BC ---
+date corrected this session per the internal \textit{oratiuncula
+pro Deiotaro} reference, which is unambiguous since the
+\textit{Pro Deiotaro} was delivered in November 45 BC; works.yaml
+formerly carried the year-precision placeholder
+\mbox{-0045-01-17}). \textbf{Session 14 drafted 29 letters across
+two parallel waves (seven workers) and applied four date
+corrections to meta/works.yaml.} The chronology pointer leapt
+forward from \textit{Fam.} 9.13 (Dec 46 / early Jan 45 BC) to
+\textit{Fam.} 9.12 (late Nov 45 BC) because of the 9.12
+re-dating; consequently the chronological-gap warning is now
+\textbf{191 pending works dated earlier than the latest-drafted}.
+The gap reshapes rather than shrinks --- the leap pulls in
+several months of 45 BC pending letters (chiefly the
+\textit{Ad Atticum} 12--13 sequence of March--August 45 BC, the
+post-Tullia grief correspondence in volume).
+
+\textbf{Cowork session 14 --- 29 letters drafted across two
+parallel waves (seven workers):}
+
+\textbf{Wave 1 (4 workers, 15 letters):}
+\begin{itemize}
+\item \textbf{Worker A (Slice L Dolabella cluster --- 4 letters,
+spanning June 48 BC to late 45 BC):} \textit{Fam.} 9.9 (Dolabella
+$\rightarrow$ Cicero, June 48 BC, in Caesar's camp at
+Dyrrhachium; Dolabella urges Cicero from Caesar's side to
+withdraw from the Pompeian cause and rely on Caesarian mercy
+--- the only Dolabella-voice letter in book 9; voice rendered
+deliberately less periodic, more direct than Cicero's),
+\textit{Fam.} 9.10 (Cicero $\rightarrow$ Dolabella, Rome, 30
+Dec.\ 46 BC --- the Alexandrian-critic conceit on a money
+dispute, with three Greek phrases \textit{obelizei} ``marks with
+an obelus,'' \textit{tou poi\=etou \=e parembebl\=emenoi}
+``the poet's own or interpolated,'' \textit{sumbi\=ot\=en}
+``housemate''; daggered crux \textit{ingentium $\dagger$cularum$\dagger$}
+preserved with daggers; the closing \textit{hasta Caesaris
+refrixerit} ``the auction-spear has cooled off'' load-bearing as
+an indicator of the Caesarian confiscation market going slack),
+\textit{Fam.} 9.11 (Cicero $\rightarrow$ Dolabella, at Atticus's
+Ficuleanum, 20 April 45 BC --- the gracious 265-word thanks for
+Dolabella's condolence on Tullia's death; the load-bearing
+hyperbole \textit{vel meo ipsius interitu mallem litteras meas
+desiderares} ``I should rather you had missed my letters by
+reason of my own death''; the closing \textit{nondum satis sum
+confirmatus ad scribendum} ``not yet sufficiently strengthened
+for writing''), \textit{Fam.} 9.12 (Cicero $\rightarrow$
+Dolabella, Cumanum, \textbf{date corrected from year-precision
+\mbox{-0045-01-17} to month-precision \mbox{-0045-11-15}} per
+the internal \textit{oratiuncula pro Deiotaro} reference; the
+famous self-deprecatory \textit{levidense crasso filo} ``of
+light-woven cloth of coarse thread'' weaving metaphor preserved
+literally; the closing \textit{aliorum infamet iniuriam} kept
+deliberately ambiguous on the \textit{iniuria} suffered).
+
+\item \textbf{Worker B (Slice P Plancus / Acilius / Allienus
+continuations --- 4 letters):} \textit{Fam.} 13.29 (Cicero
+$\rightarrow$ L.\ Munatius Plancus, governor of one of the
+Gauls, Rome, late 47 BC --- the substantive 870-word
+recommendation; the warmest-tier formula \textit{rogo et a te
+ita peto, ut maiore cura, maiore studio nullam possim}; the rare
+Pharsalus self-defence \textit{quod fuerim moderatior
+temperatiorque quam in ea parte quisquam}; HS X$\_$X$\_$X$\_$
+numeric notation preserved), \textit{Fam.} 13.30, 13.31
+(M$'$.\ Acilius Glabrio, Sicily, 46 BC --- short recommendation
+pair continuing the cluster of session 13's worker B; 13.31
+carries the explicit \textit{neque id ambitione adductus facio}
+disavowal echoing 13.32, worth a translator-notes entry on the
+cluster-internal \textit{ambitio} callback), \textit{Fam.} 13.78
+(Cicero $\rightarrow$ A.\ Allienus, late 46 BC --- short letter
+opening the Allienus succession to Acilius; the tricolon closer
+\textit{complectare, diligas, in tuis habeas} ``embrace him,
+hold him dear, count him among your own'' the warmest tier in
+the cluster; the remark \textit{quod non multis contigit,
+Graecis praesertim} ``what has fallen to the lot of not many,
+and especially few Greeks'' a noteworthy Ciceronian observation
+on the rarity of his Greek intimates).
+
+\item \textbf{Worker C (Slice R Servilius / Sulpicius
+continuations --- 4 letters):} \textit{Fam.} 13.66 (Cicero
+$\rightarrow$ P.\ Servilius Isauricus, Asia, ca.\ early Feb.\
+45 BC --- recommendation for A.\ Caecina, with the
+\textit{clementia conlegae tui} ``the clemency of your
+colleague'' [scil.\ Caesar] preserved; the day-precision dating
+sits right at the moment of Tullia's death noted in the
+headnote without sentimentalising the routine recommendation
+tone), \textit{Fam.} 13.67 (Cicero $\rightarrow$ Servilius now
+\textbf{propraetor}, Rome, ca.\ Dec.\ 46 BC --- title shift in
+the salutation; one Greek phrase \textit{treis dioik\=eseis}
+``three Asiatic districts'' for the three administrative
+divisions of Asia; the bitter epigram \textit{non te fugit
+$\ldots$ quam multi grati reperiantur} ``how few are found to be
+grateful''), \textit{Fam.} 13.72 (Cicero $\rightarrow$
+Servilius \textit{conlegae}, Asia, ca.\ May 46 BC ---
+recommendation for the heirs of C.\ Vennonius citing a
+\textit{senatus consultum} preserved as ``decree of the Senate
+concerning the heirs of C.\ Vennonius''; Caerellia introduced
+as ``my close friend''), \textit{Fam.} 13.77 (Cicero
+$\rightarrow$ Ser.\ Sulpicius Rufus, \textit{imperator},
+Achaia, \textbf{date corrected from \mbox{-0046-10-06} year-
+precision to month-precision \mbox{-0046-11-15}} per Perseus
+dateline \textit{mense intere. pr. a. 708} = first intercalary
+month of 46 BC ($\approx$ mid-November on the unreformed
+calendar). Upstream salutation corruption \texttt{n SVLPICIO
+IMfl} silently restored to \texttt{CICERO SULPICIO IMP. S.} in
+the English file per cluster convention; the load-bearing
+personal sentence \textit{res ipsa parva, sed animi mei dolor
+magnus est} ``the matter in itself is small, but the pain to my
+mind is great'' on the librarian-slave Dionysius and Cicero's
+treasured \textit{bibliotheca}, worth a translator-notes entry
+on the cluster's only sentence of domestic distress).
+
+\item \textbf{Worker D (Slice S post-Pharsalus consolation
+cluster --- 3 load-bearing letters):} \textit{Fam.} 6.1
+(Cicero $\rightarrow$ A.\ Manlius Torquatus, Rome, ex.\ m.\
+intercal.\ post.\ a.\ 708 [late second-intercalary month of 46
+BC, $\approx$ mid-Feb.\ on the unreformed calendar] ---
+substantive 1,156-word consolatory letter to a Pompeian in
+continued exile; the \textit{togati potius potentiam quam
+armati victoriam} ``the power of the man in the toga rather
+than the victory of the man in arms'' antithesis preserved; the
+Stoic-indifferents formulation \textit{omnia humana placate et
+moderate feramus} anticipating \textit{De Officiis} flagged in
+the headnote), \textit{Fam.} 4.5 (\textbf{Ser.\ Sulpicius Rufus
+$\rightarrow$ Cicero}, Athens, mid-March 45 BC --- the famous
+consolation letter on Tullia's death; 1,174 words; voice held
+to Stoic-jurist register, not Cicero's; the load-bearing
+\textit{homunculi} diminutive rendered ``we, us little men'' to
+preserve the deflationary force; the ruined-cities passage
+``so many corpses of towns lie cast down together''
+\textit{oppidum cadavera} kept literal; the
+\textit{unius mulierculae animula} double diminutive
+``the little life-breath of one little woman'' preserved
+deliberately uncomfortable; the diatribe shape
+\textit{malum est liberos amittere. malum;} kept in the
+self-quoting-objection-and-answer pattern; renderings stress-
+tested to avoid Melmoth / Shuckburgh / Williams echoes per
+STYLE.md \S Things to avoid), \textit{Fam.} 4.6 (Cicero
+$\rightarrow$ Servius, at Atticus's Ficuleanum, mid-April 45
+BC --- 698-word reply to 4.5; the \textit{ea me solacia
+deficiunt} ``those consolations fail me'' admission of the
+philosophical apparatus failing him in the moment; the
+\textit{hoc tam gravi vulnere $\ldots$ recrudescunt} ``even
+those griefs which had seemed to have healed are breaking
+open again'' medical metaphor preserved; the chiastic
+\textit{domus iam consolari potest nec domesticum res publica}
+``home can no longer console the grief I take from the
+commonwealth, and the commonwealth cannot console the grief
+I take from home'' preserved as chiasm; the deliberately
+periphrastic naming of Caesar in \S3 as ``the will of one
+man --- a man of prudence, of generous bearing, $\ldots$ not
+unfriendly to me, and a particularly warm friend to you''
+preserved without ever saying his name; the political register
+of \textit{quiescere} under autocracy rendered ``keeping
+quietly,'' not ``rest'' or ``leisure'').
+\end{itemize}
+
+\textbf{Wave 2 (3 workers, 14 letters):}
+\begin{itemize}
+\item \textbf{Worker E (Marcellus exile cluster --- 5 letters,
+Aug.--Nov.\ 46 BC, bracketing the \textit{Pro Marcello}):}
+\textit{Fam.} 4.7 (Cicero $\rightarrow$ M.\ Marcellus at
+Mytilene, 13 Aug.\ 46 BC --- the cluster opener; the
+\textit{victi sumus $\ldots$ fracti certe et abiecti} ``we were
+beaten, then; or, if standing cannot be beaten, we were broken
+at any rate'' antithesis on \textit{dignitas / vinci}; the
+\textit{ita late pateat eius potestas $\ldots$ ut terrarum
+orbem complexa sit} ``extends so widely as to embrace the
+whole globe'' as the cluster's central political claim;
+\textit{medium quoddam tuum consilium fuit} ``yours has been a
+middle course'' as structural pivot), \textit{Fam.} 4.8 (Cicero
+$\rightarrow$ Marcellus, mid-Aug.\ 46 --- short follow-up; a
+daggered crux at end of \S1 \textit{omnia debere $\dagger$tua
+causa, sed causa quoque, etiam quae non possim} preserved with
+daggers; conditional pairing \textit{si sit aliqua res publica
+$\ldots$ sin autem nulla sit}), \textit{Fam.} 4.9 (Cicero
+$\rightarrow$ Marcellus, 13 Aug.\ 46 --- same-day pair to 4.7;
+the load-bearing Stoic commonplace \textit{tempori cedere, id
+est necessitati parere, semper sapientis est habitum} ``to give
+way to the times --- that is, to obey necessity --- has always
+been held the wise man's part'' flagged as the engine of the
+\textit{Pro Marcello}; the parallelism \textit{dicere fortasse
+quae sentias non licet, tacere plane licet}; the climax
+\textit{omnia sunt misera in bellis civilibus $\ldots$ sed
+miserius nihil quam ipsa victoria}; the four-part contrastive
+\textit{si fuit magni animi $\ldots$ stultum est nolle
+privata}), \textbf{\textit{Fam.} 4.10} (\textbf{salutation
+corrected from the brief's assumption}: the Latin
+\texttt{CICERO MARCELLO S.} is unambiguous --- this is
+\textbf{Cicero $\rightarrow$ Marcellus}, not Marcellus $\rightarrow$
+Cicero per the launch brief's mistake. Rendered accordingly;
+short letter set after the recall has taken effect; the wry
+\textit{ne te delectet tarda decessio} ``that this slow
+departure of yours is taking on a charm of its own''
+suspecting Marcellus is dragging his feet even after the
+recall), \textit{Fam.} 4.11 (\textbf{M.\ Marcellus $\rightarrow$
+Cicero}, Mytilene, mid-Oct.\ 46 BC --- the only Marcellus-voice
+piece in the cluster; voice rendered drier, shorter-clausal,
+Ciceronian periodicity flattened; \textit{facile et aequo animo
+carebam} ``I could do without them easily and without
+complaint'' as the heart of \S2's Stoic understatement;
+\textit{re tibi praestabo} ``I will prove it to you in the
+fact'' as characteristically clipped).
+
+\item \textbf{Worker F (Sulpicius / Servius / Allienus / Rex
+recommendation continuations --- 5 letters):} \textit{Fam.}
+13.17 (Cicero $\rightarrow$ Servius, ca.\ early Oct.\ 46 BC ---
+M$'$.\ Curius of Patrae; the three-tier conditional escalation
+capped by the formal pledge formula \textit{spondebo enim tibi
+vel potius spondeo in meque recipio} ``I will pledge to you ---
+or rather, I do pledge, and I take it upon myself'' with the
+tense-flip preserved), \textit{Fam.} 13.18 (Cicero $\rightarrow$
+Servius, ca.\ early Nov.\ 46 BC --- thank-you for a volunteered
+favour to Atticus on Epirus; the small-scale \textit{praeteritio}
+``I shall not ask $\ldots$ I shall not thank $\ldots$ and now I
+shall do both'' preserved; upstream salutation \texttt{SERVIO. S}
+[stray period] silently rationalised to \texttt{CICERO SERVIO S.}
+per cluster convention), \textit{Fam.} 13.19 (Cicero $\rightarrow$
+Servius, ca.\ early Dec.\ 46 BC --- Lyso of Patrae, Pompeian
+pardoned through Cicero's intercession with Caesar with Caesar
+himself sending Servius a covering letter [a rare detail in the
+\textit{commendaticia} genre]; the unusual closing inversion
+of obligation [Cicero's standing with Lyso, not Servius's with
+Cicero, at stake] worth a translator-notes entry),
+\textit{Fam.} 13.79 (Cicero $\rightarrow$ D.\ Allienus, ca.\
+early Dec.\ 46 BC --- substantive occasion is Allienus's
+succession to Acilius in Sicily; \textbf{works.yaml date
+\mbox{-0046-11-07} maintained but Perseus dateline
+\textit{in.\ a.\ 708} flagged as substantive-date discrepancy
+in the JSON}; the closing reduplication \textit{te rogo $\ldots$
+te vehementer etiam atque etiam rogo} preserved),
+\textit{Fam.} 13.52 (Cicero $\rightarrow$ \textbf{Rex}
+[\textit{identity uncertain}; conventionally Q.\ Marcius Rex
+propraetor in Asia/Cilicia but editors hedge], Rome, mid-Sept.\
+46 BC --- A.\ Licinius Aristoteles of Malta, another pardoned
+Pompeian paralleling Lyso in 13.19; \textit{antiquissimus
+hospes} ``host of the oldest standing'' tier-marker preserved;
+the bare-cognomen vocative \textit{fac igitur, mi Rex} as the
+easy-intimacy register confirming Rex is no stranger).
+
+\item \textbf{Worker G (Caecina exile cluster --- 4 letters,
+Oct.--Dec.\ 46 BC, the policy-substantive companion to the
+Marcellus and Ligarius clusters):} \textit{Fam.} 6.6 (Cicero
+$\rightarrow$ A.\ Caecina, ca.\ 1 Oct.\ 46 BC --- the cluster's
+substantive 1,580-word policy letter, 13 sections; the
+Amphiaraus tag \textit{prudens et sciens ad pestem ante oculos
+positam} ``knowing and aware, to the destruction set before my
+eyes'' preserved with tragic register; augural technical terms
+preserved Roman --- \textit{cantu sinistro oscinis} ``sinister
+note of the singing-bird,'' \textit{tripudiis solistimis aut
+soniviis} ``the most full-footed beat or sound of the sacred
+chickens''; the diplomatic recasting of Caecina's
+anti-Caesarian pamphlet \textit{praeclaro illo libro
+`querelarum' tuarum} as a portrait of Caesar's clemency ---
+the central political maneuver of the letter --- kept dry in
+the English; the imagined hostile interlocutor rendered as
+quoted objection for rhythm), \textit{Fam.} 6.5 (Cicero
+$\rightarrow$ Caecina, \textbf{date corrected from
+\mbox{-0046-12-15} to \mbox{-0046-12-25}} per Perseus
+\textit{ex.\ m.\ Dec.}; a daggered crux $\dagger$ at start of
+\S3 \textit{qua re ad eam spem} preserved with translator-note
+on the editorial reading), \textit{Fam.} 6.7 (\textbf{Caecina
+$\rightarrow$ Cicero}, Sicily, mid-Dec.\ 46 BC --- 890-word
+reply, the cluster's one inward-facing voice; voice held to
+learned-equal-under-unequal-fortune, not subservient; the
+antiquarian tricolon of ``corrections'' \textit{mendum
+scripturae litura tollatur, stultitia fama multetur, meus
+error exsilio corrigitur} preserved as ``where a fault in the
+writing is taken away by the eraser, where folly is fined by
+reputation, my own error is corrected by exile'' with
+\textit{exsilio corrigitur} as the climactic third term;
+\textit{armatus adversario male dixi} ``with arms in my hand,
+I spoke ill of an adversary'' as Caecina's precise legal-style
+self-summary of his crime; the staircase-as-failed-text image
+preserved literally as the most ``literary'' moment of the
+letter; the wry observation that Cicero ``takes cover behind
+Brutus'' even in the dialogue-frame of the \textit{Orator}),
+\textit{Fam.} 6.8 (Cicero $\rightarrow$ Caecina,
+\textbf{date corrected from \mbox{-0046-12-15} to
+\mbox{-0046-12-05}} per Perseus \textit{in.\ m.\ Dec.}; the
+Balbus / Oppius pair kept unexpanded with the headnote glossing
+them as ``Caesar's regular men of business in his absence''; a
+referenced appendix-letter-of-recommendation noted as not
+preserved in the manuscript text).
+\end{itemize}
+
+\textbf{Date corrections committed to \texttt{meta/works.yaml}
+during session 14 (four entries):}
+(a) \textit{Fam.} 9.12 corrected from year-precision
+\mbox{-0045-01-17} (precision \texttt{year}) to month-precision
+\mbox{-0045-11-15} (precision \texttt{month}) per the internal
+\textit{oratiuncula pro Deiotaro} reference, which is
+unambiguous: the \textit{Pro Deiotaro} was delivered in November
+45 BC, so 9.12 must postdate it. The January placeholder was
+off by ten months.
+(b) \textit{Fam.} 13.77 corrected from year-precision
+\mbox{-0046-10-06} (precision \texttt{year}) to month-precision
+\mbox{-0046-11-15} (precision \texttt{month}) per Perseus
+dateline \textit{mense intere.\ pr.\ a.\ 708} = first
+intercalary month of 46 BC, which on the unreformed Roman
+calendar of 46 BC falls roughly in mid-November. The October
+placeholder was within the first intercalary month period but
+the dateline pins it more precisely; precision upgraded from
+\texttt{year} to \texttt{month}.
+(c) \textit{Fam.} 6.5 refined from month-precision
+\mbox{-0046-12-15} (mid-month) to month-precision
+\mbox{-0046-12-25} (end of month) per Perseus dateline
+\textit{ex.\ m.\ Dec.\ a.\ 708 (46)}. Precision unchanged
+(\texttt{month}); date-within-month shifted to reflect Perseus's
+end-of-month indicator.
+(d) \textit{Fam.} 6.8 refined from month-precision
+\mbox{-0046-12-15} (mid-month) to month-precision
+\mbox{-0046-12-05} (early month) per Perseus dateline
+\textit{in.\ m.\ Dec.\ a.\ 708 (46)}. Precision unchanged
+(\texttt{month}); date-within-month shifted to reflect Perseus's
+beginning-of-month indicator.
+
+\textbf{Latin-file opener corruption flagged this session (not
+corrected; deferred to future fetch-script enhancement):}
+\textit{Fam.} 13.77 carries the upstream salutation
+\texttt{M.\ CICERO S.\ D.\ n SVLPICIO IMfl} where the
+conventional form is \texttt{CICERO SULPICIO IMP.\ S.} (or
+\texttt{Ser.\ SULPICIO IMP.\ S.\ D.}). The ``n'' is most
+plausibly an OCR/scribal artefact for the praenomen
+abbreviation \texttt{Ser.} (Servius); ``IMfl'' is \texttt{IMP.}
+The English file silently restores per cluster convention;
+the Latin file preserves the upstream form per general
+discipline. \textit{Fam.} 13.18 carries the upstream
+salutation tail \texttt{SERVIO.\ S} (stray period) silently
+rationalised to \texttt{CICERO SERVIO S.} in the English file.
+Both are upstream Perseus TEI artefacts.
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention; the
+PM or a future enrichment pass should consolidate):
+\begin{itemize}
+\item \textbf{The Servius / Cicero consolation pair (\textit{Fam.}
+4.5 + 4.6) as load-bearing pair.} These two letters are among
+the most-read pieces of Latin prose Cicero wrote, and the pair
+is one of the great consolation-correspondences of Latin
+literature. The headnotes cross-link them explicitly. The
+\textit{homunculi} / \textit{oppidum cadavera} /
+\textit{mulierculae animula} renderings in 4.5 and the
+\textit{ea me solacia deficiunt} / \textit{recrudescunt} /
+periphrastic-Caesar renderings in 4.6 should be preserved
+across any future revision. Worth a corpus-level note on the
+voice-distinction between Servius's Stoic-jurist register and
+Cicero's grieving-philosopher register in the pair.
+\item \textbf{The Marcellus exile cluster as the \textit{Pro
+Marcello}'s epistolary companion.} \textit{Fam.} 4.7--4.11
+bracket the September 46 BC speech; the headnotes position
+them explicitly. The Stoic commonplace \textit{tempori cedere}
+in 4.9 is the engine of the speech and worth a cross-reference
+in any future apparatus pass.
+\item \textbf{The Caecina exile cluster as the substantive
+policy-letter cluster.} \textit{Fam.} 6.6 is Cicero's most
+candid public-private overlap on Caesar's likely course in
+late 46 BC, and the cluster (6.5 / 6.6 / 6.7 / 6.8) sits
+between the Marcellus and Ligarius letters in the bound-volume
+narrative of mercy correspondence. Caecina's reply in 6.7 ---
+the cluster's one inward-facing voice --- preserves a
+deliberately learned-equal-under-unequal-fortune register.
+\item \textbf{The salutation correction for \textit{Fam.} 4.10}
+(Cicero $\rightarrow$ Marcellus, not Marcellus $\rightarrow$
+Cicero). The launch brief misidentified the sender; the Latin
+salutation \texttt{CICERO MARCELLO S.} is unambiguous. The
+post-recall content (Theophilus setting out, anticipating
+Marcellus's return, the wry \textit{tarda decessio}) confirms.
+Worth a translator-notes entry as a guide for any future
+re-pass of the cluster.
+\item \textbf{The \textit{Pro Deiotaro} dating peg for
+\textit{Fam.} 9.12.} The letter's internal
+\textit{oratiuncula pro Deiotaro} reference is the
+chronological anchor; the speech itself dates to November 45
+BC, so 9.12 must postdate. Worth a methodological note on
+preferring internal references to placeholder month/year
+metadata.
+\item \textbf{The Caesarian intercalary calendar continues to
+shape late-46 BC datelines (\textit{Fam.} 13.77, 6.1).} 13.77
+sits in the first intercalary month ($\approx$ mid-November);
+6.1 sits at the end of the second intercalary month
+($\approx$ mid-February of the unreformed calendar). The
+session-13 note on the calendar should be extended.
+\item \textbf{The \textit{quiescere} register under autocracy
+in \textit{Fam.} 4.6.} Cicero's \textit{non agendi aliquid,
+sed illius concessu et beneficio quiescendi} ``not for any
+action of our own, but for keeping quietly, by his concession
+and favour'' is the cleanest statement in the corpus of the
+political register of \textit{quiescere} under Caesarian
+clemency. The verb will recur; worth a corpus-level note.
+\item \textbf{The Alexandrian-critic conceit in \textit{Fam.}
+9.10.} Cicero applies obelizing-and-interpolation language to
+a money dispute as a sustained metaphor; the three Greek
+phrases \textit{obelizei}, \textit{tou poi\=etou \=e
+parembebl\=emenoi}, and \textit{sumbi\=ot\=en} all belong to
+the same conceit. Worth a translator-notes entry on the
+metaphor's coherence across the letter.
+\item \textbf{Single-section Latin source files this session.}
+\textit{Fam.} 13.30, 13.31, 13.52, 13.67, 13.70 [drafted last
+session], 13.79 are all single-section in Perseus's TEI. The
+English supplies \texttt{\textbackslash ciceroSection\{1\}}
+markers for parallel-JSON consistency where appropriate.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 14 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 14:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item Slice T (the \textit{Ad Atticum} 12 grief sequence,
+March--early May 45 BC --- the post-Tullia withdrawal at
+Astura): \textit{Att.} 12.13--12.50 (in chronological order).
+These are short, dense day-by-day letters from Astura and the
+Ficuleanum; many are single-paragraph notes. A worker batch of
+8--10 letters is realistic given their length. Together they
+form the textual record of Cicero's grief and the project of
+the \textit{Consolatio} (now lost).
+\item Slice U (the \textit{Cassius Longinus} / Stoic-Epicurean
+diptych of January 45 BC): \textit{Fam.} 15.16 (Cicero
+$\rightarrow$ Cassius), 15.17 (Cicero $\rightarrow$ Cassius),
+15.18 (Cicero $\rightarrow$ Cassius, end of 46 BC), 15.19
+(Cassius $\rightarrow$ Cicero, Brundisium, late January 45 BC).
+A four-letter cluster on Cassius's philosophical conversion to
+Epicureanism; load-bearing for the political-philosophical
+network 45--44 BC.
+\item Slice V (the Paetus winter-46/spring-45 sequence, Cicero
+$\rightarrow$ L.\ Papirius Paetus, the dinner-and-wit
+correspondence): \textit{Fam.} 9.15--9.23 (filling forward
+from 9.5--9.7 drafted in session 13 and 9.10--9.13 drafted
+this session and last). Mostly short, all in the established
+Paetus register.
+\item Slice W (the Torquatus / Lepta / Toranius condolence
+continuations of early 45 BC): \textit{Fam.} 6.2, 6.3, 6.4
+(Cicero $\rightarrow$ Torquatus, all year-precision Jan.\ 45
+BC), 6.18 (Lepta), 6.21 (Toranius). All short. Together they
+fill out the consolatio register established by 6.1 / 4.5 /
+4.6 of this session.
+\item Slice C (substantial speeches blocking the chronological-
+gap sweep, dispatch one per session not in parallel):
+\texttt{pro-milone} (52 BC), \texttt{partitiones-oratoriae},
+\texttt{pro-plancio}, \texttt{pro-rabirio-postumo},
+\texttt{pro-scauro}. None advanced this session.
+\item Slice M (entity-stub enrichment): the entity registry
+still has $\sim$472 stub entries needing real summaries; can
+be batched aggressively in parallel ($\sim$50/worker, no
+inter-batch contention).
+\end{itemize}
+
+
+\textbf{Translation state (post-Cowork-session-13):} 504 / 958
+works drafted (\~52.6\%). Latest drafted by deep chronology:
+\textit{Ad Familiares} 9.13 (end of 46 BC or beginning of 45 BC,
+Rome). \textbf{Session 13 pushed the chronology pointer forward from
+\textit{Fam.} 9.5 (early June 46 BC) to \textit{Fam.} 9.13 (Dec.\ 46
+BC / early Jan.\ 45 BC) by drafting 26 letters across two parallel
+waves of recommendation-letter clusters plus two substantive Varro
+literary-otium continuations and a high-interest early-46 BC trio
+(Dolabella, Brutus, Ligarius). The chronological-gap warning is
+now \textbf{78 pending works dated earlier than the latest-drafted}:
+the pointer moved seven months forward, so the gap reshapes (some
+late-46 BC pending cleared, more 45 BC pending now in scope). Three
+\texttt{meta/works.yaml} date corrections committed (see below).}
+
+\textbf{Cowork session 13 --- 26 letters drafted across two
+parallel waves (seven workers):}
+
+\textbf{Wave 1 (4 workers, 15 letters --- chronological-gap fill
+in early/mid 46 BC):}
+\begin{itemize}
+\item Worker A (4 letters of the Servius cluster to Ser.\ Sulpicius
+Rufus, proconsul of Achaia 46 BC; standard \textit{commendaticiae}
+register): \textit{Fam.} 13.20 (Rome, year-precision 46 BC ---
+the very short note recommending L.\ Manlius Sosis with no
+\texttt{\textbackslash ciceroSection} division; preserved as
+single-section per the Latin's lack of subdivision), \textit{Fam.}
+13.21 (Rome, 46 BC --- the M.\ Aemilius Avianius / Hammonius pair,
+deploying the load-bearing \textit{ut si a me manumissus esset}
+formula ``as if he had been freed by my own hand''; corrupt
+\textit{molestissimis temporibus} preserved as ``in my most
+distressing season''), \textit{Fam.} 13.22 (Rome, 46 BC --- the
+co-recommendation of T.\ Manlius at Thespiae alongside Varro Murena;
+the doubled \textit{tribuere} construction \textit{quantum cui
+tribuisti plurimum} unpacked carefully), \textit{Fam.} 13.23 (Rome,
+46 BC --- L.\ Cossinius and his freedman Anchialus, with the
+\textit{tribuli tuo} ``your tribesman'' technical voting-tribe
+sense glossed in the headnote).
+
+\item Worker B (4 letters of the Acilius cluster to M$'$.\ Acilius
+Glabrio, proconsul of Sicily 46 BC; standard \textit{commendaticiae}
+register harmonised with Worker A): \textit{Fam.} 13.32 (Rome,
+46 BC --- the \textit{ambitio quadam commendationes meas exaequare}
+canvassing metaphor preserved as ``levelling out my recommendations
+by some sort of canvasser's habit''), \textit{Fam.} 13.33 (Rome,
+46 BC --- with a stray Perseus punctuation artefact
+\textit{Hilarus, .\ Antigonus, Demostratus} flagged in the JSON;
+\textit{illius ordinis} rendered ``any man of his rank''),
+\textit{Fam.} 13.34 (Rome, 46 BC --- \textit{avitum hospitium}
+``inherited tie of hospitality''; the \textit{et adiumento et
+ornamento} doublet preserved), \textit{Fam.} 13.35 (Rome, 46 BC
+--- Philoxenus's enrolment in the Transpadane colony Novum Comum
+under Caesar; \textit{non vulgaris} tier-marker preserved with
+explicit headnote gloss as a recognised genre tier).
+
+\item Worker C (4 letters of the Servilius cluster to P.\ Servilius
+Isauricus, proconsul of Asia 46 BC, with the \textit{conlegae}
+formula marking both as ex-consuls): \textit{Fam.} 13.68 (Rome,
+\textbf{date corrected from year-precision -0046-01-25 to
+month-precision -0046-09-05} per Perseus dateline \textit{circ.\
+med.\ in.\ Sept.\ a.\ 708 (46)} = mid-early September 46 BC ---
+the longest letter of the Servilius cluster, with the
+\textit{magni referebat te interesse} pivot on Caesar's planning
+versus the senate's deliberations), \textit{Fam.} 13.69 (Rome,
+46 BC --- daggered crux \textit{non $\dagger$vulgare nec
+ambitiose} rendered with the editorial conjecture \textit{vulgariter} 
+in adverbial sense), \textit{Fam.} 13.70 (Rome, 46 BC --- salutation
+trailing \textit{S.\ R} silently emended to \textit{S.\ P.} per the
+cluster convention; single-section Latin), \textit{Fam.} 13.71
+(Rome, 46 BC --- the \textit{illo miserrimo tempore} exile reference
+of 58--57 BC handled in the headnote rather than the body).
+
+\item Worker D (3 substantive letters of high interest, early 46
+BC --- the Dolabella / Brutus / Ligarius cluster): \textit{Fam.}
+9.13 (Rome, \textbf{date corrected from year-precision -0046-02-18
+to month-precision -0046-12-15} per Perseus dateline \textit{ex.\
+a.\ 708 (46) aut in.\ a.\ 709 (45)} = end of 46 BC or beginning
+of 45 BC; the Scapula-Pompeius Spanish-war references in the body
+confirm late 46 BC, and place this letter not in February 46 but
+on the eve of the Munda campaign; the \textit{vix equestris}
+``barely of equestrian rank'' technical census-marker noted),
+\textit{Fam.} 13.10 (Rome, beginning of 46 BC --- the recommendation
+to M.\ Junius Brutus of M.\ Terentius (Varro Gibba), Brutus's
+quaestor in Cisalpine Gaul; the institutional \textit{quaesturae
+coniunctionem liberorum necessitudini proximam} formula ``the
+quaestor-praetor bond is next to that of one's own children''
+preserved literally; \textit{versatus in utrisque subselliis}
+``appeared on both sides of the bench''; \textit{societates
+publicorum} rendered ``partnerships of the public revenues''
+rather than the technical ``tax-farming companies''),
+\textit{Fam.} 6.14 (Rome, ``a.\ d.\ v K.\ intercal.\ priores a.\
+708 (46)'' per Perseus dateline = 5 days before the kalends of
+the first Caesarian intercalary month of 46 BC, $\approx$ 26
+November 46 BC in the unreformed Roman calendar; the famous moving
+letter to Q.\ Ligarius after Cicero's audience with Caesar on his
+behalf, anticipating the \textit{Pro Ligario}; the closing antithesis
+\textit{si turbidissima sapienter ferebas, tranquilliora laete
+feras} preserved as ``if you bore the wildest waters wisely,
+that you bear the calmer ones with gladness''; \textit{ex oratione
+Caesaris ... ex oculis et vultu} pivot from verbal reply to face
+preserved as a parallel construction).
+\end{itemize}
+
+\textbf{Wave 2 (3 workers, 11 letters --- chronological forward
+push from June 46 BC, plus mid-46 BC recommendation continuations):}
+\begin{itemize}
+\item Worker E (2 substantive Varro literary-otium continuations,
+late May / late June 46 BC --- the post-Pharsalus correspondence
+extending the voice established in \textit{Fam.} 9.1--9.5):
+\textit{Fam.} 9.7 (Rome, \textbf{date corrected from year-precision
+-0046-08-12 to month-precision -0046-05-30} per Perseus dateline
+\textit{ex.\ m.\ Maio a.\ 708 (46)} = end of May 46 BC; the letter
+belongs BEFORE \textit{Fam.} 9.5 and 9.6 in chronology even though
+Perseus's canonical numbering places it after --- Perseus orders
+book 9 by manuscript sequence, not by date; three Greek phrases
+\textit{sun te du' erch\=omen\=o} (Iliad 10.224 Diomedes-to-Nestor
+``when two go together''), \textit{apoproēgmena} (the Stoic
+``dispreferred'' technical antonym of \textit{proēgmena}),
+\textit{polloi math\=etai kreissones didaskal\=on} (``many pupils
+outdo their teachers''); the half-line \textit{quid hic mihi
+faciet patri?} read as an iambic senarius drawn from the comic
+stage about the Caesarian killings in Africa; \textit{tempori
+serviendum est} ``one must serve the time'' as the load-bearing
+programmatic line for the whole Varro-otium sequence),
+\textit{Fam.} 9.6 (Rome, between 20 and 25 June 46 BC per Perseus
+dateline \textit{inter xii et vii K.\ Quint.\ a.\ 708 (46)} ---
+the substantive 670-word June letter; two daggered cruxes in §6
+preserved with the editorial conjectures; \textit{cum opera nostra
+patria sive non possit uti sive nolit} ``since our country either
+cannot or will not use our service'' preserving the precise
+disjunction Cicero is aware of in the Caesarian regime).
+
+\item Worker F (5 letters of the Servius mid-46 cluster --- the
+Worker A continuation): \textit{Fam.} 13.24 (Lyso of Patrae,
+renewed-after-misunderstanding, 340 words), \textit{Fam.} 13.25
+(Hagesaretus of Larisa, single-paragraph 95-word letter; single-
+section Latin), \textit{Fam.} 13.26 (Mescinius inheritance from
+Mindius at Elis; \textit{quasi commendaticias} ``so to say, in the
+manner of letters of recommendation'' meta-commendatio formula
+preserved), \textit{Fam.} 13.27 (Hammonius/Avianius thanks pair to
+13.21, plus Servius's son grace note as cluster-closing seal;
+\textit{`DE EADEM RE ALIO MODO'} known lacuna in §1 with supplied
+verb flagged), \textit{Fam.} 13.28 (Mescinius thanks plus Oppia
+plus \textit{cautio amplius} pair to 13.26; Latin legal formula
+\textit{amplius eo nomine non peti} ``no further claim shall be
+made under that head'' preserved verbatim in italic Latin with
+parenthetical gloss; \textit{studia illa nostra ... nunc etiam
+vivimus} ``those studies of ours, in which we formerly took delight
+and by which we now actually live'' as the post-Pharsalus retreat-
+into-philosophy programmatic line).
+
+\item Worker G (4 letters of the Acilius mid-46 cluster --- the
+Worker B continuation): \textit{Fam.} 13.36 (Demetrius Megas;
+\textit{non vulgaris}-tier marker \textit{maiore studio neminem
+commendarim}; opener corruption \textit{CICERO ACILIO PROCONSVLI
+$\$$} silently restored to \textit{S.}\ per the cluster convention
+--- the Latin source itself is uncorrected),
+\textit{Fam.} 13.37 (Hippias of Calacte; \textit{publice
+possidentur alieno nomine} ``held in public ownership under
+another man's name'' preserved with the ambiguity between
+confiscation by the town treasury and irregular registration;
+\textit{quoquo modo autem se res habet} ``but in any event,
+however the matter stands'' as a recurring formula across the
+cluster), \textit{Fam.} 13.38 (Lucius Bruttius; dateline reads
+\textit{iit videtur} where Perseus has an OCR-induced corruption
+of \textit{ut videtur}, date itself unambiguous 46 BC),
+\textit{Fam.} 13.39 (M.\ Titurnius Rufus; \textit{est igitur in
+tua potestate ut ille in me satis sibi praesidi putet esse} ``It
+lies in your hands, then, to see that he reckons he has in me a
+sufficient protection'' as the most candid sentence in the
+cluster on the dependency of a recommendation on the recipient's
+willingness).
+\end{itemize}
+
+\textbf{Date corrections committed to \texttt{meta/works.yaml}
+during session 13 (three entries):}
+(a) \textit{Fam.} 9.7 corrected from year-precision
+\mbox{-0046-08-12} (precision \texttt{year}) to month-precision
+\mbox{-0046-05-30} (precision \texttt{month}) per Perseus dateline
+\textit{ex.\ m.\ Maio a.\ 708 (46)}. The August placeholder was a
+canonical-numbering artifact; the letter belongs to end of May 46
+BC and \textit{precedes} 9.5 (early June) and 9.6 (last week of
+June) in chronology even though Perseus's book 9 manuscript sequence
+places it later.
+(b) \textit{Fam.} 9.13 corrected from year-precision
+\mbox{-0046-02-18} (precision \texttt{year}) to month-precision
+\mbox{-0046-12-15} (precision \texttt{month}) per Perseus dateline
+\textit{ex.\ a.\ 708 (46) aut in.\ a.\ 709 (45)}. The Scapula-
+Pompeius Spanish-war references in the body confirm late 46 BC, on
+the eve of the Munda campaign; the February placeholder was off by
+ten months.
+(c) \textit{Fam.} 13.68 corrected from year-precision
+\mbox{-0046-01-25} (precision \texttt{year}) to month-precision
+\mbox{-0046-09-05} (precision \texttt{month}) per Perseus dateline
+\textit{circ.\ med.\ in.\ Sept.\ a.\ 708 (46)} = mid-early September
+46 BC. The January placeholder was off by eight months.
+
+\textbf{Latin-file opener corruptions observed (not corrected
+this session, deferred to future fetch-script enhancement):}
+\textit{Fam.} 13.36, 13.37 carry the salutation tail rendered
+\texttt{CICERO ACILIO PROCONSVLI \$} in the fetched Latin where
+the conventional \texttt{S.} is expected (OCR/transcription
+artefact in the upstream Perseus TEI of book 13). \textit{Fam.}
+13.38's Perseus dateline reads \texttt{iit videtur} where
+\texttt{ut videtur} is meant. \textit{Fam.} 13.70's salutation
+trail \texttt{S.\ R} silently rationalised to \texttt{S.} in the
+English opener. These are all upstream Perseus artefacts; the
+English files emend silently per cluster convention while the
+Latin files preserve the upstream form. A future
+\texttt{fetch\_latin.py} sanitisation pass could clean these.
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (deferred to enrichment pass
+to avoid concurrent-write contention; the PM did not write the
+shared jsonl directly):
+\begin{itemize}
+\item \textbf{The \textit{non vulgaris} tier-marker as recognised
+genre signal across the recommendation books.} \textit{Fam.} 13.35
+(Philoxenus / Novum Comum), 13.36 (Demetrius Megas), and 13.26
+(Lepidus / Mescinius / Mindius) all carry the formula in some
+variant (\textit{non vulgaris esse commendationem hanc meam},
+\textit{maiore studio neminem commendarim}, \textit{quasi
+commendaticias}). The formula explicitly out-ranks the routine
+\textit{commendaticia} tier and signals to the recipient that the
+present letter is to be read with extra weight. The trio of
+session-13 occurrences plus prior session attestations would
+support a backmatter glossary stub on the \textit{non vulgaris}
+formula as a recognised letter-of-recommendation tier-marker.
+\item \textbf{The Caesarian intercalary calendar in \textit{Fam.}
+6.14.} The dateline \textit{a.\ d.\ v K.\ intercal.\ priores a.\
+708 (46)} refers to the first of the two intercalary months
+Caesar inserted in 46 BC before the Julian reform took effect on
+1 January 45 BC; the date corresponds roughly to 26 November 46
+BC in the unreformed Roman calendar. This is the calendar that
+ends with Caesar's reform; \textit{Fam.} 6.14 sits inside that
+transitional intercalary period. Worth a glossary entry on the
+46 BC intercalary calendar for the scholar profile.
+\item \textbf{The \textit{ut si a me manumissus esset} formula in
+the Servius cluster.} \textit{Fam.} 13.21 (Hammonius) and 13.23
+(Anchialus) both deploy the ``as if he had been freed by my own
+hand'' fiction --- a recurring Ciceronian commendation move that
+casts the freedman as Cicero's own client through transitive
+patronage of the actual patron. Worth a corpus-level note on this
+patronage formula.
+\item \textbf{Perseus canonical numbering versus chronological
+order in \textit{Ad Familiares} book 9.} The Varro/Paetus/Dolabella
+sequence of book 9 is arranged in Perseus's TEI by manuscript
+order rather than by date; the actual chronological order is
+9.7 (May 46), 9.1 (Dec.\ 47 / Jan.\ 46), 9.2 (April 46), 9.3
+(April 46), 9.4 (June 46), 9.5 (June 46), 9.6 (June 46), then
+9.13 (Dec.\ 46 / Jan.\ 45). This is a recurring pattern in the
+\textit{Ad Familiares} books and worth a corpus-level
+methodological note: the file-prefix \texttt{NNNbc-} sort, the
+\texttt{date} field, and Perseus's numerical order are three
+distinct orderings that all need to be kept straight.
+\item \textbf{Iambic senarius embedded in \textit{Fam.} 9.7.}
+Cicero's \textit{quid hic mihi faciet patri?} scans as a comic
+trimeter quotation (or compositional fragment) about the
+Caesarian killings in Africa. Whether quoted from a contemporary
+comedy or coined for the moment, the metrical shape is intentional.
+Worth a translator-notes entry as a candidate prosodic detail for
+the scholar profile.
+\item \textbf{The post-Pharsalus \textit{studia / litterae /
+libri} hardening continues through \textit{Fam.} 9.7 and 9.6.}
+The note recorded in session 12 on the rhetorical economy of
+Cicero's literary-otium turn extends: \textit{Fam.} 9.7's
+\textit{polloi math\=etai kreissones didaskal\=on} (``many pupils
+outdo their teachers'') and 9.6's \textit{cum opera nostra patria
+sive non possit uti sive nolit} ``since our country either cannot
+or will not use our service'' belong to the same rhetorical
+economy. The voice across \textit{Fam.} 9.1--9.7 plus 9.13 is
+extraordinarily coherent.
+\item \textbf{Single-section Latin source files.} \textit{Fam.}
+13.20, 13.25, 13.33, 13.34, 13.37, 13.39, 13.70, 13.71 are all
+single-section letters in Perseus's TEI. Where appropriate, the
+English added \texttt{\textbackslash ciceroSection\{1\}} markers
+for parallel-JSON consistency; where the Latin's lack of
+subdivision was load-bearing (very short notes), it was preserved.
+Structural-divergence checks should expect a mix of patterns
+across book 13.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 13 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 13:
+\ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item Slice L Dolabella continuation (Cicero $\rightarrow$
+Dolabella, late 46 -- 45 BC): \textit{Fam.} 9.10 (Dec.\ 30, 46),
+9.11 (April 20, 45), 9.12 (Jan.\ 17, 45), plus the special-case
+9.9 (June 48, Dolabella in Caesar's camp $\rightarrow$ Cicero ---
+this letter belongs chronologically to a much earlier moment but
+sits in the book 9 manuscript sequence; treat as a deliberate
+chronological backfill).
+\item Slice P continuation (\textit{Ad Familiares} 13 recommendation
+cluster): \textit{Fam.} 13.29 -- 13.31 (Plancus, Acilius
+continuations Sept-Dec 46), 13.40 -- 13.44 (further recommendations
+spread across 46--45 BC); the Servius cluster continues with 13.66
+(Feb 45) and the Acilius cluster with 13.30, 13.31.
+\item Slice R (the \textit{P.\ Servilius Isauricus} continuation):
+13.67 (Dec 46), 13.72 (May 46 if year-precision pending), 13.77
+(Oct 46 to Sulpicius Imperator $\rightarrow$ likely Sulpicius
+Rufus). These complete the Servilius/Sulpicius cluster.
+\item Slice C (substantial speeches blocking the chronological-
+gap sweep, dispatch one per session not in parallel):
+\texttt{pro-milone} (52 BC), \texttt{partitiones-oratoriae},
+\texttt{pro-plancio}, \texttt{pro-rabirio-postumo},
+\texttt{pro-scauro}.
+\item Slice S (the post-Munda 45 BC condolence/consolation cluster
+that follows from the Ligarius register): \textit{Fam.} 6.01
+(A.\ Torquatus, Feb 46 \textit{year}), 4.05 (Servius's famous
+consolation on Tullia's death, March 45), 4.06 (Cicero's
+\textit{Consolatio} reply to Servius, April 45). These three are
+load-bearing for the bound-volume reader and should be sequenced
+deliberately rather than scattered across recommendation-cluster
+batches.
+\item Slice M (entity-stub enrichment): the entity registry still
+has $\sim$472 stub entries needing real summaries; can be batched
+aggressively in parallel ($\sim$50/worker, no inter-batch contention).
+\end{itemize}
+
+
+\textbf{Session 12 pushed the chronology pointer forward from
+\textit{Fam.} 13.49 (Oct. 47 BC) to \textit{Fam.} 9.5 (June 46 BC)
+while also filling four year-range-placeholder letters in the
+50--47 BC band that were blocking the chronological-gap sweep.}
+Thirteen letters drafted across one parallel wave (three workers):
+the four-letter Slice N \textit{Ad Familiares} 15.11/15.12/15.13
++ 16.20 metadata-fix-and-translate cluster, the four-letter
+Slice O Caelius-to-Cicero gap-fill 8.2/8.6/8.7/8.17, and the
+five-letter Slice L opening of the post-Pharsalus Varro
+correspondence 9.1--9.5 (the literary-otium turn under Caesar's
+dictatorship). The chronological-gap warning is now \textbf{47
+pending works dated earlier than the latest-drafted}: the
+pointer moved forward eight months, so the gap reshapes rather
+than shrinks --- some earlier-pending warnings cleared by the
+Slice N + Slice O fills, but the pointer's advance into mid-46
+BC pulled an additional band of pending 47--46 BC letters
+(\textit{Fam.} 13.10, 13.20, etc.) into "earlier-pending"
+territory.
+
+\textbf{Cowork session 12 --- 13 letters drafted across one
+parallel wave (three workers):}
+\begin{itemize}
+\item Worker A (4 letters of Slice N: \textit{Ad Familiares}
+15.11/15.12/15.13/16.20, the year-range-placeholder cluster
+that needed Perseus metadata before fetching): \textit{Fam.}
+15.11 (Tarsus, August 50 BC, to C.\ Marcellus cos.\ 50 ---
+the short formal thanks to the consul who carried the
+supplicatio decree; corrupt §1 close \textit{†cum studiose ac
+libenter} rendered loosely with daggers flagged), \textit{Fam.}
+15.12 (on the march through Lycaonia, ~21 Sept. 51 BC, to
+L.\ Paullus consul-designate --- congratulation on his
+imminent consulship, the closing request that no extension be
+added to Cicero's Cilician year), \textit{Fam.} 15.13
+(Tarsus, January 50 BC, to L.\ Paullus now consul ---
+the longer follow-up petition for the senate decree on
+Cicero's res gestae; salutation \textit{L. PAVLLO COS.}
+without \textit{desig.} forces a date on or after 1 January
+50, when Paullus took office, ruling out the late-51
+date Perseus's back-reference would otherwise imply),
+\textit{Fam.} 16.20 (Rome, ~mid-May 47 BC, to Tiro
+convalescing under the doctor Metrodorus --- the tender 90-word
+note: ``organize the books; bring an index with Metrodorus,
+since you must live by his rule; you can watch the gladiators
+on the Kalends, return the next day; if you love me, take care
+of yourself.'' Single-section letter; Perseus has no
+\texttt{\textbackslash ciceroSection\{1\}} division --- I
+supplied one).
+
+\item Worker B (4 letters of Slice O: Caelius-to-Cicero
+gap-fill spanning 51--48 BC, the brilliant young political
+gossip's reports to Cicero in Cilicia and after):
+\textit{Fam.} 8.2 (Rome, June 51 BC --- the Messalla acquittal
+under the Lex Licinia de sodaliciis with Hortensius as
+defending counsel, Hortensius hissed at the games shortly
+after; \textbf{date corrected from year-precision placeholder
+-0051-11-19 to -0051-06-15 month-precision} per Perseus
+dateline \textit{m. Iun. a. 703 (51)} --- November is plainly
+wrong, June is right; corrupt phrase \textit{†repraesentante
+pronuntiatum} rendered ``announced in my presence [corrupt]''),
+\textit{Fam.} 8.6 (Rome, before end of February 50 BC ---
+Appius indicted by Dolabella for \textit{maiestas}, Curio's
+defection still being staged, Bibulus's cohorts, the famous
+\textit{consaepta omnia foeda et inhonesta} wickerwork-of-the-
+juries figure, the freezing/hot/superheated chain on Curio's
+prospects, and the gentle warning about the Dolabella-Tullia
+match dressed as a domestic update on Fabia's divorce),
+\textit{Fam.} 8.7 (Rome, end of April or beginning of May
+50 BC --- hurried courier letter on Cornificius's betrothal,
+Paula Valeria's divorce, Servius Ocella caught \textit{in
+flagranti}; \textbf{date corrected from day-precision
+placeholder -0050-05-15 to -0050-05-01 month-precision} per
+Perseus dateline \textit{ex. m. Apr. aut in. Mai.}; corrupt
+\textit{†nondum rettuleras} flagged), \textit{Fam.} 8.17
+(Rome, January--February 48 BC, the last surviving Caelius
+letter --- Caelius now on the Caesarian side and writing in
+recriminations against Cicero and against his own dead
+collaborator Curio: \textit{bonam mentem iracundia et amore
+ablatam}, \textit{hanc perditam causam}; \textbf{date adjusted
+from -0048-01-15 to -0048-02-01 month-precision} per Perseus
+dateline \textit{vel ex. m. Ian. vel m. Febr. a. 706 (48)};
+three corruptions flagged: \textit{quod utinam taut Appius
+Claudius}, \textit{†Arruntanum me Catonem}, and
+\textit{quod firmissimum †haec?}).
+
+\item Worker C (5 letters of Slice L: opening of the
+post-Pharsalus Varro correspondence, 47--46 BC, Cicero's
+literary-otium turn under Caesar's dictatorship):
+\textit{Fam.} 9.1 (Rome, end of 47 BC or beginning of 46 BC
+--- the staged-reconciliation-with-the-books letter,
+\textit{ignoscunt mihi, revocant in consuetudinem pristinam};
+\textbf{date corrected from year-precision -0047-02-06 to
+month-precision -0047-12-15} per Perseus dateline \textit{ex.\
+a.\ 707 (47) aut in.\ a.\ 708 (46)}), \textit{Fam.} 9.2 (Rome,
+a little after 20 April 46 BC, the substantial 746-word letter
+--- three Greek phrases \textit{heolos, lelethotos, politeias},
+the \textit{architectos / fabros} rebuilding metaphor, the
+load-bearing \textit{stetit illud, una vivere in studiis
+nostris} ``let this stand between us: that we live together
+with our studies''; the lynx-eyed Lynceus reference; the
+politeia-register that anticipates the \textit{Brutus}),
+\textit{Fam.} 9.3 (Rome, 19 April 46 BC, \textit{paulo ante}
+9.2 by Perseus's own back-reference --- the proverbial
+\textit{glauk' eis Athenas} ``owls to Athens'' (carrying coals
+to Newcastle), the medical-metaphor on the gravity of the
+disease; \textbf{date corrected from year-range placeholder
+-0046-07-01 to -0046-04-19 day-precision}; single-section in
+Perseus, English supplies \texttt{\textbackslash
+ciceroSection\{1\}}), \textit{Fam.} 9.4 (Tusculum, 6--10 June
+46 BC, the one-paragraph philosophical joke on Diodorus
+Cronus's Master Argument vs. Chrysippus on modal possibility
+--- five Greek phrases \textit{peri dynaton, kata Diodoron,
+adynaton, krisis, kata Chrysippon dynaton}, anticipating
+\textit{De Fato}; the proverbial close \textit{si hortum in
+bybliotheca habes, deerit nihil} ``if you have a garden along
+with your library, nothing will be wanting''), \textit{Fam.}
+9.5 (Rome, beginning of June 46 BC --- the load-bearing
+antitheses \textit{non spem sed officium / non officium sed
+desperationem} ``not hope but duty / not duty but a lost
+cause,'' and the hard \textit{severitas otiosorum} ``severity
+of the disengaged''; Perseus text of §3 ends mid-clause
+without a closing full stop, flagged in JSON).
+\end{itemize}
+
+\textbf{Date corrections committed to \texttt{meta/works.yaml}
+during session 12 (twelve entries):}
+(a) \textit{Fam.} 15.11 corrected from year-range placeholder
+\mbox{-0054-07-01} (precision \texttt{year\_range}) to
+\mbox{-0050-08-01} month-precision; location and recipient
+populated; \texttt{speech\_index: book:15,letter:11} added;
+Perseus URL substituted for the Latin Library fallback.
+(b) \textit{Fam.} 15.12 corrected from \mbox{-0054-07-01} to
+\mbox{-0051-09-21} month-precision; location ``in itinere per
+Lycaoniam'' and recipient \texttt{L. PAVLLO COS. DESIG.}
+populated; \texttt{speech\_index: book:15,letter:12} added.
+(c) \textit{Fam.} 15.13 corrected from \mbox{-0054-07-01} to
+\mbox{-0050-01-01} month-precision (the \texttt{L. PAVLLO COS.}
+salutation forces a date on or after 1 Jan 50 BC, ruling out
+the late-51 BC date Perseus's back-reference suggested);
+\texttt{speech\_index: book:15,letter:13} added.
+(d) \textit{Fam.} 16.20 corrected from \mbox{-0054-07-01} to
+\mbox{-0047-05-15} month-precision; location \texttt{Romae},
+recipient \texttt{TIRONI} populated;
+\texttt{speech\_index: book:16,letter:20} added.
+(e) \textit{Fam.} 8.2 corrected from year-precision placeholder
+\mbox{-0051-11-19} to \mbox{-0051-06-15} month-precision per
+Perseus dateline \textit{m. Iun. a. 703 (51)}.
+(f) \textit{Fam.} 8.7 corrected from day-precision placeholder
+\mbox{-0050-05-15} to \mbox{-0050-05-01} month-precision per
+Perseus dateline \textit{ex. m. Apr. aut in. Mai.}; precision
+downgraded from \texttt{day} to \texttt{month}.
+(g) \textit{Fam.} 8.17 corrected from \mbox{-0048-01-15} to
+\mbox{-0048-02-01} month-precision per Perseus dateline
+\textit{vel ex. m. Ian. vel m. Febr. a. 706 (48)}.
+(h) \textit{Fam.} 9.1 corrected from year-precision placeholder
+\mbox{-0047-02-06} to \mbox{-0047-12-15} month-precision per
+Perseus dateline \textit{ex.\ a.\ 707 (47) aut in.\ a.\ 708
+(46)}.
+(i) \textit{Fam.} 9.3 corrected from year-range placeholder
+\mbox{-0046-07-01} to \mbox{-0046-04-19} day-precision per
+Perseus back-reference \textit{paulo ante ep. 2} (= one day
+before 9.2 of 20 April 46 BC); location and recipient
+populated; \texttt{speech\_index: book:9,letter:3} added; Perseus
+URL substituted for the Latin Library fallback.
+(j) \textit{Fam.} 8.6: dateline confirmed at \mbox{-0050-02-15}
+month-precision per Perseus \textit{ante ex. m. Febr.\ a.\ 704
+(50)}; no change.
+(k) \textit{Fam.} 9.2: dateline confirmed at \mbox{-0046-04-20}
+day-precision; no change.
+(l) \textit{Fam.} 9.4: dateline confirmed at \mbox{-0046-06-10}
+day-precision per Perseus \textit{inter viii et iv Id. Iun.}
+range; no change.
+
+\textbf{Stale-filename cleanup deferred:} four Slice N letters
+(15.11, 15.12, 15.13, 16.20) still carry the \texttt{054bc-}
+filename prefix from the year-range placeholder. Their real
+dates are now -0050-08, -0051-09, -0050-01, -0047-05
+respectively. Renaming was deferred this session because the
+Cowork sandbox cannot delete files (sandbox limitation per
+CLAUDE.md), and orphaning the original \texttt{054bc-} stems as
+placeholder stubs that the handoff script does not auto-clean
+would create noise that outlives the session. \textbf{A future
+metadata-cleanup pass (run from Alexander's machine, which
+\textit{can} delete) should:} (1) \texttt{git mv
+latin/letters/054bc-ad-familiares-15-11.tex
+latin/letters/050bc-ad-familiares-15-11.tex} (and likewise for
+the english/, headnotes/, data/parallel/ stems), (2) repeat for
+15.12 (→ 051bc), 15.13 (→ 050bc), 16.20 (→ 047bc), (3) update
+the \texttt{latin\_file:}/\texttt{english\_file:}/
+\texttt{headnote\_file:} paths in \texttt{meta/works.yaml}
+accordingly, (4) regenerate manifests. None of this affects
+the build (sorting is by \texttt{date} not filename).
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention; the
+PM or a future enrichment pass should consolidate):
+\begin{itemize}
+\item \textbf{The Caelius voice across \textit{Fam.} 8.2/8.6/
+8.7/8.17.} Caelius's letters to Cicero are written in a
+register utterly distinct from Cicero's own --- gossipy,
+slangy, hurried, friend-to-friend Roman political insider
+talk, a generation younger and more excitable. The English
+should keep that voice consistently colloquial-modern across
+the whole book 8 sequence, not elevate it to Cicero's higher
+register. The session preserved the \textit{consaepta} jury-
+wattle figure in 8.6 without explanation, kept the
+freezing/hot/superheated Curio chain literal, and resisted
+glossing the Dolabella-Tullia warning. Cross-book voice
+consistency worth a corpus-level note.
+\item \textbf{The Diodorus / Chrysippus material in
+\textit{Fam.} 9.4.} One of the clearest small windows onto
+Hellenistic modal logic in surviving classical Latin. The
+Master Argument of Diodorus Cronus (only past possibilities
+are possibilities, only what will happen is possible)
+contested by Chrysippus's broader definition of \textit{kata
+Chrysippon dynaton}. May merit a backmatter glossary stub
+linking to the contemporaneous \textit{De Fato}.
+\item \textbf{The \textit{architectos / fabros} figure in
+\textit{Fam.} 9.2 §5} anticipates the rhetorical-political
+imagery of the \textit{Brutus} (early 46 BC) and could be
+cross-linked once that work is drafted.
+\item \textbf{The \textit{studia / litterae / libri}
+hardening across \textit{Fam.} 9.1, 9.2, 9.3.} These nouns
+shift in pressure across the three letters from ``leisure
+pursuits'' to something nearer ``the only ground left to
+live on.'' The English in 9.1 (\textit{ignoscunt mihi,
+revocant in consuetudinem pristinam}), 9.2 (\textit{una
+vivere in studiis nostris}), and 9.3 (the medical metaphor)
+lets the pressure build without spelling it out. Worth a
+corpus-level note on the rhetorical economy of Cicero's
+literary-otium turn under the dictatorship.
+\item \textbf{\textit{Fam.} 16.20 single-section structure.}
+Perseus presents the Tiro convalescence letter as a single
+undivided paragraph; the English supplies a
+\texttt{\textbackslash ciceroSection\{1\}} marker for parallel-
+JSON consistency. Two other letters this session
+(\textit{Fam.} 9.3, 9.4) have the same single-section
+structure in Perseus and received the same treatment.
+Structural-divergence checks should expect these.
+\item \textbf{The Bursa hatred / Caelius-Curio reproach
+pairing.} Cicero's \textit{Fam.} 7.2 of February 51 BC (the
+Bursa-conviction letter, already drafted) says he hated
+Bursa worse than Clodius himself ``because the latter at
+least had a great public motive.'' The Caelius letter
+\textit{Fam.} 8.17 of February 48 BC enacts a similar
+private-grief / private-reproach register in the opposite
+direction (Caelius now reproaching Cicero and Curio).
+Across the book-7-to-book-8 sequence the two voices form a
+diptych on private bitterness toward political collaborators.
+Worth flagging as a cross-reference for the scholar profile.
+\item \textbf{\textit{Fam.} 15.13 salutation-vs.-back-reference
+puzzle.} Perseus dates 15.13 to the same time as 15.4 and
+15.10 (both late 51 BC at Tarsus), but the salutation
+\textit{L. PAVLLO COS.} (without \textit{desig.}) requires a
+date on or after 1 January 50 BC when Paullus took office.
+The companion 15.12 to \textit{L. PAVLLO COS. DESIG.}
+correctly belongs to autumn 51 (Paullus had just been elected).
+The two letters are thus three or four months apart, not
+contemporaneous; Perseus's geographic ``same place''
+back-reference is right (both from the Cilician winter
+quarters) but the temporal one is loose. Session chose to
+trust the salutation. Worth a footnote in any future
+chronological-table apparatus.
+\item \textbf{Worker reports noted that \textit{Fam.} 8.2's
+opening \textit{repraesentante} is daggered in Perseus, and
+that \textit{Fam.} 8.17 carries three further corruptions.}
+The post-Pharsalus textual transmission of book 8 is rougher
+than book 9; the parallel JSON segments for 8.2, 8.7, and
+8.17 carry the daggered passages in their \texttt{notes}
+field.
+\item \textbf{The orphan Latin file
+\texttt{latin/letters/054bc-ad-familiares-13-49.tex}}
+(flagged by \texttt{validate.py}) remains in the tree as a
+known artifact of the Phase-0 session 1 fetch debugging. The
+handoff script has a one-off rule to remove this specific
+file; the warning is harmless.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 12 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session
+12: \ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item Slice L continuation (\textit{Ad Familiares} book 9
+through 9.13, the rest of the Varro/Paetus 46 BC cluster):
+9.6, 9.7, 9.9, 9.10, 9.11, 9.12, 9.13 (plus 9.8 which is
+already drafted). Letters of the second half of 46 BC,
+substantial intellectual register; batch 2--3 per worker.
+\item Slice P (the \textit{Ad Familiares} 13 book of
+recommendation letters, year-range-placeholdered cluster):
+13.10, 13.20, 13.21, 13.22, 13.23, etc. through the book.
+These are mostly short patronage letters; metadata-fix-and-
+translate cluster; can be batched aggressively (5--6 per
+worker).
+\item Slice C (substantial speeches blocking the year-
+precision sweep, dispatch one per session not in parallel):
+\texttt{pro-milone} (52 BC), \texttt{partitiones-oratoriae},
+\texttt{pro-plancio}, \texttt{pro-rabirio-postumo},
+\texttt{pro-scauro}.
+\item Slice Q (Tier 2 stale-filename rename pass): execute
+the four Slice N \texttt{054bc-} → \texttt{NNNbc-} renames
+described above, then sweep \texttt{meta/works.yaml} for
+other entries whose filename prefix disagrees with the
+corrected date (a recurring pattern from year-range-
+placeholder cleanups). Pure metadata pass, no translation.
+\item Slice M (entity-stub enrichment): the entity registry
+still has $\sim$472 stub entries needing real summaries; can
+be batched aggressively in parallel ($\sim$50/worker, no
+inter-batch contention since each worker writes a disjoint
+slice of \texttt{data/entities.json}).
+\end{itemize}
+
+ \textbf{Session 11 attacked the chronological-gap
+backlog from below}, drafting 16 letters spread across 54--50 BC
+plus the \textit{Q. fr.} 3.5/3.6 doublet — the entire pending
+\textit{Q. fr.} book 3 sequence of autumn 54 BC, two Cilician
+recommendation/advice letters of 51--50 BC to Thermus
+propraetor of Asia, the Volumnius wit letter, the Cilician
+quaestor handover pair, the long 13 February 50 BC Atticus
+letter on the Brutus-Salaminian moneylending case, and the
+entire pending Appius Pulcher cluster of April--August 50 BC
+including the long April 50 BC \textit{Fam.} 3.10 (incorrectly
+year-precision dated to November 50 in works.yaml before this
+session). The chronological-gap warning is now \textbf{29 pending
+works dated earlier than the latest-drafted} (down from 46 at
+end of session 10, a clean drop of 17 = exactly this session's
+17 status flips).
+
+\textbf{Cowork session 11 --- 16 letters drafted across one
+parallel wave (four workers):}
+\begin{itemize}
+\item Worker A (5 letters of autumn 54 BC, the entire pending
+\textit{Q. fr.} book 3 sequence): \textit{Q. fr.} 3.7
+(Tusculum, late Oct./early Nov.\ 54 --- the very short note on
+the Tiber flood damaging the Appian Way by the temple of Mars,
+with two Homeric Iliad-16 quotations on Zeus's autumn rains;
+the lampstand Quintus had made on Samos, the warm domestic
+close; \textbf{corrupt §1 †et Appia ad Martis mira luvies†}
+restored to sense), \textit{Q. fr.} 3.4 (Rome, 24 Oct.\ 54 ---
+Drusus and Vatinius both acquitted, Cicero's own defence of
+Vatinius producing the famous "you can imagine how cheerful I
+was," news of P.\ Crassus dead in Parthia), \textit{Q. fr.} 3.3
+(Rome, 1 Nov.\ 54 --- the four-candidate ambitus hurricane and
+the looming interregnum, Caesar's two affectionate letters from
+Britain), \textit{Q. fr.} 3.5 + 3.6 \textbf{combined as single
+SB letter 3.5b} (Tusculum, late Oct./early Nov.\ 54 --- THE
+famous letter on the composition of \textit{De Republica},
+with Sallustius's reading-aloud intervention triggering the
+rewrite from Africanus-Laelius dialogue to first-person treatise;
+Homer Il.\ 6.208 \textit{Πολλὸν ἀριστεύειν καὶ ὑπείροχον ἔμμεναι
+ἄλλων} the project's heroic motto, the \textit{γνῶθι σεαυτόν}
+of §7 doubled in sense; three daggered cruxes in §§4, 6 flagged
+in the JSON; \textbf{Perseus has no separate 3.6, and 3.6 is
+flipped to drafted with stub pointers to 3.5 in this commit};
+date-precision corrected from day -0054-11-13 to month
+-0054-11-01 per the Perseus dateline \textit{ex.\ m.\ Oct.\
+aut in.\ Nov.}), \textit{Q. fr.} 3.8 (Rome, mid-late Nov.\ 54 ---
+Caesar's friendly letters from Britain, Pompey's Sardinia trip
+and commendation of Cicero to Caesar, the body §5 fixing
+composition after 24 Nov.\ 54).
+
+\item Worker B (5 letters of 51--50 BC, the short
+recommendation/wit cluster): \textit{Fam.} 13.53 (in Cilicia,
+late 51 or early 50 BC year-precision --- recommendation to
+Q.\ Minucius Thermus, propraetor of Asia, on behalf of L.\
+Genucilius Curvus on his Hellespontine \textit{dioikēsis}
+business), \textit{Fam.} 7.32 (Laodicea, after 11 Feb.\ 50,
+\textbf{date corrected -0050-02-11 day → -0050-02-12 day} per
+the Perseus dateline \textit{post iii Id.\ Febr.} = after 11
+February --- to P.\ Volumnius Eutrapelus the wit, the wonderful
+playful letter on the title to Cicero's \textit{salinae} ---
+"saltworks/saltness" of wit; **seven Greek wit-category tags**:
+\textit{eutrapelia, akythēron, amphibolia, hyperbolē, paragramma,
+para prosdokian, entechna} --- the densest Greek concentration
+of any letter in the session), \textit{Fam.} 2.18 (Laodicea,
+beginning of May 50, \textbf{date corrected from year-precision
+-0050-03-23 to month-precision -0050-05-01} per Perseus dateline
+\textit{in.\ m.\ Maio}; to Thermus once more, on the choice of
+interim governor of Asia --- prefer your quaestor, three of whose
+brothers will be tribunes, to your veteran legates; \textbf{the
+works.yaml description of this letter as "M. Anneius leave" is
+wrong --- M. Anneius is the subject of 13-57 not 02-18}),
+\textit{Fam.} 13.57 (Laodicea, beginning of April 50 --- to
+Thermus again, on behalf of M.\ Anneius the legate, who is being
+recalled to Cicero's Cilician staff because of the Parthian-war
+news, and on Anneius's case with the Sardians; \textbf{the
+works.yaml description of this letter as "Curius at Patrae"
+is wrong}), \textit{Fam.} 2.19 (in camp in Cilicia, x K.\ Quint.\
+= 22 June 50, to C.\ Coelius Caldus the quaestor on his coming
+out from Rome; the formal first-contact letter with full
+patronymic salutation \textit{M.\ TVLLIVS M.\ F.\ M.\ N.\ IMP.\
+C.\ COELIO L.\ F.\ C.\ N.\ CALDO Q.}, dagger in §2 \textit{ad te
+proficiscentur} for missing apodosis flagged).
+
+\item Worker C (4 letters of April--August 50 BC, the entire
+pending Appius Pulcher cluster of the Cilician proconsulship):
+\textit{Fam.} 3.10 (Laodicea, April 50 BC, \textbf{date
+corrected from year-precision -0050-11-03 to month-precision
+-0050-04-01} per Perseus dateline \textit{m.\ April a.\ 704
+(50)}; the long 1,720-word stem letter, written before
+Appius's \textit{maiestas} trial; the famous \textit{triumphum
+iustissimum ex inimicorum dolore} promise; the four-role
+self-description \textit{rogando deprecatoris, laborando
+propinqui, auctoritate cari hominis, gravitate imperatoris};
+Pompey \textit{quem unum ex omnibus facio, ut debeo, plurimi};
+the unnamed Dolabella as \textit{ille adulescens} of §5),
+\textit{Fam.} 3.11 (in camp by the river Pyramus, mid-late
+June 50 BC --- after Appius's acquittal on the \textit{maiestas}
+charge brought by Dolabella; the antithesis \textit{alterum
+non attigisti, alteram auxisti} ``ambitus you have not touched,
+maiestas you have positively magnified''; the Aristarchus/Homer
+joke), \textit{Fam.} 3.12 (Side, 4 August 50 BC, prid.\ Non.\
+Sext.\ = 4 August --- on Appius's \textit{ambitus} prosecution,
+the Tullia-Dolabella engagement obliquely apostrophised through
+\textit{suscipe paulisper meas partis} ``take up my role for
+a moment''; \textit{vides sudare me iam dudum laborantem} ``you
+see me sweating''), \textit{Fam.} 3.13 (Rhodes, c.\ 10 August
+50 BC, iv Id.\ Sext.\ --- short follow-up, the \textit{fructum
+amicitiae nostrae ipsam amicitiam} figure preserved, the
+self-deprecating closing apology to a hoped-for \textit{magister
+morum}).
+
+\item Worker D (2 substantial letters of February--July 50 BC):
+\textit{Ad Atticum} 5.21 (Laodicea, Id.\ Febr.\ a.\ 704 = 13
+February 50, the substantial 2,150-word letter on the
+proconsular accounting and \textbf{the Brutus-Salaminian
+moneylending case}: Scaptius and Matinius lent the Salaminians
+at 48\% compound interest (4\% per month) under a 56 BC
+senatusconsultum specifically exempting the loan from the
+\textit{lex Gabinia} cap; the Salaminians arrived with the
+money; Cicero froze them at his own 12\% and refused Scaptius
+the cavalry to enforce the higher rate. Eight Greek phrases:
+\textit{εὐημερήματι, ἀκροτελεύτιον, γλυκύπικρον,
+ὑπερβολικῶς, τέθριππα, κέρας, ὁδοῦ πάρεργον, ἐνδομύχῳ}.
+\textbf{Load-bearing letter for the later Brutus correspondence
+in \textit{Ad Brutum} 43 BC.}), \textit{Fam.} 2.17 (Tarsus,
+xvi K.\ Sext.\ = 17 July 50 --- the six-topic methodical letter
+to a proquaestor with Bibulus in Syria, on successor
+expectations, the Julian law on accounts, the Apamea garrison,
+the 333,000 drachmas quaestorial account, the legions decreed
+for Syria, and the long remonstrance about Bibulus; the
+salutation is \textbf{corrupt} \textit{†CANINI SALVSTIO PROQ.}
+in Perseus, with Shackleton Bailey identifying the addressee as
+C.\ Caelius Caldus the proquaestor of Syria; \textbf{the
+works.yaml description of this letter as "handover-to-quaestor"
+is misaligned --- the actual handover-to-quaestor narrative is
+in Fam 2.15 §4 already drafted}; rendered with the corrupt
+salutation preserved verbatim).
+\end{itemize}
+
+\textbf{Date corrections committed to \texttt{meta/works.yaml}
+during session 11 (five entries):}
+(a) \textit{Fam.} 3.10 corrected from year-precision
+\mbox{-0050-11-03} (precision \texttt{year}) to month-precision
+\mbox{-0050-04-01} (precision \texttt{month}) per Perseus
+dateline \textit{m.\ April a.\ 704 (50)} at Laodicea. The
+November year-precision placeholder put this April 50 BC letter
+out of chronological order with its companions 3.11--3.13 of
+June--August.
+(b) \textit{Fam.} 2.18 corrected from year-precision
+\mbox{-0050-03-23} (precision \texttt{year}) to month-precision
+\mbox{-0050-05-01} (precision \texttt{month}) per Perseus
+dateline \textit{in.\ m.\ Maio} at Laodicea.
+(c) \textit{Fam.} 7.32 corrected from \mbox{-0050-02-11} (day)
+to \mbox{-0050-02-12} (day) per Perseus dateline \textit{post
+iii Id.\ Febr.}\ = ``after 11 February'' (the 11th itself is
+not the date; ``after'' is the dateline word). Also corrected
+the \texttt{recipient:} field typo \texttt{VOLVMINO} → 
+\texttt{VOLVMNIO}, and the \texttt{location\_written:} field
+from the truncated \texttt{Laudiceae post} to plain
+\texttt{Laudiceae}.
+(d) \textit{Q. fr.} 3.5 corrected from \mbox{-0054-11-13}
+(precision \texttt{day}) to \mbox{-0054-11-01} (precision
+\texttt{month}) per Perseus dateline \textit{ex.\ m.\ Oct.\ aut
+in.\ Nov.}\ = ``end of October or beginning of November'';
+day-precision 13 November is not supported by the dateline.
+Title updated to flag the Shackleton-Bailey combined-letter
+designation \textit{3.5b = 3.5 + 3.6}.
+(e) \textit{Q. fr.} 3.6 corrected from \mbox{-0054-07-01}
+(precision \texttt{year}, the manifest-seed placeholder) to
+\mbox{-0054-11-01} (precision \texttt{month}) per the dating of
+3.5 with which 3.6 is bundled; \texttt{location\_written:} and
+\texttt{recipient:} fields populated from the 3.5 dating;
+\texttt{no\_perseus\_reason:} field rewritten to remove the
+``alternative: source manually'' clause now that the entry is
+drafted with the 3.5 stub pointer convention.
+
+\textbf{Q.fr. 3.6 stub-pointer convention adopted:} since the
+Perseus TEI has no separate letter 6 (sequence 1,2,3,4,5,7,8,9)
+and modern editions combine 3.6's material with 3.5's second
+half as the single letter SB 3.5b, the
+\texttt{latin/}, \texttt{english/}, \texttt{headnotes/}, and
+\texttt{data/parallel/} files for 3.6 are stub pointers to
+their 3.5 counterparts (with a \texttt{stub: true} marker
+in the parallel JSON). This keeps the manifest internally
+consistent (both 3.6 and 3.5 numberings present) without
+duplicating content. **If a future enrichment pass wants to
+elide the doublet entirely, the cleanest path is to add a
+\texttt{merged\_into:} field to works.yaml and have validate.py
+exempt entries with that field from the file-existence check.**
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write
+the shared jsonl directly to avoid concurrent-write
+contention; the PM or a future enrichment pass should
+consolidate):
+\begin{itemize}
+\item \textbf{\textit{Fam.} 7.32 sustained legal-metaphor.}
+The mock-property-law conceit \textit{possessio salinarum
+mearum} (``title to my saltworks'') is sustained through the
+\textit{interdicta} (praetorian injunctions on property) deployed
+as the imagined apparatus for defending Cicero's copyright on
+his own jokes, with seven Greek wit-category tags supplying
+the metalanguage of jest theory. Worth a corpus-level note as
+one of the densest legal-jest passages outside the speeches.
+\item \textbf{\textit{Q. fr.} 3.5 corrupt §4 † ΑΜΠΩΕΙΣ †.}
+The Greek manuscript reading is meaningless and editorial
+conjectures (e.g.\ Manutius's \textit{ἀτὰρ ποιήσεις} ``but yet
+you will write'') are speculative. Rendered ``[corrupt]'' in
+the body; flagged in the JSON.
+\item \textbf{\textit{Q. fr.} 3.5 §6 † crebrius † and
+†adiurat, debere tibi valde renuntiant†.} Two further
+corruptions in the closing accounts passage; sense reconstructed
+loosely; both rendered ``[corrupt]'' in the body.
+\item \textbf{Sallustius the literary advisor across
+\textit{Q. fr.} 3.4 §1 and 3.5 §1.} The same future-historian
+young man (Cicero's literary interlocutor at Tusculum in late
+54) urges Cicero to prosecute Gabinius (3.4) and prompts the
+rewrite of \textit{De Republica} (3.5). Worth an entities
+registry entry on the next enrichment pass.
+\item \textbf{The Dolabella-suppression discipline across
+\textit{Fam.} 3.10--3.13.} Through the four Appius letters
+Dolabella is never named: \textit{ille adulescens} of 3.10 §5,
+the unnamed prosecutor of 3.11, the unnamed husband-of-Tullia
+of 3.12. The translator should resist any urge to gloss in the
+body; the suppression is the rhetorical event.
+\item \textbf{The \textit{censor, ut spero} running gag across
+\textit{Fam.} 3.10--3.13.} Cicero opens, closes, and salutes
+Appius as ``censor, I hope''; preserved across the four
+letters as a structural grace note.
+\item \textbf{\textit{Att.} 5.21 Brutus-Salaminian case is
+load-bearing for the later \textit{Ad Brutum}.} The 48\%
+compound interest, the two 56 BC senatusconsulta under
+Lentulus and Philippus, the \textit{lex Gabinia}, Cicero's
+12\% edict with annual compounding, the withdrawal of the
+cavalry, the refusal to give Scaptius a prefecture, and the
+Salaminians arriving with the money --- this episode will be
+referenced obliquely in the run-up to the assassination and
+in \textit{Ad Brutum} of 43 BC. When those letters come up,
+the headnotes should cross-reference \textit{Att.} 5.21
+\textsection\textsection\ 10--13.
+\item \textbf{\textit{Att.} 5.21 §7 Cyprus 200 talents.} Cicero
+refused the 200 Attic talents the Cyprians had customarily paid
+to keep troops out of winter quarters --- the same community
+(Salaminians) and suggestively close to the 200-talent
+settlement Scaptius later demanded; worth a possible cross-
+reference flag.
+\item \textbf{Cicero's Cilician moral self-portrait.} The
+recurring boast in this batch --- 12\% edict, no statues, no
+shrines, no chariots, the famine handled by exhortation --- is
+the moral self-portrait Cicero is consciously building for
+posterity. Headnotes for the Cilician period should be
+consistent in flagging this as performance-for-Atticus, not
+naive self-praise.
+\item \textbf{\textit{Fam.} 2.18 and 13-57 works.yaml
+description swap.} The two Thermus letters' \texttt{notes:}
+or description fields appear to have been swapped: 2.18's
+description in works.yaml refers to ``M.\ Anneius leave'' but
+the actual content is on Thermus's choice of interim governor;
+13-57's description refers to ``Curius at Patrae'' but the
+actual content is on Thermus releasing M.\ Anneius back to
+Cicero. The PM or a future metadata-cleanup pass should
+sanity-check works.yaml \texttt{title\_english} and
+\texttt{notes} fields for these two entries against the Latin.
+\item \textbf{\textit{Fam.} 2.17 misaligned description.} The
+works.yaml entry's general description (``handover of imperium
+to Caelius Caldus the inexperienced Cilician quaestor heir'')
+matches what \textit{Fam.} 2.15 §4 actually is, not what 2.17
+is. 2.17 is to a proquaestor (Caelius Caldus serving with
+Bibulus in Syria) on six topics including the 333,000-drachma
+quaestorial account. PM should review the works.yaml
+description for 2.17 against the Latin.
+\item \textbf{Recurring Homeric register in the autumn 54 BC
+\textit{Q. fr.} letters.} 3.5 has Iliad 6.208 (Glaucus's
+father's command, ``always to be best''), 3.7 has Iliad
+16.385--388 (Zeus's autumn rains and the crooked-judging
+elders). Worth flagging for the eventual greek-phrases.json
+enrichment pass as the heightened private-mood self-quotation
+register of the Tusculum days.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 11 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session
+11: \ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item Slice N (\textit{Ad Familiares} book 15 + 16-20 metadata-
+fix-and-translate). \textbf{Four entries
+(\texttt{ad-familiares-15-11, 15-12, 15-13, 16-20}) are missing
+the \texttt{speech\_index:} and \texttt{latin\_source\_url:}
+fields and currently carry only the Latin Library URL.} Add
+\texttt{speech\_index: book:15,letter:11} (and analogously
+12, 13) and the Perseus URL
+\texttt{https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml};
+for 16-20, \texttt{speech\_index: book:16,letter:20} and the
+same phi056 URL. Then fetch and translate as a small parallel
+batch.
+\item Slice C (substantial speeches blocking the year-precision
+sweep, dispatch one per session not in parallel):
+\texttt{pro-milone} (52 BC), \texttt{partitiones-oratoriae},
+\texttt{pro-plancio}, \texttt{pro-rabirio-postumo},
+\texttt{pro-scauro}. \texttt{de-legibus} (52 BC) is no-Perseus
+and needs manual Latin sourcing (Latin Library 403s); defer.
+\item Slice O (the gap-fill 50 BC Caelius-incoming
+\textit{Ad Familiares} 8.02, 8.06, 8.07, 8.17 --- the Caelius
+letters TO Cicero in the Cilician period; these are short and
+batchable 4 per worker).
+\item Slice L (\textit{Ad Familiares} book 9, the Varro / Paetus
+letters of 46 BC --- substantial intellectually-charged
+post-Pharsalus letters; batch 2--3 per worker).
+\item Slice M (entity-stub enrichment): the entity registry
+still has $\sim$472 stub entries needing real summaries; can
+be batched aggressively in parallel ($\sim$50/worker, no
+inter-batch contention since each worker writes a disjoint
+slice of \texttt{data/entities.json}).
+\end{itemize}
+
+\textbf{Session-10 resume notes below remain accurate} for the
+\textit{Ad Familiares} 14 Terentia sequence; session 11
+filled in the chronological-gap backlog from below (54--50 BC
+proconsular-Cilicia letters), advancing the gap-warning count
+from 46 to 29 pending earlier-than-drafted works.
+
+\textbf{Cowork session 10 --- 16 letters drafted across one
+parallel wave (four workers, four letters each):}
+\begin{itemize}
+\item Worker A (4 letters of 48 BC, the Dyrrhachium camp and
+the early Brundisium homecoming arc):
+\textit{Fam.} 14.6 (Dyrrhachium, \textit{i Id. Quint.\ a.\ 706}
+= 14 July 48, the last letter from Pompey's camp before
+Pharsalus, to the whole household \textit{SVIS}; date
+correction \textbf{-0048-07-15 → -0048-07-14} per Perseus
+dateline; no Greek; \textit{Pollicem ... extrudas} ``send Pollex
+packing as soon as you can''),
+\textit{Fam.} 14.12 (Brundisium, \textit{Non.\ Novemb.\ a.\ 706}
+= \textbf{5 November 48 BC}, the moment of the Brundisium
+homecoming itself, paired in time with \textit{Att.} 11.5
+of 4 November; \textbf{date correction from YEAR-precision
+placeholder -0048-09-13 to day-precision -0048-11-05}; the
+admission \textit{perturbati dolore animi magnisque iniuriis
+metuo ne id consili ceperimus, quod non facile explicare
+possimus} ``afflicted with grief of mind and great injuries, I
+fear we have taken some course we cannot easily extricate
+ourselves from''),
+\textit{Fam.} 14.19 (Brundisium, \textit{iv K. Dec.\ a.\ 706}
+= 28 November 48; Tullia's illness coming into focus; no Greek),
+\textit{Fam.} 14.9 (Brundisium, \textit{a.\ d.\ xvi K. Ian.}
+= 17 December 48; Cicero's shortest extant note to Terentia,
+$\sim$60 words; same week as \textit{Att.} 11.7/11.8 of 19 December).
+\item Worker B (4 letters spanning late 48 BC into early June 47 BC):
+\textit{Fam.} 14.17 (Brundisium, approximately 22 December 48 BC;
+\textbf{works.yaml had bogus placeholder -0048-12-32}; Perseus
+dateline corrupt as \textit{circ.\ xl i K. Ian.}\ --- most-cited
+emendation \textit{xi K. Ian.}\ = 22 December (alternative
+\textit{xvi K. Ian.}\ = 17 December); \textbf{date correction
+to -0048-12-22 with month precision}; the elliptical opening
+\textit{S. v. h. e. v.} = \textit{si vales bene est, ego valeo}
+``if you are well, it is well; I am well''),
+\textit{Fam.} 14.16 (Brundisium, \textit{pr.\ Non.\ Ian.\ a.\ 707}
+= \textbf{4 January 47 BC}, NOT 5 January as in placeholder
+works.yaml; \textbf{date correction -0047-01-05 → -0047-01-04};
+the bitter \textit{qui me de mea sententia detruserunt} ``those
+men who pushed me off my own resolve'' against the Pompeian
+advisers; Volumnia = almost certainly Volumnia Cytheris,
+mistress of Antony, worth a future entities entry),
+\textit{Fam.} 14.8 (Brundisium, \textit{a.\ d.\ iv Non. Iun.\
+a.\ 707} = 2 June 47; no Greek),
+\textit{Fam.} 14.21 (Brundisium, \textit{pauli post a.\ d.\
+iii Non. Iun.\ a.\ 707} = ``a little after'' 3 June 47, the
+shortest of the four at $\sim$50 words).
+\item Worker C (4 letters of mid-June through mid-July 47 BC):
+\textit{Fam.} 14.11 (Brundisium, \textit{xvii K. Quint.}
+= 15 June 47; the carefully softened
+\textit{nostra factum esse neglegentia} ``it came about through
+our own negligence'' --- first-person plural --- the wife-side
+contrast with the parallel \textit{Att.} 11.17 formula
+\textit{summa culpa mea / nullo ipsius delicto} of the same
+week, sent to Atticus, where the fault is Cicero's alone),
+\textit{Fam.} 14.15 (Brundisium, \textit{xii K. Quint.}
+= 20 June 47; salutation \textit{TVLLIVS S. D. TERENTIAE} without
+\textit{SVAE} preserved verbatim per Perseus),
+\textit{Fam.} 14.10 (Brundisium, \textit{vii Id. Quint.}
+= 9 July 47; salutation OCR-scanno in Latin source
+\textit{TERENTIAE 5VAE} silently corrected to \textit{SVAE} in
+the English file; Latin source file still carries the scanno
+\textit{5VAE} for the next fetch-cleanup pass to address),
+\textit{Fam.} 14.13 (Brundisium, \textit{vi Id. Quint.}
+= 10 July 47, same week as 14.10; the technical Roman divorce
+formula \textit{nuntium remittere} ``sending the notice of
+divorce'' rendered as such; the unnamed ``that fellow''
+\textit{istius vis ... concitatio multitudinis} for Dolabella's
+tribunician debt-relief agitation; the rhetorical pivot
+\textit{miserrimis ... minime miserum} ``most wretched ... least
+wretched'' preserved as a visible repetition).
+\item Worker D (4 letters of August--October 47 BC, the
+end-of-Brundisium and the homecoming):
+\textit{Fam.} 14.24 (Brundisium, \textit{iii Id. Sext.}
+= 11 August 47; ``nothing certain''),
+\textit{Fam.} 14.23 (Brundisium, \textit{prid.\ Id. Sext.}
+= 12 August 47; ``the letter at last''; the cautious
+\textit{satis liberales} ``generous enough''),
+\textit{Fam.} 14.22 (Brundisium, \textit{i K. Sept.\ a.\ 707}
+= \textbf{31 August 47 BC}; \textbf{works.yaml had bogus
+placeholder -0047-08-32}; \textbf{date correction to -0047-08-31};
+the letter's own subscription reads \textit{K. Septemb.}\
+= 1 September, the conventional one-day-apart manuscript
+offset, preserved literally in the English subscription),
+\textit{Fam.} 14.20 (on the road from Brundisium near Venusia,
+\textit{K. Oct.\ a.\ 707} = 1 October 47, \textbf{the famous
+Tusculan housekeeping letter}: have the bath ready, prepare
+a small party for tomorrow's arrival; the only letter in the
+batch without the \textit{S. v. b. e. v.}\ opening formula
+(Cicero is in motion now, on the road home, and drops the
+convention); rendered with quiet domestic restraint per
+STYLE.md, no rhetorical embellishment added; \textit{labrum}
+rendered ``tub'' for the bathing basin; \textit{de Venusino}
+``from the Venusian district'' rather than ``Venusia'' the
+town).
+\end{itemize}
+
+\textbf{Date corrections committed to \texttt{meta/works.yaml}
+during session 10 (five entries):}
+(a) \textit{Fam.} 14.6 corrected from \mbox{-0048-07-15} to
+\mbox{-0048-07-14} per Perseus dateline \textit{i Id. Quint.}\
+= pridie Idus Quintiles = 14 July; the body's own subscription
+\textit{Idib. Quint.}\ = 15 July is the dispatch a day after
+composition, the conventional one-day offset.
+(b) \textit{Fam.} 14.12 corrected from year-precision
+placeholder \mbox{-0048-09-13} (precision \texttt{year}) to
+day-precision \mbox{-0048-11-05} per Perseus dateline
+\textit{Non. Novemb.}\ = Nones of November; \texttt{date\_precision}
+field upgraded from \texttt{year} to \texttt{day} in the same edit.
+This places the letter on the very day of (or one day after)
+the Brundisium homecoming itself, paired with \textit{Att.}
+11.5 of 4 November; the year-precision placeholder was off by
+nearly two months and was sorting wrong in any chronological
+build.
+(c) \textit{Fam.} 14.16 corrected from \mbox{-0047-01-05} to
+\mbox{-0047-01-04} per Perseus dateline \textit{pr.\ Non.\ Ian.}\
+= pridie Nonas Ianuarias = 4 January.
+(d) \textit{Fam.} 14.17 corrected from bogus placeholder
+\mbox{-0048-12-32} (precision \texttt{day}) to conjectural
+\mbox{-0048-12-22} with month precision per the corrupt
+Perseus dateline \textit{circ.\ xl i K. Ian.}\ (most-cited
+emendation \textit{xi K. Ian.}\ = 22 December; alternative
+restoration \textit{xvi K. Ian.}\ = 17 December); precision
+downgraded from \texttt{day} to \texttt{month} to reflect the
+conjectural day-of-month.
+(e) \textit{Fam.} 14.22 corrected from bogus placeholder
+\mbox{-0047-08-32} to \mbox{-0047-08-31} per Perseus dateline
+\textit{i K. Sept.}\ = pridie Kalends September = 31 August;
+the letter's own subscription \textit{K. Septemb.}\ (1 Sept)
+is the conventional one-day-apart dispatch offset.
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write
+the shared jsonl directly to avoid concurrent-write
+contention; the PM or a future enrichment pass should
+consolidate):
+\begin{itemize}
+\item \textbf{Cross-letter (\textit{Fam.} 14 Brundisium-period
+register).} The set of 14 Brundisium-period Terentia letters
+(14.8--14.13, 14.15--14.17, 14.19, 14.21--14.24) all open with
+the conventional Roman epistolary formula \textit{S. v. b. e.
+v.}\ (= \textit{si vales bene est, ego valeo}, ``if you are
+well, it is well; I am well'') or its scribal variant
+\textit{S. v. h. e. v.}\ The English consistently renders all
+variants as ``If you are well, it is well; I am well.'' The
+exception is \textit{Fam.} 14.20 of 1 October 47, written
+\textit{en route} from Brundisium to Tusculum after the
+Caesar-meeting, which drops the formula --- Cicero is in
+motion now and the practical domestic register has resumed.
+The dropping of the formula at 14.20 is a load-bearing
+stylistic signal worth a corpus-level note.
+\item \textbf{\textit{Fam.} 14.17 corrupt dateline.}
+\textit{circ.\ xl i K. Ian.}\ in Perseus is not a valid Roman
+date; \textit{xl} cannot appear in an \textit{a.\ d.}\ count
+(maximum gap is \textit{xix K.}). The single-character
+corruption \textit{xl i} → \textit{xi} = 22 December is the
+likeliest emendation; \textit{xvi} = 17 December is also
+defensible. Adopted 22 December with month precision pending
+a Shackleton Bailey check.
+\item \textbf{\textit{Fam.} 14.11 wife-side softening.}
+\textit{nostra factum esse neglegentia} ``it came about
+through our own negligence'' is the wife-side softening of
+the same week's \textit{Att.} 11.17 admission to Atticus
+\textit{summa culpa mea / nullo ipsius delicto}. To Atticus
+the fault is Cicero's alone; to Terentia it is jointly
+``ours.'' Worth flagging both as a register contrast and
+as evidence for Cicero's same-week multi-correspondent
+practice.
+\item \textbf{\textit{Fam.} 14.13 \textit{nuntium remittere}.}
+The technical Roman divorce formula, rendered ``sending the
+notice of divorce.'' First substantive appearance in the
+Brundisium-period Terentia letters of the Tullia/Dolabella
+divorce theme that runs in parallel with \textit{Att.}
+11.23/11.25 of the same months.
+\item \textbf{\textit{Fam.} 14.20 \textit{labrum} = tub.}
+The bathing basin in a Roman bath suite, rendered ``tub''
+rather than ``basin'' for the domestic register.
+\item \textbf{Salutation OCR scanno in \textit{Fam.} 14.10
+Latin source.} \texttt{latin/letters/047bc-ad-familiares-14-10.tex}
+carries \textit{TERENTIAE 5VAE} (the \textit{5} an OCR
+misread of \textit{S}); silently corrected in the English
+\texttt{\textbackslash ciceroLetterOpener\{...\}} to
+\textit{SVAE}. The Latin source file retains the scanno for a
+future fetch-cleanup pass.
+\item \textbf{\textit{Fam.} 14.19 \texttt{recipient:} field
+typo in works.yaml.} \texttt{TVLLIVS TEREM'IAE SVAE} should be
+\texttt{TVLLIVS TERENTIAE SVAE}. Worth normalizing during the
+next metadata-cleanup pass.
+\item \textbf{\textit{Fam.} 14.6 salutation \textit{SVIS S. D.}}
+Bare ``to his own, greetings,'' no addressee named. Plural
+verbs in the body (\textit{videatis}, \textit{scitis}) confirm
+collective family address; unusual register for Book 14, worth
+an entities-mentions tag for the household.
+\item \textbf{Volumnia in \textit{Fam.} 14.16.} Almost
+certainly Volumnia Cytheris, the actress and mistress of M.
+Antonius; worth an entity registry entry on the next
+enrichment pass.
+\item \textbf{\textit{Fam.} 14.6 \textit{Pollex} the courier.}
+Pollex (\textit{Pollicem ... extrudas} ``send Pollex packing
+as soon as you can'') recurs as a household courier through
+this period; worth an entities-mentions tag.
+\end{itemize}
+
+The chronological-gap warning at end of session 10 is \textbf{46
+pending works dated earlier than the latest-drafted} (down from
+62 at end of session 9, a clean drop of 16 = exactly this
+session's draft count; the \textit{Fam.} 13.49 deep-chronology
+pointer remains unchanged at 47-10-15).
+
+\textbf{Suggested next translation batch} (when session 10 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session
+10: \ldots"} and the next Cowork session opens):
+\begin{itemize}
+\item Slice L (\textit{Ad Familiares} book 9, the Varro / Paetus
+letters of 46 BC --- substantial, intellectually charged,
+marking the move out of the post-Pharsalus Brundisium-Tusculum
+darkness into the Caesarian Rome accommodation). Look for
+\texttt{ad-familiares-09-01} through \texttt{-09-09}, the early
+Varro-correspondence cluster; several are long but their tone
+is the post-Brundisium reflective voice and they should be
+batched 2--3 per worker (not 4--5 like the short Terentia
+batch).
+\item Slice L' (\textit{Ad Familiares} book 15 leftovers, the
+proconsular-Cilicia and post-Pharsalus letters of 51--47 BC,
+still pending in the chronological-gap warning above).
+\item Slice C (substantial speeches blocking the year-precision
+sweep, dispatch one per session not in parallel):
+\texttt{pro-milone} (52 BC), \texttt{partitiones-oratoriae},
+\texttt{pro-plancio}, \texttt{pro-rabirio-postumo},
+\texttt{pro-scauro}.
+\item Slice M (entity-stub enrichment): the entity registry
+still has $\sim$472 stub entries needing real summaries; can
+be batched aggressively in parallel ($\sim$50/worker, no
+inter-batch contention since each worker writes a disjoint
+slice of \texttt{data/entities.json}).
+\end{itemize}
+
+\textbf{Session-9 resume notes below remain accurate} for the
+entire \textit{Ad Atticum} book 11 sequence; session 10
+extended the main translation track from \textit{Att.} 11.22
+(Brundisium, c.\ 1 September 47) to \textit{Fam.} 14.20
+(de Venusino, 1 October 47), advancing past the
+Caesar-Tarentum-meeting pivot.
+
+---
+
+\textit{[Cowork session 9 resume notes follow.]}
 
 \textbf{Translation state (post-Cowork-session-9):} 432 / 958
 works drafted (\~45\%). Latest drafted by deep chronology:

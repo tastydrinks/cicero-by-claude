@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-37",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.37",
+  "title_english": "Ad Atticum 12.37",
+  "date": "-0045-05-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "a te heri duas epistulas accepi, alteram pridie datam Hilaro, alteram eodem die tabellario, accepique ab Aegypta liberto eodem die Piliam et Atticam plane belle se habere. quod mihi Bruti litteras, gratum. ad me quoque misit; quae litterae mihi redditae sunt tertio decimo die. eam ipsam ad te epistulam misi et ad eam exemplum mearum litterarum.",
+      "eng": "I received two letters from you yesterday, the one given to Hilarus the day before, the other on the same day to a courier; and I had it on the same day from the freedman Aegypta that Pilia and Attica are in plainly good health. That you sent Brutus' letter --- thank you. He has sent one to me as well; it was delivered to me on the thirteenth day. I have sent on to you that very letter, and with it a copy of my reply.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de fano, si nihil mihi hortorum invenis, qui quidem tibi inveniendi sunt, si me tanti facis quanti certe facis, valde probo rationem tuam de Tusculano. quamvis prudens ad cogitandum sis, sicut es, tamen nisi magnae curae tibi esset ut ego consequerer id quod magno opere vellem, numquam ea res tibi tam belle in mentem venire potuisset. sed nescio quo pacto celebritatem requiro; itaque hortos mihi conficias necesse est. maxima est in Scapulae celebritas, propinquitas praeterea ubi sis, ne totum diem in villam. qua re ante quam discedis, Othonem, si Romae est, convenias pervelim. si nihil erit, etsi tu meam stultitiam consuesti ferre, eo tamen progrediar uti stomachere. Drusus enim certe vendere vult. si ergo aliud non erit, mea erit culpa nisi emero. qua in re ne labar, quaeso, provide. providendi autem una ratio est si quid de Scapulanis possumus. et velim me certiorem facias quam diu in suburbano sis futurus.",
+      "eng": "As to the shrine, if you find no gardens for me --- and you must find them, if you value me at the rate at which you certainly do --- I thoroughly approve your reasoning about the Tusculanum. Prudent as you are in thinking things over, as you are, still, unless you cared greatly that I should attain what I greatly want, the thing could never have come into your mind so neatly. But somehow I find myself wanting a frequented spot; so you must conclude the gardens deal for me. The greatest throng is at Scapula's, and there is besides the nearness of where you would be --- not the whole day in the villa. So before you leave, I should very much like you to meet Otho, if he is in Rome. If nothing comes of it, although you are used to bearing with my folly, I shall press on so far that you will be exasperated. For Drusus certainly wants to sell. So if nothing else turns up, it will be my fault if I do not buy. Please see to it that I do not slip up here; and the one way to see to it is, if we can do anything about the Scapula heirs. I should like to be informed how long you are to be at the place outside the city.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "apud Terentiam tam gratia opus est nobis tua quam auctoritate. sed facies ut videbitur. scio enim si quid mea intersit tibi maiori curae solere esse quam mihi.",
+      "eng": "With Terentia I have as much need of your influence as of your authority. But do as seems best to you. For I know that, if anything concerns me, it tends to be a greater care to you than to me.",
+      "notes": null
+    }
+  ]
+}

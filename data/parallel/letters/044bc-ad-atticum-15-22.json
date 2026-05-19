@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-22",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.22",
+  "title_english": "Ad Atticum 15.22",
+  "date": "-0044-06-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gratulor nobis Quintum filium exisse. molestus non erit. Pansam bene loqui credo. semper enim coniunctum esse cum Hirtio scio; amicissimum Bruto et Cassio puto, si expediet (sed quando illos videbit?), inimicum Antonio, quando aut cur? quousque ludemur? ego autem scripsi Sextum adventare, non quo iam adesset sed quia certe id ageret ab armisque nullus discederet. certe si pergit, bellum paratum est. hic autem noster Cytherius nisi victorem neminem victurum. quid ad haec Pansa? utrobi erit, si bellum erit? quod videtur fore. sed et haec et alia coram hodie quidem, ut scribis, aut cras.",
+      "eng": "I congratulate us that Quintus the younger has gone. He will be no trouble. That Pansa speaks well, I believe. For I know he has always been joined with Hirtius; that he is on the warmest terms with Brutus and Cassius I take as given --- if it suits him (but when will he see them?); that he is hostile to Antony --- when, or why? How long shall we be played with? As for myself, I wrote that Sextus was on his way, not because he was already here, but because he was certainly making for that end and would on no account be parted from arms. Certainly, if he carries on, war is prepared. But our Cytherian here says that no one will go on living except the victor. To this what does Pansa say? On which side will he be, if there is war? --- and it looks as if there will be. But these things and more in person, today --- as you write --- or tomorrow.",
+      "notes": null
+    }
+  ]
+}

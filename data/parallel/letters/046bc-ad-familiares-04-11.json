@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-11",
+  "category": "letters",
+  "title_latin": "Ad Familiares 4.11",
+  "title_english": "Ad Familiares 4.11",
+  "date": "-0046-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "plurimum valuisse apud me tuam semper auctoritatem cum in omni re tum in hoc maxime negotio potes existimare. cum mihi C. Marcellus, frater amantissimus mei, non solum consilium daret, sed precibus quoque me obsecraret, non prius mihi persuadere potuit, quam tuis est effectum litteris ut uterer vestro potissimum consilio. res quem ad modum sit acta, vestrae litterae mihi declarant. gratulatio tua etsi est mihi probatissima, quod ab optimo fit animo, tamen hoc mihi multo iucundius est et gratius, quod in summa paucitate amicorum, propinquorum ac necessariorum, qui vere meae saluti faverent, te cupidissimum mei singularemque mihi benevolentiam praestitisse cognovi.",
+      "eng": "You may judge for yourself how great a weight your authority has always carried with me, in every matter and most of all in this present business. When my brother Gaius Marcellus, who loves me most warmly, was not only giving me counsel but begging me with prayers, he could not bring me to be persuaded until your letter brought it about that the counsel I followed was, before all else, yours and his. How the affair was managed, your own letter makes clear to me. Your congratulation, though it is most welcome to me as coming from the best of intentions, is nevertheless made far more agreeable, and far more grateful, by this --- that out of the very small number of friends, kinsmen, and connections who truly favoured my restoration, I have come to know that you of all men were the most eager for me and the warmest in goodwill on my behalf.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "reliqua sunt eius modi, quibus ego, quoniam haec erant tempora, facile et aequo animo carebam; hoc vero eius modi esse statuo, ut sine talium virorum et amicorum benevolentia neque in adversa neque in secunda fortuna quisquam vivere possit. itaque in hoc ego mihi gratulor; tu vero ut intellegas homini amicissimo te tribuisse officium, re tibi praestabo. vale .",
+      "eng": "The other things are of such a kind that, given what the times have been, I could do without them easily and without complaint; but this present thing I judge to be such that, without the goodwill of men and friends like yourself, no man could live, either in adverse fortune or in favourable. So in this I do congratulate myself. And as for you --- so that you may know that the service you have rendered was rendered to a man who is your warmest friend --- I will prove it to you in the fact. Farewell.",
+      "notes": null
+    }
+  ]
+}

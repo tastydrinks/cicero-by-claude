@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-30",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.30",
+  "title_english": "Ad Atticum 12.30",
+  "date": "-0045-04-08",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quaero quod ad te scribam, sed nihil est: eadem cotidie. quod Lentulum invisis valde gratum. pueros attribue ei quot et quos videbitur. de Sili voluntate vendendi et de eo, quanti, tu vereri videris primum ne nolit, deinde ne tanti. Sicca aliter; sed tibi adsentior. qua re, ut ei placuit, scripsi ad Egnatium. quod Silius te cum Clodio loqui vult, potes id mea voluntate facere commodiusque est quam quod ille a me petit, me ipsum scribere ad Clodium.",
+      "eng": "I cast about for something to write to you, but there is nothing: the same things every day. That you are visiting Lentulus, most welcome. Assign him as many of the boys, and which ones, as seems good. About Silius' willingness to sell, and about the price, you seem to be afraid first that he may not want to, then that he may not at that figure. Sicca thinks otherwise; but I am with you. So, as he wished, I have written to Egnatius. That Silius wants you to speak with Clodius --- you can do so with my consent, and it is more convenient that way than what he asks of me, namely that I myself write to Clodius.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de mancipiis Castricianis commodissimum esse credo transigere Egnatium, quod scribis te ita futurum putare. cum Ovia, quaeso, vide ut conficiatur. quoniam , ut scribis, nox erat, in hodierna epistula plura exspecto.",
+      "eng": "About the Castricius slaves, I believe the most convenient course is for Egnatius to handle the transaction --- as you write you suppose will be the case. With Ovia, please see that the business is brought to a close. Since, as you write, night had come on, I am expecting more in today's letter.",
+      "notes": null
+    }
+  ]
+}

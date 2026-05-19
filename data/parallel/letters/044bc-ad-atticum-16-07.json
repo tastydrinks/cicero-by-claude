@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-16-07",
+  "category": "letters",
+  "title_latin": "Ad Atticum 16.7",
+  "title_english": "Ad Atticum 16.7",
+  "date": "-0044-08-19",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "viii Idus Sextil. cum a Leucopetra profectus (inde enim tramittebam) stadia circiter ccc processissem, reiectus sum austro vehementi ad eandem Leucopetram. ibi cum ventum exspectarem (erat enim villa Valeri nostri, ut familiariter essem et libenter), Regini quidam illustres homines eo venerunt Roma sane recentes, in iis Bruti nostri hospes qui Brutum Neapoli reliquisset. haec adferebant, edictum Bruti et Cassi, et fore frequentem senatum Kalendis, a Bruto et Cassio litteras missas ad consularis et praetorios ut adessent rogare. summam spem nuntiabant fore ut Antonius cederet, res conveniret, nostri Romam redirent. addebant etiam me desiderari, subaccusari. quae cum audissem, sine ulla dubitatione abieci consilium profectionis quo me hercule ne antea quidem delectabar. lectis vero tuis litteris admiratus equidem sum te tam vehementer sententiam commutasse, sed non sine causa arbitrabar. etsi , quamvis non fueris suasor et impulsor profectionis meae, adprobator certe fuisti, dum modo Kal. Ian. Romae essem. ita fiebat ut, dum minus periculi videretur, abessem, in flammam ipsam venirem. sed haec, etiam si non prudenter, tamen ἀνεμέσητα sunt, primum quod de mea sententia acta sunt, deinde etiam si te auctore, quid debet qui consilium dat praestare praeter fidem?",
+      "eng": "On the sixth of August, when I had set out from Leucopetra (for from there I was crossing over) and had made some three hundred stadia, I was driven back by a violent south wind to the same Leucopetra. There, while I was waiting for a wind --- for it was the villa of our friend Valerius, where I could be at ease and on familiar terms --- some distinguished men of Regium arrived, fresh from Rome, and among them a host of our friend Brutus, who had left Brutus at Naples. They brought this news: the edict of Brutus and Cassius; that the Senate would meet in full session on the Kalends; that Brutus and Cassius had sent letters to the consulars and praetorians asking them to attend. They reported the highest hope that Antony would give way, that affairs would be settled, that our side would return to Rome. They added too that I was missed --- that I was being half-blamed for it. When I had heard this, without a moment's hesitation I threw aside my plan of departure --- a plan, by Hercules, in which I had never before taken any pleasure. When I read your letter, I was indeed astonished that you had so vehemently changed your opinion, but I judged it not to be without reason. Even if you had not been the urger and prompter of my departure, you had at any rate approved it --- provided I should be at Rome on the Kalends of January. So it was working out that, while there seemed less danger, I would be away; and into the very flame I would be coming. But these things, even if not prudent, are still [Greek: anemesēta] --- past blame --- in the first place because they were done on my own opinion, and then, even if on your authority, what is one who gives counsel bound to deliver beyond good faith?",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "illud admirari satis non potui quod scripsisti his verbis, bene igitur tu qui εὐθανασίαν , bene! relinque patriam. an ego relinquebam aut tibi tum relinquere videbar? tu id non modo non prohibebas verum etiam adprobabas. graviora quae restant: velim σχόλιον aliquod elimes ad me oportuisse te istuc facere. itane , mi Attice? defensione eget meum factum, praesertim apud te qui id mirabiliter adprobasti? ego vero istum ἀπολογισμὸν συντάξομαι , sed ad eorum aliquem quibus invitis et dissuadentibus profectus sum. etsi quid iam opus est σχολίῳ ? si perseverassem, opus fuisset. at hoc ipsum non constanter. nemo doctus umquam (multa autem de hoc genere scripta sunt) mutationem consili inconstantiam dixit esse.",
+      "eng": "What I could not sufficiently wonder at was what you wrote in these words: ``Well done then, you who [Greek: euthanasian] --- a good ending --- well done! Abandon your country.'' Was I abandoning her? --- or did I seem to you to be abandoning her then? You not only did not forbid me to do so, you actually approved it. What follows is graver still: you say I should polish up for you some [Greek: scholion] --- some little dissertation --- on the propriety of my doing what I did. Really, my Atticus? Does my act need a defence --- and that before you, who approved it with such admiration? I shall, to be sure, draw up that [Greek: apologismon] --- that justification --- but for one of those against whose unwilling protest I set out. And yet, what need now is there of any [Greek: scholion]? If I had persisted, there would have been need. But this very turning back: it is not inconstancy. No learned man (and much has been written on this matter) has ever called a change of plan inconstancy.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "deinceps igitur haec, nam si a Phaedro nostro esses, expedita excusatio esset; nunc quid respondemus? ergo id erat meum factum quod Catoni probare non possim? flagiti scilicet plenum et dedecoris. utinam a primo ita tibi esset visum! tu mihi, sicut esse soles, fuisses Cato.",
+      "eng": "Next, then, comes this: for if you were a pupil of our friend Phaedrus, the excuse would be ready to hand; but as it is, what answer do we give? So, was that my act which I could not justify to Cato? Full of scandal, of course, and disgrace! If only it had seemed so to you from the first! You would have been to me what you usually are --- you would have been my Cato.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "extremum illud vel molestissimum, nam Brutus noster silet, hoc est, non audet hominem id aetatis monere. aliud nihil habeo quod ex iis a te verbis significari putem, et hercule ita est. nam xvi Kal. Sept. cum venissem Veliam, Brutus audivit; erat enim cum suis navibus apud Haletem fluvium citra Veliam milia passus III. pedibus ad me statim. di immortales, quam valde ille reditu vel potius reversione mea laetatus effudit illa omnia quae tacuerat! ut recordarer illud tuum. nam Brutus noster silet. maxime autem dolebat me Kal. Sext. in senatu non fuisse. Pisonem ferebat in caelum; se autem laetari quod effugissem duas maximas vituperationes, unam, quam itinere faciendo me intellegebam suscipere, desperationis ac reictionis rei publicae (flentes mecum vulgo querebantur quibus de meo celeri reditu non probabam), alteram, de qua Brutus et qui una erant (multi autem erant) laetabantur, quod eam vituperationem effugissem me existimari ad Olympia. hoc vero nihil turpius quovis rei publicae tempore sed hoc ἀναπολόγητον . ego vero austro gratias miras qui me a tanta infamia averterit.",
+      "eng": "The last point is the most painful. ``For our friend Brutus is silent'' --- that is, he does not dare to admonish a man of my years. I have nothing else that I can suppose to be meant by these words of yours, and by Hercules it is the truth. For on the seventeenth of August, when I had come to Velia, Brutus heard of it --- for he was with his own ships at the river Heles, three miles short of Velia. On foot he came to me at once. Immortal gods, how warmly he rejoiced at my return --- or rather my turning back --- and poured out all that he had kept silent before, so that I remembered that word of yours: ``For our friend Brutus is silent.'' What chiefly grieved him was that I had not been in the Senate on the Kalends of August. Piso he praised to the skies; and as for himself, he rejoiced that I had escaped two very great reproaches --- one, which I knew I was incurring by making the journey, that of despair and of throwing over the state (for crowds wept with me and complained, men whom I could not satisfy with the promise of my swift return); the other, of which Brutus and those with him (and there were many) rejoiced that I had escaped: the reproach of being thought to be travelling to Olympia. For there is nothing more disgraceful, at any season of the state, than this --- and at this season it is [Greek: anapologēton] --- past all defence. I myself give wondrous thanks to the south wind, which turned me back from so great a dishonour.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "reversionis has speciosas causas habes iustas illas qui dem et magnas; sed nulla iustior quam quod tu idem aliis litteris, provide , si cui quid debetur, ut sit unde par pari respondeatur. mirifica enim δυσχρηστία est propter metum armorum. in freto medio hanc epistulam legi, ut quid possem providere in mentem mihi non veniret nisi ut praesens me ipse defenderem. sed haec hactenus; reliqua coram.",
+      "eng": "These you have as the plausible reasons for my turning back --- just ones, indeed, and weighty. But none is juster than this, that you yourself, in another letter, said: ``See to it, if anything is owed to anyone, that there is wherewith to settle like with like.'' For a remarkable [Greek: dyschrēstia] --- an awkwardness of credit --- has set in on account of the fear of arms. I read this letter in mid-channel, and what I could see to about it would not come into my head, save that I must defend myself in person and on the spot. But enough of this; the rest face to face.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "Antoni edictum legi a Bruto et horum contra scriptum praeclare; sed quid ista edicta valeant aut quo spectent plane non video. nec ego nunc, ut Brutus censebat, istuc ad rem publicam capessendam venio. quid enim fieri potest? num quis Pisoni est adsensus? num rediit ipse postridie? sed abesse hanc aetatem longe a sepulcro negant oportere.",
+      "eng": "I have read Antony's edict, given me by Brutus, and the splendid counter-script of these men; but what those edicts come to, or what they aim at, I do not plainly see. Nor do I now, as Brutus thought, come there to take the state in hand. For what can be done? Did anyone vote with Piso? Did Piso himself return the next day? But they say a man of my age ought not to be far from the grave.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "sed obsecro te, quid est quod audivi de Bruto? Piliam πειράζεσθαι παραλύσει te scripsisse aiebat. valde sum commotus. etsi idem te scribere sperare melius. ita plane velim et ei dicas plurimam salutem et suavissimae Atticae. haec scripsi navigans cum prope Pompeianum accederem xiiii Kal.",
+      "eng": "But I beg you --- what is it that I heard about Brutus? He said you had written that Pilia was [Greek: peirazesthai paralysei] --- being assailed by a stroke. I am greatly disturbed. Though you wrote also that you hope for better. So I do, with all my heart; and give her my warmest greetings, and to sweetest Attica too. I wrote this while sailing as I was nearing the Pompeianum, on the nineteenth of August.",
+      "notes": null
+    }
+  ]
+}

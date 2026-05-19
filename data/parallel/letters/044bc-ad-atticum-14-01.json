@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-01",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.1",
+  "title_english": "Ad Atticum 14.1",
+  "date": "-0044-04-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "deverti ad illum de quo tecum mane. nihil perditius; explicari rem non posse. etenim si ille tali ingenio exitum non reperiebat, quis nunc reperiet? quid quaeris? perisse omnia aiebat (quod haud scio an ita sit; verum ille gaudens) adfirmatque minus diebus xx tumultum Gallicum. in sermonem se post Idus Martias praeterquam Lepido venisse nemini. ad summam non posse istaec sic abire. o prudentem Oppium! qui nihilo minus illum desiderat, sed loquitur nihil quod quemquam bonum offendat. sed haec hactenus.",
+      "eng": "I called in on the man we spoke of this morning. Nothing could be more lost; the thing cannot be untangled. For if a mind like his could find no way out, who will find one now? In short, he said everything had gone to ruin --- whether this is so I cannot tell; he said it, at any rate, with pleasure --- and he affirms that within less than twenty days there will be trouble in Gaul. Since the Ides of March, he has spoken with no one but Lepidus. In sum: matters cannot go on like this. What a prudent man Oppius is! He misses Caesar no less, but says nothing that could offend any decent man. But enough of all that.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu , quaeso, quicquid novi (multa autem exspecto) scribere ne pigrere, in his de Sexto satisne certum, maxime autem de Bruto nostro. de quo quidem ille ad quem deverti, Caesarem solitum dicere, magni refert hic quid velit, sed quicquid vult valde vult ; idque eum animadvertisse cum pro Deiotaro Nicaeae dixerit; valde vehementer eum visum et libere dicere; atque etiam (ut enim quidque succurrit libet scribere) proxime, cum Sesti rogatu apud eum fuissem exspectaremque sedens quoad vocarer, dixisse eum, ego dubitem quin summo in odio sim quom M. Cicero sedeat nec suo commodo me convenire possit? atqui si quisquam est facilis, hic est. tamen non dubito quin me male oderit. haec et eius modi multa. sed ad propositum. quicquid erit non modo magnum sed etiam parvum scribes. equidem nihil intermittam.",
+      "eng": "You, please, whatever news there is --- and I am waiting for plenty --- do not be slow to write, in particular whether what we hear about Sextus is firm enough, and above all about our Brutus. The man I called on said this about him: Caesar used to say, ``It matters a great deal what this fellow wants, but whatever he wants, he wants intensely''; and that he had noticed this when Brutus spoke at Nicaea on behalf of Deiotarus --- he had struck Caesar as speaking with great force and great freedom. And then this too, for I might as well write whatever comes to mind: recently, when I was at Caesar's at Sestius's request and was sitting waiting to be called in, he said, ``Can I doubt I am thoroughly disliked, when Marcus Cicero sits there and cannot get in to see me at his own convenience? And yet if anyone is approachable, this man is. But I have no doubt he heartily hates me.'' This and much more in the same vein. But to the point. Whatever happens, not only large but small, write to me. I shall not let up for my part.",
+      "notes": null
+    }
+  ]
+}

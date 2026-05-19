@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-19",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.19",
+  "title_english": "Ad Familiares 15.19",
+  "date": "-0045-01-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. b. non me hercule in hac mea peregrinatione quicquam libentius facio quam scribo ad te ; videor enim, cum praesente loqui et iocari. nec tamen hoc usu venit propter 'spectra Catiana' ; pro quo tibi proxima epistula tot rusticos Stoicos regeram, ut Catium Athenis natum esse dicas.",
+      "eng": "If you are well, it is well. By Hercules, on this travel of mine I do nothing more gladly than write to you; I seem, as I do it, to be talking and joking with you in person. And this does not happen on account of any ``Catian spectres''; for which, in my next letter, I shall pile up on you so many countrified Stoics that you will be saying Catius was born at Athens.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Pansam nostrum secunda voluntate hominum paludatum ex urbe exisse cum ipsius causa gaudeo tum me hercule etiam omnium nostrorum ; spero enim homines intellecturos quanto sit omnibus odio crudelitas et quanto amori probitas et clementia, atque ea, quae maxime mali petant et concupiscant, ad bonos pervenire. difficile est enim persuadere hominibus to\\ kalo\\n di' au(to\\ ai(reto\\n ? esse ; h(donh\\n vero et a)taraci/an virtute, iustitia, tw=| kalw=| parari et verum et probabile est ; ipse enim Epicurus, a quo omnes Catii et Amafinii, mali verborum interpretes, proficiscuntur, dicit : ou)k e)/stin h(de/ws a)/neu tou= kalw=s kai\\ dikai/ws zh=n .",
+      "eng": "That our friend Pansa has left the city in his general's cloak with the goodwill of mankind, I am glad on his own account; and, by Hercules, on the account of all our own people too. For I hope men will come to understand how universally hated cruelty is, and how loved integrity and clemency are, and that the very things bad men chiefly seek and covet come round to good men. It is hard, true, to persuade men that the noble [Greek: to kalon di' hauto haireton] --- is to be chosen for its own sake; but that pleasure [Greek: hēdonēn] and freedom from disturbance [Greek: ataraxian] are won by virtue, justice, and the noble [Greek: tōi kalōi] is both true and persuasive. For Epicurus himself --- from whom all the Catii and Amafinii, those poor interpreters of words, take their start --- says: [Greek: ouk estin hēdeōs aneu tou kalōs kai dikaiōs zēn], ``there is no living pleasantly without living finely and justly.''",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "itaque et Pansa, qui h(donh\\n sequitur, virtutem retinet, et ii, qui a vobis filh/donoi vocantur, sunt filo/kaloi et filodi/kaioi omnisque virtutes et colunt et retinent. itaque Sulla, cuius iudicium probare debemus, cum dissentire philosophos videret, non quaesiit quid bonum esset sed omnia bona coemit. cuius ego mortem forti me hercules animo tuli. nec tamen Caesar diutius nos eum desiderare patietur ; nam habet damnatos quos pro illo nobis restituat, nec ipse sectorem desiderabit, cum filium viderit.",
+      "eng": "And so both Pansa, who pursues pleasure [Greek: hēdonēn], holds fast to virtue, and those who are called by you pleasure-lovers [Greek: philēdonoi] are in fact lovers of the noble [Greek: philokaloi] and lovers of the just [Greek: philodikaioi], and they both cultivate and hold to every virtue. So Sulla --- whose judgement we ought to endorse --- when he saw the philosophers disagreed, did not enquire what was good but bought up all the goods at once. His death, by Hercules, I have borne with a brave heart. Nor will Caesar let us miss him long: he has condemned men whom he can restore to us in his place, nor will he himself want for a buyer at his auctions, once he has had a look at the son.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "nunc ut ad rem p. redeam, quid in Hispaniis geratur rescribe. peream nisi sollicitus sum ac malo veterem et clementem dominum habere quam novum et crudelem experiri. scis Gnaeus quam sit fatuus ; scis quo modo crudelitatem virtutem putet ; scis quam se semper a nobis derisum putet ; vereor ne nos rustice gladio velit a)ntimukthri/sai . quid fiat, si me diligis, rescribe. Hui, quam velim scire utrum ista sollicito animo an soluto legas ! sciam enim eodem tempore quid me facere oporteat. ne longior sim, vale ; me, ut facis, ama. si Caesar vicit, celeriter me exspecta.",
+      "eng": "Now, to come back to the state: write me what is going on in the Spains. I'm fretting, I will be damned if I am not; and I would rather have my old and clement master than try out a new and cruel one. You know what a fool Cnaeus is; you know how he counts cruelty as virtue; you know how he always thinks we have been laughing at him. I fear he means to give us a country-style sneer back [Greek: antimuktērisai] with his sword. What is happening, if you love me, write me back. Oh, how I should like to know whether you are reading this in an anxious mood or a free one! For I shall know in the same moment what I ought to do. Not to make this any longer, farewell; love me, as you do. If Caesar has won, expect me soon.",
+      "notes": null
+    }
+  ]
+}

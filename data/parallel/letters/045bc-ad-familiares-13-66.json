@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-66",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.66",
+  "title_english": "Ad Familiares 13.66",
+  "date": "-0045-02-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A. Caecinam, maxime proprium clientem familiae vestrae, non commendarem tibi, cum scirem qua fide in tuos, qua clementia in calamitosos soleres esse, nisi me et patris eius, quo sum familiarissime usus, memoria et huius fortuna ita moveret, ut hominis omnibus mecum studiis officiisque coniunctissimi movere debebat. A te hoc omni contentione peto, sic ut maiore cura, maiore animi labore petere non possim, ut ad ea, quae tua sponte sine cuiusquam commendatione faceres in hominem tantum et talem et calamitosum, aliquem adferant cumulum meae litterae, quo studiosius eum quibuscumque rebus possis iuves.",
+      "eng": "I would not be recommending A. Caecina to you --- a client most especially attached to your family --- knowing as I do how loyal you are towards your own and how merciful towards the stricken, if I were not moved both by the memory of his father, with whom I was on the most familiar terms, and by his own misfortune, in such a way as a man bound to me by every shared interest and every common service was bound to move me. I ask this of you with all the urgency I can bring to a request, and in such a way that I could not press it with more care or with greater effort of mind: that to what you would do of your own accord, without anyone's recommendation, on behalf of a man so considerable, so worthy, and so afflicted, my letter may add some increment, so that you may help him all the more zealously, in whatever ways you can.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod si Romae fuisses, etiam salutem A. Caecinae essemus, ut opinio mea fert, per te consecuti ; de qua tamen magnam spem habemus freti clementia conlegae tui. nunc quoniam tuam iustitiam secutus tutissimum sibi portum provinciam istam duxit esse, etiam atque etiam te rogo atque oro ut eum et in reliquus veteris negotiationis conligendis iuves et ceteris rebus tegas atque tueare. hoc mihi gratius facere nihil potes.",
+      "eng": "If you had been at Rome, in my opinion we should even have secured A. Caecina's restoration through you; yet of that we have great hope still, relying on the clemency of your colleague. As it is, since he has followed your sense of justice and judged your province to be the safest harbour for himself, I ask and beg you again and again to help him both in collecting what remains of his old business affairs and to shield and protect him in everything else. Nothing you could do would be more welcome to me than this.",
+      "notes": null
+    }
+  ]
+}

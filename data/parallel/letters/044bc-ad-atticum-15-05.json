@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-05",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.5",
+  "title_english": "Ad Atticum 15.5",
+  "date": "-0044-05-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "a Bruto tabellarius rediit; attulit et ab eo et Cassio. consilium meum magno opere exquirunt, Brutus quidem utrum de duobus. o rem miseram! plane non habeo quid scribam. itaque silentio puto me usurum, nisi quid aliud tibi videtur; sin tibi quid venit in mentem, scribe, quaeso. Cassius vero vehementer orat ac petit ut Hirtium quam optimum faciam. sanum putas? † ὁ θησαυρὸς ἄνθρακεσ . epistulam tibi misi.",
+      "eng": "The courier has come back from Brutus; he brought letters both from him and from Cassius. They press me hard for my counsel --- Brutus, indeed, as between two courses. What a wretched business! I plainly have nothing to write. And so I think I shall keep silence, unless something else seems best to you; but if anything comes into your mind, write, I beg. Cassius, for his part, urgently asks and begs that I make Hirtius as well-disposed as I can. Do you think the man is in his senses? The treasure is coals ([Greek: ho th\\=esauros anthrakes]). I have sent you the letter.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ut tu de provincia Bruti et Cassi per senatus consultum, ita scribit et Balbus et Oppius . Hirtius quidem se afuturum (etenim iam in Tusculano est) mihique ut absim vehementer auctor est, et ille quidem periculi causa quod sibi etiam fuisse dicit, ego autem, etiam ut nullum periculum sit, tantum abest ut Antoni suspicionem fugere nunc curem ne videar eius secundis rebus non delectari, ut mihi causa ea sit cur Romam venire nolim ne illum videam.",
+      "eng": "As you write about the province of Brutus and Cassius being settled by a decree of the Senate, so too do Balbus and Oppius. Hirtius for his part says he will be away --- he is in fact already at his Tusculan villa --- and presses me hard to be away too: he, on grounds of danger, which he says applied even to himself; whereas I, even granting that there is no danger, am so far from going out of my way at this point to avoid Antony's suspicion that I might seem not to be pleased with his good fortune, that my reason for not wanting to come to Rome is precisely this: that I may not have to look at him.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Varro autem noster ad me epistulam misit sibi a nescio quo missam (nomen enim delerat); in qua scriptum erat veteranos eos qui reiciantur (nam partem esse dimissam) improbissime loqui, ut magno periculo Romae sint futuri qui ab eorum partibus dissentire videantur. quis porro noster itus, reditus, vultus, incessus inter istos? quod si, ut scribis, L. Antonius in D. Brutum, reliqui in nostros, ego quid faciam aut quo me pacto geram? mihi vero deliberatum est, ut nunc quidem est, abesse ex ea urbe in qua non modo florui cum summa verum etiam servivi cum aliqua dignitate; nec tam statui ex Italia exire, de quo tecum deliberabo, quam istuc non venire.",
+      "eng": "Our friend Varro, meanwhile, has sent me a letter that was sent to him by I don't know whom (the name had been blotted out), in which it was written that those of the veterans who are being discharged (for a portion has, it seems, been let go) are talking in the most disgraceful way, with the result that any in Rome who are seen to dissent from their party will be in great danger. What sort of arrival, departure, expression, gait can be mine among such men? And if, as you write, Lucius Antonius is moving against Decimus Brutus and the others against ours, what am I to do, or how am I to conduct myself? For my part, I have made up my mind --- as matters now stand --- to absent myself from a city in which I once not only flourished at the height, but also served in slavery with some measure of dignity. Whether to leave Italy itself, on which I shall take counsel with you, I have not so much determined as the question of not going there.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-10",
+  "category": "letters",
+  "title_latin": "Ad Familiares 4.10",
+  "title_english": "Ad Familiares 4.10",
+  "date": "-0046-11-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi nihil erat novi, quod ad te scriberem, magisque litteras tuas iam exspectare incipiebam vel te potius ipsum, tamen, cum Theophilus proficisceretur, non potui nihil ei litterarum dare. cura igitur ut quam primum venias venies enim, mihi crede, exspectatus, neque solum nobis, id est tuis, sed prorsus omnibus. venit enim mihi in mentem subvereri interdum, ne te delectet tarda decessio. quod nullum haberes sensum nisi oculorum, prorsus tibi ignoscerem, si quosdam nolles videre; sed, cum leviora non multo essent, quae audirentur, quam quae viderentur, suspicarer autem multum interesse rei familiaris tuae te quam primum venire, idque in omnis partis valeret, putavi ea de re te esse admonendum. sed quoniam, quid mihi placeret, ostendi, reliqua tu pro tua prudentia considerabis; me tamen velim, quod ad tempus te exspectemus, certiorem facias.",
+      "eng": "Though there was nothing new to write to you, and I was already beginning to look out for a letter from you --- or rather for you yourself --- still, with Theophilus setting out, I could not bring myself to give him nothing in writing. So see to it that you come as soon as may be; for you will come, believe me, looked for --- not only by us, that is, by your people, but plainly by all. For it occurs to me to fear from time to time that this slow departure of yours is taking on a charm of its own. Had you no faculty but the sight of your eyes, I would altogether forgive you for not wishing to see certain men; but since what is heard is hardly lighter than what is seen, and since I suspect that it greatly concerns the state of your household for you to come as soon as possible --- the point telling in every direction --- I thought I ought to put it to you. But now that I have shown you what would please me, you yourself, in your good sense, will weigh the rest. Only let me know, please, by what date we are to expect you.",
+      "notes": null
+    }
+  ]
+}

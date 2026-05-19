@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-06",
+  "category": "letters",
+  "title_latin": "Ad Quintum Fratrem 3.6 (= 3.5b in Shackleton Bailey)",
+  "title_english": "Ad Quintum Fratrem 3.6 (combined with 3.5 in modern editions)",
+  "date": "-0054-11-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit) — material included under 3.5",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "stub": true,
+  "stub_reason": "Perseus TEI book 3 contains no separate letter 6 (sequence: 1,2,3,4,5,7,8,9). Modern editions combine the older 3.6 with the second half of 3.5 as a single letter, SB Q.fr. 3.5b. The aligned segments for this material are included in 054bc-ad-quintum-fratrem-03-05.json.",
+  "see_also": "data/parallel/letters/054bc-ad-quintum-fratrem-03-05.json",
+  "segments": []
+}

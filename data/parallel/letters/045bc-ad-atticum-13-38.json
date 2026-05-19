@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-38",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.38",
+  "title_english": "Ad Atticum 13.38",
+  "date": "-0045-08-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ante lucem cum scriberem contra Epicureos, de eodem oleo et opera exaravi nescio quid ad te et ante lucem dedi. deinde cum somno repetito simul cum sole experrectus essem, datur mi epistula a sororis tuae filio quam ipsam tibi misi; cuius est principium non sine maxima contumelia. sed fortasse οὐκ ἐπέστησεν . est autem sic, ego enim quicquid non belle in te dici potest—. posse vult in me multa dici non belle sed ea se negat approbare. hoc quicquam pote impurius? iam cetera leges (misi enim ad te) iudicabisque. Bruti nostri cotidianis adsiduisque laudibus quas ab eo de nobis haberi permulti mihi renuntiaverunt commotum istum aliquando scripsisse aliquid ad me credo et ad te, idque ut sciam facies. nam ad patrem de me quid scripserit nescio, de matre quam pie! volueram , inquit ut quam plurimum tecum essem, conduci mihi domum et id ad te scripseram. neglexisti . ita minus multum una erimus. nam ego istam domum videre non possum; qua de causa scis.",
+      "eng": "Before dawn, while I was writing against the Epicureans, I scratched off something or other to you from the same lamp and the same labour, and sent it off before daylight. Then, having gone back to sleep and woken with the sun, a letter is delivered to me from your sister's son --- the very thing I have sent on to you. Its opening is of the most outrageous insolence. But perhaps he did not stop to consider [Greek: ouk epestesen]. It runs as follows: ``For my part, whatever ill thing can be said against you --- '' He means that much ill could be said against me, but he denies that he himself approves of it. Could anything be filthier than this? You can read the rest for yourself --- I have sent it on --- and judge. Worn down at last by our Brutus's daily and tireless praise of me, of which a great many have reported to me, he has, I think, finally written something to me, and to you as well; you will let me know. What he wrote about me to his father I do not know; about his mother, how lovingly! ``I had wanted,'' he says, ``to be with you as much as possible, and to that end to have a house rented for me. I had written to you about it. You ignored it. So we shall be together less.'' Why? Because I cannot bear the sight of that house --- the reason you know.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "hanc autem causam pater odium matris esse dicebat. nunc me iuva, mi Attice, consilio, πότερον id est utrum aperte hominem asperner et respuam, ἢ σκολιαῖσ ἀπάταις. ut enim Pindaro sic δίχα μοι νόοσ ἀτρέκειαν εἰπεῖν. omnino moribus meis illud aptius sed hoc fortasse temporibus. tu autem quod ipse tibi suaseris idem mihi persuasum putato. equidem vereor maxime ne in Tusculano opprimar. in turba haec essent faciliora. utrum igitur Asturae? quid si Caesar subito? iuva me, quaeso, consilio. utar eo quod tu decreveris.",
+      "eng": "His father said the reason was his hatred of his mother. Now help me out, my dear Atticus, with your counsel: which is it to be [Greek: poteron] --- am I to spurn the man openly and reject him outright, or with crooked stratagems [Greek: e skoliais apatais]? For as with Pindar, my mind is divided on speaking the plain truth [Greek: dicha moi noos atrekeian eipein]. The former, certainly, suits my character better; the latter, perhaps, the times. You make up your own mind, and take it as already mine. What I most fear is being caught here at the Tusculan villa. In a crowd these things would be easier. To Astura, then? But what if Caesar drops in unannounced? Help me, please, with your counsel. I will do whatever you decide.",
+      "notes": null
+    }
+  ]
+}

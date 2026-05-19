@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-28",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.28",
+  "title_english": "Ad Familiares 13.28",
+  "date": "-0046-09-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi libenter petere a te soleo, si quid opus est meorum cuipiam, tamen multo libentius gratias tibi ago, cum fecisti aliquid commendatione mea, quod semper facis. incredibile est enim quas mihi gratias omnes agant, etiam mediocriter a me tibi commendati. quae mihi omnia grata, sed de L. Mescinio gratissimum. sic enim est mecum locutus, te, ut meas litteras legeris, statim procuratoribus suis pollicitum esse omnia, multo vero plura et maiora fecisse. id igitur (puto enim etiam atque etiam mihi dicendum esse) velim existimes mihi te fecisse gratissimum.",
+      "eng": "Although I am gladly in the habit of making requests of you whenever any of my people has need of something, still I take far greater pleasure in giving you thanks, when you have done anything on a recommendation of mine, which you always do. For it is past belief what thanks they all render me, even those whom I had commended to you only moderately. All of that is welcome; but on the matter of L. Mescinius, most welcome of all. For he has told me that, as soon as you read my letter, you promised his agents everything on the spot, and that you did far more, and greater things than you had promised. I should like you, then --- for I think this must be said again and again --- to reckon that you have done me a most welcome service.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod quidem hoc vehementius laetor, quod ex ipso Mescinio te video magnam capturum voluptatem ; est enim in eo cum virtus et probitas et summum officium summaque observantia tum studia illa nostra, quibus antea delectabamur nunc etiam vivimus. quod reliquum est, velim augeas tua in eum beneficia omnibus quae te erunt dignae ; sed duo, quae te nominatim rogo, primum ut, si quid satis dandum erit 'AMPLIVS EO NOMINE NON PETI,' cures ut satis detur fide mea ; deinde, cum fere consistat hereditas in iis rebus, quas avertit Oppia, quae uxor Mindi fuit, adiuves ineasque rationem quem ad modum ea mulier Romam perducatur. quod si putarit illa fore, ut opinio nostra est, negotium conficiemus. hoc ut adsequamur, te vehementer etiam atque etiam rogo.",
+      "eng": "And the more keenly do I rejoice in this, because I see that you will yourself derive great pleasure from Mescinius. For there is in him not only character, integrity, the highest sense of duty and the highest assiduity, but also those studies of ours, in which we formerly took delight and by which we now actually live. As for what remains, I should like you to enlarge your kindnesses toward him by every means worthy of yourself; but two things in particular, in which I name you by name in my asking. First, if a guarantee shall have to be given that ``no further claim shall be made under that head'' [Latin formula: amplius eo nomine non peti], see to it that the guarantee is given on my surety; next, since the inheritance consists chiefly in those things which Oppia, who was Mindius's wife, has carried off, lend a hand --- and consider by what method that woman may be brought to Rome. If she thinks it will come to that --- as we suppose it will --- we shall finish the business. To compass this, I beg you again and again most earnestly.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "illud , quod supra scripsi, id tibi confirmo in meque recipio, te ea quae fecisti Mescini causa quaeque feceris ita bene conlocaturum, ut ipse iudices homini te gratissimo, iucundissimo benigne fecisse. volo enim ad id quod mea causa fecisti hoc etiam accedere.",
+      "eng": "That further point which I wrote above, this I confirm to you and take upon myself --- that what you have done for Mescinius's sake, and what you shall do, you will so well lay out that you will judge yourself to have done it kindly for a man most grateful and most agreeable. For I want this also to be added on top of what you have done for my sake.",
+      "notes": null
+    }
+  ]
+}

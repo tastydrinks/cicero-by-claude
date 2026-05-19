@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-16-10",
+  "category": "letters",
+  "title_latin": "Ad Atticum 16.10",
+  "title_english": "Ad Atticum 16.10",
+  "date": "-0044-11-08",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "vii Id. veni ad me in Sinuessanum. eodem die vulgo loquebantur Antonium mansurum esse Casilini. itaque mutavi consilium; statueram enim recta Appia Romam. facile me ille esset adsecutus. aiunt enim eum Caesariana uti celeritate. verti igitur me a Menturnis Arpinum versus. constitueram ut v Idus aut Aquini manerem aut in Arcano.",
+      "eng": "On the seventh before the Ides I came to my place at Sinuessa. On that same day the common talk was that Antony meant to halt at Casilinum. So I changed my plan; for I had set my mind on going straight up the Appian Way to Rome. He would have caught me up easily --- they say he travels with the speed of Caesar. I therefore turned aside from Minturnae in the direction of Arpinum. I had decided to stop on the fifth before the Ides either at Aquinum or at Arcanum.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nunc , mi Attice, tota mente incumbe in hanc curam; magna enim res est. tria sunt autem, maneamne Arpini an propius accedam an veniam Romam. quod censueris faciam. sed quam primum. avide exspecto tuas litteras. vi Idus mane e Sinuessano.",
+      "eng": "Now, my dear Atticus, put your whole mind to this question; for it is a serious matter. There are three options: whether I should stay at Arpinum, or come closer, or come to Rome. I will do whatever you advise. But as soon as possible. I am keenly awaiting your letter. The sixth before the Ides, in the morning, from the Sinuessanum.",
+      "notes": null
+    }
+  ]
+}

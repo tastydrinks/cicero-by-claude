@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-48",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.48",
+  "title_english": "Ad Atticum 13.48",
+  "date": "-0045-08-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "heri nescio quid in strepitu videor exaudisse cum diceres te in Tusculanum venturum. quod utinam! iterum utinam! tuo tamen commodo. Lepta me rogat ut, si quid sibi opus sit, accurram; mortuus enim Babullius. Caesar, opinor, ex uncia etsi nihil adhuc; sed Lepta ex triente. veretur autem ne non liceat tenere hereditatem, ἀλόγωσ omnino, sed veretur tamen. is igitur si accierit, accurram; si minus, non ante quam necesse erit. tu Pollicem, cum poteris.",
+      "eng": "Yesterday, amid the bustle, I thought I caught you saying something about coming out to the Tusculan villa. If only! And again, if only! But only at your convenience. Lepta asks me to hurry to him if he needs me; for Babullius is dead. Caesar comes in for an ounce, I gather, though so far not a thing; Lepta for a third. Yet he is afraid he may not be allowed to hold on to the inheritance --- quite irrationally [Greek: alogos], but afraid all the same. So if he sends for me, I will hurry; if not, not before I have to. Send Pollex when you can.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "laudationem Porciae tibi misi correctam. adeo properavi ut, si forte aut Domitio filio aut Bruto mitteretur, haec mitteretur. id si tibi erit commodum magno opere cures velim et velim M. Varronis et Olli mittas laudationem, Olli utique. nam illam legi, volo tamen regustare. quaedam enim vix mihi credo legisse me.",
+      "eng": "I have sent you the eulogy of Porcia, corrected. I have hurried so much that, if it should happen to be sent on to Domitius the younger or to Brutus, this is the version that goes. If it suits you, please see to that --- and please send me the eulogies of Marcus Varro and Ollius, Ollius's in any case. For I have read it once, but I want to taste it again. There are some passages I can scarcely believe I have read.",
+      "notes": null
+    }
+  ]
+}

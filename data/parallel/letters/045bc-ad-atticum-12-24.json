@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-24",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.24",
+  "title_english": "Ad Atticum 12.24",
+  "date": "-0045-03-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "bene fecit A. Silius qui transegerit. neque enim ei deesse volebam et quid possem timebam. de Ovia confice, ut scribis. de Cicerone tempus esse iam videtur; sed quaero, quod illi opus erit, Athenis permutarine possit an ipsi ferendum sit, de totaque re quem ad modum et quando placeat velim consideres. Publilius iturusne sit in Africam et quando ex Aledio scire poteris. quaeras et ad me scribas velim.",
+      "eng": "Aulus Silius has done well in settling the business. I did not want to fail him, and I was uneasy about what I could manage. As to Ovia, finish it off, as you say. About young Cicero, the time now seems to be at hand; but I am asking whether what he will need can be transferred by exchange at Athens, or whether it must be carried out to him in person, and I should be glad if you would consider the whole question --- in what manner and at what time it should be done. Whether Publilius is going to Africa, and when, you will be able to find out from Aledius. I should like you to make inquiry and write to me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "et ut ad meas ineptias redeam, velim me certiorem facias P. Crassus Venuleiae filius vivone P. Crasso consulari patre suo mortuus sit, ut ego meminisse videor, an postea. item quaero de Regillo Lepidi filio rectene meminerim patre vivo mortuum.",
+      "eng": "And to return to my own trifles: I should be glad if you would make me sure whether Publius Crassus, Venuleia's son, died while his father Publius Crassus the ex-consul was still alive (as I think I remember), or afterwards. I ask the same about Regillus, Lepidus's son: whether I am right in remembering that he died while his father was alive.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Cispiana explicabis itemque Preciana. de Attica optime. et ei salutem dices et Piliae.",
+      "eng": "You will sort out the Cispius business, and the Precius one as well. About Attica, excellent. Give my greetings to her and to Pilia.",
+      "notes": null
+    }
+  ]
+}

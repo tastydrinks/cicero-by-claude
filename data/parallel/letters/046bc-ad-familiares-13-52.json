@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-52",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.52",
+  "title_english": "Ad Familiares 13.52",
+  "date": "-0046-09-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A. Licinius Aristoteles Melitensis antiquissimus est hospes meus et praeterea coniunctus magno usu familiaritatis. haec cum ita sint, non dubito quin tibi satis commendatus sit ; etenim ex multis cognosco meam commendationem plurimum apud te valere. hunc ego a Caesare liberavi ; frequens enim fuerat nobiscum atque etiam diutius in causa est quam nos commoratus ; quo melius te de eo existimaturum arbitror. fac igitur, mi Rex, ut intellegat has sibi litteras plurimum profuisse.",
+      "eng": "A. Licinius Aristoteles, of Malta, is my oldest guest-friend and besides this is bound to me by long and close intimacy. This being so, I have no doubt he is sufficiently commended to you already; for I learn from many sources that my recommendation carries the greatest weight with you. I obtained his pardon from Caesar: he had been much with us, and indeed lingered in our cause even longer than I myself --- on which account I take it you will think the better of him. See to it, then, my dear Rex, that he may understand this letter has done him the greatest service.",
+      "notes": null
+    }
+  ]
+}

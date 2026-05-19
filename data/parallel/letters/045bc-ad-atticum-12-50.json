@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-50",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.50",
+  "title_english": "Ad Atticum 12.50",
+  "date": "-0045-05-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ut me levarat tuus adventus sic discessus adfiixit. qua re cum poteris, id est cum Sexti auctioni operam dederis, revises nos. vel unus dies mihi erit utilis, quid dicam gratus ? ipse Romam venirem ut una essemus, si satis consultum quadam de re haberem.",
+      "eng": "As your coming had relieved me, so your departure has cast me down. So when you can --- that is, when you have given your attention to Sextus' auction --- come see me again. Even a single day will be useful to me, not to say welcome. I would come to Rome myself, so that we might be together, if I had taken sufficient counsel on a certain matter.",
+      "notes": null
+    }
+  ]
+}

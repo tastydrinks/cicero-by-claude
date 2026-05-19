@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-11",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.11",
+  "title_english": "Ad Familiares 15.11",
+  "date": "-0050-08-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quantae curae tibi meus honos fuerit et quam idem exstiteris consul in me ornando et amplificando qui fueras semper cum parentibus tuis et cum tota domo, etsi res ipsa loquebatur, cognovi tamen ex meorum omnium litteris. itaque nihil est tantum, quod ego non tua causa debeam facturusque sim †cum studiose ac libenter.",
+      "eng": "How great a concern my distinction was to you, and how, as consul, you proved the very man in adorning and amplifying my standing that you had always been together with your parents and your whole house --- though the thing itself spoke for itself, I have learned in addition from the letters of all my friends. There is therefore nothing so great that I do not owe it on your account, and shall not perform [for you eagerly and gladly].",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nam magni interest cui debeas, debere autem nemini malui quam tibi cui me cum studia communia, beneficia paterna tuaque iam ante coniunxerant, tum accedit mea quidem sententia maximum vinculum, quod ita rem p. geris atque gessisti, qua mihi carius nihil est, ut, quantum tibi omnes boni o debeant, quo minus tantundem ego unus debeam non recusem. quam ob rem tibi velim ii sint exitus, quos mereris et quos fore confido. ego , si me navigatio non morabitur, quae incurrebat in ipsos etesias, propediem te, ut spero, videbo.",
+      "eng": "For it matters greatly to whom one is indebted, and I had rather be indebted to no one than to you. To you whom common pursuits, and your father's kindnesses and your own, had already bound me long since, there is now added what is, in my own judgment at least, the strongest bond of all: that you so conduct, and have conducted, that commonwealth which is dearer to me than anything, that, much as every loyal man owes you, I, for one, do not refuse to owe you no less than they. For that reason I would have such ends fall to you as you deserve and as I trust will be yours. As for me, if the voyage does not detain me --- which was running straight into the Etesian winds --- I shall, I hope, see you before long.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-35",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.35",
+  "title_english": "Ad Atticum 13.35",
+  "date": "-0045-07-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "o rem indignam! gentilis tuus urbem auget quam hoc biennio primum vidit et ei parum magna visa est quae etiam ipsum capere potuerit. hac de re igitur exspecto litteras tuas. Varroni scribis te, simul ac venerit.",
+      "eng": "What a disgrace! Your kinsman is enlarging the city which he first laid eyes on only two years ago, and which seemed to him too small to contain him in person. On this matter, then, I am waiting for a letter from you. To Varro you are writing, you say, as soon as he arrives.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "dati igitur iam sunt nec tibi integrum est, hui, si scias quanto periculo tuo! aut fortasse litterae meae te retardarunt; sed eas nondum legeras cum has proximas scripsisti. scire igitur aveo quo modo res se habeat. de Bruti amore vestraque ambulatione etsi mihi nihil novi adfers sed idem quod saepe, tamen hoc audio libentius quo saepius, eoque mihi iucundius est quod tu eo laetaris certiusque eo est quod a te dicitur.",
+      "eng": "So they have now been given, and there is no turning back for you --- oh, if you only knew at what risk to yourself! Or perhaps my letter has held you up; but you had not yet read it when you wrote this last one. So I am eager to know how the affair stands. About Brutus's affection and your walks together --- though you bring me nothing new, but the same as you have often said, still the more often I hear it, the more gladly; and it gives me the keener pleasure that you yourself take pleasure in it, and the more certain because it is you who say it.",
+      "notes": null
+    }
+  ]
+}

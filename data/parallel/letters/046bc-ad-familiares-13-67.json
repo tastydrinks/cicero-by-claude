@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-67",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.67",
+  "title_english": "Ad Familiares 13.67",
+  "date": "-0046-12-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ex provincia mea Ciliciensi, cui scis trei=s dioikh/seis Asiaticas adtributas fuisse, nullo sum familiarius usus quam Androne, Artemonis filio, Laudicensi, eumque habui in ea civitate cum hospitem tum vehementer ad meae vitae rationem et consuetudinem accommodatum ; quem quidem multo etiam pluris postea quam decessi facere coepi, quod multis rebus expertus sum gratum hominem meique memorem. itaque eum Romae libentissime vidi ; non te enim fugit, qui plurimis in ista provincia benigne fecisti, quam multi grati reperiantur.",
+      "eng": "Out of my province of Cilicia --- to which, as you know, three Asiatic districts [Greek: treis dioikēseis] had been attached --- I was on closer terms with no one than with Andro son of Artemo, of Laodicea, and I had him in that community both as a host and as a man very well suited to the manner and habits of my own life. Indeed I came to value him much more highly after I had left, because I learned by many experiences that he is a man of gratitude and one who remembers me. Accordingly I was most glad to see him at Rome; for it does not escape you, who in that province have shown kindness to so very many, how few are found to be grateful.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "haec propterea scripsi, ut et me non sine causa laborare intellegeres et tu ipse eum dignum hospitio tuo iudicares. feceris igitur mihi gratissimum, si ei declararis quanti me facias, id est si receperis eum in fidem tuam et quibuscumque rebus honeste ac sine molestia tua poteris adiuveris. hoc mihi erit vehementer gratum idque ut facias te etiam atque etiam rogo.",
+      "eng": "I have written this so that you might understand that my concern is not idle, and that you yourself might judge him worthy of your hospitality. You will therefore do me a most welcome service if you make plain to him how highly you value me --- that is, if you receive him into your protection and assist him in whatever ways you can do so honourably and without trouble to yourself. This will be deeply welcome to me, and I ask you again and again to do it.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-21",
+  "category": "letters",
+  "title_latin": "Ad Familiares 14.21",
+  "title_english": "Ad Familiares 14.21",
+  "date": "-0047-06-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. h. e. v. da operam ut convalescas, quod opus erit, ut res tempusque postulat, provideas atque administres et ad me de omnibus rebus quam saepissime litteras mittas . vale .",
+      "eng": "If you are well, it is well; I am well. Give your attention to recovering. As the matter and the moment demand, see ahead and manage what needs to be done, and send me letters on every subject as often as you possibly can. Farewell.",
+      "notes": null
+    }
+  ]
+}

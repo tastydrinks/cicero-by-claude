@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-17",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.17",
+  "title_english": "Ad Familiares 6.17",
+  "date": "-0044-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum ceterarum rerum causa cupio esse aliquando rem p. constitutam tum velim mihi credas accedere, id etiam quo magis expetam, promissum tuum, quo in litteris uteris;",
+      "eng": "While I want the commonwealth at last to be put on a firm footing for the sake of everything else, I want you also to believe me that, in my eagerness for it, this is an added reason: the promise you make in your letter;",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "scribis enim, si ita sit, te mecum esse victurum. gratissima mihi tua voluntas est facisque nihil alienum necessitudine nostra iudiciisque patris tui de me, summi viri. nam sic habeto, beneficiorum magnitudine eos, qui temporibus valuerunt ut valeant, coniunctiores tecum esse quam me, . necessitudine neminem. quam ob rem grata mihi est et memoria tua nostrae coniunctionis et eius etiam augendae voluntas",
+      "eng": "for you write that, if it should be so, you mean to spend your life with me. Your goodwill is most welcome to me, and you act in nothing foreign to our family connection and to the regard your father, a most distinguished man, had for me. For let this be settled: in size of obligation, those who have prospered at the times that have favoured them are more closely bound to you than I am; in family ties, no one is. I am glad, therefore, both that you remember the bond between us and that you wish even to strengthen it.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-13",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.13",
+  "title_english": "Ad Familiares 15.13",
+  "date": "-0050-01-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "maxime mihi fuit optatum Romae esse tecum multas ob causas sed praecipue ut et in petendo et in gerendo consulatu meum tibi debitum studium perspicere posses. ac petitionis quidem tuae ratio mihi semper fuit explorata, sed tamen navare operam volebam ; in consulatu vero cupio equidem te minus habere negoti, sed moleste fero me consulem tuum studium adulescentis perspexisse, te meum, cum id aetatis sim, perspicere non posse.",
+      "eng": "It was my dearest wish, for many reasons, to be at Rome with you, but above all so that you might observe my obligated zeal for you both during the canvass for the consulship and in the holding of it. As for the canvass itself, its outcome was always settled in my mind; but I still wanted to put effort into the cause. In your consulship, however, I do indeed wish you to have less business on your hands; but I am sorry that, as consul, I observed the zeal you brought me as a young man, and that you cannot observe mine, now that I am at the age I am.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed ita fato nescio quo contigisse arbitror ut tibi ad me ornandum semper detur facultas, mihi ad remunerandum nihil suppetat praeter voluntatem. ornasti consulatum, ornasti reditum meum . incidit meum tempus rerum gerendarum in ipsum consulatum tuum. itaque cum et tua summa amplitudo et dignitas et meus magnus honos magnaque existimatio postulare videatur ut a te plurimis verbis contendam ac petam ut quam honorificentissimum senatus consultum de meis rebus gestis faciendum cures, non audeo vehementer a te contendere, ne aut ipse tuae perpetuae consuetudinis erga me oblitus esse videar aut te oblitum putem.",
+      "eng": "But I suppose that, by some fate or other, the case stands thus: that you are always given the opportunity to lend lustre to me, and to me, in return, nothing is granted beyond the will. You lent lustre to my consulship; you lent lustre to my return. And now the moment of my own achievements happens to fall in the very year of your consulship. Accordingly --- though your supreme eminence and standing, together with the high honour and high estimation in which I find myself, would seem to demand that I press and beg you in the longest of terms to take it on yourself to procure that the senate's decree on my achievements be made in the most honorific terms --- still I do not dare press too hard, for fear I should either appear to have forgotten your unbroken practice toward me, or suppose that you have forgotten it.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "qua re, ut te velle arbitror, ita faciam atque ab eo, quem omnes gentes sciunt de me optime meritum, breviter petam. si alii consules essent, ad te potissimum, Paulle, mitterem ut eos mihi quam amicissimos redderes ; nunc cum tua summa potestas summaque auctoritas notaque omnibus nostra necessitudo sit, vehementer te rogo ut et quam honorificentissime cures decernendum de meis rebus gestis et quam celerrime. dignas res esse honore et gratulatione cognosces ex iis litteris, quas ad te et conlegam et senatum publice misi. omniumque mearum reliquarum rerum maximeque existimationis meae procurationem susceptam velim .habeas, in primisque tibi curae sit, quod abs te superioribus quoque litteris petivi, ne mihi tempus prorogetur. cupio te consulem videre omniaque quae spero cum absens tum etiam praesens te consule adsequi",
+      "eng": "I shall therefore act as I take it to be your wish: I shall present my request, briefly, to the man whom all the world knows to have deserved most well of me. If others were consuls, it is to you above all, Paullus, that I should be sending word, asking that you make them as friendly to me as possible. As it is, since you hold the supreme power and the supreme authority, and our connection is known to all, I urgently ask that you see to it both that the decree on my achievements be passed in the most honorific terms and that it be passed with the utmost speed. That my deeds are worthy of honour and public thanksgiving you will learn from the official dispatches I have sent to you, to your colleague, and to the Senate. And I should wish you to take in hand the management of all the rest of my affairs --- and above all of my reputation; and let it be your special care, as I asked also in my earlier letter, that my term not be prolonged. I long to see you as consul, and to obtain, in your consulship, everything that I hope for, both while absent and again when I am there in person.",
+      "notes": null
+    }
+  ]
+}

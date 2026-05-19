@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-18",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.18",
+  "title_english": "Ad Atticum 12.18",
+  "date": "-0045-03-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "dum recordationes fugio quae quasi morsu quodam dolorem efficiunt, refugio ad te admonendum. quod velim mihi ignoscas, cuicuimodi est. etenim habeo non nullos ex iis quos nunc lectito auctores qui dicant fieri id oportere quod saepe tecum egi et quod a te approbari volo, de fano illo dico, de quo tantum quantum me amas velim cogites. equidem neque de genere dubito (placet enim mihi Cluati) neque de re (statutum est enim), de loco non numquam. velim igitur cogites. ego , quantum his temporibus tam eruditis fieri potuerit, profecto illam consecrabo omni genere monimentorum ab omnium ingeniis sumptorum et Graecorum et Latinorum. quae res forsitan sit refricatura vulnus meum. sed iam quasi voto quodam et promisso me teneri puto, longumque illud tempus cum non ero magis me movet quam hoc exiguum, quod mihi tamen nimium longum videtur. habeo enim nihil temptatis rebus omnibus in quo acquiescam. nam dum illud tractabam de quo ad te ante scripsi, quasi fovebam dolores meos; nunc omnia respuo nec quicquam habeo tolerabilius quam solitudinem; quam, quod eram veritus, non obturbavit Philippus. nam ut heri me salutavit, statim Romam profectus est.",
+      "eng": "While I am running from the recollections that work my grief as if by a kind of biting, I run back to reminding you. Forgive me for it, whatever its quality. For I have some authors among those I now read intently who say that what I have so often urged on you ought to be done --- the thing I want you to approve --- I mean about the shrine, of which I would have you take such thought as the measure of your love for me. For my part I have no doubt about the kind (Cluatius's design pleases me) nor about the fact of it (that is settled); about the site I sometimes do. Take thought of it, then. As for me, so far as it can be done in times so cultivated as ours, I shall surely consecrate her with every kind of memorial drawn from the inventions of every mind, Greek and Latin alike. The thing may perhaps go to chafing my wound open again. But by now I think myself held by what is almost a vow and a promise, and that long stretch of time when I shall not be moves me more than this short stretch, which even so seems to me too long. For after trying everything, I have nothing in which I can come to rest. While I was at work on that other project I wrote to you about before, I was as it were nursing my griefs. Now I spit everything out, and I have nothing more tolerable than solitude --- which Philippus, as I had feared, did not disturb. For after greeting me yesterday he set out at once for Rome.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "epistulam quam ad Brutum, ut tibi placuerat, scripsi misi ad te. curabis cum tua perferendam. eius tamen misi ad te exemplum ut, si minus placeret, ne mitteres.",
+      "eng": "The letter I wrote to Brutus, as you wished, I have sent to you. Take care that it is delivered along with yours. I have nonetheless sent you a copy, so that if you like it less you need not send it.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "domestica quod ais ordine administrari scribes quae sint ea. quaedam enim exspecto. Cocceius vide ne frustretur. nam Libo quod pollicetur, ut Eros scribit, non incertum puto. de sorte mea Sulpicio confido et Egnatio scilicet. de Appuleio quid est quod labores, cum sit excusatio facilis?",
+      "eng": "As to your saying that my household affairs are being managed in order, write me what they are. For there are certain things I am awaiting. See that Cocceius does not put me off. As for what Libo promises, by what Eros writes, I take it for no uncertainty. For my own principal I trust Sulpicius --- and Egnatius, of course. About Appuleius, what need to trouble yourself, when the excuse is easy?",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "tibi ad me venire, ut ostendis, vide ne non sit facile. est enim longum iter discedentemque te, quod celeriter tibi erit fortasse faciendum, non sine magno dolore dimittam. sed omnia ut voles. ego enim quicquid feceris id cum recte tum etiam mea causa factum putabo.",
+      "eng": "As for your coming to me, as you propose --- see that it is not awkward. For the road is long, and when you departed --- as you might perhaps have to do quickly --- I would not part with you without great pain. But all as you wish. For whatever you do I shall think both rightly done and done for my sake as well.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-10",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.10",
+  "title_english": "Ad Atticum 13.10",
+  "date": "-0045-06-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "minime miror te et graviter ferre de Marcello et plura vereri periculi genera. quis enim hoc timeret quod neque acciderat antea nec videbatur natura ferre ut accidere posset? omnia igitur metuenda. sed illud παρὰ τὴν ἱστορίαν , tu praesertim, me reliquum consularem. quid ? tibi Servius quid videtur? quamquam hoc nullam ad partem valet scilicet, mihi praesertim qui non minus bene actum cum illis putem. quid enim sumus aut quid esse possumus? domin an foris? quod nisi mihi hoc venisset in mentem scribere ista nescio quae, quo verterem me non haberem.",
+      "eng": "I am not in the least surprised that you take Marcellus' death hard, and that you fear more than one kind of danger now. For who could have feared a thing of this kind --- one that had never happened before, and seemed by its very nature incapable of happening? So everything is to be feared. But that other thing is against the record [Greek: para ten historian] --- coming from you, particularly --- that I am the last consular left. What of it? What is your view of Servius? Though of course this counts to neither side, especially for me, who think that those others have not been so badly served. For what are we, or what can we be? At home or in public? And had it not come into my head to write these things, whatever they are, I should have had nowhere to turn.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ad Dolabellam, ut scribis, ita puto faciendum, κοινότερα quaedam et πολιτικώτερα . faciendum certe aliquid est; valde enim desiderat.",
+      "eng": "As to Dolabella, your advice is right --- I think it must be done, something rather public, rather political [Greek: koinotera ... politikotera]. Something certainly must be done; he is very keen for it.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Brutus si quid egerit, curabis ut sciam; cui quidem quam primum agendum puto, praesertim si statuit. sermunculum enim omnem aut restinxerit aut sedarit. sunt enim qui loquantur etiam mecum. sed haec ipse optime, praesertim si etiam tecum loquetur. mihi est in animo proficisci xi Kal. hic enim nihil habeo quod agam, ne hercule illic quidem nec usquam sed tamen aliquid illic. hodie Spintherem exspecto. misit enim Brutus ad me. per litteras purgat Caesarem de interitu Marcelli; in quem ne si insidiis quidem ille interfectus esset caderet ulla suspicio. nunc vero cum de Magio constet, nonne furor eius causam omnem sustinet? plane quid sit non intellego. explanabis igitur. quamquam nihil habeo quod dubitem nisi ipsi Magio quae fuerit causa amentiae; pro quo quidem etiam sponsor sum factus. et nimirum id fuit. solvendo enim non erat. credo eum petisse a Marcello aliquid et illum, †aut erat†, constantius respondisse.",
+      "eng": "If Brutus does anything, you will see to it that I know; and indeed I think he ought to act as soon as possible, especially if he has made up his mind. He will either quench the gossip altogether or quiet it down. For there are people who talk about it even to me. But he himself knows best, especially if he is going to talk it over with you too. I plan to set out on the eleventh before the Kalends. For here I have nothing to do, nor by Hercules anything there either, nor anywhere; but still, something there. Today I am waiting for Spinther --- Brutus has sent him to me. In his letter he clears Caesar of Marcellus' death; on whom not a breath of suspicion would fall even if it had been assassination. As it is, with the case against Magius established, does not his own madness account for the whole affair? I plainly do not understand what it amounts to. You will explain, then. Yet I have no doubt of anything except what cause of derangement Magius himself had --- a man for whom I had even gone surety. And that no doubt was the reason: he was insolvent. I suppose he had asked Marcellus for something and Marcellus, †---†, had answered with more firmness than he liked.",
+      "notes": null
+    }
+  ]
+}

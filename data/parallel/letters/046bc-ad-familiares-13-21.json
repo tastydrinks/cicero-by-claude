@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-21",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.21",
+  "title_english": "Ad Familiares 13.21",
+  "date": "-0046-02-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "M. Aemilius Avianius ab ineunte adulescentia me observavit semperque dilexit, vir cum bonus tum perhumanus et in omni genere offici diligendus. quem si arbitrarer esse Sicyone et nisi audirem ibi eum etiam nunc, ubi ego reliqui, Cibyrae commorari, nihil esset necesse plura me ad te de eo scribere ; perficeret enim ipse profecto suis moribus suaque humanitate ut sine cuiusquam commendatione diligeretur abs te non minus quam et a me et a ceteris suis familiaribus.",
+      "eng": "M. Aemilius Avianius has shown me regard from his earliest youth and has always been fond of me --- a man both good and exceedingly civilised, and one to be cherished in every kind of friendly office. If I supposed him to be at Sicyon, and if I had not been hearing that he is still lingering there at Cibyra, where I left him, there would be no need for me to write you more about him; for he would surely accomplish, by his own character and his courtesy, that without anyone's recommendation he should be cherished by you no less than he is by me and by the rest of his intimates.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed cum illum abesse putem, commendo tibi in maiorem modum domum eius quae est Sicyone remque familiarem, maxime C. Avianium Hammonium, libertum eius, quem quidem tibi etiam suo nomine commendo. nam cum propterea mihi est probatus, quod est in patronum suum officio et fide singulari, tum etiam in me ipsum magna officia contulit mihique molestissimis temporibus ita fideliter benevoleque praesto fuit, ut si a me manumissus esset. itaque peto a te ut eum Hammonium et in patroni eius negotio sic tueare ut eius procuratorem, quem tibi commendo, et ipsum suo nomine diligas habeasque in numero tuorum. hominem pudentem et officiosum cognosces et dignum qui a te diligatur. vale .",
+      "eng": "But since I take it that he is away, I most particularly commend to you his household at Sicyon and his estate, and above all C. Avianius Hammonius, his freedman, whom indeed I commend to you also on his own account. For he is approved by me both because he is unmatched in his dutifulness and good faith toward his patron, and because he has done me, personally, great services and in my most distressing season stood by me with such fidelity and good will, as if he had been freed by my own hand. And so I ask of you that you protect this Hammonius both in his patron's business --- as his patron's agent, whom I commend to you in that capacity --- and that you also cherish him in his own name and count him among your own. You will find him a man modest and dutiful, and worthy to be cherished by you. Farewell.",
+      "notes": null
+    }
+  ]
+}

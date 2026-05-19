@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-12",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.12",
+  "title_english": "Ad Atticum 13.12",
+  "date": "-0045-06-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "valde me memorderunt epistulae tuae de Attica nostra; eaedem tamen sanaverunt. quod enim te ipse consolabare eisdem litteris, id mihi erat satis firmum ad leniendam aegritudinem.",
+      "eng": "Your letters about our Attica bit me hard; the same letters, however, also healed me. For the consolation you offered yourself in the very same letter was enough, for me, to soften the pain.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Ligarianam praeclare vendidisti. posthac quicquid scripsero tibi praeconium deferam.",
+      "eng": "The Ligariana you have sold splendidly. Hereafter whatever I write I shall hand over to you as my crier.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod ad me de Varrone scribis, scis me antea orationes aut aliquid id genus solitum scribere ut Varronem nusquam possem intexere. postea autem quam haec coepi φιλολογώτερα , iam Varro mihi denuntiaverat magnam sane et gravem προσφώνησιν . biennium praeteriit cum ille Καλλιπίδησ adsiduo cursu cubitum nullum processerit, ego autem me parabam ad id quod ille mihi misisset ut αὐτῷ τῷ μέτρῳ καὶ , si modo potuissem; nam hoc etiam Hesiodus ascribit, αἴ κε δύνηαι . nunc illam περὶ Τελῶν σύνταξιν sane mihi probatam Bruto, ut tibi placuit, despondimus, idque tu eum non nolle mihi scripsisti. ergo illam Ἀκαδημικήν , in qua homines nobiles illi quidem sed nullo modo philologi nimis acute loquuntur, ad Varronem transferamus. etenim sunt Antiochia quae iste valde probat. Catulo et Lucullo alibi reponemus, ita tamen si tu hoc probas; deque eo mihi rescribas velim.",
+      "eng": "As to what you write to me about Varro: you know that previously I used to write speeches, or that sort of thing, in such a way that I could nowhere weave Varro in. After I began on these more scholarly things [Greek: philologotera], Varro had already been giving me notice of a very large and weighty address [Greek: prosphonesin]. A two-year stretch has gone by during which our friend Callippides [Greek: Kallippides], for all his nonstop running, has not moved one cubit forward; while I, for my part, was getting myself ready for whatever he might send me, to repay him in the same measure [Greek: auto to metro kai] --- if at any rate I could. For Hesiod, too, adds this: ``if you can'' [Greek: ai ke dunai]. Now that Treatise on Ends [Greek: peri Telon syntaxin] I am rather pleased with, and we have, at your suggestion, promised to Brutus; and you wrote to me that he was not unwilling. So that Academic work [Greek: Akademiken] --- in which those characters, men of high station certainly but no philologists, talk too cleverly --- let us transfer to Varro. There are Antiochean doctrines in it which he warmly approves. Catulus and Lucullus we shall set down elsewhere --- provided you approve of this; on which I should like you to write back to me.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de Brinniana auctione accepi a Vestorio litteras. ait sine ulla controversia rem ad me esse conlatam. Romae videlicet aut in Tusculano me fore putaverunt a. d. viii Kal. Quint. dices igitur vel amico tuo S. Vettio coheredi meo vel Labeoni nostro paulum proferant auctionem; me circiter Nonas in Tusculano fore. cum Pisone Erotem habes. de Scapulanis hortis toto pectore cogitemus. dies adest.",
+      "eng": "About the Brinnian auction I have had a letter from Vestorius. He says the matter has been referred to me without any dispute. They evidently thought I would be at Rome or at the Tusculanum on the eighth day before the Kalends of Quintilis. You will tell, then, either your friend S.~Vettius, my co-heir, or our Labeo, to put the auction off a little; I shall be at the Tusculanum around the Nones. As for Piso, you have Eros. About the Scapulan gardens, let us think with our whole heart. The day is at hand.",
+      "notes": null
+    }
+  ]
+}

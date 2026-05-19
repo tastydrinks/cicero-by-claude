@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-12",
+  "category": "letters",
+  "title_latin": "Ad Atticum 14.12",
+  "title_english": "Ad Atticum 14.12",
+  "date": "-0044-04-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "o mi Attice, vereor ne nobis Idus Martiae nihil dederint praeter laetitiam et odi poenam ac doloris. quae mihi istim adferuntur! quae hic video! ὢ . scis quam diligam Siculos et quam illam clientelam honestam iudicem. multa illis Caesar neque me invito, etsi Latinitas erat non ferenda. verum tamen—. ecce autem Antonius accepta grandi pecunia fixit legem a dictatore comitiis latam qua Siculi cives Romani; cuius rei vivo illo mentio nulla. quid ? Deiotari nostri causa non similis? dignus ille quidem omni regno sed non per Fulviam. sescenta similia. verum illuc me refero. tam claram tamque testatam rem tamque iustam Buthrotiam non tenebimus aliqua ex parte? et eo quidem magis quo iste plura? nobiscum hic perhonorifice et peramice Octavius.",
+      "eng": "O my Atticus, I am afraid the Ides of March have given us nothing beyond the joy and the satisfaction of our hatred and pain. What is brought to me from your end! What I see here! Oh! [Greek: \\=o]. You know how I love the Sicilians and what an honourable client-relation I judge that to be. Caesar gave them many favours --- not against my wishes, though the grant of Latin status was a step too far. Yet even so ---. But now look: Antony, having taken a large sum of money, has posted up a law carried by the dictator before the assembly, by which the Sicilians become Roman citizens --- a matter of which, in his lifetime, there was no mention. And what of our Deiotarus? Is his case not similar? He deserves any kingdom, certainly --- but not through Fulvia. Six hundred more of the same kind. But I come back to my point. So plain a matter, so well attested, so just, the Buthrotian case --- shall we not carry it at least in part? --- and all the more, given how many things he is carrying through? Octavius is here with us, most respectful and most friendly.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quem quidem sui Caesarem salutabant, Philippus non, itaque ne nos quidem; quem nego posse esse bonum civem. ita multi circumstant qui quidem nostris mortem minitantur. negant haec ferri posse. quid censes cum Romam puer venerit ubi nostri liberatores tuti esse non possunt? qui quidem semper erunt clari, conscientia vero facti sui etiam beati. sed nos, nisi me fallit, iacebimus. itaque exire aveo ubi nec Pelopidarum, inquit. haud amo vel hos designatos qui etiam declamare me coegerunt, ut ne apud aquas quidem acquiescere liceret. sed hoc meae nimiae facilitatis. nam id erat quondam quasi necesse, nunc, quoquo modo se res habet, non est item.",
+      "eng": "His own men were addressing him as Caesar; Philippus did not, and so neither did we; and I deny that he can be a good citizen. So many men stand around him who threaten our people with death, and they say these things cannot be borne. What do you suppose will happen when the boy comes to Rome, where our liberators cannot be safe? They will always be illustrious, true; in the consciousness of their deed, even blessed. But we, unless I am mistaken, will be flat on our backs. So I long to leave for a place where, as the saying goes, neither the Pelopidae's name . . . I do not much care either for these consuls-designate, who have even forced me to declaim --- so that there is no rest for me even at the baths. But this is my too-easy nature. For once such a thing was a kind of necessity; now, however matters stand, it is not the same.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quam dudum nihil habeo quod ad te scribam! scribo tamen non ut delectem his litteris sed ut eliciam tuas. tu si quid erit de ceteris, de Bruto utique quicquid. haec conscripsi x Kal. accubans apud Vestorium, hominem remotum a dialecticis, in arithmeticis satis exercitatum.",
+      "eng": "How long since I have had anything to write you about! Yet I write, not to give pleasure with this letter but to draw out one of yours. If there is any news about the others --- and about Brutus, anything at all. I have written this on the tenth day before the Kalends, reclining at Vestorius's table, a man remote from dialectic, in arithmetic well practised enough.",
+      "notes": null
+    }
+  ]
+}

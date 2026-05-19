@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-13",
+  "category": "letters",
+  "title_latin": "Ad Familiares 3.13",
+  "title_english": "Ad Familiares 3.13",
+  "date": "-0050-08-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quasi divinarem tali in officio fore mihi aliquando ex petendum studium tuum, sic, cum de tuis rebus gestis agebatur, inserviebam honori tuo; dicam tamen vere: plus quam acceperas reddidisti. quis enim ad me non perscripsit te non solum auctoritate orationis, sententia tua, quibus ego a tali viro contentus eram, sed etiam opera, consilio, domum veniendo, conveniendis meis nullum onus offici cuiquam reliquum fecisse? haec mihi ampliora multo sunt quam illa ipsa, propter quae haec laborantur.",
+      "eng": "As if I had foreseen that at some such moment I should be needing your zeal for me in this kind of office, so when the matter of your acts and standing was in hand, I was busy serving your honour; and yet I will say plainly: you have returned me more than you received. For who has not written to me of how you, not only by the authority of your speaking and by your vote --- with which I, coming from such a man, was content --- but even by your active service, your counsel, by coming to my house and meeting with my people, left no duty of friendship for anyone else to discharge? These things are far ampler to me than the very things on whose account they were undertaken.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "insignia enim virtutis multi etiam sine virtute adsecuti sunt, talium virorum tanta studia adsequi sola virtus potest. itaque mihi propono fructum amicitiae nostrae ipsam amicitiam, qua nihil est uberius, praesertim in iis studiis, quibus uterque nostrum devinctus est. nam tibi me profiteor et in re publica socium, de qua idem sentimus, et in cotidiana vita coniunctum, quam his artibus studiisque colimus. vellem ita fortuna tulisset, ut, quanti ego omnis tuos facio, tanti tu meos facere posses, quod tamen ipsum nescio qua permotus animi divinatione non despero. sed hoc nihil ad te; nostrum est onus. illud velim sic habeas, quod intelleges hac re novata additum potius aliquid ad meum erga te studium, quo nihil videbatur addi posse, quam quicquam esse detractum Cum haec scribebam, censorem iam te esse sperabam. eo brevior est epistula et ut adversus magistrum morum modestior.",
+      "eng": "For the outward marks of virtue many have attained even without virtue; the zeal of such men as you, virtue alone can attain. So I set before myself, as the fruit of our friendship, our friendship itself --- than which nothing is richer, especially in those pursuits to which each of us is bound. For I declare myself bound to you both as a partner in the commonwealth, of which we hold the same opinion, and as a companion in daily life, which we cultivate by these arts and pursuits. I could wish fortune had so disposed that, as I rate all your people at the value I do, so you should be able to rate all of mine; and yet --- moved I know not by what divination of the spirit --- I do not despair of it even now. But this is nothing to you; the burden is mine. This much, however, I would have you take for granted: that, as you will discern, by this new tie something has rather been added to my zeal toward you --- to which it seemed nothing could be added --- than that anything has been taken away. When I was writing this, I was hoping that you were already censor. The letter, on that account, is the shorter, and the more modest --- as addressed to a master of public manners.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-16-13",
+  "category": "letters",
+  "title_latin": "Ad Atticum 16.13",
+  "title_english": "Ad Atticum 16.13",
+  "date": "-0044-11-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "o casum mirificum! v Idus cum ante lucem de Sinuessano surrexissem venissemque diluculo ad pontem Tirenum qui est Menturnis, in quo flexus est ad iter Arpinas, obviam mihi fit tabellarius, qui me offendit δολιχὸν πλόον ὁρμαίνοντα . at ego statim cedo inquam si quid ab Attico. nondum legere poteramus; nam et lumina dimiseramus nec satis lucebat. cum autem luceret, ante scripta epistula ex duabus tuis prior mihi legi coepta est. illa omnium quidem elegantissima. ne sim salvus si aliter scribo ac sentio. nihil legi humanius. itaque veniam quo vocas, modo adiutore te. sed nihil tam ἀπροσδιόνυσον mihi primo videbatur quam ad eas litteras quibus ego a te consilium petieram te mihi ista rescribere.",
+      "eng": "What a remarkable coincidence! On the fifth before the Ides, having risen before dawn at the Sinuessanum and come at first light to the Tirenus bridge by Minturnae, where the road bends off toward Arpinum, your courier ran into me --- caught me ``pondering a long voyage'' [Greek: dolichon ploon hormainonta]. ``Come,'' I said at once, ``hand over anything from Atticus.'' We could not read yet --- we had let the lamps go and it was not light enough. But when it grew light, the earlier of your two letters, written first, was read to me. The most graceful of any --- may I not be well if I write otherwise than I feel: I have read nothing more human. So I shall come where you call --- only with you for an aide. But nothing seemed at first more off-key [Greek: aprosdionuson] to me than that to the letter in which I had asked your advice you should write back to me as you did.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ecce tibi altera qua hortaris παρ' ἠνεμόεντα Μίμαντα, Appiam scilicet ἐπ' ἀριστέρ' ἔχοντα. itaque eo die mansi Aquini. longulum sane iter et via mala. inde postridie mane proficiscens has litteras dedi.",
+      "eng": "And now look --- the second, in which you urge me ``past windy Mimas'' [Greek: par' ēnemoenta Mimanta] --- that is, keeping the Appian Way on my left [Greek: ep' arister' echonta]. So I stayed that day at Aquinum --- a longish stretch and a bad road. Setting out next morning I have despatched this letter.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "* * * et quidem, ut a me dimitterem invitissimus fecerunt Erotis litterae. rem tibi Tiro narrabit. tu quid faciendum sit videbis. praeterea possimne propius accedere (malo enim esse in Tusculano aut uspiam in suburbano) an etiam longius discedendum putes crebro ad me velim scribas. erit autem cotidie cui des.",
+      "eng": "* * * And indeed it was much against my will that Eros's letter made me let him go. Tiro will tell you the matter. You will see what is to be done. Apart from that, whether I may come closer --- for I would rather be at the Tusculanum or somewhere in the suburbs --- or whether you think I should withdraw even further, please write to me often. There will be someone every day to whom you can hand a letter.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quod praeterea consulis, quid tibi censeam faciundum difficile est cum absim. verum tamen si pares aeque inter se, quiescendum, sin, latius manabit et quidem ad nos; deinde communiter.",
+      "eng": "As for the other matter on which you consult me, what I would judge you should do --- that is hard, being away. Still: if they are evenly matched, sit still; if not, the trouble will spread further --- and to us too; then we act together.",
+      "notes": null
+    }
+  ]
+}

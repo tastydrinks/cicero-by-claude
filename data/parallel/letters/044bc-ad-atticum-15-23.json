@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-23",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.23",
+  "title_english": "Ad Atticum 15.23",
+  "date": "-0044-06-25",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "mirifice torqueor, sine dolore tamen; sed permulta mihi de nostro itinere in utramque partem occurrunt. quousque ? inquies. quoad erit integrum; erit autem usque dum ad navem. Pansa si tuae rescripserit, et meam tibi et illius epistulam mittam. Silium exspectabam; cui hypomnema compositum, si quid novi. ego litteras misi ad Brutum. cuius de itinere etiam ex te velim si quid scies cognoscere.",
+      "eng": "I am racked exceedingly, yet without pain; but a great many considerations occur to me about our journey, on either side. ``How long?'' you will say. As long as the matter is still open; and it will be open until I am at the ship. If Pansa replies to your letter, I shall send you both my own letter and his. I was expecting Silius; for him I have put together a memorandum [Greek: hypomn\\=ema] in case there is any new development. I have sent a letter to Brutus. About his journey I should be glad to learn from you also, if you know anything.",
+      "notes": null
+    }
+  ]
+}

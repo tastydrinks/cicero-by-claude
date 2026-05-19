@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-15",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.15",
+  "title_english": "Ad Familiares 6.15",
+  "date": "-0044-03-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "tibi gratulor, mihi gaudeo; te amo, tua tueor; a te amari et quid agas quidque agatur certior fieri volo.",
+      "eng": "I congratulate you, I rejoice for myself; I love you, I look after what is yours; I wish to be loved by you and to be informed what you are doing and what is being done.",
+      "notes": null
+    }
+  ]
+}

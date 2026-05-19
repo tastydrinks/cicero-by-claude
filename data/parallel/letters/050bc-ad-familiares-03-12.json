@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-12",
+  "category": "letters",
+  "title_latin": "Ad Familiares 3.12",
+  "title_english": "Ad Familiares 3.12",
+  "date": "-0050-08-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gratulabor tibi prius; ita enim rerum ordo postulat; deinde ad me convertar. ego vero vehementer gratulor de iudicio ambitus, neque id, quod nemini dubium fuit, absolutum esse te, sed illud, quod, quo melior civis, quo vir clarior, quo fortior amicus es, quoque plura virtutis, industriae ornamenta in te sunt, eo mirandum est magis nullam ne in tabellae quidem latebra fuisse absconditam malevolentiam, quae te impugnare auderet. non horum temporum, non horum hominum atque morum negotium! nihil iam sum pridem admiratus magis.",
+      "eng": "I shall congratulate you first; for the order of things requires it; then I shall turn to myself. I do indeed congratulate you most warmly on the verdict in the ambitus case --- not for what no one had a moment's doubt about, that you were acquitted, but for this: that --- the better citizen you are, the more illustrious a man, the stronger as a friend, the more ornaments of virtue and industry are heaped upon you --- by so much the more must one marvel that no malice should have lurked, even in the secrecy of the ballot, that dared to assail you. It is no business of these times, of these people, or of these manners! Nothing for a long while now has so astonished me.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de me autem suscipe paulisper meas partis et eum te esse finge, qui sum ego. si facile inveneris, quid dicas, noli ignoscere haesitationi meae. ego vero velim mihi Tulliaeque meae, sicut tu amicissime et suavissime optas, prospere evenire ea, quae me insciente facta sunt a meis; sed ita cecidisse, ut agerentur eo tempore! spero omnino cum aliqua felicitate et opto, verum tamen plus me in hac spe tua sapientia et humanitas consolatur quam opportunitas temporis. itaque , quem ad modum expediam exitum huius institutae orationis, non reperio; neque enim tristius dicere quicquam debeo ea de re, quam tu ipse ominibus optimis prosequeris, neque non me tamen mordet aliquid. in quo unum non vereor, ne tu parum perspicias ea, quae gesta sunt, ab aliis esse gesta; quibus ego ita mandaram, ut, cum tam longe afuturus essem, ad me ne referrent; agerent, quod probassent.",
+      "eng": "As to my own affairs, take on for a moment the part I play, and imagine yourself to be who I am. If you find it easy to say what to say, you needn't make any allowance for my hesitation. For my own part, I should like things to turn out well for me and for my Tullia, just as you in the friendliest and gentlest spirit wish for us, in what has been done in my absence by my people; only --- that it should have fallen out to be done at this moment! In general I hope, with some good fortune, and I pray; but in fact your wisdom and humanity comfort me in this hope more than the timing did. And so I do not find how to bring my opening to an end; for nothing more sombre ought I to say in the matter, which you yourself accompany with the best of omens, and yet still something nags at me. In which I have just one fear: that you may not see clearly enough that what has been done was done by others. To whom indeed I had given orders that, since I was going to be so far off, they should not refer the question back to me; let them act on whatever course they had judged best.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "in hoc autem mihi illud occurrit: ' quid tu igitur, si adfuisses?' rem probassem, de tempore nihil te invito, nihil sine consilio egissem tuo. vides sudare me iam dudum laborantem, quo modo ea tuear, quae mihi tuenda sunt, et te non offendam. leva me igitur hoc onere; numquam enim mihi videor tractasse causam difficiliorem. sic habeto tamen: Nisi iam tunc omnia negotia cum summa tua dignitate diligentissime confecissem, tametsi nihil videbatur ad meum erga te pristinum studium addi posse, tamen hac mihi adfinitate nuntiata non maiore equidem studio, sed acrius, apertius, significantius dignitatem tuam defendissem.",
+      "eng": "But here this occurs to me: ``What of you, then, if you had been there?'' I would have approved the man; on the timing, nothing without your consent, nothing without your counsel. You see me sweating now for some time, labouring how I may safeguard what I have to safeguard, and yet not give you offence. Lift me, then, of this burden; for never do I think I have handled a more difficult case. But of this, be sure: even had I not at that moment already done all the business in the most assiduous fashion for the support of your standing --- although it seemed nothing could be added to my long-standing zeal toward you --- still, when this connection of marriage was announced to me, I would have defended your standing not with greater zeal indeed, but more vigorously, more openly, with greater emphasis.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "decedenti mihi et iam imperio annuo terminato ante 4 d. III Nonas Sext., cum ad Sidam navi accederem et mecum Q. Servilius esset, litterae a meis sunt redditae. dixi statim Servilio (etenim videbatur esse commotus), ut omnia a me maiora exspectaret. quid multa? benevolentior tibi quam fui nilo sum factus, diligentior ad declarandam benevolentiam multo. nam , ut vetus nostra simultas antea stimulabat me ut caverem ne cui suspicionem ficte reconciliatae gratiae darem, sic adfinitas nova curam mihi adfert cavendi ne quid de summo meo erga te amore detractum esse videatur.",
+      "eng": "As I was on my way back, with my year of command now ended, on the fourth day before the Nones of August, when I was approaching Side by ship and Q. Servilius was with me, letters from my people were delivered. I said at once to Servilius (for he too seemed shaken) that he should expect from me only greater things. In short: better disposed to you than I was I have not become at all, but more attentive in showing my goodwill, by a great deal. For as our old quarrel formerly used to prick me into caution, lest I should give anyone the suspicion of a feigned reconciliation, so this new connection brings me a care of seeing to it that nothing should appear taken away from my deepest love toward you.",
+      "notes": null
+    }
+  ]
+}

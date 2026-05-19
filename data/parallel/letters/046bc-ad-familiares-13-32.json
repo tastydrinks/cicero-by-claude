@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-32",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.32",
+  "title_english": "Ad Familiares 13.32",
+  "date": "-0046-01-17",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "in Halaesina civitate tam lauta tamque nobili coniunctissimos habeo et hospitio et familiaritate M. et C. Clodios Archagathum et Philonem. sed vereor ne, quia compluris tibi praecipue commendo, exaequare videar ambitione quadam commendationes meas ; quamquam a te quidem cumulate satis fit et mihi et meis omnibus.",
+      "eng": "In the town of Halaesa, a place of such elegance and such standing, I have as my closest connections, both by ties of hospitality and by intimate friendship, the brothers Marcus and Gaius Clodius --- Archagathus and Philo. But I am afraid that, in commending several persons to you with particular emphasis, I may seem to be levelling out my recommendations by some sort of canvasser's habit --- though indeed where you are concerned my interest and that of all who belong to me is amply satisfied.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed velim sic existimes, hanc familiam et hos mihi maxime esse coniunctos vetustate, officiis, benevolentia. quam ob rem peto a te in maiorem modum ut iis omnibus in rebus, quantum tua fides dignitasque patietur, commodes. id si feceris, erit mihi vehementissime gratum.",
+      "eng": "Still, I should like you to believe this: that this family and these men in particular are bound to me by long-standing ties, by services rendered, and by good will. I therefore ask of you most earnestly that in all their affairs, so far as your scruple and your standing will allow, you assist them. If you do so, it will be deeply welcome to me.",
+      "notes": null
+    }
+  ]
+}

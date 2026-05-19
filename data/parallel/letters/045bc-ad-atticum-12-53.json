@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-53",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.53",
+  "title_english": "Ad Atticum 12.53",
+  "date": "-0045-05-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego etsi nihil habeo quod ad te scribam, scribo tamen quia tecum loqui videor. hic nobiscum sunt Nicias et Valerius. hodie tuas litteras exspectabamus matutinas. erunt fortasse alterae posmeridianae, nisi te Epiroticae litterae impedient quas ego non interpello. misi ad te epistulas ad Marcianum et ad Montanum. eas in eundem fasciculum velim addas, nisi forte iam dedisti.",
+      "eng": "Though I have nothing to write to you about, I write all the same, because I seem to be talking with you. Here with me are Nicias and Valerius. Today we were looking out for your morning letter. There will perhaps be a second in the afternoon --- unless the Epirote correspondence is holding you up, which I do not break in on. I have sent over to you the letters to Marcianus and to Montanus. Please add them into the same packet, unless by chance you have already despatched it.",
+      "notes": null
+    }
+  ]
+}

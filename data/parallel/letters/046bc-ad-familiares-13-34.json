@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-34",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.34",
+  "title_english": "Ad Familiares 13.34",
+  "date": "-0046-03-19",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Avitum mihi hospitium est cum Lysone, Lysonis filio, Lilybitano, valdeque ab eo observor cognovique dignum et patre et avo ; est enim nobilissima familia. quapropter commendo tibi maiorem in modum rem domumque eius magnoque opere abs te peto cures ut is intellegat meam commendationem maximo sibi apud te et adiumento et ornamento fuisse.",
+      "eng": "I have an inherited tie of hospitality with Lyso of Lilybaeum, the son of Lyso, and he shows me marked attention; I have come to know him as a man worthy both of his father and of his grandfather, for the family is one of the highest standing. I therefore commend to you in the strongest terms his fortunes and his household, and earnestly ask of you that you see to it that he understands my recommendation to have served him, with you, both as a help and as a mark of honour.",
+      "notes": null
+    }
+  ]
+}

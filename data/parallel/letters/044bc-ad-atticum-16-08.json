@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-16-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 16.8",
+  "title_english": "Ad Atticum 16.8",
+  "date": "-0044-11-02",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum sciam quo die venturus sim, faciam ut scias. impedimenta exspectanda sunt quae Anagnia veniunt et familia aegra est. Kal. vesperi litterae mihi ab Octaviano. magna molitur. veteranos qui sunt Casilini et Calatiae perduxit ad suam sententiam. nec mirum, quingenos denarios dat. cogitat reliquas colonias obire. plane hoc spectat ut se duce bellum geratur cum Antonio. itaque video paucis diebus nos in armis fore. quem autem sequamur? vide nomen, vide aetatem. atque a me postulat primum ut clam conloquatur mecum vel Capuae vel non longe a Capua. puerile hoc quidem, si id putat clam fieri posse. docui per litteras id nec opus esse nec fieri posse.",
+      "eng": "When I know the day on which I shall arrive, I shall let you know. The baggage that is coming from Anagnia must be waited for, and my household is unwell. On the evening of the Kalends a letter reached me from Octavian. He is undertaking great things. The veterans at Casilinum and Calatia he has brought over to his side --- no wonder, he is giving five hundred denarii apiece. He is thinking of going round the rest of the colonies. The plain aim is this: that under his leadership war should be waged with Antony. So I see we shall be in arms within a few days. But whom are we to follow? Look at the name, look at the age. And he asks of me, first of all, that I should confer with him in secret either at Capua or not far from Capua. A childish thing, this, if he thinks it can be done in secret. I have explained by letter that there is neither need nor possibility for it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "misit ad me Caecinam quendam Volaterranum familiarem suum; qui haec pertulit, Antonium cum legione Alaudarum ad urbem pergere, pecunias municipiis imperare, legionem sub signis ducere. consultabat utrum Romam cum ciↃ ciↃ ciↃ veteranorum proficisceretur an Capuam teneret et Antonium venientem excluderet an iret ad tris legiones Macedonicas quae iter secundum mare superum faciunt; quas sperat suas esse. eae congiarium ab Antonio accipere noluerunt, ut hic quidem narrat, et ei convicium grave fecerunt contionantemque reliquerunt. quid quaeris? ducem se profitetur nec nos sibi putat deesse oportere. equidem suasi ut Romam pergeret. videtur enim mihi et plebeculam urbanam et, si fidem fecerit, etiam bonos viros secum habiturus. o Brute, ubi es? quantam εὐκαιρίαν amittis! non equidem hoc divinavi sed aliquid tale putavi fore. nunc tuum consilium exquiro. Romamne venio an hic maneo an Arpinum ( ἀσφάλειαν habet is locus) fugiam? Romam, ne desideremur si quid actum videbitur. hoc igitur explica. numquam in maiore ἀπορίᾳ fui.",
+      "eng": "He sent to me one Caecina of Volaterrae, a friend of his, who brought this news: that Antony is marching on the city with the Alauda legion, is demanding moneys of the municipalities, is leading the legion under standards. Octavian was deliberating whether to set out for Rome with three thousand veterans, or to hold Capua and shut Antony out as he comes, or to go to the three Macedonian legions which are making their way along the upper sea --- legions which he hopes are his own. They refused the donative from Antony --- so this man tells the tale --- and gave him a heavy reviling, and walked out on him as he was addressing them. What more shall I say? He declares himself the leader and thinks we must not fail him. For my part, I urged him to push on to Rome. For he seems to me likely to have the city rabble on his side, and, if he can win their trust, the loyal citizens too. O Brutus, where are you? What a [Greek: eukairian] --- what an opportunity --- you are letting slip! I did not, indeed, divine this; but I thought something of the kind would come. Now I ask your counsel. Shall I come to Rome, or stay here, or flee to Arpinum (that place has its [Greek: asphaleian] --- its safety)? To Rome, lest I be missed if anything seems to be afoot. So unravel this for me. Never have I been in greater [Greek: aporia] --- in greater perplexity.",
+      "notes": null
+    }
+  ]
+}

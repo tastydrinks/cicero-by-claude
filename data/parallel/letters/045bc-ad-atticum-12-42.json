@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-42",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.42",
+  "title_english": "Ad Atticum 12.42",
+  "date": "-0045-05-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nullum a te desideravi diem litterarum; videbam enim quae scribis, et tamen suspicabar vel potius intellegebam nihil fuisse quod scriberes; a. d. vi Idus vero et abesse te putabam et plane videbam nihil te habere. ego tamen ad te fere cotidie mittam; malo enim frustra quam te non habere cui des, si quid forte sit quod putes me scire oportere. itaque accepi vi Idus litteras tuas inanis. quid enim habebas quod scriberes? mi tamen illud quicquid erat non molestum fuit, ut nihil aliud, scire me novi te nihil habere. scripsisti tamen nescio quid de Clodia. ubi ergo ea est aut quando ventura? placet mihi res sic ut secundum",
+      "eng": "I did not feel the want of any day's letter from you. For I saw what you write, and yet I suspected --- or rather understood --- that there was nothing to write of; and on the sixth day before the Ides I supposed you were away and saw plainly that you had nothing. Still I shall send to you almost every day; for I would rather send in vain than have you with no one to whom you may give a letter, in case there should happen to be anything you think I ought to know. So on the sixth day before the Ides I received your letter --- an empty one. For what did you have to write? Yet even that, such as it was, was not unwelcome to me: if nothing else, to know that nothing was new with you. Still you wrote something or other about Clodia. Where then is she, and when is she coming? The matter pleases me in such a way that next after",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Othonem nihil magis. sed neque hanc vendituram puto (delectatur enim et copiosa est), et illud alterum quam sit difficile te non fugit. sed , obsecro, enitamur ut aliquid ad id quod cupio excogitemus.",
+      "eng": "Otho nothing pleases me more. But I do not think this one will sell (she is taken with the place, and well off), and you have not failed to notice how hard the other business is. But, I beg of you, let us strive to think of something that will answer to what I want.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ego me hinc postridie id . exiturum puto sed aut in Tusculanum aut domum, inde fortasse Arpinum. cum certum sciero, scribam ad te.",
+      "eng": "I think I shall leave here on the day after the Ides --- but either for the Tusculanum or for the house, and from there perhaps to Arpinum. When I know for certain, I shall write to you.",
+      "notes": null
+    }
+  ]
+}

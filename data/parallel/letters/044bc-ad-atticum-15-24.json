@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-24",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.24",
+  "title_english": "Ad Atticum 15.24",
+  "date": "-0044-06-26",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "tabellarius quem ad Brutum miseram ex itinere rediit vii Kal. ei Servilia dixit eo die Brutum †his† profectum. sane dolui meas litteras redditas non esse. Silius ad me non venerat. causam composui; eum libellum tibi misi. te quo die exspectem velim scire.",
+      "eng": "The courier I had sent to Brutus came back en route on the seventh day before the Kalends. Servilia told him that Brutus had set out on that very day for \\dag his estate\\dag. I was truly sorry that my letter was not delivered. Silius had not come to me. I have drawn up the case; I have sent you the document. I should be glad to know on what day to expect you.",
+      "notes": null
+    }
+  ]
+}

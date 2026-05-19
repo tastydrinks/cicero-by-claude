@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-20",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.20",
+  "title_english": "Ad Familiares 16.20",
+  "date": "-0047-05-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "sollicitat , ita vivam, me tu a, mi Tiro, valetudo ; sed confido, si diligentiam quam instituisti adhibueris, cito te firmum fore. Libros compone ; indicem cum Metrodoro libebit, quoniam eius arbitratu vivendum est. Cum holitore, ut videtur. tu potes Kalendis spectare gladiatores, postridie redire, et ita censeo ; verum ut videbitur. cura te, si me amas, diligenter. vale .",
+      "eng": "As I live, my dear Tiro, your health gives me real anxiety; but I am confident that, if you keep up the regimen you have begun, you will soon be strong again. Get the books in order; the index when Metrodorus likes, since one must live by his judgment. With the greengrocer, as he thinks best. You may see the gladiators on the Kalends, come back the next day, and that is my advice --- but as he shall judge fit. Take care of yourself diligently, if you love me. Farewell.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-01",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.1",
+  "title_english": "Ad Atticum 13.1",
+  "date": "-0045-05-23",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ad Cicerone ita scripsisti ut neque severius neque temperatius scribi poterit nec magis quam quem ad modum ego maxime vellem; prudentissime etiam ad Tullios.",
+      "eng": "You have written to Cicero in such terms that nothing could have been written more firmly or more measuredly, nor more nearly as I myself would have most wished; and most prudently of all to the Tullii.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "qua re aut ista proficient aut aliud agamus. de pecunia vero video a te omnem diligentiam adhiberi vel potius iam adhibitam esse. quod si efficis, a te hortos habebo. nec vero ullum genus possessionis est quod malim, maxime scilicet ob eam causam quae suscepta est; cuius festinationem mihi tollis, quoniam de aestate polliceris vel potius recipis. deinde etiam ad καταβίωσιν maestitiamque minuendam nihil mihi reperiri potest aptius; cuius rei cupiditas impellit me interdum ut te hortari velim. sed me ipse revoco; non enim dubito quin, quod me valde velle putes, in eo tu me ipsum cupiditate vincas. itaque istuc iam pro facto habeo.",
+      "eng": "Either, then, this will have its effect, or we shall try something else. As to the money, I see that every diligence is being applied --- or rather has already been applied --- on your part. If you bring it off, I shall have the gardens from your hand. There is no kind of holding I should prefer, above all of course for that purpose which has been undertaken; you take away from me the haste of it, since you promise --- or rather, undertake --- for the summer. And then too, for the running out of life and for the lessening of grief, no fitter thing can be found for me; the longing for which sometimes drives me to want to urge you on. But I check myself: I do not doubt that, in whatever you suppose I greatly want, you will outrun even me in eagerness. So I count it already as done.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "exspecto quid istis placeat de epistula ad Caesarem. Nicias te, ut debet, amat vehementerque tua sui memoria delectatur. ego vero Peducaeum nostrum vehementer diligo; nam et quanti patrem feci, †totum in hunc† ipsum per se aeque amo atque illum amavi, te vero plurimum qui hoc ab utroque nostrum fieri velis. si hortos inspexeris et si de epistula certiorem me feceris, dederis mihi quod ad te scribam; si minus, scribam tamen aliquid. numquam enim deerit.",
+      "eng": "I am waiting to hear what those people think about the letter to Caesar. Nicias loves you, as he ought, and is much delighted by the memory you keep of him. As for our Peducaeus, I am very fond of him: as much as I valued the father, $\\dagger$wholly in this one$\\dagger$ I love him too, in himself, as much as I loved the other --- and you most of all, for wishing this to be done by each of us. If you have looked over the gardens and let me know about the letter, you will have given me something to write to you about; if not, I shall write something all the same. There will never be a lack.",
+      "notes": null
+    }
+  ]
+}

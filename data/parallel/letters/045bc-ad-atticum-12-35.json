@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-35",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.35",
+  "title_english": "Ad Atticum 12.35",
+  "date": "-0045-05-02",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ante quam a te proxime discessi, numquam mihi venit in mentem, quo plus insumptum in monimentum esset quam nescio quid quod lege conceditur, tantundem populo dandum esse. quod non magno opere moveret, nisi nescio quo modo, ἀλόγωσ fortasse, nollem illud ullo nomine nisi fani appellari. quod si volumus, vereor ne adsequi non possimus nisi mutato loco. hoc quale sit, quaeso, considera. nam etsi minus urgeor meque ipse prope modum conlegi, tamen indigeo tui consili. itaque te vehementer etiam atque etiam rogo magis quam a me vis aut pateris te rogari ut hanc cogitationem toto pectore amplectare.",
+      "eng": "Until I last left you, it had never come into my mind that, beyond whatever sum the law allows to be laid out on a monument, an equal sum must be given to the people. This would not greatly disturb me, except that, by some turn of feeling --- unreasonably [Greek: alog\\=os] perhaps --- I would not have it called by any name except a shrine. And if that is what we want, I fear we shall not be able to achieve it unless the site is changed. Please weigh how this stands. For although I am less hard pressed, and have nearly got myself in hand again, I still need your counsel. So I ask you, urgently and over and over, more than you wish or even suffer to be asked of you by me, to embrace this thought with your whole heart.",
+      "notes": null
+    }
+  ]
+}

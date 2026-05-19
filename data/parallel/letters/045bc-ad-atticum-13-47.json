@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-47",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.47",
+  "title_english": "Ad Atticum 13.47",
+  "date": "-0045-08-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "postea quam abs te, Agamemno, non ut venirem (nam id quoque fecissem nisi Torquatus esset) sed ut scriberem tetigit auris nuntius, extemplo instituta omisi; ea quae in manibus habebam abieci, quod iusseras edolavi. tu velim e Pollice cognoscas rationes nostras sumptuarias. turpe est enim nobis illum, qualiscumque est, hoc primo anno egere. post moderabimur diligentius. idem Pollex remittendus est ut ille cernat. plane Puteolos non fuit eundum cum ob ea quae ad te scripsi tum quod Caesar adest. Dolabella scribit se ad me postridie Idus. o magistrum molestum!",
+      "eng": "The moment your message touched my ears, Agamemnon --- not that I should come (for that too I should have done, were it not for Torquatus), but that I should write --- I dropped on the spot what I had begun, threw aside what I had in hand, and roughed out what you had ordered. You can learn the state of my accounts from Pollex. It is a disgrace, after all, that he, whatever sort he is, should be in want in this first year; later we shall keep a closer rein. Pollex himself must be sent back so that he may enter on the inheritance. There was plainly no going down to Puteoli, both for the reasons I have written you and because Caesar is at hand. Dolabella writes that he will be with me the day after the Ides. What a tiresome schoolmaster!",
+      "notes": null
+    }
+  ]
+}

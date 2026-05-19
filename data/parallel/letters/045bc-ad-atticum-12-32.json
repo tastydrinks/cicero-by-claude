@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-32",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.32",
+  "title_english": "Ad Atticum 12.32",
+  "date": "-0045-03-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Egnatius mihi scripsit. is si quid tecum locutus erit (commodissime enim per eum agi potest) ad me scribes, et id agendum puto. nam cum Silio non video confici posse. Piliae et Atticae salutem. haec ad te mea manu. vide , quaeso, quid agendum sit. Publilia ad me scripsit matrem suam, †cum Publilio loqueretur†, ad me cum illo venturam et se una, si ego paterer. orat multis et supplicibus verbis ut liceat et ut sibi rescribam. res quam molesta sit vides. rescripsi mi etiam gravius esse quam tum cum illi dixissem me solum esse velle; qua re nolle me hoc tempore eam ad me venire. putabam si nihil rescripsissem illam cum matre venturam; nunc non puto. apparebat enim illas litteras non esse ipsius. illud autem quod fore video ipsum volo vitare ne illae ad me veniant, et una est vitatio ut ego avolem . nollem , sed necesse est. te hoc nunc rogo ut explores ad quam diem hic ita possim esse ut ne opprimar. ages , ut scribis, temperate.",
+      "eng": "Egnatius has written to me. If he says anything to you --- for the matter can most conveniently be handled through him --- you will write to me, and I think we should go that way. For with Silius I do not see how it can be brought off. Greetings to Pilia and Attica. This part to you in my own hand. See, please, what is to be done. Publilia has written to me that her mother, \\dag having spoken with Publilius \\dag, will come to me with him, and she with them, if I will allow it. She begs in many and suppliant words that it be permitted, and that I write back to her. You see how trying the matter is. I wrote back that it was even harder for me now than when I had told her I wanted to be alone, and that for that reason I did not want her to come to me at this time. I had supposed that if I sent no answer she would come with her mother; now I do not think so --- for it was plain that letter was not hers. But the very thing I see about to happen, that they come to me, I want to head off; and there is one way of heading it off: that I fly the country. I would rather not, but it is necessary. So I am now asking you to find out up to what day I can stay here without being caught. You will manage, as you write, with restraint.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Ciceroni velim hoc proponas, ita tamen, si tibi non iniquum videbitur, ut sumptus huius peregrinationis quibus, si Romae esset domumque conduceret, quod facere cogitabat, facile contentus futurus erat, accommodet ad mercedes Argileti et Aventini, et cum ei proposueris, ipse velim reliqua moderere quem ad modum ex iis mercedibus suppeditemus ei quod opus sit. praestabo nec Bibulum nec Acidinum nec Messallam, quos Athenis futuros audio maiores sumptus facturos quam quod ex eis mercedibus recipietur. itaque velim videas primum conductores qui sint et quanti, deinde ut sint qui ad diem solvant et quid viatici, quid instrumenti satis sit. iumento certe Athenis nihil opus est. quibus autem in via utatur domi sunt plura quam opus erat, quod etiam tu animadvertis.",
+      "eng": "I would like you to put this to my son Cicero, provided it does not seem unfair to you: that he keep the expenses of this trip abroad --- which, if he were at Rome and were renting a house, as he had been thinking of doing, he would easily have been content with --- within the rents from the Argiletum and Aventine. When you have put it to him, please manage the rest yourself: in what way we are to supply him, out of those rents, with whatever he needs. I will warrant that neither Bibulus nor Acidinus nor Messalla, who I hear will be at Athens, will spend more than what comes in from those rents. So I should like you to see, first, who the tenants are and at what rate; then, that they be the kind who pay on the day; and what is enough for travel-money, what for outfit. Certainly there is no need of a beast of burden at Athens. As for those he might use on the road, there are more at home than were ever needed, as you yourself remark.",
+      "notes": null
+    }
+  ]
+}

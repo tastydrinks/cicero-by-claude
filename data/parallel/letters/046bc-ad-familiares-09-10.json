@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-10",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.10",
+  "title_english": "Ad Familiares 9.10",
+  "date": "-0046-12-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non sum ausus Salvio nostro nihil ad te litterarum dare ; nec me hercule habebam quid scriberem, nisi te a me mirabiliter amari, de quo etiam nihil scribente me te non dubitare certo scio. omnino mihi magis litterae sunt exspectandae a te quam a me tibi ; nihil enim Romae geritur quod te putem scire curare, nisi forte scire vis me inter Niciam nostrum et Vidium iudicem esse. profert alter, opinor, duobus versiculis expensum Niciae, alter Aristarchus hos o)beli/zei ; ego tamquam criticus antiquus iudicaturus sum utrum sint tou= poihtou= an parembeblhme/noi . puto te nunc dicere:",
+      "eng": "I could not bring myself to send our friend Salvius off to you with no letter from me at all --- though, by Hercules, I had nothing to write, except that you are wondrously loved by me; and on that point I know for certain that, even with no letter from me, you have no doubt. On the whole I have more to expect in the way of letters from you than you have from me; for nothing is going on in Rome that I should think you care to be told about --- unless, perhaps, you do care to be told that I am sitting as judge between our friend Nicias and Vidius. The one party, I gather, produces two little lines as a record of payment to Nicias; the other, a second Aristarchus, marks them with an obelus [Greek: obelizei]. And I, like some ancient critic, am to give judgment whether they are the poet's own or interpolations stuck in [Greek: tou poiētou ē parembeblēmenoi]. I imagine you saying:",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "' oblitusne es igitur fungorum illorum, quos apud Niciam, et ingentium †cularum cum sophia septimae?' quid ergo? tu adeo mihi excussam severitatem veterem putas, ut ne in foro quidem reliquiae pristinae frontis appareant? sed tamen suavissimum sumbiwth\\n nostrum praestabo integellum nec committam ut, si ego eum condemnaro, tu restituas, ne habeat Bursa Plancus apud quem litteras discat.",
+      "eng": "``Have you forgotten, then, those mushrooms at Nicias's place, and the enormous \\textsuperscript{\\textdagger}cularum\\textsuperscript{\\textdagger} with the wisdom of the seventh hour?'' Well, what of it? Do you really suppose my old severity has been so shaken out of me that not even in the Forum do the remnants of the old gravity show themselves? But for all that, I shall keep our sweetest housemate [Greek: sumbiōtēn] safe and unharmed; and I shall not so contrive things that, after I have condemned him, you restore him --- so that Bursa Plancus may be left without anyone he can take his lessons from.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed quid ago? cum mihi sit incertum tranquillone sis animo an ut in bello in aliqua maiuscula cura negotiove versere, labor longius. Cum igitur mihi erit exploratum te libenter esse risurum, scribam ad te pluribus. te tamen hoc scire volo, vehementer populum sollicitum fuisse de P. Sullae morte ante quam certum scierit. nunc quaerere desierunt quo modo perierit ; satis putant se scire quod sciunt. ego ceteroqui animo aequo fero ; unum vereor, ne hasta Caesaris refrixerit.",
+      "eng": "But what am I about? When it is not clear to me whether you are in a tranquil state of mind or, as one is in time of war, caught up in some rather pressing care or business, I am running on to too little purpose. Therefore once it is settled in my own mind that you will laugh gladly at what I send, I will write to you at greater length. Still, I want you to know this much: that the people were strongly agitated over the death of P. Sulla until they had it for certain. Now they have stopped asking how he died: what they know they regard as enough. As for me, I bear it on the whole with equanimity. One thing I do dread: that Caesar's auction-spear may have cooled.",
+      "notes": null
+    }
+  ]
+}

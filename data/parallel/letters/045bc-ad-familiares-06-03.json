@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.3",
+  "title_english": "Ad Familiares 6.3",
+  "date": "-0045-01-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "superioribus litteris benevolentia magis adductus, quam quo res ita postularet, fui longior. neque enim confirmatione nostra egebat virtus tua neque erat ea mea causa atque fortuna, ut, cui ipsi omnia deessent, alterum confirmarem. hoc item tempore brevior esse debeo.",
+      "eng": "In my earlier letter I was longer than I should have been, drawn on rather by goodwill than because the case demanded it. For your virtue had no need of strengthening from me, nor were my own case and fortune such that I, lacking everything myself, should fortify another. At this present time, by the same measure, I should be briefer.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Sive enim nihil tum opus fuit tam multis verbis, nihilo magis nunc opus est, sive tum opus fuit, illud satis est, praesertim cum accesserit nihil novi. nam , etsi cotidie aliquid audimus earum rerum, quas ad te perferri existimo, summa tamen eadem est et idem exitus; quem ego tam video animo quam ea, quae oculis cernimus, nec vero quicquam video, quod non idem te videre certo sciam. nam, etsi quem exitum acies habitura sit divinare nemo potest, tamen et belli exitum video et, si id minus, hoc quidem certe, cum sit necesse alterum utrum vincere, qualis futura sit vel haec vel illa victoria.",
+      "eng": "Either there was no need then for so many words, in which case there is no greater need now; or, if there was need then, what was said is enough, the more so since nothing new has been added. For although every day we hear some piece of news of the affairs which I take to be reported to you, the sum of it is still the same, and the issue is the same; and that issue I see with my mind as plainly as I see what we see with the eyes, nor indeed do I see anything which I am not certain you see also. For although no one can divine what issue a battle will have, still I see the issue of the war, and, if not that, then this at least: since one or the other must conquer, what each victory --- this one or that one --- is going to be like.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "idque cum optime perspexi, tum tale video, nihil ut mali videatur futurum, si id vel ante acciderit, quod vel maximum ad timorem proponitur. ita enim vivere, ut tum sit vivendum, miserrimum est; mori autem nemo sapiens miserum duxit ne beato quidem. sed in ea es urbe, in qua haec vel plura et ornatiora parietes ipsi loqui posse videantur.",
+      "eng": "And once I have looked this through clearly, what I see is this: that nothing evil seems likely to befall, even if there should befall, ahead of time, that very thing which is set up as the chief object of our fear. For to live in such a way as one will then have to live is most wretched of all; but to die no wise man has ever held to be wretched, not even for a man in happiness. But you are in a city in which these things --- these and many more, and in ampler form --- the very walls would seem able to speak.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "ego tibi hoc confirmo, etsi levis est consolatio ex miseriis aliorum, nihilo te nunc maiore in discrimine esse quam quemvis †aut eorum, qui discesserint; alteri dimicant, alteri victorem timent. sed haec consolatio levis est; illa gravior, qua te uti spero, ego certe utor; nec enim, dum ero, angar ulla re, cum omni vacem culpa, et, si non ero, sensu omnino carebo. sed rursus glau=k' ei)s *)aqh/nas , qui ad te haec. mihi tu, tui, tua omnia maximae curae sunt et, dum vivam, erunt. vale .",
+      "eng": "I assure you of this --- though it is a slight consolation to draw from the miseries of others --- that you are now in no greater peril than any whatever \\dag of those who have gone over; the one side is fighting it out, the other dreads the victor. But this consolation is slight. There is a graver one, which I hope you avail yourself of, and which I certainly do avail myself of: that as long as I am, I shall not be tormented by anything, since I am free of all fault; and if I am not, I shall be wholly without perception. But again --- [Greek: glauk' eis Athenas] (``owls to Athens'') --- to address such things to you! For me, you, and yours, and all that is yours, are my deepest care, and will be while I live. Farewell.",
+      "notes": null
+    }
+  ]
+}

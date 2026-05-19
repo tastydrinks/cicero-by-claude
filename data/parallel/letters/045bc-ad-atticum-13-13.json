@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-13",
+  "category": "letters",
+  "title_latin": "Ad Atticum 13.13",
+  "title_english": "Ad Atticum 13.13",
+  "date": "-0045-06-26",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "commotus tuis litteris, quod ad me de Varrone scripseras, totam Academiam ab hominibus nobilissimis abstuli, transtuli ad nostrum sodalem et ex duobus libris contuli in quattuor. grandiores sunt omnino quam erant illi sed tamen multa detracta. tu autem mihi pervelim scribas qui intellexeris illum velle; illud vero utique scire cupio quem intellexeris ab eo ζηλοτυπεῖσθαι nisi forte Brutum. id hercle restabat! sed tamen scire pervelim. libri quidem ita exierunt nisi forte me communis φιλαυτία decipit, ut in tali genere ne apud Graecos quidem simile quicquam. tu illam iacturam feres aequo animo quod illa quae habes de Academicis frustra descripta sunt. multo tamen haec erunt splendidiora, breviora, meliora.",
+      "eng": "Stirred by your letter --- by what you had written to me about Varro --- I have taken the whole Academica away from those most noble characters, transferred it to our friend, and converted it from two books into four. They are larger, on the whole, than the others were, but a good deal has still been cut out. I should very much like you to write to me how you discovered he wanted it. And I particularly want to know whom you understood him to be jealous of [Greek: zelotypeisthai] --- unless perhaps Brutus. That, by Hercules, was all we needed! But still, I should very much like to know. The books, in fact, have come out --- unless our common self-love [Greek: philautia] is deceiving me --- so that in this kind of writing not even among the Greeks is there anything like them. You will bear with equanimity that earlier loss --- that the Academica passages you have in copy have been transcribed in vain. These will be much more splendid, more compact, better.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nunc autem ἀπορῶ quo me vertam. volo Dolabellae valde desideranti; non reperio quid, et simul αἰδέομαι Τρῶασ neque, si aliquid, potero μέμψιν effugere. aut cessandum igitur aut aliquid excogitandum. sed quid haec levia curamus?",
+      "eng": "But now I am at a loss [Greek: aporo] which way to turn. I want to do something for Dolabella, who very much wants it; I cannot find what; and at the same time I have a sense of shame before the Trojans [Greek: aideomai Troas] --- and if I do produce something, I shall not be able to escape rebuke [Greek: mempsin]. Either I must hold off, then, or I must think of something. But why am I troubling myself with these trifles?",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Attica mea, obsecro te, quid agit? quae me valde angit. sed crebro regusto tuas litteras; in his acquiesco. tamen exspecto novas.",
+      "eng": "My Attica --- I beg of you --- what is she doing? She torments me. But I keep tasting your letters over again; I rest in them. Still, I am waiting for new ones.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Brinni libertus coheres noster scripsit ad me velle, si mihi placeret, coheredes se et Sabinum Albium ad me venire. id ego plane nolo. hereditas tanti non est. et tamen obire auctionis diem facile poterunt (est enim iii Idus), si me in Tusculano postridie Nonas mane convenerint. quod si laxius volent proferre diem, poterunt vel biduum vel triduum vel ut videbitur; nihil enim interest. qua re nisi iam profecti sunt, retinebis homines. de Bruto, si quid egerit, de Caesare, si quid scies, si quid erit praeterea scribes.",
+      "eng": "Brinnius' freedman, our co-heir, has written to me that he and his co-heir Sabinus Albius would like, if it suits me, to come to me. That I plainly do not want. The inheritance is not worth it. And in any case they will be able to make the auction date easily enough (it is the third before the Ides) if they meet me at the Tusculanum on the morning of the day after the Nones. If they wish to put the day off more loosely, they may put it back two or three days or as seems best; it makes no difference. So unless they have already set out, hold them back. About Brutus, if he has done anything; about Caesar, if you know anything; whatever else there may be --- you will write.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-22",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.22",
+  "title_english": "Ad Familiares 13.22",
+  "date": "-0046-03-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "T. Manlium, qui negotiatur Thespiis, vehementer diligo ; nam et semper me coluit diligentissimeque observavit et a studiis nostris non abhorret. accedit eo quod Varro Murena magno opere eius causa vult omnia ; qui tamen existimavit, etsi suis litteris, quibus tibi Manlium commendabat, valde confideret, tamen mea commendatione aliquid accessionis fore. me quidem cum Manli familiaritas tum Varronis studium commovit ut ad te quam accuratissime scriberem.",
+      "eng": "I am exceedingly fond of T. Manlius, who carries on business at Thespiae; for he has always shown me regard and the most attentive consideration, and he is no stranger to our pursuits. There is this further point, that Varro Murena is keenly anxious to do everything for his sake; and Varro, even though he had great confidence in his own letter, with which he was commending Manlius to you, judged nevertheless that some increment would come from a recommendation of mine as well. It was my intimacy with Manlius, and Varro's earnestness, that prompted me to write to you with all possible care.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "gratissimum igitur mihi feceris, si huic commendationi meae tantum tribueris quantum cui tribuisti plurimum, id est, si T. Manlium quam maxime, quibuscumque rebus honeste ac pro tua dignitate poteris, iuveris atque ornaveris ; ex ipsiusque praeterea gratissimis et humanissimis moribus confirmo tibi te eum, quem soles fructum a bonorum virorum officiis exspectare, esse capturum.",
+      "eng": "You will therefore do me a most welcome service if you accord this recommendation of mine as much weight as you have accorded to that recommendation to which you have accorded the most --- that is, if you assist and dignify T. Manlius as much as ever you can, in whatever ways you can do so honourably and consistently with your standing. And, what is more, on the strength of his own most agreeable and civilised character I assure you that you will reap from him exactly that fruit which you are accustomed to expect from the good offices of good men.",
+      "notes": null
+    }
+  ]
+}

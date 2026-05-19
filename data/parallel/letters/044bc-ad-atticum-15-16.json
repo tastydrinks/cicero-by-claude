@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-15-16",
+  "category": "letters",
+  "title_latin": "Ad Atticum 15.16",
+  "title_english": "Ad Atticum 15.16",
+  "date": "-0044-06-12",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "tandem a Cicerone tabellarius et me hercule litterae πεπινωμένωσ scriptae, quod ipsum προκοπὴν aliquam significat, itemque ceteri praeclara scribunt; Leonides tamen retinet suum illud adhuc, summis vero laudibus Herodes. quid quaeris? vel verba mihi dari facile patior in hoc meque libenter praebeo credulum. tu velim, si quid tibi est a Statio scriptum quod pertineat ad me, certiorem me facias.",
+      "eng": "At last, a letter-carrier from Cicero, and by Hercules a letter elegantly [Greek: pepinomenos] composed --- which fact in itself signifies some progress [Greek: prokope]; and the others write splendid things of him as well. Leonides, however, still holds to his old line; Herodes is full of the highest praise. What more? In this matter I am quite content even to be deceived, and gladly give myself out as credulous. Please let me know if anything has been written to you by Statius which bears on me.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-25",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.25",
+  "title_english": "Ad Atticum 12.25",
+  "date": "-0045-03-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "scripsit ad me diligenter Sicca de Silio seque ad te rem detulisse; quod tu idem scribis. mihi et res et condicio placet sed ita ut numerato malim quam aestimatione. voluptarias enim possessiones nolet Silius; vectigalibus autem ut his possum esse contentus quae habeo, sic vix minoribus. unde ergo numerato? HS DC exprimes ab Hermogene, cum praesertim necesse erit et domi video esse HS DC . reliquae pecuniae vel usuram Silio pendemus, dum a Faberio vel cum aliquo qui Faberio debet repraesentabimus. erit etiam aliquid alicunde. sed totam rem tu gubernabis.",
+      "eng": "Sicca has written to me carefully about Silius, and that he has referred the matter to you; which you also write. I am pleased with both the property and the terms, except that I should prefer cash to a valuation in kind. For Silius will not want luxury holdings, and as I am barely able to be content with my present income-bearing properties, I could hardly do with smaller. Where, then, will the cash come from? You will press six hundred thousand sesterces out of Hermogenes (and that especially since it will be necessary), and I see there are six hundred thousand at home. For the remaining sum we shall either pay Silius interest, until we can settle in full from Faberius or from someone who owes Faberius. There will also be something from somewhere else. But you will steer the whole thing.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Drusianis vero hortis multo antepono neque sunt umquam comparati. mihi crede, una me causa movet in qua scio me τετυφῶσθαι . sed , ut facis, obsequere huic errori meo. nam quod scribis ἐγγήραμα , actum iam de isto est; alia magis quaero.",
+      "eng": "To Drusus's gardens, however, I much prefer it, nor have the two ever been put on a level. Believe me, one consideration only moves me, in which I know I am infatuated [Greek: tetyphōsthai]. But, as you are doing, indulge this delusion of mine. For as to what you write about something to grow old with [Greek: engērama] --- that matter is already over; I am seeking other things.",
+      "notes": null
+    }
+  ]
+}

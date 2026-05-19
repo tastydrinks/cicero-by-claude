@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.9",
+  "title_english": "Ad Familiares 9.9",
+  "date": "-0048-06-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. g. v. et Tullia nostra recte v. Terentia minus belle habuit, sed certum scio iam convaluisse eam ; praeterea rectissime sunt apud te omnia. etsi nullo tempore in suspicionem tibi debui venire partium causa potius quam tua tibi suadere, ut te aut cum Caesare nobiscumque coniungeres aut certe in otium referres, praecipue nunc iam inclinata victoria ne possum quidem in ullam aliam incidere opinionem nisi in eam, in qua scilicet tibi suadere videar quod pie tacere non possim. tu autem, mi Cicero, sic haec accipies ut, sive probabuntur tibi sive non probabuntur, ab optimo certe animo ac deditissimo tibi et cogitata et scripta esse iudices.",
+      "eng": "If you are well, I am glad; I am well. Our Tullia is well too. Terentia has been less well, but I know for certain that she has now recovered; and otherwise everything on your side of things is going perfectly. Granted, there has never been a time at which you should have suspected me of urging on you what made for our side rather than what made for yours --- of pressing you either to come over to Caesar and to us, or at any rate to retire into quiet --- yet now in particular, with the victory already tipping our way, I cannot fall under any other imputation than this: that I am giving you advice which it would be impious to keep to myself. But you, my dear Cicero, will take what I write in this spirit: that whether you approve it or do not approve it, you will judge that it has been thought and written from a heart that is, at any rate, your most devoted.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "animadvertis Cn. Pompeium nec nominis sui nec rerum gestarum gloria neque etiam regum ac nationum clientelis, quas ostentare crebro solebat; esse tutum, et hoc etiam, quod infimo cuique contigit, illi non posse contingere, ut honeste effugere possit, pulso Italia, amissis Hispaniis, capto exercitu veterano, circumvallato nunc denique, quod nescio an nulli umquam nostro acciderit imperatori. quam ob rem quid aut ille sperare possit aut tu animum adverte pro tua prudentia ; sic enim facillime quod tibi utilissimum erit consili capies. illud autem a te peto, ut, si iam ille evitaverit hoc periculum et se abdiderit in classem, tu tuis rebus consulas et aliquando tibi potius quam cuivis sis amicus. satis factum est iam a te vel officio vel familiaritati, satis factum etiam partibus et ei rei p., quam tu probabas ;",
+      "eng": "You see for yourself that Cn. Pompeius is safe neither in the renown of his name nor in his record of deeds, nor even in those clientships of kings and nations that he was always so fond of parading; and that this too --- a thing granted to the lowliest man --- cannot be granted to him: to make an honourable escape. He has been driven out of Italy, he has lost the Spains, he has had his veteran army taken from him, and now at last he has been walled in --- a thing which I rather think has never happened to any commander of ours. Consider then, as your good sense will let you, what he can hope for and what you can; for that is the easiest way to take the decision that will serve you best. But this I beg of you: if he has now escaped this danger and shut himself up in his fleet, look to your own affairs, and be at last more of a friend to yourself than to anyone else. You have done enough by now for duty, enough for friendship, enough also for the cause and for that commonwealth which you used to approve.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "reliquum est, ubi nunc est res p., ibi simus potius quam, dum illam veterem sequamur, simus in nulla. qua re velim, mi iucundissime Cicero, si forte Pompeius pulsus his quoque locis rursus alias regiones petere cogatur, ut tu te vel Athenas vel in quamvis quietam recipias civitatem. quod si eris facturus, velim mihi scribas, ut ego, si ullo modo potero, ad te advolem. quaecumque de tua dignitate ab imperatore erunt impetranda, qua est humanitate Caesar, facillimum erit ab eo tibi ipsi impetrare, et meas tamen preces apud eum non minimum auctoritatis habituras puto. erit tuae quoque fidei et humanitatis curare ut is tabellarius, quem ad te misi, reverti possit ad me et a te mihi litteras referat.",
+      "eng": "What remains is this: that we be where the commonwealth now is, rather than, while we follow the old commonwealth, be in none at all. Therefore, my most delightful Cicero, if it should happen that Pompeius is driven from these regions too and forced again to make for other parts, I would wish you to withdraw either to Athens or to whatever quiet city you please. If you mean to do so, please write to me, so that, if I possibly can, I may fly to your side. Whatever has to be obtained from the commander touching your standing, given Caesar's humanity, will be the easiest thing in the world for you to obtain from him directly; and yet I think my own pleas will carry no small weight with him. It will be a mark of your good faith and your humanity, too, to see that the courier I have sent to you can return to me and bring me a letter back from you.",
+      "notes": null
+    }
+  ]
+}

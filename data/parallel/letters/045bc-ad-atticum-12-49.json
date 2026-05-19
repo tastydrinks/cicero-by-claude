@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-49",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.49",
+  "title_english": "Ad Atticum 12.49",
+  "date": "-0045-05-19",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "sentiebam omnino quantum mihi praesens prodesses sed multo magis post discessum tuum sentio. quam ob rem, ut ante ad te scripsi, aut ego ad te totus aut tu ad me, quod licebit.",
+      "eng": "I felt fully, of course, how much good you did me by being here; but I feel it much more since you left. So, as I wrote you before --- either I to you entirely, or you to me, as it shall be allowed.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "heri non multo post quam tu a me discessisti, puto, quidam urbani ut videbantur ad me mandata et litteras attulerunt a C. Mario C. f. C. n. multis verbis agere mecum per cognationem quae mihi secum esset, per eum Marium quem scripsissem, per eloquentiam L. Crassi avi sui ut se defenderem, causamque suam mihi perscripsit. rescripsi patrono illi nihil opus esse, quoniam Caesaris propinqui eius omnis potestas esset, viri optimi et hominis liberalissimi; me tamen ei fauturum. o tempora! fore cum dubitet Curtius consulatum petere! sed haec hactenus.",
+      "eng": "Yesterday, not long after you had left me, certain men --- city sort, by the look of them --- brought me commissions and a letter from Gaius Marius, son of Gaius, grandson of Gaius. He pleaded with me at length, by the kinship he has with me, by that Marius whom I had written about, by the eloquence of his grandfather Lucius Crassus, to defend him; and he set out his case in writing. I wrote back that he had no need of a patron such as me, since the whole power of the matter lay with his kinsman Caesar --- an excellent man and one of the most generous of human beings --- but that I would, all the same, give him my support. What times! that there should be a moment when Curtius hesitates to stand for the consulship! But enough of this.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de Tirone mihi curae est. sed iam sciam quid agat. heri enim misi qui videret; cui etiam ad te litteras dedi. epistulam ad Ciceronem tibi misi. horti quam in diem proscripti sint velim ad me scribas.",
+      "eng": "About Tiro I am anxious. But I shall soon know how he is doing; yesterday I sent someone to see, and gave him a letter for you as well. The letter to Cicero I have sent to you. Please write to me on what day the gardens are advertised for sale.",
+      "notes": null
+    }
+  ]
+}

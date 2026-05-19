@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-41",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.41",
+  "title_english": "Ad Atticum 12.41",
+  "date": "-0045-05-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nihil erat quod scriberem. scire tamen volebam ubi esses; si abes aut afuturus es, quando rediturus esses. facies igitur certiorem. et quod tu scire volebas ego quando ex hoc loco, postridie Idus Lanuvi constitui manere, inde postridie in Tusculano aut Romae. utrum sim facturus eo ipso die scies.",
+      "eng": "There was nothing for me to write. I wanted, all the same, to know where you were --- whether you are away, or about to be, and when you would be coming back. So you will let me know. And as for what you wanted to know, namely when I am leaving this place: I have decided to stay the day after the Ides at Lanuvium, and from there the day after at the Tusculanum, or at Rome. Which I am going to do, you will know on that very day.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "scis quam sit φιλαίτιον συμφορά , minime in te quidem, sed tamen avide sum adfectus de fano, quod nisi non dico effectum erit sed fieri videro (audebo hoc dicere et tu ut soles accipies), incursabit in te dolor meus non iure ille quidem sed tamen feres hoc ipsum quod scribo ut omnia mea fers ac tulisti. omnis tuas consolationes unam hanc in rem velim conferas. si quaeris quid optem, primum Scapulae, deinde Clodiae, postea, si Silius nolet, Drusus aget iniuste, Cusini et Treboni. puto tertium esse dominum, Rebilum fuisse certo scio. sin autem tibi Tusculanum placet, ut significasti quibusdam litteris, tibi adsentiar. hoc quidem utique perficies, si me levari vis, quem iam etiam gravius accusas quam patitur tua consuetudo, sed facis summo amore et victus fortasse vitio meo. sed tamen si me levari vis, haec est summa levatio vel, si verum scire vis, una.",
+      "eng": "You know how prone misfortune is to find fault [Greek: philaition sumphora] --- least of all toward you, certainly, but all the same I have been seized with greed about the shrine: and unless I see it (I will not say completed, but) on the way to being done --- I shall dare to put it this way, and you will take it as you usually do --- my grief will rush upon you, with no justice in it; but you will bear with this very letter as you bear with all my doings, and as you have always borne. All your consolations I should like you to bring to bear on this one matter. If you ask what I most want: first, Scapula's place; then Clodia's; after that, if Silius will not, and Drusus is going to deal unfairly --- Cusinius' and Trebonius'. I think there is a third owner; I know for certain that Rebilus was one. But if the Tusculanum site suits you, as you hinted in one of your letters, I shall come round to your view. This, in any event, you will bring off, if you wish me lightened --- you who now accuse me even more sharply than your usual gentleness can support, but you do it from the deepest love and, perhaps, overborne by my own fault. Still, if you wish me lightened, this is the supreme relief, or, if you wish to know the truth, the only one.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Hirti epistulam si legeris, quae mihi quasi πρόπλασμα videtur eius vituperationis quam Caesar scripsit de Catone, facies me quid tibi visum sit, si tibi erit commodum, certiorem. redeo ad fanum. nisi hac aestate absolutum erit quam vides integram restare, scelere me liberatum non putabo.",
+      "eng": "If you have read Hirtius' letter --- which seems to me a kind of preliminary sketch [Greek: proplasma] of the attack Caesar has written against Cato --- you will let me know what you made of it, if it is convenient. I come back to the shrine. Unless it is brought to completion this summer, which you see still lies open before us, I shall not consider myself freed of the crime.",
+      "notes": null
+    }
+  ]
+}

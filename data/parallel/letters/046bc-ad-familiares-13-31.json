@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-31",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.31",
+  "title_english": "Ad Familiares 13.31",
+  "date": "-0046-12-16",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "C. Flavio, honesto et ornato equite R., utor valde familiariter fuit enim generi mei, C. Pisonis, pernecessarius meque diligentissime observant et ipse et L. Flavius, frater eius. quapropter velim honoris mei causa, quibus rebus honeste et pro tua dignitate poteris, quam honorificentissime et quam liberalissime C. Flavium tractes. id mihi sic erit gratum, ut gratius esse nihil possit.",
+      "eng": "I am on very familiar terms with Gaius Flavius, an honourable and distinguished Roman knight; for he was on the closest terms with my son-in-law, Gaius Piso, and both he and his brother Lucius Flavius show me marked attention. For my sake, then, I should like you to treat Gaius Flavius, in whatever respects you honourably and in keeping with your standing can, with all possible honour and all possible generosity. So done, it will be welcome to me beyond what any other favour could be.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed praeterea tibi adfirmo (neque id ambitione adductus facio sed cum familiaritate et necessitudine tum etiam veritate) te ex C. Flavi officio et observantia et praeterea splendore atque is inter suos gratia magnam voluptatem esse capturum. vale .",
+      "eng": "But beyond this I assure you (and I write so not under any canvasser's impulse, but in friendship and obligation and not least in plain truth) that from the dutifulness and attentions of Gaius Flavius, and besides from the brilliance of the man and from his standing among his own, you will derive great pleasure. Farewell.",
+      "notes": null
+    }
+  ]
+}

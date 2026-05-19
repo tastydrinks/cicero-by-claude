@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-51",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.51",
+  "title_english": "Ad Atticum 12.51",
+  "date": "-0045-05-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Tironem habeo citius quam verebar. venit etiam Nicias, et Valerium hodie audiebam esse venturum. quamvis multi sint, magis tamen ero solus quam si unus esses. sed exspecto te, a Peducaeo utique, tu autem significas aliquid etiam ante. verum id quidem ut poteris.",
+      "eng": "I have Tiro back sooner than I had feared. Nicias has come too, and I was hearing today that Valerius would arrive. Many as they may be, I shall be more alone all the same than I would be if you were the only one with me. But I am waiting for you, at any rate after Peducaeus' --- though you yourself hint at something rather sooner. Well, as you can manage it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Vergilio, ut scribis. hoc tamen velim scire quando auctio. epistulam ad Caesarem mitti video tibi placere. quid quaeris? mihi quoque hoc idem maxime placuit et eo magis quod nihil est in ea nisi optimi civis, sed ita optimi ut tempora; quibus parere omnes πολιτικοὶ praecipiunt. sed scis ita nobis esse visum ut isti ante legerent. tu igitur id curabis. sed nisi plane iis intelleges placere, mittenda non est. id autem utrum illi sentiant anne simulent tu intelleges. mihi simulatio pro repudiatione fuerit. τοῦτο δὲ μηλώσῃ.",
+      "eng": "About Vergilius, as you write. This, though, I should like to know: when the auction. The letter to Caesar I see meets with your approval for sending. What more need I say? It met with my fullest approval too, and all the more because there is nothing in it but what befits the best sort of citizen --- the best, however, that the times allow, which all statesmen [Greek: politikoi] enjoin one to obey. But you know our intention was that those men read it first. So you will see to that. But unless you can see plainly that they approve, it is not to be sent. Whether they really feel so, or only pretend, you will perceive. For me, pretence will count as rejection. Probe this point [Greek: touto de m\\=el\\=os\\=ei].",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de Caerellia quid tibi placeret Tiro mihi narravit; debere non esse dignitatis meae, perscriptionem tibi placere: hoc métuere, alterum ín metu non pónere. sed et haec et multa alia coram. sustinenda tamen, si tibi videbitur, solutio est nominis Caerelliani dum et de Metone et de Faberio sciamus.",
+      "eng": "About Caerellia, Tiro told me what you thought: that to be in debt is not in keeping with my dignity, and that an assignment meets your approval. The one I fear; the other I do not reckon among things to be feared. But of this and much else when we are face to face. The settling of the Caerellian debt, however, should be held off, if you think proper, until we know how things stand with Meto and with Faberius.",
+      "notes": null
+    }
+  ]
+}
