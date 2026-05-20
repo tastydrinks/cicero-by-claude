@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-22",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.22",
+  "title_english": "Ad Familiares 16.22",
+  "date": "-0045-07-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "spero ex tuis litteris tibi melius esse, cupio certe. cui quidem rei omni ratione cura ut inservias et cave suspiceris contra meam voluntatem te facere quod non sis mecum. mecum es, si te curas. qua re malo te valetudini tuae servire quam meis oculis et auribus. etsi enim et audio te et video libenter, tamen hoc multo erit, si valebis, iucundius. ego hic cesso, quia ipse nihil scribo, lego autem libentissime. tu istic si quid librarii mea manu non intellegent monstrabis. una omnino interpositio difficilior est, quam ne ipse quidem facile legere soleo, de quadrimo Catone. de triclinio cura, ut facis. Tertia aderit, modo ne Publius rogatus sit.",
+      "eng": "I hope from your letter that you are better; I want it to be so, in any case. Take care to serve that end by every means, and do not suspect that you act against my wish by not being with me. You are with me, if you take care of yourself. So I would rather you served your own health than my eyes and ears. Pleased as I am to hear you and see you, it will be much pleasanter still if you are well. I am idling here, because I write nothing myself, but read with the greatest pleasure. Over there, if the copyists cannot make out anything in my hand, you will show them. There is just one passage that is harder, which I myself cannot easily read --- on the four-year-old Cato. As to the dining-room, see to it, as you are doing. Tertia will be there, only let Publius not have been invited.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Demetrius iste numquam omnino Phalereus fuit sed nunc plane Billienus est. itaque te do vicarium tu eum observabis. etsi —verum tamen de illis nosti cetera. sed tamen si quem cum eo sermonem habueris scribes ad me, ut mihi nascatur epistulae argumentum et ut tuas quam longissimas litteras legam. cura , mi Tiro, ut valeas ; hoc gratius mihi facere nihil potes. vale .",
+      "eng": "That Demetrius of ours was never really a man of Phaleron at all, but he is now plainly a Billienus. So I appoint you my deputy: you will keep an eye on him. Though --- well, you know the rest about that sort. Still, if you have had any conversation with him, write it up for me, so that a subject for a letter may take shape, and so that I may have as long a letter from you as possible to read. Take care of yourself, my Tiro --- you can do me no greater favor than that. Farewell.",
+      "notes": null
+    }
+  ]
+}

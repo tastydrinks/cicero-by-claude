@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-08",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.8",
+  "title_english": "Ad Familiares 12.8",
+  "date": "-0043-06-09",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "scelus adfinis tui Lepidi summamque levitatem et inconstantiam ex actis, quae ad te mitti certo scio, cognosse te arbitror. itaque nos confecto bello, ut arbitrabamur, renovatum bellum gerimus spemque omnem in D. Bruto et Planco habemus, si verum quaeris, in te et in M. Bruto non solum ad praesens perfugium, si, quod nolim, adversi quid acciderit, sed etiam ad confirmationem perpetuae libertatis.",
+      "eng": "I take it you have learned, from the proceedings I am sure are being sent to you, of the criminality of your kinsman Lepidus, and of his utter frivolity and inconstancy. And so, with the war finished --- as we supposed --- we are now waging a renewed war, and we have placed all our hope in D. Brutus and Plancus; and, if you want the truth, in you and in M. Brutus --- not only for an immediate refuge, should anything adverse happen (which I do not wish), but also for the confirmation of a permanent liberty.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nos hic de Dolabella audiebamus quae vellemus, sed certos auctores non habebamus. te quidem magnum hominem et praesenti iudicio et reliqui temporis exspectatione scito esse. hoc tibi proposito fac ut ad summa contendas. nihil est tantum quod non p. R. a te perfici atque obtineri posse iudicet. vale .",
+      "eng": "About Dolabella we were hearing here what we wanted to hear, but we had no firm authorities. Of yourself you must know that you are a great man, by the present judgement and by the expectation of the time to come. Set this before you, and strive toward the highest. There is nothing so great that the Roman People does not judge you capable of carrying it through and holding it. Farewell.",
+      "notes": null
+    }
+  ]
+}

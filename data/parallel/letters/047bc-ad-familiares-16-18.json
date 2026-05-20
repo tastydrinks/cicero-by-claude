@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-18",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.18",
+  "title_english": "Ad Familiares 16.18",
+  "date": "-0047-05-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quid igitur? non sic oportet? equidem censeo si&, addendum etiam 'SVO.' sed , si placet, invidia vitetur, quam quidem ego saepe contempsi. tibi diafo/rhsin gaudeo profuisse ; si vero etiam Tusculanum, dei boni! quanto mihi illud erit amabilius! sed si me amas, quod quidem aut facis aut perbelle simulas, quod tamen in modum procedit, sed, ut ut est, indulge valetudini tuae ; cui quidem tu adhuc, dum mihi deservis, servisti non satis. ea quid postulet non ignoras, pe/yin , a)kopi/an , peri/paton su/mmetron , tri=yin , eu)lusi/an koili/as . fac bellus revertare ; non modo te sed etiam Tusculanum nostrum plus amem. Parhedrum excita ut hortum ipse conducat; sic holitorem ipsum commovebis.",
+      "eng": "Well then? Should it not be put that way? In my own view, if you really mean it, one should add ``his own'' as well. But if you prefer, let us avoid ill-will --- though for my part I have often paid that no mind. I am glad the dispersal-treatment [Greek: diaphoresin] did you good; if the Tusculan villa has done its part too, ye gods, how much dearer the place will be to me! But if you love me --- which either you do or do a very fine job of pretending, and the pretence does work --- whichever it is, indulge that constitution of yours, which until now, while you have been at my service, you have served too little. You know what it asks: digestion [Greek: pepsin], the loosening-rub [Greek: akopian], a measured walk [Greek: peripaton symmetron], a rubdown [Greek: tripsin], an easy bowel [Greek: eulysian koilias]. See that you come back in good trim; then I shall love not only you the more but our Tusculan villa too. Stir up Parhedrus to take the kitchen-garden on lease himself; that will set fire to the gardener.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Helico nequissimus HS co dabat nullo aprico horto, nullo emissario, nulla maceria, nulla casa. iste nos tanta impensa derideat? Calface hominem ut ego Mothonem ; itaque abutor coronis.",
+      "eng": "That good-for-nothing Helico used to pay a thousand sesterces for it, when there was no sunny plot, no run-off channel, no boundary wall, no shed. Is the fellow to laugh at us, after we have spent so much? Heat him up, the way I am heating up Motho; and so I have garlands to spare.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de Crabra quid agatur, etsi nunc quidem etiam nimium est aquae, tamen velim scire. horologium mittam et libros, si erit sudum. sed tu nullosne tecum libellos? an pangis aliquid Sophocleum? fac opus appareat. A. Ligurius, Caesaris familiaris, mortuus est, bonus homo et nobis amicus. te quando exspectemus fac ut sciam. cura te diligenter. vale .",
+      "eng": "About the Aqua Crabra, what is happening, I should like to know --- even though for the present indeed there is even too much water. I will send the water-clock and the books, if the sky is clear. But have you no little books with you at all? Or are you composing some piece in the Sophoclean style? Make the work show itself. A. Ligurius, a friend of Caesar's, has died, a good man and a friend to me. When I should expect you, let me know. Take careful care of yourself. Farewell.",
+      "notes": null
+    }
+  ]
+}

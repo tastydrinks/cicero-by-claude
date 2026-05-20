@@ -1,0 +1,1190 @@
+{
+  "no-perseus": [
+    {
+      "id": "aratea",
+      "date": "-0086-07-01",
+      "detail": "no latin_source_url"
+    },
+    {
+      "id": "de-consulatu-suo",
+      "date": "-0060-07-01",
+      "detail": "no latin_source_url"
+    },
+    {
+      "id": "de-temporibus-suis",
+      "date": "-0054-07-01",
+      "detail": "no latin_source_url"
+    },
+    {
+      "id": "consolatio",
+      "date": "-0045-03-01",
+      "detail": "no latin_source_url"
+    },
+    {
+      "id": "hortensius",
+      "date": "-0045-07-01",
+      "detail": "no latin_source_url"
+    }
+  ],
+  "unfetched-ok": [
+    {
+      "id": "de-inventione",
+      "date": "-0085-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "ad-familiares-05-15",
+      "date": "-0045-12-12",
+      "detail": "book:5, letter:15 present in TEI"
+    },
+    {
+      "id": "ad-familiares-05-19",
+      "date": "-0049-04-28",
+      "detail": "book:5, letter:19 present in TEI"
+    },
+    {
+      "id": "ad-familiares-05-20",
+      "date": "-0049-01-04",
+      "detail": "book:5, letter:20 present in TEI"
+    },
+    {
+      "id": "ad-familiares-05-21",
+      "date": "-0046-06-18",
+      "detail": "book:5, letter:21 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-04",
+      "date": "-0046-09-05",
+      "detail": "book:7, letter:4 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-19",
+      "date": "-0044-07-29",
+      "detail": "book:7, letter:19 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-20",
+      "date": "-0044-07-20",
+      "detail": "book:7, letter:20 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-21",
+      "date": "-0044-06-15",
+      "detail": "book:7, letter:21 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-22",
+      "date": "-0044-06-15",
+      "detail": "book:7, letter:22 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-24",
+      "date": "-0045-08-20",
+      "detail": "book:7, letter:24 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-25",
+      "date": "-0045-08-24",
+      "detail": "book:7, letter:25 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-26",
+      "date": "-0046-07-27",
+      "detail": "book:7, letter:26 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-28",
+      "date": "-0046-08-15",
+      "detail": "book:7, letter:28 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-29",
+      "date": "-0045-11-01",
+      "detail": "book:7, letter:29 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-30",
+      "date": "-0044-01-15",
+      "detail": "book:7, letter:30 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-31",
+      "date": "-0044-12-04",
+      "detail": "book:7, letter:31 present in TEI"
+    },
+    {
+      "id": "ad-familiares-07-33",
+      "date": "-0046-07-15",
+      "detail": "book:7, letter:33 present in TEI"
+    },
+    {
+      "id": "ad-familiares-13-04",
+      "date": "-0045-10-15",
+      "detail": "book:13, letter:4 present in TEI"
+    },
+    {
+      "id": "ad-familiares-13-05",
+      "date": "-0045-10-15",
+      "detail": "book:13, letter:5 present in TEI"
+    },
+    {
+      "id": "ad-familiares-13-07",
+      "date": "-0045-10-15",
+      "detail": "book:13, letter:7 present in TEI"
+    },
+    {
+      "id": "ad-familiares-13-08",
+      "date": "-0045-10-15",
+      "detail": "book:13, letter:8 present in TEI"
+    },
+    {
+      "id": "ad-familiares-13-09",
+      "date": "-0005-02-22",
+      "detail": "book:13, letter:9 present in TEI"
+    },
+    {
+      "id": "ad-familiares-13-15",
+      "date": "-0045-08-28",
+      "detail": "book:13, letter:15 present in TEI"
+    },
+    {
+      "id": "ad-familiares-13-48",
+      "date": "-0047-05-05",
+      "detail": "book:13, letter:48 present in TEI"
+    },
+    {
+      "id": "ad-familiares-13-50",
+      "date": "-0044-01-15",
+      "detail": "book:13, letter:50 present in TEI"
+    },
+    {
+      "id": "ad-familiares-13-60",
+      "date": "-0046-05-17",
+      "detail": "book:13, letter:60 present in TEI"
+    },
+    {
+      "id": "ad-familiares-15-15",
+      "date": "-0047-08-15",
+      "detail": "book:15, letter:15 present in TEI"
+    },
+    {
+      "id": "ad-familiares-15-20",
+      "date": "-0044-04-15",
+      "detail": "book:15, letter:20 present in TEI"
+    },
+    {
+      "id": "ad-familiares-15-21",
+      "date": "-0047-10-10",
+      "detail": "book:15, letter:21 present in TEI"
+    },
+    {
+      "id": "ad-familiares-16-17",
+      "date": "-0045-07-29",
+      "detail": "book:16, letter:17 present in TEI"
+    },
+    {
+      "id": "ad-familiares-16-18",
+      "date": "-0047-05-15",
+      "detail": "book:16, letter:18 present in TEI"
+    },
+    {
+      "id": "ad-familiares-16-19",
+      "date": "-0045-08-15",
+      "detail": "book:16, letter:19 present in TEI"
+    },
+    {
+      "id": "ad-familiares-16-21",
+      "date": "-0044-07-15",
+      "detail": "book:16, letter:21 present in TEI"
+    },
+    {
+      "id": "ad-familiares-16-22",
+      "date": "-0045-07-27",
+      "detail": "book:16, letter:22 present in TEI"
+    },
+    {
+      "id": "ad-familiares-16-23",
+      "date": "-0044-05-28",
+      "detail": "book:16, letter:23 present in TEI"
+    },
+    {
+      "id": "ad-familiares-16-24",
+      "date": "-0044-11-11",
+      "detail": "book:16, letter:24 present in TEI"
+    },
+    {
+      "id": "ad-familiares-16-25",
+      "date": "-0044-09-15",
+      "detail": "book:16, letter:25 present in TEI"
+    },
+    {
+      "id": "ad-familiares-16-26",
+      "date": "-0044-07-03",
+      "detail": "book:16, letter:26 present in TEI"
+    },
+    {
+      "id": "ad-familiares-16-27",
+      "date": "-0044-12-15",
+      "detail": "book:16, letter:27 present in TEI"
+    },
+    {
+      "id": "partitiones-oratoriae",
+      "date": "-0054-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "pro-plancio",
+      "date": "-0054-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "pro-rabirio-postumo",
+      "date": "-0054-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "pro-scauro",
+      "date": "-0054-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "ad-familiares-02-16",
+      "date": "-0049-05-04",
+      "detail": "book:2, letter:16 present in TEI"
+    },
+    {
+      "id": "pro-milone",
+      "date": "-0052-04-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "de-legibus",
+      "date": "-0052-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "ad-atticum-05-01",
+      "date": "-0049-05-06",
+      "detail": "book:5, letter:1 present in TEI"
+    },
+    {
+      "id": "ad-atticum-05-07",
+      "date": "-0049-05-22",
+      "detail": "book:5, letter:7 present in TEI"
+    },
+    {
+      "id": "ad-familiares-06-20",
+      "date": "-0045-07-15",
+      "detail": "book:6, letter:20 present in TEI"
+    },
+    {
+      "id": "ad-familiares-06-22",
+      "date": "-0046-11-07",
+      "detail": "book:6, letter:22 present in TEI"
+    },
+    {
+      "id": "brutus",
+      "date": "-0046-04-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "ad-atticum-12-01",
+      "date": "-0046-11-24",
+      "detail": "book:12, letter:1 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-02",
+      "date": "-0046-04-15",
+      "detail": "book:12, letter:2 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-03",
+      "date": "-0046-06-11",
+      "detail": "book:12, letter:3 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-04",
+      "date": "-0046-06-15",
+      "detail": "book:12, letter:4 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-05",
+      "date": "-0046-07-15",
+      "detail": "book:12, letter:5 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-06",
+      "date": "-0046-07-03",
+      "detail": "book:12, letter:6 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-07",
+      "date": "-0046-08-04",
+      "detail": "book:12, letter:7 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-08",
+      "date": "-0046-09-05",
+      "detail": "book:12, letter:8 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-09",
+      "date": "-0045-07-27",
+      "detail": "book:12, letter:9 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-10",
+      "date": "-0045-07-28",
+      "detail": "book:12, letter:10 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-11",
+      "date": "-0046-12-08",
+      "detail": "book:12, letter:11 present in TEI"
+    },
+    {
+      "id": "ad-atticum-12-12",
+      "date": "-0045-03-16",
+      "detail": "book:12, letter:12 present in TEI"
+    },
+    {
+      "id": "ad-familiares-04-01",
+      "date": "-0049-04-05",
+      "detail": "book:4, letter:1 present in TEI"
+    },
+    {
+      "id": "ad-familiares-04-02",
+      "date": "-0049-04-28",
+      "detail": "book:4, letter:2 present in TEI"
+    },
+    {
+      "id": "ad-familiares-04-03",
+      "date": "-0046-08-12",
+      "detail": "book:4, letter:3 present in TEI"
+    },
+    {
+      "id": "ad-familiares-04-04",
+      "date": "-0046-10-15",
+      "detail": "book:4, letter:4 present in TEI"
+    },
+    {
+      "id": "ad-familiares-04-12",
+      "date": "-0045-05-21",
+      "detail": "book:4, letter:12 present in TEI"
+    },
+    {
+      "id": "ad-familiares-04-13",
+      "date": "-0046-06-22",
+      "detail": "book:4, letter:13 present in TEI"
+    },
+    {
+      "id": "ad-familiares-04-14",
+      "date": "-0046-07-23",
+      "detail": "book:4, letter:14 present in TEI"
+    },
+    {
+      "id": "ad-familiares-04-15",
+      "date": "-0046-08-24",
+      "detail": "book:4, letter:15 present in TEI"
+    },
+    {
+      "id": "ad-familiares-09-08",
+      "date": "-0045-07-12",
+      "detail": "book:9, letter:8 present in TEI"
+    },
+    {
+      "id": "ad-familiares-09-14",
+      "date": "-0044-05-03",
+      "detail": "book:9, letter:14 present in TEI"
+    },
+    {
+      "id": "ad-familiares-09-24",
+      "date": "-0043-02-15",
+      "detail": "book:9, letter:24 present in TEI"
+    },
+    {
+      "id": "de-optimo-genere-oratorum",
+      "date": "-0046-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "paradoxa-stoicorum",
+      "date": "-0046-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "orator",
+      "date": "-0046-09-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "pro-marcello",
+      "date": "-0046-09-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "pro-ligario",
+      "date": "-0046-11-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "academica",
+      "date": "-0045-05-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "de-finibus",
+      "date": "-0045-06-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "ad-atticum-13-36",
+      "date": "-0045-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "timaeus",
+      "date": "-0045-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "de-natura-deorum",
+      "date": "-0045-08-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "tusculanae-disputationes",
+      "date": "-0045-08-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "pro-rege-deiotaro",
+      "date": "-0045-11-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "cato-maior-de-senectute",
+      "date": "-0044-04-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "de-divinatione",
+      "date": "-0044-04-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "de-fato",
+      "date": "-0044-05-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "ad-familiares-10-01",
+      "date": "-0044-09-19",
+      "detail": "book:10, letter:1 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-02",
+      "date": "-0044-10-05",
+      "detail": "book:10, letter:2 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-03",
+      "date": "-0044-12-10",
+      "detail": "book:10, letter:3 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-04",
+      "date": "-0044-12-15",
+      "detail": "book:10, letter:4 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-05",
+      "date": "-0044-12-15",
+      "detail": "book:10, letter:5 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-06",
+      "date": "-0043-03-20",
+      "detail": "book:10, letter:6 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-07",
+      "date": "-0043-03-15",
+      "detail": "book:10, letter:7 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-08",
+      "date": "-0043-01-01",
+      "detail": "book:10, letter:8 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-09",
+      "date": "-0043-04-27",
+      "detail": "book:10, letter:9 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-10",
+      "date": "-0043-03-30",
+      "detail": "book:10, letter:10 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-11",
+      "date": "-0043-04-15",
+      "detail": "book:10, letter:11 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-12",
+      "date": "-0043-04-11",
+      "detail": "book:10, letter:12 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-13",
+      "date": "-0043-05-11",
+      "detail": "book:10, letter:13 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-14",
+      "date": "-0043-05-05",
+      "detail": "book:10, letter:14 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-15",
+      "date": "-0043-08-08",
+      "detail": "book:10, letter:15 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-16",
+      "date": "-0043-05-15",
+      "detail": "book:10, letter:16 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-17",
+      "date": "-0043-06-01",
+      "detail": "book:10, letter:17 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-18",
+      "date": "-0043-05-18",
+      "detail": "book:10, letter:18 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-19",
+      "date": "-0043-05-26",
+      "detail": "book:10, letter:19 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-20",
+      "date": "-0043-05-29",
+      "detail": "book:10, letter:20 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-21",
+      "date": "-0043-05-15",
+      "detail": "book:10, letter:21 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-22",
+      "date": "-0043-06-29",
+      "detail": "book:10, letter:22 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-23",
+      "date": "-0043-06-06",
+      "detail": "book:10, letter:23 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-24",
+      "date": "-0043-07-28",
+      "detail": "book:10, letter:24 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-25",
+      "date": "-0043-05-26",
+      "detail": "book:10, letter:25 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-26",
+      "date": "-0043-06-29",
+      "detail": "book:10, letter:26 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-27",
+      "date": "-0043-03-20",
+      "detail": "book:10, letter:27 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-28",
+      "date": "-0043-02-02",
+      "detail": "book:10, letter:28 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-29",
+      "date": "-0043-07-06",
+      "detail": "book:10, letter:29 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-30",
+      "date": "-0043-04-15",
+      "detail": "book:10, letter:30 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-31",
+      "date": "-0043-03-16",
+      "detail": "book:10, letter:31 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-32",
+      "date": "-0043-06-08",
+      "detail": "book:10, letter:32 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-33",
+      "date": "-0043-06-13",
+      "detail": "book:10, letter:33 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-34",
+      "date": "-0043-05-18",
+      "detail": "book:10, letter:34 present in TEI"
+    },
+    {
+      "id": "ad-familiares-10-35",
+      "date": "-0043-05-30",
+      "detail": "book:10, letter:35 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-01",
+      "date": "-0044-05-03",
+      "detail": "book:12, letter:1 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-02",
+      "date": "-0044-10-05",
+      "detail": "book:12, letter:2 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-03",
+      "date": "-0044-10-06",
+      "detail": "book:12, letter:3 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-04",
+      "date": "-0043-02-01",
+      "detail": "book:12, letter:4 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-05",
+      "date": "-0043-02-05",
+      "detail": "book:12, letter:5 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-06",
+      "date": "-0043-04-07",
+      "detail": "book:12, letter:6 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-07",
+      "date": "-0043-08-04",
+      "detail": "book:12, letter:7 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-08",
+      "date": "-0043-06-09",
+      "detail": "book:12, letter:8 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-09",
+      "date": "-0043-06-29",
+      "detail": "book:12, letter:9 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-10",
+      "date": "-0043-07-01",
+      "detail": "book:12, letter:10 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-11",
+      "date": "-0043-03-07",
+      "detail": "book:12, letter:11 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-12",
+      "date": "-0043-05-07",
+      "detail": "book:12, letter:12 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-13",
+      "date": "-0043-06-13",
+      "detail": "book:12, letter:13 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-14",
+      "date": "-0043-06-01",
+      "detail": "book:12, letter:14 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-15",
+      "date": "-0043-06-05",
+      "detail": "book:12, letter:15 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-16",
+      "date": "-0044-05-25",
+      "detail": "book:12, letter:16 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-17",
+      "date": "-0046-06-14",
+      "detail": "book:12, letter:17 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-18",
+      "date": "-0046-10-15",
+      "detail": "book:12, letter:18 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-19",
+      "date": "-0046-12-15",
+      "detail": "book:12, letter:19 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-20",
+      "date": "-0044-09-02",
+      "detail": "book:12, letter:20 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-21",
+      "date": "-0044-10-18",
+      "detail": "book:12, letter:21 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-22",
+      "date": "-0044-09-19",
+      "detail": "book:12, letter:22 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-23",
+      "date": "-0044-10-09",
+      "detail": "book:12, letter:23 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-24",
+      "date": "-0043-01-24",
+      "detail": "book:12, letter:24 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-25",
+      "date": "-0043-03-19",
+      "detail": "book:12, letter:25 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-26",
+      "date": "-0043-03-23",
+      "detail": "book:12, letter:26 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-27",
+      "date": "-0043-04-24",
+      "detail": "book:12, letter:27 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-28",
+      "date": "-0043-05-25",
+      "detail": "book:12, letter:28 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-29",
+      "date": "-0043-06-26",
+      "detail": "book:12, letter:29 present in TEI"
+    },
+    {
+      "id": "ad-familiares-12-30",
+      "date": "-0043-06-09",
+      "detail": "book:12, letter:30 present in TEI"
+    },
+    {
+      "id": "laelius-de-amicitia",
+      "date": "-0044-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "topica",
+      "date": "-0044-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-1",
+      "date": "-0044-09-02",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-2",
+      "date": "-0044-10-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "de-officiis",
+      "date": "-0044-11-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-3",
+      "date": "-0044-12-20",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-4",
+      "date": "-0044-12-20",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-5",
+      "date": "-0043-01-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-7",
+      "date": "-0043-01-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-6",
+      "date": "-0043-01-04",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-10",
+      "date": "-0043-02-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-8",
+      "date": "-0043-02-03",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-9",
+      "date": "-0043-02-04",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-11",
+      "date": "-0043-03-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-12",
+      "date": "-0043-03-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-13",
+      "date": "-0043-03-20",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "philippic-14",
+      "date": "-0043-04-21",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "ad-brutum-01-01",
+      "date": "-0043-06-18",
+      "detail": "book:1, letter:1 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-02",
+      "date": "-0043-05-15",
+      "detail": "book:1, letter:2 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-03",
+      "date": "-0043-04-21",
+      "detail": "book:1, letter:3 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-04",
+      "date": "-0043-09-21",
+      "detail": "book:1, letter:4 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-05",
+      "date": "-0043-05-05",
+      "detail": "book:1, letter:5 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-06",
+      "date": "-0043-05-19",
+      "detail": "book:1, letter:6 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-07",
+      "date": "-0043-06-23",
+      "detail": "book:1, letter:7 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-08",
+      "date": "-0043-06-13",
+      "detail": "book:1, letter:8 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-09",
+      "date": "-0043-02-26",
+      "detail": "book:1, letter:9 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-10",
+      "date": "-0043-07-15",
+      "detail": "book:1, letter:10 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-11",
+      "date": "-0043-06-15",
+      "detail": "book:1, letter:11 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-12",
+      "date": "-0043-07-15",
+      "detail": "book:1, letter:12 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-13",
+      "date": "-0043-07-01",
+      "detail": "book:1, letter:13 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-14",
+      "date": "-0043-07-11",
+      "detail": "book:1, letter:14 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-15",
+      "date": "-0043-08-04",
+      "detail": "book:1, letter:15 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-17",
+      "date": "-0043-10-06",
+      "detail": "book:1, letter:17 present in TEI"
+    },
+    {
+      "id": "ad-brutum-01-18",
+      "date": "-0043-11-07",
+      "detail": "book:1, letter:18 present in TEI"
+    },
+    {
+      "id": "ad-brutum-02-01",
+      "date": "-0043-04-13",
+      "detail": "book:2, letter:1 present in TEI"
+    },
+    {
+      "id": "ad-brutum-02-02",
+      "date": "-0043-04-11",
+      "detail": "book:2, letter:2 present in TEI"
+    },
+    {
+      "id": "ad-brutum-02-03",
+      "date": "-0043-03-32",
+      "detail": "book:2, letter:3 present in TEI"
+    },
+    {
+      "id": "ad-brutum-02-04",
+      "date": "-0043-04-12",
+      "detail": "book:2, letter:4 present in TEI"
+    },
+    {
+      "id": "ad-brutum-02-05",
+      "date": "-0043-04-14",
+      "detail": "book:2, letter:5 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-01",
+      "date": "-0044-03-16",
+      "detail": "book:11, letter:1 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-02",
+      "date": "-0044-05-15",
+      "detail": "book:11, letter:2 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-03",
+      "date": "-0044-08-04",
+      "detail": "book:11, letter:3 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-04",
+      "date": "-0044-10-15",
+      "detail": "book:11, letter:4 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-05",
+      "date": "-0044-12-09",
+      "detail": "book:11, letter:5 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-06",
+      "date": "-0044-12-20",
+      "detail": "book:11, letter:6 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-07",
+      "date": "-0044-04-16",
+      "detail": "book:11, letter:7 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-08",
+      "date": "-0043-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "ad-familiares-11-09",
+      "date": "-0043-04-29",
+      "detail": "book:11, letter:9 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-10",
+      "date": "-0043-05-05",
+      "detail": "book:11, letter:10 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-11",
+      "date": "-0043-05-06",
+      "detail": "book:11, letter:11 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-12",
+      "date": "-0043-05-13",
+      "detail": "book:11, letter:12 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-13",
+      "date": "-0043-05-12",
+      "detail": "book:11, letter:13 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-14",
+      "date": "-0043-05-29",
+      "detail": "book:11, letter:14 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-15",
+      "date": "-0043-06-29",
+      "detail": "book:11, letter:15 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-16",
+      "date": "-0043-07-15",
+      "detail": "book:11, letter:16 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-17",
+      "date": "-0043-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "ad-familiares-11-18",
+      "date": "-0043-06-01",
+      "detail": "book:11, letter:18 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-19",
+      "date": "-0043-05-21",
+      "detail": "book:11, letter:19 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-20",
+      "date": "-0043-05-24",
+      "detail": "book:11, letter:20 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-21",
+      "date": "-0043-06-04",
+      "detail": "book:11, letter:21 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-22",
+      "date": "-0043-07-14",
+      "detail": "book:11, letter:22 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-23",
+      "date": "-0043-05-25",
+      "detail": "book:11, letter:23 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-24",
+      "date": "-0043-06-06",
+      "detail": "book:11, letter:24 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-25",
+      "date": "-0043-06-18",
+      "detail": "book:11, letter:25 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-26",
+      "date": "-0043-06-03",
+      "detail": "book:11, letter:26 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-27",
+      "date": "-0044-08-30",
+      "detail": "book:11, letter:27 present in TEI"
+    },
+    {
+      "id": "ad-familiares-11-28",
+      "date": "-0043-07-01",
+      "detail": "speech, no book/letter structure --- TEI fetched OK"
+    },
+    {
+      "id": "ad-familiares-11-29",
+      "date": "-0044-07-15",
+      "detail": "book:11, letter:29 present in TEI"
+    }
+  ],
+  "placeholder": [
+    {
+      "id": "ad-familiares-05-10",
+      "date": "-0051-07-01",
+      "detail": "latin/letters/051bc-ad-familiares-05-10.tex"
+    },
+    {
+      "id": "ad-familiares-09-25",
+      "date": "-0046-07-01",
+      "detail": "latin/letters/046bc-ad-familiares-09-25.tex"
+    },
+    {
+      "id": "ad-atticum-13-15",
+      "date": "-0045-07-01",
+      "detail": "latin/letters/045bc-ad-atticum-13-15.tex"
+    },
+    {
+      "id": "ad-atticum-13-18",
+      "date": "-0045-07-01",
+      "detail": "latin/letters/045bc-ad-atticum-13-18.tex"
+    }
+  ],
+  "unfetched-missing": [
+    {
+      "id": "ad-brutum-01-16",
+      "date": "-0043-07-01",
+      "detail": "fetch failed: https://www.thelatinlibrary.com/cicero/brut1.shtml"
+    },
+    {
+      "id": "ad-brutum-02-06",
+      "date": "-0043-07-01",
+      "detail": "fetch failed: https://www.thelatinlibrary.com/cicero/brut2.shtml"
+    },
+    {
+      "id": "ad-brutum-02-07",
+      "date": "-0043-07-01",
+      "detail": "fetch failed: https://www.thelatinlibrary.com/cicero/brut2.shtml"
+    },
+    {
+      "id": "ad-brutum-02-08",
+      "date": "-0043-07-01",
+      "detail": "fetch failed: https://www.thelatinlibrary.com/cicero/brut2.shtml"
+    }
+  ]
+}

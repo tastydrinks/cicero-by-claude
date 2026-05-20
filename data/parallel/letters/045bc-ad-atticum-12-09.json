@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-09",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.9",
+  "title_english": "Ad Atticum 12.9",
+  "date": "-0045-07-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ne ego essem hic libenter atque id cotidie magis, ni esset ea causa quam tibi superioribus litteris scripsi. nihil hac solitudine iucundius, nisi paulum interpellasset Amyntae filius. ὢ ἀπεραντολογίας ἀηδοῦσ ! cetera noli putare amabiliora fieri posse villa, litore, prospectu maris, tumulis his rebus omnibus. sed neque haec digna longioribus litteris nec erat quod scriberem, et somnus urgebat.",
+      "eng": "I would be here happily, and more so every day, were it not for the reason I wrote you in my last letter. Nothing is more agreeable than this solitude --- if only the son of Amyntas had not broken in for a little. Oh, what [Greek: aperantologias a\\=edous] --- what unending, tedious chatter! For the rest, do not suppose anything more lovely can be made: the villa, the shore, the prospect of the sea, these hills, the whole of it. But this is not worth a longer letter, nor had I anything to write, and sleep was pressing.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-06",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.6",
+  "title_english": "Ad Familiares 12.6",
+  "date": "-0043-04-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "qui status rerum fuerit tum cum has litteras dedi scire poteris ex C. Titio Strabone, viro bono et optime de re p. sentiente ; nam quid dicam 'cupidissimo tui, qui domo et fortunis relictis ad te potissimum profectus sit? itaque eum tibi ne commendo quidem ; adventus ipsius ad te satis eum commendabit.",
+      "eng": "What the state of affairs has been at the moment of giving this letter you will be able to learn from C. Titius Strabo, a good man and one whose sympathies toward the Republic are of the best; for what shall I say of his being most ardently devoted to you? --- since, leaving home and fortune behind, he has set out to you in preference to anyone. And so I do not even commend him to you: his very arrival at your camp will be commendation enough.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu velim sic existimes tibique persuadeas, omne perfugium bonorum in te et Bruto esse positum, si, quod nolim, adversi quid evenerit. res , cum haec scribebam, erat in extremum adducta discrimen ; Brutus enim Mutinae vix iam sustinebat. qui si conservatus erit, vicimus ; sin, quod di omen avertant! omnis omnium cursus est ad vos. proinde fac animum tantum habeas tantumque apparatum quanto opus est ad universam rem p reciperandam. vale .",
+      "eng": "I would have you reckon, and persuade yourself, that the whole refuge of loyal men has been laid upon you and Brutus, if --- which I do not wish --- anything adverse should happen. The situation, at the moment of my writing this, has been brought to the final crisis: Brutus, at Mutina, is barely holding on now. If he is preserved, we have won; if not --- which heaven avert as an omen! --- the only course of every man is to you. See to it, then, that you have spirit enough, and equipment enough, as is required for the recovery of the whole Republic. Farewell.",
+      "notes": null
+    }
+  ]
+}

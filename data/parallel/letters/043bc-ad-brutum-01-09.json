@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-09",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.9",
+  "title_english": "Ad M. Brutum 1.9",
+  "date": "-0043-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "fungerer eo officio quo tu functus es in meo luctu teque per litteras consolarer, nisi scirem iis remediis quibus meum dolorem tu levasses te in tuo non egere, ac velim facilius quam tunc mihi nunc tibi tute medeare. est autem alienum tanto viro quantus es tu, quod alteri praeceperit id ipsum facere non posse. me quidem cum rationes quas conlegeras tum auctoritas tua a nimio maerore deterruit. Cum enim mollius tibi ferre viderer quam deceret virum praesertim eum qui alios consolari soleret, accusasti me per litteras gravioribus verbis quam tua consuetudo ferebat.",
+      "eng": "I would discharge for you the office you discharged for me in my own bereavement, and console you in a letter, if I did not know that, of those remedies by which you eased my grief, you have no need in your own --- and I should wish that you might cure yourself now as easily as I was cured by you then. Yet it is unbecoming to so great a man as you, that he should be unable to do for himself what he has prescribed for another. As for me, both the reasons you had gathered and the weight of your authority deterred me from excessive mourning. For when I seemed to you to bear it more softly than became a man --- and that man one accustomed to consoling others --- you took me to task in a letter, in language sterner than your usual practice allowed.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "itaque iudicium tuum magni aestimans idque veritus me ipse conlegi et ea quae didiceram, legeram, acceperam, graviora duxi tua auctoritate addita. ac mihi tum, Brute, officio solum erat et naturae, tibi nunc populo et scaenae, ut dicitur, serviendum est. nam cum in te non solum exercitus tui sed omnium civium ac paene gentium coniecti oculi sint, minime decet propter quem fortiores ceteri sumus eum ipsum animo debilitatum videri. quam ob rem accepisti tu quidem dolorem (id enim amisisti cui simile in terris nihil fuit), et est dolendum in tam gravi vulnere ne id ipsum, carere omni sensu doloris, sit miserius quam dolere, sed ut modice ceteris utile est, ita tibi necesse est.",
+      "eng": "And so, prizing your judgement and standing in awe of it, I pulled myself together, and the things I had learned, had read, had heard, I counted weightier with your authority added to them. At that time, Brutus, my duty was to office and to nature only; for you now it is to the people and to the stage, as the saying goes, that you must do service. For since not only the eyes of your own army but those of every citizen and almost of every nation are fixed upon you, it would be least becoming that the very man on whose account the rest of us are stronger should himself be seen weakened in spirit. You have indeed taken on a grief --- for what you have lost had no equal on earth --- and there must be grief in a wound so heavy, lest the very thing, the absence of all sense of grief, should be more wretched than grief itself; but, just as moderate grief is wholesome for the rest of us, so for you it is a necessity.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "scriberem plura nisi ad te haec ipsa nimis multa essent. nos te tuumque exercitum exspectamus; sine quo, ut reliqua ex sententia succedant, vix satis liberi videmur fore. de tota re publica plura scribam et fortasse iam certiora iis litteris quas veteri nostro cogitabam dare.",
+      "eng": "I would write more, were these very words not already too many for you. We are awaiting you and your army; without it, even if everything else goes according to our wish, we hardly seem likely to be free enough. About the commonwealth as a whole I shall write more, and perhaps now on better evidence, in the letter I was meaning to entrust to our old friend.",
+      "notes": null
+    }
+  ]
+}

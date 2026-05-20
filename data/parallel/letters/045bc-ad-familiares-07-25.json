@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-25",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.25",
+  "title_english": "Ad Familiares 7.25",
+  "date": "-0045-08-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quod epistulam conscissam doles, noli laborare, salva est; domo petes, cum libebit. quod autem me mones, valde gratum est, idque ut semper facias rogo; videris enim mihi vereri, †nisi istum habuerimus, rideamus ge/lwta sarda/nion . sed heus tu, manum de tabula! magister adest citius quam putaramus; vereor ne in catomum Catonianos.",
+      "eng": "As for your distress that the letter has been torn up --- don't fret, it is safe; ask for it from my house when you like. Your warning, too, is most welcome, and I beg you to keep on giving it. You seem to me to be afraid that, unless we have got hold of that man, we shall laugh a Sardonic laugh [Greek: gelōta sardanion]. But listen --- hand off the slate! The schoolmaster is on us sooner than we had thought; I fear our Cato-men get a hoisting.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "mi Galle, cave putes quicquam melius quam epistulae tuae partem ab eo loco: ' cetera labuntur.' secreto hoc audi, tecum habeto, ne Apellae quidem, liberto tuo, dixeris. praeter duo nos loquitur isto modo nemo; bene malene videro, sed, quicquid est, nostrum est. urge igitur nec 'transversum unguem,' quod aiunt, a stilo; is enim est dicendi opifex. atque equidem aliquantum iam etiam noctis adsumo.",
+      "eng": "My dear Gallus, do not imagine anything finer than the part of your letter that begins ``and as for the rest, it falls away.'' Hear this in confidence, keep it to yourself --- not even to your freedman Apella tell it. Besides the two of us, no one talks in that vein. Whether the strain is good or bad I shall see in time; but whatever it is, it is ours. So press on, and never ``a finger's breadth,'' as they say, from your pen; for the pen is the workman of speech. And I, in fact, am by now claiming back some hours even from the night.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-14",
+  "category": "letters",
+  "title_latin": "Ad Familiares 4.14",
+  "title_english": "Ad Familiares 4.14",
+  "date": "-0046-01-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "binas a te accepi litteras Corcyrae datas; quarum alteris mihi gratulabare, quod audisses me meam pristinam dignitatem obtinere, alteris dicebas te velle, quae egissem, bene et feliciter evenire. ego autem, si dignitas est bene de re publica sentire et bonis viris probare quod sentias, obtineo dignitatem meam; sin autem in eo dignitas est, si, quod sentias, aut re efficere possis aut denique libera oratione defendere, ne vestigium quidem ullum est reliquum nobis dignitatis, agiturque praeclare, si nosmet ipsos regere possumus, ut ea, quae partim iam adsunt, partim impendent, moderate feramus; quod est difficile in eius modi bello, cuius exitus ex altera parte caedem ostentet, ex altera servitutem.",
+      "eng": "I have had two letters from you, both sent from Corcyra: in the one you congratulated me on having heard that I retained my former standing; in the other you said you wished that what I had done might turn out well and happily. As for me, if standing means thinking rightly about the state and having good men approve what one thinks, then I do retain my standing; but if standing consists in being able to put what one thinks into effect, or at least to defend it in free speech, then there is not a vestige of standing left to us, and we are doing brilliantly if we can govern ourselves so as to bear with moderation what is already at hand and what is hanging over us --- a hard thing in such a war, of which the outcome holds out on the one side slaughter, on the other slavery.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quo in periculo non nihil me consolatur, cum recordor haec me tum vidisse, cum secundas etiam res nostras, non modo adversas pertimescebam videbamque, quanto periculo de iure publico disceptaretur armis quibus si ii vicissent, ad quos ego pacis spe, non belli cupiditate adductus accesseram, tamen intellegebam, et iratorum hominum et cupidorum et insolentium quam crudelis esset futura victoria, sin autem victi essent, quantus interitus esset futurus civium partim amplissimorum, partim etiam optimorum, qui me haec praedicentem atque optime consulentem saluti suae malebant nimium timidum quam satis prudentem existimari.",
+      "eng": "In this danger one thing offers me some consolation: when I remember that I foresaw all this in days when I dreaded even our prosperous fortunes, not merely our adverse ones, and saw with what danger questions of public right were being submitted for decision to arms. If the side prevailed which I had joined, drawn there by the hope of peace and not by the desire of war, I knew none the less how cruel the victory of angry, greedy, and insolent men was going to be; if on the other hand they were defeated, what slaughter there would be of citizens, some of them of the highest rank, others of the best stamp, who, when I predicted these things and was taking the best counsel for their own safety, preferred to think me overly timid than sufficiently prudent.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod autem mihi de eo, quod egerim, gratularis, te ita velle certo scio; sed ego tam misero tempore nihil novi consili cepissem, nisi in reditu meo nihilo meliores res domesticas quam rem publicani offendissem. quibus enim pro meis immortalibus beneficiis carissima mea salus et meae fortunae esse debebant, cum propter eorum scelus nihil mihi intra meos parietes tutum, nihil insidiis vacuum viderem, novarum me necessitudinum fidelitate contra veterum perfidiam muniendum putavi. sed de nostris rebus satis vel etiam nimium multa.",
+      "eng": "As to your congratulating me on what I have done --- that you wish so I know for certain; but I would never have taken any new course at a time so wretched, had I not on my return found my household affairs no better off than the public affairs. To those for whom in return for my immortal kindnesses my own preservation and my own fortunes ought to have been most dear, when I saw, by reason of their crime, that nothing was safe for me within my own walls, nothing free of plotting, I judged that I must fortify myself against the treachery of old ties by the loyalty of new ones. But of my own affairs enough, and indeed too much.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "de tuis velim ut eo sis animo, quo debes esse, id est ut ne quid tibi praecipue timendum putes. si enim status erit aliquis civitatis, quicumque erit, te omnium periculorum video expertem fore; nam alteros tibi iam placatos' esse intellego, alteros numquam iratos fuisse. de mea autem in ite voluntate sic velim iudices, me, quibuscumque rebus opus esse intellegam, quamquam videam, qui sini hoc tempore et quid possim, opera tamen et consilio, studio quidem certe rei, famae, saluti tuae praesto futurum. tu velim, et quid agas et quid acturum te putes, facias me quam diligentissime certiorem. vale .",
+      "eng": "As for yours, I wish you to be of that spirit which you ought to be of --- I mean, that you think nothing is to be feared as touching yourself in particular. If there shall be any settled state of the city, of whatever sort, I see that you will be exempt from every danger; for the one side, I gather, is by now reconciled to you, and the other has never been hostile. As for my own disposition towards you, I wish you to judge thus: that in whatever I shall understand to be required --- however much I may see what powers and what scope I have at this time --- still by my efforts and counsel, certainly at least by my zeal, I shall be at hand for the matter, for your good name, for your safety. I should like you to keep me as carefully informed as possible both of what you are doing and of what you propose to do. Farewell.",
+      "notes": null
+    }
+  ]
+}

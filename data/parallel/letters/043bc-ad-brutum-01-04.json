@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-04",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.4",
+  "title_english": "Ad M. Brutum 1.4",
+  "date": "-0043-05-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quanta sim laetitia adfectus cognitis rebus Bruti nostri et consulum facilius est tibi existimare quam mihi scribere. Cum alia laudo et gaudeo accidisse, tum quod Bruti eruptio non solum ipsi salutaris fuit sed etiam maximo ad victoriam adiumento.",
+      "eng": "How great a joy I felt on learning of the doings of our Brutus and of the consuls, it is easier for you to imagine than for me to write. Among the other things I praise and rejoice that they have come to pass, this above all: that Brutus's sortie was not only a saving stroke for himself, but also the greatest help towards the victory.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod scribis mihi trium Antoniorum unam atque eandem causam esse, quid ego sentiam mei iudici esse: statuo nihil nisi hoc, senatus aut populi Romani iudicium esse de iis civibus qui pugnantes non interierint. at hoc ipsum inquies inique facis qui hostilis animi in rem publicam homines civis appelles. immo iustissime. quod enim nondum senatus censuit nec populus Romanus iussit, id adroganter non praeiudico neque revoco ad arbitrium meum. illud quidem non muto, quod ei quem me occidere res non coegit neque crudeliter quicquam eripui neque dissolute quicquam remisi habuique in mea potestate quoad bellum fuit. multo equidem honestius iudico magisque quod concedere possit res publica miscrorum fortunam non inscctari quam infinite tribucre potentibus quac cupiditatem et adrogantiam incendere possint.",
+      "eng": "When you write that, as far as I am concerned, the three Antonii have one and the same cause, I think the judgement is my own to make. I lay down nothing except this: that the Senate or the Roman people must judge those citizens who have not perished in arms. But this very position --- you will say --- is unjust on my part, who give the name of citizens to men of hostile mind against the state. On the contrary: it is the most just position possible. For what the Senate has not yet decreed, nor the Roman people commanded, I do not arrogantly prejudge nor refer to my own discretion. As for this, I shall not change it: that from the man whom necessity has not compelled me to kill, I have neither stripped anything cruelly, nor remitted anything dissolutely, and I have kept him in my power as long as there was war. Far more honourable, in my view, and easier for the state to allow, is not to harry the fortune of wretched men, than to grant unlimited concessions to the powerful, of the sort that can kindle their greed and arrogance.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "qua in re, Cicero, vir optime atque fortissime mihique merito et meo nomine et rei publicae carissime, nimis credere videris spei tuae statimque, ut quisque aliquid recte fecerit, omnia dare ac permittere, quasi non liceat traduci ad mala consilia corruptum largitionibus animum. quae tua est humanitas, aequo animo te moneri patieris, praesertim de communi salute; facies tamen quod tibi visum fuerit; etiam ego, cum me docueris * *",
+      "eng": "On this point, Cicero --- best and bravest of men, and most dear to me both for your own sake and on behalf of the state --- you seem to me to put too much trust in your own hope, and, the moment anyone has acted rightly in some particular, to grant and entrust him everything, as though a mind once corrupted by lavish gifts could not be drawn over to bad counsels. Such is your humanity, you will allow yourself to be advised with an even temper, especially on the common safety; yet you will do as seems best to you. And I too, when you have set me right * *",
+      "notes": null
+    }
+  ]
+}

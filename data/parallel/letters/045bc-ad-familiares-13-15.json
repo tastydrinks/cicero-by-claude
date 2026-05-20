@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-15",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.15",
+  "title_english": "Ad Familiares 13.15",
+  "date": "-0045-05-31",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Precilium tibi commendo unice, tui necessari, mei familiarissimi, viri optimi filium. quem cum adulescentem ipsum propter eius modestiam, humanitatem, animum et amorem erga me singularem mirifice diligo, tum patrem eius re doctus intellexi et didici mihi fuisse semper amicissimum. em hic ille est de illis , maxime qui inridere atque obiurgare me solitus est, quod me non tecum, praesertim cum abs te honorificentissime invitarer, coniungerem ; a)ll' e)mo\\n ou)/ pote qumo\\n e)ni\\ sth/qessin e)/peiqen. audiebam enim nostros proceres clamitantis : a)/lkimos e)/ss', i(/na ti/s se kai\\ o)yigo/nwn e)u\\ ei)/ph|. w(\\s fa/to, to\\n d' a)/xeos nefe/lh e)ka/luye me/laina.",
+      "eng": "I commend Precilius to you as I commend no one else --- the son of an intimate of yours and a particular friend of mine, a man of the highest character. The young man himself I am wonderfully fond of, both for his modesty, his decent manners, and a turn of mind and an affection towards me beyond the common; and his father, as I have come to understand through actual experience, has always been the warmest of friends to me. There, now: it is precisely he who used, more than the rest, to chide and ridicule me for not making common cause with you, especially when you were inviting me on the most honourable terms; but ``never did they persuade the heart within my breast'' [Greek: all' emon ou pote thumon eni stethessin epeithen]. For I kept hearing our great men shouting at me, ``Be valiant, that some one even of those yet to be born may speak well of you'' [Greek: alkimos ess', hina tis se kai opsigonon eu eipei]. ``So they spoke, and a black cloud of grief enveloped him'' [Greek: hos phato, ton d' acheos nephele ekalupse melaina].",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed tamen idem me consolantur etiam ; hominem perustum etiamnum gloria volunt incendere atque ita loquuntur : mh\\ ma\\n a)spoudi/ ge kai\\ a)kleiw=s a)poloi/mhn, a)lla\\ me/ga r(e/cas ti kai\\ e)ssome/noisi puqe/sqai. sed me minus iam movent, ut vides. itaque ab Homeri magniloquentia confero me ad vera praecepta *eu)ripi/dou : misw= sofisth/n, o(/stis ou)x au(tw=| sofo/s, quem versum senex Precilius laudat egregie et ait posse eundem et a(/ma pro/ssw kai\\ o)pi/ssw videre et tamen nihilo minus ai)e\\n a)risteu/ein kai\\ u(pei/roxon e)/mmenai a)/llwn.",
+      "eng": "And yet the same men console me too: even now, scorched as I am with the desire for glory, they want to set me ablaze again, and they talk in this strain: ``Let me not perish without a struggle, without renown, but having done some great deed for those yet to come to learn of'' [Greek: me man aspoudi ge kai akleios apoloimen, alla mega rexas ti kai essomenoisi puthesthai]. But on me, as you see, this no longer takes hold. And so from the grand manner of Homer I betake myself to the true precepts of Euripides: ``I hate the wise man who is not wise on his own behalf'' [Greek: miso sophisten, hostis ouch hautoi sophos] --- a line which the elder Precilius praises wonderfully, and he says that the same man can both ``see at once forward and backward'' [Greek: hama prosso kai opisso] and none the less ``always be foremost and excel above all others'' [Greek: aien aristeuein kai hupeirochon emmenai allon].",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed ut redeam ad id unde coepi, vehementer mihi gratum feceris, si hunc adulescentem humanitate tua, quae est singularis, comprehenderis et ad id, quod ipsorum Preciliorum causa te velle arbitror, addideris cumulum commendationis meae. genere novo sum litterarum ad te usus, ut intellegeres non vulgarem esse commendationem.",
+      "eng": "But, to come back to where I began, you will do me the very great kindness, if you will embrace this young man with that gentlemanly courtesy of yours, which is unique to you, and add to what I take it you are inclined to do for the sake of the Precilii themselves the full measure of my recommendation. I have employed with you a novel manner of letter, that you might understand this is no ordinary recommendation.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-21",
+  "category": "letters",
+  "title_latin": "Ad Familiares 5.21",
+  "title_english": "Ad Familiares 5.21",
+  "date": "-0046-04-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gratae mihi tuae litterae fuerunt; ex quibus intellexi, quod etiam sine litteris arbitrabar, te summa cupiditate adfectum esse videndi mei. quod ego ita libenter accipio, ut tamen tibi non concedam; nam tecum esse, ita mihi commoda omnia quae opto, contingant, ut vehementer velim! etenim , cum esset maior et virorum et civium bonorum et iucundorum hominum et amantium mei copia, tamen erat nemo, quicum essem libentius quam tecum, et pauci, quibuscum essem aeque libenter; hoc vero tempore cum alii interierint, alii absint, alii mutati voluntate sint, unum medius fidius tecum diem libentius posuerim quam hoc omne tempus cum plerisque eorum, quibuscum vivo necessario. noli enim existimare mihi non solitudinem iucundiorem esse, qua tamen ipsa uti non licet, quam sermones eorum, qui frequentant domum meam, excepto uno aut summum altero.",
+      "eng": "Your letter was welcome to me; from it I gathered, what I had already supposed without a letter, that you have been seized by the keenest desire to see me. I receive this gladly --- and yet I shall not let you outdo me; for, as I hope every good thing I wish for may come my way, I want passionately to be with you. Even in the days when the supply of good men, good citizens, agreeable companions, and people who loved me was more abundant, there was still no one with whom I would rather be than with you, and very few with whom I would as gladly be; and now, when some of them have perished, others are away, and others have changed their feelings, I would on my oath spend one day with you more gladly than all this present time with most of those among whom I have to live. For do not suppose that solitude --- which even so I cannot enjoy --- is not more agreeable to me than the conversation of those who throng my house, with the exception of one or, at most, two.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "itaque utor eodem perfugio, quo tibi utendum censeo, litterulis nostris, praeterea conscientia etiam consiliorum meorum. ego enim is sum, quem ad modum tu facillime potes existimare, qui nihil umquam mea potius quam meorum civium causa fecerim. cui nisi invidisset is, quem tu numquam amasti (me enim amabas), et ipse beatus esset et omnes boni. ego sum, qui nullius vim plus valere volui quam honestum otium idemque, cum illa ipsa arma, quae semper timueram, plus posse sensi quam illum consensum bonorum, quem ego idem effeceram, quavis tuta condicione pacem accipere malui quam viribus cum valentiore pugnare. sed et haec et multa alia coram brevi tempore licebit.",
+      "eng": "I therefore take refuge where I think you should take refuge too: in our little writings, and beyond that in the consciousness of my own policies. For I am, as you may very easily judge, a man who has never acted on his own account in preference to the cause of his fellow citizens. Had he whom you never loved (since you loved me) not begrudged me that, he would have been happy himself, and all good men with him. I am the man who would have no one's force prevail over the honourable leisure of the state; and the same man who, when I saw that the very arms I had always feared had more power than that consensus of good men which I myself had brought into being, preferred to accept peace on any tolerable terms rather than fight against a stronger force. But of this and much else there will soon be leisure to speak face to face.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "neque me tamen ulla res alia Romae tenet nisi exspectatio rerum Africanarum; videtur enim mihi res in propinquum adducta discrimen. puto autem mea non nihil interesse, quamquam id ipsum, quid intersit, non sane intellego, verum tamen, quicquid illinc nuntiatum sit, non longe abesse a consiliis amicorum. est enim res iam in eum locum adducta, ut, quamquam multum intersit inter eorum causas qui dimicant, tamen inter victorias non multum interfuturum putem. sed plane animus, qui dubiis rebus forsitan fuerit infirmior, desperatis confirmatus est multum; quem etiam tuae superiores litterae confirmarunt, quibus intellexi, quam fortiter iniuriam ferres; iuvitque me tibi cum summam humanitatem tum etiam tuas litteras profuisse. verum enim scribam: teneriore mihi animo videbare sicut omnes fere, qui vitam ingenuam in beata civitate et in libera re p. viximus.",
+      "eng": "Nor does anything else hold me at Rome but my waiting on the African news; the matter, it seems to me, has been brought close to a decisive turn. I think my own interests are in some way involved --- though just what is involved I do not really see; yet whatever shall be reported from there will not be far from the deliberations of my friends. For the affair is now reduced to this point: that, however great the difference between the causes of the two sides which are at issue, between their victories there will not, I think, be much difference at all. But indeed my mind, which in the doubtful days was perhaps the more shaken, has been much stiffened now that all is lost; and your earlier letters in particular have stiffened it, from which I gathered how bravely you bear your wrong. It gave me joy that not only the highest humanity, but also my letters, had been of use to you. For I shall write you the truth: you seemed to me, like nearly all of us who have lived the life of free-born men in a happy state and a free republic, to be of too tender a spirit.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "sed , ut illa secunda moderate tulimus, sic hanc non solum adversam sed funditus eversam fortunam fortiter ferre debemus, ut hoc saltem in maximis malis boni consequamur, ut mortem, quam etiam beati contemnere debebamus, propterea quod nullum sensum esset habitura, nunc sic adfecti non modo contemnere debeamus sed etiam optare.",
+      "eng": "But, as we bore those former prosperous days with moderation, so we must bear this present fortune --- which is not merely adverse but ruined from the foundations --- with courage, so that we may at least gain this much good out of our greatest evils: that death, which even in our days of happiness we ought to have despised, on the ground that it would carry no sensation with it, now, in our present condition, we ought not merely to despise but actually to wish for.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "tu , si me diligis, fruere isto otio tibique persuade praeter culpam ac peccatum, qua semper caruisti et carebis, homini accidere nihil posse quod sit inhonorabile aut pertimescendum. ego , si videbitur recte fieri posse, ad te. veniam brevi; si quid acciderit, ut mutandum consilium sit, te certiorem faciam statim. tu ita fac cupidus mei videndi sis, ut istinc te ne moveas tam infirma valetudine, nisi ex me prius quaesieris per litteras quid te velim facere. me velim, ut facis, diligas valetudinique tuae et tranquillitati animi servias.",
+      "eng": "As for you, if you love me, enjoy the leisure you have, and convince yourself that, apart from blame and wrongdoing --- of which you have always been and shall be free --- nothing can befall a man that is dishonourable or to be greatly feared. For my part, if it looks as if the thing can be properly done, I shall come to you in a short time; if anything occurs to require a change of plan, I will inform you at once. Be eager to see me on these terms: that you do not stir from where you are, given your weak state of health, until you have first sent and asked me by letter what I wish you to do. I should like you to go on loving me, as you do, and to be a servant to your own health and to the tranquillity of your mind.",
+      "notes": null
+    }
+  ]
+}

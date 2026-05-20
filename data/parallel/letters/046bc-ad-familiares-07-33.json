@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-33",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.33",
+  "title_english": "Ad Familiares 7.33",
+  "date": "-0046-07-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quod declamationibus nostris cares, damni nihil facis; quod Hirtio invideres, nisi eum amares non erat causa invidendi, nisi forte ipsius eloquentiae magis quam quod me audiret invideres. nos enim plane, mi suavissime Volumni, aut nihil sumus aut nobis quidem ipsis displicemus gregalibus illis, quibus te plaudente vigebamus, ami_is, ut etiam, si quando aliquid dignum nostro nomine emisimus, ingemescamus, quod haec 'pinnigero, non armigero in corpore tela exerceantur,' ut ait Philoctetes apud Accium, 'abiecta gloria.'",
+      "eng": "That you are missing my declamations costs you nothing; that you would envy Hirtius, if you did not love him, there was no cause for envy --- unless, perhaps, you envy him his eloquence itself rather than the fact that he is being heard by me. For we, my most charming Volumnius, are plainly nothing at all --- or at any rate displease ourselves --- now that we are deprived of those old comrades, the friends to whose applause we used to flourish: so that even when at any time we have launched something worthy of our name, we groan that ``these weapons are being practised on a feathered body, not on an armed one,'' as Philoctetes says in Accius, ``with glory thrown aside.''",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed tamen omnia mihi erunt, si tu veneris, hilariora; quamquam venis, ut ipse intellegis, in maximarum quasi concursum occupationum. quas si, ut volumus, exceperimus, ego vero multam salutem et foro dicam et curiae vivamque tecum multum et cum communibus nostris amatoribus. nam et Cassius tuus et Dolabella noster vel potius uterque noster studiis iisdem tenentur et meis aequissimis utuntur auribus. opus est huc limatulo et polito tuo iudicio et illis interioribus litteris Emeisi, quibus saepe verecundiorem me in loquendo facis. mihi enim iudicatum est, si modo hoc Caesar aut patietur aut volet, deponere illam iam personam, in qua me saepe illi ipsi probavi, ac me totum in litteras abdere tecumque et cum ceteris earum studiosis honestissimo otio perfrui. tu vellem ne veritus esses ne †pluribus legerem tuas litteras, si mihi, quem ad modum scribis, longiores forte misisses, ac velim posthac sic statuas, tuas mihi litteras longissimas quasque gratissimas fore.",
+      "eng": "But still, everything will look brighter to me if you come; though you will be arriving, as you know yourself, into what is practically a collision of overwhelming occupations. If we ride those out as we hope to, then truly I shall bid a hearty farewell to the Forum and to the Senate House, and live much with you and with our mutual admirers. For both your Cassius and our Dolabella --- or rather, both of them ours --- are held by the same pursuits, and have in me a most receptive listener. There is a need here of your finely-filed and polished judgement, and of that more recondite learning of yours [Greek corrupt: lectio incerta], by which you often make me more diffident in speaking. For I have made up my mind --- if only Caesar will either permit this or wish it --- to lay aside at last the role in which I have often won approval even from him, and to bury myself wholly in literary studies, and to enjoy in your company and that of others like-minded a leisure of the most honourable kind. I could wish that you had not been afraid that I might read your letter through more than once, if perhaps you sent me longer ones --- as you write you might have done. And I should like you to lay it down henceforth that the longer your letters to me are, the more welcome they will be.",
+      "notes": null
+    }
+  ]
+}

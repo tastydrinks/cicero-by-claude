@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-07",
+  "category": "letters",
+  "title_latin": "Ad Atticum 5.7",
+  "title_english": "Ad Atticum 5.7",
+  "date": "-0051-05-22",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cotidie vel potius in dies singulos breviores litteras ad te mitto; cotidie enim magis suspicor te in Epirum iam profectum. sed tamen ut mandatum scias me curasse, quo de ante, ait se Pompeius quinos praefectos delaturum novos vacationis iudiciariae causa. ego cum triduum cum Pompeio et apud Pompeium fuissem, proficiscebar Brundisium a. d. xi Kal. Iunias. civem illum egregium relinquebam et ad haec quae timentur propulsanda paratissimum. tuas litteras exspectabo cum ut quid agas tum ut ubi sis sciam.",
+      "eng": "Each day, or rather as the days run on, I send you a shorter letter; for each day I more suspect that you have already set out for Epirus. Still, just so you know I have looked after your commission --- the one I mentioned earlier --- Pompey says that he will nominate five new prefects each year on the ground of their exemption from jury service. I had spent three days with Pompey and at his house, and on 22 May I was setting out for Brundisium. I left him behind as a most distinguished citizen, and most ready to ward off the dangers we now fear. I shall be looking for a letter from you, both to know what you are doing and to know where you are.",
+      "notes": null
+    }
+  ]
+}

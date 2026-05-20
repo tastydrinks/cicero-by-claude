@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-30",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.30",
+  "title_english": "Ad Familiares 7.30",
+  "date": "-0044-01-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego vero iam te nec hortor nec rogo ut domum redeas; quin hinc ipse evolare cupio et aliquo pervenire, 'ubi nec Pelopidarum nomen nec facta audiam.' incredibile est quam turpiter mihi facere videar, qui his rebus intersim. ne tu videris multo ante providisse quid impenderet, tum cum hinc profugisti. quamquam haec etiam auditu acerba sunt, tamen audire tolerabilius est quam videre. in campo certe non fuisti, cum hora secunda comitiis quaestoriis institutis sella Q. Maximi, quem illi consulem esse dicebant, posita esset; quo mortuo nuntiato sella sublata est. ille autem, qui comitiis tributis esset auspicatus, centuriata habuit, consulem hora septima renuntiavit, qui usque ad K. Ian. esset quae erant futurae mane postridie. ita Caninio consule scito neminem prandisse. nihil tamen eo consule mali factum est; fuit enim mirifica vigilantia, qui suo toto consulatu somnum non viderit.",
+      "eng": "I no longer urge you, or even ask you, to come home. On the contrary, I myself want to fly out of here and reach some place ``where I shall hear neither the name nor the deeds of the sons of Pelops.'' You would not believe what a disgraceful figure I cut to myself in even being party to all this. You, it seems, foresaw long ago what was coming, back when you fled the country. Even to hear of these things is bitter, but to hear of them is more tolerable than to see them. You at least were not in the Campus when, the quaestorian elections having begun at the second hour, the curule chair of Q. Maximus --- whom they were calling consul --- was set in place; and when news came that he had died, the chair was taken away. The other man, who had taken the auspices for the elections by tribes, then held them by centuries, and at the seventh hour proclaimed a consul to hold office until the Kalends of January --- which were due to fall the next morning. So, you may know that under the consulship of Caninius no man took his luncheon. Yet no harm was done while he was consul; for he was wakeful to a wonder, who in his whole consulship never saw sleep.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "haec tibi ridicula videntur; non enim ades. quae si videres, lacrimas non teneres. quid , si cetera scribam? sunt enim innumerabilia generis eiusdem; quae quidem ego non ferrem, nisi me in philosophiae portum contulissem et nisi haberem socium studiorum meorum Atticum nostrum. cuius quoniam proprium te esse scribis mancipio et nexo, meum autem usu et fructu, contentus isto sum. id enim est cuiusque proprium, quo quisque fruitur atque utitur. sed haec alias pluribus.",
+      "eng": "These things look comic to you, since you are not here. If you were to see them, you would not hold back your tears. What if I were to write you the rest? They are past counting, all of the same kind --- and I, for my part, could not bear them, if I had not betaken myself to the harbour of philosophy, and if I did not have our Atticus as companion in those pursuits. Since you write that you are his by purchase and bond, and mine by use and usufruct, I am content with that arrangement. For each man owns what he uses and enjoys. But of this more another time.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Acilius, qui in Graeciam cum legionibus missus est, maximo meo beneficiost (bis enim est a me iudicio capitis rebus salvis defensus) et est homo non ingratus meque vehementer observat. ad eum de te diligentissime scripsi eamque epistulam cum hac epistula coniunxi. quam ille quo modo acceperit et quid tibi pollicitus sit velim ad me scribas.",
+      "eng": "Acilius, who has been sent to Greece with legions, is much in my debt --- twice I defended him in capital trials, with his estate at stake --- and the man is not ungrateful, and pays me close attention. I have written to him about you in the most diligent terms, and have enclosed that letter with this one. I should be glad if you would let me know how he received it and what he promises you.",
+      "notes": null
+    }
+  ]
+}

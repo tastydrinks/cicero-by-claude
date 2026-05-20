@@ -42,6 +42,22 @@ if [ -f latin/letters/054bc-ad-familiares-13-49.tex ]; then
     git clean -f latin/letters/054bc-ad-familiares-13-49.tex 2>/dev/null || rm -f latin/letters/054bc-ad-familiares-13-49.tex
   fi
 fi
+# Cowork sometimes leaves _tmp_*.jsonl / _tmp_*.txt staging artifacts in
+# data/ when a session uses parallel sub-agents that can't write to a
+# single shared output. They are overwritten with a "% PLACEHOLDER" stub
+# so the sandbox can identify them; this step removes them before commit.
+for tmpf in data/_tmp_*.jsonl data/_tmp_*.txt; do
+  if [ -f "$tmpf" ] && head -1 "$tmpf" 2>/dev/null | grep -q "PLACEHOLDER"; then
+    echo "  removing staging artifact ${tmpf}"
+    rm -f "$tmpf"
+  fi
+done
+# Audit reports (meta/audit-report.md, meta/perseus-audit.md) are
+# regeneratable from scripts; they should be committed only if Alexander
+# wants them as a snapshot. By default we strip them and let him
+# re-run the audit scripts whenever he wants a fresh report. Comment
+# this line out if the snapshots should land.
+# rm -f meta/audit-report.md meta/perseus-audit.md 2>/dev/null || true
 
 echo "--- 2. stage all changes ---"
 git add -A

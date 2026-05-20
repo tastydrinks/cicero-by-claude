@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-31",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.31",
+  "title_english": "Ad Familiares 7.31",
+  "date": "-0044-02-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "facile perspexi ex tuis litteris, quod semper studui, et me a te plurimi fieri et te intellegere quam mihi carus esses. quod quoniam uterque nostrum consecutus est, reliquum est ut officiis certemus inter nos; quibus aequo animo vel vincam te vel vincar abs te. Acilio non fuisse necesse meas dari litteras facile patior;",
+      "eng": "I saw plainly from your letter what I have always aimed at --- that you both hold me in the highest regard and understand how dear you are to me. Since each of us has secured that, what remains is for us to contend in good offices, in which I shall let you defeat me or be defeated by you with equal good will. That my letter was not, in the event, needed for Acilius --- I bear it without complaint.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Sulpici tibi operam intellego ex tuis litteris non multum opus fuisse propter tuas res ita contractas ut quem ad modum scribis, 'nec caput nec pedes.' equidem vellem uti pedes haberent, ut aliquando redires. vides enim exaruisse iam veterem urbanitatem, ut Pomponius noster suo iure possit dicere: Nisi nos pauci retineamus gloriam antiquam Atticam. ergo is tibi, nos ei succedimus. veni igitur, quaeso, ne tamen semen urbanitatis una cum re p. intereat.",
+      "eng": "I gather from your letter that Sulpicius's help was not much wanted, either, given how thoroughly your affairs have been left, as you put it, ``with neither head nor feet.'' I, for my part, could wish them feet, so that you might come back to us one of these days. For you see how the old Roman wit has dried up by now --- so that our Pomponius can say, by his own good right: ``Unless a few of us preserve the ancient Attic glory \\ldots.'' He, then, is your successor, and I am his. So do come back, please --- so that the seed of urbane wit may not perish along with the Republic itself.",
+      "notes": null
+    }
+  ]
+}

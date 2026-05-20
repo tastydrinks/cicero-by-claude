@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-08",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.8",
+  "title_english": "Ad Atticum 12.8",
+  "date": "-0046-11-25",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de Cicerone multis res placet. comes est idoneus. sed de prima pensione ante videamus. adest enim dies et ille currit. scribe , quaeso, quid referat Celer egisse Caesarem cum candidatis, utrum ipse in fenicularium an in Martium campum cogitet. et scire sane velim numquid necesse sit comitiis esse Romae. nam et Piliae satis faciendum est et utique Atticae.",
+      "eng": "About young Cicero --- the plan strikes many people as good. His companion is a suitable one. But about the first installment let us look first. The day is upon us, and the man is in a hurry. Write me, please, what Celer reports Caesar to have done with the candidates --- whether he himself has his thoughts on the Fennel-field of Spain or on the Campus Martius. And I should very much like to know whether it is in any way necessary that I be at Rome for the elections. For I must keep my word to Pilia, and certainly to Attica.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-01",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.1",
+  "title_english": "Ad Familiares 12.1",
+  "date": "-0044-05-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "FINEM nullam facio, mihi crede, Cassi, de te et Bruto nostro, id est de tota re p. cogitandi, cuius omnis spes in vobis est et in D. Bruto ; quam quidem iam habeo ipse meliorem re publica a Dolabella meo praeclarissime gesta. manabat enim illud malum urbanum et ita corroborabatur cotidie ut ego quidem et urbi et otio diffiderem urbano, sed ita sedulo compressa est ut mihi videamur omne iam ad tempus ab illo dumtaxat sordidissimo periculo tuti futuri. reliqua magna sunt ac multa sed posita omnia in vobis. quamquam primum quidque explicemus. nam ut adhuc quidem actum est, non regno sed rege liberati videmur ; interfecto enim rege regios omnis nutus tuemur, neque vero id solum sed etiam, quae ipse ille si viveret non faceret, ea nos quasi cogitata ab illo probamus. nec eius quidem rei finem video. tabulae figuntur, immunitates dantur, pecuniae maximae discribuntur, exsules reducuntur, senatus consulta falsa deferuntur, ut tantum modo odium illud hominis impuri et servitutis dolor depulsus esse videatur, res p. iaceat in iis perturbationibus in quas eam ille coniecit.",
+      "eng": "I make no end, believe me, Cassius, of thinking about you and our Brutus --- that is, about the whole state, whose every hope rests in the two of you and in D. Brutus. And indeed I now hold a better hope of it on my own account, since my dear Dolabella has done so brilliantly. For that urban evil was spreading, and was being so fortified day by day that I, for my part, had lost faith in the city and in its peace; but it has now been pressed down so diligently that we seem to me safe henceforth, for the foreseeable time at least, from that one sordid danger. What remains is great and manifold, but the whole of it rests in you. Still, let us take things one at a time. For as the business has so far been managed, we seem to have been liberated not from the kingship but from the king. The king has been killed, yet we uphold his every kingly nod; and not only that, but things he himself, were he alive, would not be doing, we approve as if he had planned them. And of this I see no end. Edicts are posted up, exemptions are granted, vast sums of money are assigned, exiles are recalled, forged decrees of the Senate are produced --- so that all that has been driven off appears to be only the hatred of that filthy man and the bitterness of slavery, while the state lies in the very disorders into which he flung it.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "haec omnia vobis sunt expedienda, nec hoc cogitandum, satis iam habere rem p. a vobis. habet illa quidem tantum quantum numquam mihi in mentem venit optare, sed contenta non est et pro magnitudine et animi et benefici vestri a vobis magna desiderat. adhuc ulta suas iniurias est per vos interitu tyranni ; nihil amplius ; ornamenta vero sua quae reciperavit? an quod ei mortuo paret quem vivum ferre non poterat? cuius aera refigere debebamus, eius etiam chirographa defendimus? at enim ita decrevimus. fecimus id quidem temporibus cedentes, quae valent in re p. plurimum ; sed immoderate quidam et ingrate nostra facilitate abutuntur. verum haec propediem et multa alia coram ; interim velim sic tibi persuadeas, mihi cum rei p. quam semper habui carissimam, tum amoris nostri causa maximae curae esse tuam dignitatem. da operam ut valeas. vale .",
+      "eng": "All these things must be set right by you, and you must not think the state already has enough from your hands. It has, indeed, more than I ever dreamed of wishing for; but it is not content, and in proportion to the greatness both of your spirit and of your service it demands great things from you. So far it has avenged its wrongs through you, in the killing of the tyrant: nothing more. As for the things that adorned it --- which of them has it recovered? Or is it this, that the state obeys him dead whom it could not endure alive? Whose laws on bronze we ought to be tearing down, and yet whose handwritten memoranda we defend? Yes, but we so decreed it. We did so, indeed, yielding to the times, which in public affairs carry the greatest weight; but certain persons are abusing our compliance immoderately and ungratefully. Yet of these matters, and much else, soon and face to face. Meanwhile I should like you to be persuaded of this: that, both for the sake of the state which I have always held most dear, and for the sake of our friendship, your standing is my deepest concern. Take care to keep well. Farewell.",
+      "notes": null
+    }
+  ]
+}

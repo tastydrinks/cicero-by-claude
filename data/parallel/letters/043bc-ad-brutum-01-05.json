@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-05",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.5",
+  "title_english": "Ad M. Brutum 1.5",
+  "date": "-0043-05-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "A. d. V K. Maias cum de iis qui hostes iudicati sunt bello persequendis sententiae dicerentur, dixit Servilius etiam de Ventidio et ut Cassius persequeretur Dolabellam. arbitrarere utile exque re publica esse, persequerere bello Dolabellam; si minus id commodo rei publicae facere posses sive non existimares ex re publica esse, ut in isdem locis exercitum contineres. nihil honorificentius potuit facere senatus quam ut tuum esset iudicium quid tibi maxime conducere rei publicae videretur. equidem sic sentio, si manum habet, si castra, si ubi consistat uspiam Dolabella, ad finem et ad dignitatem tuam pertinere eum persequi.",
+      "eng": "On the fifth day before the kalends of May, when motions were being delivered about the prosecution of those who have been declared public enemies, Servilius spoke also concerning Ventidius, and to the effect that Cassius should hunt down Dolabella. As for you, the motion was that, if you should judge it useful and consistent with the public interest, you should pursue Dolabella by war; but if you could not do that without disadvantage to the public interest, or did not consider it consistent with the public interest, that you should keep your army in the same regions. The Senate could have paid you no higher compliment than to leave it to your own judgement what would seem to you most conducive to the state. For my part, this is my view: if Dolabella has a force, has a camp, has anywhere at all to make a stand, it bears on your purpose and on your standing to hunt him down.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Cassi nostri copiis nihil sciebamus. neque enim ab ipso ullae litterae neque nuntiabatur quicquam quod pro certo haberemus. quanto opere autem intersit opprimi Dolabellam profecto intellegis, cum ut sceleris poenas persolvat tum ne sit quo se latronum duces ex Mutinensi fuga conferant. atque hoc mihi iam ante placuisse potes ex superioribus meis litteris recordari; quamquam tum et fugae portus erat in tuis castris et subsidium salutis in tuo exercitu. quo magis nunc liberati, ut spero, periculis in Dolabella opprimendo occupati esse debemus. sed haec cogitabis diligentius, statues sapienter; facies nos quid constitueris et quid agas, si tibi videbitur, certiores.",
+      "eng": "Of our friend Cassius's resources we knew nothing. For no letter has come from him personally, nor was anything reported that we could hold for certain. How much it matters, however, that Dolabella be crushed, you surely understand --- both that he should pay the penalty for his crime, and that the brigand-captains may have no rallying-point to which to flock after their flight from Mutina. And that this has been my view for some time you may recall from earlier letters of mine; though at that time the haven for any flight, and the safeguard of our survival, lay in your camp and in your army. So much the more now, freed (as I hope) from peril, we ought to be wholly engaged in the crushing of Dolabella. But these things you will weigh more carefully and decide more wisely; let us know, if it seems good to you, what you have determined and what you are doing.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Ciceronem nostrum in vestrum conlegium cooptari volo. existimo omnino absentium rationem sacerdotum comitiis posse haberi; nam etiam factum est antea. Gaius enim Marius, cum in Cappadocia esset, lege Domitia factus est augur nec quo minus id postea liceret ulla lex sanxit. est etiam in lege Iulia, quae lex est de sacerdotiis proxima, his verbis: QVI PETET CVIVSVE RATIO HABEBITVR. aperte indicat posse rationem haberi etiam non praesentis. hac de re scripsi ad eum, ut tuo iudicio uteretur sicut in rebus omnibus; tibi autem statuendum est de Domitio, de Catone nostro. sed quamvis liceat absentis rationem haberi, tamen omnia sunt praesentibus faciliora. quod si statueris in Asiam tibi eundum, nulla erit ad comitia nostros accersendi facultas.",
+      "eng": "I want our Cicero to be co-opted into your college. I judge that, in general, in the priestly comitia, the case of an absent man can be entertained; for in fact it has been done before. Gaius Marius, while he was in Cappadocia, was made an augur under the Lex Domitia (a law on the election of priests), and no later law has restricted this. There is also in the Lex Iulia --- the most recent law on priesthoods --- this clause: whoever shall stand, or whose case shall be considered. The wording shows openly that the case can be considered even of one who is not present. I have written to him on this matter, telling him to follow your judgement here as in all things; but you will have to decide about Domitius and about our friend Cato. Yet although it is permissible for the case of an absent man to be considered, still everything goes more easily for those present. And if you should decide that you must go to Asia, there will be no way of summoning our young people back for the elections.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "omnino Pansa vivo celeriora omnia putabamus. statim enim conlegam sibi subrogavisset, deinde ante praetoria sacerdotum comitia fuissent. nunc per auspicia longam moram video. dum enim unus erit patricius magistratus, auspicia ad patres redire non possunt. Magna sane perturbatio. tu tota de re quid sentias velim me facias certiorem. iii Nonas Maias.",
+      "eng": "On the whole, while Pansa was alive we expected everything to move more quickly: for he would at once have got himself a colleague substituted, and then the priestly comitia would have come before those for the praetorship. As it is, I foresee a long delay because of the auspices. As long as there is only one patrician magistrate, the auspices cannot return to the patres. The disturbance is serious indeed. I should like you to inform me what you think on the whole matter. The third day before the nones of May.",
+      "notes": null
+    }
+  ]
+}

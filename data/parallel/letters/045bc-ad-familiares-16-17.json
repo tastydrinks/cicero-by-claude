@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-17",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.17",
+  "title_english": "Ad Familiares 16.17",
+  "date": "-0045-07-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "video quid agas ; tuas quoque epistulas vis referri in volumina. sed heus tu, qui kanw/n esse meorum scriptorum soles, unde illud tam a)/kuron 'valetudini fideliter inserviendo'? unde in istum locum 'fideliter' venit? cui verbo domicilium est proprium in officio, migrationes in alienum multae ; nam et doctrina et domus et ars et ager etiam. 'fidelis' dici potest, ut sit, quo modo Theophrasto placet, verecunda tralatio. sed haec coram.",
+      "eng": "I see what you are up to: you want your own letters too collected into volumes. But come now --- you, who are usually the [Greek: kan\\=on], the standard, of my writing --- where does that bit of [Greek: akuron], that loose usage, come from: ``serving your health faithfully''? How did ``faithfully'' end up in that place? The word's own proper home is duty; it has many migrations into other territories --- learning has its faith, so does a house, an art, even a field. ``Faithful'' can be said this way, provided it is, as Theophrastus would have it, a modest metaphor. But more of this in person.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Demetrius venit ad me a quo quidem comitatu a)fwmi/lhsa satis scite. tu eum videlicet non potuisti videre. cras aderit ; videbis igitur ; nam ego hinc perendie mane cogito. valetudo tua me valde sollicitat ; sed inservi et fac omnia. tum te mecum esse, tum mihi cumulatissime satis facere putato. Cuspio quod operam dedisti mihi gratum est ; valde enim eius causa volo. vale .",
+      "eng": "Demetrius has come to me; from his entourage at least I have rather neatly [Greek: aph\\=omil\\=esa] --- prised myself loose. You, of course, were not in a position to see him. He will be here tomorrow, so you will see him then; for I am thinking of leaving here the morning after. Your health is a serious worry to me. Put yourself at its service; do everything that needs doing. Then count yourself as being with me; then count yourself as giving me satisfaction in full measure. Thank you for the trouble you have taken over Cuspius; I want very much to do well by him. Farewell.",
+      "notes": null
+    }
+  ]
+}

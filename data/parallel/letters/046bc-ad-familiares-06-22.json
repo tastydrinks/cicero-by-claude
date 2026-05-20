@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-22",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.22",
+  "title_english": "Ad Familiares 6.22",
+  "date": "-0046-05-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non ea res me deterruit quo minus, postea quam in Italiam venisti, litteras ad te mitterem, quod tu ad me nullas miseras, sed quia nec quid tibi pollicerer ipse egens rebus omnibus nec quid suaderem, cum mihimet ipsi consilium desset, nec quid consolationis adferrem in tantis malis reperiebam. haec quamquam nihilo meliora sunt nunc etiam atque etiam multo desperatiora, tamen inanis esse meas litteras quam nullas malui.",
+      "eng": "It was not the fact that you had sent me no letter that deterred me from writing to you, after you had come into Italy; rather, in such great evils I could find nothing to promise --- I myself being in want of everything --- nothing to advise --- when counsel was lacking for my own case --- nothing in the way of consolation to bring. Though these matters are no better now, and indeed by far more desperate, still I have preferred my letter to be empty rather than absent altogether.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego si te intellegerem plus conatum esse suscipere rei p. causa muneris quam quantum praestare potuisses, tamen, quibuscumque rebus possem, ad eam condicionem te vivendi, quae daretur quaeque esset, hortarer; sed cum consili tui bene fortiterque suscepti eum tibi finem statueris quem ipsa fortuna terminum nostrarum contentionum esse voluisset, oro obtestorque te pro vetere nostra coniunctione ac necessitudine proque summa mea in te benevolentia et tua in me pari, te ut nobis, parenti, coniugi tuisque omnibus quibus es fuistique semper carissimus, salvum conserves, incolumitati tuae tuorumque, qui ex te pendent, consulas, quae didicisti quaeque ab adulescentia pulcherrime a sapientissimis viris tradita memoria et scientia comprehendisti, iis hoc tempore utare, quos coniunctos summa benevolentia plurimisque officiis amisisti, eorum desiderium, si non aequo animo, at forti feras.",
+      "eng": "If I understood that you had taken upon yourself, for the sake of the state, more of a charge than you could have made good, I would still, by whatever means I could, urge you to that mode of living which was on offer and which lay open. But since you have set, for a course chosen well and bravely, the limit which fortune herself would have wished to be the boundary of our struggle, I beg and beseech you, by our long-standing tie and bond, and by my very great goodwill toward you and yours toward me which equals it, that for our sake, for your mother's sake, for your wife's, for all those to whom you are and always have been most dear, you keep yourself safe; that you take thought for your own preservation and that of yours who depend upon you; that the lessons you have learned, the things which from your youth onward you have most beautifully grasped in memory and understanding from the wisest of men, you put to use at this time; and that the loss of those whom, joined to you by the highest goodwill and by countless services, you have now lost, you bear --- if not with an even mind, then at least with a brave one.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ego quid possim nescio vel potius me parum posse sentio; illud tamen tibi polliceor, me, quaecumque saluti dignitatique tuae conducere arbitrabor, tanto studio esse facturum, quanto semper tu et studio et officio in meis rebus fuisti. hanc meam voluntatem ad matrem tuam, optimam feminam tuique amantis simam, detuli. si quid ad me scripseris, ita faciam, ut te velle intellexero; sin autem tu minus scripseris, ego tamen omnia quae tibi utilia esse arbitrabor summo studio diligenterque curabo. vale .",
+      "eng": "What I can do, I do not know, or rather I feel I can do little; this much, however, I promise you: whatever I judge to bear upon your safety and your standing, I will set my hand to with as much zeal as you have always shown, in zeal and in service, in my own affairs. This intention of mine I have conveyed to your mother, that excellent woman who loves you so deeply. If you write me anything, I shall act as I understand you to wish; but if you write less, I shall still, with the greatest zeal and care, attend to everything I judge to be of use to you. Farewell.",
+      "notes": null
+    }
+  ]
+}

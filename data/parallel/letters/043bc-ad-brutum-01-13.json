@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-13",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.13",
+  "title_english": "Ad M. Brutum 1.13",
+  "date": "-0043-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de M. Lepido vereri me cogit reliquorum timor. qui si eripuerit se nobis, quod velim temere atque iniuriose de illo suspicati sint homines, oro atque obsecro te, Cicero, necessitudinem nostram tuamque in me benevolentiam obtestans, sororis meae liberos obliviscaris esse Lepidi filios meque iis in patris locum successisse existimes. hoc si a te impetro, nihil profecto dubitabis pro iis suscipere. aliter alii cum suis vivunt; nihil ego possum in sororis meae liberis facere quo possit expleri voluntas mea aut officium. quid vero aut mihi tribuere boni possunt, si modo digni sumus quibus aliquid tribuatur, aut ego matri ac sorori puerisque illis praestaturus sum, si nihil valuerit apud te reliquumque senatum contra patrem Lepidum Brutus avunculus?",
+      "eng": "About M. Lepidus, the fear of the rest forces me to be afraid myself. If he should tear himself away from us --- which I should wish men have suspected of him rashly and unjustly --- I beg and beseech you, Cicero, calling to witness our bond of family and your goodwill towards me: forget that my sister's children are sons of Lepidus, and consider that I have succeeded to them in their father's place. If I obtain this from you, surely you will not hesitate to take up any task for them. Some men live with their relatives in one way, others in another; I, in the case of my sister's children, can do nothing by which either my own wish or my duty might be filled. What good can they confer on me --- if indeed we are worthy of any benefit being conferred --- or what shall I be able to render to my mother, my sister, and those boys, if no weight has counted with you and with the rest of the Senate, in opposition to their father Lepidus, on the part of their uncle Brutus?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "scribere multa ad te neque possum prae sollicitudine ac stomacho neque debeo. nam si in tanta re tamque necessaria verbis mihi opus est ad te excitandum et confirmandum, nulla spes est facturum te quod volo et quod oportet. qua re noli exspectare longas preces; intuere me ipsum qui hoc a te, vel a Cicerone, coniunctissimo homine, privatim vel a consulari tali viro remota necessitudine privata, debeo impetrare. quid sis facturus velim mihi quam primum rescribas. Kal. Quintilibus ex castris.",
+      "eng": "I cannot, nor ought I, to write much to you, between my anxiety and my exasperation. For if, in a matter so grave and so binding, I have need of words to rouse you and steady you, then there is no hope you will do what I wish and what is right. Therefore look for no long entreaties; look at me myself, who am bound to obtain this from you --- whether from Cicero, as the man most closely tied to me, in private; or from a consular of such standing, family connection set aside, in his public capacity. What you mean to do, I should like you to write back to me as soon as possible. 1 July, from camp.",
+      "notes": null
+    }
+  ]
+}

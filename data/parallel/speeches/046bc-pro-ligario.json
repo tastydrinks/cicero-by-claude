@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "id": "pro-ligario",
+  "category": "speeches",
+  "title_latin": "Pro Q. Ligario",
+  "title_english": "For Quintus Ligarius",
+  "date": "-0046-11-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "novum crimen, C. Caesar, et ante hunc diem non auditum propinquus meus ad te Q. Tubero detulit, Q. Ligarium in Africa fuisse, idque C. Pansa, praestanti vir ingenio, fretus fortasse familiaritate ea quae est ei tecum ausus est confiteri. itaque quo me vertam nescio. paratus enim veneram, cum tu id neque per te scires neque audire aliunde potuisses, ut ignoratione tua ad hominis miseri salutem abuterer . sed quoniam diligentia inimici investigatum est quod latebat, confitendum est, opinor , praesertim cum meus necessarius Pansa fecerit ut id integrum iam non esset, omissaque controversia omnis oratio ad misericordiam tuam conferenda est, qua plurimi sunt conservati, cum a te non liberationem culpae, sed errati veniam impetravissent.",
+      "eng": "A novel charge, Gaius Caesar, and one not heard before this day, my kinsman Quintus Tubero has laid before you: that Quintus Ligarius was in Africa --- and Gaius Pansa, a man of outstanding talent, presuming perhaps on the friendship he has with you, has dared to admit it. So I do not know where to turn. For I had come prepared, since this you neither knew of yourself nor could have heard from any other source, to take advantage of your ignorance for the safety of an unhappy man. But since by an enemy's diligence what lay hidden has been ferreted out, the admission must, I suppose, be made --- the more so since my friend Pansa has seen to it that the matter is no longer open --- and all controversy laid aside, the whole speech must be turned over to your mercy, by which very many have been preserved when they obtained from you not acquittal for guilt but pardon for error.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "habes igitur, Tubero, quod est accusatori maxime optandum, confitentem reum, sed tamen hoc confitentem, se in ea parte fuisse qua te , qua virum omni laude dignum, patrem tuum. itaque prius de vestro delicto confiteamini necesse est quam Ligari ullam culpam reprehendatis. Q. enim Ligarius, cum esset nulla belli suspicio, legatus in Africam C. Considio profectus est, qua in legatione et civibus et sociis ita se probavit ut decedens Considius provincia satis facere hominibus non posset, si quemquam alium provinciae praefecisset. itaque Ligarius, cum diu recusans nihil profecisset, provinciam accepit invitus; cui sic praefuit in pace ut et civibus et sociis gratissima esset eius integritas et fides .",
+      "eng": "You have, then, Tubero, what is most desirable for an accuser: a defendant who confesses --- but who confesses this: that he was on that side on which you were, and on which your father was, a man worthy of every praise. So your offence must be confessed first, before you reprehend any guilt in Ligarius. For Quintus Ligarius, when there was no suspicion of war, went out as legate to Africa with Gaius Considius, and in that legateship so commended himself both to citizens and to allies that, when Considius left the province, he could not satisfy his people unless he set Ligarius in charge of the province. Therefore Ligarius, after refusing for a long time without effect, accepted the province against his will; and he so governed it in peacetime that his integrity and good faith were dearest both to citizens and to allies.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "bellum subito exarsit, quod qui erant in Africa ante audierunt geri quam parari. quo audito partim cupiditate inconsiderata, partim caeco quodam timore primo salutis, post etiam studi sui quaerebant aliquem ducem, cum Ligarius domum spectans, ad suos redire cupiens, nullo se implicari negotio passus est. interim P. Attius Varus, qui tum praetor Africam obtinuerat, Vticam venit. ad eum statim concursum est. atque ille non mediocri cupiditate adripuit imperium, si illud imperium esse potuit quod ad privatum clamore multitudinis imperitae, nullo publico consilio deferebatur.",
+      "eng": "The war broke out suddenly --- those who were in Africa heard of its waging before of its preparing. On hearing this, partly out of unconsidered ambition, partly out of a kind of blind fear --- first for safety, afterwards even for their own interests --- they began to seek some leader, while Ligarius, looking homeward and longing to return to his own, refused to be entangled in any such business. Meanwhile Publius Attius Varus, who had then been praetor in command of Africa, came to Utica. There was an immediate rush to him; and he, with no slight ambition, seized the command --- if that could be called a command which was tendered to a private citizen by the shouting of an untrained mob, with no public authorization.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "itaque Ligarius, qui omne tale negotium fugeret , paulum adventu Vari conquievit. adhuc , C. Caesar, Q. Ligarius omni culpa vacat . domo est egressus non modo nullum ad bellum sed ne ad minimam quidem suspicionem belli; legatus in pace profectus in provincia pacatissima ita se gessit ut ei pacem esse expediret. profectio certe animum tuum non debet offendere: num igitur remansio? multo minus. nam profectio voluntatem habuit non turpem, remansio necessitatem etiam honestam. ergo haec duo tempora carent crimine: unum cum est legatus profectus, alterum cum efflagitatus a provincia praepositus Africae est.",
+      "eng": "And so Ligarius, who shrank from every such business, took some quiet repose when Varus arrived. Up to this point, Gaius Caesar, Quintus Ligarius is clear of every fault. He left home not for any war, not even with the slightest suspicion of war; he set out as a legate in peacetime, and in a wholly peaceful province he so conducted himself that peace was very much to his advantage. His departure surely ought not to offend you. His staying behind, then? Far less so. For his departure had a motive that was not shameful; his staying behind had a necessity that was even honourable. These two stretches of time, then, are clear of any charge: the one when he went out as legate, the other when, at the province's urgent demand, he was set in command of Africa.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "tertium tempus quod post adventum Vari in Africa restitit, si est criminosum, necessitatis crimen est, non voluntatis. an ille, si potuisset illinc ullo modo evadere, Vticae quam Romae, cum P. Attio quam cum concordissimis fratribus, cum alienis esse quam cum suis maluisset? cum ipsa legatio plena desideri ac sollicitudinis fuisset propter incredibilem quendam fratrum amorem, hic aequo animo esse potuit belli discidio distractus a fratribus?",
+      "eng": "The third stretch --- when he stayed on in Africa after Varus's arrival --- if it is criminal, the crime is one of necessity, not of will. Or would he, if he could have got out from there by any means at all, have preferred to be at Utica rather than at Rome, with Publius Attius rather than with the most loving of brothers, with strangers rather than with his own? When the very legateship had been full of longing and anxiety because of an extraordinary love between brothers, could he have endured with an even mind, torn from his brothers by the rupture of war?",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "nullum igitur habes, Caesar, adhuc in Q. Ligario signum alienae a te voluntatis; cuius ego causam animadverte, quaeso, qua fide defendam: prodo meam. O clementiam admirabilem atque omnium laude, praedicatione, litteris monumentisque decorandam! M. Cicero apud te defendit alium in ea voluntate non fuisse in qua se ipsum confitetur fuisse, nec tuas tacitas cogitationes extimescit nec quid tibi de alio audienti de se occurrat reformidat. vide quam non reformidem; vide quanta lux liberalitatis et sapientiae tuae mihi apud te dicenti oboriatur: quantum potero voce contendam ut hoc populus Romanus exaudiat.",
+      "eng": "You have, then, Caesar, no sign so far in Quintus Ligarius of a disposition estranged from you; whose cause --- mark, I beg you, with what good faith I defend it: I am giving away my own. O clemency to be marvelled at, to be adorned by everyone's praise, by proclamation, by writings, by monuments! Marcus Cicero defends before you another man's having not been in that disposition in which he confesses he himself was, and does not fear your unspoken thoughts, does not shrink from what may strike you about himself while you hear of another. See how I do not shrink; see what a light from your generosity and wisdom dawns on me as I speak before you. As loudly as I can, I shall raise my voice, that the Roman people may hear this.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "suscepto bello, Caesar, gesto etiam ex parte magna, nulla vi coactus, iudicio ac voluntate ad ea arma profectus sum quae erant sumpta contra te. apud quem igitur hoc dico? nempe apud eum qui, cum hoc sciret, tamen me, ante quam vidit, rei publicae reddidit; qui ad me ex Aegypto litteras misit ut essem idem qui fuissem; qui me , cum ipse imperator in toto imperio populi Romani unus esset, esse alterum passus est; a quo hoc ipso C. Pansa mihi hunc nuntium perferente concessos fascis laureatos tenui quoad tenendos putavi; qui mihi tum denique salutem se putavit dare , si eam nullis spoliatam ornamentis dedisset.",
+      "eng": "The war once taken up, Caesar, and already in great part waged, with no force compelling me, by judgement and by will I set out towards those arms that had been taken up against you. Before whom, then, do I say this? Surely before the man who, though he knew it, nevertheless gave me back to the commonwealth before he had even seen me; who sent letters to me from Egypt that I should be the same man I had been; who, when in the whole empire of the Roman people he was himself the sole imperator, allowed me to be another; from whom --- through Gaius Pansa himself, who carried me this news --- I held the laurelled fasces that had been granted me as long as I thought they ought to be held; who in the end judged that he was giving me my safety only if he gave it stripped of no ornament.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "vide , quaeso, Tubero, ut, qui de meo facto non dubitem, de Ligari audeam dicere . atque haec propterea de me dixi ut mihi Tubero, cum de se eadem dicerem, ignosceret; cuius ego industriae gloriaeque faveo vel propter propinquam cognationem, vel quod eius ingenio studiisque delector, vel quod laudem adulescentis propinqui existimo etiam ad meum aliquem fructum redundare.",
+      "eng": "See now, Tubero, I beg you: I, who do not hesitate over my own deed, dare to speak of Ligarius's. I have said these things about myself precisely so that Tubero, when I said the same of him, might pardon me; whose own industry and glory I favour, both for our near kinship, and because I take delight in his talent and his pursuits, and because I judge that the praise of a young kinsman redounds also to some fruit of my own.",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "sed hoc quaero: quis putat esse crimen fuisse in Africa ? nempe is qui et ipse in eadem provincia esse voluit et prohibitum se a Ligario queritur, et certe contra ipsum Caesarem est congressus armatus. quid enim, Tubero, tuus ille destrictus in acie Pharsalica gladius agebat? cuius latus ille mucro petebat? qui sensus erat armorum tuorum? quae tua mens, oculi, manus, ardor animi? quid cupiebas, quid optabas? nimis urgeo; commoveri videtur adulescens.",
+      "eng": "But this is what I ask: who reckons it a crime to have been in Africa? Surely the man who himself wished to be in that same province and complains that he was kept out of it by Ligarius, and who certainly went armed in person against Caesar. For what, Tubero, was that drawn sword of yours doing in the line at Pharsalus? Whose flank was that point seeking? What was the meaning of your weapons? What was your mind, what your eyes, what your hand, what the fire of your spirit? What did you desire, what did you pray for? I press too hard --- the young man, I see, is moved.",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "ad me revertar. isdem in armis fui. quid autem aliud egimus, Tubero, nisi ut quod hic potest nos possemus? quorum igitur impunitas, Caesar, tuae clementiae laus est, eorum ipsorum ad crudelitatem te acuet oratio? atque in hac causa non nihil equidem, Tubero, etiam tuam, sed multo magis patris tui prudentiam desidero, quod homo cum ingenio tum etiam doctrina excellens genus hoc causae quod esset non viderit. nam si vidisset, quovis profecto quam isto modo a te agi maluisset. arguis fatentem. non est satis: accusas eum qui causam habet aut, ut ego dico, meliorem quam tu aut, ut tu vis, parem.",
+      "eng": "Let me turn back to myself. I was under the same arms. And what else, Tubero, did we do but try to bring it about that we could do what this man now can? Are those, then, whose impunity is the praise of your clemency, Caesar --- shall your speech, on their behalf, whet you to cruelty? And in this case I miss, Tubero, not a little of your own discernment, but much more of your father's --- since a man pre-eminent both in genius and in learning failed to see what kind of case this was. For had he seen, he would surely have preferred that you handle it in any manner whatever rather than in this one. You charge a man who confesses. That is not enough: you accuse a man whose case is, as I maintain, better than yours, or, as you will have it, equal.",
+      "notes": null
+    },
+    {
+      "loc": "11",
+      "section": 11,
+      "lat": "haec admirabilia , sed prodigi simile est quod dicam. non habet eam vim ista accusatio ut Q. Ligarius condemnetur, sed ut necetur . hoc egit civis Romanus ante te nemo: externi sunt isti mores aut levium Graecorum aut immanium barbarorum. nam quid agis aliud? ut Romae ne sit, ut domo careat, ne cum optimis fratribus, ne cum hoc T. Broccho avunculo, ne cum eius filio consobrino suo , ne nobiscum vivat, ne sit in patria? num est, num potest magis carere his omnibus quam caret? Italia prohibetur, exsulat. non tu hunc ergo patria privare, qua caret, sed vita vis.",
+      "eng": "These are astonishing things, but what I shall say is something close to a monstrosity. This prosecution has no such force that Quintus Ligarius should be condemned by it --- but that he should be put to death. No Roman citizen before you has ever pleaded in this manner: those are foreign manners, of frivolous Greeks or of savage barbarians. For what else are you trying to do? That he should not be at Rome, that he should be deprived of his home, that he should not live with his most excellent brothers, not with this Titus Brocchus his uncle, not with his uncle's son his cousin, not with us, not in his country? Is he --- can he be --- more deprived of all these things than he already is? He is barred from Italy; he is in exile. You wish, then, not to strip him of his country, of which he is already stripped, but of his life.",
+      "notes": null
+    },
+    {
+      "loc": "12",
+      "section": 12,
+      "lat": "at istud ne apud eum quidem dictatorem qui omnis quos oderat morte multabat quisquam egit isto modo. ipse iubebat occidi nullo postulante, praemiis invitabat; quae tamen crudelitas ab hoc eodem aliquot annis post quem tu nunc crudelem esse vis vindicata est. ego vero istud non postulo inquies. ita me hercule existimo, Tubero. Novi enim te, novi patrem, novi domum nomenque vestrum; studia generis ac familiae vestrae virtutis, humanitatis, doctrinae, plurimarum artium atque optimarum nota mihi sunt .",
+      "eng": "Yet even before that dictator who used to punish with death all whom he hated, no one pleaded in this way. He himself ordered men killed though no one asked it, and tempted accusers with rewards --- a cruelty afterwards, some years later, avenged by this very man whom you now wish to be cruel. ``But I do not demand that,'' you say. So, by Hercules, I judge, Tubero. For I know you, I know your father, I know your house and your name: the pursuits of your line and your family --- virtue, humanity, learning, the most numerous and best of arts --- are known to me.",
+      "notes": null
+    },
+    {
+      "loc": "13",
+      "section": 13,
+      "lat": "itaque certo scio vos non petere sanguinem, sed parum attenditis. res enim eo spectat ut ea poena in qua adhuc Q. Ligarius sit non videamini esse contenti. quae est igitur alia praeter mortem? si enim est in exsilio, sicuti est, quid amplius postulatis? an, ne ignoscatur ? hoc vero multo acerbius multoque durius. quodne nos petimus precibus ac lacrimis, strati ad pedes, non tam nostrae causae fidentes quam huius humanitati, id ne impetremus pugnabis , et in nostrum fletum inrumpes, et nos iacentis ad pedes supplicum voce prohibebis?",
+      "eng": "And so I know for certain that you are not seeking blood: but you do not pay sufficient attention. For your case looks to this: that you should not seem to be content with the penalty under which Quintus Ligarius now lies. What is there, then, besides death? For if he is in exile, as he is, what more do you demand? That he should not be pardoned? But this is much harsher, much harder. What we ask by prayers and tears, prostrate at your feet, trusting less in our own case than in your humanity --- shall you fight to keep us from obtaining it, and burst in upon our weeping, and silence with a prosecutor's voice us who lie suppliants at your feet?",
+      "notes": null
+    },
+    {
+      "loc": "14",
+      "section": 14,
+      "lat": "si , cum hoc domi faceremus, quod et fecimus et, ut spero, non frustra fecimus, tu repente inruisses et clamare coepisses C. Caesar, cave credas , cave ignoscas, cave te fratrum pro fratris salute obsecrantium misereat , nonne omnem humanitatem exuisses? quanto hoc durius, quod nos domi petimus, id a te in foro oppugnari et in tali miseria multorum perfugium misericordiae tolli ? dicam plane, Caesar, quod sentio.",
+      "eng": "If, while we were doing this in your house --- as we did, and, as I hope, not in vain --- you had suddenly burst in and begun to shout, ``Gaius Caesar, beware of believing them, beware of pardoning, beware lest pity for brothers begging for a brother's safety move you'' --- would you not have stripped off every shred of humanity? How much harder it is, that what we ask in your house should be opposed by you in the Forum, and that in such great misery the refuge of mercy should be taken away from many. I shall say plainly, Caesar, what I feel.",
+      "notes": null
+    },
+    {
+      "loc": "15",
+      "section": 15,
+      "lat": "si in tanta tua fortuna lenitas tanta non esset, quam tu per te, per te , inquam, obtines—intellego quid loquar—, acerbissimo luctu redundaret ista victoria. quam multi enim essent de victoribus qui te crudelem esse vellent, cum etiam de victis reperiantur! quam multi qui cum a te ignosci nemini vellent, impedirent clementiam tuam, cum hi quibus ipsis ignovisti nolint te esse in alios misericordem!",
+      "eng": "If in so great a fortune as yours there were not so great a gentleness --- which you possess by your own self, by your own self, I say, I know what I am saying --- that victory of yours would have overflowed with the bitterest grief. For how many there would have been among the victors who wished you to be cruel, when even among the conquered such men are to be found! How many who, since they want no one to be pardoned by you, would be obstructing your clemency --- when even those you yourself have pardoned do not want you to be merciful to others!",
+      "notes": null
+    },
+    {
+      "loc": "16",
+      "section": 16,
+      "lat": "quod si probare Caesari possemus in Africa Ligarium omnino non fuisse, si honesto et misericordi mendacio saluti civi calamitoso esse vellemus, tamen hominis non esset in tanto discrimine et periculo civis refellere et coarguere nostrum mendacium, et, si esset alicuius, eius certe non esset qui in eadem causa et fortuna fuisset. sed tamen aliud est errare Caesarem nolle, aliud est nolle misereri. tum diceres : Caesar, cave credas: fuit in Africa , tulit arma contra te. nunc quid dicis? cave ignoscas. haec nec hominis nec ad hominem vox est. qua qui apud te, C. Caesar, utetur , suam citius abiciet humanitatem quam extorquebit tuam.",
+      "eng": "And if we could prove to Caesar that Ligarius was not in Africa at all, if by an honourable and merciful lie we wished to be the salvation of a stricken citizen, still it would not be the part of any man, in so great a crisis and peril of a citizen, to refute and convict our lie; and if it were anyone's part, it would certainly not be his who had been in the same cause and the same fortune. But it is one thing not to want Caesar to be deceived, another not to want him to show pity. Then you would have said: ``Caesar, beware of believing: he was in Africa, he bore arms against you.'' Now what do you say? ``Beware of pardoning.'' That is not a man's voice, nor a voice fit for a man's ear. He who employs it before you, Gaius Caesar, will lay down his own humanity sooner than he wrings out yours.",
+      "notes": null
+    },
+    {
+      "loc": "17",
+      "section": 17,
+      "lat": "ac primus aditus et postulatio Tuberonis haec, ut opinor, fuit, velle se de Q. Ligari scelere dicere. non dubito quin admiratus sis, vel quod nullo de alio quisquam , vel quod is qui in eadem causa fuisset, vel quidnam novi sceleris adferret. scelus tu illud vocas, Tubero? cur? isto enim nomine illa adhuc causa caruit. Alii errorem appellant, alii timorem; qui durius, spem, cupiditatem, odium, pertinaciam; qui gravissime, temeritatem: scelus praeter te adhuc nemo. ac mihi quidem, si proprium et verum nomen nostri mali quaeritur , fatalis quaedam calamitas incidisse videtur et improvidas hominum mentis occupavisse, ut nemo mirari debeat humana consilia divina necessitate esse superata.",
+      "eng": "Now Tubero's first approach and demand was this, I think: that he wished to speak about the crime of Quintus Ligarius. I do not doubt that you were astonished --- either that no one had ever spoken of any other man in this way, or that the speaker had been on the same side, or what new crime he could possibly be bringing in. Do you call that a crime, Tubero? Why? Up to this day, that case has been free of that name. Some call it error, some fear; harsher men call it hope, ambition, hatred, obstinacy; the gravest, recklessness: crime, before you, no one. To me at any rate, if the proper and true name of our calamity is sought, a certain fated disaster seems to have fallen upon us and to have laid hold of the unforeseeing minds of men, so that no one should marvel that human counsels were overborne by divine necessity.",
+      "notes": null
+    },
+    {
+      "loc": "18",
+      "section": 18,
+      "lat": "liceat esse miseros—quamquam hoc victore esse non possumus; sed non loquor de nobis, de illis loquor qui occiderunt—fuerint cupidi, fuerint irati, fuerint pertinaces: sceleris vero crimine, furoris, parricidi liceat Cn. Pompeio mortuo, liceat multis aliis carere. quando hoc ex te quisquam , Caesar, audivit, aut tua quid aliud arma voluerunt nisi a te contumeliam propulsare ? quid egit tuus invictus exercitus nisi uti suum ius tueretur et dignitatem tuam? quid ? tu, cum pacem esse cupiebas, idne agebas ut tibi cum sceleratis an ut cum bonis civibus conveniret?",
+      "eng": "Let us be allowed to be wretched --- though under this victor we cannot be; but I do not speak of ourselves, I speak of those who fell --- let them have been ambitious, let them have been angry, let them have been obstinate: but from the charge of crime, of madness, of parricide, let Gnaeus Pompey when he is dead, let many others, be allowed to be free. When did anyone hear that from you, Caesar, or what else did your arms intend except to drive an insult away from yourself? What did your unconquered army do but defend its own right and your dignity? And you, when you wanted peace --- were you trying to come to terms with criminals, or with good citizens?",
+      "notes": null
+    },
+    {
+      "loc": "19",
+      "section": 19,
+      "lat": "mihi vero, Caesar , tua in me maxima merita tanta certe non viderentur, si me ut sceleratum a te conservatum putarem. quo modo autem tu de re publica bene meritus esses , cum tot sceleratos incolumi dignitate esse voluisses? secessionem tu illam existimavisti, Caesar, initio, non bellum, nec hostile odium, sed civile discidium, utrisque cupientibus rem publicam salvam , sed partim consiliis, partim studiis a communi utilitate aberrantibus. principum dignitas erat paene par, non par fortasse eorum qui sequebantur; causa tum dubia, quod erat aliquid in utraque parte quod probari posset; nunc melior ea iudicanda est quam etiam di adiuverunt. cognita vero clementia tua quis non eam victoriam probet in qua occiderit nemo nisi armatus?",
+      "eng": "For my part, Caesar, your supreme services towards me would not seem so great, if I thought I had been preserved by you as a criminal. And how could you have deserved well of the commonwealth if you had wished so many criminals to remain in their dignity unharmed? That, in the beginning, you judged a secession, Caesar, not a war, not hatred of an enemy but a rift between citizens, with both sides wishing the commonwealth safe but partly in their counsels, partly in their zeal, wandering away from the common good. The dignity of the leading men was nearly equal --- not so, perhaps, of their followers; the cause was then doubtful, since there was something on each side that could be approved; now that side must be judged the better which even the gods aided. And once your clemency was known, who could not approve that victory, in which no one fell except in arms?",
+      "notes": null
+    },
+    {
+      "loc": "20",
+      "section": 20,
+      "lat": "sed , ut omittam communem causam, veniamus ad nostram. utrum tandem existimas facilius fuisse, Tubero, Ligario ex Africa exire an vobis in Africam non venire? poteramusne , inquies, cum senatus censuisset? si me consulis, nullo modo; sed tamen Ligarium senatus idem legaverat. atque ille eo tempore paruit cum parere senatui necesse erat; vos tum paruistis cum paruit nemo qui noluit. reprehendo igitur? minime vero. neque enim licuit aliter vestro generi, nomini, familiae, disciplinae. sed hoc non concedo ut, quibus rebus gloriemini in vobis, easdem in aliis reprehendatis.",
+      "eng": "But, to set aside the common cause and come to ours: which, in the end, do you think was easier, Tubero --- for Ligarius to get out of Africa, or for you not to come into Africa? ``Could we,'' you will say, ``when the Senate had so decreed?'' If you ask me, by no means; but the same Senate had also dispatched Ligarius as legate. And he obeyed at a time when one had to obey the Senate; you obeyed at a time when no one obeyed who did not wish to. Do I reprehend you, then? Not at all. For nothing else was open to your line, your name, your family, your training. But this I do not concede: that you reprehend in others the very things on which you pride yourselves.",
+      "notes": null
+    },
+    {
+      "loc": "21",
+      "section": 21,
+      "lat": "Tuberonis sors coniecta est ex senatus consulto, cum ipse non adesset, morbo etiam impediretur: statuerat excusari . haec ego novi propter omnis necessitudines quae mihi sunt cum L. Tuberone: domi una eruditi, militiae contubernales, post adfines, in omni vita familiares; magnum etiam vinculum quod isdem studiis semper usi sumus. scio Tuberonem domi manere voluisse: sed ita quidam agebant, ita rei publicae sanctissimum nomen opponebant ut, etiam si aliter sentiret, virorum tamen ipsorum pondus sustinere non posset.",
+      "eng": "Tubero's lot was assigned by decree of the Senate, when he himself was not present, hindered too by illness: he had resolved to be excused. These things I know on account of all the bonds that I have with Lucius Tubero: at home schooled together, in the field tent-mates, afterwards relations by marriage, and in our whole life intimates; with the further great bond that we have always pursued the same studies. I know that Tubero wished to remain at home. But certain men were pressing, and they were holding up against him the most sacred name of the commonwealth, in such a way that even if he had been of another mind, he could not have borne up against the weight of those very men.",
+      "notes": null
+    },
+    {
+      "loc": "22",
+      "section": 22,
+      "lat": "cessit auctoritati amplissimi viri vel potius paruit: una est profectus cum eis quorum erat una causa. tardius iter fecit; itaque in Africam venit iam occupatam. hinc in Ligarium crimen oritur vel ira potius. nam si crimen est voluisse , non minus magnum est vos Africam, arcem omnium provinciarum, natam ad bellum contra hanc urbem gerendum, obtinere voluisse quam aliquem se maluisse. atque is tamen aliquis Ligarius non fuit: Varus imperium se habere dicebat; fascis certe habebat.",
+      "eng": "He yielded to the authority of a most distinguished man --- or rather, he obeyed it: he set out with those whose cause was one. His journey was made too slowly; and so he came into Africa when it was already occupied. From this the charge against Ligarius --- or rather the wrath --- arises. For if to have wished is a crime, it is no less great a crime that you wished to hold Africa, the stronghold of all the provinces, born to wage war against this city, than that someone preferred to hold it himself. And yet that ``someone'' was not Ligarius: Varus claimed to hold the command; certainly he held the fasces.",
+      "notes": null
+    },
+    {
+      "loc": "23",
+      "section": 23,
+      "lat": "sed quoquo modo se illud habet , haec querela, Tubero, vestra quid valet? recepti in provinciam non sumus. quid , si essetis? Caesarine eam tradituri fuistis an contra Caesarem retenturi? vide quid licentiae, Caesar, nobis tua liberalitas det vel potius audaciae. si responderit Tubero, Africam, quo senatus eum sorsque miserat, tibi patrem suum traditurum fuisse, non dubitabo apud ipsum te cuius id eum facere interfuit gravissimis verbis eius consilium reprehendere. non enim, si tibi ea res grata fuisset, esset etiam approbata .",
+      "eng": "But however that may stand, what does this complaint of yours, Tubero, amount to? We were not received into the province. ``What if you had been?'' Were you going to hand it over to Caesar, or hold it against Caesar? See what licence --- or rather what audacity --- your generosity grants us, Caesar. If Tubero shall answer that Africa, where the Senate and the lot had sent him and his father, would have been handed over to you, I shall not hesitate, before your very self in whose interest it was that he do this, to reprehend his policy in the gravest terms. For though that fact would have been welcome to you, it would not therefore have been approved.",
+      "notes": null
+    },
+    {
+      "loc": "24",
+      "section": 24,
+      "lat": "sed iam hoc totum omitto, non ultra offendam tuas patientissimas auris quam ne Tubero quod numquam cogitavit facturus fuisse videatur. veniebatis igitur in provinciam , unam ex omnibus huic victoriae maxime infensam , in qua rex potentissimus inimicus huic causae, aliena voluntas conventus firmi atque magni. quaero : quid facturi fuistis ? quamquam quid facturi fueritis dubitem , cum videam quid feceritis? prohibiti estis in provincia vestra pedem ponere et prohibiti summa cum iniuria.",
+      "eng": "But now I drop this whole topic --- I shall not further offend your most patient ears, lest Tubero be made to seem to have intended what he never intended. You were coming, then, into a province, the one most hostile of all to this victory, in which there was a most powerful king unfriendly to this side, and the disposition of a strong and large body of business hostile. I ask: what were you going to do? Although why should I be in doubt what you would have done, when I see what you did? You were prohibited from setting foot in your own province, and prohibited with the greatest injustice.",
+      "notes": null
+    },
+    {
+      "loc": "25",
+      "section": 25,
+      "lat": "quo modo id tulistis? acceptae iniuriae querelam ad quem detulistis? nempe ad eum cuius auctoritatem secuti in societatem belli veneratis. quod si Caesaris causa in provinciam veniebatis, ad eum profecto exclusi provincia venissetis. venistis ad Pompeium. quae est ergo apud Caesarem querela, cum eum accusetis a quo queramini prohibitos vos contra Caesarem gerere bellum? atque in hoc quidem vel cum mendacio, si voltis , gloriemini per me licet, vos provinciam fuisse Caesari tradituros. etiam si a Varo et a quibusdam aliis prohibiti estis , ego tamen confitebor culpam esse Ligari qui vos tantae laudis occasione privarit .",
+      "eng": "How did you take it? To whom did you carry your complaint of the injustice you had suffered? Surely to the man whose authority you had followed when you came into the partnership of war. If, then, you were coming into the province for Caesar's sake, surely, shut out from the province, you would have come to him. You came to Pompey. What complaint, then, is there before Caesar, when you accuse the man by whom you complain you were prevented from making war against Caesar? And in this matter at least --- even with a lie, if you wish --- you have my leave to boast that you would have handed the province over to Caesar. Even if you were prevented by Varus and by certain others, I shall still confess that it was Ligarius's fault, who deprived you of the occasion for so great a praise.",
+      "notes": null
+    },
+    {
+      "loc": "26",
+      "section": 26,
+      "lat": "sed vide, quaeso, Caesar, constantiam ornatissimi viri L. Tuberonis , quam ego, quamvis ipse probarem, ut probo, tamen non commemorarem, nisi a te cognovissem in primis eam virtutem solere laudari. quae fuit igitur umquam in ullo homine tanta constantia? Constantiam dico; nescio an melius patientiam possim dicere. quotus enim istud quisque fecisset ut, a quibus partibus in dissensione civili non esset receptus, essetque etiam cum crudelitate reiectus, ad eas ipsas partis rediret? Magni cuiusdam animi atque eius viri quem de suscepta causa propositaque sententia nulla contumelia, nulla vis, nullum periculum posset depellere.",
+      "eng": "But see, I beg you, Caesar, the constancy of that most distinguished man Lucius Tubero --- which, though I should approve it of myself, as I do, I should still not be calling to mind, had I not learned from you that it is in the first rank of the virtues you are wont to praise. What constancy, then, was ever found in any man so great as his? I say constancy --- I do not know if I should better call it patience. For how few would have done what he did: to return to that same party from which, in a civil dissension, he had not been received --- nay, had even been rejected with cruelty? A mark of a great spirit, and of a man whom no insult, no force, no danger could turn aside from a cause once taken up and a resolution once announced.",
+      "notes": null
+    },
+    {
+      "loc": "27",
+      "section": 27,
+      "lat": "ut enim cetera paria Tuberoni cum Varo fuissent, honos , nobilitas, splendor, ingenium, quae nequaquam fuerunt, hoc certe praecipuum Tuberonis quod iusto cum imperio ex senatus consulto in provinciam suam venerat. hinc prohibitus non ad Caesarem ne iratus, non domum ne iners, non aliquam in regionem ne condemnare causam illam quam secutus esset videretur: in Macedoniam ad Cn. Pompei castra venit, in eam ipsam causam a qua erat reiectus iniuria.",
+      "eng": "For granting that Tubero was on a par with Varus in all the rest --- in honour, nobility, splendour, talent (which by no means he was) --- this at any rate was Tubero's special claim: that he had come into his province with lawful imperium, by decree of the Senate. Shut out from it, he did not go to Caesar --- lest he seem angry; he did not go home --- lest he seem idle; he did not go off into some region --- lest he seem to be condemning the cause he had followed. He came into Macedonia, to the camp of Gnaeus Pompey, into that very cause from which he had been driven away by injustice.",
+      "notes": null
+    },
+    {
+      "loc": "28",
+      "section": 28,
+      "lat": "quid ? cum ista res nihil commovisset eius animum ad quem veneratis, languidiore, credo, studio in causa fuistis; tantum modo in praesidiis eratis, animi vero a causa abhorrebant: an, ut fit in civilibus bellis —nec in vobis magis quam in reliquis; omnes enim vincendi studio tenebamur. pacis equidem semper auctor fui, sed tum sero; erat enim amentis, cum aciem videres, pacem cogitare. omnes , inquam, vincere volebamus; tu certe praecipue , qui in eum locum venisses ubi tibi esset pereundum, nisi vicisses. quamquam , ut nunc se res habet, non dubito quin hanc salutem anteponas illi victoriae.",
+      "eng": "What now? When this had in no way moved the spirit of the man to whom you came, were you, then, less keen in the cause? Were you only on guard duty, while your hearts shrank from the cause? Or --- as happens in civil wars --- no more in you than in the rest? For we were all gripped by the zeal of conquering. I, indeed, was always a counsellor of peace; but then it was too late. For it was the part of a madman, when one saw the battle-line drawn, to be thinking of peace. We all, I say, wanted to conquer; you above all, certainly, who had come into a place where you would have had to die unless you conquered. Though, as matters now stand, I do not doubt that you set this safety above that victory.",
+      "notes": null
+    },
+    {
+      "loc": "29",
+      "section": 29,
+      "lat": "haec ego non dicerem, Tubero, si aut vos constantiae vestrae aut Caesarem benefici sui paeniteret. nunc quaero utrum vestras iniurias an rei publicae persequamini. si rei publicae, quid de vestra in illa causa perseverantia respondebitis? si vestras, videte ne erretis qui Caesarem vestris inimicis iratum fore putetis, cum ignoverit suis. itaque num tibi videor in causa Ligari esse occupatus, num de eius facto dicere? quicquid dixi, ad unam summam referri volo vel humanitatis vel clementiae vel misericordiae .",
+      "eng": "These things I would not be saying, Tubero, if either you regretted your constancy or Caesar regretted his kindness. As it is, I ask whether you are pursuing your own injuries or the commonwealth's. If the commonwealth's, what will you say in answer for your persistence in that cause? If your own, beware lest you err who think Caesar will be angry with your enemies, when he has pardoned his own. Do I seem to you, then, to be occupied with Ligarius's case --- to be speaking about his deed? Whatever I have said, I want it referred to one single sum: of humanity, of clemency, of pity.",
+      "notes": null
+    },
+    {
+      "loc": "30",
+      "section": 30,
+      "lat": "causas , Caesar, egi multas equidem tecum, dum te in foro tenuit ratio honorum tuorum, certe numquam hoc modo: ignoscite , iudices; erravit, lapsus est, non putavit; si umquam posthac. ad parentem sic agi solet, ad iudices: non fecit, non cogitavit; falsi testes, fictum crimen. dic te, Caesar, de facto Ligari iudicem esse; quibus in praesidiis fuerit quaere : taceo, ne haec quidem conligo, quae fortasse valerent etiam apud iudicem: legatus ante bellum profectus, relictus in pace, bello oppressus, in eo ipso non acerbus , totus animo et studio tuus. ad iudicem sic , sed ego apud parentem loquor: erravi , temere feci , paenitet; ad clementiam tuam confugio, delicti veniam peto, ut ignoscatur oro. si nemo impetravit, adroganter: si plurimi, tu idem fer opem qui spem dedisti.",
+      "eng": "I have pleaded many cases with you, Caesar, while consideration for your honours kept you in the Forum --- but certainly never in this manner: ``Pardon, gentlemen of the jury; he erred, he slipped, he did not think; if ever again in the future...'' That is the way one speaks before a parent, before judges: ``He did not do it, he did not plan it; false witnesses, a trumped-up charge.'' Say, Caesar, that you are the judge of Ligarius's deed; ask in what garrisons he was: I am silent, I do not even gather up these things, which perhaps would carry weight even before a judge --- ``set out as legate before the war, left behind in peacetime, overwhelmed by war, in that very war not harsh, wholly yours in mind and zeal.'' So one speaks before a judge: but I am speaking before a parent. ``I erred, I acted rashly, I am sorry. To your clemency I flee for refuge, I beg pardon for my offence, I pray that I may be forgiven.'' If no man has obtained this, it would be insolence; if very many, then do you yourself bring aid, since you yourself have given hope.",
+      "notes": null
+    },
+    {
+      "loc": "31",
+      "section": 31,
+      "lat": "an sperandi de Ligario causa non erit , cum mihi apud te locus sit etiam pro altero deprecandi? quamquam nec in hac oratione spes est posita causae nec in eorum studiis qui a te pro Ligario petunt tui necessarii. vidi enim et cognovi quid maxime spectares, cum pro alicuius salute multi laborarent: causas apud te rogantium gratiosiores esse quam voltus , neque te spectare quam tuus esset necessarius is qui te oraret, sed quam illius pro quo laboraret. itaque tribuis tu quidem tuis ita multa ut mihi beatiores illi videantur interdum qui tua liberalitate fruantur quam tu ipse qui illis tam multa concedas; sed video tamen apud te, ut dixi, causas valere plus quam preces, ab eisque te moveri maxime quorum iustissimum videas dolorem in petendo.",
+      "eng": "Or shall there be no ground of hope concerning Ligarius, when before you a place is given me even of pleading for another? Though neither in this speech is the hope of the case placed, nor in the zeal of those of your friends who plead with you on Ligarius's behalf. For I have seen and learned what above all you look to, when many are at pains for someone's safety: that the causes of the petitioners weigh more with you than their faces; and that you do not consider how close to you the one who entreats you is, but how close to the man for whom he is at pains. And so you assign to your own friends so many favours that sometimes those who enjoy your generosity seem to me happier than you yourself who grant them so much; but I see nevertheless, as I have said, that with you causes count for more than prayers, and that you are most moved by those whose grief in their petitioning you see to be most just.",
+      "notes": null
+    },
+    {
+      "loc": "32",
+      "section": 32,
+      "lat": "in Q. Ligario conservando multis tu quidem gratum facies necessariis tuis, sed hoc, quaeso, considera, quod soles. possum fortissimos viros, Sabinos, tibi probatissimos, totumque agrum Sabinum, florem Italiae ac robur rei publicae, proponere . Nosti optime homines. animadverte horum omnium maestitiam et dolorem; huius T. Brocchi de quo non dubito quid existimes lacrimas squaloremque ipsius et fili vides.",
+      "eng": "In saving Quintus Ligarius you will indeed do something welcome to many of your friends; but consider this, I beg you, as is your custom. I can set before you men of the greatest courage, Sabines, very dear to you, and the whole Sabine country, the flower of Italy and the strength of the commonwealth. You know these men best. Mark the sadness and grief of all of them; the tears and the mourning dress of this Titus Brocchus --- whom I have no doubt how you judge --- and of his son you see.",
+      "notes": null
+    },
+    {
+      "loc": "33",
+      "section": 33,
+      "lat": "quid de fratribus dicam? noli , Caesar, putare de unius capite nos agere: aut tres Ligarii retinendi in civitate sunt aut tres ex civitate exterminandi. quodvis exsilium his est optatius quam patria, quam domus, quam di penates, illo uno exsulante. si fraterne, si pie, si cum dolore faciunt, moveant te horum lacrimae, moveat pietas, moveat germanitas; valeat tua vox illa quae vicit. te enim dicere audiebamus nos omnis adversarios putare, nisi qui nobiscum essent; te omnis qui contra te non essent tuos. videsne igitur hunc splendorem omnem , hanc Brocchorum domum, hunc L. Marcium, C. Caesetium, L. Corfidium, hos omnis equites Romanos qui adsunt veste mutata, non solum notos tibi verum etiam probatos viros . atque his irascebamur, hos requirebamus, his non nulli etiam minabantur . conserva igitur tuis suos ut, quem ad modum cetera quae dicta sunt a te, sic hoc verissimum reperiatur.",
+      "eng": "What shall I say of the brothers? Do not, Caesar, suppose that we are pleading for the life of one man only: either three Ligarii must be kept in the citizenship, or three must be banished from the citizenship. Any exile is more welcome to them than their country, than their home, than their household gods, while that one is in exile. If they act as brothers, as dutiful men, with grief, let their tears move you, let loyalty move you, let the bond of birth move you; let that voice of yours which won the day prevail. For we used to hear you say that you considered all men our adversaries who were not with us, and you considered all yours who were not against you. Do you see, then, all this distinction, this house of the Brocchi, this Lucius Marcius, this Gaius Caesetius, this Lucius Corfidius, all these Roman knights here present in mourning, men not only known but approved by you? And it was with these that we used to be angry, these whom we missed, and at these some of us even hurled threats. Preserve, then, your own men's own kin, so that, as with the other things you have said, this also may be found most true.",
+      "notes": null
+    },
+    {
+      "loc": "34",
+      "section": 34,
+      "lat": "quod si penitus perspicere posses concordiam Ligariorum, omnis fratres tecum iudicares fuisse. an potest quisquam dubitare quin, si Q. Ligarius in Italia esse potuisset, in eadem sententia futurus fuerit in qua fratres fuerunt? quis est qui horum consensum conspirantem et paene conflatum in hac prope aequalitate fraterna noverit qui hoc non sentiat, quidvis prius futurum fuisse quam ut hi fratres diversas sententias fortunasque sequerentur? voluntate igitur omnes tecum fuerunt: tempestate abreptus est unus qui, si consilio id fecisset, esset eorum similis quos tu tamen salvos esse voluisti.",
+      "eng": "For if you could see deep into the concord of the Ligarii, you would judge that all the brothers were with you. Can anyone doubt that, if Quintus Ligarius could have been in Italy, he would have been of the same mind as his brothers were? Who is there, having known the harmony of these men --- a concord conspiring and almost fused in this near-equality of brothers --- who does not feel that anything would have happened sooner than that these brothers should follow different opinions and different fortunes? In will, then, they were all with you; one was swept off by the storm, who, had he done it by his own counsel, would have been like those whom you nevertheless wished safe.",
+      "notes": null
+    },
+    {
+      "loc": "35",
+      "section": 35,
+      "lat": "sed ierit ad bellum, dissenserit non a te solum verum etiam a fratribus: hi te orant tui. equidem , cum tuis omnibus negotiis interessem, memoria teneo qualis T. Ligarius quaestor urbanus fuerit erga te et dignitatem tuam. sed parum est me hoc meminisse: spero etiam te qui oblivisci nihil soles nisi iniurias—cum hoc est animi, tum etiam ingeni tui—te aliquid de huius illo quaestorio officio, etiam de aliis quibusdam quaestoribus reminiscentem recordari.",
+      "eng": "But suppose he went off to the war, suppose he dissented not only from you but even from his brothers: these your own people pray you. For my part, having been present in all your affairs, I hold in memory what kind of urban quaestor Titus Ligarius was towards you and your dignity. But it is not enough that I remember this: I hope that you too, who are wont to forget nothing but injuries --- both because such is your spirit and because such is your talent --- as you recall something of his service as quaestor in those days, and indeed of some other quaestors, will call this back to mind.",
+      "notes": null
+    },
+    {
+      "loc": "36",
+      "section": 36,
+      "lat": "hic igitur T. Ligarius, qui tum nihil egit aliud—neque enim haec divinabat—nisi ut tui se studiosum et bonum virum iudicares, nunc a te supplex fratris salutem petit. quam huius admonitus officio cum utrisque his dederis, tris fratres optimos et integerrimos non solum sibi ipsos neque his tot talibus viris neque nobis necessariis tuis sed etiam rei publicae condonaveris.",
+      "eng": "This Titus Ligarius, then, who at that time did nothing else --- for he was not foreseeing these days --- but bring it about that you should judge him zealous for you and a good man, now begs you as suppliant for his brother's life. When, prompted by his service, you have granted that life to both of these, you will have made over three of the most excellent and upright brothers --- not only to themselves, not only to these many distinguished men, not only to us your friends, but to the commonwealth itself.",
+      "notes": null
+    },
+    {
+      "loc": "37",
+      "section": 37,
+      "lat": "fac igitur, quod de homine nobilissimo et clarissimo fecisti nuper in curia, nunc idem in foro de optimis et huic omni frequentiae probatissimis fratribus. ut concessisti illum senatui, sic da hunc populo, cuius voluntatem carissimam semper habuisti, et, si ille dies tibi gloriosissimus, populo Romano gratissimus fuit, noli, obsecro, dubitare, C. Caesar, similem illi gloriae laudem quam saepissime quaerere. nihil est tam populare quam bonitas, nulla de virtutibus tuis plurimis nec admirabilior nec gratior misericordia est.",
+      "eng": "Do, then, what you did lately in the Senate-house for a man most noble and most illustrious: do now the same in the Forum for these best of brothers, most approved by this whole assembly. As you granted him to the Senate, so give this man to the people, whose good will you have always held most dear; and if that day was for you most glorious, for the Roman people most welcome, do not hesitate, I implore you, Gaius Caesar, to seek as often as possible a praise like that glory. There is nothing so popular as goodness; of your many virtues none is more to be wondered at, none more welcome, than mercy.",
+      "notes": null
+    },
+    {
+      "loc": "38",
+      "section": 38,
+      "lat": "homines enim ad deos nulla re propius accedunt quam salutem hominibus dando . nihil habet nec fortuna tua maius quam ut possis, nec natura melius quam ut velis servare quam plurimos. longiorem orationem causa forsitan postulet , tua certe natura breviorem. qua re cum utilius esse arbitrer te ipsum quam aut me aut quemquam loqui tecum, finem iam faciam: tantum te admonebo, si illi absenti salutem dederis, praesentibus te his daturum .",
+      "eng": "For men come closer to the gods by nothing than by giving safety to men. Your fortune has nothing greater in it than that you have the power, your nature nothing better than that you have the will, to save as many as you can. The case perhaps requires a longer speech --- but your own nature, surely, a shorter one. So, since I think it more useful that you yourself should speak with yourself rather than that I or anyone else should, I shall now make an end: this much only I will remind you --- if you grant his safety to one who is absent, you will grant yourself to all these who are present.",
+      "notes": null
+    }
+  ]
+}

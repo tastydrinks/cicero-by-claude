@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-20",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.20",
+  "title_english": "Ad Familiares 10.20",
+  "date": "-0043-05-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ita erant omnia quae istim adferebantur incerta, ut quid ad te scriberem non occurreret. modo enim quae vellemus de Lepido, modo contra nuntiabantur ; de te tamen fama constans nec decipi posse nec vinci ; quorum alterius fortuna partem habet quandam, alterum proprium est prudentiae tuae.",
+      "eng": "Everything that has been coming from your part of the world has been so uncertain that I have not had it in me to know what to write to you. One moment the news about Lepidus is what we should wish, the next the opposite; about you, however, the report is steady --- that you cannot be either deceived or beaten. Of the two, the first is in part a matter of fortune; the second belongs altogether to your own good sense.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed accepi litteras a conlega tuo datas Idibus Maiis, in quibus erat te ad se scripsisse a Lepido non recipi Antonium ; quod erit certius, si tu ad nos idem scripseris. sed minus audes fortasse propter inanem laetitiam litterarum superiorum. verum , ut errare, mi Plance, potuisti (quis enim id effugerit?), sic decipi te non potuisse quis non videt? nunc vero etiam iam erroris causa sublata est ; culpa enim illa 'his ad eundem' vulgari reprehensa proverbio est. sin ut scripsisti ad conlegam, ita se res habet, omni cura liberati sumus nec tamen erimus prius quam ita esse tu nos feceris certiores.",
+      "eng": "But I have had a letter from your colleague, dated the Ides of May, in which it is said that you had written to him that Antony was not being received by Lepidus. That will be more certain if you write the same thing to us yourself. But perhaps you are less bold to say so on account of the empty rejoicing your earlier letters caused. Yet, however much you could be mistaken, my dear Plancus --- and who could be safe from that? --- who does not see that to be deceived is something you could not be? Now indeed even the occasion for any mistake has been taken away; for that previous slip has been chalked up to the well-known proverb, ``the same man at the same stone twice.'' But if things really stand as you wrote them to your colleague, we are released from all anxiety --- and yet we shall not really be released until you yourself have made us certain that this is so.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "mea quidem, ut ad te saepius scripsi, haec sententia est, qui reliquias huius belli oppresserit, eum totius belli confectorem fore ; quem te et opto esse et confido futurum. studia mea erga te, quibus certe nulla esse maiora potuerunt, tibi tam grata esse quam ego putavi fore, minime miror vehementerque laetor. quae quidem tu, si recte istic erit, maiora et graviora cognosces. iiii K. Iun.",
+      "eng": "My own opinion, as I have written to you more than once, is this: whoever crushes the remnants of this war will have brought the whole of it to its end. I want this man to be you, and I am confident it will be. As for my zeal for you --- which, certainly, no zeal of mine could ever have exceeded --- that you should find it as pleasing as I supposed it would be does not surprise me in the least, and gladdens me powerfully. Yet, if all goes rightly with you on that side, you will come to know it as something larger and weightier still. The 29th of May.",
+      "notes": null
+    }
+  ]
+}

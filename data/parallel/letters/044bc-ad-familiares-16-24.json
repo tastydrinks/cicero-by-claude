@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-24",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.24",
+  "title_english": "Ad Familiares 16.24",
+  "date": "-0044-11-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi mane Harpalum miseram tamen cum haberem cui recte darem litteras, etsi novi nihil erat, isdem de rebus volui ad te saepius scribere, non quin confiderem diligentiae tuae, sed rei me magnitudo movebat. mihi 'prora et puppis,' ut Graecorum proverbium est, fuit a me tui dimittendi ut rationes nostras explicares. Ofilio et Aurelio utique satis fiat. A Flamma, si non potes omne, partem aliquam velim extorqueas, in primisque ut expedita sit pensio K. Ian. de attributione conficies, de repraesentatione videbis.",
+      "eng": "I had sent Harpalus off in the morning, but, since I now had someone to whom I could safely entrust a letter, I wanted to write to you again about the same matters, though there was no real news --- not that I have any doubts about your diligence, but the magnitude of the business was working on me. For me, ``stem and stern'' (as the Greek proverb has it) in sending you away was to have you straighten out my accounts. Ofilius and Aurelius must in any case be paid in full. From Flamma, if you cannot get the whole, please squeeze some part of it, and above all see that the instalment of the Kalends of January is in hand. Settle the matter of the assignment; for the cash payment you will see what is to be done.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de domesticis rebus hactenus, de publicis omnia mihi certa, quid Octavianus, quid Antonius, quae hominum opinio, quid futurum putes. ego vix teneor quin accurram ; sed litteras tuas exspecto. et scito Balbum tum fuisse Aquini cum tibi est dictum, et postridie Hirtium. puto utrumque ad aquas ; sed quod egerint—. Dolabellae procuratores fac ut admoneantur. appellabis etiam Papiam. vale .",
+      "eng": "So much for domestic affairs. On public matters write me everything for certain: what Octavian is doing, what Antony, what people are saying, what you think is likely to come of it. I can hardly hold myself back from rushing to town; but I am waiting for your letter. And let me tell you, Balbus was at Aquinum on the day you were told he was, and Hirtius the day after. Both, I suppose, are bound for the springs --- but whatever they have done about it---. See that Dolabella's agents are reminded. You will also call on Papia. Farewell.",
+      "notes": null
+    }
+  ]
+}

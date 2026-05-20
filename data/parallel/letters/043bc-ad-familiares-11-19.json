@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-19",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.19",
+  "title_english": "Ad Familiares 11.19",
+  "date": "-0043-05-21",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ad senatum quas litteras misi velim prius perlegas et si qua tibi videbuntur commutes. necessario me scripsisse ipse animadvertes ; nam cum putarem quartam et Martiam legiones mecum futuras, ut Druso Paulloque placuerat vobis adsentientibus, minus de reliquis rebus laborandum existimavi ; nunc vero, cum sim cum tironibus egentissimis, valde et meam et vestram vicem timeam necesse est.",
+      "eng": "The letter I have sent to the Senate I should like you to read through first, and to change anything that seems to you to want changing. You will see for yourself that I wrote it under necessity; for, when I supposed that the Fourth and the Martian legions would be with me --- as Drusus and Paullus had decided, with your concurrence --- I thought there was less to worry about as regards the rest. But now, when I am with the rawest of recruits and stripped of every resource, I cannot but feel grave fear both on my own account and on yours.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Vicetini me et M. Brutum praecipue observant. his ne quam patiare iniuriam fieri in senatu vernarum causa a te peto. causam habent optimam, officium in re p. summum, genus hominum adversariorum seditiosum et incertissimum. xii K. Iun. Vercellis.",
+      "eng": "The people of Vicetia show particular regard both to me and to M. Brutus. I ask you not to allow any wrong to be done them in the Senate on account of the home-born slaves. They have the best of cases: their service to the state is of the highest order, while the kind of men opposing them is factious and utterly unreliable. The twelfth day before the Kalends of June, at Vercellae.",
+      "notes": null
+    }
+  ]
+}

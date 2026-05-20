@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-13",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.13",
+  "title_english": "Ad Familiares 10.13",
+  "date": "-0043-05-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ut primum potestas data est augendae dignitatis tuae, nihil praetermisi in te ornando, quod positum esset aut in praemio virtutis aut in honore verborum. id ex ipso s. c. poteris cognoscere ita enim est perscriptum, ut a me de scripto dicta sententia est ; quam senatus frequens secutus est summo studio magnoque consensu.",
+      "eng": "The moment the power was given me of advancing your standing, I omitted nothing in your honour that could be set down either as a reward of valour or as a tribute in words. You will be able to see this from the senatorial decree itself: for it is written out exactly as I delivered the motion from a prepared text; and a crowded Senate followed me with the highest enthusiasm and an overwhelming consensus.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego quamquam ex tuis litteris, quas mihi misisti perspexeram te magis iudicio bonorum quam insignibus gloriae delectari, tamen considerandum nobis existimavi, etiam si tu nihil postulares, quantum tibi a re p. deberetur. tu contexes extrema cum primis. qui enim M. Antonium oppresserit, is bellum confecerit ; itaque Homerus non Aiacem nec Achillem sed Ulixem appellavit ptolipo/rqion .",
+      "eng": "Although from your letters which you sent me I had perceived clearly enough that you take more pleasure in the judgement of good men than in the outward marks of glory, still I thought we had to consider, even if you yourself were asking for nothing, how much was owed to you by the state. You will join the last stage of the work to the first. For whoever crushes Marcus Antonius will have finished the war; and so it was not Ajax, not Achilles, but Ulysses whom Homer called [Greek: ptoliporthion] --- ``sacker of cities.''",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-24",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.24",
+  "title_english": "Ad Familiares 9.24",
+  "date": "-0043-02-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Rufum istum, amicum tuum, de quo iterum iam ad me scribis, adiuvarem, quantum possem, etiam si ab eo laesus essem, cum te tanto opere viderem eius causa laborare ; cum vero et ex tuis litteris et ex illius ad me missis intellegam et iudicem magnae curae ei salutem meam fuisse, non possum ei non amicus esse, neque solum tua commendatione, quae apud me, ut debet, valet plurimum, sed etiam voluntate ac iudicio meo. volo enim te scire, mi Paete, initium mihi suspicionis et cautionis et diligentiae fuisse litteras tuas quibus litteris congruentes fuerunt aliae postea multorum. nam et Aquini et Fabrateriae consilia sunt inita de me, quae te video inaudisse, et, quasi divinarent quam iis molestus essem futurus, nihil aliud egerunt nisi me ut opprimerent. quod ego non suspicans incautior fuissem, nisi a te admonitus essem. quam ob rem iste tuus amicus apud me commendatione non eget. utinam ea fortuna rei p. sit, ut ille me unum gratissimum possit cognoscere! sed haec hactenus.",
+      "eng": "That Rufus of yours, your friend, about whom you now write to me a second time --- I would help him as far as I could even if he had injured me, seeing how strenuously you exert yourself on his behalf; but in fact, since I gather both from your letters and from those he himself has sent me, and I judge accordingly, that my safety has been a matter of great concern to him, I cannot but be his friend --- not only on your recommendation, which carries the very greatest weight with me, as it should, but also out of my own will and judgment. For I want you to know, my Paetus, that the beginning of my suspicion and caution and care was your letter, with which other letters of many people afterwards agreed. For at Aquinum and at Fabrateria plots were laid against me --- you, I see, have heard about them --- and, as though they had divined how much trouble I was going to be to them, they did nothing other than try to crush me. Unsuspecting all this, I would have been less on my guard had I not been forewarned by you. So that friend of yours needs no recommendation with me. May the fortune of the Republic be such that he can come to know me as supremely grateful! But enough of this.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "te ad cenas itare desisse moleste fero ; magna enim te delectatione et voluptate privasti ; deinde etiam vereor (licet enim verum dicere) ne nescio quid illud, quod solebas, dediscas et obliviscare, cenulas facere. nam si tum, cum habebas quos imitarere, non multum proficiebas, quid nunc te facturum putem? Spurinna quidem, cum ei rem demonstrassem et vitam tuam superiorem exposuissem, magnum periculum summae rei p. demonstrabat, nisi ad superiorem consuetudinem tum, cum Favonius flaret, revertisses ; hoc tempore ferri posse, si forte tu frigus ferre non posses.",
+      "eng": "That you have stopped going out to dinners distresses me; for you have deprived yourself of a great delight and pleasure. Then too I am afraid --- if I may speak the truth --- that you may unlearn and forget some skill you used to have, of putting on little dinners yourself. For if even when you had models to imitate you were not making much progress, what am I to suppose you will do now? Spurinna at any rate, when I had laid the case before him and set out your former way of life, was indicating great peril to the highest interest of the Republic unless you should return to your earlier habits at the time the Favonius blew; at this season the thing might be borne, supposing that you cannot bear the cold.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed me hercule, mi Paete, extra iocum moneo te, quod pertinere ad beate vivendum arbitror, ut cum viris bonis, iucundis, amantibus tui vivas. nihil est aptius vitae, nihil ad beate vivendum accommodatius. nec id ad voluptatem refero sed ad communitatem vitae atque victus remissionemque animorum, quae maxime sermone efficitur familiari, qui est in conviviis dulcissimus, ut sapientius nostri quam Graeci ; illi sumpo/sia aut su/ndeipna , id est compotationes aut concenationes, nos 'convivia,' quod tum maxime simul vivitur. vides ut te philosophando revocare coner ad cenas. cura ut valeas ; id foris cenitando facillime consequere.",
+      "eng": "But, by Hercules, my Paetus, jokes aside, I urge you on a matter that I think bears on the happy life: live with good, agreeable men, who love you. Nothing is more fitting for life, nothing better suited to living happily. And I refer it not to pleasure but to the common share of life and sustenance, and to the unbending of the spirit, which is most produced by intimate conversation --- and that is at its sweetest at table. Our forefathers were wiser in this than the Greeks: they speak of symposia or syndeipna [Greek: symposia ... syndeipna] --- that is, ``drinkings-together'' or ``dinings-together'' --- but we speak of convivia, ``livings-together,'' because then most of all is life shared. You see how, in philosophizing, I try to call you back to dinners. Take care of yourself; that you will most easily accomplish by dining out.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "sed cave, si me amas, existimes me, quod iocosius scribam, abiecisse curam rei p. sic tibi, mi Paete, persuade, me dies et noctes nihil aliud agere, nihil curare, nisi ut mei cives salvi liberique sint. nullum locum praetermitto monendi, agendi, providendi ; hoc denique animo sum ut, si in hac cura atque administratione vita mihi ponenda sit, praeclare actum mecum putem. etiam atque etiam vale.",
+      "eng": "But beware, if you love me, of supposing that, because I write somewhat jocosely, I have flung off care for the Republic. Be persuaded of this, my Paetus: day and night I do nothing else, care for nothing else, except that my fellow citizens should be safe and free. No place do I leave untried to warn, to act, to foresee. In short, I am of this mind: if in this care and administration my life must be laid down, I shall reckon that things have turned out splendidly for me. Again and again, farewell.",
+      "notes": null
+    }
+  ]
+}

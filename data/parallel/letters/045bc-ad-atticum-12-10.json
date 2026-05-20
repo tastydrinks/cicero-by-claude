@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-10",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.10",
+  "title_english": "Ad Atticum 12.10",
+  "date": "-0045-07-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "male me hercule de Athamante. tuus autem dolor humanus is quidem sed magno opere moderandus. consolationum autem multae viae sed illa rectissima: impetret ratio quod dies impetratura est. Alexin vero curemus, imaginem Tironis, quem aegrum Romam remisi, et, si quid habet collis ἐπιδήμιον , ad me cum †testamento† transferamus. tota domus vacat superior, ut scis. hoc puto valde ad rem pertinere.",
+      "eng": "Bad news, by Hercules, about Athamas. Your own grief is human, certainly, but to be kept within bounds. There are many roads of consolation, but the straightest is this: that reason should win the point that time would win in the end. As for Alexis, let us take care of him --- the very image of Tiro --- whom I have sent back to Rome ill; and if the hill carries any [Greek: epid\\=emion] --- any local infection --- let us shift him to me along with \\dag Tisamenus\\dag. The whole upper part of the house is empty, as you know. I think this matters greatly to the case.",
+      "notes": null
+    }
+  ]
+}

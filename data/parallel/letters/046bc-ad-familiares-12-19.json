@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-19",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.19",
+  "title_english": "Ad Familiares 12.19",
+  "date": "-0046-12-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "libentissime legi tuas litteras ; in quibus iucundissimum mihi fuit, quod cognovi meas tibi redditas esse ; non enim dubitabam quin eas libenter lecturus esses, verebar ut redderentur. bellum quod est in Syria Syriamque provinciam tibi tributam esse a Caesare ex tuis litteris cognovi. eam rem tibi volo bene et feliciter evenire ; quod ita fore confido fretus et industria et prudentia tua.",
+      "eng": "I read your letter with the greatest pleasure --- and what pleased me most in it was learning that mine had been delivered to you; for I did not doubt you would read them gladly, but I had my fears as to whether they would be delivered. From your letter I have learned that there is a war in Syria, and that Caesar has assigned the province of Syria to you. I wish the business well and prosperously upon you --- and that it will so turn out I am confident, leaning on your industry and your prudence.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed de Parthici belli suspicione quod scribis, sane me commovit. quid enim copiarum haberes cum ipse coniectura consequi poteram tum ex tuis litteris cognovi. itaque opto ne se illa gens moveat hoc tempore, dum ad te legiones eae perducantur quas audio duci. quod si paris copias ad confligendum non habebis, non te fugiet uti consilio M. Bibuli, qui se oppido munitissimo et copiosissimo tam diu tenuit quam diu in provincia Parthi fuerunt. sed haec melius ex re et ex tempore constitues ; mihi quidem usque curae erit quid agas, dum quid egeris sciero. Litteras ad te numquam habui cui darem, quin dederim ; a te ut idem facias peto, in primisque ut ita ad tuos scribas, ut me tuum sciant esse.",
+      "eng": "But what you write of the suspicion of a Parthian war has, I must say, given me real concern. What forces you have I could in part work out for myself by guesswork, and now I have learned from your letter. So I pray that nation may make no move at this present time, while those legions which I hear are being led off are being brought through to you. If you do not have matched forces for a pitched engagement, you will not let slip the strategy of M. Bibulus, who held himself within his most strongly fortified and best-supplied town for as long as the Parthians were in the province. But these things you will settle better as the case and the moment dictate; for my part, I shall be in unbroken anxiety over what you are doing until I know what you have done. I have never had a man to entrust a letter to without entrusting one; I ask you to do the same on your end --- and above all, in writing to your own people to write so that they may know I am yours.",
+      "notes": null
+    }
+  ]
+}

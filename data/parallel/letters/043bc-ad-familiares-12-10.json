@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-10",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.10",
+  "title_english": "Ad Familiares 12.10",
+  "date": "-0043-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Lepidus, tuus adfinis, meus familiaris, pr. K. Quintilis sententiis omnibus hostis a senatu iudicatus est ceterique qui una cum illo a re p. defecerunt; quibus tamen ad sanitatem redeundi ante K. Sept. potestas facta est. fortis sane senatus, sed maxime spe subsidi tui. bellum quidem, cum haec scribebam, sane magnum erat scelere et levitate Lepidi. nos de Dolabella cotidie quae volumus audimus, sed adhuc sine capite, sine auctore, rumore nuntio.",
+      "eng": "Lepidus, your kinsman and my close friend, was declared a public enemy by the Senate on 30 June by unanimous vote, along with the others who deserted the state in his company; though they were granted the opportunity of returning to their senses before the Kalends of September. A bold Senate, certainly, but mostly so in the hope of help from you. The war, indeed, while I was writing this, was a very large one, thanks to Lepidus's wickedness and inconstancy. About Dolabella we hear day by day what we wish to hear, but still without a definite head to it, without a named author, only rumour reporting rumour.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod cum ita esset, tamen litteris tuis, quas Nonis Maiis ex castris datas acceperamus, ita persuasum erat civitati ut illum iam oppressum omnes arbitrarentur, te autem in Italiam venire cum exercitu ut, si haec ex sententia confecta essent, consilio atque auctoritate tua, sin quid forte titubatum, ut fit in bello, exercitu tuo niteremur. quem quidem ego exercitum quibuscumque potuero rebus ornabo ; cuius rei tum tempus erit cum quid opis rei p. laturus is exercitus sit aut quid iam tulerit notum esse coepe4t nam adhuc tantum conatus audiuntur optimi illi quidem et praeclarissimi, sed gesta res exspectatur, quam quidem aut iam esse aliquam aut appropinquare confido. tua virtute, magnitudine animi nihil est nobilius.",
+      "eng": "Yet even so, by the letter you sent us from camp on the Nones of May, the city had been brought to such persuasion that everyone reckoned Dolabella was already crushed, and that you were on your way to Italy with your army: so that, if our business here was settled to our satisfaction, we should rely on your counsel and authority; but if anything came to grief, as happens in war, we should rely on your army. That army I will see equipped with every honour I can manage to bestow upon it; but the proper time for that will come when it begins to be known what aid this army is going to bring the state, or what it has already brought. For up to now it is only the attempts that we hear of --- excellent and glorious attempts, to be sure, but it is the accomplished deed that is awaited; and that, I have confidence, is either already done or close at hand. Nothing is nobler than your courage, than the greatness of your spirit.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "itaque optamus ut quam primum te in Italia videamus. rem p. nos habere arbitrabimur, si vos habebimus. praeclare viceramus, nisi spoliatum, inermem, fugientem Lepidus recepisset Antonium. itaque numquam tanto odio civitati Antonius fuit quanto est Lepidus ; ille enim ex turbulenta re p., hic ex pace et victoria bellum excitavit. huic oppositos consules designatos habemus, in quibus est magna illa quidem spes sed anceps cura propter incertos exitus proeliorum.",
+      "eng": "So we pray that we may see you in Italy as soon as possible. We shall reckon that we have a state if we have you. We had won brilliantly, had not Lepidus taken Antonius in --- stripped, unarmed, in flight. And so Antonius was never the object of such hatred in the city as Lepidus is; for Antonius kindled war out of a state already in turmoil, while Lepidus has kindled it out of peace and victory. Against him we have the consuls-designate, in whom there lies, indeed, that great hope of ours --- but a doubtful anxiety too, because the outcomes of battles are uncertain.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "persuade tibi igitur in te et in Bruto tuo esse omnia, vos exspectari, Brutum quidem iam iamque. quod si, ut spero, victis hostibus nostris veneritis, tamen auctoritate vestra res p. exsurget et in aliquo statu tolerabili consistet; sunt enim permulta quibus erit medendum, etiam si res p. satis esse videbitur sceleribus hostium liberata. vale .",
+      "eng": "Persuade yourself, then, that everything depends on you and on your friend Brutus, that you are awaited, and Brutus indeed any moment now. If, as I hope, you come once our enemies are defeated, the state will nevertheless rise again by your authority and will settle into some tolerable footing; for there are very many things that will need healing, even if the state appears delivered enough from the crimes of its enemies. Farewell.",
+      "notes": null
+    }
+  ]
+}

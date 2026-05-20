@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-20",
+  "category": "letters",
+  "title_latin": "Ad Familiares 15.20",
+  "title_english": "Ad Familiares 15.20",
+  "date": "-0044-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "' oratorem ' meum (sic enim inscripsi) Sabino tuo commendavi. natio me hominis impulit ut ei recte putarem ; nisi forte candidatorum licentia hic quoque usus hoc subito cognomen arripuit; etsi modestus eius vultus sermoque constans habere quiddam a Curibus videbatur. sed de Sabino satis.",
+      "eng": "My Orator (so I have entitled it) I have commended to your friend Sabinus. The man's nationality has moved me to think well of him --- unless perhaps, with a candidate's license, he too has snatched up this surname suddenly out of nowhere; though his modest expression and his steady speech did seem to have something of Cures about them. But enough of Sabinus.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu , mi Treboni, quoniam ad amorem meum aliquantum olei discedens addidisti, quo tolerabilius feramus igniculum desideri tui, crebris nos litteris appellato, atque ita, si idem fiet a nobis. quamquam duae causae sunt cur tu frequentior in isto officio esse debeas quam nos, primum quod olim solebant qui Romae erant ad provincialis amicos de re p. scribere, nunc tu nobis scribas oportet (res enim publica istic est) ; deinde quod nos aliis officiis tibi absenti satis facere possumus, tu nobis nisi litteris non video qua re alia satis facere possis.",
+      "eng": "As for you, my Trebonius, since at your departure you added something of oil to my affection, the more bearably to let me carry the little fire of my longing for you, summon me frequently with letters --- and on the same terms from this end. Although there are two reasons why you ought to be more diligent in this office than I: first, because in the old days those who were at Rome used to write on public affairs to friends in the provinces, but now you must write to us (for the Republic is over there); secondly, because we can satisfy you in your absence with other offices, but you, I do not see, except by letters, how else you can satisfy us.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed cetera scribes ad nos postea ; nunc haec primo cupio cognoscere iter tuum cuius modi sit, ubi Brutum nostrum videris, quam diu simul fueris ; deinde cum processeris longius, de bellicis rebus, de toto negotio, ut existimare possumus quo statu simus. ego tantum me scire putabo quantum ex tuis litteris habebo cognitum. cura ut valeas meque ames amore illo tuo singulari.",
+      "eng": "But the rest you will write to us later; just now there is this above all that I am eager to learn --- what sort of journey you are having, where you have seen our Brutus, how long you were together; and then, when you have gone further, about the war and the whole business, so that we can estimate what state we are in. As much as I have learned from your letters, just so much shall I reckon I know. Take care of yourself, and love me with that singular love of yours.",
+      "notes": null
+    }
+  ]
+}

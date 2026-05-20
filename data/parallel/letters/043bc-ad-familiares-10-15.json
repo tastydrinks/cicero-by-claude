@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-15",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.15",
+  "title_english": "Ad Familiares 10.15",
+  "date": "-0043-05-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "his litteris scriptis quae postea accidissent scire te ad rem p. putavi pertinere. sedulitas mea, ut spero, et mihi et rei p. tulit fructum. namque adsiduis internuntiis cum Lepido egi ut omissa omni contentione reconciliataque voluntate nostra communi consilio rei p. succurreret, se, liberos urbemque pluris quam unum perditum abiectumque latronem putaret obsequioque meo, si ita faceret, ad omnis res abuteretur. profeci .",
+      "eng": "After my last letter was written, I thought it concerned the state that you should know what has happened since. My diligence, I hope, has borne fruit for me and for the state both. For by means of continual messengers I urged on Lepidus that, dropping all contention and with our mutual goodwill restored, he should come, in common counsel, to the rescue of the republic; that he should value himself, his children, and the city more highly than one ruined and abandoned brigand; and that, if he did so, he should make full use of my compliance for every purpose. I succeeded.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "itaque per Laterensem internuntium fidem mihi dedit se Antonium, si prohibere provincia sua non potuisset, bello persecuturum, me ut venirem copiasque coniungerem rogavit, eoque magis, quod et Antonius ab equitatu firmus esse dicebatur et Lepidus ne mediocrem quidem equitatum habebat ; nam etiam ex paucitate eius non multis ante diebus decem qui optimi fuerant ad me transierunt. quibus rebus ego cognitis cunctatus non sum ; in cursu bonorum consiliorum Lepidum adiuvandum putavi.",
+      "eng": "And so, through Laterensis as intermediary, he gave me his word that, if he could not keep Antonius out of his province, he would prosecute him by war; and he asked me to come and to join my forces with his, all the more because Antonius was reported to be strong in cavalry and Lepidus had not even a moderate cavalry of his own. Indeed, out of that small force not many days before, ten of the best men had come over to me. When I learned of this, I did not hesitate: while he was on a sound course, I judged Lepidus must be supported.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "adventus meus quid profecturus esset vidi, vel quod equitatu meo persequi atque opprimere equitatum eius possem, vel quod exercitus Lepidi eam partem; quae corrupta est et ab re p. alienata, et corrigere et coercere praesentia mei exercitus possem. itaque in Isara, flumine maximo, quod in finibus est Allobrogum, ponte uno die facto exercitum a. d. iiii Idus Mai. traduxi. Cum vero mihi nuntiatum esset L. Antonium praemissum cum equitibus et cohortibus ad forum Iuli venisse, fratrem cum equitum quattuor milibus ut occurreret ei misi a. d. iii Idus Mai. ; ipse maximis itineribus cum iiii legionibus expeditis et reliquo equitatu subsequar.",
+      "eng": "I saw what my arrival could achieve: that I could pursue and crush his cavalry with my own, and that, by the presence of my army, I could both correct and curb that part of Lepidus's army which has been corrupted and alienated from the republic. And so, having thrown a bridge in a single day across the Isère, the largest river in the territory of the Allobroges, I led the army across on 12 May. When the news reached me, however, that Lucius Antonius had been sent ahead with cavalry and cohorts and had reached Forum Iulii, I sent my brother on 13 May with four thousand horse to meet him; I myself shall follow by forced marches with four legions in light order and the rest of the cavalry.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "si nos mediocris modo fortuna rei p. adiuverit, et audaciae perditorum et nostrae sollicitudinis hic finem reperiemus. quod si latro praecognito nostro adventu rursus in Italiam se recipere coeperit, Bruti erit officium occurrere ei ; cui scio nec consilium nec animum defuturum. ego tamen, si id acciderit, fratrem cum equitatu mittam qui sequatur Italiamque a vastatione defendat. fac valeas meque mutuo diligas.",
+      "eng": "If only moderate fortune assists us in the state's cause, here we shall find the end both of the desperate men's audacity and of our own anxiety. But if the brigand, getting wind of our advance, should begin to fall back into Italy, it will be Brutus's office to meet him --- and Brutus, I know, will lack neither plan nor spirit. Even so, if that happens, I will send my brother with the cavalry to follow him and defend Italy from devastation. Stay well, and love me as I love you.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-01",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.1",
+  "title_english": "Ad Familiares 10.1",
+  "date": "-0044-09-19",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "et afui proficiscens in Graeciam et, postea quam de medio cursu rei p. sum voce revocatus, numquam per M. Antonium quietus fui ; cuius tanta est non insolentia (nam id quidem vulgare vitium est) sed immanitas, non modo ut vocem sed ne vultum quidem liberum possit ferre cuiusquam. itaque mihi maximae curae est non de mea quidem vita cui satis feci vel aetate vel factis vel, si quid etiam hoc ad rem pertinet, gloria, sed me patria sollicitat in primisque, mi Plance, exspectatio consulatus tui, quae ita longa est, ut optandum sit ut possimus ad id tempus rei p. spiritum ducere. quae potest enim spes esse in ea re p., in qua hominis impotentissimi atque intemperantissimi armis oppressa sunt omnia, et in qua nec senatus nec populus vim habet ullam nec leges ullae sunt nec iudicia nec omnino simulacrum aliquod ac vestigium civitatis?",
+      "eng": "I was away on my journey to Greece, and after I was recalled by the voice of the republic from the middle of that course, I have never had a quiet moment thanks to M. Antony --- a man of such, not arrogance (that is a common enough vice), but monstrousness, that he cannot endure even a free expression of voice, let alone of countenance, in anyone. And so my greatest concern is not on my own account --- my life I have given enough to, whether in years or in deeds or, if that has anything to do with it, in glory --- but my country troubles me, and above all, my dear Plancus, the prospect of your consulship; which is so far off that one must pray we can keep the breath of the republic going until then. For what hope can there be in a republic in which everything is crushed under the arms of the most unrestrained and intemperate man imaginable, and in which neither Senate nor people has any force, nor are there any laws, nor courts, nor in short any image or trace at all of a civic state?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed quoniam acta omnia mitti ad te arbitrabar, nihil erat quod singulis de rebus scriberem ; illud autem erat amoris mei, quem a tua pueritia susceptum non servavi solum sed etiam auxi, monere te atque hortari ut in rem p. omni . cogitatione curaque incumberes. quae si ad tuum tempus perducitur, facilis gubernatio est ut perducatur autem magnae cum diligentiae est tum etiam fortunae.",
+      "eng": "But since I supposed the public acts were being sent to you in full, there was nothing for me to write about on individual matters. What did fall to my affection --- which I have not only kept up but increased, having conceived it for you from your boyhood --- was to admonish and urge you to put your every thought and care into the republic. If she can be brought through to your time, the steering is easy; but to bring her through requires great vigilance, and also great luck.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed et te aliquanto ante, ut spero, habebimus et, praeterquam quod rei p. consulere debemus, tamen tuae dignitati ita favemus, ut omne nostrum consilium, studium, officium, operam, laborem, diligentiam ad amplitudinem tuam conferamus. ita facillime et rei p., quae mihi carissima est, et amicitiae nostrae, quam sanctissime nobis colendam puto, me intellego satis facturum.",
+      "eng": "But you, I hope, we shall have with us somewhat before then; and quite apart from the fact that we owe our duty to the republic, I am so devoted to your standing that I bring to bear on your advancement every counsel, every effort, every service, every labor, every pains I have. In this way I see I shall most easily satisfy both the republic, which is dearest to me, and our friendship, which I hold I must cultivate with the strictest scruple.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Furnium nostrum tanti a te fieri, quantum ipsius humanitas et dignitas postulat, nec miror et gaudeo teque hoc existimare volo, quicquid in eum iudici officique contuleris, id it a me accipere, ut in me ipsum te putem contulisse.",
+      "eng": "That you should think so highly of our friend Furnius, as his own humanity and worth require, neither surprises me nor fails to give me pleasure; and I want you to understand that whatever judgment or service you confer on him, I receive it as though you had conferred it on me myself.",
+      "notes": null
+    }
+  ]
+}

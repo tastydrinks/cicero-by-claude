@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-07",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.7",
+  "title_english": "Ad Familiares 12.7",
+  "date": "-0043-03-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quanto studio dignitatem tuam et in senatu et ad populum defenderim ex tuis te malo quam ex me cognoscere ; quae mea sententia in senatu facile valuisset, nisi Pansa vehementer obstitisset. ea sententia dicta productus sum in contionem a tr. pl. M. Servilio. dixi de te quae potui tanta contentione quantum forum est, tanto clamore consensuque populi ut nihil umquam simile viderim. id velim mihi ignoscas quod invita socru tua fecerim. mulier timida verebatur ne Pansae animus offenderetur. in contione quidem Pansa dixit matrem quoque tuam et fratrem illam a me sententiam noluisse dici. sed me haec non movebant, alia valebant ; favebam et rei p., cui semper favi, et dignitati ac gloriae tuae.",
+      "eng": "With what zeal I have defended your standing both in the Senate and before the people, I would rather you learn from your own people than from me. My motion would easily have prevailed in the Senate, had not Pansa fiercely stood against it. After that motion was delivered, I was led out to a public meeting by the tribune of the plebs M. Servilius. There I said about you what I could --- with such intensity as the Forum is wide, with such an outburst and unanimous assent on the people's part that I have never seen anything to match it. For this I would have you forgive me, that I did it against the wish of your mother-in-law. The poor lady was timid; she was afraid Pansa's feelings would be offended. Pansa indeed said at the meeting that your mother and your brother too had not wanted that motion of mine to be put. But these considerations did not move me; others weighed more: I was acting for the state, as I always have, and for your own standing and glory.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod autem et in senatu pluribus verbis disserui et dixi in contione, in eo velim fidem meam liberes. promisi enim et prope confirmavi te non exspectasse nec exspectaturum decreta nostra sed te ipsum tuo more rem p. defensurum. et quamquam nihildum audieramus nec ubi esses nec quas copias haberes, tamen sic statuebam, omnis quae in istis partibus essent opes copiaeque tuas esse, per teque Asiam provinciam confidebam iam rei p. reciperatam. tu fac in augenda gloria te ipsum vincas. vale .",
+      "eng": "As for what I argued at greater length in the Senate, and said in the public meeting, I would have you make my word good. For I promised, and almost guaranteed, that you had not waited for any decree of ours and would not wait, but would yourself, after your own fashion, take up the defence of the state. And although we had as yet heard nothing of where you were or what forces you had, still this was my fixed conviction: that all the resources and forces in those parts were yours, and that through you the province of Asia, I trusted, was already recovered for the state. See to it that, in adding to your glory, you outdo yourself. Farewell.",
+      "notes": null
+    }
+  ]
+}

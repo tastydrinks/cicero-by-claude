@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-35",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.35",
+  "title_english": "Ad Familiares 10.35",
+  "date": "-0043-05-30",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. liberique vestri v. b. e. e. q. v. deos hominesque testor, p. c., qua mente et quo animo semper in rem p. fuerim et quam nihil antiquius communi salute ac libertate iudicarim ; quod vobis brevi probassem, nisi mihi fortuna proprium consilium extorsisset. nam exercitus cunctus consuetudinem suam in civibus conservandis communique pace seditione facta retinuit meque tantae multitudinis civium Romanorum salutis atque incolumitatis causam suscipere, ut vere dicam, coegit.",
+      "eng": "If you and your children are well, it is well; I and my army are in good health. I call gods and men to witness, senators, with what mind and with what spirit I have always stood toward the commonwealth, and how I have held nothing of greater moment than our common safety and liberty --- and I should have given you swift proof of this, had not fortune wrung from my hands a policy of my own. For my whole army, an uprising having broken out, kept up its accustomed practice in preserving fellow-citizens and the common peace, and compelled me --- to speak the truth --- to take up the cause of the safety and survival of so great a multitude of Roman citizens.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "in qua re ego vos, p. c., oro atque obsecro ut privatis offensionibus omissis summae rei p. consulatis neve misericordiam nostram exercitusque nostri in civili dissensione sceleris loco ponatis. quod si salutis omnium ac dignitatis rationem habueritis, melius et vobis et rei p. consuletis. D. iii Kal. Jun. a Ponte Argenteo.",
+      "eng": "In this matter I beg and beseech you, senators, to set aside private grievances and to take counsel for the supreme welfare of the commonwealth, and not to count our pity --- and that of our army --- in a civil disagreement as a crime. If you take account of the safety and dignity of all alike, you will take better counsel for yourselves and for the commonwealth. Given on the third day before the Kalends of June, from Pons Argenteus.",
+      "notes": null
+    }
+  ]
+}

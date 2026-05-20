@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-12",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.12",
+  "title_english": "Ad Atticum 12.12",
+  "date": "-0045-03-16",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de dote tanto magis perpurga. Balbi regia condicio est delegandi. quoquo modo confice. turpe est rem impeditam iacere. Insula Arpinas habere potest germanam ἀποθέωσιν ; sed vereor ne minorem τιμὴν habere videatur ἐκτοπισμόσ . est igitur animus in hortis; quos tamen inspiciam cum venero.",
+      "eng": "About the dowry --- the more reason to clear it up entirely. Balbus's terms for assigning the debt are princely. Settle it any way you can. It is shameful to let the matter lie there tangled up. The island at Arpinum could afford a true [Greek: apoth\\=eosin] --- consecration; but I fear the very remoteness [Greek: ektopismos] of it would make the honour [Greek: tim\\=en] look like a lesser one. My mind, then, is set on the gardens; I shall still go and look them over when I come.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Epicuro, ut voles; etsi μεθαρμόσομαι . in posterum genus hoc personarum. incredibile est quam ea quidam requirant. ad antiquos igitur; ἀνεμέσητον γάρ . nihil habeo ad te quod scribam, sed tamen institui cotidie mittere ut eliciam tuas litteras, non quo aliquid ex iis exspectem sed nescio quo modo tamen exspecto. qua re sive habes quid sive nil habes, scribe tamen aliquid teque cura.",
+      "eng": "About Epicurus, as you wish; though I shall make the adjustment [Greek: metharmosomai]. In future, this class of characters. It is incredible how some people miss them. Back to the ancients, then; for that gives no offense [Greek: anemes\\=eton gar]. I have nothing to write to you about, but I have made it a rule to send a letter every day, to draw yours out of you --- not that I expect anything from them, but somehow I still find myself expecting. So whether you have something to say or have nothing, write something all the same, and take care of yourself.",
+      "notes": null
+    }
+  ]
+}

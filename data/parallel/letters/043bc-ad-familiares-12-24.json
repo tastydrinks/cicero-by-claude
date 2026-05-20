@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-24",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.24",
+  "title_english": "Ad Familiares 12.24",
+  "date": "-0043-01-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "ego nullum locum praetermitto (nec enim debeo) non modo laudandi tui sed ne ornandi quidem ; sed mea studia erga te et officia malo tibi ex tuorum litteris quam ex meis esse nota. te tamen hortor ut omni cura in rem p. incumbas. hoc est animi, hoc est ingeni tui, hoc eius spei quam habere debes amplificandae dignitatis tuae.",
+      "eng": "I let pass no occasion --- as indeed I should not --- not only of praising you but also of advancing your honor; but I would rather have my zeal toward you and my services known to you from your own people's letters than from mine. I urge you all the same to bend every care to the commonwealth. This is the part of your spirit, this of your talent, this of the hope you ought to entertain of enlarging your standing.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed hac de re alias ad te pluribus. Cum enim haec scribebam, in exspectatione erant omnia ; nondum legati redierant, quos senatus non ad pacem deprecandam sed ad denuntiandum bellum miserat nisi legatorum nuntio paruisset. ego tamen, ut primum occasio data est, meo pristino more rem p. defendi, me principem senatui populoque R. professus sum nec, postea quam suscepi causam libertatis, minimum tempus amisi tuendae salutis libertatisque communis. sed haec quoque te ex aliis malo.",
+      "eng": "But more of this another time. For as I write, everything stands in suspense; the envoys had not yet returned, whom the Senate sent not to sue for peace but to declare war if their message were not obeyed. I, however, the moment opportunity offered, on my old manner have defended the commonwealth, and have professed myself the leading man for the Senate and the Roman people; nor, since taking up the cause of liberty, have I lost a moment in defending the common safety and freedom. But of this too I prefer that you hear from others.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "T. Pinarium, familiarissimum meum, tanto tibi studio commendo ut maiore non possim ; cui cum propter omnis virtutes tum etiam propter studia communia sum amicissimus. is procurat rationes negotiaque Dionysi nostri, quem et tu multum amas et ego omnium plurimum. ea tibi ego non debeo commendare, sed commendo tamen. facies igitur ut ex Pinari, gratissimi hominis, litteris tuum et erga illum et erga Dionysium studium perspiciamus.",
+      "eng": "T. Pinarius, my very close friend, I commend to you with such zeal that I could not commend him more. With him I am on the most intimate terms, both for all his virtues and for shared studies. He looks after the accounts and affairs of our friend Dionysius, whom you too love much and I more than anyone. These I am under no obligation to commend to you, but commend them I do, nonetheless. You will see to it, then, that from Pinarius's letters --- a most welcome man --- we may make out your zeal both toward him and toward Dionysius.",
+      "notes": null
+    }
+  ]
+}

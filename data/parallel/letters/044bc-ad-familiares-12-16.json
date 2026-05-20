@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-16",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.16",
+  "title_english": "Ad Familiares 12.16",
+  "date": "-0044-05-25",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. b. Athenas veni a. d. xi K. Iun. atque ibi, quod maxime optabam, vidi filium tuum deditum optimis studiis summaque modestiae fama. qua ex re quantam voluptatem ceperim scire potes etiam me tacente ; non enim nescis quanti te faciam et quam pro nostro veterrimo verissimoque amore omnibus tuis etiam minimis commodis, non modo tanto bono gaudeam. noli putare, mi Cicero, me hoc auribus tuis dare ; nihil adulescente tuo atque adeo nostro (nihil enim mihi a te potest esse seiunctum) aut amabilius omnibus iis qui Athenis sunt est aut studiosius earum artium quas tu maxime amas, hoc est optimarum. itaque tibi, quod vere facere possum, libenter quoque gratulor nec minus etiam nobis quod eum, quem necesse erat diligere qualiscumque esset, talem habemus ut libenter quoque diligamus.",
+      "eng": "If you are well, it is well. I reached Athens on 22 May, and there saw, as I had most hoped, your son devoted to the best studies and of the highest reputation for self-restraint. What pleasure I have taken in this you can know even without my saying so: for you are not unaware how highly I value you, and how, in keeping with our very oldest and truest affection, I rejoice in all your blessings, even the smallest --- let alone in so great a good as this. Do not imagine, my dear Cicero, that I am saying this to flatter your ear. Of all who are at Athens there is no one more lovable than your young man (and so ours --- for nothing of yours can be set apart from me), no one more devoted to those arts which you yourself love most, that is, to the best. I therefore congratulate you, as I can do in all sincerity, and gladly too; and no less ourselves, that in him whom we must love whatever sort of man he turned out to be we have someone we can love gladly as well.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "qui cum mihi in sermone iniecisset se velle Asiam visere, non modo invitatus sed etiam rogatus est a me ut id potis simum nobis obtinentibus provinciam faceret ; cui nos et caritate et amore tuum officium praestaturos non debes dubitare. illud quoque erit nobis curae ut Cratippus una cum eo sit, ne putes in Asia feriatum illum ab iis studiis in quae tua cohortatione incitatur futurum ; nam illum paratum, ut video, et ingressum pleno gradu cohortari non intermittemus, quo in dies longius discendo exercendoque se procedat.",
+      "eng": "When he mentioned to me in conversation that he wished to see Asia, he was not only invited but begged by me to do so above all while I am holding the province. You should not doubt that I will show him your fatherly devotion, in affection and love. I shall also make it my care that Cratippus be there with him, so you need not imagine he will be on holiday in Asia from those studies for which your encouragement spurs him on. For we shall not let off urging him on --- already prepared, as I see, and well into his stride --- so that day by day he may go further in learning and in practice.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "vos quid ageretis in re p., cum has litteras dabam, non sciebam ; audiebam quaedam turbulenta, quae scilicet cupio esse falsa ut aliquando otiosa libertate fruamur ; quod vel minime mihi adhuc contigit. ego tamen nactus in navigatione nostra pusillum laxamenti concinnavi tibi munusculum ex instituto meo et dictum cum magno nostro honore a te dictum conclusi et tibi infra subscripsi. in quibus versiculis si tibi quibusdam verbis eu)qurrhmone/steros videbor, turpitudo personae eius in quam liberius invehimur nos vindicabit. ignosces etiam iracundiae nostrae, quae iusta est in eius modi et homines et civis. deinde qui magis hoc Lucilio licuerit adsumere libertatis quam nobis? cum etiam si odio pari fuerit in eos quos laesit, tamen certe non magis dignos habuerit in quos tanta libertate verborum incurreret.",
+      "eng": "What you are doing in public affairs, when I send this letter, I do not know; I had been hearing of certain disturbances, which of course I hope are false, so that we may at last enjoy a quiet liberty --- which up to now has scarcely fallen to me at all. I have, however, snatched a little leisure in our voyage and put together a small gift for you on my usual plan: I have taken up a saying of yours pronounced to our great honour, rounded it off, and set it down for you below. If in these few verses I shall seem to you in certain expressions a touch more outspoken [Greek: euthyrrh\\=emonesteros], the disgrace of the person against whom I inveigh somewhat freely will be my defence. You will also forgive me a wrath that is justified against men --- and citizens --- of that stamp. Besides, why should Lucilius have been allowed more licence in such things than I am? --- since, even if his hatred for those he attacked equalled mine, certainly the men he picked were no more deserving objects of so much freedom of speech.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "tu sicut mihi pollicitus es, adiunges me quam primum ad tuos sermones ; namque illud non dubito quin, si quid de interitu Caesaris scribas, non patiaris me minimam partem et rei et amoris tui ferre. vale et matrem meosque tibi commendatos habe. D. viii K. Iun. Athenis.",
+      "eng": "You, as you promised me, will admit me as soon as possible to your conversations; for I do not doubt that, if you write anything about the death of Caesar, you will not allow me to bear the smallest share of the deed --- nor of your affection. Farewell, and take care of my mother and the rest of mine for me. Sent on 25 May, at Athens.",
+      "notes": null
+    }
+  ]
+}

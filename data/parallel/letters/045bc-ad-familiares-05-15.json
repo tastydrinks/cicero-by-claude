@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-15",
+  "category": "letters",
+  "title_latin": "Ad Familiares 5.15",
+  "title_english": "Ad Familiares 5.15",
+  "date": "-0045-12-12",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "omnis amor tuus ex omnibus partibus se ostendit in iis litteris, quas a te proxime accepi, non ille quidem mihi ignotus, sed tamen gratus et optatus (dicerem 'iucundus,' nisi id verbum in omne tempus perdidissem), neque ob eam unam causam, quam tu suspicaris et in qua me lenissimis et amantissimis verbis utens re graviter accusas, sed quod, illius tanti vulneris quae remedia esse debebant, ea nulla sunt.",
+      "eng": "All your affection shows itself from every quarter in the letter I lately received from you --- not, indeed, an affection unknown to me, but welcome and longed-for nonetheless (I would say ``delightful,'' had I not put that word out of service for every season) --- and not for the one cause which you suspect, and in respect of which, using the most gentle and most loving words, you in fact reproach me sharply, but because, of the remedies which ought to exist for that immense wound, there are none.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quid enim? ad amicosne confugiam? quam multi sunt? habuimus enim fere communis; quorum alii occiderunt, alii nescio quo pacto obduruerunt. tecum vivere possem equidem et maxime vellem; vetustas, . amor, consuetudo, studia paria; quod vinclum, quaeso, dest nostrae coniunctionis? possumusne igitur esse una? nec me hercule intellego quid impediat; sed certe adhuc non fuimus, cum essemus vicini in Tusculano, in Puteolano; nam quid dicam in urbe? in qua cum forum commune sit, vicinitas non requiritur.",
+      "eng": "For what then? Am I to take refuge with my friends? How many of them are there? We had them, on the whole, in common; of these some have perished, others have somehow hardened. With you I could indeed live, and would most of all want to; an old tie, affection, habit, the same studies --- what bond, I ask, is missing from our friendship? Can we, then, not be together? I do not, by Hercules, see what stands in the way; but the fact is that until now we have not been --- not when we were neighbours at Tusculum, not at Puteoli; for what shall I say of the city? --- where, the Forum being common ground, neighbourhood is not required.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed casu nescio quo in ea tempora nostra aetas incidit, ut cum maxime florere nos oporteret, tum vivere etiam puderet. quod enim esse poterat mihi perfugium spoliato et domesticis et forensibus ornamentis atque solaciis? Litterae, credo, quibus utor adsidue; quid enim aliud facere possum? sed nescio quo modo ipsae illae excludere me a portu et perfugio videntur et quasi exprobrare, quod in ea vita maneam, in qua nihil insit nisi propagatio miserrimi temporis",
+      "eng": "But by some mischance our generation has fallen upon such times that, at the very moment when we ought most to be flourishing, we should be ashamed even to be alive. For what refuge could there be left for me, stripped of the adornments and consolations both of home and of the Forum? My letters, I suppose, which I use without ceasing; for what else can I do? But somehow those very studies seem to shut me out from their harbour and refuge, and as it were to reproach me with continuing in a life in which there is nothing but the prolonging of a most wretched time.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "hic tu me abesse urbe miraris, in qua domus nihil delectare possit, summum sit odium temporum, hominum, fori, curiae? itaque sic litteris utor, in quibus consumo omne tempus, non ut ab iis medicinam perpetuam, sed ut exiguam oblivionem doloris petam.",
+      "eng": "Do you wonder, then, that I am away from the city, in which my house can give me no pleasure, in which I have the utmost loathing for the times, for men, for the Forum, for the Senate-house? Hence I use my books in such a way that I spend all my time on them, not to seek from them an unbroken remedy, but a small forgetfulness of pain.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "quod si id egissemus ego atque tu, quod ne in mentem quidem nobis veniebat propter cotidianos metus, omne tempus una fuissemus, neque me valetudo tua offenderet neque te maeror meus. quod quantum fieri poterit consequamur; quid enim est utrique nostrum aptius? propediem te igitur videbo.",
+      "eng": "If you and I had done what did not even occur to our minds, on account of our daily fears, we should have spent all our time together, and your ill health would not have grieved me nor my sorrow you. What may be done of this, let us make good; for what is more suited to us both? Soon, then, I shall see you.",
+      "notes": null
+    }
+  ]
+}

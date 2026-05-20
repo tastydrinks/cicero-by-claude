@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-12",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.12",
+  "title_english": "Ad Familiares 11.12",
+  "date": "-0043-05-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "tris uno die a te accepi epistulas, unam brevem quam Flacco Volumnio dederas, duas pleniores, quarum alteram tabellarius T. Vibi attulit, alteram ad me misit Lupus. ex tuis litteris et ex Graecei oratione non modo non restinctum bellum sed etiam inflammatum videtur. non dubito autem pro tua ,singulari prudentia quin perspicias, si aliquid firmitatis nactus sit Antonius, omnia tua illa praeclara in rem p. merita ad nihilum esse ventura. ita enim Romam erat nuntiatum, ita persuasum omnibus, cum paucis inermis, perterritis metu, fracto animo fugisse Antonium.",
+      "eng": "On a single day I received three letters from you: one short, which you had given to Flaccus Volumnius; two fuller, of which the courier of T. Vibius brought one, and the other Lupus sent on to me. From your letter, and from what Graeceius reports, the war seems not only not put out but actually inflamed afresh. And I do not doubt, in light of your singular prudence, that you see this clearly: if Antonius gets back any solid footing, all those celebrated services of yours to the state will come to nothing. For so it had been reported at Rome, so it had been impressed upon everyone --- that Antonius had fled with a few men, unarmed, panic-stricken, broken in spirit.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "qui si ita se habet ut, quem ad modum audiebam de Graeceio, confligi cum eo sine periculo non possit, non ille mihi fugisse a Mutina videtur sed locum belli gerendi mutasse. itaque homines alii facti sunt ; non nulli etiam queruntur, quod persecuti non sitis ; opprimi potuisse, si celeritas adhibita esset, existimant. omnino est hoc populi maximeque nostri, in eo potissimum abuti libertate per quem eam consecutus sit ; sed tamen providendum est ne quae iusta querela esse possit. res se sic habet : is bellum confecerit, qui Antonium oppresserit. hoc quam vim habeat te existimare malo quam me apertius scribere.",
+      "eng": "If his condition is in fact such that, as I heard from Graeceius, one cannot engage with him without danger, then he does not seem to me to have fled from Mutina, but to have shifted the seat of his war. And so people have become other men: some indeed are complaining that you did not pursue; they reckon he could have been crushed if speed had been used. It is altogether characteristic of the people --- and of ours above all --- to abuse their liberty most particularly against the very man through whom they have obtained it. Still, one must take care that no just complaint can arise. The matter stands thus: he will have finished the war who crushes Antonius. What force this carries I would rather you weigh than that I write more openly.",
+      "notes": null
+    }
+  ]
+}

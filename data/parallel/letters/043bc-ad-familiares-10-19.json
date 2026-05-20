@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-19",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.19",
+  "title_english": "Ad Familiares 10.19",
+  "date": "-0043-05-26",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quamquam gratiarum actionem a te non desiderabam, cum te re ipsa atque animo scirem esse gratissimum, tamen (fatendum est enim) fuit ea mihi periucunda ; sic enim vidi, quasi ea quae oculis cernuntur, me a te amari. dices : 'quid antea?' semper equidem sed numquam inlustrius. Litterae tuae mirabiliter gratae sunt senatui cum rebus ipsis, quae erant gravissimae et maximae, fortissimi animi summique consili, tum etiam gravitate sententiarum atque verborum.",
+      "eng": "Although I was not looking for any expression of thanks from you --- since I knew that in fact and in feeling you were of the most grateful spirit --- still (for I must confess it) the one you sent was uncommonly pleasant to me; for I saw, as one sees a thing with one's own eyes, that you love me. You will say, ``and before?'' Always, I grant; but never with so clear a light. Your letter has been wonderfully welcome to the Senate --- both for the things it reported, which were of the gravest weight and the greatest moment and proceeded from the bravest spirit and the highest counsel, and also for the weight of its sentences and its language.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed , mi Plance, incumbe ut belli extrema perficias. in hoc erit summa et gratia et gloria. cupio omnia rei p. causa ; sed me hercules in ea conservanda iam defetigatus non multo plus patriae faveo quam tuae gloriae, cuius maximam facultatem tibi di immortales, ut spero, dedere ; quam complectere obsecro. qui enim Antonium oppresserit, is hoc bellum taeterrimum periculosissimumque confecerit.",
+      "eng": "But, my dear Plancus, put your shoulder to it and bring the war to its end. In this lies the highest favour and the highest glory. I want everything for the state's sake; but, by Hercules, exhausted as I am by now in keeping her safe, my affection for the fatherland is hardly greater than for your glory --- of which the immortal gods, I trust, have given you the fullest scope. Embrace it, I implore you. For whoever crushes Antony will have brought this most foul and most dangerous war to its end.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-11",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.11",
+  "title_english": "Ad Familiares 11.11",
+  "date": "-0043-05-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "eodem exemplo a te mi litterae redditae sunt, quo pueri mei attulerunt. tantum me tibi debere existimo, quantum persolvere difficile est. scripsi tibi quae hic gererentur. in itinere est Antonius, ad Lepidum proficiscitur ; ne de Planco quidem spem adhuc abiecit, ut ex libellis eius animadverti qui in me inciderunt ; in quibus, quos ad Asinium, quos ad Lepidum, quos ad Plancum mitteret scribebat. ego tamen non habui ambiguum et statim ad Plancum misi et biduo ab Allobrogibus et totius Galliae legatos exspecto ; quos confirmatos domum remittam.",
+      "eng": "A letter from you has been brought to me in the same copy as the one my slaves carried in. How much I think I owe you is a debt difficult to discharge. I have written you what is being done here. Antony is on the march; he is heading to Lepidus; he has not yet given up hope even of Plancus, as I gathered from his dispatches, which fell into my hands; in which he was writing whom he was sending to Asinius, whom to Lepidus, whom to Plancus. For my own part, I made no question of it, and I sent at once to Plancus; and within two days I am expecting envoys from the Allobroges and from the whole of Gaul, whom I shall confirm and send home.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu quae istic opus erunt administrari prospicies, ut ex tua voluntate reique publicae commodo fiant. malevolentiae hominum in me, si poteris, occurres ; si non potueris, hoc consolabere, quod me de statu meo nullis contumeliis deterrere possunt. Pr. non . Mai. ex castris finibus Statiellensium.",
+      "eng": "You yourself will see to the management of what needs doing there, that things may go according to your will and the advantage of the commonwealth. The malevolence of men against me you will, if you can, withstand; if you cannot, you will console yourself with this, that they cannot frighten me out of my course by any abuse. 6 May, from camp on the territory of the Statiellenses.",
+      "notes": null
+    }
+  ]
+}

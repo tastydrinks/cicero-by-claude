@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-29",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.29",
+  "title_english": "Ad Familiares 11.29",
+  "date": "-0044-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "dubitanti mihi, quod scit Atticus noster, de hoc toto consilio profectionis, quod in utramque partem in mentem multa veniebant, magnum pondus accessit ad tollendam dubitationem iudicium et consilium tuum ; nam et scripsisti aperte quid tibi videretur et Atticus ad me sermonem tuum pertulit. semper iudicavi in te et in capiendo consilio prudentiam summam esse et in dando fidem maximeque sum expertus, cum initio civilis belli per litteras te consuluissem quid mihi faciendum esse censeres, eundumne ad Pompeium an manendum in Italia. suasisti ut consulerem dignitati meae ; ex quo quid sentires intellexi et sum admiratus fidem tuam et in consilio dando religionem, quod, cum aliud malle amicissimum tuum putares, antiquius tibi officium meum quam illius voluntas fuit.",
+      "eng": "I was hesitating --- our friend Atticus knows it --- over this whole question of setting out, since many considerations on both sides were coming into my mind, when your judgement and your counsel added great weight toward removing my hesitation; for you both wrote frankly what you thought, and Atticus relayed your conversation to me. I have always judged that in you there is the highest prudence in forming a counsel and the greatest fidelity in giving one, and I had the most direct proof of this when, at the outset of the civil war, I consulted you by letter as to what you thought I ought to do --- whether to go to Pompey or to remain in Italy. You urged me to consult my own standing; from which I understood what you meant, and I admired your fidelity and your scrupulousness in giving counsel, in that, although you supposed your closest friend preferred a different course, my duty was older with you than his wish.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "equidem et ante hoc tempus te dilexi et semper me a te diligi sensi et, cum abessem atque in magnis periculis essem, et me absentem et meos praesentis a te cultos et defensos esse memini et, post meum reditum quam familiariter mecum vixeris quaeque ego de te et senserim et praedicarim, omnis qui solent haec animadvertere testis habemus. gravissimum vero iudicium de mea fide et constantia fecisti, cum post mortem Caesaris totum te ad amicitiam meam contulisti ; quod tuum iudicium nisi mea summa bene volentia erga te omnibusque meritis comprobaro, ipse me hominem non putabo.",
+      "eng": "For my own part, even before this time I held you dear, and have always felt that I was held dear by you; and when I was away and in great danger, both that I, absent, and my household, present, were cherished and defended by you, I remember; and how affectionately you lived with me after my return, and what I have both felt about you and said publicly of you --- we have, for all this, as witnesses everyone in the habit of noticing such things. But you passed the most weighty verdict on my own good faith and constancy when, after Caesar's death, you transferred yourself wholly to friendship with me; and unless I make good that verdict of yours by my own utmost good will toward you and by every kindness I can render, I shall not count myself a human being.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "tu , mi Oppi, conservabis amorem tuum (etsi more magis hoc quidem scribo quam quo te admonendum putem) meaque omnia tuebere ; quae tibi ne ignota essent Attico mandavi ; a me autem, cum paulum oti nacti erimus, uberiores litteras exspectato. da operam ut valeas. hoc mihi gratius facere nihil potes.",
+      "eng": "You, my dear Oppius, will preserve your affection for me --- though I write this more from habit than because I think you need any reminding --- and will look after everything that is mine; what those things are I have entrusted to Atticus, that they might not be unknown to you. And from me, as soon as we have caught a little leisure, expect a fuller letter. Take care to be well. You can do nothing for me more gratifying than that.",
+      "notes": null
+    }
+  ]
+}

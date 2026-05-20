@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-26",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.26",
+  "title_english": "Ad Familiares 7.26",
+  "date": "-0046-07-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum decimum iam diem graviter ex intestinis laborarem neque iis qui mea opera uti volebant me probarem non valere, quia febrim non haberem, fligi in Tusculanum, cum quidem biduum ita ieiunus fuissem ut ne aquam quidem gustarem. itaque confectus languore et fame magis tuum officium desideravi quam a te requiri putavi meum. ego autem quom omnis morbos reformido tum in quo Epicurum tuum Stoici male accipiunt, quia dicat ' straggourika\\ kai\\ dusenterika\\ pa/qh ' sibi molesta esse; quorum alterum morbum edacitatis esse putant, alterum etiam turpioris intemperantiae. sane dusenteri/an pertimueram; sed visa est mihi vel loci mutatio vel animi etiam relaxatio vel ipsa",
+      "eng": "For the tenth day now I had been suffering badly in the bowels, and since I could not satisfy those who wanted to make use of me that I was unwell (because I had no fever), I escaped to Tusculum --- having for two days been so strictly fasting that I had not even tasted water. So, worn out by exhaustion and hunger, I missed your good offices more than I supposed you would think it your business to inquire after mine. Now, while I dread every illness, I particularly dread the one for which the Stoics give your Epicurus a rough time, because he says strangurical and dysenteric afflictions [Greek: strangourika kai dysenterika pathē] are troublesome to him --- the one of these being, in their view, a complaint of overeating, the other of an intemperance still more disgraceful. I had been thoroughly frightened of dysentery [Greek: dysenterian], but the change of place, or the unbending of mind, or perhaps the very",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "fortasse iam senescentis morbi remissio profuisse. ac tamen ne mirere unde hoc acciderit quo modove commiserim, lex sumptuaria quae videtur lito/thta attulisse ea mihi fraudi fuit. nam dum volunt isti lauti terra nata, quae lege excepta sunt, in honorem adducere, fungos, helvellas, herbas omnis ita condiunt ut nihil possit esse suavius. in eas cum incidissem in cena augurali apud Lentulum, tanta me dia/rroia adripuit ut hodie primum videatur coepisse consistere. ita ego, qui me ostreis et murenis facile abstinebam, a beta et a malva deceptus sum. posthac igitur erimus cautiores. tu tamen cum audisses ab Anicio (vidit enim me nauseantem), non modo mittendi causam iustam habuisti sed etiam visendi. ego hic cogito commorari quoad me reficiam, nam et viris et corpus amisi; sed si morbum depulero, facile, ut spero, illa revocabo.",
+      "eng": "remission of an illness already wearing itself out, has, I think, done me good. And yet, lest you wonder where it came from or how I let myself in for it, the sumptuary law, which seems to have introduced frugality [Greek: litotēta], did me in. For while our fashionable friends, in their effort to bring into honour the produce of the earth that the law leaves exempt, season their mushrooms, their wild herbs, their greens of every kind, so that nothing can be more delicious --- I fell upon these at an augural dinner at Lentulus's, and was seized by such a diarrhoea [Greek: diarroia] that it seems only today to be beginning to settle. So here am I --- a man who could easily abstain from oysters and lampreys --- caught out by beet and mallow. Hereafter, then, I shall be more cautious. As for you, having heard of it from Anicius (who saw me being sick), you had not merely good ground for sending, but for coming to see me. I propose to stay on here until I am put right; I have lost both strength and flesh. But if I shake off the illness, I shall easily, I hope, recover the rest.",
+      "notes": null
+    }
+  ]
+}

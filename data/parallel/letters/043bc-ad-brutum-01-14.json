@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-14",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.14",
+  "title_english": "Ad M. Brutum 1.14",
+  "date": "-0043-07-11",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "breves litterae tuae—breves dico, immo nullae. tribusne versiculis his temporibus Brutus ad me? nihil scripsisses potius. et requiris meas! quis umquam ad te tuorum sine meis venit? quae autem epistula non pondus habuit? quae si ad te perlatae non sunt, ne domesticas quidem tuas perlatas arbitror. Ciceroni scribis te longiorem daturum epistulam. recte id quidem, sed haec quoque debuit esse plenior. ego autem, cum ad me de Ciceronis abs te discessu scripsisses, statim extrusi tabellarios litterasque ad Ciceronem ut, etiam si in Italiam venisset, ad te rediret; nihil enim mihi iucundius, nihil illi honestius. quamquam aliquotiens ei scripseram sacerdotum comitia mea summa contentione in alterum annum esse reiecta— quod ego cum Ciceronis causa elaboravi tum Domiti, Catonis, Lentuli, Bibulorum; quod ad te etiam scripseram—; sed videlicet, cum illam pusillam epistulam tuam ad me dabas, nondum erat tibi id notum.",
+      "eng": "A short letter from you --- short, do I say? rather, none at all. Three little lines, in such times as these, from Brutus to me? You would have done better not to write. And you ask after my letters! When did any of your people ever come to you without one of mine? And what dispatch of mine has not had weight? If they have not been delivered to you, I do not suppose your own household letters have been delivered either. You write that you will give my Cicero a longer letter: right enough, but this one too ought to have been fuller. As for me, when you had written to me about Cicero's departure from you, I packed off couriers at once and a letter to Cicero himself, telling him that even if he had reached Italy, he was to return to you; for there is nothing more pleasant to me, nothing more honourable to him. Even though I had several times written to him that the elections of the priestly colleges had, at my own utmost insistence, been put off to the next year --- which I worked for both on Cicero's account, and on that of Domitius, Cato, Lentulus, and the Bibuli; this I had written to you too --- but plainly, when you were sending me that tiny letter of yours, this was not yet known to you.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "qua re omni studio a te, mi Brute, contendo ut Ciceronem meum ne dimittas tecumque deducas; quod ipsum, si rem publicam cui susceptus es respicis, tibi iam iamque faciendum est. renatum enim bellum est idque non parvum scelere Lepidi. exercitus autem Caesaris, qui erat optimus, non modo nihil prodest sed etiam cogit exercitum tuum flagitari. qui si Italiam attigerit, erit civis nemo quem quidem civem appellari fas sit, qui se non in tua castra conferat. etsi Brutum praeclare cum Planco coniunctum habemus; sed non ignoras quam sint incerti et animi hominum infecti partibus et exitus proeliorum. quin etiam si, ut spero, vicerimus, tamen magnam gubernationem tui consili tuaeque auctoritatis res desiderabit. subveni igitur, per deos, idque quam primum tibique persuade non te Idibus Martiis quibus servitutem a tuis civibus depulisti plus profuisse patriae quam si mature veneris profuturum. v Idus Quintiles.",
+      "eng": "For which reason, my Brutus, I beg you with all earnestness not to let my Cicero go, but to take him along with you --- and this very thing, if you have any regard for the commonwealth for whose sake you have been brought up, you must do this very moment. For the war has been reborn, and not slightly, through the crime of Lepidus. And Caesar's army, which was the best, not only is doing no good but is even forcing your army to be clamoured for. If that army shall touch Italy, there will be no citizen --- no one, at least, whom it is lawful to call a citizen --- who does not take himself into your camp. Even though we have Brutus excellently joined with Plancus; but you are not unaware how uncertain men's minds are when tainted by partisanship, and how uncertain are the outcomes of battles. Indeed, even if --- as I hope --- we shall have conquered, still the situation will require great steering by your counsel and authority. Come to our aid, then, by the gods, and that as soon as may be; and persuade yourself that on the Ides of March, when you drove out slavery from your fellow citizens, you did not bring your country more benefit than you will bring by coming in good time. 11 July.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-25",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.25",
+  "title_english": "Ad Familiares 11.25",
+  "date": "-0043-06-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "exspectanti mihi tuas cotidie litteras Lupus noster subito denuntiavit ut ad te scriberem si quid vellem. ego autem, etsi quid scriberem non habebam (acta enim ad te mitti sciebam, inanem autem sermonem litterarum tibi iniucundum esse audiebam), brevitatem secutus sum te magistro. scito igitur in te et in conlega spem omnem esse.",
+      "eng": "While I was waiting day by day for a letter from you, our friend Lupus suddenly gave me notice to write to you if I had anything I wanted said. I, however, had nothing to write (for I knew that the gazette was being sent on to you, and I was hearing that idle small-talk in letters is unwelcome to you), and so I have followed brevity, with you for my master. Know, then, that in you and in your colleague rests all our hope.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Bruto autem nihil adhuc certi ; quem ego, quem ad modum praecipis, privatis litteris ad bellum commune vocare non desino. qui utinam iam adesset! intestinum urbis malum, quod est non mediocre, minus timeremus: sed quid ago'? non imitor lakwnismo\\n tuum ; altera iam pagella procedit. vince et vale. x iiii K. Quintil.",
+      "eng": "About Brutus, on the other hand, nothing certain yet; and him I do not cease summoning, in the manner you advise, by private letter to the common war. Would that he were here already! We should have less to fear from that inward evil of the city --- and it is no small one. But what am I doing? I am not living up to your Laconic brevity [Greek: lakonismon]; the second page is already running on. Conquer, and farewell. Fourteen days before the Kalends of Quintilis.",
+      "notes": null
+    }
+  ]
+}

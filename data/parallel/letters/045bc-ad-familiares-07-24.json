@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-24",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.24",
+  "title_english": "Ad Familiares 7.24",
+  "date": "-0045-08-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "amoris quidem tui, quoquo me verti, vestigia, vel proxime de Tigellio; sensi enim ex litteris tuis valde te laborasse. amo igitur voluntatem. sed pauca de re. Cipius opinor, olim: ' non omnibus dormio.' sic ego non omnibus, mi Galle, servio. etsi quae est haec servitus? olim cum regnare existimabamur, non tam ab ullis quam hoc tempore observor a familiarissimis Caesaris omnibus praeter istum. id ego in lucris pono, non ferre hominem pestilentiorem patria sua; eumque addictum iam totum puto esse Calvi",
+      "eng": "Wherever I turn, I find traces of your affection --- most recently in the matter of Tigellius; I could see from your letter how hard you had been working at it. I am grateful for the goodwill. But a word or two on the case. Cipius, I think, was the man who said long ago, ``I am not asleep for everyone.'' Just so, my Gallus: I am not at every man's service. And yet what service is this? When I was thought to reign, I was less courted by anyone than I now am, in these times, by all Caesar's intimates --- with this man as the one exception. I count it as profit not to have to put up with a fellow more pestilential than his own country; and I take him to be wholly the property by now of Calvus",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Licini Hipponacteo praeconio. at vide quid suscenseat. Phameae causam receperam ipsius quidem causa; erat enim mihi sane familiaris. is ad me venit dixitque iudicem sibi operam dare constituisse eo ipso die quo de P. Sestio in consilium iri necesse erat. respondi nullo modo me facere posse; quem vellet alium diem si sumpsisset, me ei non defuturum. ille autem, qui sciret se nepotem bellum tibicinem habere et sat bonum unctorem, discessit a me, ut mi videbatur, iratior. habes 'Sardos venalis alium alio nequiorem.' Cognosti meam causam et istius salaconis iniquitatem. 'Catonem' tuum mihi mitte; cupio enim legere. me adhuc non legisse turpe utrique nostrum est.",
+      "eng": "Licinius's Hipponactean billing. But see what he is huffing about. I had taken on Phamea's case, for Phamea's own sake; he was a close friend of mine. He came to me and told me that the juror had decided to hear his cause on the very day on which the consilium had to convene on the case of P. Sestius. I answered that there was simply no way I could do it; if he took any other day he liked, I would not fail him. He, knowing he had a pretty piper for a grandson and a passably good masseur as well, took his leave of me --- rather angry, as it seemed to me. So there you have your ``Sardinians for sale, one worse than the next.'' You know my side of it, and the unfairness of that swaggerer. Send me your Cato; I am eager to read it. That I have not yet read it is a disgrace to us both.",
+      "notes": null
+    }
+  ]
+}

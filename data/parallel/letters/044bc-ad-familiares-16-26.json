@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-26",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.26",
+  "title_english": "Ad Familiares 16.26",
+  "date": "-0044-07-03",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "verberavi te cogitationis tacito dumtaxat convicio, quod fasciculus alter ad me iam sine tuis litteris perlatus est. non potes effugere huius culpae poenam te patrono ; Marcus' est adhibendus, isque diu et multis lucubrationibus commentata oratione vide ut probare possit te non peccasse.",
+      "eng": "I have given you a thorough flogging, at least in the silent rebuke of my own thoughts, because a second packet has now reached me without a letter from you. There is no escaping the penalty for this offense with yourself as your advocate; Marcus must be brought in, and you see whether he, with a speech long pondered and polished by many nights of work, can manage to prove that you have not done wrong.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "plane te rogo, sic ut olim matrem nostram facere memini, quae lagonas etiam inanis obsignabat, ne dicerentur inanes aliquae fuisse quae furtim essent exsiccatae, sic tu etiam si quod scribas non habebis, scribito tamen, n e furtum cessationis quaesivisse videaris. valde enim mi semper et vera et dulcia tuis epistulis nuntiantur. ama nos et vale.",
+      "eng": "I am asking you straight out: just as I remember our mother used to do --- she would set her seal even on empty flasks, so that none could be claimed to have been empty all along when in fact they had quietly been drained --- so you too, even if you have nothing to write about, write all the same, so that you may not be thought to have stolen the time. For the news your letters bring me is always true, and always sweet. Love us, and farewell.",
+      "notes": null
+    }
+  ]
+}

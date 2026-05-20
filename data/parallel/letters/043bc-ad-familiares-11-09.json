@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.9",
+  "title_english": "Ad Familiares 11.9",
+  "date": "-0043-04-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Pansa amisso quantum detrimenti res p. acceperit non te praeterit. nunc auctoritate et prudentia tua prospicias oportet, ne inimici nostri consulibus sublatis sperent se convalescere posse. ego ne consistere possit in Italia Antonius dabo operam ; sequar eum confestim. utrumque me praestaturum spero, ne aut Ventidius elabatur aut Antonius in Italia moretur. in primis rogo te ad hominem ventosissimum, Lepidum, mittas, ne bellum nobis redintegrare possit Antonio sibi coniuncto. nam de Pollione Asinio puto te perspicere quid facturus sit. multae et bonae et firmae sunt legiones Lepidi et Asini.",
+      "eng": "How great a loss the commonwealth has sustained in the death of Pansa, it does not escape you. Now by your authority and your foresight you must see to it that our enemies do not, with the consuls taken from us, hope they can recover. As for me, I shall see to it that Antony cannot take a stand in Italy; I shall pursue him without delay. I hope to make both ends good: that neither Ventidius shall slip away nor Antony linger in Italy. Above all I beg you to send to that most weathercock of men, Lepidus, to keep him from renewing the war against us by joining Antony to himself. As for Pollio Asinius, I think you see clearly what he is going to do. The legions of Lepidus and of Asinius are many, good, and steady.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "neque haec idcirco tibi scribo, quod te non eadem animadvertere sciam, sed quod mihi persuasissimum est Lepidum recte facturum numquam, si forte vobis id de hoc dubium est. Plancum quoque confirmetis oro ; quem spero pulso Antonio rei p. non defuturum. si se Alpis Antonius traiecerit, constitui praesidium in Alpibus conlocare et te de omni re facere certiorem. iii K. Mai. ex castris Regio.",
+      "eng": "I do not write this because I do not know that you see the same things, but because I am most fully persuaded that Lepidus will never act rightly --- if perhaps any of you still have doubt on that score. Confirm Plancus also, I beg you; whom I hope, once Antony has been driven off, will not fail the commonwealth. If Antony crosses the Alps, I have resolved to station a garrison in the Alps and to keep you informed of everything. 29 April, from camp at Regium.",
+      "notes": null
+    }
+  ]
+}

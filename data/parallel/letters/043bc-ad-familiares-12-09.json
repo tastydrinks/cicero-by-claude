@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.9",
+  "title_english": "Ad Familiares 12.9",
+  "date": "-0043-06-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "brevitas tuarum litterarum me quoque breviorem in scribendo facit et, vere ut dicam, non satis occurrit quid scribam nostras enim res in actis perferri ad te certo scio, tuas autem ignoramus. ' tamquam enim clausa sit Asia, sic nihil perfertur ad nos praeter rumores de oppresso Dolabella satis illos quidem constantis, sed adhuc sine auctore.",
+      "eng": "The brevity of your letters makes me too the briefer in writing, and, to tell the truth, it does not readily occur to me what to write. For I am sure that our affairs are carried to you in the gazette; yours, on the other hand, we know nothing of. As though Asia were sealed off, nothing reaches us but rumours of the crushing of Dolabella --- steady rumours, indeed, but so far without any authority behind them.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nos confectum bellum quom putaremus, repente a Lepido tuo in summam sollicitudinem sumus adducti. itaque tibi persuade maximam rei p. spem in te et in tuis copiis esse. firmos omnino exercitus habemus, sed tamen ut omnia, ut spero, prospere procedant multum interest te venire. exigua enim spes est rei p. (nam nullam non libet dicere), sed, quaecumque est, ea despondetur anno consulatus tui. vale .",
+      "eng": "We had been thinking the war finished when suddenly we were thrown into the gravest anxiety by that Lepidus of yours. So let yourself be assured: the greatest hope of the state rests in you and in your forces. We have armies that are sound enough; but still, in order that everything may proceed prosperously, as I trust it will, it matters greatly that you come. For slender indeed is the hope of the state --- since to say there is none I cannot bring myself --- but whatever it is, it is pledged to the year of your consulship. Farewell.",
+      "notes": null
+    }
+  ]
+}

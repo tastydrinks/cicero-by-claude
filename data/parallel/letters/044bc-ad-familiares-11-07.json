@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-07",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.7",
+  "title_english": "Ad Familiares 11.7",
+  "date": "-0044-04-16",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum adhibuisset domi meae Lupus me et Libonem et Servium, consobrinum tuum, quae mea fuerit sententia cognosse te ex M. Seio arbitror, qui nostro sermoni interfuit ; reliqua, quamquam statim Seium Graeceius est subsecutus, tamen ex Graeceio poteris cognoscere.",
+      "eng": "When Lupus brought me, Libo, and your cousin Servius together at my house, what my own view was you have, I believe, learned from M. Seius, who was present at our conversation; the rest, although Graeceius followed close on Seius's heels, you will be able to learn from Graeceius all the same.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "caput autem est hoc, quod te diligentissime percipere et meminisse volo, ut ne in libertate et salute p. R. conservanda auctoritatem senatus exspectes nondum liberi, ne et tuum factum condemnes (nullo enim publico consilio rem p. liberavisti, quo etiam est res illa maior et clarior) et adulescentem vel puerum potius Caesarem iudices temere fecisse, qui tantam causam publicam privato consilio susceperit, denique homines rusticos, sed fortissimos viros civisque optimos, dementis fuisse iudices, primum milites veteranos commilitones tuos, deinde legionem Martiam, legionem quartam, quae suum consulem hostem iudicaverunt seque ad salutem rei p. defendendam contulerunt. voluntas senatus pro auctoritate haberi debet, cum auctoritas impeditur metu.",
+      "eng": "But the main point, which I want you to take in most carefully and to keep in mind, is this: in the preservation of the liberty and welfare of the Roman people, do not wait for the authority of a Senate that is not yet free --- lest you both condemn your own act (for it was by no public decision that you freed the commonwealth, which makes that achievement all the greater and more illustrious), and judge the young man, or rather the boy, Caesar to have acted rashly in undertaking so great a public cause on private judgement, and finally judge that men of the countryside, but bravest of men and the best of citizens, were out of their minds --- first the veteran soldiers, your old comrades-in-arms, then the Martian Legion, the Fourth Legion, which judged their own consul a public enemy and threw themselves into defending the welfare of the commonwealth. The will of the Senate ought to be taken for its authority when its authority is hindered by fear.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "postremo suscepta tibi causa iam his est, ut non sit integrum, primum Idibus Martiis, deinde proxime exercitu novo et copiis comparatis. quam ob rem ad omnia ita paratus, ita animatus debes esse, non ut nihil facias nisi iussus, sed ut ea geras quae ab omnibus summa cum admiratione laudentur.",
+      "eng": "Lastly, the cause you have undertaken is now of such a kind that nothing can be left half-done --- first by the Ides of March, and lately by the raising of a new army and the assembling of forces. For which reason you ought to be so prepared, so resolved, for everything, that you do nothing merely because you are ordered, but rather carry through deeds that will be praised by all with the highest admiration.",
+      "notes": null
+    }
+  ]
+}

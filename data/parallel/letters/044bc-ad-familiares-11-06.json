@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-06",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.6",
+  "title_english": "Ad Familiares 11.6",
+  "date": "-0044-12-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Lupus noster cum Romam sexto die Mutina venisset, postridie me mane convenit ; tua mihi mandata diligentissime exposuit et litteras reddidit. quod mihi tuam dignitatem commendas, eodem tempore existimo te mihi meam dignitatem commendare, quam me hercule non habeo tua cariorem. qua re mihi gratissimum facies, si exploratum habebis tuis laudibus nullo loco nec consilium nec studium meum defuturum.",
+      "eng": "Our friend Lupus, when he had come to Rome from Mutina on the sixth day, met me the next day in the morning; he set out your charges to me with the utmost diligence, and handed over your letter. In that you commend your standing to me, I think that at the same time you are commending my standing to me --- which, by Hercules, I do not hold dearer than your own. For which reason you will do me a very welcome service if you hold it for certain that neither my counsel nor my zeal will fail your praise at any point.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Cum tribuni pl. edixissent senatus adesset a. d. xiii K. Ian., haberentque in animo de praesidio consulum designatorum referre, quamquam statueram in senatum ante K. Ian. non venire, tamen, cum eo die ipso edictum tuum propositum esset, nefas esse duxi aut ita haberi senatum ut de tuis divinis in rem p. meritis sileretur (quod factum esset, nisi ego venissem), aut etiam, si quid de te honorifice diceretur, me non adesse. itaque in senatum veni mane.",
+      "eng": "When the tribunes of the plebs had given notice that the Senate should meet on the twentieth of December, and had it in mind to bring the matter of a guard for the consuls-elect, although I had determined not to come to the Senate before the Kalends of January, nonetheless --- since on that very day your edict had been put up --- I judged it impious either that the Senate should sit in such a way that there should be silence about your divine services to the state (which would have happened, had I not come), or even, if anything honourable should be said about you, that I should not be present. And so I came to the Senate in the morning.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod cum esset animadversum, frequentissimi senatores convenerunt. quae de te in senatu egerim, quae in contione maxima dixerim, aliorum te litteris malo cognoscere ; illud tibi persuadeas velim, me omnia quae ad tuam dignitatem augendam pertinebunt, quae est per se amplissima, summo semper studio suscepturum et defensurum. quod quamquam intellego me cum multis esse facturum, tamen appetam huius rei principatum.",
+      "eng": "Once this had been noticed, the senators assembled in great numbers. What I did about you in the Senate, what I said in the great public assembly, I prefer that you should learn from others' letters; let me have you persuaded only of this --- that I shall always undertake and defend with the utmost zeal everything that shall bear on increasing your standing, which in itself is at the height. And although I see that in this I shall be acting along with many, nonetheless I shall make a bid for the first place in this business.",
+      "notes": null
+    }
+  ]
+}

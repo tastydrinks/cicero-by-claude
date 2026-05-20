@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-21",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.21",
+  "title_english": "Ad Familiares 7.21",
+  "date": "-0044-06-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Sili causam te docui. is postea fuit apud me. Cum ei dicerem tibi videri sponsionem illam nos sine periculo facere posse, 'SI BONORVM TVRPILIAE POSSESSIONEM Q. CAEPIO PRAETOR EX EDICTO SVO MIHI DEDIT,' negare aiebat Servium tabulas testamenti esse eas, quas instituisset is qui factionem testamenti non habuerit; hoc idem Ofilium dicere; tecum se locutum negabat meque rogavit ut se et causam suam tibi commendarem. nec vir melior, mi Testa, nec mihi amicior P. Silio quisquam est, te tamen excepto. gratissimum mihi igitur feceris si ad eum ultro veneris eique pollicitus eris, sed, si me amas, quam primum. hoc te vehementer etiam atque etiam rogo.",
+      "eng": "I laid out the case of Silius for you. He came to me afterwards. When I told him that in your view we could safely make that wager --- ``if the praetor Q. Caepio has given me possession of Turpilia's estate under his own edict'' --- he said Servius denied that those tablets could count as a will which had been drawn up by one who did not possess the capacity to make a will; and that Ofilius said the same. He said he had not spoken with you about it, and he asked me to commend himself and his case to you. There is no better man, my Testa, nor any closer friend of mine than P. Silius --- yourself excepted, of course. You will do me a very great kindness, then, if you go to him on your own and give him your promise --- and, if you love me, as soon as possible. This I beg of you, earnestly and over again.",
+      "notes": null
+    }
+  ]
+}

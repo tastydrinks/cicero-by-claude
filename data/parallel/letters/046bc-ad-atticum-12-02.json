@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-02",
+  "category": "letters",
+  "title_latin": "Ad Atticum 12.2",
+  "title_english": "Ad Atticum 12.2",
+  "date": "-0046-04-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "hic rumores tamen Murcum perisse naufragio, Asinium delatum vivum in manus militum, L navis delatas uticam reflatu hoc, Pompeium non comparere nec in Balearibus omnino fuisse, ut Paciaecus adfirmat. sed auctor nullius rei quisquam. habes quae, dum tu abes, locuti sint. ludi interea Praeneste. ibi Hirtius et isti omnes.",
+      "eng": "Here the rumours, all the same, are that Murcus has perished in a shipwreck, that Asinius has been delivered alive into the hands of soldiers, that fifty ships have been driven to Utica by this contrary wind, that Pompey is nowhere to be found and was never in the Balearics at all --- so Paciaecus affirms. But of nothing is there a vouching source. There you have what people have been saying while you are away. Meanwhile, games at Praeneste. Hirtius is there, and all that set.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "et quidem ludi dies viii. quae cenae, quae deliciae! res interea fortasse transacta est. o miros homines! at Balbus aedificat; τί γὰρ αὐτῷ μέλει; verum si quaeris, homini non recta sed voluptaria quaerenti nonne βεβίωται ? tu interea dormis. iam explicandum est πρόβλημα , si quid acturus es. si quaeris quid putem, ego fructum puto. sed quid multa? iam te videbo et quidem, ut spero, de via recta ad me. simul enim et diem Tyrannioni constituemus et si quid aliud.",
+      "eng": "And games of eight days, no less. What dinners, what indulgences! Meanwhile, perhaps, the business has been settled. What men, the marvels they are! But Balbus is building; [Greek: ti gar autoi melei] (what is it to him?). If you really want to know, for a man who looks not for the right but for what gives pleasure, hasn't he [Greek: bebiotai] (lived his life out)? You meanwhile are asleep. Now is the time to unfold the [Greek: probl\\=ema] (problem), if you mean to do anything. If you want my view, I take it as profit. But why go on? I shall be seeing you any moment now, and, I hope, on the road straight to me. We shall settle the day for Tyrannio at the same time, and anything else there is.",
+      "notes": null
+    }
+  ]
+}

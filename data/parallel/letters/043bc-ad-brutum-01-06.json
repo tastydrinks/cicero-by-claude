@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-06",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.6",
+  "title_english": "Ad M. Brutum 1.6",
+  "date": "-0043-05-19",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "noli exspectare dum tibi gratias agam. iam pridem hoc ex nostra necessitudine quae ad summam benevolentiam pervenit sublatum esse debet. filius tuus a me abest; in Macedonia congrediemur. iussus est enim Ambracia ducere equites per Thessaliam. scripsi ad eum ut mihi Heracleam occurreret. Cum eum videro, quoniam nobis permittis, communiter constituemus de reditu eius ad petitionem aut commendationem honoris.",
+      "eng": "Do not wait for me to thank you. From the kind of bond between us --- which has reached the height of goodwill --- such an exchange ought long since to have been done away with. Your son is away from me; we shall meet in Macedonia. He has been ordered to lead the cavalry from Ambracia through Thessaly. I have written to him to come to meet me at Heraclea. When I have seen him, since you grant us leave, we shall decide jointly about his return for standing for office or for being put up for one.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tibi Glycona, medicum Pansae, qui sororem Achilleos nostri in matrimonio habet, diligentissime commendo. audimus eum venisse in suspicionem Torquato de morte Pansae custodirique ut parricidam. nihil minus credendum est; quis enim maiorem calamitatem morte Pansae accepit? praeterea est modestus homo et frugi quem ne utilitas quidem videatur impulsura fuisse ad facinus. rogo te et quidem valde rogo (nam Achilleus noster non minus quam aequum est laborat) eripias eum ex custodia conservesque. hoc ego ad meum officium privatarum rerum aeque atque ullam aliam rem pertinere arbitror.",
+      "eng": "I commend to you in the warmest terms Glyco, the physician of Pansa, who has the sister of our friend Achilleos in marriage. We hear that he has come under suspicion with Torquatus over the death of Pansa, and is being held in custody as a parricide. Nothing could be less to be believed; for who has taken a greater blow from Pansa's death than he? Besides, he is a modest and honest man, whom not even self-interest, by the look of it, would have driven to such a crime. I beg you --- and I beg you in earnest, for our friend Achilleos is no less distressed than he has every right to be --- rescue him from custody and save his life. I count this as belonging to my duty in private matters as much as anything else does.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Cum has ad te scriberem litteras, a Satrio, legato C. Treboni, reddita est epistula mihi a Tillio et Deiotaro Dolabellam caesum fugatumque esse. Graecam epistulam tibi misi Cicereii cuiusdam ad Satrium missam.",
+      "eng": "While I was writing this letter to you, a dispatch was delivered to me by Satrius, the lieutenant of C. Trebonius, brought by Tillius and Deiotarus, that Dolabella has been cut down and put to flight. I am sending you a Greek letter from a certain Cicereius, sent to Satrius.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "Flavius noster de controversia quam habet cum Dyrrhachinis hereditariam sumpsit te iudicem. rogo te, Cicero, et Flavius rogat rem conficias. quin ei qui Flavium fecit heredem pecuniam debuerit civitas non est dubium; neque Dyrrhachini infitiantur sed sibi donatum aes alienum a Caesare dicunt. noli pati a necessariis tuis necessario meo iniuriam fieri. x iiii K. Iunias ex castris ad imam Candaviam.",
+      "eng": "Our friend Flavius has, in connection with a dispute about an inheritance which he has with the people of Dyrrachium, taken you as his judge. I ask you, Cicero, and Flavius asks too: please settle the matter. That the man who made Flavius his heir owed money to the community is not in doubt; nor do the people of Dyrrachium deny it, but they say the debt was forgiven them by Caesar. Do not allow my friend to suffer wrong at the hands of your friends. 19 May, from camp at the foot of Candavia.",
+      "notes": null
+    }
+  ]
+}

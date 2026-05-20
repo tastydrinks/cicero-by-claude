@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-14",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.14",
+  "title_english": "Ad Familiares 10.14",
+  "date": "-0043-05-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "O gratam famam biduo ante victoriam de subsidio tuo, de studio, de celeritate, de copiis ! atque etiam hostibus fusis spes omnis est in te ; fugisse enim ex proelio Mutinensi dicuntur notissimi latronum duces ; est autem non minus gratum extrema delere quam prima depellere.",
+      "eng": "How welcome the news, two days before the victory, of your relief, your zeal, your speed, your forces! And now that the enemy too has been routed, every hope rests on you; for the best-known of those brigand chiefs are reported to have fled from the field at Mutina. And it is no less welcome a thing to wipe out the last of them than to have driven the first back.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "equidem exspectabam iam tuas litteras, idque cum multis, sperabamque etiam Lepidum rei p. temporibus admonitum tecum et cum re p. esse facturum. in illam igitur curam incumbe, mi Plance, ut ne quae scintilla teterrimi belli relinquatur. quod si erit factum, et rem publicam divino beneficio adfeceris et ipse aeternam gloriam consequere. D. iii Non. Mai.",
+      "eng": "For my part I was already expecting a letter from you --- as were many others --- and I was hoping too that Lepidus, having been put in mind of the crisis of the state, would act with you and with the state. Throw yourself, then, my dear Plancus, into this concern: that not a spark of this most loathsome of wars be left. If that is done, you will have rendered the state, by divine favour, a service, and you yourself will win undying glory. Dispatched 5 May.",
+      "notes": null
+    }
+  ]
+}

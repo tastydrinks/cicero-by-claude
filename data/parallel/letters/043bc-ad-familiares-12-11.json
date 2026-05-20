@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-11",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.11",
+  "title_english": "Ad Familiares 12.11",
+  "date": "-0043-03-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. b. e. e. q. v. in Syriam me profectum esse scito ad L. Murcum et Q. Crispum imp. viri fortes optimique cives, postea quam audierunt quae Romae gererentur, exercitus mihi tradiderunt ipsique mecum una fortissimo animo rem p. administrant. item legionem quam Q. Caecilius Bassus habuit ad me venisse scito, quattuorque legiones quas A. Allienus ex Aegypto eduxit traditas ab eo mihi esse scito.",
+      "eng": "If you are well, that is good; I myself am well. Know that I have set out for Syria to L. Murcus and Q. Crispus, commanders. Those brave men and excellent citizens, when they heard what was being done at Rome, handed their armies over to me, and with the firmest spirit administer the state with me as one. Know likewise that the legion which Q. Caecilius Bassus had has come over to me, and that the four legions which A. Allienus led out of Egypt have been handed over to me by him.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nunc te cohortatione non puto indigere ut nos absentis remque p., quantum est in te, defendas. scire te volo firma praesidia vobis senatuique non deesse, ut optima spe et maximo animo rem p. defendas. reliqua tecum aget L. Carteius, familiaris meus. vale . D. Nonis Martiis ex castris taricheis.",
+      "eng": "I do not now suppose you need urging to defend us in our absence and the state, so far as in you lies. I want you to know that firm forces are not lacking for you and the Senate, so that you may defend the state in the best hope and the greatest spirit. The rest L. Carteius, my friend, will transact with you. Farewell. Issued on the Nones of March, from the camp at Tarichea.",
+      "notes": null
+    }
+  ]
+}

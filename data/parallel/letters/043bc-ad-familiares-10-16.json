@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-16",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.16",
+  "title_english": "Ad Familiares 10.16",
+  "date": "-0043-05-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nihil post hominum memoriam gloriosius, nihil gratius, ne tempore quidem ipso opportunius accidere vidi quam tuas, Plance, litteras. redditae sunt enim frequenti senatu Cornuto, cum is frigidas sane et inconstantis recitasset litteras Lepidi. sub eas statim recitatae sunt tuae non sine magnis quidem clamoribus. Cum rebus enim ipsis essent et studiis O beneficiisque in rem p. gratissimae, tum erant gravissimis verbis ac sententiis. flagitare senatus institit Cornutum ut referret statim de tuis litteris. ille se considerare velle. Cum ei magnum convicium fieret cuncto a senatu, quinque tribuni plebi rettulerunt. Servilius rogatus rem distulit ; ego eam sententiam dixi, cui sunt adsensi ad unum. ea quae fuerit ex s. c. cognosces.",
+      "eng": "Nothing in living memory have I seen happen with more glory, nothing with more gratification, nothing --- at the very moment it was needed --- more opportune than your letter, Plancus. For it was delivered to Cornutus, the Senate sitting in full, just after he had read out a letter from Lepidus that was decidedly chilly and irresolute. Yours was read straight after, and not without great shouts of approval. For while in their very substance and in their good wishes and services to the state they were most welcome, in their language too and in the views set out they were of the gravest weight. The Senate began pressing Cornutus to bring forward a motion on your letter at once. He said he wanted to think about it. When the whole Senate heaped abuse on him for that, five tribunes of the plebs brought the matter forward. Servilius, called on, postponed the question; I delivered the motion to which they agreed to a man. What was in the senatorial decree you will learn from itself.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "tu quamquam consilio non eges vel abundas potius, tamen hoc animo esse debes ut nihil huc reicias neve in rebus tam subitis tamque angustis a senatu consilium petendum putes, ipse tibi sis senatus, quocumque te ratio rei p. ducet sequare, cures ut ante factum aliquid a te egregium audiamus quam futurum putarimus. illud tibi promitto, quicquid erit a te factum, id senatum non modo ut fideliter sed etiam ut sapienter factum comprobaturum. .",
+      "eng": "You stand in no need of advice --- you have it in overflow --- and yet you should be of this mind: refer nothing back here; do not, in matters so sudden and so urgent, think you must seek the Senate's counsel; be your own senate; wherever the calculation of the state shall lead you, follow; see to it that we hear of something extraordinary done by you before we have thought of it as still to come. This I promise you: whatever you do shall be approved by the Senate as done not only faithfully but wisely.",
+      "notes": null
+    }
+  ]
+}

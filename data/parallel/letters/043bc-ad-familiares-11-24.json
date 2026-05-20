@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-24",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.24",
+  "title_english": "Ad Familiares 11.24",
+  "date": "-0043-06-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "narro tibi : antea subirascebar brevitati tuarum litterarum, nunc mihi loquax esse videor ; te igitur imitabor. quam multa quam paucis! te recte valere operamque dare ut cotidie melius, Lepidum commode sentire, tribus exercitibus quidvis nos oportere confidere. si timidus essem, tamen ista epistula mi omnem metum abstersisses ; sed, ut mones, 'frenum momordi' ; etenim qui te incluso omnem spem habuerim in te, quid nunc putas? cupio iam vigiliam meam, Brute, tibi tradere, sed ita ut ne desim constantiae meae.",
+      "eng": "Let me tell you: I used to grow a little annoyed at the brevity of your letters, and now I find myself the talkative one; I shall imitate you, then. How much in how few words! That you are well, and are working to be better every day; that Lepidus is leaning the right way; that with three armies we ought to feel confident of anything. If I were a timid man, you would have wiped away all my fear with that one letter; but, as you advise, ``I have champed the bit''; for I, who while you were shut in had placed all my hope in you, what do you suppose I do now? I long now, Brutus, to hand over my watch to you --- yet on terms that do not fall short of my own steadiness.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod scribis in Italia te moraturum dum tibi litterae meae veniant, si per hostem licet, non erraris (multa enim Romae), sin adventu tuo bellum confici potest, nihil sit antiquius. pecunia expeditissima quae erat tibi decreta est. habes amantissimum Servium ; nos non desumus. viii Idus Iunias.",
+      "eng": "As for your writing that you will linger in Italy until letters from me reach you --- if the enemy lets you, you will not be wrong (there is much to do at Rome); but if by your coming the war can be brought to an end, nothing should come before that. The money most readily available has been decreed to you. You have Servius for the most affectionate of friends; we are not failing you. Six days before the Ides of June.",
+      "notes": null
+    }
+  ]
+}

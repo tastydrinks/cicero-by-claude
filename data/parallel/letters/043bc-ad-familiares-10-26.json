@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-26",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.26",
+  "title_english": "Ad Familiares 10.26",
+  "date": "-0043-06-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Lectis tuis litteris, quibus declarabas aut omittendos Narbonensis aut cum periculo dimicandum, illud magis timui; quod vitatum non moleste fero. quod de Planci et Bruti concordia scribis, in eo vel maximam spem pono victoriae. de Gallorum studio nos aliquando cognoscemus, ut scribis, cuius id opera maxime excitatum sit ; sed iam, mihi crede, cognovimus. itaque iucundissimis tuis litteris stomachatus sum in extremo ; scribis enim, si in Sextilem comitia, cito te, sin iam confecta, citius, ne diutius cum periculo fatuus sis.",
+      "eng": "When I had read your letter, in which you indicated that either the men of Narbonensis must be abandoned, or there must be a fight at hazard, I feared the latter the more --- and I am not sorry to find that it has been avoided. As for what you write about the concord of Plancus and Brutus, in that I place my very greatest hope of victory. About the loyalty of the Gauls we shall, as you write, learn one of these days by whose effort above all it has been stirred up; but already, believe me, we have learned. And so, after your most welcome letter, at the close of it I lost my temper. For you write that, if the elections fall in Sextilis, you will be here quickly; if they are already over, more quickly still --- so as not to remain a fool any longer at the hazard of your life.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "O mi Furni, quam tu tuam causam non nosti, qui alienas tam facile discas! tu nunc candidatum te putas et id cogitas, ut aut ad comitia curras aut, si iam confecta, domi tuae sis, ne cum maximo periculo, ut scribis, stultissimus sis? non arbitror te ita sentire ; omnis enim tuos ad laudem impetus novi. quod si ut scribis ita sentis, non magis te quam de te iudicium reprehendo meum. te adipiscendi magistratus levissimi et divulgatissimi, si ita adipiscare ut plerique, praepropera festinatio abducet a tantis laudibus, quibus te omnes in caelum iure et vere ferunt? scilicet id agitur utrum hac petitione an proxima praetor fias, non ut ita de re p. mereare, omni honore ut dignissimus iudicere.",
+      "eng": "O my Furnius! How little you know your own case, when you can read other men's so easily! Are you now thinking of yourself as a candidate, with this in mind: that you must either run for the elections or, if they are already over, sit at home --- so as not, with the greatest danger (as you write), to be most thoroughly stupid? I do not believe you really think it; for I know all your impulses to credit. But if you really think as you write, it is not so much you I find fault with as my own opinion of you. Shall the headlong haste of getting to a magistracy --- the cheapest and the most common, if you get it as the run of men do --- pull you away from praise so great, with which all men, in justice and in truth, are carrying you to the skies? Is the issue, then, this --- whether you become praetor at this election or the next, not how you might deserve so well of the state as to be judged the worthiest of every honour?",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "utrum nescis quam alte ascenderis, an pro nihilo id putas? si nescis, tibi ignosco, nos in culpa sumus ; sin intellegis, ulla tibi est praetura vel officio, quod pauci, vel gloria, quam omnes sequuntur, dulcior? hac de re et ego et Calvisius, homo magni iudici tuique amantissimus, te accusamus cotidie. comitia tamen, quoniam ex iis pendes, quantum facere possumus, quod multis de causis rei p. arbitramur conducere, in Ianuarium mensem protrudimus. vince igitur et vale.",
+      "eng": "Do you really not know how high you have climbed, or do you count it as nothing? If you do not know it, I forgive you, we are at fault; but if you do see it, is there any praetorship sweeter to you than duty, which few men follow, or than glory, which all men pursue? Calvisius and I --- and Calvisius is a man of great judgement and most devoted to you --- find fault with you for this every day. The elections, all the same, since you are hanging on them, we are pushing back into the month of January, so far as we can, because for many reasons we think it serves the state. Win, then, and farewell.",
+      "notes": null
+    }
+  ]
+}

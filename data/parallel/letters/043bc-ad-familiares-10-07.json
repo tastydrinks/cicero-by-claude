@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-07",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.7",
+  "title_english": "Ad Familiares 10.7",
+  "date": "-0043-03-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "plura tibi de meis consiliis scriberem rationemque omnium rerum redderem verbosius, quo magis iudicares omnia me rei p. praestitisse, quae et tua exhortatione excepi et mea adfirmatione tibi recepi (non minus enim a te probari quam diligi semper volui, nec te magis in culpa defensorem mihi paravi quam praedicatorem meritorum meorum esse volui) ; sed breviorem me duae res faciunt, una, quod publicis litteris omnia sum persecutus, altera, quod M. Varisidium, equitem R., familiarem meum, ipsum ad te transire iussi ex quo omnia cognoscere posses.",
+      "eng": "I should write to you about my own plans at greater length and give a fuller account of every aspect, so that you might the more clearly see that I have rendered to the state everything which I both took up at your urging and undertook to you on my own assurance --- for I have always wanted to be approved by you no less than to be loved by you, and have looked to you to be the herald of my deserts no less than the advocate of my faults, if any. But two things make me brief: one, that I have set out everything in full in the official dispatch; the other, that I have ordered M. Varisidius, a Roman knight and a close friend of mine, to cross over to you in person, so that you may learn the whole story from him.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "non medius fidius mediocri dolore adficiebar cum alii occupare possessionem laudis viderentur sed usque mihi temperavi dum perducerem eo rem, ut, dignum aliquid et, consulatu meo et vestra : exspectatione efficerem. quod spero, si me fortuna non fefellerit, me consecuturum ut, maximo praesidio rei p. nos fuisse et, nunc sentiant, homines et, in posterum memoria teneant. A te peto ut, dignitati meae suffrageris et, quarum rerum spe ad laudem me vocasti, harum fructu in reliquum facias alacriorem. non minus posse te quam velle exploratum mihi est. fac valeas meque mutuo diligas.",
+      "eng": "It was not, by my word, no small grief I felt while others looked to be occupying the ground of glory; but I kept myself in check until I should have brought matters to the point of accomplishing something worthy at once of my consulship and of your expectation. This, I hope --- if fortune does not fail me --- I shall achieve, so that men shall both feel now, and remember hereafter, that we have stood as the greatest bulwark of the state. From you I ask that you stand by my standing, and that, by the enjoyment of the rewards whose prospect you used to spur me to glory, you make me readier still for what remains. That you can do no less than you wish is clear to me. Take care of your health, and love me as I do you.",
+      "notes": null
+    }
+  ]
+}

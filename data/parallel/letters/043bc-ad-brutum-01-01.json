@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-01",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.1",
+  "title_english": "Ad M. Brutum 1.1",
+  "date": "-0043-04-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Clodius, tribunus plebis designatus, valde me diligit vel, ut e)mfatikw/teron dicam, valde me amat. quod cum mihi ita persuasum sit, non dubito (bene enim me nosti) quin illum quoque iudices a me amari. nihil enim mihi minus hominis videtur quam non respondere in amore iis a quibus provocere. is mihi visus est suspicari nec sine magno quidem dolore aliquid a suis vel per suos potius iniquos ad te esse delatum quo tuus animus a se esset alienior. non soleo, mi Brute, quod tibi notum esse arbitror, temere adfirmare de altero; est enim periculosum propter occultas hominum voluntates multiplicisque naturas; sed Clodi animum perspectum habeo, cognitum, iudicatum. multa eius indicia sed ad scribendum non necessaria. volo enim testimonium hoc tibi videri potius quam epistulam. auctus Antoni beneficio est. eius ipsius benefici magna pars a te est. itaque eum salvis nobis vellet salvum.",
+      "eng": "L. Clodius, tribune of the plebs designate, is very fond of me --- or, to put it [Greek: emphatikoteron] (more emphatically), he loves me dearly. Since I am quite sure of this, I have no doubt (for you know me well) that you judge him to be loved by me too. It seems to me utterly less than human not to answer in kind, in love, those by whom one is challenged to it. He gave me the impression of suspecting --- and with no small pain --- that something had been reported to you by his enemies, or rather through his enemies, with the aim of turning your goodwill away from him. I am not in the habit, my Brutus --- as I think you know --- of making rash claims about another, since it is a hazardous thing on account of the hidden inclinations of men and the many-sidedness of their natures; but Clodius's mind I have inspected, come to know, and judged. I have many proofs of his disposition, but it is not necessary to set them down in writing. For I want this to seem to you a sworn deposition rather than a letter. He has been advanced by a kindness of Antony's. Of that kindness itself, a large share comes from you. And so he would wish him preserved on terms that leave us preserved as well.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "in eum autem locum rem adductam intellegit (est enim, ut scis, minime stultus) ut utrique salvi esse non possint. itaque nos mavult; de te vero amicissime et loquitur et sentit. qua re si quis secus ad te de eo scripsit aut si coram locutus est, peto a te etiam atque etiam mihi ut potius credas, qui et facilius iudicare possum quam ille nescio quis et te plus diligo. Clodium tibi amicissimum existima civemque talem qualis et prudentissimus et fortuna optima esse debet.",
+      "eng": "But he understands the matter has been brought to such a point (for, as you know, he is anything but a fool) that the two cannot both come safely through. And so he prefers us; and where you are concerned, his words and his sentiments alike are most friendly. Therefore, if anyone has written to you about him in any other terms, or has spoken so face to face, I beg you again and again to believe me rather than him --- both because I can judge more readily than that nameless someone, and because I love you more. Consider Clodius your warmest friend, and a citizen of the sort that a man of the highest prudence and the most favourable fortune ought to be.",
+      "notes": null
+    }
+  ]
+}

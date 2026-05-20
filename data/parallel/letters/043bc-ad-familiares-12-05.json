@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.5",
+  "title_english": "Ad Familiares 12.5",
+  "date": "-0043-02-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "hiemem credo adhuc prohibuisse quo minus de te certum haberemus quid ageres maximeque ubi esses ; loquebantur omnes tamen (credo, quod volebant) in Syria te esse, habere copias. id autem eo facilius credebatur, quia simile veri videbatur. Brutus quidem noster egregiam laudem est consecutus ; res enim tantas gessit tamque inopinatas ut eae cum per se gratae essent tum ornatiores propter celeritatem. quod si tu ea tenes quae putamus, magnis subsidiis fulta res p. est ; a prima enim ora Graeciae usque ad Aegyptum optimorum civium imperiis muniti erimus et copiis.",
+      "eng": "It was winter, I take it, that has hitherto kept us from any certain knowledge of what you were doing, and above all of where you were. Yet everyone was saying --- because, I suppose, that was what they wished --- that you were in Syria and had forces under arms. That was the easier to credit, because it was nearly the truth. Our friend Brutus, for his part, has won extraordinary credit: he has accomplished things so great, and so unlooked-for, that they were welcome in themselves and made the more brilliant by his speed. If you in fact hold the position we believe you hold, the state is shored up by powerful supports: from the first shore of Greece all the way to Egypt we shall be fortified by the commands and the forces of our best citizens.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quamquam , nisi me fallebat, res se sic habebat ut totius belli omne discrimen in D. Bruto positum videretur qui si, ut sperabamus, erupisset Mutina, nihil belli reliqui fore videbatur. parvis omnino iam copiis obsidebatur, quod magno praesidio Bononiam tenebat Antonius. erat autem Claternae noster Hirtius, ad forum Corneli Caesar, uterque cum firmo exercitu, magnasque Romae Pansa copias ex dilectu Italiae compararat. hiems adhuc rem geri prohibuerat. Hirtius nihil nisi considerate, ut mihi crebris litteris significat, acturus videbatur. praeter Bononiam, Regium Lepidi, Parmam totam Galliam tenebamus studiosissimam rei publicae ; tuos etiam clientis Transpadanos mirifice coniunctos cum causa habebamus. erat firmissimus senatus exceptis consularibus, ex quibus unus L. Caesar a firmus est et rectus. Ser. Sulpici morte magnum praesidium amisimus ; reliqui partim inertes, partim improbi ; non nulli invident eorum laudi quos in re p. probari vident ; populi vero Romani totiusque Italiae mira consensio est. haec erant fere quae tibi nota esse vellem ; nunc autem opto ut ab istis Orientis partibus virtutis tuae lumen eluceat. vale .",
+      "eng": "And yet, unless I was mistaken, things stood thus: the entire decisive issue of the whole war seemed to rest on D. Brutus. If he had broken out of Mutina, as we hoped, no war would seem to remain. He was being besieged by quite small forces, because Antonius was holding Bononia with a large garrison. Our Hirtius was at Claterna, Caesar at Forum Cornelii, each with a solid army; and at Rome Pansa had levied great forces from the muster of Italy. Winter had so far prevented action. Hirtius, as he indicates to me in frequent letters, appeared resolved to do nothing except with deliberation. Apart from Bononia, Regium Lepidi, and Parma, we held all Gaul, devoted to the state in the highest degree; and your own Transpadane clients we found wonderfully bound to the cause. The Senate was firmest --- consulars excepted; of whom L. Caesar alone is firm and upright. With Servius Sulpicius's death we have lost a great bulwark; the rest are partly slack, partly disloyal. Some indeed envy the credit of those they see the state approves. But the consensus of the Roman people and of all Italy is wonderful. This is roughly what I wanted you to know. Now my prayer is that from those regions of the East the light of your courage shine forth. Farewell.",
+      "notes": null
+    }
+  ]
+}

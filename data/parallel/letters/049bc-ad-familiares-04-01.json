@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-01",
+  "category": "letters",
+  "title_latin": "Ad Familiares 4.1",
+  "title_english": "Ad Familiares 4.1",
+  "date": "-0049-04-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "C. Trebativs, familiaris meus, ad me scripsit te ex se quaesisse, quibus in locis essem, molesteque te ferre, quod me propter valetudinem tuam, cum ad urbem accessissem, non vidisses, et hoc tempore velle te mecum, si propius accessissem, de officio utriusque nostrum communicare. utinam , Servi, salvis rebus (sic enim est dicendum) conloqui potuissemus inter nos! profecto aliquid opis occidenti rei publicae tulissemus. cognoram enim iam absens te haec mala multo ante providentem defensorem pacis et in consulatu tuo et post consulatum fuisse; ego autem, cum consilium tuum probarem et idem ipse sentirem, nihil proficiebam; sero enim veneram, solus eram, rudis esse videbar in causa, incideram in hominum pugnandi cupidorum insanias. . nunc , quoniam nihil iam videmur opitulari posse rei publicae, si quid est, in quo nobismet ipsis consulere possimus, non ut aliquid ex pristino statu nostro retineamus, sed ut quam honestissime lugeamus, nemo est omnium, quicum potius mihi quam tecum communicandum putem; nec enim clarissimorum virorum, quorum similes esse debemus, exempla neque doctissimorum, quos semper coluisti, praecepta te fugiunt. atque ipse antea ad te scripsissem te frustra in senatum sive potius in conventum senatorum esse venturum, ni veritus essem ne eius animum offenderem, qui a me, ut te imitarer, petebat. cui quidem ego, cum me rogaret ut adessem in senatu, eadem omnia, quae a te de pace et de Hispaniis dicta sunt, ostendi me esse dicturum.",
+      "eng": "G. Trebatius, a close friend of mine, has written to me that you asked him where I was, and that you took it ill that on account of your ill health you had not seen me when I came up to the city, and that at this present moment you wish to confer with me, if I would come a little nearer, about the duty of each of us. If only, Servius, we could have spoken together while things stood safe (so we must put it). Surely we should have brought some aid to the dying state. For I had already learned, even at a distance, that you, foreseeing these evils long beforehand, had been a defender of peace in your consulship and after your consulship; and I, although I approved your counsel and felt the same myself, was making no headway --- I had come late, I was alone, I seemed inexpert in the cause, I had fallen among the madness of men hungry for the fight. Now, since we seem no longer able to help the state, if there is anything by which we can take counsel for ourselves --- not to keep something of our former condition, but to mourn the most honourably we can --- there is no one in the world with whom I would rather take counsel than with you. The examples of those most illustrious men whom we should resemble, and the precepts of the wisest, whom you have always cultivated, are not lost on you. I would myself have written to you earlier that you would come to the Senate, or rather to a meeting of senators, in vain --- had I not feared to give offence to the man who was asking me to imitate your example. To him, when he asked me to attend the Senate, I made it plain that I would say all the same things which you had said about peace and about the Spains.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "res vides quo modo se habeat, orbem terrarum .imperiis distributis ardere bello, urbem sine legibus, sine iudiciis, sine iure, sine fide relictam direptioni et incendiis. itaque mihi venire in mentem nihil potest, non modo quod sperem, sed vix iam quod audeam optare. sin autem tibi, homini prudentissimo, videtur utile esse nos conloqui, quamquam longius etiam cogitabam ab urbe discedere, cuius iam etiam nomen invitus audio, tamen propius accedam, Trebatioque mandavi ut, si quid tu eum velles ad me mittere, ne recusaret, idque ut facias velim aut, si quem tuorum fidelium voles, ad me mittas, ne aut tibi exire ex urbe necesse sit aut mihi accedere. ego tantum tibi tribuo, quantum mihi fortasse adrogo, ut exploratum habeam, quicquid nos communi sententia statuerimus, id omnis homines probaturos. vale .",
+      "eng": "You see how matters stand: the whole world is on fire in war over the distribution of commands; the city has been left to plundering and burning, without laws, without courts, without right, without good faith. So nothing can come into my mind --- not only nothing I might hope for, but scarcely yet anything I would dare to wish for. Still, if it seems useful to you, the most prudent of men, that we should confer, although I was indeed thinking of withdrawing further still from the city (the very name of which I now hear against my will), nonetheless I shall come a little closer; and I have charged Trebatius that, if there is anything you would have him bring me, he is not to refuse, and I should like you to do this, or, if you prefer, to send to me some trustworthy man of your own --- so that you need not leave the city or I come up to it. I attribute as much to you as I perhaps arrogate to myself: I take it for certain that whatever we may decide by common judgement, all men will approve. Farewell.",
+      "notes": null
+    }
+  ]
+}

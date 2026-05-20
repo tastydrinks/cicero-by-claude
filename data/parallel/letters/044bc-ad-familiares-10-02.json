@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.2",
+  "title_english": "Ad Familiares 10.2",
+  "date": "-0044-10-05",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "meum studium honori tuo pro necessitudine nostra non defuisset, si aut tuto in senatum aut honeste venire potuissem ; sed nec sine periculo quisquam libere de re p. sentiens versari potest in summa impunitate gladiorum, nec nostrae dignitatis videtur esse ibi sententiam de re p. dicere, ubi me et melius et propius audiant armati quam senatores.",
+      "eng": "My zeal for your election would not have been wanting, in keeping with our intimacy, if I could have come into the Senate either safely or with my honor intact; but no one with a free way of thinking on public affairs can spend time there without danger, in such utter impunity of swords --- nor does it seem consistent with our dignity to deliver an opinion on the republic in a place where armed men hear me better, and at closer range, than the senators do.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quapropter in privatis rebus nullum neque officium neque studium meum desiderabis ; ne in publicis quidem, si quid erit in quo me interesse necesse sit, umquam deero ne cum periculo quidem meo dignitati tuae; in iis autem rebus, quae nihilo minus, ut ego absim, confici poterunt, peto a te ut me rationem habere velis et salutis et dignitatis meae.",
+      "eng": "For that reason, in your private affairs you will not find any duty or zeal of mine lacking; nor even in the public sphere, if anything comes up in which my presence is necessary, will I ever be wanting to your dignity, not even at risk to myself; but in those matters which can equally well be carried through with me absent, I ask you to be willing to take into account my safety and my standing.",
+      "notes": null
+    }
+  ]
+}

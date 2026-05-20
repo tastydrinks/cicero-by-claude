@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-28",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.28",
+  "title_english": "Ad Familiares 7.28",
+  "date": "-0046-08-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "memini cum mihi desipere videbare, quod cum istis potius viveres quam nobiscum. erat enim multo domicilium huius urbis, cum quidem haec urbs, aptius humanitati et suavitati tuae quam tota Peloponnesus, nedum Patrae. nunc contra et vidisse mihi multum videris, cum prope desperatis his rebus te in Graeciam contulisti, et hoc tempore non solum sapiens, qui hinc absis, sed etiam beatus. quamquam quis, qui aliquid sapiat, nunc esse beatus potest?",
+      "eng": "I remember the time when you struck me as out of your mind for choosing to live among those people rather than with us. For then the domicile of this City --- when indeed this City was still a city --- was far more suited to your refinement and good cheer than the whole Peloponnese was, let alone Patrae. Now, on the contrary, you seem to me to have seen far ahead, when, almost as our affairs had passed despair, you took yourself off to Greece; and in this present time you seem to me not only wise to be away, but happy. Although --- who, with any sense at all, can now be happy?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed quod tu cui licebat, pedibus es consecutus ut ibi esses, 'ubi nec Pelopidarum' (nosti cetera), nos idem prope modum consequimur alia ratione. Cum enim salutationi nos dedimus amicorum, quae fit hoc etiam frequentius quam solebat, quod quasi avem albam videntur bene sentientem civem videre, abdo me in bibliothecam. itaque opera efficio tanta quanta fortasse tu senties; intellexi enim ex tuo sermone quodam, cum meam maestitiam et desperationem accusares domi tuae, discere te ex meis libris animum meum desiderare.",
+      "eng": "But what you, when you still could, have achieved on foot --- to be ``where neither the Pelopids'' (you know the rest) --- the same I more or less attain in another way. For when I have given the morning to the salutation of my friends --- which now happens, indeed, more thickly than it used to, because they seem to see in a like-minded citizen something of a rare white bird --- I bury myself in the library. So I am turning out work of a quantity you, perhaps, will feel; for I gathered from a remark of yours, when you reproached me at your own house for my dejection and despair, that you were learning from my books to miss the spirit that was in me.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed me hercule et tum rem publicam lugebam, quae non solum suis erga me sed etiam meis erga se beneficiis erat mihi vita mea carior, et hoc tempore, quamquam me non ratio solum consolatur, quae plurimum debet valere, sed etiam dies, quae stultis quoque mederi solet, tamen doleo ita rem communem esse dilapsam ut ne spes quidem melius aliquando fore relinquatur. nec vero nunc quidem culpa in eo est in cuius potestate omnia sunt (nisi forte id ipsum esse non debuit), sed alia casu, alia etiam nostra culpa sic acciderunt ut de praeteritis non sit querendum. reliquam spem nullam video. qua re ad prima redeo: sapienter haec reliquisti, si consilio, feliciter. si casu.",
+      "eng": "But, by Hercules, I was then mourning for the commonwealth, which, by reason both of her kindness to me and of mine to her, was dearer to me than my life itself; and now too --- although I am consoled not only by reflection, which ought to count for most, but also by time, which is wont to heal even fools --- still it pains me that the public estate has so collapsed that not even hope is left of better days to come. Nor, indeed, does the fault now lie with the man in whose power everything stands (unless, perhaps, the standing of everything in one man's power was itself what should not have been): part has fallen out by chance, part by our own fault, and in such a way that there is no point lamenting the past. I see no remaining hope. So I return to where I began: wisely you abandoned this scene, if by deliberation; happily, if by chance.",
+      "notes": null
+    }
+  ]
+}

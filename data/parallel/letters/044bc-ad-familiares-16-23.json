@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-23",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.23",
+  "title_english": "Ad Familiares 16.23",
+  "date": "-0044-05-28",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "tu vero confice professionem, si potes ; etsi haec pecunia ex eo genere est, ut professione non egeat. verum tamen-. Balbus ad me scripsit tanta se e)pifora=| oppressum, ut loqui non possit. Antonius de lege quod egerit—liceat modo rusticari. ad Bithynicum scripsi.",
+      "eng": "Finish off the registration, if you can; though this money is of a kind that hardly requires being declared. Still --- do it. Balbus has written to me that he is so badly overcome by [Greek: epiphora] (a head-cold) that he cannot speak. As for what Antony has done about the law --- so long as I am free to live in the country. I have written to Bithynicus.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Servilio tu videris, qui senectutem non contemnis. etsi Atticus noster, quia quondam me commoveri panikoi=s intellexit, idem semper putat nec videt quibus praesidiis philosophiae saeptus sim ; et hercle, quod timidus ipse est, qorubopoiei= . ego tamen Antoni inveteratam sine ulla offensione amicitiam retinere sane volo scribamque ad eum, sed non ante quam te videro. nec tamen te avoco a syngrapha ; go/nu knh/mhs . cras exspecto Leptam et †n. ad cuius rutam puleio mihi tui sermonis utendum est. vale .",
+      "eng": "About Servilius you must see for yourself; you are the one who does not despise old age. Still, our friend Atticus, because he noticed me once shaken by panic, thinks I always am, and does not see what bulwarks of philosophy I have round me; and, by Hercules, because he is a timid soul himself, he raises the alarm. For all that, I really do want to keep up my long-standing friendship with Antony without any breach, and I shall write to him --- but not before I have seen you. Not that I am calling you off from the contract: [Greek: gonu kn\\=em\\=es] --- the knee is closer than the shin. Tomorrow I expect Lepta and \\dag N. For seasoning his plain fare I shall need to draw on your conversation. Farewell.",
+      "notes": null
+    }
+  ]
+}

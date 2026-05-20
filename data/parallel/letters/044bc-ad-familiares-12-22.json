@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-22",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.22",
+  "title_english": "Ad Familiares 12.22",
+  "date": "-0044-09-19",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nos hic cum homine gladiatore omnium nequissimo, conlega nostro, Antonio, bellum gerimus, sed non pari condicione, contra arma verbis. at etiam de te contionatur, nec impune ; nam sentiet quos lacessierit. ego autem acta ad te omnia arbitror perscribi ab aliis ; a me futura debes cognoscere ; quorum quidem non est difficilis coniectura. oppressa omnia sunt, nec habent ducem boni, nostrique tyrannoctoni longe gentium absunt. Pansa et sentit bene et loquitur fortiter ; Hirtius noster tardius convalescit. quid futurum sit plane nescio ; spes tamen una est aliquando p. R. maiorum similem fore. ego certe rei p. non deero et, quicquid acciderit a quo mea culpa absit, animo forti feram ; illud profecto, quoad potero, tuam famam et dignitatem tuebor.",
+      "eng": "Here we are waging war with a gladiator --- the worst of the lot, our own colleague Antonius --- but on no equal footing: words against arms. He even speechifies against you, and not with impunity; for he will find out whom he has provoked. The current proceedings, I take it, are written up to you in full by others; from me you should learn what is to come, and that is no hard thing to guess. Everything has been crushed, the loyal men have no leader, and our tyrant-slayers are at the world's end. Pansa both thinks rightly and speaks bravely; our Hirtius is making rather slow recovery. What will happen I plainly do not know; the one hope is that the Roman people will some day prove worthy of their ancestors. I, for my part, will not fail the state; and whatever shall come about with no fault of mine, I shall bear with a firm mind. One thing, beyond doubt, so far as I can, I shall do: guard your reputation and your standing.",
+      "notes": null
+    }
+  ]
+}

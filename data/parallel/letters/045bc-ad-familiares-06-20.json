@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-20",
+  "category": "letters",
+  "title_latin": "Ad Familiares 6.20",
+  "title_english": "Ad Familiares 6.20",
+  "date": "-0045-07-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "dederam triduo ante pueris Cn. Planci litteras ad te; eo nunc ero brevior teque, ut antea consolabar, hoc tempore monebo. nihil puto tibi esse utilius quam ibidem opperiri, quoad scire possis quid tibi agendum sit. nam praeter navigationis longae et hiemalis et minime portuosae periculum quod vitaveris, ne illud quidem non quantivis, subito, cum certi aliquid audieris, te istim posse proficisci. nihil est praeterea cur adventibus te offerre gestias. multa praeterea metuo, quae cum Cilone nostro communicavi.",
+      "eng": "Three days ago I gave a letter for you to Cn. Plancius's slaves; I shall therefore be shorter now, and where before I was offering you consolation, on this occasion I shall give advice. I think nothing more useful for you than to wait it out where you are, until you can know what you ought to do. For apart from the danger you will have avoided of a long voyage, in winter, with few harbours, there is this not inconsiderable advantage too: that the moment you have heard anything definite, you can set out from where you now are. Beyond that, there is no reason to be eager to throw yourself in the way of arrivals. I have many fears, moreover, which I have shared with our friend Cilo.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quid multa? loco opportuniore in his malis nullo esse potuisti, ex quo te quocumque opus erit facillime et expeditissime conferas. quod si recipiet ille se ad tempus, aderis; sin (quoniam multa accidere possunt) aliqua res cum vel impediet vel morabitur, tu ibi eris ubi omnia scire possis. hoc mihi prorsus valde placet.",
+      "eng": "Why say more? In these evils you could have been in no more advantageous a place, from which, wherever there is need, you may most easily and most quickly betake yourself. If he comes back to himself in time, you will be on hand; if --- since many things can happen --- some development either hinders or delays him, you will be where you can know everything. This plan suits me thoroughly.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "de reliquo, ut te saepe per litteras hortatus sum, ita velim tibi persuadeas, te in hac causa nihil habere quod tibi timendum sit praeter communem casum civitatis. qui etsi est gravissimus, tamen ita viximus et id aetatis iam sumus ut omnia quae non nostra culpa nobis accidant, fortiter ferre debeamus. hic tui omnes valent summaque pietate te desiderant et diligunt et colunt. tu cura ut valeas et te istim ne temere commoveas.",
+      "eng": "For the rest, as I have so often urged you by letter, I would have you persuade yourself that you have nothing in this business to fear except the common lot of the state. Heavy though that lot is, still we have lived so long, and are now of such an age, that whatever befalls us not through our own fault we ought to bear bravely. Here all yours are well, and with the deepest devotion they long for you, love you, cherish you. See that you keep well, and that you do not stir from your place without due cause.",
+      "notes": null
+    }
+  ]
+}

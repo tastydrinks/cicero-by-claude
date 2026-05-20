@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-12",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.12",
+  "title_english": "Ad M. Brutum 1.12",
+  "date": "-0043-07-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi daturus eram Messalae Corvino continuo litteras, tamen veterem nostrum ad te sine litteris meis venire nolui. maximo in discrimine res publica, Brute, versatur victoresque rursus decertare cogimur. id accidit M. Lepidi scelere et amentia. quo tempore cum multa propter eam curam quam pro re publica suscepi graviter ferrem, tum nihil tuli gravius quam me non posse matris tuae precibus cedere, non sororis; nam tibi, quod mihi plurimi est, facile me satis facturum arbitrabar. nullo enim modo poterat causa Lepidi distingui ab Antonio omniumque iudicio etiam durior erat quod, cum honoribus amplissimis a senatu esset Lepidus ornatus tum etiam paucis ante diebus praeclaras litteras ad senatum misisset, repente non solum recepit reliquias hostium sed bellum acerrime terra marique gerit; cuius exitus qui futurus sit incertum est. ita cum rogamur ut misericordiam liberis eius impertiamus, nihil adfertur quo minus summa supplicia, si (quod Iuppiter omen avertat!) pater puerorum vicerit, subeunda nobis sint.",
+      "eng": "Although I was about to give Messala Corvinus a letter for you straight away, still I did not want our old friend to come to you without a letter from me. The commonwealth, Brutus, is in the greatest crisis, and we victors are being forced to fight it out a second time. It has come to this through the crime and madness of M. Lepidus. At a time when, on account of the care I have undertaken for the commonwealth, I was bearing many things heavily, the heaviest of all to bear was that I could not yield to your mother's prayers, nor to your sister's --- for as to satisfying you, which I count above all else, I supposed I should do that easily enough. For Lepidus's case could in no way be told apart from Antony's, and in everyone's judgement was even the harder, since, when Lepidus had been honoured with the most ample distinctions by the Senate, and only a few days before had sent the Senate a brilliant letter, he suddenly not only received what remained of the enemy but is waging war most fiercely by land and sea --- and what its outcome will be is uncertain. And so, when we are asked to extend mercy to his children, no reason is brought forward why the most extreme penalties --- if (which Jupiter avert the omen!) the boys' father shall conquer --- should not be ours to undergo.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nec vero me fugit quam sit acerbum parentum scelera filiorum poenis lui; sed hoc praeclare legibus comparatum est, ut caritas liberorum amiciores parentis rei publicae redderet. itaque Lepidus crudelis in liberos, non is qui Lepidum hostem iudicat. atque ille si armis positis de vi damnatus esset, quo in iudicio certe defensionem non haberet, eandem calamitatem subirent liberi bonis publicatis. quamquam quod tua mater et soror deprecatur pro pueris, id ipsum et multa alia crudeliora nobis omnibus Lepidus, Antonius et reliqui hostes denuntiant. itaque maximam spem hoc tempore habemus in te atque exercitu tuo. Cum ad rei publicae summam tum ad gloriam et dignitatem tuam vehementer pertinet te, ut ante scripsi, in Italiam venire quam primum. eget enim vehementer cum viribus tuis tum etiam consilio res publica.",
+      "eng": "Nor does it escape me how bitter it is that the crimes of parents should be paid for by the punishment of their children; but this has been arranged splendidly by the laws, that affection for children should make parents better-disposed to the commonwealth. So it is Lepidus who is cruel to his children, not the man who pronounces Lepidus an enemy. And if, with arms laid down, he had been condemned under the law of public violence --- a process in which assuredly he would not have a defence --- his children would undergo the same calamity in the confiscation of their property. Yet what your mother and sister deprecate for the boys' sake, that very thing and many crueller things Lepidus, Antony, and the other enemies are threatening against us all. Accordingly we have at this moment our greatest hope in you and in your army. Both for the safety of the commonwealth as a whole and for your own glory and dignity, it is of the most urgent importance that --- as I have written before --- you come into Italy as soon as may be. For the commonwealth is in vehement need both of your forces and of your counsel.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "veterem pro eius erga te benevolentia singularique officio libenter ex tuis litteris complexus sum eumque cum tui tum rei publicae studiosissimum amantissimumque cognovi. Ciceronem meum propediem, ut spero, videbo. tecum enim illum et te in Italiam celeriter esse venturum confido.",
+      "eng": "Our old friend, for his goodwill toward you and his exceptional service, I have embraced gladly on the strength of your letter, and have come to know him as most zealous and most affectionate both toward you and toward the commonwealth. My Cicero I shall see, I hope, before long. For I trust that, with you, he will come, and that you will come, into Italy quickly.",
+      "notes": null
+    }
+  ]
+}

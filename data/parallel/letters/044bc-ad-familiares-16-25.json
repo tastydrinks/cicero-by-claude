@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-25",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.25",
+  "title_english": "Ad Familiares 16.25",
+  "date": "-0044-09-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi iusta et idonea usus es excusatione intermissionis litterarum tuarum, tamen id ne saepius facias rogo. nam etsi de re p. rumoribus et nuntiis certior fio et de sua in me voluntate semper ad me perscribit pater, tamen de quavis minima re scripta a te ad me epistula semper fuit gratissima. qua re cum in primis tuas desiderem litteras, noli committere ut excusatione potius expleas officium scribendi quam assiduitate epistularum. vale . .",
+      "eng": "Though the excuse you offered for the gap in your letters was just and proper, all the same I beg you not to make a habit of it. For while reports and messengers keep me posted on public affairs, and my father is forever writing me about his own good will toward me, still a letter from you on any subject, no matter how trivial, has always been the most welcome thing I receive. So, since I miss your letters above all others, do not let yourself fall into the way of discharging the duty of writing by an excuse rather than by a steady stream of letters. Farewell.",
+      "notes": null
+    }
+  ]
+}

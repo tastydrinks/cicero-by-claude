@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-29",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.29",
+  "title_english": "Ad Familiares 7.29",
+  "date": "-0045-10-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. V. B.; sum enim xrh/sei me\\n tuus, kth/sei de\\ Attici nostri. ergo fructus est tuus, mancipium illius; quod quidem si inter senes comptionalis venale proscripserit, egerit non multum. at illa nostra praedicatio quanti est, nos, quod simus, quod habeamus, quod homines existimemur, id omne abs te habere! qua re, Cicero mi, persevera constanter nos conservare et Sulpici successori nos de meliore nota commenda, quo facilius tuis praeceptis obtemperare possimus teque ad ver libentes videre et nostra refigere deportareque tuto possimus.",
+      "eng": "If you are well, I am glad. For I am yours by use [Greek: chrēsei men], while by ownership [Greek: ktēsei de] I belong to our Atticus. The usufruct, then, is yours; the chattel his. And if he were to put me up for sale among the joint-purchase elders, he would not get much for me. But what a fine boast it is of mine, that whatever I am, whatever I have, whatever standing I am thought to enjoy among men --- I have it all from you! Therefore, my dear Cicero, persevere with constancy in preserving me, and commend me to Sulpicius's successor in the warmest terms, so that I may the more easily obey your instructions and gladly see you in the spring, and may safely take down and bring home what is mine.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed , amice magne, noli hanc epistulam Attico ostendere. Sine eum errare et putare me virum bonum esse nec solere duo parietes de eadem fidelia dealbare. ergo , patrone mi, bene vale Tironemque meum saluta nostris verbis. data a. d. iiii K. Nov.",
+      "eng": "But, my great friend, do not show this letter to Atticus. Let him err and go on supposing me an honest man, not one in the habit of whitewashing two walls from the same pot. Therefore, my patron, fare you well, and salute my dear Tiro for me. Sent on the fourth day before the Kalends of November.",
+      "notes": null
+    }
+  ]
+}

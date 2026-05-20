@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.5",
+  "title_english": "Ad Familiares 10.5",
+  "date": "-0044-12-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "binas a te accepi litteras eodem exemplo, quod ipsum argumento mihi fuit diligentiae tuae intellexi enim te laborare ut ad me mihi exspectatissimae litterae perferrentur. ex quibus cepi fructum duplicem mihique in comparatione difficilem ad iudicandum, amoremne erga me tuum an animum in rem p. pluris aestimandum putarem. est omnino patriae caritas meo quidem iudicio maxima, sed amor voluntatisque coniunctio plus certe habet suavitatis. itaque commemoratio tua paternae necessitudinis benevolentiaeque eius, quam erga me a pueritia contulisses, ceterarumque rerum, quae ad eam sententiam pertinebant incredibilem mihi laetitiam attulerunt ;",
+      "eng": "Two letters from you have reached me of the same content, which was itself a token of your carefulness; for I understood that you were taking pains that the letter I had been so eagerly awaiting should be delivered to me. From it I drew a twofold pleasure --- one hard to weigh against the other, when I had to judge whether your love for me or your devotion to the state were the more to be esteemed. The love of one's country is, in my own judgement at any rate, the greatest of all loyalties; but love and union of purpose between friends has surely more of sweetness in it. And so your remembrance of your father's friendship with me, and of the kindness which from your boyhood you had felt toward me, and of all the rest of what bore on that point, brought me incredible joy.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "rursus declaratio animi tui, quem haberes de re p. quemque habiturus esses, mihi erat iucundissima ; eoque maior erat haec laetitia, quod ad illa superiora accedebat. itaque te non hortor solum, mi Plance, sed plane etiam oro, quod feci iis litteris, quibus tu humanissime respondisti, ut tota mente omnique animi impetu in rem p. incumbas. nihil est quod tibi maiori fructui gloriaeque esse possit, nec quicquam ex omnibus rebus humanis est praeclarius aut praestantius quam de re p. bene mereri.",
+      "eng": "On the other hand, the declaration of your mind --- what your feeling is about the state and what it will be --- was most welcome to me; and the more so because it came on top of the other. So I do not only urge you, my dear Plancus, but plainly entreat you (as I did in the letter to which you replied so generously) to throw yourself with your whole mind and the full force of your spirit into the cause of the republic. There is nothing that can be of greater profit and glory to you, and nothing in all human affairs more distinguished or more excellent, than to deserve well of the state.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "adhuc enim (patitur tua summa humanitas et sapientia me quod sentiam libere dicere) fortuna suffragante videris res maximas consecutus quod quamquam sine virtute fieri non potuisset, tamen ex maxima parte ea quae es adeptus fortunae temporibusque tribuuntur ; his temporibus difficillimis rei p. quicquid subveneris, id erit totum et proprium tuum. incredibile est omnium civium latronibus exceptis odium in Antonium, magna spes in te et in tuo exercitu, magna exspectatio ; cuius, per deos! gratiae gloriaeque cave tempus amittas. sic moneo ut filium, sic faveo ut mihi, sic hortor ut et pro patria et amicissimum.",
+      "eng": "Up to now (your great kindness and good sense allow me to say frankly what I think) you have appeared, with fortune's vote behind you, to have achieved the greatest things --- which, though they could not have been won without your own merit, are still for the most part credited to fortune and the times. Whatever you do for the relief of the state in these most difficult moments will be wholly and properly your own. The hatred felt by every citizen, brigands excepted, for Antony is past belief; the hope reposed in you and in your army is great, the expectation great. For the gratitude and glory you may earn from it --- in the gods' name, do not let the moment slip. So I advise you as a son, so favour you as I do myself, so urge you on both as one who loves his country and as your closest friend.",
+      "notes": null
+    }
+  ]
+}

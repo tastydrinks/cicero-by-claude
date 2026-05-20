@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-05",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.5",
+  "title_english": "Ad Familiares 13.5",
+  "date": "-0045-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non moleste fero eam necessitudinem, quae mihi tecum est, notam esse quam plurimis neque tamen ob eam causam (quod tu optime existimare potes) te impedio quo minus susceptum negotium pro tua fide et diligentia ex voluntate Caesaris, qui tibi rem magnam difficilemque commisit, gerere possis. nam cum multi a me petant multa, quod de tua erga me voluntate non dubitent, non committo ut ambitione mea conturbem officium tuum.",
+      "eng": "It does not vex me that the bond between us is now known to as many as possible; nor on that account do I do anything --- as you are best placed to judge --- that would obstruct you in carrying out the business you have taken up, in keeping with your good faith and your diligence and the will of Caesar, who has entrusted to you a great and difficult matter. For though many ask many things of me, because they have no doubt of your goodwill toward me, I do not allow myself to throw your duty into disorder by my own importunity.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "C. Curtio ab ineunte aetate familiarissime sum usus. eius et Sullani temporis iniustissima calamitate dolui et cum iis, qui similem iniuriam acceperant, amissis omnibus fortunis reditus tamen in patriam voluntate omnium concedi videretur, adiutor incolumitatis fui. is habet in Volaterrano possessionem, cum in eam tamquam e naufragio reliquias contulisset. hoc ' autem tempore eum Caesar in senatum legit; quem ordinem ille ista possessione amissa tueri vix potest. gravissimum autem est, cum superior factus sit ordine, inferiorem esse fortuna, minimeque convenit ex eo agro, qui Caesaris iussu dividatur, cum moveri, a qui Caesaris beneficio senator sit.",
+      "eng": "I have lived on the closest terms with C. Curtius from boyhood. I grieved at the most unjust ruin he met in the Sullan time, and when, with all his fortunes lost, his return to his country seemed, by the will of all men, to be allowed to him alongside those who had suffered a like injury, I was a helper in his restoration. He has a holding in the territory of Volaterrae, where he gathered the wreckage, so to speak, of his shipwreck. And now, at this present time, Caesar has enrolled him in the Senate; an order whose dignity he can hardly sustain if that holding is taken from him. It is a most grievous thing that, having risen in his order, he should sink in his fortune, and it is hardly fitting that the man who is a senator by Caesar's favour should be dislodged from the very land which Caesar's orders are dividing.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed mihi minus libet multa de aequitate rei scribere, ne causa potius apud te valuisse videar quam gratia. quam ob rem te in maiorem modum rogo ut C. Curti rem meam putes esse, quicquid mea causa faceres, ut, id C. Curti causa cum feceris, existimes, quod ille per me habuerit, id me habere abs te. hoc te vehementer etiam atque etiam rogo.",
+      "eng": "But I have less wish to write at length about the justice of the case, for fear of seeming to weigh with you more by my pleading than by my standing. I therefore ask you, with all the warmth I can, to count the business of C. Curtius as my own, so that whatever you would have done for my sake you may do for C. Curtius's sake, and reckon that whatever favour he has had through me is a favour you have done to me. This I ask of you, urgently and again and again.",
+      "notes": null
+    }
+  ]
+}

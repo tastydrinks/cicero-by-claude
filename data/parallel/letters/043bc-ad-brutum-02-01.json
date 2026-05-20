@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-02-01",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 2.1",
+  "title_english": "Ad M. Brutum 2.1",
+  "date": "-0043-04-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum haec scribebam, res existimabatur in extremum adducta discrimen. tristes enim de Bruto nostro litterae nuntiique adferebantur. me quidem non maxime conturbabant. his enim exercitibus ducibusque quos habemus nullo modo poteram diffidere neque adsentiebar maiori parti hominum. fidem enim consulum non condemnabam quae suspecta vehementer erat; desiderabam non nullis in rebus prudentiam et celeritatem; qua si essent usi, iam pridem rem publicam reciperassemus. non enim ignoras quanta momenta sint in re publica temporum et quid intersit idem illud utrum ante an post decernatur, suscipiatur, agatur. omnia quae severe decreta sunt hoc tumultu, si aut quo die dixi sententiam perfecta essent et non in diem ex die dilata aut, quo ex tempore suscepta sunt ut agerentur, non tardata et procrastinata, bellum iam nullum haberemus.",
+      "eng": "While I was writing these lines, the situation was judged to have come to its last crisis. Grim letters and reports about our friend Brutus kept being brought in. Personally they did not greatly disturb me. With the armies and commanders we have, I could in no way despair, nor did I agree with the majority view. The good faith of the consuls I did not condemn --- though it was strongly under suspicion. What I did miss, in certain matters, was foresight and quickness; had they used these, we should long since have recovered the commonwealth. For you are not unaware how much hinges, in public affairs, on timing, and what difference it makes whether the same measure is decided, undertaken, and executed sooner or later. Every stern measure that has been resolved upon in this present crisis --- if either, on the day I delivered my motion, it had been brought to completion and not put off day after day, or, from the moment of its undertaking for execution, it had not been slowed and procrastinated --- we should by now have no war at all.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "omnia , Brute, praestiti rei publicae quae praestare debuit is qui esset in eo in quo ego sum gradu senatus populique iudicio conlocatus, nec illa modo quae nimirum sola ab homine sunt postulanda, fidem, vigilantiam, patriae caritatem. ea sunt enim quae nemo est qui non praestare debeat. ego autem ei qui sententiam dicat in principibus de re publica puto etiam prudentiam esse praestandam nec me, cum mihi tantum sumpserim ut gubernacula rei publicae prehenderem, minus putarim reprehendendum si inutiliter aliquid senatui suaserim quam si infideliter.",
+      "eng": "Everything, Brutus, I have rendered to the commonwealth that a man so placed as I am --- in the rank in which the judgement of the Senate and people has set me --- was bound to render; and not only those qualities, of course, which are alone to be demanded of a man, good faith, vigilance, love of country. These are things no one is who is not bound to render. But, for myself, of one who delivers an opinion on the state among its leading men I think foresight too must be required; nor, having claimed for myself so much as to grip the helm of the commonwealth, should I think myself any less open to censure for advising the Senate unprofitably than for advising it disloyally.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Acta quae sint quaeque agantur scio perscribi ad te diligenter; ex me autem illud est quod te velim habere cognitum, meum quidem animum in acie esse neque respectum ullum quaerere nisi me utilitas civitatis forte converterit; maioris autem partis animi te Cassiumque respiciunt. quam ob rem ita te para, Brute, ut intellegas aut, si hoc tempore bene res gesta sit, tibi meliorem rem publicam esse faciendam aut, si quid offensum sit, per te esse eandem reciperandam.",
+      "eng": "What has been done and what is being done is, I know, being written to you in detail. From me there is this further point which I should like you to be informed of: my mind, for its part, is in the line of battle and seeks no looking-back of any kind, unless perhaps the public interest divert me; but the minds of the majority look back to you and to Cassius. For this reason, Brutus, prepare yourself, in the understanding that either, if at this present moment matters are well managed, you will have a better commonwealth to make, or, if anything go wrong, you will have to recover that same commonwealth through your own efforts.",
+      "notes": null
+    }
+  ]
+}

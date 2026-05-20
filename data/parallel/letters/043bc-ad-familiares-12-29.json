@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-29",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.29",
+  "title_english": "Ad Familiares 12.29",
+  "date": "-0043-06-26",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "non modo tibi cui nostra omnia notissima sunt, sed neminem in populo R. arbitror esse cui sit ignota ea familiaritas quae mihi cum L. Lamia est. etenim magno theatro spectata est tum cum est ab A. Gabinio consule relegatus quod libere et fortiter salutem meam defendisset. nec ex eo amor inter nos natus est sed, quod erat vetus et magnus, propterea nullum periculum pro me adire dubitavit. ad haec officia vel merita potius iucundissima consuetudo accedit, ut nullo prorsus plus homine delecter. non puto te iam exspectare quibus eum tibi verbis commendem ; causa enim tanti amoris intellegis quae verba desideret.",
+      "eng": "Not only to you, to whom all my affairs are perfectly familiar, but to no one in the Roman people, I think, is the intimacy between me and L. Lamia unknown. It was witnessed by a great audience when he was banished by the consul A. Gabinius for having defended my safety freely and bravely. Nor was it from that moment that affection between us was born --- it was because the bond was old and great that he hesitated at no danger on my behalf. To these services, or rather to these acts of merit, is added the most delightful intimacy of daily intercourse, so that there is absolutely no man in whom I take more pleasure. I don't suppose you are still waiting to hear in what words I commend him to you: you understand the cause of such great affection, and what words it would call for.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Iis me omnibus usum putato. tantum velim existimes, si negotia Lamiae, procuratores, libertos, familiam quibuscumque rebus opus erit defenderis, gratius mihi futurum quam si ea tua liberalitas pertinuisset ad rem familiarem meam ; nec dubito quin sine mea commendatione, quod tuum est iudicium de hominibus, ipsius Lamiae causa studiose omnia facturus sis. quamquam erat nobis dictum te existimare alicui s. c., quod contra dignitatem tuam fieret, scribendo Lamiam adfuisse ; qui omnino consulibus illis numquam fuit ad scribendum ; deinde omnia tum falsa senatus consulta deferebantur. Nisi forte etiam illi Semproniano s. c. me censes adfuisse qui ne Romae quidem fui, ut tum de eo ad te scripsi re recenti.",
+      "eng": "Take it that I have employed them all. I would only have you reckon this: that if you defend Lamia's affairs, his agents, his freedmen, his household in whatever matters need it, I shall feel more gratitude than if your liberality had been extended to my own private estate. And I do not doubt that, even without my commending him, given your sound judgement of men, you will eagerly do everything for Lamia's own sake. Although it had been reported to me that you supposed Lamia to have been present in the drafting of some senatorial decree that ran against your honour: but he certainly never came to drafting under those consuls; and besides, in those days every kind of falsified decree of the Senate was being put about. Unless perhaps you suppose I too was present at that Sempronian decree --- when I was not even at Rome, as I wrote to you about at the time, while the thing was still fresh.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed haec hactenus. te , mi Cornifici, etiam atque etiam rogo ut omnia Lamiae negotia mea putes esse curesque ut intellegat hanc commendationem maximo sibi usui fuisse. hoc mihi gratius facere nihil potes. cura ut valeas.",
+      "eng": "But enough of this. My dear Cornificius, I ask you again and again to consider all Lamia's affairs as my own, and to take pains that he should understand that this commendation has been of the greatest service to him. You can do nothing more agreeable to me than this. Take care of your health.",
+      "notes": null
+    }
+  ]
+}

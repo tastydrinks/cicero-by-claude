@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-19",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.19",
+  "title_english": "Ad Familiares 16.19",
+  "date": "-0045-08-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "exspecto tuas litteras de multis rebus, te ipsum multo magis. Demetrium redde nostrum et aliud, si quid potest boni. de Aufidiano nomine nihil te hortor ; scio tibi curae esse ; sed confice. et , si ob eam rem moraris, accipio causam ; si id te non tenet, advola. Litteras tuas valde exspecto. vale .",
+      "eng": "I am waiting for your letters on a number of matters --- and for you yourself much more. Send our Demetrius back to me, and whatever else of any good you can manage. On the Aufidius account I have no exhortation for you; I know you have it in hand --- only finish it. And if that is what is keeping you, I accept the cause; if it is not what is holding you, fly here. I am waiting hard for your letter. Farewell.",
+      "notes": null
+    }
+  ]
+}

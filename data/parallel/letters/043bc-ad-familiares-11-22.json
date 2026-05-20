@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-22",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.22",
+  "title_english": "Ad Familiares 11.22",
+  "date": "-0043-07-14",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum Appio Claudio C. f. summa mihi necessitudo est multis eius officiis et meis mutuis constituta. peto a te maiorem in modum vel humanitatis tuae vel mea causa ut eum auctoritate tua, quae plurimum valet, conservatum velis. volo te, cum fortissimus vir cognitus sis, etiam clementissimum existimari. Magno tibi erit ornamento nobilissimum adulescentem beneficio tuo esse salvum ; cuius quidem causa hoc melior debet esse, quod pietate adductus propter patris restitutionem se cum Antonio coniunxit.",
+      "eng": "I have the closest of ties with Appius Claudius, son of Gaius --- a tie built up by many services of his and as many of mine in return. I ask of you in the strongest terms, whether for your humanity's sake or for mine, that you should be willing, by that authority of yours which counts for so much, to keep him safe. You have been recognised as a man of the greatest courage; I want you to be reckoned the most clement as well. It will be a great ornament to you, that a young man of the noblest birth owes his preservation to your good office; and his case for it should be the better, because it was filial duty that brought him into Antony's camp --- the wish to have his father restored.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "qua re etsi minus veram causam habebis, tamen vel probabilem aliquam poteris inducere. nutus tuus potest hominem summo loco natum, summo ingenio, summa virtute, officiosissimum praeterea et gratissimum, incolumem in civitate retinere. quod ut facias ita a te peto, ut maiore studio magisve ex animo petere non possim.",
+      "eng": "For which reason, even if you find your hand short of a wholly true ground, still you will be able to bring forward one at least that has the look of truth. Your nod can keep a man of the highest birth, the highest natural gifts, the highest virtue --- and besides all that, the most dutiful and the most grateful --- safe within the citizen body. I ask of you to do this in such terms as I could not ask with greater earnestness or more from the heart.",
+      "notes": null
+    }
+  ]
+}

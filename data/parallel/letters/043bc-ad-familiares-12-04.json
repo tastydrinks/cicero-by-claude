@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-04",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.4",
+  "title_english": "Ad Familiares 12.4",
+  "date": "-0043-02-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "vellem Idibus Martiis me ad cenam invitasses ; reliquiarum nihil fuisset. nunc me reliquiae vestrae exercent et quidem praeter ceteros me hercule. quamquam egregios consules habemus sed turpissimos consularis, senatum fortem sed infimo quemque honore fortissimum ; populo vero nihil fortius, nihil melius Italiaque universa : nihil autem foedius Philippo et Pisone legatis, nihil flagitiosius. qui cum essent missi ut Antonio ex senatus sententia certas res nuntiarent, cum ille earum rerum nulli paruisset, ultro ab illo ad nos intolerabilia postulata rettulerunt. itaque ad nos concurritur factique iam in re salutari populares sumus.",
+      "eng": "I wish you had invited me to dinner on the Ides of March: there would have been no leftovers. As it is, your leftovers are giving me work --- and giving me more work, by Hercules, than anyone else. Excellent consuls, to be sure, we have; but the consulars are utterly disgraceful. The Senate is steady, but it is precisely the lowest-ranking who are steadiest. As for the people, nothing is steadier, nothing better, and the same goes for all Italy. But nothing is more contemptible than the envoys Philippus and Piso, nothing more scandalous. Sent to deliver specific terms to Antonius on the Senate's authority, when he obeyed none of them they went so far as to bring back to us intolerable demands from him. So people are flocking to me, and in a cause that saves the state I have now turned popular.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed tu quid ageres, quid acturus, ubi denique esses, nesciebam ; fama nuntiabat te esse in Syria, auctor erat nemo. de Bruto, quo propius est, eo firmiora videntur esse quae nuntiantur. Dolabella valde vituperabatur ab hominibus non insulsis, quod tibi tam cito succederet, cum tu vixdum xxx dies in Syria fuisses. itaque constabat eum recipi in Syriam non oportere. summa laus et tua et Bruti est, quod exercitum praeter spem existimamini comparasse. scriberem plura, si rem causamque nossem ; nunc quae scribo scribo ex opinione hominum atque fama. tuas litteras avide exspecto. vale .",
+      "eng": "But what you were doing, what you were going to do, where indeed you were --- I had no idea. Rumour reported you were in Syria; no one was vouching for it. About Brutus, the closer he is, the firmer the reports seem. Dolabella was being heavily abused by men of some wit, on the ground that he was so quick to succeed you, when you had scarcely been thirty days in Syria. So it was the settled view that he ought not to be received into Syria. The highest credit goes both to you and to Brutus, that you are reckoned to have raised an army beyond hope. I would write more if I knew the situation and the substance of it; as it is, what I write I write from common opinion and rumour. I wait eagerly for your letter. Farewell.",
+      "notes": null
+    }
+  ]
+}

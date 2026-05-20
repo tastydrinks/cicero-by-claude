@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.3",
+  "title_english": "Ad Familiares 11.3",
+  "date": "-0044-08-04",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. b. Litteras tuas legimus simillimas edicti tui, contumeliosas, minacis, minime dignas quae a te nobis mitterentur. nos , Antoni, te nulla lacessiimus iniuria neque miraturum credidimus, si praetores et ea dignitate homines aliquid edicto postulassemus a consule. quod si indignaris ausos esse id facere, concede nobis ut doleamus ne hoc quidem abs te Bruto et Cassio tribui.",
+      "eng": "If you are well, it is well. We have read your letter, the very image of your edict --- abusive, threatening, and least of all worthy to be sent from you to us. We, Antony, have provoked you with no injury, and we did not suppose you would think it strange if praetors, and men of our standing, asked something by edict of a consul. But if you take offence that we ventured to do that, allow us to grieve that not even this much is conceded by you to Brutus and Cassius.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "nam de dilectibus habitis et pecuniis imperatis, exercitibus sollicitatis et nuntiis trans mare missis quod te questum esse negas, nos quidem tibi credimus optimo animo te fecisse, sed tamen neque agnoscimus quicquam eorum et te miramur, cum haec reticueris, non potuisse continere iracundiam tuam quin nobis de morte Caesaris obiceres.",
+      "eng": "As to the levies you have held and the moneys you have requisitioned, the armies you have tampered with and the messengers you have sent overseas --- since you say you have made no complaint of these, we for our part believe you have acted with the best intention; but we neither acknowledge any of these things, and we wonder, since you held your tongue on these, that you could not contain your anger from throwing Caesar's death in our faces.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "illud vero quem ad modum ferendum sit tute cogita, non licere praetoribus concordiae ac libertatis causa per edictum de suo iure decedere quin consul arma minetur. quorum fiducia nihil est quod nos terreas ; neque enim decet aut convenit nobis periculo ulli submittere animum nostrum neque est Antonio postulandum ut iis imperet quorum opera liber est. nos si alia hortarentur ut bellum civile suscitare vellemus, litterae tuae nihil proficerent; nulla enim minantis auctoritas apud liberos est ; sed pulchre intellegis non posse nos quoquam impelli et fortassis ea re minaciter agis ut iudicium nostrum metus videatur.",
+      "eng": "Consider yourself how this is to be borne: that praetors are not to be permitted, by edict, for the sake of concord and liberty, to step back from their own right, without the consul threatening arms. Trusting in those arms, you have no occasion to terrify us; for it is not seemly nor fitting to us to bend our spirit in the face of any danger, and Antony has no business commanding the men by whose work he is a free man. If other considerations were urging us to want to stir up civil war, your letter would accomplish nothing; for the authority of one who threatens has no purchase upon free men. But you understand very well that we cannot be driven anywhere, and perhaps for that reason you act menacingly --- so that our deliberate judgement may look like fear.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "nos in hac sententia sumus, ut te cupiamus in libera re p. magnum atque honestum esse, vocemus te ad nullas inimicitias, sed tamen pluris nostram libertatem quam tuam amicitiam aestimemus. tu etiam atque etiam vide quid suscipias, quid sustinere possis, neque quam diu vixerit Caesar sed quam non diu regnarit fac cogites. deos quaesumus consilia tua rei p. salutaria sint ac tibi ; si minus, ut salva atque honesta re p. tibi quam minimum noceant optamus. Pr. non . Sext.",
+      "eng": "We are of this mind: we would have you great and honoured in a free state; we summon you to no enmities; but nevertheless we value our liberty more highly than your friendship. Consider again and again what you are taking on, what you can bear up under; do not contemplate how long Caesar lived, but how short a time he reigned. We pray the gods that your counsels may be wholesome for the state and for yourself; if they are not, we pray that, with the state safe and in honour, they may do you the least harm possible. The day before the nones of Sextilis.",
+      "notes": null
+    }
+  ]
+}

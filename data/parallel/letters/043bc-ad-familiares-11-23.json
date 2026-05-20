@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-23",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.23",
+  "title_english": "Ad Familiares 11.23",
+  "date": "-0043-05-25",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nos hic valemus recte et quo melius valeamus operam dabimus. Lepidus commode nobis sentire videtur. omni timore deposito debemus libere rei p. consulere. quod si omnia essent aliena, tamen tribus tantis exercitibus, propriis rei p. valentibus magnum animum habere debebas ; quem et semper habuisti et nunc fortuna adiuvante augere potes.",
+      "eng": "We here are doing well, and we shall take pains to do better still. Lepidus appears to be of the right mind toward us. With every fear set aside, we ought now to consult freely for the state. But even if the whole rest of the world were against us, still, with three armies as strong as these, all of them the state's own, you ought to be of great heart --- as you have always been, and as now, with fortune helping, you can rise to be still greater.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quae tibi superioribus litteris mea manu scripsi, terrendi tui causa homines loquuntur. si frenum momorderis, peream si te omnes quot sunt conantem loqui ferre poterunt. ego , tibi ut antea scripsi, dum mihi a te litterae veniant, in Italia morabor. viii K. Iunias Eporedia.",
+      "eng": "The things I wrote to you in my own hand in my last letter --- people say them only to frighten you. If you take the bit between your teeth, may I die if every one of them put together could endure your attempt to speak. For my part, as I wrote to you before, I shall stay on in Italy until letters reach me from you. 25 May, Eporedia.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-22",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.22",
+  "title_english": "Ad Familiares 7.22",
+  "date": "-0044-06-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "inluseras heri inter scyphos, quod dixeram controversiam esse, possetne heres, quod furtum antea factum esset, furti recte agere. itaque etsi domum bene potus seroque redieram, tamen id caput, ubi haec controversia est, notavi et descriptum tibi misi, ut scires id, quod tu neminem sensisse dicebas, Sex. Aelium, M'. Manilium, M. Brutum sensisse. ego tamen Scaevolae et Testae adsentior.",
+      "eng": "You were making fun of me yesterday over the cups, because I had said it was an open question whether an heir could rightly bring an action of theft for a theft committed before the inheritance. So although I came home well in my wine and late, I still marked the heading where the controversy lies, and have sent you a copy --- so that you might know that the view you said no one had ever held was in fact held by Sex. Aelius, M'. Manilius, and M. Brutus. For all that, I side with Scaevola and Testa.",
+      "notes": null
+    }
+  ]
+}

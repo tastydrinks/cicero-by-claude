@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-09",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.9",
+  "title_english": "Ad Familiares 10.9",
+  "date": "-0043-04-27",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "nihil me tibi temere aut te ceteris de me frustra recepisse laetor ; certe hoc maius habes testimonium amoris mei, quo maturius tibi quam ceteris consilia mea volui esse nota. in dies vero meritorum meorum fieri accessiones pervidere te spero, cogniturum magis recipio.",
+      "eng": "I am glad that you have undertaken nothing on my account rashly, and that you have undertaken nothing in vain when you pledged me to the rest. You have at any rate this much greater proof of my devotion: I wished my plans to be known to you sooner than to anyone else. By the day, I trust, you can see the additions to my services growing; that you will come to recognize them still more, I undertake.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod ad me attinet, mi Cicero, (ita ab imminentibus malis res p. me adiuvante liberetur!) sic honores praemiaque vestra suspicio conferenda certe cum immortalitate, ut sine iis nihil de meo studio perseverantiaque sim remissurus. Nisi in multitudine optimorum civium impetus animi mei fuerit singularis et opera praecipua, nihil ad meam dignitatem accedere volo suffragatione vestra.",
+      "eng": "As for myself, my dear Cicero --- so may the state be freed by my help from the evils now hanging over it! --- I look up to the honours and rewards you can bestow as something to be ranked, surely, with immortality, and yet without any one of them I shall not slacken in the slightest from my zeal and perseverance. Unless, in the great number of our best citizens, the drive of my spirit proves singular and my service outstanding, I want no addition to my standing from your votes.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "concupisco autem nihil mihi (contra quod ipse pugno) ; et temporis et rei te moderatorem facile patior esse. nihil aut sero aut exigue a patria civi tributum potest videri. exercitum a. d. vi K. Maias Rhodanum traieci magnis itineribus, Vienna equites mille via breviore praemisi. ipse si ab Lepido non impediar, celeritate satis faciam ; si autem itineri meo se opposierit, ad tempus consilium capiam. copias adduco et numero et genere et fidelitate firmissimas. te ut diligas me, si mutuo te facturum scis, rogo. vale .",
+      "eng": "As for ambition --- I covet nothing for myself (I fight against the thing); and I gladly leave you the regulator both of the timing and of the substance. Nothing granted to a citizen by his country can ever seem late or stinted. I crossed the Rhone with the army by forced marches on the sixth day before the Kalends of May; from Vienna I sent ahead a thousand horse by the shorter road. As for myself, if Lepidus does not obstruct me, I shall give satisfaction by my speed; if, however, he plants himself across my march, I shall take counsel as the moment requires. The forces I am bringing up are very strong in numbers, in quality, and in loyalty. I ask you to keep loving me, if you know I shall do the like in return. Farewell.",
+      "notes": null
+    }
+  ]
+}

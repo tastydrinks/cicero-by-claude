@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-17",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.17",
+  "title_english": "Ad Familiares 12.17",
+  "date": "-0046-06-14",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "grata mihi vehementer est memoria nostri tua quam significasti litteris ; quam ut conserves, non quo de tua con 'stantia dubitem sed quia mos est ita rogandi, rogo. ex Syria nobis tumultuosiora quaedam nuntiata sunt, quae quia tibi sunt propiora quam nobis, tua me causa magis movent quam mea. Romae summum otium est, sed ita ut malis salubre aliquod et honestum negotium ; quod spero fore. video id curae esse Caesari.",
+      "eng": "The remembrance of me which you signalled in your letter gratifies me deeply; and that you should keep it up I do ask --- not that I have any doubt of your constancy, but because it is the custom to ask in such terms. From Syria some rather disquieting news has been brought to us, which, since it touches you more nearly than it touches us, troubles me more on your account than on my own. At Rome there is the deepest quiet --- of a sort, however, that one would gladly trade for some salutary and honourable business; and that I hope is coming. I see Caesar has it in mind.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "me scito, dum tu absis, quasi occasionem quandam et licentiam nactum scribere audacius, et cetera quidem fortasse quae etiam tu concederes, sed proxime scripsi de optimo genere dicendi, in quo saepe suspicatus sum te . a iudicio nostro sic scilicet ut doctum hominem ab non indocto paulum dissidere. huic tu libro maxime velim ex animo, si minus, gratiae causa suffragere. dicam tuis ut eum, si velint, describant ad teque mittant ; puto enim, etiam si rem minus probabis, tamen in ista solitudine, quicquid a me profectum sit, iucundum tibi fore.",
+      "eng": "You should know that, while you are away, I have been writing more boldly --- as though I had picked up a kind of opportunity and licence. The rest of what I have written you would perhaps even grant me; but I have recently composed a book On the Best Kind of Oratory, in which I have often suspected that you will differ a little from my judgement --- in the way, that is, that a learned man differs from one not unlearned. I should very much like you to vote for this book wholeheartedly, or, failing that, as a favour to me. I will tell your people to copy it out, if they wish, and send it on to you; for I think that, even if you find the substance less than convincing, still in that solitude of yours anything that has come from me will give you pleasure.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quod mihi existimationem tuam dignitatemque commendas, facis tu quidem omnium more, sed velim sic existimes, me cum amori quem inter nos mutuum esse intellegam plurimum tribuam, tum de summo ingenio et de studiis tuis optimis et de spe amplissimae dignitatis ita iudicare ut neminem tibi anteponam, comparem paucos.",
+      "eng": "As to your commending your reputation and standing to my care --- in that you do as everyone does; but I should like you to take it this way: that, while I assign the very highest weight to the love I know is mutual between us, still in my judgement of your supreme talent, your excellent studies, and the hope you carry of the most ample distinction, I set no one above you, and few beside you.",
+      "notes": null
+    }
+  ]
+}

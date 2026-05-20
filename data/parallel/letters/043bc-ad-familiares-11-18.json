@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-18",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.18",
+  "title_english": "Ad Familiares 11.18",
+  "date": "-0043-06-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi ex mandatis, quae Galbae Volumnioque ad senatum dedisti, quid timendum putares suspicabamur, tamen timidiora mandata videbantur quam erat dignum tua populique Romani victoria. senatus autem, mi Brute, fortis est et habet fortis duces. itaque moleste ferebat se a te, quem omnium quicumque fuissent fortissimum iudicaret, timidum atque ignavum iudicari.",
+      "eng": "Although from the instructions you gave Galba and Volumnius for the Senate we could guess what it was that you thought there was to fear, still those instructions seemed more timid than was worthy of your victory and the Roman people's. The Senate, my dear Brutus, is firm, and has firm men to lead it. And so it bore it ill that you, whom it judged the bravest man of any who had ever lived, should be judging it timid and lacking in spirit.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "etenim cum te incluso spem maximam omnes habuissent in tua virtute florente Antonio, quis erat qui quicquam timeret profligato illo, te liberato? nec vero Lepidum timebamus. quis enim esset qui illum tam furiosum arbitraretur ut, qui in maximo bello pacem velle se dixisset, is in optatissima pace bellum rei p. indiceret?",
+      "eng": "For when, while you were shut in and Antony was at his height, everyone had placed their greatest hope in your courage --- who is there, now that he is shattered and you set free, who should fear anything? Nor in fact did we fear Lepidus. For who could there be who would think him so frenzied that the man who in the greatest of wars had said he wanted peace should, in the most longed-for peace, declare war on the state?",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "nec dubito quin tu plus provideas ; sed tamen tam recenti gratulatione quam tuo nomine ad omnia deorum templa fecimus, renovatio timoris magnam molestiam adferebat. qua re velim equidem, id quod spero, ut plane abiectus et fractus sit Antonius ; sin aliquid virium forte conlegerit, sentiet nec senatui consilium nec populo Romano virtutem deesse nec rei p. te vivo imperatorem. x iiii K. Iun.",
+      "eng": "I do not doubt that you see further than this. But still --- with the thanksgivings so freshly performed at every temple of the gods, in your name and at all of them --- the renewal of fear was bringing us great distress. So my own wish is what I hope for: that Antony lie plainly broken and crushed. But should he by any chance gather some strength again, he will find that the Senate does not lack counsel, nor the Roman people courage, nor the state, while you live, a commander. [1 June.]",
+      "notes": null
+    }
+  ]
+}

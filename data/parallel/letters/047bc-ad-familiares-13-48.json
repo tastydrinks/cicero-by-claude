@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-48",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.48",
+  "title_english": "Ad Familiares 13.48",
+  "date": "-0047-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "omnis tibi commendo Cyprios, sed magis Paphios (quibus tu quaecumque commodaris erunt mihi gratissima), eoque facio libentius ut eos tibi commendem, quod et tuae laudi, cuius ego fautor sum, conducere arbitror, cum primus in eam insulam quaestor veneris, ea te instituere quae sequantur alii ; quae, ut spero, facilius consequere, si et P. Lentuli, necessari tui, legem et ea quae a me constituta sunt sequi volueris ; quam rem tibi confido magnae laudi fore.",
+      "eng": "I commend to you all the Cypriots, but the people of Paphos most especially (and whatever favours you do them will be the most welcome to me); and I do it with all the greater pleasure, because I judge it conducive also to your own credit, of which I am the partisan, that since you are the first quaestor to come into that island, you should put in place the practices the rest will follow. These you will achieve the more easily, I trust, if you choose to follow both the regulation of your kinsman Publius Lentulus and what has been laid down by me; and I am confident this will be a thing of great credit to you.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-12",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.12",
+  "title_english": "Ad Familiares 12.12",
+  "date": "-0043-05-07",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. h. e. e. q. v. legi tuas litteras, in quibus mirificum tuum erga me amorem recognovi ; videbaris enim non solum favere nobis, id quod et nostra et rei p. causa semper fecisti, sed etiam gravem curam suscepisse vehementerque esse de nobis sollicitus. itaque quod te primum existimare putabam nos oppressa re p. quiescere non posse, deinde, .cum suspicarere nos moliri, quod te sollicitum esse et de salute nostra et de rerum eventu putabam, simul ac legiones accepi quas A. Allienus eduxerat ex Aegypto, scripsi ad te tabellariosque compluris Romam misi ; scripsi etiam ad senatum litteras, quas reddi vetui prius quam tibi recitatae essent, si forte mei obtemperare mihi voluerint. quod si litterae perlatae non sunt, non dubito quin Dolabella, qui nefarie Trebonio occiso Asiam occupavit, tabellarios meos deprenderit litterasque interceperit.",
+      "eng": "If you are well, it is well; I for my part am in good health. I have read your letter, in which I recognised your wonderful affection toward me; for you seemed not only to be supporting me --- as you have always done, on my account and on the Republic's --- but also to have taken on a grave concern, and to be vehemently anxious for our welfare. And so, since I supposed you to be reckoning, first, that we could not stay quiet while the Republic was crushed, and then, when you suspected we were on the move, that you were anxious both about our safety and about the outcome of events --- the moment I had taken over the legions which A. Allienus had led out of Egypt, I wrote to you and dispatched a number of couriers to Rome. I also wrote a letter to the Senate, which I forbade to be delivered until it had first been read to you, if perchance my people are minded to obey me. If that letter has not been brought through, I have no doubt that Dolabella --- who, after Trebonius was foully murdered, seized Asia --- has caught my couriers and intercepted my letter.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "exercitus omnis qui in Syria fuerunt teneo. habui pollulum morae, dum proluissa militibus persolvo ; nunc iam sum expeditus. A te peto ut dignitatem meam commendatam tibi habeas, si me intellegis nullum neque periculum neque laborem patriae denegasse, si contra importunissimos latrones arma cepi te hortante et auctore, si non solum exercitus ad rem p. libertatemque defendendam comparavi sed etiam crudelissimis tyrannis eripui ; quos si occupasset Dolabella, non solum adventu sed etiam opinione et exspectatione exercitus sui Antonium confirmasset.",
+      "eng": "The whole of the armies that were in Syria I hold. I had a brief delay while I was paying out to the soldiers what I had promised them; now I am at last free of that. I ask of you that you hold my standing recommended to your care, if you recognise that I have refused no danger and no toil to my country; if I took up arms, with you to urge me on and to authorise me, against the most lawless brigands; if I have not only made ready armies for the defence of the Republic and of liberty, but have also wrenched them out of the hands of the cruellest tyrants. Had Dolabella seized those armies first, he would have strengthened Antonius not only by the arrival of his force but by the very reputation and expectation of it.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quas ob res milites tuere, si eos mirifice de re p. meritos esse animadvertis, et effice ne quem paeniteat rem p. quam spem praedae et rapinarum sequi maluisse. item Murci et Crispi imperatorum dignitatem, quantum est in te, tuere. nam Bassus misere noluit mihi legionem tradere. quod nisi milites invito eo legatos ad me misissent, clausam Apameam tenuisset, quoad vi esset expugnata. haec a te peto non solum rei p. quae tibi semper fuit carissima, sed etiam amicitiae nostrae nomine, quam confido apud te plurimum posse.",
+      "eng": "For these reasons, protect the soldiers, if you observe that they have done extraordinary service to the Republic; and see to it that no one regrets having preferred to follow the Republic rather than the hope of plunder and pillage. Likewise, so far as it lies in you, protect the standing of the commanders Murcus and Crispus. For Bassus has been wretchedly unwilling to hand his legion over to me. Had the soldiers, against his will, not sent envoys to me, he would have held Apamea shut up until it was taken by storm. These things I ask of you not only in the name of the Republic, which has always been dearest to you, but also in the name of our friendship, which I am confident has the greatest weight with you.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "crede mihi hunc exercitum quem habeo senatus atque optimi cuiusque esse maximeque tuum, de cuius voluntate adsidue audiendo mirifice te diligit carumque habet. qui si intellexerit commoda sua curae tibi esse, debere etiam se tibi omnia putabit.",
+      "eng": "Believe me, this army which I hold belongs to the Senate and to every loyal man, and above all to you, of whose disposition it constantly hears, and so holds you in wonderful affection and esteem. If it comes to understand that its interests are your care, it will also reckon that it owes you everything.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "Litteris scriptis audii Dolabellam in Ciliciam venisse cum suis copiis. proficiscar in Ciliciam. quid egerim celeriter ut scias dabo operam ; ac velim, ut meremur de re p., sic felices simus. fac valeas meque ames. Nonis Maiis ex castris.",
+      "eng": "After this letter had been written, I heard that Dolabella has come into Cilicia with his forces. I shall set out for Cilicia. I shall take pains that you swiftly learn what I have done; and may we be as fortunate as we deserve at the Republic's hands. See to your health, and continue to love me. The Nones of May, from the camp.",
+      "notes": null
+    }
+  ]
+}

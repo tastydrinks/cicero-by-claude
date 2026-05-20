@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-27",
+  "category": "letters",
+  "title_latin": "Ad Familiares 16.27",
+  "title_english": "Ad Familiares 16.27",
+  "date": "-0044-12-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "mirificam mi verberationem cessationis epistula dedisti ; nam quae parcius frater perscripserat verecundia videlicet et properatione, ea tu sine adsentatione ut erant ad me scripsisti, et maxime de coss. designatis, quos ego penitus novi libidinum et languoris effeminatissimi animi plenos ; qui nisi a gubernaculis recesserint, maximum ab universo naufragio periculum est.",
+      "eng": "You have given me a magnificent flogging for my idleness in your letter. What my brother wrote more guardedly --- out of scruple, no doubt, and haste --- you wrote to me without any sugar-coating, exactly as the facts stand: above all about the consuls-designate, whom I know inside out as men steeped in vice and the effeminate languor of utterly unmanned spirits. Unless they step away from the helm, the danger to all of us in the general shipwreck is at its highest.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "incredibile est, quae ego illos scio oppositis Gallorum castris in aestivis fecisse, quos ille latro, nisi aliquid firmius fuerit, societate vitiorum deleniet. res est aut tribuniciis aut privatis consiliis munienda ; nam isti duo vix sunt digni quibus alteri Caesenam, alteri Cossutianarum tabernarum fundamenta credas. te , ut dixi, fero in oculis. ego vos a. d. III K. videbo tuosque oculos, etiam si te veniens in medio foro videro, dissaviabor. me ama. vale .",
+      "eng": "What I know they got up to in summer quarters, with the Gauls' camp drawn up opposite them, is past belief; and that bandit, unless something stronger stands in his way, will tame them through the partnership of their vices. The state must be shored up either by the tribunes or by private citizens taking counsel together; for those two are scarcely fit to be entrusted, the one with Caesena, the other with the foundations of the Cossutian shops. You, as I said, I carry before my eyes. I shall see you and yours on the third day before the Kalends; and your eyes, even if I catch sight of you coming up to me in the middle of the Forum, I shall kiss and kiss again. Love me. Farewell.",
+      "notes": null
+    }
+  ]
+}

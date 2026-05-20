@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-20",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.20",
+  "title_english": "Ad Familiares 12.20",
+  "date": "-0044-09-02",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "gratae mihi tuae litterae, nisi quod Sinuessanum deversoriolum contempsisti. quam quidem contumeliam villa pusilla iniquo animo feret, nisi in Cumano et Pompeiano reddideris u(pomnhmatismo\\n . sic igitur facies meque amabis et scripto aliquo lacesses ; ego enim respondere facilius possum quam provocare. quod si, †ut es, cessabis, lacessam, nec tua ignavia etiam mihi inertiam adferet. plura otiosus ; haec cum essem in senatu exaravi.",
+      "eng": "Your letter was welcome --- except that you turned your nose up at my little lodge at Sinuessa. The slight that poor undersized villa will bear with a grudge, unless at the Cumanum and the Pompeianum you make her a record of your visit [Greek: hypomnematismon]. Do this, then, and you will love me, and provoke me with some piece of writing; for I find it easier to answer than to challenge. But if --- being what you are --- you go on idling, I will challenge; nor will your sluggishness bring my own laziness on with it. More when I am at leisure. This I scribbled while in the Senate.",
+      "notes": null
+    }
+  ]
+}

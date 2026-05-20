@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-02",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.2",
+  "title_english": "Ad Familiares 11.2",
+  "date": "-0044-05-31",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "de tua fide et benevolentia in nos nisi persuasum esset nobis, non scripsissemus haec tibi ; quae profecto, quoniam istum animum habes, in optimam partem accipies. scribitur nobis magnam veteranorum multitudinem Romam convenisse iam et ad K. Iun. futuram multo maiorem. de te si dubitemus aut vereamur, simus nostri dissimiles ; sed certe, cum ipsi in tua potestate fuerimus tuoque adducti consilio dimiserimus ex municipiis nostros necessarios neque solum edicto sed etiam litteris id fecerimus, digni sumus quos habeas tui consili participes, in ea praesertim re quae ad nos pertinet.",
+      "eng": "If we were not persuaded of your good faith and good will toward us, we should not be writing this to you; and these things, since you do have such a disposition, you will surely take in the best part. We are written to that a great mass of veterans has by now gathered at Rome, and that by the kalends of June there will be a much larger one. If we had any doubt or apprehension on your account, we should be unlike ourselves; but certainly, when we ourselves have been within your power, and on your advice have dismissed our personal connections from the country towns --- and have done so not only by edict but by letter as well --- we deserve to be made partners in your counsel, especially in a matter that concerns ourselves.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "qua re petimus a te facias nos certiores tuae voluntatis in nos, putesne nos tutos fore in tanta frequentia militum veteranorum, quos etiam de reponenda ara cogitare audimus ; quod velle et probare vix quisquam posse videtur qui nos salvos et honestos velit. nos ab initio spectasse otium nec quicquam aliud libertate communi quaesisse exitus declarat. fallere nemo nos potest nisi tu, quod certe abest ab tua virtute et fide ; sed alius nemo facultatem habet decipiendi nos ; tibi enim uni credidimus et credituri sumus.",
+      "eng": "Therefore we ask you to inform us of your goodwill toward us: whether you think we shall be safe amid such a concentration of veteran soldiers, who, we hear, are even considering replacing the altar --- which scarcely anyone who wishes us safe and in good standing seems able to wish for or to approve. That we have looked from the beginning toward peace, and have sought nothing apart from the common liberty, our actions declare. No one can deceive us but you, which is certainly far from your character and your good faith; but no one else has any opening to mislead us. For we have trusted, and shall trust, you alone.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "maximo timore de nobis adficiuntur amici nostri ; quibus etsi tua fides explorata est, tamen illud in mentem venit, multitudinem veteranorum facilius impelli ab aliis quolibet quam a te retineri posse. rescribas nobis ad omnia rogamus ; nam illud valde leve est ac nugatorium, ea re denuntiatum esse veteranis, quod is de commodis eorum mense Iunio laturus esses. quem enim impedimento futurum putas, cum de nobis certum sit nos quieturos? non debemus cuiquam videri nimium cupidi vitae, cum accidere nobis nihil possit sine pernicie et confusione omnium rerum.",
+      "eng": "Our friends are gripped by the greatest fear on our account; and although your good faith is proven to them, still it occurs to them that the mass of veterans can be driven on by others in any direction more easily than it can be held back by you. We ask that you write back to us on every point; for the suggestion is altogether flimsy and trifling, that the veterans have been put on notice for this reason --- that you mean to carry a measure for their advantage in the month of June. Whom do you suppose will stand in the way, when, as far as we are concerned, it is settled that we mean to keep quiet? We ought not to look to anyone over-eager for our own lives, since nothing can happen to us without the ruin and disorder of the whole state.",
+      "notes": null
+    }
+  ]
+}

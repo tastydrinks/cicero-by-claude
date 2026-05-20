@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.3",
+  "title_english": "Ad Familiares 10.3",
+  "date": "-0044-12-10",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "cum ipsum Furnium per se vidi libentissime, tum hoc libentius quod illum audiens te videbar audire; nam et in re militari virtutem et in administranda provincia iustitiam et in omni genere prudentiam mihi tuam exposuit et praeterea mihi non ignaram in consuetudine et familiaritate suavitatem tuam ; adiunxit praeterea summam erga se liberalitatem. quae omnia mihi iucunda, hoc extremum etiam gratum fuit.",
+      "eng": "I was already most glad to see Furnius for his own sake, and gladder still on this account: that in hearing him I seemed to be hearing you. For he set out for me your manhood in military matters, your justice in the administration of the province, your wisdom in every kind of business; and besides this --- though I knew it already from familiar acquaintance --- your charm; and on top of that, your great generosity toward himself. All this was a pleasure to me, and the last item was a gratitude.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "ego , Plance, necessitudinem constitutam habui cum domo vestra ante aliquanto quam tu natus es, amorem autem erga te ab ineunte pueritia tua, confirmata iam aetate familiaritatem cum studio meo tum iudicio tuo constitutam. his de causis mirabiliter faveo dignitati tuae, quam mihi tecum statuo debere esse communem. omnia summa consecutus es vii%ute duce, comite fortuna eaque es adeptus adulescens multis invidentibus, quos ingenio industriaque fregisti ; nunc me amantissimum tui, nemini concedentem qui tibi vetustate necessitudinis potior possit esse, si audies, omnem tibi reliquae vitae dignitatem ex optimo rei p. statu adquires.",
+      "eng": "For my part, Plancus, the bond I struck with your house was established a good while before you were born; my affection for you, from your earliest boyhood; the friendship with you in your now settled years, established both by my own devotion and by your judgment. For these reasons I am wonderfully devoted to your standing, which I hold ought to be a thing held in common between us. Everything of the first rank you have achieved with virtue as your guide and fortune as your companion, and you have won these things as a young man, with many resenting you --- whom by your gifts and your industry you broke. Now, if you listen to me --- who love you more than any man and yield to none in the long-standing claim of intimacy --- you will earn all the standing of the rest of your life from the soundness of the republic's condition.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "scis profecto (nihil enim te fugere potuit) fuisse quoddam tempus, cum homines existimarent te nimis servire temporibus, quod ego quoque existimarem, te si ea quae patiebare probare etiam arbitrarer ; sed cum intellegerem quid sentires, prudenter te arbitrabar videre quid posses. nunc alia ratio est. omnium rerum tuum iudicium est, idque liberum. consul es designatus, optima aetate, summa eloquentia, maxima orbitate rei p. virorum talium. incumbe , per deos immortalis! in eam curam et cogitationem, quae tibi summam dignitatem et gloriam adferat ; unus autem est, hoc praesertim tempore, per tot annos re p. divexata, rei p. bene gerendae cursus ad gloriam.",
+      "eng": "You know surely (nothing of this can have escaped you) that there was a certain time when men thought you too compliant with the times; which I should have thought too, had I supposed that you actually approved what you were enduring. But because I understood what your real sentiments were, I judged that you, with prudence, were taking the measure of what was possible. Now the case is different. The judgment in everything is your own, and free. You are consul-designate, in the prime of life, of the highest eloquence, at a moment of the deepest bereavement of such men in the republic. Press on, by the immortal gods! into that care and consideration which will bring you the highest standing and glory; for there is one course --- this above all at the present moment, after so many years of the republic's mauling --- and one only, that leads to glory: governing the republic well.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "haec amore magis impulsus scribenda ad te putavi quam quo te arbitrarer monitis et praeceptis egere ; sciebam enim ex iisdem te haec haurire fontibus, ex quibus ipse hauseram. qua re modum faciam. nunc tantum significandum putavi, ut potius amorem tibi ostenderem meum quam ostentarem prudentiam. interea quae ad dignitatem tuam pertinere arbitrabor studiose diligenterque curabo.",
+      "eng": "These things I thought I should write to you driven more by affection than because I supposed you needed warnings and precepts; for I knew you were drawing them from the same springs from which I had drawn them myself. So I shall hold off. For the present I thought only this should be signalled --- that I should show you my affection rather than display my own prudence. Meanwhile, whatever I judge to bear on your standing, I shall attend to with zeal and care.",
+      "notes": null
+    }
+  ]
+}

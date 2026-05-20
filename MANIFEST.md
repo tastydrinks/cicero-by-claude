@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 722
-- pending: 236
+- drafted: 904
+- pending: 54
 
 ## Chronological order
 
@@ -77,19 +77,19 @@ Status:
 | 57 | 60 BC | philosophy | On His Consulship | pending |
 | 58 | December 60 BC | letters | Ad Atticum 2.2 | drafted |
 | 59 | December 60 BC | letters | Ad Atticum 2.3 | drafted |
-| 60 | 59 BC | letters | Ad Atticum 2.4 | drafted |
-| 61 | 59 BC | letters | Ad Atticum 2.16 | drafted |
-| 62 | 21 March 59 BC | letters | Ad Atticum 2.10 | drafted |
-| 63 | April 59 BC | letters | Ad Atticum 2.5 | drafted |
-| 64 | April 59 BC | letters | Ad Atticum 2.6 | drafted |
-| 65 | April 59 BC | letters | Ad Atticum 2.7 | drafted |
-| 66 | April 59 BC | letters | Ad Atticum 2.8 | drafted |
-| 67 | April 59 BC | letters | Ad Atticum 2.9 | drafted |
-| 68 | 19 April 59 BC | letters | Ad Atticum 2.12 | drafted |
-| 69 | 26 April 59 BC | letters | Ad Atticum 2.11 | drafted |
-| 70 | 27 April 59 BC | letters | Ad Atticum 2.13 | drafted |
-| 71 | 28 April 59 BC | letters | Ad Atticum 2.14 | drafted |
-| 72 | 29 April 59 BC | letters | Ad Atticum 2.15 | drafted |
+| 60 | 21 March 59 BC | letters | Ad Atticum 2.10 | drafted |
+| 61 | April 59 BC | letters | Ad Atticum 2.4 | drafted |
+| 62 | April 59 BC | letters | Ad Atticum 2.5 | drafted |
+| 63 | April 59 BC | letters | Ad Atticum 2.6 | drafted |
+| 64 | April 59 BC | letters | Ad Atticum 2.7 | drafted |
+| 65 | April 59 BC | letters | Ad Atticum 2.8 | drafted |
+| 66 | April 59 BC | letters | Ad Atticum 2.9 | drafted |
+| 67 | 19 April 59 BC | letters | Ad Atticum 2.12 | drafted |
+| 68 | 26 April 59 BC | letters | Ad Atticum 2.11 | drafted |
+| 69 | 27 April 59 BC | letters | Ad Atticum 2.13 | drafted |
+| 70 | 28 April 59 BC | letters | Ad Atticum 2.14 | drafted |
+| 71 | 29 April 59 BC | letters | Ad Atticum 2.15 | drafted |
+| 72 | May 59 BC | letters | Ad Atticum 2.16 | drafted |
 | 73 | May 59 BC | letters | Ad Atticum 2.17 | drafted |
 | 74 | 59 BC | letters | Ad Atticum 2.20 | drafted |
 | 75 | 59 BC | speeches | For Lucius Flaccus | drafted |
@@ -179,26 +179,26 @@ Status:
 | 159 | 56 BC | letters | Ad Familiares 13.6 | drafted |
 | 160 | 56 BC | letters | Ad Familiares 5.3 | drafted |
 | 161 | January 55 BC | letters | Ad Familiares 1.8 | drafted |
-| 162 | 10 April 55 BC | letters | Ad Familiares 16.13 | drafted |
-| 163 | 55 BC | letters | Ad Quintum Fratrem 2.7 | drafted |
+| 162 | February 55 BC | letters | Ad Quintum Fratrem 2.7 | drafted |
+| 163 | 10 April 55 BC | letters | Ad Familiares 16.13 | drafted |
 | 164 | 23 April 55 BC | letters | Ad Atticum 4.10 | drafted |
 | 165 | 28 April 55 BC | letters | Ad Atticum 4.9 | drafted |
 | 166 | 1 May 55 BC | letters | Ad Atticum 4.11 | drafted |
-| 167 | 55 BC | letters | Ad Quintum Fratrem 2.8 | drafted |
-| 168 | 55 BC | letters | Ad Atticum 4.12 | drafted |
+| 167 | May 55 BC | letters | Ad Atticum 4.12 | drafted |
+| 168 | May 55 BC | letters | Ad Quintum Fratrem 2.8 | drafted |
 | 169 | 55 BC | rhetoric | On the Orator | drafted |
 | 170 | 55 BC | speeches | Against Piso | drafted |
 | 171 | 55 BC | letters | Ad Familiares 13.40 | drafted |
 | 172 | October 55 BC | letters | Ad Familiares 7.1 | drafted |
 | 173 | 15 November 55 BC | letters | Ad Atticum 4.13 | drafted |
 | 174 | January 54 BC | letters | Ad Familiares 5.8 | drafted |
-| 175 | 13 February 54 BC | letters | Ad Quintum Fratrem 2.10 | drafted |
-| 176 | 14 February 54 BC | letters | Ad Quintum Fratrem 2.11 | drafted |
-| 177 | April 54 BC | letters | Ad Familiares 7.5 | drafted |
-| 178 | May 54 BC | letters | Ad Atticum 4.14 | drafted |
-| 179 | May 54 BC | letters | Ad Familiares 7.6 | drafted |
-| 180 | May 54 BC | letters | Ad Quintum Fratrem 2.12 | drafted |
-| 181 | 54 BC | letters | Ad Quintum Fratrem 2.9 | drafted |
+| 175 | February 54 BC | letters | Ad Quintum Fratrem 2.9 | drafted |
+| 176 | 13 February 54 BC | letters | Ad Quintum Fratrem 2.10 | drafted |
+| 177 | 14 February 54 BC | letters | Ad Quintum Fratrem 2.11 | drafted |
+| 178 | April 54 BC | letters | Ad Familiares 7.5 | drafted |
+| 179 | May 54 BC | letters | Ad Atticum 4.14 | drafted |
+| 180 | May 54 BC | letters | Ad Familiares 7.6 | drafted |
+| 181 | May 54 BC | letters | Ad Quintum Fratrem 2.12 | drafted |
 | 182 | June 54 BC | letters | Ad Familiares 7.7 | drafted |
 | 183 | June 54 BC | letters | Ad Quintum Fratrem 2.13 | drafted |
 | 184 | 54-44 BC | letters | Ad Familiares 13.11 | drafted |
@@ -277,219 +277,219 @@ Status:
 | 257 | March 51 BC | letters | Ad Familiares 3.2 | drafted |
 | 258 | March 51 BC | letters | Ad Familiares 13.47 | drafted |
 | 259 | 51 BC | letters | Ad Atticum 5.8 | drafted |
-| 260 | 10 May 51 BC | letters | Ad Atticum 5.2 | drafted |
-| 261 | 11 May 51 BC | letters | Ad Atticum 5.3 | drafted |
-| 262 | 12 May 51 BC | letters | Ad Atticum 5.4 | drafted |
-| 263 | 14 May 51 BC | letters | Ad Atticum 5.5 | drafted |
-| 264 | 19 May 51 BC | letters | Ad Atticum 5.6 | drafted |
-| 265 | 22 May 51 BC | letters | Ad Familiares 3.3 | drafted |
-| 266 | 24 May 51 BC | letters | Ad Familiares 8.1 | drafted |
-| 267 | 5 June 51 BC | letters | Ad Familiares 3.4 | drafted |
-| 268 | 10 June 51 BC | letters | Ad Familiares 8.3 | drafted |
-| 269 | June 51 BC | letters | Ad Familiares 8.2 | drafted |
-| 270 | 17 June 51 BC | letters | Ad Atticum 5.9 | drafted |
-| 271 | 1 July 51 BC | letters | Ad Atticum 5.10 | drafted |
-| 272 | 51 BC | letters | Ad Familiares 5.10 | pending |
-| 273 | 6 July 51 BC | letters | Ad Atticum 5.11 | drafted |
-| 274 | 6 July 51 BC | letters | Ad Familiares 2.8 | drafted |
-| 275 | 6 July 51 BC | letters | Ad Familiares 13.1 | drafted |
-| 276 | July 51 BC | letters | Ad Atticum 5.12 | drafted |
-| 277 | 26 July 51 BC | letters | Ad Atticum 5.13 | drafted |
-| 278 | 27 July 51 BC | letters | Ad Atticum 5.14 | drafted |
-| 279 | 27 July 51 BC | letters | Ad Familiares 3.5 | drafted |
-| 280 | 1 August 51 BC | letters | Ad Familiares 8.4 | drafted |
-| 281 | 3 August 51 BC | letters | Ad Atticum 5.15 | drafted |
-| 282 | 11 August 51 BC | letters | Ad Atticum 5.16 | drafted |
-| 283 | 12 August 51 BC | letters | Ad Atticum 5.17 | drafted |
-| 284 | 13 August 51 BC | letters | Ad Familiares 8.5 | drafted |
-| 285 | 30 August 51 BC | letters | Ad Familiares 15.3 | drafted |
-| 286 | 31 August 51 BC | letters | Ad Familiares 3.6 | drafted |
-| 287 | 2 September 51 BC | letters | Ad Familiares 8.9 | drafted |
-| 288 | 19 September 51 BC | letters | Ad Familiares 15.1 | drafted |
-| 289 | 21 September 51 BC | letters | Ad Atticum 5.18 | drafted |
-| 290 | 21 September 51 BC | letters | Ad Familiares 15.7 | drafted |
-| 291 | September 51 BC | letters | Ad Familiares 15.12 | drafted |
-| 292 | 22 September 51 BC | letters | Ad Atticum 5.19 | drafted |
-| 293 | 22 September 51 BC | letters | Ad Familiares 15.2 | drafted |
-| 294 | October 51 BC | letters | Ad Familiares 8.8 | drafted |
-| 295 | 8 October 51 BC | letters | Ad Familiares 3.8 | drafted |
-| 296 | 51 BC | letters | Ad Familiares 13.53 | drafted |
-| 297 | October 51 BC | letters | Ad Familiares 15.14 | drafted |
-| 298 | 13 November 51 BC | letters | Ad Familiares 2.9 | drafted |
-| 299 | 51 BC | letters | Ad Familiares 2.10 | drafted |
-| 300 | 18 November 51 BC | letters | Ad Familiares 8.10 | drafted |
-| 301 | 51 BC | letters | Ad Familiares 15.10 | drafted |
-| 302 | December 51 BC | letters | Ad Familiares 15.4 | drafted |
-| 303 | 19 December 51 BC | letters | Ad Familiares 2.7 | drafted |
-| 304 | 21 December 51 BC | letters | Ad Atticum 5.20 | drafted |
-| 305 | January 50 BC | letters | Ad Familiares 15.13 | drafted |
-| 306 | 11 February 50 BC | letters | Ad Familiares 13.54 | drafted |
-| 307 | 11 February 50 BC | letters | Ad Familiares 13.58 | drafted |
-| 308 | 11 February 50 BC | letters | Ad Familiares 13.59 | drafted |
-| 309 | 11 February 50 BC | letters | Ad Familiares 13.63 | drafted |
-| 310 | 12 February 50 BC | letters | Ad Familiares 7.32 | drafted |
-| 311 | 13 February 50 BC | letters | Ad Atticum 5.21 | drafted |
-| 312 | 13 February 50 BC | letters | Ad Familiares 3.7 | drafted |
-| 313 | February 50 BC | letters | Ad Familiares 2.14 | drafted |
-| 314 | February 50 BC | letters | Ad Familiares 8.6 | drafted |
-| 315 | 20 February 50 BC | letters | Ad Familiares 3.9 | drafted |
-| 316 | 24 February 50 BC | letters | Ad Atticum 6.1 | drafted |
-| 317 | April 50 BC | letters | Ad Familiares 3.10 | drafted |
-| 318 | 4 April 50 BC | letters | Ad Familiares 2.11 | drafted |
-| 319 | April 50 BC | letters | Ad Familiares 13.57 | drafted |
-| 320 | 30 April 50 BC | letters | Ad Familiares 8.11 | drafted |
-| 321 | 30 April 50 BC | letters | Ad Familiares 15.5 | drafted |
-| 322 | May 50 BC | letters | Ad Familiares 2.18 | drafted |
-| 323 | May 50 BC | letters | Ad Familiares 8.7 | drafted |
-| 324 | 4 May 50 BC | letters | Ad Familiares 2.13 | drafted |
-| 325 | May 50 BC | letters | Ad Atticum 6.2 | drafted |
-| 326 | 1 June 50 BC | letters | Ad Familiares 8.13 | drafted |
-| 327 | 5 June 50 BC | letters | Ad Atticum 6.4 | drafted |
-| 328 | 13 June 50 BC | letters | Ad Familiares 3.11 | drafted |
-| 329 | 22 June 50 BC | letters | Ad Familiares 2.19 | drafted |
-| 330 | 26 June 50 BC | letters | Ad Familiares 2.12 | drafted |
-| 331 | 27 June 50 BC | letters | Ad Atticum 6.3 | drafted |
-| 332 | 27 June 50 BC | letters | Ad Atticum 6.5 | drafted |
-| 333 | 17 July 50 BC | letters | Ad Familiares 2.17 | drafted |
-| 334 | 30 July 50 BC | letters | Ad Atticum 6.7 | drafted |
-| 335 | 1 August 50 BC | letters | Ad Familiares 15.6 | drafted |
-| 336 | August 50 BC | letters | Ad Familiares 15.11 | drafted |
-| 337 | 4 August 50 BC | letters | Ad Familiares 2.15 | drafted |
-| 338 | 4 August 50 BC | letters | Ad Familiares 3.12 | drafted |
-| 339 | 10 August 50 BC | letters | Ad Atticum 6.6 | drafted |
-| 340 | 10 August 50 BC | letters | Ad Familiares 3.13 | drafted |
-| 341 | 20 September 50 BC | letters | Ad Familiares 8.12 | drafted |
-| 342 | 24 September 50 BC | letters | Ad Familiares 8.14 | drafted |
-| 343 | 1 October 50 BC | letters | Ad Atticum 6.8 | drafted |
-| 344 | 15 October 50 BC | letters | Ad Atticum 6.9 | drafted |
-| 345 | 16 October 50 BC | letters | Ad Atticum 7.1 | drafted |
-| 346 | 16 October 50 BC | letters | Ad Familiares 14.5 | drafted |
-| 347 | 3 November 50 BC | letters | Ad Familiares 16.1 | drafted |
-| 348 | 5 November 50 BC | letters | Ad Familiares 16.2 | drafted |
-| 349 | 6 November 50 BC | letters | Ad Familiares 16.3 | drafted |
-| 350 | 7 November 50 BC | letters | Ad Familiares 16.4 | drafted |
-| 351 | 7 November 50 BC | letters | Ad Familiares 16.5 | drafted |
-| 352 | 7 November 50 BC | letters | Ad Familiares 16.6 | drafted |
-| 353 | 17 November 50 BC | letters | Ad Familiares 16.7 | drafted |
-| 354 | 27 November 50 BC | letters | Ad Atticum 7.2 | drafted |
-| 355 | 28 November 50 BC | letters | Ad Familiares 16.9 | drafted |
-| 356 | 9 December 50 BC | letters | Ad Atticum 7.3 | drafted |
-| 357 | 11 December 50 BC | letters | Ad Atticum 7.4 | drafted |
-| 358 | 18 December 50 BC | letters | Ad Atticum 7.5 | drafted |
-| 359 | 19 December 50 BC | letters | Ad Atticum 7.6 | drafted |
-| 360 | 21 December 50 BC | letters | Ad Atticum 7.7 | drafted |
-| 361 | 28 December 50 BC | letters | Ad Atticum 7.8 | drafted |
-| 362 | 29 December 50 BC | letters | Ad Atticum 7.9 | drafted |
-| 363 | 4 January 49 BC | letters | Ad Familiares 5.20 | pending |
-| 364 | 12 January 49 BC | letters | Ad Familiares 16.11 | drafted |
-| 365 | January 49 BC | letters | Ad Familiares 16.8 | drafted |
-| 366 | 18 January 49 BC | letters | Ad Atticum 7.10 | drafted |
-| 367 | 21 January 49 BC | letters | Ad Atticum 7.11 | drafted |
-| 368 | 23 January 49 BC | letters | Ad Atticum 7.12 | drafted |
-| 369 | 24 January 49 BC | letters | Ad Atticum 7.13 | drafted |
-| 370 | 24 January 49 BC | letters | Ad Familiares 14.18 | drafted |
-| 371 | 25 January 49 BC | letters | Ad Familiares 14.14 | drafted |
-| 372 | 27 January 49 BC | letters | Ad Atticum 7.14 | drafted |
-| 373 | 28 January 49 BC | letters | Ad Atticum 7.15 | drafted |
-| 374 | 29 January 49 BC | letters | Ad Atticum 7.16 | drafted |
-| 375 | 29 January 49 BC | letters | Ad Familiares 16.12 | drafted |
-| 376 | 2 February 49 BC | letters | Ad Atticum 7.17 | drafted |
-| 377 | 3 February 49 BC | letters | Ad Atticum 7.18 | drafted |
-| 378 | 3 February 49 BC | letters | Ad Atticum 7.19 | drafted |
-| 379 | 5 February 49 BC | letters | Ad Atticum 7.20 | drafted |
-| 380 | 8 February 49 BC | letters | Ad Atticum 7.21 | drafted |
-| 381 | 8 February 49 BC | letters | Ad Atticum 7.22 | drafted |
-| 382 | 9 February 49 BC | letters | Ad Atticum 7.23 | drafted |
-| 383 | 10 February 49 BC | letters | Ad Atticum 7.24 | drafted |
-| 384 | 11 February 49 BC | letters | Ad Atticum 7.25 | drafted |
-| 385 | 15 February 49 BC | letters | Ad Atticum 7.26 | drafted |
-| 386 | 16 February 49 BC | letters | Ad Atticum 8.1 | drafted |
-| 387 | 17 February 49 BC | letters | Ad Atticum 8.2 | drafted |
-| 388 | 18 February 49 BC | letters | Ad Atticum 8.3 | drafted |
-| 389 | 21 February 49 BC | letters | Ad Atticum 8.6 | drafted |
-| 390 | 22 February 49 BC | letters | Ad Atticum 8.4 | drafted |
-| 391 | 23 February 49 BC | letters | Ad Atticum 8.5 | drafted |
-| 392 | 23 February 49 BC | letters | Ad Atticum 8.7 | drafted |
-| 393 | 24 February 49 BC | letters | Ad Atticum 8.8 | drafted |
-| 394 | 25 February 49 BC | letters | Ad Atticum 8.9 | drafted |
-| 395 | 26 February 49 BC | letters | Ad Atticum 8.10 | drafted |
-| 396 | 28 February 49 BC | letters | Ad Atticum 8.12 | drafted |
-| 397 | 1 March 49 BC | letters | Ad Atticum 8.11 | drafted |
-| 398 | 1 March 49 BC | letters | Ad Atticum 8.13 | drafted |
-| 399 | 2 March 49 BC | letters | Ad Atticum 8.14 | drafted |
-| 400 | 3 March 49 BC | letters | Ad Atticum 8.15 | drafted |
-| 401 | 4 March 49 BC | letters | Ad Atticum 8.16 | drafted |
-| 402 | 6 March 49 BC | letters | Ad Atticum 9.1 | drafted |
-| 403 | 7 March 49 BC | letters | Ad Atticum 9.2 | drafted |
-| 404 | 9 March 49 BC | letters | Ad Atticum 9.3 | drafted |
-| 405 | 9 March 49 BC | letters | Ad Familiares 8.15 | drafted |
-| 406 | 10 March 49 BC | letters | Ad Atticum 9.5 | drafted |
-| 407 | 11 March 49 BC | letters | Ad Atticum 9.6 | drafted |
-| 408 | 12 March 49 BC | letters | Ad Atticum 9.4 | drafted |
-| 409 | 13 March 49 BC | letters | Ad Atticum 9.7 | drafted |
-| 410 | 14 March 49 BC | letters | Ad Atticum 9.8 | drafted |
-| 411 | 17 March 49 BC | letters | Ad Atticum 9.9 | drafted |
-| 412 | 18 March 49 BC | letters | Ad Atticum 9.10 | drafted |
-| 413 | 20 March 49 BC | letters | Ad Atticum 9.11 | drafted |
-| 414 | 20 March 49 BC | letters | Ad Atticum 9.12 | drafted |
-| 415 | 24 March 49 BC | letters | Ad Atticum 9.13 | drafted |
-| 416 | 25 March 49 BC | letters | Ad Atticum 9.14 | drafted |
-| 417 | 25 March 49 BC | letters | Ad Atticum 9.15 | drafted |
-| 418 | 26 March 49 BC | letters | Ad Atticum 9.16 | drafted |
-| 419 | 27 March 49 BC | letters | Ad Atticum 9.17 | drafted |
-| 420 | 28 March 49 BC | letters | Ad Atticum 9.18 | drafted |
-| 421 | 31 March 49 BC | letters | Ad Atticum 9.19 | drafted |
-| 422 | 3 April 49 BC | letters | Ad Atticum 10.1 | drafted |
-| 423 | 5 April 49 BC | letters | Ad Familiares 4.1 | pending |
-| 424 | 6 April 49 BC | letters | Ad Atticum 10.2 | drafted |
-| 425 | 7 April 49 BC | letters | Ad Atticum 10.3 | drafted |
-| 426 | 15 April 49 BC | letters | Ad Atticum 10.4 | drafted |
-| 427 | April 49 BC | letters | Ad Atticum 10.6 | drafted |
-| 428 | 16 April 49 BC | letters | Ad Familiares 8.16 | drafted |
-| 429 | 17 April 49 BC | letters | Ad Atticum 10.5 | drafted |
-| 430 | 23 April 49 BC | letters | Ad Atticum 10.7 | drafted |
-| 431 | 28 April 49 BC | letters | Ad Familiares 4.2 | pending |
-| 432 | 28 April 49 BC | letters | Ad Familiares 5.19 | pending |
-| 433 | 2 May 49 BC | letters | Ad Atticum 10.8 | drafted |
-| 434 | 3 May 49 BC | letters | Ad Atticum 10.9 | drafted |
-| 435 | 3 May 49 BC | letters | Ad Atticum 10.10 | drafted |
-| 436 | 4 May 49 BC | letters | Ad Atticum 10.11 | drafted |
-| 437 | 4 May 49 BC | letters | Ad Familiares 2.16 | pending |
-| 438 | 5 May 49 BC | letters | Ad Atticum 10.12 | drafted |
-| 439 | 6 May 49 BC | letters | Ad Atticum 5.1 | pending |
-| 440 | 7 May 49 BC | letters | Ad Atticum 10.13 | drafted |
-| 441 | 8 May 49 BC | letters | Ad Atticum 10.14 | drafted |
-| 442 | 12 May 49 BC | letters | Ad Atticum 10.15 | drafted |
-| 443 | 14 May 49 BC | letters | Ad Atticum 10.16 | drafted |
-| 444 | 16 May 49 BC | letters | Ad Atticum 10.17 | drafted |
-| 445 | 20 May 49 BC | letters | Ad Atticum 10.18 | drafted |
-| 446 | 22 May 49 BC | letters | Ad Atticum 5.7 | pending |
-| 447 | 7 June 49 BC | letters | Ad Familiares 14.7 | drafted |
-| 448 | 13 January 48 BC | letters | Ad Atticum 11.1 | drafted |
-| 449 | February 48 BC | letters | Ad Familiares 8.17 | drafted |
-| 450 | 5 February 48 BC | letters | Ad Atticum 11.2 | drafted |
-| 451 | 13 June 48 BC | letters | Ad Atticum 11.3 | drafted |
-| 452 | June 48 BC | letters | Ad Familiares 9.9 | drafted |
-| 453 | 14 July 48 BC | letters | Ad Familiares 14.6 | drafted |
-| 454 | 15 July 48 BC | letters | Ad Atticum 11.4 | drafted |
-| 455 | 4 November 48 BC | letters | Ad Atticum 11.5 | drafted |
-| 456 | 5 November 48 BC | letters | Ad Familiares 14.12 | drafted |
-| 457 | 28 November 48 BC | letters | Ad Atticum 11.6 | drafted |
-| 458 | 28 November 48 BC | letters | Ad Familiares 14.19 | drafted |
-| 459 | 17 December 48 BC | letters | Ad Familiares 14.9 | drafted |
-| 460 | 19 December 48 BC | letters | Ad Atticum 11.7 | drafted |
-| 461 | 19 December 48 BC | letters | Ad Atticum 11.8 | drafted |
-| 462 | December 48 BC | letters | Ad Familiares 14.17 | drafted |
-| 463 | 3 January 47 BC | letters | Ad Atticum 11.9 | drafted |
-| 464 | 4 January 47 BC | letters | Ad Familiares 14.16 | drafted |
-| 465 | 21 January 47 BC | letters | Ad Atticum 11.10 | drafted |
-| 466 | 8 March 47 BC | letters | Ad Atticum 11.11 | drafted |
-| 467 | 8 March 47 BC | letters | Ad Atticum 11.12 | drafted |
-| 468 | March 47 BC | letters | Ad Atticum 11.13 | drafted |
-| 469 | 26 April 47 BC | letters | Ad Atticum 11.14 | drafted |
-| 470 | 47 BC | letters | Ad Familiares 13.48 | pending |
+| 260 | 6 May 51 BC | letters | Ad Atticum 5.1 | drafted |
+| 261 | 10 May 51 BC | letters | Ad Atticum 5.2 | drafted |
+| 262 | 11 May 51 BC | letters | Ad Atticum 5.3 | drafted |
+| 263 | 12 May 51 BC | letters | Ad Atticum 5.4 | drafted |
+| 264 | 14 May 51 BC | letters | Ad Atticum 5.5 | drafted |
+| 265 | 19 May 51 BC | letters | Ad Atticum 5.6 | drafted |
+| 266 | 22 May 51 BC | letters | Ad Atticum 5.7 | drafted |
+| 267 | 22 May 51 BC | letters | Ad Familiares 3.3 | drafted |
+| 268 | 24 May 51 BC | letters | Ad Familiares 8.1 | drafted |
+| 269 | 5 June 51 BC | letters | Ad Familiares 3.4 | drafted |
+| 270 | 10 June 51 BC | letters | Ad Familiares 8.3 | drafted |
+| 271 | June 51 BC | letters | Ad Familiares 8.2 | drafted |
+| 272 | 17 June 51 BC | letters | Ad Atticum 5.9 | drafted |
+| 273 | 1 July 51 BC | letters | Ad Atticum 5.10 | drafted |
+| 274 | 51 BC | letters | Ad Familiares 5.10 | pending |
+| 275 | 6 July 51 BC | letters | Ad Atticum 5.11 | drafted |
+| 276 | 6 July 51 BC | letters | Ad Familiares 2.8 | drafted |
+| 277 | 6 July 51 BC | letters | Ad Familiares 13.1 | drafted |
+| 278 | July 51 BC | letters | Ad Atticum 5.12 | drafted |
+| 279 | 26 July 51 BC | letters | Ad Atticum 5.13 | drafted |
+| 280 | 27 July 51 BC | letters | Ad Atticum 5.14 | drafted |
+| 281 | 27 July 51 BC | letters | Ad Familiares 3.5 | drafted |
+| 282 | 1 August 51 BC | letters | Ad Familiares 8.4 | drafted |
+| 283 | 3 August 51 BC | letters | Ad Atticum 5.15 | drafted |
+| 284 | 11 August 51 BC | letters | Ad Atticum 5.16 | drafted |
+| 285 | 12 August 51 BC | letters | Ad Atticum 5.17 | drafted |
+| 286 | 13 August 51 BC | letters | Ad Familiares 8.5 | drafted |
+| 287 | 30 August 51 BC | letters | Ad Familiares 15.3 | drafted |
+| 288 | 31 August 51 BC | letters | Ad Familiares 3.6 | drafted |
+| 289 | 2 September 51 BC | letters | Ad Familiares 8.9 | drafted |
+| 290 | 19 September 51 BC | letters | Ad Familiares 15.1 | drafted |
+| 291 | 21 September 51 BC | letters | Ad Atticum 5.18 | drafted |
+| 292 | 21 September 51 BC | letters | Ad Familiares 15.7 | drafted |
+| 293 | September 51 BC | letters | Ad Familiares 15.12 | drafted |
+| 294 | 22 September 51 BC | letters | Ad Atticum 5.19 | drafted |
+| 295 | 22 September 51 BC | letters | Ad Familiares 15.2 | drafted |
+| 296 | October 51 BC | letters | Ad Familiares 8.8 | drafted |
+| 297 | 8 October 51 BC | letters | Ad Familiares 3.8 | drafted |
+| 298 | 51 BC | letters | Ad Familiares 13.53 | drafted |
+| 299 | October 51 BC | letters | Ad Familiares 15.14 | drafted |
+| 300 | 13 November 51 BC | letters | Ad Familiares 2.9 | drafted |
+| 301 | 15 November 51 BC | letters | Ad Familiares 2.10 | drafted |
+| 302 | 18 November 51 BC | letters | Ad Familiares 8.10 | drafted |
+| 303 | 51 BC | letters | Ad Familiares 15.10 | drafted |
+| 304 | December 51 BC | letters | Ad Familiares 15.4 | drafted |
+| 305 | 19 December 51 BC | letters | Ad Familiares 2.7 | drafted |
+| 306 | 21 December 51 BC | letters | Ad Atticum 5.20 | drafted |
+| 307 | January 50 BC | letters | Ad Familiares 15.13 | drafted |
+| 308 | January 50 BC | letters | Ad Familiares 13.9 | drafted |
+| 309 | 11 February 50 BC | letters | Ad Familiares 13.54 | drafted |
+| 310 | 11 February 50 BC | letters | Ad Familiares 13.58 | drafted |
+| 311 | 11 February 50 BC | letters | Ad Familiares 13.59 | drafted |
+| 312 | 11 February 50 BC | letters | Ad Familiares 13.63 | drafted |
+| 313 | 12 February 50 BC | letters | Ad Familiares 7.32 | drafted |
+| 314 | 13 February 50 BC | letters | Ad Atticum 5.21 | drafted |
+| 315 | 13 February 50 BC | letters | Ad Familiares 3.7 | drafted |
+| 316 | February 50 BC | letters | Ad Familiares 2.14 | drafted |
+| 317 | February 50 BC | letters | Ad Familiares 8.6 | drafted |
+| 318 | 20 February 50 BC | letters | Ad Familiares 3.9 | drafted |
+| 319 | 24 February 50 BC | letters | Ad Atticum 6.1 | drafted |
+| 320 | April 50 BC | letters | Ad Familiares 3.10 | drafted |
+| 321 | 4 April 50 BC | letters | Ad Familiares 2.11 | drafted |
+| 322 | April 50 BC | letters | Ad Familiares 13.57 | drafted |
+| 323 | 30 April 50 BC | letters | Ad Familiares 8.11 | drafted |
+| 324 | 30 April 50 BC | letters | Ad Familiares 15.5 | drafted |
+| 325 | May 50 BC | letters | Ad Familiares 2.18 | drafted |
+| 326 | May 50 BC | letters | Ad Familiares 8.7 | drafted |
+| 327 | 4 May 50 BC | letters | Ad Familiares 2.13 | drafted |
+| 328 | May 50 BC | letters | Ad Atticum 6.2 | drafted |
+| 329 | 1 June 50 BC | letters | Ad Familiares 8.13 | drafted |
+| 330 | 5 June 50 BC | letters | Ad Atticum 6.4 | drafted |
+| 331 | 13 June 50 BC | letters | Ad Familiares 3.11 | drafted |
+| 332 | 22 June 50 BC | letters | Ad Familiares 2.19 | drafted |
+| 333 | 26 June 50 BC | letters | Ad Familiares 2.12 | drafted |
+| 334 | 27 June 50 BC | letters | Ad Atticum 6.3 | drafted |
+| 335 | 27 June 50 BC | letters | Ad Atticum 6.5 | drafted |
+| 336 | 17 July 50 BC | letters | Ad Familiares 2.17 | drafted |
+| 337 | 30 July 50 BC | letters | Ad Atticum 6.7 | drafted |
+| 338 | 1 August 50 BC | letters | Ad Familiares 15.6 | drafted |
+| 339 | August 50 BC | letters | Ad Familiares 15.11 | drafted |
+| 340 | 4 August 50 BC | letters | Ad Familiares 2.15 | drafted |
+| 341 | 4 August 50 BC | letters | Ad Familiares 3.12 | drafted |
+| 342 | 10 August 50 BC | letters | Ad Atticum 6.6 | drafted |
+| 343 | 10 August 50 BC | letters | Ad Familiares 3.13 | drafted |
+| 344 | 20 September 50 BC | letters | Ad Familiares 8.12 | drafted |
+| 345 | 24 September 50 BC | letters | Ad Familiares 8.14 | drafted |
+| 346 | 1 October 50 BC | letters | Ad Atticum 6.8 | drafted |
+| 347 | 15 October 50 BC | letters | Ad Atticum 6.9 | drafted |
+| 348 | 16 October 50 BC | letters | Ad Atticum 7.1 | drafted |
+| 349 | 16 October 50 BC | letters | Ad Familiares 14.5 | drafted |
+| 350 | 3 November 50 BC | letters | Ad Familiares 16.1 | drafted |
+| 351 | 5 November 50 BC | letters | Ad Familiares 16.2 | drafted |
+| 352 | 6 November 50 BC | letters | Ad Familiares 16.3 | drafted |
+| 353 | 7 November 50 BC | letters | Ad Familiares 16.4 | drafted |
+| 354 | 7 November 50 BC | letters | Ad Familiares 16.5 | drafted |
+| 355 | 7 November 50 BC | letters | Ad Familiares 16.6 | drafted |
+| 356 | 17 November 50 BC | letters | Ad Familiares 16.7 | drafted |
+| 357 | 27 November 50 BC | letters | Ad Atticum 7.2 | drafted |
+| 358 | 28 November 50 BC | letters | Ad Familiares 16.9 | drafted |
+| 359 | 9 December 50 BC | letters | Ad Atticum 7.3 | drafted |
+| 360 | 11 December 50 BC | letters | Ad Atticum 7.4 | drafted |
+| 361 | 18 December 50 BC | letters | Ad Atticum 7.5 | drafted |
+| 362 | 19 December 50 BC | letters | Ad Atticum 7.6 | drafted |
+| 363 | 21 December 50 BC | letters | Ad Atticum 7.7 | drafted |
+| 364 | 28 December 50 BC | letters | Ad Atticum 7.8 | drafted |
+| 365 | 29 December 50 BC | letters | Ad Atticum 7.9 | drafted |
+| 366 | 4 January 49 BC | letters | Ad Familiares 5.20 | drafted |
+| 367 | 12 January 49 BC | letters | Ad Familiares 16.11 | drafted |
+| 368 | January 49 BC | letters | Ad Familiares 16.8 | drafted |
+| 369 | 18 January 49 BC | letters | Ad Atticum 7.10 | drafted |
+| 370 | 21 January 49 BC | letters | Ad Atticum 7.11 | drafted |
+| 371 | 23 January 49 BC | letters | Ad Atticum 7.12 | drafted |
+| 372 | 24 January 49 BC | letters | Ad Atticum 7.13 | drafted |
+| 373 | 24 January 49 BC | letters | Ad Familiares 14.18 | drafted |
+| 374 | 25 January 49 BC | letters | Ad Familiares 14.14 | drafted |
+| 375 | 27 January 49 BC | letters | Ad Atticum 7.14 | drafted |
+| 376 | 28 January 49 BC | letters | Ad Atticum 7.15 | drafted |
+| 377 | 29 January 49 BC | letters | Ad Atticum 7.16 | drafted |
+| 378 | 29 January 49 BC | letters | Ad Familiares 16.12 | drafted |
+| 379 | 2 February 49 BC | letters | Ad Atticum 7.17 | drafted |
+| 380 | 3 February 49 BC | letters | Ad Atticum 7.18 | drafted |
+| 381 | 3 February 49 BC | letters | Ad Atticum 7.19 | drafted |
+| 382 | 5 February 49 BC | letters | Ad Atticum 7.20 | drafted |
+| 383 | 8 February 49 BC | letters | Ad Atticum 7.21 | drafted |
+| 384 | 8 February 49 BC | letters | Ad Atticum 7.22 | drafted |
+| 385 | 9 February 49 BC | letters | Ad Atticum 7.23 | drafted |
+| 386 | 10 February 49 BC | letters | Ad Atticum 7.24 | drafted |
+| 387 | 11 February 49 BC | letters | Ad Atticum 7.25 | drafted |
+| 388 | 15 February 49 BC | letters | Ad Atticum 7.26 | drafted |
+| 389 | 16 February 49 BC | letters | Ad Atticum 8.1 | drafted |
+| 390 | 17 February 49 BC | letters | Ad Atticum 8.2 | drafted |
+| 391 | 18 February 49 BC | letters | Ad Atticum 8.3 | drafted |
+| 392 | 21 February 49 BC | letters | Ad Atticum 8.6 | drafted |
+| 393 | 22 February 49 BC | letters | Ad Atticum 8.4 | drafted |
+| 394 | 23 February 49 BC | letters | Ad Atticum 8.5 | drafted |
+| 395 | 23 February 49 BC | letters | Ad Atticum 8.7 | drafted |
+| 396 | 24 February 49 BC | letters | Ad Atticum 8.8 | drafted |
+| 397 | 25 February 49 BC | letters | Ad Atticum 8.9 | drafted |
+| 398 | 26 February 49 BC | letters | Ad Atticum 8.10 | drafted |
+| 399 | 28 February 49 BC | letters | Ad Atticum 8.12 | drafted |
+| 400 | 1 March 49 BC | letters | Ad Atticum 8.11 | drafted |
+| 401 | 1 March 49 BC | letters | Ad Atticum 8.13 | drafted |
+| 402 | 2 March 49 BC | letters | Ad Atticum 8.14 | drafted |
+| 403 | 3 March 49 BC | letters | Ad Atticum 8.15 | drafted |
+| 404 | 4 March 49 BC | letters | Ad Atticum 8.16 | drafted |
+| 405 | 6 March 49 BC | letters | Ad Atticum 9.1 | drafted |
+| 406 | 7 March 49 BC | letters | Ad Atticum 9.2 | drafted |
+| 407 | 9 March 49 BC | letters | Ad Atticum 9.3 | drafted |
+| 408 | 9 March 49 BC | letters | Ad Familiares 8.15 | drafted |
+| 409 | 10 March 49 BC | letters | Ad Atticum 9.5 | drafted |
+| 410 | 11 March 49 BC | letters | Ad Atticum 9.6 | drafted |
+| 411 | 12 March 49 BC | letters | Ad Atticum 9.4 | drafted |
+| 412 | 13 March 49 BC | letters | Ad Atticum 9.7 | drafted |
+| 413 | 14 March 49 BC | letters | Ad Atticum 9.8 | drafted |
+| 414 | 17 March 49 BC | letters | Ad Atticum 9.9 | drafted |
+| 415 | 18 March 49 BC | letters | Ad Atticum 9.10 | drafted |
+| 416 | 20 March 49 BC | letters | Ad Atticum 9.11 | drafted |
+| 417 | 20 March 49 BC | letters | Ad Atticum 9.12 | drafted |
+| 418 | 24 March 49 BC | letters | Ad Atticum 9.13 | drafted |
+| 419 | 25 March 49 BC | letters | Ad Atticum 9.14 | drafted |
+| 420 | 25 March 49 BC | letters | Ad Atticum 9.15 | drafted |
+| 421 | 26 March 49 BC | letters | Ad Atticum 9.16 | drafted |
+| 422 | 27 March 49 BC | letters | Ad Atticum 9.17 | drafted |
+| 423 | 28 March 49 BC | letters | Ad Atticum 9.18 | drafted |
+| 424 | 31 March 49 BC | letters | Ad Atticum 9.19 | drafted |
+| 425 | 3 April 49 BC | letters | Ad Atticum 10.1 | drafted |
+| 426 | 5 April 49 BC | letters | Ad Familiares 4.1 | drafted |
+| 427 | 6 April 49 BC | letters | Ad Atticum 10.2 | drafted |
+| 428 | 7 April 49 BC | letters | Ad Atticum 10.3 | drafted |
+| 429 | 15 April 49 BC | letters | Ad Atticum 10.4 | drafted |
+| 430 | April 49 BC | letters | Ad Atticum 10.6 | drafted |
+| 431 | 16 April 49 BC | letters | Ad Familiares 8.16 | drafted |
+| 432 | 17 April 49 BC | letters | Ad Atticum 10.5 | drafted |
+| 433 | 23 April 49 BC | letters | Ad Atticum 10.7 | drafted |
+| 434 | 28 April 49 BC | letters | Ad Familiares 4.2 | drafted |
+| 435 | 28 April 49 BC | letters | Ad Familiares 5.19 | drafted |
+| 436 | 2 May 49 BC | letters | Ad Atticum 10.8 | drafted |
+| 437 | 3 May 49 BC | letters | Ad Atticum 10.9 | drafted |
+| 438 | 3 May 49 BC | letters | Ad Atticum 10.10 | drafted |
+| 439 | 4 May 49 BC | letters | Ad Atticum 10.11 | drafted |
+| 440 | 4 May 49 BC | letters | Ad Familiares 2.16 | drafted |
+| 441 | 5 May 49 BC | letters | Ad Atticum 10.12 | drafted |
+| 442 | 7 May 49 BC | letters | Ad Atticum 10.13 | drafted |
+| 443 | 8 May 49 BC | letters | Ad Atticum 10.14 | drafted |
+| 444 | 12 May 49 BC | letters | Ad Atticum 10.15 | drafted |
+| 445 | 14 May 49 BC | letters | Ad Atticum 10.16 | drafted |
+| 446 | 16 May 49 BC | letters | Ad Atticum 10.17 | drafted |
+| 447 | 20 May 49 BC | letters | Ad Atticum 10.18 | drafted |
+| 448 | 7 June 49 BC | letters | Ad Familiares 14.7 | drafted |
+| 449 | 13 January 48 BC | letters | Ad Atticum 11.1 | drafted |
+| 450 | February 48 BC | letters | Ad Familiares 8.17 | drafted |
+| 451 | 5 February 48 BC | letters | Ad Atticum 11.2 | drafted |
+| 452 | 13 June 48 BC | letters | Ad Atticum 11.3 | drafted |
+| 453 | June 48 BC | letters | Ad Familiares 9.9 | drafted |
+| 454 | 14 July 48 BC | letters | Ad Familiares 14.6 | drafted |
+| 455 | 15 July 48 BC | letters | Ad Atticum 11.4 | drafted |
+| 456 | 4 November 48 BC | letters | Ad Atticum 11.5 | drafted |
+| 457 | 5 November 48 BC | letters | Ad Familiares 14.12 | drafted |
+| 458 | 28 November 48 BC | letters | Ad Atticum 11.6 | drafted |
+| 459 | 28 November 48 BC | letters | Ad Familiares 14.19 | drafted |
+| 460 | 17 December 48 BC | letters | Ad Familiares 14.9 | drafted |
+| 461 | 19 December 48 BC | letters | Ad Atticum 11.7 | drafted |
+| 462 | 19 December 48 BC | letters | Ad Atticum 11.8 | drafted |
+| 463 | December 48 BC | letters | Ad Familiares 14.17 | drafted |
+| 464 | 3 January 47 BC | letters | Ad Atticum 11.9 | drafted |
+| 465 | 4 January 47 BC | letters | Ad Familiares 14.16 | drafted |
+| 466 | 21 January 47 BC | letters | Ad Atticum 11.10 | drafted |
+| 467 | 8 March 47 BC | letters | Ad Atticum 11.11 | drafted |
+| 468 | 8 March 47 BC | letters | Ad Atticum 11.12 | drafted |
+| 469 | March 47 BC | letters | Ad Atticum 11.13 | drafted |
+| 470 | 26 April 47 BC | letters | Ad Atticum 11.14 | drafted |
 | 471 | 14 May 47 BC | letters | Ad Atticum 11.15 | drafted |
-| 472 | 15 May 47 BC | letters | Ad Familiares 16.18 | pending |
+| 472 | 15 May 47 BC | letters | Ad Familiares 16.18 | drafted |
 | 473 | May 47 BC | letters | Ad Familiares 16.20 | drafted |
 | 474 | 2 June 47 BC | letters | Ad Familiares 14.8 | drafted |
 | 475 | 3 June 47 BC | letters | Ad Atticum 11.16 | drafted |
@@ -506,173 +506,173 @@ Status:
 | 486 | 6 August 47 BC | letters | Ad Atticum 11.24 | drafted |
 | 487 | 11 August 47 BC | letters | Ad Familiares 14.24 | drafted |
 | 488 | 12 August 47 BC | letters | Ad Familiares 14.23 | drafted |
-| 489 | August 47 BC | letters | Ad Familiares 15.15 | pending |
+| 489 | August 47 BC | letters | Ad Familiares 15.15 | drafted |
 | 490 | 17 August 47 BC | letters | Ad Atticum 11.20 | drafted |
 | 491 | 28 August 47 BC | letters | Ad Atticum 11.21 | drafted |
 | 492 | 31 August 47 BC | letters | Ad Familiares 14.22 | drafted |
 | 493 | 1 September 47 BC | letters | Ad Atticum 11.22 | drafted |
 | 494 | 1 October 47 BC | letters | Ad Familiares 14.20 | drafted |
-| 495 | 47 BC | letters | Ad Familiares 15.21 | pending |
+| 495 | 47 BC | letters | Ad Familiares 15.21 | drafted |
 | 496 | 47 BC | letters | Ad Familiares 13.29 | drafted |
-| 497 | 47-44 BC | letters | Ad Familiares 13.49 | drafted |
-| 498 | December 47 BC | letters | Ad Familiares 9.1 | drafted |
-| 499 | 46 BC | letters | Ad Familiares 13.20 | drafted |
-| 500 | 46 BC | letters | Ad Familiares 13.32 | drafted |
-| 501 | 46 BC | letters | Ad Familiares 13.21 | drafted |
-| 502 | 46 BC | letters | Ad Familiares 6.1 | drafted |
-| 503 | 46 BC | letters | Ad Familiares 13.33 | drafted |
-| 504 | 46 BC | letters | Ad Familiares 13.69 | drafted |
-| 505 | 46 BC | letters | Ad Familiares 13.22 | drafted |
-| 506 | 46 BC | letters | Ad Familiares 13.34 | drafted |
-| 507 | 46 BC | letters | Ad Familiares 13.10 | drafted |
-| 508 | 46 BC | letters | Ad Familiares 6.14 | drafted |
-| 509 | 46 BC | letters | Ad Familiares 13.70 | drafted |
-| 510 | April 46 BC | rhetoric | Brutus | pending |
-| 511 | 46 BC | letters | Ad Familiares 13.23 | drafted |
-| 512 | April 46 BC | letters | Ad Atticum 12.2 | pending |
-| 513 | 19 April 46 BC | letters | Ad Familiares 9.3 | drafted |
-| 514 | 20 April 46 BC | letters | Ad Familiares 9.2 | drafted |
-| 515 | 46 BC | letters | Ad Familiares 13.35 | drafted |
-| 516 | 46 BC | letters | Ad Familiares 13.71 | drafted |
-| 517 | 46 BC | letters | Ad Familiares 13.72 | drafted |
-| 518 | 46 BC | letters | Ad Familiares 13.24 | drafted |
-| 519 | 46 BC | letters | Ad Familiares 13.60 | pending |
-| 520 | 46 BC | letters | Ad Familiares 13.36 | drafted |
-| 521 | May 46 BC | letters | Ad Familiares 9.7 | drafted |
-| 522 | 10 June 46 BC | letters | Ad Familiares 9.4 | drafted |
-| 523 | 46 BC | letters | Ad Familiares 13.25 | drafted |
-| 524 | 11 June 46 BC | letters | Ad Atticum 12.3 | pending |
-| 525 | 46 BC | letters | Ad Familiares 12.17 | pending |
-| 526 | 15 June 46 BC | letters | Ad Atticum 12.4 | pending |
-| 527 | June 46 BC | letters | Ad Familiares 9.5 | drafted |
-| 528 | 46 BC | letters | Ad Familiares 5.21 | pending |
-| 529 | 46 BC | letters | Ad Familiares 4.13 | pending |
-| 530 | 46 BC | letters | Ad Familiares 13.37 | drafted |
-| 531 | 25 June 46 BC | letters | Ad Familiares 9.6 | drafted |
-| 532 | 46-44 BC | letters | Ad Familiares 9.25 | pending |
-| 533 | 46 BC | rhetoric | On the Best Kind of Orators | pending |
-| 534 | 46 BC | philosophy | Stoic Paradoxes | pending |
-| 535 | 46 BC | letters | Ad Atticum 12.6 | pending |
+| 497 | October 47 BC | letters | Ad Familiares 13.48 | drafted |
+| 498 | 47-44 BC | letters | Ad Familiares 13.49 | drafted |
+| 499 | December 47 BC | letters | Ad Familiares 9.1 | drafted |
+| 500 | 46 BC | letters | Ad Familiares 13.20 | drafted |
+| 501 | January 46 BC | letters | Ad Familiares 4.14 | drafted |
+| 502 | 46 BC | letters | Ad Familiares 13.32 | drafted |
+| 503 | 46 BC | letters | Ad Familiares 13.21 | drafted |
+| 504 | 46 BC | letters | Ad Familiares 6.1 | drafted |
+| 505 | 46 BC | letters | Ad Familiares 13.33 | drafted |
+| 506 | 46 BC | letters | Ad Familiares 13.69 | drafted |
+| 507 | 46 BC | letters | Ad Familiares 13.22 | drafted |
+| 508 | 46 BC | letters | Ad Familiares 13.34 | drafted |
+| 509 | 46 BC | letters | Ad Familiares 13.10 | drafted |
+| 510 | 46 BC | letters | Ad Familiares 6.14 | drafted |
+| 511 | 46 BC | letters | Ad Familiares 13.70 | drafted |
+| 512 | April 46 BC | letters | Ad Familiares 5.21 | drafted |
+| 513 | April 46 BC | rhetoric | Brutus | pending |
+| 514 | 46 BC | letters | Ad Familiares 13.23 | drafted |
+| 515 | April 46 BC | letters | Ad Atticum 12.2 | drafted |
+| 516 | 19 April 46 BC | letters | Ad Familiares 9.3 | drafted |
+| 517 | 20 April 46 BC | letters | Ad Familiares 9.2 | drafted |
+| 518 | 46 BC | letters | Ad Familiares 13.35 | drafted |
+| 519 | 46 BC | letters | Ad Familiares 13.71 | drafted |
+| 520 | 46 BC | letters | Ad Familiares 13.72 | drafted |
+| 521 | 46 BC | letters | Ad Familiares 13.24 | drafted |
+| 522 | May 46 BC | letters | Ad Familiares 6.22 | drafted |
+| 523 | 46 BC | letters | Ad Familiares 13.36 | drafted |
+| 524 | May 46 BC | letters | Ad Familiares 9.7 | drafted |
+| 525 | 10 June 46 BC | letters | Ad Familiares 9.4 | drafted |
+| 526 | 46 BC | letters | Ad Familiares 13.25 | drafted |
+| 527 | 11 June 46 BC | letters | Ad Atticum 12.3 | drafted |
+| 528 | 46 BC | letters | Ad Familiares 12.17 | drafted |
+| 529 | 15 June 46 BC | letters | Ad Atticum 12.4 | drafted |
+| 530 | June 46 BC | letters | Ad Familiares 9.5 | drafted |
+| 531 | 46 BC | letters | Ad Familiares 13.37 | drafted |
+| 532 | 25 June 46 BC | letters | Ad Familiares 9.6 | drafted |
+| 533 | 46-44 BC | letters | Ad Familiares 9.25 | pending |
+| 534 | 46 BC | rhetoric | On the Best Kind of Orators | pending |
+| 535 | 46 BC | philosophy | Stoic Paradoxes | pending |
 | 536 | 46 BC | letters | Ad Familiares 13.26 | drafted |
-| 537 | July 46 BC | letters | Ad Atticum 12.5 | pending |
-| 538 | July 46 BC | letters | Ad Familiares 7.33 | pending |
+| 537 | July 46 BC | letters | Ad Atticum 12.5 | drafted |
+| 538 | July 46 BC | letters | Ad Familiares 7.33 | drafted |
 | 539 | July 46 BC | letters | Ad Familiares 9.16 | drafted |
 | 540 | 20 July 46 BC | letters | Ad Familiares 9.18 | drafted |
-| 541 | 46 BC | letters | Ad Familiares 4.14 | pending |
-| 542 | 46 BC | letters | Ad Familiares 13.38 | drafted |
-| 543 | 46 BC | letters | Ad Familiares 7.26 | pending |
-| 544 | 46 BC | letters | Ad Atticum 12.7 | pending |
-| 545 | 46 BC | letters | Ad Familiares 4.3 | pending |
-| 546 | 46 BC | letters | Ad Familiares 13.27 | drafted |
-| 547 | 13 August 46 BC | letters | Ad Familiares 4.7 | drafted |
-| 548 | 13 August 46 BC | letters | Ad Familiares 4.9 | drafted |
-| 549 | August 46 BC | letters | Ad Familiares 4.8 | drafted |
-| 550 | August 46 BC | letters | Ad Familiares 6.10 | drafted |
-| 551 | August 46 BC | letters | Ad Familiares 6.13 | drafted |
-| 552 | August 46 BC | letters | Ad Familiares 7.28 | pending |
-| 553 | August 46 BC | letters | Ad Familiares 9.20 | drafted |
-| 554 | August 46 BC | letters | Ad Familiares 9.17 | drafted |
-| 555 | August 46 BC | letters | Ad Familiares 9.19 | drafted |
-| 556 | 46 BC | letters | Ad Familiares 4.15 | pending |
-| 557 | 46 BC | letters | Ad Familiares 13.39 | drafted |
-| 558 | September 46 BC | rhetoric | Orator: To Marcus Brutus | pending |
-| 559 | September 46 BC | speeches | For Marcus Marcellus | pending |
-| 560 | 46 BC | letters | Ad Atticum 12.8 | pending |
-| 561 | 46 BC | letters | Ad Familiares 7.4 | pending |
-| 562 | September 46 BC | letters | Ad Familiares 13.68 | drafted |
-| 563 | 46 BC | letters | Ad Familiares 13.28 | drafted |
-| 564 | September 46 BC | letters | Ad Familiares 13.52 | drafted |
-| 565 | 1 October 46 BC | letters | Ad Familiares 6.6 | drafted |
-| 566 | 46 BC | letters | Ad Familiares 13.17 | drafted |
-| 567 | 15 October 46 BC | letters | Ad Familiares 4.4 | pending |
-| 568 | October 46 BC | letters | Ad Familiares 4.11 | drafted |
-| 569 | 15 October 46 BC | letters | Ad Familiares 12.18 | pending |
-| 570 | November 46 BC | speeches | For Quintus Ligarius | pending |
-| 571 | 46 BC | letters | Ad Familiares 13.18 | drafted |
-| 572 | 46 BC | letters | Ad Familiares 6.22 | pending |
-| 573 | 46 BC | letters | Ad Familiares 13.78 | drafted |
-| 574 | November 46 BC | letters | Ad Familiares 4.10 | drafted |
-| 575 | November 46 BC | letters | Ad Familiares 6.12 | drafted |
-| 576 | November 46 BC | letters | Ad Familiares 9.15 | drafted |
-| 577 | November 46 BC | letters | Ad Familiares 9.21 | drafted |
-| 578 | November 46 BC | letters | Ad Familiares 9.26 | drafted |
-| 579 | 46 BC | letters | Ad Familiares 13.30 | drafted |
-| 580 | November 46 BC | letters | Ad Familiares 13.77 | drafted |
-| 581 | 24 November 46 BC | letters | Ad Atticum 12.1 | pending |
-| 582 | December 46 BC | letters | Ad Familiares 6.9 | drafted |
-| 583 | 46 BC | letters | Ad Familiares 13.19 | drafted |
-| 584 | December 46 BC | letters | Ad Familiares 6.8 | drafted |
-| 585 | 46 BC | letters | Ad Atticum 12.11 | pending |
-| 586 | 46 BC | letters | Ad Familiares 13.79 | drafted |
-| 587 | December 46 BC | letters | Ad Familiares 6.7 | drafted |
-| 588 | December 46 BC | letters | Ad Familiares 9.13 | drafted |
-| 589 | December 46 BC | letters | Ad Familiares 9.23 | drafted |
-| 590 | December 46 BC | letters | Ad Familiares 12.19 | pending |
-| 591 | December 46 BC | letters | Ad Familiares 15.18 | drafted |
-| 592 | 46 BC | letters | Ad Familiares 13.31 | drafted |
-| 593 | 46 BC | letters | Ad Familiares 13.67 | drafted |
-| 594 | December 46 BC | letters | Ad Familiares 6.5 | drafted |
-| 595 | 30 December 46 BC | letters | Ad Familiares 9.10 | drafted |
-| 596 | 30 December 46 BC | letters | Ad Familiares 15.17 | drafted |
-| 597 | January 45 BC | letters | Ad Familiares 6.3 | drafted |
-| 598 | January 45 BC | letters | Ad Familiares 6.4 | drafted |
-| 599 | January 45 BC | letters | Ad Familiares 6.18 | drafted |
-| 600 | January 45 BC | letters | Ad Familiares 15.16 | drafted |
-| 601 | January 45 BC | letters | Ad Familiares 15.19 | drafted |
-| 602 | 13 February 45 BC | letters | Ad Familiares 13.66 | drafted |
-| 603 | March 45 BC | philosophy | Consolation | pending |
-| 604 | 7 March 45 BC | letters | Ad Atticum 12.13 | drafted |
-| 605 | 8 March 45 BC | letters | Ad Atticum 12.14 | drafted |
-| 606 | 9 March 45 BC | letters | Ad Atticum 12.15 | drafted |
-| 607 | 10 March 45 BC | letters | Ad Atticum 12.16 | drafted |
-| 608 | 11 March 45 BC | letters | Ad Atticum 12.18 | drafted |
-| 609 | 12 March 45 BC | letters | Ad Atticum 12.17 | drafted |
-| 610 | 14 March 45 BC | letters | Ad Atticum 12.19 | drafted |
-| 611 | 15 March 45 BC | letters | Ad Atticum 12.20 | drafted |
-| 612 | March 45 BC | letters | Ad Atticum 13.6 | drafted |
-| 613 | March 45 BC | letters | Ad Familiares 4.5 | drafted |
-| 614 | March 45 BC | letters | Ad Familiares 5.13 | drafted |
-| 615 | 16 March 45 BC | letters | Ad Atticum 12.12 | pending |
-| 616 | 17 March 45 BC | letters | Ad Atticum 12.21 | drafted |
-| 617 | 18 March 45 BC | letters | Ad Atticum 12.22 | drafted |
-| 618 | 19 March 45 BC | letters | Ad Atticum 12.23 | drafted |
-| 619 | 20 March 45 BC | letters | Ad Atticum 12.24 | drafted |
-| 620 | 22 March 45 BC | letters | Ad Atticum 12.25 | drafted |
-| 621 | 22 March 45 BC | letters | Ad Atticum 12.26 | drafted |
-| 622 | 23 March 45 BC | letters | Ad Atticum 12.27 | drafted |
-| 623 | 24 March 45 BC | letters | Ad Atticum 12.28 | drafted |
-| 624 | 25 March 45 BC | letters | Ad Atticum 12.29 | drafted |
-| 625 | 26 March 45 BC | letters | Ad Atticum 12.33 | drafted |
-| 626 | 28 March 45 BC | letters | Ad Atticum 12.32 | drafted |
-| 627 | 29 March 45 BC | letters | Ad Atticum 12.31 | drafted |
-| 628 | 30 March 45 BC | letters | Ad Atticum 12.34 | drafted |
-| 629 | 8 April 45 BC | letters | Ad Atticum 12.30 | drafted |
-| 630 | April 45 BC | letters | Ad Familiares 4.6 | drafted |
-| 631 | April 45 BC | letters | Ad Familiares 6.21 | drafted |
-| 632 | 20 April 45 BC | letters | Ad Familiares 6.2 | drafted |
-| 633 | 20 April 45 BC | letters | Ad Familiares 9.11 | drafted |
-| 634 | May 45 BC | philosophy | Academica | pending |
-| 635 | 2 May 45 BC | letters | Ad Atticum 12.35 | drafted |
-| 636 | 3 May 45 BC | letters | Ad Atticum 12.36 | drafted |
-| 637 | 4 May 45 BC | letters | Ad Atticum 12.37 | drafted |
-| 638 | 6 May 45 BC | letters | Ad Atticum 12.38 | drafted |
-| 639 | 8 May 45 BC | letters | Ad Atticum 12.39 | drafted |
-| 640 | 9 May 45 BC | letters | Ad Atticum 12.40 | drafted |
-| 641 | 9 May 45 BC | letters | Ad Familiares 5.14 | drafted |
-| 642 | 10 May 45 BC | letters | Ad Atticum 12.42 | drafted |
-| 643 | 11 May 45 BC | letters | Ad Atticum 12.41 | drafted |
-| 644 | 12 May 45 BC | letters | Ad Atticum 12.43 | drafted |
-| 645 | 13 May 45 BC | letters | Ad Atticum 12.44 | drafted |
-| 646 | 14 May 45 BC | letters | Ad Atticum 13.26 | drafted |
-| 647 | 15 May 45 BC | letters | Ad Atticum 12.46 | drafted |
-| 648 | 16 May 45 BC | letters | Ad Atticum 12.47 | drafted |
-| 649 | 17 May 45 BC | letters | Ad Atticum 12.45 | drafted |
-| 650 | 17 May 45 BC | letters | Ad Atticum 12.48 | drafted |
-| 651 | 18 May 45 BC | letters | Ad Atticum 12.50 | drafted |
-| 652 | 19 May 45 BC | letters | Ad Atticum 12.49 | drafted |
-| 653 | 20 May 45 BC | letters | Ad Atticum 12.51 | drafted |
-| 654 | 21 May 45 BC | letters | Ad Atticum 12.52 | drafted |
-| 655 | 45 BC | letters | Ad Familiares 4.12 | pending |
+| 541 | 46 BC | letters | Ad Familiares 13.38 | drafted |
+| 542 | 46 BC | letters | Ad Familiares 7.26 | drafted |
+| 543 | August 46 BC | letters | Ad Familiares 4.13 | drafted |
+| 544 | 46 BC | letters | Ad Familiares 4.3 | drafted |
+| 545 | 46 BC | letters | Ad Familiares 13.27 | drafted |
+| 546 | 13 August 46 BC | letters | Ad Familiares 4.7 | drafted |
+| 547 | 13 August 46 BC | letters | Ad Familiares 4.9 | drafted |
+| 548 | August 46 BC | letters | Ad Familiares 4.8 | drafted |
+| 549 | August 46 BC | letters | Ad Familiares 6.10 | drafted |
+| 550 | August 46 BC | letters | Ad Familiares 6.13 | drafted |
+| 551 | August 46 BC | letters | Ad Familiares 7.28 | drafted |
+| 552 | August 46 BC | letters | Ad Familiares 9.20 | drafted |
+| 553 | August 46 BC | letters | Ad Familiares 9.17 | drafted |
+| 554 | August 46 BC | letters | Ad Familiares 9.19 | drafted |
+| 555 | 46 BC | letters | Ad Familiares 4.15 | drafted |
+| 556 | 46 BC | letters | Ad Familiares 13.39 | drafted |
+| 557 | September 46 BC | rhetoric | Orator: To Marcus Brutus | pending |
+| 558 | September 46 BC | speeches | For Marcus Marcellus | drafted |
+| 559 | 46 BC | letters | Ad Familiares 7.4 | drafted |
+| 560 | September 46 BC | letters | Ad Familiares 13.68 | drafted |
+| 561 | 46 BC | letters | Ad Familiares 13.28 | drafted |
+| 562 | September 46 BC | letters | Ad Familiares 13.52 | drafted |
+| 563 | 1 October 46 BC | letters | Ad Familiares 6.6 | drafted |
+| 564 | 46 BC | letters | Ad Familiares 13.17 | drafted |
+| 565 | 15 October 46 BC | letters | Ad Familiares 4.4 | drafted |
+| 566 | October 46 BC | letters | Ad Familiares 4.11 | drafted |
+| 567 | 15 October 46 BC | letters | Ad Familiares 12.18 | drafted |
+| 568 | November 46 BC | speeches | For Quintus Ligarius | drafted |
+| 569 | 46 BC | letters | Ad Familiares 13.18 | drafted |
+| 570 | 46 BC | letters | Ad Familiares 13.78 | drafted |
+| 571 | November 46 BC | letters | Ad Atticum 12.6 | drafted |
+| 572 | November 46 BC | letters | Ad Familiares 4.10 | drafted |
+| 573 | November 46 BC | letters | Ad Familiares 6.12 | drafted |
+| 574 | November 46 BC | letters | Ad Familiares 9.15 | drafted |
+| 575 | November 46 BC | letters | Ad Familiares 9.21 | drafted |
+| 576 | November 46 BC | letters | Ad Familiares 9.26 | drafted |
+| 577 | 46 BC | letters | Ad Familiares 13.30 | drafted |
+| 578 | November 46 BC | letters | Ad Familiares 13.60 | drafted |
+| 579 | November 46 BC | letters | Ad Familiares 13.77 | drafted |
+| 580 | November 46 BC | letters | Ad Atticum 12.7 | drafted |
+| 581 | 24 November 46 BC | letters | Ad Atticum 12.1 | drafted |
+| 582 | November 46 BC | letters | Ad Atticum 12.8 | drafted |
+| 583 | December 46 BC | letters | Ad Familiares 6.9 | drafted |
+| 584 | 46 BC | letters | Ad Familiares 13.19 | drafted |
+| 585 | December 46 BC | letters | Ad Familiares 6.8 | drafted |
+| 586 | 46 BC | letters | Ad Atticum 12.11 | drafted |
+| 587 | 46 BC | letters | Ad Familiares 13.79 | drafted |
+| 588 | December 46 BC | letters | Ad Familiares 6.7 | drafted |
+| 589 | December 46 BC | letters | Ad Familiares 9.13 | drafted |
+| 590 | December 46 BC | letters | Ad Familiares 9.23 | drafted |
+| 591 | December 46 BC | letters | Ad Familiares 12.19 | drafted |
+| 592 | December 46 BC | letters | Ad Familiares 15.18 | drafted |
+| 593 | 46 BC | letters | Ad Familiares 13.31 | drafted |
+| 594 | 46 BC | letters | Ad Familiares 13.67 | drafted |
+| 595 | December 46 BC | letters | Ad Familiares 6.5 | drafted |
+| 596 | 30 December 46 BC | letters | Ad Familiares 9.10 | drafted |
+| 597 | 30 December 46 BC | letters | Ad Familiares 15.17 | drafted |
+| 598 | January 45 BC | letters | Ad Familiares 6.3 | drafted |
+| 599 | January 45 BC | letters | Ad Familiares 6.4 | drafted |
+| 600 | January 45 BC | letters | Ad Familiares 6.18 | drafted |
+| 601 | January 45 BC | letters | Ad Familiares 15.16 | drafted |
+| 602 | January 45 BC | letters | Ad Familiares 15.19 | drafted |
+| 603 | 13 February 45 BC | letters | Ad Familiares 13.66 | drafted |
+| 604 | March 45 BC | philosophy | Consolation | pending |
+| 605 | 7 March 45 BC | letters | Ad Atticum 12.13 | drafted |
+| 606 | 8 March 45 BC | letters | Ad Atticum 12.14 | drafted |
+| 607 | 9 March 45 BC | letters | Ad Atticum 12.15 | drafted |
+| 608 | 10 March 45 BC | letters | Ad Atticum 12.16 | drafted |
+| 609 | 11 March 45 BC | letters | Ad Atticum 12.18 | drafted |
+| 610 | 12 March 45 BC | letters | Ad Atticum 12.17 | drafted |
+| 611 | 14 March 45 BC | letters | Ad Atticum 12.19 | drafted |
+| 612 | 15 March 45 BC | letters | Ad Atticum 12.20 | drafted |
+| 613 | March 45 BC | letters | Ad Atticum 13.6 | drafted |
+| 614 | March 45 BC | letters | Ad Familiares 4.5 | drafted |
+| 615 | March 45 BC | letters | Ad Familiares 5.13 | drafted |
+| 616 | 16 March 45 BC | letters | Ad Atticum 12.12 | drafted |
+| 617 | 17 March 45 BC | letters | Ad Atticum 12.21 | drafted |
+| 618 | 18 March 45 BC | letters | Ad Atticum 12.22 | drafted |
+| 619 | 19 March 45 BC | letters | Ad Atticum 12.23 | drafted |
+| 620 | 20 March 45 BC | letters | Ad Atticum 12.24 | drafted |
+| 621 | 22 March 45 BC | letters | Ad Atticum 12.25 | drafted |
+| 622 | 22 March 45 BC | letters | Ad Atticum 12.26 | drafted |
+| 623 | 23 March 45 BC | letters | Ad Atticum 12.27 | drafted |
+| 624 | 24 March 45 BC | letters | Ad Atticum 12.28 | drafted |
+| 625 | 25 March 45 BC | letters | Ad Atticum 12.29 | drafted |
+| 626 | 26 March 45 BC | letters | Ad Atticum 12.33 | drafted |
+| 627 | 28 March 45 BC | letters | Ad Atticum 12.32 | drafted |
+| 628 | 29 March 45 BC | letters | Ad Atticum 12.31 | drafted |
+| 629 | 30 March 45 BC | letters | Ad Atticum 12.34 | drafted |
+| 630 | 8 April 45 BC | letters | Ad Atticum 12.30 | drafted |
+| 631 | April 45 BC | letters | Ad Familiares 4.6 | drafted |
+| 632 | April 45 BC | letters | Ad Familiares 6.21 | drafted |
+| 633 | 20 April 45 BC | letters | Ad Familiares 6.2 | drafted |
+| 634 | 20 April 45 BC | letters | Ad Familiares 9.11 | drafted |
+| 635 | May 45 BC | philosophy | Academica | pending |
+| 636 | 2 May 45 BC | letters | Ad Atticum 12.35 | drafted |
+| 637 | 3 May 45 BC | letters | Ad Atticum 12.36 | drafted |
+| 638 | 4 May 45 BC | letters | Ad Atticum 12.37 | drafted |
+| 639 | 6 May 45 BC | letters | Ad Atticum 12.38 | drafted |
+| 640 | 8 May 45 BC | letters | Ad Atticum 12.39 | drafted |
+| 641 | 9 May 45 BC | letters | Ad Atticum 12.40 | drafted |
+| 642 | 9 May 45 BC | letters | Ad Familiares 5.14 | drafted |
+| 643 | 10 May 45 BC | letters | Ad Atticum 12.42 | drafted |
+| 644 | 11 May 45 BC | letters | Ad Atticum 12.41 | drafted |
+| 645 | 12 May 45 BC | letters | Ad Atticum 12.43 | drafted |
+| 646 | 13 May 45 BC | letters | Ad Atticum 12.44 | drafted |
+| 647 | 14 May 45 BC | letters | Ad Atticum 13.26 | drafted |
+| 648 | 15 May 45 BC | letters | Ad Atticum 12.46 | drafted |
+| 649 | 16 May 45 BC | letters | Ad Atticum 12.47 | drafted |
+| 650 | 17 May 45 BC | letters | Ad Atticum 12.45 | drafted |
+| 651 | 17 May 45 BC | letters | Ad Atticum 12.48 | drafted |
+| 652 | 18 May 45 BC | letters | Ad Atticum 12.50 | drafted |
+| 653 | 19 May 45 BC | letters | Ad Atticum 12.49 | drafted |
+| 654 | 20 May 45 BC | letters | Ad Atticum 12.51 | drafted |
+| 655 | 21 May 45 BC | letters | Ad Atticum 12.52 | drafted |
 | 656 | 22 May 45 BC | letters | Ad Atticum 12.53 | drafted |
 | 657 | 23 May 45 BC | letters | Ad Atticum 13.1 | drafted |
 | 658 | 24 May 45 BC | letters | Ad Atticum 13.2 | drafted |
@@ -682,298 +682,298 @@ Status:
 | 662 | 28 May 45 BC | letters | Ad Atticum 13.31 | drafted |
 | 663 | 29 May 45 BC | letters | Ad Atticum 13.32 | drafted |
 | 664 | 30 May 45 BC | letters | Ad Atticum 13.3 | drafted |
-| 665 | 1 June 45 BC | letters | Ad Atticum 13.4 | drafted |
-| 666 | 1 June 45 BC | letters | Ad Atticum 13.28 | drafted |
-| 667 | June 45 BC | philosophy | On the Ends of Good and Evil | pending |
-| 668 | 2 June 45 BC | letters | Ad Atticum 13.5 | drafted |
-| 669 | 3 June 45 BC | letters | Ad Atticum 13.33 | drafted |
-| 670 | 8 June 45 BC | letters | Ad Atticum 13.8 | drafted |
-| 671 | 9 June 45 BC | letters | Ad Atticum 13.7 | drafted |
-| 672 | June 45 BC | letters | Ad Familiares 6.11 | drafted |
-| 673 | June 45 BC | letters | Ad Familiares 9.22 | drafted |
-| 674 | 21 June 45 BC | letters | Ad Atticum 13.10 | drafted |
-| 675 | 23 June 45 BC | letters | Ad Atticum 13.11 | drafted |
-| 676 | 24 June 45 BC | letters | Ad Atticum 13.12 | drafted |
-| 677 | 26 June 45 BC | letters | Ad Atticum 13.13 | drafted |
-| 678 | 27 June 45 BC | letters | Ad Atticum 13.14 | drafted |
-| 679 | 28 June 45 BC | letters | Ad Atticum 13.16 | drafted |
-| 680 | 29 June 45 BC | letters | Ad Atticum 13.17 | drafted |
-| 681 | 30 June 45 BC | letters | Ad Atticum 13.19 | drafted |
-| 682 | 1 July 45 BC | letters | Ad Atticum 13.9 | drafted |
-| 683 | 45 BC | letters | Ad Atticum 13.15 | pending |
-| 684 | 45 BC | letters | Ad Atticum 13.18 | pending |
-| 685 | 45 BC | letters | Ad Atticum 13.36 | pending |
-| 686 | 45 BC | philosophy | Hortensius | pending |
-| 687 | 45 BC | philosophy | Timaeus (Latin translation) | pending |
-| 688 | 3 July 45 BC | letters | Ad Atticum 13.20 | drafted |
-| 689 | 4 July 45 BC | letters | Ad Atticum 13.22 | drafted |
-| 690 | 10 July 45 BC | letters | Ad Atticum 13.23 | drafted |
-| 691 | 11 July 45 BC | letters | Ad Atticum 13.24 | drafted |
-| 692 | 11 July 45 BC | letters | Ad Familiares 5.9 | drafted |
-| 693 | 12 July 45 BC | letters | Ad Atticum 13.25 | drafted |
-| 694 | 12 July 45 BC | letters | Ad Familiares 9.8 | pending |
-| 695 | 13 July 45 BC | letters | Ad Atticum 13.35 | drafted |
-| 696 | 14 July 45 BC | letters | Ad Atticum 13.43 | drafted |
-| 697 | July 45 BC | letters | Ad Familiares 6.20 | pending |
-| 698 | 21 July 45 BC | letters | Ad Atticum 13.44 | drafted |
-| 699 | 27 July 45 BC | letters | Ad Atticum 12.9 | pending |
-| 700 | 27 July 45 BC | letters | Ad Atticum 13.34 | drafted |
-| 701 | 27 July 45 BC | letters | Ad Familiares 16.22 | pending |
-| 702 | 28 July 45 BC | letters | Ad Atticum 12.10 | pending |
-| 703 | 29 July 45 BC | letters | Ad Atticum 13.21 | drafted |
-| 704 | 29 July 45 BC | letters | Ad Familiares 16.17 | pending |
-| 705 | August 45 BC | philosophy | On the Nature of the Gods | pending |
-| 706 | August 45 BC | philosophy | Tusculan Disputations | pending |
-| 707 | 2 August 45 BC | letters | Ad Atticum 13.37 | drafted |
-| 708 | 4 August 45 BC | letters | Ad Atticum 13.38 | drafted |
-| 709 | 5 August 45 BC | letters | Ad Atticum 13.39 | drafted |
-| 710 | 5 August 45 BC | letters | Ad Atticum 13.48 | drafted |
-| 711 | 8 August 45 BC | letters | Ad Atticum 13.40 | drafted |
-| 712 | 9 August 45 BC | letters | Ad Atticum 13.41 | drafted |
-| 713 | 11 August 45 BC | letters | Ad Atticum 13.45 | drafted |
-| 714 | 12 August 45 BC | letters | Ad Atticum 13.46 | drafted |
-| 715 | 13 August 45 BC | letters | Ad Atticum 13.47 | drafted |
-| 716 | August 45 BC | letters | Ad Familiares 6.19 | drafted |
-| 717 | August 45 BC | letters | Ad Familiares 16.19 | pending |
-| 718 | 20 August 45 BC | letters | Ad Atticum 13.49 | drafted |
-| 719 | 20 August 45 BC | letters | Ad Familiares 7.24 | pending |
-| 720 | 22 August 45 BC | letters | Ad Atticum 13.50 | drafted |
-| 721 | 24 August 45 BC | letters | Ad Atticum 13.51 | drafted |
-| 722 | 24 August 45 BC | letters | Ad Familiares 7.25 | pending |
-| 723 | 45 BC | letters | Ad Familiares 13.15 | pending |
-| 724 | October 45 BC | letters | Ad Familiares 5.11 | drafted |
-| 725 | October 45 BC | letters | Ad Familiares 13.4 | pending |
-| 726 | October 45 BC | letters | Ad Familiares 13.5 | pending |
-| 727 | October 45 BC | letters | Ad Familiares 13.7 | pending |
-| 728 | October 45 BC | letters | Ad Familiares 13.8 | pending |
-| 729 | 1 November 45 BC | letters | Ad Familiares 7.29 | pending |
-| 730 | November 45 BC | speeches | For King Deiotarus | pending |
-| 731 | November 45 BC | letters | Ad Familiares 9.12 | drafted |
-| 732 | 45 BC | letters | Ad Familiares 5.15 | pending |
-| 733 | December 45 BC | letters | Ad Atticum 13.42 | drafted |
-| 734 | 19 December 45 BC | letters | Ad Atticum 13.52 | drafted |
-| 735 | January 44 BC | letters | Ad Familiares 7.30 | pending |
-| 736 | January 44 BC | letters | Ad Familiares 13.50 | pending |
-| 737 | 1 March 44 BC | letters | Ad Atticum 14.15 | drafted |
-| 738 | 15 March 44 BC | letters | Ad Familiares 6.15 | drafted |
-| 739 | March 44 BC | letters | Ad Familiares 6.16 | drafted |
-| 740 | 16 March 44 BC | letters | Ad Familiares 11.1 | pending |
-| 741 | April 44 BC | philosophy | Cato the Elder, On Old Age | pending |
-| 742 | April 44 BC | philosophy | On Divination | pending |
-| 743 | 7 April 44 BC | letters | Ad Atticum 14.1 | drafted |
-| 744 | 8 April 44 BC | letters | Ad Atticum 14.2 | drafted |
-| 745 | 9 April 44 BC | letters | Ad Atticum 14.3 | drafted |
-| 746 | 10 April 44 BC | letters | Ad Atticum 14.4 | drafted |
-| 747 | 12 April 44 BC | letters | Ad Atticum 14.6 | drafted |
-| 748 | 13 April 44 BC | letters | Ad Atticum 14.5 | drafted |
-| 749 | 15 April 44 BC | letters | Ad Atticum 14.7 | drafted |
-| 750 | 15 April 44 BC | letters | Ad Atticum 14.8 | drafted |
-| 751 | April 44 BC | letters | Ad Familiares 6.17 | drafted |
-| 752 | April 44 BC | letters | Ad Familiares 15.20 | pending |
-| 753 | 44 BC | letters | Ad Familiares 11.7 | pending |
-| 754 | 17 April 44 BC | letters | Ad Atticum 14.9 | drafted |
-| 755 | 19 April 44 BC | letters | Ad Atticum 14.10 | drafted |
-| 756 | 21 April 44 BC | letters | Ad Atticum 14.11 | drafted |
-| 757 | 22 April 44 BC | letters | Ad Atticum 14.12 | drafted |
-| 758 | 26 April 44 BC | letters | Ad Atticum 14.13 | drafted |
-| 759 | 27 April 44 BC | letters | Ad Atticum 14.14 | drafted |
-| 760 | May 44 BC | philosophy | On Fate | pending |
-| 761 | 3 May 44 BC | letters | Ad Atticum 14.16 | drafted |
-| 762 | 3 May 44 BC | letters | Ad Familiares 9.14 | pending |
-| 763 | 3 May 44 BC | letters | Ad Familiares 12.1 | pending |
-| 764 | 4 May 44 BC | letters | Ad Atticum 14.17 | drafted |
-| 765 | 9 May 44 BC | letters | Ad Atticum 14.18 | drafted |
-| 766 | 11 May 44 BC | letters | Ad Atticum 14.20 | drafted |
-| 767 | 11 May 44 BC | letters | Ad Atticum 14.21 | drafted |
-| 768 | 14 May 44 BC | letters | Ad Atticum 14.22 | drafted |
-| 769 | 15 May 44 BC | letters | Ad Atticum 14.19 | drafted |
-| 770 | May 44 BC | letters | Ad Familiares 11.2 | pending |
-| 771 | 17 May 44 BC | letters | Ad Atticum 15.1 | drafted |
-| 772 | 18 May 44 BC | letters | Ad Atticum 15.2 | drafted |
-| 773 | 22 May 44 BC | letters | Ad Atticum 15.3 | drafted |
-| 774 | 24 May 44 BC | letters | Ad Atticum 15.4 | drafted |
-| 775 | 25 May 44 BC | letters | Ad Familiares 12.16 | pending |
-| 776 | 27 May 44 BC | letters | Ad Atticum 15.6 | drafted |
-| 777 | 28 May 44 BC | letters | Ad Atticum 15.5 | drafted |
-| 778 | 28 May 44 BC | letters | Ad Familiares 16.23 | pending |
-| 779 | 29 May 44 BC | letters | Ad Atticum 15.7 | drafted |
-| 780 | 31 May 44 BC | letters | Ad Atticum 15.8 | drafted |
-| 781 | 2 June 44 BC | letters | Ad Atticum 15.9 | drafted |
-| 782 | 5 June 44 BC | letters | Ad Atticum 15.10 | drafted |
-| 783 | 8 June 44 BC | letters | Ad Atticum 15.11 | drafted |
-| 784 | 10 June 44 BC | letters | Ad Atticum 15.12 | drafted |
-| 785 | 12 June 44 BC | letters | Ad Atticum 15.16 | drafted |
-| 786 | 13 June 44 BC | letters | Ad Atticum 15.15 | drafted |
-| 787 | 14 June 44 BC | letters | Ad Atticum 15.17 | drafted |
-| 788 | June 44 BC | letters | Ad Familiares 7.21 | pending |
-| 789 | June 44 BC | letters | Ad Familiares 7.22 | pending |
-| 790 | 16 June 44 BC | letters | Ad Atticum 15.18 | drafted |
-| 791 | 21 June 44 BC | letters | Ad Atticum 15.19 | drafted |
-| 792 | 21 June 44 BC | letters | Ad Atticum 15.20 | drafted |
-| 793 | 22 June 44 BC | letters | Ad Atticum 15.21 | drafted |
-| 794 | 25 June 44 BC | letters | Ad Atticum 15.23 | drafted |
-| 795 | 26 June 44 BC | letters | Ad Atticum 15.24 | drafted |
-| 796 | 27 June 44 BC | letters | Ad Atticum 15.14 | drafted |
-| 797 | 27 June 44 BC | letters | Ad Atticum 15.22 | drafted |
-| 798 | 29 June 44 BC | letters | Ad Atticum 15.25 | drafted |
-| 799 | July 44 BC | philosophy | Laelius, On Friendship | pending |
-| 800 | July 44 BC | rhetoric | Topics: To Gaius Trebatius | pending |
-| 801 | 2 July 44 BC | letters | Ad Atticum 15.26 | drafted |
-| 802 | 3 July 44 BC | letters | Ad Atticum 15.27 | drafted |
-| 803 | 3 July 44 BC | letters | Ad Atticum 15.28 | drafted |
-| 804 | 44 BC | letters | Ad Familiares 16.26 | pending |
-| 805 | 6 July 44 BC | letters | Ad Atticum 15.29 | drafted |
-| 806 | 6 July 44 BC | letters | Ad Atticum 16.16 | drafted |
-| 807 | 8 July 44 BC | letters | Ad Atticum 16.1 | drafted |
-| 808 | 9 July 44 BC | letters | Ad Atticum 16.5 | drafted |
-| 809 | 10 July 44 BC | letters | Ad Atticum 16.4 | drafted |
-| 810 | 11 July 44 BC | letters | Ad Atticum 16.2 | drafted |
-| 811 | 15 July 44 BC | letters | Ad Familiares 11.29 | pending |
-| 812 | July 44 BC | letters | Ad Familiares 16.21 | pending |
-| 813 | 17 July 44 BC | letters | Ad Atticum 16.3 | drafted |
-| 814 | 20 July 44 BC | letters | Ad Familiares 7.20 | pending |
-| 815 | 25 July 44 BC | letters | Ad Atticum 16.6 | drafted |
-| 816 | 29 July 44 BC | letters | Ad Familiares 7.19 | pending |
-| 817 | 4 August 44 BC | letters | Ad Familiares 11.3 | pending |
-| 818 | 19 August 44 BC | letters | Ad Atticum 16.7 | drafted |
-| 819 | 30 August 44 BC | letters | Ad Familiares 11.27 | pending |
-| 820 | 2 September 44 BC | letters | Ad Familiares 12.20 | pending |
-| 821 | 2 September 44 BC | speeches | First Philippic | pending |
-| 822 | September 44 BC | letters | Ad Familiares 16.25 | pending |
-| 823 | 19 September 44 BC | letters | Ad Familiares 10.1 | pending |
-| 824 | 19 September 44 BC | letters | Ad Familiares 12.22 | pending |
-| 825 | October 44 BC | speeches | Second Philippic | pending |
-| 826 | 5 October 44 BC | letters | Ad Familiares 10.2 | pending |
-| 827 | 5 October 44 BC | letters | Ad Familiares 12.2 | pending |
-| 828 | 6 October 44 BC | letters | Ad Familiares 12.3 | pending |
-| 829 | 9 October 44 BC | letters | Ad Familiares 12.23 | pending |
-| 830 | October 44 BC | letters | Ad Familiares 11.4 | pending |
-| 831 | 44 BC | letters | Ad Familiares 12.21 | pending |
-| 832 | 25 October 44 BC | letters | Ad Atticum 15.13 | drafted |
-| 833 | November 44 BC | philosophy | On Duties | pending |
-| 834 | 2 November 44 BC | letters | Ad Atticum 16.8 | drafted |
-| 835 | 4 November 44 BC | letters | Ad Atticum 16.9 | drafted |
-| 836 | 5 November 44 BC | letters | Ad Atticum 16.11 | drafted |
-| 837 | 8 November 44 BC | letters | Ad Atticum 16.10 | drafted |
-| 838 | 10 November 44 BC | letters | Ad Atticum 16.13 | drafted |
-| 839 | 11 November 44 BC | letters | Ad Familiares 16.24 | pending |
-| 840 | 13 November 44 BC | letters | Ad Atticum 16.12 | drafted |
-| 841 | November 44 BC | letters | Ad Atticum 16.14 | drafted |
-| 842 | 44 BC | letters | Ad Familiares 7.31 | pending |
-| 843 | 9 December 44 BC | letters | Ad Atticum 16.15 | drafted |
-| 844 | 9 December 44 BC | letters | Ad Familiares 11.5 | pending |
-| 845 | 10 December 44 BC | letters | Ad Familiares 10.3 | pending |
-| 846 | December 44 BC | letters | Ad Familiares 10.4 | pending |
-| 847 | December 44 BC | letters | Ad Familiares 10.5 | pending |
-| 848 | December 44 BC | letters | Ad Familiares 16.27 | pending |
-| 849 | 20 December 44 BC | letters | Ad Familiares 11.6 | pending |
-| 850 | 20 December 44 BC | speeches | Third Philippic | pending |
-| 851 | 20 December 44 BC | speeches | Fourth Philippic | pending |
-| 852 | 43 BC | letters | Ad Familiares 10.8 | pending |
+| 665 | 31 May 45 BC | letters | Ad Familiares 4.12 | drafted |
+| 666 | May 45 BC | letters | Ad Familiares 13.15 | drafted |
+| 667 | 1 June 45 BC | letters | Ad Atticum 13.4 | drafted |
+| 668 | 1 June 45 BC | letters | Ad Atticum 13.28 | drafted |
+| 669 | June 45 BC | philosophy | On the Ends of Good and Evil | pending |
+| 670 | 2 June 45 BC | letters | Ad Atticum 13.5 | drafted |
+| 671 | 3 June 45 BC | letters | Ad Atticum 13.33 | drafted |
+| 672 | 8 June 45 BC | letters | Ad Atticum 13.8 | drafted |
+| 673 | 9 June 45 BC | letters | Ad Atticum 13.7 | drafted |
+| 674 | June 45 BC | letters | Ad Familiares 6.11 | drafted |
+| 675 | June 45 BC | letters | Ad Familiares 9.22 | drafted |
+| 676 | 21 June 45 BC | letters | Ad Atticum 13.10 | drafted |
+| 677 | 23 June 45 BC | letters | Ad Atticum 13.11 | drafted |
+| 678 | 24 June 45 BC | letters | Ad Atticum 13.12 | drafted |
+| 679 | 26 June 45 BC | letters | Ad Atticum 13.13 | drafted |
+| 680 | 27 June 45 BC | letters | Ad Atticum 13.14 | drafted |
+| 681 | 28 June 45 BC | letters | Ad Atticum 13.16 | drafted |
+| 682 | 29 June 45 BC | letters | Ad Atticum 13.17 | drafted |
+| 683 | 30 June 45 BC | letters | Ad Atticum 13.19 | drafted |
+| 684 | 1 July 45 BC | letters | Ad Atticum 13.9 | drafted |
+| 685 | 45 BC | letters | Ad Atticum 13.15 | pending |
+| 686 | 45 BC | letters | Ad Atticum 13.18 | pending |
+| 687 | 45 BC | letters | Ad Atticum 13.36 | pending |
+| 688 | 45 BC | philosophy | Hortensius | pending |
+| 689 | 45 BC | philosophy | Timaeus (Latin translation) | pending |
+| 690 | 3 July 45 BC | letters | Ad Atticum 13.20 | drafted |
+| 691 | 4 July 45 BC | letters | Ad Atticum 13.22 | drafted |
+| 692 | 10 July 45 BC | letters | Ad Atticum 13.23 | drafted |
+| 693 | 11 July 45 BC | letters | Ad Atticum 13.24 | drafted |
+| 694 | 11 July 45 BC | letters | Ad Familiares 5.9 | drafted |
+| 695 | 12 July 45 BC | letters | Ad Atticum 13.25 | drafted |
+| 696 | 12 July 45 BC | letters | Ad Familiares 9.8 | drafted |
+| 697 | 13 July 45 BC | letters | Ad Atticum 13.35 | drafted |
+| 698 | 14 July 45 BC | letters | Ad Atticum 13.43 | drafted |
+| 699 | July 45 BC | letters | Ad Familiares 6.20 | drafted |
+| 700 | 21 July 45 BC | letters | Ad Atticum 13.44 | drafted |
+| 701 | 27 July 45 BC | letters | Ad Atticum 12.9 | drafted |
+| 702 | 27 July 45 BC | letters | Ad Atticum 13.34 | drafted |
+| 703 | 27 July 45 BC | letters | Ad Familiares 16.22 | drafted |
+| 704 | 28 July 45 BC | letters | Ad Atticum 12.10 | drafted |
+| 705 | 29 July 45 BC | letters | Ad Atticum 13.21 | drafted |
+| 706 | 29 July 45 BC | letters | Ad Familiares 16.17 | drafted |
+| 707 | August 45 BC | philosophy | On the Nature of the Gods | pending |
+| 708 | August 45 BC | philosophy | Tusculan Disputations | pending |
+| 709 | 2 August 45 BC | letters | Ad Atticum 13.37 | drafted |
+| 710 | 4 August 45 BC | letters | Ad Atticum 13.38 | drafted |
+| 711 | 5 August 45 BC | letters | Ad Atticum 13.39 | drafted |
+| 712 | 5 August 45 BC | letters | Ad Atticum 13.48 | drafted |
+| 713 | 8 August 45 BC | letters | Ad Atticum 13.40 | drafted |
+| 714 | 9 August 45 BC | letters | Ad Atticum 13.41 | drafted |
+| 715 | 11 August 45 BC | letters | Ad Atticum 13.45 | drafted |
+| 716 | 12 August 45 BC | letters | Ad Atticum 13.46 | drafted |
+| 717 | 13 August 45 BC | letters | Ad Atticum 13.47 | drafted |
+| 718 | August 45 BC | letters | Ad Familiares 6.19 | drafted |
+| 719 | August 45 BC | letters | Ad Familiares 16.19 | drafted |
+| 720 | 20 August 45 BC | letters | Ad Atticum 13.49 | drafted |
+| 721 | 20 August 45 BC | letters | Ad Familiares 7.24 | drafted |
+| 722 | 22 August 45 BC | letters | Ad Atticum 13.50 | drafted |
+| 723 | 24 August 45 BC | letters | Ad Atticum 13.51 | drafted |
+| 724 | 24 August 45 BC | letters | Ad Familiares 7.25 | drafted |
+| 725 | October 45 BC | letters | Ad Familiares 5.11 | drafted |
+| 726 | October 45 BC | letters | Ad Familiares 13.4 | drafted |
+| 727 | October 45 BC | letters | Ad Familiares 13.5 | drafted |
+| 728 | October 45 BC | letters | Ad Familiares 13.7 | drafted |
+| 729 | October 45 BC | letters | Ad Familiares 13.8 | drafted |
+| 730 | 29 October 45 BC | letters | Ad Familiares 7.29 | drafted |
+| 731 | November 45 BC | speeches | For King Deiotarus | pending |
+| 732 | November 45 BC | letters | Ad Familiares 9.12 | drafted |
+| 733 | 45 BC | letters | Ad Familiares 5.15 | drafted |
+| 734 | December 45 BC | letters | Ad Atticum 13.42 | drafted |
+| 735 | 19 December 45 BC | letters | Ad Atticum 13.52 | drafted |
+| 736 | January 44 BC | letters | Ad Familiares 7.30 | drafted |
+| 737 | January 44 BC | letters | Ad Familiares 13.50 | drafted |
+| 738 | February 44 BC | letters | Ad Familiares 7.31 | drafted |
+| 739 | 1 March 44 BC | letters | Ad Atticum 14.15 | drafted |
+| 740 | 15 March 44 BC | letters | Ad Familiares 6.15 | drafted |
+| 741 | March 44 BC | letters | Ad Familiares 6.16 | drafted |
+| 742 | 16 March 44 BC | letters | Ad Familiares 11.1 | drafted |
+| 743 | April 44 BC | philosophy | Cato the Elder, On Old Age | pending |
+| 744 | April 44 BC | philosophy | On Divination | pending |
+| 745 | 7 April 44 BC | letters | Ad Atticum 14.1 | drafted |
+| 746 | 8 April 44 BC | letters | Ad Atticum 14.2 | drafted |
+| 747 | 9 April 44 BC | letters | Ad Atticum 14.3 | drafted |
+| 748 | 10 April 44 BC | letters | Ad Atticum 14.4 | drafted |
+| 749 | 12 April 44 BC | letters | Ad Atticum 14.6 | drafted |
+| 750 | 13 April 44 BC | letters | Ad Atticum 14.5 | drafted |
+| 751 | 15 April 44 BC | letters | Ad Atticum 14.7 | drafted |
+| 752 | 15 April 44 BC | letters | Ad Atticum 14.8 | drafted |
+| 753 | April 44 BC | letters | Ad Familiares 6.17 | drafted |
+| 754 | April 44 BC | letters | Ad Familiares 15.20 | drafted |
+| 755 | 44 BC | letters | Ad Familiares 11.7 | drafted |
+| 756 | 17 April 44 BC | letters | Ad Atticum 14.9 | drafted |
+| 757 | 19 April 44 BC | letters | Ad Atticum 14.10 | drafted |
+| 758 | 21 April 44 BC | letters | Ad Atticum 14.11 | drafted |
+| 759 | 22 April 44 BC | letters | Ad Atticum 14.12 | drafted |
+| 760 | 26 April 44 BC | letters | Ad Atticum 14.13 | drafted |
+| 761 | 27 April 44 BC | letters | Ad Atticum 14.14 | drafted |
+| 762 | May 44 BC | philosophy | On Fate | pending |
+| 763 | 3 May 44 BC | letters | Ad Atticum 14.16 | drafted |
+| 764 | 3 May 44 BC | letters | Ad Familiares 9.14 | drafted |
+| 765 | 3 May 44 BC | letters | Ad Familiares 12.1 | drafted |
+| 766 | 4 May 44 BC | letters | Ad Atticum 14.17 | drafted |
+| 767 | 9 May 44 BC | letters | Ad Atticum 14.18 | drafted |
+| 768 | 11 May 44 BC | letters | Ad Atticum 14.20 | drafted |
+| 769 | 11 May 44 BC | letters | Ad Atticum 14.21 | drafted |
+| 770 | 14 May 44 BC | letters | Ad Atticum 14.22 | drafted |
+| 771 | 15 May 44 BC | letters | Ad Atticum 14.19 | drafted |
+| 772 | 17 May 44 BC | letters | Ad Atticum 15.1 | drafted |
+| 773 | 18 May 44 BC | letters | Ad Atticum 15.2 | drafted |
+| 774 | 22 May 44 BC | letters | Ad Atticum 15.3 | drafted |
+| 775 | 24 May 44 BC | letters | Ad Atticum 15.4 | drafted |
+| 776 | 25 May 44 BC | letters | Ad Familiares 12.16 | drafted |
+| 777 | 27 May 44 BC | letters | Ad Atticum 15.6 | drafted |
+| 778 | 28 May 44 BC | letters | Ad Atticum 15.5 | drafted |
+| 779 | 28 May 44 BC | letters | Ad Familiares 16.23 | drafted |
+| 780 | 29 May 44 BC | letters | Ad Atticum 15.7 | drafted |
+| 781 | 31 May 44 BC | letters | Ad Atticum 15.8 | drafted |
+| 782 | May 44 BC | letters | Ad Familiares 11.2 | drafted |
+| 783 | 2 June 44 BC | letters | Ad Atticum 15.9 | drafted |
+| 784 | 5 June 44 BC | letters | Ad Atticum 15.10 | drafted |
+| 785 | 8 June 44 BC | letters | Ad Atticum 15.11 | drafted |
+| 786 | 10 June 44 BC | letters | Ad Atticum 15.12 | drafted |
+| 787 | 12 June 44 BC | letters | Ad Atticum 15.16 | drafted |
+| 788 | 13 June 44 BC | letters | Ad Atticum 15.15 | drafted |
+| 789 | 14 June 44 BC | letters | Ad Atticum 15.17 | drafted |
+| 790 | June 44 BC | letters | Ad Familiares 7.21 | drafted |
+| 791 | June 44 BC | letters | Ad Familiares 7.22 | drafted |
+| 792 | 16 June 44 BC | letters | Ad Atticum 15.18 | drafted |
+| 793 | 21 June 44 BC | letters | Ad Atticum 15.19 | drafted |
+| 794 | 21 June 44 BC | letters | Ad Atticum 15.20 | drafted |
+| 795 | 22 June 44 BC | letters | Ad Atticum 15.21 | drafted |
+| 796 | 25 June 44 BC | letters | Ad Atticum 15.23 | drafted |
+| 797 | 26 June 44 BC | letters | Ad Atticum 15.24 | drafted |
+| 798 | 27 June 44 BC | letters | Ad Atticum 15.14 | drafted |
+| 799 | 27 June 44 BC | letters | Ad Atticum 15.22 | drafted |
+| 800 | 29 June 44 BC | letters | Ad Atticum 15.25 | drafted |
+| 801 | July 44 BC | letters | Ad Familiares 11.29 | drafted |
+| 802 | July 44 BC | philosophy | Laelius, On Friendship | pending |
+| 803 | July 44 BC | rhetoric | Topics: To Gaius Trebatius | pending |
+| 804 | 2 July 44 BC | letters | Ad Atticum 15.26 | drafted |
+| 805 | 3 July 44 BC | letters | Ad Atticum 15.27 | drafted |
+| 806 | 3 July 44 BC | letters | Ad Atticum 15.28 | drafted |
+| 807 | 44 BC | letters | Ad Familiares 16.26 | drafted |
+| 808 | 6 July 44 BC | letters | Ad Atticum 15.29 | drafted |
+| 809 | 6 July 44 BC | letters | Ad Atticum 16.16 | drafted |
+| 810 | 8 July 44 BC | letters | Ad Atticum 16.1 | drafted |
+| 811 | 9 July 44 BC | letters | Ad Atticum 16.5 | drafted |
+| 812 | 10 July 44 BC | letters | Ad Atticum 16.4 | drafted |
+| 813 | 11 July 44 BC | letters | Ad Atticum 16.2 | drafted |
+| 814 | July 44 BC | letters | Ad Familiares 16.21 | drafted |
+| 815 | 17 July 44 BC | letters | Ad Atticum 16.3 | drafted |
+| 816 | 20 July 44 BC | letters | Ad Familiares 7.20 | drafted |
+| 817 | 25 July 44 BC | letters | Ad Atticum 16.6 | drafted |
+| 818 | 29 July 44 BC | letters | Ad Familiares 7.19 | drafted |
+| 819 | 4 August 44 BC | letters | Ad Familiares 11.3 | drafted |
+| 820 | 19 August 44 BC | letters | Ad Atticum 16.7 | drafted |
+| 821 | 30 August 44 BC | letters | Ad Familiares 11.27 | drafted |
+| 822 | 2 September 44 BC | letters | Ad Familiares 12.20 | drafted |
+| 823 | 2 September 44 BC | speeches | First Philippic | pending |
+| 824 | September 44 BC | letters | Ad Familiares 16.25 | drafted |
+| 825 | 19 September 44 BC | letters | Ad Familiares 10.1 | drafted |
+| 826 | 19 September 44 BC | letters | Ad Familiares 12.22 | drafted |
+| 827 | October 44 BC | speeches | Second Philippic | pending |
+| 828 | 5 October 44 BC | letters | Ad Familiares 10.2 | drafted |
+| 829 | 5 October 44 BC | letters | Ad Familiares 12.2 | drafted |
+| 830 | 6 October 44 BC | letters | Ad Familiares 12.3 | drafted |
+| 831 | 9 October 44 BC | letters | Ad Familiares 12.23 | drafted |
+| 832 | October 44 BC | letters | Ad Familiares 11.4 | drafted |
+| 833 | 44 BC | letters | Ad Familiares 12.21 | drafted |
+| 834 | 25 October 44 BC | letters | Ad Atticum 15.13 | drafted |
+| 835 | November 44 BC | philosophy | On Duties | pending |
+| 836 | 2 November 44 BC | letters | Ad Atticum 16.8 | drafted |
+| 837 | 4 November 44 BC | letters | Ad Atticum 16.9 | drafted |
+| 838 | 5 November 44 BC | letters | Ad Atticum 16.11 | drafted |
+| 839 | 8 November 44 BC | letters | Ad Atticum 16.10 | drafted |
+| 840 | 10 November 44 BC | letters | Ad Atticum 16.13 | drafted |
+| 841 | 11 November 44 BC | letters | Ad Familiares 16.24 | drafted |
+| 842 | 13 November 44 BC | letters | Ad Atticum 16.12 | drafted |
+| 843 | November 44 BC | letters | Ad Atticum 16.14 | drafted |
+| 844 | 9 December 44 BC | letters | Ad Atticum 16.15 | drafted |
+| 845 | 9 December 44 BC | letters | Ad Familiares 11.5 | drafted |
+| 846 | 10 December 44 BC | letters | Ad Familiares 10.3 | drafted |
+| 847 | December 44 BC | letters | Ad Familiares 10.4 | drafted |
+| 848 | December 44 BC | letters | Ad Familiares 10.5 | drafted |
+| 849 | December 44 BC | letters | Ad Familiares 16.27 | drafted |
+| 850 | 20 December 44 BC | letters | Ad Familiares 11.6 | drafted |
+| 851 | 20 December 44 BC | speeches | Third Philippic | pending |
+| 852 | 20 December 44 BC | speeches | Fourth Philippic | pending |
 | 853 | 1 January 43 BC | speeches | Fifth Philippic | pending |
 | 854 | January 43 BC | speeches | Seventh Philippic | pending |
 | 855 | 4 January 43 BC | speeches | Sixth Philippic | pending |
-| 856 | 24 January 43 BC | letters | Ad Familiares 12.24 | pending |
-| 857 | 1 February 43 BC | letters | Ad Familiares 12.4 | pending |
+| 856 | 24 January 43 BC | letters | Ad Familiares 12.24 | drafted |
+| 857 | 1 February 43 BC | letters | Ad Familiares 12.4 | drafted |
 | 858 | February 43 BC | speeches | Tenth Philippic | pending |
-| 859 | 2 February 43 BC | letters | Ad Familiares 10.28 | pending |
+| 859 | 2 February 43 BC | letters | Ad Familiares 10.28 | drafted |
 | 860 | 3 February 43 BC | speeches | Eighth Philippic | pending |
 | 861 | 4 February 43 BC | speeches | Ninth Philippic | pending |
-| 862 | 5 February 43 BC | letters | Ad Familiares 12.5 | pending |
-| 863 | February 43 BC | letters | Ad Familiares 9.24 | pending |
-| 864 | 43 BC | letters | Ad M. Brutum 1.9 | pending |
-| 865 | March 43 BC | speeches | Eleventh Philippic | pending |
-| 866 | March 43 BC | speeches | Twelfth Philippic | pending |
-| 867 | 7 March 43 BC | letters | Ad Familiares 12.11 | pending |
-| 868 | March 43 BC | letters | Ad Familiares 10.7 | pending |
-| 869 | 16 March 43 BC | letters | Ad Familiares 10.31 | pending |
-| 870 | 19 March 43 BC | letters | Ad Familiares 12.25 | pending |
-| 871 | 20 March 43 BC | letters | Ad Familiares 10.6 | pending |
-| 872 | 20 March 43 BC | letters | Ad Familiares 10.27 | pending |
-| 873 | 20 March 43 BC | speeches | Thirteenth Philippic | pending |
-| 874 | 43 BC | letters | Ad Familiares 12.26 | pending |
-| 875 | 30 March 43 BC | letters | Ad Familiares 10.10 | pending |
-| 876 | 32 March 43 BC | letters | Ad M. Brutum 2.3 | pending |
-| 877 | 7 April 43 BC | letters | Ad Familiares 12.6 | pending |
-| 878 | 11 April 43 BC | letters | Ad M. Brutum 2.2 | pending |
-| 879 | 11 April 43 BC | letters | Ad Familiares 10.12 | pending |
-| 880 | 12 April 43 BC | letters | Ad M. Brutum 2.4 | pending |
-| 881 | 13 April 43 BC | letters | Ad M. Brutum 2.1 | pending |
-| 882 | 14 April 43 BC | letters | Ad M. Brutum 2.5 | pending |
-| 883 | April 43 BC | letters | Ad Familiares 10.11 | pending |
-| 884 | 15 April 43 BC | letters | Ad Familiares 10.30 | pending |
-| 885 | 21 April 43 BC | letters | Ad M. Brutum 1.3 | pending |
-| 886 | 21 April 43 BC | speeches | Philippica XIV | pending |
-| 887 | 43 BC | letters | Ad Familiares 12.27 | pending |
-| 888 | 27 April 43 BC | letters | Ad Familiares 10.9 | pending |
-| 889 | 29 April 43 BC | letters | Ad Familiares 11.9 | pending |
-| 890 | 5 May 43 BC | letters | Ad M. Brutum 1.5 | pending |
-| 891 | 5 May 43 BC | letters | Ad Familiares 10.14 | pending |
-| 892 | 5 May 43 BC | letters | Ad Familiares 11.10 | pending |
-| 893 | 6 May 43 BC | letters | Ad Familiares 11.11 | pending |
-| 894 | 7 May 43 BC | letters | Ad Familiares 12.12 | pending |
-| 895 | 11 May 43 BC | letters | Ad Familiares 10.13 | pending |
-| 896 | 12 May 43 BC | letters | Ad Familiares 11.13 | pending |
-| 897 | 13 May 43 BC | letters | Ad Familiares 11.12 | pending |
-| 898 | May 43 BC | letters | Ad M. Brutum 1.2 | pending |
-| 899 | May 43 BC | letters | Ad Familiares 10.16 | pending |
-| 900 | 15 May 43 BC | letters | Ad Familiares 10.21 | pending |
-| 901 | 18 May 43 BC | letters | Ad Familiares 10.18 | pending |
-| 902 | 18 May 43 BC | letters | Ad Familiares 10.34 | pending |
-| 903 | 19 May 43 BC | letters | Ad M. Brutum 1.6 | pending |
-| 904 | 21 May 43 BC | letters | Ad Familiares 11.19 | pending |
-| 905 | 24 May 43 BC | letters | Ad Familiares 11.20 | pending |
-| 906 | 25 May 43 BC | letters | Ad Familiares 11.23 | pending |
-| 907 | 43 BC | letters | Ad Familiares 12.28 | pending |
-| 908 | 26 May 43 BC | letters | Ad Familiares 10.19 | pending |
-| 909 | 26 May 43 BC | letters | Ad Familiares 10.25 | pending |
-| 910 | 29 May 43 BC | letters | Ad Familiares 10.20 | pending |
-| 911 | 29 May 43 BC | letters | Ad Familiares 11.14 | pending |
-| 912 | 30 May 43 BC | letters | Ad Familiares 10.35 | pending |
-| 913 | 1 June 43 BC | letters | Ad Familiares 10.17 | pending |
-| 914 | 1 June 43 BC | letters | Ad Familiares 11.18 | pending |
-| 915 | 1 June 43 BC | letters | Ad Familiares 12.14 | pending |
-| 916 | 3 June 43 BC | letters | Ad Familiares 11.26 | pending |
-| 917 | 4 June 43 BC | letters | Ad Familiares 11.21 | pending |
-| 918 | 5 June 43 BC | letters | Ad Familiares 12.15 | pending |
-| 919 | 6 June 43 BC | letters | Ad Familiares 10.23 | pending |
-| 920 | 6 June 43 BC | letters | Ad Familiares 11.24 | pending |
-| 921 | 8 June 43 BC | letters | Ad Familiares 10.32 | pending |
-| 922 | 9 June 43 BC | letters | Ad Familiares 12.8 | pending |
-| 923 | 9 June 43 BC | letters | Ad Familiares 12.30 | pending |
-| 924 | 13 June 43 BC | letters | Ad M. Brutum 1.8 | pending |
-| 925 | 13 June 43 BC | letters | Ad Familiares 10.33 | pending |
-| 926 | 13 June 43 BC | letters | Ad Familiares 12.13 | pending |
-| 927 | June 43 BC | letters | Ad M. Brutum 1.11 | pending |
-| 928 | 43 BC | letters | Ad M. Brutum 1.1 | pending |
-| 929 | 18 June 43 BC | letters | Ad Familiares 11.25 | pending |
-| 930 | 23 June 43 BC | letters | Ad M. Brutum 1.7 | pending |
-| 931 | 43 BC | letters | Ad Familiares 12.29 | pending |
-| 932 | 29 June 43 BC | letters | Ad Familiares 10.22 | pending |
-| 933 | 29 June 43 BC | letters | Ad Familiares 10.26 | pending |
-| 934 | 29 June 43 BC | letters | Ad Familiares 11.15 | pending |
-| 935 | 29 June 43 BC | letters | Ad Familiares 12.9 | pending |
-| 936 | 1 July 43 BC | letters | Ad M. Brutum 1.13 | pending |
-| 937 | 43 BC | letters | Ad M. Brutum 1.16 | pending |
-| 938 | 43 BC | letters | Ad M. Brutum 2.6 | pending |
-| 939 | 43 BC | letters | Ad M. Brutum 2.7 | pending |
-| 940 | 43 BC | letters | Ad M. Brutum 2.8 | pending |
-| 941 | 43 BC | letters | Ad Familiares 11.8 | pending |
-| 942 | 43 BC | letters | Ad Familiares 11.17 | pending |
-| 943 | 43 BC | letters | Ad Familiares 11.28 | pending |
-| 944 | 1 July 43 BC | letters | Ad Familiares 12.10 | pending |
-| 945 | 6 July 43 BC | letters | Ad Familiares 10.29 | pending |
-| 946 | 11 July 43 BC | letters | Ad M. Brutum 1.14 | pending |
-| 947 | 14 July 43 BC | letters | Ad Familiares 11.22 | pending |
-| 948 | July 43 BC | letters | Ad M. Brutum 1.10 | pending |
-| 949 | July 43 BC | letters | Ad M. Brutum 1.12 | pending |
-| 950 | 15 July 43 BC | letters | Ad Familiares 11.16 | pending |
-| 951 | 28 July 43 BC | letters | Ad Familiares 10.24 | pending |
-| 952 | 43 BC | letters | Ad M. Brutum 1.15 | pending |
-| 953 | 43 BC | letters | Ad Familiares 12.7 | pending |
-| 954 | 43 BC | letters | Ad Familiares 10.15 | pending |
-| 955 | 43 BC | letters | Ad M. Brutum 1.4 | pending |
-| 956 | 43 BC | letters | Ad M. Brutum 1.17 | pending |
-| 957 | 43 BC | letters | Ad M. Brutum 1.18 | pending |
-| 958 | 5 BC | letters | Ad Familiares 13.9 | pending |
+| 862 | 5 February 43 BC | letters | Ad Familiares 12.5 | drafted |
+| 863 | February 43 BC | letters | Ad Familiares 9.24 | drafted |
+| 864 | March 43 BC | speeches | Eleventh Philippic | pending |
+| 865 | March 43 BC | speeches | Twelfth Philippic | pending |
+| 866 | 7 March 43 BC | letters | Ad Familiares 12.7 | drafted |
+| 867 | 7 March 43 BC | letters | Ad Familiares 12.11 | drafted |
+| 868 | March 43 BC | letters | Ad Familiares 10.7 | drafted |
+| 869 | 16 March 43 BC | letters | Ad Familiares 10.31 | drafted |
+| 870 | March 43 BC | letters | Ad Familiares 10.8 | drafted |
+| 871 | 19 March 43 BC | letters | Ad Familiares 12.25 | drafted |
+| 872 | 20 March 43 BC | letters | Ad Familiares 10.6 | drafted |
+| 873 | 20 March 43 BC | letters | Ad Familiares 10.27 | drafted |
+| 874 | 20 March 43 BC | speeches | Thirteenth Philippic | pending |
+| 875 | 22 March 43 BC | letters | Ad Familiares 12.28 | drafted |
+| 876 | 43 BC | letters | Ad Familiares 12.26 | drafted |
+| 877 | 30 March 43 BC | letters | Ad Familiares 10.10 | drafted |
+| 878 | 1 April 43 BC | letters | Ad M. Brutum 2.3 | drafted |
+| 879 | 7 April 43 BC | letters | Ad Familiares 12.6 | drafted |
+| 880 | 11 April 43 BC | letters | Ad M. Brutum 2.2 | drafted |
+| 881 | 11 April 43 BC | letters | Ad Familiares 10.12 | drafted |
+| 882 | 12 April 43 BC | letters | Ad M. Brutum 2.4 | drafted |
+| 883 | 13 April 43 BC | letters | Ad M. Brutum 1.1 | drafted |
+| 884 | 13 April 43 BC | letters | Ad M. Brutum 2.1 | drafted |
+| 885 | 14 April 43 BC | letters | Ad M. Brutum 2.5 | drafted |
+| 886 | April 43 BC | letters | Ad Familiares 10.11 | drafted |
+| 887 | 15 April 43 BC | letters | Ad Familiares 10.30 | drafted |
+| 888 | 21 April 43 BC | letters | Ad M. Brutum 1.3 | drafted |
+| 889 | 21 April 43 BC | speeches | Philippica XIV | pending |
+| 890 | 43 BC | letters | Ad Familiares 12.27 | drafted |
+| 891 | 27 April 43 BC | letters | Ad Familiares 10.9 | drafted |
+| 892 | 29 April 43 BC | letters | Ad Familiares 11.9 | drafted |
+| 893 | 5 May 43 BC | letters | Ad M. Brutum 1.5 | drafted |
+| 894 | 5 May 43 BC | letters | Ad Familiares 10.14 | drafted |
+| 895 | 5 May 43 BC | letters | Ad Familiares 11.10 | drafted |
+| 896 | 6 May 43 BC | letters | Ad Familiares 11.11 | drafted |
+| 897 | 7 May 43 BC | letters | Ad Familiares 12.12 | drafted |
+| 898 | 11 May 43 BC | letters | Ad Familiares 10.13 | drafted |
+| 899 | 12 May 43 BC | letters | Ad Familiares 11.13 | drafted |
+| 900 | 13 May 43 BC | letters | Ad M. Brutum 1.4 | drafted |
+| 901 | 13 May 43 BC | letters | Ad Familiares 10.15 | drafted |
+| 902 | 13 May 43 BC | letters | Ad Familiares 11.12 | drafted |
+| 903 | May 43 BC | letters | Ad M. Brutum 1.2 | drafted |
+| 904 | May 43 BC | letters | Ad M. Brutum 1.17 | drafted |
+| 905 | 15 May 43 BC | letters | Ad Familiares 10.21 | drafted |
+| 906 | 18 May 43 BC | letters | Ad Familiares 10.18 | drafted |
+| 907 | 18 May 43 BC | letters | Ad Familiares 10.34 | drafted |
+| 908 | 19 May 43 BC | letters | Ad M. Brutum 1.6 | drafted |
+| 909 | 19 May 43 BC | letters | Ad Familiares 10.17 | drafted |
+| 910 | 21 May 43 BC | letters | Ad Familiares 11.19 | drafted |
+| 911 | 24 May 43 BC | letters | Ad Familiares 11.20 | drafted |
+| 912 | 25 May 43 BC | letters | Ad Familiares 11.23 | drafted |
+| 913 | 26 May 43 BC | letters | Ad Familiares 10.19 | drafted |
+| 914 | 26 May 43 BC | letters | Ad Familiares 10.25 | drafted |
+| 915 | May 43 BC | letters | Ad Familiares 10.16 | drafted |
+| 916 | 29 May 43 BC | letters | Ad Familiares 10.20 | drafted |
+| 917 | 29 May 43 BC | letters | Ad Familiares 11.14 | drafted |
+| 918 | 29 May 43 BC | letters | Ad Familiares 12.14 | drafted |
+| 919 | 30 May 43 BC | letters | Ad Familiares 10.35 | drafted |
+| 920 | June 43 BC | letters | Ad Familiares 10.33 | drafted |
+| 921 | 1 June 43 BC | letters | Ad Familiares 11.18 | drafted |
+| 922 | 2 June 43 BC | letters | Ad Familiares 12.15 | drafted |
+| 923 | 3 June 43 BC | letters | Ad Familiares 11.26 | drafted |
+| 924 | 4 June 43 BC | letters | Ad Familiares 11.21 | drafted |
+| 925 | 6 June 43 BC | letters | Ad Familiares 10.23 | drafted |
+| 926 | 6 June 43 BC | letters | Ad Familiares 11.24 | drafted |
+| 927 | 8 June 43 BC | letters | Ad Familiares 10.32 | drafted |
+| 928 | 9 June 43 BC | letters | Ad Familiares 12.8 | drafted |
+| 929 | 9 June 43 BC | letters | Ad Familiares 12.30 | drafted |
+| 930 | 13 June 43 BC | letters | Ad M. Brutum 1.8 | drafted |
+| 931 | 13 June 43 BC | letters | Ad Familiares 12.13 | drafted |
+| 932 | June 43 BC | letters | Ad M. Brutum 1.11 | drafted |
+| 933 | 18 June 43 BC | letters | Ad Familiares 11.25 | drafted |
+| 934 | 23 June 43 BC | letters | Ad M. Brutum 1.7 | drafted |
+| 935 | 43 BC | letters | Ad Familiares 12.29 | drafted |
+| 936 | 29 June 43 BC | letters | Ad Familiares 10.22 | drafted |
+| 937 | June 43 BC | letters | Ad Familiares 10.26 | drafted |
+| 938 | 29 June 43 BC | letters | Ad Familiares 11.15 | drafted |
+| 939 | 29 June 43 BC | letters | Ad Familiares 12.9 | drafted |
+| 940 | July 43 BC | letters | Ad M. Brutum 1.9 | drafted |
+| 941 | 1 July 43 BC | letters | Ad M. Brutum 1.13 | drafted |
+| 942 | 43 BC | letters | Ad M. Brutum 1.16 | pending |
+| 943 | 43 BC | letters | Ad M. Brutum 2.6 | pending |
+| 944 | 43 BC | letters | Ad M. Brutum 2.7 | pending |
+| 945 | 43 BC | letters | Ad M. Brutum 2.8 | pending |
+| 946 | 43 BC | letters | Ad Familiares 11.8 | pending |
+| 947 | 43 BC | letters | Ad Familiares 11.17 | pending |
+| 948 | 43 BC | letters | Ad Familiares 11.28 | pending |
+| 949 | 1 July 43 BC | letters | Ad Familiares 12.10 | drafted |
+| 950 | 6 July 43 BC | letters | Ad Familiares 10.29 | drafted |
+| 951 | 11 July 43 BC | letters | Ad M. Brutum 1.14 | drafted |
+| 952 | 14 July 43 BC | letters | Ad M. Brutum 1.15 | drafted |
+| 953 | 14 July 43 BC | letters | Ad Familiares 11.22 | drafted |
+| 954 | July 43 BC | letters | Ad M. Brutum 1.10 | drafted |
+| 955 | July 43 BC | letters | Ad M. Brutum 1.12 | drafted |
+| 956 | 15 July 43 BC | letters | Ad Familiares 11.16 | drafted |
+| 957 | 27 July 43 BC | letters | Ad M. Brutum 1.18 | drafted |
+| 958 | 28 July 43 BC | letters | Ad Familiares 10.24 | drafted |
 

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-07",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.7",
+  "title_english": "Ad M. Brutum 1.7",
+  "date": "-0043-06-23",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "L. Bibulus quam carus mihi esse debeat, nemo melius iudicare potest quam tu cuius tantae pro re publica contentiones sollicitudinesque fuerunt. itaque vel ipsius virtus vel nostra necessitudo debet conciliare te illi. quo minus multa mihi scribenda esse arbitror. voluntas enim te movere debet nostra, si modo iusta est aut pro officio necessario suscipitur. is Pansae locum petere constituit. eam nominationem a te petimus. neque coniunctiori dare beneficium quam nos tibi sumus neque digniorem nominare potes quam Bibulum.",
+      "eng": "How dear L. Bibulus ought to be to me, no one can judge better than you, whose exertions and anxieties on behalf of the state have been so great. Either his own merit, then, or our family connection ought to commend him to you. Which is why I think there is no need for me to write at length. My wish ought to move you, if only it is just, or undertaken out of a duty that cannot be shirked. He has decided to stand for Pansa's place. That nomination we ask of you. You can confer a kindness on no one more closely bound to us than I am to you; and you can nominate no one more worthy than Bibulus.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "de Domitio et Apuleio quid attinet me scribere, cum ipsi per se tibi commendatissimi sint? Apuleium vero tu tua auctoritate sustinere debes. sed Apuleius in sua epistula celebrabitur. Bibulum noli dimittere e sinu tuo, tantum iam virum ex quanto, crede mihi, potest evadere qui vestris paucorum respondeat laudibus.",
+      "eng": "About Domitius and Apuleius, what is the point of my writing, when they commend themselves to you on their own account? Apuleius, indeed, you ought to support with your full authority. But Apuleius shall be celebrated in a letter of his own. As for Bibulus, do not let him go from your bosom --- already so great a man, and from such a beginning, that, believe me, he can grow up to answer to the praises of you few.",
+      "notes": null
+    }
+  ]
+}

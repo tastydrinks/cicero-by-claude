@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-11",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.11",
+  "title_english": "Ad M. Brutum 1.11",
+  "date": "-0043-06-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "veteris Antisti talis animus est in rem publicam ut non dubitem quin et in Caesare et in Antonio se praestaturus fuerit acerrimum propugnatorem communis libertatis, si occasioni potuisset occurrere. nam qui in Achaia congressus cum Dolabella milites atque equites habente quodvis adire periculum ex insidiis paratissimi ad omnia latronis maluerit quam videri aut coactus esse pecuniam dare aut libenter dedisse homini nequissimo atque improbissimo, is nobis ultro et pollicitus est et dedit HS xx ex sua pecunia et, quod multo carius est, se ipsum obtulit et coniunxit.",
+      "eng": "Veteran Antistius's spirit towards the commonwealth is such that I have no doubt he would have shown himself the most resolute champion of our common liberty, both against Caesar and against Antony, had he been able to meet the chance. For the man who, falling in with Dolabella in Achaia --- Dolabella with soldiers and cavalry --- chose rather to run any risk you please from the ambushes of a brigand fully equipped for every outrage than to seem either to have been forced into giving him money or to have given it willingly to a most worthless and unprincipled man: that man has, of his own motion, both promised and given us twenty thousand sesterces out of his own purse, and --- what is far more precious --- has offered and joined himself to us in person.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "huic persuadere cupimus, ut imperator in castris remaneret remque publicam defenderet. statuit id sibi * *, quoniam exercitum dimisisset. statim vero rediturum ad nos confirmavit legatione suscepta, nisi praetorum comitia habituri essent consules. nam illi ita sentienti de re publica magno opere auctor fui ne differret tempus petitionis suae. cuius factum omnibus gratum esse debet qui modo iudicarint hunc exercitum esse utilem rei publicae, tibi tanto gratius quanto maiore et animo gloriaque libertatem nostram defendis et dignitate, si contigerit nostris consiliis exitus quem optamus, perfuncturus es. ego etiam, mi Cicero, proprie familiariterque te rogo ut veterem ames velisque esse quam amplissimum; qui etsi nulla re deterreri a proposito potest, tamen excitari tuis laudibus indulgentiaque potent quo magis amplexetur ac tueatur iudicium suum. id mihi gratissimum erit.",
+      "eng": "I am eager to persuade him to remain in the camp as commander and to defend the commonwealth. He has decided that this is * *, since he had dismissed his army. But he assured me that he would return to us at once, once he had taken up his embassy, unless the consuls were going to hold the praetorian comitia. For when he was of this mind about the commonwealth, I strongly urged him not to put off the time of his standing for office. The action of a man like this ought to be welcome to all who only judge this army of ours useful to the commonwealth; to you so much the more welcome, as it is with the greater spirit and glory that you defend our liberty, and as it is with greater standing that you will discharge it --- if the issue we desire is granted to our counsels. I beg you too, my Cicero, personally and as a friend, to be fond of the veteran and to wish him as great a place as may be; for although he can be deterred by nothing from his resolve, still he can be stirred by your praises and your kindness to embrace and defend his own judgement more strongly. That will be most welcome to me.",
+      "notes": null
+    }
+  ]
+}

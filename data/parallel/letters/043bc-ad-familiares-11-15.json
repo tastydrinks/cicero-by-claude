@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-15",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.15",
+  "title_english": "Ad Familiares 11.15",
+  "date": "-0043-06-29",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "etsi mihi tuae litterae iucundissimae sunt, tamen iucundius fuit, quod in summa occupatione tua Planco conlegae mandasti ut te mihi per litteras excusaret; quod fecit ille diligenter. mihi autem nihil amabilius officio tuo et diligentia. coniunctio tua cum conlega concordiaque vestra, quae litteris communibus declarata est, senatui populoque Romano gratissima accidit.",
+      "eng": "Welcome as your letter was to me, more welcome still was the fact that, in the midst of your great preoccupation, you charged your colleague Plancus to excuse you to me by letter --- which he did punctiliously. To me there is nothing more lovable than this attentiveness of yours, this carefulness. Your union with your colleague, and the harmony between you that has been made plain in your joint dispatches, has been most gratifying to the Senate and the Roman people.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod superest, perge, mi Brute, et iam non cum aliis sed tecum ipse certa. plura scribere non debeo, praesertim ad te, quo magistro brevitatis uti cogito. Litteras tuas vehementer exspecto, et quidem talis qualis maxime opto. vale . .",
+      "eng": "For the rest --- press on, my Brutus, and from here out contend not with others but with yourself. I ought not to write more, particularly to you, whom I have in mind to take as my master in brevity. I am looking out keenly for a letter from you, and one of just the kind I most hope for. Farewell.",
+      "notes": null
+    }
+  ]
+}

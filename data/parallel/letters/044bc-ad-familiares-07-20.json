@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-20",
+  "category": "letters",
+  "title_latin": "Ad Familiares 7.20",
+  "title_english": "Ad Familiares 7.20",
+  "date": "-0044-07-20",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "amabilior mihi Velia fuit, quod te ab ea sensi amari. sed quid ego dicam 'te,' quem quis non amat? rufio medius fidius tuus ita desiderabatur ut si esset unus e nobis. sed te ego non reprehendo qui illum ad aedificationem tuam traduxeris. quamquam enim Velia non est vilior quam Lupercal, tamen istuc malo quam haec omnia. tu si me audies, quem soles, has paternas possessiones tenebis (nescio quid enim Velienses verebantur) neque Haletem, nobilem amnem, relinques nec Papirianam domum deseres; quamquam illa quidem habet lotum, a quo etiam advenae teneri solent; quem tamen si excideris, multum prospexeris.",
+      "eng": "Velia was the dearer to me because I felt how dear you are to it. But why do I say ``you,'' whom does not love? Your Rufio, by Hercules, was missed as much as if he were one of ourselves. Still, I do not fault you for hauling him off to your building project. For though Velia is no cheaper than the Lupercal, I still prefer where you are to all this here. If you take my advice --- which you usually do --- you will hold on to these paternal properties (the Velians were worried about something or other), and you will not leave the Halaes, that noble river, nor desert the Papirian house --- though that house, to be sure, has a lotus by which even strangers are commonly held captive; and yet if you cut it down, you will both see further and have shown foresight.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed in primis opportunum videtur, his praesertim temporibus, habere perfugium primum eorum urbem quibus carus sis, deinde tuam domum tuosque agros, eaque remoto, salubri, amoeno loco; idque etiam mea interesse, mi Trebati, arbitror. sed valebis meaque negotia videbis meque dis iuvantibus ante brumam exspectabis.",
+      "eng": "But this above all looks well-judged, particularly in times like these: to have a place of refuge --- first, a town where you are held dear, then your own house and your own lands, and those in a remote, healthy, agreeable spot. And I think this concerns me too, my Trebatius. But farewell. Look after my affairs, and, with the gods' help, expect me back before midwinter.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ego a Sex. Fadio, Niconis discipulo, librum abstuli *ni/kwnos peri\\ *polufagi/as . O medicum suavem meque docilem ad hanc disciplinam! sed Bassus noster me de hoc libro celavit, te quidem non videtur. ventus increbrescit. cura ut valeas. xiii K. Sext. Velia.",
+      "eng": "I have carried off from Sex. Fadius, Nico's pupil, a book of Nico's On Overeating [Greek: Nikōnos peri polyphagias]. What a delightful doctor --- and how teachable I prove in this discipline! But our friend Bassus kept this book hidden from me --- though apparently not from you. The wind is rising. Take care of yourself. The thirteenth day before the Kalends of Sextilis. Velia.",
+      "notes": null
+    }
+  ]
+}

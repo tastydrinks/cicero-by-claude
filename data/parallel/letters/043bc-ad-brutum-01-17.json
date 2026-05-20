@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-17",
+  "category": "letters",
+  "title_latin": "Ad M. Brutum 1.17",
+  "title_english": "Ad M. Brutum 1.17",
+  "date": "-0043-05-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "scribis mihi mirari Ciceronem quod nihil significem umquam de suis actis. quoniam me flagitas, coactu tuo scribam quae sentio. omnia fecisse Ciceronem optimo animo scio; quid enim mihi exploratius esse potest quam illius animus in rem publicam? sed quaedam mihi videtur— quid dicam? imperite vir omnium prudentissimus an ambitiose fecisse qui valentissimum Antonium suscipere pro re publica non dubitarit inimicum. nescio quid scribam tibi nisi unum, pueri et cupiditatem et licentiam potius esse inritatam quam repressam a Cicerone, tantumque eum tribuere huic indulgentiae ut se maledictis non abstineat iis quidem quae in ipsum dupliciter recidunt, quod et pluris occidit uno seque prius oportet fateatur sicarium quam obiciat Cascae quod obicit et imitatur in Casca Bestiam. an quia non omnibus horis iactamus Idus Martias similiter atque ille Nonas Decembris suas in ore habet, eo meliore condicione Cicero pulcherrimum factum vituperabit quam Bestia et Clodius reprehendere illius consulatum soliti sunt?",
+      "eng": "You write that Cicero wonders why I never give any sign of my opinion of his doings. Since you press me, I shall write, under your compulsion, what I really think. I know Cicero has done everything with the best of intentions; for what can be more certain to me than his disposition toward the state? But he seems to me, in certain respects --- how shall I put it? --- to have acted, the most prudent of all men, either unskilfully, or out of ambition: a man who has not hesitated to take up Antony, in his full strength, as an enemy on behalf of the state. I do not know what to write you, except this: that the young man's greed and licence have been excited by Cicero rather than checked, and that Cicero indulges him so far that he does not refrain from insults --- insults which, indeed, fall back on Cicero's own head two ways over, because he killed more than one man and must confess himself an assassin first before he can fling the charge at Casca, and because in the matter of Casca he is imitating Bestia. Is it because we do not boast of the Ides of March at every hour --- as he has the Nones of December always on his tongue --- that Cicero shall be in a stronger position to vituperate the noblest deed of all than Bestia and Clodius were to reproach his consulship?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sustinuisse mihi gloriatur bellum Antoni togatus Cicero noster! quid hoc mihi prodest, si merces Antoni oppressi poscitur in Antoni locum successio et si vindex illius mali auctor exstitit alterius fundamentum et radices habituri altiores, si patiamur? ut iam ista quae facit dominationem an dominum an Antonium timentis sint. ego autem gratiam non habeo si quis, dum ne irato serviat, rem ipsam non deprecatur. immo triumphus et stipendium et omnibus decretis hortatio ne eius pudeat concupiscere fortunam cuius nomen susceperit, consularis aut Ciceronis est?",
+      "eng": "Our Cicero boasts to me that, civilian and in the toga, he has held off Antony's war! What good is this to me, if the reward demanded for Antony's defeat is that another should succeed to Antony's place, and if the avenger of one evil has stood forth as the author of another, due to have deeper foundations and roots, if we let it happen? --- so that even those actions of his now might be the acts of a man fearing dictatorship, or a dictator, or Antony. I, however, owe no gratitude to a man who, only that he may not serve a master in anger, does not pray to be spared the thing itself. On the contrary: a triumph, and pay, and exhortation in every decree not to be ashamed of coveting the fortune of the man whose name he has taken up --- is that the conduct of a consular, or of Cicero?",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "quoniam mihi tacere non licuit, leges quae tibi necesse est molesta esse. etenim ipse sentio quanto cum dolore haec ad te scripserim, nec ignoro quid sentias in re publica et quam desperatam quoque sanari putes posse. nec me hercule te, Attice, reprehendo. aetas enim, mores, liberi segnem efficiunt; quod quidem etiam ex Flayio nostro perspexi.",
+      "eng": "Since I have not been allowed to keep silent, you will read what is bound to be painful to you. For I myself am conscious how much grief I have written this to you with, and I am not ignorant of what you feel about the state, and of how, even though you think it desperate, you think it could still be cured. And by Hercules, Atticus, I am not blaming you. For your years, your habits, your children, make you slow to act --- a thing I have observed in our Flavius as well.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "sed redeo ad Ciceronem. quid inter Salvidienum et eum interest? quid autem amplius ille decerneret? timet , inquis, etiam nunc reliquias belli civilis. quisquam ergo ita timet profligatum ut neque potentiam eius qui exercitum victorem habeat neque temeritatem pueri putet extimescendam esse? an hoc ipsum ea re facit, quod illi propter amplitudinem omnia iam ultroque deferenda putat? 0 magnam stultitiam timoris, id ipsum quod verearis ita cavere ut, cum vitare fortasse potueris, ultro arcessas et attrahas. nimium timemus mortem et exsilium et paupertatem. haec nimirum videntur Ciceroni ultima esse in malis et, dum habeat a quibus impetret quae velit et a quibus colatur ac laudetur, servitutem, honorificam modo, non aspernatur, si quicquam in extrema ac miserrima contumelia potest honorificum esse.",
+      "eng": "But I return to Cicero. What is the difference between him and Salvidienus? What more, indeed, would the latter have decreed? But he is afraid --- you will say --- even now of the remnants of civil war. Is there anyone, then, so afraid of an enemy beaten down that he thinks one need fear neither the power of a man who has a victorious army at his back, nor the temerity of a boy? Or is this very thing his reason for acting so --- because, on account of the boy's eminence, he thinks everything must now be conferred on him, and conferred of one's own accord? O the great folly of fear, to take such care against the very thing one is afraid of that, when one might perhaps have avoided it, one drags it down on one's own head! We are too afraid of death and of exile and of poverty. These things, I have no doubt, seem to Cicero the worst of evils; and, so long as he has those from whom he can extort what he wants, and those by whom he can be courted and praised, he does not spurn slavery --- so long as it is honorific --- if there can be anything honorific in the extremest and most wretched humiliation.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "licet ergo patrem appellet Octavius Ciceronem, referat omnia, laudet, gratias agat, tamen illud apparebit verba rebus esse contraria. quid enim tam alienum ab humanis sensibus est quam eum patris habere loco qui ne liberi quidem hominis numero sit? atqui co tendit, id agit, ad eum exitum properat vir optimus ut sit illi Octavius propitius. ego vero iam iis artibus nihil tribuo quibus Ciceronem scio instructissimum esse. quid enim illi prosunt quae pro libertate patriae, de dignitate, quae de morte, exsilio, paupertate scripsit copiosissime? quanto autem magis illa callere videtur Philippus qui privigno minus tribuerit quam Cicero qui alieno tribuat! desinat igitur gloriando etiam insectari dolores nostros. quid enim nostra victum esse Antonium, si victus est ut alii vacaret quod ille obtinuit?",
+      "eng": "Let Octavius, then, call Cicero father, refer everything to him, praise him, give him thanks: nevertheless it will be plain that his words are at odds with the facts. For what is more foreign to human feeling than to hold in place of a father the man who is not even reckoned among free men? And yet that is the way the best of men is heading, that is what he is at, that is the end to which he hastens --- to make Octavius gracious to him. I, for my part, no longer assign any value to the arts in which I know Cicero is most thoroughly equipped. What good are those things to him --- all the rich things he has written for the liberty of his country, on dignity, on death, on exile, on poverty? How much better Philippus seems to understand them, who has granted less to a stepson than Cicero is granting to a stranger! Let him then cease, by his boasting, to harass our griefs as well. For what is it to us that Antony has been beaten, if he has been beaten only that the place he held should be free for another?",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "tametsi tuae litterae dubia etiam nunc significant. vivat hercule Cicero, qui potest, supplex et obnoxius, si neque aetatis neque honorum neque rerum gestarum pudet; ego certe quin cum ipsa re bellum geram, hoc est cum regno et imperiis extraordinariis et dominatione et potentia quae supra leges se esse velit, nulla erit tam bona condicio serviendi qua deterrear, quamvis sit vir bonus, ut scribis, †Antonius†; quod ego numquam existimavi. sed dominum ne parentem quidem maiores nostri voluerunt esse. te nisi tantum amarem quantum Ciceroni persuasum est diligi ab Octavio, haec ad te non scripsissem. dolet mihi quod tu nunc stomacharis amantissimus cum tuorum omnium tum Ciceronis; sed persuade tibi de voluntate propria mea nihil esse remissum, de iudicio largiter. neque enim impetrari potest quin quale quidque videatur ei talem quisque de illo opinionem habeat.",
+      "eng": "And yet your letter even now hints that the matter is in doubt. Then by Hercules, let Cicero live, since he can, on his knees, in his servitude, if he is not ashamed of his age, his honours, his record of deeds; I, for my part, will surely wage war against the thing itself --- that is, against monarchy and against extraordinary commands and against domination and against any power that wills itself to be above the laws --- and no terms of slavery, however favourable, will deter me, even though Antony be, as you write, a good man †---†; which I have never thought him to be. But that there should be a master, our ancestors did not wish even of a parent. If I did not love you as much as Cicero is convinced he is loved by Octavius, I should not have written this to you. It grieves me that you are now distressed --- you, the most loving of friends both to all your own and to Cicero. But persuade yourself that, as to my personal goodwill, nothing has been remitted; as to my judgement, much has. For it cannot be brought about that, of a thing he sees in one way, a man should not hold a corresponding opinion.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "vellem mihi scripsisses quae condiciones essent Atticae nostrae; potuissem aliquid tibi de meo sensu perscribere. valetudinem Porciae meae tibi curae esse non miror. denique quod petis faciam libenter; nam etiam sorores me rogant. et hominem noro et quid sibi voluerit.",
+      "eng": "I could wish you had written me what terms have been arranged for our Attica; I could have written you something of my own feeling. That you are concerned for the health of my Porcia, I do not wonder. Finally, what you ask, I shall do gladly; for my sisters too ask it of me. And I know the man, and I know what he was after.",
+      "notes": null
+    }
+  ]
+}

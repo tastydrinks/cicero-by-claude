@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-03",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.3",
+  "title_english": "Ad Familiares 12.3",
+  "date": "-0044-10-06",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "auget tuus amicus furorem in dies. primum in statua quam posuit in rostris inscripsit 'PARENTI OPTIME MERITO,' ut non modo sicarii sed iam etiam parricidae iudicemini, quid dico 'iudicemini'? iudicemur potius ; vestri enim pulcherrimi facti ille furiosus me principem dicit fuisse. utinam quidem fuissem! molestus nobis non esset. sed hoc vestrum est ; quod quoniam praeteriit, utinam haberem quid vobis darem consili! sed ne mihi quidem ipsi reperio quid faciendum sit. quid enim est quod contra vim sine vi fieri possit?",
+      "eng": "Your friend's frenzy mounts by the day. To begin with, on the statue he set up on the Rostra he inscribed ``TO A PARENT MOST WELL-DESERVING'' --- so that you are now to be judged not merely assassins but actually parricides. Why do I say ``you''? ``We,'' rather; for that maniac says that I was the ringleader of your most splendid deed. Would that I had been! He would not now be a nuisance to us. But that exploit is yours; and since it is past, would that I had something to give you by way of advice! But I cannot even find for myself what is to be done. For what is there that can be done against violence without violence?",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "consilium omne autem hoc est illorum, ut mortem Caesaris persequantur. itaque ante diem vi Non. Oct. productus in contionem a Cannutio turpissime ille quidem discessit, sed tamen ea dixit de conservatoribus patriae quae dici deberent de proditoribus ; de me quidem non dubitanter quin omnia de meo consilio et vos fecissetis et Cannutius faceret. cetera cuius modi sint ex hoc iudica quod legato tuo viaticum eripuerunt. quid eos interpretari putas, cum hoc faciunt? ad hostem scilicet portari. O rem miseram! dominum ferre non potuimus, conservo servimus. et tamen me quidem favente magis quam sperante etiam nunc residet spes in virtute tua. sed ubi sunt copiae? de reliquo malo te ipsum tecum loqui quam nostra dicta cognoscere. vale .",
+      "eng": "The whole plan of that party is to avenge Caesar's death. And so, on the sixth day before the Nones of October, when he was brought before a public meeting by Cannutius, he came off most shamefully indeed, but for all that he said about the saviors of their country what ought to be said of traitors --- about me, he said without hesitation that you had done all by my counsel and that Cannutius was acting on it now. What the rest of their conduct is like, judge from this: they have stripped your envoy of his travel-money. What do you suppose their construction is, when they do this? That it is being carried to a public enemy, of course. What a wretched business! We could not bear a master; we are slaves to a fellow-slave. And yet, with my favor rather than my hope, hope still rests even now in your courage. But where are the troops? As to the rest, I would rather you talked it over with yourself than learn my views. Farewell.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-04",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.4",
+  "title_english": "Ad Familiares 11.4",
+  "date": "-0044-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "si de tua in me voluntate dubitarem, multis a te verbis peterem ut dignitatem meam tuerere, sed profecto est ita ut mihi persuasi, me tibi esse curae. progressus sum ad Inalpinos cum exercitu non tam nomen imperatorium captans quam cupiens militibus satis facere firmosque eos ad tuendas nostras res efficere ;",
+      "eng": "If I had any doubt of your goodwill towards me, I would be asking you in many words to protect my standing; but surely it is, as I have convinced myself, that I am a care to you. I have advanced against the Alpine tribes with the army, not so much chasing the title of imperator as wanting to do enough for the soldiers and to make them firm for the defence of our interests;",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod mihi videor consecutus ; nam et liberalitatem nostram et animum sunt experti. Cum omnium bellicosissimis bellum gessi ; multa castella cepi, multa vastavi. non sine causa ad senatum litteras misi. adiuva nos tua sententia ; quod cum facies, ex magna parte communi commodo inservieris.",
+      "eng": "which I think I have achieved; for they have had proof both of our liberality and of our spirit. I have waged war with the most warlike of all peoples; I have taken many strongholds, I have laid waste to many. Not without cause have I sent dispatches to the Senate. Assist us with your vote; when you do so, you will to a great extent have served the common good.",
+      "notes": null
+    }
+  ]
+}

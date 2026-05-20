@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-08",
+  "category": "letters",
+  "title_latin": "Ad Familiares 13.8",
+  "title_english": "Ad Familiares 13.8",
+  "date": "-0045-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Cum et mihi conscius essem quanti te facerem et tuam erga me benevolentiam expertus essem, non dubitavi a te petere, quod mihi petendum esset. P. Sestium quanti faciam ipse optime scio, quanti autem facere debeam et tu et omnes homines sciunt. is cum ex aliis te mei studiosissimum esse cognosset, petivit a me ut ad te quam accuratissime scriberem de re C. Albini senatoris, cuius ex filia natus est L. Sestius, optimus adulescens, filius P. Sesti. hoc idcirco scripsi, ut intellegeres non solum me pro P. Sestio laborare debere, sed Sestium etiam pro Albinio.",
+      "eng": "Since I was conscious to myself how much I value you, and had had proof of your goodwill towards me, I had no hesitation in asking of you what I had to ask. How much I value P. Sestius I myself know best; how much I owe to value him, you, and indeed everyone, knows. He, having learned from others that you are most warmly devoted to me, asked of me that I should write to you, with all possible care, about the case of the senator C. Albinius. From Albinius's daughter is sprung L. Sestius --- a young man of the finest character, the son of P. Sestius. I have set this out so that you may grasp that not only ought I to labour on P. Sestius's behalf, but Sestius too on Albinius's.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "res 'autem est haec : A M. Laberio C. Albinius praedia in aestimationem accepit, quae praedia Laberius emerat a Caesare de bonis Plotianis. ea si dicam non esse e re p. dividi, docere te videar, non rogare. sed tamen cum Caesar Sullanas venditiones et adsignationes ratas esse velit, quo firmiores existimentur suae, si ea praedia dividentur quae ipse Caesar vendidit, quae tandem in eius venditionibus esse poterit auctoritas? sed hoc quale sit tu pro tua prudentia considerabis.",
+      "eng": "The matter stands thus. C. Albinius took at valuation, from M. Laberius, certain estates which Laberius had bought from Caesar out of the property of the Plotii. If I were to argue that it is not in the interest of the commonwealth that these be divided up, I should seem to be lecturing you, not asking. Yet since Caesar wishes the Sullan sales and assignations to stand --- so that the firmer his own may be reckoned --- if estates that Caesar himself has sold are now to be divided up, what authority, pray, can there be left in his own sales? But what stands behind this point, you, in your good judgement, will weigh for yourself.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "ego te plane rogo atque ita, ut maiore studio, iustiore de causa, magis ex animo rogare nihil possim, ut Albinio parcas, praedia Laberiana ne attingas. Magna me adfeceris non modo laetitia, sed etiam quodam modo gloria, si P. Sestius homini maxime necessario satis fecerit per me, ut ego illi uni plurimum debeo. quod ut facias te vehementer etiam atque etiam rogo. Maius mihi dare beneficium nullum potes ; id mihi intelleges esse gratissimum.",
+      "eng": "I ask you plainly --- and with such warmth that I could not ask anything with greater zeal, on juster grounds, or more from the heart --- that you spare Albinius and lay no hand on the Laberian estates. You will have given me great cause, not merely for gladness, but in a way for glory itself, if through me P. Sestius makes good with a man bound to him by the closest of ties, in the way that I, for my own part, owe most to Sestius alone. That you may do this, I ask of you again and again, urgently. No greater service can you do me; and you will see it has been most welcome.",
+      "notes": null
+    }
+  ]
+}

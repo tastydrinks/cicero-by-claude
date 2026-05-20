@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-34",
+  "category": "letters",
+  "title_latin": "Ad Familiares 10.34",
+  "title_english": "Ad Familiares 10.34",
+  "date": "-0043-05-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "S. v. b. e. e. v. Cum audissem M. Antonium cum suis copiis praemisso L. Antonio cum parte equitatus in provinciam meam venire, cum exercitu meo ab confluente Rhodam castra movi ac contra eos venire institui. itaque continuis itineribus ad forum Voconi veni et ultra castra ad flumen Argenteum contra Antonios feci. P. Ventidius suas legiones 4ris coniunxit cum eo et ultra me castra posuit. habebat antea legionem v et ex reliquis legionibus magnam multitudinem sed inermorum. equitatum habet magnum ; nam omnis ex proelio integer discessit ita ut sint amplius equitum milia quinque. ad me complures milites et equites ab eo transierunt et in dies singulos eius copiae minuuntur.",
+      "eng": "If you and your family are well, it is well; I too am well. When I had heard that Marcus Antonius, with his forces, was coming into my province --- with Lucius Antonius sent ahead with part of the cavalry --- I broke camp at the confluence of the Rhone with my army and set out to march against them. By forced marches in succession I came to Forum Voconii and pitched camp beyond the town at the river Argenteus, facing the Antonii. Publius Ventidius has joined his four legions to him and has posted his camp beyond mine. Antonius had previously a fifth legion and, drawn from the remaining legions, a large body of men, but unarmed. He has a large cavalry; for it came off entirely unbroken from the battle, so that they amount to more than five thousand horse. Numbers of foot and horse have come over to me from him, and from one day to the next his forces dwindle.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Silanus et Culleo ab eo discesserunt. nos etsi graviter ab iis laesi eramus, quod contra nostram voluntatem ad Antonium ierant, tamen nostrae humanitatis et necessitudinis .causa eorum salutis rationem habuimus nec tamen eorum opera utimur neque in castris habemus neque ulli negotio praefecimus. quod ad bellum hoc attinet, nec senatui nec rei p. derimus. quae postea egerimus faciam te certiorem.",
+      "eng": "Silanus and Culleo have left him. We, although we had been gravely injured by them in that they had gone over to Antonius against our wish, nevertheless, for the sake of our humanity and personal ties, took thought for their safety; but we do not employ their services, do not keep them in camp, and have put them in charge of no business. As far as this war is concerned, we shall not fail the Senate or the commonwealth. Of what I have done thereafter I shall keep you informed.",
+      "notes": null
+    }
+  ]
+}

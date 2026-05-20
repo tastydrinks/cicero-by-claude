@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-21",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.21",
+  "title_english": "Ad Familiares 12.21",
+  "date": "-0044-10-18",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "C. Anicius, familiaris meus, vir omnibus rebus ornatus, negotiorum suorum causa legatus est in Africam legatione libera. Eum velim rebus omnibus adiuves operamque des ut quam commodissime sua negotia conficiat, in primisque, quod ei carissimum est, dignitatem eius tibi commendo idque a te peto, quod ipse in provincia facere sum solitus non rogatus, ut omnibus senatoribus lictores darem ; quod idem acceperam et id cognoveram a summis viris factitatum. hoc igitur, mi Cornifici, facies ceterisque rebus omnibus eius dignitati reique, si me amas, consules. erit id mihi gratissimum. da operam ut valeas.",
+      "eng": "C. Anicius, a close friend of mine, a man distinguished in every respect, has, for the sake of his own affairs, been appointed legate to Africa on a free legation. I would have you assist him in every way and take pains that he may transact his business as conveniently as possible; and, above all, I commend to you his standing, which is what he holds most dear, and I ask of you what I myself was accustomed to do in my province without being asked --- to grant lictors to all senators; this same honor I had received, and I knew it had been the regular practice of the foremost men. This, then, my dear Cornificius, you will do, and in all other respects, if you love me, you will look after his standing and his interests. It will be most welcome to me. Take care of your health.",
+      "notes": null
+    }
+  ]
+}

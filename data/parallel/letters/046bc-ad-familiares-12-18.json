@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-18",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.18",
+  "title_english": "Ad Familiares 12.18",
+  "date": "-0046-10-15",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "quod extremum fuit in ea epistula quam a te proxime accepi, ad id primum respondebo ; animum adverti enim hoc vos magnos oratores facere non numquam. epistulas requiris meas ; ego autem numquam, cum mihi denuntiatum esset a tuis ire aliquem, non dedi. quod mihi videor ex tuis litteris intellegere te nihil commissurum esse temere nec ante quam scisses quo iste nescio qui Caecilius Bassus erumperet quicquam certi constituturum, id ego et speraram prudentia tua fretus et ut confiderem fecerunt tuae gratissimae mihi litterae, idque ut facias quam saepissime, ut et quid tu agas et quid agatur scire possim et etiam quid acturus sis, valde te rogo. etsi periniquo patiebar animo te a me digredi, tamen eo tempore me consolabar, quod et in summum otium te ire arbitrabar et ab impendentibus magnis negotiis discedere",
+      "eng": "I shall answer first what came at the end of the letter I most recently received from you: I have noticed that this is a trick you great orators use from time to time. You ask for my letters. But whenever I have been notified by your people that someone of theirs was going, I have never failed to send one. As for what I think I gather from your letter --- that you mean to commit yourself to nothing rashly, and to settle nothing for certain until you have learned where this whatever-he-is, Caecilius Bassus, will break out --- I had hoped as much, trusting your prudence; and your most welcome letter has only confirmed my confidence. Do this as often as you possibly can, I earnestly beg, so that I may know both what you are doing and what is being done --- and what too you mean to do. Though I bore your departure from me very ill, still at the time I took this consolation: that, as I thought, you were going off to the deepest quiet, and stepping clear of great affairs that hung over us here.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "utrumque contra accidit ; istic enim bellum est exortum, hic pax consecuta, sed tamen eius modi pax in qua, si adesses, multa te non delectarent, ea tamen quae ne ipsum Caesarem quidem delectant. bellorum enim civilium ii semper exitus sunt, ut non ea solum fiant quae velit victor, sed etiam ut iis mos gerendus sit quibus adiutoribus sit parta victoria. equidem sic iam obdurui ut ludis Caesaris nostri animo aequissimo viderem T. Plancum, audirem Laberi et Publili poemata. nihil mihi tam desse scito quam quicum haec familiariter docteque rideam. is tu eris, si quam primum veneris ; quod ut facias, non mea solum sed etiam tua interesse arbitror.",
+      "eng": "Both have turned out the other way. There war has broken out; here peace has followed --- but a peace of the sort in which, were you present, much would not please you, and indeed much that does not please even Caesar himself. For civil wars always end thus: that it is not only the victor's will that is done, but that those by whose support the victory was gained must also be humoured. I myself have grown so callous by now that at our friend Caesar's games I watched T. Plancus, and listened to the verses of Laberius and Publilius, with the most equable mind in the world. Know that I miss nothing so much as someone with whom I can laugh at these things in the right intimate and learned way. You will be that person, if you come as soon as may be; and I think it is in your interest as well as mine that you should.",
+      "notes": null
+    }
+  ]
+}

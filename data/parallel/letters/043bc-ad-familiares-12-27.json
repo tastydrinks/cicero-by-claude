@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-27",
+  "category": "letters",
+  "title_latin": "Ad Familiares 12.27",
+  "title_english": "Ad Familiares 12.27",
+  "date": "-0043-04-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Sex. Aufidius et observantia qua me colit accedit ad proximos et splendore, equiti Romano nemini cedit; est autem ita temperatis moderatisque moribus ut summa severitas summa cum humanitate iungatur. cuius tibi negotia quae sunt in Africa ita commendo ut maiore studio magisve ex animo commendare non possim. pergratum mihi feceris, si dederis operam ut is intellegat meas apud te litteras maximum pondus habuisse. hoc te vehementer, mi Cornifici, rogo.",
+      "eng": "Sex. Aufidius, in the attentiveness with which he cultivates me, is among my closest; in distinction he yields to no Roman knight; and in character he is so well-tempered and so balanced that the strictest gravity is joined with the highest cultivation. His affairs in Africa I commend to you with such force that I could not commend them with greater zeal or more from the heart. You will do me a very great kindness if you take pains that he may understand my letter to have had with you the very greatest weight. This, my dear Cornificius, I ask of you most earnestly.",
+      "notes": null
+    }
+  ]
+}
