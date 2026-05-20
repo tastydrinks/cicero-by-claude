@@ -6,7 +6,7 @@ as milestones are reached.
 
 ## Status summary
 
-- **Drafted**: 904 / 958 works end-to-end across all categories (~94.4%). See "Where to resume now" below for the post-session-33 chronology pointer and next-batch suggestions. The prose summary that follows describes the project state through session 4 only (drafted=160 then); the current authoritative state is in "Where to resume now."
+- **Drafted**: 906 / 958 works end-to-end across all categories (~94.6%). Session 36 (this entry) opened \textit{Philippic 2} but split it across two sessions: sections 1--58 are translated and emitted to the parallel sidecar; sections 59--118 (the second half) are queued for session 37. The work's \texttt{status:} stays \texttt{pending} in \texttt{meta/works.yaml} until session 37 completes the remaining sections, writes the headnote, and flips the status. See "Where to resume now" below for the chronology pointer and next-batch suggestions. The prose summary that follows describes the project state through session 4 only (drafted=160 then); the current authoritative state is in "Where to resume now."
 
 - **Drafted (legacy session-4 snapshot — see "Where to resume now" for current)**: 160 works end-to-end across all categories.
   - **Speeches (30)**: *Pro Quinctio* (81 BC), *Pro Roscio
@@ -528,6 +528,1056 @@ session can `continue` and apply them without re-asking:
 desktop, on his Max subscription quota). When Cowork opens this
 repo, this is the first section to read; \texttt{PLAN.md} is the
 binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-37):} \textbf{907 /
+958 works drafted (\~94.7\%)} --- session 37 completed
+\textit{Philippic 2} (the two-session-split opened in session 36)
+end-to-end. \textit{Philippic 2} sections 59--118 translated this
+session, the headnote written, parallel sidecar regenerated
+end-to-end across all 118 segments, and \texttt{status:} flipped
+from \texttt{pending} to \texttt{drafted}. The chronological-gap
+warning falls from \textbf{46} (post-session-36) to \textbf{45}
+(post-session-37), exactly the expected decrement of one speech
+moved out of the gap. \textbf{Latest drafted by deep chronology is
+unchanged}: \textit{Ad Familiares} 10.24 (28 July 43 BC) remains
+the marker, since \textit{Philippic 2}, even completed, is dated
+October 44 BC and so falls inside the chronological-gap zone.
+
+\textbf{Cowork session 37 --- 1 substantial speech completed
+(1 worker, 60 sections (59--118), 5-section chunks):}
+
+\begin{itemize}
+\item \textbf{Worker A (\textit{Philippic 2} sections 59--118 ---
+the second half of the never-delivered pamphlet of late October
+44 BC, Cicero's most savage Caesarian-aftermath indictment):} 60
+sections, $\sim$10{,}000 English words. Picks up at \S 59
+(\textit{reliquorum factorum eius, patres conscripti, difficilis
+est sane reprehensio et lubrica}) with the Brundisium return and
+the ``great kindness'' of not killing Cicero, and runs through
+\S 118 (the closing peroration's \textit{duo modo haec opto}:
+that Cicero may die leaving the Roman people free, and that each
+man may receive as he deserves of the commonwealth). \S 59--63
+the second Italian tour, master-of-horse year, and the famous
+Hippias-wedding vomiting scene (\textit{magister equitum, cui
+ructare turpe esset, is vomens frustis esculentis vinum
+redolentibus gremium suum et totum tribunal implevit}). \S 64--69
+the purchase of Pompey's property at the post-Pharsalia auction:
+the \textit{O audaciam immanem!} apostrophe of \S 68, the
+\textit{Charybdis tam vorax} cadence of \S 66, the slaves' beds
+spread with Pompey's purple coverlets (\S 67). \S 70--78 the
+sham auction list, the Spanish-war absence, the comic
+Narbo-and-back midnight ride in Gallic slippers and a cloak with
+the lover's letter for Fulvia (\S 77 \textit{O hominem nequam!}).
+\S 79--84 the false-augury Dolabella set-piece, with the famous
+\textit{`Alio die' inquit} of \S 83 (the augur announcing the
+flaw after the comitia had run their course). \S 85--87 the
+great Lupercalia diadem-offering scene (\S 85 \textit{sedebat
+in rostris collega tuus amictus toga purpurea, in sella aurea,
+coronatus}; the diadem brought from home, \textit{meditatum et
+cogitatum scelus}; \S 86 \textit{O praeclaram illam eloquentiam
+tuam, cum es nudus contionatus!}). \S 88--92 the Ides aftermath
+--- Antony's flight, the funeral oration that loosed the mob
+(\S 91 \textit{tu, tu, inquam, illas faces incendisti}), the
+magnificent abolition of the dictatorship shadowed at once by
+the huckstering of immunities at the temple of Ops. \S 93--99
+the forged Caesarian decrees (Deiotarus syngrapha, Crete from
+tribute, exile-recalls), with the savage \S 99 attack on
+Antony's treatment of his uncle Lucius Caesar and of Antonia.
+\S 100--108 the Italian tour with mimes and gamblers on the
+Campanian and Leontine land, the desecration of Varro's villa
+at Casinum (\S 104 \textit{personabant omnia vocibus ebriorum,
+natabant pavimenta vino, madebant parietes}), the return to
+Rome with armed guards (\S 108 \textit{agmine quadrato cum
+gladiis sequuntur}). \S 109--112 demand to know why Antony as
+Caesar's flamen neglects the praetexta, why Ituraeans are in
+the Forum, why the doors of Concord are not open (\S 112
+\textit{pax est tranquilla libertas}, the famous definition).
+\S 113--118 the great peroration: the Liberators' example
+(\S 114), Antony's wife and her \textit{tertia pensio}
+(\S 113), the closing offer of Cicero's own body (\S 117
+\textit{defendi rem publicam adulescens, non deseram senex:
+contempsi Catilinae gladios, non pertimescam tuos}), the prayer
+\textit{ut moriens populum Romanum liberum relinquam} (\S 118).
+\textbf{Sidecar:} 60-segment parallel-sidecar append in lockstep
+with the existing 58 (re-emitted end-to-end at session close);
+no Greek phrases in this half; no date correction needed
+(\texttt{-0044-10-01} month-precision placeholder still correct).
+\textbf{Headnote:} four paragraphs covering composition history
+(the never-delivered pamphlet, sent to Atticus 25 October per
+\textit{Ad Atticum} 15.13a, 16.11, circulated through November),
+the two-movement structure (defence \S 1--41 / counter-attack
+\S 42--58 / indictment \S 59--118), and the prophetic close
+(Cicero killed at Formiae 7 December 43 BC, head and hands
+nailed to the Rostra).
+\end{itemize}
+
+\textbf{No metadata corrections committed during session 37.}
+The meta entry was already correct after session 36.
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{\S 63 \textit{magister equitum, cui ructare turpe
+esset, is vomens frustis esculentis vinum redolentibus}.}
+Rendered ``master of horse, for whom even a belch would be a
+disgrace, this man, vomiting, filled his own lap and the whole
+tribunal with bits of food reeking of wine.'' Preserved the
+\textit{ructare turpe esset} contrast as a stronger ``even a
+belch would be a disgrace'' --- the load-bearing point is that
+the lesser disgrace is intolerable and the greater has been
+committed.
+\item \textbf{\S 65 \textit{`male parta male dilabuntur.'}}
+Cicero quotes a poet (probably Naevius, perhaps Ennius ---
+the source is unrecovered). Rendered ``Ill gained, ill
+spent.'' Preserved as a quotation in inverted commas, the
+alliterative shape of \textit{male/male} kept by ``ill/ill.''
+Worth an allusions entry once enrichment runs.
+\item \textbf{\S 66 \textit{quae Charybdis tam vorax?}} The
+famous Charybdis cadence. Rendered ``What Charybdis was ever
+so voracious?'' Preserved the proper name (Homeric monster)
+and the \textit{tam vorax} as ``so voracious.'' \S 67
+continues the conceit with \textit{Oceanus, me dius fidius,
+vix videtur tot res tam dissipatas \ldots tam cito absorbere
+potuisse} --- ``Ocean itself, by Hercules, scarcely seems
+\ldots so quickly to engulf'' --- \textit{me dius fidius}
+kept as ``by Hercules'' per STYLE.md.
+\item \textbf{\S 68 \textit{O audaciam immanem!}} Rendered ``O
+monstrous audacity!'' --- \textit{immanis} preserved as
+``monstrous'' (the standard force; ``immense'' or ``huge''
+would lose the moral weight).
+\item \textbf{\S 71 \textit{gustaras civilem sanguinem vel
+potius exsorbueras}.} Rendered ``You had tasted citizen blood,
+or rather drained it down.'' The two verbs are deliberately
+graded: \textit{gustare} (taste) modified to \textit{exsorbere}
+(drink to the dregs). Preserved as ``tasted \ldots drained
+down.''
+\item \textbf{\S 77 \textit{ergo, ut te catamitum, nec opinato
+cum te ostendisses, praeter spem mulier aspiceret}.} Rendered
+``So, to make a woman set eyes upon you, my catamite,
+unhoped-for, when you showed yourself unexpectedly.'' Preserved
+\textit{catamitum} as ``catamite'' (the Latin is the unrestrained
+direct insult; ``minion'' or ``favourite'' would weaken).
+\item \textbf{\S 83 \textit{`Alio die' inquit}.} The famous
+augur's announcement after the comitia had run their course.
+Rendered ``says: `On another day.'\,'' --- the technical
+augural formula kept in inverted commas as an English
+equivalent.
+\item \textbf{\S 85 \textit{sedebat in rostris collega tuus
+amictus toga purpurea, in sella aurea, coronatus}.} The
+Lupercalia set-piece opening. Rendered ``Your colleague was
+sitting on the Rostra, wrapped in a purple toga, on a golden
+chair, crowned.'' The four-part description \textit{in rostris
+/ amictus toga purpurea / in sella aurea / coronatus} preserved
+as four short members in the English.
+\item \textbf{\S 85 \textit{attuleras domo meditatum et
+cogitatum scelus}.} Rendered ``you had brought it from home, a
+crime premeditated and considered.'' The \textit{meditatum et
+cogitatum} doublet preserved (premeditation is the load-bearing
+point: the diadem was not a spontaneous Lupercalian flourish).
+\item \textbf{\S 86 \textit{O praeclaram illam eloquentiam
+tuam, cum es nudus contionatus!}} Rendered ``O that splendid
+eloquence of yours, when you spoke in a public meeting naked!''
+The \textit{nudus contionatus} is the famous image (Antony as
+Lupercus stripped to the loincloth, addressing the assembly);
+kept literal. The point will return at \S 111 (\textit{tuum
+hominis simplicis pectus vidimus}).
+\item \textbf{\S 91 \textit{tu, tu, inquam, illas faces
+incendisti}.} The repeated \textit{tu, tu} drives the cadence.
+Rendered ``you, you, I say, lit those torches.'' The repetition
+preserved; \textit{illas faces} as ``those torches.''
+\item \textbf{\S 99 \textit{quis interpretari potest,
+impudentiorne qui in senatu, an improbior qui in Dolabellam, an
+impurior qui patre audiente, an crudelior qui in illam miseram
+tam spurce, tam impie dixeris}.} Four-part \textit{impudentior
+\ldots improbior \ldots impurior \ldots crudelior} cadence,
+the four-part-question rhetorical figure Cicero uses often.
+Rendered as four parallel ``who-clauses'' (``Who can interpret
+whether you were more impudent in saying it in the Senate, or
+more depraved in saying it against Dolabella, or fouler in
+saying it before her father's hearing, or more cruel against
+that wretched woman in speaking so filthily, so impiously'').
+\item \textbf{\S 104 \textit{personabant omnia vocibus ebriorum,
+natabant pavimenta vino, madebant parietes}.} The famous
+Casinum-desecration tricolon. Rendered ``all the place echoed
+with the voices of drunkards, the pavements swam with wine,
+the walls were soaked.'' The three verbs \textit{personabant /
+natabant / madebant} preserved as three short members
+(``echoed \ldots swam \ldots were soaked'').
+\item \textbf{\S 108 \textit{agmine quadrato cum gladiis
+sequuntur; scutorum lecticas portari videmus}.} Rendered
+``They follow in a hollow square with their swords; we see
+litters borne by shield-bearers.'' \textit{Agmine quadrato} is
+the technical military formation kept as ``hollow square'';
+\textit{scutorum lecticas} (``litters of shield-bearers'')
+preserved.
+\item \textbf{\S 112 \textit{pax est tranquilla libertas,
+servitus postremum malorum omnium, non modo bello sed morte
+etiam repellendum}.} The famous definition. Rendered ``Peace
+is tranquil liberty, slavery the last of all evils, to be
+repelled not only by war but even by death.'' The
+\textit{tranquilla libertas} kept literal; the
+\textit{non modo \ldots sed \ldots etiam} construction preserved
+in the English.
+\item \textbf{\S 113 \textit{quae se adhuc tantum modo ulta
+est, nondum recuperavit}.} The commonwealth that has avenged
+itself but not yet recovered itself. Rendered ``which thus far
+has only avenged itself, has not yet recovered itself.'' The
+load-bearing antithesis \textit{ulta / recuperavit} preserved.
+\item \textbf{\S 114 \textit{exemplum facti reliquerunt. illi
+quod nemo fecerat fecerunt}.} The two short balanced clauses
+on the Liberators' example. Rendered ``they have left the
+example of the deed. They did what no one had done.'' The
+\textit{quod nemo fecerat fecerunt} polyptoton kept as ``what
+no one had done. They did.''
+\item \textbf{\S 117 \textit{defendi rem publicam adulescens,
+non deseram senex; contempsi Catilinae gladios, non
+pertimescam tuos}.} The two-part biographical-rhetorical
+cadence at the climax. Rendered ``I defended the commonwealth
+as a young man, I shall not desert it as an old man: I
+despised the swords of Catiline, I shall not be afraid of
+yours.'' The parallel \textit{adulescens/senex} and
+\textit{Catilinae/tuos} antitheses preserved.
+\item \textbf{\S 118 \textit{etenim si abhinc annos prope
+viginti hoc ipso in templo negavi posse mortem immaturam esse
+consulari, quanto verius nunc negabo seni!}} The famous
+self-quotation back to \textit{In Catilinam} 4 (December 63
+BC, twenty years before). Rendered ``For if nearly twenty
+years ago in this very temple I declared that death could not
+come untimely to a consular, how much more truly shall I now
+declare it cannot come so to an old man!'' Worth a crossrefs
+entry to \textit{In Catilinam} 4 (the Senate of 5 December 63
+BC was also in the temple of Concord) once enrichment runs.
+\item \textbf{\S 118 \textit{ut moriens populum Romanum liberum
+relinquam}.} The closing prayer. Rendered ``that dying I may
+leave the Roman people free.'' Preserved the participial
+\textit{moriens} as ``dying'' rather than expanding to ``at
+my death''; the bare participial has the prophetic-cadence
+weight that Cicero (and the reader looking ahead to 7 December
+43 BC) is reaching for.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 37 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 37:
+\ldots"} and session 38 opens):
+
+\textbf{Session 38 opens \textit{Philippic 3} (20 December 44
+BC, $\sim$39 sections).} The first Philippic delivered after
+Octavian's break with Antony --- the Senate is summoned by
+the tribunes on 20 December to consider the new situation
+(Octavian has the legions of Mars and IV at Alba; Decimus
+Brutus has refused to surrender Cisalpine Gaul; Antony is
+marching to take it). The speech praises Octavian, Decimus
+Brutus, and the deserting legions, and proposes that Antony
+be declared a public enemy in all but the name (the actual
+\textit{hostis} declaration would not come until April 43).
+Single-substantial-speech pattern, 1 session: fetch via
+\texttt{scripts/fetch\_latin.py philippic-3}, translate in
+5-section chunks with parallel-sidecar lockstep emission and
+headnote at close.
+
+\textbf{After \textit{Philippic 3}} (sessions 39--49 or so):
+\textit{Philippic 4} (20 Dec 44, $\sim$16 sections, same day
+as Phil 3, the speech to the people of the same business),
+\textit{5} (1 Jan 43, $\sim$53 sections), \textit{6} (4 Jan
+43, $\sim$19 sections), \textit{7} (Jan 43, $\sim$27
+sections), \textit{8} (3 Feb 43, $\sim$33 sections),
+\textit{9} (4 Feb 43, $\sim$17 sections), \textit{10} (Feb
+43, $\sim$26 sections), \textit{11} (Mar 43, $\sim$40
+sections), \textit{12} (Mar 43, $\sim$30 sections),
+\textit{13} (20 Mar 43, $\sim$50 sections), \textit{14} (21
+Apr 43, $\sim$38 sections). Each fits a single session;
+total Philippic phase is likely 12 sessions left (Phil 2
+just completed, Phil 3--14 to go).
+
+\textbf{After the Philippics} (sessions $\sim$50--60 or so):
+sweep the major philosophical treatises (\textit{Cato Maior
+De Senectute}, \textit{Paradoxa Stoicorum}, \textit{Academica},
+\textit{De Finibus}, \textit{Timaeus}, \textit{De Natura
+Deorum}, \textit{Tusculanae Disputationes}, \textit{De
+Divinatione}, \textit{De Fato}, \textit{Laelius De Amicitia},
+\textit{De Officiis}). The remaining minor speeches and the
+rhetorica (\textit{partitiones-oratoriae}, \textit{brutus},
+\textit{de-optimo-genere-oratorum}, \textit{orator},
+\textit{topica}) are slotted alongside as one-session pickups.
+
+\textbf{Slice F (the 12 no-Perseus deferred letters)} continues
+to require a single-session manual-fetch batch and is held
+until someone supplies the Latin from a standard printed
+edition.
+
+\textbf{Slice M (entity-stub enrichment, 429+ stubs in
+\texttt{data/entities.json})} remains the parallel-friendly
+fallback when no substantial work is ready to be picked up.
+
+\textbf{File-rename carry-overs from earlier sessions (sandbox
+cannot delete files; Alexander handles at handoff or follow-up):}
+\textit{Att.} 5.1, 5.7 (\texttt{049bc-} $\rightarrow$
+\texttt{051bc-}) and \textit{Fam.} 13.09 (\texttt{005bc-}
+$\rightarrow$ \texttt{050bc-}).
+
+\textbf{Launch-prompt advisory for the scheduled 2-hour Cowork
+task on Alexander's side:} the prompt text (\texttt{dispatch
+3--4 parallel batches of worker sub-agents, each translating
+3--5 short letters end-to-end}) remains stale and continues to
+auto-pivot. Sessions 32--37 all dropped to single-substantial-
+speech mode per this section's instructions; the same
+auto-pivot will continue through the Philippic and
+philosophical phases (sessions 38--60 or so). Updating the
+scheduled-task prompt to reflect Phase 3 of OPERATING\_PLAN.md
+(``one substantial-work worker per session, 5-section chunks,
+WIP-emit discipline, multi-session splits allowed for very
+long works'') is recommended but not blocking --- the PM in
+each scheduled session reads ``Where to resume now'' first
+and follows what it says.
+
+---
+
+\textbf{Translation state (post-Cowork-session-36, partial):}
+\textbf{906 / 958 works drafted (\~94.6\%)} --- the drafted count is
+unchanged from session 35 because \textit{Philippic 2} (the work
+opened this session) is a two-session split and its \texttt{status:}
+remains \texttt{pending} until session 37 completes it. Session 36
+translated \textit{Philippic 2} sections 1--58 (the first half:
+through the close of the tribunate-and-Italian-tour narrative,
+ending at the famous Helen-of-Troy cadence \textit{Vt Helena
+Troianis, sic iste huic rei publicae belli causa} in \S 55 and the
+\S 58 lictors-and-mime tableau \textit{Horum flagitiorum iste
+vestigiis omnia municipia, praefecturas, colonias, totam denique
+Italiam impressit}). The parallel sidecar at
+\texttt{data/parallel/speeches/044bc-philippic-2.json} carries 58
+aligned segments; the English file
+\texttt{english/speeches/044bc-philippic-2.tex} closes with a
+\texttt{\% --- End of session 36's first half} comment after \S 58,
+and session 37 resumes by appending \S 59 (\textit{reliquorum
+factorum eius, patres conscripti, difficilis est sane reprehensio
+et lubrica}) and translating through \S 118 (the closing peroration
+\textit{de me autem ad eos potius revertar quae mihi sunt
+respondenda}, ending with the great \textit{ut aliquando dolor
+populi Romani pariat quod iam diu parturit} cadence).
+
+\textbf{Latest drafted by deep chronology is unchanged:}
+\textit{Ad Familiares} 10.24 (28 July 43 BC) remains the marker,
+since \textit{Philippic 2}, even when completed, is dated October
+44 BC and so falls inside the chronological-gap zone. The
+chronological-gap warning count is \textbf{unchanged at 46} since
+no pending work was flipped to drafted this session.
+
+\textbf{Cowork session 36 --- 1 substantial speech opened, 1 of 2
+sessions done (1 worker, 58 of 118 sections, 5-section chunks):}
+
+\begin{itemize}
+\item \textbf{Worker A (\textit{Philippic 2} sections 1--58 ---
+the never-delivered written pamphlet of late October 44 BC,
+Cicero's most famous invective against Antony, circulated as a
+pamphlet because never spoken aloud in the Senate; first half
+translated end-to-end):} 58 sections, $\sim$9{,}200 English
+words. The opening \S 1--10 are Cicero's direct response to
+Antony's invective speech of 19 September: the augurate
+canvass, the Brundisium ``mercy,'' the friend's-letter that
+Antony read aloud to the Senate (\textit{quis enim umquam qui
+paulum modo bonorum consuetudinem nosset, litteras ad se ab
+amico missas \ldots palamque recitavit?}). \S 11--19 defend
+Cicero's consulship and the suppression of Catiline (with the
+\S 12 roll-call of consulars who approved it, and the \S 14--15
+contrast of Antony's uncle Lucius Caesar with Antony himself ---
+\textit{vitrici te similem quam avunculi maluisti}). \S 20--36
+turn to the Ides-of-March charge: did Cicero counsel the
+killing? With the \S 28 \textit{cruentum alte extollens Brutus
+pugionem Ciceronem nominatim exclamavit} set-piece, the \S 30
+\textit{edormi crapulam, inquam, et exhala} (``sleep off the
+drunkenness, I say, and breathe it out''), the \S 32 \textit{in
+equum Troianum cum principibus includis} self-acceptance into
+the conspirators' number, and the \S 34 brilliant counter-attack
+\textit{quem et Narbone hoc consilium cum C. Trebonio cepisse
+notissimum est} --- Antony himself once thought of killing
+Caesar at Narbo. \S 37--41 dispatch the camp-of-Pompey and
+legacies charges, with the \S 40 \textit{sestertium ducentiens
+acceptum hereditatibus rettuli} and the \S 41 Lucius Turselius
+joke (``Tell me, please \ldots Lucius Turselius --- what was
+his face, what his stature, of what municipality, of what
+tribe?''). \S 42--46 are the savage Curio episode --- Antony's
+youthful bankruptcy, the prostitute-then-matron \textit{stola}
+metaphor (\textit{tamquam stolam dedisset, in matrimonio
+stabili et certo conlocavit}), and Cicero's account of being
+begged by the younger Curio to defend him against his father
+over the six-million-sesterce bond. \S 47--50 sketch the
+Alexandria-with-Gabinius episode and Antony's quaestorship.
+\S 51--55 are the seed-of-civil-war argument: Antony's tribunate
+veto of January 49 BC gave Caesar his pretext, and \textit{Vt
+Helena Troianis, sic iste huic rei publicae belli causa, causa
+pestis atque exiti fuit} (\S 55). \S 56 is the dicing-law
+restoration of Licinius Lenticula (Antony's gambling crony),
+\S 57--58 the lictors-and-mime tour through the Italian
+municipalities. \textbf{Sidecar:} 58-segment parallel sidecar
+emitted in lockstep, no Greek phrases in this half, no date
+correction needed (the \texttt{-0044-10-01} month-precision
+placeholder is correct; the speech was written and circulated
+in late October/early November but never delivered). \textbf{No
+headnote yet}: per the multi-session pattern, the headnote will
+be written by session 37 once the speech is complete and the
+status is flipped.
+\end{itemize}
+
+\textbf{No metadata corrections committed during session 36.}
+The meta entry's date, Perseus URL (\texttt{phi0474.phi035} with
+\texttt{speech\_index: '2'}), and section count all matched the
+fetched Latin (118 sections in the Perseus TEI, exactly).
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{\S 7 \textit{cum uno gladiatore nequissimo}.}
+Rendered ``a single worthless gladiator''; kept the contempt of
+\textit{gladiator} (the standard Roman political-invective
+slur, not literal) rather than naturalising.
+\item \textbf{\S 8 \textit{ut mustelae tamen Seio et Tironi
+Numisio videris}.} Kept the weasel image (``you nevertheless
+appear like a weasel'') --- the Latin uses an obscure private
+nickname; \textit{mustela} as ``weasel'' is the standard force
+and preserves the contempt without naturalising.
+\item \textbf{\S 14 \textit{ad eos scilicet quorum nobis etiam
+dies natales audiendi sunt}.} Rendered ``those of course whose
+very birthdays we have to hear announced'' --- the contempt is
+in the public listing of the birthdays of low-born intimates;
+preserved \textit{scilicet} as the sneering ``of course.''
+\item \textbf{\S 15 \textit{O foeditatem hominis flagitiosam}.}
+Asseverative tricolon rendered ``O the foul and disgraceful
+character of the man, his unbearable shamelessness,
+worthlessness, lust!'' --- the \textit{O} interjection kept;
+the four nouns \textit{foeditatem, impudentiam, nequitiam,
+libidinem} preserved as a four-part cadence (the speech is full
+of these).
+\item \textbf{\S 20 \textit{`cedant arma togae'}.} Cicero
+quotes his own famous line from \textit{De Consulatu Suo}.
+Rendered ``Let arms yield to the toga.'' Worth a crossrefs
+entry to \textit{De Consulatu Suo} once enrichment runs ---
+this is one of Cicero's most famously-mocked self-quotations.
+\item \textbf{\S 27 \textit{depulsorque dominatus quam particeps
+esse maluit}.} Rendered ``chose rather to be the overthrower
+of despotism than to share in it'' --- the contrast between
+\textit{depulsor} and \textit{particeps} is the load-bearing
+antithesis; preserved.
+\item \textbf{\S 28 \textit{me potissimum testatus est se
+aemulum mearum laudum exstitisse}.} Cicero's self-flattery
+crux: rendered ``called me as the most fitting witness that he
+had stood forth as a rival of my fame.'' Preserved
+\textit{aemulum mearum laudum} (``a rival of my fame'') rather
+than weakening to ``imitator'' or ``follower'' --- the audacity
+of the equation Brutus-with-Cicero-the-Catiline-suppressor is
+the point.
+\item \textbf{\S 30 \textit{edormi crapulam, inquam, et
+exhala}.} Rendered ``Sleep off the drunkenness, I say, and
+breathe it out.'' \textit{Crapulam} kept as ``drunkenness''
+rather than ``hangover''; the \textit{exhala} continues the
+breath/wine image that Cicero will return to in \S 42
+(\textit{vini exhalandi}) and \S 63 (the famous Hippias-wedding
+vomiting scene).
+\item \textbf{\S 32 \textit{in equum Troianum cum principibus
+includis}.} Rendered ``into the Trojan horse \ldots enclose me
+with the chief men'' --- preserved the simile in full; the
+\textit{principes} are the chief conspirators, the Brutuses
+and Cassius, whom Antony has already named in honour.
+\item \textbf{\S 33 four-part \textit{adfari atque appetere /
+agrestes \ldots / immemor posteritas \ldots / ingratae
+litterae}.} Cadence preserved as four parallel rhetorical
+questions, each opening with the relative-clause shape
+(``What place \ldots What men \ldots What posterity \ldots
+what books \ldots'').
+\item \textbf{\S 34 \textit{si meus stilus ille fuisset, ut
+dicitur, mihi crede, non solum unum actum sed totam fabulam
+confecissem}.} The famous \textit{stilus}-as-stylus-and-as-dagger
+double sense, the joke that Cicero would have killed not only
+Caesar but the whole following ``act'' (Antony). Rendered
+``if that pen had been mine that men say was, then, believe me,
+I should have finished not only the one act but the whole
+play.'' The dramatic-play metaphor preserved cleanly.
+\item \textbf{\S 41 \textit{velim mihi dicas, nisi molestum est,
+L. Turselius qua facie fuerit, qua statura, quo municipio, qua
+tribu}.} The famous Turselius joke. Rendered as a polite query
+list (``Tell me, please, if it is not too much trouble: Lucius
+Turselius --- what was his face, what his stature, of what
+municipality, of what tribe?'') --- preserving the \textit{nisi
+molestum est} courtesy and the four parallel ablatives.
+\item \textbf{\S 44 \textit{sumpsisti virilem, quam statim
+muliebrem togam reddidisti}.} The toga \textit{virilis} /
+\textit{muliebris} distinction is the load-bearing point: the
+boy's transition-to-manhood toga turned overnight into the
+prostitute-courtesan stola. Rendered ``You took on the man's
+toga, which you straightway turned into a woman's.''
+\item \textbf{\S 44 \textit{tamquam stolam dedisset, in
+matrimonio stabili et certo conlocavit}.} Curio is figured as
+the husband, Antony as the wife. Rendered ``as if he had given
+you a matron's stole, settled you in a fixed and steady
+marriage.'' The matron's \textit{stola} kept as ``matron's
+stole'' to preserve the Roman dress-code reference; the
+metaphor is one of the most famously obscene in Cicero.
+\item \textbf{\S 48 \textit{Suam enim quisque domum tum
+obtinebat nec erat usquam tua}.} Rendered ``every man at that
+time had his own house, but you had none anywhere.'' Kept the
+\textit{usquam} as ``anywhere'' for the totality.
+\item \textbf{\S 51 \textit{quod in hostem togatum decerni est
+solitum more maiorum}.} Rendered ``what is usually decreed in
+the manner of our ancestors against an enemy in the toga.''
+\textit{Hostem togatum} kept as ``enemy in the toga'' rather
+than collapsing --- it is the technical contrast (a citizen,
+not a foreign enemy, declared the state's enemy).
+\item \textbf{\S 55 \textit{Vt Helena Troianis, sic iste huic
+rei publicae belli causa, causa pestis atque exiti fuit}.}
+The famous Helen-of-Troy comparison: Antony is to the
+commonwealth what Helen was to Troy. Rendered ``As Helen was
+to the Trojans, so was this man to this commonwealth, the
+cause of war, the cause of pestilence and ruin.'' Preserved
+the doubled \textit{causa \ldots causa} cadence; worth a
+crossrefs/allusions entry once enrichment runs (the figure is
+Homeric-tragic and would have been instantly recognised).
+\item \textbf{\S 58 \textit{aperta lectica mima portabatur,
+quam \ldots non noto illo et mimico nomine, sed Volumniam
+consalutabant}.} The townspeople greet Antony's mime-actress
+mistress not by her stage-name (Cytheris) but by her freedwoman
+\textit{nomen} Volumnia, as if she were a respectable matron.
+Rendered ``greeted not by her well-known and theatrical name,
+but as Volumnia.'' The crux preserved without naturalising.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 36 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 36:
+\ldots"} and session 37 opens):
+
+\textbf{Session 37 finishes \textit{Philippic 2}.} Pick up from
+\S 59 (\textit{reliquorum factorum eius, patres conscripti,
+difficilis est sane reprehensio et lubrica}) and translate
+through \S 118. The Latin is already in
+\texttt{latin/speeches/044bc-philippic-2.tex} (fetched at
+session 36 start); the existing English file should be
+\textbf{appended} (not overwritten) starting from \S 59 ---
+strip the trailing \texttt{\% --- End of session 36's first half}
+comment block first, then continue. The parallel-sidecar JSON
+will need to be regenerated end-to-end at session 37's close
+(the included Python parser used in session 36 reads both files
+and matches by section, so re-running it picks up the new
+sections automatically). \textbf{Session 37 also writes the
+headnote} (\texttt{headnotes/speeches/044bc-philippic-2.tex})
+and flips \texttt{status:} from \texttt{pending} to
+\texttt{drafted} in \texttt{meta/works.yaml}. The chronological-
+gap warning will fall from 46 to 45 at that point.
+
+The Phil 2 second half contains the major set-pieces:
+\textbf{\S 59--62} Brundisium return and the second Italian
+tour with the mime; \textbf{\S 63} the famous Hippias-wedding
+vomiting scene (\textit{in coetu vero populi Romani negotium
+publicum gerens, magister equitum, cui ructare turpe esset, is
+vomens frustis esculentis vinum redolentibus gremium suum et
+totum tribunal implevit}); \textbf{\S 64--69} the purchase of
+Pompey's property at the post-Pharsalia auction (the famous
+\textit{O audaciam immanem! tu etiam ingredi illam domum ausus
+es} apostrophe and the \textit{Charybdis tam vorax} cadence of
+\S 67); \textbf{\S 70--84} the master-of-horse year, the Italian
+tour, the assassination-attempt at the Tarsalia camp, and the
+\textit{Cn. Pompei sector}; \textbf{\S 85--87} the Lupercalia
+diadem-offering set-piece (\textit{sedebat in rostris collega
+tuus amictus toga purpurea, in sella aurea, coronatus} and
+Cicero's interrogation: \textit{cur diadema imposuisti?});
+\textbf{\S 88--92} the false augury at the Forum auction of
+Caesar's effects; \textbf{\S 93--108} the great peroration ---
+Antony's foreign-policy disasters, the Brundisium-mutiny
+murders, the Mutina build-up; and \textbf{\S 109--118} the
+final apostrophe to Antony asking him to recall the example of
+Caesar's end (\textit{cogita, quaeso, M. Antoni, etiam id
+quemadmodum recipias quod ego de re publica sentio}) and the
+closing peroration on the speaker's own willingness to die for
+the commonwealth (\textit{etenim si abhinc annos prope viginti
+hoc ipso in templo negavi posse mortem immaturam esse
+consulari, quanto verius nunc negabo seni!}). The second half
+is slightly longer than the first ($\sim$60 vs.\ 58 sections,
+likely $\sim$9.5--10K English words), but well within a single
+session's budget on the single-substantial-speech pattern.
+
+\textbf{After \textit{Philippic 2}} (sessions 38--47 or so):
+\textit{Philippics 3} (20 Dec 44, $\sim$39 sections), \textit{4}
+(20 Dec 44, $\sim$16 sections), \textit{5} (1 Jan 43, $\sim$53
+sections), \textit{6} (4 Jan 43, $\sim$19 sections), \textit{7}
+(Jan 43, $\sim$27 sections), \textit{8} (3 Feb 43, $\sim$33
+sections), \textit{9} (4 Feb 43, $\sim$17 sections), \textit{10}
+(Feb 43, $\sim$26 sections), \textit{11} (Mar 43, $\sim$40
+sections), \textit{12} (Mar 43, $\sim$30 sections), \textit{13}
+(20 Mar 43, $\sim$50 sections), \textit{14} (21 Apr 43, $\sim$38
+sections). Each fits a single session; total Philippic phase is
+likely 13 sessions (1 done, 1 in progress, 12 to go counting
+session 37 as completing Phil 2 and starting Phil 3).
+
+\textbf{After the Philippics} (sessions $\sim$48--58 or so):
+sweep the major philosophical treatises (\textit{Cato Maior De
+Senectute}, \textit{Paradoxa Stoicorum}, \textit{Academica},
+\textit{De Finibus}, \textit{Timaeus}, \textit{De Natura
+Deorum}, \textit{Tusculanae Disputationes}, \textit{De
+Divinatione}, \textit{De Fato}, \textit{Laelius De Amicitia},
+\textit{De Officiis}). The remaining minor speeches and the
+rhetorica (\textit{partitiones-oratoriae}, \textit{brutus},
+\textit{de-optimo-genere-oratorum}, \textit{orator},
+\textit{topica}) are slotted alongside as one-session pickups.
+
+\textbf{Slice F (the 12 no-Perseus deferred letters)} continues
+to require a single-session manual-fetch batch and is held
+until someone supplies the Latin from a standard printed
+edition.
+
+\textbf{Slice M (entity-stub enrichment, 429+ stubs in
+\texttt{data/entities.json})} remains the parallel-friendly
+fallback when no substantial work is ready to be picked up.
+
+\textbf{File-rename carry-overs from earlier sessions (sandbox
+cannot delete files; Alexander handles at handoff or follow-up):}
+\textit{Att.} 5.1, 5.7 (\texttt{049bc-} $\rightarrow$
+\texttt{051bc-}) and \textit{Fam.} 13.09 (\texttt{005bc-}
+$\rightarrow$ \texttt{050bc-}).
+
+\textbf{Launch-prompt advisory for the scheduled 2-hour Cowork
+task on Alexander's side:} the prompt text (\texttt{dispatch
+3--4 parallel batches of worker sub-agents, each translating
+3--5 short letters end-to-end}) remains stale and continues to
+auto-pivot. Sessions 32--36 all dropped to single-substantial-
+speech mode per this section's instructions; the same auto-pivot
+will continue through the Philippic and philosophical phases
+(sessions 36--58 or so). Updating the scheduled-task prompt to
+reflect Phase 3 of OPERATING\_PLAN.md (``one substantial-work
+worker per session, 5-section chunks, WIP-emit discipline,
+multi-session splits allowed for very long works'') is
+recommended but not blocking --- the PM in each scheduled
+session reads ``Where to resume now'' first and follows what
+it says.
+
+
+\textbf{Translation state (post-Cowork-session-35):} \textbf{906 /
+958 works drafted (\~94.6\%)}. \textbf{Latest drafted by deep
+chronology is unchanged}: \textit{Ad Familiares} 10.24 (Plancus's
+camp in Gaul, 28 July 43 BC) remains the marker, because the one
+speech drafted this session (\textit{Philippic 1}, 2 September 44
+BC) is earlier than the marker. Session 35 \textbf{opened the
+Philippic phase} that PROGRESS.md post-session-34 signposted: one
+worker, end-to-end translation of the first of the fourteen
+Philippics, with 5-section-per-Edit chunk discipline and parallel-
+sidecar emission in the same session. The chronological-gap warning
+falls from \textbf{47} (post-session-34) to \textbf{46} (post-
+session-35), exactly the expected decrement of one speech moved out
+of the gap.
+
+\textbf{Cowork session 35 --- 1 substantial speech drafted (1
+worker, 38 sections, 5-section chunks):}
+
+\begin{itemize}
+\item \textbf{Worker A (\textit{Philippic 1} --- the first of the
+fourteen Philippic orations against Mark Antony, delivered in the
+Senate on 2 September 44 BC after Cicero's return from his
+abortive trip toward Greece):} 38 sections, $\sim$5{,}400 English
+words. The opening of the campaign that would consume the last
+year of Cicero's life. Tone is still relatively measured ---
+Cicero pretends to address Antony as a friend who has gone
+astray; the savage personal invective is reserved for the
+(never-delivered, published as a pamphlet) \textit{Philippic 2}.
+Contains: the \S 1 opening with Cicero's account of his journey
+(\textit{exponam vobis breviter consilium et profectionis et
+reversionis meae}) and the famous Athenian-amnesty reference
+(\textit{Graecum etiam verbum usurpavi quo tum in sedandis
+discordiis usa erat civitas illa} --- the word
+\textit{\textbf{[Greek: amnestia]}}, supplied per STYLE.md though
+the Perseus TEI carries no Greek script here); the \S 3--4
+\textit{dictatura-funditus-sustulit} passage praising Antony for
+abolishing the dictatorship (\textit{dictaturam, quae iam vim
+regiae potestatis obsederat, funditus ex re publica sustulit});
+the \S 5 \textit{uncus impactus est fugitivo illi qui in Mari
+nomen invaserat} on the executed pseudo-Marius (Herophilus /
+Amatius); the \S 6 \textit{patriae liberatores urbe carebant ea
+cuius a cervicibus iugum servile deiecerant} (``the liberators
+of their country were kept away from the city whose servile
+yoke they had thrown off her neck''); the \S 15 colloquial
+\textit{quae, malum, est ista voluntaria servitus?} (``What,
+the devil, is this voluntary slavery?''); the \S 17 lament
+\textit{pecunia utinam ad Opis maneret! cruenta illa quidem}
+on Antony's appropriation of the war-treasury in the temple of
+Ops; the \S 19--23 \textit{de tertia decuria / leges
+iudiciariae} attack on the new juror-laws (with the joke about
+the \textit{legio alaudarum} --- ``the Legion of the Larks''
+--- Caesar's Gallic V Alaudae now sitting on juries); the
+\S 32 \textit{a te, a te, inquam, mortuo Caesari nota ad
+ignominiam sempiternam} doubling on the brand Antony has burnt
+upon dead Caesar; the \S 33 four-part cadence \textit{invidiosum,
+detestabile, imbecillum, caducum}; the \S 34 famous Accius
+quotation \textit{oderint, dum metuant} (Atreus --- ``let them
+hate, so long as they fear''); and the \S 35--38 climactic
+moral case \textbf{\textit{beatus est nemo qui ea lege vivit ut
+non modo impune sed etiam cum summa interfectoris gloria
+interfici possit}} (``No man is happy who lives on such terms
+that he can be killed not only with impunity but even with
+the greatest glory to his killer''), rendered freshly from the
+Latin without echoing Yonge / Watts / Loeb / Berry per STYLE.md.
+One Greek-word reference handled with \texttt{[Greek: amnestia]}
+markup (\S 1); the \S 34 \textit{oderint dum metuant} is Latin
+tragic verse, not Greek, and was rendered with quoted Latin
+followed by italicised English. \textbf{No date correction:}
+\texttt{-0044-09-02} day-precision stands; the Perseus Latin
+file has no Perseus-dateline comment (speeches don't carry them
+the way letters do), and standard scholarly placement is exactly
+2 September 44 BC.
+\end{itemize}
+
+\textbf{No metadata corrections committed during session 35.}
+The single status flip (philippic-1: pending $\rightarrow$
+drafted) was clean; the meta entry's date, Perseus URL, and
+section count all match the Latin.
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{\S 1 \textit{quasi in vigilia quadam consulari ac
+senatoria}.} Rendered ``as if on a consular and senatorial
+watch''; \textit{vigilia} is a military night-watch image, kept
+without naturalising to ``post'' or ``duty.''
+\item \textbf{\S 1 \textit{Graecum etiam verbum usurpavi \ldots}
++ \texttt{[Greek: amnestia]}.} Perseus TEI carries no Greek
+script here, only the Latin phrase referring to the Athenian
+post-Thirty amnesty word; the marker was supplied per
+STYLE.md's Greek-phrase rule.
+\item \textbf{\S 5 \textit{uncus impactus est fugitivo illi qui
+in Mari nomen invaserat}.} Rendered ``the hook was driven into
+that runaway slave who had usurped the name of Marius.'' The
+\textit{uncus} is the literal hook used to drag executed
+criminals' bodies to the Tiber; kept the brutal image and the
+contempt of \textit{fugitivus} (the pseudo-Marius was the
+freedman Herophilus/Amatius).
+\item \textbf{\S 15 \textit{quae, malum, est ista voluntaria
+servitus?}.} Rendered ``What, the devil, is this voluntary
+slavery?'' Preferred ``the devil'' over Loeb's ``in heaven's
+name'' as too churchy; \textit{malum} is the strong colloquial
+intrusion.
+\item \textbf{\S 17 \textit{cruenta illa quidem}.} Kept ``Bloody
+money, indeed'' rather than naturalising to ``blood-stained''
+or ``ill-gotten,'' to preserve the war-treasury image of
+Pompey's confiscations now in Antony's pocket.
+\item \textbf{\S 19 \textit{legione alaudarum} / \textit{de
+tertia decuria}.} Rendered ``the Legion of the Larks'' (literal
+English calque for the V Alaudae) and ``a new panel of jurors''
+(first-occurrence gloss for the third decuria); Latin retained
+on subsequent mentions per STYLE.md.
+\item \textbf{\S 32 \textit{a te, a te, inquam, \ldots}.}
+Preserved the doubling as ``by you --- by you, I say'' rather
+than collapsing; the \textit{nota} (brand/mark) is the load-
+bearing metaphor of the section.
+\item \textbf{\S 33 \textit{invidiosum, detestabile, imbecillum,
+caducum}.} Four-part cadence preserved; chose ``falling'' for
+\textit{caducum} over ``transient'' to keep the terminal weight.
+\item \textbf{\S 34 \textit{oderint, dum metuant}.} The Accius
+quotation. Kept the Latin in quotes followed by italicised
+English ``let them hate, so long as they fear''; the speaker
+``in the play'' is preserved as Cicero's distancing frame.
+Worth a crossrefs/allusions entry to Accius's \textit{Atreus}
+once enrichment runs.
+\item \textbf{\S 35 \textit{beatus est nemo qui ea lege vivit ut
+\ldots}.} The peroration's load-bearing line. Rendered ``No
+man is happy who lives on such terms that he can be killed not
+only with impunity but even with the greatest glory to his
+killer''; kept \textit{ea lege vivit} as ``lives on such
+terms'' and let the \textit{non modo \ldots sed etiam} climb
+land.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 35 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 35:
+\ldots"} and the next Cowork session opens):
+
+\textbf{Session 36 picks up \texttt{philippic-2}.} The
+\textit{Second Philippic} is the longest of the fourteen
+($\sim$119 sections) and the most famous --- the never-delivered
+written pamphlet of late October 44 BC, the savage personal
+invective against Antony that the measured \textit{Philippic 1}
+deliberately held back. \textbf{This is almost certainly a 2-
+session split:} sessions 36 and 37 each take roughly half
+($\sim$60 sections / $\sim$8--9K English words apiece) with a
+clean break at a natural \textsection division. Standard single-
+substantial-speech-per-session pattern with 5-section chunks,
+parallel-sidecar in lockstep, WIP discipline. The Latin fetches
+cleanly from Perseus (\texttt{phi0474.phi036}, via the same
+\texttt{phi035} XML file as Phil 1 --- check the entry's
+\texttt{speech\_index} before fetch; the Perseus TEI groups all
+fourteen Philippics into the single \texttt{phi035} file with
+\texttt{textpart speech="N"} indexing).
+
+\textbf{After \textit{Philippic 2}} (sessions 38--47 or so):
+\textit{Philippics 3} (20 Dec 44, $\sim$39 sections), \textit{4}
+(20 Dec 44, $\sim$16 sections), \textit{5} (1 Jan 43, $\sim$53
+sections), \textit{6} (4 Jan 43, $\sim$19 sections), \textit{7}
+(Jan 43, $\sim$27 sections), \textit{8} (3 Feb 43, $\sim$33
+sections), \textit{9} (4 Feb 43, $\sim$17 sections), \textit{10}
+(Feb 43, $\sim$26 sections), \textit{11} (Mar 43, $\sim$40
+sections), \textit{12} (Mar 43, $\sim$30 sections), \textit{13}
+(20 Mar 43, $\sim$50 sections), \textit{14} (21 Apr 43, $\sim$38
+sections). Each fits a single session; total Philippic phase is
+likely 13 sessions (1 done, 12 to go) given the Phil 2 split.
+
+\textbf{After the Philippics} (sessions $\sim$48--58 or so):
+sweep the major philosophical treatises (\textit{Cato Maior De
+Senectute}, \textit{Paradoxa Stoicorum}, \textit{Academica},
+\textit{De Finibus}, \textit{Timaeus}, \textit{De Natura
+Deorum}, \textit{Tusculanae Disputationes}, \textit{De
+Divinatione}, \textit{De Fato}, \textit{Laelius De Amicitia},
+\textit{De Officiis}). The remaining minor speeches and the
+rhetorica (\textit{partitiones-oratoriae}, \textit{brutus},
+\textit{de-optimo-genere-oratorum}, \textit{orator},
+\textit{topica}) are slotted alongside as one-session pickups.
+
+\textbf{Slice F (the 12 no-Perseus deferred letters)} continues
+to require a single-session manual-fetch batch and is held
+until someone supplies the Latin from a standard printed
+edition.
+
+\textbf{Slice M (entity-stub enrichment, 429+ stubs in
+\texttt{data/entities.json})} remains the parallel-friendly
+fallback when no substantial work is ready to be picked up.
+
+\textbf{File-rename carry-overs from earlier sessions (sandbox
+cannot delete files; Alexander handles at handoff or follow-up):}
+\textit{Att.} 5.1, 5.7 (\texttt{049bc-} $\rightarrow$
+\texttt{051bc-}) and \textit{Fam.} 13.09 (\texttt{005bc-}
+$\rightarrow$ \texttt{050bc-}).
+
+\textbf{Launch-prompt advisory for the scheduled 2-hour Cowork
+task on Alexander's side:} the prompt text (\texttt{dispatch
+3--4 parallel batches of worker sub-agents, each translating
+3--5 short letters end-to-end}) remains stale. Sessions 32--35
+all auto-pivoted to single-substantial-speech mode per this
+section's instructions; the same auto-pivot will continue to
+apply through the Philippic and philosophical phases (sessions
+36--58 or so). Updating the scheduled-task prompt to reflect
+Phase 3 of OPERATING\_PLAN.md (``one substantial-speech worker
+per session, 5-section chunks, WIP-commit discipline'') is
+recommended but not blocking --- the PM in each scheduled
+session reads ``Where to resume now'' first and follows what
+it says.
+
+
+\textbf{Translation state (post-Cowork-session-34):} \textbf{905 /
+958 works drafted (\~94.5\%)}. \textbf{Latest drafted by deep
+chronology is unchanged}: \textit{Ad Familiares} 10.24 (Plancus's
+camp in Gaul, 28 July 43 BC) remains the marker, because the one
+speech drafted this session (\textit{Pro Rege Deiotaro}) is dated
+November 45 BC, far earlier than the marker. Session 34 \textbf{
+completed the three-speech Caesarian sweep} that sessions 32--33
+opened (\textit{Pro Marcello}, \textit{Pro Ligario}, and now
+\textit{Pro Rege Deiotaro}), maintaining the single-substantial-
+speech-per-session mode: one worker, end-to-end translation, with
+5-section-per-Edit chunk discipline and parallel-sidecar emission
+in the same session. The chronological-gap warning falls from
+\textbf{48} (post-session-33) to \textbf{47} (post-session-34),
+exactly the expected decrement of one speech moved out of the gap.
+
+\textbf{Cowork session 34 --- 1 substantial speech drafted (1
+worker, 43 sections, 5-section chunks):}
+
+\begin{itemize}
+\item \textbf{Worker A (\textit{Pro Rege Deiotaro} --- the third
+and final ``Caesarian'' speech, delivered in November 45 BC
+\textit{inside Caesar's own house} on the Palatine, defending
+King Deiotarus of Galatia against a charge of attempted
+assassination of Caesar during Caesar's stay at the royal
+estate after Zela in 47 BC):} 43 sections, $\sim$7{,}150
+English words. The accusers were Deiotarus's own grandson
+\textbf{Castor} (the ``cruel Castor, not to call him criminal
+and impious'' of \S 2) and a runaway slave of the king (the
+\textit{fugitive} cursed in \S 21 \textit{di te perduint,
+fugitive!}). Contains: the \S 1 opening on the strangeness of
+putting a king on capital trial (\textit{regem reum capitis
+esse, ut ante hoc tempus non sit auditum} --- ``that a king
+should be a defendant on a capital charge, a thing not heard
+of before this day''); the \S 3 \textit{torture-of-slaves}
+forensic principle (\textit{cum more maiorum de servo in
+dominum ne tormentis quidem quaeri liceat} --- ``when by
+ancestral custom a slave may not be examined against his master
+even on the rack'') and the consequent absurdity of letting a
+freed slave accuse what he could not have named on the
+\textit{eculeo}; the \S 5--7 set-piece on the \textbf{strange
+forum-less setting} (\textit{intra domesticos parietes, dico
+extra conventum} --- ``within domestic walls, I speak away from
+the assembly''), with the lost Forum audience reconstructed in
+the imagination; the \S 8 \textit{per dexteram istam} appeal
+to the right hand Caesar had given Deiotarus as guest-friend
+(\textit{istam, inquam, dexteram non tam in bellis neque in
+proeliis quam in promissis et fide firmiorem} --- ``that right
+hand, I say, stronger not so much in wars or in battles as in
+pledges and in faith''); the \S 13 canonical line
+\textbf{\textit{venit ut ad fugientem, non ut ad insequentem,
+id est ad periculi, non ad victoriae societatem}} (``he came
+as to one fleeing, not as to one pursuing, that is, into the
+partnership of peril, not of victory''); the \S 15 chiasmus
+\textit{rex / tyrannum} on whom one calls king and whom one
+finds a tyrant; the \S 21 imprecation \textit{di te perduint,
+fugitive!}; the \S 25 reference to a Greek-verse-paraphrased-
+in-Latin (\textit{pereant amici dum inimici una intercidant})
+--- which Cicero himself supplies in Latin, so \textbf{no
+[Greek:] markup needed}; the \S 26 \textit{frugi /
+frugalitas} meditation on whether ``thrifty'' is a kingly
+virtue or a slight; the \S 28--30 \textit{invitation-
+poisoning} narrative (the alleged plot to poison Caesar at
+the welcome-banquet, demolished by Deiotarus's actual
+hospitality); the \S 31 self-quotation \textbf{\textit{o
+tempora, o mores!}} (Cicero quoting his own \textit{In
+Catilinam} --- worth a crossrefs entry once enrichment runs);
+the \S 34 epigram \textit{cuius in victoria ceciderit nemo
+nisi armatus} (``in whose victory no one has fallen except
+in arms''); and the \S 40--43 peroration appealing to
+Caesar's clemency and to the king's two surviving sons. All
+famous lines rendered freshly from the Latin without echoing
+Yonge / Watts / Loeb / Berry, per STYLE.md. \textbf{No Greek
+phrases} requiring \texttt{[Greek:]} markup (the \S 25 verse
+is paraphrased in Latin; the \S 37 Stoic reference is in
+Cicero's own Latin). \textbf{No date correction:}
+\texttt{-0045-11-01} month-precision stands; the Perseus Latin
+file has no narrower dateline, and standard scholarly placement
+is November 45 BC between Caesar's Spanish triumph (October 45)
+and his Parthian-campaign preparations.
+\end{itemize}
+
+\textbf{No metadata corrections committed during session 34.}
+The single status flip (pro-rege-deiotaro: pending $\rightarrow$
+drafted) was clean; the meta entry's date, Perseus URL, and
+section count all match the Latin.
+
+\textbf{Translator-notes worth logging in
+\texttt{data/translator-notes.jsonl}} (Cowork did not write the
+shared jsonl directly to avoid concurrent-write contention;
+deferred to a future enrichment pass):
+\begin{itemize}
+\item \textbf{\S 1 \textit{commoveri \ldots vehementius quam
+videtur vel usus vel aetas mea postulare}.} Rendered ``more
+deeply stirred than either my practice or my years would seem
+to demand''; \textit{usus} here = forensic practice/experience,
+not the colloquial ``habit.''
+\item \textbf{\S 3 \textit{in eculeo appellare non posset}.}
+\textit{Eculeo} is the rack (literally ``little horse'').
+Rendered ``could not have called upon while on the rack'';
+kept the literal instrument because the rhetorical antithesis
+(slave-on-rack vs.~slave-at-large accusing) depends on it.
+\item \textbf{\S 8 \textit{per dexteram istam \ldots non tam
+in bellis neque in proeliis quam in promissis et fide
+firmiorem}.} The famous \textit{dextera}-oath: kept the
+antithesis ``not so much in wars or in battles as in pledges
+and in faith'' rather than smoothing to ``stronger in
+promises than in war.''
+\item \textbf{\S 13 \textit{venit ut ad fugientem, non ut ad
+insequentem}.} The canonical line. Rendered ``he came as to
+one fleeing, not as to one pursuing'' with Cicero's gloss
+unfolded as ``into the partnership of peril, not of victory.''
+The \textit{societas} idiom is preserved as ``partnership,''
+not collapsed.
+\item \textbf{\S 15 \textit{cuius tam inhumani et ingrati
+animi, a quo rex appellatus esset, in eo tyrannum
+inveniri}.} The chiasmus \textit{rex/tyrannum} preserved as
+``to be found a tyrant by the man who had given him the name
+of king.''
+\item \textbf{\S 18.} Latin clause-order is in fact awkward
+here and editors have suspected corruption; preserved with
+a parenthetical \texttt{(sic!)} rather than smoothing.
+Worth a translator-notes entry flagging the textual
+uncertainty.
+\item \textbf{\S 21 \textit{di te perduint, fugitive!}.} The
+archaic curse formula. Rendered ``May the gods destroy you,
+runaway!''; kept the imprecation register without going
+``perish thou.''
+\item \textbf{\S 25 the Greek-verse-paraphrased-in-Latin.}
+Cicero references a Greek line and then supplies a Latin
+paraphrase (\textit{pereant amici dum inimici una
+intercidant}). No Greek script on the page, so no
+\texttt{[Greek:]} markup needed; future apparatus may want
+to identify the Greek source (proverbial; close to Euripides
+or to a comic-fragment tradition).
+\item \textbf{\S 26 \textit{frugi / frugalitas}.} The
+\textit{frugalitas} set-piece. Rendered \textit{frugi} as
+``thrifty'' but glossed the abstract noun
+\textit{frugalitas} as ``frugality, that is to say modesty
+and temperance.'' The Latin meditation on whether the word
+is ``kingly'' is the point of the section and was preserved.
+\item \textbf{\S 31 \textit{o tempora, o mores!}.} Cicero
+quoting himself from \textit{In Catilinam}. Kept literal ``O
+the times, O the manners!'' to preserve the self-quotation;
+should become a crossrefs entry to \textit{in-catilinam-1}
+once enrichment runs.
+\item \textbf{\S 34 \textit{cuius in victoria ceciderit nemo
+nisi armatus}.} Rendered ``in whose victory no one has
+fallen except in arms''; avoided Yonge's ``except by arms
+in his hand'' to keep the locative-ablative compression.
+\item \textbf{\S 11 tricolon-into-quartet} (\textit{consules
+ex Italia profugisse, omnis consularis \ldots cunctum
+senatum, totam Italiam effusam}). Kept the anaphoric
+``fled \ldots fled \ldots streamed out'' to honour the
+build of bad news arriving in Galatia.
+\end{itemize}
+
+\textbf{Suggested next translation batch} (when session 34 is
+landed via \texttt{bash scripts/cowork\_handoff.sh "session 34:
+\ldots"} and the next Cowork session opens):
+
+\textbf{Session 35 should pivot to the Philippics.} The three
+Caesarian speeches are now complete. The next deep-chronology
+sweep is the \textbf{14 Philippics} (\texttt{philippic-1}
+through \texttt{philippic-14}), Cicero's final and greatest
+sustained oratorical campaign --- delivered between September
+44 BC and April 43 BC against Mark Antony, comprising the
+last of Cicero's surviving speeches. Standard single-
+substantial-speech-per-session pattern continues, with
+\textit{Philippic} 2 ($\sim$119 sections) almost certainly
+wanting a 2-session split (the famous never-delivered written
+pamphlet, the longest of the fourteen). The other Philippics
+range from $\sim$15 to $\sim$50 sections and each fits in a
+single session. The Latin fetches cleanly from Perseus
+(\texttt{phi0474.phi035} through \texttt{phi0474.phi048}).
+\textbf{Session 35 should pick up \texttt{philippic-1}} (first
+delivered 2 September 44 BC in the Senate, $\sim$38 sections,
+the opening of the campaign).
+
+\textbf{After the Philippics} (sessions 35--47 or so): sessions
+sweep the major philosophical treatises (\textit{Cato Maior De
+Senectute}, \textit{Paradoxa Stoicorum}, \textit{Academica},
+\textit{De Finibus}, \textit{Timaeus}, \textit{De Natura
+Deorum}, \textit{Tusculanae Disputationes}, \textit{De
+Divinatione}, \textit{De Fato}, \textit{Laelius De Amicitia},
+\textit{De Officiis}). The remaining minor speeches and the
+rhetorica (\textit{partitiones-oratoriae}, \textit{brutus},
+\textit{de-optimo-genere-oratorum}, \textit{orator},
+\textit{topica}) are slotted alongside as one-session pickups.
+
+\textbf{Slice F (the 12 no-Perseus deferred letters)} continues
+to require a single-session manual-fetch batch and is held
+until someone supplies the Latin from a standard printed
+edition.
+
+\textbf{Slice M (entity-stub enrichment, 429+ stubs in
+\texttt{data/entities.json})} remains the parallel-friendly
+fallback when no substantial work is ready to be picked up.
+
+\textbf{File-rename carry-overs from earlier sessions (sandbox
+cannot delete files; Alexander handles at handoff or follow-up):}
+\textit{Att.} 5.1, 5.7 (\texttt{049bc-} $\rightarrow$
+\texttt{051bc-}) and \textit{Fam.} 13.09 (\texttt{005bc-}
+$\rightarrow$ \texttt{050bc-}).
+
+\textbf{Launch-prompt advisory for the scheduled 2-hour Cowork
+task on Alexander's side:} the prompt text (\texttt{dispatch
+3--4 parallel batches of worker sub-agents, each translating
+3--5 short letters end-to-end}) remains stale. Sessions 32--34
+all auto-pivoted to single-substantial-speech mode per this
+section's instructions; the same auto-pivot will continue to
+apply through the Philippic and philosophical phases (sessions
+35--58 or so). Updating the scheduled-task prompt to reflect
+Phase 3 of OPERATING\_PLAN.md (``one substantial-speech worker
+per session, 5-section chunks, WIP-commit discipline'') is
+recommended but not blocking --- the PM in each scheduled
+session reads ``Where to resume now'' first and follows what
+it says.
+
 
 \textbf{Translation state (post-Cowork-session-33):} \textbf{904 /
 958 works drafted (\~94.4\%)}. \textbf{Latest drafted by deep

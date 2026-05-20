@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 904
-- pending: 54
+- drafted: 907
+- pending: 51
 
 ## Chronological order
 
@@ -748,7 +748,7 @@ Status:
 | 728 | October 45 BC | letters | Ad Familiares 13.7 | drafted |
 | 729 | October 45 BC | letters | Ad Familiares 13.8 | drafted |
 | 730 | 29 October 45 BC | letters | Ad Familiares 7.29 | drafted |
-| 731 | November 45 BC | speeches | For King Deiotarus | pending |
+| 731 | November 45 BC | speeches | For King Deiotarus | drafted |
 | 732 | November 45 BC | letters | Ad Familiares 9.12 | drafted |
 | 733 | 45 BC | letters | Ad Familiares 5.15 | drafted |
 | 734 | December 45 BC | letters | Ad Atticum 13.42 | drafted |
@@ -840,11 +840,11 @@ Status:
 | 820 | 19 August 44 BC | letters | Ad Atticum 16.7 | drafted |
 | 821 | 30 August 44 BC | letters | Ad Familiares 11.27 | drafted |
 | 822 | 2 September 44 BC | letters | Ad Familiares 12.20 | drafted |
-| 823 | 2 September 44 BC | speeches | First Philippic | pending |
+| 823 | 2 September 44 BC | speeches | First Philippic | drafted |
 | 824 | September 44 BC | letters | Ad Familiares 16.25 | drafted |
 | 825 | 19 September 44 BC | letters | Ad Familiares 10.1 | drafted |
 | 826 | 19 September 44 BC | letters | Ad Familiares 12.22 | drafted |
-| 827 | October 44 BC | speeches | Second Philippic | pending |
+| 827 | October 44 BC | speeches | Second Philippic | drafted |
 | 828 | 5 October 44 BC | letters | Ad Familiares 10.2 | drafted |
 | 829 | 5 October 44 BC | letters | Ad Familiares 12.2 | drafted |
 | 830 | 6 October 44 BC | letters | Ad Familiares 12.3 | drafted |
