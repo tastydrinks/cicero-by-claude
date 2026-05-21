@@ -6708,7 +6708,7 @@
   latin_file: latin/rhetoric/054bc-partitiones-oratoriae.tex
   english_file: english/rhetoric/054bc-partitiones-oratoriae.tex
   headnote_file: headnotes/rhetoric/054bc-partitiones-oratoriae.tex
-  status: pending
+  status: drafted
   notes: Catechistic dialogue with his son on rhetorical theory; date disputed (somewhere between c. 54 and 46 BC).
   date_range_end: -0046-12-31
 - id: pro-plancio
@@ -6723,7 +6723,7 @@
   latin_file: latin/speeches/054bc-pro-plancio.tex
   english_file: english/speeches/054bc-pro-plancio.tex
   headnote_file: headnotes/speeches/054bc-pro-plancio.tex
-  status: pending
+  status: drafted
   notes: Defence of Plancius on electoral bribery charges; warm thanks to Plancius for sheltering Cicero in exile.
 - id: pro-rabirio-postumo
   title_latin: Pro C. Rabirio Postumo
@@ -6737,7 +6737,7 @@
   latin_file: latin/speeches/054bc-pro-rabirio-postumo.tex
   english_file: english/speeches/054bc-pro-rabirio-postumo.tex
   headnote_file: headnotes/speeches/054bc-pro-rabirio-postumo.tex
-  status: pending
+  status: drafted
   notes: Defence of Rabirius on a charge under the lex Iulia de repetundis arising from Ptolemy Auletes' restoration.
   date_range_end: -0053-12-31
 - id: pro-scauro
@@ -6752,7 +6752,7 @@
   latin_file: latin/speeches/054bc-pro-scauro.tex
   english_file: english/speeches/054bc-pro-scauro.tex
   headnote_file: headnotes/speeches/054bc-pro-scauro.tex
-  status: pending
+  status: drafted
   notes: Defence of Scaurus on extortion charges from Sardinia. Survives only in fragments.
 - id: ad-familiares-02-01
   title_latin: Ad Familiares 2.1
@@ -7361,7 +7361,7 @@
   latin_file: latin/speeches/052bc-pro-milone.tex
   english_file: english/speeches/052bc-pro-milone.tex
   headnote_file: headnotes/speeches/052bc-pro-milone.tex
-  status: pending
+  status: drafted
   notes: Defence of Milo for the killing of Clodius on the Appian Way. The published version differs from what Cicero managed
     to deliver.
 - id: de-legibus
@@ -10426,7 +10426,7 @@
   latin_file: latin/rhetoric/046bc-brutus.tex
   english_file: english/rhetoric/046bc-brutus.tex
   headnote_file: headnotes/rhetoric/046bc-brutus.tex
-  status: pending
+  status: drafted
   notes: Dialogue tracing the history of Roman oratory from its origins to Cicero's own day.
 - id: ad-atticum-12-01
   title_latin: Ad Atticum 12.1
@@ -15624,7 +15624,7 @@
   latin_file: latin/speeches/044bc-philippic-3.tex
   english_file: english/speeches/044bc-philippic-3.tex
   headnote_file: headnotes/speeches/044bc-philippic-3.tex
-  status: pending
+  status: drafted
   notes: Senate speech approving the resistance of Octavian and Decimus Brutus to Antony.
   speech_index: '3'
 - id: philippic-4
@@ -15639,7 +15639,7 @@
   latin_file: latin/speeches/044bc-philippic-4.tex
   english_file: english/speeches/044bc-philippic-4.tex
   headnote_file: headnotes/speeches/044bc-philippic-4.tex
-  status: pending
+  status: drafted
   notes: Speech to the people the same day as the Third Philippic.
   speech_index: '4'
 - id: philippic-5
@@ -15654,7 +15654,7 @@
   latin_file: latin/speeches/043bc-philippic-5.tex
   english_file: english/speeches/043bc-philippic-5.tex
   headnote_file: headnotes/speeches/043bc-philippic-5.tex
-  status: pending
+  status: drafted
   notes: Senate speech against negotiation with Antony, urging war.
   speech_index: '5'
 - id: philippic-7
@@ -15669,7 +15669,7 @@
   latin_file: latin/speeches/043bc-philippic-7.tex
   english_file: english/speeches/043bc-philippic-7.tex
   headnote_file: headnotes/speeches/043bc-philippic-7.tex
-  status: pending
+  status: drafted
   notes: Senate speech in mid-January 43 BC against any peace with Antony.
   speech_index: '7'
 - id: philippic-6
@@ -15684,7 +15684,7 @@
   latin_file: latin/speeches/043bc-philippic-6.tex
   english_file: english/speeches/043bc-philippic-6.tex
   headnote_file: headnotes/speeches/043bc-philippic-6.tex
-  status: pending
+  status: drafted
   notes: Speech to the people reporting on the embassy to Antony.
   speech_index: '6'
 - id: philippic-10
@@ -15699,7 +15699,7 @@
   latin_file: latin/speeches/043bc-philippic-10.tex
   english_file: english/speeches/043bc-philippic-10.tex
   headnote_file: headnotes/speeches/043bc-philippic-10.tex
-  status: pending
+  status: drafted
   notes: Senate speech in support of M. Brutus' command in Macedonia.
   speech_index: '10'
 - id: philippic-8
@@ -15714,7 +15714,7 @@
   latin_file: latin/speeches/043bc-philippic-8.tex
   english_file: english/speeches/043bc-philippic-8.tex
   headnote_file: headnotes/speeches/043bc-philippic-8.tex
-  status: pending
+  status: drafted
   notes: Senate speech distinguishing between civil war and a war against a public enemy.
   speech_index: '8'
 - id: philippic-9
@@ -15729,7 +15729,7 @@
   latin_file: latin/speeches/043bc-philippic-9.tex
   english_file: english/speeches/043bc-philippic-9.tex
   headnote_file: headnotes/speeches/043bc-philippic-9.tex
-  status: pending
+  status: drafted
   notes: Senate speech proposing public honours for the slain ambassador Servius Sulpicius Rufus.
   speech_index: '9'
 - id: philippic-11
@@ -15744,7 +15744,7 @@
   latin_file: latin/speeches/043bc-philippic-11.tex
   english_file: english/speeches/043bc-philippic-11.tex
   headnote_file: headnotes/speeches/043bc-philippic-11.tex
-  status: pending
+  status: drafted
   notes: Senate speech on the killing of Trebonius by Dolabella; proposes Cassius for a Syrian command.
   speech_index: '11'
 - id: philippic-12
@@ -15759,7 +15759,7 @@
   latin_file: latin/speeches/043bc-philippic-12.tex
   english_file: english/speeches/043bc-philippic-12.tex
   headnote_file: headnotes/speeches/043bc-philippic-12.tex
-  status: pending
+  status: drafted
   notes: Senate speech withdrawing Cicero's earlier offer to serve on a second embassy to Antony.
   speech_index: '12'
 - id: philippic-13
@@ -15774,7 +15774,7 @@
   latin_file: latin/speeches/043bc-philippic-13.tex
   english_file: english/speeches/043bc-philippic-13.tex
   headnote_file: headnotes/speeches/043bc-philippic-13.tex
-  status: pending
+  status: drafted
   notes: Senate speech responding line by line to a letter from Antony to Hirtius and Octavian.
   speech_index: '13'
 - id: philippic-14
@@ -15789,7 +15789,7 @@
   latin_file: latin/speeches/043bc-philippic-14.tex
   english_file: english/speeches/043bc-philippic-14.tex
   headnote_file: headnotes/speeches/043bc-philippic-14.tex
-  status: pending
+  status: drafted
   notes: Senate speech after the news of the victory at Forum Gallorum; the last surviving speech.
   speech_index: '14'
 - id: ad-brutum-01-01

@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "id": "philippic-7",
+  "category": "speeches",
+  "title_latin": "Philippica VII",
+  "title_english": "Seventh Philippic",
+  "date": "-0043-01-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "parvis de rebus sed fortasse necessariis consulimur, patres conscripti. de Appia via et de Moneta consul, de Lupercis tribunus plebis refert. quarum rerum etsi facilis explicatio videtur, tamen animus aberrat a sententia suspensus curis maioribus. adducta est enim, patres conscripti, res in maximum periculum et in extremum paene discrimen. non sine causa legatorum istam missionem semper timui, numquam probavi: quorum reditus quid sit adlaturus ignoro; exspectatio quidem quantum adferat languoris animis quis non videt? non enim se tenent ei qui senatum dolent ad auctoritatis pristinae spem revirescere , coniunctum huic ordini populum Romanum, conspirantem Italiam, paratos exercitus, expeditos duces.",
+      "eng": "We are consulted on small matters --- though perhaps necessary ones, senators. The consul brings forward the Appian Way and the Mint; the tribune of the plebs, the Lupercalia. Easy though the disposing of these affairs may seem, nevertheless my mind wanders from the question, suspended on graver cares. For the situation, senators, has been brought to the gravest peril and to the very brink of its last crisis. Not without reason did I always fear that mission of legates; I never approved it: what their return will bring back I do not know; but the waiting itself --- how much languor it brings to our spirits --- who does not see? For those who grieve that the Senate revives, in hope of its old authority, do not contain themselves: the Roman people joined to this order, Italy in unison, armies prepared, commanders ready.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "iam nunc fingunt responsa Antoni eaque defendunt. Alii postulare illum ut omnes exercitus dimittantur. scilicet legatos ad eum misimus, non ut pareret et dicto audiens esset huic ordini, sed ut condiciones ferret, leges imponeret , reserare nos exteris gentibus Italiam iuberet, se praesertim incolumi a quo maius periculum quam ab ullis nationibus extimescendum est.",
+      "eng": "Already now they invent the answers of Antony and defend them. Some say he demands that all armies be disbanded. So, then, we sent legates to him not so that he might obey and be obedient to this order's word, but so that he might bring his terms, impose his laws, command us to throw Italy open to foreign nations --- and that with him left intact, from whom we have greater danger to fear than from any nations whatever.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "Alii remittere eum nobis Galliam citeriorem, illam ultimam postulare—praeclare: ex qua non legiones solum sed etiam nationes ad urbem conetur adducere—alii nihil eum iam nisi modeste postulare. Macedoniam suam vocat omnino, quoniam Gaius frater est inde revocatus. sed quae provincia est ex qua illa fax excitare non possit incendium? itaque idem quasi providi cives et senatores diligentes bellicum me cecinisse dicunt, suscipiunt pacis patrocinium. nonne sic disputant? inritatum Antonium non oportuit: nequam est homo ille atque confidens; multi praeterea improbi—quos quidem a se primum numerare possunt qui haec loquuntur—eos cavendos esse denuntiant. Vtrum igitur in nefariis civibus ulciscendi , cum possis, an pertimescendi diligentior cautio est.",
+      "eng": "Others, that he releases Hither Gaul to us and demands that further one --- splendidly! the one from which he is trying to bring to the city not only legions but whole nations. Others, that he now demands nothing but with moderation. Macedonia he calls his own outright, since his brother Gaius has been recalled from there. But what province is there from which that firebrand cannot kindle a conflagration? And so these same men, as foresighted citizens and diligent senators, say that I sounded the war-trumpet, and they undertake the patronage of peace. Do they not argue thus? Antony should not have been provoked; he is a worthless man and a bold one; there are besides many wicked men --- whom indeed those who say these things can count first among themselves --- and we are warned to beware them. Which then is the more diligent caution to take with nefarious citizens: to punish them when you can, or to be afraid of them?",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "atque haec ei loquuntur qui quondam propter levitatem populares habebantur . ex quo intellegi potest animo illos abhorruisse semper ab optimo civitatis statu, non voluntate fuisse popularis. qui enim evenit ut, qui in rebus improbis populares fuerint, idem in re una maxime populari, quod eadem salutaris rei publicae sit, improbos se quam popularis esse malint? me quidem semper, uti scitis, adversarium multitudinis temeritati haec fecit praeclarissima causa popularem.",
+      "eng": "And these things are said by men who once, on account of their fickleness, were considered popular. From which one can understand that in their minds they always abhorred the best condition of the commonwealth, that they were not popular by will. For how does it come about that those who in wicked matters were popular, the same men, in the one matter most popular --- because that same thing is salutary for the commonwealth --- prefer to be wicked rather than popular? For me, indeed, as you know, this most illustrious cause has always made me popular, opponent though I was of the multitude's recklessness.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "et quidem dicuntur vel potius se ipsi dicunt consularis: quo nomine dignus est nemo, nisi qui tanti honoris onus potest sustinere. faveas tu hosti? ille litteras ad te mittat de sua spe rerum secundarum; eas tu laetus proferas, recites, describendas etiam des improbis civibus, eorum augeas animos, bonorum spem virtutemque debilites, et te consularem aut senatorem, denique civem putes? accipiet in optimam partem C. Pansa, fortissimus consul atque optimus. etenim dicam animo amicissimo: hunc ipsum, mihi hominem familiarissimum, nisi talis consul esset ut omnis vigilias, curas, cogitationes in rei publicae salute defigeret , consulem non putarem.",
+      "eng": "And indeed they are called, or rather call themselves, consulars: a name of which no one is worthy unless he can bear the burden of so great an honour. Would you favour an enemy? Let him send you letters about his hope of success; would you joyfully produce them, recite them, even give them out to be copied by wicked citizens, increase their spirits, weaken the hope and the courage of the good --- and after this think yourself a consular, or a senator, or finally a citizen? Gaius Pansa, that most resolute and excellent consul, will take this in the best part. For I will speak with the most friendly mind: this very man, most familiar to me, unless he were such a consul as to fix all his watches, all his cares, all his thoughts upon the safety of the commonwealth --- I would not think him a consul.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "quamquam nos ab ineunte illius aetate usus, consuetudo, studiorum etiam honestissimorum societas similitudoque devinxit , eiusdemque cura incredibilis in asperrimis belli civilis periculis perspecta docuit non modo salutis sed etiam dignitatis meae fuisse fautorem , tamen eundem, ut dixi, nisi talis consul esset, negare esse consulem auderem: idem non modo consulem esse dico sed memoria mea praestantissimum atque optimum consulem, non quin pari virtute et voluntate alii fuerint, sed tantam causam non habuerunt in qua et voluntatem suam et virtutem declararent.",
+      "eng": "Although the use of long years, our companionship, our partnership and likeness even in the most honourable studies have bound us from the beginning of his youth, and the same man's incredible care, seen in the harshest dangers of the civil war, has taught us that he was the patron not only of my safety but of my dignity also --- nevertheless, as I have said, this same man, if he were not such a consul as he is, I would dare to deny was a consul: the same man I not only declare to be consul, but in my memory the most outstanding and best of consuls --- not because others were not of equal courage and goodwill, but because they did not have so great a cause in which to declare their goodwill and their courage.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "huius magnitudini animi, gravitati, sapientiae tempestas est oblata formidolosissimi temporis. tum autem inlustratur consulatus, cum gubernat rem publicam, si non optabili, at necessario tempore. magis autem necessarium, patres conscripti, nullum tempus umquam fuit. itaque ego ille qui semper pacis auctor fui, cuique pax, praesertim civilis, quamquam omnibus bonis, tamen in primis fuit optabilis—omne enim curriculum industriae nostrae in foro, in curia, in amicorum periculis propulsandis elaboratum est; hinc honores amplissimos, hinc mediocris opes, hinc dignitatem si quam habemus consecuti sumus—",
+      "eng": "Upon his greatness of mind, gravity, and wisdom the storm of the most fearful time has been cast. And then a consulship is made illustrious, when it steers the commonwealth, if not at a wished-for hour, at least at a necessary one. But no time has ever been more necessary, senators. And so I --- that man who was always the author of peace, to whom peace, especially civil peace, although desirable to all good men, was desirable in the first place --- for the whole course of my industry has been worked out in the Forum, in the Curia, in fending off the dangers of friends; from this have come the highest honours, from this what moderate wealth I have, from this whatever dignity we have attained ---",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "ego igitur pacis, ut ita dicam, alumnus qui quantuscumque sum—nihil enim mihi adrogo —sine pace civili certe non fuissem—periculose dico: quem ad modum accepturi, patres conscripti, sitis, horreo, sed pro mea perpetua cupiditate vestrae dignitatis retinendae et augendae quaeso oroque vos, patres conscripti, ut primo, etsi erit vel acerbum auditu vel incredibile a M. Cicerone esse dictum, accipiatis sine offensione quod dixero, neve id prius quam quale sit explicaro repudietis—ego ille, dicam saepius, pacis semper laudator, semper auctor, pacem cum M. Antonio esse nolo. Magna spe ingredior in reliquam orationem, patres conscripti, quoniam periculosissimum locum silentio sum praetervectus.",
+      "eng": "I, then, the foster-child of peace, so to speak, who --- whatever I am, for I claim nothing for myself --- would certainly not have been so without civil peace: I speak dangerously: how you, senators, are going to take it I shudder to think, but for my perpetual desire of preserving and increasing your dignity I ask and beseech you, senators, that, first, even if it shall be either bitter to hear or incredible that it has been said by Marcus Cicero, you receive without offence what I shall say, nor reject it before I have explained what sort of thing it is --- I, that man, I will say again and again, always the praiser of peace, always its author, do not want peace with Marcus Antonius. With great hope I enter upon the rest of my oration, senators, since I have sailed past the most dangerous spot in silence.",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "cur igitur pacem nolo? quia turpis est, quia periculosa, quia esse non potest. quae tria dum explico, peto a vobis, patres conscripti, ut eadem benignitate qua soletis mea verba audiatis. quid est inconstantia, levitate, mobilitate cum singulis hominibus, tum vero universo senatui turpius? quid porro inconstantius quam quem modo hostem non verbo sed re multis decretis iudicaritis ,",
+      "eng": "Why then do I not want peace? Because it is shameful, because it is dangerous, because it cannot exist. While I explain these three things, I ask you, senators, that you hear my words with the same kindness as you usually do. What is more shameful than inconsistency, fickleness, mobility --- both for individual men, and especially for the Senate as a whole? What further is more inconsistent than to want suddenly to be joined in peace with the man whom you have just adjudged, not in word but in fact, by many decrees, an enemy ---",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "cum hoc subito pacem velle coniungi? Nisi vero, cum C. Caesari meritos illi quidem honores et debitos, sed tamen singularis et immortalis decrevistis, unam ob causam quod contra M. Antonium exercitum comparavisset, non hostem tum Antonium iudicavistis, nec tum hostis est a vobis iudicatus Antonius cum laudati auctoritate vestra veterani milites qui C. Caesarem secuti essent, nec tum hostem Antonium iudicastis cum fortissimis legionibus, quod illum qui consul appellabatur cum esset hostis, reliquissent, vacationes, pecunias, agros spopondistis.",
+      "eng": "---than with this very man suddenly to want peace? Unless, when you decreed to Gaius Caesar honours indeed deserved by him and due, but yet singular and immortal, for one reason --- because he had got an army together against Marcus Antonius --- you did not then judge Antony an enemy; nor was Antony then judged an enemy by you when, by your authority, were praised those veteran soldiers who had followed Gaius Caesar; nor did you then judge Antony an enemy when, to the most resolute legions, because they had abandoned the man who was called consul although he was an enemy, you pledged exemptions, monies, and lands.",
+      "notes": null
+    },
+    {
+      "loc": "11",
+      "section": 11,
+      "lat": "quid ? cum Brutum omine quodam illius generis et nominis natum ad rem publicam liberandam exercitumque eius pro libertate populi Romani bellum gerentem cum Antonio provinciamque fidelissimam atque optimam, Galliam , laudibus amplissimis adfecistis, tum non hostem iudicastis Antonium? quid ? cum decrevistis ut consules, alter ambove, ad bellum proficiscerentur, quod erat bellum, si hostis Antonius non erat?",
+      "eng": "What? When you affected with the highest praises Brutus --- born by some omen of his lineage and his name for liberating the commonwealth --- and his army waging war with Antony for the liberty of the Roman people, and Gaul, that most loyal and excellent province, did you then not judge Antony an enemy? What? When you decreed that the consuls, one or both, should set out for the war --- what war was it, if Antony was not an enemy?",
+      "notes": null
+    },
+    {
+      "loc": "12",
+      "section": 12,
+      "lat": "quid igitur profectus est vir fortissimus, meus conlega et familiaris, A. Hirtius consul? at qua imbecillitate, qua macie! sed animi viris corporis infirmitas non retardavit. aequum , credo, putavit vitam quam populi Romani votis retinuisset pro libertate populi Romani in discrimen adducere.",
+      "eng": "To what purpose then has that most resolute man, my colleague and friend, the consul Aulus Hirtius, set out? But with what weakness, with what wasting of body! Yet the infirmity of his body has not held back the strength of his mind. Just, I suppose, he thought it to bring into peril for the liberty of the Roman people the life which he had retained by the prayers of the Roman people.",
+      "notes": null
+    },
+    {
+      "loc": "13",
+      "section": 13,
+      "lat": "quid ? cum dilectus haberi tota Italia iussistis, cum vacationes omnis sustulistis, tum ille hostis non est iudicatus? armorum officinas in urbe videtis; milites cum gladiis sequuntur consulem; praesidio sunt specie consuli, re et veritate nobis; omnes sine ulla recusatione, summo etiam cum studio nomina dant , parent auctoritati vestrae: non est iudicatus hostis Antonius?",
+      "eng": "What? When you ordered a levy to be held throughout all Italy, when you abolished all exemptions, was that man then not judged an enemy? You see arsenals in the city; soldiers with swords follow the consul; in appearance they are a guard for the consul --- in fact and in truth, for us; all without any refusal, and with the highest enthusiasm too, give in their names, obey your authority: is Antony not judged an enemy?",
+      "notes": null
+    },
+    {
+      "loc": "14",
+      "section": 14,
+      "lat": "at legatos misimus. heu , me miserum! cur senatum cogor, quem laudavi semper, reprehendere? quid ? vos censetis, patres conscripti, legatorum missionem populo Romano vos probavisse ? non intellegitis, non auditis meam sententiam flagitari? cui cum pridie frequentes essetis adsensi, postridie ad spem estis inanem pacis devoluti. quam turpe porro legiones ad senatum legatos mittere, senatum ad Antonium! quamquam illa legatio non est, denuntiatio est paratum illi exitium , nisi paruerit huic ordini. quid refert? tamen opinio est gravis . Missos enim legatos omnes vident; decreti nostri non omnes verba noverunt. retinenda est igitur nobis constantia, gravitas, perseverantia; repetenda vetus illa severitas, si quidem auctoritas senatus decus, honestatem, laudem dignitatemque desiderat, quibus rebus hic ordo caruit nimium diu. sed erat tunc excusatio oppressis, misera illa quidem, sed tamen iusta: nunc nulla est. liberati regio dominatu videbamur: multo postea gravius urgebamur armis domesticis. ea ipsa depulimus nos quidem: extorquenda sunt. quod si non possumus facere—dicam quod dignum est et senatore et Romano homine—moriamur.",
+      "eng": "But we have sent legates. Alas, the misery of it! Why am I forced to reproach the Senate, which I have always praised? What? Do you suppose, senators, that you have made the sending of legates acceptable to the Roman people? Do you not understand, do you not hear, that my opinion is being clamoured for? To which on the previous day, in full house, you had assented, and on the day following you slid down to the empty hope of peace. How shameful, moreover, that the legions send legates to the Senate, and the Senate to Antony! Although that is not a legation, it is a notice: that destruction is prepared for him unless he obeys this order. What does it matter? Still the impression is grave. For all see that the legates have been sent; the words of our decree not all of them know. So we must hold to our constancy, our gravity, our perseverance; we must take up again that old severity, if indeed the authority of the Senate desires honour, integrity, praise, and dignity --- the things this order has gone without too long. But there was then an excuse for the oppressed --- miserable indeed, but still just: now there is none. We seemed to have been freed from royal domination: long afterwards, more gravely, we were pressed by domestic arms. These very things we ourselves have driven off: they must be wrenched away. But if we cannot do it --- I will say what is worthy of a senator and of a Roman man --- let us die.",
+      "notes": null
+    },
+    {
+      "loc": "15",
+      "section": 15,
+      "lat": "quanta enim illa erit rei publicae turpitudo, quantum dedecus, quanta labes, dicere in hoc ordine sententiam M. Antonium consulari loco! cuius ut omittam innumerabilia scelera urbani consulatus, in quo pecuniam publicam maximam dissipavit, exsules sine lege restituit, vectigalia divendidit, provincias de populi Romani imperio sustulit, regna addixit pecunia, leges civitati per vim imposuit, armis aut obsedit aut exclusit senatum: ut haec, inquam, omittam, ne hoc quidem cogitatis, eum qui Mutinam, coloniam populi Romani firmissimam, oppugnarit, imperatorem populi Romani , consulem designatum, obsederit, depopulatus agros sit, hunc in eum ordinem recipi a quo totiens ob has ipsas causas hostis iudicatus sit quam foedum flagitiosumque sit ?",
+      "eng": "For what shamefulness it will be to the commonwealth, what dishonour, what stain, that Marcus Antonius should speak his opinion in this order from the consular bench! Pass over his innumerable crimes of his urban consulship --- in which he scattered the greatest sum of public money, restored exiles without a law, sold off the revenues, removed provinces from the empire of the Roman people, assigned kingdoms for money, imposed laws on the city by force, and by arms either besieged or excluded the Senate --- pass over these, I say: do you not even consider this --- that he who has stormed Mutina, a most resolute colony of the Roman people, has besieged a commander of the Roman people and consul-elect, has laid waste the fields --- that this man should be received into that order by which so many times for these very causes he has been judged an enemy: how foul, how flagitious a thing it would be?",
+      "notes": null
+    },
+    {
+      "loc": "16",
+      "section": 16,
+      "lat": "satis multa de turpitudine. dicam deinceps, ut proposui, de periculo: quod etsi minus est fugiendum quam turpitudo, tamen offendit animos maioris partis hominum magis. poteritis igitur exploratam habere pacem, cum in civitate Antonium videbitis vel potius Antonios? Nisi forte contemnitis Lucium: ego ne Gaium quidem . sed , ut video, dominabitur Lucius. est enim patronus quinque et triginta tribuum, quarum sua lege qua cum C. Caesare magistratus partitus est suffragium sustulit; patronus centuriarum equitum Romanorum quas item sine suffragio esse voluit, patronus eorum qui tribuni militares fuerunt, patronus Iani medii.",
+      "eng": "Enough about shamefulness. I will speak next, as I proposed, about the danger: which although less to be fled than shamefulness, yet strikes the minds of the greater part of men more sharply. Will you then be able to hold for explored peace, when you see Antony in the city --- or rather, the Antonii? Unless perhaps you despise Lucius: I do not even despise Gaius. But, as I see it, Lucius will dominate. For he is the patron of the thirty-five tribes, whose vote, by that law of his by which he shared the magistracy with Gaius Caesar, he abolished; patron of the centuries of Roman equestrians, which likewise he wished to have no vote; patron of those who were military tribunes; patron of the Middle Janus.",
+      "notes": null
+    },
+    {
+      "loc": "17",
+      "section": 17,
+      "lat": "quis huius potentiam poterit sustinere? praesertim cum eosdem in agros etiam deduxerit. quis umquam omnis tribus, quis equites Romanos, quis tribunos militaris? Gracchorum potentiam maiorem fuisse arbitramini quam huius gladiatoris futura sit? quem gladiatorem non ita appellavi ut interdum etiam M. Antonius gladiator appellari solet, sed ut appellant ei qui plane et Latine loquuntur. Myrmillo in Asia depugnavit. cum ornasset Thraecidicis comitem et familiarem suum, illum miserum fugientem iugulavit, luculentam tamen ipse plagam accepit, ut declarat cicatrix.",
+      "eng": "Who will be able to bear this man's power? Especially when he has led the same men out into the fields too. Who has ever held all the tribes for clients, who all the Roman equestrians, who all the military tribunes? Do you imagine the power of the Gracchi was greater than this gladiator's will be? Whom I have called gladiator not in the way in which Marcus Antonius too is sometimes called a gladiator, but as those call him who speak plainly and in Latin. A Myrmillo, he fought to the death in Asia. When he had armed his comrade and intimate friend in the Thracian's gear, that wretch fleeing he stabbed in the throat --- though he himself took a luculent gash, as the scar declares.",
+      "notes": null
+    },
+    {
+      "loc": "18",
+      "section": 18,
+      "lat": "qui familiarem iugularit , quid is occasione data faciet inimico? et qui illud animi causa fecerit, hunc praedae causa quid facturum putatis? non rursus improbos decuriabit, non sollicitabit rursus agrarios, non queretur expulsos? M. vero Antonius non is erit ad quem omni motu concursus fiat civium perditorum? Vt nemo sit alius nisi ei qui una sunt, et ei qui hic ei nunc aperte favent, parumne erunt multi? praesertim cum bonorum praesidia discesserint , illi parati sint ad nutum futuri? ego vero metuo, si hoc tempore consilio lapsi erimus, ne illi brevi tempore nimis multi nobis esse videantur.",
+      "eng": "He who has cut the throat of his intimate friend, what will he do to his enemy when the chance is given? And he who did that for the pleasure of it, what do you think he will do for the sake of plunder? Will he not again enrol wicked men in companies, not again stir up the agrarian agitators, not complain of those who have been expelled? Will Marcus Antonius indeed not be the man to whom at every commotion lost citizens flock together? Even if there were none but those who are with him and those who openly favour him here now, will they be too few? Especially when the guards of the good have withdrawn, and those men are ready to act at his nod? But I fear, if at this time we slip in our counsel, that in a short time they will seem to us all too many.",
+      "notes": null
+    },
+    {
+      "loc": "19",
+      "section": 19,
+      "lat": "nec ego pacem nolo, sed pacis nomine bellum involutum reformido. qua re si pace frui volumus, bellum gerendum est; si bellum omittimus , pace numquam fruemur. est autem vestri consili, patres conscripti, in posterum quam longissime providere. idcirco in hac custodia et tamquam specula conlocati sumus uti vacuum metu populum Romanum nostra vigilia et prospicientia redderemus. turpe est summo consilio orbis terrae, praesertim in re tam perspicua, consilium intellegi defuisse.",
+      "eng": "Nor do I refuse peace, but I dread war wrapped in the name of peace. Wherefore, if we wish to enjoy peace, war must be waged; if we let go of war, we will never enjoy peace. Yet it is for your counsel, senators, to look forward as far as possible into what is to come. For this reason we have been stationed on this watch, on this lookout as it were, that we might render the Roman people, by our vigilance and foresight, free from fear. It is shameful that the supreme council of the orb of the earth should, especially in a matter so plain, be understood to have lacked counsel.",
+      "notes": null
+    },
+    {
+      "loc": "20",
+      "section": 20,
+      "lat": "Eos consules habemus, eam populi Romani alacritatem, eum consensum Italiae, eos duces, eos exercitus, ut nullam calamitatem res publica accipere possit sine culpa senatus. equidem non deero: monebo, praedicam , denuntiabo, testabor semper deos hominesque quid sentiam, nec solum fidem meam, quod fortasse videatur satis esse, sed in principe civi non est satis: curam, consilium vigilantiamque praestabo.",
+      "eng": "We have such consuls, such alacrity in the Roman people, such consensus of Italy, such commanders, such armies, that the commonwealth can suffer no calamity except by the fault of the Senate. I, for my part, will not fail you: I will warn, I will foretell, I will give notice, I will always call gods and men to witness what I feel; and not only my fidelity --- which perhaps may seem enough, but in a leading citizen is not enough --- I will offer also care, counsel, and vigilance.",
+      "notes": null
+    },
+    {
+      "loc": "21",
+      "section": 21,
+      "lat": "dixi de periculo: docebo ne coagmentari quidem posse pacem; de tribus enim quae proposui hoc extremum est. quae potest pax esse M. Antonio primum cum senatu? quo ore vos ille poterit, quibus vicissim vos illum oculis intueri? quis vestrum illum, quem ille vestrum non oderit? age , vos ille solum et vos illum? quid? ei qui Mutinam circumsedent, qui in Gallia dilectus habent, qui in vestras fortunas imminent, amici umquam vobis erunt aut vos illis? an equites Romanos amplectetur? occulta enim fuit eorum voluntas iudiciumque de Antonio. qui frequentissimi in gradibus Concordiae steterunt , qui nos ad libertatem recuperandam excitaverunt, arma, saga , bellum flagitaverunt, me una cum populo Romano in contionem vocaverunt, hi Antonium diligent et cum his pacem servabit Antonius?",
+      "eng": "I have spoken of the danger; I will show next that peace cannot even be cemented together --- for of the three things I proposed this is the last. What peace can there be, first, between Marcus Antonius and the Senate? With what face will he be able to look upon you, with what eyes will you in turn look upon him? Which of you does not hate him, whom of you does he not hate? Come now: is it only between you and him, and him and you? What of those who besiege Mutina, who hold levies in Gaul, who threaten your fortunes --- will they ever be friends to you, or you to them? Will he embrace the Roman equestrians? For hidden, was it, that order's will and judgment about Antony? They who in densest throngs stood on the steps of Concord, who roused us to the recovery of our liberty, who clamoured for arms, for cloaks, for war, who summoned me with the Roman people into the assembly --- will these love Antony, and will Antony keep peace with these?",
+      "notes": null
+    },
+    {
+      "loc": "22",
+      "section": 22,
+      "lat": "nam quid ego de universo populo Romano dicam? qui pleno ac referto foro bis me una mente atque voce in contionem vocavit declaravitque maximam libertatis recuperandae cupiditatem. ita , quod erat optabile antea ut populum Romanum comitem haberemus, nunc habemus ducem. quae est igitur spes, qui Mutinam circumsedent, imperatorem populi Romani exercitumque oppugnant, eis pacem cum populo Romano esse posse ?",
+      "eng": "For what shall I say of the entire Roman people? Which in a full and packed Forum twice, with one mind and one voice, summoned me into the assembly and declared its supreme desire of recovering liberty. So that what was desirable before --- that we should have the Roman people as a companion --- now we have as our leader. What hope is there, then, that those who besiege Mutina, who attack a commander of the Roman people and his army, can have peace with the Roman people?",
+      "notes": null
+    },
+    {
+      "loc": "23",
+      "section": 23,
+      "lat": "an cum municipiis pax erit quorum tanta studia cognoscuntur in decretis faciendis, militibus dandis, pecuniis pollicendis, ut in singulis oppidis curiam populi Romani non desideretis ? laudandi sunt ex huius ordinis sententia Firmani qui principes pecuniae pollicendae fuerunt; respondendum honorifice est Marrucinis qui ignominia notandos censuerunt eos si qui militiam subterfugissent. haec iam tota Italia fient . Magna pax Antonio cum eis, his item cum illo. quae potest esse maior discordia? in discordia autem pax civilis esse nullo pacto potest.",
+      "eng": "Or will there be peace with the municipalities, whose so great zeal is known in passing decrees, giving soldiers, promising money, that in each individual town you would not miss the Curia of the Roman people? The men of Firmum, who were the first in promising money, are to be praised by the sentiment of this order; the Marrucini, who voted that any who had shirked military service should be branded with infamy, must be answered with honour. These things will now be done all over Italy. Great peace for Antony with these, and these with him! What greater discord can there be? But in discord, civil peace can in no way exist.",
+      "notes": null
+    },
+    {
+      "loc": "24",
+      "section": 24,
+      "lat": "Vt omittam multitudinem, L. Visidio , equiti Romano, homini in primis ornato atque honesto civique semper egregio, cuius ego excubias et custodias mei capitis cognovi in consulatu meo; qui vicinos suos non cohortatus est solum ut milites fierent sed etiam facultatibus suis sublevavit: huic, inquam, tali viro, quem nos senatus consulto conlaudare debemus, poteritne esse pacatus Antonius? quid ? C. Caesari qui illum urbe, quid? D.",
+      "eng": "Pass over the multitude. There is Lucius Visidius, a Roman equestrian, a man among the foremost in distinction and honour, and always an excellent citizen, whose night-watches and bodyguards over me I came to know in my consulship; who not only urged his neighbours to become soldiers but relieved them also with his own resources: to such a man as this, I say --- one we ought to commend by a decree of the Senate --- will Antony be able to be at peace? What of Gaius Caesar, who kept him from the city; what of Decimus ---",
+      "notes": null
+    },
+    {
+      "loc": "25",
+      "section": 25,
+      "lat": "Bruto qui Gallia prohibuit? iam vero ipse se placabit et leniet provinciae Galliae a qua expulsus et repudiatus est? omnia videbitis, patres conscripti, nisi prospicitis, plena odiorum, plena discordiarum , ex quibus oriuntur bella civilia. nolite igitur id velle quod fieri non potest, et cavete, per deos immortalis! patres conscripti, ne spe praesentis pacis perpetuam pacem amittatis .",
+      "eng": "---Brutus, who kept him from Gaul? And now will he placate and soothe the province of Gaul itself, from which he has been driven out and spurned? You will see everything, senators, unless you look ahead, full of hatreds, full of discords --- out of which civil wars are born. Do not therefore wish for what cannot be brought to pass, and beware, by the immortal gods, senators, lest by hope of a present peace you lose perpetual peace.",
+      "notes": null
+    },
+    {
+      "loc": "26",
+      "section": 26,
+      "lat": "quorsum haec omnis spectat oratio? quid enim legati egerint nondum scimus. at vero excitati, erecti , parati, armati animis iam esse debemus, ne blanda aut supplici oratione aut aequitatis simulatione fallamur. omnia fecerit oportet quae interdicta et denuntiata sunt, prius quam aliquid postulet: Brutum exercitumque eius oppugnare, urbis et agros provinciae Galliae populari destiterit; ad Brutum adeundi legatis potestatem fecerit, exercitum citra flumen Rubiconem eduxerit, nec propius urbem milia passuum cc admoverit; fuerit et in senatus et in populi Romani potestate. haec si fecerit, erit integra potestas nobis deliberandi; si senatui non paruerit, non illi senatus, sed ille populo Romano bellum indixerit.",
+      "eng": "To what does this whole oration aim? For what the legates have done we do not yet know. But surely roused, raised, prepared, armed in our spirits we ought already to be, lest by some flattering or suppliant speech, or by a pretence of fairness, we should be deceived. He must have done everything that has been interdicted and given notice of, before he asks for anything: ceased to attack Brutus and his army, ceased to ravage the cities and fields of the province of Gaul; given the legates power to approach Brutus; led his army across the river Rubicon, and brought it no nearer the city than two hundred miles; submitted himself to the power both of the Senate and of the Roman people. If he has done these things, the power of deliberating remains untouched for us; if he has not obeyed the Senate, then it is not the Senate that has declared war on him, but he who has declared war on the Roman people.",
+      "notes": null
+    },
+    {
+      "loc": "27",
+      "section": 27,
+      "lat": "sed vos moneo, patres conscripti: libertas agitur populi Romani, quae est commendata vobis; vita et fortunae optimi cuiusque, quo cupiditatem infinitam cum immani crudelitate iam pridem intendit Antonius; auctoritas vestra, quam nullam habebitis, nisi nunc tenueritis ; taetram et pestiferam beluam ne inclusam et constrictam dimittatis cavete. te ipsum, Pansa, moneo —quamquam non eges consilio, quo vales plurimum, tamen etiam summi gubernatores in magnis tempestatibus a vectoribus admoneri solent—hunc tantum tuum apparatum tamque praeclarum ne ad nihilum recidere patiare. tempus habes tale quale nemo habuit umquam. hac gravitate senatus, hoc studio equestris ordinis, hoc ardore populi Romani potes in perpetuum rem publicam metu et periculo liberare. quibus de rebus refers, P. Servilio adsentior .",
+      "eng": "But I warn you, senators: the liberty of the Roman people is at stake, which has been entrusted to you; the life and fortunes of every best citizen, against which Antony has long ago bent his unbounded desire with monstrous cruelty; your authority, which you will have none of unless you hold it now: beware lest you let go this foul and pestilential beast when it is enclosed and bound. You too, Pansa, I warn --- although you need no counsel, in which you are most strong, nevertheless even the supreme helmsmen in great storms are accustomed to be admonished by the passengers --- do not allow this so great and so brilliant preparation of yours to come to nothing. You have such a moment as no one ever had. With this gravity of the Senate, this enthusiasm of the equestrian order, this ardour of the Roman people, you can free the commonwealth in perpetuity from fear and from danger. On the matter on which you bring the question, I agree with Publius Servilius.",
+      "notes": null
+    }
+  ]
+}

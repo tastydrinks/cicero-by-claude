@@ -11,8 +11,8 @@ Chronological master index of every work in `cicero-by-claude`. Auto-generated b
 - speeches: 58
 
 Status:
-- drafted: 907
-- pending: 51
+- drafted: 925
+- pending: 33
 
 ## Chronological order
 
@@ -221,10 +221,10 @@ Status:
 | 201 | 54-43 BC | letters | Ad Familiares 15.9 | drafted |
 | 202 | 54-51 BC | philosophy | On the Commonwealth | drafted |
 | 203 | 54 BC | philosophy | On His Times | pending |
-| 204 | 54-46 BC | rhetoric | The Subdivisions of Oratory | pending |
-| 205 | 54 BC | speeches | For Gnaeus Plancius | pending |
-| 206 | 54-53 BC | speeches | For Gaius Rabirius Postumus | pending |
-| 207 | 54 BC | speeches | For Marcus Aemilius Scaurus | pending |
+| 204 | 54-46 BC | rhetoric | The Subdivisions of Oratory | drafted |
+| 205 | 54 BC | speeches | For Gnaeus Plancius | drafted |
+| 206 | 54-53 BC | speeches | For Gaius Rabirius Postumus | drafted |
+| 207 | 54 BC | speeches | For Marcus Aemilius Scaurus | drafted |
 | 208 | 15 July 54 BC | letters | Ad Atticum 4.16 | drafted |
 | 209 | 27 July 54 BC | letters | Ad Atticum 4.15 | drafted |
 | 210 | 27 July 54 BC | letters | Ad Quintum Fratrem 2.14 | drafted |
@@ -268,7 +268,7 @@ Status:
 | 248 | March 52 BC | letters | Ad Familiares 5.16 | drafted |
 | 249 | March 52 BC | letters | Ad Familiares 7.27 | drafted |
 | 250 | March 52 BC | letters | Ad Familiares 5.18 | drafted |
-| 251 | April 52 BC | speeches | For Titus Annius Milo | pending |
+| 251 | April 52 BC | speeches | For Titus Annius Milo | drafted |
 | 252 | April 52 BC | letters | Ad Familiares 13.2 | drafted |
 | 253 | April 52 BC | letters | Ad Familiares 13.3 | drafted |
 | 254 | 52-43 BC | philosophy | On the Laws | pending |
@@ -530,7 +530,7 @@ Status:
 | 510 | 46 BC | letters | Ad Familiares 6.14 | drafted |
 | 511 | 46 BC | letters | Ad Familiares 13.70 | drafted |
 | 512 | April 46 BC | letters | Ad Familiares 5.21 | drafted |
-| 513 | April 46 BC | rhetoric | Brutus | pending |
+| 513 | April 46 BC | rhetoric | Brutus | drafted |
 | 514 | 46 BC | letters | Ad Familiares 13.23 | drafted |
 | 515 | April 46 BC | letters | Ad Atticum 12.2 | drafted |
 | 516 | 19 April 46 BC | letters | Ad Familiares 9.3 | drafted |
@@ -868,21 +868,21 @@ Status:
 | 848 | December 44 BC | letters | Ad Familiares 10.5 | drafted |
 | 849 | December 44 BC | letters | Ad Familiares 16.27 | drafted |
 | 850 | 20 December 44 BC | letters | Ad Familiares 11.6 | drafted |
-| 851 | 20 December 44 BC | speeches | Third Philippic | pending |
-| 852 | 20 December 44 BC | speeches | Fourth Philippic | pending |
-| 853 | 1 January 43 BC | speeches | Fifth Philippic | pending |
-| 854 | January 43 BC | speeches | Seventh Philippic | pending |
-| 855 | 4 January 43 BC | speeches | Sixth Philippic | pending |
+| 851 | 20 December 44 BC | speeches | Third Philippic | drafted |
+| 852 | 20 December 44 BC | speeches | Fourth Philippic | drafted |
+| 853 | 1 January 43 BC | speeches | Fifth Philippic | drafted |
+| 854 | January 43 BC | speeches | Seventh Philippic | drafted |
+| 855 | 4 January 43 BC | speeches | Sixth Philippic | drafted |
 | 856 | 24 January 43 BC | letters | Ad Familiares 12.24 | drafted |
 | 857 | 1 February 43 BC | letters | Ad Familiares 12.4 | drafted |
-| 858 | February 43 BC | speeches | Tenth Philippic | pending |
+| 858 | February 43 BC | speeches | Tenth Philippic | drafted |
 | 859 | 2 February 43 BC | letters | Ad Familiares 10.28 | drafted |
-| 860 | 3 February 43 BC | speeches | Eighth Philippic | pending |
-| 861 | 4 February 43 BC | speeches | Ninth Philippic | pending |
+| 860 | 3 February 43 BC | speeches | Eighth Philippic | drafted |
+| 861 | 4 February 43 BC | speeches | Ninth Philippic | drafted |
 | 862 | 5 February 43 BC | letters | Ad Familiares 12.5 | drafted |
 | 863 | February 43 BC | letters | Ad Familiares 9.24 | drafted |
-| 864 | March 43 BC | speeches | Eleventh Philippic | pending |
-| 865 | March 43 BC | speeches | Twelfth Philippic | pending |
+| 864 | March 43 BC | speeches | Eleventh Philippic | drafted |
+| 865 | March 43 BC | speeches | Twelfth Philippic | drafted |
 | 866 | 7 March 43 BC | letters | Ad Familiares 12.7 | drafted |
 | 867 | 7 March 43 BC | letters | Ad Familiares 12.11 | drafted |
 | 868 | March 43 BC | letters | Ad Familiares 10.7 | drafted |
@@ -891,7 +891,7 @@ Status:
 | 871 | 19 March 43 BC | letters | Ad Familiares 12.25 | drafted |
 | 872 | 20 March 43 BC | letters | Ad Familiares 10.6 | drafted |
 | 873 | 20 March 43 BC | letters | Ad Familiares 10.27 | drafted |
-| 874 | 20 March 43 BC | speeches | Thirteenth Philippic | pending |
+| 874 | 20 March 43 BC | speeches | Thirteenth Philippic | drafted |
 | 875 | 22 March 43 BC | letters | Ad Familiares 12.28 | drafted |
 | 876 | 43 BC | letters | Ad Familiares 12.26 | drafted |
 | 877 | 30 March 43 BC | letters | Ad Familiares 10.10 | drafted |
@@ -906,7 +906,7 @@ Status:
 | 886 | April 43 BC | letters | Ad Familiares 10.11 | drafted |
 | 887 | 15 April 43 BC | letters | Ad Familiares 10.30 | drafted |
 | 888 | 21 April 43 BC | letters | Ad M. Brutum 1.3 | drafted |
-| 889 | 21 April 43 BC | speeches | Philippica XIV | pending |
+| 889 | 21 April 43 BC | speeches | Philippica XIV | drafted |
 | 890 | 43 BC | letters | Ad Familiares 12.27 | drafted |
 | 891 | 27 April 43 BC | letters | Ad Familiares 10.9 | drafted |
 | 892 | 29 April 43 BC | letters | Ad Familiares 11.9 | drafted |

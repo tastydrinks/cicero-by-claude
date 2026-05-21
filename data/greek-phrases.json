@@ -15382,6 +15382,110 @@
     },
     {
       "id": "gr-1184",
+      "work": "brutus",
+      "loc": "140",
+      "greek_original": "",
+      "transliteration": "schēmata",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-1185",
+      "work": "brutus",
+      "loc": "162",
+      "greek_original": "",
+      "transliteration": "periodon",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-1186",
+      "work": "brutus",
+      "loc": "162",
+      "greek_original": "",
+      "transliteration": "kōla",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-1187",
+      "work": "brutus",
+      "loc": "264",
+      "greek_original": "",
+      "transliteration": "politikon",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-1188",
+      "work": "brutus",
+      "loc": "275",
+      "greek_original": "",
+      "transliteration": "schemata",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-1189",
+      "work": "brutus",
+      "loc": "59",
+      "greek_original": "",
+      "transliteration": "Peithō",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-1190",
+      "work": "brutus",
+      "loc": "69",
+      "greek_original": "",
+      "transliteration": "tropoi",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-1191",
+      "work": "brutus",
+      "loc": "69",
+      "greek_original": "",
+      "transliteration": "schēmata",
+      "english_gloss": "",
+      "context": "",
+      "suspected_source": null,
+      "source_certainty": "unknown",
+      "register": "technical",
+      "notes": "backfilled (kind=bracket)"
+    },
+    {
+      "id": "gr-1192",
       "work": "ad-atticum-12-02",
       "loc": "2",
       "greek_original": "τί γὰρ αὐτῷ μέλει",
@@ -15394,7 +15498,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1185",
+      "id": "gr-1193",
       "work": "ad-atticum-12-02",
       "loc": "2",
       "greek_original": "βεβίωται",
@@ -15407,7 +15511,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1186",
+      "id": "gr-1194",
       "work": "ad-atticum-12-02",
       "loc": "2",
       "greek_original": "πρόβλημα",
@@ -15420,7 +15524,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1187",
+      "id": "gr-1195",
       "work": "ad-atticum-12-02",
       "loc": "2",
       "greek_original": "",
@@ -15433,7 +15537,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1188",
+      "id": "gr-1196",
       "work": "ad-atticum-12-02",
       "loc": "2",
       "greek_original": "",
@@ -15446,7 +15550,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1189",
+      "id": "gr-1197",
       "work": "ad-atticum-12-02",
       "loc": "2",
       "greek_original": "",
@@ -15459,7 +15563,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1190",
+      "id": "gr-1198",
       "work": "ad-familiares-09-03",
       "loc": "1",
       "greek_original": "",
@@ -15472,7 +15576,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1191",
+      "id": "gr-1199",
       "work": "ad-familiares-09-02",
       "loc": "1",
       "greek_original": "",
@@ -15485,7 +15589,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1192",
+      "id": "gr-1200",
       "work": "ad-familiares-09-02",
       "loc": "3",
       "greek_original": "",
@@ -15498,7 +15602,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1193",
+      "id": "gr-1201",
       "work": "ad-familiares-09-02",
       "loc": "5",
       "greek_original": "",
@@ -15511,7 +15615,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1194",
+      "id": "gr-1202",
       "work": "ad-familiares-09-07",
       "loc": "1",
       "greek_original": "",
@@ -15524,7 +15628,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1195",
+      "id": "gr-1203",
       "work": "ad-familiares-09-07",
       "loc": "2",
       "greek_original": "",
@@ -15537,7 +15641,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1196",
+      "id": "gr-1204",
       "work": "ad-familiares-09-07",
       "loc": "2",
       "greek_original": "",
@@ -15550,7 +15654,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1197",
+      "id": "gr-1205",
       "work": "ad-familiares-09-04",
       "loc": "1",
       "greek_original": "",
@@ -15563,7 +15667,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1198",
+      "id": "gr-1206",
       "work": "ad-familiares-09-04",
       "loc": "1",
       "greek_original": "",
@@ -15576,7 +15680,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1199",
+      "id": "gr-1207",
       "work": "ad-familiares-09-04",
       "loc": "1",
       "greek_original": "",
@@ -15589,7 +15693,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1200",
+      "id": "gr-1208",
       "work": "ad-familiares-09-04",
       "loc": "1",
       "greek_original": "",
@@ -15602,7 +15706,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1201",
+      "id": "gr-1209",
       "work": "ad-familiares-09-04",
       "loc": "1",
       "greek_original": "",
@@ -15615,7 +15719,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1202",
+      "id": "gr-1210",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "ἀγοητεύτωσ",
@@ -15628,7 +15732,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1203",
+      "id": "gr-1211",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "μακάρων νῆσοι",
@@ -15641,7 +15745,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1204",
+      "id": "gr-1212",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "πάθει",
@@ -15654,7 +15758,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1205",
+      "id": "gr-1213",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "σκέψαι",
@@ -15667,7 +15771,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1206",
+      "id": "gr-1214",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "Ἀτύπῳ",
@@ -15680,7 +15784,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1207",
+      "id": "gr-1215",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "ἀλογηθῇ",
@@ -15693,7 +15797,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1208",
+      "id": "gr-1216",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "μελήσει",
@@ -15706,7 +15810,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1209",
+      "id": "gr-1217",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "",
@@ -15719,7 +15823,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1210",
+      "id": "gr-1218",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "",
@@ -15732,7 +15836,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1211",
+      "id": "gr-1219",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "",
@@ -15745,7 +15849,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1212",
+      "id": "gr-1220",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "",
@@ -15758,7 +15862,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1213",
+      "id": "gr-1221",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "",
@@ -15771,7 +15875,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1214",
+      "id": "gr-1222",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "",
@@ -15784,7 +15888,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1215",
+      "id": "gr-1223",
       "work": "ad-atticum-12-03",
       "loc": "1",
       "greek_original": "",
@@ -15797,7 +15901,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1216",
+      "id": "gr-1224",
       "work": "ad-atticum-12-04",
       "loc": "1",
       "greek_original": "ἐνερευθέστερον",
@@ -15810,7 +15914,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1217",
+      "id": "gr-1225",
       "work": "ad-atticum-12-04",
       "loc": "1",
       "greek_original": "",
@@ -15823,7 +15927,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1218",
+      "id": "gr-1226",
       "work": "ad-atticum-12-04",
       "loc": "2",
       "greek_original": "πρόβλημα Ἀρχιμήδειον",
@@ -15836,7 +15940,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1219",
+      "id": "gr-1227",
       "work": "ad-atticum-12-04",
       "loc": "2",
       "greek_original": "ψιλῶσ",
@@ -15849,7 +15953,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1220",
+      "id": "gr-1228",
       "work": "ad-atticum-12-04",
       "loc": "2",
       "greek_original": "ἄκουσμα",
@@ -15862,7 +15966,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1221",
+      "id": "gr-1229",
       "work": "ad-atticum-12-04",
       "loc": "2",
       "greek_original": "",
@@ -15875,7 +15979,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1222",
+      "id": "gr-1230",
       "work": "ad-atticum-12-04",
       "loc": "2",
       "greek_original": "",
@@ -15888,7 +15992,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1223",
+      "id": "gr-1231",
       "work": "ad-atticum-12-04",
       "loc": "2",
       "greek_original": "",
@@ -15901,7 +16005,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1224",
+      "id": "gr-1232",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "ἔρανον",
@@ -15914,7 +16018,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1225",
+      "id": "gr-1233",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "διψῶσαν κρήνην",
@@ -15927,7 +16031,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1226",
+      "id": "gr-1234",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "Πειρήνην",
@@ -15940,7 +16044,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1227",
+      "id": "gr-1235",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "ἄμπνευμα σεμνὸν Ἀλφειοῦ",
@@ -15953,7 +16057,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1228",
+      "id": "gr-1236",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "κρήνῃ",
@@ -15966,7 +16070,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1229",
+      "id": "gr-1237",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "ποῖ ταῦτα ἄρα",
@@ -15979,7 +16083,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1230",
+      "id": "gr-1238",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "",
@@ -15992,7 +16096,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1231",
+      "id": "gr-1239",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "",
@@ -16005,7 +16109,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1232",
+      "id": "gr-1240",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "",
@@ -16018,7 +16122,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1233",
+      "id": "gr-1241",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "",
@@ -16031,7 +16135,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1234",
+      "id": "gr-1242",
       "work": "ad-atticum-12-05",
       "loc": "1",
       "greek_original": "",
@@ -16044,7 +16148,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1235",
+      "id": "gr-1243",
       "work": "ad-familiares-09-16",
       "loc": "4",
       "greek_original": "",
@@ -16057,7 +16161,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1236",
+      "id": "gr-1244",
       "work": "ad-familiares-09-18",
       "loc": "3",
       "greek_original": "",
@@ -16070,7 +16174,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1237",
+      "id": "gr-1245",
       "work": "ad-familiares-07-26",
       "loc": "1",
       "greek_original": "",
@@ -16083,7 +16187,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1238",
+      "id": "gr-1246",
       "work": "ad-familiares-07-26",
       "loc": "1",
       "greek_original": "",
@@ -16096,7 +16200,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1239",
+      "id": "gr-1247",
       "work": "ad-familiares-07-26",
       "loc": "2",
       "greek_original": "",
@@ -16109,7 +16213,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1240",
+      "id": "gr-1248",
       "work": "ad-familiares-07-26",
       "loc": "2",
       "greek_original": "",
@@ -16122,7 +16226,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1241",
+      "id": "gr-1249",
       "work": "ad-familiares-09-20",
       "loc": "2",
       "greek_original": "",
@@ -16135,7 +16239,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1242",
+      "id": "gr-1250",
       "work": "ad-familiares-04-04",
       "loc": "1",
       "greek_original": "",
@@ -16148,7 +16252,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1243",
+      "id": "gr-1251",
       "work": "ad-familiares-04-04",
       "loc": "1",
       "greek_original": "",
@@ -16161,7 +16265,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1244",
+      "id": "gr-1252",
       "work": "ad-familiares-09-21",
       "loc": "1",
       "greek_original": "",
@@ -16174,7 +16278,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1245",
+      "id": "gr-1253",
       "work": "ad-familiares-09-26",
       "loc": "1",
       "greek_original": "",
@@ -16187,7 +16291,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1246",
+      "id": "gr-1254",
       "work": "ad-atticum-12-06",
       "loc": "2",
       "greek_original": "πάντα φιληδείμονα",
@@ -16200,7 +16304,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1247",
+      "id": "gr-1255",
       "work": "ad-atticum-12-06",
       "loc": "2",
       "greek_original": "θεωρίαν",
@@ -16213,7 +16317,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1248",
+      "id": "gr-1256",
       "work": "ad-atticum-12-06",
       "loc": "2",
       "greek_original": "τέλοσ",
@@ -16226,7 +16330,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1249",
+      "id": "gr-1257",
       "work": "ad-atticum-12-06",
       "loc": "2",
       "greek_original": "",
@@ -16239,7 +16343,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1250",
+      "id": "gr-1258",
       "work": "ad-atticum-12-06",
       "loc": "2",
       "greek_original": "",
@@ -16252,7 +16356,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1251",
+      "id": "gr-1259",
       "work": "ad-atticum-12-06",
       "loc": "2",
       "greek_original": "",
@@ -16265,7 +16369,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1252",
+      "id": "gr-1260",
       "work": "ad-atticum-12-06",
       "loc": "4",
       "greek_original": "εὐπινὲσ",
@@ -16278,7 +16382,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1253",
+      "id": "gr-1261",
       "work": "ad-atticum-12-06",
       "loc": "4",
       "greek_original": "",
@@ -16291,7 +16395,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1254",
+      "id": "gr-1262",
       "work": "ad-atticum-12-01",
       "loc": "2",
       "greek_original": "γεροντικόν",
@@ -16304,7 +16408,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1255",
+      "id": "gr-1263",
       "work": "ad-atticum-12-01",
       "loc": "2",
       "greek_original": "γεροντικώτερον",
@@ -16317,7 +16421,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1256",
+      "id": "gr-1264",
       "work": "ad-atticum-12-01",
       "loc": "2",
       "greek_original": "λέσχη",
@@ -16330,7 +16434,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1257",
+      "id": "gr-1265",
       "work": "ad-atticum-12-01",
       "loc": "2",
       "greek_original": "",
@@ -16343,7 +16447,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1258",
+      "id": "gr-1266",
       "work": "ad-atticum-12-01",
       "loc": "2",
       "greek_original": "",
@@ -16356,7 +16460,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1259",
+      "id": "gr-1267",
       "work": "ad-familiares-15-18",
       "loc": "1",
       "greek_original": "",
@@ -16369,7 +16473,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1260",
+      "id": "gr-1268",
       "work": "ad-familiares-15-18",
       "loc": "1",
       "greek_original": "",
@@ -16382,7 +16486,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1261",
+      "id": "gr-1269",
       "work": "ad-familiares-13-67",
       "loc": "1",
       "greek_original": "",
@@ -16395,7 +16499,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1262",
+      "id": "gr-1270",
       "work": "ad-familiares-09-10",
       "loc": "1",
       "greek_original": "",
@@ -16408,7 +16512,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1263",
+      "id": "gr-1271",
       "work": "ad-familiares-09-10",
       "loc": "1",
       "greek_original": "",
@@ -16421,7 +16525,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1264",
+      "id": "gr-1272",
       "work": "ad-familiares-15-17",
       "loc": "1",
       "greek_original": "",
@@ -16434,7 +16538,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1265",
+      "id": "gr-1273",
       "work": "ad-familiares-09-10",
       "loc": "2",
       "greek_original": "",
@@ -16447,7 +16551,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1266",
+      "id": "gr-1274",
       "work": "ad-familiares-15-17",
       "loc": "2",
       "greek_original": "",
@@ -16460,7 +16564,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1267",
+      "id": "gr-1275",
       "work": "ad-familiares-15-17",
       "loc": "3",
       "greek_original": "",
@@ -16473,7 +16577,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1268",
+      "id": "gr-1276",
       "work": "ad-familiares-15-17",
       "loc": "3",
       "greek_original": "",
@@ -16486,7 +16590,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1269",
+      "id": "gr-1277",
       "work": "ad-familiares-15-17",
       "loc": "4",
       "greek_original": "",
@@ -16499,7 +16603,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1270",
+      "id": "gr-1278",
       "work": "ad-familiares-15-16",
       "loc": "1",
       "greek_original": "",
@@ -16512,7 +16616,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1271",
+      "id": "gr-1279",
       "work": "ad-familiares-15-16",
       "loc": "1",
       "greek_original": "",
@@ -16525,7 +16629,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1272",
+      "id": "gr-1280",
       "work": "ad-familiares-15-16",
       "loc": "1",
       "greek_original": "",
@@ -16538,7 +16642,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1273",
+      "id": "gr-1281",
       "work": "ad-familiares-15-16",
       "loc": "2",
       "greek_original": "",
@@ -16551,7 +16655,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1274",
+      "id": "gr-1282",
       "work": "ad-familiares-15-19",
       "loc": "2",
       "greek_original": "",
@@ -16564,7 +16668,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1275",
+      "id": "gr-1283",
       "work": "ad-familiares-15-19",
       "loc": "2",
       "greek_original": "",
@@ -16577,7 +16681,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1276",
+      "id": "gr-1284",
       "work": "ad-familiares-15-19",
       "loc": "2",
       "greek_original": "",
@@ -16590,7 +16694,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1277",
+      "id": "gr-1285",
       "work": "ad-familiares-15-19",
       "loc": "2",
       "greek_original": "",
@@ -16603,7 +16707,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1278",
+      "id": "gr-1286",
       "work": "ad-familiares-15-19",
       "loc": "2",
       "greek_original": "",
@@ -16616,7 +16720,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1279",
+      "id": "gr-1287",
       "work": "ad-familiares-15-16",
       "loc": "3",
       "greek_original": "",
@@ -16629,7 +16733,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1280",
+      "id": "gr-1288",
       "work": "ad-familiares-15-19",
       "loc": "3",
       "greek_original": "",
@@ -16642,7 +16746,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1281",
+      "id": "gr-1289",
       "work": "ad-familiares-15-19",
       "loc": "3",
       "greek_original": "",
@@ -16655,7 +16759,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1282",
+      "id": "gr-1290",
       "work": "ad-familiares-15-19",
       "loc": "3",
       "greek_original": "",
@@ -16668,7 +16772,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1283",
+      "id": "gr-1291",
       "work": "ad-familiares-15-19",
       "loc": "3",
       "greek_original": "",
@@ -16681,7 +16785,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1284",
+      "id": "gr-1292",
       "work": "ad-familiares-06-03",
       "loc": "4",
       "greek_original": "",
@@ -16694,7 +16798,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1285",
+      "id": "gr-1293",
       "work": "ad-familiares-15-19",
       "loc": "4",
       "greek_original": "",
@@ -16707,7 +16811,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1286",
+      "id": "gr-1294",
       "work": "ad-familiares-06-18",
       "loc": "5",
       "greek_original": "",
@@ -16720,7 +16824,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1287",
+      "id": "gr-1295",
       "work": "ad-atticum-12-12",
       "loc": "1",
       "greek_original": "ἀποθέωσιν",
@@ -16733,7 +16837,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1288",
+      "id": "gr-1296",
       "work": "ad-atticum-12-12",
       "loc": "1",
       "greek_original": "τιμὴν",
@@ -16746,7 +16850,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1289",
+      "id": "gr-1297",
       "work": "ad-atticum-12-12",
       "loc": "1",
       "greek_original": "ἐκτοπισμόσ",
@@ -16759,7 +16863,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1290",
+      "id": "gr-1298",
       "work": "ad-atticum-12-12",
       "loc": "1",
       "greek_original": "",
@@ -16772,7 +16876,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1291",
+      "id": "gr-1299",
       "work": "ad-atticum-12-12",
       "loc": "1",
       "greek_original": "",
@@ -16785,7 +16889,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1292",
+      "id": "gr-1300",
       "work": "ad-atticum-12-12",
       "loc": "1",
       "greek_original": "",
@@ -16798,7 +16902,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1293",
+      "id": "gr-1301",
       "work": "ad-atticum-12-12",
       "loc": "2",
       "greek_original": "μεθαρμόσομαι",
@@ -16811,7 +16915,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1294",
+      "id": "gr-1302",
       "work": "ad-atticum-12-12",
       "loc": "2",
       "greek_original": "ἀνεμέσητον γάρ",
@@ -16824,7 +16928,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1295",
+      "id": "gr-1303",
       "work": "ad-atticum-12-12",
       "loc": "2",
       "greek_original": "",
@@ -16837,7 +16941,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1296",
+      "id": "gr-1304",
       "work": "ad-atticum-12-12",
       "loc": "2",
       "greek_original": "",
@@ -16850,7 +16954,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1297",
+      "id": "gr-1305",
       "work": "ad-atticum-12-23",
       "loc": "2",
       "greek_original": "πολιτικοὶ",
@@ -16863,7 +16967,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1298",
+      "id": "gr-1306",
       "work": "ad-atticum-12-23",
       "loc": "2",
       "greek_original": "",
@@ -16876,7 +16980,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1299",
+      "id": "gr-1307",
       "work": "ad-atticum-12-25",
       "loc": "2",
       "greek_original": "τετυφῶσθαι",
@@ -16889,7 +16993,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1300",
+      "id": "gr-1308",
       "work": "ad-atticum-12-25",
       "loc": "2",
       "greek_original": "ἐγγήραμα",
@@ -16902,7 +17006,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1301",
+      "id": "gr-1309",
       "work": "ad-atticum-12-25",
       "loc": "2",
       "greek_original": "",
@@ -16915,7 +17019,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1302",
+      "id": "gr-1310",
       "work": "ad-atticum-12-25",
       "loc": "2",
       "greek_original": "",
@@ -16928,7 +17032,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1303",
+      "id": "gr-1311",
       "work": "ad-atticum-12-29",
       "loc": "2",
       "greek_original": "ἐγγήραμα",
@@ -16941,7 +17045,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1304",
+      "id": "gr-1312",
       "work": "ad-atticum-12-29",
       "loc": "2",
       "greek_original": "ἐντάφιον",
@@ -16954,7 +17058,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1305",
+      "id": "gr-1313",
       "work": "ad-atticum-12-29",
       "loc": "2",
       "greek_original": "",
@@ -16967,7 +17071,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1306",
+      "id": "gr-1314",
       "work": "ad-atticum-12-29",
       "loc": "2",
       "greek_original": "",
@@ -16980,7 +17084,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1307",
+      "id": "gr-1315",
       "work": "ad-atticum-12-35",
       "loc": "1",
       "greek_original": "ἀλόγωσ",
@@ -16993,7 +17097,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1308",
+      "id": "gr-1316",
       "work": "ad-atticum-12-35",
       "loc": "1",
       "greek_original": "",
@@ -17006,7 +17110,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1309",
+      "id": "gr-1317",
       "work": "ad-atticum-12-36",
       "loc": "1",
       "greek_original": "ἀποθέωσιν",
@@ -17019,7 +17123,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1310",
+      "id": "gr-1318",
       "work": "ad-atticum-12-36",
       "loc": "1",
       "greek_original": "",
@@ -17032,7 +17136,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1311",
+      "id": "gr-1319",
       "work": "ad-atticum-12-40",
       "loc": "2",
       "greek_original": "συμβουλευτικὸν",
@@ -17045,7 +17149,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1312",
+      "id": "gr-1320",
       "work": "ad-atticum-12-40",
       "loc": "2",
       "greek_original": "Ἀριστοτέλουσ",
@@ -17058,7 +17162,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1313",
+      "id": "gr-1321",
       "work": "ad-atticum-12-40",
       "loc": "2",
       "greek_original": "Θεοπόμπου",
@@ -17071,7 +17175,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1314",
+      "id": "gr-1322",
       "work": "ad-atticum-12-40",
       "loc": "2",
       "greek_original": "πρὸς Ἀλέξανδρον",
@@ -17084,7 +17188,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1315",
+      "id": "gr-1323",
       "work": "ad-atticum-12-40",
       "loc": "2",
       "greek_original": "",
@@ -17097,7 +17201,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1316",
+      "id": "gr-1324",
       "work": "ad-atticum-12-40",
       "loc": "2",
       "greek_original": "",
@@ -17110,7 +17214,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1317",
+      "id": "gr-1325",
       "work": "ad-atticum-12-40",
       "loc": "2",
       "greek_original": "",
@@ -17123,7 +17227,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1318",
+      "id": "gr-1326",
       "work": "ad-atticum-12-40",
       "loc": "2",
       "greek_original": "",
@@ -17136,7 +17240,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1319",
+      "id": "gr-1327",
       "work": "ad-atticum-12-41",
       "loc": "2",
       "greek_original": "φιλαίτιον συμφορά",
@@ -17149,7 +17253,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1320",
+      "id": "gr-1328",
       "work": "ad-atticum-12-41",
       "loc": "2",
       "greek_original": "",
@@ -17162,7 +17266,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1321",
+      "id": "gr-1329",
       "work": "ad-atticum-12-41",
       "loc": "4",
       "greek_original": "πρόπλασμα",
@@ -17175,7 +17279,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1322",
+      "id": "gr-1330",
       "work": "ad-atticum-12-41",
       "loc": "4",
       "greek_original": "",
@@ -17188,7 +17292,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1323",
+      "id": "gr-1331",
       "work": "ad-atticum-12-44",
       "loc": "1",
       "greek_original": "συμπαθῶσ",
@@ -17201,7 +17305,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1324",
+      "id": "gr-1332",
       "work": "ad-atticum-12-44",
       "loc": "1",
       "greek_original": "",
@@ -17214,7 +17318,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1325",
+      "id": "gr-1333",
       "work": "ad-atticum-12-44",
       "loc": "2",
       "greek_original": "ἐγγήραμα",
@@ -17227,7 +17331,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1326",
+      "id": "gr-1334",
       "work": "ad-atticum-12-44",
       "loc": "2",
       "greek_original": "οἰκοδεσποτικὰ",
@@ -17240,7 +17344,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1327",
+      "id": "gr-1335",
       "work": "ad-atticum-12-44",
       "loc": "2",
       "greek_original": "",
@@ -17253,7 +17357,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1328",
+      "id": "gr-1336",
       "work": "ad-atticum-12-44",
       "loc": "2",
       "greek_original": "",
@@ -17266,7 +17370,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1329",
+      "id": "gr-1337",
       "work": "ad-atticum-12-44",
       "loc": "4",
       "greek_original": "συντάγματα",
@@ -17279,7 +17383,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1330",
+      "id": "gr-1338",
       "work": "ad-atticum-12-44",
       "loc": "4",
       "greek_original": "",
@@ -17292,7 +17396,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1331",
+      "id": "gr-1339",
       "work": "ad-atticum-12-45",
       "loc": "1",
       "greek_original": "ἀκηδία",
@@ -17305,7 +17409,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1332",
+      "id": "gr-1340",
       "work": "ad-atticum-12-45",
       "loc": "1",
       "greek_original": "ἀνεκτότερα",
@@ -17318,7 +17422,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1333",
+      "id": "gr-1341",
       "work": "ad-atticum-12-45",
       "loc": "1",
       "greek_original": "σύνναον",
@@ -17331,7 +17435,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1334",
+      "id": "gr-1342",
       "work": "ad-atticum-12-45",
       "loc": "1",
       "greek_original": "ὑπόθεσισ",
@@ -17344,7 +17448,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1335",
+      "id": "gr-1343",
       "work": "ad-atticum-12-45",
       "loc": "1",
       "greek_original": "",
@@ -17357,7 +17461,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1336",
+      "id": "gr-1344",
       "work": "ad-atticum-12-45",
       "loc": "1",
       "greek_original": "",
@@ -17370,7 +17474,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1337",
+      "id": "gr-1345",
       "work": "ad-atticum-12-45",
       "loc": "1",
       "greek_original": "",
@@ -17383,7 +17487,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1338",
+      "id": "gr-1346",
       "work": "ad-atticum-12-45",
       "loc": "1",
       "greek_original": "",
@@ -17396,7 +17500,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1339",
+      "id": "gr-1347",
       "work": "ad-atticum-12-51",
       "loc": "2",
       "greek_original": "πολιτικοὶ",
@@ -17409,7 +17513,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1340",
+      "id": "gr-1348",
       "work": "ad-atticum-12-51",
       "loc": "2",
       "greek_original": "τοῦτο δὲ μηλώσῃ",
@@ -17422,7 +17526,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1341",
+      "id": "gr-1349",
       "work": "ad-atticum-12-51",
       "loc": "2",
       "greek_original": "",
@@ -17435,7 +17539,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1342",
+      "id": "gr-1350",
       "work": "ad-atticum-12-51",
       "loc": "2",
       "greek_original": "",
@@ -17448,7 +17552,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1343",
+      "id": "gr-1351",
       "work": "ad-atticum-12-52",
       "loc": "2",
       "greek_original": "ἀπόγραφα",
@@ -17461,7 +17565,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1344",
+      "id": "gr-1352",
       "work": "ad-atticum-12-52",
       "loc": "2",
       "greek_original": "",
@@ -17474,7 +17578,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1345",
+      "id": "gr-1353",
       "work": "ad-atticum-13-01",
       "loc": "2",
       "greek_original": "καταβίωσιν",
@@ -17487,7 +17591,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1346",
+      "id": "gr-1354",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "κολακεία",
@@ -17500,7 +17604,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1347",
+      "id": "gr-1355",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "ἐπίτευγμα",
@@ -17513,7 +17617,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1348",
+      "id": "gr-1356",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "ἀπότευγμα",
@@ -17526,7 +17630,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1349",
+      "id": "gr-1357",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "παρακινδυνεύειν",
@@ -17539,7 +17643,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1350",
+      "id": "gr-1358",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "μείλιγμα",
@@ -17552,7 +17656,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1351",
+      "id": "gr-1359",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "σπουδὴ",
@@ -17565,7 +17669,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1352",
+      "id": "gr-1360",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "",
@@ -17578,7 +17682,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1353",
+      "id": "gr-1361",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "",
@@ -17591,7 +17695,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1354",
+      "id": "gr-1362",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "",
@@ -17604,7 +17708,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1355",
+      "id": "gr-1363",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "",
@@ -17617,7 +17721,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1356",
+      "id": "gr-1364",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "",
@@ -17630,7 +17734,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1357",
+      "id": "gr-1365",
       "work": "ad-atticum-13-27",
       "loc": "1",
       "greek_original": "",
@@ -17643,7 +17747,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1358",
+      "id": "gr-1366",
       "work": "ad-atticum-13-29",
       "loc": "1",
       "greek_original": "ἀφίδρυμα",
@@ -17656,7 +17760,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1359",
+      "id": "gr-1367",
       "work": "ad-atticum-13-29",
       "loc": "1",
       "greek_original": "τὸν τῦφόν μου πρὸσ θεῶν τροποφόρησον",
@@ -17669,7 +17773,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1360",
+      "id": "gr-1368",
       "work": "ad-atticum-13-29",
       "loc": "1",
       "greek_original": "",
@@ -17682,7 +17786,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1361",
+      "id": "gr-1369",
       "work": "ad-atticum-13-29",
       "loc": "1",
       "greek_original": "",
@@ -17695,7 +17799,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1362",
+      "id": "gr-1370",
       "work": "ad-atticum-13-30",
       "loc": "1",
       "greek_original": "κολακεῖαι",
@@ -17708,7 +17812,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1363",
+      "id": "gr-1371",
       "work": "ad-atticum-13-30",
       "loc": "1",
       "greek_original": "",
@@ -17721,7 +17825,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1364",
+      "id": "gr-1372",
       "work": "ad-atticum-13-30",
       "loc": "2",
       "greek_original": "πολιτικὸν σύλλογον",
@@ -17734,7 +17838,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1365",
+      "id": "gr-1373",
       "work": "ad-atticum-13-30",
       "loc": "2",
       "greek_original": "",
@@ -17747,7 +17851,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1366",
+      "id": "gr-1374",
       "work": "ad-atticum-13-31",
       "loc": "2",
       "greek_original": "καταβάσεωσ",
@@ -17760,7 +17864,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1367",
+      "id": "gr-1375",
       "work": "ad-atticum-13-31",
       "loc": "2",
       "greek_original": "",
@@ -17773,7 +17877,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1368",
+      "id": "gr-1376",
       "work": "ad-atticum-13-31",
       "loc": "3",
       "greek_original": "κέκρικα",
@@ -17786,7 +17890,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1369",
+      "id": "gr-1377",
       "work": "ad-atticum-13-31",
       "loc": "3",
       "greek_original": "",
@@ -17799,7 +17903,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1370",
+      "id": "gr-1378",
       "work": "ad-atticum-13-32",
       "loc": "2",
       "greek_original": "περὶ ψυχῆσ",
@@ -17812,7 +17916,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1371",
+      "id": "gr-1379",
       "work": "ad-atticum-13-32",
       "loc": "2",
       "greek_original": "καταβάσεωσ",
@@ -17825,7 +17929,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1372",
+      "id": "gr-1380",
       "work": "ad-atticum-13-32",
       "loc": "2",
       "greek_original": "Τριπολιτικὸν",
@@ -17838,7 +17942,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1373",
+      "id": "gr-1381",
       "work": "ad-atticum-13-32",
       "loc": "2",
       "greek_original": "",
@@ -17851,7 +17955,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1374",
+      "id": "gr-1382",
       "work": "ad-atticum-13-32",
       "loc": "2",
       "greek_original": "",
@@ -17864,7 +17968,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1375",
+      "id": "gr-1383",
       "work": "ad-atticum-13-32",
       "loc": "2",
       "greek_original": "",
@@ -17877,7 +17981,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1376",
+      "id": "gr-1384",
       "work": "ad-atticum-13-32",
       "loc": "3",
       "greek_original": "διὰ σημείων",
@@ -17890,7 +17994,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1377",
+      "id": "gr-1385",
       "work": "ad-atticum-13-32",
       "loc": "3",
       "greek_original": "σύλλογον",
@@ -17903,7 +18007,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1378",
+      "id": "gr-1386",
       "work": "ad-atticum-13-32",
       "loc": "3",
       "greek_original": "πομπεῦσαι καὶ τοῖσ προσώποισ",
@@ -17916,7 +18020,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1379",
+      "id": "gr-1387",
       "work": "ad-atticum-13-32",
       "loc": "3",
       "greek_original": "",
@@ -17929,7 +18033,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1380",
+      "id": "gr-1388",
       "work": "ad-atticum-13-32",
       "loc": "3",
       "greek_original": "",
@@ -17942,7 +18046,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1381",
+      "id": "gr-1389",
       "work": "ad-atticum-13-32",
       "loc": "3",
       "greek_original": "",
@@ -17955,7 +18059,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1382",
+      "id": "gr-1390",
       "work": "ad-familiares-13-15",
       "loc": "1",
       "greek_original": "",
@@ -17968,7 +18072,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1383",
+      "id": "gr-1391",
       "work": "ad-familiares-13-15",
       "loc": "1",
       "greek_original": "",
@@ -17981,7 +18085,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1384",
+      "id": "gr-1392",
       "work": "ad-familiares-13-15",
       "loc": "1",
       "greek_original": "",
@@ -17994,7 +18098,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1385",
+      "id": "gr-1393",
       "work": "ad-familiares-13-15",
       "loc": "2",
       "greek_original": "",
@@ -18007,7 +18111,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1386",
+      "id": "gr-1394",
       "work": "ad-familiares-13-15",
       "loc": "2",
       "greek_original": "",
@@ -18020,7 +18124,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1387",
+      "id": "gr-1395",
       "work": "ad-familiares-13-15",
       "loc": "2",
       "greek_original": "",
@@ -18033,7 +18137,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1388",
+      "id": "gr-1396",
       "work": "ad-familiares-13-15",
       "loc": "2",
       "greek_original": "",
@@ -18046,7 +18150,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1389",
+      "id": "gr-1397",
       "work": "ad-atticum-13-28",
       "loc": "3",
       "greek_original": "πρόβλημα Ἀρχιδήμου",
@@ -18059,7 +18163,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1390",
+      "id": "gr-1398",
       "work": "ad-atticum-13-28",
       "loc": "3",
       "greek_original": "",
@@ -18072,7 +18176,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1391",
+      "id": "gr-1399",
       "work": "ad-atticum-13-05",
       "loc": "1",
       "greek_original": "εὔλογον",
@@ -18085,7 +18189,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1392",
+      "id": "gr-1400",
       "work": "ad-atticum-13-05",
       "loc": "1",
       "greek_original": "",
@@ -18098,7 +18202,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1393",
+      "id": "gr-1401",
       "work": "ad-atticum-13-33",
       "loc": "2",
       "greek_original": "δυσωπία",
@@ -18111,7 +18215,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1394",
+      "id": "gr-1402",
       "work": "ad-atticum-13-33",
       "loc": "2",
       "greek_original": "καταβάσεωσ",
@@ -18124,7 +18228,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1395",
+      "id": "gr-1403",
       "work": "ad-atticum-13-33",
       "loc": "2",
       "greek_original": "",
@@ -18137,7 +18241,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1396",
+      "id": "gr-1404",
       "work": "ad-atticum-13-33",
       "loc": "2",
       "greek_original": "",
@@ -18150,7 +18254,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1397",
+      "id": "gr-1405",
       "work": "ad-atticum-13-33",
       "loc": "3",
       "greek_original": "εὔλογον",
@@ -18163,7 +18267,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1398",
+      "id": "gr-1406",
       "work": "ad-atticum-13-33",
       "loc": "3",
       "greek_original": "",
@@ -18176,7 +18280,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1399",
+      "id": "gr-1407",
       "work": "ad-atticum-13-08",
       "loc": "1",
       "greek_original": "Παναιτίου περὶ Προνοίασ",
@@ -18189,7 +18293,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1400",
+      "id": "gr-1408",
       "work": "ad-atticum-13-08",
       "loc": "1",
       "greek_original": "",
@@ -18202,7 +18306,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1401",
+      "id": "gr-1409",
       "work": "ad-atticum-13-07",
       "loc": "1",
       "greek_original": "εὔλογον",
@@ -18215,7 +18319,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1402",
+      "id": "gr-1410",
       "work": "ad-atticum-13-07",
       "loc": "1",
       "greek_original": "",
@@ -18228,7 +18332,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1403",
+      "id": "gr-1411",
       "work": "ad-familiares-09-22",
       "loc": "5",
       "greek_original": "",
@@ -18241,7 +18345,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1404",
+      "id": "gr-1412",
       "work": "ad-atticum-13-10",
       "loc": "1",
       "greek_original": "παρὰ τὴν ἱστορίαν",
@@ -18254,7 +18358,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1405",
+      "id": "gr-1413",
       "work": "ad-atticum-13-10",
       "loc": "1",
       "greek_original": "",
@@ -18267,7 +18371,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1406",
+      "id": "gr-1414",
       "work": "ad-atticum-13-10",
       "loc": "2",
       "greek_original": "κοινότερα",
@@ -18280,7 +18384,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1407",
+      "id": "gr-1415",
       "work": "ad-atticum-13-10",
       "loc": "2",
       "greek_original": "πολιτικώτερα",
@@ -18293,7 +18397,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1408",
+      "id": "gr-1416",
       "work": "ad-atticum-13-10",
       "loc": "2",
       "greek_original": "",
@@ -18306,7 +18410,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1409",
+      "id": "gr-1417",
       "work": "ad-atticum-13-11",
       "loc": "1",
       "greek_original": "οὐ ταὐτὸν εἶδοσ",
@@ -18319,7 +18423,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1410",
+      "id": "gr-1418",
       "work": "ad-atticum-13-11",
       "loc": "1",
       "greek_original": "",
@@ -18332,7 +18436,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1411",
+      "id": "gr-1419",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "φιλολογώτερα",
@@ -18345,7 +18449,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1412",
+      "id": "gr-1420",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "προσφώνησιν",
@@ -18358,7 +18462,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1413",
+      "id": "gr-1421",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "Καλλιπίδησ",
@@ -18371,7 +18475,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1414",
+      "id": "gr-1422",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "αὐτῷ τῷ μέτρῳ καὶ",
@@ -18384,7 +18488,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1415",
+      "id": "gr-1423",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "αἴ κε δύνηαι",
@@ -18397,7 +18501,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1416",
+      "id": "gr-1424",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "περὶ Τελῶν σύνταξιν",
@@ -18410,7 +18514,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1417",
+      "id": "gr-1425",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "Ἀκαδημικήν",
@@ -18423,7 +18527,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1418",
+      "id": "gr-1426",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "",
@@ -18436,7 +18540,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1419",
+      "id": "gr-1427",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "",
@@ -18449,7 +18553,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1420",
+      "id": "gr-1428",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "",
@@ -18462,7 +18566,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1421",
+      "id": "gr-1429",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "",
@@ -18475,7 +18579,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1422",
+      "id": "gr-1430",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "",
@@ -18488,7 +18592,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1423",
+      "id": "gr-1431",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "",
@@ -18501,7 +18605,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1424",
+      "id": "gr-1432",
       "work": "ad-atticum-13-12",
       "loc": "3",
       "greek_original": "",
@@ -18514,7 +18618,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1425",
+      "id": "gr-1433",
       "work": "ad-atticum-13-13",
       "loc": "1",
       "greek_original": "ζηλοτυπεῖσθαι",
@@ -18527,7 +18631,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1426",
+      "id": "gr-1434",
       "work": "ad-atticum-13-13",
       "loc": "1",
       "greek_original": "φιλαυτία",
@@ -18540,7 +18644,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1427",
+      "id": "gr-1435",
       "work": "ad-atticum-13-13",
       "loc": "1",
       "greek_original": "",
@@ -18553,7 +18657,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1428",
+      "id": "gr-1436",
       "work": "ad-atticum-13-13",
       "loc": "1",
       "greek_original": "",
@@ -18566,7 +18670,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1429",
+      "id": "gr-1437",
       "work": "ad-atticum-13-13",
       "loc": "2",
       "greek_original": "ἀπορῶ",
@@ -18579,7 +18683,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1430",
+      "id": "gr-1438",
       "work": "ad-atticum-13-13",
       "loc": "2",
       "greek_original": "αἰδέομαι Τρῶασ",
@@ -18592,7 +18696,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1431",
+      "id": "gr-1439",
       "work": "ad-atticum-13-13",
       "loc": "2",
       "greek_original": "μέμψιν",
@@ -18605,7 +18709,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1432",
+      "id": "gr-1440",
       "work": "ad-atticum-13-13",
       "loc": "2",
       "greek_original": "",
@@ -18618,7 +18722,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1433",
+      "id": "gr-1441",
       "work": "ad-atticum-13-13",
       "loc": "2",
       "greek_original": "",
@@ -18631,7 +18735,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1434",
+      "id": "gr-1442",
       "work": "ad-atticum-13-13",
       "loc": "2",
       "greek_original": "",
@@ -18644,7 +18748,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1435",
+      "id": "gr-1443",
       "work": "ad-atticum-13-16",
       "loc": "1",
       "greek_original": "Ἀκαδημικὴν σύνταξιν",
@@ -18657,7 +18761,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1436",
+      "id": "gr-1444",
       "work": "ad-atticum-13-16",
       "loc": "1",
       "greek_original": "παρὰ τὸ πρέπον",
@@ -18670,7 +18774,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1437",
+      "id": "gr-1445",
       "work": "ad-atticum-13-16",
       "loc": "1",
       "greek_original": "ἀπαιδευσία",
@@ -18683,7 +18787,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1438",
+      "id": "gr-1446",
       "work": "ad-atticum-13-16",
       "loc": "1",
       "greek_original": "ἀτριψία",
@@ -18696,7 +18800,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1439",
+      "id": "gr-1447",
       "work": "ad-atticum-13-16",
       "loc": "1",
       "greek_original": "",
@@ -18709,7 +18813,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1440",
+      "id": "gr-1448",
       "work": "ad-atticum-13-16",
       "loc": "1",
       "greek_original": "",
@@ -18722,7 +18826,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1441",
+      "id": "gr-1449",
       "work": "ad-atticum-13-16",
       "loc": "1",
       "greek_original": "",
@@ -18735,7 +18839,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1442",
+      "id": "gr-1450",
       "work": "ad-atticum-13-16",
       "loc": "1",
       "greek_original": "",
@@ -18748,7 +18852,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1443",
+      "id": "gr-1451",
       "work": "ad-atticum-13-17",
       "loc": "2",
       "greek_original": "πολυγραφώτατοσ",
@@ -18761,7 +18865,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1444",
+      "id": "gr-1452",
       "work": "ad-atticum-13-17",
       "loc": "2",
       "greek_original": "ζηλοτυπεῖν",
@@ -18774,7 +18878,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1445",
+      "id": "gr-1453",
       "work": "ad-atticum-13-17",
       "loc": "2",
       "greek_original": "ζηλοτυπεῖσ",
@@ -18787,7 +18891,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1446",
+      "id": "gr-1454",
       "work": "ad-atticum-13-17",
       "loc": "2",
       "greek_original": "",
@@ -18800,7 +18904,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1447",
+      "id": "gr-1455",
       "work": "ad-atticum-13-17",
       "loc": "2",
       "greek_original": "",
@@ -18813,7 +18917,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1448",
+      "id": "gr-1456",
       "work": "ad-atticum-13-17",
       "loc": "2",
       "greek_original": "",
@@ -18826,7 +18930,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1449",
+      "id": "gr-1457",
       "work": "ad-atticum-13-19",
       "loc": "1",
       "greek_original": "ἀκίνδυνα",
@@ -18839,7 +18943,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1450",
+      "id": "gr-1458",
       "work": "ad-atticum-13-19",
       "loc": "1",
       "greek_original": "",
@@ -18852,7 +18956,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1451",
+      "id": "gr-1459",
       "work": "ad-atticum-13-19",
       "loc": "3",
       "greek_original": "φιλένδοξοσ",
@@ -18865,7 +18969,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1452",
+      "id": "gr-1460",
       "work": "ad-atticum-13-19",
       "loc": "3",
       "greek_original": "ἀκαταληψίαν",
@@ -18878,7 +18982,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1453",
+      "id": "gr-1461",
       "work": "ad-atticum-13-19",
       "loc": "3",
       "greek_original": "κωφὸν πρόσωπον",
@@ -18891,7 +18995,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1454",
+      "id": "gr-1462",
       "work": "ad-atticum-13-19",
       "loc": "3",
       "greek_original": "",
@@ -18904,7 +19008,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1455",
+      "id": "gr-1463",
       "work": "ad-atticum-13-19",
       "loc": "3",
       "greek_original": "",
@@ -18917,7 +19021,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1456",
+      "id": "gr-1464",
       "work": "ad-atticum-13-19",
       "loc": "3",
       "greek_original": "",
@@ -18930,7 +19034,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1457",
+      "id": "gr-1465",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "Ἀριστοτέλειον",
@@ -18943,7 +19047,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1458",
+      "id": "gr-1466",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "περὶ",
@@ -18956,7 +19060,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1459",
+      "id": "gr-1467",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "Περιπατητικὰ",
@@ -18969,7 +19073,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1460",
+      "id": "gr-1468",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "ἀζηλοτύπητον",
@@ -18982,7 +19086,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1461",
+      "id": "gr-1469",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "λογικώτερα",
@@ -18995,7 +19099,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1462",
+      "id": "gr-1470",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "ἕρμαιον",
@@ -19008,7 +19112,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1463",
+      "id": "gr-1471",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "πιθανὰ",
@@ -19021,7 +19125,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1464",
+      "id": "gr-1472",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "",
@@ -19034,7 +19138,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1465",
+      "id": "gr-1473",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "",
@@ -19047,7 +19151,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1466",
+      "id": "gr-1474",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "",
@@ -19060,7 +19164,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1467",
+      "id": "gr-1475",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "",
@@ -19073,7 +19177,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1468",
+      "id": "gr-1476",
       "work": "ad-atticum-13-19",
       "loc": "4",
       "greek_original": "",
@@ -19086,7 +19190,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1469",
+      "id": "gr-1477",
       "work": "ad-atticum-13-09",
       "loc": "1",
       "greek_original": "ἐκτενέστερον",
@@ -19099,7 +19203,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1470",
+      "id": "gr-1478",
       "work": "ad-atticum-13-09",
       "loc": "1",
       "greek_original": "φιλοστοργότερον",
@@ -19112,7 +19216,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1471",
+      "id": "gr-1479",
       "work": "ad-atticum-13-09",
       "loc": "1",
       "greek_original": "ἄφατα",
@@ -19125,7 +19229,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1472",
+      "id": "gr-1480",
       "work": "ad-atticum-13-09",
       "loc": "1",
       "greek_original": "ἀδιήγητα",
@@ -19138,7 +19242,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1473",
+      "id": "gr-1481",
       "work": "ad-atticum-13-09",
       "loc": "1",
       "greek_original": "εὐκαίρωσ",
@@ -19151,7 +19255,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1474",
+      "id": "gr-1482",
       "work": "ad-atticum-13-09",
       "loc": "1",
       "greek_original": "",
@@ -19164,7 +19268,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1475",
+      "id": "gr-1483",
       "work": "ad-atticum-13-09",
       "loc": "1",
       "greek_original": "",
@@ -19177,7 +19281,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1476",
+      "id": "gr-1484",
       "work": "ad-atticum-13-09",
       "loc": "1",
       "greek_original": "",
@@ -19190,7 +19294,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1477",
+      "id": "gr-1485",
       "work": "ad-atticum-13-09",
       "loc": "1",
       "greek_original": "",
@@ -19203,7 +19307,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1478",
+      "id": "gr-1486",
       "work": "ad-atticum-13-09",
       "loc": "1",
       "greek_original": "",
@@ -19216,7 +19320,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1479",
+      "id": "gr-1487",
       "work": "ad-atticum-13-20",
       "loc": "2",
       "greek_original": "φιλαίτιοσ",
@@ -19229,7 +19333,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1480",
+      "id": "gr-1488",
       "work": "ad-atticum-13-20",
       "loc": "2",
       "greek_original": "",
@@ -19242,7 +19346,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1481",
+      "id": "gr-1489",
       "work": "ad-atticum-13-20",
       "loc": "4",
       "greek_original": "φιλοσόφωσ",
@@ -19255,7 +19359,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1482",
+      "id": "gr-1490",
       "work": "ad-atticum-13-20",
       "loc": "4",
       "greek_original": "δεδῆχθαι",
@@ -19268,7 +19372,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1483",
+      "id": "gr-1491",
       "work": "ad-atticum-13-20",
       "loc": "4",
       "greek_original": "μὴ γὰρ αὐτοῖσ",
@@ -19281,7 +19385,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1484",
+      "id": "gr-1492",
       "work": "ad-atticum-13-20",
       "loc": "4",
       "greek_original": "",
@@ -19294,7 +19398,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1485",
+      "id": "gr-1493",
       "work": "ad-atticum-13-20",
       "loc": "4",
       "greek_original": "",
@@ -19307,7 +19411,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1486",
+      "id": "gr-1494",
       "work": "ad-atticum-13-20",
       "loc": "4",
       "greek_original": "",
@@ -19320,7 +19424,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1487",
+      "id": "gr-1495",
       "work": "ad-atticum-13-22",
       "loc": "1",
       "greek_original": "ἀσμεναίτατα",
@@ -19333,7 +19437,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1488",
+      "id": "gr-1496",
       "work": "ad-atticum-13-22",
       "loc": "1",
       "greek_original": "",
@@ -19346,7 +19450,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1489",
+      "id": "gr-1497",
       "work": "ad-atticum-13-22",
       "loc": "2",
       "greek_original": "τὰ κατὰ μέροσ",
@@ -19359,7 +19463,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1490",
+      "id": "gr-1498",
       "work": "ad-atticum-13-22",
       "loc": "2",
       "greek_original": "",
@@ -19372,7 +19476,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1491",
+      "id": "gr-1499",
       "work": "ad-atticum-13-22",
       "loc": "4",
       "greek_original": "εὐλογίαν",
@@ -19385,7 +19489,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1492",
+      "id": "gr-1500",
       "work": "ad-atticum-13-22",
       "loc": "4",
       "greek_original": "",
@@ -19398,7 +19502,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1493",
+      "id": "gr-1501",
       "work": "ad-atticum-13-23",
       "loc": "1",
       "greek_original": "συμβίωσισ",
@@ -19411,7 +19515,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1494",
+      "id": "gr-1502",
       "work": "ad-atticum-13-23",
       "loc": "1",
       "greek_original": "",
@@ -19424,7 +19528,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1495",
+      "id": "gr-1503",
       "work": "ad-atticum-13-23",
       "loc": "3",
       "greek_original": "εὐγαγώγωσ",
@@ -19437,7 +19541,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1496",
+      "id": "gr-1504",
       "work": "ad-atticum-13-23",
       "loc": "3",
       "greek_original": "",
@@ -19450,7 +19554,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1497",
+      "id": "gr-1505",
       "work": "ad-atticum-13-24",
       "loc": "1",
       "greek_original": "διφθέραι",
@@ -19463,7 +19567,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1498",
+      "id": "gr-1506",
       "work": "ad-atticum-13-24",
       "loc": "1",
       "greek_original": "αἰδέομαι",
@@ -19476,7 +19580,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1499",
+      "id": "gr-1507",
       "work": "ad-atticum-13-24",
       "loc": "1",
       "greek_original": "",
@@ -19489,7 +19593,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1500",
+      "id": "gr-1508",
       "work": "ad-atticum-13-24",
       "loc": "1",
       "greek_original": "",
@@ -19502,7 +19606,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1501",
+      "id": "gr-1509",
       "work": "ad-atticum-13-25",
       "loc": "1",
       "greek_original": "ἀσαφέστεροσ",
@@ -19515,7 +19619,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1502",
+      "id": "gr-1510",
       "work": "ad-atticum-13-25",
       "loc": "1",
       "greek_original": "",
@@ -19528,7 +19632,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1503",
+      "id": "gr-1511",
       "work": "ad-atticum-13-25",
       "loc": "3",
       "greek_original": "δεινὸσ ἀνήρ",
@@ -19541,7 +19645,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1504",
+      "id": "gr-1512",
       "work": "ad-atticum-13-25",
       "loc": "3",
       "greek_original": "τάχα κεν καὶ ἀναίτιον αἰτιόῳτο",
@@ -19554,7 +19658,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1505",
+      "id": "gr-1513",
       "work": "ad-atticum-13-25",
       "loc": "3",
       "greek_original": "περιοχὰσ",
@@ -19567,7 +19671,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1506",
+      "id": "gr-1514",
       "work": "ad-atticum-13-25",
       "loc": "3",
       "greek_original": "",
@@ -19580,7 +19684,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1507",
+      "id": "gr-1515",
       "work": "ad-atticum-13-25",
       "loc": "3",
       "greek_original": "",
@@ -19593,7 +19697,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1508",
+      "id": "gr-1516",
       "work": "ad-atticum-13-25",
       "loc": "3",
       "greek_original": "",
@@ -19606,7 +19710,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1509",
+      "id": "gr-1517",
       "work": "ad-atticum-13-44",
       "loc": "3",
       "greek_original": "μνημονικὸν ἁμάρτημα",
@@ -19619,7 +19723,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1510",
+      "id": "gr-1518",
       "work": "ad-atticum-13-44",
       "loc": "3",
       "greek_original": "",
@@ -19632,7 +19736,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1511",
+      "id": "gr-1519",
       "work": "ad-atticum-12-09",
       "loc": "1",
       "greek_original": "ὢ ἀπεραντολογίας ἀηδοῦσ",
@@ -19645,7 +19749,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1512",
+      "id": "gr-1520",
       "work": "ad-atticum-12-09",
       "loc": "1",
       "greek_original": "",
@@ -19658,7 +19762,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1513",
+      "id": "gr-1521",
       "work": "ad-atticum-12-10",
       "loc": "1",
       "greek_original": "ἐπιδήμιον",
@@ -19671,7 +19775,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1514",
+      "id": "gr-1522",
       "work": "ad-atticum-12-10",
       "loc": "1",
       "greek_original": "",
@@ -19684,7 +19788,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1515",
+      "id": "gr-1523",
       "work": "ad-familiares-16-17",
       "loc": "1",
       "greek_original": "",
@@ -19697,7 +19801,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1516",
+      "id": "gr-1524",
       "work": "ad-familiares-16-17",
       "loc": "1",
       "greek_original": "",
@@ -19710,7 +19814,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1517",
+      "id": "gr-1525",
       "work": "ad-familiares-16-17",
       "loc": "2",
       "greek_original": "",
@@ -19723,7 +19827,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1518",
+      "id": "gr-1526",
       "work": "ad-atticum-13-21",
       "loc": "3",
       "greek_original": "ἐποχῇ",
@@ -19736,7 +19840,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1519",
+      "id": "gr-1527",
       "work": "ad-atticum-13-21",
       "loc": "3",
       "greek_original": "προβολὴν",
@@ -19749,7 +19853,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1520",
+      "id": "gr-1528",
       "work": "ad-atticum-13-21",
       "loc": "3",
       "greek_original": "",
@@ -19762,7 +19866,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1521",
+      "id": "gr-1529",
       "work": "ad-atticum-13-21",
       "loc": "3",
       "greek_original": "",
@@ -19775,7 +19879,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1522",
+      "id": "gr-1530",
       "work": "ad-atticum-13-37",
       "loc": "2",
       "greek_original": "ἀξιοπίστωσ",
@@ -19788,7 +19892,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1523",
+      "id": "gr-1531",
       "work": "ad-atticum-13-37",
       "loc": "2",
       "greek_original": "φοβερὸν ἂν ἦν",
@@ -19801,7 +19905,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1524",
+      "id": "gr-1532",
       "work": "ad-atticum-13-37",
       "loc": "2",
       "greek_original": "",
@@ -19814,7 +19918,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1525",
+      "id": "gr-1533",
       "work": "ad-atticum-13-37",
       "loc": "2",
       "greek_original": "",
@@ -19827,7 +19931,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1526",
+      "id": "gr-1534",
       "work": "ad-atticum-13-37",
       "loc": "4",
       "greek_original": "ἀνεμοφόρητα",
@@ -19840,7 +19944,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1527",
+      "id": "gr-1535",
       "work": "ad-atticum-13-37",
       "loc": "4",
       "greek_original": "",
@@ -19853,7 +19957,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1528",
+      "id": "gr-1536",
       "work": "ad-atticum-13-38",
       "loc": "1",
       "greek_original": "οὐκ ἐπέστησεν",
@@ -19866,7 +19970,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1529",
+      "id": "gr-1537",
       "work": "ad-atticum-13-38",
       "loc": "1",
       "greek_original": "",
@@ -19879,7 +19983,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1530",
+      "id": "gr-1538",
       "work": "ad-atticum-13-38",
       "loc": "2",
       "greek_original": "πότερον",
@@ -19892,7 +19996,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1531",
+      "id": "gr-1539",
       "work": "ad-atticum-13-38",
       "loc": "2",
       "greek_original": "ἢ σκολιαῖσ ἀπάταις",
@@ -19905,7 +20009,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1532",
+      "id": "gr-1540",
       "work": "ad-atticum-13-38",
       "loc": "2",
       "greek_original": "δίχα μοι νόοσ ἀτρέκειαν εἰπεῖν",
@@ -19918,7 +20022,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1533",
+      "id": "gr-1541",
       "work": "ad-atticum-13-38",
       "loc": "2",
       "greek_original": "",
@@ -19931,7 +20035,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1534",
+      "id": "gr-1542",
       "work": "ad-atticum-13-38",
       "loc": "2",
       "greek_original": "",
@@ -19944,7 +20048,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1535",
+      "id": "gr-1543",
       "work": "ad-atticum-13-38",
       "loc": "2",
       "greek_original": "",
@@ -19957,7 +20061,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1536",
+      "id": "gr-1544",
       "work": "ad-atticum-13-48",
       "loc": "1",
       "greek_original": "ἀλόγωσ",
@@ -19970,7 +20074,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1537",
+      "id": "gr-1545",
       "work": "ad-atticum-13-48",
       "loc": "1",
       "greek_original": "",
@@ -19983,7 +20087,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1538",
+      "id": "gr-1546",
       "work": "ad-atticum-13-39",
       "loc": "2",
       "greek_original": "σκολιὰ",
@@ -19996,7 +20100,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1539",
+      "id": "gr-1547",
       "work": "ad-atticum-13-39",
       "loc": "2",
       "greek_original": "Φαίδρου περὶ Θεῶν",
@@ -20009,7 +20113,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1540",
+      "id": "gr-1548",
       "work": "ad-atticum-13-39",
       "loc": "2",
       "greek_original": "",
@@ -20022,7 +20126,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1541",
+      "id": "gr-1549",
       "work": "ad-atticum-13-39",
       "loc": "2",
       "greek_original": "",
@@ -20035,7 +20139,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1542",
+      "id": "gr-1550",
       "work": "ad-atticum-13-40",
       "loc": "1",
       "greek_original": "εὐαγγέλια",
@@ -20048,7 +20152,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1543",
+      "id": "gr-1551",
       "work": "ad-atticum-13-40",
       "loc": "1",
       "greek_original": "φιλοτέχνημα",
@@ -20061,7 +20165,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1544",
+      "id": "gr-1552",
       "work": "ad-atticum-13-40",
       "loc": "1",
       "greek_original": "",
@@ -20074,7 +20178,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1545",
+      "id": "gr-1553",
       "work": "ad-atticum-13-40",
       "loc": "1",
       "greek_original": "",
@@ -20087,7 +20191,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1546",
+      "id": "gr-1554",
       "work": "ad-atticum-13-40",
       "loc": "2",
       "greek_original": "κεκέπφωμαι",
@@ -20100,7 +20204,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1547",
+      "id": "gr-1555",
       "work": "ad-atticum-13-40",
       "loc": "2",
       "greek_original": "τὰ ὅλα",
@@ -20113,7 +20217,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1548",
+      "id": "gr-1556",
       "work": "ad-atticum-13-40",
       "loc": "2",
       "greek_original": "",
@@ -20126,7 +20230,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1549",
+      "id": "gr-1557",
       "work": "ad-atticum-13-40",
       "loc": "2",
       "greek_original": "",
@@ -20139,7 +20243,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1550",
+      "id": "gr-1558",
       "work": "ad-atticum-13-41",
       "loc": "1",
       "greek_original": "σκολιαῖσ ἀπάταισ",
@@ -20152,7 +20256,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1551",
+      "id": "gr-1559",
       "work": "ad-atticum-13-41",
       "loc": "1",
       "greek_original": "",
@@ -20165,7 +20269,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1552",
+      "id": "gr-1560",
       "work": "ad-atticum-13-49",
       "loc": "1",
       "greek_original": "μέμψιν ἀναφέρει",
@@ -20178,7 +20282,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1553",
+      "id": "gr-1561",
       "work": "ad-atticum-13-49",
       "loc": "1",
       "greek_original": "",
@@ -20191,7 +20295,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1554",
+      "id": "gr-1562",
       "work": "ad-atticum-13-51",
       "loc": "1",
       "greek_original": "πρὸσ ἴσον ὅμοιόν",
@@ -20204,7 +20308,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1555",
+      "id": "gr-1563",
       "work": "ad-atticum-13-51",
       "loc": "1",
       "greek_original": "ἀκολακεύτωσ",
@@ -20217,7 +20321,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1556",
+      "id": "gr-1564",
       "work": "ad-atticum-13-51",
       "loc": "1",
       "greek_original": "",
@@ -20230,7 +20334,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1557",
+      "id": "gr-1565",
       "work": "ad-atticum-13-51",
       "loc": "1",
       "greek_original": "",
@@ -20243,7 +20347,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1558",
+      "id": "gr-1566",
       "work": "ad-familiares-07-25",
       "loc": "1",
       "greek_original": "",
@@ -20256,7 +20360,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1559",
+      "id": "gr-1567",
       "work": "ad-familiares-07-29",
       "loc": "1",
       "greek_original": "",
@@ -20269,7 +20373,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1560",
+      "id": "gr-1568",
       "work": "ad-familiares-07-29",
       "loc": "1",
       "greek_original": "",
@@ -20282,7 +20386,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1561",
+      "id": "gr-1569",
       "work": "ad-atticum-13-42",
       "loc": "1",
       "greek_original": "καὶ",
@@ -20295,7 +20399,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1562",
+      "id": "gr-1570",
       "work": "ad-atticum-13-42",
       "loc": "1",
       "greek_original": "σὺ δὲ δὴ τί σύννους",
@@ -20308,7 +20412,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1563",
+      "id": "gr-1571",
       "work": "ad-atticum-13-42",
       "loc": "1",
       "greek_original": "",
@@ -20321,7 +20425,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1564",
+      "id": "gr-1572",
       "work": "ad-atticum-13-42",
       "loc": "1",
       "greek_original": "",
@@ -20334,7 +20438,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1565",
+      "id": "gr-1573",
       "work": "ad-atticum-13-42",
       "loc": "3",
       "greek_original": "μὴ σκόρδου",
@@ -20347,7 +20451,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1566",
+      "id": "gr-1574",
       "work": "ad-atticum-13-42",
       "loc": "3",
       "greek_original": "",
@@ -20360,7 +20464,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1567",
+      "id": "gr-1575",
       "work": "ad-atticum-13-52",
       "loc": "1",
       "greek_original": "ἀμεταμέλητον",
@@ -20373,7 +20477,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1568",
+      "id": "gr-1576",
       "work": "ad-atticum-13-52",
       "loc": "1",
       "greek_original": "ἐμετικὴν",
@@ -20386,7 +20490,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1569",
+      "id": "gr-1577",
       "work": "ad-atticum-13-52",
       "loc": "1",
       "greek_original": "ἀδεῶσ",
@@ -20399,7 +20503,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1570",
+      "id": "gr-1578",
       "work": "ad-atticum-13-52",
       "loc": "1",
       "greek_original": "",
@@ -20412,7 +20516,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1571",
+      "id": "gr-1579",
       "work": "ad-atticum-13-52",
       "loc": "1",
       "greek_original": "",
@@ -20425,7 +20529,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1572",
+      "id": "gr-1580",
       "work": "ad-atticum-13-52",
       "loc": "1",
       "greek_original": "",
@@ -20438,7 +20542,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1573",
+      "id": "gr-1581",
       "work": "ad-atticum-13-52",
       "loc": "2",
       "greek_original": "οἱ περὶ",
@@ -20451,7 +20555,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1574",
+      "id": "gr-1582",
       "work": "ad-atticum-13-52",
       "loc": "2",
       "greek_original": "σπουδαῖον οὐδὲν",
@@ -20464,7 +20568,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1575",
+      "id": "gr-1583",
       "work": "ad-atticum-13-52",
       "loc": "2",
       "greek_original": "φιλόλογα",
@@ -20477,7 +20581,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1576",
+      "id": "gr-1584",
       "work": "ad-atticum-13-52",
       "loc": "2",
       "greek_original": "ἐπισταθμείαν",
@@ -20490,7 +20594,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1577",
+      "id": "gr-1585",
       "work": "ad-atticum-13-52",
       "loc": "2",
       "greek_original": "",
@@ -20503,7 +20607,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1578",
+      "id": "gr-1586",
       "work": "ad-atticum-13-52",
       "loc": "2",
       "greek_original": "",
@@ -20516,7 +20620,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1579",
+      "id": "gr-1587",
       "work": "ad-atticum-13-52",
       "loc": "2",
       "greek_original": "",
@@ -20529,7 +20633,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1580",
+      "id": "gr-1588",
       "work": "ad-atticum-13-52",
       "loc": "2",
       "greek_original": "",
@@ -20542,7 +20646,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1581",
+      "id": "gr-1589",
       "work": "ad-atticum-14-15",
       "loc": "1",
       "greek_original": "ἀναθεώρησιν",
@@ -20555,7 +20659,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1582",
+      "id": "gr-1590",
       "work": "ad-atticum-14-15",
       "loc": "1",
       "greek_original": "",
@@ -20568,7 +20672,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1583",
+      "id": "gr-1591",
       "work": "ad-atticum-14-02",
       "loc": "2",
       "greek_original": "φαλάκωμα",
@@ -20581,7 +20685,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1584",
+      "id": "gr-1592",
       "work": "ad-atticum-14-02",
       "loc": "2",
       "greek_original": "φαλάκρωμα",
@@ -20594,7 +20698,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1585",
+      "id": "gr-1593",
       "work": "ad-atticum-14-02",
       "loc": "2",
       "greek_original": "",
@@ -20607,7 +20711,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1586",
+      "id": "gr-1594",
       "work": "ad-atticum-14-02",
       "loc": "2",
       "greek_original": "",
@@ -20620,7 +20724,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1587",
+      "id": "gr-1595",
       "work": "ad-atticum-14-03",
       "loc": "1",
       "greek_original": "πανικὸν",
@@ -20633,7 +20737,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1588",
+      "id": "gr-1596",
       "work": "ad-atticum-14-03",
       "loc": "1",
       "greek_original": "",
@@ -20646,7 +20750,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1589",
+      "id": "gr-1597",
       "work": "ad-atticum-14-03",
       "loc": "2",
       "greek_original": "διάθεσιν",
@@ -20659,7 +20763,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1590",
+      "id": "gr-1598",
       "work": "ad-atticum-14-03",
       "loc": "2",
       "greek_original": "πραγματικὸν",
@@ -20672,7 +20776,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1591",
+      "id": "gr-1599",
       "work": "ad-atticum-14-03",
       "loc": "2",
       "greek_original": "ἐπισημασίαν",
@@ -20685,7 +20789,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1592",
+      "id": "gr-1600",
       "work": "ad-atticum-14-03",
       "loc": "2",
       "greek_original": "",
@@ -20698,7 +20802,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1593",
+      "id": "gr-1601",
       "work": "ad-atticum-14-03",
       "loc": "2",
       "greek_original": "",
@@ -20711,7 +20815,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1594",
+      "id": "gr-1602",
       "work": "ad-atticum-14-03",
       "loc": "2",
       "greek_original": "",
@@ -20724,7 +20828,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1595",
+      "id": "gr-1603",
       "work": "ad-atticum-14-04",
       "loc": "1",
       "greek_original": "ἥρωεσ",
@@ -20737,7 +20841,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1596",
+      "id": "gr-1604",
       "work": "ad-atticum-14-04",
       "loc": "1",
       "greek_original": "",
@@ -20750,7 +20854,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1597",
+      "id": "gr-1605",
       "work": "ad-atticum-14-06",
       "loc": "2",
       "greek_original": "πολιτεύεσθαι",
@@ -20763,7 +20867,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1598",
+      "id": "gr-1606",
       "work": "ad-atticum-14-06",
       "loc": "2",
       "greek_original": "σόλοικον",
@@ -20776,7 +20880,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1599",
+      "id": "gr-1607",
       "work": "ad-atticum-14-06",
       "loc": "2",
       "greek_original": "πεπολιτεύμεθα",
@@ -20789,7 +20893,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1600",
+      "id": "gr-1608",
       "work": "ad-atticum-14-06",
       "loc": "2",
       "greek_original": "πολιτικώτερα",
@@ -20802,7 +20906,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1601",
+      "id": "gr-1609",
       "work": "ad-atticum-14-06",
       "loc": "2",
       "greek_original": "",
@@ -20815,7 +20919,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1602",
+      "id": "gr-1610",
       "work": "ad-atticum-14-06",
       "loc": "2",
       "greek_original": "",
@@ -20828,7 +20932,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1603",
+      "id": "gr-1611",
       "work": "ad-atticum-14-06",
       "loc": "2",
       "greek_original": "",
@@ -20841,7 +20945,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1604",
+      "id": "gr-1612",
       "work": "ad-atticum-14-06",
       "loc": "2",
       "greek_original": "",
@@ -20854,7 +20958,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1605",
+      "id": "gr-1613",
       "work": "ad-atticum-14-05",
       "loc": "1",
       "greek_original": "ἠσίτησασ",
@@ -20867,7 +20971,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1606",
+      "id": "gr-1614",
       "work": "ad-atticum-14-05",
       "loc": "1",
       "greek_original": "μνημονικὸν ἁμάρτημα",
@@ -20880,7 +20984,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1607",
+      "id": "gr-1615",
       "work": "ad-atticum-14-05",
       "loc": "1",
       "greek_original": "φυρμὸς πολύσ",
@@ -20893,7 +20997,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1608",
+      "id": "gr-1616",
       "work": "ad-atticum-14-05",
       "loc": "1",
       "greek_original": "",
@@ -20906,7 +21010,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1609",
+      "id": "gr-1617",
       "work": "ad-atticum-14-05",
       "loc": "1",
       "greek_original": "",
@@ -20919,7 +21023,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1610",
+      "id": "gr-1618",
       "work": "ad-atticum-14-05",
       "loc": "2",
       "greek_original": "εὐρίπιστα",
@@ -20932,7 +21036,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1611",
+      "id": "gr-1619",
       "work": "ad-atticum-14-05",
       "loc": "2",
       "greek_original": "",
@@ -20945,7 +21049,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1612",
+      "id": "gr-1620",
       "work": "ad-atticum-14-05",
       "loc": "3",
       "greek_original": "νεωτερισμοῦ",
@@ -20958,7 +21062,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1613",
+      "id": "gr-1621",
       "work": "ad-atticum-14-05",
       "loc": "3",
       "greek_original": "",
@@ -20971,7 +21075,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1614",
+      "id": "gr-1622",
       "work": "ad-atticum-14-07",
       "loc": "2",
       "greek_original": "πεπινωμέναι",
@@ -20984,7 +21088,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1615",
+      "id": "gr-1623",
       "work": "ad-atticum-14-07",
       "loc": "2",
       "greek_original": "πίνοσ",
@@ -20997,7 +21101,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1616",
+      "id": "gr-1624",
       "work": "ad-atticum-14-07",
       "loc": "2",
       "greek_original": "",
@@ -21010,7 +21114,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1617",
+      "id": "gr-1625",
       "work": "ad-atticum-14-07",
       "loc": "2",
       "greek_original": "",
@@ -21023,7 +21127,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1618",
+      "id": "gr-1626",
       "work": "ad-atticum-14-10",
       "loc": "1",
       "greek_original": "γῆν πρὸ γῆσ",
@@ -21036,7 +21140,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1619",
+      "id": "gr-1627",
       "work": "ad-atticum-14-10",
       "loc": "1",
       "greek_original": "ὑπηνέμιοσ",
@@ -21049,7 +21153,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1620",
+      "id": "gr-1628",
       "work": "ad-atticum-14-10",
       "loc": "1",
       "greek_original": "",
@@ -21062,7 +21166,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1621",
+      "id": "gr-1629",
       "work": "ad-atticum-14-10",
       "loc": "1",
       "greek_original": "",
@@ -21075,7 +21179,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1622",
+      "id": "gr-1630",
       "work": "ad-atticum-14-10",
       "loc": "3",
       "greek_original": "ῤιξόθεμιν",
@@ -21088,7 +21192,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1623",
+      "id": "gr-1631",
       "work": "ad-atticum-14-10",
       "loc": "3",
       "greek_original": "",
@@ -21101,7 +21205,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1624",
+      "id": "gr-1632",
       "work": "ad-atticum-14-11",
       "loc": "1",
       "greek_original": "ἀκολασίαν",
@@ -21114,7 +21218,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1625",
+      "id": "gr-1633",
       "work": "ad-atticum-14-11",
       "loc": "1",
       "greek_original": "",
@@ -21127,7 +21231,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1626",
+      "id": "gr-1634",
       "work": "ad-atticum-14-12",
       "loc": "1",
       "greek_original": "ὢ",
@@ -21140,7 +21244,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1627",
+      "id": "gr-1635",
       "work": "ad-atticum-14-12",
       "loc": "1",
       "greek_original": "",
@@ -21153,7 +21257,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1628",
+      "id": "gr-1636",
       "work": "ad-atticum-14-13",
       "loc": "1",
       "greek_original": "ἁλιτενεῖ",
@@ -21166,7 +21270,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1629",
+      "id": "gr-1637",
       "work": "ad-atticum-14-13",
       "loc": "1",
       "greek_original": "",
@@ -21179,7 +21283,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1630",
+      "id": "gr-1638",
       "work": "ad-atticum-14-13",
       "loc": "1",
       "greek_original": "",
@@ -21192,7 +21296,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1631",
+      "id": "gr-1639",
       "work": "ad-atticum-14-13",
       "loc": "2",
       "greek_original": "τέκνον ἐμόν",
@@ -21205,7 +21309,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1632",
+      "id": "gr-1640",
       "work": "ad-atticum-14-13",
       "loc": "2",
       "greek_original": "οὔ τοι δέδοται πολεμήια ἔργα",
@@ -21218,7 +21322,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1633",
+      "id": "gr-1641",
       "work": "ad-atticum-14-13",
       "loc": "2",
       "greek_original": "ἀλλὰ σύ γ",
@@ -21231,7 +21335,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1634",
+      "id": "gr-1642",
       "work": "ad-atticum-14-13",
       "loc": "2",
       "greek_original": "ἱμερόεντα μετέρχεο ἔργα λόγοιο",
@@ -21244,7 +21348,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1635",
+      "id": "gr-1643",
       "work": "ad-atticum-14-13",
       "loc": "2",
       "greek_original": "",
@@ -21257,7 +21361,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1636",
+      "id": "gr-1644",
       "work": "ad-atticum-14-14",
       "loc": "1",
       "greek_original": "πολιτικώτερα",
@@ -21270,7 +21374,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1637",
+      "id": "gr-1645",
       "work": "ad-atticum-14-14",
       "loc": "1",
       "greek_original": "",
@@ -21283,7 +21387,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1638",
+      "id": "gr-1646",
       "work": "ad-atticum-14-16",
       "loc": "2",
       "greek_original": "ἀριστείαν",
@@ -21296,7 +21400,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1639",
+      "id": "gr-1647",
       "work": "ad-atticum-14-16",
       "loc": "2",
       "greek_original": "ἀναθεώρησισ",
@@ -21309,7 +21413,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1640",
+      "id": "gr-1648",
       "work": "ad-atticum-14-16",
       "loc": "2",
       "greek_original": "",
@@ -21322,7 +21426,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1641",
+      "id": "gr-1649",
       "work": "ad-atticum-14-16",
       "loc": "2",
       "greek_original": "",
@@ -21335,7 +21439,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1642",
+      "id": "gr-1650",
       "work": "ad-atticum-14-16",
       "loc": "3",
       "greek_original": "κατὰ μίτον",
@@ -21348,7 +21452,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1643",
+      "id": "gr-1651",
       "work": "ad-atticum-14-16",
       "loc": "3",
       "greek_original": "",
@@ -21361,7 +21465,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1644",
+      "id": "gr-1652",
       "work": "ad-atticum-14-17",
       "loc": "3",
       "greek_original": "μελήσει",
@@ -21374,7 +21478,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1645",
+      "id": "gr-1653",
       "work": "ad-atticum-14-17",
       "loc": "3",
       "greek_original": "",
@@ -21387,7 +21491,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1646",
+      "id": "gr-1654",
       "work": "ad-atticum-14-17",
       "loc": "6",
       "greek_original": "ἀνέκδοτον",
@@ -21400,7 +21504,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1647",
+      "id": "gr-1655",
       "work": "ad-atticum-14-17",
       "loc": "6",
       "greek_original": "",
@@ -21413,7 +21517,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1648",
+      "id": "gr-1656",
       "work": "ad-atticum-14-20",
       "loc": "3",
       "greek_original": "καθολικὸν θεώρημα",
@@ -21426,7 +21530,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1649",
+      "id": "gr-1657",
       "work": "ad-atticum-14-20",
       "loc": "3",
       "greek_original": "",
@@ -21439,7 +21543,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1650",
+      "id": "gr-1658",
       "work": "ad-atticum-14-21",
       "loc": "3",
       "greek_original": "ὑποσόλοικα",
@@ -21452,7 +21556,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1651",
+      "id": "gr-1659",
       "work": "ad-atticum-14-21",
       "loc": "3",
       "greek_original": "βεβίωται",
@@ -21465,7 +21569,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1652",
+      "id": "gr-1660",
       "work": "ad-atticum-14-21",
       "loc": "3",
       "greek_original": "",
@@ -21478,7 +21582,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1653",
+      "id": "gr-1661",
       "work": "ad-atticum-14-21",
       "loc": "3",
       "greek_original": "",
@@ -21491,7 +21595,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1654",
+      "id": "gr-1662",
       "work": "ad-atticum-14-21",
       "loc": "4",
       "greek_original": "πεντέλοιπον",
@@ -21504,7 +21608,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1655",
+      "id": "gr-1663",
       "work": "ad-atticum-14-21",
       "loc": "4",
       "greek_original": "λῆροσ πολύσ",
@@ -21517,7 +21621,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1656",
+      "id": "gr-1664",
       "work": "ad-atticum-14-21",
       "loc": "4",
       "greek_original": "",
@@ -21530,7 +21634,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1657",
+      "id": "gr-1665",
       "work": "ad-atticum-14-21",
       "loc": "4",
       "greek_original": "",
@@ -21543,7 +21647,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1658",
+      "id": "gr-1666",
       "work": "ad-atticum-14-20",
       "loc": "5",
       "greek_original": "μὴ",
@@ -21556,7 +21660,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1659",
+      "id": "gr-1667",
       "work": "ad-atticum-14-20",
       "loc": "5",
       "greek_original": "",
@@ -21569,7 +21673,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1660",
+      "id": "gr-1668",
       "work": "ad-atticum-14-22",
       "loc": "1",
       "greek_original": "ὑπόθεσιν",
@@ -21582,7 +21686,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1661",
+      "id": "gr-1669",
       "work": "ad-atticum-14-22",
       "loc": "1",
       "greek_original": "",
@@ -21595,7 +21699,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1662",
+      "id": "gr-1670",
       "work": "ad-atticum-14-22",
       "loc": "2",
       "greek_original": "εὔλογον",
@@ -21608,7 +21712,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1663",
+      "id": "gr-1671",
       "work": "ad-atticum-14-22",
       "loc": "2",
       "greek_original": "φαινοπροσωπητέον",
@@ -21621,7 +21725,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1664",
+      "id": "gr-1672",
       "work": "ad-atticum-14-22",
       "loc": "2",
       "greek_original": "ἰτέον",
@@ -21634,7 +21738,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1665",
+      "id": "gr-1673",
       "work": "ad-atticum-14-22",
       "loc": "2",
       "greek_original": "ἄλλοισ ἐν ἐσθλοῖς τόνδ",
@@ -21647,7 +21751,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1666",
+      "id": "gr-1674",
       "work": "ad-atticum-14-22",
       "loc": "2",
       "greek_original": "ἀπωθοῦνται ψόγον",
@@ -21660,7 +21764,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1667",
+      "id": "gr-1675",
       "work": "ad-atticum-14-22",
       "loc": "2",
       "greek_original": "",
@@ -21673,7 +21777,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1668",
+      "id": "gr-1676",
       "work": "ad-atticum-14-22",
       "loc": "2",
       "greek_original": "",
@@ -21686,7 +21790,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1669",
+      "id": "gr-1677",
       "work": "ad-atticum-14-22",
       "loc": "2",
       "greek_original": "",
@@ -21699,7 +21803,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1670",
+      "id": "gr-1678",
       "work": "ad-atticum-14-22",
       "loc": "2",
       "greek_original": "",
@@ -21712,7 +21816,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1671",
+      "id": "gr-1679",
       "work": "ad-atticum-14-19",
       "loc": "5",
       "greek_original": "πρᾶξιν",
@@ -21725,7 +21829,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1672",
+      "id": "gr-1680",
       "work": "ad-atticum-14-19",
       "loc": "5",
       "greek_original": "",
@@ -21738,7 +21842,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1673",
+      "id": "gr-1681",
       "work": "ad-atticum-15-01",
       "loc": "3",
       "greek_original": "οὐδὲν",
@@ -21751,7 +21855,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1674",
+      "id": "gr-1682",
       "work": "ad-atticum-15-01",
       "loc": "3",
       "greek_original": "",
@@ -21764,7 +21868,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1675",
+      "id": "gr-1683",
       "work": "ad-atticum-15-01",
       "loc": "4",
       "greek_original": "τὸ ἐκ τούτου",
@@ -21777,7 +21881,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1676",
+      "id": "gr-1684",
       "work": "ad-atticum-15-01",
       "loc": "4",
       "greek_original": "",
@@ -21790,7 +21894,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1677",
+      "id": "gr-1685",
       "work": "ad-atticum-15-02",
       "loc": "4",
       "greek_original": "πεντέλοιπον",
@@ -21803,7 +21907,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1678",
+      "id": "gr-1686",
       "work": "ad-atticum-15-02",
       "loc": "4",
       "greek_original": "",
@@ -21816,7 +21920,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1679",
+      "id": "gr-1687",
       "work": "ad-atticum-15-04",
       "loc": "1",
       "greek_original": "ἄνω",
@@ -21829,7 +21933,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1680",
+      "id": "gr-1688",
       "work": "ad-atticum-15-04",
       "loc": "1",
       "greek_original": "",
@@ -21842,7 +21946,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1681",
+      "id": "gr-1689",
       "work": "ad-atticum-15-04",
       "loc": "2",
       "greek_original": "ἀπορία",
@@ -21855,7 +21959,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1682",
+      "id": "gr-1690",
       "work": "ad-atticum-15-04",
       "loc": "2",
       "greek_original": "μελήσει",
@@ -21868,7 +21972,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1683",
+      "id": "gr-1691",
       "work": "ad-atticum-15-04",
       "loc": "2",
       "greek_original": "",
@@ -21881,7 +21985,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1684",
+      "id": "gr-1692",
       "work": "ad-atticum-15-04",
       "loc": "2",
       "greek_original": "",
@@ -21894,7 +21998,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1685",
+      "id": "gr-1693",
       "work": "ad-atticum-15-04",
       "loc": "3",
       "greek_original": "παρεγχείρησισ",
@@ -21907,7 +22011,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1686",
+      "id": "gr-1694",
       "work": "ad-atticum-15-04",
       "loc": "3",
       "greek_original": "Ἡρακλείδειον",
@@ -21920,7 +22024,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1687",
+      "id": "gr-1695",
       "work": "ad-atticum-15-04",
       "loc": "3",
       "greek_original": "",
@@ -21933,7 +22037,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1688",
+      "id": "gr-1696",
       "work": "ad-atticum-15-04",
       "loc": "3",
       "greek_original": "",
@@ -21946,7 +22050,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1689",
+      "id": "gr-1697",
       "work": "ad-familiares-12-16",
       "loc": "3",
       "greek_original": "",
@@ -21959,7 +22063,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1690",
+      "id": "gr-1698",
       "work": "ad-atticum-15-05",
       "loc": "1",
       "greek_original": "ὁ θησαυρὸς ἄνθρακεσ",
@@ -21972,7 +22076,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1691",
+      "id": "gr-1699",
       "work": "ad-atticum-15-05",
       "loc": "1",
       "greek_original": "",
@@ -21985,7 +22089,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1692",
+      "id": "gr-1700",
       "work": "ad-familiares-16-23",
       "loc": "1",
       "greek_original": "",
@@ -21998,7 +22102,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1693",
+      "id": "gr-1701",
       "work": "ad-familiares-16-23",
       "loc": "2",
       "greek_original": "",
@@ -22011,7 +22115,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1694",
+      "id": "gr-1702",
       "work": "ad-atticum-15-09",
       "loc": "1",
       "greek_original": "Περσικὴ",
@@ -22024,7 +22128,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1695",
+      "id": "gr-1703",
       "work": "ad-atticum-15-11",
       "loc": "3",
       "greek_original": "ἡ δεῦρ",
@@ -22037,7 +22141,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1696",
+      "id": "gr-1704",
       "work": "ad-atticum-15-11",
       "loc": "3",
       "greek_original": "ὁδόσ σοι τί δύναται νῦν",
@@ -22050,7 +22154,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1697",
+      "id": "gr-1705",
       "work": "ad-atticum-15-11",
       "loc": "3",
       "greek_original": "θεοπρόπε",
@@ -22063,7 +22167,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1698",
+      "id": "gr-1706",
       "work": "ad-atticum-15-11",
       "loc": "3",
       "greek_original": "",
@@ -22076,7 +22180,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1699",
+      "id": "gr-1707",
       "work": "ad-atticum-15-11",
       "loc": "4",
       "greek_original": "βλάσφημα",
@@ -22089,7 +22193,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1700",
+      "id": "gr-1708",
       "work": "ad-atticum-15-11",
       "loc": "4",
       "greek_original": "",
@@ -22102,7 +22206,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1701",
+      "id": "gr-1709",
       "work": "ad-atticum-15-12",
       "loc": "1",
       "greek_original": "καὶ μάλα σεμνῶσ",
@@ -22115,7 +22219,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1702",
+      "id": "gr-1710",
       "work": "ad-atticum-15-12",
       "loc": "1",
       "greek_original": "",
@@ -22128,7 +22232,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1703",
+      "id": "gr-1711",
       "work": "ad-atticum-15-12",
       "loc": "2",
       "greek_original": "τῶνδε αἰτίαν τῶν Βρούτων τις ἔχει",
@@ -22141,7 +22245,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1704",
+      "id": "gr-1712",
       "work": "ad-atticum-15-12",
       "loc": "2",
       "greek_original": "ἥρωασ",
@@ -22154,7 +22258,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1705",
+      "id": "gr-1713",
       "work": "ad-atticum-15-12",
       "loc": "2",
       "greek_original": "κατηχήσει",
@@ -22167,7 +22271,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1706",
+      "id": "gr-1714",
       "work": "ad-atticum-15-12",
       "loc": "2",
       "greek_original": "ἐὰν διαμείνῃ",
@@ -22180,7 +22284,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1707",
+      "id": "gr-1715",
       "work": "ad-atticum-15-12",
       "loc": "2",
       "greek_original": "",
@@ -22193,7 +22297,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1708",
+      "id": "gr-1716",
       "work": "ad-atticum-15-12",
       "loc": "2",
       "greek_original": "",
@@ -22206,7 +22310,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1709",
+      "id": "gr-1717",
       "work": "ad-atticum-15-12",
       "loc": "2",
       "greek_original": "",
@@ -22219,7 +22323,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1710",
+      "id": "gr-1718",
       "work": "ad-atticum-15-12",
       "loc": "2",
       "greek_original": "",
@@ -22232,7 +22336,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1711",
+      "id": "gr-1719",
       "work": "ad-atticum-15-16",
       "loc": "1",
       "greek_original": "",
@@ -22245,7 +22349,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1712",
+      "id": "gr-1720",
       "work": "ad-atticum-15-16",
       "loc": "1",
       "greek_original": "",
@@ -22258,7 +22362,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1713",
+      "id": "gr-1721",
       "work": "ad-atticum-15-15",
       "loc": "2",
       "greek_original": "φιλόλογα",
@@ -22271,7 +22375,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1714",
+      "id": "gr-1722",
       "work": "ad-atticum-15-15",
       "loc": "2",
       "greek_original": "φιλοφρόνωσ",
@@ -22284,7 +22388,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1715",
+      "id": "gr-1723",
       "work": "ad-atticum-15-15",
       "loc": "2",
       "greek_original": "",
@@ -22297,7 +22401,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1716",
+      "id": "gr-1724",
       "work": "ad-atticum-15-15",
       "loc": "2",
       "greek_original": "",
@@ -22310,7 +22414,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1717",
+      "id": "gr-1725",
       "work": "ad-atticum-15-17",
       "loc": "1",
       "greek_original": "φιλοστόργωσ",
@@ -22323,7 +22427,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1718",
+      "id": "gr-1726",
       "work": "ad-atticum-15-17",
       "loc": "1",
       "greek_original": "τὰ μὲν διδόμενα",
@@ -22336,7 +22440,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1719",
+      "id": "gr-1727",
       "work": "ad-atticum-15-17",
       "loc": "1",
       "greek_original": "Λ",
@@ -22349,7 +22453,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1720",
+      "id": "gr-1728",
       "work": "ad-atticum-15-17",
       "loc": "1",
       "greek_original": "",
@@ -22362,7 +22466,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1721",
+      "id": "gr-1729",
       "work": "ad-atticum-15-17",
       "loc": "1",
       "greek_original": "",
@@ -22375,7 +22479,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1722",
+      "id": "gr-1730",
       "work": "ad-atticum-15-17",
       "loc": "2",
       "greek_original": "φιλοστόργωσ",
@@ -22388,7 +22492,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1723",
+      "id": "gr-1731",
       "work": "ad-atticum-15-17",
       "loc": "2",
       "greek_original": "εὐπινῶσ",
@@ -22401,7 +22505,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1724",
+      "id": "gr-1732",
       "work": "ad-atticum-15-17",
       "loc": "2",
       "greek_original": "",
@@ -22414,7 +22518,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1725",
+      "id": "gr-1733",
       "work": "ad-atticum-15-17",
       "loc": "2",
       "greek_original": "",
@@ -22427,7 +22531,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1726",
+      "id": "gr-1734",
       "work": "ad-atticum-15-19",
       "loc": "1",
       "greek_original": "ἐργῶδεσ",
@@ -22440,7 +22544,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1727",
+      "id": "gr-1735",
       "work": "ad-atticum-15-19",
       "loc": "1",
       "greek_original": "ἀνεκτὸν",
@@ -22453,7 +22557,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1728",
+      "id": "gr-1736",
       "work": "ad-atticum-15-19",
       "loc": "1",
       "greek_original": "",
@@ -22466,7 +22570,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1729",
+      "id": "gr-1737",
       "work": "ad-atticum-15-19",
       "loc": "1",
       "greek_original": "",
@@ -22479,7 +22583,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1730",
+      "id": "gr-1738",
       "work": "ad-atticum-15-19",
       "loc": "2",
       "greek_original": "σχεδίασμα",
@@ -22492,7 +22596,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1731",
+      "id": "gr-1739",
       "work": "ad-atticum-15-19",
       "loc": "2",
       "greek_original": "ἄφατα",
@@ -22505,7 +22609,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1732",
+      "id": "gr-1740",
       "work": "ad-atticum-15-19",
       "loc": "2",
       "greek_original": "",
@@ -22518,7 +22622,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1733",
+      "id": "gr-1741",
       "work": "ad-atticum-15-19",
       "loc": "2",
       "greek_original": "",
@@ -22531,7 +22635,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1734",
+      "id": "gr-1742",
       "work": "ad-atticum-15-20",
       "loc": "3",
       "greek_original": "πάσχω τι",
@@ -22544,7 +22648,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1735",
+      "id": "gr-1743",
       "work": "ad-atticum-15-20",
       "loc": "3",
       "greek_original": "",
@@ -22557,7 +22661,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1736",
+      "id": "gr-1744",
       "work": "ad-atticum-15-21",
       "loc": "2",
       "greek_original": "ἐποχὴν",
@@ -22570,7 +22674,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1737",
+      "id": "gr-1745",
       "work": "ad-atticum-15-21",
       "loc": "2",
       "greek_original": "ἀκεραίωσ",
@@ -22583,7 +22687,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1738",
+      "id": "gr-1746",
       "work": "ad-atticum-15-21",
       "loc": "2",
       "greek_original": "πλοῦσ",
@@ -22596,7 +22700,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1739",
+      "id": "gr-1747",
       "work": "ad-atticum-15-21",
       "loc": "2",
       "greek_original": "",
@@ -22609,7 +22713,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1740",
+      "id": "gr-1748",
       "work": "ad-atticum-15-21",
       "loc": "2",
       "greek_original": "",
@@ -22622,7 +22726,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1741",
+      "id": "gr-1749",
       "work": "ad-atticum-15-21",
       "loc": "2",
       "greek_original": "",
@@ -22635,7 +22739,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1742",
+      "id": "gr-1750",
       "work": "ad-atticum-15-23",
       "loc": "1",
       "greek_original": "",
@@ -22648,7 +22752,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1743",
+      "id": "gr-1751",
       "work": "ad-atticum-15-14",
       "loc": "4",
       "greek_original": "συντάξεισ",
@@ -22661,7 +22765,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1744",
+      "id": "gr-1752",
       "work": "ad-atticum-15-14",
       "loc": "4",
       "greek_original": "μετέωροσ",
@@ -22674,7 +22778,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1745",
+      "id": "gr-1753",
       "work": "ad-atticum-15-14",
       "loc": "4",
       "greek_original": "",
@@ -22687,7 +22791,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1746",
+      "id": "gr-1754",
       "work": "ad-atticum-15-14",
       "loc": "4",
       "greek_original": "",
@@ -22700,7 +22804,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1747",
+      "id": "gr-1755",
       "work": "ad-atticum-15-26",
       "loc": "1",
       "greek_original": "ψευδεγγράφῳ",
@@ -22713,7 +22817,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1748",
+      "id": "gr-1756",
       "work": "ad-atticum-15-26",
       "loc": "1",
       "greek_original": "ἀτοπώτατον",
@@ -22726,7 +22830,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1749",
+      "id": "gr-1757",
       "work": "ad-atticum-15-26",
       "loc": "1",
       "greek_original": "",
@@ -22739,7 +22843,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1750",
+      "id": "gr-1758",
       "work": "ad-atticum-15-26",
       "loc": "1",
       "greek_original": "",
@@ -22752,7 +22856,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1751",
+      "id": "gr-1759",
       "work": "ad-atticum-15-27",
       "loc": "1",
       "greek_original": "πάνυ φιλοστόργωσ",
@@ -22765,7 +22869,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1752",
+      "id": "gr-1760",
       "work": "ad-atticum-15-27",
       "loc": "1",
       "greek_original": "",
@@ -22778,7 +22882,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1753",
+      "id": "gr-1761",
       "work": "ad-atticum-15-27",
       "loc": "2",
       "greek_original": "Ἡρακλείδειον",
@@ -22791,7 +22895,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1754",
+      "id": "gr-1762",
       "work": "ad-atticum-15-27",
       "loc": "2",
       "greek_original": "",
@@ -22804,7 +22908,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1755",
+      "id": "gr-1763",
       "work": "ad-atticum-15-27",
       "loc": "3",
       "greek_original": "αὐτῇ βουλύσει",
@@ -22817,7 +22921,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1756",
+      "id": "gr-1764",
       "work": "ad-atticum-15-27",
       "loc": "3",
       "greek_original": "",
@@ -22830,7 +22934,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1757",
+      "id": "gr-1765",
       "work": "ad-atticum-15-29",
       "loc": "1",
       "greek_original": "ἀμηχανία",
@@ -22843,7 +22947,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1758",
+      "id": "gr-1766",
       "work": "ad-atticum-15-29",
       "loc": "1",
       "greek_original": "",
@@ -22856,7 +22960,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1759",
+      "id": "gr-1767",
       "work": "ad-atticum-15-29",
       "loc": "2",
       "greek_original": "σπείσασθαι",
@@ -22869,7 +22973,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1760",
+      "id": "gr-1768",
       "work": "ad-atticum-15-29",
       "loc": "2",
       "greek_original": "ἐβδελυττόμην",
@@ -22882,7 +22986,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1761",
+      "id": "gr-1769",
       "work": "ad-atticum-15-29",
       "loc": "2",
       "greek_original": "σκοπὸσ",
@@ -22895,7 +22999,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1762",
+      "id": "gr-1770",
       "work": "ad-atticum-15-29",
       "loc": "2",
       "greek_original": "οὐ παρὰ τοῦτο",
@@ -22908,7 +23012,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1763",
+      "id": "gr-1771",
       "work": "ad-atticum-15-29",
       "loc": "2",
       "greek_original": "",
@@ -22921,7 +23025,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1764",
+      "id": "gr-1772",
       "work": "ad-atticum-15-29",
       "loc": "2",
       "greek_original": "",
@@ -22934,7 +23038,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1765",
+      "id": "gr-1773",
       "work": "ad-atticum-15-29",
       "loc": "2",
       "greek_original": "",
@@ -22947,7 +23051,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1766",
+      "id": "gr-1774",
       "work": "ad-atticum-15-29",
       "loc": "2",
       "greek_original": "",
@@ -22960,7 +23064,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1767",
+      "id": "gr-1775",
       "work": "ad-atticum-16-01",
       "loc": "1",
       "greek_original": "ἔτ",
@@ -22973,7 +23077,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1768",
+      "id": "gr-1776",
       "work": "ad-atticum-16-01",
       "loc": "1",
       "greek_original": "ἐῶμεν",
@@ -22986,7 +23090,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1769",
+      "id": "gr-1777",
       "work": "ad-atticum-16-01",
       "loc": "1",
       "greek_original": "",
@@ -22999,7 +23103,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1770",
+      "id": "gr-1778",
       "work": "ad-atticum-16-01",
       "loc": "3",
       "greek_original": "ἐν ὁμοπλοίᾳ",
@@ -23012,7 +23116,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1771",
+      "id": "gr-1779",
       "work": "ad-atticum-16-01",
       "loc": "3",
       "greek_original": "",
@@ -23025,7 +23129,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1772",
+      "id": "gr-1780",
       "work": "ad-atticum-16-01",
       "loc": "4",
       "greek_original": "πανικὸν",
@@ -23038,7 +23142,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1773",
+      "id": "gr-1781",
       "work": "ad-atticum-16-01",
       "loc": "4",
       "greek_original": "λῆροσ πολὺσ",
@@ -23051,7 +23155,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1774",
+      "id": "gr-1782",
       "work": "ad-atticum-16-01",
       "loc": "4",
       "greek_original": "",
@@ -23064,7 +23168,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1775",
+      "id": "gr-1783",
       "work": "ad-atticum-16-01",
       "loc": "4",
       "greek_original": "",
@@ -23077,7 +23181,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1776",
+      "id": "gr-1784",
       "work": "ad-atticum-16-01",
       "loc": "5",
       "greek_original": "γλίσχρωσ",
@@ -23090,7 +23194,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1777",
+      "id": "gr-1785",
       "work": "ad-atticum-16-01",
       "loc": "5",
       "greek_original": "",
@@ -23103,7 +23207,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1778",
+      "id": "gr-1786",
       "work": "ad-atticum-16-05",
       "loc": "3",
       "greek_original": "ὁμοπλοίᾳ",
@@ -23116,7 +23220,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1779",
+      "id": "gr-1787",
       "work": "ad-atticum-16-05",
       "loc": "3",
       "greek_original": "μετεωρότερον",
@@ -23129,7 +23233,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1780",
+      "id": "gr-1788",
       "work": "ad-atticum-16-05",
       "loc": "3",
       "greek_original": "ἀσφαλέσ",
@@ -23142,7 +23246,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1781",
+      "id": "gr-1789",
       "work": "ad-atticum-16-05",
       "loc": "3",
       "greek_original": "",
@@ -23155,7 +23259,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1782",
+      "id": "gr-1790",
       "work": "ad-atticum-16-05",
       "loc": "3",
       "greek_original": "",
@@ -23168,7 +23272,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1783",
+      "id": "gr-1791",
       "work": "ad-atticum-16-05",
       "loc": "3",
       "greek_original": "",
@@ -23181,7 +23285,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1784",
+      "id": "gr-1792",
       "work": "ad-atticum-16-05",
       "loc": "4",
       "greek_original": "ῤοπὴ",
@@ -23194,7 +23298,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1785",
+      "id": "gr-1793",
       "work": "ad-atticum-16-05",
       "loc": "4",
       "greek_original": "",
@@ -23207,7 +23311,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1786",
+      "id": "gr-1794",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "γαυριῶ",
@@ -23220,7 +23324,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1787",
+      "id": "gr-1795",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "μετ",
@@ -23233,7 +23337,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1788",
+      "id": "gr-1796",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "ἀμύμονα",
@@ -23246,7 +23350,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1789",
+      "id": "gr-1797",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "ἀμύμων",
@@ -23259,7 +23363,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1790",
+      "id": "gr-1798",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "ἄμβροτοσ",
@@ -23272,7 +23376,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1791",
+      "id": "gr-1799",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "συναγωγη",
@@ -23285,7 +23389,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1792",
+      "id": "gr-1800",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "",
@@ -23298,7 +23402,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1793",
+      "id": "gr-1801",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "",
@@ -23311,7 +23415,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1794",
+      "id": "gr-1802",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "",
@@ -23324,7 +23428,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1795",
+      "id": "gr-1803",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "",
@@ -23337,7 +23441,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1796",
+      "id": "gr-1804",
       "work": "ad-atticum-16-05",
       "loc": "5",
       "greek_original": "",
@@ -23350,7 +23454,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1797",
+      "id": "gr-1805",
       "work": "ad-atticum-16-04",
       "loc": "1",
       "greek_original": "παρὰ λέξιν",
@@ -23363,7 +23467,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1798",
+      "id": "gr-1806",
       "work": "ad-atticum-16-04",
       "loc": "1",
       "greek_original": "",
@@ -23376,7 +23480,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1799",
+      "id": "gr-1807",
       "work": "ad-atticum-16-04",
       "loc": "4",
       "greek_original": "ὁμοπλοίᾳ",
@@ -23389,7 +23493,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1800",
+      "id": "gr-1808",
       "work": "ad-atticum-16-04",
       "loc": "4",
       "greek_original": "",
@@ -23402,7 +23506,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1801",
+      "id": "gr-1809",
       "work": "ad-atticum-16-02",
       "loc": "6",
       "greek_original": "Ἡρακλείδειον",
@@ -23415,7 +23519,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1802",
+      "id": "gr-1810",
       "work": "ad-atticum-16-02",
       "loc": "6",
       "greek_original": "ἐκλογαὶ",
@@ -23428,7 +23532,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1803",
+      "id": "gr-1811",
       "work": "ad-atticum-16-02",
       "loc": "6",
       "greek_original": "",
@@ -23441,7 +23545,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1804",
+      "id": "gr-1812",
       "work": "ad-atticum-16-02",
       "loc": "6",
       "greek_original": "",
@@ -23454,7 +23558,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1805",
+      "id": "gr-1813",
       "work": "ad-familiares-16-21",
       "loc": "4",
       "greek_original": "",
@@ -23467,7 +23571,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1806",
+      "id": "gr-1814",
       "work": "ad-familiares-16-21",
       "loc": "4",
       "greek_original": "",
@@ -23480,7 +23584,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1807",
+      "id": "gr-1815",
       "work": "ad-familiares-16-21",
       "loc": "5",
       "greek_original": "",
@@ -23493,7 +23597,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1808",
+      "id": "gr-1816",
       "work": "ad-familiares-16-21",
       "loc": "6",
       "greek_original": "",
@@ -23506,7 +23610,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1809",
+      "id": "gr-1817",
       "work": "ad-familiares-16-21",
       "loc": "8",
       "greek_original": "",
@@ -23519,7 +23623,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1810",
+      "id": "gr-1818",
       "work": "ad-familiares-16-21",
       "loc": "8",
       "greek_original": "",
@@ -23532,7 +23636,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1811",
+      "id": "gr-1819",
       "work": "ad-atticum-16-03",
       "loc": "1",
       "greek_original": "σύνταγμα",
@@ -23545,7 +23649,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1812",
+      "id": "gr-1820",
       "work": "ad-atticum-16-03",
       "loc": "1",
       "greek_original": "ἀρχέτυπον",
@@ -23558,7 +23662,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1813",
+      "id": "gr-1821",
       "work": "ad-atticum-16-03",
       "loc": "1",
       "greek_original": "",
@@ -23571,7 +23675,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1814",
+      "id": "gr-1822",
       "work": "ad-atticum-16-03",
       "loc": "1",
       "greek_original": "",
@@ -23584,7 +23688,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1815",
+      "id": "gr-1823",
       "work": "ad-familiares-07-20",
       "loc": "3",
       "greek_original": "",
@@ -23597,7 +23701,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1816",
+      "id": "gr-1824",
       "work": "ad-atticum-16-06",
       "loc": "1",
       "greek_original": "δολιχὸν πλόον",
@@ -23610,7 +23714,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1817",
+      "id": "gr-1825",
       "work": "ad-atticum-16-06",
       "loc": "1",
       "greek_original": "",
@@ -23623,7 +23727,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1818",
+      "id": "gr-1826",
       "work": "ad-atticum-16-06",
       "loc": "2",
       "greek_original": "ἡ",
@@ -23636,7 +23740,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1819",
+      "id": "gr-1827",
       "work": "ad-atticum-16-06",
       "loc": "2",
       "greek_original": "",
@@ -23649,7 +23753,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1820",
+      "id": "gr-1828",
       "work": "ad-atticum-16-06",
       "loc": "4",
       "greek_original": "σύγγραμα",
@@ -23662,7 +23766,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1821",
+      "id": "gr-1829",
       "work": "ad-atticum-16-06",
       "loc": "4",
       "greek_original": "",
@@ -23675,7 +23779,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1822",
+      "id": "gr-1830",
       "work": "ad-atticum-16-07",
       "loc": "1",
       "greek_original": "ἀνεμέσητα",
@@ -23688,7 +23792,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1823",
+      "id": "gr-1831",
       "work": "ad-atticum-16-07",
       "loc": "1",
       "greek_original": "",
@@ -23701,7 +23805,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1824",
+      "id": "gr-1832",
       "work": "ad-atticum-16-07",
       "loc": "3",
       "greek_original": "εὐθανασίαν",
@@ -23714,7 +23818,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1825",
+      "id": "gr-1833",
       "work": "ad-atticum-16-07",
       "loc": "3",
       "greek_original": "σχόλιον",
@@ -23727,7 +23831,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1826",
+      "id": "gr-1834",
       "work": "ad-atticum-16-07",
       "loc": "3",
       "greek_original": "ἀπολογισμὸν συντάξομαι",
@@ -23740,7 +23844,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1827",
+      "id": "gr-1835",
       "work": "ad-atticum-16-07",
       "loc": "3",
       "greek_original": "σχολίῳ",
@@ -23753,7 +23857,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1828",
+      "id": "gr-1836",
       "work": "ad-atticum-16-07",
       "loc": "3",
       "greek_original": "",
@@ -23766,7 +23870,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1829",
+      "id": "gr-1837",
       "work": "ad-atticum-16-07",
       "loc": "3",
       "greek_original": "",
@@ -23779,7 +23883,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1830",
+      "id": "gr-1838",
       "work": "ad-atticum-16-07",
       "loc": "3",
       "greek_original": "",
@@ -23792,7 +23896,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1831",
+      "id": "gr-1839",
       "work": "ad-atticum-16-07",
       "loc": "5",
       "greek_original": "ἀναπολόγητον",
@@ -23805,7 +23909,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1832",
+      "id": "gr-1840",
       "work": "ad-atticum-16-07",
       "loc": "5",
       "greek_original": "",
@@ -23818,7 +23922,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1833",
+      "id": "gr-1841",
       "work": "ad-atticum-16-07",
       "loc": "6",
       "greek_original": "δυσχρηστία",
@@ -23831,7 +23935,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1834",
+      "id": "gr-1842",
       "work": "ad-atticum-16-07",
       "loc": "6",
       "greek_original": "",
@@ -23844,7 +23948,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1835",
+      "id": "gr-1843",
       "work": "ad-atticum-16-07",
       "loc": "8",
       "greek_original": "πειράζεσθαι παραλύσει",
@@ -23857,7 +23961,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1836",
+      "id": "gr-1844",
       "work": "ad-atticum-16-07",
       "loc": "8",
       "greek_original": "",
@@ -23870,7 +23974,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1837",
+      "id": "gr-1845",
       "work": "ad-familiares-12-20",
       "loc": "1",
       "greek_original": "",
@@ -23883,7 +23987,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1838",
+      "id": "gr-1846",
       "work": "philippic-1",
       "loc": "1",
       "greek_original": "",
@@ -23896,7 +24000,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1839",
+      "id": "gr-1847",
       "work": "ad-atticum-15-13",
       "loc": "2",
       "greek_original": "ἀναντιφωνησία",
@@ -23909,7 +24013,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1840",
+      "id": "gr-1848",
       "work": "ad-atticum-15-13",
       "loc": "2",
       "greek_original": "",
@@ -23922,7 +24026,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1841",
+      "id": "gr-1849",
       "work": "ad-atticum-15-13",
       "loc": "3",
       "greek_original": "διάλογον",
@@ -23935,7 +24039,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1842",
+      "id": "gr-1850",
       "work": "ad-atticum-15-13",
       "loc": "3",
       "greek_original": "Ἡρακλείδειον",
@@ -23948,7 +24052,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1843",
+      "id": "gr-1851",
       "work": "ad-atticum-15-13",
       "loc": "3",
       "greek_original": "",
@@ -23961,7 +24065,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1844",
+      "id": "gr-1852",
       "work": "ad-atticum-15-13",
       "loc": "6",
       "greek_original": "φιλοσοφοῦμεν",
@@ -23974,7 +24078,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1845",
+      "id": "gr-1853",
       "work": "ad-atticum-15-13",
       "loc": "6",
       "greek_original": "τὰ περὶ τοῦ καθήκοντοσ",
@@ -23987,7 +24091,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1846",
+      "id": "gr-1854",
       "work": "ad-atticum-15-13",
       "loc": "6",
       "greek_original": "προσφωνοῦμεν",
@@ -24000,7 +24104,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1847",
+      "id": "gr-1855",
       "work": "ad-atticum-15-13",
       "loc": "6",
       "greek_original": "",
@@ -24013,7 +24117,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1848",
+      "id": "gr-1856",
       "work": "ad-atticum-15-13",
       "loc": "6",
       "greek_original": "",
@@ -24026,7 +24130,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1849",
+      "id": "gr-1857",
       "work": "ad-atticum-15-13",
       "loc": "6",
       "greek_original": "",
@@ -24039,7 +24143,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1850",
+      "id": "gr-1858",
       "work": "ad-atticum-16-08",
       "loc": "2",
       "greek_original": "εὐκαιρίαν",
@@ -24052,7 +24156,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1851",
+      "id": "gr-1859",
       "work": "ad-atticum-16-08",
       "loc": "2",
       "greek_original": "ἀσφάλειαν",
@@ -24065,7 +24169,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1852",
+      "id": "gr-1860",
       "work": "ad-atticum-16-08",
       "loc": "2",
       "greek_original": "ἀπορίᾳ",
@@ -24078,7 +24182,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1853",
+      "id": "gr-1861",
       "work": "ad-atticum-16-08",
       "loc": "2",
       "greek_original": "",
@@ -24091,7 +24195,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1854",
+      "id": "gr-1862",
       "work": "ad-atticum-16-08",
       "loc": "2",
       "greek_original": "",
@@ -24104,7 +24208,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1855",
+      "id": "gr-1863",
       "work": "ad-atticum-16-08",
       "loc": "2",
       "greek_original": "",
@@ -24117,7 +24221,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1856",
+      "id": "gr-1864",
       "work": "ad-atticum-16-09",
       "loc": "1",
       "greek_original": "σκήπτομαι",
@@ -24130,7 +24234,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1857",
+      "id": "gr-1865",
       "work": "ad-atticum-16-09",
       "loc": "1",
       "greek_original": "ἀριστεία",
@@ -24143,7 +24247,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1858",
+      "id": "gr-1866",
       "work": "ad-atticum-16-09",
       "loc": "1",
       "greek_original": "",
@@ -24156,7 +24260,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1859",
+      "id": "gr-1867",
       "work": "ad-atticum-16-09",
       "loc": "1",
       "greek_original": "",
@@ -24169,7 +24273,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1860",
+      "id": "gr-1868",
       "work": "ad-atticum-16-11",
       "loc": "1",
       "greek_original": "ἄνθη",
@@ -24182,7 +24286,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1861",
+      "id": "gr-1869",
       "work": "ad-atticum-16-11",
       "loc": "1",
       "greek_original": "παῖδεσ παίδων",
@@ -24195,7 +24299,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1862",
+      "id": "gr-1870",
       "work": "ad-atticum-16-11",
       "loc": "1",
       "greek_original": "φαλλῷ",
@@ -24208,7 +24312,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1863",
+      "id": "gr-1871",
       "work": "ad-atticum-16-11",
       "loc": "1",
       "greek_original": "εἷσ ἐμοὶ μύριοι",
@@ -24221,7 +24325,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1864",
+      "id": "gr-1872",
       "work": "ad-atticum-16-11",
       "loc": "1",
       "greek_original": "",
@@ -24234,7 +24338,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1865",
+      "id": "gr-1873",
       "work": "ad-atticum-16-11",
       "loc": "1",
       "greek_original": "",
@@ -24247,7 +24351,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1866",
+      "id": "gr-1874",
       "work": "ad-atticum-16-11",
       "loc": "1",
       "greek_original": "",
@@ -24260,7 +24364,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1867",
+      "id": "gr-1875",
       "work": "ad-atticum-16-11",
       "loc": "1",
       "greek_original": "",
@@ -24273,7 +24377,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1868",
+      "id": "gr-1876",
       "work": "ad-atticum-16-11",
       "loc": "2",
       "greek_original": "ἀδόλεσχοσ",
@@ -24286,7 +24390,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1869",
+      "id": "gr-1877",
       "work": "ad-atticum-16-11",
       "loc": "2",
       "greek_original": "εὐμενείᾳ",
@@ -24299,7 +24403,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1870",
+      "id": "gr-1878",
       "work": "ad-atticum-16-11",
       "loc": "2",
       "greek_original": "εἰρωναία",
@@ -24312,7 +24416,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1871",
+      "id": "gr-1879",
       "work": "ad-atticum-16-11",
       "loc": "2",
       "greek_original": "",
@@ -24325,7 +24429,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1872",
+      "id": "gr-1880",
       "work": "ad-atticum-16-11",
       "loc": "2",
       "greek_original": "",
@@ -24338,7 +24442,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1873",
+      "id": "gr-1881",
       "work": "ad-atticum-16-11",
       "loc": "2",
       "greek_original": "",
@@ -24351,7 +24455,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1874",
+      "id": "gr-1882",
       "work": "ad-atticum-16-11",
       "loc": "3",
       "greek_original": "Πεπλογραφίαν",
@@ -24364,7 +24468,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1875",
+      "id": "gr-1883",
       "work": "ad-atticum-16-11",
       "loc": "3",
       "greek_original": "Ἡρακλείδειον",
@@ -24377,7 +24481,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1876",
+      "id": "gr-1884",
       "work": "ad-atticum-16-11",
       "loc": "3",
       "greek_original": "ταξιάρχησ",
@@ -24390,7 +24494,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1877",
+      "id": "gr-1885",
       "work": "ad-atticum-16-11",
       "loc": "3",
       "greek_original": "",
@@ -24403,7 +24507,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1878",
+      "id": "gr-1886",
       "work": "ad-atticum-16-11",
       "loc": "3",
       "greek_original": "",
@@ -24416,7 +24520,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1879",
+      "id": "gr-1887",
       "work": "ad-atticum-16-11",
       "loc": "3",
       "greek_original": "",
@@ -24429,7 +24533,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1880",
+      "id": "gr-1888",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "τὰ περὶ τοῦ",
@@ -24442,7 +24546,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1881",
+      "id": "gr-1889",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "τὰ κεφάλαια",
@@ -24455,7 +24559,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1882",
+      "id": "gr-1890",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "περὶ τοῦ κατὰ περίστασιν",
@@ -24468,7 +24572,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1883",
+      "id": "gr-1891",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "καθῆκον",
@@ -24481,7 +24585,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1884",
+      "id": "gr-1892",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "προσφωνῶ",
@@ -24494,7 +24598,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1885",
+      "id": "gr-1893",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "ἀνοίκειον",
@@ -24507,7 +24611,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1886",
+      "id": "gr-1894",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "",
@@ -24520,7 +24624,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1887",
+      "id": "gr-1895",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "",
@@ -24533,7 +24637,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1888",
+      "id": "gr-1896",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "",
@@ -24546,7 +24650,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1889",
+      "id": "gr-1897",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "",
@@ -24559,7 +24663,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1890",
+      "id": "gr-1898",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "",
@@ -24572,7 +24676,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1891",
+      "id": "gr-1899",
       "work": "ad-atticum-16-11",
       "loc": "4",
       "greek_original": "",
@@ -24585,7 +24689,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1892",
+      "id": "gr-1900",
       "work": "ad-atticum-16-11",
       "loc": "6",
       "greek_original": "αἴδεσθεν μὲν ἀνήνασθαι",
@@ -24598,7 +24702,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1893",
+      "id": "gr-1901",
       "work": "ad-atticum-16-11",
       "loc": "6",
       "greek_original": "ἀπάντησισ",
@@ -24611,7 +24715,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1894",
+      "id": "gr-1902",
       "work": "ad-atticum-16-11",
       "loc": "6",
       "greek_original": "",
@@ -24624,7 +24728,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1895",
+      "id": "gr-1903",
       "work": "ad-atticum-16-11",
       "loc": "6",
       "greek_original": "",
@@ -24637,7 +24741,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1896",
+      "id": "gr-1904",
       "work": "ad-atticum-16-13",
       "loc": "1",
       "greek_original": "δολιχὸν πλόον ὁρμαίνοντα",
@@ -24650,7 +24754,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1897",
+      "id": "gr-1905",
       "work": "ad-atticum-16-13",
       "loc": "1",
       "greek_original": "ἀπροσδιόνυσον",
@@ -24663,7 +24767,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1898",
+      "id": "gr-1906",
       "work": "ad-atticum-16-13",
       "loc": "1",
       "greek_original": "",
@@ -24676,7 +24780,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1899",
+      "id": "gr-1907",
       "work": "ad-atticum-16-13",
       "loc": "1",
       "greek_original": "",
@@ -24689,7 +24793,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1900",
+      "id": "gr-1908",
       "work": "ad-atticum-16-13",
       "loc": "2",
       "greek_original": "παρ",
@@ -24702,7 +24806,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1901",
+      "id": "gr-1909",
       "work": "ad-atticum-16-13",
       "loc": "2",
       "greek_original": "ἠνεμόεντα Μίμαντα",
@@ -24715,7 +24819,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1902",
+      "id": "gr-1910",
       "work": "ad-atticum-16-13",
       "loc": "2",
       "greek_original": "ἐπ",
@@ -24728,7 +24832,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1903",
+      "id": "gr-1911",
       "work": "ad-atticum-16-13",
       "loc": "2",
       "greek_original": "ἀριστέρ",
@@ -24741,7 +24845,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1904",
+      "id": "gr-1912",
       "work": "ad-atticum-16-13",
       "loc": "2",
       "greek_original": "ἔχοντα",
@@ -24754,7 +24858,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1905",
+      "id": "gr-1913",
       "work": "ad-atticum-16-13",
       "loc": "2",
       "greek_original": "",
@@ -24767,7 +24871,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1906",
+      "id": "gr-1914",
       "work": "ad-atticum-16-13",
       "loc": "2",
       "greek_original": "",
@@ -24780,7 +24884,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1907",
+      "id": "gr-1915",
       "work": "ad-atticum-16-12",
       "loc": "1",
       "greek_original": "Ἡρακλειδείῳ",
@@ -24793,7 +24897,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1908",
+      "id": "gr-1916",
       "work": "ad-atticum-16-12",
       "loc": "1",
       "greek_original": "",
@@ -24806,7 +24910,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1909",
+      "id": "gr-1917",
       "work": "ad-atticum-16-14",
       "loc": "3",
       "greek_original": "καθῆκον",
@@ -24819,7 +24923,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1910",
+      "id": "gr-1918",
       "work": "ad-atticum-16-14",
       "loc": "3",
       "greek_original": "ὑπόμνημα",
@@ -24832,7 +24936,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1911",
+      "id": "gr-1919",
       "work": "ad-atticum-16-14",
       "loc": "3",
       "greek_original": "",
@@ -24845,7 +24949,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1912",
+      "id": "gr-1920",
       "work": "ad-atticum-16-14",
       "loc": "3",
       "greek_original": "",
@@ -24858,7 +24962,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1913",
+      "id": "gr-1921",
       "work": "ad-atticum-16-15",
       "loc": "1",
       "greek_original": "δυσωπίαν",
@@ -24871,7 +24975,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1914",
+      "id": "gr-1922",
       "work": "ad-atticum-16-15",
       "loc": "1",
       "greek_original": "",
@@ -24884,7 +24988,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1915",
+      "id": "gr-1923",
       "work": "ad-atticum-16-15",
       "loc": "3",
       "greek_original": "πολιτικῷ",
@@ -24897,7 +25001,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1916",
+      "id": "gr-1924",
       "work": "ad-atticum-16-15",
       "loc": "3",
       "greek_original": "μηδὲ σωθείην ὑπό γε τοιούτου",
@@ -24910,7 +25014,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1917",
+      "id": "gr-1925",
       "work": "ad-atticum-16-15",
       "loc": "3",
       "greek_original": "Στρατύλλαξ",
@@ -24923,7 +25027,7 @@
       "notes": "backfilled (kind=unicode)"
     },
     {
-      "id": "gr-1918",
+      "id": "gr-1926",
       "work": "ad-atticum-16-15",
       "loc": "3",
       "greek_original": "",
@@ -24936,7 +25040,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1919",
+      "id": "gr-1927",
       "work": "ad-atticum-16-15",
       "loc": "3",
       "greek_original": "",
@@ -24949,7 +25053,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1920",
+      "id": "gr-1928",
       "work": "ad-atticum-16-15",
       "loc": "3",
       "greek_original": "",
@@ -24962,7 +25066,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1921",
+      "id": "gr-1929",
       "work": "ad-familiares-09-24",
       "loc": "3",
       "greek_original": "",
@@ -24975,7 +25079,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1922",
+      "id": "gr-1930",
       "work": "ad-brutum-01-01",
       "loc": "1",
       "greek_original": "",
@@ -24988,7 +25092,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1923",
+      "id": "gr-1931",
       "work": "ad-familiares-10-13",
       "loc": "2",
       "greek_original": "",
@@ -25001,7 +25105,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1924",
+      "id": "gr-1932",
       "work": "ad-familiares-11-14",
       "loc": "1",
       "greek_original": "",
@@ -25014,7 +25118,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1925",
+      "id": "gr-1933",
       "work": "ad-familiares-12-14",
       "loc": "7",
       "greek_original": "",
@@ -25027,7 +25131,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1926",
+      "id": "gr-1934",
       "work": "ad-familiares-12-13",
       "loc": "4",
       "greek_original": "",
@@ -25040,7 +25144,7 @@
       "notes": "backfilled (kind=bracket)"
     },
     {
-      "id": "gr-1927",
+      "id": "gr-1935",
       "work": "ad-familiares-11-25",
       "loc": "2",
       "greek_original": "",
