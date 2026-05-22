@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-03",
+  "mentions": [
+    {"loc": "1", "surface": "Trebulanum", "entity_id": "place:trebula", "in": "lat"},
+    {"loc": "1", "surface": "Pompeiano", "entity_id": "place:pompeii", "in": "lat"},
+    {"loc": "1", "surface": "Philotimo", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "1", "surface": "Trebulan villa", "entity_id": "place:trebula", "in": "eng"},
+    {"loc": "1", "surface": "Pompeian estate", "entity_id": "place:pompeii", "in": "eng"},
+    {"loc": "1", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "2", "surface": "Trebulano", "entity_id": "place:trebula", "in": "lat"},
+    {"loc": "2", "surface": "Menturnensis", "entity_id": "place:minturnae", "in": "lat"},
+    {"loc": "2", "surface": "Lentulum", "entity_id": "person:lentulus-spinther", "in": "lat"},
+    {"loc": "2", "surface": "Trebula", "entity_id": "place:trebula", "in": "eng"},
+    {"loc": "2", "surface": "Minturnae", "entity_id": "place:minturnae", "in": "eng"},
+    {"loc": "2", "surface": "Lentulus", "entity_id": "person:lentulus-spinther", "in": "eng"},
+    {"loc": "3", "surface": "Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "3", "surface": "Nicanor", "entity_id": "person:nicanor-servus", "in": "lat"},
+    {"loc": "3", "surface": "Beneventi", "entity_id": "place:beneventum", "in": "lat"},
+    {"loc": "3", "surface": "Trebulano", "entity_id": "place:trebula", "in": "lat"},
+    {"loc": "3", "surface": "Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "eng"},
+    {"loc": "3", "surface": "Nicanor", "entity_id": "person:nicanor-servus", "in": "eng"},
+    {"loc": "3", "surface": "Beneventum", "entity_id": "place:beneventum", "in": "eng"},
+    {"loc": "3", "surface": "Trebula", "entity_id": "place:trebula", "in": "eng"}
+  ]
+}

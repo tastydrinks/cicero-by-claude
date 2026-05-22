@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the eighth day before the Ides of December",
+      "entity_id": null,
+      "note": "A Roman date reckoned inclusively backwards from a fixed point of the month: the Ides of December fell on the 13th, so the eighth day before (counting both endpoints) is 6 December. Cicero's letters date by Kalends, Nones, and Ides plus an inclusive count of days."
+    },
+    {
+      "loc": "1",
+      "anchor": "longer than the decree of the Senate prescribed",
+      "entity_id": null,
+      "note": "A senatus consultum of 53/52 BC (the Pompeian law on provinces) limited a governor's tenure; Cicero stresses he left Cilicia after exactly one year not by personal lobbying but in conformity with that decree."
+    },
+    {
+      "loc": "2",
+      "anchor": "that man portrayed in the sixth book",
+      "entity_id": null,
+      "note": "The idealized statesman (rector rei publicae) sketched in book six of Cicero's own De Re Publica, which closes with the Somnium Scipionis; Cicero fears the canvass for a triumph compromises that ideal."
+    },
+    {
+      "loc": "2",
+      "anchor": "a triumph by canvass, and the commonwealth in freedom",
+      "entity_id": "institution:triumph",
+      "note": "A triumph required a senatorial vote and so political solicitation (ambitio); Cicero sets the self-interested pursuit of that honour against acting freely for the Republic in the looming crisis."
+    },
+    {
+      "loc": "3",
+      "anchor": "for me to retain imperium",
+      "entity_id": null,
+      "note": "Imperium is the formal power of military command held by a governor; retaining it past his province meant Cicero could not enter the city proper while awaiting a triumph, but kept him a player with troops as civil war neared."
+    },
+    {
+      "loc": "4",
+      "anchor": "the ten tribunes of the plebs should propose a measure to allow his candidacy",
+      "entity_id": "office:tribune",
+      "note": "The law of the ten tribunes (52 BC) let Caesar stand for a second consulship in absentia without laying down his command; Cicero blames the Pompeians for the grant that made Caesar unstoppable."
+    },
+    {
+      "loc": "5",
+      "anchor": "what will be done, when it has been said, `Speak, Marcus Tullius!'",
+      "entity_id": "institution:senate",
+      "note": "In senatorial debate the presiding magistrate called on members by rank to give their sententia (\"dic, M. Tulli\"); Atticus asks how Cicero will vote when his turn comes, and Cicero answers that he will side with Pompey."
+    },
+    {
+      "loc": "5",
+      "anchor": "everyone who is pressed by debt",
+      "entity_id": null,
+      "note": "Aes alienum (debt) was an acute political force in the late Republic; Cicero numbers the indebted among Caesar's natural partisans, as men with everything to gain from upheaval and a cancellation of debts."
+    },
+    {
+      "loc": "5",
+      "anchor": "When Cato dressed him up with the supplication",
+      "entity_id": "festival:supplicatio",
+      "note": "A supplicatio was a public thanksgiving voted by the Senate for a victory, often a prelude to a triumph; Cato, who had blocked such honours for Caesar, here helped vote one for Bibulus, exposing his partisanship."
+    },
+    {
+      "loc": "9",
+      "anchor": "when Caelius has seized the Flumentane Gate",
+      "entity_id": null,
+      "note": "The Porta Flumentana stood on the Tiber bank below the Capitol; Cicero jokes that if a speculator like Caelius can buy up prime Roman property, he too may as well acquire holdings at Puteoli."
+    },
+    {
+      "loc": "10",
+      "anchor": "did not reckon the Piraeus to be a town",
+      "entity_id": "place:piraeus",
+      "note": "Cicero debates whether the Piraeus, the port of Athens, is a town (oppidum) taking the bare accusative or a mere locality (locus) taking a preposition; the grammatical pedantry is a friendly jab at Atticus the connoisseur of Latinity."
+    }
+  ]
+}

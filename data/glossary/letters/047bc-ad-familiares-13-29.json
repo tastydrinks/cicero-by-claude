@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-29",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO L. PLANCO S.",
+      "entity_id": "person:munatius-plancus",
+      "note": "Heading: Marcus Cicero to Lucius Plancus, greetings. The recipient is L. Munatius Plancus, then serving Caesar in Gaul or on his way to a magistracy; he is distinct from his brother T. Munatius Plancus Bursa (person:t-munatius-plancus-bursa). The connection through Plancus's father is repeatedly stressed."
+    },
+    {
+      "loc": "3",
+      "anchor": "holding Macedonia by lot as quaestor, and not yet superseded, was overtaken by the arrival of Pompey",
+      "entity_id": "person:t-antistius-quaestor",
+      "note": "When Pompey moved through Macedonia in 49--48 BC assembling his forces against Caesar, quaestors and other officers already in the province were effectively absorbed into his command; Antistius, who had not yet been replaced (nondum ei successum esset), found himself unable to withdraw."
+    },
+    {
+      "loc": "4",
+      "anchor": "When silver was being coined at Apollonia",
+      "entity_id": "place:apollonia-illyria",
+      "note": "Apollonia (in Illyricum, modern Albania) served as a Pompeian base and treasury centre during the civil war of 49--48 BC; the minting of silver there was a significant military-financial operation, and any officer present risked being seen as an active Pompeian partisan."
+    },
+    {
+      "loc": "4",
+      "anchor": "By the will he had made at Rome in the consulship of Paulus and Marcellus",
+      "entity_id": null,
+      "note": "The consuls of 50 BC were L. Aemilius Paullus and C. Claudius Marcellus (Maior); dating a will by the consular year was standard Roman practice. The will predates the civil war, which explains why Antistius left his estate to the Caesarian Capito despite dying on the Pompeian side."
+    },
+    {
+      "loc": "4",
+      "anchor": "sick, he came as far as Corcyra, and there he died",
+      "entity_id": "place:corcyra",
+      "note": "Corcyra (modern Corfu), on the route from Greece and Macedonia to Italy, was a staging-post used by those returning westward; Antistius evidently fell ill attempting to comply with Caesar's order to come to Rome and died before reaching Italy."
+    },
+    {
+      "loc": "7",
+      "anchor": "that I was more moderate and more restrained than anyone on that side, was due above all to the authority of Capito",
+      "entity_id": "person:c-ateius-capito",
+      "note": "Cicero here deploys C. Ateius Capito as a character witness for his own lukewarm Pompeian allegiance: if even Capito --- a known Caesarian sympathiser --- counselled moderation, Cicero's restraint during the war reflects credit rather than disloyalty."
+    }
+  ]
+}

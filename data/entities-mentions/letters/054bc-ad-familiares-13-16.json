@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-16",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "CAESARI", "entity_id": "person:caesar", "in": "both"},
+    {"loc": "1", "surface": "P. Crassum", "entity_id": "person:p-crassus-iunior", "in": "lat"},
+    {"loc": "1", "surface": "P. Crassus", "entity_id": "person:p-crassus-iunior", "in": "eng"},
+    {"loc": "1", "surface": "Apollonium", "entity_id": "person:apollonius-libertus", "in": "lat"},
+    {"loc": "1", "surface": "Apollonius", "entity_id": "person:apollonius-libertus", "in": "eng"},
+    {"loc": "1", "surface": "Crassi", "entity_id": "person:p-crassus-iunior", "in": "lat"},
+    {"loc": "1", "surface": "Crassus", "entity_id": "person:p-crassus-iunior", "in": "eng"},
+    {"loc": "2", "surface": "Crassi", "entity_id": "person:p-crassus-iunior", "in": "lat"},
+    {"loc": "2", "surface": "Crassus's", "entity_id": "person:p-crassus-iunior", "in": "eng"},
+    {"loc": "2", "surface": "Ciliciam", "entity_id": "place:cilicia", "in": "lat"},
+    {"loc": "2", "surface": "Cilicia", "entity_id": "place:cilicia", "in": "eng"},
+    {"loc": "2", "surface": "Alexandrino bello", "entity_id": "event:alexandrian-war", "in": "lat"},
+    {"loc": "2", "surface": "Alexandrian war", "entity_id": "event:alexandrian-war", "in": "eng"},
+    {"loc": "3", "surface": "Hispaniam", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "3", "surface": "Spain", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "3", "surface": "Crassi", "entity_id": "person:p-crassus-iunior", "in": "lat"},
+    {"loc": "3", "surface": "Crassus", "entity_id": "person:p-crassus-iunior", "in": "eng"},
+    {"loc": "4", "surface": "Diodoto Stoico", "entity_id": "person:diodotus-stoicus", "in": "lat"},
+    {"loc": "4", "surface": "Diodotus the Stoic", "entity_id": "person:diodotus-stoicus", "in": "eng"}
+  ]
+}

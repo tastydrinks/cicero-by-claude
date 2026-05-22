@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-35",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Your kinsman is enlarging the city",
+      "entity_id": "person:caesar",
+      "note": "The \"kinsman\" is Caesar, here mocked for his grandiose scheme to enlarge Rome; Atticus, like Caesar, belonged to plebeian families that claimed remote common descent. Cicero's tone is contemptuous of the upstart's pretensions."
+    },
+    {
+      "loc": "1",
+      "anchor": "To Varro",
+      "entity_id": "person:m-terentius-varro",
+      "note": "M. Terentius Varro, the great polymath and antiquarian, to whom Cicero dedicated the Academica; the two were warily negotiating the dedication in this period."
+    },
+    {
+      "loc": "2",
+      "anchor": "Brutus's affection",
+      "entity_id": "person:brutus",
+      "note": "M. Iunius Brutus, the future tyrannicide and dedicatee of Cicero's De Finibus; Cicero takes pleasure in reports of Brutus's regard for him, relayed by Atticus."
+    }
+  ]
+}

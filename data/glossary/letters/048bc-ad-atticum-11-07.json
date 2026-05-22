@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "approve of my keeping these lictors",
+      "entity_id": "office:lictor",
+      "note": "Lictors were the attendants who carried the fasces before a magistrate with imperium; Cicero still had the ones due to him as a returning proconsul. Keeping them was politically awkward, since they advertised a Pompeian command at a moment when he needed to seem harmless to Caesar."
+    },
+    {
+      "loc": "2",
+      "anchor": "Then he issued his edict in terms that made an exception of me, and of Laelius by name",
+      "entity_id": "person:antony",
+      "note": "As Caesar's deputy (magister equitum) governing Italy after Pharsalus, Antony issued an edict barring returning Pompeians from the country. Naming Cicero and Decimus Laelius as exempt singled them out conspicuously, which Cicero found dangerous rather than reassuring."
+    },
+    {
+      "loc": "2",
+      "anchor": "Cato and Lucius Metellus had come into Italy",
+      "entity_id": "person:cato-minor",
+      "note": "Cato the Younger and the tribune Lucius Caecilius Metellus were diehard opponents of Caesar; their unauthorised return to Italy is what prompted Caesar's order to bar Pompeians, which in turn endangered Cicero's own position."
+    },
+    {
+      "loc": "3",
+      "anchor": "I did not go into Africa",
+      "entity_id": "place:africa",
+      "note": "After Pompey's defeat at Pharsalus and his murder in Egypt, the surviving Pompeian leaders regrouped in the province of Africa with Numidian (Juba's) support. Cicero is defending his refusal to join that last stand, which others held against him."
+    },
+    {
+      "loc": "4",
+      "anchor": "As for Sulpicius's policy",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus, the great jurist and consul of 51 BC, took a cautious neutral course in the civil war rather than commit fully to Pompey. Cicero weighs Sulpicius's safe quietism against Cato's glorious but doomed resistance."
+    }
+  ]
+}

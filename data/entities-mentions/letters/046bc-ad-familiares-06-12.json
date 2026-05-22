@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-12",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "AMPIO",
+      "entity_id": "person:t-ampius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "AMPIUS",
+      "entity_id": "person:t-ampius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Hirtius",
+      "entity_id": "person:hirtius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Oppius",
+      "entity_id": "person:gaius-oppius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Matius",
+      "entity_id": "person:gaius-matius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Postumius",
+      "entity_id": "person:postumius-caesaris",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cimber Tillius",
+      "entity_id": "person:l-tillius-cimber",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Hirtius",
+      "entity_id": "person:hirtius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Oppius",
+      "entity_id": "person:gaius-oppius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Matius",
+      "entity_id": "person:gaius-matius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Postumius",
+      "entity_id": "person:postumius-caesaris",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cimber Tillius",
+      "entity_id": "person:l-tillius-cimber",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "tubam belli civilis",
+      "entity_id": "person:t-ampius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "the trumpet of the civil war",
+      "entity_id": "person:t-ampius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Eppuleiae",
+      "entity_id": "person:eppuleia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Ampiae",
+      "entity_id": "person:ampia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "your Eppuleia",
+      "entity_id": "person:eppuleia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Ampia",
+      "entity_id": "person:ampia",
+      "in": "eng"
+    }
+  ]
+}

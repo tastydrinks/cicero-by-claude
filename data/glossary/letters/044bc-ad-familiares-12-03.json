@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Your friend's frenzy",
+      "entity_id": "person:antony",
+      "note": "\"Your friend\" is sarcasm for Antony, Cassius's bitter enemy; furor (frenzy) is a recurring charge in the Philippics."
+    },
+    {
+      "loc": "1",
+      "anchor": "the statue he set up on the Rostra",
+      "entity_id": "place:rostra",
+      "note": "Antony erected a statue on the Rostra (the speaker's platform in the Forum) honoring the murdered Caesar, a public provocation to the assassins."
+    },
+    {
+      "loc": "1",
+      "anchor": "TO A PARENT MOST WELL-DESERVING",
+      "entity_id": "person:caesar",
+      "note": "The inscription (Latin PARENTI OPTIME MERITO) styles Caesar the \"parent\" of his country; it implies that those who killed him are guilty of parricide, the murder of a father."
+    },
+    {
+      "loc": "1",
+      "anchor": "not merely assassins but actually parricides",
+      "entity_id": null,
+      "note": "A pointed escalation: sicarii (cutthroats) was bad enough, but the statue's inscription brands the Liberators parricidae, killers of the father of the fatherland, the gravest crime in Roman law and feeling."
+    },
+    {
+      "loc": "2",
+      "anchor": "brought before a public meeting by Cannutius",
+      "entity_id": "person:ti-cannutius",
+      "note": "A contio was an informal public assembly summoned by a magistrate; the tribune Ti. Cannutius, an enemy of Antony, hauled him before one where Antony came off badly."
+    },
+    {
+      "loc": "2",
+      "anchor": "the saviors of their country",
+      "entity_id": null,
+      "note": "Conservatores patriae, \"preservers of the fatherland,\" was the Liberators' own claim for assassinating Caesar; Antony inverted it, calling them traitors instead."
+    },
+    {
+      "loc": "2",
+      "anchor": "they have stripped your envoy of his travel-money",
+      "entity_id": null,
+      "note": "The viaticum was the official allowance for an envoy's journey; confiscating it treated Cassius's representative, and Cassius himself, as agents of a public enemy (hostis)."
+    },
+    {
+      "loc": "2",
+      "anchor": "We could not bear a master; we are slaves to a fellow-slave",
+      "entity_id": null,
+      "note": "A bitter epigram: having killed the dominus (Caesar the dictator), Rome now grovels before Antony, a mere conservus (fellow-slave) who was no better than they."
+    }
+  ]
+}

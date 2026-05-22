@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-06",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CAELIVS",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERONI",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Appium",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Appius",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "triumphi",
+      "entity_id": "institution:triumph",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CAELIVS",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERONI",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Appius",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Appius",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "triumph",
+      "entity_id": "institution:triumph",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompeius",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Appio",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "consules",
+      "entity_id": "office:consul",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "s. c.",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "feriis Latinis",
+      "entity_id": "festival:feriae-latinae",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Curioni nostro",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "tribunatus",
+      "entity_id": "office:tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Appius",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "consuls",
+      "entity_id": "office:consul",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "senatorial decree",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Latin Festival",
+      "entity_id": "festival:feriae-latinae",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Our Curio's",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "tribunate",
+      "entity_id": "office:tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Parthi",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Parthis",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Amano",
+      "entity_id": "place:amanus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Parthians",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Parthians",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Amanus",
+      "entity_id": "place:amanus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Curionem",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Caesare",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Rulli",
+      "entity_id": "person:rullus-tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "aedilis",
+      "entity_id": "office:aedile",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Appio",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Rullus's",
+      "entity_id": "person:rullus-tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "aediles'",
+      "entity_id": "office:aedile",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Appius",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    }
+  ]
+}

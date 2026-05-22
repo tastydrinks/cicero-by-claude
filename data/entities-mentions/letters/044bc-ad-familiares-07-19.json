@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-19",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "both"},
+    {"loc": "1", "surface": "Velia", "entity_id": "place:velia", "in": "both"},
+    {"loc": "1", "surface": "Topica Aristotelea", "entity_id": "text:aristotle-topica", "in": "lat"},
+    {"loc": "1", "surface": "Topics", "entity_id": "text:aristotle-topica", "in": "eng"},
+    {"loc": "1", "surface": "Aristotelea", "entity_id": "person:aristotle", "in": "lat"},
+    {"loc": "1", "surface": "Aristotle", "entity_id": "person:aristotle", "in": "eng"},
+    {"loc": "1", "surface": "Regio", "entity_id": "place:rhegium", "in": "lat"},
+    {"loc": "1", "surface": "Regium", "entity_id": "place:rhegium", "in": "eng"},
+    {"loc": "1", "surface": "ius civile vestrum", "entity_id": "law:ius-civile", "in": "lat"},
+    {"loc": "1", "surface": "your civil law", "entity_id": "law:ius-civile", "in": "eng"}
+  ]
+}

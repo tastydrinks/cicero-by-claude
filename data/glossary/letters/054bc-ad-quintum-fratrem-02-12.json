@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a thick and laborious work",
+      "entity_id": null,
+      "note": "The work Cicero was composing at his seaside villas, which he calls by its Greek title politika --- the De Re Publica, his dialogue on the ideal commonwealth, then heavy going and still in progress."
+    },
+    {
+      "loc": "2",
+      "anchor": "your son and mine, your Cicero",
+      "entity_id": "person:q-cicero-younger",
+      "note": "Quintus's son, young Quintus Cicero (Cicero's nephew), whose education Cicero promises to oversee daily while his father is away in Gaul."
+    },
+    {
+      "loc": "2",
+      "anchor": "the smaller Cicero of ours",
+      "entity_id": "person:marcus-cicero-younger",
+      "note": "Cicero's own son Marcus, then a boy; teaching him has given Cicero some practice for tutoring his nephew."
+    },
+    {
+      "loc": "3",
+      "anchor": "from the township of Atella",
+      "entity_id": "place:atella",
+      "note": "Atella, an Oscan town in Campania between Capua and Naples, was under the patronage (in fide) of the Ciceros; M. Orfius, the man here commended, came from it."
+    },
+    {
+      "loc": "3",
+      "anchor": "He is a military tribune in your army",
+      "entity_id": "office:tribunus-militum",
+      "note": "The tribunus militum was a senior officer of a legion, six to a legion; Orfius held this rank in Caesar's Gallic army, where Quintus was serving as a legate."
+    }
+  ]
+}

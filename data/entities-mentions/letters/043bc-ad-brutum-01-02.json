@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-02",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "Dolabellam", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "Dolabella", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "1", "surface": "in Chersonesum", "entity_id": "place:chersonesus-thracius", "in": "lat"},
+    {"loc": "1", "surface": "the Chersonese", "entity_id": "place:chersonesus-thracius", "in": "eng"},
+    {"loc": "2", "surface": "Antoni fuga", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "Antony's flight", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "Bruti eruptione", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "2", "surface": "breakout of Brutus", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "2", "surface": "populi Romani victoria", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "2", "surface": "victory of the Roman people", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "2", "surface": "Apollonia", "entity_id": "place:apollonia-illyria", "in": "lat"},
+    {"loc": "2", "surface": "Apollonia", "entity_id": "place:apollonia-illyria", "in": "eng"},
+    {"loc": "2", "surface": "Dyrrhachioque", "entity_id": "place:dyrrachium", "in": "lat"},
+    {"loc": "2", "surface": "Dyrrhachium", "entity_id": "place:dyrrachium", "in": "eng"},
+    {"loc": "2", "surface": "in Chersonesum", "entity_id": "place:chersonesus-thracius", "in": "lat"},
+    {"loc": "2", "surface": "the Chersonese", "entity_id": "place:chersonesus-thracius", "in": "eng"},
+    {"loc": "3", "surface": "legione quarta decima", "entity_id": "unit:legio-xiv-brutus", "in": "lat"},
+    {"loc": "3", "surface": "the Fourteenth Legion", "entity_id": "unit:legio-xiv-brutus", "in": "eng"},
+    {"loc": "3", "surface": "C. Antoni", "entity_id": "person:c-antonius-antony-brother", "in": "lat"},
+    {"loc": "3", "surface": "C. Antonius", "entity_id": "person:c-antonius-antony-brother", "in": "eng"}
+  ]
+}

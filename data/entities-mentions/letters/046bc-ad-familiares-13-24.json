@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-24",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "Lysonem", "entity_id": "person:lyso-patrensis", "in": "lat"},
+    {"loc": "1", "surface": "Lyso", "entity_id": "person:lyso-patrensis", "in": "eng"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "at Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Lysone", "entity_id": "person:lyso-patrensis", "in": "lat"},
+    {"loc": "2", "surface": "Lyso", "entity_id": "person:lyso-patrensis", "in": "eng"},
+    {"loc": "3", "surface": "Lysone", "entity_id": "person:lyso-patrensis", "in": "lat"},
+    {"loc": "3", "surface": "Lyso", "entity_id": "person:lyso-patrensis", "in": "eng"}
+  ]
+}

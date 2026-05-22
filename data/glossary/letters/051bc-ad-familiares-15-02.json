@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-02",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "pitched camp at Cybistra, a town under Mount Taurus",
+      "entity_id": "place:cybistra",
+      "note": "Cybistra lay in south-eastern Cappadocia at the foot of the Taurus, near the Cilician Gates; Cicero used it as a forward base to watch Syria, Armenia, and the Cappadocian court."
+    },
+    {
+      "loc": "2",
+      "anchor": "Artavasdes, the king of Armenia",
+      "entity_id": "person:artavasdes-ii",
+      "note": "Artavasdes II ruled a kingdom that wavered between Rome and Parthia; Cicero camped near his frontier to remind him a Roman army was at hand."
+    },
+    {
+      "loc": "4",
+      "anchor": "King Ariobarzanes Eusebes and Philorhomaeus",
+      "entity_id": "person:ariobarzanes-iii",
+      "note": "Ariobarzanes III of Cappadocia; the cult-titles 'Eusebes' (the Pious) and 'Philorhomaeus' (Friend of the Romans) were standard self-styling of the Hellenistic client kings."
+    },
+    {
+      "loc": "4",
+      "anchor": "a decree which had never been passed by our order in respect of any king",
+      "note": "The senatus consultum commending Ariobarzanes's safety to the proconsul was, Cicero stresses, an unprecedented honour for a foreign king; 'our order' is the senatorial order."
+    },
+    {
+      "loc": "5",
+      "anchor": "the case of his father's killing",
+      "note": "Ariobarzanes II of Cappadocia had been murdered (c. 52 BC), so the warning to the young king to guard himself carried recent and personal force."
+    },
+    {
+      "loc": "6",
+      "anchor": "his brother Ariarathes",
+      "entity_id": "person:ariarathes-of-cappadocia",
+      "note": "The younger brother who revealed he had been sounded out to seize the throne but refused while Ariobarzanes lived; he later reigned as Ariarathes X."
+    },
+    {
+      "loc": "7",
+      "anchor": "he should use his royal right",
+      "note": "The ius regium: Cicero advises the king to deal with the conspirators by his own sovereign authority rather than draw on the Roman legions, which were needed at the Cilician frontier."
+    }
+  ]
+}

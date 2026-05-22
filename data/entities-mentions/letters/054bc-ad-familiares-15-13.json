@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-13",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO IMP.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "L. PAVLLO COS.", "entity_id": "person:l-aemilius-paulus-cos50", "in": "lat"},
+    {"loc": "1", "surface": "M. Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "L. Paullus", "entity_id": "person:l-aemilius-paulus-cos50", "in": "eng"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "senatus consultum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the senate's decree", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "3", "surface": "Paulle", "entity_id": "person:l-aemilius-paulus-cos50", "in": "lat"},
+    {"loc": "3", "surface": "Paullus", "entity_id": "person:l-aemilius-paulus-cos50", "in": "eng"},
+    {"loc": "3", "surface": "senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

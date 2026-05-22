@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-36",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I want a shrine made",
+      "entity_id": null,
+      "note": "The fanum is the memorial shrine Cicero is determined to build for his dead daughter Tullia, conceived not as an ordinary tomb but as a cult-site for her apotheosis (deification). The project dominates the Astura letters of 45 BC and drives his hunt for suburban gardens to house it."
+    },
+    {
+      "loc": "1",
+      "anchor": "that I may attain, so far as possible, an apotheosis",
+      "entity_id": null,
+      "note": "Apotheosis (Greek apotheosis) is the elevation of a mortal to divine status; Cicero wants Tullia's shrine to consecrate her as a goddess rather than merely commemorate her. The aim distinguishes a fanum from a sepulcrum (tomb) and shapes the whole gardens scheme."
+    },
+    {
+      "loc": "1",
+      "anchor": "not so much to avoid the law's penalty",
+      "entity_id": null,
+      "note": "Roman law (ultimately the Twelve Tables) restricted burial within the city and penalised converting a private tomb into a cult-site; Cicero wants the law's text from Atticus so he can avoid making the shrine look like a tomb. His worry is both legal and religious propriety."
+    },
+    {
+      "loc": "2",
+      "anchor": "because he would not be at the Cumanum",
+      "entity_id": "place:cumae",
+      "note": "The Cumanum was Cicero's villa at Cumae on the Bay of Naples, a favourite writing-retreat; he is annoyed that Brutus declined to meet him there. The exchange shows Brutus among the friends consoling Cicero in his grief."
+    },
+    {
+      "loc": "2",
+      "anchor": "encourage and spur on Cluatius",
+      "entity_id": "person:cluatius",
+      "note": "Cluatius was the architect Cicero engaged to design the fanum for Tullia; Cicero wants Atticus to keep him at work even before a site is settled. He is named only in this gardens-and-shrine correspondence of 45 BC."
+    }
+  ]
+}

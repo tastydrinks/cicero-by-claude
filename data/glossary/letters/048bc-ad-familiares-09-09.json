@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "DOLABELLA S. D. CICERONI.",
+      "entity_id": "person:dolabella",
+      "note": "This is the one letter in book 9 not written by Cicero: P. Cornelius Dolabella, his son-in-law (married to Tullia), writes from Caesar's camp. A reckless young Caesarian patrician, Dolabella here urges his father-in-law, who had joined Pompey, to abandon the losing republican cause."
+    },
+    {
+      "loc": "1",
+      "anchor": "to come over to Caesar and to us, or at any rate to retire into quiet",
+      "entity_id": "person:cicero",
+      "note": "In June 48 BC Cicero was in Pompey's camp in Greece, having reluctantly joined the republican side. Dolabella, serving with Caesar, presses him either to defect or at least to withdraw from the war; Cicero stayed until after the defeat at Pharsalus (August 48), then returned to Italy and was pardoned by Caesar."
+    },
+    {
+      "loc": "2",
+      "anchor": "He has been driven out of Italy, he has lost the Spains, he has had his veteran army taken from him, and now at last he has been walled in",
+      "entity_id": "person:pompey",
+      "note": "Dolabella catalogues Pompey's reverses: his flight from Italy to Greece in early 49, Caesar's defeat of the Pompeian legates Afranius and Petreius in Spain (Ilerda, 49), and the blockade of Pompey's army at Dyrrachium in spring 48 --- written just before the decisive battle of Pharsalus."
+    },
+    {
+      "loc": "2",
+      "anchor": "those clientships of kings and nations that he was always so fond of parading",
+      "entity_id": "person:pompey",
+      "note": "Pompey's prestige rested heavily on the network of client kings and provinces he had built up through his eastern conquests in the 60s BC; Dolabella sneers that this vaunted patronage now offers him no security."
+    },
+    {
+      "loc": "3",
+      "anchor": "withdraw either to Athens or to whatever quiet city you please",
+      "entity_id": "place:athenae",
+      "note": "Athens was the natural refuge for a cultivated Roman wishing to sit out the war in dignified neutrality, a centre of philosophy where Cicero had studied as a young man and would later send his son to study."
+    },
+    {
+      "loc": "3",
+      "anchor": "given Caesar's humanity",
+      "entity_id": "person:caesar",
+      "note": "Dolabella appeals to Caesar's famous policy of clementia (clemency toward defeated opponents), which would indeed secure Cicero's pardon after Pharsalus; the orator's eventual safety owed much to Caesar's wish to conciliate moderate republicans."
+    }
+  ]
+}

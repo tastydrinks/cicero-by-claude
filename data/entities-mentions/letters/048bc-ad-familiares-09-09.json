@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-09",
+  "mentions": [
+    {"loc": "1", "surface": "DOLABELLA S. D. CICERONI.", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "DOLABELLA S. D. CICERONI.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "DOLABELLA S. D. CICERONI.", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "1", "surface": "DOLABELLA S. D. CICERONI.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Tullia nostra", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "Our Tullia", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "1", "surface": "Terentia", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "Terentia", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "1", "surface": "Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "mi Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "my dear Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "2", "surface": "Cn. Pompeium", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Cn. Pompeius", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "2", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "Hispaniis", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "2", "surface": "the Spains", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "3", "surface": "mi iucundissime Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "3", "surface": "my most delightful Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "3", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "3", "surface": "Pompeius", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "3", "surface": "Athenas", "entity_id": "place:athenae", "in": "lat"},
+    {"loc": "3", "surface": "Athens", "entity_id": "place:athenae", "in": "eng"},
+    {"loc": "3", "surface": "Caesar", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "Caesar's", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

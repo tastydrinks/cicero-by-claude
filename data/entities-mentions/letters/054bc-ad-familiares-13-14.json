@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-14",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "BRVTO", "entity_id": "person:brutus", "in": "both"},
+    {"loc": "1", "surface": "L. Titio Strabone", "entity_id": "person:l-titius-strabo", "in": "lat"},
+    {"loc": "1", "surface": "L. Titius Strabo", "entity_id": "person:l-titius-strabo", "in": "eng"},
+    {"loc": "1", "surface": "P. Cornelius", "entity_id": "person:p-cornelius-debtor", "in": "lat"},
+    {"loc": "1", "surface": "P. Cornelius", "entity_id": "person:p-cornelius-debtor", "in": "eng"},
+    {"loc": "1", "surface": "Volcacio", "entity_id": "person:c-volcacius-tullus", "in": "lat"},
+    {"loc": "1", "surface": "Volcacius", "entity_id": "person:c-volcacius-tullus", "in": "eng"},
+    {"loc": "1", "surface": "Galliam", "entity_id": "place:gallia-cisalpina", "in": "lat"},
+    {"loc": "1", "surface": "Gaul", "entity_id": "place:gallia-cisalpina", "in": "eng"},
+    {"loc": "2", "surface": "Strabonis", "entity_id": "person:l-titius-strabo", "in": "lat"},
+    {"loc": "2", "surface": "Strabo's", "entity_id": "person:l-titius-strabo", "in": "eng"},
+    {"loc": "2", "surface": "L. Titium", "entity_id": "person:l-titius-strabo", "in": "lat"},
+    {"loc": "2", "surface": "L. Titius", "entity_id": "person:l-titius-strabo", "in": "eng"}
+  ]
+}

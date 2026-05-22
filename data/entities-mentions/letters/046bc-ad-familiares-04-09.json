@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-09",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. MARCELLO", "entity_id": "person:m-claudius-marcellus-cos51", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "M. MARCELLO", "entity_id": "person:m-claudius-marcellus-cos51", "in": "eng"},
+    {"loc": "1", "surface": "Q. Mucio", "entity_id": "person:q-mucius-courier-marcellus", "in": "lat"},
+    {"loc": "1", "surface": "Quintus Mucius", "entity_id": "person:q-mucius-courier-marcellus", "in": "eng"},
+    {"loc": "1", "surface": "Theophilus, libertus tuus", "entity_id": "person:theophilus-libertus-marcelli", "in": "lat"},
+    {"loc": "1", "surface": "your freedman Theophilus", "entity_id": "person:theophilus-libertus-marcelli", "in": "eng"},
+    {"loc": "2", "surface": "te consule", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "fratre tuo consulatum", "entity_id": "person:c-claudius-marcellus-cos50", "in": "lat"},
+    {"loc": "2", "surface": "when you were consul", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "your brother held the consulship", "entity_id": "person:c-claudius-marcellus-cos50", "in": "eng"},
+    {"loc": "4", "surface": "Marcello, fratri tuo", "entity_id": "person:c-claudius-marcellus-cos50", "in": "lat"},
+    {"loc": "4", "surface": "Marcellus your brother", "entity_id": "person:c-claudius-marcellus-cos50", "in": "eng"}
+  ]
+}

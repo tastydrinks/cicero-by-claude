@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-05",
+  "mentions": [
+    {"loc": "3", "surface": "et Basilo", "entity_id": "person:l-minucius-basilus", "in": "lat"},
+    {"loc": "3", "surface": "etiam Servilio", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "lat"},
+    {"loc": "3", "surface": "to Basilus", "entity_id": "person:l-minucius-basilus", "in": "eng"},
+    {"loc": "3", "surface": "to Servilius as well", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "eng"},
+    {"loc": "4", "surface": "de Vatinio", "entity_id": "person:vatinius-tribune", "in": "lat"},
+    {"loc": "4", "surface": "Quintus aversissimo a me animo", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "4", "surface": "Patris fuit", "entity_id": "place:patrae", "in": "lat"},
+    {"loc": "4", "surface": "eodem Corcyra filius venit", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "4", "surface": "Corcyra", "entity_id": "place:corcyra", "in": "lat"},
+    {"loc": "4", "surface": "about Vatinius", "entity_id": "person:vatinius-tribune", "in": "eng"},
+    {"loc": "4", "surface": "Quintus was in a thoroughly hostile frame of mind toward me", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "4", "surface": "at Patrae", "entity_id": "place:patrae", "in": "eng"},
+    {"loc": "4", "surface": "His son joined him there", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "4", "surface": "from Corcyra", "entity_id": "place:corcyra", "in": "eng"}
+  ]
+}

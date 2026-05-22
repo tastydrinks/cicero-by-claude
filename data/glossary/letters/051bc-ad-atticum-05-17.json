@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-17",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "the man who has been styled king by the Senate",
+      "entity_id": "person:deiotarus-of-galatia",
+      "note": "Deiotarus, tetrarch of the Galatian Tolistobogii, had been formally recognised as king by the Roman Senate as a reward for his loyalty. Cicero, who valued him as a friend and a bulwark on the Parthian frontier, entrusted his son and nephew to his court while the army was in summer quarters."
+    },
+    {
+      "loc": "5",
+      "anchor": "Hortensius had said something about the prorogation of our province",
+      "entity_id": "person:hortensius",
+      "note": "Hortensius had earlier promised at Cumae to oppose any extension of Cicero's command beyond its single year. The report that he was now speaking in favour of prorogation alarmed Cicero, who begged Atticus to hold him to his pledge."
+    },
+    {
+      "loc": "5",
+      "anchor": "Scaevola, who alone presided over Asia for nine months",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "note": "Q. Mucius Scaevola the Pontifex (cos. 95) governed Asia for only nine months around 94 BC, yet his scrupulous, incorrupt administration became the proverbial Roman model of good provincial government. Cicero hopes that a short, upright tenure will likewise make his own justice the more renowned."
+    },
+    {
+      "loc": "6",
+      "anchor": "set off from Laodicea all the way to Tarsus",
+      "entity_id": "person:appius-claudius-pulcher",
+      "note": "Rather than wait to hand over the province in person, Appius withdrew to its far eastern corner at Tarsus and continued to hold assizes there, an affront to his successor Cicero. Cicero declines to make an issue of it, busy as he is repairing the damage Appius had left behind."
+    }
+  ]
+}

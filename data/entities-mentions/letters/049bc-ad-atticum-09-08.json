@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-08",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Statius", "entity_id": "person:statius-q-freedman", "in": "lat"},
+    {"loc": "1", "surface": "L. Torquato", "entity_id": "person:l-manlius-torquatus", "in": "lat"},
+    {"loc": "1", "surface": "Lucius", "entity_id": "person:l-manlius-torquatus", "in": "lat"},
+    {"loc": "1", "surface": "Aulus", "entity_id": "person:a-manlius-torquatus", "in": "lat"},
+    {"loc": "1", "surface": "Reatinorum", "entity_id": "place:reate", "in": "lat"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Statius brought a short letter", "entity_id": "person:statius-q-freedman", "in": "eng"},
+    {"loc": "1", "surface": "About Lucius Torquatus", "entity_id": "person:l-manlius-torquatus", "in": "eng"},
+    {"loc": "1", "surface": "not only Lucius but Aulus too", "entity_id": "person:l-manlius-torquatus", "in": "eng"},
+    {"loc": "1", "surface": "but Aulus too has set out", "entity_id": "person:a-manlius-torquatus", "in": "eng"},
+    {"loc": "1", "surface": "the crown of the Reatines", "entity_id": "place:reate", "in": "eng"},
+    {"loc": "1", "surface": "many senators are at Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Formiis", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "2", "surface": "Homeri illam Minervam", "entity_id": "person:homer", "in": "lat"},
+    {"loc": "2", "surface": "Minervam", "entity_id": "god:minerva", "in": "lat"},
+    {"loc": "2", "surface": "Caesar will be at Formiae", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Caesar will be at Formiae", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "2", "surface": "Homer's Minerva", "entity_id": "person:homer", "in": "eng"},
+    {"loc": "2", "surface": "Homer's Minerva in the likeness of Mentor", "entity_id": "god:minerva", "in": "eng"}
+  ]
+}

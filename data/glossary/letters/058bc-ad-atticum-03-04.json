@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the bill on my destruction",
+      "entity_id": null,
+      "note": "The amended lex Clodia (rogatio de pernicie mea), which now interdicted Cicero within a fixed radius of Italy. Its supplementary clause is the 'amendment' whose harsh terms he reports next."
+    },
+    {
+      "loc": "1",
+      "anchor": "beyond five hundred miles",
+      "entity_id": null,
+      "note": "The amended Clodian law barred Cicero from coming within (variously reported) four hundred miles of Italy; here he reads the limit as five hundred. The clause is why he abandons the nearer refuge of Malta and pushes on toward Greece."
+    },
+    {
+      "loc": "1",
+      "anchor": "being at Malta was not allowed",
+      "entity_id": "place:melita",
+      "note": "Malta (Melita) lay too close to Italy to satisfy the law's distance clause, so Cicero could not take refuge there. He redirects toward Brundisium and the longer crossing east."
+    },
+    {
+      "loc": "1",
+      "anchor": "my Pomponius",
+      "entity_id": "person:atticus",
+      "note": "'Pomponius' is Atticus himself --- T. Pomponius Atticus, the recipient of every letter in this book --- addressed by his nomen as an intimacy, not a third party."
+    }
+  ]
+}

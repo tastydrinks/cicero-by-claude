@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-02",
+  "notes": [
+    {
+      "loc": "4",
+      "anchor": "this assize-circuit",
+      "entity_id": null,
+      "note": "The conventus was the judicial circuit by which a Roman governor toured the fixed assize-centres of his province to hear cases for each district (dioecesis); Cicero held his between February and May 50 BC, with Cilicia proper still to come."
+    },
+    {
+      "loc": "5",
+      "anchor": "the previous lustrum",
+      "entity_id": null,
+      "note": "The lustrum was the five-year period of a censorial tax-contract; the provincials here paid the publicani not only the current period's dues but the arrears of the previous contract, which Cicero counts as a triumph of his administration."
+    },
+    {
+      "loc": "6",
+      "anchor": "the third day before the Kalends of Sextilis",
+      "entity_id": null,
+      "note": "Reckoned inclusively in the Roman manner, this is 30 July 50 BC, the date on which Cicero's one-year tenure of Cilicia legally expired (Sextilis being the old name for August, before its renaming for Augustus)."
+    },
+    {
+      "loc": "6",
+      "anchor": "the business of the provinces",
+      "entity_id": null,
+      "note": "The Senate's annual decree assigning consular and praetorian provinces; the tribune Curio was obstructing all senatorial business in 50 BC, so Cicero hoped no successor would be named and his term would not be prolonged."
+    },
+    {
+      "loc": "7",
+      "anchor": "interest reckoned at twelve percent per annum",
+      "entity_id": null,
+      "note": "The centesimae usurae, one per cent per month, was the legal Roman maximum and the rate Cicero's provincial edict enforced; the Salaminians' bond (syngrapha) to Brutus's agent Scaptius instead stipulated forty-eight per cent, the crux of the dispute."
+    },
+    {
+      "loc": "7",
+      "anchor": "the Lex Gabinia",
+      "entity_id": "law:lex-gabinia",
+      "note": "A lex Gabinia (of the tribune A. Gabinius, here Cicero's 'law of Aulus') barred provincials from contracting loans at Rome and barred Roman courts from enforcing such bonds, which is why the Salaminians needed special senatorial decrees to borrow from Brutus's agents."
+    },
+    {
+      "loc": "8",
+      "anchor": "the council-house",
+      "entity_id": null,
+      "note": "The curia or senate-house of the Greek city of Salamis, where Scaptius's cavalry penned up the local senators until several starved; the atrocity Cicero cites to justify refusing Scaptius armed troops."
+    },
+    {
+      "loc": "10",
+      "anchor": "C. Caelius the quaestor",
+      "entity_id": "person:c-coelius-caldus-q50",
+      "note": "C. Coelius Caldus, the quaestor allotted to Cicero's province for 50 BC; a young noble whom Cicero, not yet having met him, would shortly be forced to consider leaving in charge of Cilicia."
+    }
+  ]
+}

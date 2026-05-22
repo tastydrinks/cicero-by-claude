@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I congratulate our friends at Baiae",
+      "entity_id": "place:baiae",
+      "note": "Baiae, on the Bay of Naples, was the most fashionable Roman resort, famed for its hot mineral springs and its reputation for luxury and loose living. Cicero teases Dolabella, who is staying there, that the springs have suddenly turned healthful only because they are flattering him."
+    },
+    {
+      "loc": "2",
+      "anchor": "The little speech on behalf of Deiotarus, which you were asking for",
+      "entity_id": "text:cicero-pro-deiotaro",
+      "note": "The Pro Rege Deiotaro is Cicero's speech defending Deiotarus, king of Galatia, against a charge of having plotted to murder Caesar; Cicero delivered it before Caesar, sitting as judge in his own house, in November 45 BC. Cicero here sends Dolabella the requested copy, disparaging it modestly as a slight piece."
+    },
+    {
+      "loc": "2",
+      "anchor": "a little present of slight stuff and coarse thread",
+      "entity_id": null,
+      "note": "Cicero plays on the imagery of cheap homespun cloth (levidense crasso filo) to deprecate his own speech as a humble, rough gift --- a stock modesty-formula, here pointed because the Deiotarus case was a slight matter argued before an absolute ruler."
+    },
+    {
+      "loc": "2",
+      "anchor": "that your moderation and your gravity may put to shame the injustice of others",
+      "entity_id": "person:dolabella",
+      "note": "Cicero urges Dolabella to bear some wrong (iniuria) with philosophic self-command. The reference is obscure, but it points to the troubles of the young man's career under Caesar; Cicero's exhortation to wise endurance is the consolatory note he often strikes to his volatile son-in-law."
+    }
+  ]
+}

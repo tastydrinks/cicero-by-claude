@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO PROCOS. S. D. APPIO PVLCHRO IMP.",
+      "note": "\"Marcus Cicero, proconsul, sends greeting to Appius Pulcher, imperator.\" PROCOS. (pro consule) marks the office under which Cicero governed Cilicia; both men flag their titles, Appius his victory-acclamation as imperator."
+    },
+    {
+      "loc": "1",
+      "anchor": "set out for a province with command",
+      "entity_id": "office:proconsul",
+      "note": "Cum imperio: holding the formal military and civil authority of a provincial governor. Cicero took the Cilician command reluctantly in 51 BC as a consequence of Pompey's law requiring a five-year gap between magistracy and a province."
+    },
+    {
+      "loc": "2",
+      "anchor": "by senatorial decree, the province must be administered",
+      "entity_id": "institution:senate",
+      "note": "Under the lex Pompeia of 52 BC and the Senate's enabling decrees, ex-consuls and ex-praetors who had not yet held a province were drafted to govern; this is how Cicero, consul a decade earlier, was now bound to Cilicia."
+    }
+  ]
+}

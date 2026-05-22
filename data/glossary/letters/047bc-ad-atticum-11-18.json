@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "his departure from Alexandria",
+      "entity_id": "person:caesar",
+      "note": "The unnamed \"he\" is Caesar, detained in Egypt after the Alexandrian War of 48–47 BC; his return westward was the event on which Cicero's release from Brundisium depended. Cicero habitually avoids naming Caesar in these anxious letters."
+    },
+    {
+      "loc": "1",
+      "anchor": "I am not sending Cicero",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "\"Cicero\" here is young Quintus, Cicero's nephew, whom he had thought to send to Caesar to plead the family's case but now holds back."
+    },
+    {
+      "loc": "2",
+      "anchor": "The twelfth day before the Kalends of Quintilis",
+      "entity_id": null,
+      "note": "Quintilis was the old Roman name for the month later renamed July in Caesar's honour; the twelfth day before its Kalends (first) is 20 June. Cicero still uses the pre-Julian month-name."
+    }
+  ]
+}

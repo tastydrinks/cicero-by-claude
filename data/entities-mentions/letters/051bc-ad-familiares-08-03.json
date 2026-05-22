@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-03",
+  "mentions": [
+    {"loc": "1", "surface": "CAELIVS", "entity_id": "person:caelius-defendant", "in": "lat"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CAELIVS", "entity_id": "person:caelius-defendant", "in": "eng"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Hirrus", "entity_id": "person:c-lucilius-hirrus", "in": "lat"},
+    {"loc": "1", "surface": "auguratus", "entity_id": "institution:college-of-augurs", "in": "lat"},
+    {"loc": "1", "surface": "M. Octavius", "entity_id": "person:m-octavius-cn-f", "in": "lat"},
+    {"loc": "1", "surface": "Hirrum", "entity_id": "person:c-lucilius-hirrus", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Rome itself", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Hirrus", "entity_id": "person:c-lucilius-hirrus", "in": "eng"},
+    {"loc": "1", "surface": "the augurate", "entity_id": "institution:college-of-augurs", "in": "eng"},
+    {"loc": "1", "surface": "M. Octavius", "entity_id": "person:m-octavius-cn-f", "in": "eng"},
+    {"loc": "1", "surface": "Hirrus", "entity_id": "person:c-lucilius-hirrus", "in": "eng"},
+    {"loc": "2", "surface": "Philotimi", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "2", "surface": "Milonis", "entity_id": "person:milo", "in": "lat"},
+    {"loc": "2", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "2", "surface": "Miloni", "entity_id": "person:milo", "in": "lat"},
+    {"loc": "2", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "2", "surface": "Milo", "entity_id": "person:milo", "in": "eng"},
+    {"loc": "2", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "2", "surface": "Milo", "entity_id": "person:milo", "in": "eng"}
+  ]
+}

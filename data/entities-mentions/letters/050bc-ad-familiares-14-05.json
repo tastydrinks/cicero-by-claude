@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-05",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "TVLLIVS",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "TVLLIVS",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "TERENTIAE SVAE",
+      "entity_id": "person:terentia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "TERENTIAE SVAE",
+      "entity_id": "person:terentia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Tullia",
+      "entity_id": "person:tullia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Tullia",
+      "entity_id": "person:tullia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "suavissimus Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "our dearest Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Athenas",
+      "entity_id": "place:athenae",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Athens",
+      "entity_id": "place:athenae",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Acastus",
+      "entity_id": "person:acastus-servus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Acastus",
+      "entity_id": "person:acastus-servus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Acastus",
+      "entity_id": "person:acastus-servus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Acastus",
+      "entity_id": "person:acastus-servus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Acastus",
+      "entity_id": "person:acastus-servus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Acastus",
+      "entity_id": "person:acastus-servus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "hereditate Preciana",
+      "entity_id": "person:precius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the Precius inheritance",
+      "entity_id": "person:precius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pomponius",
+      "entity_id": "person:atticus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pomponius",
+      "entity_id": "person:atticus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Camillus",
+      "entity_id": "person:c-furius-camillus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Camillus",
+      "entity_id": "person:c-furius-camillus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Roma",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Italia",
+      "entity_id": "place:italia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Italy",
+      "entity_id": "place:italia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Terentia",
+      "entity_id": "person:terentia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Terentia",
+      "entity_id": "person:terentia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Athenis",
+      "entity_id": "place:athenae",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Athens",
+      "entity_id": "place:athenae",
+      "in": "eng"
+    }
+  ]
+}

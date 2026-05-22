@@ -1,0 +1,876 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-20",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Saturnalibus",
+      "entity_id": "festival:saturnalia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Pindenissitae",
+      "entity_id": "place:pindenissus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Pindenissitae",
+      "entity_id": "place:pindenissus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Ciliciam",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Aetoliam",
+      "entity_id": "place:aetolia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Macedoniam",
+      "entity_id": "place:macedonia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Ephesum",
+      "entity_id": "place:ephesus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Laodiceam",
+      "entity_id": "place:laodicea",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Colossis",
+      "entity_id": "place:colossae",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Apameae",
+      "entity_id": "place:apamea",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Synnadis",
+      "entity_id": "place:synnada",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Philomeli",
+      "entity_id": "place:philomelium",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Iconi",
+      "entity_id": "place:iconium",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "the Saturnalia",
+      "entity_id": "festival:saturnalia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Pindenissus",
+      "entity_id": "place:pindenissus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Pindenissites",
+      "entity_id": "place:pindenissus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Aetolia",
+      "entity_id": "place:aetolia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Macedonia",
+      "entity_id": "place:macedonia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Ephesus",
+      "entity_id": "place:ephesus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Laodicea",
+      "entity_id": "place:laodicea",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Colossae",
+      "entity_id": "place:colossae",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Apamea",
+      "entity_id": "place:apamea",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Synnada",
+      "entity_id": "place:synnada",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Philomelium",
+      "entity_id": "place:philomelium",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Iconium",
+      "entity_id": "place:iconium",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Iconium",
+      "entity_id": "place:iconium",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Ciliciam",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cappadociae",
+      "entity_id": "place:cappadocia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Ciliciam",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Artavasdes",
+      "entity_id": "person:artavasdes-ii",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cappadocia",
+      "entity_id": "place:cappadocia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cybistra",
+      "entity_id": "place:cybistra",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cappadociae",
+      "entity_id": "place:cappadocia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cappadociae",
+      "entity_id": "place:cappadocia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Ciliciae",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Ciliciam",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Tauri",
+      "entity_id": "place:taurus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Tarsum",
+      "entity_id": "place:tarsus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Iconium",
+      "entity_id": "place:iconium",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cappadocia",
+      "entity_id": "place:cappadocia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Armenian Artavasdes",
+      "entity_id": "person:artavasdes-ii",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cappadocia",
+      "entity_id": "place:cappadocia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cybistra",
+      "entity_id": "place:cybistra",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cappadocia",
+      "entity_id": "place:cappadocia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cappadocia",
+      "entity_id": "place:cappadocia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "the Taurus",
+      "entity_id": "place:taurus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Tarsus",
+      "entity_id": "place:tarsus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Amanum",
+      "entity_id": "place:amanus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Syriam",
+      "entity_id": "place:syria",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Pomptini",
+      "entity_id": "person:c-pomptinus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "imperatores appellati sumus",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Darium",
+      "entity_id": "person:darius-iii",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Issum",
+      "entity_id": "place:issus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Alexander",
+      "entity_id": "person:alexander-magnus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "imperator",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Amano",
+      "entity_id": "place:amanus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Cassio",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Antiochia",
+      "entity_id": "place:antiochia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Cassius",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Osaces",
+      "entity_id": "person:osaces",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Syria",
+      "entity_id": "place:syria",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Amanus",
+      "entity_id": "place:amanus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Syria",
+      "entity_id": "place:syria",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Pomptinus",
+      "entity_id": "person:c-pomptinus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "We were hailed as imperators",
+      "entity_id": "office:imperator",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Alexander",
+      "entity_id": "person:alexander-magnus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Darius",
+      "entity_id": "person:darius-iii",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Issus",
+      "entity_id": "place:issus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "an imperator no little better",
+      "entity_id": "office:imperator",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Amanus",
+      "entity_id": "place:amanus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Cassius (who was being held shut up in Antioch)",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Antioch",
+      "entity_id": "place:antiochia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Cassius pursued them",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Osaces",
+      "entity_id": "person:osaces",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Syria",
+      "entity_id": "place:syria",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Amano",
+      "entity_id": "place:amanus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Asinium Dentonem",
+      "entity_id": "person:asinius-dento",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Pindenissum",
+      "entity_id": "place:pindenissus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Saturnalia",
+      "entity_id": "festival:saturnalia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Saturnalibus",
+      "entity_id": "festival:saturnalia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Quinto fratri",
+      "entity_id": "person:quintus-cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Laodiceam",
+      "entity_id": "place:laodicea",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Amanus",
+      "entity_id": "place:amanus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Asinius Dento",
+      "entity_id": "person:asinius-dento",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Pindenissus",
+      "entity_id": "place:pindenissus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "A merry Saturnalia",
+      "entity_id": "festival:saturnalia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "the third day of Saturnalia",
+      "entity_id": "festival:saturnalia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "my brother Quintus",
+      "entity_id": "person:quintus-cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Laodicea",
+      "entity_id": "place:laodicea",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Ligurino Μώμῳ",
+      "entity_id": "god:momus",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Ariobarzanes",
+      "entity_id": "person:ariobarzanes-iii",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Cappadocia",
+      "entity_id": "place:cappadocia",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Brutum",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Ligurian [Greek: Momus]",
+      "entity_id": "god:momus",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Ariobarzanes",
+      "entity_id": "person:ariobarzanes-iii",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Cappadocia",
+      "entity_id": "place:cappadocia",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Romam",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Amano",
+      "entity_id": "place:amanus",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Amanus",
+      "entity_id": "place:amanus",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "Philogenes",
+      "entity_id": "person:philogenes",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "Caesare",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "senatus",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "Lucceius",
+      "entity_id": "person:l-lucceius",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "Q. Cassio",
+      "entity_id": "person:q-cassius-longinus-spain",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "Philogenes",
+      "entity_id": "person:philogenes",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "Lucceius",
+      "entity_id": "person:l-lucceius",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "Q. Cassius",
+      "entity_id": "person:q-cassius-longinus-spain",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "Laodiceam",
+      "entity_id": "place:laodicea",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Quinto sororis tuae filio",
+      "entity_id": "person:q-cicero-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Deiotarus",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Ciceronibus",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Ciceronibus",
+      "entity_id": "person:q-cicero-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Laodiceam",
+      "entity_id": "place:laodicea",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Nicanor",
+      "entity_id": "person:nicanor-servus",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Romam",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Alexis",
+      "entity_id": "person:alexis-servus",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Laodicea",
+      "entity_id": "place:laodicea",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "Quintus, your sister's son",
+      "entity_id": "person:q-cicero-younger",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "Deiotarus",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "with the boys",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "with the boys",
+      "entity_id": "person:q-cicero-younger",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "Laodicea",
+      "entity_id": "place:laodicea",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "Nicanor",
+      "entity_id": "person:nicanor-servus",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "That Alexis so often adds the salutation",
+      "entity_id": "person:alexis-servus",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Thermo",
+      "entity_id": "person:q-minucius-thermus-pr",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Ephesi",
+      "entity_id": "place:ephesus",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Thermus",
+      "entity_id": "person:q-minucius-thermus-pr",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Ephesus",
+      "entity_id": "place:ephesus",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-17",
+  "mentions": [
+    {"loc": "1", "surface": "Hortensius", "entity_id": "person:q-hortensius-filius", "in": "lat"},
+    {"loc": "1", "surface": "et hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "1", "surface": "Hortensius came to me", "entity_id": "person:q-hortensius-filius", "in": "eng"},
+    {"loc": "1", "surface": "And by Hercules, I approve of the man", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "3", "surface": "Ocellam", "entity_id": "person:servius-ocella", "in": "lat"},
+    {"loc": "3", "surface": "Hortensius", "entity_id": "person:q-hortensius-filius", "in": "lat"},
+    {"loc": "3", "surface": "I wish we had Ocella with us", "entity_id": "person:servius-ocella", "in": "eng"},
+    {"loc": "3", "surface": "I hope Hortensius continues as he is", "entity_id": "person:q-hortensius-filius", "in": "eng"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-17",
+  "mentions": [
+    {"loc": "1", "surface": "Quinto fratre", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "Livineius", "entity_id": "person:l-livineius-trypho", "in": "lat"},
+    {"loc": "1", "surface": "L. Reguli libertus", "entity_id": "person:l-regulus", "in": "lat"},
+    {"loc": "1", "surface": "Regulo", "entity_id": "person:l-regulus", "in": "lat"},
+    {"loc": "1", "surface": "C. Clodi filio", "entity_id": "person:c-clodius-filius", "in": "lat"},
+    {"loc": "1", "surface": "fratre", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "Sesti", "entity_id": "person:sestius-tribune", "in": "lat"},
+    {"loc": "1", "surface": "Appi", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "1", "surface": "my brother Quintus", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "Livineius", "entity_id": "person:l-livineius-trypho", "in": "eng"},
+    {"loc": "1", "surface": "freedman of L. Regulus", "entity_id": "person:l-regulus", "in": "eng"},
+    {"loc": "1", "surface": "Regulus", "entity_id": "person:l-regulus", "in": "eng"},
+    {"loc": "1", "surface": "C. Clodius's son", "entity_id": "person:c-clodius-filius", "in": "eng"},
+    {"loc": "1", "surface": "my brother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "Sestius's slaves", "entity_id": "person:sestius-tribune", "in": "eng"},
+    {"loc": "1", "surface": "Appius", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "3", "surface": "frater", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "3", "surface": "My brother", "entity_id": "person:quintus-cicero", "in": "eng"}
+  ]
+}

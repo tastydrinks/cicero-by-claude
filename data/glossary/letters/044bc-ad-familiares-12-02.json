@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "my opinion and my speech",
+      "entity_id": null,
+      "note": "Cicero's senatorial interventions against Antony in autumn 44 BC, the beginnings of the Philippics; sententia is the formal opinion delivered when a senator is called on to speak."
+    },
+    {
+      "loc": "1",
+      "anchor": "the instigator of Caesar's killing",
+      "entity_id": null,
+      "note": "Antony publicly accused Cicero of having masterminded the assassination of the dictator Caesar (the Ides of March 44 BC), aiming to turn Caesar's veterans against him."
+    },
+    {
+      "loc": "1",
+      "anchor": "the veterans",
+      "entity_id": null,
+      "note": "Caesar's discharged soldiers, settled on land and fiercely loyal to his memory; their resentment was a weapon Antony could turn against the assassins and their supporters."
+    },
+    {
+      "loc": "1",
+      "anchor": "Piso, who first attacked him",
+      "entity_id": "person:l-piso",
+      "note": "L. Calpurnius Piso Caesoninus (cos. 58), Caesar's father-in-law, who on 1 August 44 BC was the first senator to speak openly against Antony, with no one supporting him."
+    },
+    {
+      "loc": "1",
+      "anchor": "the same thirty days later",
+      "entity_id": null,
+      "note": "Cicero delivered his First Philippic against Antony on 2 September 44 BC, roughly a month after Piso's lone attack."
+    },
+    {
+      "loc": "1",
+      "anchor": "P. Servilius",
+      "entity_id": "person:p-servilius-vatia-isauricus",
+      "note": "P. Servilius Vatia Isauricus (cos. 48 BC), an eminent consular who followed Cicero in attacking Antony in the Senate."
+    },
+    {
+      "loc": "1",
+      "anchor": "the gladiator",
+      "entity_id": "person:antony",
+      "note": "A standard term of abuse Cicero hurls at Antony throughout the Philippics, branding him a brawler and cutthroat rather than a statesman."
+    },
+    {
+      "loc": "1",
+      "anchor": "19 September",
+      "entity_id": null,
+      "note": "The Latin dates this a. d. xiii K. Octobr. (the thirteenth day before the Kalends of October), the day Antony delivered the speech replying to Cicero's First Philippic."
+    },
+    {
+      "loc": "1",
+      "anchor": "the villa of Metellus",
+      "entity_id": "person:q-metellus-scipio",
+      "note": "The country house formerly belonging to Q. Caecilius Metellus Pius Scipio (the Pompeian commander), where Antony was said to have rehearsed his speech amid drink and debauchery."
+    },
+    {
+      "loc": "1",
+      "anchor": "not to be speaking but vomiting",
+      "entity_id": null,
+      "note": "An allusion to Antony's notorious public vomiting in the assembly while drunk, a charge Cicero made memorable in the Second Philippic."
+    },
+    {
+      "loc": "2",
+      "anchor": "three men of consular rank",
+      "entity_id": null,
+      "note": "Consulars (former consuls) carried the greatest weight in the Senate; Cicero means himself, Piso, and Servilius, the only ones who dared speak against Antony and so could not attend safely."
+    },
+    {
+      "loc": "2",
+      "anchor": "consul in your year",
+      "entity_id": null,
+      "note": "Magistracies were dated by the names of the year's consuls; an ambitious adherent of Antony hoped to secure the consulship for his son in the year already earmarked (by Caesar's arrangements) for Brutus and Cassius."
+    },
+    {
+      "loc": "3",
+      "anchor": "L. Cotta",
+      "entity_id": "person:l-aurelius-cotta-cos65",
+      "note": "L. Aurelius Cotta (cos. 65), Caesar's uncle, who in despondency stayed away from the Senate after the Ides of March."
+    },
+    {
+      "loc": "3",
+      "anchor": "L. Caesar",
+      "entity_id": "person:l-iulius-caesar-cos64",
+      "note": "L. Iulius Caesar (cos. 64), an upright senator and (paradoxically) Antony's own uncle, kept from the Senate by ill health."
+    },
+    {
+      "loc": "3",
+      "anchor": "Ser. Sulpicius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus (cos. 51), the celebrated jurist; he later died as one of the senatorial envoys to Antony in early 43 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "the consuls-elect excepted",
+      "entity_id": "office:consul",
+      "note": "The designati, here Hirtius and Pansa, who were to enter the consulship on 1 January 43 BC; consuls-elect already enjoyed special precedence in senatorial debate."
+    }
+  ]
+}

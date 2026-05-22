@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Senate in full session was inspired in denying the thanksgiving to Gabinius",
+      "entity_id": "person:gabinius",
+      "note": "A. Gabinius, consul 58 BC and governor of Syria, requested a supplicatio (public thanksgiving) for his campaigns; the Senate's refusal was a stinging rebuff to one of Cicero's bitterest enemies, who as consul had abetted his exile."
+    },
+    {
+      "loc": "1",
+      "anchor": "Procilius swears that this has happened to no man before",
+      "entity_id": "person:procilius",
+      "note": "Procilius, a Roman senator, attests that no commander had ever before been refused a thanksgiving --- underscoring how exceptional the Senate's snub of Gabinius was."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Campanian-land affair would be brought on",
+      "entity_id": "place:ager-campanus",
+      "note": "The recurring fight over the public land of Campania, distributed under Caesar's law of 59 BC; reopening it threatened the triumvirs' settlement, so its repeated postponement was politically charged."
+    },
+    {
+      "loc": "1",
+      "anchor": "In this case my water sticks",
+      "entity_id": null,
+      "note": "A courtroom metaphor: a speaker's time was measured by a water-clock (clepsydra), so 'my water sticks' means he is stuck, unsure how to proceed --- here on the Campanian-land question."
+    }
+  ]
+}

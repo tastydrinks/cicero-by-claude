@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-41",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "forwarded to Quintus",
+      "entity_id": "person:quintus-cicero",
+      "note": "Cicero's brother Quintus, the estranged father; \"his sister\" and \"his mother\" both denote Pomponia, Atticus's sister and Quintus's wife, while \"his son\" is the young Quintus, the nephew at the centre of the family quarrel."
+    },
+    {
+      "loc": "1",
+      "anchor": "with crooked stratagems",
+      "entity_id": null,
+      "note": "The Greek skoliais apatais (\"crooked stratagems\"), recurring from letters 13.38--13.39, marks Cicero's chosen tactic of evasive indirection rather than open confrontation with the nephew."
+    },
+    {
+      "loc": "1",
+      "anchor": "Cana was being talked of",
+      "entity_id": null,
+      "note": "The reference to \"Cana\" is obscure and the text uncertain; it may name a person, place, or matter then under discussion, but no secure identification can be made. Left untagged."
+    },
+    {
+      "loc": "2",
+      "anchor": "If indeed Brutus too",
+      "entity_id": "person:brutus",
+      "note": "M. Iunius Brutus, whose added weight in the matter would, Cicero says, settle the question beyond doubt."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "preferring that he, unworthy of that station, should be our friend rather than our slave",
+      "entity_id": "person:tiro",
+      "note": "Quintus rejoices that his brother has freed Tiro: manumission turned the slave into a freedman (libertus) and so a 'friend' who could be a formal member of the household's circle. This letter dates the freeing of Tiro to 53 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "if the loyalty of my Statius is so great a pleasure to me",
+      "entity_id": "person:statius-q-freedman",
+      "note": "Statius, Quintus Cicero's own much-trusted freedman; Quintus reasons that if Statius gives him such pleasure, the cultivated Tiro will be worth far more to Marcus."
+    },
+    {
+      "loc": "2",
+      "anchor": "To Sabinus's slave-boys I have promised everything",
+      "entity_id": "person:q-titurius-sabinus",
+      "note": "Quintus, then serving as Caesar's legate in Gaul, undertakes to reward the slave-couriers (probably of a fellow officer Sabinus) who carried the letters; the man's exact identity is uncertain."
+    }
+  ]
+}

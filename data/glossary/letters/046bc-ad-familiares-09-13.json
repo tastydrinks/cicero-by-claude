@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "To escape the war, he had set out for Spain with M. Varro before the war began",
+      "entity_id": "person:c-subernius",
+      "note": "C. Subernius, a man of Cales and friend of Cicero's intimate Lepta, had gone to Spain in the entourage of the polymath M. Terentius Varro (Pompey's legate there) hoping it would be a safe, war-free province; instead he was trapped when fighting flared up again in 46-45 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "after the defeat of Afranius, none of us thought there would be any further war at all",
+      "entity_id": "person:l-afranius",
+      "note": "L. Afranius, consul 60 and Pompey's loyal legate, commanded the Pompeian forces in Spain until Caesar defeated him and Petreius at Ilerda in 49 BC. With Spain apparently pacified, it seemed a safe refuge --- until the Pompeian revival under Scapula and the younger Pompey reopened the war."
+    },
+    {
+      "loc": "1",
+      "anchor": "the war that was stirred up by Scapula and was afterwards so consolidated by Pompeius",
+      "entity_id": "person:p-scapula",
+      "note": "After Caesar's governors alienated the Spanish provinces, the soldier P. Scapula (with Q. Aponius) raised a fresh revolt in Further Spain in 46 BC; Pompey's elder son Cn. Pompeius then took command, building it into the major war that Caesar crushed at Munda in March 45 BC. The 'Pompeius' here is the son, not the father killed in 48."
+    },
+    {
+      "loc": "2",
+      "anchor": "These two men, then, I commend to you in such terms that I could not commend them with greater care",
+      "entity_id": "person:dolabella",
+      "note": "This is a formal letter of commendatio (recommendation), a staple of Roman patronage. Cicero asks Dolabella, as an influential Caesarian, to use his weight to win pardon and return for the two stranded Cales men --- the kind of favour Cicero, sidelined under the dictatorship, increasingly had to seek through better-connected friends."
+    },
+    {
+      "loc": "4",
+      "anchor": "since Caesar in his generosity has granted them their lives",
+      "entity_id": "person:caesar",
+      "note": "Caesar's clementia had spared the lives of these defeated Pompeians, but they remained barred from returning home; Cicero argues that since their property is too small to be worth confiscating, only the long journey stands between them and their families, so Dolabella may safely secure their recall."
+    }
+  ]
+}

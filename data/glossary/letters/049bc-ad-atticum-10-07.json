@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "This is a contest about kingship",
+      "entity_id": null,
+      "note": "Cicero frames the civil war not as a constitutional struggle but as a contest for sole power (regnum) between two would-be monarchs, casting Pompey as the \"more modest king\" and Caesar as the worse. This stripping-away of republican pretence is one of his bleakest private verdicts on the war."
+    },
+    {
+      "loc": "1",
+      "anchor": "he will win in Sulla's manner and after Sulla's example",
+      "entity_id": "person:sulla",
+      "note": "L. Cornelius Sulla, victor in the civil war of the 80s BC, became byword for victory followed by proscriptions, confiscations, and dictatorship; Cicero dreads that a Caesarian or Pompeian triumph will repeat that bloodshed."
+    },
+    {
+      "loc": "1",
+      "anchor": "rather on Malta or in some other little town like it",
+      "entity_id": "place:melita",
+      "note": "Malta (Melita), a quiet island away from the fighting, recurs in these letters as Cicero's preferred neutral refuge; he hopes to sit out the war there rather than join Pompey's battle-line."
+    },
+    {
+      "loc": "1",
+      "anchor": "the business of Dolabella on the Adriatic side and of Curio on the side of the Strait",
+      "entity_id": null,
+      "note": "Cicero's son-in-law Dolabella commanded for Caesar in the Adriatic, and Curio was heading for the Strait of Messina en route to Sicily; their goodwill might let Cicero slip away by sea. The \"upper sea\" (Adriatic) and the Strait mark the two possible escape routes out of Italy."
+    },
+    {
+      "loc": "3",
+      "anchor": "About the Oppii of Velia",
+      "entity_id": "person:oppii-velienses",
+      "note": "The Oppii of Velia were Atticus's \"messmates\" (contubernales) in that south-Italian town, distinct from the banking Oppii at Rome; Cicero leaves their handling to Atticus and his freedman Philotimus."
+    }
+  ]
+}

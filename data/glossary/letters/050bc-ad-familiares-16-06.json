@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "TVLLIVS ET CICERO ET Q. Q. TIRONI S. P. D.",
+      "note": "The senders are Cicero ('Tullius'), his son young Marcus ('Cicero'), and the two Quintuses ('Q. Q.', the brother Quintus and his son the nephew); 'S. P. D.' = salutem plurimam dicit, 'sends warmest greetings.'"
+    },
+    {
+      "loc": "2",
+      "anchor": "bound for Patrae",
+      "entity_id": "place:patrae",
+      "note": "Patrae (modern Patras) on the north coast of the Peloponnese, where Tiro had been left behind ill in the household of the banker Curius; Cicero routes letters to him through every traveller heading that way."
+    },
+    {
+      "loc": "2",
+      "anchor": "The seventh day before the Ides of November",
+      "note": "7 November 50 BC. Roman dates count inclusively backward from the Ides (the 13th in November), so 'the seventh day before' is the 7th."
+    },
+    {
+      "loc": "2",
+      "anchor": "at Actium",
+      "entity_id": "place:actium",
+      "note": "A harbour at the mouth of the Ambracian Gulf in western Greece, a standard waypoint on the sea route home to Italy; Cicero is on his way back from his Cilician command."
+    }
+  ]
+}

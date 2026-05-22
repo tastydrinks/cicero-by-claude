@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO S. D. APPIO PVLCHRO",
+      "entity_id": "person:appius-claudius-pulcher",
+      "note": "The standard epistolary opener: \"Cicero salutem dicit Appio Pulchro\" --- Cicero sends greeting to Appius Pulcher, the outgoing governor of Cilicia whom Cicero is succeeding."
+    },
+    {
+      "loc": "1",
+      "anchor": "good offices",
+      "note": "Latin officia: the reciprocal services and favours that bound the Roman aristocratic friendship (amicitia); the keeping and repaying of officia was a near-formal obligation."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Ides of August",
+      "note": "The Ides fell on the 13th in August (a short month); the Roman calendar reckoned dates by counting back from the Kalends, Nones, and Ides."
+    },
+    {
+      "loc": "4",
+      "anchor": "the money owed me from the public exchange",
+      "note": "The permutatio publica, a treasury mechanism by which a governor drew his provincial funds through bankers rather than transporting coin, settling the balance by bills of exchange."
+    },
+    {
+      "loc": "5",
+      "anchor": "to preside over the province",
+      "note": "Appius had asked his quaestor Scaevola to hold the province in the interregnum between Appius's departure and Cicero's arrival, so that no Roman command lapsed."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-02",
+  "mentions": [
+    {"loc": "2", "surface": "illam miseram", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "2", "surface": "ea pecunia quae fuit in Asia", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "2", "surface": "that unhappy girl", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "2", "surface": "the money that was in Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "3", "surface": "apud publicanos", "entity_id": "institution:publicani", "in": "lat"},
+    {"loc": "3", "surface": "Chrysippus", "entity_id": "person:chrysippus-vettius", "in": "lat"},
+    {"loc": "3", "surface": "the tax-farmers", "entity_id": "institution:publicani", "in": "eng"},
+    {"loc": "3", "surface": "Chrysippus", "entity_id": "person:chrysippus-vettius", "in": "eng"}
+  ]
+}

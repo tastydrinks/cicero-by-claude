@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I came to Athens on the day before the Ides of October",
+      "entity_id": null,
+      "note": "The Roman date is counted inclusively backward from the Ides (the 13th in October), so 'the day before the Ides' is 14 October. Cicero is on his return voyage from his Cilician governorship."
+    },
+    {
+      "loc": "1",
+      "anchor": "what your letter brought about Caesar's legions",
+      "entity_id": "person:caesar",
+      "note": "Late in 50 BC the dispute over Caesar's surrender of his Gallic legions and command was the flashpoint of the looming civil war; Atticus's news of troop movements alarmed Cicero on his way home."
+    },
+    {
+      "loc": "1",
+      "anchor": "why I had not put my brother in charge of the province",
+      "entity_id": "person:quintus-cicero",
+      "note": "A departing governor had to leave a deputy holding imperium until a successor arrived; Cicero declined to leave his brother Quintus, his legate, in that exposed position and chose his young quaestor Coelius instead."
+    },
+    {
+      "loc": "2",
+      "anchor": "the same god who freed us from the Parthian war",
+      "entity_id": null,
+      "note": "After Crassus's defeat at Carrhae (53 BC) a Parthian invasion of Syria and Cilicia was feared throughout Cicero's governorship; their withdrawal in 50 spared him a war he was ill-equipped to fight."
+    },
+    {
+      "loc": "3",
+      "anchor": "the bitterest possible contest between them",
+      "entity_id": null,
+      "note": "The 'union' (coniunctio) of Pompey and Caesar, cemented by Caesar's daughter Julia's marriage to Pompey, had broken down after her death in 54 and Crassus's in 53; by late 50 the two were heading for open rupture."
+    },
+    {
+      "loc": "4",
+      "anchor": "that he should disband his army",
+      "entity_id": "person:caesar",
+      "note": "The senate's demand that Caesar lay down his command and stand for the consulship in person (rather than in absentia) was the formal issue; Cicero, as a returning proconsul awaiting a triumph, would be asked to vote on it."
+    },
+    {
+      "loc": "4",
+      "anchor": "Speak, Marcus Tullius.",
+      "entity_id": "institution:senate",
+      "note": "Cicero dramatizes being called on by name to give his sententia (opinion) in the senate, where members spoke in order of rank when invited by the presiding magistrate."
+    },
+    {
+      "loc": "4",
+      "anchor": "asked by him in person at Ravenna over the tribune Caelius",
+      "entity_id": "person:caesar",
+      "note": "Ravenna lay in Cisalpine Gaul, Caesar's province, where he wintered; Cicero recalls helping Caesar in the affair of the tribune C. Caelius, putting himself under obligation to Caesar."
+    },
+    {
+      "loc": "4",
+      "anchor": "in that miraculous third consulship of his",
+      "entity_id": "person:pompey",
+      "note": "'Gnaeus our friend' is Pompey, whose sole consulship of 52 BC (here called his 'third') Cicero had supported; the favours owed to Pompey now pull him the opposite way from his debt to Caesar."
+    },
+    {
+      "loc": "5",
+      "anchor": "the two earlier consulships of the Marcelli",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "M. Claudius Marcellus (cos. 51) and his cousin C. Marcellus (cos. 50), hardline optimates who repeatedly pressed for an early end to Caesar's command; Cicero was abroad during their terms and so escaped voting on the question."
+    },
+    {
+      "loc": "5",
+      "anchor": "to manoeuvre something out of the triumph --- to stay outside the city",
+      "entity_id": null,
+      "note": "A general awaiting a triumph had to retain his imperium and so could not cross the pomerium (the city's sacred boundary) until the triumph was held; staying outside Rome gave Cicero a legitimate excuse to avoid voting in the senate."
+    },
+    {
+      "loc": "6",
+      "anchor": "pay back into the treasury about a million sesterces",
+      "entity_id": "institution:aerarium",
+      "note": "Rather than pocket his unspent provincial allowance, Cicero returned roughly a million sesterces to the aerarium (the state treasury in the Temple of Saturn), a scrupulousness that annoyed his own staff, who expected the surplus distributed to them."
+    },
+    {
+      "loc": "7",
+      "anchor": "I judge so both from my friends' letters and from the thanksgiving",
+      "entity_id": null,
+      "note": "A supplicatio (public thanksgiving voted by the senate) for a victory was the normal prelude to a triumph; the unusually generous one decreed for Cicero's Cilician campaign encouraged his hopes of the triumph itself."
+    },
+    {
+      "loc": "7",
+      "anchor": "Cato, on the other hand, both took part in the writing-up",
+      "entity_id": "person:cato-minor",
+      "note": "Cato of Utica helped draft the senatorial decree honouring Cicero yet voted against the thanksgiving itself, praising Cicero's virtue while denying him the formal honour --- a slight Cicero resents (and Caesar exploits)."
+    },
+    {
+      "loc": "9",
+      "anchor": "towards the apparatus of the triumph I hope for",
+      "entity_id": null,
+      "note": "Mounting a triumph was expensive (the procession, spoils, games, and feasting), so Cicero plans to remit ready cash to Atticus to fund the display he hopes to celebrate."
+    }
+  ]
+}

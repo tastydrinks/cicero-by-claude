@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-22",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "after you had come into Italy",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "note": "After the Pompeian defeat at Thapsus (April 46 BC) and his father L. Domitius's death at Pharsalus (48 BC), Cn. Domitius the Younger had returned to Italy and needed Caesar's pardon to resume normal life. Cicero writes before Domitius formally received it."
+    },
+    {
+      "loc": "1",
+      "anchor": "I could find nothing to promise --- I myself being in want of everything",
+      "entity_id": "person:cicero",
+      "note": "Cicero acknowledges his own political impotence under Caesar's rule: as a pardoned Pompeian with no office and no influence at court, he cannot intercede effectively, which makes his letter of consolation necessarily empty of practical comfort."
+    },
+    {
+      "loc": "2",
+      "anchor": "for the sake of the state, more of a charge than you could have made good",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "note": "Cicero gently broaches whether Domitius may have committed to the Pompeian cause beyond what was reasonable for a man of his age and resources; the phrasing is delicate because it could imply either praise (he gave everything) or mild criticism (he overreached). Cicero resolves it toward praise."
+    },
+    {
+      "loc": "2",
+      "anchor": "the limit which fortune herself would have wished to be the boundary of our struggle",
+      "note": "The phrase echoes Stoic consolatory language: the appropriate limit of a man's engagement is set by what Fortune (not his own will) permits. Pharsalus and Thapsus are the 'limits' Fortune imposed; continuing beyond them would be futile."
+    },
+    {
+      "loc": "3",
+      "anchor": "This intention of mine I have conveyed to your mother",
+      "note": "The mother of Cn. Domitius Ahenobarbus (cos. 32) was Porcia, daughter of Cato Uticensis and sister of the younger Porcia (wife of Brutus); Cicero's connection to this network of eminent republicans made him a natural intermediary for the family. Her identity as Cato's daughter gives her independent moral standing with Cicero."
+    }
+  ]
+}

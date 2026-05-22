@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "with regard to the Kalends of Quintilis",
+      "entity_id": null,
+      "note": "The first of Quintilis (July) was a standard quarter-day on which debts and dowry instalments fell due. Cicero must decide whether to risk paying out a large sum (Tullia's dowry to Dolabella) or to \"break off\" the marriage at that deadline."
+    },
+    {
+      "loc": "1",
+      "anchor": "that breaking off you write of",
+      "entity_id": null,
+      "note": "Abruptio: the dissolution of Tullia's marriage to Dolabella, with the financial consequence of recovering or forfeiting the dowry. Cicero leaves the decision to Atticus and to Tullia herself."
+    },
+    {
+      "loc": "3",
+      "anchor": "The money is with Egnatius",
+      "entity_id": "person:l-egnatius-rufus",
+      "note": "L. Egnatius Rufus, a banker through whom Cicero held funds; Cicero prefers to leave the deposit untouched rather than risk moving it in the unsettled situation."
+    },
+    {
+      "loc": "3",
+      "anchor": "the man I am with is also in straits",
+      "entity_id": "person:pompey",
+      "note": "Pompey, in whose camp Cicero then was; Cicero had lent him a large sum, expecting it to redound to his credit once the war was won. Pompey's defeat at Pharsalus (August 48) made the loan a dead loss."
+    },
+    {
+      "loc": "3",
+      "anchor": "On the Ides of June, from the camp",
+      "entity_id": null,
+      "note": "The letter is dated from Pompey's military camp in Greece (Dyrrachium or Thessaly), shortly before the decisive campaign. Cicero, ill and disillusioned, would soon withdraw and return to Italy."
+    }
+  ]
+}

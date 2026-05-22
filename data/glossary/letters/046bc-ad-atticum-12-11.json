@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "what we are to do about the Senate",
+      "entity_id": "institution:senate",
+      "note": "Cicero, having largely withdrawn from public life under Caesar's dictatorship, deliberates with Atticus over whether and how often to attend meetings of the Senate. The question of attendance recurs in the morbus-excuse letters of this period."
+    },
+    {
+      "loc": "1",
+      "anchor": "Sulpicius's Postumia",
+      "entity_id": "person:postumia",
+      "note": "Postumia was the wife of the jurist Servius Sulpicius Rufus; \"Sulpicius's Postumia\" identifies her by her husband. Her visit is reported in the context of a possible remarriage match for Cicero after his divorce from Terentia."
+    },
+    {
+      "loc": "1",
+      "anchor": "Pompeius Magnus's daughter",
+      "entity_id": null,
+      "note": "Pompeia, the daughter of Pompey the Great, was among the women floated as a possible new wife for Cicero in 46 BC; Cicero says he is giving the idea no thought. She has no separate entry in the registry."
+    },
+    {
+      "loc": "1",
+      "anchor": "In her little upsets",
+      "entity_id": "person:attica-pomponia",
+      "note": "Attica, the young daughter of Atticus, was ill through these early letters; \"little upsets\" renders \"commotiunculae,\" minor feverish bouts. Cicero closes with the Greek \"sumpaschō,\" \"I share the feeling.\""
+    }
+  ]
+}

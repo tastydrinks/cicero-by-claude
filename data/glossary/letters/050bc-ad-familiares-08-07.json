@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a courier of the tax-farmers",
+      "note": "The publicani (companies of tax-farmers operating in the provinces) ran their own fast courier network between Rome and the East, which private correspondents like Caelius routinely used to reach a governor."
+    },
+    {
+      "loc": "2",
+      "anchor": "betrothed himself to Orestilla's daughter",
+      "entity_id": "person:orestilla",
+      "note": "Orestilla is probably Aurelia Orestilla, once the wife of Catiline; her daughter's marriage to young Cornificius is the kind of society news Cicero said he did not want but (Caelius teases) certainly did."
+    },
+    {
+      "loc": "2",
+      "anchor": "she is to marry D. Brutus",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Decimus Junius Brutus Albinus, later one of Caesar's assassins; Paula Valeria's hasty divorce was arranged so she could marry him."
+    },
+    {
+      "loc": "2",
+      "anchor": "a commander-in-chief should be obliged to ask each man in turn",
+      "entity_id": "office:imperator",
+      "note": "Caelius mock-relishes the picture of Cicero, saluted imperator by his troops after his Cilician campaign, having to go round asking who the adulteress was --- deflating the grand military title with low gossip."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "through Balbus and Oppius above all",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "Lucius Cornelius Balbus and Gaius Oppius were Caesar's two most trusted civilian agents, running his affairs and correspondence in his absence. Cicero relied on them as the channel through which Caesar's goodwill toward him could be maintained."
+    },
+    {
+      "loc": "2",
+      "anchor": "Fufius is there, my bitterest enemy",
+      "entity_id": "person:q-fufius-calenus",
+      "note": "Quintus Fufius Calenus, a partisan of Caesar who served as his legate, was a long-standing political opponent of Cicero. His presence in Caesar's entourage was a danger to Cicero's appeals for pardon."
+    },
+    {
+      "loc": "2",
+      "anchor": "Quintus has sent his son not only as advocate for himself but as accuser of me",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "Cicero's brother Quintus had sided with him against Caesar but now broke bitterly with him, sending his son (Cicero's nephew, young Quintus) to plead his own case before Caesar while denouncing his uncle. This family rupture is the recurring wound of the Brundisium letters."
+    }
+  ]
+}

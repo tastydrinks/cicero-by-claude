@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Nones of April",
+      "note": "A Roman calendar date: the Nones fell on the 5th of most months (the 7th in March, May, July, and October), so this is 5 April; Romans dated letters by kalends, nones, and ides."
+    },
+    {
+      "loc": "1",
+      "anchor": "your acquittal on the \\textit{maiestas} charge",
+      "entity_id": "law:lex-de-maiestate",
+      "note": "Maiestas was the crime of treason or impairing the sovereign majesty of the Roman people; Appius, back from governing Cilicia, was prosecuted on this charge and acquitted in 50 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "\\textit{ambitus} or \\textit{maiestas}",
+      "note": "The two standing criminal charges Appius faced: ambitus (electoral bribery) and maiestas (treason). Cicero's point is that an ambitus charge would at least imply real wrongdoing, whereas the maiestas charge was baseless."
+    },
+    {
+      "loc": "2",
+      "anchor": "is what Sulla meant it to be",
+      "entity_id": "person:sulla",
+      "note": "The dictator Sulla's lex Cornelia de maiestate (81 BC) defined the offence broadly; Cicero says Sulla intended it precisely so that public men could not be assailed at will, the opposite of how it was used against Appius."
+    },
+    {
+      "loc": "3",
+      "anchor": "defended by the commonwealth itself",
+      "note": "A flattering claim that the res publica, not merely individual advocates, had rallied to Appius's defence at his trial, treating his acquittal as a public necessity in a time of few capable leaders."
+    },
+    {
+      "loc": "4",
+      "anchor": "the books on augural law",
+      "entity_id": "office:augur",
+      "note": "Appius, like Cicero, was an augur, and was composing a treatise on augural science (the Auguralis disciplina); Cicero asks him to set it aside for their shared leisure."
+    },
+    {
+      "loc": "5",
+      "anchor": "as Aristarchus pronounces any line he does not approve to be not Homer's",
+      "entity_id": "person:aristarchus-grammaticus",
+      "note": "Aristarchus of Samothrace, the Alexandrian critic famous for marking (athetizing) Homeric verses he judged spurious; Cicero jokes that Appius may likewise disown any clumsy letter as not really his."
+    },
+    {
+      "loc": "5",
+      "anchor": "think much of your great-grandfather",
+      "note": "Appius's ancestor Appius Claudius Caecus, the celebrated censor of 312 BC (builder of the Appian Way and aqueduct), held up as the model Appius should emulate in his own censorship."
+    }
+  ]
+}

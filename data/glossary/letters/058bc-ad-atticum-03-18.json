@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Varro",
+      "entity_id": "person:m-terentius-varro",
+      "note": "M. Terentius Varro of Reate, the polymath and a close associate of Pompey. Here he serves as the channel reporting Pompey's intentions toward Cicero's recall."
+    },
+    {
+      "loc": "1",
+      "anchor": "Pompey would certainly take up our cause",
+      "entity_id": "person:pompey",
+      "note": "Pompey's backing was the pivot of Cicero's hopes for recall, but in autumn 58 he held off pending Caesar's assent. His eventual support in 57 proved decisive."
+    },
+    {
+      "loc": "1",
+      "anchor": "the letter he was waiting for from Caesar",
+      "entity_id": "person:caesar",
+      "note": "Pompey would not move on Cicero's recall without Caesar's agreement; Caesar was campaigning in Gaul and his correspondence governed the timing. Cicero's fate hinged on the alignment of the two dynasts."
+    },
+    {
+      "loc": "1",
+      "anchor": "appoint a man to manage the case",
+      "entity_id": null,
+      "note": "An actor: an agent or proposer who would formally push the recall bill through the magistrates and assemblies."
+    },
+    {
+      "loc": "1",
+      "anchor": "after the elections",
+      "entity_id": null,
+      "note": "The consular and other elections for 57 BC, after which the incoming, friendlier magistrates could take up Cicero's cause."
+    }
+  ]
+}

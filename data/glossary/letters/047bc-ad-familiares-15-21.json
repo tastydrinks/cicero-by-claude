@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-21",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "when as quaestor you refused to obey a tribune of the plebs",
+      "entity_id": "person:c-trebonius",
+      "note": "Trebonius was quaestor in 60 BC; Cicero recalls his stand on the optimate side, refusing a tribune's order even when his fellow quaestor complied. The episode is otherwise unrecorded."
+    },
+    {
+      "loc": "2",
+      "anchor": "had you not been suddenly dispatched to Spain",
+      "note": "Trebonius was sent as Caesar's legate to Further Spain in 47 BC to deal with the unrest there; the abrupt posting cut short his plan to meet the returning Cicero at Brundisium."
+    },
+    {
+      "loc": "4",
+      "anchor": "I sent that letter to Calvus",
+      "entity_id": "person:licinius-calvus",
+      "note": "C. Licinius Macer Calvus, orator and neoteric poet (d. c. 47 BC) and leader of the Atticist movement; Cicero refers to a now-lost letter in which he had praised Calvus's talent, part of their debate over oratorical style."
+    },
+    {
+      "loc": "4",
+      "anchor": "we write in one way what we mean only for those to whom we send it",
+      "note": "Cicero distinguishes the private letter from the published one: he had praised Calvus warmly in a private note never meant to circulate, and would not have done so for a wider readership."
+    }
+  ]
+}

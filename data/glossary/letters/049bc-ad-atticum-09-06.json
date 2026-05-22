@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "gone over to Curius by the Via Minucia",
+      "entity_id": "place:via-minucia",
+      "note": "The Via Minucia was a road running from Beneventum through the Apennines toward the Adriatic coast, the line of march for troops moving on Brundisium. The name of the commander the six cohorts joined --- given here as Curius --- is textually uncertain and may be a corruption of Curio, Caesar's lieutenant."
+    },
+    {
+      "loc": "1",
+      "anchor": "the toga of manhood at Arpinum",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "The toga virilis (toga of manhood) was assumed by a Roman boy, usually around age fifteen or sixteen, to mark his coming of age; Cicero's son Marcus was due to take it. Cicero had meant to hold the ceremony at the family's ancestral Arpinum, and thought of using it as a pretext to avoid meeting Caesar at Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "in the territory of Cosa",
+      "entity_id": "place:consa",
+      "note": "Cosa was a coastal town of Etruria; Domitius, reported there and ready to sail, could make either for Spain or for Pompey. Cicero approves only the latter course, for joining Pompey kept him out of the orbit of detested Caesarians like Curtius."
+    },
+    {
+      "loc": "3",
+      "anchor": "Pompey has crossed the sea with all the soldiers",
+      "entity_id": "person:pompey",
+      "note": "This despatch, quoted verbatim, is the climactic news of the letter: Pompey's successful evacuation from Brundisium across the Adriatic on 4 March 49, with some thirty thousand men, both consuls, the tribunes, and the senators of his party. Its arrival turns Cicero's anxiety into grief at having been left behind."
+    },
+    {
+      "loc": "3",
+      "anchor": "Lucius Metellus, tribune of the people",
+      "entity_id": "person:l-caecilius-metellus-pr71",
+      "note": "A tribune of the plebs of 49 named L. Caecilius Metellus, who soon afterward famously tried to stop Caesar plundering the treasury at Rome. He receives news of the crossing from Clodia, his mother-in-law, who had herself sailed with the Pompeians."
+    },
+    {
+      "loc": "6",
+      "anchor": "the son of Quintus Titinius is with Caesar",
+      "entity_id": "person:pontius-titinianus",
+      "note": "The son of the financier Q. Titinius (later called Pontius Titinianus) had attached himself to Caesar; Cicero cites him sourly as a sample of \"what sort of people\" now make up the winning side. Furnius, Caesar's envoy, brings the report along with Caesar's overly warm thanks to Cicero."
+    }
+  ]
+}

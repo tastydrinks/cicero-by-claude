@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-14",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO IMP.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "C. CASSIO PROQ.", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "M. Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. Cassius", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "M. Fadium", "entity_id": "person:m-fadius", "in": "lat"},
+    {"loc": "1", "surface": "M. Fadius", "entity_id": "person:m-fadius", "in": "eng"},
+    {"loc": "2", "surface": "Fadio", "entity_id": "person:m-fadius", "in": "lat"},
+    {"loc": "2", "surface": "Fadius", "entity_id": "person:m-fadius", "in": "eng"},
+    {"loc": "4", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "4", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "5", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "5", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "5", "surface": "populus", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "5", "surface": "the people", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "5", "surface": "Paullum nostrum", "entity_id": "person:l-aemilius-paulus-cos50", "in": "lat"},
+    {"loc": "5", "surface": "our Paullus", "entity_id": "person:l-aemilius-paulus-cos50", "in": "eng"},
+    {"loc": "5", "surface": "Curio", "entity_id": "person:c-scribonius-curio-tr", "in": "lat"},
+    {"loc": "5", "surface": "Curio", "entity_id": "person:c-scribonius-curio-tr", "in": "eng"},
+    {"loc": "5", "surface": "Furnius", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "5", "surface": "Furnius", "entity_id": "person:furnius", "in": "eng"},
+    {"loc": "6", "surface": "Bruto tuo", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "6", "surface": "your Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "6", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "6", "surface": "Rome", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

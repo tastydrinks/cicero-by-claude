@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO S. D. CORNIFICIO CONLEGAE.",
+      "entity_id": "office:augur",
+      "note": "S. D. is salutem dicit, \"sends greetings\". CONLEGAE (\"to my colleague\") marks Cornificius as Cicero's fellow-member of the college of augurs, the priests who took the auspices; the augurate was a lifelong honour and the shared title carries real warmth."
+    },
+    {
+      "loc": "1",
+      "anchor": "From Syria some rather disquieting news",
+      "entity_id": "place:syria",
+      "note": "The unrest in Syria is the revolt of Q. Caecilius Bassus, who had seized the province from Caesar's governor; it threatened the neighbouring command Cornificius was about to take up."
+    },
+    {
+      "loc": "2",
+      "anchor": "On the Best Kind of Oratory",
+      "entity_id": "text:cicero-de-optimo-genere-oratorum",
+      "note": "Cicero's short treatise De Optimo Genere Oratorum, written as a preface to his (now lost) translations of the rival speeches of Demosthenes and Aeschines on the Crown, arguing for the Attic plain style as the orator's ideal."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a second self to me",
+      "entity_id": null,
+      "note": "Alter ego: Cicero's claim that Caesar is so close a friend that he treats Cicero's dependants as his own. The phrase is part of the elaborate courtesy of a letter of recommendation (commendatio) to the most powerful man Cicero knows."
+    },
+    {
+      "loc": "2",
+      "anchor": "king of Gaul",
+      "entity_id": "person:itfius-corrupt",
+      "note": "A joking line Cicero quotes from Caesar's own letter (the man's name is corrupt in the manuscripts): Caesar offers to make Cicero's nominee 'king of Gaul,' i.e. to grant any favour asked. The hyperbole shows how freely Caesar dispensed patronage to Cicero's circle."
+    },
+    {
+      "loc": "2",
+      "anchor": "hand him over to Lepta",
+      "entity_id": "person:q-paconius-lepta",
+      "note": "Q. Paconius Lepta, a friend of Cicero (later his praefectus fabrum in Cilicia); here a name in Caesar's joke about disposing of recommended men."
+    },
+    {
+      "loc": "3",
+      "anchor": "leads the front rank in civil law",
+      "entity_id": null,
+      "note": "Familiam ducit in iure civili: Trebatius is a leading expert in the ius civile, the body of Roman private law governing citizens' contracts, property, and inheritance. This jurisprudential reputation is the running theme Cicero teases him about throughout the cluster."
+    },
+    {
+      "loc": "3",
+      "anchor": "neither tribunate nor prefecture",
+      "entity_id": null,
+      "note": "The two standard rewards a commander could give a young man on his staff: a military tribunate (tribunatus militum) or a prefecture (praefectura). Cicero pointedly asks for neither, only Caesar's goodwill."
+    },
+    {
+      "loc": "3",
+      "anchor": "from hand to hand",
+      "entity_id": null,
+      "note": "De manu in manum: a phrase from Roman law and daily speech for a direct, formal handing-over (as of property mancipated by the rite of mancipatio). Cicero, addressing the jurist Trebatius, uses a legal idiom to deliver him personally into Caesar's keeping."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-08",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CASSIO", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "CASSIO", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "Lepidi", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "1", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "1", "surface": "D. Bruto", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. Brutus", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "Planco", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "M. Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "M. Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "Dolabella", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "2", "surface": "Dolabella", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "2", "surface": "p. R.", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "2", "surface": "the Roman People", "entity_id": "institution:populus-romanus", "in": "eng"}
+  ]
+}

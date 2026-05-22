@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-11",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO AEDILI CVRVLI",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "imp.",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "aedili",
+      "entity_id": "office:aedile",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO AEDILI CVRVLI",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "aedile",
+      "entity_id": "office:aedile",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cariam",
+      "entity_id": "place:caria",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Patisco",
+      "entity_id": "person:patiscus-cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "aedilitas tua",
+      "entity_id": "office:aedile",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Megalensibus",
+      "entity_id": "festival:megalesia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caria",
+      "entity_id": "place:caria",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Patiscus",
+      "entity_id": "person:patiscus-cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Your aedileship",
+      "entity_id": "office:aedile",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Megalesia",
+      "entity_id": "festival:megalesia",
+      "in": "eng"
+    }
+  ]
+}

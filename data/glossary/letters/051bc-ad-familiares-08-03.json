@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "How sore do you think your rival for the augurate must be",
+      "entity_id": "institution:college-of-augurs",
+      "note": "An augural vacancy (probably that left by Hortensius's expected death) was being filled; Cicero was a candidate, and Hirrus, Caelius's own electoral rival, was a rival of Cicero's for this priesthood. The augurs interpreted the will of the gods from bird-signs."
+    },
+    {
+      "loc": "2",
+      "anchor": "your freedman Philotimus and the estate of Milo",
+      "entity_id": "person:milo",
+      "note": "After Milo's conviction for the murder of Clodius and his exile to Massilia in 52 BC, his property was sold off; Cicero's freedman Philotimus had bought it up, and Caelius is managing the awkward business of settling with Milo's creditors and connections."
+    },
+    {
+      "loc": "3",
+      "anchor": "compose some treatise for us",
+      "note": "Caelius asks Cicero to write a literary work dedicated to their friendship; such commissions and dedications were a normal currency of Roman aristocratic amicitia."
+    },
+    {
+      "loc": "3",
+      "anchor": "\\textit{[Greek: didaskalia]}",
+      "note": "Greek didaskalia, 'instruction' or 'teaching'; Caelius (showing off a little) asks for a work with some genuinely instructive content, the sort that stays in circulation."
+    }
+  ]
+}

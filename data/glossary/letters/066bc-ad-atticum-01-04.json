@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the month of Quintilis",
+      "entity_id": null,
+      "note": "Quintilis was the old Roman name for the fifth month (counting from March), our July; it was later renamed Iulius in honour of Julius Caesar. Atticus had put off his arrival until then."
+    },
+    {
+      "loc": "1",
+      "anchor": "my brother Quintus's election",
+      "entity_id": "person:quintus-cicero",
+      "note": "Quintus Cicero was canvassing for the aedileship (held 65 BC); Cicero urges Atticus to come in time for the vote (comitia). Aediles were elected magistrates in charge of public works, games, and the grain supply."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Acutilian quarrel",
+      "entity_id": "person:acutilius",
+      "note": "A protracted business dispute between Cicero and one Acutilius that Atticus had undertaken to settle on Cicero's behalf in Greece. Cicero repeatedly nags him to finish it in the early letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "My intercession",
+      "entity_id": null,
+      "note": "Intercessio here is Cicero's promised legal intervention or backing on Atticus's behalf, kept ready for use. (The same word also denoted a magistrate's formal veto.)"
+    },
+    {
+      "loc": "2",
+      "anchor": "have made an end of Gaius Macer",
+      "entity_id": "person:c-licinius-macer",
+      "note": "As praetor presiding over the extortion court in 66 BC, Cicero secured the conviction of the historian and ex-tribune C. Licinius Macer. The condemnation of a popularis politician won Cicero great credit with the voters in his consular canvass."
+    },
+    {
+      "loc": "3",
+      "anchor": "an ornament fit for my Academy",
+      "entity_id": "place:academia-athens",
+      "note": "Cicero named the gymnasium-and-garden at his Tusculan villa the 'Academy' after Plato's school at Athens, and stocked it with appropriate Greek statuary. The Hermathena was a fitting ornament for such a space."
+    },
+    {
+      "loc": "3",
+      "anchor": "Minerva is the singular emblem of that gymnasium",
+      "entity_id": "god:minerva",
+      "note": "Hermes (Mercury) was the standard tutelary figure of any Greek gymnasium, so 'common to all,' whereas Athena/Minerva, goddess of wisdom, was the distinctive patron Cicero chose for his own scholarly retreat."
+    },
+    {
+      "loc": "3",
+      "anchor": "they are at the Formian villa",
+      "entity_id": "place:formiae",
+      "note": "Cicero owned several country houses; here statues await transfer from his villa at Formiae (on the Campanian coast) to the Tusculan one near Rome. Adorning villas with Greek art was a mark of cultivated Roman wealth."
+    },
+    {
+      "loc": "3",
+      "anchor": "I outdo Crassus in wealth",
+      "entity_id": "person:crassus",
+      "note": "Marcus Licinius Crassus was the proverbially richest man in Rome; Cicero jokes that owning Atticus's library would make him richer still. Crassus would shortly form the so-called First Triumvirate with Pompey and Caesar."
+    }
+  ]
+}

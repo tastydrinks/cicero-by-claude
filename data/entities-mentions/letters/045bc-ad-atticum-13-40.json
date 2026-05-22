@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-40",
+  "mentions": [
+    {"loc": "1", "surface": "nuntiat Brutus illum ad bonos viros", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "quod vidi in Parthenone", "entity_id": "place:parthenon", "in": "lat"},
+    {"loc": "1", "surface": "Ahalam et Brutum", "entity_id": "person:c-servilius-ahala", "in": "lat"},
+    {"loc": "1", "surface": "et Brutum", "entity_id": "person:l-iunius-brutus", "in": "lat"},
+    {"loc": "1", "surface": "ne etiam Brutus eum diligeret", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Brutus reports that the man is coming over", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "that I saw in the Parthenon", "entity_id": "place:parthenon", "in": "eng"},
+    {"loc": "1", "surface": "Ahala and Brutus", "entity_id": "person:c-servilius-ahala", "in": "eng"},
+    {"loc": "1", "surface": "and Brutus", "entity_id": "person:l-iunius-brutus", "in": "eng"},
+    {"loc": "1", "surface": "I was afraid Brutus too was growing fond of him", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "pater hodie ad Saxa", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "the father is going today", "entity_id": "person:quintus-cicero", "in": "eng"}
+  ]
+}

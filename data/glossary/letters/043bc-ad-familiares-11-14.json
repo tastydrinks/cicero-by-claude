@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the board of ten",
+      "entity_id": null,
+      "note": "The decemviri (\"board of ten\") were a senatorial commission of ten men proposed in 43 BC to manage land allotments and rewards for the soldiers and commanders of the Mutina campaign. Cicero had promoted the measure in the Senate."
+    },
+    {
+      "loc": "1",
+      "anchor": "those vehement exertions of mine seem now like so much shadow-boxing",
+      "entity_id": null,
+      "note": "Cicero renders his own effort by the Greek skiamachia, literally fighting with shadows: fruitless exertion against an unreal opponent. He means that the Senate's collapse has made his Philippic campaign against Antony look like wasted energy."
+    },
+    {
+      "loc": "3",
+      "anchor": "on your birthday",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Decimus Brutus's birthday happened to fall around the relief of Mutina (late April 43 BC), so that the victory and his birthday were celebrated together at Rome."
+    },
+    {
+      "loc": "3",
+      "anchor": "in the letter you sent on the Ides of May",
+      "entity_id": null,
+      "note": "The Ides of May fell on 15 May. Decimus had written reporting Plancus's news that Lepidus was refusing to admit Antony to his province --- a hope that proved false when Lepidus joined Antony at the end of the month."
+    }
+  ]
+}

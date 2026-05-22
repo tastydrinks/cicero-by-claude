@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Thessalonica",
+      "entity_id": "place:thessalonica",
+      "note": "The Macedonian city where Cicero passed most of his exile, sheltered by the quaestor Plancius. He now resolves to leave it for Epirus."
+    },
+    {
+      "loc": "1",
+      "anchor": "into Asia",
+      "entity_id": "place:asia-province",
+      "note": "The wealthy Roman province of Asia (western Asia Minor). Cicero refuses to retreat there, both from distaste for crowds and to stay near Italy in case of recall."
+    },
+    {
+      "loc": "1",
+      "anchor": "new magistrates",
+      "entity_id": null,
+      "note": "The incoming magistrates for 57 BC, who would enter office in January and on whom Cicero's hopes of recall now rested. He wants to remain close enough to act if they move."
+    },
+    {
+      "loc": "1",
+      "anchor": "Epirus",
+      "entity_id": "place:epirus",
+      "note": "The region of north-western Greece where Atticus held an estate near Buthrotum, with its own harbour. Its port would let Cicero sail quickly for Italy if recall came."
+    },
+    {
+      "loc": "2",
+      "anchor": "Sestius",
+      "entity_id": "person:sestius-tribune",
+      "note": "P. Sestius, tribune-designate and then tribune of 57 BC, one of the chief workers for Cicero's recall. His promises are among the hopes Cicero says he will not abandon."
+    },
+    {
+      "loc": "2",
+      "anchor": "Terentia",
+      "entity_id": "person:terentia",
+      "note": "Cicero's wife, who bore much of the burden of the exile at Rome. Her hope is one of the ties holding him to life."
+    },
+    {
+      "loc": "2",
+      "anchor": "little Tullia",
+      "entity_id": "person:tullia",
+      "note": "Cicero's daughter, called by the affectionate diminutive Tulliola in the Latin. Her supplication is among the bonds that keep him from despair."
+    },
+    {
+      "loc": "3",
+      "anchor": "T. Pomponius",
+      "entity_id": "person:atticus",
+      "note": "Atticus addressed by his formal name, Titus Pomponius. Cicero uses the solemn vocative as he turns to his most urgent entreaties."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Kalends of October",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; dates were counted backward from them. The sixteenth day before the Kalends of October is 16 September."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "He summoned by letter, from the municipalities, the ten leading citizens and the boards of four",
+      "entity_id": "office:quattuorvir",
+      "note": "The decem primi were the ten senior members of a town council, and the quattuorviri were the four chief magistrates of an Italian municipality. Antony, as Caesar's deputy in Italy, summons these local notables to do business and then keeps them waiting, a display of his casual arrogance."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Neapolitans and the Cumans had come (since Caesar is angry with them)",
+      "entity_id": "place:neapolis",
+      "note": "Naples and Cumae were neighbouring towns on the Bay of Naples; their delegations had earned Caesar's displeasure, probably for backing Pompey. Cicero's seaside villa lay in this district, so the local politics touched him directly."
+    },
+    {
+      "loc": "1",
+      "anchor": "Today he has decided to cross over to Aenaria to promise the exiles their return",
+      "entity_id": "place:aenaria",
+      "note": "Aenaria is the island of Ischia off the Bay of Naples; men exiled under earlier laws had taken refuge there. Antony's promise of recall to them was a populist gesture in Caesar's name."
+    },
+    {
+      "loc": "2",
+      "anchor": "Servius is said to have lodged at Minturnae on the day before the Nones of May",
+      "entity_id": "place:minturnae",
+      "note": "Minturnae was a town on the Via Appia near the mouth of the Liris, a natural overnight stop for a traveller moving down the coast toward Cicero. \"The day before the Nones of May\" is 6 May by the Roman backward count."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Liternum estate",
+      "entity_id": "place:liternum",
+      "note": "Liternum was a coastal town in Campania north of Cumae, famous as the place of Scipio Africanus's self-imposed retirement; here it denotes a private estate where Servius breaks his journey."
+    }
+  ]
+}

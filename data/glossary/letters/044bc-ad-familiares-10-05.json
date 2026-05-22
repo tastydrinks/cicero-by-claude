@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Two letters from you have reached me of the same content",
+      "entity_id": null,
+      "note": "Sending duplicate copies of a letter by separate carriers was standard practice to guard against loss on the long, insecure route between Gaul and Rome; Cicero reads it as a mark of Plancus's care."
+    },
+    {
+      "loc": "3",
+      "anchor": "brigands excepted",
+      "entity_id": "person:antony",
+      "note": "\"Brigands\" (latrones) is Cicero's standing term of abuse for Antony and his armed partisans, casting them as outlaws rather than legitimate magistrates."
+    },
+    {
+      "loc": "3",
+      "anchor": "I advise you as a son",
+      "entity_id": "person:munatius-plancus",
+      "note": "Cicero, some twenty years Plancus's senior and tied to his family, claims a quasi-paternal authority; the triple figure (as a son, as myself, as your closest friend) marks the warmth and urgency of the appeal."
+    }
+  ]
+}

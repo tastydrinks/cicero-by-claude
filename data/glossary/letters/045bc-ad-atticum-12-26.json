@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-26",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "he will still be here by the tenth before the Kalends",
+      "entity_id": null,
+      "note": "Roman dates were counted inclusively backward from three fixed points; the 'tenth before the Kalends' of the following month falls on 23 March (counting both endpoints). Cicero is fixing when Sicca will reach him at Astura."
+    },
+    {
+      "loc": "2",
+      "anchor": "About what you write of Nicias",
+      "entity_id": "person:nicias-cous",
+      "note": "Nicias of Cos was a learned grammarian and literary companion of Cicero's circle. Cicero declines his company not from coolness but because his own grief makes him poor host to so delicate and fastidious a guest."
+    }
+  ]
+}

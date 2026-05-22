@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-12",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "APPIO PVLCHRO", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "1", "surface": "iudicio ambitus", "entity_id": "law:lex-de-ambitu", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "APPIO PVLCHRO", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "1", "surface": "the verdict in the \\textit{ambitus} case", "entity_id": "law:lex-de-ambitu", "in": "eng"},
+    {"loc": "2", "surface": "Tulliaeque meae", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "2", "surface": "my Tullia", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "4", "surface": "Sidam", "entity_id": "place:sida", "in": "lat"},
+    {"loc": "4", "surface": "Q. Servilius", "entity_id": "person:q-servilius-courier", "in": "lat"},
+    {"loc": "4", "surface": "Servilio", "entity_id": "person:q-servilius-courier", "in": "lat"},
+    {"loc": "4", "surface": "Side", "entity_id": "place:sida", "in": "eng"},
+    {"loc": "4", "surface": "Q. Servilius", "entity_id": "person:q-servilius-courier", "in": "eng"},
+    {"loc": "4", "surface": "Servilius", "entity_id": "person:q-servilius-courier", "in": "eng"}
+  ]
+}

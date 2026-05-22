@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-45",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the one to Diochares",
+      "entity_id": "person:diochares",
+      "note": "Diochares, a freedman of Caesar who served as a courier of his dispatches. The letter to him is being used here to date Caesar's expected return to Rome."
+    },
+    {
+      "loc": "1",
+      "anchor": "before the Roman Games",
+      "entity_id": null,
+      "note": "The Ludi Romani, the great annual games in honour of Jupiter Optimus Maximus, held in September. Their fixed place in the calendar makes them a convenient marker for dating Caesar's arrival."
+    },
+    {
+      "loc": "1",
+      "anchor": "About Baebius",
+      "entity_id": "person:baebius",
+      "note": "Baebius, a neighbour of Cicero's whose affairs Atticus is to handle, paired here with the neighbour Egnatius. Otherwise little known."
+    },
+    {
+      "loc": "1",
+      "anchor": "I see that holidays have been added to my calendar",
+      "entity_id": null,
+      "note": "Feriae, official days of religious rest on which public business was suspended; Caesar's calendar reforms and decreed thanksgivings kept adding to them. Cicero wants to know how many, since they bear on when work and meetings can resume."
+    },
+    {
+      "loc": "2",
+      "anchor": "Torquatus's case",
+      "entity_id": "person:l-manlius-torquatus",
+      "note": "Lucius Manlius Torquatus, the Epicurean who speaks for that school in Cicero's De Finibus; some business of his keeps Cicero from travelling to Puteoli."
+    },
+    {
+      "loc": "3",
+      "anchor": "a great weight of silver",
+      "entity_id": null,
+      "note": "Part of an estate to be divided among heirs --- coined money counted out (nummi) together with silver plate (argentum), the standard form of Roman movable wealth. The passage concerns the settlement of an inheritance."
+    },
+    {
+      "loc": "3",
+      "anchor": "more devoted man than Vestorius",
+      "entity_id": "person:c-vestorius",
+      "note": "Gaius Vestorius, a banker and businessman of Puteoli who handled financial affairs for Cicero and Atticus on the Bay of Naples. He is the natural agent to manage the auction and inheritance business here."
+    }
+  ]
+}

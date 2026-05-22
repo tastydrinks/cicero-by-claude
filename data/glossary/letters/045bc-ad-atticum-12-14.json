@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "three are needed",
+      "entity_id": null,
+      "note": "Three sworn witnesses were required to certify a man's plea of illness (\"morbus\") excusing him from a public or priestly obligation. Cicero names Septimius, Laenas, and Statilius as the trio."
+    },
+    {
+      "loc": "2",
+      "anchor": "Junius has called upon you",
+      "entity_id": null,
+      "note": "An otherwise unidentified Junius has approached Atticus claiming Cicero stood surety on a debt, possibly connected with Cornificius's affairs. No firm prosopographical match exists for this Junius in the registry."
+    },
+    {
+      "loc": "2",
+      "anchor": "I am said to have stood surety",
+      "entity_id": null,
+      "note": "To \"stand surety\" (spondere) was to pledge oneself liable for another's debt; Cicero wants to know the date and whether the guarantee was for the father or the son before he accepts the claim. The dispute touches Cornificius, a man wealthy enough to cover it himself."
+    },
+    {
+      "loc": "2",
+      "anchor": "Appuleius the auctioneer",
+      "entity_id": "person:m-appuleius",
+      "note": "A \"praediator\" was a dealer in mortgaged property forfeited to the state, who handled the public auction of such estates and the sureties pledged on them. This Appuleius is the same man whose excuse business runs through these letters, here acting in his property-broker capacity."
+    },
+    {
+      "loc": "3",
+      "anchor": "consoled myself, by writing, in my own person",
+      "entity_id": null,
+      "note": "Cicero refers to his lost \"Consolatio,\" a treatise he composed to console himself for Tullia's death --- an unprecedented act, he claims, of self-consolation in writing. He promises to send Atticus a fair copy once the copyists finish it."
+    },
+    {
+      "loc": "4",
+      "anchor": "when Pansa is to set out",
+      "entity_id": "person:vibius-pansa",
+      "note": "C. Vibius Pansa, a Caesarian and future consul of 43 BC, was about to leave Rome (probably for a provincial command); Cicero wants the date so he can time his own movements. Pansa's departure is a recurring travel marker in these letters."
+    }
+  ]
+}

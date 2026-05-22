@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-21",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "C. TREBONIO", "entity_id": "person:c-trebonius", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. TREBONIO", "entity_id": "person:c-trebonius", "in": "eng"},
+    {"loc": "2", "surface": "quaestor", "entity_id": "office:quaestor", "in": "lat"},
+    {"loc": "2", "surface": "consulum", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "2", "surface": "Hispaniam", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "2", "surface": "quaestor", "entity_id": "office:quaestor", "in": "eng"},
+    {"loc": "2", "surface": "consuls", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "2", "surface": "Spain", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "4", "surface": "Calvo", "entity_id": "person:licinius-calvus", "in": "lat"},
+    {"loc": "4", "surface": "Calvus", "entity_id": "person:licinius-calvus", "in": "eng"}
+  ]
+}

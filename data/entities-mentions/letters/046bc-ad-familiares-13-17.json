@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-17",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SER. SVLPICIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO SULPICIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "M'. Curius", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "1", "surface": "M'. Curius", "entity_id": "person:mn-curius-patrensis", "in": "eng"},
+    {"loc": "1", "surface": "Patris negotiatur", "entity_id": "place:patrae", "in": "lat"},
+    {"loc": "1", "surface": "carries on business at Patrae", "entity_id": "place:patrae", "in": "eng"},
+    {"loc": "1", "surface": "Patris", "entity_id": "place:patrae", "in": "lat"},
+    {"loc": "1", "surface": "at Patrae", "entity_id": "place:patrae", "in": "eng"},
+    {"loc": "1", "surface": "hoc miserrimo bello", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "this most wretched war", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "1", "surface": "Attici nostri", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "our friend Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "M'. Curi mores", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "2", "surface": "M'. Curius is of such character", "entity_id": "person:mn-curius-patrensis", "in": "eng"},
+    {"loc": "3", "surface": "M'. Curi mores", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "3", "surface": "M'. Curius is of such character", "entity_id": "person:mn-curius-patrensis", "in": "eng"}
+  ]
+}

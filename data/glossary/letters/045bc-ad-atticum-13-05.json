@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Sp. Mummius was among the ten legates",
+      "entity_id": "person:sp-mummius",
+      "note": "Sp. Mummius, brother of the consul L. Mummius and himself present at Corinth in 146 BC; Cicero corrects his own guess about which Mummius sat on the board of ten commissioners."
+    },
+    {
+      "loc": "1",
+      "anchor": "it was his brother",
+      "entity_id": "person:l-mummius-achaicus",
+      "note": "L. Mummius Achaicus, consul 146 BC and sacker of Corinth; Cicero decides it was he, not Spurius, who served among the ten legates, \"for he was the one at Corinth.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "I have sent you the",
+      "entity_id": "person:l-manlius-torquatus",
+      "note": "The \"Torquatus\" is the roll or book of Cicero's De Finibus named after its Epicurean speaker; Cicero is sending Atticus a copy. He routinely refers to the dialogue's books by their chief interlocutor."
+    },
+    {
+      "loc": "1",
+      "anchor": "Do speak with Silius",
+      "entity_id": "person:silius-villa",
+      "note": "Silius owned a property Cicero was considering for the Tullia shrine; Cicero presses Atticus to negotiate and to pin down the date of an upcoming transaction or auction."
+    }
+  ]
+}

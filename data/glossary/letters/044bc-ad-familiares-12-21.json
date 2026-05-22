@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "appointed legate to Africa on a free legation",
+      "entity_id": "office:legatus",
+      "note": "A legatio libera (free legation) was a fiction by which a senator travelling on private business was given the status and escort of a public envoy. Cicero himself denounced the abuse, yet here secures one for his friend."
+    },
+    {
+      "loc": "1",
+      "anchor": "to grant lictors to all senators",
+      "entity_id": null,
+      "note": "Lictors were attendants carrying the fasces who escorted magistrates as a mark of office; a provincial governor could extend the courtesy of an escort to visiting senators of rank."
+    }
+  ]
+}

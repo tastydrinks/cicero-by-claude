@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Q. CICERO TIRONI S. D.",
+      "note": "This letter is from Cicero's brother Quintus, not from Cicero himself; 'S. D.' = salutem dicit, 'sends greetings.'"
+    },
+    {
+      "loc": "2",
+      "anchor": "so Euripides says",
+      "entity_id": "person:euripides",
+      "note": "The line quoted in Greek ('cold is the bitterest enemy of a delicate skin') is attributed to the Athenian tragedian Euripides; Quintus says he treats each of Euripides's verses as a single piece of evidence."
+    },
+    {
+      "loc": "2",
+      "anchor": "Quintus the son sends you his greetings",
+      "entity_id": "person:q-cicero-younger",
+      "note": "'Quintus the son' is the writer's own son, Cicero's nephew, who was travelling with the family."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-27",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "as you jurists do with the formulae of legal pleading, I shall put it ``On the same matter, in another mode.''",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Cicero makes a learned joke at Servius's expense: the phrase de eadem re alio modo is a technical formula from Roman legal procedure, used when an alternative action or writ was offered for the same legal issue. Servius Sulpicius Rufus was the most eminent jurist of his generation, so the in-joke flatters him while acknowledging that this recommendation is repetitive."
+    },
+    {
+      "loc": "2",
+      "anchor": "both in his own name and in that of his patron Aemilius Avianius",
+      "entity_id": "person:m-aemilius-avianius",
+      "note": "C. Avianius Hammonius was the freedman and business agent (procurator) of M. Aemilius Avianius. Writing on behalf of the absent patron was a standard role for a freedman-procurator, who managed the patron's affairs and acted as his representative in dealings with third parties."
+    },
+    {
+      "loc": "2",
+      "anchor": "almost the most grateful of all those who consider themselves to owe me anything",
+      "entity_id": "person:m-aemilius-avianius",
+      "note": "Gratitudo (gratitude) and its active expression were cardinal virtues in Roman amicitia; being called gratissimus (most grateful) is the highest social praise Cicero could bestow on a client or friend, positioning the man as an ideal participant in the reciprocal gift-exchange that bound Roman aristocratic society."
+    },
+    {
+      "loc": "4",
+      "anchor": "your son Servius",
+      "entity_id": "person:servius-sulpicius-rufus-younger",
+      "note": "The younger Servius Sulpicius Rufus was studying at Rome under Cicero's supervision while his father governed Achaea. Cicero's warm mention of the son serves both as a personal update to the father and as a further bond of intimacy reinforcing the chain of recommendation letters."
+    }
+  ]
+}

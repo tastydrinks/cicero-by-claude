@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the augural college",
+      "entity_id": "institution:college-of-augurs",
+      "note": "The college of augurs, the priesthood of state diviners; a vacancy in 50 BC set off the contest in which Caelius backed Antony, earning Appius's and L. Domitius's enmity."
+    },
+    {
+      "loc": "2",
+      "anchor": "his colleague",
+      "entity_id": "person:piso-caesoninus",
+      "note": "Appius's fellow censor of 50 BC, L. Calpurnius Piso Caesoninus (Caesar's father-in-law); Caelius spitefully sought a favour from him rather than from Appius."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Lex Scantinia (a statute against unnatural offences)",
+      "entity_id": "law:lex-scantinia",
+      "note": "An old Roman law penalizing homosexual offences against freeborn youths; Appius's faction indicted Caelius under it, whereupon Caelius gleefully counter-charged Appius the censor under the same law."
+    },
+    {
+      "loc": "3",
+      "anchor": "my games at the Circus",
+      "note": "As curule aedile in 50 BC Caelius was responsible for staging public games (the ludi circenses); his opponents timed the summons to humiliate him at the height of his own festival."
+    },
+    {
+      "loc": "3",
+      "anchor": "the chapel that stands in his house",
+      "note": "A sacellum (private shrine) in Appius's house; Caelius, exploiting the censor's own jurisdiction over religious propriety, formally demanded that Appius account for it."
+    }
+  ]
+}

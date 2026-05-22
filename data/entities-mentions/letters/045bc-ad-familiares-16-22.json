@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-22",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI SVO", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "TULLIUS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TIRO", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Catone", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "1", "surface": "Cato", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "1", "surface": "Tertia", "entity_id": "person:iunia-tertia", "in": "lat"},
+    {"loc": "1", "surface": "Tertia", "entity_id": "person:iunia-tertia", "in": "eng"},
+    {"loc": "2", "surface": "Demetrius iste", "entity_id": "person:demetrius-fam-16-22", "in": "lat"},
+    {"loc": "2", "surface": "That Demetrius of ours", "entity_id": "person:demetrius-fam-16-22", "in": "eng"},
+    {"loc": "2", "surface": "mi Tiro", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "2", "surface": "my Tiro", "entity_id": "person:tiro", "in": "eng"}
+  ]
+}

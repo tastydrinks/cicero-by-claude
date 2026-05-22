@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-07",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TERENTIAE SVAE", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "Tulliolam", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "our little Tullia", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "1", "surface": "Apollini", "entity_id": "god:apollo", "in": "lat"},
+    {"loc": "1", "surface": "Apollo", "entity_id": "god:apollo", "in": "eng"},
+    {"loc": "1", "surface": "Aesculapio", "entity_id": "god:aesculapius", "in": "lat"},
+    {"loc": "1", "surface": "Aesculapius", "entity_id": "god:aesculapius", "in": "eng"},
+    {"loc": "2", "surface": "Tulliolam nostram", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "2", "surface": "our little Tullia", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "3", "surface": "fundo Arpinati", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "3", "surface": "The Arpinum estate", "entity_id": "place:arpinum", "in": "eng"},
+    {"loc": "3", "surface": "Cicero", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "3", "surface": "Our charming little Cicero", "entity_id": "person:m-cicero-the-younger", "in": "eng"}
+  ]
+}

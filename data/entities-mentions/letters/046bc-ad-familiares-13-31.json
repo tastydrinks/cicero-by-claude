@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-31",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "1", "surface": "C. Flavio", "entity_id": "person:c-flavius-eques", "in": "lat"},
+    {"loc": "1", "surface": "Gaius Flavius", "entity_id": "person:c-flavius-eques", "in": "eng"},
+    {"loc": "1", "surface": "C. Pisonis", "entity_id": "person:c-piso-frugi-son-in-law", "in": "lat"},
+    {"loc": "1", "surface": "Gaius Piso", "entity_id": "person:c-piso-frugi-son-in-law", "in": "eng"},
+    {"loc": "1", "surface": "L. Flavius", "entity_id": "person:l-flavius-eques", "in": "lat"},
+    {"loc": "1", "surface": "Lucius Flavius", "entity_id": "person:l-flavius-eques", "in": "eng"},
+    {"loc": "1", "surface": "C. Flavium", "entity_id": "person:c-flavius-eques", "in": "lat"},
+    {"loc": "1", "surface": "Gaius Flavius", "entity_id": "person:c-flavius-eques", "in": "eng"},
+    {"loc": "2", "surface": "C. Flavi", "entity_id": "person:c-flavius-eques", "in": "lat"},
+    {"loc": "2", "surface": "Gaius Flavius", "entity_id": "person:c-flavius-eques", "in": "eng"}
+  ]
+}

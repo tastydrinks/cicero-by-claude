@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "C. Sosius the praetor",
+      "entity_id": "person:c-sosius",
+      "note": "Gaius Sosius, praetor in 49 BC, here passing through Formiae and carrying news of the war; he had once served as quaestor under Cicero's neighbour M'. Lepidus. He later became a noted partisan of Antony and consul in 32 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "M'. Lepidus our neighbour",
+      "entity_id": "person:man-aemilius-lepidus-cos66",
+      "note": "Manius Aemilius Lepidus, consul of 66 BC, an elder consular keeping company near Cicero on the coast while the war unfolds; not to be confused with the praetor of 49 and future triumvir of the same family name. He is the host to whom Sosius brings Pompey's dispatch."
+    },
+    {
+      "loc": "1",
+      "anchor": "a letter from Pompey to the consuls",
+      "entity_id": "person:pompey",
+      "note": "The consuls of 49, C. Claudius Marcellus and L. Cornelius Lentulus Crus, were with the Pompeian war effort; Cicero copies out Pompey's order to them. The quoted passage that follows (section 2) is Pompey's own words."
+    },
+    {
+      "loc": "2",
+      "anchor": "the thirteenth day before the Kalends of March",
+      "entity_id": null,
+      "note": "By inclusive Roman count, the thirteenth day before the Kalends (first) of March, i.e. 17 February 49 BC, the date Domitius's appeal reached Pompey. The dating fixes the urgency of the relief Domitius was begging from Corfinium."
+    },
+    {
+      "loc": "2",
+      "anchor": "all the forces converge upon a single place",
+      "entity_id": null,
+      "note": "Pompey's strategy of concentration: rather than relieve the besieged Domitius at Corfinium, he orders the consuls to pull their troops back to him for a single massed force, leaving only a garrison at Capua. The order effectively abandons Domitius to Caesar, which 8.7 laments."
+    },
+    {
+      "loc": "4",
+      "anchor": "the quartan fever has left you",
+      "entity_id": null,
+      "note": "A quartan fever (probably malaria) recurs every fourth day by inclusive counting; Atticus had been suffering from one. Cicero jokes that he wishes it had passed to him instead, and hopes it has now left Pilia too."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-47",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SILIO", "entity_id": "person:p-silius-pr", "in": "lat"},
+    {"loc": "1", "surface": "SILIO", "entity_id": "person:p-silius-pr", "in": "eng"},
+    {"loc": "1", "surface": "Egnatium", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "Egnatius", "entity_id": "person:l-egnatius-rufus", "in": "eng"}
+  ]
+}

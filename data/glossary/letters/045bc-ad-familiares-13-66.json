@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-66",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO P. SERVILIO S.",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "The letter-heading. The recipient is the younger P. Servilius Vatia Isauricus (cos. 48 BC with Caesar, proconsul of Asia 46-44 BC), Cicero's fellow augur; this is one of a short cluster of recommendations Cicero addressed to him during his Asian governorship."
+    },
+    {
+      "loc": "1",
+      "anchor": "A. Caecina to you --- a client most especially attached to your family",
+      "entity_id": "person:a-caecina-friend",
+      "note": "Aulus Caecina of Volaterrae, an Etruscan man of letters and son of the defendant of Cicero's Pro Caecina; a Pompeian in the civil war, he had written a pamphlet against Caesar and was living in exile. A 'client' (cliens) of the Servilii by hereditary tie, he hoped the family's patronage and the governor's protection would shelter him."
+    },
+    {
+      "loc": "2",
+      "anchor": "relying on the clemency of your colleague",
+      "entity_id": "person:caesar",
+      "note": "The 'colleague' is Julius Caesar, Servilius's fellow consul of 48 BC; only Caesar's clemency (clementia) could grant Caecina the full 'restoration' (salus) from his proscribed condition. Cicero hopes for it but in the meantime asks Servilius for protection in the province."
+    },
+    {
+      "loc": "2",
+      "anchor": "your province to be the safest harbour for himself",
+      "entity_id": "place:asia-province",
+      "note": "Servilius's province was Asia, where he served as proconsul 46-44 BC. An exile such as Caecina, debarred from Italy, sought refuge and the means to wind up his business affairs in a friendly governor's jurisdiction."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-28",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the consolation I administered to myself in writing",
+      "entity_id": null,
+      "note": "This is Cicero's Consolatio, the now-lost treatise he composed to console himself after Tullia's death --- an unprecedented act of self-consolation in the genre. He says it has lessened his grief (maeror) without touching his deeper pain (dolor)."
+    },
+    {
+      "loc": "3",
+      "anchor": "I am guardian to his children",
+      "entity_id": "person:c-valerius-triarius",
+      "note": "C. Valerius Triarius, a Pompeian naval commander now dead, left Cicero as legal guardian (tutor) of his children. As tutor Cicero administers the estate, which is why he weighs in on the disposal of slaves in the Castricius transaction."
+    },
+    {
+      "loc": "3",
+      "anchor": "if he is waiting for the equinox",
+      "entity_id": null,
+      "note": "Ancient sailing was governed by the seasons; the autumn and spring equinoxes brought storms that closed or threatened the sea-lanes. Publilius's choice to wait for the equinox, or to go overland through Sicily, turns on these navigation risks."
+    },
+    {
+      "loc": "3",
+      "anchor": "look in some time on the boy Lentulus",
+      "entity_id": null,
+      "note": "A young Lentulus, evidently another minor in Cicero's care alongside Triarius's children, to be assigned a share of the disputed slaves. His exact identity is uncertain and he is not bound to an entity in this corpus."
+    }
+  ]
+}

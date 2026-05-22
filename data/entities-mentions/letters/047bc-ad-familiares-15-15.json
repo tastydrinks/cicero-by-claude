@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-15",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "C. CASSIO", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "M. Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. Cassius", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "2", "surface": "Africa", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "2", "surface": "Asia", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "2", "surface": "Achaia", "entity_id": "place:achaia", "in": "lat"},
+    {"loc": "2", "surface": "Africa", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "2", "surface": "Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "2", "surface": "Achaea", "entity_id": "place:achaia", "in": "eng"},
+    {"loc": "2", "surface": "Alexandrini belli", "entity_id": "event:alexandrian-war", "in": "lat"},
+    {"loc": "2", "surface": "the Alexandrian war", "entity_id": "event:alexandrian-war", "in": "eng"},
+    {"loc": "2", "surface": "Pharnacem", "entity_id": "person:pharnaces-ii", "in": "lat"},
+    {"loc": "2", "surface": "Pharnaces", "entity_id": "person:pharnaces-ii", "in": "eng"},
+    {"loc": "3", "surface": "Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "3", "surface": "Italiae", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "3", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "4", "surface": "Luceria", "entity_id": "place:luceria", "in": "lat"},
+    {"loc": "4", "surface": "Luceria", "entity_id": "place:luceria", "in": "eng"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the rumour of a dictatorship",
+      "entity_id": null,
+      "note": "In late 54 BC, amid electoral chaos and violence, there was talk of making Pompey dictator to restore order. The rumour frightened the senatorial class, who saw it as a threat to constitutional government; it helped sway the jurors to acquit Gabinius."
+    },
+    {
+      "loc": "1",
+      "anchor": "the one on extortion",
+      "entity_id": null,
+      "note": "The repetundae charge: misconduct and extortion by a provincial governor, tried before a standing court. Gabinius faced it for his governorship of Syria, and Cicero predicts (rightly) that he will be convicted on it."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pacideianus matched against Aeserninus the Samnite",
+      "entity_id": "person:pacideianus-gladiator",
+      "note": "A pair of gladiators made proverbial by a vivid passage of the satirist Lucilius. Cicero uses the image to say that prosecuting Gabinius would have meant a savage, mutually wounding duel with Pompey, who backed him."
+    },
+    {
+      "loc": "4",
+      "anchor": "the verses you want me to write for you",
+      "entity_id": null,
+      "note": "The brothers exchanged verse compositions; Cicero pleads lack of both leisure and inspiration (Greek enthousiasmos), citing his anxiety about the coming political year. He gracefully cedes the palm in such writing to Quintus."
+    },
+    {
+      "loc": "5",
+      "anchor": "I will charge Chrysippus and speak with Tyrannio",
+      "entity_id": "person:tyrannio",
+      "note": "Tyrannio of Amisus, the Greek grammarian who arranged Cicero's library, and Chrysippus, a learned freedman, were Cicero's go-to men for acquiring, copying, and exchanging books. Good copies, Cicero notes, could not simply be bought."
+    },
+    {
+      "loc": "6",
+      "anchor": "I want to be present for Pomptinus's triumph",
+      "entity_id": "person:c-pomptinus",
+      "note": "C. Pomptinus, praetor 63 and governor of Transalpine Gaul, had long sought a triumph for his victory over the Allobroges. Tribunes and praetors disputed its legality, so it was finally staged in 54 BC under cover of an early-morning vote and the consul Appius's backing."
+    }
+  ]
+}

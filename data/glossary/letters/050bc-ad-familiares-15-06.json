@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "so Hector says, I believe, in Naevius",
+      "entity_id": "person:naevius",
+      "note": "Cicero quotes a line spoken by Hector in a tragedy of the early Roman poet Gnaeus Naevius (c. 270-201 BC): the joke is that praise from a praised man (Cato) is the sweetest, just as Hector valued his father's praise."
+    },
+    {
+      "loc": "1",
+      "anchor": "what chariot, what laurel could I match with your formal commendation",
+      "entity_id": "institution:triumph",
+      "note": "The triumphing general rode a chariot (currus) and wore a laurel wreath; Cicero says Cato's written commendation outweighs even those trophies of a triumph."
+    },
+    {
+      "loc": "2",
+      "anchor": "this honour of mine, the thanksgiving, was gratifying to you, since you were present at the drafting",
+      "entity_id": "festival:supplicatio",
+      "note": "The supplicatio voted for Cicero's Cilician victories. Senatorial decrees of honour were drafted (scribendo adesse) by the honorand's closest friends; Cato's presence at the drafting signalled his real goodwill, despite his austere speech against the vote."
+    }
+  ]
+}

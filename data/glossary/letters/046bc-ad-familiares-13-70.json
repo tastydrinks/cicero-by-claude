@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-70",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO P. SERVILIO CONLEGAE S.",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "The letter-heading; conlega (\"colleague\") marks the recipient as Cicero's fellow-member of the college of augurs. He is P. Servilius Vatia Isauricus the younger (consul 48 BC), then proconsul of Asia (46-44 BC); 13.70-72 form a group addressed to him there."
+    },
+    {
+      "loc": "1",
+      "anchor": "His freedman, T. Ampius Menander",
+      "entity_id": "person:t-ampius-menander",
+      "note": "A freedman (libertus) bore his former master's nomen, here Ampius, marking him as a member of the patron's extended household; recommending such a man honoured the patron as much as the freedman."
+    }
+  ]
+}

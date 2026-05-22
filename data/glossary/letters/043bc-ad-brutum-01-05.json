@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the fifth day before the kalends of May",
+      "entity_id": null,
+      "note": "Ante diem quintum Kalendas Maias = 27 April 43 BC; this was the date of the Senate session described, while the letter itself was written on 5 May (\"third day before the nones of May\")."
+    },
+    {
+      "loc": "1",
+      "anchor": "Servilius",
+      "entity_id": "person:p-servilius-vatia-isauricus",
+      "note": "Publius Servilius Vatia Isauricus the Younger (consul 48 BC with Julius Caesar), an influential senior senator who spoke in the Senate debate on pursuing Dolabella."
+    },
+    {
+      "loc": "1",
+      "anchor": "Ventidius",
+      "entity_id": "person:p-ventidius-bassus",
+      "note": "Publius Ventidius Bassus, a capable general and partisan of Mark Antony, declared a public enemy by the Senate in 43 BC; the motion of Servilius proposed that Brutus pursue him as well as Dolabella."
+    },
+    {
+      "loc": "3",
+      "anchor": "co-opted into your college",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "Cicero wants his son Marcus (serving under Brutus in Macedonia) elected to the college of augurs; augurs were the priestly board that interpreted omens, and membership was for life, making the position a mark of high social distinction."
+    },
+    {
+      "loc": "3",
+      "anchor": "Gaius Marius, while he was in Cappadocia, was made an augur under the Lex Domitia",
+      "entity_id": "person:c-marius",
+      "note": "The Lex Domitia de sacerdotiis (103 BC), proposed by Gnaeus Domitius Ahenobarbus, transferred election of priests from co-optation by the colleges to popular vote in the tribal assembly; Marius's election while absent in Asia Minor established that physical absence was no bar."
+    },
+    {
+      "loc": "4",
+      "anchor": "As long as there is only one patrician magistrate, the auspices cannot return to the patres",
+      "entity_id": null,
+      "note": "Roman constitutional doctrine held that the auspices (divine authority to conduct public business) \"reverted to the fathers\" (patres) — the patrician senators — when no curule magistrates were in office; with only one consul remaining after Pansa's death, an interregnum could not legally be declared until both consular seats were vacant."
+    },
+    {
+      "loc": "4",
+      "anchor": "The third day before the nones of May",
+      "entity_id": null,
+      "note": "Ante diem tertium Nonas Maias = 5 May 43 BC, the date on which this letter was dispatched."
+    }
+  ]
+}

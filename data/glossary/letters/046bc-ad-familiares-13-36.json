@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-36",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO ACILIO PROCONSVLI S.",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "The letter-heading. M'. Acilius Glabrio, proconsul of Sicily 46–45 BC, is assured of the special weight of this particular recommendation, which rests on Caesar's own confirmation."
+    },
+    {
+      "loc": "1",
+      "anchor": "and so he is now called Publius Cornelius",
+      "entity_id": "person:demetrius-megas",
+      "note": "Upon receiving Roman citizenship, a new citizen adopted the praenomen and nomen of his patron; P. Cornelius Dolabella (cos. suff. 44 BC) obtained the grant for Demetrius Megas, who accordingly became \"Publius Cornelius\" while retaining his Greek cognomen Megas (\"great\") as an unofficial identifier."
+    },
+    {
+      "loc": "1",
+      "anchor": "the tablet on which the names of those granted citizenship were inscribed to be torn down",
+      "entity_id": null,
+      "note": "After rumours spread that officials were selling Caesar's grants, Caesar ordered the tabula (bronze tablet) listing enfranchised individuals to be taken down (revellere). This was a drastic act because such tablets were the legal proof of status; Cicero stresses that Caesar verbally guaranteed Megas's grant was unaffected, providing an oral confirmation in lieu of the destroyed documentary evidence."
+    },
+    {
+      "loc": "2",
+      "anchor": "I commend him to you with such zeal that I could commend no one with greater",
+      "entity_id": null,
+      "note": "Cicero's letters of recommendation (litterae commendaticiae) operated on a sliding scale of warmth. This superlative formula — \"I could commend no one more strongly\" — is his highest grade, deployed rarely and designed to signal to the governor that the sender's personal honour is at stake in the treatment of the recommendee."
+    }
+  ]
+}

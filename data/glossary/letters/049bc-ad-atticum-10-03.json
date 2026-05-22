@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "in what state he had left the City",
+      "entity_id": "place:roma",
+      "note": "Caesar was about to leave Rome for the Spanish campaign against Pompey's legates; Cicero is anxious to learn what arrangements he made for the capital before going. \"The City\" (urbs) is the standard Roman shorthand for Rome itself."
+    },
+    {
+      "loc": "1",
+      "anchor": "envoys to Pompey and to the consuls",
+      "entity_id": null,
+      "note": "The consuls of 49, Lentulus and Marcellus, had fled Italy with Pompey, so any peace embassy authorised by the Senate would have to travel to them abroad. Cicero hoped, without much confidence, that such negotiations might yet be opened."
+    },
+    {
+      "loc": "1",
+      "anchor": "by decree of the Senate concerning peace",
+      "entity_id": "institution:senate",
+      "note": "A senatus consultum was the Senate's formal resolution; only such a decree could give an embassy official standing. With most senators dispersed by the war, Cicero questions whether any genuine senatorial authority still operated."
+    }
+  ]
+}

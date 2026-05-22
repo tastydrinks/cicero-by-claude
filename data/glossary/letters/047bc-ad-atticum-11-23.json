@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-23",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "asking you to share it with Camillus",
+      "entity_id": "person:c-furius-camillus",
+      "note": "C. Furius Camillus, a jurist and a mutual friend, whom Cicero used as a confidential adviser on the legal tangles of Tullia's marriage and dowry and of Terentia's will."
+    },
+    {
+      "loc": "2",
+      "anchor": "A man called Agusius had come from Rhodes",
+      "entity_id": "person:t-agusius",
+      "note": "T. Agusius, a friend who had shared Cicero's exile, here serves as a courier bringing news from the East via Rhodes; Cicero forwards his letter by a faster traveller and refers Atticus to Agusius for oral details."
+    },
+    {
+      "loc": "2",
+      "anchor": "my son Quintus had set out for Caesar",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "Young Quintus, the nephew, had gone to Caesar in the East — the journey on which he denounced his uncle. \"My son Quintus\" (Quintum filium) marks him as the son, distinct from Cicero's brother Quintus named just below."
+    },
+    {
+      "loc": "3",
+      "anchor": "the statue of Clodius",
+      "entity_id": "person:clodius",
+      "note": "Dolabella, tribune in 47 BC, revived the radical politics of P. Clodius Pulcher — pushing debt-cancellation and erecting a statue of the dead demagogue who had once driven Cicero into exile. That his own son-in-law should take up Clodius's cause cut Cicero deeply."
+    },
+    {
+      "loc": "3",
+      "anchor": "the new account-books, or the nocturnal raids, or Metella",
+      "entity_id": null,
+      "note": "Grounds on which Tullia could have divorced Dolabella: his agitation for new account-books (cancellation of debts), the night-time street violence of his tribunate, and an affair with a noblewoman named Metella. This Metella's precise identity is uncertain and she is not the Caecilia Metella of the Pro Roscio Amerino."
+    },
+    {
+      "loc": "3",
+      "anchor": "the third installment of the dowry",
+      "entity_id": null,
+      "note": "A Roman dowry was commonly paid in three annual installments; on divorce the husband normally returned what he had received. Cicero fears Dolabella will demand the still-unpaid third installment of Tullia's dowry rather than refund the rest."
+    }
+  ]
+}

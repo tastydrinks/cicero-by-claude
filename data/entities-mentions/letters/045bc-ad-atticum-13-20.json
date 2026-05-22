@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-20",
+  "mentions": [
+    {"loc": "1", "surface": "a Caesare litteras accepi", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "datas pridie Kal. Maias Hispali", "entity_id": "place:hispalis", "in": "lat"},
+    {"loc": "1", "surface": "Torquato nostra officia grata", "entity_id": "person:l-manlius-torquatus", "in": "lat"},
+    {"loc": "1", "surface": "a letter from Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "the Kalends of May at Hispalis", "entity_id": "place:hispalis", "in": "eng"},
+    {"loc": "1", "surface": "welcome to Torquatus", "entity_id": "person:l-manlius-torquatus", "in": "eng"},
+    {"loc": "2", "surface": "de uxore Tuberonis", "entity_id": "person:q-aelius-tubero", "in": "lat"},
+    {"loc": "2", "surface": "neque Tuberonem volo offendere", "entity_id": "person:q-aelius-tubero", "in": "lat"},
+    {"loc": "2", "surface": "on Tubero's wife and stepdaughter", "entity_id": "person:q-aelius-tubero", "in": "eng"},
+    {"loc": "2", "surface": "give offence to Tubero", "entity_id": "person:q-aelius-tubero", "in": "eng"},
+    {"loc": "3", "surface": "fratrem credo a te esse conventum", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "3", "surface": "My brother has met with you", "entity_id": "person:quintus-cicero", "in": "eng"}
+  ]
+}

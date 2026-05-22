@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-50",
+  "mentions": [
+    {"loc": "1", "surface": "cum Sexti auctioni operam dederis", "entity_id": "person:sex-peducaeus-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "ipse Romam venirem", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "when you have given your attention to Sextus' auction", "entity_id": "person:sex-peducaeus-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "I would come to Rome myself", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

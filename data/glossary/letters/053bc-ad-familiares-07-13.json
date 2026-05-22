@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the imperator consults you",
+      "entity_id": "office:imperator",
+      "note": "Imperator, the victory-title of a commander hailed by his troops, here means Caesar; Cicero jokes that what swells Trebatius's head is being asked for legal opinions by the great general himself."
+    },
+    {
+      "loc": "1",
+      "anchor": "gilded by him",
+      "entity_id": null,
+      "note": "Inaurari, literally 'to be gilded' --- a jibe at the money Trebatius was making in Gaul, set against the 'glory' of being consulted; Cicero wagers Trebatius prefers the prestige to the cash."
+    },
+    {
+      "loc": "2",
+      "anchor": "lay hand on the property in due legal form",
+      "entity_id": null,
+      "note": "Ex iure manum consertum: the ancient ritual of the legis actio sacramento, by which a disputant formally laid hand on contested property before the praetor. Cicero's pun is that in war-torn Gaul claims are pressed by the sword, not by Trebatius's civil-law procedure."
+    },
+    {
+      "loc": "2",
+      "anchor": "that famous exception in the interdict",
+      "entity_id": null,
+      "note": "An interdict (interdictum) was a praetor's order in property disputes; the standard exceptio unde vi excused a party who had not been the first to bring armed force. Cicero teases the timid jurist that he need not fear being the aggressor."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Treveri",
+      "entity_id": "group:treveri",
+      "note": "A powerful Belgic people of the Moselle, in open unrest against Caesar in 53 BC. The whole sentence is a pun: capitalis means both 'liable to the death penalty' and 'first-rate', and Cicero wishes the Treveri were merely the kinds of 'capital' (aere, argento, auro --- bronze, silver, gold) named in the praetor's edict."
+    }
+  ]
+}

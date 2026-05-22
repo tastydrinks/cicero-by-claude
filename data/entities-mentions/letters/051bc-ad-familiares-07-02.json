@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-02",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "M. MARIO", "entity_id": "person:m-marius", "in": "lat"},
+    {"loc": "1", "surface": "M. MARIO", "entity_id": "person:m-marius", "in": "eng"},
+    {"loc": "2", "surface": "Bursa", "entity_id": "person:t-munatius-plancus-bursa", "in": "both"},
+    {"loc": "3", "surface": "Clodium", "entity_id": "person:clodius", "in": "lat"},
+    {"loc": "3", "surface": "Clodius", "entity_id": "person:clodius", "in": "eng"}
+  ]
+}

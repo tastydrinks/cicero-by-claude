@@ -4507,6 +4507,23 @@
       "carries_greek": true
     },
     {
+      "id": "ad-familiares-09-25",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "PAETO",
+      "recipient_id": "person:paeto",
+      "place_written": "Laodiceae",
+      "place_written_id": "place:laodiceae",
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0050-02-13",
+      "date_precision": "day",
+      "topics": [],
+      "mood": null,
+      "length_sections": 3,
+      "carries_greek": true
+    },
+    {
       "id": "ad-familiares-02-14",
       "sender": "M. Tullius Cicero",
       "sender_id": "person:cicero",
@@ -12718,6 +12735,23 @@
       "carries_greek": false
     },
     {
+      "id": "ad-familiares-11-28",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "M. Cicero",
+      "recipient_id": "person:m-cicero",
+      "place_written": "Rome",
+      "place_written_id": "place:rome",
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0044-09-01",
+      "date_precision": "month",
+      "topics": [],
+      "mood": null,
+      "length_sections": 8,
+      "carries_greek": false
+    },
+    {
       "id": "ad-familiares-12-20",
       "sender": "M. Tullius Cicero",
       "sender_id": "person:cicero",
@@ -13157,6 +13191,23 @@
       "topics": [],
       "mood": null,
       "length_sections": 3,
+      "carries_greek": false
+    },
+    {
+      "id": "ad-familiares-11-08",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "",
+      "recipient_id": null,
+      "place_written": null,
+      "place_written_id": null,
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0043-01-24",
+      "date_precision": "day",
+      "topics": [],
+      "mood": null,
+      "length_sections": 2,
       "carries_greek": false
     },
     {
@@ -13667,6 +13718,23 @@
       "topics": [],
       "mood": null,
       "length_sections": 2,
+      "carries_greek": false
+    },
+    {
+      "id": "ad-brutum-01-16",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "",
+      "recipient_id": null,
+      "place_written": null,
+      "place_written_id": null,
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0043-05-01",
+      "date_precision": "month",
+      "topics": [],
+      "mood": null,
+      "length_sections": 11,
       "carries_greek": false
     },
     {
@@ -14636,6 +14704,23 @@
       "topics": [],
       "mood": null,
       "length_sections": 3,
+      "carries_greek": false
+    },
+    {
+      "id": "ad-familiares-11-17",
+      "sender": "M. Tullius Cicero",
+      "sender_id": "person:cicero",
+      "recipient": "",
+      "recipient_id": null,
+      "place_written": null,
+      "place_written_id": null,
+      "place_received": null,
+      "place_received_id": null,
+      "date": "-0043-07-15",
+      "date_precision": "day",
+      "topics": [],
+      "mood": null,
+      "length_sections": 2,
       "carries_greek": false
     },
     {

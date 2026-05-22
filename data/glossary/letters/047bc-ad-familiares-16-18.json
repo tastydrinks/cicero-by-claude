@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the dispersal-treatment",
+      "note": "Cicero peppers the letter with Greek medical terms for Tiro's regimen: diaphoresis (sweating-out/dispersal), pepsis (digestion), akopia (a relaxing rub-down to relieve fatigue), a measured walk (peripatos symmetros), tripsis (massage), and easy bowels (eulysia koilias)."
+    },
+    {
+      "loc": "1",
+      "anchor": "Stir up Parhedrus to take the kitchen-garden on lease himself",
+      "entity_id": "person:parhedrus-servus",
+      "note": "Parhedrus is a man (apparently a freedman or dependent) whom Cicero wants to bid for the lease of the Tusculan kitchen-garden, so as to shame the regular gardener (holitor) into offering more."
+    },
+    {
+      "loc": "2",
+      "anchor": "That good-for-nothing Helico used to pay a thousand sesterces for it",
+      "entity_id": "person:helico-servus",
+      "note": "Helico was a former lessee of the garden who paid HS 1000 even when the plot had no amenities; Cicero is haggling to extract a better rent now that it has been improved."
+    },
+    {
+      "loc": "3",
+      "anchor": "About the Aqua Crabra",
+      "entity_id": "place:aqua-crabra",
+      "note": "The Crabra was a stream near Tusculum whose water was apportioned by allotment among the local estates; rights to it were a recurring concern of the Tusculan landowners."
+    },
+    {
+      "loc": "3",
+      "anchor": "composing some piece in the Sophoclean style",
+      "entity_id": "person:sophocles",
+      "note": "A teasing jab at Tiro's literary ambitions: Cicero asks whether his secretary, with leisure on his hands, is writing tragedy in the grand manner of the Athenian tragedian Sophocles."
+    },
+    {
+      "loc": "3",
+      "anchor": "A. Ligurius, a friend of Caesar's, has died",
+      "entity_id": "person:a-ligurius",
+      "note": "Aulus Ligurius, a mutual friend close to Caesar; his death is reported as ordinary news between intimates."
+    }
+  ]
+}

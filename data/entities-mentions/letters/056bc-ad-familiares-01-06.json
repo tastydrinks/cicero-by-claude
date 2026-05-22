@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-06",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "P. LENTVLO PROCOS.", "entity_id": "person:lentulus-spinther", "in": "lat"},
+    {"loc": "1", "surface": "P. Lentulus", "entity_id": "person:lentulus-spinther", "in": "eng"},
+    {"loc": "1", "surface": "Pollione", "entity_id": "person:asinius-pollio", "in": "lat"},
+    {"loc": "1", "surface": "Pollio", "entity_id": "person:asinius-pollio", "in": "eng"}
+  ]
+}

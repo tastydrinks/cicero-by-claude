@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "our friend Lupus",
+      "entity_id": "person:p-rutilius-lupus",
+      "note": "P. Rutilius Lupus, a political associate of Cicero (tribune 56 BC), here acting as courier between Cicero and Decimus Brutus in December 44 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "the ninth of December",
+      "entity_id": null,
+      "note": "Renders the Latin dateline \"a. d. v Idus Dec.\" --- the fifth day before the Ides of December, counted inclusively, i.e. 9 December (44 BC)."
+    },
+    {
+      "loc": "2",
+      "anchor": "a king's domination",
+      "entity_id": null,
+      "note": "\"Regnum,\" kingship, was the gravest charge in Roman politics; to call a rival's power a bid for monarchy was to brand him an enemy of the free state. Cicero casts Antony's ambitions as a revived tyranny for Decimus to overthrow."
+    }
+  ]
+}

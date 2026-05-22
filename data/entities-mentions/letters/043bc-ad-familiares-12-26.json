@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-26",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "COR ni FICIO", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "COR ni FICIO", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "Q. Turius", "entity_id": "person:q-turius", "in": "lat"},
+    {"loc": "1", "surface": "Q. Turius", "entity_id": "person:q-turius", "in": "eng"},
+    {"loc": "1", "surface": "Africa", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "1", "surface": "Africa", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "1", "surface": "Cn. Saturninum", "entity_id": "person:cn-saturninus", "in": "lat"},
+    {"loc": "1", "surface": "Cn. Saturninus", "entity_id": "person:cn-saturninus", "in": "eng"},
+    {"loc": "1", "surface": "Sex. Aufidium", "entity_id": "person:sex-aufidius", "in": "lat"},
+    {"loc": "1", "surface": "Sex. Aufidius", "entity_id": "person:sex-aufidius", "in": "eng"},
+    {"loc": "1", "surface": "C. Anneum", "entity_id": "person:c-anneus", "in": "lat"},
+    {"loc": "1", "surface": "C. Anneus", "entity_id": "person:c-anneus", "in": "eng"},
+    {"loc": "1", "surface": "Q. Considium Gallum", "entity_id": "person:q-considius-gallus", "in": "lat"},
+    {"loc": "1", "surface": "Q. Considius Gallus", "entity_id": "person:q-considius-gallus", "in": "eng"},
+    {"loc": "1", "surface": "L. Servilium Postumum", "entity_id": "person:l-servilius-postumus", "in": "lat"},
+    {"loc": "1", "surface": "L. Servilius Postumus", "entity_id": "person:l-servilius-postumus", "in": "eng"},
+    {"loc": "1", "surface": "C. Rubellium", "entity_id": "person:c-rubellius", "in": "lat"},
+    {"loc": "1", "surface": "C. Rubellius", "entity_id": "person:c-rubellius", "in": "eng"},
+    {"loc": "2", "surface": "Erotem Turium", "entity_id": "person:eros-turius", "in": "lat"},
+    {"loc": "2", "surface": "Eros Turius", "entity_id": "person:eros-turius", "in": "eng"},
+    {"loc": "2", "surface": "Q. Turi", "entity_id": "person:q-turius", "in": "lat"},
+    {"loc": "2", "surface": "Q. Turius", "entity_id": "person:q-turius", "in": "eng"}
+  ]
+}

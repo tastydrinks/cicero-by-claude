@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-13",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO PLANCO.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO PLANCO.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PLANCO", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCO.", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "s. c.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "senatorial decree", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "senatus frequens", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "a crowded Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "M. Antonium", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "Marcus Antonius", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "Homerus", "entity_id": "person:homer", "in": "lat"},
+    {"loc": "2", "surface": "Homer", "entity_id": "person:homer", "in": "eng"},
+    {"loc": "2", "surface": "Aiacem", "entity_id": null, "in": "lat"},
+    {"loc": "2", "surface": "Ajax", "entity_id": null, "in": "eng"},
+    {"loc": "2", "surface": "Achillem", "entity_id": null, "in": "lat"},
+    {"loc": "2", "surface": "Achilles", "entity_id": null, "in": "eng"},
+    {"loc": "2", "surface": "Ulixem", "entity_id": null, "in": "lat"},
+    {"loc": "2", "surface": "Ulysses", "entity_id": null, "in": "eng"}
+  ]
+}

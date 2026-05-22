@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-03",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "on the Kalends of March, blocked the consul Marcus Marcellus",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "In his consulship of 51 BC M. Claudius Marcellus pressed to set a fixed end-date to Caesar's command in Gaul; Pompey's manoeuvre to keep the question off the agenda is, for Cicero, one of the \"old chapters\" in which Pompey shielded the man he now fights. The Kalends were the first day of the month."
+    },
+    {
+      "loc": "4",
+      "anchor": "We should have to sail the Lower Sea",
+      "entity_id": null,
+      "note": "The \"Lower Sea\" (mare inferum) is the Romans' name for the Tyrrhenian Sea on Italy's west coast, as opposed to the \"Upper Sea\" (the Adriatic). To reach Pompey on the Adriatic side, Cicero would have to make a dangerous midwinter voyage."
+    },
+    {
+      "loc": "4",
+      "anchor": "these laurelled fasces of mine",
+      "entity_id": null,
+      "note": "The fasces were the bundled rods carried by a magistrate's lictors; wreathed in laurel they marked a commander voted a triumph, which Cicero still hoped for after his Cilician governorship. They are an emblem he can neither easily renounce nor carry abroad without embarrassment."
+    },
+    {
+      "loc": "6",
+      "anchor": "what L. Philippus did in the supremacy of Cinna",
+      "entity_id": "person:l-cornelius-cinna",
+      "note": "During Cinna's domination of Rome (87-84 BC), the consular L. Marcius Philippus survived by accommodation rather than resistance. Cicero weighs this quietist precedent as a model for staying in Italy under Caesar."
+    },
+    {
+      "loc": "6",
+      "anchor": "what Q. Mucius did",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "note": "Q. Mucius Scaevola the Pontifex, the great jurist, likewise stayed at Rome through the Cinnan terror; he foresaw his own fate yet preferred it to marching armed against his country, and was murdered in 82 BC. Cicero invokes him as the authority for principled non-flight."
+    },
+    {
+      "loc": "6",
+      "anchor": "Thrasybulus did otherwise, and perhaps better",
+      "entity_id": "person:thrasybulus",
+      "note": "Thrasybulus was the Athenian democrat who, instead of submitting, went into exile and then returned in arms to overthrow the Thirty Tyrants in 403 BC. He is the counter-precedent to the quietists Philippus and Mucius: armed resistance rather than accommodation."
+    },
+    {
+      "loc": "7",
+      "anchor": "Caesar at Corfinium",
+      "entity_id": "place:corfinium",
+      "note": "Corfinium was the Paelignian stronghold in central Italy where L. Domitius Ahenobarbus tried to make a stand for Pompey. Its siege and surrender to Caesar in late February 49 BC, followed by Caesar's celebrated clemency to the prisoners, was the decisive turn of the campaign in Italy."
+    }
+  ]
+}

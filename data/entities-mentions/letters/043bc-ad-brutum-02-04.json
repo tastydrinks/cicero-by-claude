@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-02-04",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Bruto",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Scaptio",
+      "entity_id": "person:m-scaptius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Scaptius",
+      "entity_id": "person:m-scaptius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Dyrrhachio",
+      "entity_id": "place:dyrrachium",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Dyrrachium",
+      "entity_id": "place:dyrrachium",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cassio",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cassius",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Dolabellam",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "senatus consulto",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "senate-decree",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Philippicis nostris",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Antonio",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Bruti",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Brutus's",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Rhodiis",
+      "entity_id": "place:rhodes",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Rhodians",
+      "entity_id": "place:rhodes",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "senatus",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Tertiam sororem",
+      "entity_id": "person:iunia-tertia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "your sister Tertia",
+      "entity_id": "person:iunia-tertia",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "matrem",
+      "entity_id": "person:servilia-hortensii",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "your mother",
+      "entity_id": "person:servilia-hortensii",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Cassio",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Cassius",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "partium Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Caesarian party",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Cicerone meo",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "my Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "eng"
+    }
+  ]
+}

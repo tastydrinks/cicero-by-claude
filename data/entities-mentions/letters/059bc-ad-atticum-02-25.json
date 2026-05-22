@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-25",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Varronis",
+      "entity_id": "person:m-terentius-varro",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Varro",
+      "entity_id": "person:m-terentius-varro",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Hortalus",
+      "entity_id": "person:hortensius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Hortalus",
+      "entity_id": "person:hortensius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Flacci praetura",
+      "entity_id": "person:flaccus-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Flaccus's praetorship",
+      "entity_id": "person:flaccus-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Allobrogum",
+      "entity_id": "group:allobroges",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "the Allobroges",
+      "entity_id": "group:allobroges",
+      "in": "eng"
+    }
+  ]
+}

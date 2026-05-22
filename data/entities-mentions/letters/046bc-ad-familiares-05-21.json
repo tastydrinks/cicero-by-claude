@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-21",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "L. MESCINIO", "entity_id": "person:l-mescinius", "in": "lat"},
+    {"loc": "1", "surface": "L. MESCINIO", "entity_id": "person:l-mescinius", "in": "eng"},
+    {"loc": "3", "surface": "rerum Africanarum", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "3", "surface": "the African news", "entity_id": "place:africa", "in": "eng"}
+  ]
+}

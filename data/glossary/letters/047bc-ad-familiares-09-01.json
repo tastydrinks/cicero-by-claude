@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "we are pressed by so many and such great troubles that no one but a perfect fool ought to hope for any relief",
+      "entity_id": "person:caesar",
+      "note": "Written in late 47 or early 46 BC, after Caesar's victory at Pharsalus had ended the Republic that Cicero and Varro had served on Pompey's side; both men were pardoned but politically powerless under Caesar's emerging dictatorship, and this gloom over the state's ruin runs through the whole Varro correspondence."
+    },
+    {
+      "loc": "2",
+      "anchor": "I have made my peace with my old friends --- that is, with our books",
+      "entity_id": "person:cicero",
+      "note": "Excluded from public life under Caesar, Cicero turned in these years to writing the great philosophical and rhetorical works of 46--44 BC; the 'old friends' are his books and studies, which he had neglected while embroiled in the civil war."
+    },
+    {
+      "loc": "2",
+      "anchor": "you, who held to it, were the wiser man of the two",
+      "entity_id": "person:m-terentius-varro",
+      "note": "M. Terentius Varro (116--27 BC) was Rome's most learned scholar, author of hundreds of works; Cicero contrasts Varro's steadier devotion to study with his own deeper entanglement in politics and the failed Pompeian cause."
+    },
+    {
+      "loc": "2",
+      "anchor": "at Tusculum or at Cumae",
+      "entity_id": null,
+      "note": "Tusculum (in the Alban hills southeast of Rome) and Cumae (on the Bay of Naples) were sites of Cicero's country villas; such retreats were where he and his learned friends could meet for the leisured study (otium) prized by educated Romans."
+    }
+  ]
+}

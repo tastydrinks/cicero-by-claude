@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "From each horn of the harbour we are throwing out moles",
+      "entity_id": null,
+      "note": "Caesar quotes his own engineering: to bottle Pompey up in Brundisium he built moles out from both arms (\"horns\") of the harbour mouth, joining them by rafts; the deep water defeated the work and Pompey escaped on the Ides of March."
+    },
+    {
+      "loc": "2",
+      "anchor": "exacting vengeance for Cnaeus Carbo, for Marcus Brutus",
+      "entity_id": "person:cn-papirius-carbo",
+      "note": "Cn. Papirius Carbo (consul 82 BC) and the elder M. Iunius Brutus were Marian leaders whom the young Pompey had hunted down and executed during Sulla's victory; Caesar is reported to be casting himself as the avenger of Pompey's Sullan-era killings."
+    },
+    {
+      "loc": "2",
+      "anchor": "with this Pompey as his partner",
+      "entity_id": "person:sulla",
+      "note": "Caesar's charge is that Pompey had been the dictator Sulla's willing instrument in the proscriptions of 82--81 BC, earning the youthful nickname \"the teenage butcher\"; Caesar thus claims the moral high ground as restorer of Sulla's victims."
+    },
+    {
+      "loc": "2",
+      "anchor": "he complains of Milo, driven out by violence",
+      "entity_id": "person:milo",
+      "note": "T. Annius Milo had been convicted and exiled for the murder of Clodius in 52 BC, after Pompey rammed the prosecution through; the partisan injustice of that trial is now cited against the Pompeian side."
+    },
+    {
+      "loc": "2",
+      "anchor": "This is from a certain Baebius",
+      "entity_id": null,
+      "note": "An otherwise unknown informant who carried this report from Curio's camp; Cicero, suspicious of the man's reliability, breaks off with a damaged remark and declines to vouch for the gossip."
+    },
+    {
+      "loc": "3",
+      "anchor": "on the seventh day before the Kalends of April",
+      "entity_id": null,
+      "note": "By inclusive Roman reckoning backward from the Kalends (1st) of April, this is 26 March 49 BC --- the date Lepta's express gives for Caesar's expected arrival at Capua."
+    }
+  ]
+}

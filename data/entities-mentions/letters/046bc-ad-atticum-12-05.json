@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-05",
+  "mentions": [
+    {"loc": "1", "surface": "Quintus pater quartum vel potius millesimum nihil sapit", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "qui laetetur Luperco filio et Statio", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "qui laetetur Luperco filio et Statio", "entity_id": "person:statius-q-freedman", "in": "lat"},
+    {"loc": "1", "surface": "addo etiam Philotimum tertium", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "1", "surface": "Quintus the father, for the fourth time", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "rejoicing as he does in his son as Lupercus", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "in his son as Lupercus and in Statius", "entity_id": "person:statius-q-freedman", "in": "eng"},
+    {"loc": "1", "surface": "I add Philotimus as a third", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "2", "surface": "Cato me quidem delectat", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "2", "surface": "The Cato gives me pleasure", "entity_id": "person:cato-minor", "in": "eng"}
+  ]
+}

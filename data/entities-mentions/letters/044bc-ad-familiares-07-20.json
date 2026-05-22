@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-20",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "both"},
+    {"loc": "1", "surface": "Velia", "entity_id": "place:velia", "in": "both"},
+    {"loc": "1", "surface": "rufio", "entity_id": "person:rufio-trebatii", "in": "lat"},
+    {"loc": "1", "surface": "Rufio", "entity_id": "person:rufio-trebatii", "in": "eng"},
+    {"loc": "1", "surface": "Lupercal", "entity_id": "place:lupercal", "in": "lat"},
+    {"loc": "1", "surface": "the Lupercal", "entity_id": "place:lupercal", "in": "eng"},
+    {"loc": "1", "surface": "Velienses", "entity_id": "place:velia", "in": "lat"},
+    {"loc": "1", "surface": "the Velians", "entity_id": "place:velia", "in": "eng"},
+    {"loc": "1", "surface": "Haletem", "entity_id": "place:hales-river", "in": "lat"},
+    {"loc": "1", "surface": "the Halaes", "entity_id": "place:hales-river", "in": "eng"},
+    {"loc": "1", "surface": "Papirianam domum", "entity_id": "place:papiriana-domus", "in": "lat"},
+    {"loc": "1", "surface": "the Papirian house", "entity_id": "place:papiriana-domus", "in": "eng"},
+    {"loc": "2", "surface": "mi Trebati", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "2", "surface": "my Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "3", "surface": "Sex. Fadio", "entity_id": "person:sex-fadius-medicus", "in": "lat"},
+    {"loc": "3", "surface": "Sex. Fadius", "entity_id": "person:sex-fadius-medicus", "in": "eng"},
+    {"loc": "3", "surface": "Niconis", "entity_id": "person:nico-medicus", "in": "lat"},
+    {"loc": "3", "surface": "Nico's pupil", "entity_id": "person:nico-medicus", "in": "eng"},
+    {"loc": "3", "surface": "*ni/kwnos peri\\ *polufagi/as", "entity_id": "text:nico-de-polyphagia", "in": "lat"},
+    {"loc": "3", "surface": "On Overeating", "entity_id": "text:nico-de-polyphagia", "in": "eng"},
+    {"loc": "3", "surface": "Bassus noster", "entity_id": "person:bassus-velia", "in": "lat"},
+    {"loc": "3", "surface": "our friend Bassus", "entity_id": "person:bassus-velia", "in": "eng"}
+  ]
+}

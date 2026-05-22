@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Cluvian gardens",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "note": "An estate near Puteoli that Cicero inherited from the banker Marcus Cluvius, who had named Cicero among his heirs; no separate place entity is registered, so the name is bound to its eponymous former owner."
+    },
+    {
+      "loc": "1",
+      "anchor": "the fifth before the Nones",
+      "entity_id": null,
+      "note": "A Roman date counted back inclusively from the Nones; here the fifth day before the Nones of May, i.e. 3 May 44 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "Pilia's villa by the Lucrine",
+      "entity_id": "place:lucrine",
+      "note": "The villa of Atticus's wife Pilia sat on the Lucrine lagoon between Cumae and Puteoli; Cicero, departing by boat, is handing it over with its bailiffs and agents."
+    },
+    {
+      "loc": "1",
+      "anchor": "our Paetus's cheese-and-salt-fish",
+      "entity_id": "person:l-papirius-paetus",
+      "note": "L. Papirius Paetus, Cicero's wealthy literary friend at Naples; the comic Greek word tyrotarichum (\"cheese-and-salt-fish\") jokes at the modest fare Cicero expects at his table."
+    },
+    {
+      "loc": "2",
+      "anchor": "a crown of gold through the Forum",
+      "entity_id": "person:brutus",
+      "note": "Cicero's hyperbole that Brutus is now so popular he could parade a triumphal gold crown openly, given the public approval following Dolabella's suppression of the Caesar-cult."
+    },
+    {
+      "loc": "3",
+      "anchor": "run over to Greece",
+      "entity_id": "place:graecia",
+      "note": "Cicero's recurring plan in these weeks to sail to Greece, ostensibly to oversee his son's studies at Athens, in part to escape the political danger at home."
+    },
+    {
+      "loc": "3",
+      "anchor": "Leonides' letter",
+      "entity_id": "person:leonides-atheniensis",
+      "note": "Leonides, an Athenian teacher supervising young Marcus's studies; Cicero reads his guarded praise of the boy as a sign of anxiety rather than confidence."
+    },
+    {
+      "loc": "3",
+      "anchor": "thread by thread",
+      "entity_id": "person:herodes",
+      "note": "Cicero had told the rhetorician Herodes to report on his son in detail (Greek kata miton, \"thread by thread,\" i.e. point by point); Herodes' silence worries him."
+    },
+    {
+      "loc": "4",
+      "anchor": "Flamma Flaminius",
+      "entity_id": "person:flamma-debtor",
+      "note": "A man owing money in connection with Montanus's debts; Cicero presses Atticus to extract payment before it falls due late and at a loss. Identification with the Flamma of the financial letters is probable but not certain."
+    },
+    {
+      "loc": "4",
+      "anchor": "Montanus's business",
+      "entity_id": "person:l-tullius-montanus",
+      "note": "L. Tullius Montanus, a young man who had gone to Athens with Cicero's son; Cicero had stood surety for him and was now entangled in recovering the resulting debts."
+    }
+  ]
+}

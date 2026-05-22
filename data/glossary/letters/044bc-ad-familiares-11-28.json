@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-28",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "my own estate was diminished by a law of Caesar's",
+      "entity_id": "person:caesar",
+      "note": "Matius means he suffered financially under one of Caesar's economic measures (probably the law on debts and interest of 49/48 BC), pointing out that he gained no material reward from Caesar's victory."
+    },
+    {
+      "loc": "3",
+      "anchor": "the ``authors of liberty''",
+      "entity_id": null,
+      "note": "Matius quotes back, with bitter irony, the self-description of the Liberators (Caesar's assassins), who claimed to have restored Rome's freedom; he charges that they now deny others even the freedom to grieve."
+    },
+    {
+      "loc": "6",
+      "anchor": "the games which the young Caesar held for Caesar's victory",
+      "entity_id": "person:octavian",
+      "note": "The ludi Victoriae Caesaris of July 44 BC, staged by Octavian to honour the dead dictator; the comet seen during them was taken as Caesar's soul ascending. Matius's supervision of them was the chief charge against him."
+    },
+    {
+      "loc": "8",
+      "anchor": "I shall spend what remains of my life in peace at Rhodes",
+      "entity_id": "place:rhodes",
+      "note": "Rhodes was the conventional retreat for a Roman seeking honourable withdrawal from politics into Greek philosophical leisure; Matius offers it as proof that he covets no power at Rome."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-12",
+  "mentions": [
+    {"loc": "1", "surface": "Antonius", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Trebatio", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "Curionem", "entity_id": "person:c-scribonius-curio-tr", "in": "lat"},
+    {"loc": "1", "surface": "ad Hortensium", "entity_id": "person:q-hortensius-filius", "in": "lat"},
+    {"loc": "1", "surface": "Antony says he has been given specific orders", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "passed the message through Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "when I got Curio", "entity_id": "person:c-scribonius-curio-tr", "in": "eng"},
+    {"loc": "1", "surface": "he had written to Hortensius about me", "entity_id": "person:q-hortensius-filius", "in": "eng"},
+    {"loc": "2", "surface": "Sicilia petenda", "entity_id": "place:sicilia", "in": "lat"},
+    {"loc": "2", "surface": "in Hispaniis", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "2", "surface": "de ipsa Sicilia", "entity_id": "place:sicilia", "in": "lat"},
+    {"loc": "2", "surface": "Siculorum", "entity_id": "place:sicilia", "in": "lat"},
+    {"loc": "2", "surface": "ad Catonem", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "2", "surface": "ab Hispaniis", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "2", "surface": "Sicily is the target", "entity_id": "place:sicilia", "in": "eng"},
+    {"loc": "2", "surface": "Only let things go right in Spain", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "2", "surface": "as for Sicily itself", "entity_id": "place:sicilia", "in": "eng"},
+    {"loc": "2", "surface": "a rush of Sicilians", "entity_id": "place:sicilia", "in": "eng"},
+    {"loc": "2", "surface": "Sicilians to Cato", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "2", "surface": "word from Spain will come", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "3", "surface": "C. Marcellum", "entity_id": "person:c-claudius-marcellus-cos50", "in": "lat"},
+    {"loc": "3", "surface": "Quintum filium", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "3", "surface": "I have Gaius Marcellus", "entity_id": "person:c-claudius-marcellus-cos50", "in": "eng"},
+    {"loc": "3", "surface": "I shall handle young Quintus more severely", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "4", "surface": "Servium", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "4", "surface": "I am expecting Servius", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"}
+  ]
+}

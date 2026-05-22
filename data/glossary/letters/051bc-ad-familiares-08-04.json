@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "first, Messala acquitted; then the same man condemned",
+      "entity_id": "person:m-valerius-messalla-rufus",
+      "note": "M. Valerius Messalla Rufus (cos. 53) was acquitted on the general bribery charge but then convicted under the stricter Lex Licinia de sodaliciis; Roman bribery prosecutions could be pressed twice under different statutes."
+    },
+    {
+      "loc": "1",
+      "anchor": "P. Dolabella made one of the Fifteen",
+      "entity_id": "institution:quindecimviri",
+      "note": "The quindecimviri sacris faciundis, the priestly college of fifteen that guarded and consulted the Sibylline Books; co-option into it was a prestigious lifelong honour, here won by the young Dolabella."
+    },
+    {
+      "loc": "1",
+      "anchor": "he had gone down to the Campus",
+      "entity_id": "place:campus-martius",
+      "note": "Elections were held on the Campus Martius outside the city; 'to go down to the Campus' is the idiom for standing as a candidate. Lentulus Crus had been confident of winning the priestly vacancy and lost."
+    },
+    {
+      "loc": "2",
+      "anchor": "Servaeus, tribune-of-the-plebs designate, condemned, and C. Curio standing for the place in his stead",
+      "note": "Servaeus, elected tribune for 50 BC, was convicted before taking office, leaving the tribunate open; the unpredictable C. Scribonius Curio won the by-election, a turn that would prove decisive on the road to civil war."
+    },
+    {
+      "loc": "3",
+      "anchor": "the proposal touching the dictatorship, the one we made fun of long ago",
+      "note": "M. Caelius Vinicianus, as tribune in 53 BC, had floated giving Pompey a dictatorship; the revival of that unpopular old scheme wrecked his candidacy at the aedilician elections."
+    },
+    {
+      "loc": "4",
+      "anchor": "a session of the Senate had been held at the temple of Apollo",
+      "entity_id": "god:apollo",
+      "note": "The temple of Apollo Sosianus stood outside the sacred boundary (pomerium); the Senate met there so that Pompey, who held imperium and could not enter the city without forfeiting it, could attend in person."
+    },
+    {
+      "loc": "4",
+      "anchor": "that legion which Pompey had set down to Caesar's account",
+      "note": "A legion Pompey had lent Caesar for the Gallic war; the squabble over recalling it, charged against Caesar's books, was an early skirmish in the dispute that led to civil war."
+    }
+  ]
+}

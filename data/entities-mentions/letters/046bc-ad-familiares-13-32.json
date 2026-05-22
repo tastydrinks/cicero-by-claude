@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-32",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "1", "surface": "Halaesina", "entity_id": "place:halaesa", "in": "lat"},
+    {"loc": "1", "surface": "Halaesa", "entity_id": "place:halaesa", "in": "eng"},
+    {"loc": "1", "surface": "M. et C. Clodios Archagathum et Philonem", "entity_id": "person:m-clodius-archagathus", "in": "lat"},
+    {"loc": "1", "surface": "Marcus and Gaius Clodius", "entity_id": "person:m-clodius-archagathus", "in": "eng"},
+    {"loc": "1", "surface": "M. et C. Clodios Archagathum et Philonem", "entity_id": "person:c-clodius-philo-halaesin", "in": "lat"},
+    {"loc": "1", "surface": "Archagathus and Philo", "entity_id": "person:c-clodius-philo-halaesin", "in": "eng"},
+    {"loc": "2", "surface": "hanc familiam", "entity_id": "person:m-clodius-archagathus", "in": "lat"},
+    {"loc": "2", "surface": "this family", "entity_id": "person:m-clodius-archagathus", "in": "eng"}
+  ]
+}

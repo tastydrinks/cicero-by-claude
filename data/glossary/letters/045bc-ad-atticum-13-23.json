@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-23",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Brutus",
+      "entity_id": "person:brutus",
+      "note": "Marcus Junius Brutus, the future tyrannicide and dedicatee of Cicero's De Finibus, then preparing to leave Rome on a sudden long journey. Cicero is weighing whether to keep him company at Rome or Tusculum."
+    },
+    {
+      "loc": "2",
+      "anchor": "The books for Varro",
+      "entity_id": "person:m-terentius-varro",
+      "note": "The dialogue Cicero was dedicating to the polymath M. Terentius Varro --- the revised Academica --- in copyists' hands and nearly finished. Cicero fretted over the dedication throughout these letters."
+    },
+    {
+      "loc": "3",
+      "anchor": "this withholding-clause",
+      "entity_id": null,
+      "note": "A retentio: a clause by which a debtor or buyer holds back part of a sum pending some condition. Cicero, advised by the jurist Trebatius, is pressing Atticus to settle an account without letting the other party exploit such a hold."
+    },
+    {
+      "loc": "3",
+      "anchor": "Trebatius",
+      "entity_id": "person:c-trebatius-testa",
+      "note": "Gaius Trebatius Testa, the jurist and friend of Cicero (dedicatee of the Topica), here cited for his legal view on the withholding-clause."
+    },
+    {
+      "loc": "3",
+      "anchor": "a Scaevola talking with him",
+      "entity_id": "person:scaeva",
+      "note": "Scaeva, invoked as the type of the relentless creditor: Cicero tells Atticus to deal with Polla as ruthlessly as that Scaeva would. The English renders the name loosely as 'Scaevola.'"
+    }
+  ]
+}

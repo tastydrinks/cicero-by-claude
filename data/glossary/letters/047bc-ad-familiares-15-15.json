@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-15",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "with that one battle, as if appointed by fate, fought",
+      "note": "The unnamed decisive battle is Pharsalus (August 48 BC), where Caesar defeated Pompey. Cicero and Cassius had agreed to treat its outcome as settling their own course, and both made their peace with Caesar afterward."
+    },
+    {
+      "loc": "2",
+      "anchor": "the same clemency that Asia found, and Achaea too",
+      "note": "Caesar's celebrated clementia toward defeated Pompeians: he pardoned many after Pharsalus, including Cassius (who surrendered in the Hellespont) and Cicero. Cassius had served Pompey as a legate (here 'intercessor') in Achaea."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Alexandrian war was to be tacked on at such length",
+      "entity_id": "event:alexandrian-war",
+      "note": "After Pharsalus, Caesar was pinned down at Alexandria for some eight months (48-47 BC) in the dynastic war over Cleopatra, delaying the settlement of the wider civil war."
+    },
+    {
+      "loc": "2",
+      "anchor": "some Pharnaces or other was going to spread terror through Asia",
+      "entity_id": "person:pharnaces-ii",
+      "note": "Pharnaces II of Pontus, son of Mithridates VI, exploited Caesar's absence to overrun Asia Minor; Caesar crushed him at Zela in 47 BC, the campaign of the boast 'veni, vidi, vici'."
+    },
+    {
+      "loc": "4",
+      "anchor": "those earliest ones you sent from Luceria",
+      "entity_id": "place:luceria",
+      "note": "Luceria in Apulia was a Pompeian mustering-point at the outbreak of the war in early 49 BC; Cassius had written from there urging Cicero on a course Cicero now wishes he had followed."
+    }
+  ]
+}

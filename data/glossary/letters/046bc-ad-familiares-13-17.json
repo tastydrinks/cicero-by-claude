@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO S. D. SERVIO SULPICIO",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "S.D. = salutem dicit. Servius Sulpicius Rufus (consul 51 BC) was one of Rome's greatest jurists; at this date (46 BC) he was governing Achaea as proconsul. Cicero and Sulpicius maintained one of their era's most celebrated friendships, documented across Ad Familiares 4."
+    },
+    {
+      "loc": "1",
+      "anchor": "I am fond of M'. Curius, who carries on business at Patrae",
+      "entity_id": "person:mn-curius-patrensis",
+      "note": "M'. Curius is a Roman businessman resident at Patrae (Patras, the main port of Achaea), which fell squarely under Sulpicius's jurisdiction as proconsul. Curius appears again in Ad Atticum as one of Atticus's closest business associates and is described there as a man of integrity and Roman civic feeling far from home."
+    },
+    {
+      "loc": "1",
+      "anchor": "at Patrae, in this most wretched war as on several earlier occasions, his whole house lay open to me",
+      "entity_id": "place:patrae",
+      "note": "Patrae (modern Patras) was the main harbour-city of Achaea on the Gulf of Corinth, a natural stopping-point for sea-crossings between Italy and Greece. 'This most wretched war' refers to the civil war of 49--48 BC; Cicero passed through the region during his uncertain months between Pompey's camp and his eventual pardon by Caesar."
+    },
+    {
+      "loc": "1",
+      "anchor": "he is the closest intimate of our friend Atticus, and beyond all others it is he alone whom Atticus singles out for his regard and affection",
+      "entity_id": "person:atticus",
+      "note": "Titus Pomponius Atticus (110--32 BC), Cicero's lifelong friend and correspondent, had extensive business ties in Greece; his endorsement of Curius is Cicero's strongest rhetorical card, since Atticus's judgment of character was universally trusted and he was also a close friend of Sulpicius."
+    },
+    {
+      "loc": "3",
+      "anchor": "I will pledge to you --- or rather, I do pledge, and I take it upon myself",
+      "entity_id": null,
+      "note": "The technical language of sponsio (pledge, surety): Cicero offers himself as a formal guarantor of Curius's character, the strongest personal warranty a Roman patron could give, elevating the recommendation from polite letter to quasi-legal bond."
+    }
+  ]
+}

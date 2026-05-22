@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Vatinius, by whom he was openly attacked, we cut to pieces",
+      "entity_id": "person:vatinius-tribune",
+      "note": "P. Vatinius, the tribune of 59 BC who had carried Caesar's commands, appeared as a hostile witness against Sestius; Cicero's cross-examination of him survives as the In Vatinium."
+    },
+    {
+      "loc": "1",
+      "anchor": "if Macer Licinius hesitated",
+      "entity_id": "person:licinius-calvus",
+      "note": "C. Licinius Macer Calvus, the celebrated young orator and neoteric poet, who had a standing feud with Vatinius and prosecuted him more than once. Cicero calls him 'Macer Licinius' here."
+    },
+    {
+      "loc": "2",
+      "anchor": "Tyrannio teaches at my house",
+      "entity_id": "person:tyrannio",
+      "note": "Tyrannion of Amisus, a Greek grammarian brought to Rome as a captive, who helped arrange Cicero's library and tutored the household; here he teaches the young Quintus."
+    },
+    {
+      "loc": "2",
+      "anchor": "Two days remain after the Latin Festival which are religiously kept",
+      "entity_id": "festival:feriae-latinae",
+      "note": "The Feriae Latinae, the movable spring festival of the Latin towns on the Alban Mount, presided over by the consuls. On its days, and certain days following (dies religiosi), public business could not be transacted."
+    },
+    {
+      "loc": "4",
+      "anchor": "And yet there have been thanksgivings",
+      "entity_id": "institution:senate",
+      "note": "A supplicatio was a public thanksgiving voted by the Senate, with the temples opened and the gods honoured for a victory or deliverance; such days, like festivals, also blocked the assemblies."
+    },
+    {
+      "loc": "5",
+      "anchor": "posted a notice that he would sell ``the Catonian gang.''",
+      "entity_id": "person:c-porcius-cato-tr56",
+      "note": "Milo had a stooge secretly buy up C. Cato's troop of beast-fighters; the tribune Racilius then advertised them for public auction as the 'familia Catoniana,' a humiliating joke at Cato's expense."
+    },
+    {
+      "loc": "6",
+      "anchor": "the senators' urn cleared him generously, the knights' was even, the tribuni aerarii condemned",
+      "entity_id": "office:tribuni-aerarii",
+      "note": "Under the lex Aurelia of 70 BC criminal juries were drawn from three orders --- senators, knights (equites), and tribuni aerarii --- who voted in separate decuriae. Sextus Clodius's near-acquittal turned on the split between them."
+    }
+  ]
+}

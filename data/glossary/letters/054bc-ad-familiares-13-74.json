@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-74",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO Q. PHILIPPO PROCOS. S.",
+      "entity_id": "person:q-marcius-philippus-procos",
+      "note": "The letter-heading; the second of two letters to Q. Marcius Philippus, proconsul (PROCOS. = proconsule) in the East (Fam. 13.73-74). A renewed recommendation of the same two friends, L. Oppius and L. Egnatius."
+    },
+    {
+      "loc": "1",
+      "anchor": "the business affairs of the absent L. Egnatius",
+      "entity_id": "person:l-egnatius-rufus",
+      "note": "L. Egnatius Rufus was a Roman banker and knight with provincial business interests in the East; \"absent\" because he managed those affairs through agents while remaining at Rome. Cicero commends his interests as if they were his own."
+    }
+  ]
+}

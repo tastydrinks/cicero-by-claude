@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-13",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "APPIO PVLCHRO", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "APPIO PVLCHRO", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "2", "surface": "censorem", "entity_id": "office:censor", "in": "lat"},
+    {"loc": "2", "surface": "magistrum morum", "entity_id": "office:censor", "in": "lat"},
+    {"loc": "2", "surface": "censor", "entity_id": "office:censor", "in": "eng"},
+    {"loc": "2", "surface": "a master of public manners", "entity_id": "office:censor", "in": "eng"}
+  ]
+}

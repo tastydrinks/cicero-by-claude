@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "longings for the city and city life",
+      "entity_id": null,
+      "note": "Desideria urbis et urbanitatis: Trebatius pined for Rome and its sophisticated society. 'The city' (urbs) means Rome specifically, and urbanitas its urbane wit and culture, the thing a man on campaign in Gaul most missed."
+    },
+    {
+      "loc": "1",
+      "anchor": "as the matrons of Corinth excused Medea",
+      "entity_id": "person:medea",
+      "note": "Cicero quotes the opening of Ennius's tragedy Medea Exul (itself adapted from Euripides), where the Corinthian women address the exiled Medea. He casts himself as Medea and Trebatius as the reluctant traveller, pressing the moral that men prosper away from home."
+    },
+    {
+      "loc": "1",
+      "anchor": "hands most thoroughly whitened with chalk",
+      "entity_id": null,
+      "note": "Manibus gypsatissimis: an actor playing a female role wore chalk-whitened hands and arms (and a mask) to suggest a woman's pale skin. Cicero teases that he is 'playing Medea' on stage, gesturing in costume."
+    },
+    {
+      "loc": "2",
+      "anchor": "chariot-fighters",
+      "entity_id": "group:essedarii",
+      "note": "Essedarii: warriors fighting from the British and Gallic light two-horse war-chariot (essedum), described in Caesar's De Bello Gallico. A recurring joke in the Trebatius letters about the dangers of Britain."
+    },
+    {
+      "loc": "2",
+      "anchor": "since I have begun to play Medea",
+      "entity_id": "person:medea",
+      "note": "Cicero keeps up the theatrical conceit, closing with another line of the Ennian Medea: 'he who, being wise, cannot help his own self, is wise to no purpose' --- a jibe at the learned jurist who cannot manage his own career."
+    }
+  ]
+}

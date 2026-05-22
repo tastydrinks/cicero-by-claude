@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-26",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO COR ni FICIO S.",
+      "entity_id": "person:q-cornificius",
+      "note": "A letter of recommendation from Cicero to Q. Cornificius, proconsul of Africa. The S. is salutem (dicit), \"sends greetings\"; the broken spacing of CORNIFICIO is a quirk of the manuscript transmission."
+    },
+    {
+      "loc": "1",
+      "anchor": "made heirs of his own kind",
+      "entity_id": null,
+      "note": "Under Roman law a will named heredes who took the whole estate (and its debts) jointly; Turius left it to a circle of fellow-businessmen rather than to family, hence \"of his own kind.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "of being recommended",
+      "entity_id": null,
+      "note": "A commendatio was a formal letter of introduction asking a magistrate to favour the bearer; the whole book-13 genre. Here Cicero notes the men have already been so well treated that thanks, not a fresh request, are owed."
+    },
+    {
+      "loc": "2",
+      "anchor": "Eros Turius, the freedman of Q. Turius",
+      "entity_id": "person:eros-turius",
+      "note": "A freedman bore his patron's nomen (here Turius); freedmen often managed a patron's business and could attempt to divert an inheritance, as Eros is alleged to be doing."
+    }
+  ]
+}

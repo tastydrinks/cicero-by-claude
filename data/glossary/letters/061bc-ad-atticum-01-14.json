@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the most frivolous tribune of the plebs Fufius brought Pompey forward to a public meeting",
+      "entity_id": "person:q-fufius-calenus",
+      "note": "Q. Fufius Calenus, tribune of the plebs in 61 BC and a partisan of Clodius. A tribune could summon a magistrate or private man to a contio (an informal public meeting, not a voting assembly) and put questions to him before the people."
+    },
+    {
+      "loc": "1",
+      "anchor": "The matter was being held in the Circus Flaminius",
+      "entity_id": "place:circus-flaminius",
+      "note": "The Circus Flaminius lay in the Campus Martius outside the pomerium (the sacred boundary), so meetings there could include Pompey, who as a triumphator-in-waiting could not enter the city proper without forfeiting his triumph."
+    },
+    {
+      "loc": "1",
+      "anchor": "whether it pleased him that the judges should be selected by the praetor, the same praetor presiding",
+      "entity_id": null,
+      "note": "The senate's bill against the Bona Dea sacrilege proposed an extraordinary court whose jurors would be hand-picked by the presiding praetor rather than drawn by lot, making conviction of Clodius far more likely; this is the point Pompey is pressed to endorse."
+    },
+    {
+      "loc": "3",
+      "anchor": "of which you are the Aristarchus",
+      "entity_id": "person:aristarchus-grammaticus",
+      "note": "Aristarchus of Samothrace was the great Alexandrian critic and editor of Homer, a byword for exacting literary judgement; Cicero flatters Atticus as the discerning critic of his speeches."
+    },
+    {
+      "loc": "4",
+      "anchor": "of the concord of the equestrians",
+      "entity_id": "group:equites",
+      "note": "The concordia ordinum, the harmony between the senate and the equestrian order (the equites, the wealthy non-senatorial class from which jurors and the tax-farming publicani were drawn), was the watchword of Cicero's political programme after his consulship."
+    },
+    {
+      "loc": "5",
+      "anchor": "The senate is the Areopagus",
+      "entity_id": "institution:areopagus",
+      "note": "The Areopagus was the venerable homicide council of Athens, a symbol of grave and incorruptible authority; Cicero pays the senate the highest compliment by the comparison."
+    },
+    {
+      "loc": "5",
+      "anchor": "with little daughter Curio as their leader",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "\"Curio's little daughter\" (filiola Curionis) is a sneer at the young C. Scribonius Curio, son of the consul of 76, mocked for his effeminacy; he led the bands of fashionable youths supporting Clodius. The plain \"Curio\" lower in the section who proposed no decree is by contrast his father, the consular."
+    },
+    {
+      "loc": "5",
+      "anchor": "Clodius's gangs had occupied the bridges; the voting tablets were being distributed in such a way that none ``As you propose'' was given",
+      "entity_id": null,
+      "note": "Voters crossed narrow gangways (pontes) to cast ballots; controlling them let Clodius's men hand out only \"ANTIQUO\" (reject) tablets and withhold the \"VTI ROGAS\" (\"as you propose,\" i.e. yes) tablets, rigging the vote against the bill."
+    },
+    {
+      "loc": "5",
+      "anchor": "about fifteen men assented to Curio when he made no senate's decree; on the other side there were easily four hundred",
+      "entity_id": "institution:senate",
+      "note": "A senatorial vote was taken by physical division (discessio): senators walked to the side of the proposal they backed. The lopsided 400-to-15 split shows Clodius's faction was crushed in the senate even as he obstructed the popular vote."
+    },
+    {
+      "loc": "5",
+      "anchor": "insulted Lucullus, Hortensius, Gaius Piso, Messalla the consul",
+      "entity_id": "person:c-calpurnius-piso-frugi",
+      "note": "\"Gaius Piso\" here is C. Calpurnius Piso, consul 67 (the pacificator of the Allobroges), one of the leading consulars Clodius abused; he is distinct from the sitting consul M. Pupius Piso."
+    },
+    {
+      "loc": "6",
+      "anchor": "Cornutus is a pseudo-Cato",
+      "entity_id": "person:cornutus-tr-pl-61",
+      "note": "Cornutus, a tribune of the plebs in 61, affected Cato's rigid sternness without his substance, earning Cicero's nickname \"pseudo-Cato\"; the Cato meant is M. Porcius Cato Uticensis."
+    },
+    {
+      "loc": "7",
+      "anchor": "buy the Pacilian house",
+      "entity_id": null,
+      "note": "The \"Pacilian house\" (Paciliana domus) was a property formerly belonging to a man named Pacilius, on the open market; Quintus is selling his Tusculan villa to finance the purchase."
+    },
+    {
+      "loc": "7",
+      "anchor": "Ides of February",
+      "entity_id": null,
+      "note": "The Ides fell on the 13th of February (and of most months); this dates the letter to 13 February 61 BC."
+    }
+  ]
+}

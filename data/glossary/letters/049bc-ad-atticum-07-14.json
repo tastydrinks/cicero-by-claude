@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the sixth day before the Kalends of February",
+      "entity_id": null,
+      "note": "By the Roman inclusive count backward from the Kalends (1st) of February, the sixth day before is 27 January; the eighth day before, mentioned just after, is 25 January."
+    },
+    {
+      "loc": "1",
+      "anchor": "Lucius Caesar brought Caesar's terms to Pompey",
+      "entity_id": "person:l-iulius-caesar-son",
+      "note": "L. Iulius Caesar the younger, a kinsman of the dictator, served as Caesar's envoy in January 49 BC, carrying his peace terms to Pompey and the consuls; he is distinct from his father, the consul of 64 BC, and from Caesar himself."
+    },
+    {
+      "loc": "1",
+      "anchor": "while he was with the consuls at Teanum",
+      "entity_id": null,
+      "note": "Caesar's offer was that he withdraw garrisons from towns seized outside his province (Cisalpine Gaul) in exchange for the Pompeians returning to Rome and settling matters through the senate; the consuls of 49 were with Pompey at Teanum Sidicinum to receive it."
+    },
+    {
+      "loc": "2",
+      "anchor": "the colonists of Campania are responding with no great readiness",
+      "entity_id": null,
+      "note": "The Campani coloni were settlers planted on the rich ager Campanus under Caesar's land law of 59 BC; unsurprisingly they showed little zeal for the levy raised against their benefactor."
+    },
+    {
+      "loc": "2",
+      "anchor": "Caesar's gladiators at Capua",
+      "entity_id": null,
+      "note": "Caesar owned a large gladiatorial training school (ludus) at Capua; fearing the gladiators might be turned loose, Pompey broke up the troupe by billeting them two at a time on respectable householders."
+    },
+    {
+      "loc": "3",
+      "anchor": "your sister among them",
+      "entity_id": "person:pomponia",
+      "note": "Atticus's sister Pomponia was the wife of Cicero's brother Quintus; she was among the women of the family whom Cicero urged to leave Rome as people of their rank were departing the city."
+    }
+  ]
+}

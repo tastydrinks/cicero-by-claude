@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "am I to bear Curtius in the Senate-house",
+      "entity_id": "person:c-curtius-postumus",
+      "note": "Curtius (Postumus) was a war-eager Caesarian whom Cicero had earlier patronised; the thought of having to sit with such men in a Caesar-dominated Senate is what makes staying in Italy intolerable. The Senate-house (curia) stands for the whole compromised political order Cicero would have to rejoin."
+    },
+    {
+      "loc": "2",
+      "anchor": "Tell us, Marcus Tullius",
+      "entity_id": "person:cicero",
+      "note": "Cicero quotes the formula by which the presiding magistrate called on a senator by name to give his opinion (sententia); here he addresses the demand to himself. The device dramatises his being forced, as a leading consular, to declare which side he is on."
+    },
+    {
+      "loc": "2",
+      "anchor": "the day of the battle of the Allia",
+      "entity_id": "event:battle-of-allia",
+      "note": "At the river Allia (c. 390 BC) the Gauls routed the Romans, leading to the sack of Rome; the anniversary (18 July) was marked as a dies ater, an unlucky day. Cicero's point is that the original blunder (the Allia) is mourned more than the catastrophe it caused (the City's fall), as he blames Pompey's earlier errors for the present ruin."
+    },
+    {
+      "loc": "3",
+      "anchor": "because of Balbus's letters and conversations",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus, Caesar's intimate agent writing from Rome, was working to keep Cicero neutral and reconciled to Caesar. Cicero says it was Balbus's reports that finally convinced him Caesar's real aim was Pompey's destruction."
+    },
+    {
+      "loc": "3",
+      "anchor": "that hero in Homer",
+      "entity_id": "person:homer",
+      "note": "The hero is Achilles, who in the Iliad chooses to avenge his fallen comrade Patroclus even though his mother Thetis warns that his own death must follow Hector's. Cicero casts himself as Achilles and Pompey as the comrade-benefactor he cannot abandon."
+    },
+    {
+      "loc": "4",
+      "anchor": "those municipal decrees about his health",
+      "entity_id": null,
+      "note": "When Pompey fell dangerously ill in 50 BC the towns of Italy passed public decrees and held thanksgivings for his recovery. Cicero contrasts that wave of devotion with the speed with which the same towns now court the victorious Caesar."
+    }
+  ]
+}

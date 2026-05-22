@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-07",
+  "mentions": [
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Quinto", "entity_id": "person:q-cicero-younger", "in": "lat"},
+    {"loc": "1", "surface": "Quintus", "entity_id": "person:q-cicero-younger", "in": "eng"},
+    {"loc": "1", "surface": "Chaerippus", "entity_id": "person:chaerippus", "in": "lat"},
+    {"loc": "1", "surface": "Chaerippus", "entity_id": "person:chaerippus", "in": "eng"},
+    {"loc": "1", "surface": "Apollonio", "entity_id": "person:apollonius-debtor", "in": "lat"},
+    {"loc": "1", "surface": "Apollonius", "entity_id": "person:apollonius-debtor", "in": "eng"},
+    {"loc": "2", "surface": "Metello", "entity_id": "person:metellus-nepos", "in": "lat"},
+    {"loc": "2", "surface": "Metellus", "entity_id": "person:metellus-nepos", "in": "eng"},
+    {"loc": "2", "surface": "Publium", "entity_id": "person:clodius", "in": "lat"},
+    {"loc": "2", "surface": "Publius", "entity_id": "person:clodius", "in": "eng"},
+    {"loc": "3", "surface": "Milonem", "entity_id": "person:milo", "in": "lat"},
+    {"loc": "3", "surface": "Milo", "entity_id": "person:milo", "in": "eng"},
+    {"loc": "3", "surface": "Arpinatium", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "3", "surface": "Arpinates", "entity_id": "place:arpinum", "in": "eng"},
+    {"loc": "3", "surface": "Laterio", "entity_id": "place:laterium", "in": "lat"},
+    {"loc": "3", "surface": "Laterium", "entity_id": "place:laterium", "in": "eng"},
+    {"loc": "3", "surface": "Ciceronem", "entity_id": "person:q-cicero-younger", "in": "lat"},
+    {"loc": "3", "surface": "Cicero", "entity_id": "person:q-cicero-younger", "in": "eng"}
+  ]
+}

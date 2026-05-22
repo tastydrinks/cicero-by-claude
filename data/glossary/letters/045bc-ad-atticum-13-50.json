@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-50",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the books against Cato",
+      "entity_id": "person:cato-minor",
+      "note": "Caesar's Anticato, a pamphlet attacking the memory of Cato the Younger written in answer to Cicero's own laudatory Cato. Cicero, for political safety, sends Caesar a letter praising it, vetted first by Caesar's agents Oppius and Balbus."
+    },
+    {
+      "loc": "1",
+      "anchor": "Oppius and Balbus",
+      "entity_id": "person:gaius-oppius",
+      "note": "C. Oppius and the elder L. Cornelius Balbus, Caesar's two chief political managers at Rome, who screen Cicero's letter before it goes forward."
+    },
+    {
+      "loc": "2",
+      "anchor": "be given by formal conveyance",
+      "entity_id": null,
+      "note": "Mancipatio, the solemn Roman ceremony for transferring ownership of valuable property, requiring scales, a bronze ingot, and five adult witnesses. A slave is handed over by this rite as the legal mechanism for conveying Cicero's share of the estate."
+    },
+    {
+      "loc": "2",
+      "anchor": "for the Brinnian estate",
+      "entity_id": "person:brinnius",
+      "note": "The estate of the deceased Brinnius, of which Cicero was a co-heir; its sale and conveyance at Puteoli, handled through the agent Vestorius, recur across the late 45 BC letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "to a certain Hetereius",
+      "entity_id": "person:hetereius",
+      "note": "Hetereius, the buyer to whom Cicero's share of the Brinnian estate is to be conveyed at Puteoli; known only from this transaction."
+    },
+    {
+      "loc": "3",
+      "anchor": "About Caesar's coming",
+      "entity_id": "person:caesar",
+      "note": "Caesar's expected progress through Campania after his return from Spain in 45 BC, which Cicero and his neighbours anxiously track; it culminates in the famous visit narrated in 13.52."
+    },
+    {
+      "loc": "4",
+      "anchor": "but Alsium",
+      "entity_id": "place:alsium",
+      "note": "A coastal town of Etruria northwest of Rome on the Via Aurelia, where Cicero plans to wait to meet Caesar; he is arranging borrowed lodgings nearby."
+    }
+  ]
+}

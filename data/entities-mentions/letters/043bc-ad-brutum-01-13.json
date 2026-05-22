@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-13",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. Lepido",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "sororis meae",
+      "entity_id": "person:iunia-secunda",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "my sister's",
+      "entity_id": "person:iunia-secunda",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Lepidi",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "matri",
+      "entity_id": "person:servilia-hortensii",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "my mother",
+      "entity_id": "person:servilia-hortensii",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "sorori",
+      "entity_id": "person:iunia-secunda",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "my sister",
+      "entity_id": "person:iunia-secunda",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "patrem Lepidum",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "their father Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "senatu",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cicerone",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "consulari",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "a consular of such standing",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-24",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Lyso, my host and friend",
+      "entity_id": "person:lyso-patrensis",
+      "note": "Lyso of Patrae was Cicero's hospes (guest-friend) in the Greek sense: a hereditary bond of mutual hospitality, distinct from mere friendship. Cicero had stayed with Lyso during his time in Patrae in the aftermath of Pharsalus (48 BC). The follow-up letter 13.24 confirms that an earlier recommendation (now lost) had already been sent."
+    },
+    {
+      "loc": "1",
+      "anchor": "he was in the habit of speaking at Rome against your standing",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "An accusation that Lyso had slandered Servius's dignitas (standing, reputation) at Rome. Dignitas was a Roman aristocrat's most prized social-political asset; even a rumour of disparagement in the capital could damage a proconsul's position and post-provincial career."
+    },
+    {
+      "loc": "2",
+      "anchor": "thanks to your easy temper and humanity",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Facilitas (easy temper) and humanitas (cultivated benevolence) are paired as the marks of a just and educated provincial governor; Cicero frequently deploys this flattery in recommendation letters to characterise the recipient as already inclined toward clemency."
+    },
+    {
+      "loc": "3",
+      "anchor": "he has accomplished everything by my one letter",
+      "entity_id": null,
+      "note": "Cicero refers to the earlier letter of recommendation to Servius on Lyso's behalf (probably Fam. 13.19 or a now-lost predecessor). The remark illustrates the weight that a high-profile recommendation letter from a consular could carry in a provincial governor's court."
+    }
+  ]
+}

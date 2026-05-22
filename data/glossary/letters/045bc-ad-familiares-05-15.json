@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "had I not put that word out of service for every season",
+      "entity_id": null,
+      "note": "Cicero will not call Lucceius's letter \"delightful\" (iucundus): in his grief after Tullia's death he has retired that word from all use. The mournful pun answers Lucceius's reproach in Fam. 5.14 for shunning company."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Forum being common ground, neighbourhood is not required",
+      "entity_id": "place:forum-romanum",
+      "note": "In the city the Forum Romanum is the shared meeting-place of all public men, so two friends need not live next door to see each other --- yet, Cicero notes, even there they never managed it. The Forum was the civic, judicial, and social heart of Rome."
+    },
+    {
+      "loc": "3",
+      "anchor": "stripped of the adornments and consolations both of home and of the Forum",
+      "entity_id": null,
+      "note": "Domesticis et forensibus ornamentis: Cicero's two ruined spheres --- his household (after Tullia's death) and his public life (after Pharsalus and Caesar's dominance). With both gone, only his books remain."
+    },
+    {
+      "loc": "4",
+      "anchor": "for the times, for men, for the Forum, for the Senate-house",
+      "entity_id": "place:senate-curia",
+      "note": "The catalogue of what Cicero now loathes maps his withdrawal from public life under Caesar's dictatorship: the Forum (the courts) and the Curia (the Senate-house) had been the two arenas of his career. Both are now closed to free political action."
+    }
+  ]
+}

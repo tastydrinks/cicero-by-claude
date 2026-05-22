@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-32",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO ACILIO PROCONSVLI S.",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "Third consecutive recommendation letter to M'. Acilius Glabrio, proconsul of Sicily; this one on behalf of the Clodius brothers of Halaesa. The same proconsular address formula (ACILIO PROCONSVLI) confirms the same recipient as 13.30--31."
+    },
+    {
+      "loc": "1",
+      "anchor": "In the town of Halaesa, a place of such elegance and such standing",
+      "entity_id": "place:halaesa",
+      "note": "Halaesa (modern Tusa, northern Sicily) was among the most prosperous and Hellenised of the inland Sicilian towns, famous for its civic order and wealthy elite; Cicero celebrated it in the Verrine orations as a model community. Lauta (elegant/wealthy) and nobilis (distinguished) are the precise compliments."
+    },
+    {
+      "loc": "1",
+      "anchor": "both by ties of hospitality and by intimate friendship, the brothers Marcus and Gaius Clodius --- Archagathus and Philo",
+      "entity_id": "person:m-clodius-archagathus",
+      "note": "The two brothers bear a Roman nomen (Clodius) alongside Greek cognomina (Archagathus, Philo), the typical pattern for Sicilian elite families enfranchised under the late Republic; their double connection to Cicero --- hospitium (formal guest-friendship) and familiaritas (intimate personal friendship) --- places them at the top tier of his Sicilian network."
+    },
+    {
+      "loc": "1",
+      "anchor": "I may seem to be levelling out my recommendations by some sort of canvasser's habit",
+      "entity_id": null,
+      "note": "Cicero acknowledges the rhetorical risk of over-recommending: a letter of introduction loses force if the recipient suspects it is merely formulaic (ambitio here means something like inflated courtesy rather than electoral canvassing). His self-correction is a standard captatio benevolentiae device in the Book 13 recommendation series."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "going-concern interests in your province",
+      "entity_id": "person:a-trebonius-cilicia",
+      "note": "A. Trebonius was a Roman financier with substantial business affairs (negotia) in Cilicia, the province Lentulus Spinther governed as proconsul. This is a letter of recommendation (commendatio) asking the governor's favour for him."
+    },
+    {
+      "loc": "2",
+      "anchor": "his freedmen, his agents, his household",
+      "entity_id": null,
+      "note": "A Roman businessman abroad operated through his liberti (freedmen), procuratores (agents managing his affairs), and familia (slave staff). Cicero commends the whole apparatus of Trebonius's provincial operation to the governor's protection."
+    },
+    {
+      "loc": "2",
+      "anchor": "what T. Ampius decreed about his case",
+      "entity_id": "person:t-ampius-balbus",
+      "note": "T. Ampius Balbus, a previous proconsul (of Asia, c. 58 BC), had issued a ruling in Trebonius's favour; Cicero asks Lentulus to uphold his predecessor's decree, the continuity of edicts being a normal courtesy between governors."
+    }
+  ]
+}

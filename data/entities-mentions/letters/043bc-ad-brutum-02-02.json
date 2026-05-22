@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-02-02",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Planci", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "Plancus's", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "Lepidi", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "1", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "2", "surface": "Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "Servilio", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "lat"},
+    {"loc": "3", "surface": "Servilius", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "eng"},
+    {"loc": "3", "surface": "Planci", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "3", "surface": "Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "3", "surface": "Lentulo nostro", "entity_id": "person:p-lentulus-spinther", "in": "lat"},
+    {"loc": "3", "surface": "our friend Lentulus", "entity_id": "person:p-lentulus-spinther", "in": "eng"},
+    {"loc": "3", "surface": "Cassio", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "3", "surface": "Cassius", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "3", "surface": "senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "3", "surface": "de Planco", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "3", "surface": "about Plancus", "entity_id": "person:munatius-plancus", "in": "eng"}
+  ]
+}

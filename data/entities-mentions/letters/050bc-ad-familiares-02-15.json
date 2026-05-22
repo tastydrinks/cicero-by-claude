@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-15",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO AEDILI CVRVLI",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Curione",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "supplicatione",
+      "entity_id": "festival:supplicatio",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO AEDILI CVRVLI",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the supplication",
+      "entity_id": "festival:supplicatio",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Dolabellam",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Tulliae",
+      "entity_id": "person:tullia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Appium",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Tullia's",
+      "entity_id": "person:tullia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Appius",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Curioni",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompeio",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "re publica",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "quaestorem Coelium",
+      "entity_id": "person:c-coelius-caldus-q50",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Pomptinus",
+      "entity_id": "person:c-pomptinus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Quinto fratre",
+      "entity_id": "person:quintus-cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Asiae",
+      "entity_id": "place:asia-province",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Cassios Antoniosque",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Antoniosque",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Ocella",
+      "entity_id": "person:servius-ocella",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Taurum",
+      "entity_id": "place:taurus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Matrinio",
+      "entity_id": "person:matrinius-fam-02-15",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "the quaestor, Coelius",
+      "entity_id": "person:c-coelius-caldus-q50",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Pomptinus",
+      "entity_id": "person:c-pomptinus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "my brother Quintus",
+      "entity_id": "person:quintus-cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Asia",
+      "entity_id": "place:asia-province",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "the Cassii and Antonii",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Antonii",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Ocella",
+      "entity_id": "person:servius-ocella",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "the Taurus",
+      "entity_id": "place:taurus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "the Matrinius business",
+      "entity_id": "person:matrinius-fam-02-15",
+      "in": "eng"
+    }
+  ]
+}

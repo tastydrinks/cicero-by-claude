@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-42",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the sixth day before the Ides",
+      "entity_id": null,
+      "note": "Romans counted dates backward, inclusively, from the next fixed point; \"the sixth day before the Ides\" of May is 10 May 45 BC. The Ides themselves fell on the 15th of May."
+    },
+    {
+      "loc": "1",
+      "anchor": "Still you wrote something or other about Clodia",
+      "entity_id": "person:clodia",
+      "note": "Clodia owned one of the riverside gardens Cicero was weighing as the site for Tullia's shrine. He presses Atticus for news of her whereabouts because the sale could only proceed once she was available to deal."
+    },
+    {
+      "loc": "2",
+      "anchor": "But I do not think this one will sell (she is taken with the place, and well off)",
+      "entity_id": "person:clodia",
+      "note": "Cicero doubts Clodia will part with her gardens, since she enjoys them and has no need of money; the \"other business\" he calls hard is the rival deal involving Otho and the Scapula gardens. The remark shows the shrine-hunt stalling on every front."
+    },
+    {
+      "loc": "3",
+      "anchor": "from there perhaps to Arpinum",
+      "entity_id": "place:arpinum",
+      "note": "Arpinum, in the hills of southern Latium, was Cicero's ancestral home town and the site of his family estates. He considers retreating there after the Tusculanum, still avoiding the crowds of Rome."
+    }
+  ]
+}

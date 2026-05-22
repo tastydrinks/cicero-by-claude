@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-38",
+  "mentions": [
+    {"loc": "2", "surface": "Asinius Pollio ad me scripsit", "entity_id": "person:asinius-pollio", "in": "lat"},
+    {"loc": "2", "surface": "quod Balbus minor nuper satis plane", "entity_id": "person:cornelius-balbus-younger", "in": "lat"},
+    {"loc": "2", "surface": "Dolabella obscure", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "2", "surface": "Asinius Pollio has written to me", "entity_id": "person:asinius-pollio", "in": "eng"},
+    {"loc": "2", "surface": "Balbus the younger, recently, said it plainly enough", "entity_id": "person:cornelius-balbus-younger", "in": "eng"},
+    {"loc": "2", "surface": "Dolabella obscurely", "entity_id": "person:dolabella", "in": "eng"}
+  ]
+}

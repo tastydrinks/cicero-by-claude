@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the bond of friendship with my father",
+      "entity_id": null,
+      "note": "Plancus's father, L. Munatius Plancus, was an associate of Cicero's; the inherited tie (necessitudo paterna) was a binding obligation in Roman aristocratic friendship, passed from one generation to the next."
+    },
+    {
+      "loc": "4",
+      "anchor": "what is being done in Cisalpine Gaul, what at Rome in the month of January",
+      "entity_id": "place:gallia-cisalpina",
+      "note": "Plancus, in Transalpine Gaul, is watching the neighbouring Cisalpine province (held by Decimus Brutus and soon contested by Antony) and the political crisis at Rome, where the new consuls Hirtius and Pansa enter office on 1 January 43 BC."
+    },
+    {
+      "loc": "4",
+      "anchor": "lest in the midst of others' misdeeds these peoples come to think our troubles are their opportunity",
+      "entity_id": null,
+      "note": "Plancus fears the still-restive Gallic tribes of his province may exploit the Roman civil discord to revolt; keeping Gaul quiet was a governor's first duty before he could march to aid the republic."
+    }
+  ]
+}

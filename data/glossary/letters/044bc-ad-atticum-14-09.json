@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Vestorius's freedman",
+      "entity_id": "person:c-vestorius",
+      "note": "Gaius Vestorius, a banker and businessman of Puteoli who handled Cicero's local financial and building affairs; his freedman here brings a bundle of Atticus's letters."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Cluvian estates",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "note": "Income-bearing property Cicero had inherited under the will of M. Cluvius of Puteoli; he tracks its yield closely (cf. 14.10, where it nears a hundred thousand sesterces)."
+    },
+    {
+      "loc": "1",
+      "anchor": "why I sent for Chrysippus",
+      "entity_id": null,
+      "note": "A builder or architect named Chrysippus (not the Stoic philosopher of the same name punned on just below) summoned to deal with Cicero's collapsing rental shops; no registry entity could be bound with confidence."
+    },
+    {
+      "loc": "1",
+      "anchor": "O Socrates, and ye Socratic men",
+      "entity_id": "person:socrates",
+      "note": "A mock-philosophical apostrophe: Cicero affects Socratic indifference to the loss of his shops, thanking the philosophers for teaching him to despise such material misfortune."
+    },
+    {
+      "loc": "2",
+      "anchor": "Marcus Curtius",
+      "entity_id": "person:m-curtius",
+      "note": "M. Curtius, who reproaches Cicero and his circle for tamely going on living under the surviving Caesarian order; otherwise little known."
+    },
+    {
+      "loc": "3",
+      "anchor": "as Caecilius was being besieged",
+      "entity_id": "person:q-caecilius-bassus",
+      "note": "Q. Caecilius Bassus, the Pompeian who had seized Syria and held out at Apamea; the besieger (\"by him\") is the Caesarian commander, and the Parthian relief under Pacorus is the news Vetus reports."
+    },
+    {
+      "loc": "3",
+      "anchor": "Pacorus the Parthian",
+      "entity_id": "person:pacorus",
+      "note": "Pacorus, son of the Parthian king Orodes II; his forces relieved the besieged Bassus, fuelling Cicero's fear that a Parthian war was imminent."
+    },
+    {
+      "loc": "3",
+      "anchor": "Vetus complains of Volcatius",
+      "entity_id": null,
+      "note": "The Volcatius blamed for the failure before Apamea is most likely L. Volcacius Tullus, a commander in the Syrian theatre, but none of the registry's Volcatii can be matched to him with confidence, so the surface is left unbound."
+    },
+    {
+      "loc": "3",
+      "anchor": "sent envoys to Aurelius, who has been put in charge by Hirtius",
+      "entity_id": null,
+      "note": "An officer named Aurelius placed in command in Gaul under the consul-designate A. Hirtius; he cannot be identified with any registered Aurelius, so the surface is left unbound."
+    },
+    {
+      "loc": "3",
+      "anchor": "what Calvena had told me",
+      "entity_id": "person:gaius-matius",
+      "note": "\"Calvena\" (\"Baldy\") is Cicero's mocking nickname for the Caesarian C. Matius; his gloomy forecasts are here contradicted by Balbus's peaceful news from Gaul."
+    }
+  ]
+}

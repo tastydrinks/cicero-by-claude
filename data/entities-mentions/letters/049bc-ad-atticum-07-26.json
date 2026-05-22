@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-26",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Roma", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Domitio", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "lat"},
+    {"loc": "1", "surface": "Picentium", "entity_id": "place:picenum", "in": "lat"},
+    {"loc": "1", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Domitio", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "lat"},
+    {"loc": "1", "surface": "Afranio", "entity_id": "person:l-afranius", "in": "lat"},
+    {"loc": "1", "surface": "those letters which are coming in from Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "from Rome about Domitius", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "eng"},
+    {"loc": "1", "surface": "about the cohorts of the Picene country", "entity_id": "place:picenum", "in": "eng"},
+    {"loc": "1", "surface": "Caesar's threats", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "fine news of Domitius", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "eng"},
+    {"loc": "1", "surface": "splendid news of Afranius", "entity_id": "person:l-afranius", "in": "eng"},
+    {"loc": "3", "surface": "Terentia", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "3", "surface": "Dionysio", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "3", "surface": "Formiano", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "3", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "3", "surface": "Parthicus", "entity_id": "place:parthia", "in": "lat"},
+    {"loc": "3", "surface": "Terentia has written you back", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "3", "surface": "As for Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "eng"},
+    {"loc": "3", "surface": "winter at the Formian villa", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "3", "surface": "I have decided to be with Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "3", "surface": "some Parthian accident should arise", "entity_id": "place:parthia", "in": "eng"}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-25",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a Sardonic laugh",
+      "entity_id": null,
+      "note": "Cicero quotes the Greek 'gelōta sardanion,' a bitter, forced laugh (proverbially the rictus of those who ate a poisonous Sardinian plant). The pun also glances at Tigellius the Sardinian from the previous letter."
+    },
+    {
+      "loc": "1",
+      "anchor": "hand off the slate!",
+      "entity_id": null,
+      "note": "'Manum de tabula!' — a proverbial cry ('hands off the picture/slate!') warning an artist or pupil to stop before spoiling the work; here a mock schoolroom command to break off their literary play."
+    },
+    {
+      "loc": "1",
+      "anchor": "The schoolmaster is on us sooner than we had thought",
+      "entity_id": null,
+      "note": "Cicero keeps up the schoolboy conceit: he and Gallus are pupils caught at their writing-tablets, and the 'schoolmaster' (perhaps Caesar, or critical opinion) has arrived to punish their amateur 'Cato' pamphlets."
+    },
+    {
+      "loc": "1",
+      "anchor": "our Cato-men get a hoisting",
+      "entity_id": "person:cato-minor",
+      "note": "A pun on 'in catomum' (a schoolboy flogging given while hoisted on another's shoulders) and 'Catonianos' (the writers of pamphlets praising Cato of Utica): the would-be eulogists risk a schoolmaster's beating."
+    },
+    {
+      "loc": "2",
+      "anchor": "the pen is the workman of speech",
+      "entity_id": null,
+      "note": "'Stilus est dicendi opifex': Cicero's maxim that practised writing (with the stilus, the wax-tablet pen) is the true craftsman of eloquence, urging Gallus not to stray a finger's breadth from it."
+    }
+  ]
+}

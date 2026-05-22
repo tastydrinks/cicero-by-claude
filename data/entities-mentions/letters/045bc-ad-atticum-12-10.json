@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-10",
+  "mentions": [
+    {"loc": "1", "surface": "male me hercule de Athamante", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "1", "surface": "Alexin vero curemus", "entity_id": "person:alexis-servus", "in": "lat"},
+    {"loc": "1", "surface": "imaginem Tironis", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "quem aegrum Romam remisi", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Bad news, by Hercules, about Athamas", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "1", "surface": "As for Alexis, let us take care of him", "entity_id": "person:alexis-servus", "in": "eng"},
+    {"loc": "1", "surface": "the very image of Tiro", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "whom I have sent back to Rome ill", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

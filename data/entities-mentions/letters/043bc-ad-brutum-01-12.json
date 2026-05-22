@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-12",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Messalae Corvino",
+      "entity_id": "person:m-valerius-messala-corvinus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Messala Corvinus",
+      "entity_id": "person:m-valerius-messala-corvinus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Brute",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M. Lepidi",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "matris tuae",
+      "entity_id": "person:servilia-hortensii",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "your mother's",
+      "entity_id": "person:servilia-hortensii",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "sororis",
+      "entity_id": "person:iunia-secunda",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "your sister's",
+      "entity_id": "person:iunia-secunda",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Antonio",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "senatu",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Iuppiter",
+      "entity_id": "god:jupiter",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Jupiter",
+      "entity_id": "god:jupiter",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "mater",
+      "entity_id": "person:servilia-hortensii",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "your mother",
+      "entity_id": "person:servilia-hortensii",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "soror",
+      "entity_id": "person:iunia-secunda",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "sister",
+      "entity_id": "person:iunia-secunda",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Antonius",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "re publica",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Ciceronem meum",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "My Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "eng"
+    }
+  ]
+}

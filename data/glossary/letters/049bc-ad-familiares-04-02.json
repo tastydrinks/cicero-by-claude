@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the third day before the Kalends of May",
+      "entity_id": null,
+      "note": "A Roman date: the Kalends was the 1st of the month, and Romans counted inclusively backwards from it, so \"the third day before the Kalends of May\" is 29 April (49 BC). The letter is written from Cicero's villa at Cumae on the Bay of Naples, just before he left Italy to join Pompey."
+    },
+    {
+      "loc": "1",
+      "anchor": "your wife Postumia came to see me",
+      "entity_id": "person:postumia",
+      "note": "Postumia was the wife of Servius Sulpicius Rufus and mother of the younger Servius; a prominent society figure (ancient gossip linked her name with Caesar's). Here she and her son visit Cicero at Cumae and press him to advise her absent husband on whether to stay in Italy or flee."
+    },
+    {
+      "loc": "1",
+      "anchor": "Philotimus had not acted with much sense",
+      "entity_id": "person:philotimus",
+      "note": "Philotimus was a freedman of Cicero's wife Terentia who managed the household's money and business affairs and often carried letters; Cicero frequently grumbles about his unreliability, as here, where he forwarded Servius's note instead of delivering the full message in person."
+    },
+    {
+      "loc": "2",
+      "anchor": "who reckon nothing expedient that is not also upright and honourable",
+      "entity_id": null,
+      "note": "A Stoic commonplace that Cicero would later argue at length in his De Officiis: that the truly expedient (utile) and the morally right (honestum) can never really conflict. He uses it to nudge Servius toward principled withdrawal rather than collaboration with Caesar."
+    },
+    {
+      "loc": "3",
+      "anchor": "all of our deliberations on either side looked toward concord",
+      "entity_id": null,
+      "note": "\"Concord\" (concordia) was the watchword of moderates who hoped to reconcile Caesar and Pompey; Cicero ruefully admits that he and Servius both miscalculated in thinking peace could be preserved, since neither side ultimately wanted it."
+    }
+  ]
+}

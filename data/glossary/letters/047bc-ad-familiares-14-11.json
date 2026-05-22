@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the day before the Ides of June",
+      "note": "Romans counted dates inclusively backwards from three fixed points each month; the Ides of June fell on the 13th, so the day before is 12 June. Written from Brundisium in 47 BC, where Cicero was stranded after Pharsalus awaiting Caesar's pardon."
+    },
+    {
+      "loc": "1",
+      "anchor": "send our Cicero to Caesar, and Gnaeus Sallustius with him",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "Cicero planned to send his teenage son Marcus to intercede with the victorious Caesar, escorted by his friend Gnaeus Sallustius; the embassy was meant to secure the family's safety after the Pompeian defeat."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-18",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "Attico nostro", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "our Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "Attici causa", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "2", "surface": "on Atticus's account", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "Atticum", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "2", "surface": "Atticus to yourself", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "Epiroticis", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "2", "surface": "the affairs of Epirus", "entity_id": "place:epirus", "in": "eng"}
+  ]
+}

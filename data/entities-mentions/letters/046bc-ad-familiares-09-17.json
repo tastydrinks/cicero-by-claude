@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-17",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "L. PAPIRIO PAETO", "entity_id": "person:l-papirius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "L. PAPIRIO PAETO", "entity_id": "person:l-papirius-paetus", "in": "eng"},
+    {"loc": "1", "surface": "Balbus noster", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "our friend Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "mi Paete", "entity_id": "person:l-papirius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "my Paetus", "entity_id": "person:l-papirius-paetus", "in": "eng"},
+    {"loc": "2", "surface": "Veientem quidem agrum", "entity_id": "place:veii", "in": "lat"},
+    {"loc": "2", "surface": "the Veientine", "entity_id": "place:veii", "in": "eng"},
+    {"loc": "2", "surface": "Capenatem", "entity_id": "place:capena", "in": "lat"},
+    {"loc": "2", "surface": "Capenate land", "entity_id": "place:capena", "in": "eng"},
+    {"loc": "2", "surface": "Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "2", "surface": "Tusculum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "cuius beneficio", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "the man through whose kindness", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "ipsum quidem principem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "the chief man himself", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-23",
+  "mentions": [
+    {"loc": "2", "surface": "Sampsiceramum", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Sampsiceramus", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "3", "surface": "βοῶπιδοσ", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "3", "surface": "Ox-Eyed Hera", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "3", "surface": "consanguineus", "entity_id": "person:clodius", "in": "lat"},
+    {"loc": "3", "surface": "kinsman", "entity_id": "person:clodius", "in": "eng"},
+    {"loc": "3", "surface": "Sampsiceramo", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "3", "surface": "Sampsiceramus", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "3", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "3", "surface": "Rome", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

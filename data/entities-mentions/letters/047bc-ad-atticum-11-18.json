@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-18",
+  "mentions": [
+    {"loc": "1", "surface": "de illius Alexandrea discessu", "entity_id": "place:alexandria", "in": "lat"},
+    {"loc": "1", "surface": "nec mitto, ut constitueram, Ciceronem", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "hac de re et ad Antonium scripsi", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "et ad Balbum", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "et ad Oppium", "entity_id": "person:gaius-oppius", "in": "lat"},
+    {"loc": "1", "surface": "sive enim bellum in Italia futurum est", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "1", "surface": "As for his departure from Alexandria", "entity_id": "place:alexandria", "in": "eng"},
+    {"loc": "1", "surface": "So I am not sending Cicero", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "I have written both to Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "and to Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "and to Oppius", "entity_id": "person:gaius-oppius", "in": "eng"},
+    {"loc": "1", "surface": "whether the war is going to be in Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "intellexi omnino ex Oppi sermone", "entity_id": "person:gaius-oppius", "in": "lat"},
+    {"loc": "2", "surface": "et cum Antonio loquare velim", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "I understood plainly enough from Oppius's conversation", "entity_id": "person:gaius-oppius", "in": "eng"},
+    {"loc": "2", "surface": "you to speak with Antony", "entity_id": "person:antony", "in": "eng"}
+  ]
+}

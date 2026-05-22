@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-01",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "all the tribunes of the plebs",
+      "entity_id": "office:tribune",
+      "note": "The ten tribunes of the plebs, magistrates with the power to propose legislation and to veto. Cicero's recall from exile would have to be carried by a tribunician bill, so a friendly board of tribunes was essential to his hopes."
+    },
+    {
+      "loc": "2",
+      "anchor": "Lentulus",
+      "entity_id": "person:p-lentulus-spinther",
+      "note": "P. Cornelius Lentulus Spinther, consul-designate for 57 BC, who became the chief champion of Cicero's recall and carried it through the next year."
+    },
+    {
+      "loc": "3",
+      "anchor": "Plancius, the most attentive of men",
+      "entity_id": "person:cn-plancius",
+      "note": "Cn. Plancius, quaestor of Macedonia in 58 BC, who sheltered the exiled Cicero at Thessalonica and Dyrrhachium. Cicero later defended him in the Pro Plancio (54 BC)."
+    },
+    {
+      "loc": "6",
+      "anchor": "the Kalends of December",
+      "note": "The Kalends were the first day of the Roman month; the Romans counted backward inclusively from it, so the date here is 26 November 58 BC."
+    }
+  ]
+}

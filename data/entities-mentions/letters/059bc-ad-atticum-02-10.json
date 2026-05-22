@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-10",
+  "mentions": [
+    {"loc": "1", "surface": "Anti", "entity_id": "place:antium", "in": "lat"},
+    {"loc": "1", "surface": "Antium", "entity_id": "place:antium", "in": "eng"},
+    {"loc": "1", "surface": "Formiano", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "1", "surface": "Formian villa", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "1", "surface": "Appi Foro", "entity_id": "place:forum-appii", "in": "lat"},
+    {"loc": "1", "surface": "Forum of Appius", "entity_id": "place:forum-appii", "in": "eng"},
+    {"loc": "1", "surface": "Tribus Tabernis", "entity_id": "place:tres-tabernae", "in": "lat"},
+    {"loc": "1", "surface": "Tres Tabernae", "entity_id": "place:tres-tabernae", "in": "eng"}
+  ]
+}

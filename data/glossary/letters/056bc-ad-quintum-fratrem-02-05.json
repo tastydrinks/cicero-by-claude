@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "money was decreed to Pompey for the corn-supply up to forty million sesterces",
+      "entity_id": "person:pompey",
+      "note": "Pompey held an extraordinary five-year command over Rome's grain supply (cura annonae), granted in 57 BC; here the Senate votes him 40 million sesterces to fund it amid a shortage and high prices."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Capitolines and the Mercuriales threw M. Furius Flaccus",
+      "entity_id": "institution:capitolini",
+      "note": "The Capitolini and Mercuriales were two Roman religious colleges (collegia), tied to the cults of Capitoline Jupiter and of Mercury. Their joint expulsion of the knight M. Furius Flaccus was a public disgrace."
+    },
+    {
+      "loc": "1",
+      "anchor": "I gave the betrothal-feast to Crassipes",
+      "entity_id": "person:crassipes",
+      "note": "The sponsalia was the Roman betrothal ceremony, sealing the engagement with a feast. Furius Crassipes was about to marry Cicero's daughter Tullia."
+    },
+    {
+      "loc": "3",
+      "anchor": "to the gardens to Pompey",
+      "entity_id": "person:pompey",
+      "note": "Pompey's horti, his suburban pleasure-gardens, where Cicero called on him before leaving Rome. Such gardens were grand estates on the city's edge, used for receiving clients and conducting business."
+    },
+    {
+      "loc": "4",
+      "anchor": "to lodge that day at T. Titius's house in the Anagnine country",
+      "entity_id": "place:anagnia",
+      "note": "Cicero breaks his journey south at the estate of T. Titius near Anagnia, a Hernican town in Latium, on the way to his and Quintus's family properties around Arpinum."
+    },
+    {
+      "loc": "4",
+      "anchor": "and to be the day after at Laterium",
+      "entity_id": "place:laterium",
+      "note": "Laterium and Arcanum (below) were estates of Quintus Cicero near Arpinum, both then being built or improved; Cicero was inspecting the family's properties on his brother's behalf."
+    }
+  ]
+}

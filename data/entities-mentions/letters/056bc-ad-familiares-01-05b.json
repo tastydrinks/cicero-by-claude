@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-05b",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "P. LENTVLO PROCOS.", "entity_id": "person:lentulus-spinther", "in": "lat"},
+    {"loc": "1", "surface": "P. Lentulus", "entity_id": "person:lentulus-spinther", "in": "eng"},
+    {"loc": "1", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "Milone", "entity_id": "person:milo", "in": "lat"},
+    {"loc": "1", "surface": "Milo", "entity_id": "person:milo", "in": "eng"},
+    {"loc": "1", "surface": "Catone", "entity_id": "person:c-porcius-cato-tr56", "in": "lat"},
+    {"loc": "1", "surface": "Cato", "entity_id": "person:c-porcius-cato-tr56", "in": "eng"},
+    {"loc": "1", "surface": "senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "Alexandrina causa", "entity_id": "place:alexandria", "in": "lat"},
+    {"loc": "1", "surface": "Alexandrian cause", "entity_id": "place:alexandria", "in": "eng"},
+    {"loc": "1", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Catone", "entity_id": "person:c-porcius-cato-tr56", "in": "lat"},
+    {"loc": "2", "surface": "Cato", "entity_id": "person:c-porcius-cato-tr56", "in": "eng"},
+    {"loc": "2", "surface": "consularibus", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "consulars", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "Hortensium", "entity_id": "person:hortensius", "in": "lat"},
+    {"loc": "2", "surface": "Hortensius", "entity_id": "person:hortensius", "in": "eng"},
+    {"loc": "2", "surface": "Lucullum", "entity_id": "person:l-lucullus", "in": "lat"},
+    {"loc": "2", "surface": "Lucullus", "entity_id": "person:l-lucullus", "in": "eng"}
+  ]
+}

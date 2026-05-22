@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-24",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "TULLIUS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Harpalum", "entity_id": "person:harpalus-servus", "in": "lat"},
+    {"loc": "1", "surface": "Harpalus", "entity_id": "person:harpalus-servus", "in": "eng"},
+    {"loc": "1", "surface": "Ofilio", "entity_id": "person:ofilius", "in": "lat"},
+    {"loc": "1", "surface": "Ofilius", "entity_id": "person:ofilius", "in": "eng"},
+    {"loc": "1", "surface": "Aurelio", "entity_id": "person:aurelius-fam-16-24", "in": "lat"},
+    {"loc": "1", "surface": "Aurelius", "entity_id": "person:aurelius-fam-16-24", "in": "eng"},
+    {"loc": "1", "surface": "Flamma", "entity_id": "person:flamma-debtor", "in": "lat"},
+    {"loc": "1", "surface": "Flamma", "entity_id": "person:flamma-debtor", "in": "eng"},
+    {"loc": "2", "surface": "Octavianus", "entity_id": "person:octavian", "in": "lat"},
+    {"loc": "2", "surface": "Octavian", "entity_id": "person:octavian", "in": "eng"},
+    {"loc": "2", "surface": "Antonius", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "Balbum", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "2", "surface": "Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "2", "surface": "Aquini", "entity_id": "place:aquinum", "in": "lat"},
+    {"loc": "2", "surface": "Aquinum", "entity_id": "place:aquinum", "in": "eng"},
+    {"loc": "2", "surface": "Hirtium", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "2", "surface": "Hirtius", "entity_id": "person:hirtius", "in": "eng"},
+    {"loc": "2", "surface": "Dolabellae", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "2", "surface": "Dolabella's", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "2", "surface": "Papiam", "entity_id": "person:papia-fam-16-24", "in": "lat"},
+    {"loc": "2", "surface": "Papia", "entity_id": "person:papia-fam-16-24", "in": "eng"}
+  ]
+}

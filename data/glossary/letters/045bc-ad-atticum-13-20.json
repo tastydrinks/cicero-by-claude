@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a letter of condolence",
+      "entity_id": null,
+      "note": "Caesar wrote from Spain to console Cicero on the death of his daughter Tullia (early 45 BC), the grief that underlies the gardens-shrine project and much of Cicero's withdrawal to writing."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Kalends of May at Hispalis",
+      "entity_id": "place:hispalis",
+      "note": "Hispalis (modern Seville), in Further Spain, where Caesar was settling affairs after the battle of Munda; the Kalends is the first of the month, so the letter was dated 30 April."
+    },
+    {
+      "loc": "1",
+      "anchor": "enlarging the city",
+      "entity_id": null,
+      "note": "A reference to Caesar's announced plan to extend Rome's pomerium and building, promulgated in his absence; Cicero has not been able to learn the details."
+    },
+    {
+      "loc": "2",
+      "anchor": "As for the \\textit{Pro Ligario}",
+      "entity_id": null,
+      "note": "Cicero declines to expand the published speech with material on Tubero's wife and stepdaughter, partly because it is already circulating and partly to avoid provoking Tubero, who had been the prosecutor of Ligarius."
+    },
+    {
+      "loc": "2",
+      "anchor": "give offence to Tubero",
+      "entity_id": "person:q-aelius-tubero",
+      "note": "Q. Aelius Tubero, the man who prosecuted Q. Ligarius before Caesar; Cicero's published defence had attacked him, and he is touchy and prone to find fault."
+    }
+  ]
+}

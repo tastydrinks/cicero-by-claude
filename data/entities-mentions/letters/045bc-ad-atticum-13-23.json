@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-23",
+  "mentions": [
+    {"loc": "1", "surface": "Brutus mallem me arcesseret", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "in Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "Romae una esse", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "I should have preferred Brutus to send for me", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "together at Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "rather than at Tusculanum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "libri ad Varronem", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "2", "surface": "quos Bruto mittimus", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "The books for Varro", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "2", "surface": "those I am sending to Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "omnis ait uti Trebatius", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "3", "surface": "illud Trebatius se tibi dixisse narrabat", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "3", "surface": "cum Polla loquere", "entity_id": "person:polla", "in": "lat"},
+    {"loc": "3", "surface": "te cum illo Scaeva loqui putes", "entity_id": "person:scaeva", "in": "lat"},
+    {"loc": "3", "surface": "Trebatius says that those people", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "3", "surface": "that Trebatius said he had told you", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "3", "surface": "speak with Polla", "entity_id": "person:polla", "in": "eng"},
+    {"loc": "3", "surface": "as though you thought yourself a Scaevola talking with him", "entity_id": "person:scaeva", "in": "eng"}
+  ]
+}

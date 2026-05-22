@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Eros, however, made haste",
+      "entity_id": "person:eros-atticianus",
+      "note": "Eros is a slave or freedman in Atticus's service who handled accounts and the carrying of letters between Cicero and Atticus; here his speed gets a fresh dispatch from Dolabella through to Cicero."
+    },
+    {
+      "loc": "2",
+      "anchor": "two-man commissioners should inspect them every month",
+      "entity_id": null,
+      "note": "The duoviri were a pair of magistrates; Balbus reports Antony's scheme to have such commissioners review the veterans' encampments monthly, keeping Caesar's discharged soldiers mobilized and loyal. The arrangement is part of the drift \"toward armed camps\" that alarms Cicero."
+    },
+    {
+      "loc": "3",
+      "anchor": "the heir of the kingship has been left in being",
+      "entity_id": null,
+      "note": "Cicero's complaint that the conspirators killed Caesar but spared his political heir and the monarchic system he built; the \"heir\" points toward Antony (and, soon, the young Octavian), though the phrase is a deliberately general jab and is left unbound."
+    },
+    {
+      "loc": "3",
+      "anchor": "That Pontius's house at Naples",
+      "entity_id": null,
+      "note": "A villa at Naples belonging to one Pontius, now occupied by the mother of a tyrannicide; this Pontius cannot be securely matched to any registered individual and is left unbound, while the place is tagged to Naples."
+    },
+    {
+      "loc": "3",
+      "anchor": "the tyrannicide's mother",
+      "entity_id": null,
+      "note": "Servilia, mother of Marcus Brutus (and mother-in-law of Cassius), here installed in the seized Pontian villa at Naples; the surface is left unbound, as the registry's stub Servilia cannot be confirmed as this woman."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Cato the Elder I sent you",
+      "entity_id": null,
+      "note": "Not the historical statesman but Cicero's own dialogue on old age, the Cato Maior de Senectute, which puts its reflections in the mouth of Cato the Elder; he had recently sent Atticus a copy. The work has no separate registry entry, so the surface is left unbound."
+    }
+  ]
+}

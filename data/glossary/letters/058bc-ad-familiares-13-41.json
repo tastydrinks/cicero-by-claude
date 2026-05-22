@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-41",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO greets CVLLEOLVS",
+      "entity_id": "person:l-culleolus",
+      "note": "The letter-heading; addressed to L. Culleolus, a proconsul (probably of Illyricum) about 59 BC. This letter thanks him for already acting on Cicero's behalf in the business of L. Lucceius; its companion 13.42 is the original request."
+    },
+    {
+      "loc": "1",
+      "anchor": "What you have done for L. Lucceius's sake",
+      "entity_id": "person:l-lucceius",
+      "note": "L. Lucceius (praetor 67 BC, historian, addressee of the famous Fam. 5.12) had commercial interests in Culleolus's province; Cicero, acting also on Pompey's behalf, presses the governor to favour and protect them."
+    },
+    {
+      "loc": "1",
+      "anchor": "Pompey, every time he sees me",
+      "entity_id": "person:pompey",
+      "note": "Cn. Pompeius Magnus (Pompey the Great). At this date (c. 59 BC) Cicero is on close terms with him and acts as an intermediary for Lucceius's affairs, lending the request the weight of Pompey's gratitude as well as his own."
+    },
+    {
+      "loc": "2",
+      "anchor": "About the commonwealth and these affairs and our reflections",
+      "entity_id": null,
+      "note": "Res publica, \"the commonwealth\" or \"public affairs\": the Roman state and its political life, Cicero's constant preoccupation. He notes that he has written separately and at length on the political situation, entrusting the letter to Culleolus's slaves (pueri)."
+    }
+  ]
+}

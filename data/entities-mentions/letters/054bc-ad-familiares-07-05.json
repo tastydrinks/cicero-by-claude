@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-05",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "CAESARI IMP.", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "CAESARI IMP.", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "C. Trebatium", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "C. Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "Pompei", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Pompey's", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "Trebatium", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "2", "surface": "Trebatio", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "2", "surface": "Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "2", "surface": "Balbo nostro", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "2", "surface": "our Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "2", "surface": "M. †itfiuium", "entity_id": "person:itfius-corrupt", "in": "lat"},
+    {"loc": "2", "surface": "M. Itfius", "entity_id": "person:itfius-corrupt", "in": "eng"},
+    {"loc": "2", "surface": "Galliae", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "2", "surface": "Gaul", "entity_id": "place:gallia", "in": "eng"},
+    {"loc": "2", "surface": "Leptae", "entity_id": "person:q-paconius-lepta", "in": "lat"},
+    {"loc": "2", "surface": "Lepta", "entity_id": "person:q-paconius-lepta", "in": "eng"},
+    {"loc": "2", "surface": "Balbus", "entity_id": "person:l-cornelius-balbus", "in": "both"},
+    {"loc": "2", "surface": "Trebatium", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "2", "surface": "Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "3", "surface": "mi Caesar", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "my Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "Milone", "entity_id": "person:milo", "in": "lat"},
+    {"loc": "3", "surface": "Milo", "entity_id": "person:milo", "in": "eng"}
+  ]
+}

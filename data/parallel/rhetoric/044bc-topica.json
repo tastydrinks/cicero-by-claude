@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "id": "topica",
+  "category": "rhetoric",
+  "title_latin": "Topica ad C. Trebatium",
+  "title_english": "Topics: To Gaius Trebatius",
+  "date": "-0044-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "maiores nos res scribere ingressos, C. Trebati, et his libris, quos brevi tempore satis multos edidimus, digniores e cursu ipso revocavit voluntas tua. Cum enim mecum in Tusculano esses et in bibliotheca separatim uterque nostrum ad suum studium libellos quos vellet evolveret, incidisti in Aristotelis Topica quaedam, quae sunt ab illo pluribus libris explicata. Qua inscriptione commotus continuo a me librorum eorum sententiam requisisti;",
+      "eng": "I had embarked on weightier matters, Gaius Trebatius, and matters more worthy of the books I have published — quite a number of them — in a short space of time, when your wish recalled me from my very course. For when you were with me at my Tusculan villa, and each of us in the library was unrolling, on his own, whatever little books he pleased for his own study, you came upon a certain Topics of Aristotle, a work he set out in several books. Stirred by the title, you at once asked me the gist of those books;",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quam cum tibi exposuissem, disciplinam inveniendorum argu- mentorum, ut sine ullo errore ad ea ratione et via perveni- remus, ab Aristotele inventam illis libris contineri, verecunde tu quidem ut omnia, sed tamen facile ut cernerem te ardere studio, mecum ut tibi illa traderem egisti. Cum autem ego te non tam vitandi laboris mei causa quam quia tua id interesse arbitrarer, vel ut eos per te ipse legeres vel ut totam rationem a doctissimo quodam rhetore acciperes, hortatus essem, utrumque, ut ex te audiebam, es expertus. Sed a libris te obscuritas reiecit;",
+      "eng": "and when I had explained it to you — that they contain a discipline of finding arguments, devised by Aristotle, so that we might arrive at them by method and along a path, without going astray — you pressed me, with your usual modesty, to be sure, yet plainly enough for me to see that you were burning with eagerness, to hand that teaching over to you. And when I urged you — not so much to spare myself the labor as because I judged it to be in your own interest — either to read those books yourself, or to take in the whole account from some highly learned teacher of rhetoric, you tried both, so I heard from you. But the obscurity drove you back from the books;",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "rhetor autem ille magnus haec, ut opinor, Aristotelia se ignorare respondit. Quod quidem minime sum admiratus eum philosophum rhetori non esse cognitum, qui ab ipsis philosophis praeter admodum paucos ignoretur; quibus eo minus ignoscendum est, quod non modo rebus eis quae ab illo dictae et in- ventae sunt adlici debuerunt, sed dicendi quoque incredi- bili quadam cum copia tum etiam suavitate.",
+      "eng": "and that famous teacher of rhetoric answered, I gather, that he knew nothing of these Aristotelian matters. And I was not in the least surprised that this philosopher was unknown to a rhetorician, when he is unknown even to the philosophers themselves, all but a very few — who deserve the less indulgence for it, since they ought to have been drawn not only by the things he stated and discovered, but by the truly incredible richness, and indeed the charm, of his style as well.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "non potui igitur tibi saepius hoc roganti et tamen verenti ne mihi gravis esses—facile enim id cernebam—debere diutius, ne ipsi iuris interpreti fieri videretur iniuria. Etenim cum tu mihi meisque multa saepe scripsisses, veritus sum ne, si ego gravarer, aut ingratum id aut superbum videretur. Sed dum fuimus una, tu optimus es testis quam fuerim occupa- tus;",
+      "eng": "I could not, then, owe you a longer delay — you who asked this of me so often, and yet feared to be a burden to me, for that much I could easily see — lest the very interpreter of the law should seem to be done a wrong. For since you had so often written much, both for me and for mine, I was afraid that, if I grudged you this, it might seem ungrateful, or arrogant. But while we were together, you are the best witness of how busy I was;",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "ut autem a te discessi in Graeciam proficiscens, cum opera mea nec res publica nec amici uterentur nec honeste inter arma versari possem, ne si tuto quidem mihi id liceret, ut veni Veliam tuaque et tuos vidi, admonitus huius aeris alieni nolui deesse ne tacitae quidem flagitationi tuae. Itaque haec, cum mecum libros non haberem, memoria repetita in ipsa navigatione conscripsi tibique ex itinere misi, ut mea diligentia mandatorum tuorum te quoque, etsi admonitore non eges, ad memoriam nostrarum rerum excitarem. Sed iam tempus est ad id quod instituimus accedere.",
+      "eng": "and once I had parted from you, setting out for Greece — since neither the republic nor my friends had any use for my services, and I could not honorably move among the arms of war, nor was it even safe for me to do so — when I reached Velia and saw you and your household, I was reminded of this debt and did not want to fail even your unspoken demand for payment. And so, having no books with me, I drew on my memory and wrote these things during the voyage itself, and sent them to you from the journey, so that by my diligence in carrying out your charge I might rouse even you — though you need no prompter — to remember the services I owe. But now it is time to come to the task I have set myself.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "Cum omnis ratio diligens disserendi duas habeat partis , unam inveniendi alteram iudicandi, utriusque princeps, ut mihi quidem videtur, Aristoteles fuit. Stoici autem in altera elaboraverunt; iudicandi enim vias diligenter persecuti sunt ea scientia quam dialektikh\\n appellant, inveniendi artem quae topikh\\ dicitur, quae et ad usum potior erat et ordine naturae certe prior, totam reliquerunt.",
+      "eng": "Since every careful method of reasoning has two parts, one of invention and the other of judgment, the founder of both, as it seems to me at least, was Aristotle. The Stoics, however, labored at one of them only; for they pursued the ways of judging with care, by the science they call dialectic [Greek: dialektikē], but the art of invention, which is called the art of topics [Greek: topikē] — though it was both more useful in practice and certainly prior in the order of nature — they abandoned altogether.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "nos autem, quoniam in utraque summa utilitas est et utramque, si erit otium, persequi cogitainus, ab ea quae prior est ordiemur. Vt igitur earum rerum quae absconditae sunt demonstrate et notato loco facilis inventio est, sic, cum pervestigare argumentum aliquod volumus, locos nosse debemus; sic enim appellatae ab Aristotele sunt eae quasi sedes, e quibus argumenta promuntur.",
+      "eng": "For my part, since there is the highest usefulness in both, and I intend to pursue both, if I have the leisure, I shall begin from the one that comes first. Just as the finding of things that are hidden is easy once the place is pointed out and marked, so, when we wish to track down some argument, we must know the topics; for that is the name Aristotle gave to these as it were seats, from which arguments are drawn.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "itaque licet definire locum esse argumenti sedem, argumentum autem rationem, quae rei dubiae faciat fidem. Sed ex his locis in quibus argumenta inclusa sunt, alii in eo ipso de quo agitur haerent, alii adsumuntur extrinsecus. In ipso tum ex toto, tum ex partibus eius, tum ex nota, tum ex eis rebus quae quodam modo adfectae sunt ad id de quo quaeritur. Extrinsecus autem ea ducuntur quae absunt longeque disiuncta sunt.",
+      "eng": "And so one may define a topic as the seat of an argument, and an argument as a piece of reasoning that produces conviction in a doubtful matter. But of these topics in which arguments are lodged, some inhere in the very subject under discussion, while others are brought in from outside. In the subject itself they are drawn now from the whole, now from its parts, now from its etymology, now from those things that are in some way related to what is in question. From outside, however, are drawn those things that lie apart and are far removed.",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "sed ad id totum de quo disseritur tum definitio adhibetur, quae quasi involutum evolvit id de quo quaeritur; eius argumenti talis est formula: Ius civile est aequitas constituta eis qui eiusdem civitatis sunt ad res suas obtinendas; eius autem aequitatis utilis cognitio est; utilis ergo est iuris civilis scientia;—",
+      "eng": "But to the whole subject under discussion definition is sometimes applied, which, as it were, unfolds what was wrapped up in the question; an argument of this kind takes such a form: The civil law is equity established for those who belong to the same state, for the securing of their own property; but the knowledge of that equity is useful; therefore the knowledge of the civil law is useful.",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "tum partium enumeratio, quae tractatur hoc modo: Si neque censu nec vindicta nec testamento liber factus est, non est liber; neque ulla est earum rerum; non est igitur liber;—tum notatio, cum ex verbi vi argumentum aliquod elicitur hoc modo: Cum lex assiduo vindicem assiduum esse iubeat, locupletem iubet locupleti; is est enim assiduus, ut ait L. Aelius , appellatus ab aere dando.",
+      "eng": "Sometimes there is an enumeration of parts, which is handled in this way: If a man has been made free neither by the census, nor by the rod, nor by a will, he is not free; but he has been freed by none of these means; therefore he is not free. Sometimes there is etymology, when some argument is elicited from the force of a word, in this way: Since the law commands that a property-holder be sponsor for a property-holder, it commands that a man of means be sponsor for a man of means; for a property-holder, as Lucius Aelius says, is so called from giving money.",
+      "notes": null
+    },
+    {
+      "loc": "11",
+      "section": 11,
+      "lat": "ducuntur etiam argumenta ex eis rebus quae quodam modo adfectae sunt ad id de quo quaeritur. Sed hoc genus in pluris partis distri- butum est. Nam alia coniugata appellamus, alia ex genere, alia ex forma, alia ex similitudine, alia ex differentia, alia ex contrario, alia ex adiunctis , alia ex antecedentibus, alia ex consequentibus, alia ex repugnantibus, alia ex causis, alia ex effectis, alia ex comparatione maiorum aut parium aut minorum.",
+      "eng": "Arguments are also drawn from those things that are in some way related to what is in question. But this kind is distributed into several parts. For some we call arguments from conjugates, others from genus, others from species, others from likeness, others from difference, others from contraries, others from adjuncts, others from antecedents, others from consequents, others from incompatibles, others from causes, others from effects, others from a comparison of greater or equal or lesser things.",
+      "notes": null
+    },
+    {
+      "loc": "12",
+      "section": 12,
+      "lat": "coniugata dicuntur quae sunt ex verbis generis eiusdem. Eiusdem autem generis verba sunt quae orta ab uno varie commutantur, ut sapiens sapienter sapien- tia. Haec verborum coniugatio suzugi/a dicitur, ex qua huius modi est argumentum: Si compascuus ager est, ius est compascere. A genere sic ducitur:",
+      "eng": "Those are called conjugates which come from words of the same kind. And words of the same kind are those that, sprung from a single root, are varied in their forms, as sapiens, sapienter, sapientia — wise, wisely, wisdom. This conjugation of words is called [Greek: syzygia], from which an argument of this sort arises: If a field is held in common pasture, there is a right to pasture in common. From genus it is drawn thus:",
+      "notes": null
+    },
+    {
+      "loc": "13",
+      "section": 13,
+      "lat": "quoniam argentum omne mulieri legatum est, non potest ea pecunia quae numerata domi relicta est non esse legata; forma enim a genere, quoad suum nomen retinet, numquam seiungitur, numerata autem pecunia nomen argenti retinet; legata igitur videtur.",
+      "eng": "Since all the silver was bequeathed to the wife, the cash that was left counted out in the house cannot fail to have been bequeathed; for the species is never severed from the genus so long as it keeps its own name, and cash keeps the name of silver; it appears, therefore, to have been bequeathed.",
+      "notes": null
+    },
+    {
+      "loc": "14",
+      "section": 14,
+      "lat": "a forma generis, quam interdum, quo planius accipiatur, partem licet nominare hoc modo: Si ita Fabiae pecunia legata est a viro, si ei viro materfamilias esset; si ea in manum non convenerat, nihil debetur. Genus enim est uxor; eius duae formae: una matrumfamilias, eae sunt, quae in manum convenerunt ; altera earum, quae tantum modo uxores habentur. Qua in parte cum fuerit Fabia, legatum ei non videtur.",
+      "eng": "From the species of a genus — which sometimes, so that it may be more plainly grasped, one may call a part — the argument runs like this: If money was left to Fabia by her husband on the condition that she was his wife, then, if she had not passed into his hand, nothing is owed. For wife is the genus, and it has two species: one, wives in the full sense, who have passed into the husband's hand; the other, those who are held to be wives only. Since Fabia falls under the latter part, the legacy does not appear to be owed to her.",
+      "notes": null
+    },
+    {
+      "loc": "15",
+      "section": 15,
+      "lat": "a similitudine hoc modo: Si aedes eae corruerunt vitiumve faciunt quarum usus fructus legatus est, heres restituere non debet nec reficere, non magis quam servum restituere, si is cuius usus fructus legatus esset deperisset. A differentia:",
+      "eng": "From likeness, like this: If the house whose usufruct was left has collapsed or is falling into ruin, the heir is not bound to restore or repair it, no more than he would be bound to replace a slave, if the slave whose usufruct had been left had died. From difference:",
+      "notes": null
+    },
+    {
+      "loc": "16",
+      "section": 16,
+      "lat": "non , si uxori vir legavit argentum omne quod suum esset, idcirco quae in nominibus fuerunt legata sunt. Multum enim differt in arcane positum sit argentum an in tabulis debeatur .",
+      "eng": "It does not follow, because a husband left his wife all the silver that was his own, that therefore the sums standing out in debts were left to her. For it makes a great difference whether silver is laid up in the strongbox or is owed on the account-books.",
+      "notes": null
+    },
+    {
+      "loc": "17",
+      "section": 17,
+      "lat": "ex contrario autem sic: Non debet ea mulier cui vir bonorum suorum usum fructum legavit cellis vinariis et oleariis plenis relictis, putare id ad se pertinere. Vsus enim, non abusus, legatus est. Ea sunt inter se contraria .",
+      "eng": "From the contrary, thus: A woman to whom her husband left the usufruct of his goods, with the wine-cellars and oil-stores left full, ought not to suppose that this belongs to her. For the use, not the using-up, was bequeathed. These are contraries to each other.",
+      "notes": null
+    },
+    {
+      "loc": "18",
+      "section": 18,
+      "lat": "ab adiunctis: Si ea mulier testamentum fecit quae se capite numquam deminuit, non videtur ex edicto praetoris secundum eas tabulas possessio dari. Adiungitur enim, ut secundum servorum, secundum exsulum, secundum puerorum tabulas possessio videatur ex edicto dari.",
+      "eng": "From adjuncts: If a woman who never underwent any reduction of status made a will, possession does not appear to be granted in accordance with that testament under the praetor's edict. For it is an adjunct that possession be held to be granted under the edict in accordance with the testaments of slaves, of exiles, of children.",
+      "notes": null
+    },
+    {
+      "loc": "19",
+      "section": 19,
+      "lat": "ab antecedentibus autem et consequentibus et repugnantibus hoc modo; ab antecedentibus: Si viri culpa factum est divortium, etsi mulier nuntium remisit, tamen pro liberis manere nihil oportet. A consequentibus:",
+      "eng": "From antecedents, consequents, and incompatibles, thus. From antecedents: If the divorce came about through the husband's fault, then, even though the wife sent the notice of dissolution, nothing ought to be retained on the children's account. From consequents:",
+      "notes": null
+    },
+    {
+      "loc": "20",
+      "section": 20,
+      "lat": "si mulier, cum fuisset nupta cum eo quicum conubium non esset, nuntium remisit; quoniam qui nati sunt patrem non sequuntur, pro liberis manere nihil oportet. A repugnantibus:",
+      "eng": "If a woman, having been married to a man with whom she had no right of marriage, sent the notice of dissolution, then, since the children that are born do not follow the father, nothing ought to be retained on the children's account. From incompatibles:",
+      "notes": null
+    },
+    {
+      "loc": "21",
+      "section": 21,
+      "lat": "si paterfamilias uxori ancillarum usum fructum legavit a filio neque a secundo herede legavit, mortuo filio mulier usum fructum non amittet. Quod enim semel testamento alicui datum est, id ab eo invito cui datum est auferri non potest. Repugnat enim recte accipere et invitum reddere. Ab efficientibus rebus hoc modo:",
+      "eng": "If the head of a household left his wife the usufruct of the maidservants by a charge upon his son, and did not lay the charge upon the substitute heir, then, when the son has died, the woman will not lose the usufruct. For what has once been given to someone by testament cannot be taken away from him against his will. For it is incompatible to receive a thing rightfully and to give it back unwillingly. From efficient things, thus:",
+      "notes": null
+    },
+    {
+      "loc": "22",
+      "section": 22,
+      "lat": "omnibus est ius parietem directum ad parietem communem adiungere vel solidum vel fornicatum. Sed qui in pariete communi demoliendo damni infecti promiserit, non debebit praestare, quod fornix viti fecerit. Non enim eius vitio qui demolitus est damnum factum est, sed eius operis vitio quod ita aedificatum est, ut suspendi non posset .",
+      "eng": "Everyone has the right to build a wall flush against a common wall, whether solid or arched. But a man who, in demolishing a common wall, has given a guarantee against threatened damage will not be bound to make good for damage the arch has caused. For the damage was done not by the fault of the one who demolished, but by the fault of the work itself, which had been built in such a way that it could not stand suspended.",
+      "notes": null
+    },
+    {
+      "loc": "23",
+      "section": 23,
+      "lat": "ab effectis rebus hoc modo: Cum mulier viro in manum convenit, omnia quae mulieris fuerunt viri fiunt dotis nomine. Ex comparatione autem omnia valent quae sunt huius modi: Quod in re maiore valet valeat in re minore , ut si in urbe fines non reguntur , nec aqua in urbe arceatur. Item contra: Quod in minore valet, valeat in maiore. Licet idem exemplum convertere. Item: Quod in re pari valet, valeat in hac quae par est; ut: Quoniam usus auctoritas fundi biennium est, sit etiam aedium. At in lege aedes non appellantur et sunt ceterarum rerum omnium quarum annuus est usus. Valeat aequitas, quae paribus in causis paria iura desiderat.",
+      "eng": "From effected things, thus: When a woman passes into her husband's hand, everything that was the woman's becomes the husband's under the name of dowry. From comparison, all arguments of this kind hold good: What holds good in the greater matter, let it hold good in the lesser — as, if boundaries are not regulated within the city, neither let rainwater be warded off within the city. Likewise the reverse: What holds good in the lesser, let it hold good in the greater. The same example can be turned about. Likewise: What holds good in an equal matter, let it hold good in this one that is equal to it — as: Since the use that confers title to a farm is two years, let it be so for a house as well. But in the law houses are not named, and they fall among all the other things whose use is reckoned at one year. Let equity hold good, which demands equal rights in equal cases.",
+      "notes": null
+    },
+    {
+      "loc": "24",
+      "section": 24,
+      "lat": "quae autem adsumuntur extrinsecus, ea maxime ex auctoritate ducuntur. Itaque Graeci talis argumentationes a)te/xnous vocant, id est artis expertis, ut si ita respondeas: Quoniam P. Scaevola id solum esse ambitus aedium dixerit, quod parietis communis tegendi causa tectum proiceretur, ex quo tecto in eius aedis qui protexisset aqua deflueret, id tibi ius videri.",
+      "eng": "As for those arguments that are taken from without, they are drawn above all from authority. And so the Greeks call such argumentations [Greek: atechnous], that is, devoid of art, as when you give an answer of this sort: Since Publius Scaevola has said that the surround of a house is only that part where the roof is thrown out to protect the common wall, and from which roof the rainwater runs down into the house of the man who set out the projection — that this seems to you to be the law.",
+      "notes": null
+    },
+    {
+      "loc": "25",
+      "section": 25,
+      "lat": "his igitur locis qui sunt expositi ad omne argumentum reperiendum tamquam elementis quibusdam significatio et demonstratio ad reperiendum datur. Vtrum igitur hactenus satis est? Tibi quidem tam acuto et tam occupato puto. sed quoniam avidum hominem ad has discendi epulas recepi, sic accipiam, ut reliquiarum sit potius aliquid quam te hinc patiar non satiatum discedere.",
+      "eng": "By these topics, then, which have been set out, the means of finding and showing the way to discovery is given for every argument, as though by certain elements. Is this far enough, then? For you, so sharp and so busy a man, I think it is. But since I have welcomed a man hungry for these feasts of learning, I shall serve you in such a way that there shall be something left over rather than let you depart from here unsatisfied.",
+      "notes": null
+    },
+    {
+      "loc": "26",
+      "section": 26,
+      "lat": "quando ergo unus quisque eorum locorum quos exposui sua quaedam habet membra, ea quam subtilissime persequamur, et pri- mum de ipsa definitione dicatur. Definitio est oratio, quae id quod definitur explicat quid sit. Definitionum autem duo genera prima: unum earum rerum quae sunt, alterum earum quae intelleguntur.",
+      "eng": "Since, then, each one of the topics I have set out has certain members of its own, let us pursue them as closely as we can, and let us speak first of definition itself. A definition is a statement that unfolds what the thing defined is. There are two primary kinds of definition: one of things that exist, the other of things that are conceived.",
+      "notes": null
+    },
+    {
+      "loc": "27",
+      "section": 27,
+      "lat": "esse ea dico quae cerni tangique possunt, ut fundum aedes, parietem stillicidium, mancipium pecudem, supellectilem penus et cetera; quo ex genere quaedam interdum vobis definienda sunt. Non esse rursus ea dico quae tangi demonstrarive non possunt, cerni tamen animo atque intellegi possunt, ut si usus capionem, si tutelam, si gentem, si agnationem definias, quarum rerum nullum subest quasi corpus, est tamen quaedam conformatio insignita et impressa intellegentia , quam notionem voco. Ea saepe in argumentando defini- tione explicanda est.",
+      "eng": "I call those things \"existent\" which can be seen and touched—a farm, a house, a wall, a roof-drip, a slave, a beast, furniture, provisions, and the rest; some things of this class must from time to time be defined by you jurists. And again I call those things \"non-existent\" which can neither be touched nor pointed out, yet can still be discerned by the mind and grasped by the understanding—as when you would define usucapion, or guardianship, or a clan, or agnation, things which have no body, so to speak, underlying them, but which nonetheless have a certain shaped and impressed conception, which I call a notion. This must often, in the course of argument, be unfolded by definition.",
+      "notes": null
+    },
+    {
+      "loc": "28",
+      "section": 28,
+      "lat": "atque etiam definitiones aliae sunt partitionum aliae divisionum; partitionum, cum res ea quae proposita est quasi in membra discerpitur, ut si quis ius civile dicat id esse quod in legibus, senatus consultis, rebus iudicatis, iuris peritorum auctoritate, edictis magistra- tuum, more, aequitate consistat. Divisionum autem definitio formas omnis complectitur quae sub eo genere sunt quod definitur hoc modo: Abalienatio est eius rei quae mancipi est aut traditio alteri nexu aut in iure cessio inter quos ea iure civili fieri possunt. sunt etiam alia genera definitionum, sed ad huius libri institutum illa nihil pertinent; tantum est dicendum qui sit definitionis modus.",
+      "eng": "And further, some definitions belong to partitions and others to divisions. They belong to partition when the thing proposed is divided up, as it were, into members—as if someone should say that the civil law consists of statutes, decrees of the Senate, judicial precedents, the authority of the jurists, the edicts of the magistrates, custom, and equity. A definition by division, on the other hand, embraces all the species that fall under the genus being defined, in this manner: Alienation is, of a thing that is subject to mancipation, either the transfer of it to another by formal conveyance, or its surrender before the magistrate, between those persons who can lawfully effect such transactions under the civil law. There are also other kinds of definitions, but they have no bearing on the plan of this book; only the method of definition must be stated.",
+      "notes": null
+    },
+    {
+      "loc": "29",
+      "section": 29,
+      "lat": "sic igitur veteres praecipiunt: cum sumpseris ea quae sint ei rei quam definire velis cum aliis communia, usque eo persequi, dum proprium efficiatur, quod nullam in aliam rem transferri possit. Vt haec: Hereditas est pecunia. Commune adhuc; multa enim genera pecuniae. Adde quod sequitur: quae morte alicuius ad quempiam pervenit. Nondum est definitio; multis enim modis sine hereditate teneri pecuniae mortuorum possunt. Vnum adde verbum: iure; iam a communitate res diiuncta videbitur, ut sit explicata definitio sic: Hereditas est pecunia quae morte alicuius ad quem- piam pervenit iure. Nondum est satis; adde: nec ea aut legata testamento aut possessione retenta; confectum est. Itemque ut illud : Gentiles sunt inter se qui eodem nomine sunt. Non est satis. Qui ab ingenuis oriundi sunt. Ne id quidem satis est. Quorum maiorum nemo servitutem servivit. Abest etiam nunc. Qui capite non sunt deminuti. Hoc fortasse satis est. Nihil enim video Scaevolam pontificem ad hanc definitionem addidisse. Atque haec ratio valet in utroque genere definitionum, sive id quod est, sive id quod intellegitur definiendum est.",
+      "eng": "This, then, is what the ancients prescribe: when you have taken the features that the thing you wish to define has in common with others, pursue the matter until you arrive at something proper to it, which can be transferred to no other thing. Take this: An inheritance is property. So far it is common, for there are many kinds of property. Add what follows: which comes to someone upon the death of another. It is not yet a definition, for in many ways the property of the dead can be held without inheritance. Add a single word, \"lawfully,\" and the thing will now appear set apart from what it shares, so that the definition unfolds thus: An inheritance is property which comes to someone lawfully upon the death of another. It is not yet enough; add: and which has neither been bequeathed by will nor retained by possession. Now it is finished. Likewise this: Clansmen are men who bear the same name. That is not enough. Who are sprung from free-born ancestors. Not even that is enough. None of whose forebears has been a slave. Something is still wanting. Who have undergone no loss of civil status. This, perhaps, is enough; for I see that Scaevola the pontiff added nothing to this definition. And this method holds good in both kinds of definition, whether the thing to be defined is one that exists or one that is conceived.",
+      "notes": null
+    },
+    {
+      "loc": "30",
+      "section": 30,
+      "lat": "partitionum autem et divisionum genus quale esset ostendimus, sed quid inter se differant planius dicendum est. In partitione quasi membra sunt, ut corporis caput umeri manus latera crura pedes et cetera; in divisione formae, quas Graeci ei)/dh vocant, nostri, si qui haec forte tractant, species appellant, non pessime id quidem sed inutiliter ad mutandos casus in dicendo. Nolim enim, ne si Latine quidem dici possit, specierum et speciebus dicere; et saepe his casibus utendum est; at formis et formarum velim. Cum autem utroque verbo idem significetur, com- moditatem in dicendo non arbitror neglegendam.",
+      "eng": "We have shown what sort of thing the genus of partitions and divisions is, but how they differ from one another must be stated more plainly. In a partition there are, so to speak, members—as of a body the head, shoulders, hands, sides, legs, feet, and the rest; in a division there are species, which the Greeks call [Greek: eidē], and which our own writers, if any chance to handle these matters, call species—not a bad term, indeed, but an inconvenient one for changing case-endings in speech. For I should not like to say, even if it could be said in good Latin, specierum and speciebus; and these cases must often be used. But formis and formarum I should be glad to say. And since the same thing is meant by either word, I do not think convenience in speaking should be neglected.",
+      "notes": null
+    },
+    {
+      "loc": "31",
+      "section": 31,
+      "lat": "genus et formam definiunt hoc modo: Genus est notio ad pluris differentias pertinens; forma est notio cuius differentia ad caput generis et quasi fontem referri potest. Notionem appello quod Graeci tum e)/nnoian tum pro/lhyin. Ea est insita et animo praecepta cuiusque cognitio enodationis indigens. Formae sunt igitur eae in quas genus sine ullius praetermissione dividitur; ut si quis ius in legem morem aequitatem dividat. Formas qui putat idem esse quod partis, confundit artem et similitudine quadam con- turbatus non satis acute quae sunt secernenda distinguit.",
+      "eng": "Genus and species they define in this way: A genus is a notion bearing upon several differences; a species is a notion whose difference can be referred back to the head, the very fountainhead, as it were, of the genus. I use the word \"notion\" for what the Greeks call now [Greek: ennoia], now [Greek: prolēpsis]. It is the implanted knowledge of each thing, grasped beforehand by the mind, and standing in need of being unraveled. The species, then, are those parts into which a genus is divided without omitting any one of them—as if someone should divide law into statute, custom, and equity. Whoever supposes that species are the same as parts confounds the art, and, thrown off by a certain likeness, fails to distinguish keenly enough things that ought to be kept apart.",
+      "notes": null
+    },
+    {
+      "loc": "32",
+      "section": 32,
+      "lat": "saepe etiam definiunt et oratores et poetae per translationem verbi ex similitudine cum aliqua suavitate. Sed ego a vestris exemplis nisi necessario non recedam. Solebat igitur Aquilius conlega et familiaris meus, cum de litoribus ageretur, quae omnia publica esse vultis, quaerentibus eis quos ad id pertinebat, quid esset litus, ita definire, qua fluctus eluderet; hoc est, quasi qui adulescentiam florem aetatis, senectutem occasum vitae velit definire; translatione enim utens discedebat a verbis propriis rerum ac suis. quod ad definitiones attinet, hactenus; reliqua videamus.",
+      "eng": "Often, too, both orators and poets define by a transferred use of a word, drawn from a likeness, with a certain charm. But I shall not depart from your own examples unless I must. So my colleague and friend Aquilius, when there was a dispute about shores—which you jurists hold to be wholly public—being asked by those whom the matter concerned what a shore was, used to define it as the place to which the wave plays. That is much as if one wished to define youth as the flower of one's years, and old age as the setting of life; for in using a metaphor he was departing from the words proper and peculiar to the things. So much, then, as concerns definitions; let us look at the rest.",
+      "notes": null
+    },
+    {
+      "loc": "33",
+      "section": 33,
+      "lat": "partitione tum sic utendum est, nullam ut partem re- linquas; ut, si partiri velis tutelas, inscienter facias, si ullam praetermittas. At si stipulationum aut iudiciorum formulas partiare, non est vitiosum in re infinita praeter- mittere aliquid. Quod idem in divisione vitiosum est. Formarum enim certus est numerus quae cuique generi subiciantur; partium distributio saepe est infinitior, tam- quam rivorum a fonte diductio.",
+      "eng": "Partition is to be used in such a way that you leave out no part; thus, if you wished to divide the kinds of guardianship, you would do it ignorantly were you to pass over any one. But if you should partition the formulas of stipulations or of lawsuits, there is no fault in leaving something out, the subject being unbounded. The same thing, in a division, is a fault. For the number of species that fall under any genus is fixed; the distribution into parts is often more unbounded, like the drawing-off of streams from a spring.",
+      "notes": null
+    },
+    {
+      "loc": "34",
+      "section": 34,
+      "lat": "itaque in oratoriis artibus quaestionis genere proposito, quot eius formae sint, subiungitur absolute. At cum de ornamentis verborum sententiarumve praecipitur, quae vocant sxh/mata, non fit idem. Res est enim infinitior; ut ex hoc quoque intellegatur quid velimus inter partitionem et divisionem interesse. Quam- quam enim vocabula prope idem valere videbantur , tamen quia res differebant, nomina rerum distare voluerunt.",
+      "eng": "And so in the textbooks of oratory, when a kind of question has been proposed, the number of its species is appended absolutely. But when instruction is given about the ornaments of words or of thoughts, which they call [Greek: schēmata], the same is not done. For the matter is more unbounded—so that from this too one may understand what we wish the difference between partition and division to be. For although the words seemed to mean almost the same, yet because the things differed, they wished the names of the things to stand apart.",
+      "notes": null
+    },
+    {
+      "loc": "35",
+      "section": 35,
+      "lat": "Multa etiam ex notatione sumuntur.. Ea est autem, cum ex vi nominis argumentum elicitur; quam Graeci e)tumologi/an appellant, id est verbum ex verbo veriloquium; nos autem novitatem verbi non satis apti fugientes genus hoc notationem appellamus, quia sunt verba rerum notae. Itaque hoc quidem Aristoteles su/mbolon appellat, quod Latine est nota. Sed cum intellegitur quid significetur, minus laborandum est de nomine.",
+      "eng": "Much, too, is drawn from etymology. This is when an argument is elicited from the force of a name, which the Greeks call [Greek: etymologia], that is, word from word, a \"true-speaking\"; we ourselves, avoiding the strangeness of a not very apt term, call this kind etymology, because words are the marks of things. And so this is what Aristotle calls [Greek: symbolon], which in Latin is \"mark.\" But when it is understood what is meant, one need labor less over the name.",
+      "notes": null
+    },
+    {
+      "loc": "36",
+      "section": 36,
+      "lat": "multa igitur in disputando notatione eliciuntur ex verbo, ut cum quaeritur postliminium quid sit—non dico quae sint postlimini; nam id caderet in divisionem, quae talis est: Postliminio redeunt haec: homo navis mulus clitellarius equus equa quae frenos recipere solet—; sed cum ipsius postlimini vis quaeritur et verbum ipsum notatur; in quo Servius noster, ut opinor, nihil putat esse notandum nisi post, et liminium illud productionem esse verbi vult, ut in finitimo legitimo aedi- timo non plus inesse timum quam in meditullio tullium; Scaevola autem",
+      "eng": "Much, then, in argument is elicited by etymology from a word—as when the question is asked what postliminy is. I do not mean what the cases of postliminy are; for that would fall under division, which runs thus: These things return by postliminy—a man, a ship, a pack-mule, a horse, a mare that is wont to take the bit. No, I mean when the very force of postliminy is sought, and the word itself is dissected; on which point our friend Servius thinks, as I suppose, that nothing is to be marked but post, and holds that liminium is a mere lengthening of the word, just as in finitimus, legitimus, aeditimus there is no more force in the -timum than there is tullium in meditullium. Scaevola, however—",
+      "notes": null
+    },
+    {
+      "loc": "37",
+      "section": 37,
+      "lat": "P. F. iunctum putat esse verbum, ut sit in eo et post et limen; ut, quae a nobis alienata, cum ad hostem pervenerint, ex suo tamquam limine exierint, hinc ea cum redierint post ad idem limen, postliminio redisse videantur. Quo genere etiam Mancini causa defendi potest, postliminio redisse; deditum non esse, quoniam non sit receptus; nam neque deditionem neque donationem sine acceptione intellegi posse.",
+      "eng": "Publius's son—thinks it a compound word, so that there is in it both post and limen; so that things which, alienated from us, have crossed over to the enemy and so have passed, as it were, out of their own threshold, when these have returned afterward to that same threshold, are held to have returned by postliminy. On this principle the case of Mancinus too can be defended—that he returned by postliminy, and was not surrendered, since he was not received; for neither a surrender nor a gift can be conceived without an acceptance.",
+      "notes": null
+    },
+    {
+      "loc": "38",
+      "section": 38,
+      "lat": "Sequitur is locus, qui constat ex eis rebus quae quodam modo adfectae sunt ad id de quo ambigitur; quem modo dixi in plures partes distributum. Cuius est primus locus ex coniugatione , quam Graeci suzugi/an vocant, finitimus notationi, de qua modo dictum est; ut, si aquam pluviam eam modo intellegeremus quam imbri conlectam videremus, veniret Mucius, qui, quia coniugata verba essent pluvia et pluendo, diceret omnem aquam oportere arceri quae pluendo crevisset.",
+      "eng": "There follows the topic which consists of those things that are in some way related to the matter in dispute, which I said a little earlier was distributed into several parts. The first of these is the topic of conjugates, which the Greeks call [Greek: syzygia], neighbor to the etymology of which we have just spoken—as, if we understood \"rainwater\" to be only that which we saw gathered from a shower, in would come Mucius to say that, because the words \"rain\" and \"raining\" are conjugates, all water that had swollen by raining ought to be kept off.",
+      "notes": null
+    },
+    {
+      "loc": "39",
+      "section": 39,
+      "lat": "cum autem a genere ducetur argu- mentum, non erit necesse id usque a capite arcessere. Saepe etiam citra licet, dum modo supra sit quod sumitur, quam id ad quod sumitur; ut aqua pluvia ultimo genere ea est quae de caelo veniens crescit imbri, sed propiore, in quo quasi ius arcendi continetur, genus est aqua pluvia nocens: eius generis formae loci vitio et manu nocens, quarum altera iubetur ab arbitro coerceri altera non iube- tur.",
+      "eng": "When an argument is drawn from the genus, however, it will not be necessary to fetch it all the way from the head of the line. Often one may stop short of that, provided only that what you take is higher than the thing for which you take it. So rainwater, in its ultimate genus, is the water that, coming down from the sky, swells with rain; but in a nearer genus, the one in which there is contained, so to speak, the right of warding it off, the genus is harmful rainwater, and of that genus the species are water harmful by a fault of the ground and water harmful by the hand of man, of which the one is ordered to be checked by the arbitrator, the other is not.",
+      "notes": null
+    },
+    {
+      "loc": "40",
+      "section": 40,
+      "lat": "commode etiam tractatur haec argumentatio quae ex genere sumitur, cum ex toto partis persequare hoc modo: Si dolus malus est, cum aliud agitur aliud simulatur, enumerare licet quibus id modis fiat, deinde in eorum aliquem id quod arguas dolo malo factum includere; quod genus argumenti in primis firmum videri solet.",
+      "eng": "This kind of argument too, the one taken from the genus, is handled conveniently when you run through the parts from the whole, in this fashion: if there is fraud whenever one thing is done and another pretended, one may enumerate the ways in which this comes about, and then bring the matter you are charging within some one of them as a thing done by fraud. This kind of argument is generally reckoned among the strongest.",
+      "notes": null
+    },
+    {
+      "loc": "41",
+      "section": 41,
+      "lat": "similitudo sequitur, quae late patet, sed oratoribus et philosophis magis quam vobis. Etsi enim omnes loci sunt omnium disputationum ad argumenta suppeditanda, tamen aliis disputationibus abundantius occurrunt aliis angustius. Itaque genera tibi nota sint; ubi autem eis utare, quae- stiones ipsae te admonebunt.",
+      "eng": "Likeness comes next, which has a wide range, but more for orators and philosophers than for you and your kind. For although all topics serve every discussion for the supplying of arguments, yet they come up more abundantly in some discussions, more sparingly in others. So let the kinds be known to you; where to use them, the questions themselves will remind you.",
+      "notes": null
+    },
+    {
+      "loc": "42",
+      "section": 42,
+      "lat": "sunt enim similitudines quae ex pluribus conlationibus perveniunt quo volunt hoc modo: Si tutor fidem praestare debet, si socius, si cui mandaris, si qui fiduciam acceperit, debet etiam procura- tor. Haec ex pluribus perveniens quo vult appellatur inductio, quae Graece e)pagwgh\\ nominatur, qua plurimum est usus in sermonibus Socrates.",
+      "eng": "For there are likenesses that reach the point they aim at by way of several comparisons, in this fashion: if a guardian owes good faith, if a partner does, if anyone to whom you have given a charge, if anyone who has accepted a trust, then an agent owes it too. This, arriving by way of several instances at the point it aims at, is called induction, which in Greek is named [Greek: epagōgē], the method Socrates made the most use of in his conversations.",
+      "notes": null
+    },
+    {
+      "loc": "43",
+      "section": 43,
+      "lat": "alterum similitudinis genus conlatione sumitur, cum una res uni, par pari com- paratur hoc modo: Quem ad modum, si in urbe de finibus controversia est, quia fines magis agrorum videntur esse quam urbis , finibus regendis adigere arbitrum non possis, sic, si aqua pluvia in urbe nocet, quoniam res tota magis agrorum est, aquae pluviae arcendae adigere arbitrum non possis.",
+      "eng": "The other kind of likeness is taken by comparison, when one thing is matched against one, like against like, in this fashion: just as, if there is a dispute within the city about boundaries, you could not bring in an arbitrator for the settling of boundaries, since boundaries are held to belong to fields rather than to the city, so, if rainwater does harm within the city, you could not bring in an arbitrator for the warding off of rainwater, since the whole matter belongs rather to fields.",
+      "notes": null
+    },
+    {
+      "loc": "44",
+      "section": 44,
+      "lat": "ex eodem similitudinis loco etiam exempla sumuntur, ut Crassus in causa Curiana exemplis plurimis usus est, qui testamento sic heredes instituisset, ut si filius natus esset in decem mensibus isque mortuus prius quam in suam tutelam venisset, hereditatem obtinuissent . Quae com- memoratio exemplorum valuit, eaque vos in respondendo uti multum soletis.",
+      "eng": "From the same topic of likeness, examples too are taken, as Crassus in the Curian case made use of a great many examples of men who had so set up their heirs by will that, if a son had been born within ten months and had died before he came into his own guardianship, those heirs should obtain the inheritance. This marshalling of examples carried the day, and you are much in the habit of using it in your responses.",
+      "notes": null
+    },
+    {
+      "loc": "45",
+      "section": 45,
+      "lat": "ficta enim exempla similitudinis habent vim; sed ea oratoria magis sunt quam vestra; quamnquam uti etiam vos soletis, sed hoc modo: Finge mancipio aliquem dedisse id quod mancipio dari non potest. Num idcirco id eius factum est qui accepit? aut num is qui mancipio dedit ob eam rem se ulla re obligavit ? In hoc genere oratoribus et philosophis concessum est, ut muta etiam loquantur, ut mortui ab inferis exciten- tur, ut aliquid quod fieri nullo modo possit augendae rei gratia dicatur aut minuendae, quae u(perbolh\\ dicitur, multa alia mirabilia. Sed latior est campus illorum. Eisdem tamen ex locis, ut ante dixi, et in maximis et minimis in quaestionibus argumenta ducuntur.",
+      "eng": "For invented examples have the force of a likeness; but these belong more to the orator than to you, though you too are in the habit of using them, in this fashion: suppose someone has conveyed by mancipation what cannot be conveyed by mancipation. Has it on that account become the property of the man who received it? Or has the man who conveyed it by mancipation thereby bound himself to anything? In this kind of thing orators and philosophers are allowed to make even mute things speak, to call the dead up from below, to say that something which can in no way come to pass does come to pass, for the sake of magnifying or diminishing the matter — what is called [Greek: hyperbolē] — and many other marvels. But theirs is the broader field. Yet from the same topics, as I said before, arguments are drawn in questions both the greatest and the least.",
+      "notes": null
+    },
+    {
+      "loc": "46",
+      "section": 46,
+      "lat": "sequitur similitudinem differentia rei maxime contraria superiori; sed est eiusdem dissimile et simile invenire. Eius generis haec sunt: Non, quem ad modum quod mulieri debeas, recte ipsi mulieri sine tutore auctore solvas, item, quod pupillo aut pupillae debeas, recte possis eodem modo solvere.",
+      "eng": "After likeness follows difference, which is most directly opposed to the foregoing; but it belongs to the same skill to find what is unlike and what is like. Of this kind are the following: it is not the case that, just as you may rightly pay the woman herself, without the authorization of a guardian, what you owe to a woman, so you may in the same way rightly pay what you owe to a ward, male or female.",
+      "notes": null
+    },
+    {
+      "loc": "47",
+      "section": 47,
+      "lat": "deinceps locus est qui e contrario dicitur. Contrariorum autem genera plura; unum eorum quae in eodem genere plurimum differunt, ut sapientia stultitia. Eodem autem genere dicuntur quibus propositis occurrunt tamquam e regione quaedam contraria, ut celeritati tarditas, non debilitas. Ex quibus contrariis argumenta talia existunt: Si stultitiam fugimus, sapientiam sequamur et bonitatem si malitiam. Haec quae ex eodem genere contraria sunt appellantur adversa .",
+      "eng": "Next is the topic that is called from contraries. Now there are several kinds of contraries. One is of things that differ most within the same genus, as wisdom and folly. Things are said to be of the same genus when, once they are proposed, certain contraries present themselves as if from the opposite quarter, as slowness to swiftness, not weakness. From contraries of this sort arise arguments such as these: if we flee folly, let us pursue wisdom; and goodness, if we flee wickedness. These contraries, which belong to the same genus, are called opposites.",
+      "notes": null
+    },
+    {
+      "loc": "48",
+      "section": 48,
+      "lat": "sunt enim alia con- traria, quae privantia licet appellemus Latine, Graeci appellant sterhtika/. Praeposito enim ' in' privatur verbum ea vi, quam haberet si 'in' praepositum non fuisset, dignitas indignitas, humanitas inhumanitas, et cetera generis eiusdem, quorum tractactio est eadem quae superiorum quae adversa dixi.",
+      "eng": "For there are other contraries, which we may in Latin call privatives, and which the Greeks call [Greek: sterētika]. For when \"in-\" is prefixed, the word is deprived of the force it would have had if \"in-\" had not been prefixed: worth, worthlessness; humanity, inhumanity, and the rest of the same kind, whose handling is the same as that of the foregoing, which I called opposites.",
+      "notes": null
+    },
+    {
+      "loc": "49",
+      "section": 49,
+      "lat": "nam alia quoque sunt contrariorum genera, velut ea quae cum aliquo conferuntur, ut duplum simplum, multa pauca, longum breve, maius minus. Sunt etiam illa valde contraria quae appellantur negantia; ea a)pofatika\\ Graece , contraria aientibus: Si hoc est, illud non est. Quid enim opus exemplo est? Tantum intellegatur, in argumento quaerendo contrariis omnibus contraria non convenire.",
+      "eng": "For there are still other kinds of contraries, such as those that are set side by side with something else, as double and single, many and few, long and short, greater and less. There are also those strongly opposed which are called negatives — in Greek [Greek: apophatika] — contrary to affirmatives: if this is so, that is not so. What need is there of an example? Let only this much be understood: in seeking out an argument, not all contraries suit all contraries.",
+      "notes": null
+    },
+    {
+      "loc": "50",
+      "section": 50,
+      "lat": "ab adiunctis autem posui equidem exemplum paulo ante, multa adiungi, quae suscipienda essent si statuissemus ex edicto secundum eas tabulas possessionem dari, quas is instituisset cui testamenti factio nulla esset. Sed locus hic magis ad coniecturales causas, quae versantur in iudiciis, valet, cum quaeritur quid aut sit aut evenerit aut futurum sit aut quid omnino fieri possit.",
+      "eng": "As for adjuncts, I did indeed set down an example a little earlier — that many things would have to be taken on, things that would have to be granted if we had decided that, under the praetor's edict, possession was to be given in accordance with the will drawn up by a man who had no capacity to make a will. But this topic has more force for the conjectural cases that turn up in the courts, when the question is what either is, or has happened, or will happen, or what can come about at all.",
+      "notes": null
+    },
+    {
+      "loc": "51",
+      "section": 51,
+      "lat": "ac loci quidem ipsius forma talis est. Admonet autem hic locus, ut quaeratur quid ante rem, quid cum re, quid post rem evenerit. 'Nihil hoc ad ius; ad Ciceronem,' inquiebat Gallus noster, si quis ad eum quid tale rettulerat, ut de facto quaereretur. Tu tamen patiere nullum a me artis institutae locum prae- teriri; ne, si nihil nisi quod ad te pertineat scribendum putabis, nimium te amare videare. Est igitur magna ex parte locus hic oratorius non modo non iuris consultorum, sed ne philosophorum quidem.",
+      "eng": "And the form of this topic itself is of this kind. It prompts us to ask what happened before the matter, what during the matter, and what after it. \"This has nothing to do with the law; it is a job for Cicero\" — so our friend Gallus used to say, whenever someone brought him a question of this sort, where it was the fact itself that was at issue. You, though, will let me leave out no topic of the discipline I have set forth; for if you suppose that nothing should be written down except what bears on you, you will seem to love yourself too much. So this topic is for the most part one that belongs to the orator, and not at all to the jurists — nor even, indeed, to the philosophers.",
+      "notes": null
+    },
+    {
+      "loc": "52",
+      "section": 52,
+      "lat": "ante rem enim quaeruntur quae talia sunt: apparatus conloquia locus constitutum convivium; cum re autem: pedum crepitus, strepitus hominum , corporum umbrae et si quid eius modi; at post rem: pallor rubor titubatio, si qua alia signa conturbationis et conscientiae, praeterea restinctus ignis, gladius cruentus ceteraque quae suspicionem facti possunt movere.",
+      "eng": "For under what comes before the matter we look for things of this kind: the preparations, the conversations, the place, the appointment, the banquet. Under what attends the matter: the sound of footsteps, the noise of men, the shadows of bodies, and anything of that sort. And under what comes after the matter: pallor, blushing, faltering speech, and any other signs of agitation and a guilty conscience, and besides these the fire put out, the bloodied sword, and the rest of the things that can rouse a suspicion of the deed.",
+      "notes": null
+    },
+    {
+      "loc": "53",
+      "section": 53,
+      "lat": "deinceps est locus dialecticorum proprius ex consequen- tibus et antecedentibus et repugnantibus . Nam coniuncta, de quibus paulo ante dictum est, non semper eveniunt; consequentia autem semper. Ea enim dico consequentia quae rem necessario consequuntur; itemque et antecedentia et repugnantia. Quidquid enim sequitur quamque rem, id cohaeret cum re necessario; et quidquid repugnat, id eius modi est ut cohaerere numquam possit. cum tripertito igitur distribuatur locus hic, in consecutionem antecessionem repugnantiam, reperiendi argumenti locus simplex est, tractandi triplex. Nam quid interest, cum hoc sumpseris, pecuniam numeratam mulieri deberi cui sit argentum omne legatum, utrum hoc modo concludas argumentum: Si pecunia signata argentum est, legata est mulieri. Est autem pecunia signata argentum. Legata igitur est; an illo modo: Si numerata pecunia non est legata, non est numerata pecunia argentum. Est autem numerata pecunia argentum; legata igitur est; an illo modo: Non et legatum argentum est et non est legata numerata pecunia. Legatum autem argentum est; legata igitur numerata pecunia est?",
+      "eng": "Next comes the topic proper to the dialecticians, drawn from consequents and antecedents and incompatibles. For things conjoined, of which I spoke a little earlier, do not always come to pass; but consequents always do. By consequents I mean those things that follow upon a matter of necessity; and likewise with antecedents and incompatibles. For whatever follows upon any given thing coheres with that thing necessarily; and whatever is incompatible with it is of such a kind that it can never cohere with it. Since, then, this topic is divided into three — into consequence, antecedence, and incompatibility — the topic for finding an argument is single, but for handling it threefold. For what difference does it make, once you have assumed this, that money paid out in coin is owed to the woman to whom all the silver was bequeathed, whether you draw the argument to a close in this way: If coined money is silver, it has been bequeathed to the woman. But coined money is silver. Therefore it has been bequeathed. Or in this way: If coined money has not been bequeathed, coined money is not silver. But coined money is silver; therefore it has been bequeathed. Or in this way: It is not the case both that the silver has been bequeathed and that the coined money has not been bequeathed. But the silver has been bequeathed; therefore the coined money has been bequeathed.",
+      "notes": null
+    },
+    {
+      "loc": "54",
+      "section": 54,
+      "lat": "appellant autem dialectici eam conclusionem argumenti, in qua, cum primum adsumpseris, consequitur id quod adnexum est primum conclusionis modum; cum id quod adnexum est negaris, ut id quoque cui fuerit adnexum negandum sit, secundus is appellatur concludendi modus; cum autem aliqua coniuncta negaris et ex eis unum aut plura sumpseris, ut quod relinquitur tollendum sit, is tertius appellatur conclusionis modus.",
+      "eng": "Now the dialecticians call that drawing of an argument to its close, in which, once you have assumed the first part, there follows what was attached to it, the first mode of conclusion; when you have denied what was attached, so that what it was attached to must also be denied, that is called the second mode of concluding; and when you have denied some conjoined pair and have taken one or more of them, so that what remains must be done away with, that is called the third mode of conclusion.",
+      "notes": null
+    },
+    {
+      "loc": "55",
+      "section": 55,
+      "lat": "ex hoc illa rhetorum ex contrariis conclusa, quae ipsi e)nqumh/mata appellant; non quod omnis sententia proprio nomine e)nqu/mhma non dicatur , sed, ut Homerus propter excellentiam commune poetarum nomen efficit apud Graecos suum, sic, cum omnis sententia e)nqu/mhma dicatur, quia videtur ea quae ex contrariis conficitur acutissima, sola proprie nomen commune possedit. Eius generis haec sunt: hoc metuere, alterum in metu non ponere! eam quam nihil accusas damnas, bene quam meritam esse autumas male merere? id quod scis prodest nihil; id quod nescis obest?",
+      "eng": "From this come those arguments of the rhetoricians concluded from incompatibles, which they themselves call [Greek: enthymemata] — not that every thought is not called, by its own proper name, an [Greek: enthymema], but, just as Homer, by reason of his preeminence, makes the name common to poets his own among the Greeks, so, although every thought is called an [Greek: enthymema], because the one that is fashioned from incompatibles seems the keenest, it alone has come to possess the common name as its own. Of this kind are these: \"To fear this, and yet to count the other no cause for fear! Her whom you charge with nothing, you condemn; her whom you declare to have deserved well, you treat as deserving ill? What you know does you no good; what you do not know does you harm?\"",
+      "notes": null
+    },
+    {
+      "loc": "56",
+      "section": 56,
+      "lat": "hoc disserendi genus attingit omnino vestras quoque in respondendo disputationes, sed philosophorum magis, quibus est cum oratoribus illa ex repugnantibus sententiis communis conclusio quae a dialecticis tertius modus, a rhe- toribus e)nqu/mhma dicitur. Reliqui dialecticorum modi plures sunt, qui ex disiunctionibus constant: Aut hoc aut illud; hoc autem; non igitur illud. Itemque: Aut hoc aut illud; non autem hoc; illud igitur. Quae conclusiones idcirco ratae sunt quod in disiunctione plus uno verum esse non potest.",
+      "eng": "This kind of reasoning touches even your own arguments in giving counsel, but the philosophers' more — for they share with the orators that mode of conclusion from incompatible propositions which the dialecticians call the third mode, and the rhetoricians an [Greek: enthymema]. The remaining modes of the dialecticians are more numerous, and consist of disjunctions: Either this or that; but this; therefore not that. And likewise: Either this or that; but not this; therefore that. These conclusions hold good for the reason that in a disjunction more than one part cannot be true.",
+      "notes": null
+    },
+    {
+      "loc": "57",
+      "section": 57,
+      "lat": "atque ex eis conclusionibus quas supra scripsi prior quartus posterior quintus a dialecticis modus appellatur. Deinde addunt coniunctionum negantiam sic: Non et hoc et illud; hoc autem; non igitur illud. Hic modus est sextus. Septimus autem: Non et hoc et illud; non autem hoc; illud igitur. Ex eis modis conclusiones innumerabiles nascuntur, in quo est tota fere dialektikh/. Sed ne hae quidem quas exposui ad hanc institutionem necessariae.",
+      "eng": "And of the conclusions I have written above, the former is called by the dialecticians the fourth mode, the latter the fifth. Then they add the denial of conjunctions, thus: Not both this and that; but this; therefore not that. This is the sixth mode. And the seventh: Not both this and that; but not this; therefore that. From these modes countless conclusions arise, in which lies almost the whole of dialectic. But not even these that I have set out are necessary to the present instruction.",
+      "notes": null
+    },
+    {
+      "loc": "58",
+      "section": 58,
+      "lat": "proximus est locus rerum efficientium, quae causae appellantur; deinde rerum effectarum ab efficientibus causis. Harum exempla, ut reliquorum locorum, paulo ante posui equidem ex iure civili; sed haec patent latius. causarum enim genera duo sunt; unum, quod vi sua id quod sub eam vim subiectum est certe efficit, ut Ignis accendit; alterum, quod naturam efficiendi non habet sed sine.quo effici non possit, ut si quis aes statue causam velit dicere, quod sine eo non possit effici.",
+      "eng": "Next is the topic of efficient things, which are called causes; then of things effected by the efficient causes. Examples of these, as of the other topics, I gave a little earlier, drawn from the civil law; but they range more widely. For there are two kinds of causes: one which by its own force certainly produces what is subject to that force, as fire kindles; the other which does not have the nature of producing an effect, but is that without which the effect cannot be produced — as if someone should wish to name the bronze as the cause of a statue, because without it the statue cannot be produced.",
+      "notes": null
+    },
+    {
+      "loc": "59",
+      "section": 59,
+      "lat": "huius generis causarum, sine quo non efficitur, alia sunt quieta, nihil agentia, stolida quodam modo, ut locus tempus materia ferramenta et cetera generis eiusdem; alia autem praecur- sionem quandam adhibent ad efficiendum et quaedam adferunt per se adiuvantia, etsi non necessaria, ut: Amori congressio causam attulerat , amor flagitio. Ex hoc genere causarum ex aeternitate pendentium fatum a Stoicis nectitur. Atque ut earum causarum sine quibus effici non potest genera divisi, sic etiam efficientium dividi possunt. Sunt enim aliae causae quae plane efficiant nulla re adiuvante, aliae quae adiuvari velint, ut: Sapientia efficit sapientis sola per se; beatos efficiat necne sola per sese quaestio est.",
+      "eng": "Of this kind of cause, the one without which the effect is not produced, some are inert, doing nothing, dull, so to speak — such as place, time, material, tools, and the rest of that kind; others, however, bring a certain advance toward producing the effect and contribute something that of itself helps, even if it is not necessary, as: A meeting had supplied the cause of love, love the cause of the disgrace. From this kind of cause, depending as it does from eternity, the Stoics weave their fate. And just as I divided the kinds of those causes without which the effect cannot be produced, so the efficient causes too can be divided. For some causes are such that they plainly produce the effect with nothing else helping, others such that they require to be helped, as: Wisdom makes men wise by itself, alone; whether it makes them happy by itself, alone, is a question.",
+      "notes": null
+    },
+    {
+      "loc": "60",
+      "section": 60,
+      "lat": "qua re cum in disputationem incident causa efficiens aliquid necessario, sine dubitatione licebit quod efficitur ab ea caiisa concludere. cum autem erit talis causa, ut in ea non sit efficiendi necessitas, necessaria conclusio non sequitur. Atque illud quidem genus causarum quod habet vim efficiendi necessariam errorem adferre non fere solet; hoc autem sine quo non efficitur saepe conturbat. Non enim, si sine parentibus filii esse non possunt, propterea in parentibus causa fuit gignendi necessaria.",
+      "eng": "For this reason, when a cause that produces something of necessity comes into a discussion, it will be permissible without hesitation to conclude from that cause the thing that is produced. But when the cause is such that in it there is no necessity of producing the effect, the necessary conclusion does not follow. And that kind of cause, indeed, which has a necessary force of producing, does not as a rule bring on error; but this kind, without which the effect is not produced, often throws things into confusion. For it does not follow, because sons cannot exist without parents, that on that account there was in the parents a necessary cause of begetting.",
+      "notes": null
+    },
+    {
+      "loc": "61",
+      "section": 61,
+      "lat": "hoc igitur sine quo non fit, ab eo in quo certe fit diligenter est separandum. Illud enim est tamquam utinam ne in nemore Pelio— Nisi enim 'accidissent abiegnae ad terram trabes,' Argo illa facta non esset, nec tamen fuit in his trabibus efficiendi vis necessaria. At cum in Aiacis navim crispisulcans igneum fulmen iniectum est, inflammatur navis necessario.",
+      "eng": "This, then — the cause without which a thing does not come to be — must be carefully kept apart from that in which the thing certainly does come to be. For the former is like the line, Would that not in the grove of Pelion — For if \"the beams of fir had not fallen to the ground,\" that famous Argo would never have been made; and yet there was in those beams no necessary force of producing. But when upon the ship of Ajax the fire-flashing, furrowing thunderbolt was hurled, the ship is set ablaze of necessity.",
+      "notes": null
+    },
+    {
+      "loc": "62",
+      "section": 62,
+      "lat": "atque etiam est causarum dissimilitudo, quod aliae sunt, ut sine ulla appetitione animi, sine voluntate, sine opinione suum quasi opus efficiant, vel ut omne intereat quod ortum sit; aliae autem aut voluntate efficiunt aut perturbatione animi aut habitu aut natura aut arte aut casu: voluntate, ut tu, cum hunc libellum legis; perturbatione, ut si quis eventum horum temporum timeat; habitu, ut qui facile et cito irascitur ; natura, ut vitium in dies crescat; arte, ut bene pingat; casu, ut prospere naviget. Nihil horum sine causa nec quidquam omnino; sed huius modi causae non necessariae.",
+      "eng": "And there is, besides, a dissimilarity among causes: some are such that they produce their effect, as it were, without any reaching out of the mind, without will, without judgment — as that everything which has come into being should perish; while others produce it either by will, or by a disturbance of the mind, or by disposition, or by nature, or by art, or by chance: by will, as you, when you read this little book; by disturbance, as if someone should fear the outcome of these times; by disposition, as one who grows angry easily and quickly; by nature, as that a fault grows greater day by day; by art, as that one paints well; by chance, as that one sails prosperously. None of these is without a cause, nor is anything at all; but causes of this kind are not necessary.",
+      "notes": null
+    },
+    {
+      "loc": "63",
+      "section": 63,
+      "lat": "omnium autem causarum in aliis inest con- stantia, in aliis non inest. In natura et in arte constantia est, in ceteris nulla. sed tamen earum causarum quae non sunt constantes aliae sunt perspicuae, aliae latent. Perspicuae sunt quae appetitionem animi iudiciumque tangunt; latent quae subiectae sunt fortunae. Cum enim nihil sine causa fiat, hoc ipsum est fortunae eventus; obscura causa et latenter efficitur. Etiam ea quae fiunt partim sunt ignorata partim voluntaria; ignorata, quae necessitate effecta sunt; voluntaria, quae consilio.",
+      "eng": "Now of all causes, in some there is constancy, in others there is not. In nature and in art there is constancy; in the rest, none. But still, of those causes that are not constant, some are plain to see, others lie hidden. Plain to see are those that touch the mind's reaching out and its judgment; hidden are those that are subject to fortune. For since nothing comes to pass without a cause, this very thing is what an outcome of fortune is: it is produced by an obscure cause, and in secret. Again, of the things that come to pass, some are unknown and some are willed: unknown, those that have been produced by necessity; willed, those produced by design.",
+      "notes": null
+    },
+    {
+      "loc": "64",
+      "section": 64,
+      "lat": "quae autem fortuna, vel ignorata vel voluntaria . Nam iacere telum voluntatis est, ferire quem nolueris fortunae. Ex quo ARIES SVBICITVR ille in vestris actionibus: SI TELVM MANV FVGIT MAGIS QVAM IECIT. Cadunt etiam in ignora- tionem atque imprudentiam perturbationes animi; quae quamquam sunt voluntariae—obiurgatione enim et admon- itione deiciuntur—tamen habent tantbs motus, ut ea quae voluntaria sunt aut necessaria interdum aut certe ignorata videantur.",
+      "eng": "What comes about by chance is either unknown or voluntary. For to throw a weapon is an act of will, but to strike a man you did not mean to strike is chance. From this comes that ram which is brought in among your pleadings: if the weapon flew from his hand rather than being thrown by it. Disturbances of the mind, too, may fall under unknowing and want of foresight. For although they are voluntary—since they can be checked by rebuke and admonition—they nevertheless have such force of motion that the things which are voluntary sometimes seem either necessary or at any rate unknown.",
+      "notes": null
+    },
+    {
+      "loc": "65",
+      "section": 65,
+      "lat": "toto igitur loco causarum explicate, ex earum differentia in magnis quidem causis vel oratorum vel philosophorum magna argumentorum suppetit copia; in vestris autem si non uberior, at fortasse subtilior. Privata enim iudicia maximarum quidem rerum in iuris consultorum mihi videntur esse prudentia. Nam et adsunt multum et adhibentur in consilia et patronis diligentibus ad eorum prudentiam confugientibus hastas ministrant.",
+      "eng": "When, then, the whole topic of causes has been set out, a great supply of arguments is available from the differences among them—in the great cases of orators or philosophers, an abundant supply; in your own cases, if not richer, then perhaps finer. For the private trials, even of the weightiest matters, rest, in my view, on the expert knowledge of the jurists. They are present at them in great number, they are called into the deliberations, and they furnish the spears to diligent advocates who take refuge in their expertise.",
+      "notes": null
+    },
+    {
+      "loc": "66",
+      "section": 66,
+      "lat": "in omnibus igitur eis iudiciis, in quibus EX FIDE BONA est additum, ubi vero etiam VT INTER BONOS BENE AGIER OPORTET in primisque in arbitrio rei uxoriae, in quo est QVOD EIVS AEQVIVS MELIVS, parati eis esse debent. Illi dolum malum, illi fidem bonam, illi aequum bonum, illi quid socium socio, quid eum qui negotia aliena curasset ei' cuius ea negotia fuissent, quid eum qui mandasset, eumve cui mandatum esset, alterum alteri praestare oporteret, quid virum uxori, quid uxorem viro tradiderunt. Licebit igitur diligenter argumentorum cognitis locis non modo oratoribus et philosophis, sed iuris etiam peritis copiose de consultationibus suis disputare.",
+      "eng": "In all those trials, then, in which the words \"in good faith\" are added, and indeed where there is also \"as ought to be done well between good men,\" and above all in the arbitration of a wife's property, in which there stands the clause \"whatever is the more equitable and the better\"—in all these the jurists ought to be ready. They have handed down the meaning of fraud, of good faith, of the fair and the good; what one partner owes another, what a man who has managed another's affairs owes the man whose affairs they were, what the one who gave a mandate and the one to whom it was given each owe the other, what a husband must render to his wife and a wife to her husband. And so, once the topics of arguments have been thoroughly mastered, not only orators and philosophers but jurists too will be able to discourse copiously on the questions put to them.",
+      "notes": null
+    },
+    {
+      "loc": "67",
+      "section": 67,
+      "lat": "coniunctus huic causarum loco ille locus est qui efficitur ex causis. Vt enim causa quid sit effectum indicat, sic quod effectum est quae fuerit causa demonstrat. Hic locus suppeditare solet oratoribus et poetis, saepe etiam philosophis, sed eis qui ornate et copiose loqui possunt, mirabilem copiam dicendi, cum denuntiant quid ex quaque re sit futurum. Causarum enim cognitio cognitionem even- torum facit.",
+      "eng": "Joined to this topic of causes is the one drawn from causes—that is, from their effects. For just as a cause shows what has been brought about, so what has been brought about points to what the cause was. This topic is wont to supply orators and poets, and often philosophers too—at least those who can speak with ornament and abundance—with a marvelous fund of eloquence, when they declare what is to follow from each thing. For knowledge of causes produces knowledge of outcomes.",
+      "notes": null
+    },
+    {
+      "loc": "68",
+      "section": 68,
+      "lat": "Reliquus est comparationis locus, cuius genus et ex- emplum supra positum est ut ceterorum; nunc explicanda tractatio est. Comparantur igitur ea quae aut maiora aut minora aut paria dicuntur; in quibus spectantur haec: numerus species vis, quaedam etiam ad res aliquas adfectio.",
+      "eng": "There remains the topic of comparison, whose kind and example, like the rest, has been set out above; now its handling must be explained. Things are compared, then, as being greater or lesser or equal; and in them these features are considered: number, kind, force, and also a certain bearing toward other things.",
+      "notes": null
+    },
+    {
+      "loc": "69",
+      "section": 69,
+      "lat": "numero sic comparabuntur, plura bona ut paucioribus bonis anteponantur, pauciora mala malis pluribus, diuturniora bona brevioribus, longe et late pervagata angustis, ex quibus plura bona propagentur quaeque plures imitentur et faciant. Specie autem comparantur, ut anteponantur quae propter se expetenda sunt eis quae propter aliud et ut innata atque insita adsumptis atque adventiciis, integra contaminatis, iucunda minus iucundis, honesta ipsis etiam utilibus, proclivia laboriosis, necessaria non necessariis, sua alienis, rara vulgaribus, desiderabilia eis quibus facile carere possis, perfecta incohatis, tota partibus, ratione utentia rationis experti- bus, voluntaria necessariis, animata inanimis, naturalia non naturalibus, artificiosa non artificiosis.",
+      "eng": "By number they will be compared in this way: more goods are preferred to fewer goods, fewer evils to more evils, more lasting goods to briefer ones, those spread wide and far to narrow ones, those from which more goods are propagated, and those which more people imitate and reproduce. By kind they are compared so that those things sought for their own sake are preferred to those sought for the sake of something else; the inborn and innate to the acquired and adventitious; the unspoiled to the tainted; the pleasant to the less pleasant; the honourable even to the advantageous itself; the easy to the laborious; the necessary to the unnecessary; one's own to another's; the rare to the common; the desirable to those one could easily do without; the complete to the unfinished; the whole to the parts; things using reason to those devoid of reason; the voluntary to the necessary; the animate to the inanimate; the natural to the unnatural; the contrived to the uncontrived.",
+      "notes": null
+    },
+    {
+      "loc": "70",
+      "section": 70,
+      "lat": "vis autem in comparatione sic cemitur: efficiens causa gravior quam non efficiens; quae se ipsis contenta sunt meliora quam quae egent aliis; quae in nostra quam quae in aliorum potestate sunt; stabilia incertis; quae eripi non possunt eis quae possunt. Adfectio autem ad res aliquas est huius modi: principum commoda maiora quam reliquorum; itemque quae iucundi- ora, quae pluribus probata, quae ab optimo quoque laudata. Atque ut haec in comparatione meliora, sic deteriora quae eis sunt contraria.",
+      "eng": "Force, in comparison, is judged in this way: an efficient cause is weightier than one that is not efficient; things content with themselves are better than those that need others; things in our own power than those in another's; the stable than the uncertain; what cannot be snatched away than what can. Bearing toward other things is of this kind: the advantages of leading men are greater than those of the rest; and likewise things that are more pleasant, that are approved by more people, that are praised by all the best men. And just as these are the better in comparison, so the worse are the things that are their contraries.",
+      "notes": null
+    },
+    {
+      "loc": "71",
+      "section": 71,
+      "lat": "parium autem comparatio nec elationem habet nec summissionem; est enim aequalis. Multa autem sunt quae aequalitate ipsa comparantur ; quae ita fere con- cluduntur: Si consilio iuvare cives et auxilio aequa in laude ponendum est, pari gloria debent esse ei qui consu- lunt et ei qui defendunt; at quod primum, est; quod sequitur igitur. Perfecta est omnis argumentorum invenien- dorum praeceptio, ut, cum profectus sis a definitione, a partitione, a notatione, a coniugatis, a genere, a formis, a similitudine, a differentia, a contrariis, ab adiunctis, a consequentibus, ab antecedentibus, a repugnantibus, a causis, ab effectis, a comparatione maiorum minorum parium, nulla praeterea sedes argumenti quaerenda sit.",
+      "eng": "The comparison of equals admits neither raising up nor putting down, for it is between things on a level. There are many things, however, that are compared by their very equality, which are generally concluded thus: if to help one's fellow citizens by counsel and to help them by aid are to be placed on an equal footing of praise, then those who give counsel and those who give defence ought to enjoy equal glory; but the first holds; therefore so does the second. The whole instruction for discovering arguments is now complete: so that, when you have set out from definition, from partition, from etymology, from cognates, from genus, from kinds, from likeness, from difference, from contraries, from adjuncts, from consequents, from antecedents, from incompatibles, from causes, from effects, from comparison of greater, lesser, and equal, there is no further seat of argument left to seek.",
+      "notes": null
+    },
+    {
+      "loc": "72",
+      "section": 72,
+      "lat": "sed quoniam ita a principio divisimus, ut alios locos diceremus in eo ipso de quo ambigitur haerere, de quibus satis est dictum, alios adsumi extrinsecus, de eis pauca dicamus, etsi ea nihil omnino ad vestras disputationes pertinent; sed tamen totam rem efficiamus, quandoquidem coepimus. Neque enim tu is es quem nihil nisi ius civile delectet, et quoniam haec ita ad te scribuntur, ut etiam in aliorum manus sint ventura, detur opera, ut quam plurimum eis quos recta studia delectant prodesse possimus.",
+      "eng": "But since at the start we divided the topics in such a way as to say that some lodge in the very matter under dispute—of which enough has been said—while others are drawn from outside, let us say a few words about the latter, even though they have nothing whatever to do with your kind of discourse; still, let us complete the whole business, since we have begun it. For you are not the sort of man whom nothing pleases but the civil law; and since these things are written to you in such a way that they will also come into the hands of others, let us take pains to be of as much use as we can to those whom upright studies delight.",
+      "notes": null
+    },
+    {
+      "loc": "73",
+      "section": 73,
+      "lat": "haec ergo argumentatio, quae dicitur artis expers, in testimonio posita est. Testimonium autem nunc dicimus omne quod ab aliqua re externa sumitur ad faciendam fidem. Persona autem non qualiscumque est testimoni pondus habet; ad fidem enim faciendam auctoritas quaeritur; sed auctoritatem aut natura aut tempus adfert. Naturae auctoritas in virtute inest maxima; in tempore autem multa sunt quae adferant auctoritatem: ingenium opes aetas fortuna ars usus necessitas, concursio etiam non numquam rerum fortuitarum. Nam et ingeniosos et opulentos et aetatis spatio probatos dignos quibus credatur putant; non recte fortasse, sed vulgi opinio mutari vix potest ad eamque omnia dirigunt et qui iudicant et qui existimant. Qui enim rebus his quas dixi excellunt, ipsa virtute videntur excellere.",
+      "eng": "This kind of argument, then, which is called the one without art, rests on testimony. By testimony we now mean everything that is taken from some external source to produce conviction. But it is not just any person whatever that carries the weight of testimony; for to produce conviction authority is required, and authority is conferred either by nature or by circumstance. The authority of nature lies chiefly in virtue; in circumstance there are many things that confer authority: talent, wealth, age, fortune, art, experience, necessity, and sometimes even a concurrence of chance events. For men think that the talented, the wealthy, and those approved by length of years deserve to be believed—wrongly, perhaps, but the opinion of the crowd can scarcely be changed, and both those who judge and those who form estimates direct everything toward it. For those who excel in the things I have named seem to excel in virtue itself.",
+      "notes": null
+    },
+    {
+      "loc": "74",
+      "section": 74,
+      "lat": "sed reliquis quoque rebus quas modo enumeravi quam- quam in his nulla species virtutis est, tamen interdum confirmatur fides, si aut ars quaedam adhibetur—magna est enim vis ad persuadendum scientiae—aut usus; plerum- que enim creditur eis qui experti sunt. facit etiam necessitas fidem, quae tum a corporibus tum ab animis nascitur. Nam et verberibus tormentis igni fatigati quae dicunt ea videtur veritas ipsa dicere, et quae perturbationi- bus animi, dolore cupiditate iracundia metu, quia neces- sitatis vim habent, adferunt auctoritatem et fidem.",
+      "eng": "But by the other things too which I have just enumerated—although in them there is no semblance of virtue—conviction is nonetheless sometimes confirmed, if either some art is brought to bear (for knowledge has great force toward persuasion) or experience; for as a rule those who have first-hand knowledge are believed. Necessity also produces conviction, arising now from the body, now from the mind. For both the things that men say when worn down by lashes, by torture, and by fire seem to be spoken by truth itself, and the things that come from disturbances of the mind—pain, desire, anger, fear—because they have the force of necessity, carry authority and conviction.",
+      "notes": null
+    },
+    {
+      "loc": "75",
+      "section": 75,
+      "lat": "cuius generis etiam illa sunt ex quibus verum non numquam invenitur, pueritia somnus imprudentia vinolentia insania. Nam et parvi saepe indicaverunt aliquid, quo id pertineret ignari, et per somnum vinum insaniam multa saepe patefacta sunt. Multi etiam in res odiosas imprudenter inciderunt, ut Staieno nuper accidit, qui ea locutus est bonis viris subauscultantibus pariete interposito, quibus patefactis in iudiciumque prolatis ille rei capitalis iure damnatus est. Huic simile quiddam de Lacedaemonio Pausania accepi- mus .",
+      "eng": "Of the same kind, too, are those states from which the truth is sometimes discovered: childhood, sleep, want of foresight, drunkenness, madness. For little children have often disclosed something without knowing what it bore upon, and through sleep, wine, and madness much has often been brought to light. Many also have stumbled unawares into hateful situations, as lately happened to Staienus, who said certain things while good men were listening in from behind an intervening wall; and when these were exposed and brought into court, he was rightly condemned on a capital charge. We have it on record that something similar befell the Spartan Pausanias.",
+      "notes": null
+    },
+    {
+      "loc": "76",
+      "section": 76,
+      "lat": "concursio autem fortuitorum talis est, ut si interventum est casu, cum aut ageretur aliquid quod proferendum non esset, aut diceretur. In hoc genere etiam illa est in Palamedem coniecta suspicionum proditionis multitudo; quod genus refutare interdum veritas vix potest. Huius etiam est generis fama vulgi, quoddam multitudinis testi- monium. Quae autem virtute fidem faciunt ea bipertita sunt; ex quibus alterum natura valet alterum industria. Deorum enim virtus natura excellit, hominum autem industria.",
+      "eng": "A concurrence of chance circumstances is of this kind: when someone has come upon a scene by accident, just as something was being done that ought not to be brought into the open, or said. Of this kind, too, is that mass of suspicions of treason heaped upon Palamedes — a kind that the truth can sometimes scarcely refute. Of this kind also is common report, a sort of testimony of the multitude. But the things that establish belief through virtue fall into two parts, of which the one carries weight by nature, the other by industry. For the virtue of the gods excels by nature, that of men by industry.",
+      "notes": null
+    },
+    {
+      "loc": "77",
+      "section": 77,
+      "lat": "divina haec fere sunt testimonia: primum orationis — oracula enim ex eo ipso appellata sunt, quod inest in his deorum oratio—; deinde rerum, in quibus insunt quasi quaedam opera divina: primum ipse mundus eiusque omnis ordo et ornatus; deinceps aerii volatus avium atque cantus; deinde eiusdem aeris sonitus et ardores multarumque rerum in terra portenta atque etiam per exta inventa praesensio; a dormientibus quoque multa significata visis. Quibus ex locis sumi interdum solent ad fidem faciendam testimonia deorum.",
+      "eng": "The testimonies of the divine are roughly these. First, of speech — for oracles took their very name from this, that there is in them the speech of the gods; then, of things, in which there are, as it were, certain works of the divine: first the universe itself and all its order and adornment; next the flights of birds through the air and their cries; then the sounds and fires of that same air, and the portents of many things upon the earth, and even the foreknowledge discovered through entrails; and many signs given to sleepers through visions as well. From these sources testimonies of the gods are sometimes taken to establish belief.",
+      "notes": null
+    },
+    {
+      "loc": "78",
+      "section": 78,
+      "lat": "in homine virtutis opinio valet plurimum. Opinio est autem non modo eos virtutem habere qui habeant, sed eos etiam qui habere videantur. Itaque quos ingenio, quos studio, quos doctrina praeditos vident quorumque vitam constantem et probatam, ut Catonis Laeli Scipionis aliorumque plurium, rentur eos esse qualis se ipsi velint; nec solum eos censent esse talis qui in honoribus populi reque publica versantur, sed et oratores et philosophos et poetas et historicos, ex quorum et dictis et scriptis saepe auctoritas petitur ad faciendam fidem.",
+      "eng": "In a man, the repute of virtue carries the most weight. And the repute is that not only those have virtue who do have it, but those too who are seen to have it. And so those whom they see endowed with talent, with zeal, with learning, and whose life is consistent and approved — as with Cato, Laelius, Scipio, and many others — these they reckon to be such as they themselves would wish to be; nor do they judge only those to be of this stamp who are engaged in public honours and in affairs of state, but orators too, and philosophers, and poets, and historians, from whose sayings and writings authority is often sought to establish belief.",
+      "notes": null
+    },
+    {
+      "loc": "79",
+      "section": 79,
+      "lat": "expositis omnibus argumentandi locis illud primum intellegendum est nec ullam esse disputationem in qua non aliquis locus incurrat, nec fere omnis locos incidere in omnem quaestionem et quibusdam quaestionibus alios qui- busdam alios esse aptiores locos. Quaestionum duo genera: alterum infinitum definitul alterum. Definitum est quod u(po/qesin Graeci, nos causam; infinitum quod qe/sin illi appellant, nos propositum possumus nominare.",
+      "eng": "Now that all the topics of argument have been set out, the first thing to understand is this: that there is no debate in which some topic does not come into play, and yet that not nearly every topic falls into every question, and that to some questions certain topics are better suited, to others certain others. There are two kinds of question: one unbounded, the other bounded. The bounded is what the Greeks call [Greek: hypothesis] and we call a case; the unbounded is what they call [Greek: thesis] and we may name a proposition.",
+      "notes": null
+    },
+    {
+      "loc": "80",
+      "section": 80,
+      "lat": "causa certis personis locis temporibus actionibus negotiis cernitur aut in omnibus aut in plerisque eorum, propositum autem aut in aliquo eorum aut in pluribus nec tamen in maximis. Itaque propositum pars est causae. Sed omnis quaestio earum aliqua de re est quibus causae continentur, aut una aut pluribus aut non numquam omnibus.",
+      "eng": "A case is discerned in particular persons, places, times, actions, and affairs — in all of them, or in most; a proposition, in some one of them, or in several, but not in the chief ones. And so a proposition is a part of a case. But every question is about some one of the things in which cases are contained — either about one, or several, or sometimes all.",
+      "notes": null
+    },
+    {
+      "loc": "81",
+      "section": 81,
+      "lat": "quaestionum autem 'quacumque de re' sunt duo genera : unum cognitionis alterum actionis.",
+      "eng": "Questions, then, \"on whatever subject,\" are of two kinds: one of cognition, the other of action.",
+      "notes": null
+    },
+    {
+      "loc": "82",
+      "section": 82,
+      "lat": "cognitionis sunt eae quarum est finis scientia, ut si quaeratur a naturane ius profectum sit an ab aliqua quasi condicione hominum et pactione. Actionis autem huius modi exempla sunt: Sitne sapientis ad rem publicam accedere. Cognitionis quaestiones tripertitae sunt; aut sitne aut quid sit aut quale sit quaeritur. Horum primum coniectura, secundum definitione, tertium iuris et iniuriae distinctione explicatur. Coniecturae ratio in quattuor partes distributa est, quarum una est cum quaeritur sitne aliquid; altera unde ortum sit; tertia quae id causa effecerit; quarta. in qua de commutatione rei quaeritur. Sitne sic : ecquidnam sit honestum, ecquid aequum re vera; an haec tantum in opinione sint . Vnde autem sit ortum: ut cum quaeritur, natura an doctrina possit effici virtus. Causa autem efficiens sic quaeritur, quibus rebus eloquentia efficiatur. De commutatione sic: possitne eloquentia commutatione aliqua converti in infantiam.",
+      "eng": "Of cognition are those whose end is knowledge, as if it should be asked whether the law has sprung from nature or from some kind of agreement and compact among men. Of action there are examples of this sort: whether it belongs to the wise man to enter public life. Questions of cognition are threefold: it is asked whether a thing is, or what it is, or what kind it is. The first of these is unfolded by conjecture, the second by definition, the third by the distinction of right and wrong. The method of conjecture is distributed into four parts, of which one is when it is asked whether a thing is; the second, whence it has arisen; the third, what cause has produced it; the fourth, in which inquiry is made into the alteration of the thing. Whether it is, thus: whether there is anything honourable at all, anything equitable in actual truth, or whether these things exist only in opinion. Whence it has arisen, as when it is asked whether virtue can be produced by nature or by teaching. The producing cause is asked thus: by what means eloquence is produced. Of alteration, thus: whether eloquence can by some change be turned into speechlessness.",
+      "notes": null
+    },
+    {
+      "loc": "83",
+      "section": 83,
+      "lat": "cum autem quid sit quaeritur, notio explicanda est et proprietas et divisio et partitio. Haec enim sunt definitioni attributa; additur etiam descriptio, quam xarakth=ra Graeci vocant. Notio sic quaeritur: sitne id aequum quod ei qui plus potest utile est. Proprietas sic: in hominemne solum cadat an etiam in beluas aegritudo. Divisio et eodem pacto partitio sic : triane genera bonorum sint. Descriptio, qualis sit avarus, qualis adsentator ceteraque eiusdem generis, in quibus et natura et vita describitur.",
+      "eng": "But when it is asked what a thing is, the notion is to be unfolded, and the property, and the division, and the partition. For these are the attributes of definition; and there is added too the description, which the Greeks call [Greek: charactēra]. The notion is asked thus: whether that is equitable which is advantageous to the one who has the greater power. The property thus: whether distress falls upon man alone, or upon beasts as well. Division — and in the same way partition — thus: whether there are three kinds of goods. Description: what kind of man the miser is, what kind the flatterer, and the rest of the same sort, in which both nature and life are described.",
+      "notes": null
+    },
+    {
+      "loc": "84",
+      "section": 84,
+      "lat": "cum autem quaeritur quale quid sit, aut simpliciter quaeritur aut comparate simpliciter: Expetendane sit gloria; com- parate: Praeponendane sit divitiis gloria. Simplicium tria genera sunt: de expetendo fugiendoque, de aequo et iniquo, de honesto et turpi. Comparationum autem duo: unum de eodem et alio, alterum de maiore et minore. De ex- petendo et fugiendo huius modi: Si expetendae divitiae, si fugienda paupertas. De aequo et iniquo: Aequumne sit ulcisci a quocumque iniuriam acceperis. De honesto et turpi: Honestumne sit pro patria mori?",
+      "eng": "But when it is asked what kind a thing is, the inquiry is made either simply or by comparison. Simply: whether glory is to be sought. By comparison: whether glory is to be preferred to riches. Of the simple there are three kinds: concerning the sought and the shunned, concerning the equitable and the inequitable, concerning the honourable and the base. Of comparisons there are two: one concerning the same and the other, the second concerning the greater and the lesser. Concerning the sought and the shunned, of this kind: whether riches are to be sought, whether poverty is to be shunned. Concerning the equitable and the inequitable: whether it is equitable to take vengeance for an injury upon whomever you have received it from. Concerning the honourable and the base: whether it is honourable to die for one's country.",
+      "notes": null
+    },
+    {
+      "loc": "85",
+      "section": 85,
+      "lat": "ex altero autem genere, quod erat bipertitum, unum est de eodem et alio: Quid intersit inter amicum et adsentatorem, regem et tyrannum; alterum de maiore et minore, ut si quaeratur eloquentiane pluris sit an iuris civilis scientia. De cognitionis quaestionibus hactenus.",
+      "eng": "From the other kind, which was twofold, the one is concerning the same and the other: what the difference is between a friend and a flatterer, a king and a tyrant; the other concerning the greater and the lesser, as if it should be asked whether eloquence is worth more, or the knowledge of the civil law. So much, then, for questions of cognition.",
+      "notes": null
+    },
+    {
+      "loc": "86",
+      "section": 86,
+      "lat": "actionis reliquae sunt, quarum duo genera: unum ad officium, alterum ad motum animi vel gignendum vel sedandum planeve tollendum. Ad officium sic, ut cum quaeritur suscipiendine sint liberi. Ad movendos animos cohortationes ad defendendam rem publicam, ad laudem, ad gloriam; quo ex genere sunt querellae incitationes miserationesque flebiles; rursusque oratio tum iracundiam restinguens, tum metum eripiens, tum exsultantem laetitiam comprimens, tum aegritudinem abstergens. Haec cum in propositi quaestionibus genera sint, eadem in causas transferuntur.",
+      "eng": "There remain questions of action, of which there are two kinds: one concerning duty, the other concerning the rousing of feeling — whether to give it birth, or to calm it, or to do away with it altogether. Concerning duty, thus, as when it is asked whether children are to be undertaken. For the rousing of feeling, there are exhortations to the defence of the state, to praise, to glory; of which kind are complaints, incitements, and tearful appeals to pity; and again the discourse that now quenches anger, now strips away fear, now checks exultant joy, now wipes away distress. And since these are the kinds found in questions of proposition, the same are carried over into cases.",
+      "notes": null
+    },
+    {
+      "loc": "87",
+      "section": 87,
+      "lat": "loci autem qui ad quasque quaestiones accommodati sint deinceps est videndum. Omnes illi quidem ad plerasque, sed alii ad alias, ut dixi, aptiores. Ad coniecturam igitur maxime apta quae ex causis, quae ex effectis, quae ex coniunctis sumi possunt. Ad definitionem autem pertinet ratio et scientia definiendi. Atque huic generi finitimum est illud quod appellari de eodem et de altero diximus, quod genus forma quaedam definitionis est; si enim quaeratur idemne sit pertinacia et perseverantia, definitionibus iudicandum est.",
+      "eng": "It is to be seen next which topics are fitted to each kind of question. All of them, indeed, suit most questions, but some are better suited to some, as I have said. For conjecture, then, the most apt are those that can be drawn from causes, from effects, from conjuncts. To definition belongs the method and science of defining. And closely bordering on this kind is the one we called \"concerning the same and the other,\" which is itself a sort of form of definition; for if it should be asked whether obstinacy and perseverance are the same, the matter must be judged by definitions.",
+      "notes": null
+    },
+    {
+      "loc": "88",
+      "section": 88,
+      "lat": "loci autem convenient in eius generis quaestionem consequentis antecedentis repugnantis; adiuncti etiam eis qui sumuntur ex causis et effectis. Nam si hanc rem illa sequitur, hanc autem non sequitur, aut si huic rei illa antecedit, huic non antecedit; aut si huic rei repugnat, illi non repugnat; aut si huius rei haec, illius alia causa est; aut si ex alio hoc, ex alio illud effectum est: ex quovis horum id de quo quaeritur idemne an aliud sit inveniri potest.",
+      "eng": "The topics that will suit a question of that kind are those of the consequent, the antecedent, and the incompatible; and joined to these, the ones drawn from causes and effects. For if one thing follows this, but does not follow that; or if one thing precedes this, but does not precede that; or if a thing is incompatible with this, but not incompatible with that; or if there is one cause of this, another of that; or if from one source this has been produced, from another that — from any of these it can be found out whether the matter in question is the same or other.",
+      "notes": null
+    },
+    {
+      "loc": "89",
+      "section": 89,
+      "lat": "ad tertium genus quaestionis, in quo quale sit quaeritur, in comparationem ea cadunt quae paulo ante in comparationis loco enumerata sunt. In illud autem genus in quo de expetendo fugiendoque quaeritur adhibentur ea quae sunt aut animi aut corporis aut externa vel commoda vel incommoda. Item- que cum de honesto turpique quaeritur, ad animi bona aut mala omnis oratio dirigenda est.",
+      "eng": "For the third kind of question, in which it is asked what sort a thing is, those considerations fall under comparison which I enumerated a little earlier under the topic of comparison. But for that kind in which the question concerns what is to be sought and what is to be shunned, one brings to bear those things which are advantages or disadvantages, whether of the mind, of the body, or external. And likewise, when the question concerns the honorable and the base, the whole discourse must be directed toward the goods or evils of the mind.",
+      "notes": null
+    },
+    {
+      "loc": "90",
+      "section": 90,
+      "lat": "cum autem de aequo et iniquo disseritur, aequitatis loci conligentur. Hi cernuntur bipertito, et natura et instituto. Natura partes habet duas, tributionem sui cuique et ulciscendi ius. Institutio autem aequitatis tripertita est; una pars legitima est, altera con- veniens, tertia moris vetustate firmata. Atque etiam aequitas tripertita dicitur esse; una ad superos deos, altera ad manes, tertia ad homines pertinere. Prima pietas, secunda sanctitas, tertia iustitia aut aequitas nominatur . de proposito satis multa, deinceps de causa pauciora dicenda sunt. Pleraque enim sunt ei cum proposito communia.",
+      "eng": "But when the discussion turns on the equitable and the inequitable, the topics of equity are to be gathered. These are discerned under two headings, nature and institution. Nature has two parts: rendering to each his own, and the right of taking vengeance. The institution of equity is of three parts: one is the legal, the second the conventional, the third confirmed by long-standing custom. And equity, too, is said to be threefold: one part pertains to the gods above, the second to the spirits of the dead, the third to men. The first is called piety, the second sanctity, the third justice or equity. About the general proposition I have said enough; next, fewer things must be said about the particular case. For most of its topics are shared in common with the proposition.",
+      "notes": null
+    },
+    {
+      "loc": "91",
+      "section": 91,
+      "lat": "Tria sunt igitur genera causarum: iudici deliberationis laudationis. Quarum fines ipsi declarant quibus utendum locis sit. Nam iudici finis est ius, ex quo etiam nomen. Iuris autem partes tum expositae, cum aequitatis. Deliber- andi finis utilitas, cuius eae partes quae modo expositae rerum expetendarum . Laudationis finis honestas, de qua item est ante dictum.",
+      "eng": "There are, then, three kinds of cases: the judicial, the deliberative, the laudatory. Their ends themselves make clear which topics are to be used. For the end of the judicial is the right, from which it even takes its name. And the parts of the right have already been set out, together with those of equity. The end of deliberation is advantage, whose parts are those just now set out, of the things to be sought. The end of praise is the honorable, of which likewise something has been said before.",
+      "notes": null
+    },
+    {
+      "loc": "92",
+      "section": 92,
+      "lat": "sed definitae quaestiones a suis quaeque locis quasi propriis instruuntur , ... quae in accu- sationem defensionemque partitae; in quibus exsistunt haec genera, ut accusator personam arguat facti, defensor aliquid opponat de tribus: aut non esse factum aut, si sit factum, aliud eius facti nomen esse aut iure esse factum. Itaque aut infitialis aut coniecturalis prima appelletur, definitiva altera, tertia, quamvis molestum nomen hoc sit, iuridicialis vocetur. harum causarum propria argumenta ex eis sumpta locis quos exposuimus in praeceptis oratoriis explicata sunt.",
+      "eng": "But determined questions are each equipped from their own topics, as if from topics proper to them, ... which are divided into accusation and defense; in these the following kinds arise, namely, that the accuser charges a person with the deed, and the defender opposes one of three things: either that it was not done, or, if it was done, that the deed bears another name, or that it was done lawfully. And so let the first be called either the denial-issue or the conjectural issue, the second the definitional, and the third — however irksome the name — let it be called the juridical. The arguments proper to these cases, drawn from the topics we have set out, have been explained in the precepts of oratory.",
+      "notes": null
+    },
+    {
+      "loc": "93",
+      "section": 93,
+      "lat": "refutatio autem accusationis, in qua est depulsio criminis, quoniam Graece sta/sis dicitur, appelletur Latine status; in quo primum insistit quasi ad repugnandum con- gressa defensio. Atque in deliberationibus etiam et lauda- tionibus idem exsistunt status. Nam et negantur saepe ea futura quae ab aliquo in sententia dicta sunt fore, si aut omnino fieri non possint aut sine summa difficultate non possint; in qua argumentatione status coniecturalis exsistit;",
+      "eng": "But the refutation of an accusation, in which there lies the warding-off of the charge, since it is called in Greek the standing-point, let it be called in Latin the issue [Greek: stasis]; for in it the defense first takes its stand, having come, as it were, to the encounter to resist. And in deliberations and laudations too the same issues arise. For things are often denied that will come to pass, which someone has said in a proposal will be — if they either cannot happen at all or cannot happen without the utmost difficulty; and in this kind of argument the conjectural issue arises;",
+      "notes": null
+    },
+    {
+      "loc": "94",
+      "section": 94,
+      "lat": "aut cum aliquid de utilitate honestate aequitate disseritur deque eis rebus quae his sunt contrariae incurrunt status aut iuris aut nominis; quod idem contingit in laudationibus. Nam aut negari potest id factum esse quod laudetur, aut non eo nomine adficiendum quo laudator adfecerit, aut omnino non esse laudabile quod non recte, non iure factum sit. Quibus omnibus generibus usus est nimis impudenter Caesar contra Catonem meum.",
+      "eng": "or when something is discussed concerning advantage, the honorable, or equity, and concerning the things contrary to these, then there arise issues either of the right or of the name; and the same thing occurs in laudations. For either it can be denied that the deed which is praised was done, or that it should be marked with the name the praiser has applied to it, or that it is praiseworthy at all, since it was not done rightly, not done lawfully. All these kinds Caesar employed, with too much impudence, against my Cato.",
+      "notes": null
+    },
+    {
+      "loc": "95",
+      "section": 95,
+      "lat": "sed quae ex statu contentio efficitur, eam Graeci krino/menon vocant , mihi placet id, quoniam quidem ad te scribo, QVA DE RE AGITVR vocari . Quibus autem hoc qua de re agitur continetur, ea continentia vocentur, quasi firmamenta defensionis, quibus sublatis defensio nulla sit. Sed quoniam lege firmius in controversiis disceptandis esse nihil debet, danda est opera ut legem adiutricem et testem adhibeamus. In qua re alii quasi status exsistunt novi, sed appellentur legitimae disceptationes.",
+      "eng": "But the contention that is produced from the issue the Greeks call the point under judgment [Greek: krinomenon]; for my part — since indeed I am writing to you — I prefer that it be called the question at issue. And those things by which this question at issue is held together, let them be called the sustaining points, the buttresses, as it were, of the defense, which once removed, the defense is nothing. But since in deciding controversies nothing ought to be firmer than the law, pains must be taken that we bring in the law as our helper and witness. And in this matter other issues arise, new ones as it were; but let them be called legal disputations.",
+      "notes": null
+    },
+    {
+      "loc": "96",
+      "section": 96,
+      "lat": "tum enim defenditur non id legem dicere quod adversarius velit, sed aliud. Id autem contingit, cum scriptum ambiguum est, ut duae sententiae differentes accipi possint. Tum opponitur scripto voluntas scriptoris, ut quaeratur verbane plus an sententia valere debeant. Tum legi lex contraria adfertur. Ista sunt tria genera quae controversiam in omni scripto facere possint : ambiguum, discrepantia scripti et voluntatis, scripta contraria. iam hoc perspicuum est, non magis in legibus quam in testamentis, in stipulationibus, in reliquis rebus quae ex scripto aguntur, posse controversias easdem exsistere. Horum tractationes in aliis libris explicantur.",
+      "eng": "For then it is maintained that the law says not what the adversary wishes, but something else. This happens when the text is ambiguous, so that two differing senses can be received. Then the writer's intention is set against the text, so that the question becomes whether the words or the sense ought to carry more weight. Then a contrary law is brought against the law. These are the three kinds that can create a controversy in any written instrument: the ambiguous, the discrepancy between text and intention, contrary texts. By now it is clear that the same controversies can arise no more in laws than in wills, in stipulations, and in the rest of the things that are transacted by writing. The handling of these matters is explained in other books.",
+      "notes": null
+    },
+    {
+      "loc": "97",
+      "section": 97,
+      "lat": "nec solum perpetuae actiones sed etiam partes orationis isdem locis adiuvantur, partim propriis partim communibus; ut in principiis, quibus ut benevoli, ut dociles, ut attenti sint qui audiant, efficiendum est propriis locis; itemque narrationes ut ad suos fines spectent, id est ut planae sint, ut breves, ut evidentes, ut credibiles, ut moderatae , ut cum dignitate. Quae quamquam in tota oratione esse debent, magis tamen sunt propria narrandi.",
+      "eng": "And not only continuous pleadings but also the parts of a speech are aided by the same topics, partly proper ones, partly common; as in the introductions, where it must be brought about, by topics proper to that part, that the hearers be well disposed, receptive, and attentive; and likewise that narratives look to their proper ends, that is, that they be plain, brief, clear, credible, restrained, and dignified. And although these qualities ought to belong to the whole speech, they are nonetheless more proper to narration.",
+      "notes": null
+    },
+    {
+      "loc": "98",
+      "section": 98,
+      "lat": "quae autem sequitur narrationem fides, ea persuadendo quoniam efficitur, qui ad persuadendum loci maxime valeant dictum est in eis in quibus de omni ratione dicendi. Peroratio autem et alia quaedam habet et maxime amplificationem, cuius effectus hic debet esse, ut aut perturbentur animi aut tranquillentur et, si ita adfecti iam ante sint, ut aut augeat eorum motus aut sedet oratio.",
+      "eng": "But the proof which follows the narrative, since it is accomplished by persuading, the topics which are most effective for persuading have been treated in those works in which I dealt with the whole theory of speaking. The peroration, however, has certain other features, and above all amplification, whose effect ought to be this: that the minds of the hearers be either stirred up or calmed, and, if they are already so affected, that the speech either heighten their emotions or settle them.",
+      "notes": null
+    },
+    {
+      "loc": "99",
+      "section": 99,
+      "lat": "huic generi, in quo et misericordia et iracundia et odium et invidia et ceterae animi adfectiones perturbantur, praecepta suppeditantur aliis in libris, quos poteris mecum legere cum voles. Ad id autem quod te velle senseram, cumulate satis factum esse debet voluntati tuae.",
+      "eng": "For this kind, in which pity and anger and hatred and envy and the other emotions of the mind are stirred, the precepts are supplied in other books, which you will be able to read with me whenever you wish. And as for what I had perceived you wanted, your wish ought to have been satisfied in full measure.",
+      "notes": null
+    },
+    {
+      "loc": "100",
+      "section": 100,
+      "lat": "nam ne praeterirem aliquid quod ad argumentum in omni ratione reperiendum pertineret, plura quam a te desiderata erant sum complexus fecique quod saepe liberales venditores solent, ut, cum aedes fundumve vendiderint rutis caesis receptis, concedant tamen aliquid emptori quod ornandi causa apte et loco positum esse videatur; sic tibi nos ad id quod quasi mancipio dare debuimus ornamenta quaedam voluimus non debita accedere.",
+      "eng": "For, that I might not pass over anything pertaining to the finding of an argument in every method, I have taken in more than you had asked for, and I have done what generous sellers often do, who, when they have sold a house or an estate with the fixtures and the timber reserved, nonetheless grant the buyer something that seems aptly and suitably placed for adornment; so I have wished that certain ornaments, not owed, should accrue to you over and above what we were bound, as it were, to convey by formal transfer.",
+      "notes": null
+    }
+  ]
+}

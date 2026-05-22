@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Dispatched the 20th of March",
+      "entity_id": null,
+      "note": "The Latin dateline reads \"D. xiii K. Apr.\", meaning dispatched on the 13th day before the Kalends of April = 20 March 43 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "your colleague, that most illustrious man, is being besieged",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Decimus Iunius Brutus Albinus (not the more famous Marcus Brutus) had been appointed governor of Cisalpine Gaul by Julius Caesar and held it for the senate after the assassination; he was besieged in Mutina (Modena) by Mark Antony from late 44 until April 43 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "whether Lepidus's or yours",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "M. Aemilius Lepidus, governor of Narbonese Gaul and Nearer Spain, had also written to the Senate advocating peace with Antony; both letters were received with deep suspicion by Cicero and the Senate's Optimate majority."
+    },
+    {
+      "loc": "2",
+      "anchor": "the bonds of the times have linked you",
+      "entity_id": null,
+      "note": "Cicero alludes diplomatically to Plancus's political situation: as a Caesar partisan and now consul-designate, Plancus had professional and personal ties to Antony's circle that were dictated by circumstance rather than by genuine sympathy."
+    },
+    {
+      "loc": "3",
+      "anchor": "not merely a consul and a consular, but a great consul and a great consular too",
+      "entity_id": "person:munatius-plancus",
+      "note": "A consularis (consular) was a former consul, a permanent rank of prestige in the Senate; Cicero's point is that the mere title means nothing without the moral conduct that justifies it, pressing Plancus to act decisively for the optimates."
+    }
+  ]
+}

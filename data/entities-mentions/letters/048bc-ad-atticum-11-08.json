@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-08",
+  "mentions": [
+    {"loc": "1", "surface": "cognosces ex Lepta et Trebatio", "entity_id": "person:q-paconius-lepta", "in": "lat"},
+    {"loc": "1", "surface": "ex Lepta et Trebatio", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "valentque apud illum", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "per Balbum et Oppium maxime", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "per Balbum et Oppium maxime", "entity_id": "person:gaius-oppius", "in": "lat"},
+    {"loc": "1", "surface": "you will learn of them from Lepta and Trebatius", "entity_id": "person:q-paconius-lepta", "in": "eng"},
+    {"loc": "1", "surface": "from Lepta and Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "who wish us well and have weight with Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "through Balbus and Oppius above all", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "through Balbus and Oppius above all", "entity_id": "person:gaius-oppius", "in": "eng"},
+    {"loc": "2", "surface": "Fufius est illic", "entity_id": "person:q-fufius-calenus", "in": "lat"},
+    {"loc": "2", "surface": "Quintus misit filium", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "Quintus misit filium", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "2", "surface": "se a me apud Caesarem oppugnari", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "quod refellit Caesar ipse", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "cum Sicyone palam multis audientibus loqueretur", "entity_id": "place:sicyon", "in": "lat"},
+    {"loc": "2", "surface": "dedita opera mittat aliquem Balbus", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "2", "surface": "Fufius is there, my bitterest enemy", "entity_id": "person:q-fufius-calenus", "in": "eng"},
+    {"loc": "2", "surface": "Quintus has sent his son", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "Quintus has sent his son", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "being attacked by me in Caesar's company", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "a charge Caesar himself and all his friends refute", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "when at Sicyon he was speaking openly", "entity_id": "place:sicyon", "in": "eng"},
+    {"loc": "2", "surface": "with this matter expressly in mind, Balbus sends someone", "entity_id": "person:l-cornelius-balbus", "in": "eng"}
+  ]
+}

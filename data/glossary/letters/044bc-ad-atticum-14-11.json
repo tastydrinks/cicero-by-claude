@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the king once killed",
+      "entity_id": "person:caesar",
+      "note": "Cicero calls the assassinated Caesar a \"king\" (rex), the charge the Liberators used to justify the killing; his bitter point is that Caesar is dead yet Rome is still not free."
+    },
+    {
+      "loc": "2",
+      "anchor": "Buthrotians",
+      "entity_id": "place:buthrotum",
+      "note": "The people of Buthrotum in Epirus, near Atticus's estate; their town faced confiscation for back taxes, and Cicero spent much of 44 BC trying to protect them on Atticus's behalf."
+    },
+    {
+      "loc": "2",
+      "anchor": "Cluvian estate",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "note": "Income-bearing property at Puteoli that Cicero had inherited from the banker Marcus Cluvius; despite a structural collapse it was still yielding rent, here reckoned at around a hundred thousand sesterces."
+    },
+    {
+      "loc": "2",
+      "anchor": "Octavius has just arrived",
+      "entity_id": "person:octavian",
+      "note": "The nineteen-year-old Gaius Octavius (the future Augustus), Caesar's testamentary heir, newly landed in Italy; he had taken up residence in his stepfather Philippus's villa next to Cicero's Puteoli estate and was assiduously courting Cicero."
+    },
+    {
+      "loc": "2",
+      "anchor": "the villa of Philippus right next door",
+      "entity_id": "person:l-marcius-philippus-cos56",
+      "note": "L. Marcius Philippus, consul 56 BC and Octavian's stepfather, owned a seaside villa adjacent to Cicero's; his refusal later to greet the youth as \"Caesar\" is noted in 14.12."
+    }
+  ]
+}

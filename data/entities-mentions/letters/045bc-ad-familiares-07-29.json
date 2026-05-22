@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-29",
+  "mentions": [
+    {"loc": "1", "surface": "CVRIVS", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "1", "surface": "CVRIVS", "entity_id": "person:mn-curius-patrensis", "in": "eng"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Attici nostri", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "our Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Cicero mi", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "my dear Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Sulpici successori", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "Sulpicius's successor", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "2", "surface": "Attico", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "2", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "Tironemque meum", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "2", "surface": "my dear Tiro", "entity_id": "person:tiro", "in": "eng"}
+  ]
+}

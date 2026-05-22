@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "your slaves",
+      "entity_id": null,
+      "note": "Letter-carriers from Atticus's household (Latin pueri, \"boys\"). Private correspondence travelled by such slaves, who often waited to take a reply back."
+    },
+    {
+      "loc": "1",
+      "anchor": "Autronius",
+      "entity_id": "person:p-autronius-paetus",
+      "note": "Publius Autronius Paetus, a convicted Catilinarian conspirator living in exile in Greece. Cicero, who had testified against him, dreads coming within four days' march of him and other personal enemies."
+    },
+    {
+      "loc": "3",
+      "anchor": "Candavia",
+      "entity_id": "place:candavia",
+      "note": "The mountainous stretch of the Via Egnatia between Dyrrachium and Macedonia. The overland alternative to halting in Epirus."
+    },
+    {
+      "loc": "3",
+      "anchor": "Sent the day before the Kalends of May",
+      "entity_id": null,
+      "note": "Pridie Kalendas Maias, i.e. 30 April 58 BC. The day immediately before the first of the month."
+    }
+  ]
+}

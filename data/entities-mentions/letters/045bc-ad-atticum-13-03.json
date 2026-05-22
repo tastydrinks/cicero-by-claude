@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-03",
+  "mentions": [
+    {"loc": "2", "surface": "et Mustela", "entity_id": "person:mustela", "in": "lat"},
+    {"loc": "2", "surface": "de Bruti adventu", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "Aegypta libertus", "entity_id": "person:aegypta-servus", "in": "lat"},
+    {"loc": "2", "surface": "and Mustela", "entity_id": "person:mustela", "in": "eng"},
+    {"loc": "2", "surface": "About Brutus's arrival", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "the freedman Aegypta", "entity_id": "person:aegypta-servus", "in": "eng"}
+  ]
+}

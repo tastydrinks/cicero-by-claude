@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-04",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "this commission in Achaia",
+      "entity_id": "place:achaia",
+      "note": "Caesar appointed Servius Sulpicius Rufus governor of Achaia (the Roman province covering mainland Greece, including Athens and Corinth), where he served from about 46 BC until his death in 43. Cicero praises Servius for not refusing this charge under the new regime."
+    },
+    {
+      "loc": "2",
+      "anchor": "the soul of moderation",
+      "entity_id": "person:caesar",
+      "note": "\"The victor\" praised for clemency is Caesar, whose famous policy of clementia (sparing defeated enemies) Cicero acknowledges even while lamenting the loss of free speech; he carefully blames \"the nature of victory\" rather than the man himself."
+    },
+    {
+      "loc": "3",
+      "anchor": "we learned of the safety of Marcellus, your colleague",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "M. Claudius Marcellus had been Servius's colleague in the consulship of 51 BC. A staunch enemy of Caesar, he had gone into voluntary exile at Mytilene after the war; in September 46 the Senate begged Caesar to pardon him, the occasion of Cicero's surviving speech Pro Marcello."
+    },
+    {
+      "loc": "3",
+      "anchor": "C. Marcellus had thrown himself at Caesar's feet",
+      "entity_id": "person:c-claudius-marcellus-cos50",
+      "note": "C. Claudius Marcellus, consul of 50 BC and cousin of the exile, dramatically prostrated himself before Caesar in the Senate to plead for the pardon. Falling at a ruler's feet as a suppliant was a striking gesture for a Roman ex-consul, marking how far the Republic had bent toward monarchy."
+    },
+    {
+      "loc": "3",
+      "anchor": "when L. Piso had made mention of M. Marcellus",
+      "entity_id": "person:l-piso",
+      "note": "L. Calpurnius Piso Caesoninus, consul of 58 BC and Caesar's father-in-law, formally raised the motion to recall Marcellus, giving the appeal weight as coming from within Caesar's own circle."
+    },
+    {
+      "loc": "3",
+      "anchor": "I felt I was seeing some image, as it were, of a state",
+      "entity_id": null,
+      "note": "The whole Senate rising to beg Caesar's mercy briefly resembled, to Cicero, the old Republic in action; he treasured this debate as a rare moment when senatorial deliberation seemed to matter again, even though real power lay entirely with Caesar."
+    },
+    {
+      "loc": "4",
+      "anchor": "except Volcacius",
+      "entity_id": "person:c-volcacius-tullus",
+      "note": "C. Volcacius Tullus alone declined to thank Caesar, saying that in Marcellus's place he himself would not have accepted the pardon. The episode broke Cicero's vow of silence: moved by the scene, he too rose and delivered thanks (the speech Pro Marcello)."
+    }
+  ]
+}

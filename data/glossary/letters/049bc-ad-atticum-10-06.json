@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "whatever happens in Spain",
+      "entity_id": "place:hispania",
+      "note": "The two Spanish provinces, where Pompey's legates Afranius and Petreius faced Caesar, were the strategic pivot of the war in spring 49 BC; Cicero repeatedly makes his own decision to leave Italy contingent on the outcome there."
+    },
+    {
+      "loc": "2",
+      "anchor": "I wish you had taken on the steering of the lad yourself",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "Cicero's nephew, young Quintus, was a source of family anxiety throughout these months; his father (Cicero's brother Quintus) is reproached here as too indulgent to discipline the boy."
+    },
+    {
+      "loc": "3",
+      "anchor": "Pompey is setting out for Gaul by way of Illyricum",
+      "entity_id": "person:pompey",
+      "note": "A false rumour: Pompey had in fact crossed to Greece, not toward Gaul. Cicero's uncertainty about Pompey's route shaped his own dithering over where and how to follow."
+    }
+  ]
+}

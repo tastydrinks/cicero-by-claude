@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-24",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "That Vettius, that informer of ours",
+      "entity_id": "person:l-vettius-informer",
+      "note": "The Vettius affair: L. Vettius, a professional informer, claimed in 59 BC a plot to assassinate Pompey. The murky scheme --- a planted dagger, a staged arrest, contradictory denunciations of Caesar's opponents --- collapsed, and Vettius soon died in prison; Cicero reads it as a fabrication engineered to discredit the optimates."
+    },
+    {
+      "loc": "2",
+      "anchor": "Q. Caepio (this Brutus)",
+      "entity_id": "person:brutus",
+      "note": "M. Junius Brutus, the future tyrannicide, was at this date styled Q. Servilius Caepio after adoption by his uncle. Cicero's parenthesis identifies him for Atticus as the man later famous simply as Brutus."
+    },
+    {
+      "loc": "2",
+      "anchor": "Lentulus, the flamen's son",
+      "entity_id": "person:lentulus-flaminis-filius",
+      "note": "A young Cornelius Lentulus, son of a flamen (a priest of a major deity), named by Vettius among the alleged conspirators. Otherwise obscure."
+    },
+    {
+      "loc": "2",
+      "anchor": "on the third day before the Ides of May",
+      "entity_id": null,
+      "note": "Romans counted inclusively backward from fixed monthly points; the Ides of May fell on the 15th, so this is 13 May 59 BC. The detail proves Bibulus had already warned Pompey before Vettius's supposed plot, exposing the story as incoherent."
+    },
+    {
+      "loc": "3",
+      "anchor": "among Gabinius's gladiators",
+      "entity_id": "person:gabinius",
+      "note": "A. Gabinius, a partisan of Pompey and Caesar (consul-designate for 58 BC), kept a troop of gladiators. Vettius's claim that the plotters meant to strike amid them was self-defeating, since they were the triumvirs' own men."
+    },
+    {
+      "loc": "3",
+      "anchor": "ordered Q. Catulus to speak from a lower place",
+      "entity_id": "person:q-lutatius-catulus-cos78",
+      "note": "As praetor in 62 BC, Caesar humiliated the eminent senior consular Q. Lutatius Catulus by making him address the people from ground level rather than the elevated Rostra. Cicero recalls the slight to characterize Caesar's contempt for the optimate establishment."
+    },
+    {
+      "loc": "3",
+      "anchor": "some Servilius Ahala or Brutus must be found",
+      "entity_id": null,
+      "note": "The two stock Roman exempla of tyrannicide: C. Servilius Ahala, who killed the would-be tyrant Sp. Maelius in 439 BC, and L. Junius Brutus, who expelled the kings and founded the Republic. To call for \"an Ahala or a Brutus\" was to call for a tyrant's assassination --- here imputed to an unnamed consular."
+    },
+    {
+      "loc": "3",
+      "anchor": "an eloquent consular, the consul's neighbour",
+      "entity_id": "person:cicero",
+      "note": "Vettius's veiled accusation points unmistakably at Cicero himself: an eloquent ex-consul whose house on the Palatine adjoined that of the consul Q. Caecilius Metellus Celer. Cicero notes that Vettius pointedly did not name him outright."
+    },
+    {
+      "loc": "3",
+      "anchor": "my son-in-law Piso",
+      "entity_id": "person:c-piso-frugi-son-in-law",
+      "note": "C. Calpurnius Piso Frugi, husband of Cicero's daughter Tullia, distinct from the consular governors of the same name. He died young in 57 BC while Cicero was in exile."
+    },
+    {
+      "loc": "4",
+      "anchor": "a defendant before Crassus Dives",
+      "entity_id": "person:crassus",
+      "note": "M. Licinius Crassus (\"Dives,\" the Rich), the triumvir, here presiding as quaesitor over the standing court on public violence (de vi) before which Vettius was tried. His condemnation would have let Vettius turn approver and trigger further prosecutions."
+    },
+    {
+      "loc": "4",
+      "anchor": "a speech of that bravest of old men, Q. Considius",
+      "entity_id": "person:q-considius-gallus",
+      "note": "Q. Considius, an aged and outspoken senator, whose blunt speech (rebuking the regime for the climate of fear) had briefly dispelled the dread of a massacre. Cicero salutes his courage amid general intimidation."
+    }
+  ]
+}

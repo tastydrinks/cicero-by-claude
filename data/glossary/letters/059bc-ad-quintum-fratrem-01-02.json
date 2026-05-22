@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-01-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the eighth day before the Kalends of November",
+      "entity_id": null,
+      "note": "The Roman calendar counted inclusively backward from three fixed points; the Kalends were the first of the month. This date is 25 October (59 BC)."
+    },
+    {
+      "loc": "1",
+      "anchor": "Statius",
+      "entity_id": "person:statius-q-freedman",
+      "note": "Statius was Quintus Cicero's confidential freedman, whose great influence over his patron was a source of scandal in the province of Asia. His recent manumission, Cicero argues, gave Quintus's enemies a fresh handle against him."
+    },
+    {
+      "loc": "3",
+      "anchor": "so favoured a freedman or slave",
+      "entity_id": "person:statius-q-freedman",
+      "note": "A governor who let a freedman wield open influence laid himself open to charges of being ruled by his household, a recurring Roman anxiety; hence Cicero's insistence that even an honest Statius does the reputation harm."
+    },
+    {
+      "loc": "4",
+      "anchor": "the most certain of matricides",
+      "entity_id": "person:zeuxis-blaundenus",
+      "note": "Roman law punished parricide (including matricide) with the cullus --- being sewn into a sack with animals and drowned. Quintus wanted to make an example of Zeuxis; Cicero, finding the man's standing high, preferred conciliation."
+    },
+    {
+      "loc": "5",
+      "anchor": "sewn up two Mysians at Smyrna in a sack",
+      "entity_id": null,
+      "note": "The cullus, the ancient penalty for parricide: the condemned was sewn into a leather sack and thrown into water. Quintus had applied it at Smyrna and wanted a second such display in the upper province."
+    },
+    {
+      "loc": "6",
+      "anchor": "of equestrian census",
+      "entity_id": null,
+      "note": "Membership of the equestrian order required a property qualification (the census equester, 400,000 sesterces). Cicero notes Catienus's rank to explain why this disreputable man could not simply be ignored."
+    },
+    {
+      "loc": "6",
+      "anchor": "Licinius the kidnapper",
+      "entity_id": "person:licinius-plagiarius",
+      "note": "Latin plagiarius means a kidnapper or stealer of slaves and free persons, a capital offence under the lex Fabia. Quintus's letter jokingly demanding the man be burnt alive struck Cicero as dangerously intemperate in writing."
+    },
+    {
+      "loc": "7",
+      "anchor": "the Cyrus of Xenophon",
+      "entity_id": "person:xenophon",
+      "note": "Xenophon's Cyropaedia presented Cyrus the Great as the ideal ruler, and his Agesilaus did the same for the Spartan king; both were stock models of mild but firm command. Cicero's point: even men ignorant of these models govern more graciously than Quintus."
+    },
+    {
+      "loc": "8",
+      "anchor": "a most affable successor",
+      "entity_id": null,
+      "note": "Quintus's term as governor of Asia was ending; his successor's pleasantness, Cicero warns, will sharpen by contrast the memory of Quintus's harshness unless Quintus leaves a gentler impression."
+    },
+    {
+      "loc": "9",
+      "anchor": "Sulla your nomenclator",
+      "entity_id": "person:sulla-nomenclator",
+      "note": "A nomenclator was the slave or freedman who prompted his master with the names of people he met. This Sulla, in Quintus's service, had written an objectionable letter in his master's name --- the kind of unsupervised correspondence Cicero is warning against."
+    },
+    {
+      "loc": "10",
+      "anchor": "the praetor-elect",
+      "entity_id": "person:l-flavius-eques",
+      "note": "L. Flavius, designated praetor for 58 BC, had inherited the estate of L. Octavius Naso; Quintus's instructions to provincial procurators about the estate (favouring the creditor Fundanius) seemed to Cicero an abuse of a governor's authority over private suits."
+    },
+    {
+      "loc": "12",
+      "anchor": "the freedman of Lucullus",
+      "entity_id": "person:diodotus-luculli-libertus",
+      "note": "A freedman of L. Lucullus named Diodotus, distinct from the Stoic Diodotus of Cicero's household; his report of a bargain concerning Hermias had provoked the angry letter Cicero now regrets."
+    },
+    {
+      "loc": "15",
+      "anchor": "called Pompey ``a private dictator.''",
+      "entity_id": "person:c-porcius-cato-tr56",
+      "note": "The dictatorship was an extraordinary, legally conferred office; to call Pompey a 'private dictator' was to brand his power as illegitimate. The young C. Cato made the charge from the Rostra while trying to prosecute the consul Gabinius, and was nearly lynched."
+    }
+  ]
+}

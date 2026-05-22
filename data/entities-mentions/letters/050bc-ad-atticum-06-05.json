@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-05",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+
+    {"loc": "3", "surface": "Syria", "entity_id": "place:syria", "in": "lat"},
+    {"loc": "3", "surface": "Bibulus", "entity_id": "person:m-calpurnius-bibulus", "in": "lat"},
+    {"loc": "3", "surface": "Pisidarum", "entity_id": "place:pisidia", "in": "lat"},
+    {"loc": "3", "surface": "Lyciorum", "entity_id": "place:lycia", "in": "lat"},
+    {"loc": "3", "surface": "senatus consultum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "Bibulus", "entity_id": "person:m-calpurnius-bibulus", "in": "lat"},
+    {"loc": "3", "surface": "Caldus quaestor", "entity_id": "person:c-coelius-caldus-q50", "in": "lat"},
+    {"loc": "3", "surface": "Syria", "entity_id": "place:syria", "in": "eng"},
+    {"loc": "3", "surface": "Bibulus", "entity_id": "person:m-calpurnius-bibulus", "in": "eng"},
+    {"loc": "3", "surface": "Pisidian", "entity_id": "place:pisidia", "in": "eng"},
+    {"loc": "3", "surface": "Lycian", "entity_id": "place:lycia", "in": "eng"},
+    {"loc": "3", "surface": "the senate's decree", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "3", "surface": "Bibulus was no trouble to me", "entity_id": "person:m-calpurnius-bibulus", "in": "eng"},
+    {"loc": "3", "surface": "the quaestor Caldus", "entity_id": "person:c-coelius-caldus-q50", "in": "eng"},
+
+    {"loc": "4", "surface": "me hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "4", "surface": "Atticulae", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "4", "surface": "Piliae", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "4", "surface": "by Hercules", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "4", "surface": "little Attica", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "4", "surface": "Pilia", "entity_id": "person:pilia", "in": "eng"}
+  ]
+}

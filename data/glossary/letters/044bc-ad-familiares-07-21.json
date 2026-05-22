@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "wager",
+      "entity_id": null,
+      "note": "Sponsio: a formal Roman procedural wager by which a disputed legal point was framed for trial, each party staking a sum on the truth of a contested assertion. Here it tests whether Turpilia's will gave Q. Caepio valid title to her estate."
+    },
+    {
+      "loc": "1",
+      "anchor": "the praetor Q. Caepio has given me possession",
+      "entity_id": "person:brutus",
+      "note": "The praetor 'Q. Caepio' is almost certainly M. Junius Brutus, who used the name Q. Servilius Caepio Brutus after adoption and was urban praetor in 44 BC; the wording quotes his edict granting bonorum possessio (praetorian possession of an estate)."
+    },
+    {
+      "loc": "1",
+      "anchor": "the capacity to make a will",
+      "entity_id": null,
+      "note": "Factio testamenti: the legal capacity to make (or take under) a valid will. Servius Sulpicius held that tablets drawn up by someone lacking this capacity could not count as a testament at all."
+    },
+    {
+      "loc": "1",
+      "anchor": "my Testa",
+      "entity_id": "person:c-trebatius-testa",
+      "note": "Testa is the cognomen of the young jurist C. Trebatius Testa, the recipient; Cicero addresses him familiarly by it throughout the cluster."
+    }
+  ]
+}

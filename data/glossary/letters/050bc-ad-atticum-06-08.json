@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the day before the Kalends of October",
+      "entity_id": null,
+      "note": "Counted inclusively in the Roman manner, this is 30 September 50 BC; Atticus's letter and Batonius's alarming news reached Cicero at Ephesus the day before he embarked for Greece."
+    },
+    {
+      "loc": "2",
+      "anchor": "the praetors-designate, the tribune of the plebs Cassius, and the consul Lentulus",
+      "entity_id": null,
+      "note": "The men elected for 49 BC: Q. Cassius Longinus (tribune) and L. Cornelius Lentulus Crus (consul-designate, here loosely called 'consul'). Batonius's report that Caesar had them in his pay is an early sign of the alignments that would harden into civil war within months."
+    },
+    {
+      "loc": "2",
+      "anchor": "Caesar will on no account dismiss his army",
+      "entity_id": "person:caesar",
+      "note": "The central crisis of 50-49 BC: the Senate demanded Caesar lay down his Gallic command before standing for the consulship, while he refused to disband his legions; his keeping the army was the act that precipitated the crossing of the Rubicon."
+    },
+    {
+      "loc": "4",
+      "anchor": "The Etesian winds",
+      "entity_id": null,
+      "note": "The etesiae were the steady north-northwest summer winds of the Aegean; blowing against a westbound voyage, they cost Cicero a full twenty days on the homeward run from Ephesus."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Rhodian open ship",
+      "entity_id": null,
+      "note": "An aphractus was a light, undecked galley (Greek aphraktos, 'unfenced'); the Rhodians were famous shipbuilders, but their open craft were poorly suited to the heavy seas Cicero faced and slowed his crossing."
+    },
+    {
+      "loc": "5",
+      "anchor": "a triumph",
+      "entity_id": null,
+      "note": "Cicero's friends were pressing him to seek a triumph for his Cilician campaign; he frets that his predecessor in Syria, Bibulus, who never left camp, was angling for one too, which would make Cicero's own claim look grasping."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Nones of March, your birthday",
+      "entity_id": "person:atticus",
+      "note": "Atticus's birthday fell on the Nones of March (7 March); Cicero, isolated at Formiae, marks the date as he waits for a fuller letter. The personal touch sits oddly against the political crisis, which is exactly the contrast Cicero feels."
+    },
+    {
+      "loc": "1",
+      "anchor": "that Gnaeus had embarked well attended and that the consuls had crossed over",
+      "entity_id": "person:pompey",
+      "note": "\"Gnaeus\" is Pompey the Great, named familiarly by praenomen throughout book 9. The two conditions Cicero recalls Atticus setting --- Pompey safely shipped and the consuls of 49 across the Adriatic --- were the trigger that would, in his mind, release him to leave Italy too."
+    },
+    {
+      "loc": "1",
+      "anchor": "the consuls had crossed over",
+      "entity_id": "office:consul",
+      "note": "The consuls of 49 BC, C. Claudius Marcellus and L. Cornelius Lentulus Crus, were the Republic's chief magistrates and had thrown in with Pompey; their crossing to Greece would mark the legitimate government's abandonment of Italy."
+    },
+    {
+      "loc": "1",
+      "anchor": "From Brundisium nothing had yet been brought",
+      "entity_id": "place:brundisium",
+      "note": "The recurring refrain of these days: no word yet from Brundisium, where Pompey was bottled up by Caesar's pursuing army. Cicero's every decision hangs on whether the escape succeeds."
+    }
+  ]
+}

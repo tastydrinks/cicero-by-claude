@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-08",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "Philotimus was a partner in his property",
+      "entity_id": "person:milo",
+      "note": "After Milo's conviction for the murder of Clodius and his exile to Massilia (52 BC), his estate was sold up; Cicero had arranged for Terentia's freedman Philotimus to buy a share, ostensibly to protect Milo's interests rather than let strangers strip the property."
+    },
+    {
+      "loc": "2",
+      "anchor": "what he had wished secured for Fausta might be made firm",
+      "entity_id": "person:fausta-cornelia",
+      "note": "Fausta, daughter of the dictator Sulla and wife of Milo, was to have a settlement guaranteed out of the estate; Cicero's management of the sale aimed to keep that provision intact."
+    },
+    {
+      "loc": "2",
+      "anchor": "the very many slaves he has with him",
+      "entity_id": "person:milo",
+      "note": "Milo had taken a large household of slaves into exile at Massilia; a hostile purchaser of the estate might have claimed and seized them, which Cicero's arrangement was meant to prevent."
+    }
+  ]
+}

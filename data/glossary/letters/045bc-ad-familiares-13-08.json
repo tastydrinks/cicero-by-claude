@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO M. RVTILIO S.",
+      "entity_id": "person:m-rutilius",
+      "note": "The addressee Marcus Rutilius is otherwise unknown; he is not the orator P. Rutilius Rufus nor the tribune P. Rutilius Lupus already in the registry. The letter implies he held some official or administrative role allowing him to protect or distribute estates, possibly as a land-commissioner under Caesar."
+    },
+    {
+      "loc": "1",
+      "anchor": "the case of the senator C. Albinius",
+      "entity_id": "person:c-albinius",
+      "note": "C. Albinius is otherwise unattested; he is a senator whose daughter married into the Sestii family (her son being L. Sestius). The case concerns real property Albinius received at valuation from M. Laberius, which is now under threat of compulsory redistribution."
+    },
+    {
+      "loc": "2",
+      "anchor": "out of the property of the Plotii",
+      "entity_id": "group:plotii",
+      "note": "The bona Plotiana are the confiscated estates of the Plotius family, sold off by Caesar after the civil war. Caesar had purchased or appropriated such property from defeated Pompeians and sold or redistributed it; Laberius bought one lot at such a Caesarian sale, then transferred it to Albinius."
+    },
+    {
+      "loc": "2",
+      "anchor": "Caesar wishes the Sullan sales and assignations to stand --- so that the firmer his own may be reckoned",
+      "entity_id": "person:caesar",
+      "note": "Cicero's political argument: Caesar had consistently upheld Sulla's property-sales of the 80s BC to legitimise his own post-civil-war confiscations and sales by analogy. Overturning Caesarian sales of Plotian land would by the same logic destabilise Sulla's earlier settlements, which Caesar wished to avoid."
+    },
+    {
+      "loc": "3",
+      "anchor": "I ask you plainly --- and with such warmth that I could not ask anything with greater zeal, on juster grounds, or more from the heart",
+      "entity_id": null,
+      "note": "Cicero's tricolon (maior studio, iustiore de causa, magis ex animo) is a standard intensifying formula in his recommendation letters, signalling that this request carries full personal weight rather than being a routine courtesy."
+    }
+  ]
+}

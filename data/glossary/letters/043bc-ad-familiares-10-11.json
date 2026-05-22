@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Had it been your own son's standing that was at issue",
+      "entity_id": "person:cicero",
+      "note": "Plancus refers to Cicero's son Marcus, studying in Athens at this time; the comparison flatters Cicero by equating his advocacy for Plancus with a father's partiality."
+    },
+    {
+      "loc": "2",
+      "anchor": "sent my brother on ahead with three thousand horse",
+      "entity_id": "person:plotius-plancus",
+      "note": "Plancus's brother, known in the sources as L. Plotius Plancus (born Munatius, adopted into the Plotia gens), commanded the advance cavalry; he later became a notable rhetorician."
+    },
+    {
+      "loc": "2",
+      "anchor": "Brutus and Mutina freed from siege",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Decimus Iunius Brutus Albinus, one of Caesar's assassins, had been blockaded in Mutina (Modena) by Antony since autumn 44 BC; the battles of Forum Gallorum and Mutina (14 and 21 April 43 BC) broke the siege."
+    },
+    {
+      "loc": "2",
+      "anchor": "taken station among the Allobroges",
+      "entity_id": "group:allobroges",
+      "note": "The Allobroges were a powerful Gallic tribe controlling the territory between the Rhone and the Alps (modern Dauphiné); their territory gave Plancus a blocking position against any advance by Antony or Lepidus toward Italy via the Rhone corridor."
+    },
+    {
+      "loc": "2",
+      "anchor": "the veteran Tenth Legion",
+      "entity_id": "unit:legio-decima",
+      "note": "Caesar's celebrated Legio X, one of the most experienced units in the Roman army; its veterans were susceptible to Antonian appeals given their long personal loyalty to Caesar's line."
+    },
+    {
+      "loc": "3",
+      "anchor": "Laterensis",
+      "entity_id": "person:iuventius-laterensis",
+      "note": "M. Iuventius Laterensis, a senior officer serving with or near Lepidus's command; Plancus used him as an intermediary to persuade Lepidus to remain loyal to the Senate. He killed himself when Lepidus defected to Antony in May 43 BC."
+    }
+  ]
+}

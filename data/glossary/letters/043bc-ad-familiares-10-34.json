@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-34",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "If you and your family are well, it is well; I too am well",
+      "entity_id": null,
+      "note": "The conventional opening health-formula of an official letter (Latin S.V.B.E.E.V.); the variant here adds the recipient's household."
+    },
+    {
+      "loc": "1",
+      "anchor": "facing the Antonii",
+      "entity_id": "person:antony",
+      "note": "\"The Antonii\" are the two brothers acting together — Marcus Antonius and Lucius Antonius — whose combined forces had entered Lepidus's province of Narbonese Gaul."
+    },
+    {
+      "loc": "1",
+      "anchor": "Forum Voconii",
+      "entity_id": "place:forum-voconii",
+      "note": "A waystation on the Aurelian road in Narbonese Gaul, near modern Le Cannet/Fréjus; Lepidus's camp there on the river Argenteus marked the front line against Antony in late May 43 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "Silanus and Culleo have left him",
+      "entity_id": null,
+      "note": "Two of Lepidus's own officers (probably M. Iunius Silanus and Q. Terentius Culleo) had defected to Antony against his wishes and then returned; Lepidus spares them but pointedly gives them no command."
+    },
+    {
+      "loc": "2",
+      "anchor": "we shall not fail the Senate or the commonwealth",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "A protestation of loyalty that proved hollow within days: by 29 May Lepidus had joined his army to Antony's, an act for which the Senate declared him a public enemy."
+    }
+  ]
+}

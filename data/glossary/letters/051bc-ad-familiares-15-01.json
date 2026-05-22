@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "If you are in good health, it is well; I myself am in good health",
+      "note": "The formulaic Latin opening of an official dispatch (S.V.V.B.E.E.Q.V. = si vales bene est, ego quidem valeo), reserved for letters to the magistrates and Senate rather than to friends."
+    },
+    {
+      "loc": "1",
+      "anchor": "to write officially",
+      "note": "A dispatch publice was an open, on-the-record report to the Senate and magistrates, as distinct from a private letter; Cicero is careful about the line, since the Parthian war fell partly in Bibulus's province of Syria, not his own."
+    },
+    {
+      "loc": "1",
+      "anchor": "M. Bibulus the proconsul",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "note": "Marcus Calpurnius Bibulus (consul 59 BC, Caesar's obstructed colleague), now proconsul of Syria and Cicero's neighbour in the eastern command against the Parthians."
+    },
+    {
+      "loc": "2",
+      "anchor": "King Antiochus of Commagene",
+      "entity_id": "person:antiochus-of-commagene",
+      "note": "Ruler of Commagene, a small client kingdom on the upper Euphrates; his envoys gave Cicero the first report of the Parthian crossing."
+    },
+    {
+      "loc": "2",
+      "anchor": "Tarcondimotus",
+      "entity_id": "person:tarcondimotus",
+      "note": "A Cilician highland dynast of the Amanus, counted Rome's most loyal ally beyond the Taurus; later founder of a local royal line."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pacorus, son of Orodes the king of the Parthians",
+      "entity_id": "person:pacorus",
+      "note": "The Parthian crown prince, son of King Orodes II (the victor of Carrhae); he commanded the invasion force and was killed at Gindarus in 38 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "Iamblichus, the phylarch of the Arabs",
+      "entity_id": "person:iamblichus-phylarch",
+      "note": "A phylarch is a tribal chieftain; Iamblichus headed the Arabs of Emesa and was reckoned friendly to Rome."
+    },
+    {
+      "loc": "5",
+      "anchor": "which carry the revenues of the Roman people",
+      "note": "The vectigalia: the tax-revenues of the eastern provinces, the chief reason Rome held them and the stake Cicero presses on the Senate to defend."
+    },
+    {
+      "loc": "6",
+      "anchor": "King Deiotarus",
+      "entity_id": "person:deiotarus-of-galatia",
+      "note": "Tetrarch and king in Galatia, Rome's most reliable client-king in Asia Minor, whose goodwill and troops Cicero counts as effectively his own."
+    },
+    {
+      "loc": "6",
+      "anchor": "the rest of the kings and princelings",
+      "note": "The reges tyrannique: the patchwork of client kings and petty dynasts of the Anatolian interior, on whose levies and loyalty Cicero says little reliance can be placed."
+    }
+  ]
+}

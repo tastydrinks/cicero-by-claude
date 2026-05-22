@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-15",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "a wit that is not Attic but saltier than the Attics' own --- the old, in-town, Roman wit",
+      "entity_id": null,
+      "note": "Cicero contrasts Attic wit (the refined humour of Athens, the classical standard) with native Roman 'salt' (sal, both 'salt' and 'wit'), which he calls saltier still. The 'urbane' joke of the city (urbanitas) is being lost as Rome fills with outsiders."
+    },
+    {
+      "loc": "2",
+      "anchor": "the trousered, Transalpine tribes",
+      "entity_id": null,
+      "note": "The 'trousered' (bracati) Transalpine Gauls, recently enfranchised and entering the Senate under Caesar, are the butt here; trousers (bracae) were the badge of barbarian dress, and Cicero complains that the influx of provincials has diluted authentic Roman charm."
+    },
+    {
+      "loc": "2",
+      "anchor": "I think I am seeing all the Granii, all the Lucilii --- and yes, to tell the truth, the Crassi too, and the Laelii",
+      "entity_id": "person:lucilius",
+      "note": "A roll-call of bywords for old-style Roman wit: Granius the auctioneer, famed for his repartee; Lucilius the satirist; and the orators L. Licinius Crassus and C. Laelius, paragons of urbane refinement. Plural forms ('the Granii') mean 'men of that type.'"
+    },
+    {
+      "loc": "3",
+      "anchor": "You bring up Catulus to me, and those times.",
+      "entity_id": "person:q-lutatius-catulus-pater",
+      "note": "Q. Lutatius Catulus (consul 78 BC), the leading optimate and princeps senatus who hailed Cicero as parens patriae after the Catilinarian conspiracy; Paetus had invoked Catulus's era as a precedent for Cicero's staying engaged in politics. Cicero replies that the times are no longer comparable now that Caesar holds sole power."
+    },
+    {
+      "loc": "3",
+      "anchor": "for then we sat on the stern and held the helm. Now there is barely room in the bilge",
+      "entity_id": "person:cicero",
+      "note": "A ship-of-state metaphor: in the Catilinarian days Cicero steered the commonwealth from the stern (the helmsman's place of command); under Caesar's dictatorship there is scarcely standing-room even in the bilge (the foul bottom of the hold), a vivid figure for his political marginalization."
+    },
+    {
+      "loc": "4",
+      "anchor": "the senatorial decrees are written up at the house of your admirer, my intimate",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "Senatus consulta were now drafted privately at the house of one of Caesar's agents (most likely L. Cornelius Balbus, Caesar's confidential man of business), with Cicero's name added as a witness or drafter without his knowledge. The complaint mocks the Senate's loss of real deliberation under the dictatorship."
+    },
+    {
+      "loc": "5",
+      "anchor": "as long as our prefect of morals is here, I shall bow to your authority",
+      "entity_id": "person:caesar",
+      "note": "Caesar had assumed a praefectura morum (prefecture of morals, a censorial power over public conduct) and enacted a sumptuary law restricting extravagant dining. Cicero jokes that while Caesar (the 'prefect of morals') is in Rome he will observe the law, but when Caesar leaves he will indulge in Paetus's famous mushrooms."
+    },
+    {
+      "loc": "5",
+      "anchor": "I shall reduce the sumptuary-law allowance to one day in ten",
+      "entity_id": "law:lex-iulia-sumptuaria",
+      "note": "Caesar's lex Iulia sumptuaria (46 BC) capped permitted spending on banquets, with higher limits on festival days. Cicero's joke is that if he has his own house he will spread the allowance for one feast across ten ordinary days' rations, dining lean to comply with the new austerity."
+    }
+  ]
+}

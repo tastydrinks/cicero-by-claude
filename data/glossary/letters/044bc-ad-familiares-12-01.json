@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO CASSIO S.",
+      "entity_id": "person:cassius-longinus",
+      "note": "The letter-heading: \"Cicero to Cassius, greetings.\" S. = salutem dicit, \"sends greetings\"; the recipient is C. Cassius Longinus, one of Caesar's assassins, now in the East raising republican armies."
+    },
+    {
+      "loc": "1",
+      "anchor": "our Brutus",
+      "entity_id": "person:brutus",
+      "note": "M. Iunius Brutus, the other leading tyrannicide, consolidating his position in Macedonia and Greece; distinct from D. (Decimus) Brutus, named just after."
+    },
+    {
+      "loc": "1",
+      "anchor": "my dear Dolabella has done so brilliantly",
+      "entity_id": "person:dolabella",
+      "note": "As consul in 44 BC P. Cornelius Dolabella violently demolished the altar and column to Caesar that had sprung up in the Forum and dispersed the mob around it; Cicero applauds him here, before Dolabella turned to Caesarian and murdered Trebonius."
+    },
+    {
+      "loc": "1",
+      "anchor": "we seem to have been liberated not from the kingship but from the king",
+      "entity_id": null,
+      "note": "A play on rex (king) and regnum (kingship): the assassins removed the man (the dictator Caesar) but not his autocratic regime, whose acts continued to be enforced."
+    },
+    {
+      "loc": "1",
+      "anchor": "forged decrees of the Senate are produced",
+      "entity_id": null,
+      "note": "After Caesar's death Antony exploited Caesar's papers (the acta Caesaris), passing off edicts, grants, and recalls as the dead dictator's authentic intentions; Cicero charges that some were outright forgeries."
+    },
+    {
+      "loc": "2",
+      "anchor": "Whose laws on bronze we ought to be tearing down",
+      "entity_id": null,
+      "note": "Roman statutes and decrees were inscribed on bronze tablets posted in public; \"tearing down\" (refigere) the dead Caesar's tablets would have meant repudiating his measures, which the Senate had instead voted to ratify."
+    }
+  ]
+}

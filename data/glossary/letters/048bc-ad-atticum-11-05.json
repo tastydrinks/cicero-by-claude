@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "by a kind of impulse of the mind rather than by deliberation",
+      "entity_id": null,
+      "note": "Cicero's apology for his abrupt decision to abandon Pompey's cause after Pharsalus and recross to Brundisium rather than continue the war in Africa with the surviving Pompeians."
+    },
+    {
+      "loc": "3",
+      "anchor": "write, in my name, to Basilus",
+      "entity_id": "person:l-minucius-basilus",
+      "note": "L. Minucius Basilus, a Caesarian (later one of Caesar's assassins). Too ill to write, Cicero asks Atticus to send letters in his name to such useful contacts to keep his standing intact."
+    },
+    {
+      "loc": "3",
+      "anchor": "to Servilius as well",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "P. Servilius Vatia Isauricus, Caesar's colleague in the consulship of 48 BC and thus a powerful man to keep favourably disposed while Cicero awaited Caesar's pardon."
+    },
+    {
+      "loc": "4",
+      "anchor": "your asking about Vatinius",
+      "entity_id": "person:vatinius-tribune",
+      "note": "P. Vatinius, a Caesarian then commanding at Brundisium; despite their old enmity he treated the stranded Cicero kindly. \"Neither his good offices nor anyone else's\" could yet help while Cicero's situation remained unresolved."
+    },
+    {
+      "loc": "4",
+      "anchor": "Quintus was in a thoroughly hostile frame of mind toward me at Patrae",
+      "entity_id": "person:quintus-cicero",
+      "note": "Cicero's brother Quintus, blaming him for the family's ruin, broke with him at Patrae in Achaia and set off to make his own peace with Caesar. The rupture between the brothers (and with the nephew, \"his son\") runs through book 11."
+    }
+  ]
+}

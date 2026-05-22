@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-05",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the seven-hilled city",
+      "entity_id": "place:roma",
+      "note": "A periphrasis for Rome (Greek heptalophos), the city of the seven hills; Cicero veils the whole financial paragraph in Greek as a cipher against prying eyes on a letter that may be intercepted."
+    },
+    {
+      "loc": "2",
+      "anchor": "not an obol has been paid out",
+      "entity_id": null,
+      "note": "An obol was the smallest Greek silver coin (one-sixth of a drachma); the idiom 'not an obol' means 'not a penny', here of a debt left wholly unsettled."
+    },
+    {
+      "loc": "3",
+      "anchor": "thirty-three days remained",
+      "entity_id": null,
+      "note": "Cicero's one-year proconsulship of Cilicia legally ran out on 30 July 50 BC; writing on 27 June he counts down the days until his command lapses and he may leave the province."
+    },
+    {
+      "loc": "3",
+      "anchor": "the day of departure",
+      "entity_id": null,
+      "note": "The dies decessionis was the fixed date on which a governor's tenure expired and he had to quit his province; Cicero is anxious because, once it arrives, he must name someone to hold Cilicia in the interim."
+    },
+    {
+      "loc": "3",
+      "anchor": "the quaestor Caldus",
+      "entity_id": "person:c-coelius-caldus-q50",
+      "note": "C. Coelius Caldus, the quaestor assigned to Cicero by lot; a governor could leave his province in his quaestor's charge, and Cicero is waiting to see whether Caldus will arrive in time to be installed."
+    }
+  ]
+}

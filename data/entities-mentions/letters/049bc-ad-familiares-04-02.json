@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-02",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "SER. SVLPICIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SER. SVLPICIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "in Cumano", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "1", "surface": "my house at Cumae", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "1", "surface": "Philotimum", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "1", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "1", "surface": "Postumia tua", "entity_id": "person:postumia", "in": "lat"},
+    {"loc": "1", "surface": "your wife Postumia", "entity_id": "person:postumia", "in": "eng"},
+    {"loc": "1", "surface": "Servius noster", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "lat"},
+    {"loc": "1", "surface": "our friend Servius", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "eng"},
+    {"loc": "1", "surface": "in Cumanum", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "1", "surface": "to my place at Cumae", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "3", "surface": "Caesari", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "Caesar himself", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "4", "surface": "Servio", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "lat"},
+    {"loc": "4", "surface": "Postumiae", "entity_id": "person:postumia", "in": "lat"},
+    {"loc": "4", "surface": "both Servius and Postumia", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "eng"},
+    {"loc": "4", "surface": "Postumia", "entity_id": "person:postumia", "in": "eng"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-14",
+  "mentions": [
+    {"loc": "1", "surface": "de me excusando apud Appuleium", "entity_id": "person:m-appuleius", "in": "lat"},
+    {"loc": "1", "surface": "sed Septimium vide", "entity_id": "person:c-septimius", "in": "lat"},
+    {"loc": "1", "surface": "et Laenatem", "entity_id": "person:laenas", "in": "lat"},
+    {"loc": "1", "surface": "et Statilium", "entity_id": "person:l-statilius", "in": "lat"},
+    {"loc": "1", "surface": "sed mihi Laenas totum receperat", "entity_id": "person:laenas", "in": "lat"},
+    {"loc": "1", "surface": "About my being excused before Appuleius", "entity_id": "person:m-appuleius", "in": "eng"},
+    {"loc": "1", "surface": "But see to Septimius", "entity_id": "person:c-septimius", "in": "eng"},
+    {"loc": "1", "surface": "and Laenas", "entity_id": "person:laenas", "in": "eng"},
+    {"loc": "1", "surface": "and Statilius", "entity_id": "person:l-statilius", "in": "eng"},
+    {"loc": "1", "surface": "Laenas, though, had taken the whole business on himself", "entity_id": "person:laenas", "in": "eng"},
+    {"loc": "2", "surface": "omnino Cornificius locuples est", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "2", "surface": "procuratores Cornifici et Appuleium praediatorem videbis", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "2", "surface": "procuratores Cornifici et Appuleium praediatorem videbis", "entity_id": "person:m-appuleius", "in": "lat"},
+    {"loc": "2", "surface": "Cornificius is, in any case, a man of means", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "2", "surface": "you will see Cornificius's agents", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "2", "surface": "and Appuleius the auctioneer", "entity_id": "person:m-appuleius", "in": "eng"},
+    {"loc": "4", "surface": "de Bruti ad me litteris scripsi ad te antea", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "4", "surface": "maxime autem Pansa quando", "entity_id": "person:vibius-pansa", "in": "lat"},
+    {"loc": "4", "surface": "de Attica doleo", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "4", "surface": "credo tamen Cratero", "entity_id": "person:craterus", "in": "lat"},
+    {"loc": "4", "surface": "Piliam angi veta", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "4", "surface": "About Brutus's letter to me I wrote to you earlier", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "4", "surface": "above all, when Pansa is to set out", "entity_id": "person:vibius-pansa", "in": "eng"},
+    {"loc": "4", "surface": "About Attica I grieve", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "4", "surface": "but I trust in Craterus", "entity_id": "person:craterus", "in": "eng"},
+    {"loc": "4", "surface": "Tell Pilia not to be in anguish", "entity_id": "person:pilia", "in": "eng"}
+  ]
+}

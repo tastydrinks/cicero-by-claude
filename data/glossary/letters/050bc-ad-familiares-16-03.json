@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "ET Q. PATER ET FILIVS",
+      "entity_id": "person:quintus-cicero",
+      "note": "The senders joining Cicero in the greeting are his brother Quintus (\"Q. pater,\" Quintus the father) and Quintus's son, Cicero's nephew (\"filius\"); young Marcus, Cicero's own son, is the \"Cicero\" already named."
+    },
+    {
+      "loc": "1",
+      "anchor": "because Quintus had not caught up with us",
+      "entity_id": "person:quintus-cicero",
+      "note": "Quintus is Cicero's younger brother, who had served as his legate in Cilicia and was travelling home in the same party."
+    },
+    {
+      "loc": "1",
+      "anchor": "me, your master",
+      "entity_id": "person:cicero",
+      "note": "Tiro was Cicero's slave before being freed (probably in 53 BC); Cicero playfully styles himself \"magister,\" the affectionate patron-tutor relation that survived the manumission."
+    },
+    {
+      "loc": "1",
+      "anchor": "the eighth day before the Ides of November",
+      "note": "A Roman date counted inclusively back from the Ides (the 13th in November), giving 6 November 50 BC."
+    }
+  ]
+}

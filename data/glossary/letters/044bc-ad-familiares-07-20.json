@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Velia is no cheaper than the Lupercal",
+      "entity_id": "place:lupercal",
+      "note": "The Lupercal was the cave-shrine below the Palatine, the legendary den of the she-wolf and some of Rome's priciest ground. Cicero's joke is that property at sleepy Velia costs as much as prime real estate in the capital, so Trebatius should keep his ancestral holdings there."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Halaes, that noble river",
+      "entity_id": "place:hales-river",
+      "note": "The Hales (modern Alento), a small but celebrated river beside Velia in Lucania; the town's air and water were so prized that the philosopher Parmenides and his school were associated with it."
+    },
+    {
+      "loc": "1",
+      "anchor": "a lotus by which even strangers are commonly held captive",
+      "entity_id": null,
+      "note": "A learned allusion to the lotus-eaters of Odyssey 9, whose fruit made visitors forget home; Cicero turns the famous tree on Trebatius's property into a witty argument for not selling the place."
+    },
+    {
+      "loc": "3",
+      "anchor": "I have carried off from Sex. Fadius, Nico's pupil, a book of Nico's",
+      "entity_id": "text:nico-de-polyphagia",
+      "note": "Cicero, who jokes about his own appetite, playfully made off with the physician Nico's treatise peri polyphagias (On Overeating) from Nico's pupil Sex. Fadius. The Greek title is rendered in the Latin manuscript in transliterated Greek."
+    },
+    {
+      "loc": "3",
+      "anchor": "our friend Bassus kept this book hidden from me",
+      "entity_id": "person:bassus-velia",
+      "note": "A common friend of Cicero and Trebatius at Velia, otherwise unknown; the running joke is that Bassus had been hoarding the diet-book, perhaps as a hint about Cicero's eating."
+    }
+  ]
+}

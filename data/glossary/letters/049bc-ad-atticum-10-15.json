@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the sixth day before the Ides",
+      "entity_id": null,
+      "note": "Roman dates were counted backwards and inclusively from three fixed points: the Kalends (1st), the Nones (5th or 7th), and the Ides (13th or 15th). The sixth day before the Ides of May here is 10 May 49 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "Eros, the agent of Philotimus, will tell you",
+      "entity_id": "person:eros-turius",
+      "note": "Eros was a financial accountant who kept the books of Cicero's circle; Philotimus was Terentia's freedman and a busy steward of the family's money. Cicero routinely referred Atticus to such agents for the precise figures of his tangled loans."
+    },
+    {
+      "loc": "2",
+      "anchor": "the affair in Caelius's letter, is ripening",
+      "entity_id": "person:caelius-defendant",
+      "note": "The \"Caelian\" matter is some scheme reported by M. Caelius Rufus, here used as a cipher to keep the plan to slip away and join Pompey out of unfriendly hands. Cicero's letters of these weeks are deliberately allusive for fear of interception."
+    },
+    {
+      "loc": "3",
+      "anchor": "The praetor Allienus",
+      "entity_id": "person:a-allienus",
+      "note": "A. Allienus held a praetorship in 49 BC and was being pressed to take up a provincial command for Caesar. Cicero notes that the office could fall to him or to one of his fellow praetors --- \"anyone will serve.\""
+    },
+    {
+      "loc": "4",
+      "anchor": "he is in no small trouble over the loan transfer",
+      "entity_id": null,
+      "note": "A versura was the raising of a fresh loan to pay off an old one, a common but precarious device in Roman finance. Quintus's struggle to arrange one through Lucius Egnatius reflects the credit squeeze that gripped Italy at the outbreak of civil war."
+    },
+    {
+      "loc": "4",
+      "anchor": "I am glad you are free of the quartan",
+      "entity_id": null,
+      "note": "The quartan was a recurrent fever (most likely malarial) whose paroxysms returned every fourth day by inclusive Roman reckoning. It was a chronic affliction much remarked on in Cicero's correspondence with the ailing Atticus."
+    }
+  ]
+}

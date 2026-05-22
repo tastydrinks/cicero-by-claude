@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-08",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "transacted on the tribunal",
+      "note": "Pro tribunali: business done by a magistrate seated on the raised platform (tribunal) from which he gave judgement, as opposed to informal dealings; a mark of official, public action."
+    },
+    {
+      "loc": "3",
+      "anchor": "embassies came to Rome",
+      "note": "Provincial communities sent deputations (legationes) to Rome at public expense to thank or honour an outgoing governor before the Senate; Cicero curbed the cost of these laudatory embassies for Appius."
+    },
+    {
+      "loc": "4",
+      "anchor": "the tax-farmers came to me at Samos",
+      "note": "The publicani, private companies who bid for the contract to collect provincial taxes; politically powerful at Rome, they pressed governors to favour their interests."
+    },
+    {
+      "loc": "4",
+      "anchor": "the public council of the world, that is, in the Senate",
+      "entity_id": "institution:senate",
+      "note": "Cicero's grand formula (publicum orbis terrae consilium) for the Senate as the deliberative body of the whole Roman world, before which the embassies of thanks were to appear."
+    },
+    {
+      "loc": "5",
+      "anchor": "the auctioning-off of the tributes and that most bitter exaction of the poll-tax and the door-tax",
+      "note": "Provincial taxes were sold off (venditio) to collectors; the capitatio (poll-tax) and a tax on house-doors (ostiarium) were among the harshest burdens on impoverished communities."
+    },
+    {
+      "loc": "6",
+      "anchor": "my assize was being held",
+      "note": "Conventus: the periodic court-sessions a governor held in the chief towns of his province to hear cases and administer justice on a fixed circuit."
+    },
+    {
+      "loc": "9",
+      "anchor": "biennial proposal",
+      "note": "Sententia bima: a motion to prolong Cicero's distasteful Cilician command to a second year; he begs Appius to have Hortensius drop it."
+    }
+  ]
+}

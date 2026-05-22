@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-38",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO ACILIO PROCONSVLI S.",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "The letter-heading; one of the run of recommendation letters to M'. Acilius Glabrio, proconsul of Sicily in 46-45 BC. The abbreviation S. stands for salutem (dicit), \"sends greeting,\" the standard epistolary formula."
+    },
+    {
+      "loc": "1",
+      "anchor": "a Roman knight",
+      "entity_id": "person:l-bruttius",
+      "note": "An eques Romanus: a member of the equestrian order, the propertied class below the senate, from which businessmen, financiers, and the bulk of provincial commercial interests were drawn."
+    },
+    {
+      "loc": "1",
+      "anchor": "as far as my quaestorship in Sicily",
+      "entity_id": "place:sicilia",
+      "note": "Cicero served as quaestor at Lilybaeum in western Sicily in 75 BC, his first magistracy and the basis of many of his lasting Sicilian connections. The friendship with Bruttius's father dates from that posting."
+    },
+    {
+      "loc": "1",
+      "anchor": "his household, his estate, and his agents",
+      "entity_id": "person:l-bruttius",
+      "note": "Domus, res familiaris, and procuratores: the man's establishment, his property and financial interests, and the agents (often freedmen) who managed his affairs in the province while he himself was at Rome. The standard objects of a commendatio addressed to a governor."
+    }
+  ]
+}

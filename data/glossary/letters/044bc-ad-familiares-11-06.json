@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "D. BRVTO IMP. COS. DESIG.",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Decimus Brutus Albinus, one of Caesar's assassins and governor of Cisalpine Gaul, here saluted as imperator (a victorious general acclaimed by his troops) and consul-designate for 42 BC. He is distinct from Marcus Brutus the Liberator."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Senate should meet on the twentieth of December",
+      "entity_id": null,
+      "note": "The Latin \"a. d. xiii K. Ian.\" (the thirteenth day before the Kalends of January, counted inclusively) is 20 December 44 BC, the meeting at which Cicero delivered the Third Philippic in support of Decimus Brutus."
+    },
+    {
+      "loc": "2",
+      "anchor": "the consuls-elect",
+      "entity_id": "office:consul",
+      "note": "The consuls-designate for 43 BC, Hirtius and Pansa, who had not yet entered office; the tribunes proposed providing them a guard against Antony."
+    },
+    {
+      "loc": "2",
+      "anchor": "before the Kalends of January",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; here 1 January 43 BC, when the new consuls Hirtius and Pansa would take office."
+    },
+    {
+      "loc": "3",
+      "anchor": "in the great public assembly",
+      "entity_id": null,
+      "note": "The contio, a non-voting public meeting at which a magistrate addressed the people; Cicero refers to the speech (the Fourth Philippic) he gave to the populace the same day, 20 December 44 BC."
+    }
+  ]
+}

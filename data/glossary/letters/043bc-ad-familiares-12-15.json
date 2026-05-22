@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "P. LENTVLVS P. F. PROQ. PROPR. S. D. COSS. PR. TR. PL. SENATVI POPVLO PLEBIQVE ROMANAE",
+      "entity_id": "person:p-lentulus-spinther-jr",
+      "note": "A formal official dispatch: P. Lentulus son of Publius (P. F.), proquaestor pro praetore (PROQ. PROPR.), \"sends greetings\" (S. D.) to the consuls (COSS.), praetors (PR.), tribunes of the plebs (TR. PL.), the Senate, and the Roman People and Plebs. This is the archaic full address of a magistrate reporting to the whole state."
+    },
+    {
+      "loc": "1",
+      "anchor": "If you and your children are well, it is well; I and the army are well.",
+      "entity_id": null,
+      "note": "The expanded official health-formula (Latin S. v. l. v. v. b. e. v., si vos liberique vestri valetis, bene est; ego exercitusque valemus), proper to a commander's public report rather than a private letter's simpler version."
+    },
+    {
+      "loc": "2",
+      "anchor": "the decree of the Senate by which you had judged Dolabella an enemy",
+      "entity_id": "person:dolabella",
+      "note": "After Dolabella murdered Trebonius the Senate passed a senatus consultum declaring him a hostis (public enemy), stripping him of legal standing; allied states were thereby bound to treat him as such."
+    },
+    {
+      "loc": "2",
+      "anchor": "the treaty which had been renewed with them in the consulship of M. Marcellus and Ser. Sulpicius",
+      "entity_id": null,
+      "note": "The alliance with Rhodes had been renewed in 51 BC, the consulship of M. Claudius Marcellus and Ser. Sulpicius Rufus, binding the Rhodians to share Rome's enemies; Lentulus invokes it to shame their refusal of aid."
+    },
+    {
+      "loc": "2",
+      "anchor": "the smallest among them of two thousand amphorae",
+      "entity_id": null,
+      "note": "Ship size was measured by cargo capacity in amphorae (a standard wine-jar of about 26 litres); two thousand amphorae marks a substantial sea-going freighter."
+    },
+    {
+      "loc": "3",
+      "anchor": "Stricken with fear at this, senators",
+      "entity_id": "institution:senate",
+      "note": "\"Senators\" renders the formal address patres conscripti (abbreviated p. c. in the Latin), the standard vocative for the assembled Senate in a speech or dispatch."
+    },
+    {
+      "loc": "5",
+      "anchor": "Sida, which is the furthest district of my province",
+      "entity_id": "place:sida",
+      "note": "Side (Sida), a port of Pamphylia, marked the eastern edge of Lentulus's province of Asia; the pursuit of Dolabella's fleet reached this boundary."
+    },
+    {
+      "loc": "7",
+      "anchor": "The fourth day before the Nones of June, at Perga.",
+      "entity_id": "place:perga",
+      "note": "The dating postscript: 2 June 43 BC (the fourth day before the Nones, counted inclusively), from Perga in Pamphylia. Section 7 was added later than the body, dated four days before the Kalends."
+    }
+  ]
+}

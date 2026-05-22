@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the calamity by which I have been most grievously stricken",
+      "entity_id": "person:tullia",
+      "note": "The calamity is the death of Cicero's beloved daughter Tullia --- Dolabella's own wife --- in February 45 BC, shortly after she had given birth. Her loss devastated Cicero, who withdrew to Atticus's estate and to Astura and poured his grief into the lost Consolatio he wrote to console himself."
+    },
+    {
+      "loc": "1",
+      "anchor": "since, as I think, I shall be seeing you in a short time",
+      "entity_id": "person:dolabella",
+      "note": "Although Dolabella had divorced Tullia not long before her death --- one of the strains in this son-in-law relationship --- he and Cicero remained on warm terms, and Cicero still looked to his consolation and company; Dolabella had written offering sympathy."
+    },
+    {
+      "loc": "2",
+      "anchor": "you are sustaining battles on my account",
+      "entity_id": "person:dolabella",
+      "note": "Dolabella had evidently been defending Cicero's reputation against detractors in Rome. Cicero replies that he values not the refutation of his critics so much as the proof it gives of Dolabella's affection --- a graceful tribute amid the awkwardness of their connection after the divorce."
+    }
+  ]
+}

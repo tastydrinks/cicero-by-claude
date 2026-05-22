@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "We reached Leucas",
+      "entity_id": "place:leucas",
+      "note": "Leucas, an island off western Greece; the section is a day-by-day log of the homeward voyage from Cilicia, naming each port in turn."
+    },
+    {
+      "loc": "1",
+      "anchor": "a hundred and twenty stades",
+      "note": "A stade is roughly 185 metres, so about 22 km; the short hop to Cassiope on Corcyra's north-east coast, the jumping-off point for the crossing to Italy."
+    },
+    {
+      "loc": "2",
+      "anchor": "to Hydrus",
+      "entity_id": "place:hydruntum",
+      "note": "Hydruntum (modern Otranto), the nearest Italian landfall on the heel of the peninsula when crossing from Corcyra."
+    },
+    {
+      "loc": "2",
+      "anchor": "we arrived at Brundisium",
+      "entity_id": "place:brundisium",
+      "note": "Brundisium (modern Brindisi), the great port of south-east Italy and the standard arrival point for travellers from Greece and the East."
+    },
+    {
+      "loc": "2",
+      "anchor": "the slave of Gnaeus Plancius",
+      "entity_id": "person:cn-plancius",
+      "note": "Gnaeus Plancius, the man whom Cicero had defended in the Pro Plancio (54 BC); his slave delivers Tiro's letter at Brundisium."
+    },
+    {
+      "loc": "2",
+      "anchor": "Asclapo the doctor",
+      "entity_id": "person:asclapo-patrensis",
+      "note": "Asclapo, the physician at Patrae attending the sick Tiro."
+    },
+    {
+      "loc": "3",
+      "anchor": "Lyson's concert",
+      "entity_id": "person:lyso-patrensis",
+      "note": "Lyso of Patrae was Tiro's host; Cicero fears the strain of attending Lyson's musical entertainment ('symphonia') will cause a relapse."
+    },
+    {
+      "loc": "3",
+      "anchor": "a fourth-week relapse",
+      "note": "Ancient medicine reckoned the danger points of a fever by weeks ('hebdomades'); the fourth week was thought a critical moment for a recurrence."
+    },
+    {
+      "loc": "3",
+      "anchor": "I have written to Curius",
+      "entity_id": "person:mn-curius-patrensis",
+      "note": "Manius Curius, the Roman banker resident at Patrae who had taken the ailing Tiro into his house; Cicero arranges through him to pay the doctor."
+    },
+    {
+      "loc": "4",
+      "anchor": "sail with Mescinius",
+      "entity_id": "person:l-mescinius",
+      "note": "Lucius Mescinius Rufus, Cicero's quaestor in Cilicia, also making the homeward crossing; Cicero recommends his cautious seamanship as a safe companion for Tiro."
+    }
+  ]
+}

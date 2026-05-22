@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-25",
+  "category": "letters",
+  "title_latin": "Ad Familiares 9.25",
+  "title_english": "Ad Familiares 9.25",
+  "date": "-0050-02-13",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "summum me ducem litterae tuae reddiderunt. plane nesciebam te tam peritum esse rei militaris ; Pyrrhi te libros et Cineae video lectitasse. itaque obtemperare cogito praeceptis tuis, hoc amplius, navicularum habere aliquid in ora maritima. contra equitem Parthum negant ullam armaturam meliorem inveniri posse. sed quid ludimus? nescis quo cum imperatore tibi.negotium sit. *paidei/an *ku/rou quam contrieram legendo, totam in hoc imperio explicavi.",
+      "eng": "Your letter has made a supreme commander of me. I had no idea you were so expert in the art of war; I see you have been poring over the books of Pyrrhus and of Cineas. And so I intend to obey your instructions, with this addition: to keep a few light vessels along the seacoast. Against the Parthian cavalry, they say, no better armament can be found. But why are we playing? You do not know what kind of general you are dealing with. The Cyropaedia, the [Greek: Paideia Kyrou], which I had worn to shreds with reading, I have unfolded entire here in this command of mine.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "sed iocabimur alias coram, ut spero, brevi tempore ; nunc ades ad imperandum vel ad parendum potius ; sic enim antiqui loquebantur. Cum M. Fadio, quod scire te arbitror, mihi summus usus est valdeque eum diligo cum propter summam probitatem eius ac singularem modestiam, tum quod in iis controversiis, quas habeo cum tuis combibonibus Epicuriis, optima opera eius uti soleo.",
+      "eng": "But we shall joke another time, face to face, soon, I hope. For now, present yourself --- to take my orders, or rather to obey them; for so the ancients used to speak. With M. Fadius, as I think you know, I am on the closest terms, and I am very fond of him, both for his great integrity and his singular modesty, and because, in those disputes I have with your fellow-tipplers the Epicureans, I am accustomed to make the best use of his services.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "is cum ad me Laudiceam venisset mecumque ego eum esse vellem, repente percussus est atrocissimis litteris, in quibus scriptum erat fundum Herculanensem a Q. Fadio fratre proscriptum esse, qui fundus cum eo communis esset. id M. Fadius pergraviter tulit existimavitque fratrem suum, hominem non sapientem, is impulsu inimicorum suorum eo progressum esse. nunc si me amas, mi Paeto, negotium totum suscipe ; molestia Fadium libera. auctoritate tua nobis opus est et consilio et etiam gratia. noti pati litigare fratres et iudiciis turpibus conflictari. Matonem et Pollionem inimicos habet Fadius. quid multa? non me hercule tam perscribere possum quam mihi gratum feceris, si otiosum Fadium reddideris. id ille in te positum esse putat mihique persuadet.",
+      "eng": "When he had come to me at Laodicea, and I wanted him to stay with me, he was suddenly stunned by a most distressing letter, in which it was written that the Herculanean estate had been advertised for sale by his brother Q. Fadius --- an estate which he held jointly with him. M. Fadius took this very hard, and judged that his brother, a man without good sense, had gone so far at the prompting of his own enemies. Now, if you love me, my dear Paetus, take the whole business upon yourself; free Fadius from his trouble. We need your authority, your counsel, and your influence besides. Do not let the brothers go to law and grind against each other in disgraceful suits. Fadius has Mato and Pollio for enemies. Why say more? I swear by Hercules I cannot set down in writing how grateful you would make me, if you restore Fadius to his peace. He believes it rests with you, and he persuades me of the same.",
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-09",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CRASSIPEDI", "entity_id": "person:crassipes", "in": "lat"},
+    {"loc": "1", "surface": "CRASSIPEDI", "entity_id": "person:crassipes", "in": "eng"},
+    {"loc": "1", "surface": "socios Bithyniae", "entity_id": "place:bithynia", "in": "lat"},
+    {"loc": "1", "surface": "company of tax-farmers in Bithynia", "entity_id": "place:bithynia", "in": "eng"},
+    {"loc": "2", "surface": "huic Bithynicae societati", "entity_id": "place:bithynia", "in": "lat"},
+    {"loc": "2", "surface": "this Bithynian company", "entity_id": "place:bithynia", "in": "eng"},
+    {"loc": "2", "surface": "P. Rupilius P. f. Men.", "entity_id": "person:p-rupilius-bithynia", "in": "lat"},
+    {"loc": "2", "surface": "Publius Rupilius the son of Publius", "entity_id": "person:p-rupilius-bithynia", "in": "eng"},
+    {"loc": "3", "surface": "Cn. a Pupium", "entity_id": "person:cn-pupius", "in": "lat"},
+    {"loc": "3", "surface": "Cnaeus Pupius", "entity_id": "person:cn-pupius", "in": "eng"},
+    {"loc": "3", "surface": "quaestor habeat", "entity_id": "office:quaestor", "in": "lat"},
+    {"loc": "3", "surface": "quaestor's competence", "entity_id": "office:quaestor", "in": "eng"}
+  ]
+}

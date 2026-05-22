@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-08",
+  "category": "letters",
+  "title_latin": "Ad Familiares 11.8",
+  "title_english": "Ad Familiares 11.8",
+  "date": "-0043-01-24",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "eo tempore Polla tua misit ut ad te si quid vellem darem litterarum, cum quid scriberem non habebam ; omnia enim erant suspensa propter exspectationem legatorum, qui quid egissent nihildum nuntiabatur. haec tamen scribenda existimavi, primum senatum populumque R. de te laborare non solum salutis suae causa sed etiam dignitatis tuae. admirabilis enim est quaedam tui nominis caritas amorque in te singularis omnium civium ; ita enim sperant atque confidunt, ut antea rege sic hoc tempore regno te rem p. liberaturum.",
+      "eng": "Your Polla sent at the very moment when, if I had anything to say to you, I might give her a letter --- and I had nothing to write; for everything was in suspense, in expectation of the envoys, and not a word had yet come of what they had accomplished. This much, however, I thought worth writing: first, that the Senate and the Roman people are anxious on your behalf, not only for the sake of their own safety but for your standing as well. For there is a remarkable affection felt for your very name, and a love of you, singular among all your fellow citizens; for they hope and trust that, as before you freed the republic from a king, so now you will free it from kingship.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "Romae dilectus habetur totaque Italia, si hic dilectus appellandus est, cum ultro se offerunt omnes tantus ardor animos hominum occupavit desiderio libertatis odioque diutinae servitutis. de reliquis rebus a te iam exspectare litteras debemus quid ipse agas, quid noster Hirtius, quid Caesar meus ; quos spero brevi tempore societate victoriae tecum copulatos fore. reliquum est ut de me id scribam, quod te ex tuorum litteris et spero et malo cognoscere, me neque deesse ulla in re neque umquam defuturum dignitati tuae.",
+      "eng": "A levy is being held at Rome and throughout all Italy --- if it is to be called a levy, when men of their own accord offer themselves, so great is the ardor that has seized their hearts in longing for liberty and hatred of long servitude. As for the rest, we ought now to be waiting for letters from you: what you yourself are doing, what our Hirtius is doing, what my own Caesar --- whom I hope in a short while to see joined with you in the partnership of victory. It remains for me to write of myself what I would rather, and hope, you learn from the letters of your own people: that I am failing you in nothing, and never shall fail your standing.",
+      "notes": null
+    }
+  ]
+}

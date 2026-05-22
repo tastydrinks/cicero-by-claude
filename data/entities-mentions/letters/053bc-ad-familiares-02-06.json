@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-06",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CVRIONI",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Sex. Villium",
+      "entity_id": "person:sex-villius-milonis",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Milonis",
+      "entity_id": "person:milo",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Asia",
+      "entity_id": "place:asia-province",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "C. CVRIONI",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Sex. Villius",
+      "entity_id": "person:sex-villius-milonis",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "my Milo",
+      "entity_id": "person:milo",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Asia",
+      "entity_id": "place:asia-province",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Milonis consulatu",
+      "entity_id": "person:milo",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "consulatu",
+      "entity_id": "office:consul",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "tribunatu",
+      "entity_id": "office:tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Milo's consular campaign",
+      "entity_id": "person:milo",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "consular campaign",
+      "entity_id": "office:consul",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "tribunate",
+      "entity_id": "office:tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "T. Annio",
+      "entity_id": "person:milo",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Miloni",
+      "entity_id": "person:milo",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "T. Annius",
+      "entity_id": "person:milo",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Milo himself",
+      "entity_id": "person:milo",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-50",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ACILIO", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "ACILIO", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "1", "surface": "Brundisi", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "1", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "1", "surface": "M'. Curius", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "1", "surface": "M'. Curius", "entity_id": "person:mn-curius-patrensis", "in": "eng"},
+    {"loc": "1", "surface": "Patris", "entity_id": "place:patrae", "in": "lat"},
+    {"loc": "1", "surface": "Patrae", "entity_id": "place:patrae", "in": "eng"},
+    {"loc": "2", "surface": "Brundisi", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "2", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "2", "surface": "M'. Curium", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "2", "surface": "M'. Curius", "entity_id": "person:mn-curius-patrensis", "in": "eng"}
+  ]
+}

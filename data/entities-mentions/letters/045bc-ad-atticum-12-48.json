@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-48",
+  "mentions": [
+    {"loc": "1", "surface": "Hirti librum, ut facis, divulga", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "1", "surface": "de Philotimo idem et ego arbitrabar", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "1", "surface": "domum tuam pluris video futuram vicino Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "nos de Pilia et Attica certiores faciet", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "1", "surface": "nos de Pilia et Attica certiores faciet", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "ego te in Tusculano exspecto", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "quod Tironi statim te venturum scripsisti", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "Distribute Hirtius' book, as you are doing", "entity_id": "person:hirtius", "in": "eng"},
+    {"loc": "1", "surface": "About Philotimus I thought the same", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "1", "surface": "your house will be worth more with Caesar for a neighbour", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "He will give us news of Pilia and Attica", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "1", "surface": "He will give us news of Pilia and Attica", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "1", "surface": "I am expecting you at the Tusculanum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "you wrote Tiro that you would come at once", "entity_id": "person:tiro", "in": "eng"}
+  ]
+}

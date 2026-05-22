@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "He has been ordered to lead the cavalry from Ambracia through Thessaly",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "Young Marcus Cicero was serving as a cavalry officer under Brutus in Greece; Ambracia was a port city in Epirus, and the route through Thessaly led northward into Macedonia where Brutus was concentrating his army."
+    },
+    {
+      "loc": "2",
+      "anchor": "Glyco, the physician of Pansa",
+      "entity_id": "person:glyco-physician",
+      "note": "Glyco was the personal physician who attended Gaius Vibius Pansa as he lay dying after the battle of Forum Gallorum (April 43 BC); rumours circulated — apparently fomented by partisans of Octavian — that he had poisoned his patient."
+    },
+    {
+      "loc": "2",
+      "anchor": "is being held in custody as a parricide",
+      "entity_id": null,
+      "note": "\"Parricide\" (parricidium) in Roman law covered not only killing a parent but any murder of a person in a position of quasi-paternal authority; a physician accused of killing his patient could be charged under this heading."
+    },
+    {
+      "loc": "3",
+      "anchor": "Satrius, the lieutenant of C. Trebonius",
+      "entity_id": "person:c-trebonius",
+      "note": "Gaius Trebonius, one of the Liberators (consul 45 BC), was murdered by Dolabella at Smyrna in early 43 BC; the dispatch apparently brought earlier intelligence of Dolabella's defeat in Asia, which Trebonius's surviving lieutenants relayed westward."
+    },
+    {
+      "loc": "3",
+      "anchor": "Dolabella has been cut down and put to flight",
+      "entity_id": "person:dolabella",
+      "note": "This preliminary report of Dolabella's defeat proved premature or partial; he was not definitively cornered until later in 43 BC, when he was besieged at Laodicea by Cassius and took his own life."
+    },
+    {
+      "loc": "4",
+      "anchor": "19 May, from camp at the foot of Candavia",
+      "entity_id": null,
+      "note": "The Candavian range (modern Albanian highlands) lies on the Via Egnatia east of Dyrrachium; Brutus's army was moving eastward through Epirus and Macedonia, and this dateline places him on the Adriatic side of that mountain barrier."
+    }
+  ]
+}

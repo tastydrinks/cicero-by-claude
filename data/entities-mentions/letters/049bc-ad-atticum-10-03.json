@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-03",
+  "mentions": [
+    {"loc": "1", "surface": "urbem reliquisset", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "in ipsa Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "1", "surface": "ad Pompeium", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "et ad consules", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "ex senatus consulto", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "ego in Arcano opperior", "entity_id": "place:arcanum", "in": "lat"},
+    {"loc": "1", "surface": "in what state he had left the City", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "in Italy itself", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "1", "surface": "whether any envoys to Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "and to the consuls", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "had been sent by decree of the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "I am waiting at Arcanum", "entity_id": "place:arcanum", "in": "eng"}
+  ]
+}

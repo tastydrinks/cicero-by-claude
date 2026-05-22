@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Sex. Villius, a close friend of my Milo",
+      "entity_id": "person:sex-villius-milonis",
+      "note": "An otherwise obscure figure, named only here; Cicero uses him as a courier because he is personally trusted by Milo, whose candidacy is the whole point of the letter. The phrase 'my Milo' (Milonis mei) signals the depth of personal loyalty Cicero feels."
+    },
+    {
+      "loc": "1",
+      "anchor": "set out from Asia on the road to Rome",
+      "entity_id": "place:asia-province",
+      "note": "Curio had been in the eastern provinces, probably on quaestorian or propraetorian business; Cicero writes before Curio has reached Italy, anxious that the letter arrive while there is still time to influence the consular elections."
+    },
+    {
+      "loc": "1",
+      "anchor": "a hard thing for a man of any shame to ask anything large from one whom he reckons himself to have served well",
+      "note": "Cicero is alluding to the network of mutual obligation (officium, beneficium, gratia) that governed Roman political life: to ask a favour of someone you have already benefited risks looking like you are calling in a debt rather than making a free request."
+    },
+    {
+      "loc": "3",
+      "anchor": "Milo's consular campaign",
+      "entity_id": "person:milo",
+      "note": "T. Annius Milo, tribune 57 BC and architect of Cicero's recall from exile, was standing for the consulship of 52 BC; his candidacy was ultimately destroyed by his killing of Clodius in January 52, after which Cicero's defence (Pro Milone) also failed."
+    },
+    {
+      "loc": "3",
+      "anchor": "the magnificence of his games and the openhandedness of his nature",
+      "entity_id": "person:milo",
+      "note": "Roman candidates routinely cultivated popular favour through lavish gladiatorial shows and beast-hunts staged during their tenure as aedile; Milo had spent ruinously on games, putting himself deeply in debt to finance the goodwill Cicero here describes."
+    },
+    {
+      "loc": "4",
+      "anchor": "a leader, a sponsor, and what I might call the steersman or pilot of the winds",
+      "note": "Cicero asks Curio to act as the missing dux et auctor — the prominent figure who will publicly and visibly back Milo's canvass, giving it momentum and respectability that Cicero's own support alone cannot supply."
+    },
+    {
+      "loc": "4",
+      "anchor": "in my fame whom I had in my preservation",
+      "note": "Cicero recalls that Curio (or his father's connections) played a role in supporting his return from exile in 57 BC (salus = rescue/preservation); he promises an equal return of public recognition (laus/fama) if Curio now helps Milo."
+    }
+  ]
+}

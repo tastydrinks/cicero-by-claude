@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-21",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "TORANIO",
+      "entity_id": "person:toranius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Domitii",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Lentuli",
+      "entity_id": "person:lentulus-crus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "TORANIO",
+      "entity_id": "person:toranius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the Domitii",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Lentuli",
+      "entity_id": "person:lentulus-crus",
+      "in": "eng"
+    }
+  ]
+}

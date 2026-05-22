@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-22",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "our little Pulcher",
+      "entity_id": "person:clodius",
+      "note": "Pulchellus, a contemptuous diminutive of P. Clodius Pulcher's cognomen --- \"little Pulcher.\" Cicero's habitual sneering nickname for his enemy, who was about to enter his tribunate (December 59 BC) and would drive Cicero into exile."
+    },
+    {
+      "loc": "2",
+      "anchor": "armed by allowing him to be made a plebeian",
+      "entity_id": "person:clodius",
+      "note": "Clodius, a patrician, could only hold the tribunate after a transitio ad plebem, his adoption into a plebeian family. Pompey and Caesar had permitted this in 59 BC; Pompey now feels honour-bound, having armed Clodius, to restrain him from attacking Cicero."
+    },
+    {
+      "loc": "5",
+      "anchor": "through Ox-Eyed Hera",
+      "entity_id": "person:clodia",
+      "note": "A code-name (boopis, Homer's epithet for the goddess Hera) for Clodia, the notorious sister of Clodius and wife of Metellus Celer. Cicero suggests Atticus could learn the conspirators' real intentions through her."
+    },
+    {
+      "loc": "7",
+      "anchor": "the books of Alexander",
+      "entity_id": "person:alexander-ephesius",
+      "note": "Alexander of Ephesus (\"Alexander Lychnus\"), a geographer and didactic poet whose verse works Atticus had lent Cicero. Cicero returns them with the verdict: a careless man and no good poet, though not useless."
+    }
+  ]
+}

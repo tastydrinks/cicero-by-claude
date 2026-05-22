@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-25",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the Liberalia",
+      "entity_id": "festival:liberalia",
+      "note": "The Liberalia, festival of Liber (Bacchus) on 17 March, the day on which Roman boys traditionally took the toga virilis; here simply a calendar date."
+    },
+    {
+      "loc": "1",
+      "anchor": "On the Quinquatrus",
+      "entity_id": "festival:quinquatrus",
+      "note": "The Quinquatrus, festival of Minerva on 19 March; Cicero plays on the coincidence of pleading Cornificius's case on Minerva's own day."
+    },
+    {
+      "loc": "1",
+      "anchor": "our Minerva, guardian of the city, whom a whirlwind had toppled, should be restored",
+      "entity_id": "god:minerva",
+      "note": "A statue of Minerva (Minerva Custos Urbis) that Cicero himself had dedicated on the Capitol before going into exile in 58 BC; it had been thrown down by a storm, and the Senate now voted its restoration."
+    },
+    {
+      "loc": "1",
+      "anchor": "the discomfiture of the Minotaur --- that is, of Calvisius and Taurus",
+      "entity_id": null,
+      "note": "A learned pun: Minos plus Taurus yields the Minotaur, so Cicero compounds the names of the two opponents Calvisius and (Statilius) Taurus into the mythical monster."
+    },
+    {
+      "loc": "1",
+      "anchor": "A complimentary decree was passed about you",
+      "entity_id": null,
+      "note": "A senatus consultum honorificum, a formal resolution of the Senate commending Cornificius's conduct as governor of Africa."
+    },
+    {
+      "loc": "2",
+      "anchor": "on the thirteenth day before the Kalends of January, laid the foundations of the state",
+      "entity_id": null,
+      "note": "20 December 44 BC, the date of Cicero's Third and Fourth Philippics, when he rallied the Senate and people against Antony; he reckons it the founding moment of the republican resistance."
+    },
+    {
+      "loc": "3",
+      "anchor": "when the Etesian winds, like good citizens, refused to escort me",
+      "entity_id": null,
+      "note": "The Etesians are the steady summer north winds of the Aegean; their being contrary to a southbound voyage to Greece let Cicero (jokingly crediting their patriotism) be driven back to Italy in 44 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "carried me back to your fellow-tribesmen at Regium",
+      "entity_id": "place:regium-lepidi",
+      "note": "Regium (Rhegium, modern Reggio Calabria) on the toe of Italy; Cicero notes that its people shared Cornificius's voting-tribe."
+    },
+    {
+      "loc": "4",
+      "anchor": "as Terence says",
+      "entity_id": "person:terence",
+      "note": "Cicero quotes the comic playwright Terence (the phrase \"this day brings a different life, demands different ways\" echoes a line of his comedy), invoking literary authority for a change of conduct."
+    },
+    {
+      "loc": "4",
+      "anchor": "embark with us --- and indeed to the stern",
+      "entity_id": null,
+      "note": "The ship-of-state metaphor: the stern (puppis) is the helmsman's post, so Cicero invites Cornificius not merely aboard but to share in steering the republic."
+    }
+  ]
+}

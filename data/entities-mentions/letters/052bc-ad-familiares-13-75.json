@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-75",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "T. TITIO T. F. LEG.", "entity_id": "person:t-titius-legatus", "in": "lat"},
+    {"loc": "1", "surface": "T. TITIO T. F. LEG.", "entity_id": "person:t-titius-legatus", "in": "eng"},
+    {"loc": "1", "surface": "C. Avianio Flacco", "entity_id": "person:c-avianius-flaccus", "in": "lat"},
+    {"loc": "1", "surface": "C. Avianius Flaccus", "entity_id": "person:c-avianius-flaccus", "in": "eng"},
+    {"loc": "2", "surface": "Avianio", "entity_id": "person:c-avianius-flaccus", "in": "lat"},
+    {"loc": "2", "surface": "Avianius", "entity_id": "person:c-avianius-flaccus", "in": "eng"},
+    {"loc": "2", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"}
+  ]
+}

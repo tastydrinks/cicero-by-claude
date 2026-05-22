@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Asclapo, a physician of Patrae",
+      "entity_id": "person:asclapo-patrensis",
+      "note": "Asclapo (Greek Asklapon, a name derived from the healing god Asclepius) is otherwise unknown; he was a Greek physician at Patrae (modern Patras), a Roman colony in Achaea, who had attended members of Cicero's household and won Cicero's personal confidence."
+    },
+    {
+      "loc": "1",
+      "anchor": "of which I have had experience in the illnesses of my own people",
+      "entity_id": null,
+      "note": "\"My own people\" (meorum) refers to Cicero's familia, the extended household of family members and slaves under his authority; Roman upper-class households routinely retained or patronised Greek physicians, medicine being a predominantly Greek profession in Rome."
+    },
+    {
+      "loc": "1",
+      "anchor": "he has satisfied me by his knowledge no less than by his loyalty and good will",
+      "entity_id": null,
+      "note": "Cicero singles out fides (loyalty/trustworthiness) alongside scientia (medical knowledge): for ancient patients, a physician's ethical reliability was as significant as his technical skill, particularly since doctors had intimate access to a household."
+    }
+  ]
+}

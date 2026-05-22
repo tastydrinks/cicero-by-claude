@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO CORNIFICIO S.",
+      "entity_id": "person:q-cornificius",
+      "note": "The plainest of Cicero's salutations to Cornificius: S. is salutem (dicit), \"sends greetings\". Unlike 12.17 and 12.18 it omits CONLEGAE."
+    },
+    {
+      "loc": "1",
+      "anchor": "Caesar has assigned the province of Syria to you",
+      "entity_id": "place:syria",
+      "note": "As dictator, Caesar allotted provincial commands directly; here he sends Cornificius to Syria to deal with the revolt of Caecilius Bassus and the Parthian threat on the eastern frontier."
+    },
+    {
+      "loc": "2",
+      "anchor": "suspicion of a Parthian war",
+      "entity_id": "place:parthia",
+      "note": "The Parthian empire beyond the Euphrates was Rome's great eastern rival; after the disaster at Carrhae (53 BC) a Parthian invasion of Syria was a standing danger for any governor there."
+    },
+    {
+      "loc": "2",
+      "anchor": "the strategy of M. Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "note": "M. Calpurnius Bibulus, Caesar's consular colleague of 59 BC, governed Syria in 51–50 BC and, lacking forces, simply shut himself up in a fortified town until the raiding Parthians withdrew; Cicero recommends the same Fabian caution."
+    }
+  ]
+}

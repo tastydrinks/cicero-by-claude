@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-01",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "APPIO", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "1", "surface": "IMP.", "entity_id": "office:imperator", "in": "lat"},
+    {"loc": "1", "surface": "Phania", "entity_id": "person:phania", "in": "lat"},
+    {"loc": "1", "surface": "Phania", "entity_id": "person:phania", "in": "lat"},
+    {"loc": "1", "surface": "Minerva", "entity_id": "god:minerva", "in": "lat"},
+    {"loc": "1", "surface": "*polia/da", "entity_id": "god:minerva", "in": "lat"},
+    {"loc": "1", "surface": "*)appia/da", "entity_id": "god:minerva", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "APPIO", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "1", "surface": "IMP.", "entity_id": "office:imperator", "in": "eng"},
+    {"loc": "1", "surface": "Phania", "entity_id": "person:phania", "in": "eng"},
+    {"loc": "1", "surface": "Phania", "entity_id": "person:phania", "in": "eng"},
+    {"loc": "1", "surface": "Minerva", "entity_id": "god:minerva", "in": "eng"},
+    {"loc": "1", "surface": "[Greek: Polias]", "entity_id": "god:minerva", "in": "eng"},
+    {"loc": "1", "surface": "[Greek: Appias]", "entity_id": "god:minerva", "in": "eng"},
+    {"loc": "2", "surface": "Cilix", "entity_id": "person:cilix-freedman", "in": "lat"},
+    {"loc": "2", "surface": "Phaniam", "entity_id": "person:phania", "in": "lat"},
+    {"loc": "2", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Cilix", "entity_id": "person:cilix-freedman", "in": "eng"},
+    {"loc": "2", "surface": "Phania", "entity_id": "person:phania", "in": "eng"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "L. Valerium", "entity_id": "person:l-valerius-jurisconsult", "in": "lat"},
+    {"loc": "3", "surface": "L. Valerius", "entity_id": "person:l-valerius-jurisconsult", "in": "eng"}
+  ]
+}

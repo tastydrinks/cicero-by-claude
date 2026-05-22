@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-57",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "THERMO PROPR.", "entity_id": "person:q-minucius-thermus-pr", "in": "lat"},
+    {"loc": "1", "surface": "THERMO PROPR.", "entity_id": "person:q-minucius-thermus-pr", "in": "eng"},
+    {"loc": "1", "surface": "Syria", "entity_id": "place:syria", "in": "lat"},
+    {"loc": "1", "surface": "Syria", "entity_id": "place:syria", "in": "eng"},
+    {"loc": "1", "surface": "M. Anneium legatum", "entity_id": "person:m-anneius", "in": "lat"},
+    {"loc": "1", "surface": "M. Anneius my legate", "entity_id": "person:m-anneius", "in": "eng"},
+    {"loc": "1", "surface": "Ciliciam", "entity_id": "place:cilicia", "in": "lat"},
+    {"loc": "1", "surface": "Cilicia", "entity_id": "place:cilicia", "in": "eng"},
+    {"loc": "1", "surface": "M. Anneius", "entity_id": "person:m-anneius", "in": "lat"},
+    {"loc": "1", "surface": "M. Anneius", "entity_id": "person:m-anneius", "in": "eng"},
+    {"loc": "2", "surface": "populo Sardiano", "entity_id": "place:sardis", "in": "lat"},
+    {"loc": "2", "surface": "the people of Sardis", "entity_id": "place:sardis", "in": "eng"},
+    {"loc": "2", "surface": "Ephesi", "entity_id": "place:ephesus", "in": "lat"},
+    {"loc": "2", "surface": "Ephesus", "entity_id": "place:ephesus", "in": "eng"},
+    {"loc": "2", "surface": "M. Annei", "entity_id": "person:m-anneius", "in": "lat"},
+    {"loc": "2", "surface": "M. Anneius's", "entity_id": "person:m-anneius", "in": "eng"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-03",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CASSIO", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "CASSIO", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "tuus amicus", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Your friend", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "rostris", "entity_id": "place:rostra", "in": "lat"},
+    {"loc": "1", "surface": "the Rostra", "entity_id": "place:rostra", "in": "eng"},
+    {"loc": "1", "surface": "PARENTI OPTIME MERITO", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "TO A PARENT MOST WELL-DESERVING", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "ille furiosus", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "that maniac", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar's death", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Cannutio", "entity_id": "person:ti-cannutius", "in": "lat"},
+    {"loc": "2", "surface": "Cannutius", "entity_id": "person:ti-cannutius", "in": "eng"},
+    {"loc": "2", "surface": "Cannutius", "entity_id": "person:ti-cannutius", "in": "lat"},
+    {"loc": "2", "surface": "Cannutius", "entity_id": "person:ti-cannutius", "in": "eng"}
+  ]
+}

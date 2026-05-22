@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-23",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO SERVIO S.",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "The letter-heading: \"Cicero to Servius, greetings.\" The recipient is Servius Sulpicius Rufus (cos. 51 BC), the eminent jurist serving as proconsul of Achaea in 46–45 BC. S. = salutem (dicit), the standard epistolary salutation."
+    },
+    {
+      "loc": "1",
+      "anchor": "your friend and tribesman",
+      "entity_id": "person:l-cossinius",
+      "note": "Tribesman (tribulis) means a fellow member of the same voting tribe (tribus); Cossinius and Servius Sulpicius were enrolled in the same of Rome's thirty-five tribes, which created a recognised bond of civic solidarity in Roman social custom."
+    },
+    {
+      "loc": "1",
+      "anchor": "his freedman L. Cossinius Anchialus",
+      "entity_id": "person:l-cossinius-anchialus",
+      "note": "A Roman freedman took his patron's praenomen and nomen on manumission; L. Cossinius Anchialus therefore signals that Anchialus was enslaved by and then freed by L. Cossinius. His Greek cognomen Anchialus (from anchialos, \"near the sea\") is typical of freedmen and slaves of eastern Mediterranean origin."
+    },
+    {
+      "loc": "2",
+      "anchor": "a man of the highest integrity, civility, and attentiveness",
+      "entity_id": null,
+      "note": "The triad probitas (integrity), humanitas (civility, cultivation), and observantia (attentiveness, respect shown to social superiors) is a standard formula in Cicero's letters of recommendation, reflecting the virtues expected of a freedman agent operating in a patron's name in the provinces."
+    }
+  ]
+}

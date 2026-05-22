@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Serapion's book",
+      "entity_id": "person:serapion",
+      "note": "Serapion of Antioch, a Greek geographer whose technical treatise Atticus had sent. Cicero's quip that he understands scarcely a thousandth part of it is mock-modesty about its mathematical difficulty."
+    },
+    {
+      "loc": "2",
+      "anchor": "is going to Tigranes",
+      "entity_id": "person:tigranes-armenia",
+      "note": "Tigranes II, king of Armenia, defeated by Pompey and reduced to a client kingdom. Clodius was reportedly to be sent east on an embassy to him; Cicero mocks the mission throughout."
+    },
+    {
+      "loc": "2",
+      "anchor": "our free embassy",
+      "entity_id": null,
+      "note": "A libera legatio (\"free embassy\"): a senator's grant of the status and privileges of an ambassador to travel on private business at public expense, without an actual diplomatic charge. Cicero held one open for himself as a means of leaving Italy honourably."
+    },
+    {
+      "loc": "2",
+      "anchor": "what kind of priest of the Bona Dea he is going to be",
+      "entity_id": "god:bona-dea",
+      "note": "A barbed reference to Clodius, who in 62 BC had profaned the women-only December rites of the Bona Dea (the \"Good Goddess\") by infiltrating them dressed as a woman. Cicero's testimony at the resulting sacrilege trial earned Clodius's lasting enmity."
+    },
+    {
+      "loc": "5",
+      "anchor": "the Dodonaean oak",
+      "entity_id": "place:dodona",
+      "note": "The sacred oak of Zeus at Dodona in Epirus, seat of the oldest Greek oracle, whose rustling leaves were read for prophecy. Cicero jokes that Terentia's wooded estate is so like Epirus that only the famous oak is missing."
+    },
+    {
+      "loc": "7",
+      "anchor": "the wrestling-school on the Palatine",
+      "entity_id": "place:palatium",
+      "note": "A palaestra (Greek-style exercise ground) attached to Cicero's house on the Palatine, then under construction or repair. The collapsing wall (\"the wall\") of section 7 borders this works."
+    },
+    {
+      "loc": "7",
+      "anchor": "call in Vettius",
+      "entity_id": "person:vettius-2-4",
+      "note": "A Vettius called in as a practical adviser or surveyor about the building wall; the context (a wall, a builder's judgement) does not obviously fit L. Vettius the political informer of 59 BC, so he is kept as a separate, uncertain figure."
+    }
+  ]
+}

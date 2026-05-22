@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-07",
+  "mentions": [
+    {"loc": "1", "surface": "eosque Eroti dedi", "entity_id": "person:eros-turius", "in": "lat"},
+    {"loc": "1", "surface": "in iis de Cicerone", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "velle Hispaniam", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "1", "surface": "cum a fratre familiaritate et omni gratia vinceretur", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "and given to Eros", "entity_id": "person:eros-turius", "in": "eng"},
+    {"loc": "1", "surface": "on the matter of young Cicero", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "That he wants Spain", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "1", "surface": "outdone in intimacy and in every kind of favour by his cousin", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "de Balbo et in codicillis scripseram", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "2", "surface": "Dolabella etiam mecum", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "2", "surface": "About Balbus I had written in the notes", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "2", "surface": "with Dolabella too", "entity_id": "person:dolabella", "in": "eng"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "my little lodge at Sinuessa",
+      "entity_id": "place:sinuessa",
+      "note": "Sinuessa, a town on the Via Appia at the Latium-Campania border, where Cicero kept a modest staging-house (deversoriolum) for breaking the journey south; Cornificius had slighted it by passing it by."
+    },
+    {
+      "loc": "1",
+      "anchor": "at the Cumanum and the Pompeianum",
+      "entity_id": "place:cumae",
+      "note": "Cicero's seaside villas near Cumae and at Pompeii, two of the several country properties on the Bay of Naples where he wrote and entertained; he jokingly demands that Cornificius leave a memorial of a visit there to placate the snubbed Sinuessan lodge."
+    },
+    {
+      "loc": "1",
+      "anchor": "make her a record of your visit",
+      "entity_id": null,
+      "note": "Cicero glosses the demand with the Greek hypomnematismon, \"a memorandum\" or written record, playfully treating the slighted little villa as a person owed a guest-book entry."
+    },
+    {
+      "loc": "1",
+      "anchor": "This I scribbled while in the Senate.",
+      "entity_id": "institution:senate",
+      "note": "A throwaway sign-off: Cicero dashed off the note during a sitting of the Senate, an aside that conveys both haste and the informality of his friendship with Cornificius."
+    }
+  ]
+}

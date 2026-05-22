@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-37",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the debt owed by Xenon",
+      "entity_id": "person:xeno-atheniensis",
+      "note": "Xeno (Xenon) of Athens, an agent who handled funds for Cicero, especially the allowance of his son studying there; the \"nomen\" is the account or debt to be settled. The Epirote affair concerns property and money in Epirus, where Atticus held large estates."
+    },
+    {
+      "loc": "1",
+      "anchor": "Balbus the younger",
+      "entity_id": "person:cornelius-balbus-younger",
+      "note": "The nephew of L. Cornelius Balbus the elder (Caesar's chief financial agent), distinguished here by \"the younger\" from his more prominent uncle, who reappears in section 4."
+    },
+    {
+      "loc": "2",
+      "anchor": "Hirtius has been quarrelling",
+      "entity_id": "person:hirtius",
+      "note": "Aulus Hirtius, a literary Caesarian (later consul of 43 BC) who continued Caesar's commentaries; here he is reported feuding at dinner parties over Cicero's loyalty to Caesar."
+    },
+    {
+      "loc": "2",
+      "anchor": "the king knows",
+      "entity_id": "person:caesar",
+      "note": "\"The king\" (rex) is Cicero's bitter shorthand for Caesar the dictator; the word carried for Romans the deepest opprobrium, and Cicero uses it to mark Caesar's autocracy."
+    },
+    {
+      "loc": "3",
+      "anchor": "the eulogy of Porcia",
+      "entity_id": "person:porcia-bruti",
+      "note": "Porcia, daughter of Cato Uticensis and wife of M. Brutus, had recently died; Cicero composed a laudatio (funeral eulogy) for her, copies of which he is circulating to her kinsmen."
+    },
+    {
+      "loc": "3",
+      "anchor": "to Domitius",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "note": "Cn. Domitius Ahenobarbus the younger, Porcia's nephew (his mother was Cato's sister) and a future associate of Brutus and Cassius; a natural recipient of the eulogy of his kinswoman. Identification is by context, the standard reading of this passage."
+    },
+    {
+      "loc": "4",
+      "anchor": "advertising the auction",
+      "entity_id": null,
+      "note": "A Roman public auction (auctio) was announced in advance by a posted bill (proscriptio) listing the goods and date; Cicero is arranging the sale of property, with Balbus and the jurist Ofilius preparing the inventory."
+    },
+    {
+      "loc": "4",
+      "anchor": "Offilius",
+      "entity_id": "person:ofilius",
+      "note": "Aulus Ofilius (Cicero's spelling \"Offilius\"), an eminent jurist, pupil of Servius Sulpicius and friend of Caesar, here helping draw up the auction inventory."
+    }
+  ]
+}

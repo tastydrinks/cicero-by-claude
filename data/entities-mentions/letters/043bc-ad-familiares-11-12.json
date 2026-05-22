@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-12",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "D. BRVTO IMP. COS. DES.", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTO IMP. COS. DES.", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "COS. DES.", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "COS. DES.", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "Flacco Volumnio", "entity_id": "person:flaccus-volumnius", "in": "lat"},
+    {"loc": "1", "surface": "Flaccus Volumnius", "entity_id": "person:flaccus-volumnius", "in": "eng"},
+    {"loc": "1", "surface": "T. Vibi", "entity_id": "person:t-vibius", "in": "lat"},
+    {"loc": "1", "surface": "T. Vibius", "entity_id": "person:t-vibius", "in": "eng"},
+    {"loc": "1", "surface": "Lupus", "entity_id": "person:p-rutilius-lupus", "in": "lat"},
+    {"loc": "1", "surface": "Lupus", "entity_id": "person:p-rutilius-lupus", "in": "eng"},
+    {"loc": "1", "surface": "Graecei", "entity_id": "person:graeceius", "in": "lat"},
+    {"loc": "1", "surface": "Graeceius", "entity_id": "person:graeceius", "in": "eng"},
+    {"loc": "1", "surface": "Antonius", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Antonius", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Antonium", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Antonius", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "Graeceio", "entity_id": "person:graeceius", "in": "lat"},
+    {"loc": "2", "surface": "Graeceius", "entity_id": "person:graeceius", "in": "eng"},
+    {"loc": "2", "surface": "Mutina", "entity_id": "place:mutina", "in": "lat"},
+    {"loc": "2", "surface": "Mutina", "entity_id": "place:mutina", "in": "eng"},
+    {"loc": "2", "surface": "Antonium", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "Antonium", "entity_id": "person:antony", "in": "eng"}
+  ]
+}

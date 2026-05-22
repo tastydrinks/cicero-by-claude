@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-19",
+  "mentions": [
+    {"loc": "1", "surface": "Apellae", "entity_id": "person:apella-libertus", "in": "lat"},
+    {"loc": "1", "surface": "Roma", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Pompeium", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Arimino", "entity_id": "place:ariminum", "in": "lat"},
+    {"loc": "1", "surface": "Epirum", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "1", "surface": "Epiro", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "1", "surface": "Philotimum", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "1", "surface": "Messallam", "entity_id": "person:m-valerius-messalla-rufus", "in": "lat"},
+    {"loc": "1", "surface": "Apella's courier", "entity_id": "person:apella-libertus", "in": "eng"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "Ariminum", "entity_id": "place:ariminum", "in": "eng"},
+    {"loc": "1", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "1", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "1", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "1", "surface": "Messalla", "entity_id": "person:m-valerius-messalla-rufus", "in": "eng"},
+    {"loc": "2", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "Patrone", "entity_id": "person:patro-epicurean", "in": "lat"},
+    {"loc": "3", "surface": "Melita", "entity_id": "place:melite-deme", "in": "lat"},
+    {"loc": "3", "surface": "Patro", "entity_id": "person:patro-epicurean", "in": "eng"},
+    {"loc": "3", "surface": "Melita", "entity_id": "place:melite-deme", "in": "eng"}
+  ]
+}

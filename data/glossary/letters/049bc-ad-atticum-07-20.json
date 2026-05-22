@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "these consuls of ours",
+      "entity_id": "office:consul",
+      "note": "The consuls of 49 BC, C. Claudius Marcellus and L. Cornelius Lentulus Crus, charged with raising and leading the Pompeian levy in Italy; Cicero's contempt is for their failure to muster any real force against Caesar."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the day before the Nones",
+      "entity_id": null,
+      "note": "The Romans counted dates backward from three fixed points each month: the Kalends (1st), the Nones (5th or 7th), and the Ides (13th or 15th). The day before the Nones of February (Nones = 5th) is 4 February."
+    },
+    {
+      "loc": "1",
+      "anchor": "the cohorts of the Appian legions",
+      "entity_id": null,
+      "note": "Two legions handed over to Pompey by Caesar in 50 BC under the pretext of a Parthian war (named for the consul Ap. Claudius or for the road by which they came); their loyalty to Pompey was doubtful, having served long under Caesar."
+    },
+    {
+      "loc": "2",
+      "anchor": "Phalaris or Pisistratus",
+      "entity_id": null,
+      "note": "Cicero weighs which tyrant Caesar will resemble: Phalaris of Acragas, byword for cruelty (the brazen bull), or Pisistratus of Athens, the comparatively mild usurper who kept the city's laws."
+    }
+  ]
+}

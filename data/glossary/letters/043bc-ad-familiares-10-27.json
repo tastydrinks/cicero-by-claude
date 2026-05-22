@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-27",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "you did not render thanks to the Senate",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "After the victory at Mutina the Senate had voted Lepidus honours (including a gilded equestrian statue); Cicero reproaches him for failing to send the customary formal letter of thanks (gratiarum actio) for them."
+    },
+    {
+      "loc": "1",
+      "anchor": "the reconciliation of peace between citizens",
+      "entity_id": null,
+      "note": "Lepidus was offering to mediate a settlement with Antony; Cicero warns that any \"peace\" restoring Antony to power would be servitude, not concord. Within weeks Lepidus instead joined his army to Antony's."
+    },
+    {
+      "loc": "1",
+      "anchor": "a ruined man into possession of an utterly intolerable despotism",
+      "entity_id": "person:antony",
+      "note": "The \"ruined man\" (perditus homo) is Antony, whom Cicero casts as a desperate would-be tyrant; restoring him to power would mean dominatio (autocratic mastery) over the state."
+    }
+  ]
+}

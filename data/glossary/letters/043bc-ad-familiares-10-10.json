@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO PLANCO.",
+      "entity_id": "person:cicero",
+      "note": "Cicero writes to Plancus; the salutation reverses the usual form (sender named first) since Cicero, the more distinguished man, names himself before the recipient by convention."
+    },
+    {
+      "loc": "1",
+      "anchor": "the entire fortune of the state is being decided in a single battle",
+      "entity_id": null,
+      "note": "Written ca. 30 March 43 BC, this refers to the expected engagement at Mutina; the battles of Forum Gallorum and Mutina were fought on 14 and 21 April 43 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "if we had a consul at Rome",
+      "entity_id": "office:consul",
+      "note": "Both consuls of 43 BC — Hirtius and Pansa — were with the army at Mutina; in their absence the urban praetor held consular authority at Rome by the custom of the ancestors (mos maiorum)."
+    },
+    {
+      "loc": "2",
+      "anchor": "stand by your colleague",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Plancus and Lepidus both held proconsular commands in Gaul and Spain respectively, making them formal colleagues (conlegae) in imperium; Cicero urges Plancus to keep Lepidus loyal to the Senate."
+    },
+    {
+      "loc": "2",
+      "anchor": "The third day before the Kalends of April",
+      "entity_id": null,
+      "note": "Ante diem tertium Kalendas Apriles = 30 March 43 BC. The letter was dispatched to Plancus while he was still north of the Rhone."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-33",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "declamations",
+      "entity_id": null,
+      "note": "Declamationes: rhetorical set-piece speeches delivered as practice on fictitious themes. Under Caesar's dictatorship Cicero, shut out of the courts, kept his oratory in trim by declaiming privately, here with Hirtius as a partner."
+    },
+    {
+      "loc": "1",
+      "anchor": "Hirtius",
+      "entity_id": "person:hirtius",
+      "note": "Aulus Hirtius, a Caesarian officer and writer (he completed the eighth book of Caesar's Gallic War); in 46 BC he was Cicero's declamation partner and dinner companion. He would be consul in 43 BC and die at Mutina."
+    },
+    {
+      "loc": "1",
+      "anchor": "as Philoctetes says in Accius",
+      "entity_id": "person:accius",
+      "note": "Lucius Accius (c. 170 to c. 86 BC) was Rome's leading tragic poet; Cicero quotes two lines from his lost Philoctetes, in which the marooned hero laments that his weapons are wasted on game birds (a \"feathered body\") rather than enemies. Cicero applies the image to his own eloquence wasted in idleness."
+    },
+    {
+      "loc": "2",
+      "anchor": "to the Forum and to the Senate House",
+      "entity_id": null,
+      "note": "The Forum Romanum and the Curia (Senate House) stand for Cicero's whole public career as advocate and senator; bidding them \"a hearty farewell\" voices his retreat into private literary study under the dictatorship."
+    },
+    {
+      "loc": "2",
+      "anchor": "your Cassius and our Dolabella",
+      "entity_id": null,
+      "note": "C. Cassius Longinus (the future tyrannicide) and P. Cornelius Dolabella, Cicero's son-in-law, both then dabbled in Epicurean philosophy and rhetoric; Cicero counts them, with Volumnius, as kindred spirits for the leisured studies he plans."
+    },
+    {
+      "loc": "2",
+      "anchor": "to lay aside at last the role",
+      "entity_id": null,
+      "note": "Latin persona, the actor's mask: Cicero figures his public career as a stage role he is ready to drop. The conceit, addressed to a connoisseur of the theatre and mime, fits the wit-letters' theatrical idiom."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-05",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CVRONI",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "C. CVRONI",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    }
+  ]
+}

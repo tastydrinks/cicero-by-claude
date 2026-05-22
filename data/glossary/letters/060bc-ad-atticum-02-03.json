@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the good news",
+      "entity_id": null,
+      "note": "Rendering the Greek euangelia, \"good tidings\" (the word later adopted by Christianity as \"gospel\"); Cicero opens with it half-mockingly to report a courtroom acquittal."
+    },
+    {
+      "loc": "1",
+      "anchor": "Valerius has been acquitted, with Hortensius defending",
+      "entity_id": "person:hortensius",
+      "note": "An obscure trial of 60-59 BC: a Valerius was acquitted with the great orator Q. Hortensius Hortalus as defence counsel. Cicero suggests the case was fixed (\"donated to the son of Aulus\")."
+    },
+    {
+      "loc": "1",
+      "anchor": "donated to the son of Aulus",
+      "entity_id": null,
+      "note": "\"The son of Aulus\" (Auli filius) is an unidentified figure to whom the verdict was reckoned a favor; the periphrasis names a man by his father's praenomen, a Roman shorthand. His identity is disputed."
+    },
+    {
+      "loc": "1",
+      "anchor": "Epicrates has been wanton",
+      "entity_id": null,
+      "note": "\"Epicrates\" (Greek, \"the powerful\") is a code-name in the Cicero-Atticus correspondence, taken by most editors to mean Pompey; \"wanton\" hints at some compromising softness. The foppish \"stockings and white-bound headbands\" reinforce the jibe."
+    },
+    {
+      "loc": "2",
+      "anchor": "know that you find fault with the",
+      "entity_id": "text:cyropaedia",
+      "note": "Xenophon's Cyropaedia, the idealized education of Cyrus the Great; Cicero jokes that his narrow villa windows follow its prescriptions. The pun runs into the next sentence, where \"Cyrus\" is his architect, not the Persian king."
+    },
+    {
+      "loc": "2",
+      "anchor": "Cyrus said that with broad apertures",
+      "entity_id": "person:cyrus-architectus",
+      "note": "Cyrus the architect (a Greek builder employed by Cicero and Atticus), punningly sharing the name of Xenophon's Cyrus; he advised that narrow windows framed the garden views more sweetly."
+    },
+    {
+      "loc": "2",
+      "anchor": "For if we saw by emanations",
+      "entity_id": null,
+      "note": "Cicero parodies optical theory: the Epicurean view that sight works by thin films (eidola) streaming off objects, versus the Stoic/Platonic view of visual rays (aktines) issuing from the eye. He sides jokingly with the ray-theory to defend his windows."
+    },
+    {
+      "loc": "3",
+      "anchor": "I argue Socratically on each side",
+      "entity_id": null,
+      "note": "The Socratic method of arguing both sides of a question (in utramque partem) before settling on the preferable view (Greek ten areskousan, \"the pleasing one\"); Cicero applies it to his own political dilemma."
+    },
+    {
+      "loc": "3",
+      "anchor": "we must bravely resist the agrarian law",
+      "entity_id": "law:lex-iulia-agraria-59bc",
+      "note": "Caesar's land-distribution bill of 59 BC; Cicero weighs three responses (resist, keep quiet, or help) as he decides how to position himself toward the consul and his coalition."
+    },
+    {
+      "loc": "3",
+      "anchor": "going off to Solonium or Antium",
+      "entity_id": "place:solonium",
+      "note": "Solonium was a district and estate near Lanuvium south of Rome, and Antium a coastal resort; both stand here for political withdrawal into private leisure."
+    },
+    {
+      "loc": "3",
+      "anchor": "I mean Balbus, Caesar's intimate",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus of Gades, Caesar's confidential agent and man of business, who came sounding out Cicero on Caesar's behalf; Cicero clarifies which \"Cornelius\" he means."
+    },
+    {
+      "loc": "3",
+      "anchor": "would give pains to join Crassus with Pompey",
+      "entity_id": "person:crassus",
+      "note": "An early signal of the coalition (the so-called First Triumvirate) of Caesar, Pompey, and Crassus, who had long been at odds; Balbus reports Caesar's intent to reconcile them."
+    },
+    {
+      "loc": "4",
+      "anchor": "my own concluding sentence in book three",
+      "entity_id": "text:de-consulatu-suo",
+      "note": "The closing lines of book 3 of Cicero's verse epic De Consulatu Suo, in which the Muse Calliope counsels him to hold to the path of virtue and \"the praises of the good.\""
+    },
+    {
+      "loc": "4",
+      "anchor": "When this was set down for me by Calliope herself",
+      "entity_id": "god:calliope",
+      "note": "Calliope, the Muse of epic poetry, who in Cicero's De Consulatu Suo delivers the exhortation to political virtue; he treats her words as a binding personal oracle."
+    },
+    {
+      "loc": "4",
+      "anchor": "let us save these things for our walks at the Compitalia",
+      "entity_id": "festival:compitalia",
+      "note": "The Compitalia was a moveable Roman festival of the crossroads-gods (Lares Compitales), held in early January; Cicero proposes to talk politics with Atticus during the holiday strolls."
+    },
+    {
+      "loc": "4",
+      "anchor": "Bring me the book of Theophrastus",
+      "entity_id": "person:theophrastus",
+      "note": "Theophrastus of Eresus, Aristotle's successor as head of the Peripatetic school; Cicero asks Atticus to fetch one of his treatises from the library of his brother Quintus."
+    }
+  ]
+}

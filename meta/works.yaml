@@ -12092,19 +12092,23 @@
   title_latin: Ad Familiares 9.25
   title_english: Ad Familiares 9.25
   category: letters
-  date: -0046-07-01
-  date_precision: year_range
-  location_written: null
-  recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam9.shtml
+  date: -0050-02-13
+  date_precision: day
+  location_written: Laodiceae
+  recipient: PAETO
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam9.shtml
-  latin_file: latin/letters/046bc-ad-familiares-09-25.tex
-  english_file: english/letters/046bc-ad-familiares-09-25.tex
-  headnote_file: headnotes/letters/046bc-ad-familiares-09-25.tex
-  status: pending
-  notes: Letters chiefly to L. Papirius Paetus and M. Terentius Varro. Date assigned at book-level precision; exact dating
-    to be refined against Shackleton Bailey's chronological commentary or another standard reference.
-  date_range_end: -0044-12-31
+  latin_file: latin/letters/050bc-ad-familiares-09-25.tex
+  english_file: english/letters/050bc-ad-familiares-09-25.tex
+  headnote_file: headnotes/letters/050bc-ad-familiares-09-25.tex
+  status: drafted
+  notes: To L. Papirius Paetus, written from Laodicea during Cicero's Cilician
+    proconsulship. Despite its place in Book 9 (mostly the 46 BC Paetus/Varro
+    cluster), the Perseus dateline (Scr. Laudiceae post iii Id. Febr.; a. 704)
+    fixes it at ca. 13 February 50 BC --- the playful "supreme commander" letter
+    on Pyrrhus, Cineas, and Xenophon's Cyropaedia, with the Fadius inheritance
+    request. Date corrected from the -0046 book-level placeholder; file renamed
+    046bc- -> 050bc-.
 - id: ad-familiares-09-26
   title_latin: Ad Familiares 9.26
   title_english: Ad Familiares 9.26
@@ -12135,7 +12139,7 @@
   latin_file: latin/rhetoric/046bc-de-optimo-genere-oratorum.tex
   english_file: english/rhetoric/046bc-de-optimo-genere-oratorum.tex
   headnote_file: headnotes/rhetoric/046bc-de-optimo-genere-oratorum.tex
-  status: pending
+  status: drafted
   notes: Preface to Cicero's now-lost translations of Demosthenes' and Aeschines' speeches On the Crown.
 - id: paradoxa-stoicorum
   title_latin: Paradoxa Stoicorum
@@ -12149,7 +12153,7 @@
   latin_file: latin/philosophy/046bc-paradoxa-stoicorum.tex
   english_file: english/philosophy/046bc-paradoxa-stoicorum.tex
   headnote_file: headnotes/philosophy/046bc-paradoxa-stoicorum.tex
-  status: pending
+  status: drafted
   notes: Six brief essays expounding Stoic paradoxes for a Roman audience; dedicated to Brutus.
 - id: orator
   title_latin: Orator ad M. Brutum
@@ -12163,7 +12167,7 @@
   latin_file: latin/rhetoric/046bc-orator.tex
   english_file: english/rhetoric/046bc-orator.tex
   headnote_file: headnotes/rhetoric/046bc-orator.tex
-  status: pending
+  status: drafted
   notes: Treatise on the ideal orator and prose rhythm, addressed to M. Brutus.
 - id: pro-marcello
   title_latin: Pro M. Marcello
@@ -12219,7 +12223,7 @@
   latin_file: latin/philosophy/045bc-academica.tex
   english_file: english/philosophy/045bc-academica.tex
   headnote_file: headnotes/philosophy/045bc-academica.tex
-  status: pending
+  status: drafted
   notes: 'Dialogue on epistemology in two redactions: the ''Academica Posteriora'' (Books I-II of the Lucullus / Catulus pair)
     and the ''Academica Priora'' (Books I-IV of the Varro pair). Both survive in part.'
 - id: de-finibus
@@ -12234,7 +12238,7 @@
   latin_file: latin/philosophy/045bc-de-finibus.tex
   english_file: english/philosophy/045bc-de-finibus.tex
   headnote_file: headnotes/philosophy/045bc-de-finibus.tex
-  status: pending
+  status: drafted
   notes: Five-book dialogue presenting the chief Greek schools on the highest good. Dedicated to Brutus.
 - id: ad-atticum-13-01
   title_latin: Ad Atticum 13.1
@@ -12482,7 +12486,7 @@
   date_precision: year
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/att13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att13.shtml
   latin_file: latin/letters/045bc-ad-atticum-13-15.tex
   english_file: english/letters/045bc-ad-atticum-13-15.tex
@@ -12490,6 +12494,7 @@
   status: pending
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  speech_index: book:13,letter:15
 - id: ad-atticum-13-16
   title_latin: Ad Atticum 13.16
   title_english: Ad Atticum 13.16
@@ -12532,7 +12537,7 @@
   date_precision: year
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/att13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att13.shtml
   latin_file: latin/letters/045bc-ad-atticum-13-18.tex
   english_file: english/letters/045bc-ad-atticum-13-18.tex
@@ -12540,6 +12545,7 @@
   status: pending
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  speech_index: book:13,letter:18
 - id: ad-atticum-13-19
   title_latin: Ad Atticum 13.19
   title_english: Ad Atticum 13.19
@@ -12837,7 +12843,7 @@
   date_precision: year
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/att13.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi057/phi0474.phi057.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/att13.shtml
   latin_file: latin/letters/045bc-ad-atticum-13-36.tex
   english_file: english/letters/045bc-ad-atticum-13-36.tex
@@ -12845,6 +12851,7 @@
   status: pending
   notes: Letters of 45 BC, mostly from Tusculum during composition of the philosophical works. Date assigned at book-level
     precision; exact dating to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  speech_index: book:13,letter:36
 - id: ad-atticum-13-37
   title_latin: Ad Atticum 13.37
   title_english: Ad Atticum 13.37
@@ -13143,7 +13150,7 @@
   latin_file: latin/philosophy/045bc-timaeus.tex
   english_file: english/philosophy/045bc-timaeus.tex
   headnote_file: headnotes/philosophy/045bc-timaeus.tex
-  status: pending
+  status: drafted
   notes: Cicero's partial Latin translation of Plato's Timaeus; survives only in fragments.
 - id: de-natura-deorum
   title_latin: De Natura Deorum
@@ -13157,7 +13164,7 @@
   latin_file: latin/philosophy/045bc-de-natura-deorum.tex
   english_file: english/philosophy/045bc-de-natura-deorum.tex
   headnote_file: headnotes/philosophy/045bc-de-natura-deorum.tex
-  status: pending
+  status: drafted
   notes: Three-book dialogue presenting Epicurean, Stoic, and Academic theology; dedicated to Brutus.
 - id: tusculanae-disputationes
   title_latin: Tusculanae Disputationes
@@ -13171,7 +13178,7 @@
   latin_file: latin/philosophy/045bc-tusculanae-disputationes.tex
   english_file: english/philosophy/045bc-tusculanae-disputationes.tex
   headnote_file: headnotes/philosophy/045bc-tusculanae-disputationes.tex
-  status: pending
+  status: drafted
   notes: Five-book treatise on death, pain, distress, the passions, and whether virtue suffices for happiness. Dedicated to
     Brutus.
 - id: pro-rege-deiotaro
@@ -13200,7 +13207,7 @@
   latin_file: latin/philosophy/044bc-cato-maior-de-senectute.tex
   english_file: english/philosophy/044bc-cato-maior-de-senectute.tex
   headnote_file: headnotes/philosophy/044bc-cato-maior-de-senectute.tex
-  status: pending
+  status: drafted
   notes: Dialogue on old age, set in 150 BC with Cato the Elder as principal speaker. Dedicated to Atticus.
 - id: de-divinatione
   title_latin: De Divinatione
@@ -13214,7 +13221,7 @@
   latin_file: latin/philosophy/044bc-de-divinatione.tex
   english_file: english/philosophy/044bc-de-divinatione.tex
   headnote_file: headnotes/philosophy/044bc-de-divinatione.tex
-  status: pending
+  status: drafted
   notes: Two-book dialogue between Cicero and his brother Quintus on whether divination is a real art. Begun before, finished
     after, the Ides of March.
 - id: de-fato
@@ -13229,7 +13236,7 @@
   latin_file: latin/philosophy/044bc-de-fato.tex
   english_file: english/philosophy/044bc-de-fato.tex
   headnote_file: headnotes/philosophy/044bc-de-fato.tex
-  status: pending
+  status: drafted
   notes: Dialogue on causation and free will; survives in part.
 - id: ad-atticum-14-01
   title_latin: Ad Atticum 14.1
@@ -15552,7 +15559,7 @@
   latin_file: latin/philosophy/044bc-laelius-de-amicitia.tex
   english_file: english/philosophy/044bc-laelius-de-amicitia.tex
   headnote_file: headnotes/philosophy/044bc-laelius-de-amicitia.tex
-  status: pending
+  status: drafted
   notes: Dialogue on friendship, set in 129 BC after the death of Scipio Aemilianus. Dedicated to Atticus.
 - id: topica
   title_latin: Topica ad C. Trebatium
@@ -15566,7 +15573,7 @@
   latin_file: latin/rhetoric/044bc-topica.tex
   english_file: english/rhetoric/044bc-topica.tex
   headnote_file: headnotes/rhetoric/044bc-topica.tex
-  status: pending
+  status: drafted
   notes: Treatise on the loci of argumentation, written from memory en route to Greece in summer 44 BC.
 - id: philippic-1
   title_latin: Philippica I
@@ -15610,7 +15617,7 @@
   latin_file: latin/philosophy/044bc-de-officiis.tex
   english_file: english/philosophy/044bc-de-officiis.tex
   headnote_file: headnotes/philosophy/044bc-de-officiis.tex
-  status: pending
+  status: drafted
   notes: Three-book ethical treatise addressed to his son Marcus; Cicero's last completed prose work.
 - id: philippic-3
   title_latin: Philippica III
@@ -16051,18 +16058,19 @@
   title_latin: Ad M. Brutum 1.16
   title_english: Ad M. Brutum 1.16
   category: letters
-  date: -0043-07-01
-  date_precision: year
+  date: -0043-05-01
+  date_precision: month
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/brut1.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi059/phi0474.phi059.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/brut1.shtml
   latin_file: latin/letters/043bc-ad-brutum-01-16.tex
   english_file: english/letters/043bc-ad-brutum-01-16.tex
   headnote_file: headnotes/letters/043bc-ad-brutum-01-16.tex
-  status: pending
+  status: drafted
   notes: Correspondence between Cicero and M. Brutus, April–July 43 BC. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  speech_index: book:1,letter:16
 - id: ad-brutum-01-17
   title_latin: Ad M. Brutum 1.17
   title_english: Ad M. Brutum 1.17
@@ -16195,7 +16203,7 @@
   date_precision: year
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/brut2.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi059/phi0474.phi059.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/brut2.shtml
   latin_file: latin/letters/043bc-ad-brutum-02-06.tex
   english_file: english/letters/043bc-ad-brutum-02-06.tex
@@ -16204,6 +16212,7 @@
   notes: Further correspondence with Brutus, spring 43 BC. Several letters in Book II are lost; surviving total across both
     books is about 26. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's chronological
     commentary or another standard reference.
+  speech_index: book:2,letter:6
 - id: ad-brutum-02-07
   title_latin: Ad M. Brutum 2.7
   title_english: Ad M. Brutum 2.7
@@ -16212,7 +16221,7 @@
   date_precision: year
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/brut2.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi059/phi0474.phi059.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/brut2.shtml
   latin_file: latin/letters/043bc-ad-brutum-02-07.tex
   english_file: english/letters/043bc-ad-brutum-02-07.tex
@@ -16221,6 +16230,7 @@
   notes: Further correspondence with Brutus, spring 43 BC. Several letters in Book II are lost; surviving total across both
     books is about 26. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's chronological
     commentary or another standard reference.
+  speech_index: book:2,letter:7
 - id: ad-brutum-02-08
   title_latin: Ad M. Brutum 2.8
   title_english: Ad M. Brutum 2.8
@@ -16229,7 +16239,7 @@
   date_precision: year
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/brut2.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi059/phi0474.phi059.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/brut2.shtml
   latin_file: latin/letters/043bc-ad-brutum-02-08.tex
   english_file: english/letters/043bc-ad-brutum-02-08.tex
@@ -16238,6 +16248,7 @@
   notes: Further correspondence with Brutus, spring 43 BC. Several letters in Book II are lost; surviving total across both
     books is about 26. Date assigned at book-level precision; exact dating to be refined against Shackleton Bailey's chronological
     commentary or another standard reference.
+  speech_index: book:2,letter:8
 - id: ad-familiares-11-01
   title_latin: Ad Familiares 11.1
   title_english: Ad Familiares 11.1
@@ -16361,18 +16372,19 @@
   title_latin: Ad Familiares 11.8
   title_english: Ad Familiares 11.8
   category: letters
-  date: -0043-07-01
-  date_precision: year
+  date: -0043-01-24
+  date_precision: day
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam11.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam11.shtml
   latin_file: latin/letters/043bc-ad-familiares-11-08.tex
   english_file: english/letters/043bc-ad-familiares-11-08.tex
   headnote_file: headnotes/letters/043bc-ad-familiares-11-08.tex
-  status: pending
+  status: drafted
   notes: Correspondence with Decimus Brutus during the war of Mutina. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  speech_index: book:11,letter:8
 - id: ad-familiares-11-09
   title_latin: Ad Familiares 11.9
   title_english: Ad Familiares 11.9
@@ -16513,18 +16525,19 @@
   title_latin: Ad Familiares 11.17
   title_english: Ad Familiares 11.17
   category: letters
-  date: -0043-07-01
-  date_precision: year
+  date: -0043-07-15
+  date_precision: day
   location_written: null
   recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam11.shtml
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam11.shtml
   latin_file: latin/letters/043bc-ad-familiares-11-17.tex
   english_file: english/letters/043bc-ad-familiares-11-17.tex
   headnote_file: headnotes/letters/043bc-ad-familiares-11-17.tex
-  status: pending
+  status: drafted
   notes: Correspondence with Decimus Brutus during the war of Mutina. Date assigned at book-level precision; exact dating
     to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  speech_index: book:11,letter:17
 - id: ad-familiares-11-18
   title_latin: Ad Familiares 11.18
   title_english: Ad Familiares 11.18
@@ -16699,18 +16712,20 @@
   title_latin: Ad Familiares 11.28
   title_english: Ad Familiares 11.28
   category: letters
-  date: -0043-07-01
-  date_precision: year
-  location_written: null
-  recipient: null
-  latin_source_url: https://www.thelatinlibrary.com/cicero/fam11.shtml
+  date: -0044-09-01
+  date_precision: month
+  location_written: Rome
+  recipient: M. Cicero
+  latin_source_url: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0474/phi056/phi0474.phi056.perseus-lat1.xml
   latin_source_url_fallback: https://www.thelatinlibrary.com/cicero/fam11.shtml
-  latin_file: latin/letters/043bc-ad-familiares-11-28.tex
-  english_file: english/letters/043bc-ad-familiares-11-28.tex
-  headnote_file: headnotes/letters/043bc-ad-familiares-11-28.tex
-  status: pending
-  notes: Correspondence with Decimus Brutus during the war of Mutina. Date assigned at book-level precision; exact dating
-    to be refined against Shackleton Bailey's chronological commentary or another standard reference.
+  latin_file: latin/letters/044bc-ad-familiares-11-28.tex
+  english_file: english/letters/044bc-ad-familiares-11-28.tex
+  headnote_file: headnotes/letters/044bc-ad-familiares-11-28.tex
+  status: drafted
+  notes: Gaius Matius's reply to Cicero (Fam 11.27), defending his loyalty to the dead Caesar; written at Rome a little
+    after ep. 27, hence 44 BC (Perseus dateline "paulo post ep. 27"). Date corrected from -0043 placeholder and file paths
+    renamed 043bc -> 044bc in Cowork session of 2026-05-21.
+  speech_index: book:11,letter:28
 - id: ad-familiares-11-29
   title_latin: Ad Familiares 11.29
   title_english: Ad Familiares 11.29

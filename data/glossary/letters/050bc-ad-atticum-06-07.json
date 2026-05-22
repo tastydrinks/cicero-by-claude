@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-07",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "deposit my accounts, made up under the Julian Law, with two cities",
+      "entity_id": "law:lex-iulia-de-rebus-repetundis",
+      "note": "Caesar's lex Iulia de repetundis (59 BC) required a departing governor to lodge two copies of his official accounts in the chief cities of his province before forwarding a third to the treasury at Rome; Cicero deposits his at Laodicea and a second city."
+    },
+    {
+      "loc": "2",
+      "anchor": "the etesian winds",
+      "entity_id": null,
+      "note": "The etesiae were the steady north-northwest summer winds of the Aegean; blowing dead against a westbound voyage, they regularly stalled ships sailing from Asia Minor toward Greece and threatened to delay Cicero's homeward journey."
+    },
+    {
+      "loc": "2",
+      "anchor": "the supplicatio",
+      "entity_id": null,
+      "note": "A supplicatio was a public thanksgiving voted by the Senate, days of festival at the temples in a commander's honour; Cicero had won one for his Cilician victory and gauges the goodwill of the new magistrates by their support for it."
+    }
+  ]
+}

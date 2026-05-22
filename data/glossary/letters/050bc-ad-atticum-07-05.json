@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-05",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "on the day before the Kalends of January",
+      "entity_id": null,
+      "note": "Pridie Kalendas Ianuarias is the day immediately before the first of the month, i.e. 31 December 50 BC; the Kalends marked the start of each Roman month."
+    },
+    {
+      "loc": "3",
+      "anchor": "to Pompey's place at Alba",
+      "entity_id": "place:albanum",
+      "note": "Pompey owned an estate in the Alban district (the Albanum) in the hills southeast of Rome; Cicero plans to call there on his way up to the city as the crisis deepens."
+    },
+    {
+      "loc": "4",
+      "anchor": "the loyalists, as people suppose them",
+      "entity_id": null,
+      "note": "The boni (\"loyalists\" or \"the good men\") were the conservative senatorial party Cicero identified with; he notes bitterly that they are no longer united even among themselves."
+    },
+    {
+      "loc": "5",
+      "anchor": "Shake off",
+      "entity_id": null,
+      "note": "A quartana was a quartan fever, a malarial ague recurring every fourth day; Cicero closes by urging Atticus to throw it off, the Greek imperative lending a light, almost medical touch."
+    }
+  ]
+}

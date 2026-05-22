@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the palinode",
+      "entity_id": null,
+      "note": "Cicero's word (palinodia, a Greek term for a poetic recantation) for the speech in which, in 56 BC, he publicly reversed his line and supported the dynasts' settlement. He felt the about-face a touch dishonourable but bound himself to it as a political necessity."
+    },
+    {
+      "loc": "1",
+      "anchor": "the villa which had been Catulus's",
+      "entity_id": "person:q-lutatius-catulus-pater",
+      "note": "Q. Lutatius Catulus (cos. 78 BC) had owned property on the Palatine adjoining the site of Cicero's house. Optimates resented Cicero's acquisition of it, on which he had built; he retorts that he bought it lawfully from Vettius."
+    },
+    {
+      "loc": "1",
+      "anchor": "Pompey's wish",
+      "entity_id": "person:pompey",
+      "note": "Cicero notes that the same optimates who approved his actual senatorial votes still resented that he had once spoken against Pompey's interest, evidence of the bad faith he is denouncing in this letter."
+    },
+    {
+      "loc": "1",
+      "anchor": "Crassipes",
+      "entity_id": "person:crassipes",
+      "note": "Furius Crassipes, betrothed to Cicero's daughter Tullia in 56 BC. Here he 'forestalls the farewell-dinner', i.e. claims Cicero for a family meal before Atticus's departure."
+    }
+  ]
+}

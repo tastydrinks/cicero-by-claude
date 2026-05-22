@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-09",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "APPIO PVLCHRO", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "1", "surface": "Ap. Claudio", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "1", "surface": "Asia", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "Appianorum", "entity_id": "place:apamea", "in": "lat"},
+    {"loc": "1", "surface": "Philotimo", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "APPIO PVLCHRO", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "1", "surface": "Appius Claudius", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "1", "surface": "Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "1", "surface": "Apameans'", "entity_id": "place:apamea", "in": "eng"},
+    {"loc": "1", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "2", "surface": "triumphi tui", "entity_id": "institution:triumph", "in": "lat"},
+    {"loc": "2", "surface": "*)epikou/reion", "entity_id": "institution:epicurean-school", "in": "lat"},
+    {"loc": "2", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "your triumph", "entity_id": "institution:triumph", "in": "eng"},
+    {"loc": "2", "surface": "Epicurean", "entity_id": "institution:epicurean-school", "in": "eng"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "3", "surface": "iuris auguri", "entity_id": "office:augur", "in": "lat"},
+    {"loc": "3", "surface": "augural law", "entity_id": "office:augur", "in": "eng"},
+    {"loc": "4", "surface": "supplicatio", "entity_id": "festival:supplicatio", "in": "lat"},
+    {"loc": "4", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "4", "surface": "imperator", "entity_id": "office:imperator", "in": "lat"},
+    {"loc": "4", "surface": "supplicatio", "entity_id": "festival:supplicatio", "in": "eng"},
+    {"loc": "4", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "4", "surface": "imperator", "entity_id": "office:imperator", "in": "eng"}
+  ]
+}

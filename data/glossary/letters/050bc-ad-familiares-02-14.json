@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I know you great patrons --- one has to commit murder before he can hope for your services",
+      "note": "A frank joke about the curule aedile's inaccessibility: Caelius, as aedile-designate organising games and policing the city, was besieged by petitioners, and only spectacular necessity could gain his full attention. Cicero makes clear that Fadius's case is to be treated as such an exception."
+    },
+    {
+      "loc": "1",
+      "anchor": "nothing new has been brought to us for a long while",
+      "note": "Written in February 50 BC from Laodicea, mid-winter when mountain passes were closed and courier traffic to Rome dried up; Cicero's news blackout could last weeks at a stretch during the Cilician winter."
+    },
+    {
+      "loc": "1",
+      "anchor": "His business please take up as if it were my own",
+      "entity_id": "person:m-fadius",
+      "note": "Marcus Fadius had litigation pending before a Roman praetor (see Fam. 13.59); Cicero's formula here --- treat it as my own business --- was the standard strong form of a Roman recommendation, implying that Caelius's personal honour was engaged."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Dionysius, having come to me beyond my expectation",
+      "entity_id": "person:m-pomponius-dionysius",
+      "note": "M. Pomponius Dionysius, the learned freedman whom Atticus had given Cicero as tutor to his son and nephew; his desertion in the crisis of 49 BC is a running grievance through book 8, and this is the second of the strained interviews Cicero reports."
+    },
+    {
+      "loc": "1",
+      "anchor": "as for the money he had, he did not know where it was",
+      "entity_id": null,
+      "note": "Dionysius pleads that his cash is tied up in loans not yet repaid or not yet due, an excuse Cicero plainly disbelieves; the money question is part of the tutor's pretext for not following Cicero into the uncertainty of the war."
+    },
+    {
+      "loc": "1",
+      "anchor": "as the boys' teacher, not gladly; as an ungrateful man, not unwillingly",
+      "entity_id": "person:m-pomponius-dionysius",
+      "note": "Cicero's pointed antithesis: he is sorry to lose the boys' tutor but glad to be rid of an ingrate. The balanced clauses sum up his verdict on Dionysius's desertion."
+    }
+  ]
+}

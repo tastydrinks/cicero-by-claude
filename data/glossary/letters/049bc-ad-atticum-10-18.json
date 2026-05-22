@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "My Tullia was delivered on the fourteenth day before the Kalends of June",
+      "entity_id": "person:tullia",
+      "note": "The date is 19 May 49 BC. Tullia, Cicero's beloved daughter, was then married to P. Cornelius Dolabella, a partisan of Caesar; the boy born here was premature and did not long survive."
+    },
+    {
+      "loc": "1",
+      "anchor": "corrupted by the freedman Salvius",
+      "entity_id": "person:salvius-courier",
+      "note": "A libertus, or freedman, was a former slave who retained ties of obligation to his old master and often served as his agent. Cicero blames Salvius for turning young Hortensius against the support he had earlier promised."
+    },
+    {
+      "loc": "1",
+      "anchor": "every eavesdropper of Corycus, seems to be listening in",
+      "entity_id": "place:corycus",
+      "note": "The Corycians of Cilicia were proverbial spies who, by listening in harbours and shops, gathered intelligence to betray merchants to pirates. Cicero uses the byword to say his every word is being overheard by Caesar's watchers."
+    },
+    {
+      "loc": "2",
+      "anchor": "if anything comes through from Spain",
+      "entity_id": "place:hispania",
+      "note": "In spring 49 BC the decisive theatre was Spain, where Caesar marched against Pompey's legates Afranius and Petreius. News of that campaign would shape Cicero's calculation of whether and when to leave Italy."
+    },
+    {
+      "loc": "3",
+      "anchor": "perhaps the Furies will follow me there too",
+      "entity_id": "god:furiae",
+      "note": "The Furies (Furiae, Greek Erinyes) were avenging deities who hounded the guilty, above all those guilty of bloodshed within the family or state. Cicero invokes them to express his sense of being pursued by the curse of civil war wherever he goes."
+    },
+    {
+      "loc": "3",
+      "anchor": "From the conversation Balbus had with you, I do not approve about Malta",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus was Caesar's confidential agent, working to keep Cicero neutral and inside Italy. His discouraging Cicero's idea of retiring to Malta confirmed Cicero's fear that Caesar's men counted him an enemy."
+    }
+  ]
+}

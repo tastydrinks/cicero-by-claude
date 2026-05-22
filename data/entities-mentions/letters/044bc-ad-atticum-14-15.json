@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-15",
+  "mentions": [
+    {"loc": "1", "surface": "Dolabellam meum", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "Dolabella", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "2", "surface": "Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "Piliae nostrae", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "3", "surface": "Pompeianum", "entity_id": "place:pompeii", "in": "lat"},
+    {"loc": "3", "surface": "Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "3", "surface": "Asturae", "entity_id": "place:astura", "in": "lat"},
+    {"loc": "3", "surface": "our Pilia's", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "3", "surface": "Pompeii", "entity_id": "place:pompeii", "in": "eng"},
+    {"loc": "3", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "Astura", "entity_id": "place:astura", "in": "eng"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the king's legate",
+      "entity_id": "person:ammonius-ptolemy-envoy",
+      "note": "Ammonius (Hammonius), the agent of Ptolemy XII Auletes, who lobbied the senate with lavish bribes to secure the king's armed restoration to the throne of Egypt. He is the moneyed adversary working 'openly' against Lentulus's interest in the command."
+    },
+    {
+      "loc": "1",
+      "anchor": "the calumny taken from religious scruple",
+      "entity_id": "text:libri-sibyllini",
+      "note": "An oracle found in the Sibylline Books forbade restoring an Egyptian king 'with a multitude' (i.e. with an army); opponents of Lentulus exploited this religio to block him. Cicero charges that the scruple was raised in bad faith, out of envy and resentment rather than genuine piety."
+    },
+    {
+      "loc": "2",
+      "anchor": "Marcellinus is angry with you",
+      "entity_id": "person:cn-lentulus-marcellinus-cos56",
+      "note": "Cn. Cornelius Lentulus Marcellinus, one of the consuls of 56 BC, who repeatedly raised the religious objection in the senate; though out of temper with Lentulus Spinther on the Egyptian question, he remained otherwise friendly."
+    },
+    {
+      "loc": "3",
+      "anchor": "Crassus decrees three legates",
+      "entity_id": null,
+      "note": "In senate debate each consular gave a sententia (formal opinion). The rival proposals split over the agent of the king's restoration: a commission of three legati (Crassus, Bibulus), Lentulus alone, or Pompey (Volcacius)."
+    }
+  ]
+}

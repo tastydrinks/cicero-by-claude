@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-29",
+  "mentions": [
+    {"loc": "1", "surface": "Silius, ut scribis, hodie", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "nec ego Brutum vito", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "quaerenda erit excusatio ad Brutum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Silius today, as you write", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "I am not avoiding Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "I shall have to look for some excuse to Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "me ab Oppio et Balbo valde diligi", "entity_id": "person:gaius-oppius", "in": "lat"},
+    {"loc": "2", "surface": "me ab Oppio et Balbo valde diligi", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "2", "surface": "si expediatur illud Faberianum", "entity_id": "person:faberius", "in": "lat"},
+    {"loc": "2", "surface": "de illo Ostiensi nihil est cogitandum", "entity_id": "place:ostia", "in": "lat"},
+    {"loc": "2", "surface": "a Lamia non puto posse", "entity_id": "person:l-aelius-lamia-pr42", "in": "lat"},
+    {"loc": "2", "surface": "Damasippi experiendum est", "entity_id": "person:damasippus-art-dealer", "in": "lat"},
+    {"loc": "2", "surface": "I am very warmly esteemed by Oppius and Balbus", "entity_id": "person:gaius-oppius", "in": "eng"},
+    {"loc": "2", "surface": "I am very warmly esteemed by Oppius and Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "2", "surface": "if that Faberian business is cleared up", "entity_id": "person:faberius", "in": "eng"},
+    {"loc": "2", "surface": "The Ostia place is not to be thought of", "entity_id": "place:ostia", "in": "eng"},
+    {"loc": "2", "surface": "I do not think we can get it from Lamia", "entity_id": "person:l-aelius-lamia-pr42", "in": "eng"},
+    {"loc": "2", "surface": "we must try Damasippus' offer", "entity_id": "person:damasippus-art-dealer", "in": "eng"}
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the days of the Roman Games",
+      "entity_id": "festival:ludi-romani",
+      "note": "The Ludi Romani, the great September games in honour of Jupiter Optimus Maximus; their dates let Cicero fix when he was at Arpinum."
+    },
+    {
+      "loc": "1",
+      "anchor": "the fourth day before the Ides of September",
+      "entity_id": null,
+      "note": "The Roman calendar counted backwards (inclusively) from the Ides; the fourth day before the September Ides (13th) is 10 September. The translation supplies the modern date in brackets throughout."
+    },
+    {
+      "loc": "1",
+      "anchor": "the paved colonnade",
+      "entity_id": null,
+      "note": "Cicero's letter is a detailed building-inspection report on Quintus's country villas near Arpinum; much of the technical vocabulary (colonnade, walking-gallery, vaultings, stuccowork) concerns the construction work he is supervising in his brother's absence."
+    },
+    {
+      "loc": "3",
+      "anchor": "101,000 sesterces",
+      "entity_id": null,
+      "note": "The sestertius was the standard unit of account; 101,000 was a modest price for a country property. Cicero is settling his brother's estate purchases while Quintus serves with Caesar in Gaul."
+    },
+    {
+      "loc": "3",
+      "anchor": "you would easily irrigate fifty",
+      "entity_id": null,
+      "note": "The figure is fifty iugera. The iugerum was the Roman unit of land area, about a quarter of a hectare; fifty iugera is roughly twelve hectares of irrigable meadow."
+    },
+    {
+      "loc": "3",
+      "anchor": "a servitude imposed on that estate",
+      "entity_id": null,
+      "note": "A servitus in Roman law was a permanent encumbrance binding one property for the benefit of another (here, rights over the water); it would transfer with the land and so affect the resale price."
+    },
+    {
+      "loc": "5",
+      "anchor": "Nicephorus, your overseer",
+      "entity_id": "person:nicephorus-vilicus",
+      "note": "The vilicus was the resident bailiff or steward, usually a slave or freedman, who managed a Roman estate and its labour and accounts on the owner's behalf."
+    },
+    {
+      "loc": "5",
+      "anchor": "the cloaked Greeks",
+      "entity_id": null,
+      "note": "Palliati, men in the Greek cloak (pallium); a faintly mocking phrase for Greek hangers-on, here the garden-staff so wrapped in ivy they look like Greeks peddling it."
+    },
+    {
+      "loc": "11",
+      "anchor": "Calventius Marius's speech",
+      "entity_id": "person:l-piso",
+      "note": "An abusive nickname for L. Calpurnius Piso (cos. 58 BC), one of the consuls Cicero blamed for his exile; 'Calventius' sneers at the Insubrian-Gaulish grandfather of this enemy. The 'speech' is one Piso delivered attacking Cicero."
+    },
+    {
+      "loc": "11",
+      "anchor": "on behalf of Scaurus and on behalf of Plancius",
+      "entity_id": "person:m-aemilius-scaurus-pr-56",
+      "note": "Cicero's defence speeches Pro Scauro and Pro Plancio, both delivered in 54 BC; the men were on trial respectively for extortion and for electoral bribery."
+    },
+    {
+      "loc": "13",
+      "anchor": "except about Erigona",
+      "entity_id": "text:erigona",
+      "note": "A literary work (a tragedy on the Erigone myth) that Quintus had composed while on campaign and sent home through Caesar's agent Oppius; Cicero awaits it eagerly."
+    },
+    {
+      "loc": "14",
+      "anchor": "the temple of Tellus and Catulus's portico",
+      "entity_id": "place:aedes-telluris",
+      "note": "Two public monuments at Rome whose upkeep Cicero attends to for Quintus: the temple of the earth-goddess Tellus on the Esquiline and the portico built by Q. Lutatius Catulus (cos. 78 BC)."
+    },
+    {
+      "loc": "15",
+      "anchor": "the flamen's son",
+      "entity_id": "person:l-lentulus-flaminis-filius",
+      "note": "A flamen was a priest dedicated to a single deity; the prosecutor L. Lentulus is identified by his father's priesthood (probably the flamen Martialis) to distinguish him from the many other Lentuli."
+    },
+    {
+      "loc": "15",
+      "anchor": "who has already laid the charge of",
+      "entity_id": "law:lex-de-maiestate",
+      "note": "The charge is maiestas (full: crimen laesae maiestatis), diminishing the majesty of the Roman state --- the nearest Roman equivalent to treason. Gabinius faced it for his unauthorized Egyptian campaign."
+    },
+    {
+      "loc": "15",
+      "anchor": "on extortion",
+      "entity_id": null,
+      "note": "The charge de pecuniis repetundis covered a magistrate's illegal enrichment in his province; it was the standard prosecution against returning governors such as Gabinius."
+    },
+    {
+      "loc": "16",
+      "anchor": "a coalition of the consular candidates",
+      "entity_id": null,
+      "note": "A coitio was a secret electoral pact among candidates to pool support and fix the outcome; the consular elections of 54 BC were paralysed by bribery scandals when Memmius exposed one such bargain."
+    },
+    {
+      "loc": "24",
+      "anchor": "in the second book of",
+      "entity_id": "text:cicero-de-temporibus-suis",
+      "note": "An embolium was a dramatic interlude or set-piece; Cicero plans one for the second book of his autobiographical poem De Temporibus Suis (\"My Times\"), with Apollo before the gods deriding the two disgraced returning generals, Gabinius and Piso."
+    },
+    {
+      "loc": "24",
+      "anchor": "two imperators",
+      "entity_id": null,
+      "note": "Imperator was the title of a victorious commander acclaimed by his troops; Cicero applies it sarcastically to Gabinius (who 'sold' his army) and Piso (who 'lost' his)."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-05",
+  "mentions": [
+    {"loc": "1", "surface": "M. CATO", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "1", "surface": "M. CATO", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "1", "surface": "M. CICERONI IMP.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERONI IMP.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "provinciam", "entity_id": "place:cilicia", "in": "lat"},
+    {"loc": "1", "surface": "the province", "entity_id": "place:cilicia", "in": "eng"},
+    {"loc": "1", "surface": "Ariobarzanis", "entity_id": "person:ariobarzanes-iii", "in": "lat"},
+    {"loc": "1", "surface": "Ariobarzanes", "entity_id": "person:ariobarzanes-iii", "in": "eng"},
+    {"loc": "2", "surface": "supplicationem decretam", "entity_id": "festival:supplicatio", "in": "lat"},
+    {"loc": "2", "surface": "the decreed thanksgiving", "entity_id": "festival:supplicatio", "in": "eng"},
+    {"loc": "2", "surface": "triumphi praerogativam", "entity_id": "institution:triumph", "in": "lat"},
+    {"loc": "2", "surface": "the foretaste of a triumph", "entity_id": "institution:triumph", "in": "eng"},
+    {"loc": "2", "surface": "supplicationem", "entity_id": "festival:supplicatio", "in": "lat"},
+    {"loc": "2", "surface": "a thanksgiving", "entity_id": "festival:supplicatio", "in": "eng"},
+    {"loc": "2", "surface": "triumphus", "entity_id": "institution:triumph", "in": "lat"},
+    {"loc": "2", "surface": "a triumph", "entity_id": "institution:triumph", "in": "eng"},
+    {"loc": "2", "surface": "senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

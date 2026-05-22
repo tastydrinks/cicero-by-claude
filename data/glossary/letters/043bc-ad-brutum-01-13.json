@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "If he should tear himself away from us",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Brutus fears that Lepidus, having just defected to Antony, might survive militarily, in which case his children (Brutus's nephews through his sister Iunia Tertia's marriage to Cassius — but here Lepidus's children via Iunia, Brutus's sister) would be hostages to the enemy's fury; the letter makes clear Brutus acknowledges Lepidus's defection but hopes the Senate will spare his kin."
+    },
+    {
+      "loc": "1",
+      "anchor": "I have succeeded to them in their father's place",
+      "entity_id": "person:brutus",
+      "note": "Brutus's sister Iunia (not Tertia/Cassius's wife, but a different sister) was married to Lepidus; Brutus declares himself surrogate paterfamilias for Lepidus's children in order to strengthen his appeal to Cicero for clemency toward them."
+    },
+    {
+      "loc": "1",
+      "anchor": "calling to witness our bond of family and your goodwill towards me",
+      "entity_id": null,
+      "note": "\"Necessitudo\" denotes a binding personal tie (here the close political friendship between Brutus and Cicero); Brutus is invoking both the private relationship and his own moral authority as a basis for the request."
+    },
+    {
+      "loc": "2",
+      "anchor": "a consular of such standing",
+      "entity_id": "person:cicero",
+      "note": "\"Consularis\" (consular) was the rank held by any former consul; Cicero had held the consulship in 63 BC, and the title carried lifelong prestige and a formal role in Senate deliberations."
+    },
+    {
+      "loc": "2",
+      "anchor": "1 July, from camp",
+      "entity_id": "person:brutus",
+      "note": "\"Kal. Quintilibus ex castris\" = Kalends of Quinctilis (1 July) 43 BC; Brutus was writing from his camp in Macedonia or Thrace, commanding the armies of the eastern republican cause."
+    }
+  ]
+}

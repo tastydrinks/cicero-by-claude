@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Nones of May",
+      "entity_id": null,
+      "note": "The Nones of May fell on the 7th; this dates the letter's opening to 7 May 44 BC. Roman dates were reckoned backwards from the Kalends, Nones, and Ides."
+    },
+    {
+      "loc": "1",
+      "anchor": "Barnaeus",
+      "entity_id": "person:barnaeus",
+      "note": "Barnaeus, a letter-carrier who delivered Cicero's dispatch to Atticus at an opportune moment; one of the many couriers whose timing Cicero notes anxiously in this correspondence."
+    },
+    {
+      "loc": "1",
+      "anchor": "†aritia†",
+      "entity_id": null,
+      "note": "The daggers mark a textual crux: the manuscripts give a corrupt word (aritia) for whatever quality of Dolabella's had plunged Cicero into despair, and editors cannot restore it with confidence. Cicero adds \"so you had written to me\" to disown the strange word as Atticus's."
+    },
+    {
+      "loc": "1",
+      "anchor": "another harbour",
+      "entity_id": null,
+      "note": "A metaphor: the \"harbour\" (portus) is a safe retreat for old age, here Greece, as against joining the Liberators' \"camp\" of civil war. Cicero contrasts the prudent course for a man of his years with Brutus's talk of armed exile."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Clodius business",
+      "entity_id": "person:sex-clodius",
+      "note": "Sextus Clodius, the dead tribune P. Clodius's henchman and scribe, whose recall from exile Antony procured in May 44 BC. Cicero had assented \"with leniency and clemency,\" a concession Antony here thanks him for. Not the long-dead P. Clodius Pulcher himself."
+    },
+    {
+      "loc": "2",
+      "anchor": "about Deiotarus",
+      "entity_id": "person:deiotarus-of-galatia",
+      "note": "Deiotarus, the tetrarch (later king) of Galatia, whose territories Antony restored under cover of Caesar's papers in 44 BC; Pansa is reported to be incensed at the irregular grant."
+    },
+    {
+      "loc": "3",
+      "anchor": "About the garlanded ones",
+      "entity_id": null,
+      "note": "The \"garlanded ones\" (coronati) are those who wore garlands at the cult that grew up around Caesar's pyre. Cicero's nephew Quintus, accused by his own father of joining them, defended himself as honouring Caesar in mourning."
+    },
+    {
+      "loc": "3",
+      "anchor": "your sister's son",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "Quintus Cicero the younger, son of Atticus's sister Pomponia and Cicero's brother Quintus; here \"accused by his father\" of pro-Caesarian display, in keeping with his attachment to Antony's party."
+    },
+    {
+      "loc": "4",
+      "anchor": "I am with Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Ser. Sulpicius Rufus (cos. 51), the jurist; Cicero, though he reads more fear than judgment in Servius's cautious line, sides with him because everyone is alike terrified in the unsettled aftermath of the Ides."
+    },
+    {
+      "loc": "4",
+      "anchor": "Publilius has been playing tricks on you",
+      "entity_id": "person:publilius-frater",
+      "note": "Publilius, brother of Cicero's young second wife Publilia, whom Cicero had divorced; with Caerellia he was acting as go-between (\"that lot\") to push a reconciliation, which Cicero firmly refuses. Not the mime poet Publilius Syrus."
+    },
+    {
+      "loc": "4",
+      "anchor": "Caerellia was sent to me here",
+      "entity_id": "person:caerellia",
+      "note": "Caerellia, a wealthy, philosophically minded woman friend of Cicero, here sent as an \"envoy\" by Publilia's family to urge the reconciliation; Cicero told her the thing was not merely unwelcome but \"not even permitted\" him."
+    },
+    {
+      "loc": "5",
+      "anchor": "something great of Dolabella's action (an exploit, [Greek: praxin])",
+      "entity_id": "person:dolabella",
+      "note": "Cicero reaches for the Greek praxis (\"deed, exploit\") to weigh Dolabella's suppression of the Caesar-altar cult; he adds, half in jest, that the exploit will count for even more once Dolabella pays back the dowry he owes."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Publius has been made a plebeian",
+      "entity_id": "person:clodius",
+      "note": "P. Clodius Pulcher, a patrician, had himself adopted into a plebeian family (transitio ad plebem) so he could stand for the tribunate. Caesar as consul and Pompey as augur pushed the irregular adoption through in 59 BC; Cicero treats the denial that it happened as outright \"kingship.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "our Gnaeus, the colleague of Balbus",
+      "entity_id": "person:pompey",
+      "note": "A debated phrase; \"Gnaeus\" is taken as Pompey (Cn. Pompeius), here mockingly styled the \"colleague of Balbus\" (Caesar's agent L. Cornelius Balbus). Cicero offers to swear that Pompey himself admitted at Antium to having taken the auspice at Clodius's adoption. (Flagged.)"
+    },
+    {
+      "loc": "1",
+      "anchor": "good news \\textit{[Greek: euangelia]}",
+      "entity_id": null,
+      "note": "Euangelia, \"good tidings\" --- and the thank-offering owed for them. Cicero confesses he owes Atticus a reward for his two welcome letters."
+    },
+    {
+      "loc": "1",
+      "anchor": "what coincidence \\textit{[Greek: synkyr\\=ema]}",
+      "entity_id": null,
+      "note": "Synkyrema, \"a coincidence, chance concurrence\" --- introducing the story of how Curio's news and Atticus's letter reached Cicero at the very same spot and moment."
+    },
+    {
+      "loc": "2",
+      "anchor": "on the very day of the Cerialia",
+      "entity_id": "festival:cerialia",
+      "note": "The Cerialia, the festival of Ceres celebrated 12-19 April, with games (ludi Ceriales) in the Circus; the climactic day was 19 April. The date fixes Cicero's chance meeting on the Appian Way."
+    },
+    {
+      "loc": "2",
+      "anchor": "``the living voice'' \\textit{[Greek: z\\=os\\=es ph\\=on\\=es]}",
+      "entity_id": null,
+      "note": "Zoses phones, \"of the living voice\" --- the commonplace that speech in person tells more than a letter. Cicero turns it on its head: Atticus's written report told him far more than Curio's spoken news."
+    },
+    {
+      "loc": "2",
+      "anchor": "of the cymbals of the ox-eyed lady \\textit{[Greek: bo\\=opidos]}",
+      "entity_id": "person:clodia",
+      "note": "Boopis (\"ox-eyed,\" Homer's epithet of Hera) is Cicero's nickname for Clodia Metelli, Clodius's sister. \"Cymbals\" evokes the orgiastic clatter of the Magna Mater cult, casting Clodia as the noisy ringleader of her brother's faction."
+    },
+    {
+      "loc": "2",
+      "anchor": "of the standard-bearer Athenio",
+      "entity_id": "person:athenio-signifer",
+      "note": "Athenio, a henchman of Clodius cast as the \"standard-bearer\" (signifer) of his street-gangs. The name pointedly recalls Athenion, leader of the Sicilian slave revolt --- branding Clodius's followers as a servile insurgency."
+    },
+    {
+      "loc": "2",
+      "anchor": "of the letters sent to Gnaeus",
+      "entity_id": "person:pompey",
+      "note": "\"Gnaeus\" is Pompey (Cn. Pompeius), to whom letters in the affair were addressed; the casual praenomen is Cicero's familiar shorthand for him in the correspondence with Atticus."
+    },
+    {
+      "loc": "2",
+      "anchor": "of Theophanes's and Memmius's talk",
+      "entity_id": "person:theophanes",
+      "note": "Theophanes of Mytilene, Pompey's Greek confidant, historian, and political adviser. Cicero tracks the gossip of Pompey's inner circle (Theophanes) and of C. Memmius alike through Atticus's reports."
+    },
+    {
+      "loc": "2",
+      "anchor": "that wanton dinner-party \\textit{[Greek: aselgous]}",
+      "entity_id": null,
+      "note": "Aselges, \"wanton, licentious.\" Cicero relishes Atticus's promised account of some scandalous banquet of the Clodian set, professing himself \"sharp-hungry\" to hear it."
+    },
+    {
+      "loc": "2",
+      "anchor": "sharp-hungry \\textit{[Greek: oxypeinos]}",
+      "entity_id": null,
+      "note": "Oxypeinos, \"keenly hungry\" --- a vivid Greek coinage for Cicero's ravenous curiosity about the gossip Atticus is withholding."
+    },
+    {
+      "loc": "2",
+      "anchor": "that drinking-party \\textit{[Greek: symposion]}",
+      "entity_id": null,
+      "note": "Symposion, the Greek \"drinking-party.\" Cicero pretends not to mind that Atticus saves the scandal for a face-to-face telling rather than committing it to a letter."
+    },
+    {
+      "loc": "3",
+      "anchor": "``new wine of the autumn vintage'' \\textit{[Greek: kat' op\\=or\\=en tryx]}",
+      "entity_id": null,
+      "note": "Literally \"the must (new wine) at autumn,\" a proverbial figure for something still murky and unsettled. Cicero says his planned writing is still fermenting; once it \"settles\" his account will be \"more clarified.\""
+    },
+    {
+      "loc": "4",
+      "anchor": "You rightly love Dicaearchus",
+      "entity_id": "person:dicaearchus",
+      "note": "Dicaearchus of Messana, the Peripatetic philosopher, geographer, and political theorist whom both Cicero and Atticus admired. His name sets up the pun in the next clause."
+    },
+    {
+      "loc": "4",
+      "anchor": "those rulers-of-injustice \\textit{[Greek: adikaiarchoi]}",
+      "entity_id": null,
+      "note": "Adikaiarchoi, a coinage punning on Dicaearchus's name (di-kaiarchos / a-dikaiarchos): \"unjust rulers\" versus the philosopher of just rule. The coalition's dynasts are the bad-government counterpart to the good citizen Dicaearchus."
+    },
+    {
+      "loc": "4",
+      "anchor": "at the tenth hour at the Cerialia",
+      "entity_id": "festival:cerialia",
+      "note": "The tenth hour of the Roman day is mid-to-late afternoon, around 4 p.m.; on the Cerialia (here 19 April). Cicero notes the hour and festival as the time of writing."
+    }
+  ]
+}

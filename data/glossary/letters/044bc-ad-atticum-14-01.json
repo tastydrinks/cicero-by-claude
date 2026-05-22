@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I called in on the man we spoke of this morning",
+      "entity_id": null,
+      "note": "A deliberately unnamed Caesarian insider (often identified with Caesar's intimate friend Gaius Matius) whom Cicero visited; the letter keeps him anonymous as a security precaution in the tense weeks after the assassination."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Ides of March",
+      "entity_id": "person:caesar",
+      "note": "The Ides (the 13th or, in March, the 15th) of March 44 BC, the day Caesar was murdered; Cicero uses the date as shorthand for the assassination itself, the pivotal event of the whole post-Ides correspondence."
+    },
+    {
+      "loc": "1",
+      "anchor": "Lepidus",
+      "entity_id": "person:m-aemilius-lepidus",
+      "note": "Marcus Aemilius Lepidus, Caesar's magister equitum (master of horse) in 44 BC, who held troops just outside Rome and would join Antony and Octavian in the Triumvirate of 43 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "What a prudent man Oppius is",
+      "entity_id": "person:gaius-oppius",
+      "note": "Gaius Oppius, a Roman knight and one of Caesar's chief private agents (with Balbus); Cicero praises his discretion in mourning Caesar without giving offence to the assassins' side."
+    },
+    {
+      "loc": "2",
+      "anchor": "whether what we hear about Sextus is firm enough",
+      "entity_id": "person:sextus-pompeius",
+      "note": "Sextus Pompeius, the surviving younger son of Pompey the Great, who in 44 BC still commanded Republican forces in Spain and was a hoped-for rallying point against the Caesarians."
+    },
+    {
+      "loc": "2",
+      "anchor": "when Brutus spoke at Nicaea on behalf of Deiotarus",
+      "entity_id": "person:deiotarus-of-galatia",
+      "note": "Deiotarus, king of Galatia, whom Brutus had defended before Caesar at Nicaea (in Bithynia); the anecdote shows Caesar's wary respect for Brutus's vehemence well before the conspiracy."
+    }
+  ]
+}

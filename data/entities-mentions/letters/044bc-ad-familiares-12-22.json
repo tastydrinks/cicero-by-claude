@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-22",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "Antonio", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Antonius", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "Pansa", "entity_id": "person:vibius-pansa", "in": "lat"},
+    {"loc": "1", "surface": "Pansa", "entity_id": "person:vibius-pansa", "in": "eng"},
+    {"loc": "1", "surface": "Hirtius noster", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "1", "surface": "our Hirtius", "entity_id": "person:hirtius", "in": "eng"},
+    {"loc": "1", "surface": "p. R.", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "Roman people", "entity_id": "institution:populus-romanus", "in": "eng"}
+  ]
+}

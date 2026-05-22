@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-25",
+  "mentions": [
+    {"loc": "2", "surface": "illum discessisse Alexandria", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "discessisse Alexandria rumor est", "entity_id": "place:alexandria", "in": "lat"},
+    {"loc": "2", "surface": "The rumour that he has set out from Alexandria", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "that he has set out from Alexandria", "entity_id": "place:alexandria", "in": "eng"},
+    {"loc": "3", "surface": "ego huius miserrimae", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "3", "surface": "cum Terentia loquere opportune", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "3", "surface": "I am wrecked by this most wretched girl's", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "3", "surface": "Speak of these things, if it seems right, with Terentia", "entity_id": "person:terentia", "in": "eng"}
+  ]
+}

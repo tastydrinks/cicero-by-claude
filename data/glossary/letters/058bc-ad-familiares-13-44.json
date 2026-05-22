@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-44",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO GALLO S.",
+      "entity_id": "person:q-gallius",
+      "note": "The letter-heading; the second of two consecutive recommendations (13.43, 13.44) to Q. Gallius, written some months after the first. Cicero acknowledges that Gallius has already acted on the earlier letter and renews the commendation of L. Oppius and L. Egnatius Rufus."
+    },
+    {
+      "loc": "1",
+      "anchor": "Though I have learnt from your letter and from the letter of L. Oppius, my close friend, that you have remembered my recommendation",
+      "entity_id": "person:l-oppius",
+      "note": "A follow-up commendation: Cicero writes again only after both Gallius and Oppius himself have reported that the first letter (13.43) was honoured. The renewal is a courtesy that also reinforces the obligation."
+    }
+  ]
+}

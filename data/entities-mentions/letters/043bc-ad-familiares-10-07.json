@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-07",
+  "mentions": [
+    {"loc": "1", "surface": "PLANCVS", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCVS", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "rei p.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "M. Varisidium, equitem R.", "entity_id": "person:m-varisidius", "in": "lat"},
+    {"loc": "1", "surface": "M. Varisidius, a Roman knight", "entity_id": "person:m-varisidius", "in": "eng"},
+    {"loc": "2", "surface": "consulatu meo", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "my consulship", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "rei p.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the state", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

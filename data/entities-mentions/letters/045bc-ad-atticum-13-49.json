@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-49",
+  "mentions": [
+    {"loc": "1", "surface": "Atticae primum salutem", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "et Piliae", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "1", "surface": "de Tigellio", "entity_id": "person:tigellius", "in": "lat"},
+    {"loc": "1", "surface": "ut mihi Gallus Fadius scripsit", "entity_id": "person:m-fadius", "in": "lat"},
+    {"loc": "1", "surface": "me Phameae defuisse", "entity_id": "person:phamea", "in": "lat"},
+    {"loc": "1", "surface": "sed Phameae causa volebam", "entity_id": "person:phamea", "in": "lat"},
+    {"loc": "1", "surface": "de Sestio nostro", "entity_id": "person:sestius-tribune", "in": "lat"},
+    {"loc": "1", "surface": "quid ego deberem Sestio", "entity_id": "person:sestius-tribune", "in": "lat"},
+    {"loc": "1", "surface": "To Attica first my greetings", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "1", "surface": "and to Pilia", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "1", "surface": "About Tigellius", "entity_id": "person:tigellius", "in": "eng"},
+    {"loc": "1", "surface": "so Fadius Gallus writes me", "entity_id": "person:m-fadius", "in": "eng"},
+    {"loc": "1", "surface": "that I let Phamea down", "entity_id": "person:phamea", "in": "eng"},
+    {"loc": "1", "surface": "but for Phamea's sake I was willing", "entity_id": "person:phamea", "in": "eng"},
+    {"loc": "1", "surface": "verdict on our friend Sestius", "entity_id": "person:sestius-tribune", "in": "eng"},
+    {"loc": "1", "surface": "what I owed Sestius", "entity_id": "person:sestius-tribune", "in": "eng"},
+    {"loc": "2", "surface": "Gallo autem narravi", "entity_id": "person:m-fadius", "in": "lat"},
+    {"loc": "2", "surface": "neque nominavi Balbum minorem", "entity_id": "person:cornelius-balbus-younger", "in": "lat"},
+    {"loc": "2", "surface": "suum negotium Gallus", "entity_id": "person:m-fadius", "in": "lat"},
+    {"loc": "2", "surface": "quod Phamean destituissem", "entity_id": "person:phamea", "in": "lat"},
+    {"loc": "2", "surface": "I told Gallus", "entity_id": "person:m-fadius", "in": "eng"},
+    {"loc": "2", "surface": "without naming Balbus the younger", "entity_id": "person:cornelius-balbus-younger", "in": "eng"},
+    {"loc": "2", "surface": "Gallus had his own business", "entity_id": "person:m-fadius", "in": "eng"},
+    {"loc": "2", "surface": "having abandoned Phamea", "entity_id": "person:phamea", "in": "eng"}
+  ]
+}

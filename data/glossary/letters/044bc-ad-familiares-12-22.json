@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-22",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "waging war with a gladiator",
+      "entity_id": "person:antony",
+      "note": "\"Gladiator\" was a standard term of abuse in Cicero's invective against Antony, casting him as a brutal, low hireling; the war is the political struggle of late 44 BC, fought \"words against arms\" (Cicero's speeches against Antony's troops)."
+    },
+    {
+      "loc": "1",
+      "anchor": "our own colleague Antonius",
+      "entity_id": "person:antony",
+      "note": "Antony was Cicero's colleague in the college of augurs (conlega), a priestly tie that sharpens the insult of calling him a gladiator."
+    },
+    {
+      "loc": "1",
+      "anchor": "our tyrant-slayers are at the world's end",
+      "entity_id": null,
+      "note": "The tyrannoctoni are the assassins of Caesar (chiefly M. Brutus and Cassius), who by late 44 BC had withdrawn to the eastern provinces, leaving the loyalists in Rome leaderless."
+    }
+  ]
+}

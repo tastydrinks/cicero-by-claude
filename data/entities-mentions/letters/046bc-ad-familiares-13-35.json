@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-35",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "1", "surface": "C. Avianius Philoxenus", "entity_id": "person:c-avianius-philoxenus", "in": "lat"},
+    {"loc": "1", "surface": "Gaius Avianius Philoxenus", "entity_id": "person:c-avianius-philoxenus", "in": "eng"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Novocomensis", "entity_id": "place:novum-comum", "in": "lat"},
+    {"loc": "1", "surface": "Novum Comum", "entity_id": "place:novum-comum", "in": "eng"},
+    {"loc": "1", "surface": "Flacco Avianio", "entity_id": "person:c-avianius-flaccus", "in": "lat"},
+    {"loc": "1", "surface": "Flaccus Avianius", "entity_id": "person:c-avianius-flaccus", "in": "eng"},
+    {"loc": "2", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "2", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"}
+  ]
+}

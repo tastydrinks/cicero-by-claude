@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-01",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PLANCO.", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCO.", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "Graeciam", "entity_id": "place:graecia", "in": "lat"},
+    {"loc": "1", "surface": "Greece", "entity_id": "place:graecia", "in": "eng"},
+    {"loc": "1", "surface": "rei p.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the republic", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "M. Antonium", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "M. Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "mi Plance", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "my dear Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "consulatus tui", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "your consulship", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "populus", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "people", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "4", "surface": "Furnium nostrum", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "4", "surface": "our friend Furnius", "entity_id": "person:furnius", "in": "eng"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-02",
+  "mentions": [
+    {"loc": "1", "surface": "BRVTVS", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "BRVTVS", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "CASSIVS", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "CASSIVS", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "PRAETORES", "entity_id": "office:praetor", "in": "lat"},
+    {"loc": "1", "surface": "PRAETORES", "entity_id": "office:praetor", "in": "eng"},
+    {"loc": "1", "surface": "M. ANTONIO", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "M. ANTONIO", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "COS.", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "COS.", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

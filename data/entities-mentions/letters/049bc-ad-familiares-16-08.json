@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-08",
+  "mentions": [
+    {"loc": "1", "surface": "Q. CICERO", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "2", "surface": "Euripides", "entity_id": "person:euripides", "in": "lat"},
+    {"loc": "2", "surface": "Euripides", "entity_id": "person:euripides", "in": "eng"},
+    {"loc": "2", "surface": "Quintus f.", "entity_id": "person:q-cicero-younger", "in": "lat"},
+    {"loc": "2", "surface": "Quintus the son", "entity_id": "person:q-cicero-younger", "in": "eng"}
+  ]
+}

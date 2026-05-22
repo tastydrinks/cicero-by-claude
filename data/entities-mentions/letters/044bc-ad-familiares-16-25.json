@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-25",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO F.", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI SVO", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "pater", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "my father", "entity_id": "person:cicero", "in": "eng"}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "be sent to Varro",
+      "entity_id": "person:m-terentius-varro",
+      "note": "The reworked Academica, now to be presented to Varro as dedicatee and chief speaker. Cicero asks Atticus to weigh whether the dedication should go forward."
+    },
+    {
+      "loc": "1",
+      "anchor": "added to the dialogue as the third party",
+      "entity_id": "person:atticus",
+      "note": "Cicero has cast Atticus himself as the third interlocutor (alongside Cicero and Varro) in the new Academica. Atticus thus has a personal stake in whether the work is published."
+    },
+    {
+      "loc": "1",
+      "anchor": "The names, it is true, have already been assigned",
+      "entity_id": null,
+      "note": "The speaking roles of the dialogue (the nomina, the named characters) have been fixed in the draft. Cicero notes they can still be introduced or swapped, since the philosophy is independent of who voices it."
+    },
+    {
+      "loc": "2",
+      "anchor": "our Attica",
+      "entity_id": "person:attica-pomponia",
+      "note": "Atticus's daughter Attica, whose health was Cicero's recurring anxiety in these letters. He frets that three days have passed without news."
+    },
+    {
+      "loc": "2",
+      "anchor": "giving these to Valerius",
+      "entity_id": null,
+      "note": "Valerius is the bearer carrying this letter to Atticus. He cannot be securely matched to any particular Valerius in the registry."
+    }
+  ]
+}

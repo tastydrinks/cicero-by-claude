@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "my good offices towards Rhodo",
+      "entity_id": "person:rhodo-thermi",
+      "note": "Rhodo is otherwise unknown; the name suggests a Greek or freedman connected to Thermus's household or provincial staff in Asia whom Cicero had assisted in some unrecorded way."
+    },
+    {
+      "loc": "2",
+      "anchor": "our Aristo",
+      "entity_id": "person:aristo-thermi",
+      "note": "A Greek contact shared between Cicero and Thermus who had visited Cicero and carried his advice back to the propraetor; identity not further recoverable from the surviving correspondence."
+    },
+    {
+      "loc": "2",
+      "anchor": "a young man, powerful and of noble family, were to be slighted by you",
+      "entity_id": "office:quaestor",
+      "note": "Cicero is warning Thermus not to demote or humiliate the unnamed quaestor assigned to him, who outranks Thermus's legates by virtue of his elected office; the quaestor's three brothers are said to be due tribune of the plebs positions in successive years, giving him potent political backing in Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "tribunes of the plebs in succession over the next three years",
+      "entity_id": "office:tribune",
+      "note": "The tribunate of the plebs, an annually elected office carrying sacrosanctity and the power of veto (intercessio), was the premier instrument of political harassment; three brothers holding it in sequence could make three years of life in Rome very difficult for an enemy."
+    },
+    {
+      "loc": "3",
+      "anchor": "you will avoid enmities and consult for the peace of your later years",
+      "note": "Cicero's practical advice throughout is that the political climate ahead (already ominous in 50 BC as the Caesar–Pompey crisis deepened) would amplify any personal enemies a man made in his provincial command; picking a needless fight with a nobilis quaestor was simply bad risk management."
+    }
+  ]
+}

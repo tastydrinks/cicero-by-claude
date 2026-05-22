@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-02-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the third day before the Ides of April",
+      "entity_id": null,
+      "note": "Ante diem tertium Idus Apriles = 11 April 43 BC; the letter is dated in the morning of 12 April (the day before the Ides), with the opening note explaining the brief supplementary postscript."
+    },
+    {
+      "loc": "1",
+      "anchor": "the day before the Ides of April",
+      "entity_id": null,
+      "note": "Pridie Idus Apriles = 12 April 43 BC; Cicero adds this supplement upon learning that Scaptius's couriers had not yet left."
+    },
+    {
+      "loc": "2",
+      "anchor": "with Pansa opposing and angry, delivered the motion that Cassius should pursue Dolabella by war",
+      "entity_id": "person:vibius-pansa",
+      "note": "Consul Gaius Vibius Pansa Caetronianus, though constitutionally Cicero's superior, blocked or resisted this proposal; Cicero pushed the motion through the Senate despite consular opposition, an act of considerable political boldness."
+    },
+    {
+      "loc": "3",
+      "anchor": "shut out by the Rhodians",
+      "entity_id": "place:rhodes",
+      "note": "Rhodes, a semi-autonomous island state allied with Rome, refused Dolabella entry to its harbour — an important signal of where Greek loyalties lay; this forced Dolabella to continue his eastward flight through Asia."
+    },
+    {
+      "loc": "4",
+      "anchor": "take loans from the communities",
+      "entity_id": null,
+      "note": "The Senate's decree authorized Brutus to requisition interest-free loans (pecuniae mutuae) from provincial and allied communities, a standard emergency measure; the practice was resented by the communities affected."
+    },
+    {
+      "loc": "5",
+      "anchor": "the temper of the Caesarian party (as the party is even now called)",
+      "entity_id": "person:caesar",
+      "note": "Cicero's parenthetical remark is significant: even eighteen months after Caesar's murder, his faction retained its identity and name, illustrating how deeply Caesarian loyalties were embedded in Roman politics."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a letter from Isidorus",
+      "entity_id": "person:isidorus",
+      "note": "Isidorus, an agent reporting to Cicero on the sale of his properties; the failure to sell the estates threatened the cash Cicero needed in his stranded state."
+    },
+    {
+      "loc": "1",
+      "anchor": "the property at Frusino",
+      "entity_id": "place:frusino",
+      "note": "Cicero's farm at Frusino in the Volscian hills of Latium. With his finances in ruin, retaining and enjoying this modest estate would be a welcome consolation."
+    },
+    {
+      "loc": "1",
+      "anchor": "The rest Celer will tell",
+      "entity_id": "person:q-pilius-celer",
+      "note": "Q. Pilius Celer, a connection of Atticus (whose wife Pilia was Celer's relation), here serving as the trusted courier who will relay verbally what Cicero dares not commit to writing under Caesarian watch."
+    }
+  ]
+}

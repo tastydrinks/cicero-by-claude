@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-16",
+  "mentions": [
+    {"loc": "1", "surface": "ad Varronem traduximus", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "primo fuit Catuli", "entity_id": "person:q-lutatius-catulus-cos78", "in": "lat"},
+    {"loc": "1", "surface": "Luculli", "entity_id": "person:l-lucullus", "in": "lat"},
+    {"loc": "1", "surface": "Hortensi", "entity_id": "person:hortensius", "in": "lat"},
+    {"loc": "1", "surface": "ad Catonem", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "1", "surface": "Brutumque transtuli", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "tuae litterae de Varrone", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "aptior Antiochia ratio", "entity_id": "person:antiochus-ascalon", "in": "lat"},
+    {"loc": "1", "surface": "I have transferred to Varro", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "1", "surface": "it belonged to Catulus", "entity_id": "person:q-lutatius-catulus-cos78", "in": "eng"},
+    {"loc": "1", "surface": "Lucullus", "entity_id": "person:l-lucullus", "in": "eng"},
+    {"loc": "1", "surface": "and Hortensius", "entity_id": "person:hortensius", "in": "eng"},
+    {"loc": "1", "surface": "those same conversations to Cato", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "1", "surface": "and Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "your letter about Varro", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "1", "surface": "the Antiochean line of argument", "entity_id": "person:antiochus-ascalon", "in": "eng"},
+    {"loc": "2", "surface": "Servilia iamne venit", "entity_id": "person:servilia-hortensii", "in": "lat"},
+    {"loc": "2", "surface": "Brutus ecquid agit", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "de Caesare quid auditur", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "What of Servilia", "entity_id": "person:servilia-hortensii", "in": "eng"},
+    {"loc": "2", "surface": "Brutus, is he doing anything", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "being heard about Caesar", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

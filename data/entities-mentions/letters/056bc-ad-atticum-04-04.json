@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-04",
+  "mentions": [
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Cincius", "entity_id": "person:cincius-agent", "in": "lat"},
+    {"loc": "1", "surface": "Cincius", "entity_id": "person:cincius-agent", "in": "eng"},
+    {"loc": "1", "surface": "Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "1", "surface": "Italy", "entity_id": "place:italia", "in": "eng"}
+  ]
+}

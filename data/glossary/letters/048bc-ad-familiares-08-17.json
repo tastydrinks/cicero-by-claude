@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "at Formiae, when you set off to join Pompey",
+      "entity_id": "place:formiae",
+      "note": "Cicero's villa at Formiae on the Latian coast was his base of indecision in 49 BC; from there he finally sailed in June to join Pompey's camp in Greece, the choice this whole letter laments."
+    },
+    {
+      "loc": "1",
+      "anchor": "C. Curio --- the man whose friendship dragged me, step by step, into this ruined business",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "C. Scribonius Curio, tribune of 50 BC, who was bought over to Caesar's side and carried Caelius with him; he had since died fighting for Caesar in Africa (Aug. 49), which sharpens Caelius's regret."
+    },
+    {
+      "loc": "1",
+      "anchor": "charging me with errands of peace to Caesar and playing the marvellous citizen",
+      "note": "In the abortive negotiations of early 49 BC Cicero acted as a would-be peacemaker, carrying messages between the camps; Caelius mocks the pose ('mirificum civem agis') as having cost him personally."
+    },
+    {
+      "loc": "2",
+      "anchor": "apart from a handful of money-lenders",
+      "note": "The faeneratores (creditors and financiers) backed Caesar because they feared Pompey's victory would bring debt-cancellation and proscription; Caelius says they are the only non-Pompeians left in the district."
+    },
+    {
+      "loc": "2",
+      "anchor": "not one order that is not Pompeian",
+      "note": "The ordines were Rome's formal social ranks (senatorial, equestrian, and the local town councils); Caelius reports that every class on the spot, money-lenders aside, favours Pompey."
+    },
+    {
+      "loc": "2",
+      "anchor": "call me a second Cato of Arruntanus",
+      "note": "A textually corrupt phrase ('Arruntanum me Catonem'); the sense is a sardonic self-comparison to Cato the moral hardliner, but both the wording and the reference are uncertain and editors despair of it."
+    }
+  ]
+}

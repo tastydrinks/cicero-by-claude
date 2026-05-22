@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "taking Arsaces and storming Seleucia",
+      "note": "Arsaces is the dynastic name of the Parthian kings and Seleucia-on-the-Tigris a chief seat of their power; Caelius means that no eastern conquest by Cicero would be worth missing the political theatre at Rome."
+    },
+    {
+      "loc": "1",
+      "anchor": "the augurate, of which I had been the promoter",
+      "entity_id": "office:augur",
+      "note": "The vacant place in the college of augurs went to Antony, whom Caelius had backed, over L. Domitius Ahenobarbus; Domitius blamed Caelius for the humiliating defeat."
+    },
+    {
+      "loc": "1",
+      "anchor": "the acquittal of Sex. Peducaeus",
+      "entity_id": "person:sex-peducaeus-iudex",
+      "note": "Sextus Peducaeus had just been acquitted, which Caelius reads as a favourable omen for the coming prosecution of young Cn. Saturninus."
+    },
+    {
+      "loc": "3",
+      "anchor": "those who sit in judgement",
+      "note": "The jurors and the propertied classes who staffed the courts (qui res iudicant); Caelius predicts they will side with Pompey and the Senate against Caesar."
+    },
+    {
+      "loc": "4",
+      "anchor": "Appius our censor is producing prodigies",
+      "entity_id": "person:appius-claudius-pulcher",
+      "note": "As censor in 50 BC Appius Claudius Pulcher conducted a severe purge of senatorial morals; Caelius mocks his zeal over luxury-goods (statues, pictures), property assessment, and debt."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Scantinia-law case at Drusus's bench",
+      "entity_id": "person:m-livius-drusus-claudianus",
+      "note": "The trial under the Lex Scantinia (against unnatural offences) was heard before the praetor M. Livius Drusus Claudianus; Caelius savours the spectacle of the puritanical censor Appius himself being prosecuted under it."
+    },
+    {
+      "loc": "4",
+      "anchor": "his concession on the matter of the pay for Pompey",
+      "note": "Curio is praised for yielding (remisit de stipendio) over the funds or pay claimed for Pompey's troops, a tactical retreat that strengthened his position against the optimates."
+    }
+  ]
+}

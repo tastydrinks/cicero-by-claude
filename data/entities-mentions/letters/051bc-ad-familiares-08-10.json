@@ -1,0 +1,474 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-10",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CAELIVS",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERONI",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "C. Cassi",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Deiotari",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Cassius",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Euphraten",
+      "entity_id": "place:euphrates",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Parthorum",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Deiotarus",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Commagenen",
+      "entity_id": "place:commagene",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "provinciam nostram",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Italiam",
+      "entity_id": "place:italia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CAELIVS",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERONI",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "C. Cassius",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Deiotarus",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Cassius wrote that the Parthian forces",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Parthian forces",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the Euphrates",
+      "entity_id": "place:euphrates",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Deiotarus, that they have set out through Commagene",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Commagene",
+      "entity_id": "place:commagene",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "into our province",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "set foot in Italy",
+      "entity_id": "place:italia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Parthorum",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "urbe",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "consules",
+      "entity_id": "office:consul",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "senatus consulto",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "consules autem",
+      "entity_id": "office:consul",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "senatum",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Deiotari",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cassius",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Arabas",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Parthos",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "senatui",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the Parthian crossing",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "one man says Pompey should be sent",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "that Pompey should not be moved from the city",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "moved from the city",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "another Caesar with his own army",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "another the consuls",
+      "entity_id": "office:consul",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "by decree of the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "The consuls",
+      "entity_id": "office:consul",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "unwilling to have the Senate held",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "had Deiotarus's not followed close behind",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cassius was falling under the suspicion",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "the Arabs into the province",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "these were the Parthians",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "reported to the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Marcellum",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Parthicum bellum",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Curionem",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesari",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompeio",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Paulus",
+      "entity_id": "person:l-aemilius-paulus-cos50",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Furnius noster",
+      "entity_id": "person:furnius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "You know Marcellus",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "likewise Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "a Parthian war",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Curio going to make himself felt",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "something from Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "a present of something to Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Paulus too talks about the province",
+      "entity_id": "person:l-aemilius-paulus-cos50",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "our friend Furnius",
+      "entity_id": "person:furnius",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "C. Curionis",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "agro Campano",
+      "entity_id": "place:ager-campanus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesari",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "senatus",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "the doings of C. Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "the Campanian land",
+      "entity_id": "place:ager-campanus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesar gives himself no trouble",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Pompey is strongly against it",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "for Caesar on his coming",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "if the Senate, presses",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    }
+  ]
+}

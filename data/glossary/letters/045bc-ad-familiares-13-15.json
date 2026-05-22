@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO CAESARI IMP. S.",
+      "entity_id": "person:caesar",
+      "note": "IMP. = Imperator, an honorific salutation acknowledging Caesar's military command; by 45 BC Caesar held this title as permanent commander-in-chief, making it a standard element of formal correspondence addressed to him."
+    },
+    {
+      "loc": "1",
+      "anchor": "never did they persuade the heart within my breast",
+      "entity_id": "person:homer",
+      "note": "Greek quotation (Iliad 9.345, spoken by Achilles): 'all' emon ou pote thumon eni stethessin epeithen.' Cicero uses Homeric epic to describe, with self-deprecating irony, his own decision not to join Caesar's campaign --- as though he, like Achilles, refused to be moved by appeals to glory. [Greek phrase noted: three Homeric and one Euripidean tag in this letter.]"
+    },
+    {
+      "loc": "2",
+      "anchor": "I hate the wise man who is not wise on his own behalf",
+      "entity_id": "person:homer",
+      "note": "Euripides, fragment 905 Nauck: 'miso sophisten, hostis ouch hautoi sophos.' Cited as the 'true precepts of Euripides' against Homeric heroics; Cicero presents the elder Precilius as endorsing this pragmatic wisdom, even while also quoting the Homeric ideal of aien aristeuein ('always be foremost') --- a deliberate paradox flattering Caesar by showing Cicero has chosen philosophical retirement, not opposition."
+    },
+    {
+      "loc": "3",
+      "anchor": "I have employed with you a novel manner of letter, that you might understand this is no ordinary recommendation",
+      "entity_id": null,
+      "note": "Cicero explicitly flags his use of Greek literary quotation in a Latin recommendation letter as a novum genus ('novel manner'), acknowledging that embedding Homer and Euripides is unusual; it signals both the intimacy of his relationship with Caesar (who shared his Greek education) and the unusual closeness of his bond with the Precilii."
+    }
+  ]
+}

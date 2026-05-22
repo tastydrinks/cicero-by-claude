@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-11",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "our friend Sura",
+      "entity_id": "person:sura-agent-45",
+      "note": "Sura noster, an intermediary of Cicero's at Rome through whom he conveyed his offer of help to Vatinius's wife. Not the Catilinarian Lentulus Sura, who had been executed in 63 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "About Dionysius",
+      "entity_id": "person:dionysius-servus-ciceronis",
+      "note": "The slave who managed Cicero's library, stole many books, falsely claimed to have been freed, and fled to Illyricum; the runaway Vatinius is hunting in 5.9. Cicero asks Vatinius to deal with him and, if he proves a scoundrel, to parade him as a captive."
+    },
+    {
+      "loc": "3",
+      "anchor": "lead him captive in your triumph",
+      "entity_id": null,
+      "note": "A joke: captives were marched in a Roman general's triumphal procession. Cicero pictures the runaway Dionysius dragged along among Vatinius's Dalmatian prisoners."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Dalmatians, who are giving you such trouble",
+      "entity_id": "group:dalmatae",
+      "note": "The Dalmatae, the warlike Illyrian people Vatinius was campaigning against from Narona in 45 BC. Cicero curses them but predicts their defeat will adorn Vatinius's record of exploits."
+    }
+  ]
+}

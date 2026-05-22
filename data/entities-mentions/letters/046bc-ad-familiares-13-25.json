@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-25",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "Hagesaretus Larisaeus", "entity_id": "person:hagesaretus-larisaeus", "in": "lat"},
+    {"loc": "1", "surface": "Hagesaretus of Larisa", "entity_id": "person:hagesaretus-larisaeus", "in": "eng"},
+    {"loc": "1", "surface": "Larisaeus", "entity_id": "place:larissa", "in": "lat"},
+    {"loc": "1", "surface": "Larisa", "entity_id": "place:larissa", "in": "eng"},
+    {"loc": "1", "surface": "consulatu meo", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "during my consulship", "entity_id": "person:cicero", "in": "eng"}
+  ]
+}

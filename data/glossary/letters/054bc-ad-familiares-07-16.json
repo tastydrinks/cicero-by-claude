@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Trojan Horse",
+      "entity_id": "text:equus-troianus",
+      "note": "A Roman tragedy on the sack of Troy (versions ascribed to Livius Andronicus and to Naevius). Cicero quotes its closing tag 'they grow wise too late' to tease Trebatius, who came round to good sense only belatedly."
+    },
+    {
+      "loc": "1",
+      "anchor": "sight-seeing",
+      "entity_id": null,
+      "note": "Renders the Greek philotheoron ('fond of seeing sights'). Cicero teases that Trebatius proved no tourist in Britain, a backhanded compliment after his earlier homesickness."
+    },
+    {
+      "loc": "3",
+      "anchor": "Stoics",
+      "entity_id": "institution:stoic-school",
+      "note": "The Stoic school held that only the wise man is truly rich, since he alone enjoys the whole cosmos; Cicero plays this paradox off against the plain Roman sense of 'rich' (well supplied with cash)."
+    },
+    {
+      "loc": "3",
+      "anchor": "Samarobriva",
+      "entity_id": "place:samarobriva",
+      "note": "Caesar's army headquarters in Gallia Belgica (modern Amiens), where Trebatius was wintering. Cicero's joke is double-edged: Trebatius is the best jurist there only because he is the only one in that backwater."
+    }
+  ]
+}

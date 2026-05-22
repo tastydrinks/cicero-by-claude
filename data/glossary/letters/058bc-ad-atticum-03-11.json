@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "though not on the best authority",
+      "entity_id": null,
+      "note": "Cicero discounts the cheering rumours of his recall because their sources are unreliable; he repeatedly warns himself against false hope."
+    },
+    {
+      "loc": "1",
+      "anchor": "Thessalonica",
+      "entity_id": "place:thessalonica",
+      "note": "The Macedonian city, sheltered by the quaestor Plancius, where Cicero spent most of his exile in 58 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "by your work, your counsel, your influence",
+      "entity_id": "person:atticus",
+      "note": "Cicero asks Atticus for practical help (opera, consilio, gratia) rather than further consolation, which now only deepens his grief."
+    },
+    {
+      "loc": "2",
+      "anchor": "Hold up Quintus my brother",
+      "entity_id": "person:quintus-cicero",
+      "note": "Cicero begs Atticus to support Quintus, who was facing the dangers of his return from Asia at the height of the exile crisis."
+    },
+    {
+      "loc": "2",
+      "anchor": "the fourth day before the Kalends of July",
+      "entity_id": null,
+      "note": "Counting backward inclusively from 1 July, this is 28 June 58 BC."
+    }
+  ]
+}

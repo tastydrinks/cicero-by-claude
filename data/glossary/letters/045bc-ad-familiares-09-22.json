@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-22",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "this was the view of Zeno",
+      "entity_id": "person:zeno-citium",
+      "note": "Zeno of Citium (c. 334-262 BC), founder of Stoicism, held that the wise man should call each thing by its own plain name, since indecency lies in neither the act nor the word. This whole letter is Cicero's playful examination of that Stoic doctrine of frankness of language (parrhesia), prompted by Paetus having used a blunt word in a previous note."
+    },
+    {
+      "loc": "1",
+      "anchor": "even if our Academy has a great quarrel with him",
+      "entity_id": "place:academia-athens",
+      "note": "Cicero identifies himself with the Academy, the sceptical school descended from Plato, which disputed Stoic certainty in epistemology. The aside concedes the Stoics a point on language while reaffirming his own philosophical allegiance."
+    },
+    {
+      "loc": "1",
+      "anchor": "you remember Roscius",
+      "entity_id": "person:roscius-actor",
+      "note": "Q. Roscius Gallus (d. c. 62 BC) was the most celebrated comic actor of the late Republic and a friend of Cicero. Here Cicero recalls a song (canticum) from a comedy that Roscius performed, in which an obscene matter is conveyed entirely through decent words."
+    },
+    {
+      "loc": "2",
+      "anchor": "But Piso Frugi, in his \\textit{Annals}",
+      "entity_id": "person:l-calpurnius-piso-frugi-149",
+      "note": "L. Calpurnius Piso Frugi (cos. 133 BC) wrote the Annales, an early Latin prose history. Cicero's point is that a word Piso used with old-fashioned propriety has, through later usage, slid into the realm of the obscene -- proving that decency is a matter of convention, not of words or things in themselves."
+    },
+    {
+      "loc": "3",
+      "anchor": "Socrates was taught the lyre by the most distinguished lyre-player; his name was Connus",
+      "entity_id": "person:connus",
+      "note": "Connus was the Athenian kithara-player who famously gave music lessons to the elderly Socrates. Cicero offers his name as a reductio: it sounds vaguely indecent in Latin yet plainly is not, showing that the supposed obscenity is mere accident of sound."
+    },
+    {
+      "loc": "5",
+      "anchor": "I keep, and shall keep (such is my habit), Plato's reserve",
+      "entity_id": "person:plato",
+      "note": "Against the Stoic insistence on calling everything by blunt names, Cicero aligns himself with the verbal decorum (verecundia) characteristic of Plato's dialogues, writing of these matters in 'veiled words.' The closing salute 'an honour to the Kalends of March' (the Matronalia, 1 March) sets a date for resuming the banter."
+    }
+  ]
+}

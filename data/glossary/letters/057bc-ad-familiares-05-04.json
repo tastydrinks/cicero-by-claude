@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "your colleague",
+      "entity_id": "person:lentulus-spinther",
+      "note": "P. Cornelius Lentulus Spinther, Nepos's fellow consul in 57 BC and the chief mover of Cicero's recall from exile. Cicero writes from Dyrrachium hoping Nepos, his old enemy, will not obstruct what Spinther is driving."
+    },
+    {
+      "loc": "2",
+      "anchor": "You conquered yourself in giving up your own enmities to the commonwealth",
+      "entity_id": "person:metellus-nepos",
+      "note": "Nepos had clashed bitterly with Cicero as tribune in 62 BC but, as consul in 57, set the feud aside and allowed the recall to proceed. Cicero presses him not to be dragged back into others' (i.e. Clodius's) hostility."
+    },
+    {
+      "loc": "2",
+      "anchor": "that violence which conquered me along with the commonwealth",
+      "entity_id": null,
+      "note": "The armed intimidation of P. Clodius Pulcher's gangs in 58 BC that drove Cicero into exile. He frames his fall as a defeat the republic suffered with him, so his restoration is the state's restoration too."
+    }
+  ]
+}

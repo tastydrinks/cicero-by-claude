@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "PLANCUS CICERONI S.",
+      "entity_id": "person:munatius-plancus",
+      "note": "Lucius Munatius Plancus, governor of Transalpine Gaul in 43 BC; the letter is from him to Cicero, the salutation following the Roman epistolary convention of naming sender before recipient."
+    },
+    {
+      "loc": "3",
+      "anchor": "sixth day before the Kalends of May",
+      "entity_id": null,
+      "note": "Ante diem sextum Kalendas Maias = 26 April 43 BC. Roman dates counted inclusively backward from the Kalends (1st), Nones, or Ides of the month."
+    },
+    {
+      "loc": "3",
+      "anchor": "I crossed the Rhone with the army by forced marches",
+      "entity_id": "person:munatius-plancus",
+      "note": "Plancus was marching from Transalpine Gaul toward northern Italy to support the Senatorial forces against Antony; the Rhone crossing was a critical logistical milestone demonstrating his commitment to the Republic."
+    },
+    {
+      "loc": "3",
+      "anchor": "Vienna",
+      "entity_id": "place:vienna-gaul",
+      "note": "Modern Vienne (France), on the Rhone south of Lyon; the principal city of the Allobroges and an important Roman town in Transalpine Gaul, serving as Plancus's forward staging point."
+    },
+    {
+      "loc": "3",
+      "anchor": "if Lepidus does not obstruct me",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "M. Aemilius Lepidus, governor of Narbonese Gaul and Nearer Spain, whose loyalty was already suspect; Plancus feared Lepidus might physically block his army's route or defect to Antony, which Lepidus did in May 43 BC."
+    }
+  ]
+}

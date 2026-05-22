@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-45",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "at Astura",
+      "entity_id": "place:astura",
+      "note": "Astura was a small island and villa at the mouth of the river of the same name on the Latian coast, where Cicero withdrew in near-total seclusion after Tullia's death in February 45 BC. He found its emptiness more endurable than company, even as it left him alone with his grief."
+    },
+    {
+      "loc": "1",
+      "anchor": "I would rather have him a temple-mate of Quirinus",
+      "entity_id": "person:romulus",
+      "note": "In 45 BC a statue of Caesar was set up in the temple of Quirinus (the deified Romulus), inscribed to him as a god \"sharing the temple\" (Greek synnaos). Cicero's barb is double-edged: Quirinus was the deified Romulus, who was also said to have been torn apart by the senators, so to wish Caesar a temple-mate of Quirinus rather than of Salus (Welfare) is to hint darkly at his end."
+    },
+    {
+      "loc": "1",
+      "anchor": "of Quirinus, than of Salus",
+      "entity_id": "place:templum-salutis",
+      "note": "The temple of Salus (the goddess of Health and public Welfare) stood on the Quirinal next to Atticus's house. Cicero plays Salus off against Quirinus: he would sooner see Caesar lodged with the ominous Quirinus than honoured as a guarantor of the state's welfare."
+    },
+    {
+      "loc": "1",
+      "anchor": "do spread Hirtius about",
+      "entity_id": "person:hirtius",
+      "note": "Cicero urges Atticus to circulate Hirtius's pamphlet attacking Cato, part of the literary war touched off by Cicero's own eulogy the Cato. He reckons the attack will misfire: while readers admire Hirtius's ability, the very project of running Cato down will only make it look ridiculous."
+    }
+  ]
+}

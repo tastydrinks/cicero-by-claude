@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-25",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "in you and in your colleague rests all our hope",
+      "entity_id": "person:munatius-plancus",
+      "note": "Decimus Brutus's \"colleague\" is L. Munatius Plancus, his fellow consul-designate for 42 BC and governor of Transalpine Gaul; the two were jointly charged with finishing the war against Antony."
+    },
+    {
+      "loc": "2",
+      "anchor": "him I do not cease summoning",
+      "entity_id": "person:brutus",
+      "note": "The Brutus here is Marcus Brutus the Liberator, then with his army in Macedonia and the East, whom Cicero kept urging by private letter to bring his forces to the \"common war\" in Italy."
+    },
+    {
+      "loc": "2",
+      "anchor": "I am not living up to your Laconic brevity",
+      "entity_id": null,
+      "note": "\"Laconic\" (Cicero's Greek lakonismon) means terse, after the famously curt speech of Sparta (Laconia); he teases that his second page already breaks the brevity Decimus had urged."
+    },
+    {
+      "loc": "2",
+      "anchor": "Fourteen days before the Kalends of Quintilis",
+      "entity_id": null,
+      "note": "Quintilis is the old name of the month later renamed July in Caesar's honor; the dateline \"xiiii K. Quintil.\" (counted inclusively) corresponds to 18 June 43 BC."
+    }
+  ]
+}

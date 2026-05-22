@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "takes you for a thorough jurist",
+      "entity_id": "person:c-trebatius-testa",
+      "note": "Iure consultum: Caesar rates Trebatius highly as a iuris consultus, a legal expert. The whole letter plays on Trebatius being learned in law (sapere) yet timid in war and water; Cicero quips that even Britain would have found no one more 'learned.'"
+    },
+    {
+      "loc": "2",
+      "anchor": "Mucius and Manilius were of the same view",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "note": "Two jurists invoked as if delivering a mock legal opinion (the form a responsum took): they 'agree' that Trebatius needs a good stove against the Gallic winter. A standing joke that Trebatius's legal circle is consulted on his comfort."
+    },
+    {
+      "loc": "2",
+      "anchor": "not exactly well supplied with cloaks",
+      "entity_id": null,
+      "note": "Saga: the heavy woollen military cloak worn on campaign; 'to put on the sagum' (saga sumere) meant to go to war. Cicero teases the under-equipped Trebatius shivering in winter quarters (hiberna)."
+    },
+    {
+      "loc": "2",
+      "anchor": "court advocacy",
+      "entity_id": null,
+      "note": "Advocationes: the business of supporting a litigant in court, the bread-and-butter of the Roman jurist and advocate. Cicero's joke is that Trebatius is bolder in the perils of the courtroom than in those of war or the sea."
+    },
+    {
+      "loc": "2",
+      "anchor": "a blindfold-gladiator match",
+      "entity_id": null,
+      "note": "Andabata: a gladiator who fought in a helmet without eye-holes, flailing blindly for the crowd's amusement. Cicero says the timid Trebatius used to be such an avid spectator that they could not even cheat him of so absurd a show."
+    },
+    {
+      "loc": "4",
+      "anchor": "our brothers the Aedui",
+      "entity_id": "group:aedui",
+      "note": "The Aedui, a Gallic tribe formally honoured by Rome as 'brothers and kinsmen' (fratres) of the Roman people. Cicero plays on the title: one meeting with Trebatius would be worth more than enemies or even these official 'brothers' of Caesar's province."
+    }
+  ]
+}

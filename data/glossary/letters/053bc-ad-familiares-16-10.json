@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "to reach Cumae",
+      "entity_id": "place:cumae",
+      "note": "Cumae, on the bay of Naples, where Tiro was convalescing; Cicero has a villa nearby."
+    },
+    {
+      "loc": "1",
+      "anchor": "at the Formian villa",
+      "entity_id": "place:formiae",
+      "note": "Cicero's villa at Formiae on the coast of Latium, between Rome and Campania, a regular stopping place on his journeys."
+    },
+    {
+      "loc": "2",
+      "anchor": "which Acastus brought",
+      "entity_id": "person:acastus-servus",
+      "note": "Acastus, one of the household slaves who served as couriers in Cicero's correspondence."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pompey was with me",
+      "entity_id": "person:pompey",
+      "note": "Gnaeus Pompeius Magnus, the great general and dynast; here a friendly visitor curious about Cicero's literary work."
+    },
+    {
+      "loc": "2",
+      "anchor": "service to our Muses again",
+      "entity_id": "god:muses",
+      "note": "The Muses, goddesses of poetry and learning, stand for Cicero's writing; the 'service' is Tiro's secretarial help with his literary projects."
+    },
+    {
+      "loc": "2",
+      "anchor": "the true meaning of \\textit{fides} --- good faith",
+      "note": "A play on words: Cicero says he has taught Tiro the 'etymon' (true root sense) of fides, which means both 'good faith / a promise kept' and the strings of a lyre, fitting the talk of music and the Muses."
+    }
+  ]
+}

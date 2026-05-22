@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-07",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CLVVIO", "entity_id": "person:c-cluvius", "in": "lat"},
+    {"loc": "1", "surface": "CLVVIO", "entity_id": "person:c-cluvius", "in": "eng"},
+    {"loc": "1", "surface": "in Galliam proficiscens", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "1", "surface": "on your way out to Gaul", "entity_id": "place:gallia", "in": "eng"},
+    {"loc": "1", "surface": "municipi Atellani", "entity_id": "place:atella", "in": "lat"},
+    {"loc": "1", "surface": "township of Atella", "entity_id": "place:atella", "in": "eng"},
+    {"loc": "1", "surface": "agro vectigali", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "1", "surface": "tax-paying land which the township of Atella holds in Gaul", "entity_id": "place:gallia", "in": "eng"},
+    {"loc": "1", "surface": "C. Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "C. Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "C. Caesari", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "C. Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "4", "surface": "Regiensis", "entity_id": "place:rhegium", "in": "lat"},
+    {"loc": "4", "surface": "men of Rhegium", "entity_id": "place:rhegium", "in": "eng"},
+    {"loc": "5", "surface": "a Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "5", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

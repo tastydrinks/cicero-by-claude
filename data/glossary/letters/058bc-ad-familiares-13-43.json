@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-43",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO greets Quintius Gallus",
+      "entity_id": "person:q-gallius",
+      "note": "The letter-heading; the first of two consecutive recommendations (13.43, 13.44) addressed to Q. Gallius on behalf of L. Oppius and the absent banker L. Egnatius Rufus. The praenomen and nomen are uncertain: the manuscripts give \"Quintius Gallus,\" usually normalized to Q. Gallius."
+    },
+    {
+      "loc": "1",
+      "anchor": "L. Oppius, son of Marcus, does business at Philomelium",
+      "entity_id": "person:l-oppius",
+      "note": "L. Oppius was a negotiator (a Roman businessman, typically engaged in trade and money-lending) based at Philomelium, a town in Phrygia in Asia Minor. He is to be distinguished from C. Oppius, Julius Caesar's confidential agent."
+    },
+    {
+      "loc": "1",
+      "anchor": "he also has charge of the affairs of L. Egnatius Rufus, the one Roman knight with whom I am most closely connected",
+      "entity_id": "person:l-egnatius-rufus",
+      "note": "L. Egnatius Rufus was a banker and Roman knight with extensive provincial business interests; Cicero repeatedly commended his agents to provincial governors. Oppius here acts as his procurator (business manager) in his absence."
+    },
+    {
+      "loc": "2",
+      "anchor": "I should be glad if, for memory's sake, you would write yourself something in a letter, to be delivered to you in your province",
+      "entity_id": null,
+      "note": "A practical touch of the genre: Cicero asks Gallius to copy out a note for himself so that, once he reaches his province and the matter arises, the force of this commendation will be fresh in his mind."
+    }
+  ]
+}

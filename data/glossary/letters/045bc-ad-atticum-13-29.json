@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-29",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "About the gardens",
+      "entity_id": null,
+      "note": "The \"horti\" are the suburban pleasure-gardens with a villa that Cicero spent 45 BC trying to buy on the Tiber's bank near Rome. He wanted them as the site of a shrine (fanum) to his dead daughter Tullia, the obsession that drives this whole cluster of letters."
+    },
+    {
+      "loc": "1",
+      "anchor": "as a shrine \\textit{[Greek: aphidruma]}",
+      "entity_id": null,
+      "note": "Cicero uses the Greek word aphidruma, a consecrated image or sacred precinct set apart from a place, for the memorial shrine he means to build for Tullia. The plan was for a public, much-visited site, which is why he prizes the grove's new \"traffic.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "if Faberius clears that debt for us",
+      "entity_id": "person:faberius",
+      "note": "Faberius was Caesar's secretary; a large debt he owed Cicero (the \"nomen Faberianum\") was the asset Cicero meant to call in to finance the purchase of the gardens. The whole transaction hangs on whether Faberius will settle."
+    },
+    {
+      "loc": "1",
+      "anchor": "I want you to outbid Otho",
+      "entity_id": "person:otho",
+      "note": "L. Roscius Otho was a rival bidder for the gardens. Cicero, doubting Otho's solvency, urges Atticus to outbid him regardless of price."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Dolabella debt",
+      "entity_id": "person:dolabella",
+      "note": "Money owed by Cicero's former son-in-law P. Cornelius Dolabella, here treated as a readily collectable asset (a \"nomen\") that could supply ready cash for Clodia's cheaper gardens."
+    },
+    {
+      "loc": "2",
+      "anchor": "confidence even of cash on the nail",
+      "entity_id": null,
+      "note": "Latin repraesentatio: payment in full and immediate, rather than in installments or by transfer of debts. A seller would discount for it, which is why prompt cash strengthens Cicero's hand."
+    },
+    {
+      "loc": "2",
+      "anchor": "I have sent Cicero's letter back to you",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "\"Cicero\" here is the orator's son, young Marcus, studying in Athens; his letters home were forwarded between Cicero and Atticus. The plea about \"his straits\" in the next section is the young man's request for money."
+    },
+    {
+      "loc": "3",
+      "anchor": "given to Pharnaces",
+      "entity_id": "person:pharnaces-atticianus",
+      "note": "Pharnaces was a member of Atticus's household staff who carried letters; not the Pontic king of the same name. Here he had handed on a letter for onward delivery to Vestorius at Puteoli."
+    }
+  ]
+}

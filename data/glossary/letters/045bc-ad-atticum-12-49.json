@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-49",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "a letter from Gaius Marius, son of Gaius, grandson of Gaius",
+      "entity_id": null,
+      "note": "A petitioner who claimed descent (through the Crassi) from the great Marius and from the orator L. Crassus and so kinship with Cicero, asking Cicero to act as his advocate. He cannot be securely identified with any known individual and is distinct from the famous general C. Marius."
+    },
+    {
+      "loc": "2",
+      "anchor": "by that Marius whom I had written about",
+      "entity_id": "person:c-marius",
+      "note": "Cicero refers to the seven-times consul Gaius Marius (157--86 BC), the subject of his own youthful poem entitled Marius. The petitioner was invoking that famous Marius as part of his claimed pedigree."
+    },
+    {
+      "loc": "2",
+      "anchor": "by the eloquence of his grandfather Lucius Crassus",
+      "entity_id": "person:l-licinius-crassus",
+      "note": "L. Licinius Crassus (140--91 BC), consul 95 and the greatest orator of his generation, whom Cicero made a chief speaker in the De Oratore. The petitioner claimed Crassus as his grandfather to strengthen his appeal."
+    },
+    {
+      "loc": "2",
+      "anchor": "a moment when Curtius hesitates to stand for the consulship",
+      "entity_id": "person:c-curtius-postumus",
+      "note": "An ironic complaint about the times: even an obscure Caesarian like Curtius can now contemplate the supreme magistracy. Under Caesar's dictatorship the consulship had lost its old competitive prestige."
+    },
+    {
+      "loc": "3",
+      "anchor": "on what day the gardens are advertised for sale",
+      "entity_id": null,
+      "note": "The horti, suburban pleasure-gardens across the Tiber, which Cicero was hunting through this whole period as a site for the shrine (fanum) he planned to build in memory of his dead daughter Tullia. The auctions of such properties were posted publicly in advance."
+    }
+  ]
+}

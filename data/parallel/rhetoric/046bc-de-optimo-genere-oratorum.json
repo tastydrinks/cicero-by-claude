@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "id": "de-optimo-genere-oratorum",
+  "category": "rhetoric",
+  "title_latin": "De Optimo Genere Oratorum",
+  "title_english": "On the Best Kind of Orators",
+  "date": "-0046-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "oratorvm genera esse dicuntur tamquam poetarum; id secus est, nam alterum est multiplex. Poematis enim tragici comici epici melici etiam ac dithyrambici, quo magis est tractatum a Latinis , suum cuiusque est, diversum a reliquis. Itaque et in tragoedia comicum vitiosum est et in comoedia turpe tragicum; et in ceteris suus est cuique certus sonus et quaedam intellegentibus nota vox.",
+      "eng": "There are said to be kinds of orators, as there are kinds of poets. It is not so; for the one is manifold. For poetry --- the tragic, the comic, the epic, the lyric, and the dithyrambic too, which has been handled more by the Greeks than by us --- has its own character for each sort, distinct from the rest. And so in tragedy the comic is a fault, and in comedy the tragic is unseemly; and in the other kinds each has its own settled sound and a certain note that the discerning recognize.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "oratorum autem si quis ita numerat plura genera, ut alios grandis aut gravis aut copiosos, alios tenuis aut subtilis aut brevis, alios eis interiectos et tamquam medios putet, de homini- bus dicit aliquid, de re parum. In re enim quid optimum sit quaeritur, in homine dicitur quod est. Itaque licet dicere et Ennium summum epicum poetam, si cui ita videtur, et Pacuvium tragicum et Caecilium fortasse comi- cum.",
+      "eng": "But as for orators, if anyone counts up their kinds in this fashion --- reckoning some grand or weighty or copious, others slender or subtle or brief, and others set between these and, as it were, in the middle --- he is saying something about the men, but little about the matter. For with the matter, the question is what is best; with the man, what is stated is what he is. And so one may call Ennius the supreme epic poet, if so it seems to anyone, and Pacuvius the tragic, and Caecilius perhaps the comic.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "oratorem genere non divido; perfectum enim quaero. Vnum est autem genus perfecti, a quo qui absunt, non genere differunt, ut Terentius ab Accio, sed in eodem genere non sunt pares. Optimus est enim orator, qui dicendo animos audientium et docet et delectat et per- movet. Docere debitum est, delectare honorarium, per- movere necessarium.",
+      "eng": "The orator I do not divide by kind; for it is the perfect one I seek. And of the perfect there is but a single kind, and those who fall short of it differ not in kind --- as Terence differs from Accius --- but, being within the same kind, are not its equals. For the best orator is the one who, by speaking, both teaches and delights and deeply moves the minds of his hearers. To teach is a debt owed; to delight, an honour conferred; to move, a necessity.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "haec ut alius melius quam alius, concedendum est; verum id fit non genere sed gradu. Optimum quidem unum est et proximum quod ei similli- mum. Ex quo perspicuum est, quod optimo dissimillimum sit, id esse deterrimum. nam quoniam eloquentia constat ex verbis et ex sententiis, perficiendum est, ut pure et emendate loquentes, quod est Latine, verborum praeterea et propriorum et translatorum elegantiam persequamur: in propriis ut lautissima eligamus, in translatis ut similitudinem secuti verecunde utamur alienis.",
+      "eng": "That one man should do this better than another must be granted; but this comes about not by kind, but by degree. The best is indeed one single thing, and the next best is whatever is most like it. From which it is plain that whatever is most unlike the best is the worst. For since eloquence is composed of words and of thoughts, we must bring it to pass that, speaking purely and faultlessly --- which is to speak good Latin --- we pursue besides an elegance of words both proper and figurative: among proper words choosing the most polished, among figurative ones, having followed the resemblance, using what is borrowed with restraint.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "sententiarum autem toti dem genera sunt quot dixi esse laudum. Sunt enim docendi acutae, delectandi quasi argutae, commovendi graves. Sed et verborum est structura quaedam duas res efficiens, numerum et levitatem , et sententiae suam compositionem habent, et ad probandam rem accommodatum ordinem. Sed earum omnium rerum ut aedificiorum memoria est quasi fundamentum, lumen actio.",
+      "eng": "Of thoughts there are just as many kinds as I said there are of merits. For there are thoughts that are sharp, for teaching; that are, as it were, pointed, for delighting; that are weighty, for stirring. But there is also a certain construction of words that produces two effects, rhythm and smoothness; and the thoughts have their own arrangement, and an order suited to proving the case. But of all these things, as of buildings, memory is, as it were, the foundation, and delivery the light.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "ea igitur omnia in quo summa erunt, erit perfectissimus orator; in quo media, mediocris; in quo minima, deterrimus. Et appellabuntur omnes oratores, ut pictores appellantur etiam mali, nec generibus inter sese, sed facultatibus different. Itaque nemo est orator qui Demostheni se similem nolit esse; at Menander Homeri noluit; genus enim erat aliud. Id non est in oratoribus aut, etiam si est ut alius gravitatem sequens subtilitatem fugiat, contra alius acutiorem se quam ornatio rem velit, etiam si est in genere tolerabili , certe non est in optimo, si quidem, quod omnis laudes habet, id est optimum.",
+      "eng": "The man, then, in whom all these things shall be present in the highest degree, will be the most perfect orator; in whom they are middling, a middling one; in whom they are least, the worst. And all will be called orators, just as even bad painters are called painters, and they will differ from one another not in kind but in capacity. And so there is no orator who would not wish to be like Demosthenes; but Menander did not wish to be like Homer, for the kind was different. This does not hold among orators; or if it does --- so that one man, pursuing weight, shuns subtlety, while another, on the contrary, would have himself sharper rather than more ornate --- then even if he is within a tolerable kind, he is certainly not within the best; if indeed that which has all merits is the best.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "haec autem dixi brevius quidem quam res petebat, sed ad id quod agimus non fuit dicendum pluribus; unum enim cum sit genus, id quale sit quaerimus. Est autem tale quale floruit Athenis; ex quo Atticorum oratorum ipsa vis ignota est, nota gloria. Nam alterum multi viderunt, vitiosi nihil apud eos esse, alterum pauci, laudabilia esse multa. Est enim vitiosum in sententia, si quid ab- surdum aut alienum aut non acutum aut subinsulsum est; in verbis si inquinatum, si abiectum, si non aptum, si durum, si longe petitum.",
+      "eng": "These things, however, I have stated more briefly than the subject demanded, but for our present purpose there was no need to say more; for since the kind is one, what we are asking is of what sort it is. And it is of such a sort as flourished at Athens; whence the very power of the Attic orators is unknown, though their glory is known. For the one thing many have seen --- that there is nothing faulty in them; the other, only a few --- that there is much in them to be praised. For a thought is faulty if there is anything in it absurd or alien or unpointed or somewhat insipid; and words are faulty if they are tainted, if mean, if unfitting, if harsh, if fetched from far off.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "haec vitaverunt fere omnes qui aut Attici numerantur aut dicunt Attice. Sed qui eatenus valuerunt, sani et sicci dumtaxat habeantur, sed ita ut palaestritae; spatiari in xysto ut liceat, non ab Olympiis coronam petant. Qui cum careant omni vitio, non sunt contenti quasi bona valetudine, sed viris lacertos sanguinem quaerunt , quandam etiam suavitatem coloris. Eos imi- temur, si possumus; si minus , illos potius qui incorrupta sanitate sunt, quod est proprium Atticorum, quam eos quorum vitiosa abundantia est, qualis Asia multos tulit. Quod cum faciemus—",
+      "eng": "These faults nearly all have avoided who are either counted Attic or speak in the Attic manner. But those whose strength reaches only so far should be held merely sound and dry --- yet sound as wrestlers are: such that they may be allowed to stroll in the training-ground, but should not seek the crown at the Olympic games. These men, since they are free of every fault, are not content with what amounts to good health, but seek muscle, sinews, blood, and a certain agreeableness of complexion as well. Let us imitate these, if we can; if not, let us rather imitate those of uncorrupted soundness, which is the property of the Attic writers, than those whose abundance is faulty, of which sort Asia has produced many. And when we do this ---",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "si modo id ipsum adsequemur; est enim permagnum— imitemur, si potuerimus, Lysiam et eius quidem tenuitatem potissimum; est enim multis locis grandior, sed quia et privatas ille plerasque et eas ipsas aliis et parvarum rerum causulas scripsit, videtur esse ieiunior, cum se ipse consulto ad minutarum causarum genera limaverit. quod qui ita faciet, ut, si cupiat uberior esse, non possit, habeatur sane orator, sed de minoribus; magno autem oratori etiam illo modo saepe dicendum est in tali genere causarum.",
+      "eng": "if only we attain that very thing; for it is no small matter --- let us imitate, if we can, Lysias, and most of all that slenderness of his; for in many places he is grander, but because he wrote chiefly private cases, and these for others, and the little suits of small matters, he seems the more meagre, since he deliberately filed himself down to the kinds of minor cases. And whoever does so in such a way that, should he wish to be richer, he cannot, may by all means be held an orator, but one of the lesser sort; whereas a great orator must often speak in that other manner too, in such a kind of case.",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "ita fit ut Demosthenes certe possit sum misse dicere, elate Lysias fortasse non possit. Sed si eodem modo putant exercitu in foro et in omnibus templis, quae circum forum sunt, conlocato dici pro Milone decuisse, ut si de re privata ad unum iudicem diceremus, vim eloquentiae sua facultate, non rei natura metiuntur.",
+      "eng": "So it comes about that Demosthenes can certainly speak in the plain manner, while Lysias perhaps cannot speak in the lofty one. But if men think that, with an army posted in the Forum and in all the temples that stand about the Forum, the speech for Milo ought to have been delivered as if we were pleading some private matter before a single judge, then they are measuring the force of eloquence by their own capacity, and not by the nature of the case.",
+      "notes": null
+    },
+    {
+      "loc": "11",
+      "section": 11,
+      "lat": "qua re quoniam non nullorum sermo iam increbruit, partim se ipsos Attice dicere, partim neminem nostrum dicere, alteros neglegamus; satis enim eis res ipsa respondet, cum aut non adhibeantur ad causas aut adhibiti derideantur; nam si riderentur, esset id ipsum Atticorum. Sed qui dici a nobis Attico more volunt , ipsi autem se non oratores esse profitentur, si teretes auris habent intellegensque iudicium, tamquam ad picturam probandam adhibentur etiam inscii faciendi cum aliqua sollertia iudicandi;",
+      "eng": "Wherefore, since the talk of some has now grown common --- that they themselves, in part, speak in the Attic manner, and that, in part, none of us does so --- the one set let us disregard; for the thing itself answers them sufficiently, since either they are not engaged for cases, or, when engaged, are laughed at; for if they were laughed with, that very thing would be the mark of the Attic. But those who wish us to speak in the Attic manner, while professing themselves not to be orators, if they have refined ears and a discerning judgment, are called in --- like men summoned to pass verdict on a painting --- though ignorant of how to make one, yet with some skill in judging.",
+      "notes": null
+    },
+    {
+      "loc": "12",
+      "section": 12,
+      "lat": "sin autem intellegentiam ponunt in audiendi fastidio neque eos quicquam excelsum magnificumque delectat, dicant se quiddam subtile et politum velle, grande ornatumque contemnere; id vero desinant dicere, qui subtiliter dicant, eos solos Attice dicere, id est quasi sicce et integre. Et ample et ornate et copiose cum eadem integritate Atticorum est. Quid ? dubium est utrum orationem nostram tolerabilem tantum an etiam admira- bilem esse cupiamus? Non enim iam quaerimus quid sit Attice, sed quid sit optime dicere.",
+      "eng": "But if they place their discernment in a fastidiousness of hearing, and nothing lofty and magnificent delights them, let them say that they want something subtle and polished, and that they despise the grand and ornate; but let them cease to say this --- that those who speak subtly are the only ones who speak in the Attic manner, that is, as it were, drily and unalloyed. To speak amply and ornately and copiously, with that same unalloyed purity, belongs to the Attic writers too. What of it? Is it in doubt whether we wish our speech to be merely tolerable, or even admirable? For now we are no longer asking what it is to speak in the Attic manner, but what it is to speak in the best manner.",
+      "notes": null
+    },
+    {
+      "loc": "13",
+      "section": 13,
+      "lat": "ex quo intellegitur, quoniam Graecorum oratorum praestantissimi sint ei qui fuerint Athenis, eorum autem princeps facile Demosthenes, hunc si qui imitetur, cum et Attice dicturum et optime, ut, quoniam Attici nobis propositi sunt ad imitandum, bene dicere id sit Attice dicere . Sed cum in eo magnus error esset, quale esset id dicendi genus, putavi mihi suscipiendum laborem utilem studiosis, mihi quidem ipsi non necessarium.",
+      "eng": "From which it is understood that, since the most outstanding of the Greek orators are those who lived at Athens, and the foremost of them, easily, is Demosthenes, anyone who imitates him will speak both in the Attic manner and in the best --- so that, since the Attic writers have been set before us for imitation, to speak well is the same as to speak in the Attic manner. But since there was great error about what that kind of speaking was, I thought I should undertake a labour useful to the studious, though to myself indeed not necessary.",
+      "notes": null
+    },
+    {
+      "loc": "14",
+      "section": 14,
+      "lat": "converti enim ex Atticis duorum eloquentissimorum nobilissimas orationes inter seque contrarias, Aeschini et Demostheni; nec converti ut interpres, sed ut orator, sententiis isdem et earum formis tamquam figuris, verbis ad nostram consuetudinem aptis. In quibus non verbum pro verbo necesse habui reddere, sed genus omne verborum vimque servavi. Non enim ea me adnumerare lectori putavi oportere, sed tam- quam appendere.",
+      "eng": "For I translated from the Attic orators the most celebrated speeches of the two most eloquent of them, set against each other --- those of Aeschines and Demosthenes; and I translated them not as a translator but as an orator, keeping the same thoughts and their forms, their figures as it were, in words fitted to our usage. In these I did not think it necessary to render word for word, but I preserved the whole character and force of the words. For I did not suppose I ought to count them out to the reader like coins, but, as it were, to weigh them out.",
+      "notes": null
+    },
+    {
+      "loc": "15",
+      "section": 15,
+      "lat": "hic labor meus hoc adsequetur , ut nostri homines quid ab illis exigant, qui se Atticos volunt, et ad quam eos quasi formulam dicendi revocent intellegant. 'Sed exorietur Thucydides; eius enim quidam eloquentiam admirantur. ' Id quidem recte; sed nihil ad eum oratorem quem quaerimus. Aliud est enim explicare res gestas nar- rando, aliud argumentando criminari crimenve dissolvere; aliud narrantem tenere auditorem, aliud concitare . 'At loquitur pulchre.'",
+      "eng": "This labour of mine will accomplish this: that our countrymen may understand what they should demand of those who would have themselves called Attic, and to what formula of speaking, as it were, they should recall them. ``But Thucydides will rise up against this; for there are some who admire his eloquence.'' That, indeed, is right; but it has nothing to do with the orator we are seeking. For it is one thing to set forth deeds done by narrating them, another to bring a charge or undo a charge by argument; one thing to hold a hearer while you narrate, another to rouse him. ``But he speaks beautifully.''",
+      "notes": null
+    },
+    {
+      "loc": "16",
+      "section": 16,
+      "lat": "num melius quam Plato? Necesse est tamen oratori quem quaerimus controversias explicare forensis dicendi genere apto ad docendum, ad delectandum, ad permovendum. qua re si quis erit qui se Thucydideo genere causas in foro dicturum esse profiteatur, is abhorrebit etiam a suspicione eius quod versatur in re civili et forensi; sin Thucydidem laudabit, ascribat suae nostram sententiam.",
+      "eng": "More beautifully, then, than Plato? Yet the orator we are seeking must necessarily unfold forensic disputes in a kind of speaking fitted to teaching, to delighting, to deeply moving. Wherefore, if there shall be anyone who professes that he will plead cases in the Forum in the Thucydidean kind, he will be a stranger even to the suspicion of what is at work in civil and forensic affairs; but if he praises Thucydides, let him add our verdict to his own.",
+      "notes": null
+    },
+    {
+      "loc": "17",
+      "section": 17,
+      "lat": "quin ipsum Isocratem, quem divinus auctor Plato suum fere aequalem admirabiliter in Phaedro laudari fecit ab Socrate quemque omnes docti summum oratorem esse dixerunt, tamen hunc in numerum non repono. Non enim in acie versatur nec ferro , sed quasi rudibus eius eludit oratio. A me autem, ut cum maximis minima con- feram, gladiatorum par nobilissimum inducitur, Aeschines , tamquam Aeserninus, ut ait Lucilius , non spurcus homo, sed acer et doctus cum Pacideiano hic componitur,—optimus longe post homines natos—. Nihil enim illo oratore arbitror cogitari posse divinius.",
+      "eng": "Indeed Isocrates himself, whom that divine authority Plato made out to be praised, marvellously, by Socrates in the Phaedrus as nearly his own contemporary, and whom all the learned have called the supreme orator --- even him I do not place in this number. For he is not engaged on the battle-line, nor with the sword, but his oratory fences, as it were, with the wooden foil. By me, however --- to compare the least with the greatest --- a most distinguished pair of gladiators is brought on: Aeschines, like Aeserninus, as Lucilius says, no foul fellow but keen and skilled, is here matched against Pacideianus --- ``by far the best since men were born.'' For I think nothing more divine than that orator can be conceived.",
+      "notes": null
+    },
+    {
+      "loc": "18",
+      "section": 18,
+      "lat": "Huic labori nostro duo genera reprehensionum oppo- nuntur. Vnum hoc: 'Verum melius Graeci.' A quo quaeratur ecquid possint ipsi melius Latine? Alterum: 'Quid istas potius legam quam Graecas ?' Idem Andriam et Synephebos nec minus Terentium et Caecilium quam Menandrum legunt, nec Andromacham aut Antiopam aut Epigonos Latinos recipiunt ; sed tamen Ennium et Pacuvium et Accium potius quam Euripidem et Sophoclem legunt . Quod igitur est eorum in orationibus e Graeco conversis fastidium, nullum cum sit in versibus ?",
+      "eng": "Against this labour of ours two kinds of reproach are set. The first is this: ``But the Greeks do it better.'' Of which one might ask whether the objectors themselves can do anything better in Latin. The other: ``Why should I read these rather than the Greek?'' The same men read the Andria and the Synephebi, and Terence and Caecilius no less than Menander, and yet they do not reject the Latin Andromache or Antiope or Epigoni; nay, they read Ennius and Pacuvius and Accius rather than Euripides and Sophocles. What, then, is this disdain of theirs for speeches translated from the Greek, when there is none for verses?",
+      "notes": null
+    },
+    {
+      "loc": "19",
+      "section": 19,
+      "lat": "Sed adgrediamur iam quod suscepimus, si prius exposue rimus quae causa in iudicium deducta sit. Cum esset lex Athenis, NE .QVIS POPVLI SCITVM FACERET, VT QVISQVAM CORONA DONARETVR IN MAGISTRATV PRIVS QVAM RATIONES RETTVLISSET; et altera lex, EOS, QVI A POPVLO DONARENTVR, IN CONTIONE DONARI DEBERE; QVI A SENATV , IN SENATV, Demosthenes curator muris reficiendis fuit eosque refecit pecunia sua; de hoc igitur Ctesiphon scitum fecit nullis ab illo rationibus relatis, ut corona aurea donaretur eaque donatio fieret in theatro populo convocato, qui locus non est contionis legitimae, atque ita praedicaretur, EVM DONARI VIRTVTIS ERGO BENEVOLENTIAEQVE QVAM IS ERGA POPVLVM ATHENIENSEM HABERET.",
+      "eng": "But let us now approach what we have undertaken, once we have first set out what case was brought to trial. There was a law at Athens that no one should propose a decree of the people for anyone to be honoured with a crown while in office before he had rendered his accounts; and another law, that those who were honoured by the people should be honoured in the assembly, and those by the Senate, in the Senate. Demosthenes had been commissioner for the repair of the walls and had repaired them with his own money; concerning him, then, Ctesiphon proposed a decree --- though no accounts had been rendered by him --- that he should be honoured with a golden crown, and that this honour should be conferred in the theatre, with the people called together (a place which is not that of a lawful assembly), and that it should there be proclaimed that he was being honoured on account of the virtue and goodwill which he bore toward the Athenian people.",
+      "notes": null
+    },
+    {
+      "loc": "20",
+      "section": 20,
+      "lat": "hunc igitur Ctesiphontem in iudicium adduxit Aeschines, quod contra leges scripsisset, ut et rationibus non relatis corona donaretur et ut in theatro, et quod de virtute eius et benevolentia falsa scripsisset, cum Demosthenes nec vir bonus esset nec bene meritus de civitate. Causa ipsa abhorret illa quidem a formula consuetudinis nostrae, sed est magna. Habet enim et legum interpretationem satis acutam in utramque partem et meritorum in rem publicam contentionem sane gravem.",
+      "eng": "This Ctesiphon, then, Aeschines brought to trial, on the ground that he had written contrary to the laws --- both that the crown should be conferred when no accounts had been rendered, and that it should be done in the theatre --- and that he had written falsely about the man's virtue and goodwill, since Demosthenes was neither a good man nor one who had deserved well of the state. The case itself is, indeed, a stranger to the pattern of our usage, but it is a great one. For it contains both an interpretation of the laws sharp enough on either side, and a contention over services to the commonwealth that is weighty indeed.",
+      "notes": null
+    },
+    {
+      "loc": "21",
+      "section": 21,
+      "lat": "itaque causa fuit Aeschini, cum ipse a Demo sthene esset capitis accusatus, quod legationem ementitus esset, ut ulciscendi inimici causa nomine Ctesiphontis iudicium fieret de factis famaque Demosthenis. Non enim tam multa dixit de rationibus non relatis, quam de eo quod civis improbus ut optimus laudatus esset.",
+      "eng": "And so Aeschines had a motive --- since he himself had been accused on a capital charge by Demosthenes, for having lied in his embassy --- that, for the sake of avenging himself on his enemy, a trial should be held in Ctesiphon's name concerning the deeds and the reputation of Demosthenes. For he said not so much about the accounts not rendered as about this: that a wicked citizen had been praised as the best.",
+      "notes": null
+    },
+    {
+      "loc": "22",
+      "section": 22,
+      "lat": "hanc multam Aeschines a Ctesiphonte petivit quadriennio ante Philippi Macedonis mortem; sed iudicium factum est aliquot annis post Alexandro iam Asiam tenente; ad quod iudicium concursus dicitur e tota Graecia factus esse. Quid enim tam aut visendum aut audiendum fuit quam summorum oratorum in gravissima causa accurata et inimicitiis incensa contentio?",
+      "eng": "Aeschines sought this penalty from Ctesiphon four years before the death of Philip of Macedon; but the trial took place several years afterward, when Alexander already held Asia; and to this trial, it is said, there was a gathering from all of Greece. For what was so worth seeing or so worth hearing as the contention, careful and inflamed with enmity, of the greatest of orators in a most weighty case?",
+      "notes": null
+    },
+    {
+      "loc": "23",
+      "section": 23,
+      "lat": "quorum ego orationes si, ut spero, ita expres sero virtutibus utens illorum omnibus, id est sententiis et earum figuris et rerum ordine, verba persequens eatenus, ut ea non abhorreant a more nostro—quae si e Graecis omnia conversa non erunt, tamen ut generis eiusdem sint, elabora- vimus —, erit regula, ad quam eorum dirigantur orationes qui Attice volent dicere. Sed de nobis satis. Aliquando enim Aeschinem ipsum Latine dicentem audiamus.",
+      "eng": "If, then, I shall have rendered their speeches as I hope --- employing all the merits of those men, that is, the thoughts and their figures and the order of the matter, following the words only so far that they do not jar against our usage (and though they will not all be translated from the Greek, yet we have laboured that they should be of the same character) --- there will be a standard by which the speeches of those who would speak in the Attic manner may be directed. But enough about us. Let us at last hear Aeschines himself speaking Latin.",
+      "notes": null
+    }
+  ]
+}

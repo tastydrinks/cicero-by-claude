@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the man who managed them",
+      "entity_id": "person:philotimus",
+      "note": "Philotimus, a freedman of Terentia who handled Cicero's finances; his disappearance and mismanagement are a running anxiety of book 11. Cicero never names him here, but he is the agent who left the household accounts in disorder."
+    },
+    {
+      "loc": "2",
+      "anchor": "in cistophori",
+      "entity_id": null,
+      "note": "The cistophorus was a silver coin of the province of Asia, named for the mystic basket (cista) of Dionysus on its reverse. Cicero held a large balance in this Asian currency, recoverable through Atticus's banking connections."
+    },
+    {
+      "loc": "2",
+      "anchor": "twenty-two hundred thousand sesterces",
+      "entity_id": null,
+      "note": "About 2,200,000 sesterces, a very large sum (a comfortable equestrian census was 400,000). Cicero hopes Atticus can transfer it by bill of exchange to shore up his credit while he is stranded."
+    },
+    {
+      "loc": "2",
+      "anchor": "if those with whom I am stand safe",
+      "entity_id": null,
+      "note": "A guarded reference to the Pompeian side, whose camp Cicero had joined; he writes obliquely because the letter could be intercepted by Caesar's men."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "to Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "Cicero's son Marcus, then studying (or about to study) at Athens; Atticus had written the young man a letter of admonition that Cicero here praises for its firm but measured tone."
+    },
+    {
+      "loc": "1",
+      "anchor": "to the Tullii",
+      "entity_id": null,
+      "note": "The Tullii are Cicero's own freedmen and dependents bearing his gentile name, who looked after the young Marcus's affairs; the surface could not be bound to a single registered entity."
+    },
+    {
+      "loc": "2",
+      "anchor": "I shall have the gardens from your hand",
+      "entity_id": null,
+      "note": "The \"gardens\" (horti) are a suburban pleasure-estate Cicero is trying to buy through Atticus; the purchase is meant to house a shrine (fanum) to his dead daughter Tullia, the great project running through these months."
+    },
+    {
+      "loc": "3",
+      "anchor": "the letter to Caesar",
+      "entity_id": "person:caesar",
+      "note": "Cicero had drafted a letter of political advice to Caesar and was anxiously awaiting the verdict of Caesar's confidants (Balbus and Oppius, \"those people\") before sending it."
+    },
+    {
+      "loc": "3",
+      "anchor": "our Peducaeus",
+      "entity_id": "person:sex-peducaeus-the-younger",
+      "note": "Sextus Peducaeus the younger, a close friend of both Cicero and Atticus; Cicero says he now loves the son as much as he had valued the father of the same name."
+    }
+  ]
+}

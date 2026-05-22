@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-20",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "I have had a letter from your colleague, dated the Ides of May",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Plancus's \"colleague\" is Decimus Brutus Albinus, his fellow consul-designate for 42 BC; the two were jointly responsible for the war against Antony in Cisalpine and Transalpine Gaul. The Ides of May fell on 15 May."
+    },
+    {
+      "loc": "2",
+      "anchor": "the well-known proverb, ``the same man at the same stone twice.''",
+      "entity_id": null,
+      "note": "A proverb (\"to stumble twice on the same stone\") chiding repeated error from the same cause; Cicero applies it to the danger of being fooled twice by false good news about Lepidus."
+    },
+    {
+      "loc": "3",
+      "anchor": "The 29th of May.",
+      "entity_id": null,
+      "note": "Cicero's closing date (Latin \"iiii K. Iun.,\" the fourth day before the Kalends of June, counted inclusively) places the letter in late May 43 BC, while Plancus and Lepidus were still maneuvering in Transalpine Gaul."
+    }
+  ]
+}

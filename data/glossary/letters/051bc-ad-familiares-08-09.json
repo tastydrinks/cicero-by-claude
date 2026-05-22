@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "now pleads liberty-cases",
+      "note": "Causae liberales were suits over a person's free or slave status, low-prestige work for an advocate; Caelius mocks the once-haughty Hirrus for stooping to them, and only in the slack hours after noon."
+    },
+    {
+      "loc": "2",
+      "anchor": "Marcellus, consul-designate",
+      "entity_id": "person:c-claudius-marcellus-cos50",
+      "note": "C. Claudius Marcellus, elected consul for 50 BC and so 'consul-designate' in late 51; an obstruction by him stalled the debate on the consular provinces."
+    },
+    {
+      "loc": "2",
+      "anchor": "could not even produce a quorum",
+      "note": "Many senatorial decrees required a minimum attendance; Caelius reports the house could not muster enough members even to transact the business."
+    },
+    {
+      "loc": "3",
+      "anchor": "send for those Cibyrans",
+      "entity_id": "place:cibyra",
+      "note": "Cibyra, a district of Caelius's own beat bordering Cilicia, was famous for its big cats; Caelius wants Cicero to summon hunters from there and from Pamphylia to supply panthers for his aedilician games."
+    },
+    {
+      "loc": "4",
+      "anchor": "made immune from tax",
+      "note": "Feridius wanted the public lands leased to him (whose usufruct the provincial communities held) declared immunis --- exempt from the tribute owed to Rome --- a favour within a governor's discretion."
+    },
+    {
+      "loc": "5",
+      "anchor": "the men at the columns",
+      "note": "The columnarii were the idlers and hangers-on who loitered by the columns in the Forum (the columna Maenia area); Caelius insists it was the respectable voters, not the rabble, who failed to elect Favonius."
+    }
+  ]
+}

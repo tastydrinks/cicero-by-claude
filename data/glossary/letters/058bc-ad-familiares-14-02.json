@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-02",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "I fear Crassus",
+      "entity_id": "person:crassus",
+      "note": "Marcus Licinius Crassus, the richest man in Rome and a member of the so-called First Triumvirate with Pompey and Caesar. Cicero distrusted him and feared he would obstruct the recall."
+    },
+    {
+      "loc": "2",
+      "anchor": "taken from the temple of Vesta to the Valerian Table",
+      "entity_id": "god:vesta",
+      "note": "Terentia, who had taken sanctuary at the shrine of Vesta where her half-sister Fabia was a Vestal Virgin, was dragged to the tabula Valeria, a banking spot in the Forum by the Senate-house, apparently to give testimony about Cicero's confiscated property. The indignity of a Roman matron being publicly hauled about is what wrings Cicero's heart here."
+    }
+  ]
+}

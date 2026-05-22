@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-04",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "C. CVRIONI",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Cicerone",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Curionem",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "C. CVRIONI",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    }
+  ]
+}

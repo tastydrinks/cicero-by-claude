@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-77",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "SVLPICIO IMfl", "entity_id": "person:p-sulpicius-rufus-procos-illyricum", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SULPICIO IMP.", "entity_id": "person:p-sulpicius-rufus-procos-illyricum", "in": "eng"},
+    {"loc": "2", "surface": "M. Bolanum", "entity_id": "person:m-bolanus", "in": "lat"},
+    {"loc": "2", "surface": "M. Bolanus", "entity_id": "person:m-bolanus", "in": "eng"},
+    {"loc": "3", "surface": "Dionysius", "entity_id": "person:dionysius-servus-ciceronis", "in": "lat"},
+    {"loc": "3", "surface": "M. Bolanus", "entity_id": "person:m-bolanus", "in": "lat"},
+    {"loc": "3", "surface": "Naronae", "entity_id": "place:narona", "in": "lat"},
+    {"loc": "3", "surface": "Bolanus", "entity_id": "person:m-bolanus", "in": "lat"},
+    {"loc": "3", "surface": "Dionysius", "entity_id": "person:dionysius-servus-ciceronis", "in": "eng"},
+    {"loc": "3", "surface": "M. Bolanus", "entity_id": "person:m-bolanus", "in": "eng"},
+    {"loc": "3", "surface": "Narona", "entity_id": "place:narona", "in": "eng"},
+    {"loc": "3", "surface": "Bolanus", "entity_id": "person:m-bolanus", "in": "eng"}
+  ]
+}

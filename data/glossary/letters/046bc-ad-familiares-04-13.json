@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "P. FIGVLO",
+      "entity_id": "person:p-nigidius-figulus",
+      "note": "Publius Nigidius Figulus, praetor in 58 BC, was reckoned after Varro the most learned Roman of his age, a Pythagorean and authority on astrology, divination, and grammar. A committed Pompeian in the civil war, he was condemned and never recalled; he died in exile in 45 BC, so this letter of consolation never achieved its hope of his restoration."
+    },
+    {
+      "loc": "1",
+      "anchor": "either the promise of some assistance or the consolation of your grief",
+      "entity_id": null,
+      "note": "Cicero frames the letter within the ancient rhetorical genre of consolatio addressed to an exile, while protesting that his own ruined position robs him of the two normal resources of such a letter: the power to promise practical help and the standing to console with authority."
+    },
+    {
+      "loc": "2",
+      "anchor": "the state's defence, with you once my partner in it",
+      "entity_id": null,
+      "note": "Cicero recalls the suppression of the Catilinarian conspiracy of 63 BC, in which Nigidius assisted him as consul; the 'conflagration' he speaks of putting out below is the standard metaphor for that crisis."
+    },
+    {
+      "loc": "2",
+      "anchor": "we lately flourished in influence, in standing, in glory",
+      "entity_id": "person:cicero",
+      "note": "Writing under Caesar's dictatorship in 46 BC after the defeat of the Pompeians at Pharsalus and Thapsus, Cicero laments his own political impotence; though personally spared by Caesar, he counts mere survival a kind of fault."
+    },
+    {
+      "loc": "5",
+      "anchor": "the disposition of the man himself, who can do most",
+      "entity_id": "person:caesar",
+      "note": "The unnamed 'man himself, who can do most' is Caesar the dictator, on whose sole goodwill the recall of exiled Pompeians like Nigidius now depended; Cicero delicately avoids naming him here as the arbiter of his friend's fate."
+    },
+    {
+      "loc": "7",
+      "anchor": "those lessons which you have received from the other great men",
+      "entity_id": null,
+      "note": "Cicero appeals to the philosophical training that was Nigidius's distinction, urging the learned man to apply to his own exile the precepts of endurance he had drawn both from earlier philosophers and from his own studies."
+    }
+  ]
+}

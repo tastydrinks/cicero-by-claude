@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-50",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO S. D. ACILIO",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "The letter-heading; addressed to M'. Acilius Glabrio, here met while Cicero was at Brundisium (early 44 BC, after Glabrio's Sicilian governorship). S. D. abbreviates salutem dicit, \"sends greeting.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "we were together at Brundisium",
+      "entity_id": "place:brundisium",
+      "note": "Brundisium (modern Brindisi), the great harbour on Italy's heel and the usual port of departure and arrival for travel to and from Greece and the East. Cicero spent anxious months there in 47 BC awaiting Caesar's pardon after Pharsalus."
+    },
+    {
+      "loc": "1",
+      "anchor": "carries on business at Patrae",
+      "entity_id": "person:mn-curius-patrensis",
+      "note": "M'. Curius was a Roman businessman (negotiator) settled at Patrae (Patras) in Achaea, an old friend of Cicero and an especially close intimate of Atticus. Cicero used his house at Patrae during the civil war."
+    },
+    {
+      "loc": "2",
+      "anchor": "``patched and roofed,''",
+      "entity_id": null,
+      "note": "Sartum et tectum (literally \"repaired and roofed\"): a proverbial legal phrase, originally from building contracts that required a structure be kept in good repair, used colloquially to mean \"kept safe and sound, in perfect condition.\""
+    },
+    {
+      "loc": "2",
+      "anchor": "I myself stand surety",
+      "entity_id": null,
+      "note": "Spondeo: the solemn verb of a Roman formal guarantee or pledge (sponsio). Cicero pledges, as if entering a binding contract, that Glabrio will reap profit and pleasure from the favour."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "under the Lex Pupia",
+      "entity_id": "law:lex-pupia",
+      "note": "The Lex Pupia regulated which days the senate could sit, barring meetings on days reserved for popular assemblies. Cicero invokes it to explain that no senate could meet before the Kalends of February."
+    },
+    {
+      "loc": "1",
+      "anchor": "after the embassies have been finished or rejected",
+      "entity_id": null,
+      "note": "By custom the senate devoted the month of February to receiving foreign embassies (legationes), so other business was suspended until those audiences were concluded. This procedural rule further delayed any decision on the Egyptian command."
+    },
+    {
+      "loc": "2",
+      "anchor": "the most criminal banditry of tribunes",
+      "entity_id": "office:tribune",
+      "note": "Tribunes of the plebs could obstruct or force business by veto and, in 56 BC, by organised violence. Cicero accuses Lentulus's opponents of planning to act 'in the people's name' through such tribunician thuggery (latrocinium)."
+    },
+    {
+      "loc": "3",
+      "anchor": "with magistrates this powerless",
+      "entity_id": null,
+      "note": "The regular magistrates of 56 BC were too weak to restrain the gang violence then disrupting Roman politics. Cicero can promise Lentulus the senate's and people's full support, but cannot guarantee him against force."
+    }
+  ]
+}

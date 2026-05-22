@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-07",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "in the most suspicious time of Caninius",
+      "entity_id": "person:l-caninius-gallus",
+      "note": "L. Caninius Gallus, tribune of 56 BC, who had proposed that Pompey be sent to restore the Egyptian king --- a move that made Lentulus suspect Pompey of angling for the command himself. Cicero says even then Pompey privately favoured Lentulus."
+    },
+    {
+      "loc": "4",
+      "anchor": "Ptolemy may return to his kingdom",
+      "entity_id": "person:ptolemy-auletes",
+      "note": "Ptolemy XII Auletes, exiled king of Egypt; the plan Cicero relays (from Pompey) is for Lentulus to install him at Ptolemais, take Alexandria by force, then restore him --- thus formally honouring the Senate's first decree."
+    },
+    {
+      "loc": "4",
+      "anchor": "pleasing to the Sibyl",
+      "entity_id": "text:libri-sibyllini",
+      "note": "A verse of the Sibylline Books was read as forbidding the king's restoration 'with a multitude' (an army). Restoring him 'without a multitude' --- the king brought back personally rather than at the head of a host --- was the device for respecting the oracle's religio."
+    },
+    {
+      "loc": "7",
+      "anchor": "the levity and weakness of Clodius",
+      "entity_id": "person:clodius",
+      "note": "P. Clodius Pulcher, Cicero's great enemy who had engineered his exile; by 56 BC his political grip was loosening (Milo's gangs checking his), which Lentulus had congratulated Cicero upon."
+    },
+    {
+      "loc": "10",
+      "anchor": "pay was decreed for Caesar, and ten legates",
+      "entity_id": "person:caesar",
+      "note": "Among the measures the triumvirs forced through the Senate after the Luca conference: state pay for Caesar's army and ten senatorial legati to assist him --- both extending and entrenching his Gallic command."
+    },
+    {
+      "loc": "10",
+      "anchor": "that he should not be succeeded under the Sempronian law",
+      "entity_id": "law:lex-sempronia-de-provinciis",
+      "note": "The lex Sempronia de provinciis consularibus (C. Gracchus, 123 BC) governed when consuls' provinces were assigned, allowing a governor to be replaced. Suspending it for Caesar prolonged his command in Gaul."
+    },
+    {
+      "loc": "11",
+      "anchor": "Our young Lentulus",
+      "entity_id": "person:p-lentulus-spinther-jr",
+      "note": "P. Cornelius Lentulus Spinther the younger, the recipient's son, then in his teens; Cicero commends his promise and urges that he be educated above all by imitation of his father."
+    }
+  ]
+}

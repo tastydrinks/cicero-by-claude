@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-24",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a letter for Cassius arrived at Capua from Lucretius",
+      "entity_id": "person:lucretius",
+      "note": "News reached Cicero second-hand: Lucretius (probably Q. Lucretius Vespillo, a Pompeian) wrote to the tribune C. Cassius at Capua, and Cicero reports the chain. The figures it carried punctured Philotimus's optimism of the day before."
+    },
+    {
+      "loc": "1",
+      "anchor": "Domitius had not three thousand soldiers",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "note": "Against Philotimus's report of a strong army, Lucretius's letter put L. Domitius Ahenobarbus's real force at under three thousand men, a number too small to check Caesar; Domitius was indeed soon trapped at Corfinium."
+    }
+  ]
+}

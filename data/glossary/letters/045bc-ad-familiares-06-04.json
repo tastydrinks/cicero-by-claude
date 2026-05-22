@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the forces on both sides are said to be so great, and so prepared to fight it out, that, whichever of them conquers, it will be no marvel",
+      "note": "Written in mid-January 45 BC, just before the battle of Munda (17 March 45); Cicero is aware that the final Pompeian forces in Spain under Cn. Pompeius the younger and Labienus are still in the field against Caesar, and he judges either outcome plausible."
+    },
+    {
+      "loc": "2",
+      "anchor": "the consciousness of upright intention is the greatest consolation for adverse circumstances, and that there is no great evil except guilt",
+      "note": "The letter's philosophical centrepiece: Stoic conscientia as the self-sufficient consolation. Cicero applies to Torquatus the same principle he uses for himself throughout the post-Pharsalus period, arguing that defeat does not impugn the defeated side's moral choice to support the senatorial cause."
+    },
+    {
+      "loc": "2",
+      "anchor": "of the man who has been slower in lightening your case than we had thought he would be",
+      "entity_id": "person:caesar",
+      "note": "Caesar again, unnamed: despite earlier signs of clemency toward Torquatus (cf. Fam. 6.1.2), by January 45 his formal pardon had still not come. Caesar's clementia was a programmatic policy but its application was uneven and sometimes deliberately delayed as a form of political leverage."
+    },
+    {
+      "loc": "3",
+      "anchor": "especially from those boys, than whom nothing can be more delightful",
+      "note": "Torquatus's sons, who remained in Rome (or Italy) while their father was abroad; Cicero had promised in Fam. 6.1.7 to look after Torquatus's children, and the affectionate aside here reinforces that bond."
+    },
+    {
+      "loc": "4",
+      "anchor": "such a man --- or rather such men --- have fallen in this war, that it would seem shameless to refuse the same fortune",
+      "note": "Cicero alludes to the deaths of distinguished Pompeians --- probably including Pompey himself (murdered 48 BC), Cato (suicide at Utica, 46 BC), and Lentulus Crus --- making it morally embarrassing for Torquatus to fear a death that better men have already met."
+    },
+    {
+      "loc": "5",
+      "anchor": "I was sorry to hear that Servius had left Athens",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Ser. Sulpicius Rufus (cos. 51 BC), whose presence in Athens had been the comfort Cicero commended in Fam. 6.1.6; his departure deprives Torquatus of the daily philosophical conversation that had been his chief consolation. Sulpicius was probably recalled to Rome on public business."
+    }
+  ]
+}

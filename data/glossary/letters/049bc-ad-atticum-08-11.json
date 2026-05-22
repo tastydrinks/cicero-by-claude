@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "that ruler of the commonwealth to whom we wished all things to be referred",
+      "entity_id": "text:de-re-publica",
+      "note": "Cicero invokes the figure of the ideal statesman (the rector or moderator rei publicae) that he had developed in his dialogue De Re Publica; he is measuring the real Pompey against this philosophical ideal and finding him wanting."
+    },
+    {
+      "loc": "1",
+      "anchor": "in the fifth book, I think, Scipio speaks",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "Cicero quotes from the fifth book of his own De Re Publica (54--51 BC), where the principal speaker is Scipio Aemilianus; the passage likens the statesman's aim (the citizens' prosperity) to the helmsman's safe course and the general's victory."
+    },
+    {
+      "loc": "2",
+      "anchor": "to stir up barbarian kings, to bring savage tribes into Italy under arms",
+      "entity_id": "person:pompey",
+      "note": "Cicero ascribes to Pompey a strategy of abandoning Italy in order to return at the head of foreign forces -- client kings of the East and barbarian levies; he condemns it as making the war a contest for personal mastery rather than a defence of the state."
+    },
+    {
+      "loc": "2",
+      "anchor": "That kind of Sullan kingship",
+      "entity_id": "person:sulla",
+      "note": "The dictator L. Cornelius Sulla had seized Rome by force in 82 BC and ruled through proscription; Cicero charges that many in both camps now covet a Sulla-style autocracy, so that neither leader's aim is the citizens' good."
+    },
+    {
+      "loc": "3",
+      "anchor": "not divining like that woman whom no one believed",
+      "entity_id": null,
+      "note": "The unnamed woman is Cassandra, the Trojan prophetess fated by Apollo to foresee disaster yet never to be believed; Cicero distances his own foreboding from her ecstatic prophecy, claiming instead to forecast by reasoned conjecture."
+    },
+    {
+      "loc": "3",
+      "anchor": "So great an Iliad of evils",
+      "entity_id": "person:homer",
+      "note": "\"An Iliad of evils\" (Ilias kakon) was a Greek proverb for a vast accumulation of disasters, taking Homer's epic of the Trojan War as the byword for prolonged catastrophe."
+    },
+    {
+      "loc": "4",
+      "anchor": "there is so much talk at Luceria",
+      "entity_id": "place:luceria",
+      "note": "Luceria in Apulia had been Pompey's headquarters and mustering-ground; the dilectus (conscription) reportedly proclaimed there alarmed Italy, though Cicero says the universal ruin to come is more to be feared than the levy itself."
+    },
+    {
+      "loc": "7",
+      "anchor": "Would it were something like the Parthian affair",
+      "entity_id": "place:parthia",
+      "note": "Cicero wishes Caesar's rapid advance might end as disastrously for him as Crassus's invasion of Parthia did in 53 BC, when Crassus and his army were destroyed at Carrhae."
+    },
+    {
+      "loc": "7",
+      "anchor": "a book by Demetrius of Magnesia",
+      "entity_id": "person:demetrius-magnes",
+      "note": "Demetrius of Magnesia was a Greek scholar and friend of Atticus; the treatise Cicero wants, \"On Concord\" (Peri homonoias), suited his anxious meditation on whether concord between Caesar and Pompey was still possible."
+    }
+  ]
+}

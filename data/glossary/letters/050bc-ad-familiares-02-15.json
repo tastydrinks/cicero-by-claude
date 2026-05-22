@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "what you did with Curio in the matter of the supplication",
+      "entity_id": "festival:supplicatio",
+      "note": "A supplicatio was a public thanksgiving voted by the Senate to a victorious commander, a necessary preliminary step toward a triumph; Caelius had lobbied Curio as tribune to support the motion for Cicero's supplicatio, and the man who was hostile (a rival candidate, possibly M. Marcellus) had assented."
+    },
+    {
+      "loc": "2",
+      "anchor": "the things which you hope can be moderated by my Tullia's good sense",
+      "entity_id": "person:tullia",
+      "note": "Dolabella, newly betrothed to Tullia, had a reputation for extravagance and erratic behaviour; Caelius apparently hoped Tullia's steadiness would steady him, and Cicero responds with gentle irony that he had said as much to Appius."
+    },
+    {
+      "loc": "3",
+      "anchor": "I favour Curio; I want Caesar to come off honourably; for Pompey I am willing to die",
+      "note": "Cicero's famous three-part declaration of his political loyalties in the gathering crisis of 50 BC, written just months before Caesar crossed the Rubicon; the uneasy triple loyalty captures his effort to remain useful to all parties while Rome moved toward civil war."
+    },
+    {
+      "loc": "4",
+      "anchor": "I have set the quaestor, Coelius, in charge of it",
+      "entity_id": "person:c-coelius-caldus-q50",
+      "note": "Roman governors departing a province were obliged to leave a senior officer in command; the quaestor was the normal choice when no legate of higher standing was available. Cicero's self-deprecating framing ('A boy?') pre-empts exactly the criticism he anticipated."
+    },
+    {
+      "loc": "4",
+      "anchor": "the two most powerful men in the state, who have embraced all the Cassii and Antonii",
+      "note": "Cicero alludes to Pompey and Caesar, each of whom had cultivated entire noble families as clients and lieutenants — the Cassii and the Antonii are cited as representative clans absorbed into one or the other's political orbit."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Matrinius business",
+      "entity_id": "person:matrinius-fam-02-15",
+      "note": "The reference is to some public affair involving a Matrinius that had made Caelius famous even in the provinces beyond the Taurus; the detail is otherwise lost, but it was evidently a forensic or political coup by Caelius as aedile."
+    }
+  ]
+}

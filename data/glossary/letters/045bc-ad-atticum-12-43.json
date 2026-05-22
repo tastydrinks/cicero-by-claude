@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-43",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "to stop on the day after the Ides at Lanuvium",
+      "entity_id": null,
+      "note": "The Ides of May fell on the 15th in the Roman calendar; \"the day after the Ides\" is thus 16 May 45 BC. Cicero dates his movements by the fixed calendar markers (Kalends, Nones, Ides) rather than by numbered days of the month."
+    },
+    {
+      "loc": "1",
+      "anchor": "I think myself bound by a more solemn vow than any man ever was by any vow whatever",
+      "entity_id": null,
+      "note": "The \"vow\" is Cicero's resolve to build a shrine (fanum) for the dead Tullia, to consecrate her memory as a kind of apotheosis. The whole horti hunt of these letters is the search for a suburban garden plot grand and public enough to site it."
+    },
+    {
+      "loc": "2",
+      "anchor": "The next best is, I should like Clodia's",
+      "entity_id": "person:clodia",
+      "note": "\"Clodia's\" means the horti Clodiani, the suburban pleasure-gardens of Clodia, sister of P. Clodius Pulcher (the \"Lesbia\" of Catullus and target of Cicero's Pro Caelio). It was one of several Tiber-side properties Cicero weighed as the site for Tullia's shrine."
+    },
+    {
+      "loc": "2",
+      "anchor": "You will see the Trebonian heirs too, although the owners are away",
+      "entity_id": "person:c-trebonius",
+      "note": "The horti Treboniani belonged to C. Trebonius, the Caesarian (and later one of Caesar's assassins), then absent from Rome; the sale would have to go through his co-heirs. These trans-Tiberim gardens were another candidate site for the fanum."
+    }
+  ]
+}

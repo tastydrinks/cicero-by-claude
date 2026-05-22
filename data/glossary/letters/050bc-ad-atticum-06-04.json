@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "by the senate's decree someone had to be left in charge",
+      "entity_id": null,
+      "note": "A senatus consultum required a departing governor to leave a deputy holding imperium when no successor had arrived; with the war looming Cicero had to choose between his low-regarded quaestor, the absent Coelius, and his reluctant brother Quintus."
+    },
+    {
+      "loc": "1",
+      "anchor": "the quaestor Mescinius",
+      "entity_id": "person:l-mescinius",
+      "note": "L. Mescinius Rufus, Cicero's quaestor in Cilicia, whose accounts and conduct Cicero distrusted; leaving the province in a quaestor's hands was the legal default but one Cicero found least acceptable."
+    },
+    {
+      "loc": "2",
+      "anchor": "on whose match I wrote",
+      "entity_id": "person:tullia",
+      "note": "Cicero's daughter Tullia was being matched to a new husband (the engagement to Dolabella, settled in his absence); de condicione refers to the negotiation of the marriage-alliance, which he had entrusted to Terentia."
+    },
+    {
+      "loc": "2",
+      "anchor": "the matter of my despatch",
+      "entity_id": null,
+      "note": "Cicero's official letter (litterae) to the Senate reporting his Pindenissus victory, on which he hoped a supplicatio (public thanksgiving) and eventual triumph would be voted; he feared Atticus's absence had let it be handled carelessly."
+    }
+  ]
+}

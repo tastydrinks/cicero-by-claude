@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-37",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO ACILIO PROCONSVLI S.",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "The letter-heading; the last of five consecutive recommendation letters (13.33–13.37) to M'. Acilius Glabrio, proconsul of Sicily. This one has a distinctly legal flavour, involving a disputed property seizure."
+    },
+    {
+      "loc": "1",
+      "anchor": "His property, as the matter has been reported to me, is being held in public ownership under another man's name, contrary to the laws of the Calactines",
+      "entity_id": "person:hippias-calactinus",
+      "note": "The situation described — property registered in another person's name (alieno nomine) and held publice (as public/state property) — suggests an act of dispossession, possibly in the upheavals of the civil wars or through local political manipulation. Sicilian cities retained their own civic statutes under Roman rule; the \"laws of the Calactines\" would be Calacte's municipal code, which Cicero implies is being violated."
+    },
+    {
+      "loc": "1",
+      "anchor": "even without any recommendation of mine the case itself ought to obtain from your sense of equity that you come to his relief",
+      "entity_id": null,
+      "note": "Cicero appeals to aequitas (equity, fairness) as an independent ground for relief even before his own authority as recommender. This distinguishes the letter from the other four in this group: the injustice is flagrant enough that Glabrio's own judicial conscience, not just courtesy to Cicero, should compel action."
+    },
+    {
+      "loc": "1",
+      "anchor": "so far as your scruple and your standing will allow",
+      "entity_id": null,
+      "note": "\"Fides dignitasque\": the two watchwords of the Roman governor's self-presentation — fides (good faith, integrity, reliability) and dignitas (prestige, the standing that comes from acting honourably). Cicero frames his request so as not to ask Glabrio to act against his own honour, offering the governor the face-saving formula that he should help only as much as his conscience permits."
+    }
+  ]
+}

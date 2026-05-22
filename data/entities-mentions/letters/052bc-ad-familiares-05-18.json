@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-18",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "T. FADIO", "entity_id": "person:t-fadius", "in": "lat"},
+    {"loc": "1", "surface": "T. FADIO", "entity_id": "person:t-fadius", "in": "eng"}
+  ]
+}

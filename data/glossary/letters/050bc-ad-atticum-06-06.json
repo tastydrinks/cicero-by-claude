@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the father-in-law of his accuser",
+      "entity_id": null,
+      "note": "Cicero's daughter Tullia had just been betrothed to P. Cornelius Dolabella, who had recently prosecuted Appius Claudius Pulcher (Cicero's predecessor in Cilicia) for treason; Cicero finds himself simultaneously honouring Appius and allied by marriage to the man attacking him."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Academy",
+      "entity_id": "place:academia-athens",
+      "note": "The grove and gymnasium northwest of Athens where Plato taught; Atticus had urged Cicero to fund a monumental gateway (propylon) for it, just as Appius had planned an Eleusinion (a temple of the Eleusinian goddesses) at Eleusis."
+    },
+    {
+      "loc": "3",
+      "anchor": "I have put Coelius in charge of the province",
+      "entity_id": "person:c-coelius-caldus-q50",
+      "note": "On leaving, a governor entrusted his province to a deputy; Cicero chose his young quaestor Coelius Caldus over a senior legate or his own brother Quintus, since outranking a quaestor of noble birth would have been an insult to him."
+    },
+    {
+      "loc": "3",
+      "anchor": "those should preside over the provinces who had not done so before",
+      "entity_id": null,
+      "note": "A senatorial measure of 53 BC required that men who had never governed a province now take their turn, which is why Cicero, who had held no province before, was sent to Cilicia for a single year; he fears mockery if he is seen to slight the rule."
+    },
+    {
+      "loc": "4",
+      "anchor": "chose Quintus Cassius without the lot",
+      "entity_id": null,
+      "note": "A quaestor was normally allotted to a commander by lottery (sortitio); Pompey and Caesar, however, had each picked their own deputy by name (extra sortem), and Cicero contrasts their freedom with his own lot-assigned quaestor Coelius."
+    },
+    {
+      "loc": "4",
+      "anchor": "call me to a triumph",
+      "entity_id": null,
+      "note": "A triumph was the formal victory procession through Rome voted by the Senate to a victorious commander; Cicero's friends were urging him to seek one for his minor campaign on Mount Amanus, a hope that preoccupies these last Cilician letters."
+    }
+  ]
+}

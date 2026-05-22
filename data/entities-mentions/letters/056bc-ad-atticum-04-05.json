@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-05",
+  "mentions": [
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "me hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "1", "surface": "By Hercules", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "1", "surface": "Catuli", "entity_id": "person:q-lutatius-catulus-pater", "in": "lat"},
+    {"loc": "1", "surface": "Catulus's", "entity_id": "person:q-lutatius-catulus-pater", "in": "eng"},
+    {"loc": "1", "surface": "Pompei", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "Crassipes", "entity_id": "person:crassipes", "in": "lat"},
+    {"loc": "1", "surface": "Crassipes", "entity_id": "person:crassipes", "in": "eng"}
+  ]
+}

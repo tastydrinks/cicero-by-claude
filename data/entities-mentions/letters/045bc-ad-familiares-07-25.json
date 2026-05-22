@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-25",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "M. FADIO GALLO", "entity_id": "person:m-fadius", "in": "both"},
+    {"loc": "1", "surface": "Catonianos", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "1", "surface": "Cato-men", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "2", "surface": "Galle", "entity_id": "person:m-fadius", "in": "lat"},
+    {"loc": "2", "surface": "Gallus", "entity_id": "person:m-fadius", "in": "eng"},
+    {"loc": "2", "surface": "Apellae", "entity_id": "person:apella-libertus", "in": "lat"},
+    {"loc": "2", "surface": "Apella", "entity_id": "person:apella-libertus", "in": "eng"}
+  ]
+}

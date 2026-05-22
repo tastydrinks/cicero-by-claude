@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I gave my Cicero his white toga at Arpinum",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "Cicero performs the toga virilis ceremony, marking his son Marcus's passage to manhood, at the family seat of Arpinum because Rome was barred to them; the rite was normally a public Roman occasion, so its displacement underscores the dislocation of civil war."
+    },
+    {
+      "loc": "1",
+      "anchor": "in a civil and unholy war",
+      "entity_id": null,
+      "note": "Bellum civile, war between fellow citizens, was felt by Romans as a peculiarly polluting evil; calling it \"unholy\" (nefarium) marks it as an offence against the gods as well as the state. Cicero's recoil from it shapes his whole anguished neutrality."
+    },
+    {
+      "loc": "2",
+      "anchor": "he who sent his son to crush Cnaeus Pompeius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "The eminent jurist Servius Sulpicius Rufus (cos. 51 BC) had let his son join Caesar's army besieging Pompey at Brundisium; Cicero, who esteemed Servius's caution, judges him the most pitiless of the trimmers for so abandoning Pompey's cause."
+    },
+    {
+      "loc": "3",
+      "anchor": "since the upper sea is blockaded",
+      "entity_id": null,
+      "note": "The \"upper sea\" is the Adriatic (mare Superum), the \"lower\" the Tyrrhenian (mare Inferum); with Caesar's forces controlling the Adriatic crossing to Pompey in Greece, Cicero plans a roundabout escape down the western Italian coast."
+    },
+    {
+      "loc": "3",
+      "anchor": "we shall make for Croton, or for Thurii",
+      "entity_id": "place:croton",
+      "note": "Croton and Thurii were ports on the instep and toe of Italy in the far south; from there Cicero hoped to round the peninsula and sail east, eventually toward Egypt, to reach Pompey by the long way about."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-41",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CVLLEOLO", "entity_id": "person:l-culleolus", "in": "lat"},
+    {"loc": "1", "surface": "CVLLEOLVS", "entity_id": "person:l-culleolus", "in": "eng"},
+    {"loc": "1", "surface": "L. Luccei", "entity_id": "person:l-lucceius", "in": "lat"},
+    {"loc": "1", "surface": "L. Lucceius's", "entity_id": "person:l-lucceius", "in": "eng"},
+    {"loc": "1", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "Lucceium", "entity_id": "person:l-lucceius", "in": "lat"},
+    {"loc": "1", "surface": "Lucceius", "entity_id": "person:l-lucceius", "in": "eng"},
+    {"loc": "2", "surface": "Lucceio", "entity_id": "person:l-lucceius", "in": "lat"},
+    {"loc": "2", "surface": "Lucceius", "entity_id": "person:l-lucceius", "in": "eng"},
+    {"loc": "2", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"}
+  ]
+}

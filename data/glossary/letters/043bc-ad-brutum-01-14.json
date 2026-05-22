@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the elections of the priestly colleges had, at my own utmost insistence, been put off to the next year",
+      "entity_id": null,
+      "note": "The comitia sacerdotum were elections to Rome's major priestly colleges (pontifices, augurs, etc.); Cicero had lobbied successfully for postponement so that his son and the young republicans with Brutus could stand as candidates, preserving their honours even in absence."
+    },
+    {
+      "loc": "1",
+      "anchor": "on Cicero's account, and on that of Domitius, Cato, Lentulus, and the Bibuli",
+      "entity_id": null,
+      "note": "These are young aristocrats of the republican faction serving under Brutus: Cn. Domitius Ahenobarbus (future cos. 32 BC), the son of Cato Uticensis, a Lentulus Spinther, and the two sons of M. Calpurnius Bibulus (Caesar's colleague as consul 59 BC)."
+    },
+    {
+      "loc": "2",
+      "anchor": "the war has been reborn, and not slightly, through the crime of Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "After the battles of Forum Gallorum and Mutina in April 43 BC, Antony had appeared defeated; Lepidus's defection to him in late May revived the war and made a second round of fighting in Cisalpine Gaul or Narbonese Gaul likely."
+    },
+    {
+      "loc": "2",
+      "anchor": "Caesar's army, which was the best",
+      "entity_id": "person:octavian",
+      "note": "Octavian's (the young Caesar's) veteran legions had fought loyally at Mutina but were now refusing to advance further against Antony, with whom Octavian was in secret negotiation; their inaction left Decimus Brutus and the Senate dangerously exposed."
+    },
+    {
+      "loc": "2",
+      "anchor": "we have Brutus excellently joined with Plancus",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "This refers to Decimus Brutus (not Marcus), who had escaped from besieged Mutina and was attempting to unite with Munatius Plancus's forces in Transalpine Gaul; \"Brutus\" here is unambiguously Decimus because Marcus Brutus is the recipient of this letter."
+    },
+    {
+      "loc": "2",
+      "anchor": "on the Ides of March, when you drove out slavery from your fellow citizens",
+      "entity_id": "person:caesar",
+      "note": "The Ides of March (15 March 44 BC) was the date of Julius Caesar's assassination in the Theatre of Pompey by the Liberators led by Marcus Brutus and Cassius; Cicero uses it as the benchmark against which Brutus's coming service to Rome must be measured."
+    },
+    {
+      "loc": "2",
+      "anchor": "11 July",
+      "entity_id": null,
+      "note": "\"V Idus Quintiles\" = the fifth day before the Ides of Quinctilis = 11 July 43 BC; the month Quinctilis was renamed July in honour of Julius Caesar by the mid-40s BC."
+    }
+  ]
+}

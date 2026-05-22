@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-17",
+  "mentions": [
+    {"loc": "1", "surface": "Sampsiceramus", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Sampsiceramus", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "ager Campanus", "entity_id": "place:ager-campanus", "in": "lat"},
+    {"loc": "1", "surface": "the Campanian land", "entity_id": "place:ager-campanus", "in": "eng"},
+    {"loc": "1", "surface": "Arpinati", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "1", "surface": "the Arpinum estate", "entity_id": "place:arpinum", "in": "eng"},
+    {"loc": "2", "surface": "Sampsicerami", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Sampsiceramus", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Curiana", "entity_id": "person:c-scribonius-curio-tr", "in": "lat"},
+    {"loc": "2", "surface": "Curio's", "entity_id": "person:c-scribonius-curio-tr", "in": "eng"},
+    {"loc": "3", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "3", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "Theophane", "entity_id": "person:theophanes", "in": "lat"},
+    {"loc": "3", "surface": "Theophanes", "entity_id": "person:theophanes", "in": "eng"},
+    {"loc": "3", "surface": "Arabarches", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "3", "surface": "the Arabarch", "entity_id": "person:pompey", "in": "eng"}
+  ]
+}

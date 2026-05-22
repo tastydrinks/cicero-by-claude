@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-24",
+  "mentions": [
+    {"loc": "1", "surface": "Hermogenes mihi Clodius", "entity_id": "person:hermogenes", "in": "lat"},
+    {"loc": "1", "surface": "Andromenem sibi dixisse", "entity_id": "person:andromenes", "in": "lat"},
+    {"loc": "1", "surface": "se Ciceronem vidisse", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "vidisse Corcyrae", "entity_id": "place:corcyra", "in": "lat"},
+    {"loc": "1", "surface": "de Varrone rescribam", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "Hermogenes Clodius telling me", "entity_id": "person:hermogenes", "in": "eng"},
+    {"loc": "1", "surface": "that Andromenes told him", "entity_id": "person:andromenes", "in": "eng"},
+    {"loc": "1", "surface": "he had seen Cicero", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "Cicero at Corcyra", "entity_id": "place:corcyra", "in": "eng"},
+    {"loc": "1", "surface": "write back to you about Varro", "entity_id": "person:m-terentius-varro", "in": "eng"}
+  ]
+}

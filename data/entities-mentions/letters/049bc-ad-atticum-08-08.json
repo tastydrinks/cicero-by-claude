@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-08",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "urbem", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Picenum", "entity_id": "place:picenum", "in": "lat"},
+    {"loc": "1", "surface": "Apuliam", "entity_id": "place:apulia", "in": "lat"},
+    {"loc": "1", "surface": "Graeciam", "entity_id": "place:graecia", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "He had fed Caesar up", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "he had abandoned the City", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "he had lost Picenum", "entity_id": "place:picenum", "in": "eng"},
+    {"loc": "1", "surface": "bottled himself up in Apulia", "entity_id": "place:apulia", "in": "eng"},
+    {"loc": "1", "surface": "he was setting off for Greece", "entity_id": "place:graecia", "in": "eng"},
+    {"loc": "2", "surface": "Domiti", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "lat"},
+    {"loc": "2", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "2", "surface": "Domitium", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "lat"},
+    {"loc": "2", "surface": "letters from Domitius", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "eng"},
+    {"loc": "2", "surface": "pushes on for Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "2", "surface": "Domitius, they say, on hearing the news, has given himself up", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "eng"}
+  ]
+}

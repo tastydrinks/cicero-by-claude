@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-79",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "D. ALLIENO PROCOS.", "entity_id": "person:a-allienus", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "D. ALLIENO PROCOS.", "entity_id": "person:a-allienus", "in": "eng"},
+    {"loc": "1", "surface": "C. Avianium Flaccum", "entity_id": "person:c-avianius-flaccus", "in": "lat"},
+    {"loc": "1", "surface": "C. Avianius", "entity_id": "person:c-avianius-flaccus-filius", "in": "lat"},
+    {"loc": "1", "surface": "Sicilia", "entity_id": "place:sicilia", "in": "lat"},
+    {"loc": "1", "surface": "Marcus", "entity_id": "person:m-avianius-flaccus", "in": "lat"},
+    {"loc": "1", "surface": "C. Avianius Flaccus", "entity_id": "person:c-avianius-flaccus", "in": "eng"},
+    {"loc": "1", "surface": "C. Avianius", "entity_id": "person:c-avianius-flaccus-filius", "in": "eng"},
+    {"loc": "1", "surface": "Sicily", "entity_id": "place:sicilia", "in": "eng"},
+    {"loc": "1", "surface": "Marcus", "entity_id": "person:m-avianius-flaccus", "in": "eng"}
+  ]
+}

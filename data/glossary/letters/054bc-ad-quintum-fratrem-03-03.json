@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-03",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "knocked off one by one through formal announcements of bad omens",
+      "entity_id": null,
+      "note": "The obnuntiatio: a magistrate or tribune could halt or postpone elections by declaring he had observed unfavourable omens. Here good men welcome the delays because the consuls are tainted by a bribery scandal."
+    },
+    {
+      "loc": "2",
+      "anchor": "the suspicion of bargains promised by the candidates",
+      "entity_id": null,
+      "note": "A notorious scandal of 54 BC: the consular candidates had secretly agreed to pay the sitting consuls in exchange for help securing their election, a pact (coitio) that came to light and discredited the consuls."
+    },
+    {
+      "loc": "2",
+      "anchor": "Gabinius has been put on trial for canvassing",
+      "entity_id": "person:gabinius",
+      "note": "A. Gabinius, consul 58 BC and proconsul of Syria, faced multiple prosecutions on his return in 54 BC; the ambitus (electoral bribery) charge here was one of several. The named subscriptores are his prosecutor P. Sulla's relatives acting as supporting counsel."
+    },
+    {
+      "loc": "3",
+      "anchor": "charge within three days",
+      "entity_id": null,
+      "note": "The charge is maiestas: the offence of diminishing the majesty of the Roman state, tried before a standing court. Gabinius faced it for restoring Ptolemy Auletes to Egypt without senatorial authorisation."
+    },
+    {
+      "loc": "4",
+      "anchor": "with his rhetor Paeonius",
+      "entity_id": "person:paeonius-rhetor",
+      "note": "A rhetor was a teacher of declamation, the staple exercise of Roman higher education. Cicero contrasts Paeonius's declamatory drill with his own more philosophical, thesis-based method of training young Quintus."
+    }
+  ]
+}

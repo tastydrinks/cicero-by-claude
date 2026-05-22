@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-12",
+  "mentions": [
+    {"loc": "1", "surface": "MARCVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "MARCVS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "QVINTO FRATRI", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "QVINTO FRATRI", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "Arimino", "entity_id": "place:ariminum", "in": "lat"},
+    {"loc": "1", "surface": "Ariminum", "entity_id": "place:ariminum", "in": "eng"},
+    {"loc": "1", "surface": "Cumano", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "1", "surface": "Cuman", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "1", "surface": "Pompeiano", "entity_id": "place:pompeii", "in": "lat"},
+    {"loc": "1", "surface": "Pompeian estates", "entity_id": "place:pompeii", "in": "eng"},
+    {"loc": "2", "surface": "Ciceronem tuum nostrumque", "entity_id": "person:q-cicero-younger", "in": "lat"},
+    {"loc": "2", "surface": "your son and mine, your Cicero", "entity_id": "person:q-cicero-younger", "in": "eng"},
+    {"loc": "2", "surface": "Cicerone nostro minore", "entity_id": "person:marcus-cicero-younger", "in": "lat"},
+    {"loc": "2", "surface": "the smaller Cicero of ours", "entity_id": "person:marcus-cicero-younger", "in": "eng"},
+    {"loc": "3", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "3", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "Caesar's", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "M. Orfium", "entity_id": "person:m-orfius", "in": "lat"},
+    {"loc": "3", "surface": "M. Orfius", "entity_id": "person:m-orfius", "in": "eng"},
+    {"loc": "3", "surface": "municipio Atellano", "entity_id": "place:atella", "in": "lat"},
+    {"loc": "3", "surface": "township of Atella", "entity_id": "place:atella", "in": "eng"},
+    {"loc": "3", "surface": "tribunus militum", "entity_id": "office:tribunus-militum", "in": "lat"},
+    {"loc": "3", "surface": "military tribune", "entity_id": "office:tribunus-militum", "in": "eng"},
+    {"loc": "3", "surface": "Trebatium", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "3", "surface": "Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"}
+  ]
+}

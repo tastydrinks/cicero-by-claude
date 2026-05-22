@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Fourth and the Martian legions",
+      "entity_id": "unit:legio-martia",
+      "note": "Two veteran legions that deserted Antony for the Republican cause in late 44 BC; their reassignment away from Decimus Brutus left him, as he complains here, with only raw recruits."
+    },
+    {
+      "loc": "2",
+      "anchor": "The people of Vicetia",
+      "entity_id": "place:vicetia",
+      "note": "The townsfolk of Vicetia (modern Vicenza) in Cisalpine Gaul; Decimus Brutus asks Cicero to shield them from a hostile motion in the Senate concerning their home-born slaves."
+    },
+    {
+      "loc": "2",
+      "anchor": "the home-born slaves",
+      "entity_id": null,
+      "note": "Vernae, slaves born within the household rather than purchased; a status dispute over such slaves at Vicetia underlies the Senate business Decimus Brutus references."
+    },
+    {
+      "loc": "2",
+      "anchor": "The twelfth day before the Kalends of June, at Vercellae.",
+      "entity_id": "place:vercellae",
+      "note": "Dated by inclusive Roman counting back from the Kalends (first) of June, i.e. 21 May 43 BC; Vercellae (modern Vercelli) lay in the upper Po valley of Cisalpine Gaul."
+    }
+  ]
+}

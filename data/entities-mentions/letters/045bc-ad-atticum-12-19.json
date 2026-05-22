@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-19",
+  "mentions": [
+    {"loc": "1", "surface": "qui et Antio et Circeiis aspici possit", "entity_id": "place:antium", "in": "lat"},
+    {"loc": "1", "surface": "set in the sea itself in such a way that it can be looked across to from Antium", "entity_id": "place:antium", "in": "eng"},
+    {"loc": "2", "surface": "de Cocceio et Libone quae scribis approbo", "entity_id": "person:cocceius", "in": "lat"},
+    {"loc": "2", "surface": "de Cocceio et Libone quae scribis approbo", "entity_id": "person:l-scribonius-libo-cos34", "in": "lat"},
+    {"loc": "2", "surface": "quid procuratores Cornifici dicant velim scire", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "2", "surface": "de Antonio Balbus quoque ad me cum Oppio conscripsit", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "de Antonio Balbus quoque ad me cum Oppio conscripsit", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "2", "surface": "de Antonio Balbus quoque ad me cum Oppio conscripsit", "entity_id": "person:gaius-oppius", "in": "lat"},
+    {"loc": "2", "surface": "As to what you write about Cocceius and Libo", "entity_id": "person:cocceius", "in": "eng"},
+    {"loc": "2", "surface": "As to what you write about Cocceius and Libo", "entity_id": "person:l-scribonius-libo-cos34", "in": "eng"},
+    {"loc": "2", "surface": "what Cornificius's agents say I should like to know", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "2", "surface": "About Antonius, Balbus too has written to me jointly with Oppius", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "About Antonius, Balbus too has written to me jointly with Oppius", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "2", "surface": "About Antonius, Balbus too has written to me jointly with Oppius", "entity_id": "person:gaius-oppius", "in": "eng"},
+    {"loc": "3", "surface": "Pansa si hodie, ut putabas, profectus est", "entity_id": "person:vibius-pansa", "in": "lat"},
+    {"loc": "3", "surface": "scribere ad me de Bruti adventu", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "3", "surface": "If Pansa has set off today, as you thought", "entity_id": "person:vibius-pansa", "in": "eng"},
+    {"loc": "3", "surface": "begin from now on to write to me about Brutus's coming", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "4", "surface": "quod ad Tironem de Terentia scribis", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "4", "surface": "quod ad Tironem de Terentia scribis", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "4", "surface": "ut non nulli putant, Ciceronis rem", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "4", "surface": "As to what you write to Tiro about Terentia", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "4", "surface": "As to what you write to Tiro about Terentia", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "4", "surface": "as some think, the standing of young Cicero", "entity_id": "person:m-cicero-the-younger", "in": "eng"}
+  ]
+}

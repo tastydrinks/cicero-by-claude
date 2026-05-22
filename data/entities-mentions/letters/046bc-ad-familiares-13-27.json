@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-27",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "2", "surface": "C. Avianius Hammonius", "entity_id": "person:c-avianius-hammonius", "in": "lat"},
+    {"loc": "2", "surface": "C. Avianius Hammonius", "entity_id": "person:c-avianius-hammonius", "in": "eng"},
+    {"loc": "2", "surface": "Aemili Aviani", "entity_id": "person:m-aemilius-avianius", "in": "lat"},
+    {"loc": "2", "surface": "Aemilius Avianius", "entity_id": "person:m-aemilius-avianius", "in": "eng"},
+    {"loc": "2", "surface": "M. Aemilius", "entity_id": "person:m-aemilius-avianius", "in": "lat"},
+    {"loc": "2", "surface": "M. Aemilius", "entity_id": "person:m-aemilius-avianius", "in": "eng"},
+    {"loc": "3", "surface": "Achaiam", "entity_id": "place:achaia", "in": "lat"},
+    {"loc": "3", "surface": "Achaia", "entity_id": "place:achaia", "in": "eng"},
+    {"loc": "4", "surface": "tuo Servio", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "lat"},
+    {"loc": "4", "surface": "your son Servius", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "eng"}
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-11",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "VATINIO IMP.",
+      "entity_id": "person:vatinius-tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Vatinio",
+      "entity_id": "person:vatinius-tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "IMP.",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "IMP.",
+      "entity_id": "office:imperator",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompeiam, uxorem tuam",
+      "entity_id": "person:pompeia-vatini-uxor",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "your wife Pompeia",
+      "entity_id": "person:pompeia-vatini-uxor",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Sura nostro",
+      "entity_id": "person:sura-agent-45",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "our friend Sura",
+      "entity_id": "person:sura-agent-45",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Dionysio",
+      "entity_id": "person:dionysius-servus-ciceronis",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Dionysius",
+      "entity_id": "person:dionysius-servus-ciceronis",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Dalmatis",
+      "entity_id": "group:dalmatae",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "the Dalmatians",
+      "entity_id": "group:dalmatae",
+      "in": "eng"
+    }
+  ]
+}

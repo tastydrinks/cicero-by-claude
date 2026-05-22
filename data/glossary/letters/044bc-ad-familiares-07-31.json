@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-31",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "Sulpicius's help",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus, consul 51 BC and Rome's foremost jurist, was proconsul of Achaea in 46-45 BC; as governor he was the official whose aid Curius, a Roman banker at Patrae, would naturally seek for his tangled business affairs in Greece."
+    },
+    {
+      "loc": "2",
+      "anchor": "with neither head nor feet",
+      "entity_id": null,
+      "note": "A proverbial phrase (nec caput nec pedes) for an affair so confused it has neither beginning nor end. Cicero seizes on the 'feet' to quip that he wishes Curius's affairs had feet, so they might carry him back to Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "our Pomponius",
+      "entity_id": "person:atticus",
+      "note": "Pomponius is T. Pomponius Atticus, Cicero's closest friend; the cognomen 'Atticus' (from Attica/Athens) lets Cicero pun on him as the keeper of 'ancient Attic glory,' that is, of refined Attic wit (urbanitas)."
+    },
+    {
+      "loc": "2",
+      "anchor": "Unless a few of us preserve the ancient Attic glory",
+      "entity_id": null,
+      "note": "A line of verse Cicero ascribes to Atticus, who quotes it 'by his own good right' because his very name evokes Attica. 'Attic glory' is the Athenian heritage of elegant wit (urbanitas); Cicero laments it is dying out as Rome's culture decays with the Republic."
+    }
+  ]
+}

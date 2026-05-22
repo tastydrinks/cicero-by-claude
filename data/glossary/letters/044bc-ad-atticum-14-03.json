@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "all the grain is being carted to Antony's house",
+      "entity_id": "person:antony",
+      "note": "Marcus Antonius (Antony), consul in 44 BC and Caesar's surviving colleague, who as the dominant figure in Rome was widely suspected of seizing public stores and funds for his own ends; Cicero half-dismisses the rumour as panic."
+    },
+    {
+      "loc": "1",
+      "anchor": "A piece of panic, surely --- a Pan-fright [Greek: panikon]",
+      "entity_id": null,
+      "note": "Greek panikon, a \"panic,\" a sudden groundless terror attributed to the god Pan; Cicero puns on the etymology to mock the unfounded grain-rumour."
+    },
+    {
+      "loc": "1",
+      "anchor": "Of Balbus's Corumbus, still no sign",
+      "entity_id": "person:corumbus",
+      "note": "Corumbus, a skilled architect in the service (or household) of L. Cornelius Balbus, whom Cicero had been expecting --- probably to work on one of his building projects; he knows the man's reputation but the architect has not turned up."
+    },
+    {
+      "loc": "2",
+      "anchor": "sound out Antony's frame of mind [Greek: diathesin]",
+      "entity_id": "person:antony",
+      "note": "Greek diathesis, \"disposition, state of mind\"; Cicero asks Atticus to gauge Antony's intentions, judging him more interested in his banquets than in any deep mischief."
+    },
+    {
+      "loc": "2",
+      "anchor": "write up the public's mood and the actors' jokes",
+      "entity_id": null,
+      "note": "Cicero uses Greek terms (episemasia, the crowd's vocal demonstrations; pragmatikon, hard political news) to ask for theatre gossip --- the cheers, hisses, and topical quips of the mimes --- as a gauge of Roman opinion."
+    }
+  ]
+}

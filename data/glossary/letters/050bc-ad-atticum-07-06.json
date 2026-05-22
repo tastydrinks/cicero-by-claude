@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-06",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "concede to Caesar what he demands",
+      "entity_id": "person:caesar",
+      "note": "Caesar's demand was to stand for the consulship of 48 BC in absentia while retaining his Gallic army and provinces until he could enter office, so as never to be a private citizen liable to prosecution; the Senate's hardliners wanted him to lay down his command first."
+    },
+    {
+      "loc": "2",
+      "anchor": "when we were prorogating his command for the second five years",
+      "entity_id": null,
+      "note": "The lex Pompeia Licinia of 55 BC renewed Caesar's Gallic command for a further five years; Cicero's point is that the optimates armed Caesar by these earlier concessions and have no standing to resist him only now."
+    },
+    {
+      "loc": "2",
+      "anchor": "the bill that his candidacy might be entertained in his absence",
+      "entity_id": null,
+      "note": "The law of the ten tribunes (52 BC), backed by Pompey, exempted Caesar from the rule requiring candidates to canvass in person at Rome; this ratio absentis is the legal hinge of the whole crisis."
+    }
+  ]
+}

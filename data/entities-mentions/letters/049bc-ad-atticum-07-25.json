@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-25",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Lucreti", "entity_id": "person:lucretius", "in": "lat"},
+    {"loc": "1", "surface": "Cassium", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "Capua", "entity_id": "place:capua", "in": "lat"},
+    {"loc": "1", "surface": "Cephalio", "entity_id": "person:cephalio", "in": "lat"},
+    {"loc": "1", "surface": "Pompeium", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "about the letter Lucretius sent", "entity_id": "person:lucretius", "in": "eng"},
+    {"loc": "1", "surface": "from Capua to Cassius", "entity_id": "place:capua", "in": "eng"},
+    {"loc": "1", "surface": "to Cassius", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "Cephalio arrived from your side", "entity_id": "person:cephalio", "in": "eng"},
+    {"loc": "1", "surface": "that Pompey has an army", "entity_id": "person:pompey", "in": "eng"}
+  ]
+}

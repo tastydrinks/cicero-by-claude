@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-03",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "P. LENTVLO PROCOS.", "entity_id": "person:lentulus-spinther", "in": "lat"},
+    {"loc": "1", "surface": "P. LENTVLO PROCOS.", "entity_id": "person:lentulus-spinther", "in": "eng"},
+    {"loc": "1", "surface": "A. Trebonio", "entity_id": "person:a-trebonius-cilicia", "in": "lat"},
+    {"loc": "1", "surface": "A. Trebonius", "entity_id": "person:a-trebonius-cilicia", "in": "eng"},
+    {"loc": "2", "surface": "T. Ampius", "entity_id": "person:t-ampius-balbus", "in": "both"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-34",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "from there, as you advise, I expect to be at Ficulea",
+      "entity_id": null,
+      "note": "Ficulea was a small town on the Via Nomentana northeast of Rome, where Atticus had an estate; Cicero plans to break his journey there. The place has no separate entity record in this corpus."
+    },
+    {
+      "loc": "2",
+      "anchor": "what particular plot he wants to be cut out of the sale",
+      "entity_id": null,
+      "note": "Silius wished to withhold (detrahere) some portion of the gardens from the sale; Cicero warns that the reserved plot may be the very part he wants for Tullia's shrine. The whole purchase was contemplated for that single piece of ground."
+    },
+    {
+      "loc": "2",
+      "anchor": "I have sent you Hirtius' letter, both fresh and kindly written",
+      "entity_id": "person:hirtius",
+      "note": "Aulus Hirtius, a leading Caesarian and consul-designate, had written warmly to Cicero, who forwards the letter to Atticus. Cultivating such men mattered both for consolation and for the Faberian financing of the gardens."
+    }
+  ]
+}

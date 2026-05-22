@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "that Statius has been manumitted",
+      "entity_id": "person:statius-q-freedman",
+      "note": "Quintus Cicero's freeing of his powerful slave-secretary Statius drew public comment and embarrassed Cicero, who felt his own wishes had been disregarded. The grievance carries over from the previous letter (2.18.4)."
+    },
+    {
+      "loc": "2",
+      "anchor": "Bibulus is in heaven",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "note": "M. Calpurnius Bibulus, Caesar's powerless consular colleague of 59 BC, shut himself in his house and obstructed Caesar by declaring the omens unfavourable. His protest edicts made him an unlikely hero of the optimates."
+    },
+    {
+      "loc": "2",
+      "anchor": "a single man by his delaying restored our state for us",
+      "entity_id": null,
+      "note": "A quotation of Ennius's famous line on Q. Fabius Maximus Cunctator, unus homo nobis cunctando restituit rem (Annales). Applied half-ironically to Bibulus, whose only weapon against Caesar was obstructive delay."
+    },
+    {
+      "loc": "2",
+      "anchor": "at the Apollinarian games the tragedian Diphilus inveighed insolently against our Pompeius",
+      "entity_id": "festival:ludi-apollinares",
+      "note": "The ludi Apollinares, games in honour of Apollo held in July. At them the actor Diphilus pointedly aimed lines of his tragedy at Pompey, and the audience seized on them as anti-Pompeian; Cicero quotes the verses (\"By our misery you are great,\" etc.) as proof of the public mood."
+    },
+    {
+      "loc": "2",
+      "anchor": "They were enemies of the knights",
+      "entity_id": "group:equites",
+      "note": "The equites (the propertied business class), who had risen to applaud Curio, were now treated as enemies by the coalition's men. Cicero's cherished \"concord of the orders\" between senate and knights was collapsing."
+    },
+    {
+      "loc": "2",
+      "anchor": "they threatened the Roscian law, even the grain law",
+      "entity_id": "law:lex-roscia-theatralis",
+      "note": "Two threats aimed at the knights: repeal of the lex Roscia theatralis of 67 BC (which reserved the first fourteen rows of the theatre for equestrians, a prized privilege), and tampering with the grain law (lex frumentaria) regulating the subsidised corn supply."
+    },
+    {
+      "loc": "5",
+      "anchor": "In those letters I shall make myself Laelius, you Furius",
+      "entity_id": null,
+      "note": "A cipher: in guarded letters Cicero will write under the code-name Laelius and call Atticus Furius, after C. Laelius Sapiens and L. Furius Philus, the famed pair of friends from Scipio's circle. The rest of such letters would be deliberately riddling."
+    },
+    {
+      "loc": "5",
+      "anchor": "I hear Bibulus's edicts have been sent to you",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "note": "Bibulus's published edicts denouncing Caesar circulated widely as anti-coalition propaganda. Their popularity galled Pompey, who is said here to burn with grief and anger over them."
+    }
+  ]
+}

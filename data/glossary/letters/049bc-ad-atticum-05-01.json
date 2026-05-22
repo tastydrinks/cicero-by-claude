@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-01",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the giving of sureties",
+      "entity_id": null,
+      "note": "Roman law required a vendor to provide formal guarantees (satisdatio secundum mancipium) protecting the buyer's title when property changed hands by mancipation. While abroad Cicero needs Atticus to stand surety for him on pending sales."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Mennian and the Atilian estates",
+      "entity_id": null,
+      "note": "Two parcels of land (the praedia Menniana and Atiliana), named for former owners, that Cicero was disposing of and on which sureties had to be given."
+    },
+    {
+      "loc": "2",
+      "anchor": "the credit of 800{,}000",
+      "entity_id": null,
+      "note": "A sum of 800,000 sesterces (HS), the standard Roman unit of account; Atticus had opened a line of credit so Cicero could discharge a debt without waiting for his own loans to be repaid."
+    },
+    {
+      "loc": "3",
+      "anchor": "A holiday kept Quintus at Arcanum",
+      "entity_id": null,
+      "note": "A religious holiday (feriae) on which it was customary to stay home; the Latin says the day itself caused Quintus to remain at his villa of Arcanum near Arpinum."
+    },
+    {
+      "loc": "3",
+      "anchor": "Statius",
+      "entity_id": "person:statius-q-freedman",
+      "note": "Statius, the favoured freedman of Cicero's brother Quintus; his influence in Quintus's household was resented and is part of the friction with Pomponia recounted here."
+    }
+  ]
+}

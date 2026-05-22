@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-69",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO P. SERVILIO CONLEGAE S. P.",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "The letter-heading; 'CONLEGAE' addresses the younger P. Servilius Isauricus as Cicero's colleague in the college of augurs. A recommendation to him as proconsul of Asia (46-44 BC) on behalf of Cicero's freedman friend at Ephesus."
+    },
+    {
+      "loc": "1",
+      "anchor": "the freedman of my close friend Postumus",
+      "entity_id": "person:c-rabirius-postumus",
+      "note": "Postumus is C. Rabirius Postumus, the great financier (son of the publican C. Curtius, adopted by C. Rabirius), defended by Cicero in 54 BC. His freedman Mithres took the nomen Curtius from the patron's family; a freedman customarily retained close ties of duty (obsequium) to his former master."
+    },
+    {
+      "loc": "1",
+      "anchor": "At his house in Ephesus I have stayed, every time I have been there, as if it were my own home",
+      "entity_id": "person:c-curtius-mithres",
+      "note": "Mithres ran his affairs from Ephesus, the chief city and assize-seat of the province of Asia, and there hosted Cicero on his journeys to and from Cilicia. Cicero stresses the depth of the guest-tie to mark this as no perfunctory recommendation."
+    },
+    {
+      "loc": "2",
+      "anchor": "in the dispute he has with a certain man of Colophon over an estate",
+      "entity_id": "place:colophon",
+      "note": "The substance of the request: Mithres is litigating over a fundus (a landed estate) against an unnamed citizen of Colophon, an Ionian city of the province of Asia. Cicero asks the governor only to give Mithres fair access and his good opinion, promising he will be no burden."
+    }
+  ]
+}

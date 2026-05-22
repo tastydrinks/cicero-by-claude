@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "what had happened at Brundisium",
+      "entity_id": "place:brundisium",
+      "note": "Brundisium, the great port on Italy's Adriatic heel, was Pompey's last foothold as he prepared to ship his army across to Greece. The whole of book 9 turns on the news, slow in coming, of whether Pompey had got away or been blockaded there by Caesar."
+    },
+    {
+      "loc": "1",
+      "anchor": "the day before the Nones",
+      "entity_id": null,
+      "note": "Cicero dates by the Roman calendar, counting backward and inclusively from fixed points: the Kalends (1st), Nones (5th or 7th), and Ides (13th or 15th). \"The day before the Nones\" of March is 6 March 49 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "crammed with the leading men",
+      "entity_id": null,
+      "note": "The optimates, the conservative senatorial establishment, were now streaming out of Rome to follow Pompey east. Their flight from the City left it open to Caesar and is what Cicero registers with dismay throughout."
+    },
+    {
+      "loc": "3",
+      "anchor": "lingering at the Formian villa",
+      "entity_id": "place:formiae",
+      "note": "Formiae, on the coast of Latium between Rome and Naples, was the site of one of Cicero's villas and his base during these weeks of indecision. Its position on the Appian Way let him gather news quickly while remaining outside Rome."
+    },
+    {
+      "loc": "3",
+      "anchor": "with the lictors set aside",
+      "entity_id": "office:lictor",
+      "note": "As a proconsul still awaiting a triumph after his Cilician command, Cicero retained lictors, the attendants who bore the fasces and advertised his rank. Their presence made discreet travel impossible, so he contemplates dismissing them to slip away unnoticed."
+    },
+    {
+      "loc": "4",
+      "anchor": "either to Syria, by allotment",
+      "entity_id": "person:q-metellus-scipio",
+      "note": "Metellus Scipio, Pompey's father-in-law, had been assigned the province of Syria; Cicero weighs whether he is going there on duty, joining Pompey (\"his son-in-law\"), or simply fleeing Caesar. The uncertainty captures the disarray of the Pompeian leadership in March 49."
+    }
+  ]
+}

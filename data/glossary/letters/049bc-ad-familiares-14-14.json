@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "If that man is going to enter Rome with restraint",
+      "entity_id": "person:caesar",
+      "note": "The unnamed 'that man' is Caesar, whose advance down Italy after crossing the Rubicon in January 49 BC is the crisis of the whole letter; Cicero is at Minturnae weighing whether his wife and daughter are safe in Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "Labienus has bettered the case",
+      "entity_id": "person:t-labienus",
+      "note": "T. Labienus, Caesar's ablest legate in Gaul, defected to Pompey and the Senate at the war's outbreak; Cicero treats the desertion as a hopeful sign for the Republican side."
+    },
+    {
+      "loc": "2",
+      "anchor": "Piso too is a help, in that he is leaving the city and condemns his own son-in-law of crime",
+      "entity_id": "person:l-piso",
+      "note": "L. Calpurnius Piso Caesoninus, consul of 58 BC, was Caesar's father-in-law (Caesar had married his daughter Calpurnia); his public disapproval and departure from Rome lent moral weight to the senatorial cause."
+    },
+    {
+      "loc": "2",
+      "anchor": "at Minturnae",
+      "entity_id": "place:minturnae",
+      "note": "A town in southern Latium on the Via Appia near the mouth of the Liris, on Cicero's route between Rome and his Campanian estates; he wrote from here while shadowing the early movements of the civil war."
+    }
+  ]
+}

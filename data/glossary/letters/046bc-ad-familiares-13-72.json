@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-72",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO P. SERVILIO CONLEGAE S.",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "The letter-heading to Cicero's augural colleague (conlega) P. Servilius Vatia Isauricus the younger, proconsul of Asia (46-44 BC); the third of the three letters (13.70-72) commending friends to him in his province."
+    },
+    {
+      "loc": "1",
+      "anchor": "The affairs, the debt-claims, and the Asian holdings of Caerellia",
+      "entity_id": "person:caerellia",
+      "note": "Caerellia, a wealthy and learned woman friend of Cicero, had business interests in the province of Asia: rem (her general affairs), nomina (outstanding loans/debt-claims registered in account-books), and possessiones (landed property). Such cross-provincial money-lending by Roman investors regularly required a governor's cooperation to enforce."
+    },
+    {
+      "loc": "2",
+      "anchor": "that decree of the Senate which was passed concerning the heirs of C. Vennonius",
+      "entity_id": "person:c-vennonius",
+      "note": "A senatus consultum (decree of the Senate) carried only moral, not strictly legal, force, but a conscientious governor would treat it as authoritative; Cicero suggests Servilius could read this particular decree, issued in the matter of C. Vennonius's heirs, as a lever to assist Caerellia's claims."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "about his gladiators",
+      "entity_id": null,
+      "note": "Caesar owned a large gladiatorial training-school at Capua; at the war's outbreak there was alarm that these fighters might be armed and used as troops, and Pompey had them dispersed. Caesar had written to Cicero about them, and Cicero's reply is the conciliatory letter mentioned here."
+    },
+    {
+      "loc": "3",
+      "anchor": "the breath of one man dangerously sick every year of his life",
+      "entity_id": "person:pompey",
+      "note": "A pointed jab at Pompey, who suffered serious recurrent illnesses (a near-fatal fever at Naples in 50 BC was famous). Cicero complains that the whole cause now hangs on the survival of a chronically sick man."
+    },
+    {
+      "loc": "4",
+      "anchor": "you must take note of the place where the mark",
+      "entity_id": null,
+      "note": "The diple was a marginal mark (a wedge or arrowhead, less-than sign in shape) used in ancient texts to flag a noteworthy passage. Cicero tells Atticus to watch for it in the enclosed copy of Pompey's letter."
+    },
+    {
+      "loc": "4",
+      "anchor": "when the Thirty Tyrants were in power",
+      "entity_id": "institution:thirty-tyrants",
+      "note": "The Thirty were the brutal pro-Spartan oligarchy that ruled Athens in 404-403 BC after its defeat in the Peloponnesian War. Cicero cites Socrates, who refused to leave the city even under their terror, as the authority for staying put under a tyrant rather than fleeing."
+    },
+    {
+      "loc": "4",
+      "anchor": "on the thirteenth day before the Kalends",
+      "entity_id": null,
+      "note": "Roman dates were counted backward (inclusively) from three fixed points each month: the Kalends (1st), Nones, and Ides. The thirteenth day before the Kalends of March is 17 February 49 BC."
+    }
+  ]
+}

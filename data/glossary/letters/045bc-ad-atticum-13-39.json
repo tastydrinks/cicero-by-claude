@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-39",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "To his father",
+      "entity_id": "person:quintus-cicero",
+      "note": "Cicero's brother Quintus, whose son tells contradictory stories to each estranged parent; \"his father\" is Quintus, \"his mother\" is Pomponia, Atticus's sister."
+    },
+    {
+      "loc": "2",
+      "anchor": "the crooked path",
+      "entity_id": null,
+      "note": "Cicero echoes the Pindar quotation of the previous letter (Greek skolia, \"crooked\"): Atticus has advised handling the nephew by indirection rather than open confrontation."
+    },
+    {
+      "loc": "2",
+      "anchor": "Phaedrus, On the Gods",
+      "entity_id": "person:phaedrus-epicurean",
+      "note": "A treatise by Phaedrus the Epicurean (head of the Athens school, c. 70 BC), whom Cicero had heard as a young man; he wants the book for his own philosophical writing. \"On the Gods\" renders the Greek peri Theon (theon = \"of the gods\"), the title's subject, not a person's name."
+    }
+  ]
+}

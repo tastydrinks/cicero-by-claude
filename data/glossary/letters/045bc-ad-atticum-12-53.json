@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-53",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "unless the Epirote correspondence is holding you up",
+      "entity_id": "place:epirus",
+      "note": "Atticus owned a large estate at Buthrotum in Epirus (north-west Greece) and conducted regular business correspondence about it. Cicero allows that this may delay Atticus's afternoon letter and tactfully does not press."
+    },
+    {
+      "loc": "1",
+      "anchor": "I have sent over to you the letters to Marcianus and to Montanus",
+      "entity_id": "person:marcianus",
+      "note": "Cicero encloses two of his own letters --- one to Marcianus, an intermediary, and one to L. Tullius Montanus regarding the latter's debt troubles --- for Atticus to forward in his outgoing packet. Routing private letters through Atticus's courier service was standard practice."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-15",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CAESARI IMP.", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "CAESARI IMP.", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "office:imperator", "entity_id": "office:imperator", "in": "lat"},
+    {"loc": "1", "surface": "IMP.", "entity_id": "office:imperator", "in": "lat"},
+    {"loc": "1", "surface": "Precilium", "entity_id": "person:precilius-filius", "in": "lat"},
+    {"loc": "1", "surface": "Precilius", "entity_id": "person:precilius-filius", "in": "eng"},
+    {"loc": "1", "surface": "tui necessari", "entity_id": "person:precilius-pater", "in": "lat"},
+    {"loc": "1", "surface": "an intimate of yours", "entity_id": "person:precilius-pater", "in": "eng"},
+    {"loc": "1", "surface": "patrem eius", "entity_id": "person:precilius-pater", "in": "lat"},
+    {"loc": "1", "surface": "his father", "entity_id": "person:precilius-pater", "in": "eng"},
+    {"loc": "1", "surface": "nostros proceres", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "our great men", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "Homeri magniloquentia", "entity_id": "person:homer", "in": "lat"},
+    {"loc": "2", "surface": "grand manner of Homer", "entity_id": "person:homer", "in": "eng"},
+    {"loc": "2", "surface": "senex Precilius", "entity_id": "person:precilius-pater", "in": "lat"},
+    {"loc": "2", "surface": "the elder Precilius", "entity_id": "person:precilius-pater", "in": "eng"},
+    {"loc": "3", "surface": "Preciliorum", "entity_id": "person:precilius-pater", "in": "lat"},
+    {"loc": "3", "surface": "the Precilii", "entity_id": "person:precilius-pater", "in": "eng"},
+    {"loc": "3", "surface": "hunc adulescentem", "entity_id": "person:precilius-filius", "in": "lat"},
+    {"loc": "3", "surface": "this young man", "entity_id": "person:precilius-filius", "in": "eng"}
+  ]
+}

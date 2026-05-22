@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I mean about the shrine",
+      "entity_id": null,
+      "note": "The fanum was the consecrated shrine Cicero planned to build to his dead daughter Tullia, less a tomb than a memorial that would amount to her deification (apotheosis). The whole sequence of Astura letters revolves around settling its design, its site, and its financing."
+    },
+    {
+      "loc": "1",
+      "anchor": "Cluatius's design pleases me",
+      "entity_id": "person:cluatius",
+      "note": "Cluatius was the architect whose plan for Tullia's shrine Cicero had accepted; here Cicero says he is settled on the design (genus) and the principle, and wavers only on the location (locus)."
+    },
+    {
+      "loc": "1",
+      "anchor": "I shall surely consecrate her with every kind of memorial",
+      "entity_id": "person:tullia",
+      "note": "To \"consecrate\" (consecrare) Tullia is to enrol her among the divine; Cicero defends the unusual ambition by citing Greek and Latin authorities for honouring the dead in this way. This is the apotheosis project that troubled even Atticus."
+    },
+    {
+      "loc": "3",
+      "anchor": "For my own principal I trust Sulpicius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "The \"principal\" (sors) is the capital sum of a loan as distinct from its interest; Cicero says he trusts Servius Sulpicius Rufus and the banker Egnatius to make the capital good. Sulpicius here is the eminent jurist, not any namesake."
+    }
+  ]
+}

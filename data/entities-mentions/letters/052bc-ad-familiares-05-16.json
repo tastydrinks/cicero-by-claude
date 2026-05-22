@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-16",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TITIO", "entity_id": "person:titius-fam-05-16", "in": "both"},
+    {"loc": "2", "surface": "fortunae", "entity_id": "god:fortuna", "in": "lat"},
+    {"loc": "2", "surface": "fortune", "entity_id": "god:fortuna", "in": "eng"}
+  ]
+}

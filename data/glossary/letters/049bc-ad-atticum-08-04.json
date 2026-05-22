@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "That Dionysius of yours",
+      "entity_id": "person:m-pomponius-dionysius",
+      "note": "M. Pomponius Dionysius, the learned freedman whom Atticus had recommended and who served as tutor to Cicero's son and nephew; his refusal to follow Cicero into the war's danger is the personal grievance that runs through letters 8.4 to 8.7. The sting is intimate: Cicero had honoured him as a scholar and was repaid with desertion."
+    },
+    {
+      "loc": "1",
+      "anchor": "my Ciceros",
+      "entity_id": null,
+      "note": "Cicero's son Marcus (then about twelve) and his nephew Quintus, the two boys Dionysius had been engaged to teach. The plural \"Ciceros\" treats them as a pair."
+    },
+    {
+      "loc": "1",
+      "anchor": "Dicaearchus, or Aristoxenus",
+      "entity_id": "person:dicaearchus",
+      "note": "Two famous Greek scholars of the Peripatetic school, both invoked sarcastically: Dionysius is no such savant. Dicaearchus of Messana and Aristoxenus of Tarentum had each argued that the soul was not a separate substance but a kind of attunement or balance of the body, a doctrine Cicero associates with them elsewhere."
+    },
+    {
+      "loc": "3",
+      "anchor": "At Sulmo, Gaius Atius the Paelignian",
+      "entity_id": "person:attius-paelignus",
+      "note": "Sulmo, a town of the Paeligni in central Italy, was held for Pompey but its commander Atius opened the gates to Caesar's lieutenant Antony despite having five cohorts; the easy surrender signals the collapse of the Pompeian position in Italy. Caesar's own account (Civil War 1.18) tells the same episode."
+    },
+    {
+      "loc": "3",
+      "anchor": "Gnaeus is making for Brundisium",
+      "entity_id": "person:pompey",
+      "note": "\"Gnaeus\" is Pompey (Gnaeus Pompeius Magnus), here named familiarly by praenomen. His move to Brundisium, the great port on Italy's heel, was the prelude to abandoning Italy and crossing to Greece, which is why Cicero adds \"the business is finished.\""
+    }
+  ]
+}

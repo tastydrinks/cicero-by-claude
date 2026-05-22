@@ -1,0 +1,360 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-19",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Pompeiano",
+      "entity_id": "place:pompeii",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Barnaeum",
+      "entity_id": "person:barnaeus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Cassio",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Dolabellae",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Bruti",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Bruto nostro",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Pompeian villa",
+      "entity_id": "place:pompeii",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Barnaeus",
+      "entity_id": "person:barnaeus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Cassius",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Dolabella's",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "letters from Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "with Brutus in his prime",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Antonius",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Clodio",
+      "entity_id": "person:sex-clodius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Deiotaro",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Dolabellae",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "the Clodius business",
+      "entity_id": "person:sex-clodius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "about Clodius",
+      "entity_id": "person:sex-clodius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Deiotarus",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "what Dolabella did",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "sororis tuae filius",
+      "entity_id": "person:q-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "your sister's son",
+      "entity_id": "person:q-cicero-the-younger",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "in honour of Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "loving Caesar even dead",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Dolabellam",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Siccam",
+      "entity_id": "person:sicca",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Servi",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Servio",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Publilius",
+      "entity_id": "person:publilius-frater",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Caerellia",
+      "entity_id": "person:caerellia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Antonium",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Buthroto",
+      "entity_id": "place:buthrotum",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Sicca",
+      "entity_id": "person:sicca",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "The line Servius is taking",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "I am with Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Publilius",
+      "entity_id": "person:publilius-frater",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Caerellia",
+      "entity_id": "person:caerellia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Buthrotum",
+      "entity_id": "place:buthrotum",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Servio",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Dolabellae",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Asturae",
+      "entity_id": "place:astura",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "about Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Dolabella's action",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Astura",
+      "entity_id": "place:astura",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Atticam meam",
+      "entity_id": "person:attica-pomponia",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Piliam",
+      "entity_id": "person:pilia",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Atticae",
+      "entity_id": "person:attica-pomponia",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "my dear Attica",
+      "entity_id": "person:attica-pomponia",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Attica my love",
+      "entity_id": "person:attica-pomponia",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Pilia",
+      "entity_id": "person:pilia",
+      "in": "eng"
+    }
+  ]
+}

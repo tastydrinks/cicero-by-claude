@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-39",
+  "mentions": [
+    {"loc": "1", "surface": "ad patrem domo sibi carendum", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "propter matrem", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "1", "surface": "ad matrem plenam pietatis", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "1", "surface": "To his father, that he has to be out of the house", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "on account of his mother", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "1", "surface": "to his mother, full of devotion", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "2", "surface": "Brutum inquis eadem", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "``Brutus too,'' you say", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "Phaedrus, On the Gods", "entity_id": "person:phaedrus-epicurean", "in": "eng"}
+  ]
+}

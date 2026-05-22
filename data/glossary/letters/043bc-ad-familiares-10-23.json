@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-23",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the Vocontii were close at hand, through whose territory the road lay open to me",
+      "entity_id": "group:vocontii",
+      "note": "The Vocontii were a Gallic people of the southern pre-Alps (around modern Vaison and Die), allied to Rome and friendly to Plancus; their loyal territory secured his line of retreat from Lepidus and Antony."
+    },
+    {
+      "loc": "2",
+      "anchor": "joined himself to Antony on 29 May",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Lepidus's army went over to Antony at the Argenteus on 29 May 43 BC (Latin a.d. iiii K. Iun.), a decisive defection that united the two against the Senate and forced Plancus to withdraw across the Isère."
+    },
+    {
+      "loc": "4",
+      "anchor": "the hands he should more justly have armed against Lepidus's destruction he turned upon himself",
+      "entity_id": "person:iuventius-laterensis",
+      "note": "Laterensis, who had vouched for Lepidus's loyalty, attempted suicide on discovering the betrayal; Plancus reports he survived the attempt but was uncertain of his recovery (he in fact died of the wound)."
+    },
+    {
+      "loc": "5",
+      "anchor": "because C. Catius Vestinus, a military tribune sent by Antony to him with a letter, I had intercepted",
+      "entity_id": null,
+      "note": "A tribunus militum is a senior legionary officer; Plancus's interception of Antony's courier C. Catius Vestinus, and his treating the man as an enemy, was one of the provocations that turned Antony's and Lepidus's troops against him."
+    },
+    {
+      "loc": "6",
+      "anchor": "Let Caesar come with the forces he has, which are very strong",
+      "entity_id": "person:octavian",
+      "note": "\"Caesar\" here is the young Octavian (Caesar's heir), then commanding the strongest body of troops in Italy; Plancus's plea for him or his army to be sent shows how much the Senate's cause now depended on the nineteen-year-old."
+    },
+    {
+      "loc": "7",
+      "anchor": "from Cularo in the territory of the Allobroges",
+      "entity_id": "place:cularo",
+      "note": "Cularo (modern Grenoble), a town on the Isère in the country of the Allobroges, was Plancus's base after his retreat; the Allobroges were the powerful Gallic tribe between the Rhone, Isère, and Alps."
+    }
+  ]
+}

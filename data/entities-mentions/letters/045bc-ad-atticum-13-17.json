@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-17",
+  "mentions": [
+    {"loc": "1", "surface": "quid Brutus cogitet", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "ecquid a Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Attica nostra quid agat", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "what Brutus is thinking", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "whether anything from Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Our Attica", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "2", "surface": "libros ad Varronem", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "2", "surface": "nisi forte Brutum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "multo Hortensium minus", "entity_id": "person:hortensius", "in": "lat"},
+    {"loc": "2", "surface": "addressed to Varro", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "2", "surface": "unless perhaps Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "much less of Hortensius", "entity_id": "person:hortensius", "in": "eng"}
+  ]
+}

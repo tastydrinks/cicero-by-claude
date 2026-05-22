@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "your taking no delight in my recommendation",
+      "entity_id": null,
+      "note": "Commendatio: the formal letter of recommendation by which a Roman patron placed a friend or client with a powerful man. Cicero had recommended Trebatius to Caesar, and is mock-jealous that Trebatius now enjoys Gaul on his own account."
+    },
+    {
+      "loc": "2",
+      "anchor": "C. Matius --- the most charming and the most learned of men",
+      "entity_id": "person:gaius-matius",
+      "note": "Gaius Matius (Calvena), a cultured Roman knight and devoted intimate of Caesar, later a friend Cicero valued highly (Fam. 11.27-28). Cicero counts Trebatius's new friendship with him the best thing he could bring home from Gaul."
+    }
+  ]
+}

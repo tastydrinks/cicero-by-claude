@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "after the lots were drawn for the province",
+      "entity_id": null,
+      "note": "Provinces and other duties were allotted (sortitio) among magistrates by lot. Quintus had drawn the governorship of Asia for 61 BC, the appointment that strained relations between him, Pomponia, and Atticus."
+    },
+    {
+      "loc": "8",
+      "anchor": "our equestrians are nearly cut off from the senate",
+      "entity_id": "group:equites",
+      "note": "Cicero's cherished concordia ordinum --- the political alliance of the senatorial and equestrian (knightly) orders that he had forged in his consulship of 63 BC. Its fraying, the theme of this letter and of 1.18, was the great anxiety of his post-consular politics."
+    },
+    {
+      "loc": "8",
+      "anchor": "an inquiry be made about those who had taken bribes for judging",
+      "entity_id": null,
+      "note": "A senatorial decree to extend the jury-bribery (iudicia) law to equestrian jurors, who had previously been immune from such prosecution. The equites took it as an attack on their order, which is why the proposal threatened the concordia ordinum."
+    },
+    {
+      "loc": "9",
+      "anchor": "Those who from the censors took the contract for Asia",
+      "entity_id": "institution:publicani",
+      "note": "The publicani --- companies of equestrian tax-farmers who bid at auction (held by the censors) for the right to collect the revenues of a province. The Asian company, having overbid in 61 BC, demanded relief on its contract: the affair that dominates this letter and 1.18."
+    },
+    {
+      "loc": "9",
+      "anchor": "on the Kalends of December and the day after",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; this is 1 December 61 BC. The letter itself is dated four days later, on the Nones of December (5 December)."
+    },
+    {
+      "loc": "9",
+      "anchor": "the dignity and concord of the orders",
+      "entity_id": null,
+      "note": "Cicero's slogan dignitas / concordia ordinum: the standing of each order and the harmony between senate and knights that he saw as the foundation of a stable commonwealth."
+    },
+    {
+      "loc": "9",
+      "anchor": "Metellus, the consul-elect",
+      "entity_id": "person:metellus-celer",
+      "note": "Q. Caecilius Metellus Celer, consul-designate for 60 BC, who alone spoke against the publicani's request. He takes office (and reappears as 'consul') in letter 1.18."
+    },
+    {
+      "loc": "11",
+      "anchor": "The Nones of December",
+      "entity_id": null,
+      "note": "The Nones fell on the 5th in most months (the 7th in March, May, July, October). This dates the letter to 5 December 61 BC."
+    }
+  ]
+}

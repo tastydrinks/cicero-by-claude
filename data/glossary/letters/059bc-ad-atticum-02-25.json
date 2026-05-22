@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-25",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "bear with the ways of the powerful",
+      "entity_id": null,
+      "note": "A Greek maxim Cicero quotes (tas ton kratounton... pheron, \"bearing the ways of those in power\") to excuse his forbearance toward the difficult Varro. It also glances wryly at his own enforced patience under the triumvirs."
+    },
+    {
+      "loc": "1",
+      "anchor": "your other friend Hortalus",
+      "entity_id": "person:hortensius",
+      "note": "Hortalus is a familiar form of the name of Q. Hortensius Hortalus, the great orator and Cicero's chief forensic rival, here praised for a generous speech extolling Cicero's record."
+    },
+    {
+      "loc": "1",
+      "anchor": "Flaccus's praetorship and of that time of the Allobroges",
+      "entity_id": "person:flaccus-defendant",
+      "note": "As praetor in 63 BC, L. Valerius Flaccus helped Cicero seize the envoys of the Allobroges (a Gallic people) carrying letters that proved the Catilinarian conspiracy. Hortensius, defending Flaccus on extortion charges in 59, recalled this service and lauded Cicero's consulship."
+    }
+  ]
+}

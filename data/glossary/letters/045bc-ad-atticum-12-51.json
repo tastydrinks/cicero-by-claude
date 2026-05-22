@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-51",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "at any rate after Peducaeus'",
+      "entity_id": "person:sex-peducaeus-the-younger",
+      "note": "Cicero expects Atticus to come to him once Atticus has finished a visit to (or business at) the house of Sextus Peducaeus, a friend common to them both. The elliptical Latin (a Peducaeo) leaves the engagement unspecified."
+    },
+    {
+      "loc": "2",
+      "anchor": "About Vergilius, as you write",
+      "entity_id": "person:c-vergilius",
+      "note": "Gaius Vergilius, an ex-praetor (propraetor of Sicily in 62 BC), here connected with a property auction that touched the gardens Cicero was seeking. He is not the poet Virgil, who was still a youth in 45 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "The letter to Caesar I see meets with your approval for sending",
+      "entity_id": "person:caesar",
+      "note": "A draft letter of political advice to Caesar (a so-called sumbouleutikon) that Cicero wanted vetted first by Caesar's intimates Balbus and Oppius. He insisted it not be sent unless they genuinely approved, treating any feigned approval as a rejection."
+    },
+    {
+      "loc": "3",
+      "anchor": "The settling of the Caerellian debt",
+      "entity_id": "person:caerellia",
+      "note": "Caerellia, a wealthy woman of philosophical tastes and a friend of Cicero, was a creditor of his; the nomen Caerellianum is the outstanding sum owed to her. Cicero weighs whether to pay it off or to assign it (perscriptio) through a banker."
+    },
+    {
+      "loc": "3",
+      "anchor": "until we know how things stand with Meto and with Faberius",
+      "entity_id": "person:faberius",
+      "note": "Faberius was Caesar's secretary, whose large debt to Cicero (the nomen Faberianum) Cicero hoped to call in to finance the purchase of gardens for Tullia's shrine. Meto, joined here with Faberius, is an otherwise unidentified party to the same financial settlement."
+    }
+  ]
+}

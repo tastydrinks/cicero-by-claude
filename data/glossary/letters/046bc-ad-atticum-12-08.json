@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the first installment",
+      "entity_id": null,
+      "note": "The first payment toward young Marcus's expenses for his studies abroad at Athens, which Cicero is arranging through an agreed schedule of installments. The companion mentioned just before is the tutor or escort to accompany him."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Fennel-field of Spain",
+      "entity_id": "place:hispania",
+      "note": "A rendering of \"fenicularius\" (campus), the \"Fennel Plain\" in Hither Spain, here standing for Caesar's Spanish campaign against the Pompeians that culminated at Munda (45 BC). Cicero wonders whether Caesar's mind is on Spain or on the consular elections at Rome."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Campus Martius",
+      "entity_id": "place:campus-martius",
+      "note": "The Field of Mars outside the city wall, where the centuriate assembly met to elect the consuls and praetors. To \"have his thoughts on the Campus Martius\" is to be turning toward the elections."
+    }
+  ]
+}

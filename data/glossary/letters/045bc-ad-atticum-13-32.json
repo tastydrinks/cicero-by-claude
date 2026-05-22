@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-32",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "Of Dicaearchus's \\textit{On the Soul} \\textit{[Greek: peri psychēs]}",
+      "entity_id": "person:dicaearchus",
+      "note": "Cicero is gathering Dicaearchus's works as sources for his planned dialogue: the two-volume On the Soul, the Descent (Katabasis), the Tripoliticus, and a letter to Aristoxenus. None of these survives; Aristoxenus was Dicaearchus's fellow Peripatetic and musical theorist."
+    },
+    {
+      "loc": "3",
+      "anchor": "Torquatus is at Rome",
+      "entity_id": "person:l-manlius-torquatus",
+      "note": "L. Manlius Torquatus is the Epicurean spokesman in book 1 of Cicero's De Finibus. The \"book\" being delivered is a copy of one of Cicero's own philosophical works."
+    },
+    {
+      "loc": "3",
+      "anchor": "\\textit{Catulus} and \\textit{Lucullus}",
+      "entity_id": null,
+      "note": "The two books of the first edition of Cicero's Academica, titled after their chief speakers Q. Lutatius Catulus and L. Licinius Lucullus (the famous general). Cicero notes he has added new prefaces praising each man."
+    },
+    {
+      "loc": "3",
+      "anchor": "I had written in shorthand \\textit{[Greek: dia sēmeiōn]}",
+      "entity_id": null,
+      "note": "Dia sēmeiōn, \"by signs\": Cicero apologizes that Atticus misread his earlier query because it was written in the abbreviated shorthand (the so-called Tironian notes) used for hasty notes between intimates."
+    },
+    {
+      "loc": "3",
+      "anchor": "he took the curule magistracies very easily in the regular years",
+      "entity_id": null,
+      "note": "The curule magistracies (aedileship, praetorship, consulship) carried minimum ages fixed by law; \"the regular years\" (legitimis annis) means holding each at the earliest legal age. Cicero uses Tuditanus's normal cursus to argue the chronology cannot fit his being on the commission."
+    },
+    {
+      "loc": "3",
+      "anchor": "whose statue at the Isthmus",
+      "entity_id": "person:a-postumius-albinus-cos151",
+      "note": "Postumius is A. Postumius Albinus, the \"Albinus the consular\" of 13.30 (consul 151 BC with L. Lucullus). A statue of him stood at the Isthmus of Corinth, commemorating his role in the post-146 settlement of Greece."
+    },
+    {
+      "loc": "3",
+      "anchor": "consul with Lucius Lucullus",
+      "entity_id": "person:l-licinius-lucullus-cos151",
+      "note": "This Lucius Licinius Lucullus, consul 151 BC, was Postumius's colleague and the father of the famous general; he is not the celebrated Mithridatic commander after whom the Academica book is named."
+    }
+  ]
+}

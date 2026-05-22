@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "out of all the Marcelli, and the Marcellini too",
+      "note": "The Marcelli were the senior branch of the patrician gens Claudia; the Marcellini (Cornelii Lentuli Marcellini) a related line. Cicero flatters the addressee that of this whole connection it is his own consulship (50 BC) that fell in the year of Cicero's victories."
+    },
+    {
+      "loc": "1",
+      "anchor": "when my letter is read out, a decree of the Senate is made in the most honourable terms",
+      "entity_id": "institution:senate",
+      "note": "A victorious commander's dispatch (litterae laureatae) was read aloud in the Senate, which then debated honours; Cicero asks the consul to manage the reading and steer through a flattering senatus consultum."
+    },
+    {
+      "loc": "2",
+      "anchor": "both in the decree of the supplicatio and in other matters",
+      "entity_id": "festival:supplicatio",
+      "note": "Cicero presses C. Marcellus, now consul (50 BC), to secure the public thanksgiving voted for his Cilician campaign, the customary prelude to a hoped-for triumph."
+    }
+  ]
+}

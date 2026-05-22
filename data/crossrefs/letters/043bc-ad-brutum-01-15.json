@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-15",
+  "refs": [
+    {
+      "from_loc": "4",
+      "to_work": "philippic-1",
+      "to_loc": null,
+      "kind": "paraphrase",
+      "certainty": "medium",
+      "note": "Cicero's claim that he warned after the Ides of March about what had been left undone and the storm gathering over the commonwealth echoes the substance of Philippic 1 (Sept. 44 BC) and Philippic 2, in which he criticised the conspirators' failure to remove Antony and secure the constitutional settlement."
+    },
+    {
+      "from_loc": "6",
+      "to_work": "philippic-3",
+      "to_loc": null,
+      "kind": "echo",
+      "certainty": "low",
+      "note": "The description of Octavian as one who \"flowed from the wellspring of my counsels\" implicitly claims credit for the strategy of using the young Caesar as a counter to Antony, a theme Cicero developed in Philippics 3–5 (Dec. 44 – Jan. 43 BC)."
+    },
+    {
+      "from_loc": "12",
+      "to_work": "ad-brutum-01-12",
+      "to_loc": "2",
+      "kind": "self_reference",
+      "certainty": "high",
+      "note": "\"As I have written before\" (implied in the urgency of the Italian appeal) cross-references the same urgent request in 1.12.2, written only days earlier, in which Cicero already begged Brutus to come into Italy at once with his forces."
+    }
+  ]
+}

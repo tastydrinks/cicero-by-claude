@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CN. PLANCIO",
+      "entity_id": "person:cn-plancius",
+      "note": "A second, very short note to Cnaeus Plancius, written soon after Fam. 4.14 (Perseus dates it 'paulo post ep. xiv'). Plancius, who had once sheltered the exiled Cicero in 58 BC and was defended by him in the Pro Plancio, is himself now in exile after the civil war."
+    },
+    {
+      "loc": "1",
+      "anchor": "had I known the first, I would have shaped my own letter to fit it",
+      "entity_id": null,
+      "note": "Cicero apologises that his previous letter (4.14) may have missed the mark: Plancius's brief note told him only how much his friend loved him, not how bravely he was bearing exile, so Cicero could not gauge what tone of consolation to strike."
+    },
+    {
+      "loc": "2",
+      "anchor": "not to suppose yourself in any plight that is yours alone",
+      "entity_id": null,
+      "note": "The consolatory commonplace that shared misfortune is lighter to bear: Cicero urges Plancius not to think his exile a private and exceptional doom but part of the common ruin (communis miseria) that the civil war had brought on all good men, Cicero included."
+    },
+    {
+      "loc": "2",
+      "anchor": "which on your side I can hope for, and on mine I can guarantee",
+      "entity_id": "person:cicero",
+      "note": "Cicero closes by pledging that his own constancy of friendship is something he can personally guarantee, while he can only hope the same of Plancius; the antithesis sperare / praestare is a polished epistolary flourish affirming the bond between the two exiles."
+    }
+  ]
+}

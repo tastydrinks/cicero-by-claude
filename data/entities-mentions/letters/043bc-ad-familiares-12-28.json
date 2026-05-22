@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-28",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "Lilybaeo", "entity_id": "place:lilybaeum", "in": "lat"},
+    {"loc": "1", "surface": "Lilybaeum", "entity_id": "place:lilybaeum", "in": "eng"},
+    {"loc": "2", "surface": "mi Cornifici", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "2", "surface": "my dear Cornificius", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "2", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "consulibus", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "consuls", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "s. c.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "senatorial decree", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

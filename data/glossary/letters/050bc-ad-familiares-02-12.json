@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Quinquatrus so vexed",
+      "entity_id": "festival:quinquatrus",
+      "note": "The Quinquatrus, a five-day festival of Minerva in mid-March, was the occasion of the tribunes' incendiary contiones (public meetings) that Cicero had been hearing about. The festival period was notorious as a time for political provocations."
+    },
+    {
+      "loc": "1",
+      "anchor": "lest I come back a plain stranger",
+      "note": "Cicero, still commanding his province, is anxious to re-enter Roman political life well-briefed; the phrase catches his mixed feelings — relief at leaving, fear of irrelevance on return."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pessinus along with Philo",
+      "entity_id": "place:pessinus",
+      "note": "Pessinus was the great Galatian cult-centre of Cybele (the Great Mother) in the interior of Asia Minor, roughly en route from Cilicia toward the Galatian client-kingdoms; Diogenes and Philo were heading there and then on to the tetrarch Adiatorix."
+    },
+    {
+      "loc": "2",
+      "anchor": "The City, my dear Rufus, the City: hold to her",
+      "note": "Cicero's most famous formulation of his own regret at provincial exile, echoing his earlier letters to Atticus from exile (58 BC); 'Rufus' here is a literary address to Caelius whose cognomen was Rufus."
+    },
+    {
+      "loc": "3",
+      "anchor": "The hope of a triumph",
+      "entity_id": "institution:triumph",
+      "note": "A triumph required the general to remain outside the city pomerium until the Senate voted it; Cicero had been acclaimed imperator after the Amanus campaign of 51 BC and held a lingering hope for the honour, though he would never receive it."
+    }
+  ]
+}

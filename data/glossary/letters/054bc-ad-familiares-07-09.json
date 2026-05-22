@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on account of his grief",
+      "entity_id": "person:caesar",
+      "note": "Caesar's grief in late 54 BC was for his daughter Julia, Pompey's wife, who had died in childbirth that August; the marriage had been the personal bond between the two dynasts. Cicero's tact in not writing to the bereaved Caesar dates this letter."
+    },
+    {
+      "loc": "2",
+      "anchor": "especially now that Battara is dead",
+      "entity_id": "person:battara",
+      "note": "An otherwise unknown man named Battara, whose recent death Cicero cites (with lost point) as removing any reason for Trebatius to hurry home. Probably a private joke between the two."
+    },
+    {
+      "loc": "3",
+      "anchor": "a son of the earth",
+      "entity_id": null,
+      "note": "Terrae filius, literally 'son of the earth': a Roman idiom for a man of unknown or no family, a nobody. Cicero mocks Trebatius's social-climbing 'friend' by claiming not even to remember whether his name is Octavius or Cornelius."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-23",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "L. Cossinio", "entity_id": "person:l-cossinius", "in": "lat"},
+    {"loc": "1", "surface": "L. Cossinius", "entity_id": "person:l-cossinius", "in": "eng"},
+    {"loc": "1", "surface": "Atticus noster", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "our friend Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Cossinio", "entity_id": "person:l-cossinius", "in": "lat"},
+    {"loc": "1", "surface": "Cossinius", "entity_id": "person:l-cossinius", "in": "eng"},
+    {"loc": "1", "surface": "Cossini domus", "entity_id": "person:l-cossinius", "in": "lat"},
+    {"loc": "1", "surface": "the whole house of Cossinius", "entity_id": "person:l-cossinius", "in": "eng"},
+    {"loc": "1", "surface": "L. Cossinius Anchialus", "entity_id": "person:l-cossinius-anchialus", "in": "lat"},
+    {"loc": "1", "surface": "L. Cossinius Anchialus", "entity_id": "person:l-cossinius-anchialus", "in": "eng"},
+    {"loc": "2", "surface": "eum", "entity_id": "person:l-cossinius-anchialus", "in": "lat"},
+    {"loc": "2", "surface": "him", "entity_id": "person:l-cossinius-anchialus", "in": "eng"}
+  ]
+}

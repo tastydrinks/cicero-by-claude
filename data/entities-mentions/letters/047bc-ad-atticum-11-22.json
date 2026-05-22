@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-22",
+  "mentions": [
+    {"loc": "1", "surface": "Balbi tabellarius", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "illius in me odium", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "quod ne Caesar quidem ad istos videtur misisse", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "ne rogari quidem se passus est de illo", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "Balbus's courier delivered the packet to me", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "than his hatred of me and this whole style of letter", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "Not even Caesar appears to have sent these things on", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "offended by the fellow's baseness", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "Caesar did not even allow himself to be petitioned about him", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "allow himself to be petitioned about him", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "Sulla, ut opinor, cras erit hic cum Messalla", "entity_id": "person:p-sulla-filius", "in": "lat"},
+    {"loc": "2", "surface": "cras erit hic cum Messalla", "entity_id": "person:m-valerius-messalla-rufus", "in": "lat"},
+    {"loc": "2", "surface": "Pharnaces autem, quoquo modo aget", "entity_id": "person:pharnaces-ii", "in": "lat"},
+    {"loc": "2", "surface": "Sulla, I believe, will be here tomorrow with Messalla", "entity_id": "person:p-sulla-filius", "in": "eng"},
+    {"loc": "2", "surface": "will be here tomorrow with Messalla", "entity_id": "person:m-valerius-messalla-rufus", "in": "eng"},
+    {"loc": "2", "surface": "And Pharnaces, whatever way he handles things", "entity_id": "person:pharnaces-ii", "in": "eng"}
+  ]
+}

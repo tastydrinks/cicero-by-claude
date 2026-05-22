@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-22",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the four-year-old Cato",
+      "entity_id": "person:cato-minor",
+      "note": "A famously obscure crux ('de quadrimo Catone'); the words probably point to a passage Cicero had drafted, perhaps for his eulogistic 'Cato' on Cato Uticensis, the reading of which his own hand made hard to decipher."
+    },
+    {
+      "loc": "1",
+      "anchor": "only let Publius not have been invited",
+      "note": "A dinner-party in-joke between Cicero and Tiro: which 'Publius' is meant is now unrecoverable, an unwelcome guest known to both."
+    },
+    {
+      "loc": "2",
+      "anchor": "was never really a man of Phaleron at all, but he is now plainly a Billienus",
+      "entity_id": "person:demetrius-fam-16-22",
+      "note": "A double pun on names. Demetrius of Phalerum was the model statesman-philosopher; 'Billienus' puns on a vulgar Roman name to say this Demetrius is no philosopher but a common rogue."
+    }
+  ]
+}

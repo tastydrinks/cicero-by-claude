@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "As for the doctor",
+      "entity_id": "person:asclapo-patrensis",
+      "note": "The physician treating Tiro at Patrae is Asclapo, named in the later letters of this group (16.9); Cicero respects his reputation but distrusts his prescriptions here."
+    },
+    {
+      "loc": "1",
+      "anchor": "Broth should not have been given you when your stomach was weak",
+      "note": "Cicero glosses Tiro's condition with the Greek medical term kakostomachos (\"weak-stomached\"); ancient dietetics held that broth (ius) was wrong for such a patient, and Cicero second-guesses the doctor on it."
+    },
+    {
+      "loc": "2",
+      "anchor": "To Curius, that most agreeable of men",
+      "entity_id": "person:mn-curius-patrensis",
+      "note": "Manius Curius is a Roman banker (negotiator) resident at Patrae and a close friend of both Cicero and Atticus; Cicero asks him to take the convalescent Tiro into his own house and to cover his expenses."
+    },
+    {
+      "loc": "2",
+      "anchor": "first because all Greeks are",
+      "entity_id": "person:lyso-patrensis",
+      "note": "A characteristic Roman jibe at Greek unreliability; Cicero fears Lyso, a Greek of Patrae who had been Tiro's host, may be careless, though Tiro vouches for him."
+    },
+    {
+      "loc": "3",
+      "anchor": "in the company of the quaestor Mescinius",
+      "entity_id": "person:l-mescinius",
+      "note": "Lucius Mescinius Rufus was the quaestor of Cicero's province of Cilicia; the quaestorship was the junior financial magistracy, and the two men were travelling home together."
+    },
+    {
+      "loc": "4",
+      "anchor": "Lepta sends you his greeting",
+      "entity_id": "person:q-paconius-lepta",
+      "note": "Quintus Paconius Lepta had served as Cicero's praefectus fabrum (chief of engineers) in Cilicia and was part of the homeward party; he is a frequent affectionate presence in the letters."
+    }
+  ]
+}

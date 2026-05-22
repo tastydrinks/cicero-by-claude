@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the quaestor Caecilius",
+      "entity_id": "person:q-caecilius-atticus-uncle",
+      "note": "The Caecilius whose departing slave gives Cicero his chance to dash off the letter. The identification is uncertain; bound here to Atticus's wealthy uncle Q. Caecilius, though his holding of a quaestorship in 59 BC is not securely attested. (Flagged.)"
+    },
+    {
+      "loc": "1",
+      "anchor": "the ox-eyed lady",
+      "entity_id": "person:clodia",
+      "note": "Clodia Metelli, sister of P. Clodius and wife of Metellus Celer. Cicero's recurring nickname for her, boopis (\"ox-eyed\"), is Homer's standing epithet for Hera --- imputing both Hera's regal beauty and her notorious incest with her brother (here, Clodius)."
+    },
+    {
+      "loc": "1",
+      "anchor": "back from Solonium",
+      "entity_id": "place:solonium",
+      "note": "Solonium, a district and estate near Lanuvium south of Rome, where Clodia had a property. Cicero awaits the report of a Clodian conversation Clodia will bring back on her return."
+    },
+    {
+      "loc": "1",
+      "anchor": "this our Hierosolymarius transferer-to-the-plebs",
+      "entity_id": "person:pompey",
+      "note": "A double sneer at Pompey. \"Hierosolymarius\" (\"man of Jerusalem\") mocks his capture of Jerusalem in 63 BC as a hollow Eastern triumph; \"transferer-to-the-plebs\" charges him with engineering Clodius's adoption into a plebeian family so Clodius could become tribune."
+    },
+    {
+      "loc": "1",
+      "anchor": "a divine recantation \\textit{[Greek: palin\\=odian]}",
+      "entity_id": null,
+      "note": "Palinodia, a \"recantation\" --- the term for Stesichorus's poem retracting his slander of Helen. Cicero promises (sardonically) to take back his recent praise of the coalition once he sees how little gratitude it earns him."
+    },
+    {
+      "loc": "1",
+      "anchor": "the cynic ex-consul",
+      "entity_id": null,
+      "note": "An unflattering tag for an unnamed former consul of sour, snarling temper (kynikos, \"dog-like\"); commonly taken to mean Bibulus or one of the disaffected nobles, though the reference is uncertain."
+    },
+    {
+      "loc": "1",
+      "anchor": "those Tritons of fish-ponds",
+      "entity_id": null,
+      "note": "The piscinarii: rich, leisured nobles like Hortensius and Lucullus, mocked as marine demigods (Tritons) lording it over their luxury fish-ponds while the commonwealth founders. Cicero's standing jibe at their political idleness."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Aelian law",
+      "entity_id": "law:lex-aelia-fufia",
+      "note": "The lex Aelia (with the lex Fufia), mid-2nd-century laws regulating the use of unfavourable auspices and obnuntiatio to block legislation. Caesar overrode them in 59 to force through his agrarian programme."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Junian and Licinian",
+      "entity_id": "law:lex-iunia-licinia",
+      "note": "The lex Iunia et Licinia of 62 BC, which required bills to be promulgated (deposited with the treasury) a fixed interval before being voted, to prevent surprise legislation. Caesar's consular laws disregarded it."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Caecilian and Didian",
+      "entity_id": "law:lex-caecilia-didia",
+      "note": "The lex Caecilia et Didia of 98 BC, which imposed a three-week interval (trinundinum) between a bill's promulgation and its vote and banned omnibus bills. Listed by Cicero among the constitutional safeguards Caesar's coalition trampled."
+    },
+    {
+      "loc": "1",
+      "anchor": "given kingdoms and lands to tetrarchs",
+      "entity_id": null,
+      "note": "An attack on the lavish grants of client-kingships and territory the coalition (chiefly through Caesar's and Pompey's Eastern settlements) bestowed on minor dynasts and \"tetrarchs\" --- petty rulers of the Hellenistic East --- in exchange for cash and support."
+    },
+    {
+      "loc": "2",
+      "anchor": "or from Theophrastus",
+      "entity_id": "person:theophrastus",
+      "note": "Theophrastus of Eresus, Aristotle's successor as head of the Peripatetic school, whose works on politics and character Cicero had studied. Cicero claims to have learned the fickleness of popular favour both from experience and from his reading."
+    },
+    {
+      "loc": "2",
+      "anchor": "three immoderate men",
+      "entity_id": null,
+      "note": "Caesar, Pompey, and Crassus --- the informal coalition (the so-called \"First Triumvirate\") that from 59 BC concentrated power in three private hands. Cicero predicts their dominance will revive nostalgia for the senate's authority he had championed."
+    },
+    {
+      "loc": "2",
+      "anchor": "dress Vatinius's tumour in a double-dyed \\textit{[Greek: dibaph\\=oi]} priestly robe",
+      "entity_id": "person:vatinius-tribune",
+      "note": "P. Vatinius, Caesar's tribune of 59, had a conspicuous swelling (struma) on his neck. Cicero jeers that the dynasts could clothe even that goitre in a priest's \"double-dyed\" (dibaphos, twice purple-dipped) augural robe --- predicting Vatinius's reach for office and priesthood."
+    },
+    {
+      "loc": "3",
+      "anchor": "playing the sophist \\textit{[Greek: sophisteuein]}",
+      "entity_id": null,
+      "note": "Sophisteuein, \"to practise as a sophist/professional teacher\" --- Cicero jokes that, barred from real politics, he may retreat to mere display oratory and self-defence."
+    },
+    {
+      "loc": "3",
+      "anchor": "``I declare to ward off any man, when one first does me harm''",
+      "entity_id": null,
+      "note": "A Greek iambic verse (of uncertain source, possibly Archilochus) Cicero quotes as his motto: he will strike back only at whoever attacks him first --- the principle, he says, \"proper to this art\" of self-defence."
+    },
+    {
+      "loc": "4",
+      "anchor": "Titus the Athenian",
+      "entity_id": "person:atticus",
+      "note": "Atticus himself, addressed by his praenomen Titus and his nickname \"the Athenian\" (for his long residence in Athens). The greeting is quoted in Greek as the small son's words: \"and little Cicero greets Titus the Athenian.\""
+    }
+  ]
+}

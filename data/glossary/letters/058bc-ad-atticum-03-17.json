@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "from the third day before the Nones of June up to the day before the Kalends of September",
+      "entity_id": null,
+      "note": "By inclusive Roman reckoning, roughly 3 June to 31 August 58 BC --- about three months of unbroken bad news about Quintus. The Nones fell on the 5th in June, the Kalends on the 1st of September."
+    },
+    {
+      "loc": "1",
+      "anchor": "Livineius, freedman of L. Regulus",
+      "entity_id": "person:l-livineius-trypho",
+      "note": "L. Livineius Trypho, freedman of Cicero's friend L. Livineius Regulus, who repeatedly risked deep-winter voyages on Cicero's behalf during the exile (Fam. 13.60). Here he carries word, and a letter from Quintus, to Cicero at Thessalonica."
+    },
+    {
+      "loc": "1",
+      "anchor": "C. Clodius's son",
+      "entity_id": "person:c-clodius-filius",
+      "note": "An otherwise unidentified son of a Gaius Clodius, mentioned in connection with the threatened prosecution of Quintus; the reading and the man are uncertain. Not the son of the tribune P. Clodius, Cicero's enemy."
+    },
+    {
+      "loc": "1",
+      "anchor": "\\textdagger\\ldots\\textdagger",
+      "entity_id": null,
+      "note": "Editorial obeli (daggers) marking a corruption in the transmitted Latin (the manuscripts read an unintelligible \"qm\"), where a few words have dropped out or been garbled. The translation leaves the gap unfilled."
+    },
+    {
+      "loc": "1",
+      "anchor": "Sestius's slaves",
+      "entity_id": "person:sestius-tribune",
+      "note": "Slaves of P. Sestius, tribune-elect for 57 BC and one of the champions of Cicero's recall, used here as couriers carrying Atticus's letters east. The same Sestius Cicero would defend in the Pro Sestio (56 BC)."
+    },
+    {
+      "loc": "1",
+      "anchor": "Appius is the questor in charge",
+      "entity_id": "person:appius-claudius-pulcher",
+      "note": "Appius Claudius Pulcher, elder brother of Cicero's enemy Clodius, presiding over the court (quaestio) that threatened Quintus --- hence Cicero's alarm. The Latin \"Appi quaestio\" means \"the inquiry is Appius's\"; \"questor\" here renders the presiding role, not the junior magistracy."
+    },
+    {
+      "loc": "3",
+      "anchor": "Sent the day before the Nones of September",
+      "entity_id": null,
+      "note": "4 September 58 BC, the day before the Nones (which fell on the 5th in September). One of the last datable letters of the Thessalonican exile."
+    }
+  ]
+}

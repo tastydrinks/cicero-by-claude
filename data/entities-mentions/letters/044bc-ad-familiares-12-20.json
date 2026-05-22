@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-20",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "Sinuessanum", "entity_id": "place:sinuessa", "in": "lat"},
+    {"loc": "1", "surface": "Sinuessa", "entity_id": "place:sinuessa", "in": "eng"},
+    {"loc": "1", "surface": "Cumano", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "1", "surface": "Cumanum", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "1", "surface": "Pompeiano", "entity_id": "place:pompeii", "in": "lat"},
+    {"loc": "1", "surface": "Pompeianum", "entity_id": "place:pompeii", "in": "eng"},
+    {"loc": "1", "surface": "senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

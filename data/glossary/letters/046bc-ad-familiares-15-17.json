@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-17",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the elder P. Sulla",
+      "entity_id": "person:sulla-defendant",
+      "note": "Publius Cornelius Sulla, nephew of the dictator and the defendant of Cicero's Pro Sulla (62 BC); he had grown rich buying up confiscated property at Caesar's auctions. He died at the end of 46 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "fearing that the auction-spear has cooled off",
+      "entity_id": "person:caesar",
+      "note": "The hasta, a spear planted in the ground, marked a public auction. The joke is that Caesar, who profited from selling confiscated estates, will mourn the loss of P. Sulla, his most energetic bidder."
+    },
+    {
+      "loc": "2",
+      "anchor": "Mindius the meat-seller and Attius the perfumer were thoroughly delighted to have lost a rival",
+      "note": "Two obscure Roman tradesmen, mock-mourned here: with the great speculator P. Sulla gone, even petty dealers count themselves rid of a competitor at the auction-block."
+    },
+    {
+      "loc": "3",
+      "anchor": "Our friend Pansa set out in his general's cloak",
+      "entity_id": "person:vibius-pansa",
+      "note": "C. Vibius Pansa, a Caesarian (later consul 43 BC), put on the paludatum (the commander's red cloak donned on leaving the city for a province) on 30 December 46 BC; the gesture is Cicero's proof that virtue is choiceworthy for its own sake."
+    },
+    {
+      "loc": "3",
+      "anchor": "Of Spain nothing new, but expectation runs very high",
+      "entity_id": "place:hispania",
+      "note": "The war against the surviving Pompeians under the sons of Pompey in Spain, which Caesar would end at Munda in March 45 BC. News from the front was eagerly awaited at Rome."
+    }
+  ]
+}

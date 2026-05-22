@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-08",
+  "mentions": [
+    {"loc": "1", "surface": "PLANCVS IMR COS. DESIG.", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCVS IMR COS. DESIG.", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "SENATVI", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "SENATVI POPVLO PLEBIQVE ROMANAE", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "COS. PR. TR. PL.", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "COS. PR. TR. PL.", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "3", "surface": "rei p. bonisque omnibus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "the state and to all loyal men", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "4", "surface": "ex casu conlegae", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "4", "surface": "from my colleague's case", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "5", "surface": "C. Furnio legato, viro forti atque strenuo", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "5", "surface": "C. Furnius, my legate", "entity_id": "person:furnius", "in": "eng"},
+    {"loc": "6", "surface": "legiones habeo quinque sub signis", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "6", "surface": "I have five legions under the standards", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "7", "surface": "rei p. incolumitate", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "7", "surface": "safety of the commonwealth", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

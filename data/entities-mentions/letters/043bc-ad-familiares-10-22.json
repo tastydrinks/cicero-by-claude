@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-22",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PLANCO.", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCO.", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "conlega", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "your colleague", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "senatui", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "Plancoque fratri", "entity_id": "person:plotius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "your brother Plancus", "entity_id": "person:plotius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "s.c.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "senatus consultum", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "Planci litteris", "entity_id": "person:plotius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "your brother Plancus's letter", "entity_id": "person:plotius-plancus", "in": "eng"},
+    {"loc": "2", "surface": "s. c.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "senatus consultum", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

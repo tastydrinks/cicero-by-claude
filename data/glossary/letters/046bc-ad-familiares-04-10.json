@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "with Theophilus setting out",
+      "entity_id": "person:theophilus-libertus-marcelli",
+      "note": "Theophilus, Marcellus's freedman and courier, carries this short covering note (the same bearer as Fam. 4.9). Cicero writes only because he cannot let the messenger leave for Mytilene empty-handed."
+    },
+    {
+      "loc": "1",
+      "anchor": "see to it that you come as soon as may be",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "The briefest and most urgent of the four appeals to the exiled Marcellus (cos. 51): Caesar's pardon has been granted, and Cicero presses him to make use of it without further delay, fearing that his \"slow departure\" from Mytilene is hardening into permanent reluctance."
+    },
+    {
+      "loc": "1",
+      "anchor": "it greatly concerns the state of your household",
+      "entity_id": null,
+      "note": "Cicero hints at a practical motive for return: Marcellus's property and finances (his res familiaris) were at risk during his prolonged absence — a danger he had raised more bluntly in Fam. 4.7, warning against \"a raid by plunderers\" upon the exile's fortunes."
+    },
+    {
+      "loc": "1",
+      "anchor": "Only let me know, please, by what date we are to expect you",
+      "entity_id": "person:cicero",
+      "note": "The closing request for a firm date of arrival signals that the matter is now settled in principle and only the timing remains; Marcellus's own reply, Fam. 4.11, confirms that Cicero's letters were decisive in persuading him to accept the recall."
+    }
+  ]
+}

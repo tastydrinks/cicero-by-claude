@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-14",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO PLANCO S.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO PLANCO S.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PLANCO", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCO", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "proelio Mutinensi", "entity_id": "place:mutina", "in": "lat"},
+    {"loc": "1", "surface": "the field at Mutina", "entity_id": "place:mutina", "in": "eng"},
+    {"loc": "2", "surface": "Lepidum", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "2", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "2", "surface": "mi Plance", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "2", "surface": "my dear Plancus", "entity_id": "person:munatius-plancus", "in": "eng"}
+  ]
+}

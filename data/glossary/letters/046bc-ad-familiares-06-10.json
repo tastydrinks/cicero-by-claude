@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the civil war so long",
+      "entity_id": "person:trebianus",
+      "note": "Trebianus was a Pompeian who remained in arms beyond the point when Cicero (and others) made their peace with Caesar; he was apparently still in exile or awaiting formal pardon when Cicero wrote this letter (c. August 46 BC), after Caesar's African campaign."
+    },
+    {
+      "loc": "1",
+      "anchor": "our Atticus",
+      "entity_id": "person:atticus",
+      "note": "Titus Pomponius Atticus, Cicero's closest friend and prolific correspondent; a wealthy eques who stayed scrupulously neutral in the civil wars and acted as a channel of communication and goodwill for friends on all sides."
+    },
+    {
+      "loc": "2",
+      "anchor": "almost all his closest familiars",
+      "entity_id": "person:caesar",
+      "note": "Cicero is careful not to name Caesar directly here; his claim to influence through Caesar's inner circle — men he had known for decades before the civil war — is a recurring theme in the consolation letters of Book 6."
+    },
+    {
+      "loc": "4",
+      "anchor": "your own consciousness of what you have done and meant",
+      "note": "The Stoic (and broadly philosophical) consolation that the testimony of one's own conscience is the truest comfort in adversity; Cicero employs the same argument in the Tusculan Disputations and elsewhere in the exile-consolation letters."
+    },
+    {
+      "loc": "5",
+      "anchor": "he himself, who has the most power, seems to me daily to drift back toward equity",
+      "entity_id": "person:caesar",
+      "note": "Cicero's guarded way of saying Caesar is becoming more merciful over time; 'drift back toward equity and toward the nature of things' echoes Stoic vocabulary of natural order (rerum natura) and hints that arbitrary one-man rule is inherently unstable."
+    }
+  ]
+}

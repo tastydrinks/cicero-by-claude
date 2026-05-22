@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "grim decision",
+      "note": "Cicero quotes back Caelius's own phrase from a now-lost letter, in which Caelius had accused him of some dark resolution — most likely withdrawing from Rome rather than joining either side in the civil war."
+    },
+    {
+      "loc": "2",
+      "anchor": "imperator",
+      "entity_id": "office:imperator",
+      "note": "The title saluted to a victorious general by his troops; Cicero had received it after his defeat of the Amanus tribes in 51 BC. Holding the title required remaining outside the city pomerium to preserve one's imperium, which was why his laurelled fasces were an embarrassing public signal of his indecision."
+    },
+    {
+      "loc": "2",
+      "anchor": "this laurel of mine",
+      "entity_id": "institution:triumph",
+      "note": "A general awaiting a triumph carried laurel-wreathed fasces and could not enter Rome; Cicero's laurel, still unresolved as the civil war broke out, became a conspicuous advertisement of his impossible position between Caesar and Pompey."
+    },
+    {
+      "loc": "2",
+      "anchor": "to make war on a man whom I hope I have satisfied, on the side of a man who in no way can ever now be satisfied",
+      "note": "Cicero means Caesar (whom he has appeased) and Pompey (who can no longer be satisfied by anything short of total victory); the epigrammatic compression captures his entire dilemma in a single antithesis."
+    },
+    {
+      "loc": "3",
+      "anchor": "T.\\ Ampius's report",
+      "entity_id": "person:t-ampius-balbus",
+      "note": "T. Ampius Balbus, praetor 57 BC and a loyal Pompeian; he was apparently relaying intelligence about military movements or political maneuvers that made Cicero recoil from abandoning Rome."
+    },
+    {
+      "loc": "3",
+      "anchor": "Q.\\ Hortensius used to make it his boast",
+      "entity_id": "person:hortensius",
+      "note": "Q. Hortensius Hortalus (114–50 BC), Cicero's great rival at the bar and later close friend; he had survived both Sulla's dictatorship and the upheavals of the 80s BC without taking up arms, a record Cicero now consciously emulates."
+    },
+    {
+      "loc": "4",
+      "anchor": "this upheaval of the whole world",
+      "note": "The phrase orbis terrarum perturbatio (\"upheaval of the whole world\") is Cicero's characterization of the civil war between Caesar and Pompey that erupted in January 49 BC when Caesar crossed the Rubicon."
+    },
+    {
+      "loc": "5",
+      "anchor": "my Tullia",
+      "entity_id": "person:tullia",
+      "note": "Cicero's beloved daughter, married to P. Cornelius Dolabella circa 50 BC; Dolabella had run up debts before the war, and Cicero feared that political instability would make it impossible to recover her dowry or protect the marriage."
+    },
+    {
+      "loc": "5",
+      "anchor": "my Dolabella, or rather ours",
+      "entity_id": "person:dolabella",
+      "note": "P. Cornelius Dolabella, Cicero's son-in-law; Cicero uses the affectionate possessive \"ours\" (nostrum) to signal that Caelius too was close to Dolabella, who had incurred financial embarrassments (\"the troubles he had brought on himself by his generosity\") before the war."
+    },
+    {
+      "loc": "6",
+      "anchor": "this Spanish outcome",
+      "entity_id": "place:hispania",
+      "note": "Caesar's swift campaign against Pompeian forces in Spain (spring–summer 49 BC), concluded at Ilerda; Cicero, writing from his estate at Cumae, expected Caesar to defeat the Pompeian legions under Afranius and Petreius, which he did by August."
+    },
+    {
+      "loc": "7",
+      "anchor": "toga praetexta",
+      "note": "The toga with a broad purple border worn by magistrates and by free-born boys up to their majority (toga virilis); weaving one for \"Oppius's boy\" signals a coming-of-age ceremony, and the jocular aside about Curtius's doubly-dyed toga mocks a pretentious friend — a scrap of social levity in a letter otherwise consumed by political anguish."
+    },
+    {
+      "loc": "7",
+      "anchor": "Dolabella's affair",
+      "entity_id": "person:dolabella",
+      "note": "Cicero had apparently drafted some document or formula concerning Dolabella's financial affairs in a previous letter; he urges Caelius to pursue it as if it were his own business, underscoring his anxiety about his son-in-law's precarious situation."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-23",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "Tratorius", "entity_id": "person:tratorius", "in": "lat"},
+    {"loc": "1", "surface": "Tratorius", "entity_id": "person:tratorius", "in": "eng"},
+    {"loc": "2", "surface": "Caesaris Octaviani", "entity_id": "person:octavian", "in": "lat"},
+    {"loc": "2", "surface": "Caesar Octavianus", "entity_id": "person:octavian", "in": "eng"},
+    {"loc": "2", "surface": "Antonio", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "Antonius", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "Antonius", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "Antonius, on the other hand", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "2", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "2", "surface": "legionibus Macedonicis quattuor", "entity_id": "group:legiones-macedonicae", "in": "lat"},
+    {"loc": "2", "surface": "four Macedonian legions", "entity_id": "group:legiones-macedonicae", "in": "eng"},
+    {"loc": "2", "surface": "ad urbem", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "up to the city", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "Antonius", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "3", "surface": "Antonius", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "3", "surface": "Cannutium", "entity_id": "person:ti-cannutius", "in": "lat"},
+    {"loc": "3", "surface": "Cannutius", "entity_id": "person:ti-cannutius", "in": "eng"},
+    {"loc": "4", "surface": "Tratorium nostrum", "entity_id": "person:tratorius", "in": "lat"},
+    {"loc": "4", "surface": "Tratorius", "entity_id": "person:tratorius", "in": "eng"}
+  ]
+}

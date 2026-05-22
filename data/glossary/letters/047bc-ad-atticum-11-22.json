@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-22",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "his hatred of me and this whole style of letter",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "The hatred is the nephew Quintus's: he had written letters denouncing his uncle, copies of which were now circulating. Cicero is mortified that the family's quarrel has become public, but says even Caesar would not be petitioned to suppress them."
+    },
+    {
+      "loc": "2",
+      "anchor": "Sulla, I believe, will be here tomorrow with Messalla",
+      "entity_id": "person:p-sulla-filius",
+      "note": "P. Cornelius Sulla and M. Valerius Messalla Rufus (cos. 53), both Caesarian agents, were hurrying south to confront the mutinous legions; their route brought them through Brundisium, raising Cicero's hope of a face-to-face appeal. This Sulla is the commander, not the dictator."
+    },
+    {
+      "loc": "2",
+      "anchor": "driven there by the troops, who say they will not budge anywhere unless they have received their pay",
+      "entity_id": null,
+      "note": "The veteran legions massed in Italy for the African war had mutinied over arrears of pay and promised donatives, refusing to embark until satisfied. The crisis was grave enough that Caesar himself eventually had to come and quell them in person."
+    },
+    {
+      "loc": "2",
+      "anchor": "the oppressiveness of this climate",
+      "entity_id": "place:brundisium",
+      "note": "Cicero blames the unhealthy air of Brundisium, the southern Italian port where he had been stranded for nearly a year, for the bodily languor compounding his despair."
+    }
+  ]
+}

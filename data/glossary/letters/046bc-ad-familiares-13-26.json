@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-26",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the tie that he was my quaestor",
+      "entity_id": "office:quaestor",
+      "note": "The quaestor–imperator relationship was one of the most binding bonds in Roman public life: a quaestor was assigned to a senior magistrate (consul, praetor, proconsul) and acted as his financial officer and right-hand man. Roman tradition (mos maiorum) treated this bond as quasi-filial and the obligation of reciprocal support was lifelong."
+    },
+    {
+      "loc": "2",
+      "anchor": "his brother M. Mindius (who carried on trade at Elis)",
+      "entity_id": "person:m-mindius",
+      "note": "M. Mindius was a Roman negotiator (merchant-businessman) based at Elis in the western Peloponnese, a region with active Roman commercial traffic. His death intestate or with a disputed estate created the inheritance case that Mescinius, as heir, needed Servius Sulpicius to adjudicate as proconsul of Achaea."
+    },
+    {
+      "loc": "3",
+      "anchor": "we have procured letters to you from M. Lepidus the consul",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "M. Aemilius Lepidus was consul in 46 BC (suffect from approximately May), just before his role as master of horse under Caesar. Cicero obtained supporting letters from the consul not as a directive but as a moral endorsement --- letters commendaticiae, a standard instrument of Roman patronage."
+    },
+    {
+      "loc": "3",
+      "anchor": "you remit them, since the case is with a senator, to Rome",
+      "entity_id": "institution:senate",
+      "note": "Roman law gave senators a privilege of being tried or judged at Rome rather than in the provinces; Cicero invokes Mescinius's senatorial status as grounds for the provincial governor to refer contumacious disputants back to the Roman courts, strengthening Mescinius's hand in the settlement."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-08",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "D. BRVTO IMP. COS. DESIG.", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTO IMP. COS. DESIG.", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "COS. DESIG.", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "COS. DESIG.", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "Polla", "entity_id": "person:polla", "in": "lat"},
+    {"loc": "1", "surface": "Polla", "entity_id": "person:polla", "in": "eng"},
+    {"loc": "1", "surface": "senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "2", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "Hirtius", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "2", "surface": "Hirtius", "entity_id": "person:hirtius", "in": "eng"},
+    {"loc": "2", "surface": "Caesar meus", "entity_id": "person:octavian", "in": "lat"},
+    {"loc": "2", "surface": "my own Caesar", "entity_id": "person:octavian", "in": "eng"}
+  ]
+}

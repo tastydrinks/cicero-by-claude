@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I would have sent you one both long since and often",
+      "note": "Cicero apologises for delay on the grounds that he was waiting to congratulate Caecina on his restoration rather than merely console him in exile; a standard epistolary excuse that also reveals how closely Cicero was tracking the political situation after Thapsus (46 BC)."
+    },
+    {
+      "loc": "2",
+      "anchor": "you firmly predicted my glorious and swift return",
+      "entity_id": "person:a-caecina-friend",
+      "note": "Caecina had been in the province of Asia when Cicero was in exile (58-57 BC) and reportedly encouraged confidence in his recall; Cicero now uses this memory to establish a reciprocal obligation and to validate Caecina's skill in political prognosis."
+    },
+    {
+      "loc": "3",
+      "anchor": "that wonderful science of the Etruscan discipline, which you had from your father",
+      "entity_id": "person:caecina-volaterranus",
+      "note": "The disciplina Etrusca was a body of Etruscan religious learning encompassing haruspicy (divination from entrails), lightning-interpretation, and the science of portents; Caecina was a recognised expert and later wrote on it. His father, A. Caecina (the defendant of the Pro Caecina), was a man of high standing at Volaterrae."
+    },
+    {
+      "loc": "4",
+      "anchor": "not to join himself with Caesar, and afterwards not to break with him",
+      "entity_id": "person:pompey",
+      "note": "Cicero's capsule version of his pre-war political counsel: first he warned Pompey not to ally with Caesar (as he later wrote in De Re Publica and elsewhere), then — once the alliance was made — not to rupture it, since he foresaw that the rupture would mean civil war."
+    },
+    {
+      "loc": "5",
+      "anchor": "I held that he ought to go into Spain",
+      "entity_id": "person:pompey",
+      "note": "Cicero consistently maintained that Pompey should have remained in Italy or crossed to Spain to use his veteran armies there, rather than crossing to Epirus and then Egypt; had Pompey done so, the Caesarian advance across Italy would have met organised resistance."
+    },
+    {
+      "loc": "6",
+      "anchor": "as Amphiaraus in the plays sets out",
+      "entity_id": "person:amphiaraus",
+      "note": "Amphiaraus, the seer of the Seven Against Thebes, who foresaw his own death in the campaign yet was compelled by oath to go; the phrase in quotes is a tragic tag (from Accius or Euripides' Alcmaeon). Cicero uses it to portray his own joining of Pompey's camp as equally foreseen and equally doomed."
+    },
+    {
+      "loc": "7",
+      "anchor": "I too, a public augur, have on the strength of my earlier predictions",
+      "entity_id": "office:augur",
+      "note": "Cicero was a member of the College of Augurs from 53 BC; the augurs were the senior Roman priestly college responsible for observing bird-signs and other auspices before public business. The self-deprecating irony is that he turns his failed political advice into 'augury' now proved accurate."
+    },
+    {
+      "loc": "8",
+      "anchor": "your famous book of",
+      "entity_id": "text:liber-querelarum",
+      "note": "Caecina's Liber Querelarum (Book of Complaints), a lost political pamphlet written in exile attacking Caesar or lamenting the state of the republic after Pharsalus; it was so inflammatory that Caecina's son feared sending it to Cicero. Caesar's reaction to its characterisation of him is the central interpretive problem of both this letter and 6.7."
+    },
+    {
+      "loc": "9",
+      "anchor": "a part of Italy not at all to be slighted",
+      "entity_id": "place:volaterrae",
+      "note": "The phrase refers to Etruria and in particular Volaterrae, Caecina's home city in the heart of Etruria; Caesar, as a shrewd politician, would need the goodwill of the Etruscan nobility, and restoring Caecina would signal generosity to that constituency."
+    },
+    {
+      "loc": "10",
+      "anchor": "Cassius he has made his legate, Brutus he has set over Gaul, Sulpicius over Greece, Marcellus",
+      "note": "Cicero cites Caesar's policy of reconciliation: C. Cassius Longinus (legate), M. Junius Brutus (governor of Cisalpine Gaul), Servius Sulpicius Rufus (proconsul of Achaia), and M. Claudius Marcellus (cos. 51, a former bitter opponent pardoned at Cicero's request in 46 BC) — all ex-Pompeians given dignified roles, establishing the precedent Caecina should expect to benefit from."
+    },
+    {
+      "loc": "11",
+      "anchor": "good men and good citizens, marked with no disgrace, should not return into that city into which so many men condemned of unspeakable crimes have already returned",
+      "note": "Cicero argues from parity: if Caesar has allowed back convicted criminals, he cannot in justice keep out men like Caecina whose only 'crime' was fighting on the losing side in a civil war they believed legitimate."
+    },
+    {
+      "loc": "12",
+      "anchor": "what great consolation your own conscience of what you did ought to be",
+      "note": "Cicero sketches a philosophical consolation he says is unnecessary: the Stoic-flavoured argument that a man who acted rightly needs no external vindication, supplemented by the historical argument that shared misfortune lightens private grief — before asserting confidently that Caecina will soon be home anyway."
+    }
+  ]
+}

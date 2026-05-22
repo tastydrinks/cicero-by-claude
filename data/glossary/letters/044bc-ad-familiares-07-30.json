@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-30",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "where I shall hear neither the name nor the deeds of the sons of Pelops",
+      "entity_id": null,
+      "note": "A quotation from an unidentified Roman tragedy (a wish to escape the accursed house of Atreus and Thyestes, the 'sons of Pelops'). Cicero, who used the same tag in Fam. 7.28, here turns it into a wish to flee Caesar's Rome."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Campus",
+      "entity_id": "place:campus-martius",
+      "note": "The Campus Martius, the plain outside the old city walls where the centuriate assembly met to elect the senior magistrates."
+    },
+    {
+      "loc": "1",
+      "anchor": "the curule chair of Q. Maximus",
+      "entity_id": "person:q-fabius-maximus-cos45",
+      "note": "The sella curulis was the ivory folding stool that marked a curule magistrate (consul, praetor, curule aedile). Q. Fabius Maximus, Caesar's suffect consul, died on the last morning of his term; his chair was set out for the elections and then removed when his death was announced."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Kalends of January",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; the Kalends of January marked the start of the consular year. Caninius's appointed term ran only to the next morning, so his consulship lasted a few hours of 31 December 45 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "under the consulship of Caninius no man took his luncheon",
+      "entity_id": "person:caninius-rebilus",
+      "note": "Caesar made C. Caninius Rebilus suffect consul for the last fraction of 31 December 45 BC after the death of Q. Fabius Maximus that morning. Cicero's mordant jokes are that his consulship was over before anyone could lunch under it, and that so vigilant a consul never once slept while in office."
+    },
+    {
+      "loc": "2",
+      "anchor": "his by purchase and bond, and mine by use and usufruct",
+      "entity_id": null,
+      "note": "Cicero plays on Roman property law: full ownership transferred by mancipatio (formal sale) and nexum (bond), as against the lesser right of usus et fructus (use and enjoyment) held by a usufructuary. Curius belongs to Atticus 'outright' and to Cicero only in usufruct --- a lawyer's joke about shared friendship."
+    }
+  ]
+}

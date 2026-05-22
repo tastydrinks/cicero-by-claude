@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-21",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "C. Anicius", "entity_id": "person:anicius-c", "in": "lat"},
+    {"loc": "1", "surface": "C. Anicius", "entity_id": "person:anicius-c", "in": "eng"},
+    {"loc": "1", "surface": "legatus est", "entity_id": "office:legatus", "in": "lat"},
+    {"loc": "1", "surface": "appointed legate", "entity_id": "office:legatus", "in": "eng"},
+    {"loc": "1", "surface": "Africam", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "1", "surface": "Africa", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "1", "surface": "legatione libera", "entity_id": "office:legatus", "in": "lat"},
+    {"loc": "1", "surface": "free legation", "entity_id": "office:legatus", "in": "eng"},
+    {"loc": "1", "surface": "senatoribus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "senators", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "Cornifici", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "Cornificius", "entity_id": "person:q-cornificius", "in": "eng"}
+  ]
+}

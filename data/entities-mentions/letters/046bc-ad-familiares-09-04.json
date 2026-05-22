@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-04",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "1", "surface": "*dio/dwron", "entity_id": "person:diodorus-cronus", "in": "lat"},
+    {"loc": "1", "surface": "Chrysippi", "entity_id": "person:chrysippus", "in": "lat"},
+    {"loc": "1", "surface": "Diodotus", "entity_id": "person:diodotus-stoicus", "in": "lat"},
+    {"loc": "1", "surface": "*xru/sippon", "entity_id": "person:chrysippus", "in": "lat"},
+    {"loc": "1", "surface": "Coctio", "entity_id": "person:cocceius", "in": "lat"},
+    {"loc": "1", "surface": "Attico", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Diodorus", "entity_id": "person:diodorus-cronus", "in": "eng"},
+    {"loc": "1", "surface": "Chrysippus", "entity_id": "person:chrysippus", "in": "eng"},
+    {"loc": "1", "surface": "our friend Diodotus", "entity_id": "person:diodotus-stoicus", "in": "eng"},
+    {"loc": "1", "surface": "according to Chrysippus", "entity_id": "person:chrysippus", "in": "eng"},
+    {"loc": "1", "surface": "Cocceius", "entity_id": "person:cocceius", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"}
+  ]
+}

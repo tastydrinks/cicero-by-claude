@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "dropped his demand for a triumph",
+      "entity_id": "institution:triumph",
+      "note": "A general claiming a triumph had to remain outside the city walls (retaining his imperium) until the senate voted it; by entering Rome Appius forfeited the claim, but removed the pretext of arrogance his prosecutor was exploiting."
+    },
+    {
+      "loc": "3",
+      "anchor": "no senatorial decree except about the Latin Festival",
+      "entity_id": "festival:feriae-latinae",
+      "note": "The Feriae Latinae, the movable festival of the Latin communities on the Alban Mount over which the consuls presided; the joke is that the consuls had passed nothing of substance, only the routine business of fixing the festival."
+    },
+    {
+      "loc": "3",
+      "anchor": "Our Curio's tribunate is frozen solid",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "C. Scribonius Curio, tribune of the plebs 50 BC; at this point still aligned against Caesar, his tribunate had so far achieved nothing. He soon switched sides (see section 5)."
+    },
+    {
+      "loc": "4",
+      "anchor": "the shopkeepers and the water-board",
+      "note": "As curule aedile Caelius policed the markets (tabernarii) and Rome's water supply (aquarii); the quip is that these petty municipal squabbles were the only signs of life in a torpid city."
+    },
+    {
+      "loc": "5",
+      "anchor": "his point about intercalation",
+      "note": "Curio as tribune had pressed for inserting an intercalary month into the calendar (a pontifical prerogative), partly to prolong his term; thwarted, he went over to Caesar."
+    },
+    {
+      "loc": "5",
+      "anchor": "not unlike Rullus's agrarian one",
+      "entity_id": "person:rullus-tribune",
+      "note": "P. Servilius Rullus, tribune 63 BC, whose sweeping land bill Cicero had killed in his De Lege Agraria speeches; Caelius means Curio's road-building bill was as demagogic and far-reaching."
+    },
+    {
+      "loc": "5",
+      "anchor": "my Greek panthers",
+      "note": "Caelius, preparing the games for his aedileship, repeatedly badgers Cicero (governor of a province rich in big cats) to procure panthers for the beast-shows in the arena."
+    }
+  ]
+}

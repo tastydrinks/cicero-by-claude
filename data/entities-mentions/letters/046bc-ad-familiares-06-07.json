@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-07",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CAECINA CICERONI P. S.",
+      "entity_id": "person:a-caecina-friend",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CAECINA CICERONI P. S.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CAECINA CICERONI P. S.",
+      "entity_id": "person:a-caecina-friend",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CAECINA CICERONI P. S.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "liber",
+      "entity_id": "text:liber-querelarum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "filius",
+      "entity_id": "person:a-caecina-friend",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "the book",
+      "entity_id": "text:liber-querelarum",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "My son",
+      "entity_id": "person:a-caecina-friend",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "tibi",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "librum",
+      "entity_id": "text:liber-querelarum",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "the book",
+      "entity_id": "text:liber-querelarum",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Bruto",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Oratore tuo",
+      "entity_id": "text:orator",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "your Orator",
+      "entity_id": "text:orator",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "librum",
+      "entity_id": "text:liber-querelarum",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "the book",
+      "entity_id": "text:liber-querelarum",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "mi Cicero",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Caesari",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "my dear Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "librum",
+      "entity_id": "text:liber-querelarum",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "the book",
+      "entity_id": "text:liber-querelarum",
+      "in": "eng"
+    }
+  ]
+}

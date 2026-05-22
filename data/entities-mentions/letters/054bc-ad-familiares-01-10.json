@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-10",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "L. VALERIO IVRICCONSVLTO", "entity_id": "person:l-valerius-jurisconsult", "in": "lat"},
+    {"loc": "1", "surface": "L. VALERIO IVRISCONSVLTO", "entity_id": "person:l-valerius-jurisconsult", "in": "eng"},
+    {"loc": "1", "surface": "Lentulo nostro", "entity_id": "person:lentulus-spinther", "in": "lat"},
+    {"loc": "1", "surface": "our Lentulus", "entity_id": "person:lentulus-spinther", "in": "eng"},
+    {"loc": "1", "surface": "Apuliam tuam", "entity_id": "place:apulia", "in": "lat"},
+    {"loc": "1", "surface": "that Apulia of yours", "entity_id": "place:apulia", "in": "eng"},
+    {"loc": "1", "surface": "Vlixes", "entity_id": "person:ulysses", "in": "lat"},
+    {"loc": "1", "surface": "Ulysses", "entity_id": "person:ulysses", "in": "eng"}
+  ]
+}

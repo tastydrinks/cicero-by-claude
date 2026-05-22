@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-06",
+  "mentions": [
+    {"loc": "1", "surface": "isse a Camillo", "entity_id": "person:c-furius-camillus", "in": "lat"},
+    {"loc": "1", "surface": "going to Camillus", "entity_id": "person:c-furius-camillus", "in": "eng"},
+    {"loc": "2", "surface": "solitudinem Catonis", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "2", "surface": "de puero Lucullo", "entity_id": "person:l-lucullus", "in": "lat"},
+    {"loc": "2", "surface": "in Achaia sumpserat", "entity_id": "place:achaia", "in": "lat"},
+    {"loc": "2", "surface": "Cato's lonely position", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "2", "surface": "the boy Lucullus too", "entity_id": "person:l-lucullus", "in": "eng"},
+    {"loc": "2", "surface": "had taken up in Achaia", "entity_id": "place:achaia", "in": "eng"},
+    {"loc": "3", "surface": "epistulam meam ad Brutum poscis", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "3", "surface": "ait Tiro", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "3", "surface": "my letter to Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "Tiro says", "entity_id": "person:tiro", "in": "eng"}
+  ]
+}

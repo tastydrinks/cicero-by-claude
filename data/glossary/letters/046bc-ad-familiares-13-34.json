@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-34",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO ACILIO PROCONSVLI S.",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "The letter-heading; one of five letters Cicero addresses to M'. Acilius Glabrio as proconsul of Sicily 46–45 BC. Each recommends a Sicilian or Italian with Sicilian interests."
+    },
+    {
+      "loc": "1",
+      "anchor": "I have an inherited tie of hospitality",
+      "entity_id": null,
+      "note": "\"Avitum hospitium\" (ancestral guest-friendship): the Roman institution of hospitium obligated descendants to maintain the reciprocal bond of hospitality and protection established by their ancestors. Cicero's grandfather or father apparently formed the original bond with the Lyso family of Lilybaeum."
+    },
+    {
+      "loc": "1",
+      "anchor": "a man worthy both of his father and of his grandfather, for the family is one of the highest standing",
+      "entity_id": "person:lyso-lilybitanus-filius",
+      "note": "The young Lyso (son of Lyso, grandson of an unnamed ancestor) belongs to the leading family of Lilybaeum, the westernmost city of Sicily and a major Roman administrative centre. His father appears as a witness in the Verrine proceedings (In Verrem 2.4.37), showing the family's longstanding ties with Roman magistrates."
+    }
+  ]
+}

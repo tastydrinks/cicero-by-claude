@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-30",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO ACILIO PROCONSVLI S.",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "Heading: Cicero to Acilius the Proconsul, greetings. The recipient is M'. Acilius Glabrio, proconsul of Sicily 46--45 BC; not to be confused with the earlier M'. Glabrione who presided at the Verres trial (70 BC). Three successive letters (13.30--32) are addressed to him as Cicero commends different Sicilian connections."
+    },
+    {
+      "loc": "1",
+      "anchor": "in company with the other Neapolitans he was made a Roman citizen, and is a decurion at Naples",
+      "entity_id": "person:l-manlius-sosis",
+      "note": "Lucius Manlius Sosis had been enrolled in the municipium of Neapolis before the lex Iulia of 90 BC extended citizenship to Italian allies; when citizenship came, he and other enrolees of municipal status were naturalised en bloc. Decurion (decurio) was the rank of a local council-member (ordo decurionum), the municipal equivalent of a Roman senator."
+    },
+    {
+      "loc": "1",
+      "anchor": "before the citizenship was given to the Italian allies and the Latins",
+      "entity_id": null,
+      "note": "The Social War (91--87 BC) ended with Rome extending full citizenship to allied Italian communities via the leges Iulia (90 BC) and Plautia Papiria (89 BC). Sosis's prior enrolment at Neapolis as a Latin-status decurion meant he was caught up in the mass enfranchisement of that municipium's registered inhabitants."
+    },
+    {
+      "loc": "1",
+      "anchor": "business of long standing in his old province of Sicily",
+      "entity_id": "place:sicilia",
+      "note": "The phrase sua Sicilia (his old Sicily) implies prior residence or economic interest in the island; men of Catina with Neapolitan municipal ties often had landed or commercial interests in Sicily, and such claims could require the proconsul's adjudication."
+    }
+  ]
+}

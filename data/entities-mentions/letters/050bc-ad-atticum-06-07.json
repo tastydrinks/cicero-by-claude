@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-07",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Quintus filius", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "patris sui", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "sorori tuae", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "1", "surface": "Milonis", "entity_id": "person:milo", "in": "lat"},
+    {"loc": "1", "surface": "Quintus the son", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "his father's heart", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "your sister", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "1", "surface": "Milo's debts", "entity_id": "person:milo", "in": "eng"},
+
+    {"loc": "2", "surface": "Laodiceae", "entity_id": "place:laodicea-asia", "in": "lat"},
+    {"loc": "2", "surface": "Mescinium", "entity_id": "person:l-mescinius", "in": "lat"},
+    {"loc": "2", "surface": "lege Iulia", "entity_id": "law:lex-iulia-de-rebus-repetundis", "in": "lat"},
+    {"loc": "2", "surface": "Rhodum", "entity_id": "place:rhodes", "in": "lat"},
+    {"loc": "2", "surface": "Athenas", "entity_id": "place:athenae", "in": "lat"},
+    {"loc": "2", "surface": "Tiro", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "2", "surface": "Issi", "entity_id": "place:issus", "in": "lat"},
+    {"loc": "2", "surface": "at Laodicea", "entity_id": "place:laodicea-asia", "in": "eng"},
+    {"loc": "2", "surface": "the quaestor Mescinius", "entity_id": "person:l-mescinius", "in": "eng"},
+    {"loc": "2", "surface": "the Julian Law", "entity_id": "law:lex-iulia-de-rebus-repetundis", "in": "eng"},
+    {"loc": "2", "surface": "Rhodes", "entity_id": "place:rhodes", "in": "eng"},
+    {"loc": "2", "surface": "Athens", "entity_id": "place:athenae", "in": "eng"},
+    {"loc": "2", "surface": "Tiro", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "2", "surface": "at Issus", "entity_id": "place:issus", "in": "eng"}
+  ]
+}

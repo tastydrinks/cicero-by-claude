@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-09",
+  "mentions": [
+    {"loc": "1", "surface": "ab eo qui mihi amicus numquam fuit", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "cotidie iam Balbi ad me litterae languidiores", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "from the man who has never been my friend", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Day by day now Balbus's letters to me grow more languid", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "2", "surface": "is quem tu mihi commendas", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "epistula Vatinio et Ligurio altera", "entity_id": "person:vatinius-tribune", "in": "lat"},
+    {"loc": "2", "surface": "Vatinio et Ligurio altera", "entity_id": "person:a-ligurius", "in": "lat"},
+    {"loc": "2", "surface": "hic Ligurius furere", "entity_id": "person:a-ligurius", "in": "lat"},
+    {"loc": "2", "surface": "summo illum in odio fuisse Caesari", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "summo illum in odio fuisse Caesari", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "tantam illi pecuniam dedisse honoris mei causa", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "habet, opinor, eius signum Pomponia", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "2", "surface": "the one you commend to me", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "one letter for Vatinius", "entity_id": "person:vatinius-tribune", "in": "eng"},
+    {"loc": "2", "surface": "another for Ligurius", "entity_id": "person:a-ligurius", "in": "eng"},
+    {"loc": "2", "surface": "At this Ligurius flew into a rage", "entity_id": "person:a-ligurius", "in": "eng"},
+    {"loc": "2", "surface": "that Quintus had been an object of the deepest hatred to Caesar", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "an object of the deepest hatred to Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Caesar had not only favoured him but had given him a great sum of money", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Pomponia, I believe, has his seal", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "3", "surface": "quod istam miseram patrimonio", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "3", "surface": "matri quoque eadem intellexi esse parata", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "3", "surface": "patruumque in ea quantum poteris mitigato", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "3", "surface": "I am leaving that poor girl", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "3", "surface": "since I have come to see that her mother too has prepared for her the same", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "3", "surface": "soften her uncle toward her as far as you can", "entity_id": "person:quintus-cicero", "in": "eng"}
+  ]
+}

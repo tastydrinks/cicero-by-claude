@@ -1,0 +1,576 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-16",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Buthroto",
+      "entity_id": "place:buthrotum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Buthrotum",
+      "entity_id": "place:buthrotum",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Varro",
+      "entity_id": "person:m-terentius-varro",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Africani",
+      "entity_id": "person:scipio-aemilianus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Phili",
+      "entity_id": "person:l-furius-philus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Laeli",
+      "entity_id": "person:laelius-sapiens",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Manili",
+      "entity_id": "person:m-manilius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Q. Tuberonem",
+      "entity_id": "person:q-aelius-tubero",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "P. Rutilium",
+      "entity_id": "person:p-rutilius-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Laeli generos",
+      "entity_id": "person:laelius-sapiens",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Scaevolam",
+      "entity_id": "person:q-mucius-scaevola-augur",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Fannium",
+      "entity_id": "person:c-fannius-historian",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Aristoteles",
+      "entity_id": "person:aristotle",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Varro",
+      "entity_id": "person:m-terentius-varro",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Africanus",
+      "entity_id": "person:scipio-aemilianus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Philus",
+      "entity_id": "person:l-furius-philus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Laelius",
+      "entity_id": "person:laelius-sapiens",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Manilius",
+      "entity_id": "person:m-manilius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Q. Tubero",
+      "entity_id": "person:q-aelius-tubero",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "P. Rutilius",
+      "entity_id": "person:p-rutilius-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "the two sons-in-law of Laelius",
+      "entity_id": "person:laelius-sapiens",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Scaevola",
+      "entity_id": "person:q-mucius-scaevola-augur",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Fannius",
+      "entity_id": "person:c-fannius-historian",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Aristotle",
+      "entity_id": "person:aristotle",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Scaevolae",
+      "entity_id": "person:q-mucius-scaevola-augur",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "πολιτείᾳ",
+      "entity_id": "text:plato-respublica",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Plato",
+      "entity_id": "person:plato",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Socrates",
+      "entity_id": "person:socrates",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Piraeum",
+      "entity_id": "place:piraeus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Cephalum",
+      "entity_id": "person:cephalus-platonicus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Platonem",
+      "entity_id": "person:plato",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Scaevola",
+      "entity_id": "person:q-mucius-scaevola-augur",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Crassi",
+      "entity_id": "person:crassus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Tusculano",
+      "entity_id": "place:tusculum",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Scaevola",
+      "entity_id": "person:q-mucius-scaevola-augur",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Plato",
+      "entity_id": "person:plato",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Republic",
+      "entity_id": "text:plato-respublica",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Socrates",
+      "entity_id": "person:socrates",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Cephalus",
+      "entity_id": "person:cephalus-platonicus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "the Piraeus",
+      "entity_id": "place:piraeus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Plato thought",
+      "entity_id": "person:plato",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Scaevola, who was of the age",
+      "entity_id": "person:q-mucius-scaevola-augur",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Crassus's Tusculan villa",
+      "entity_id": "person:crassus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Crassus's Tusculan villa",
+      "entity_id": "place:tusculum",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Scaevola's pursuits",
+      "entity_id": "person:q-mucius-scaevola-augur",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Piliae",
+      "entity_id": "person:pilia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Tulliae",
+      "entity_id": "person:tullia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Vestorio",
+      "entity_id": "person:c-vestorius",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Pilia",
+      "entity_id": "person:pilia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Tullia",
+      "entity_id": "person:tullia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Vestorius",
+      "entity_id": "person:c-vestorius",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "C. Catone",
+      "entity_id": "person:c-porcius-cato-tr56",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "lege Iunia et Licinia",
+      "entity_id": "law:lex-iunia-licinia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Fufia",
+      "entity_id": "law:lex-aelia-fufia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Milone",
+      "entity_id": "person:milo",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Procilio",
+      "entity_id": "person:procilius",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Hirrus",
+      "entity_id": "person:c-lucilius-hirrus",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Domitio",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "C. Cato",
+      "entity_id": "person:c-porcius-cato-tr56",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Lex Junia and Licinia",
+      "entity_id": "law:lex-iunia-licinia",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Lex Fufia",
+      "entity_id": "law:lex-aelia-fufia",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Milo",
+      "entity_id": "person:milo",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Procilius",
+      "entity_id": "person:procilius",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Hirrus",
+      "entity_id": "person:c-lucilius-hirrus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Domitius",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Messalla",
+      "entity_id": "person:m-valerius-messalla-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Messallae",
+      "entity_id": "person:m-valerius-messalla-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Scaurum",
+      "entity_id": "person:m-aemilius-scaurus-pr-56",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Triarius",
+      "entity_id": "person:p-valerius-triarius",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Domitius",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Memmius",
+      "entity_id": "person:c-memmius",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Pompei",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Gallia",
+      "entity_id": "place:gallia",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Catone",
+      "entity_id": "person:c-porcius-cato-tr56",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Messalla",
+      "entity_id": "person:m-valerius-messalla-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Messalla's resources",
+      "entity_id": "person:m-valerius-messalla-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Scaurus",
+      "entity_id": "person:m-aemilius-scaurus-pr-56",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Triarius",
+      "entity_id": "person:p-valerius-triarius",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Domitius is strong in friends",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Memmius",
+      "entity_id": "person:c-memmius",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Caesar's soldiers",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Pompey's Gaul",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Pompey's Gaul",
+      "entity_id": "place:gallia",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Caesar's return",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Cato acquitted",
+      "entity_id": "person:c-porcius-cato-tr56",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Buthroto",
+      "entity_id": "place:buthrotum",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Asiam",
+      "entity_id": "place:asia-province",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "hercule",
+      "entity_id": "god:hercules",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Asiam",
+      "entity_id": "place:asia-province",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Buthrotum",
+      "entity_id": "place:buthrotum",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "into Asia",
+      "entity_id": "place:asia-province",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "By Hercules",
+      "entity_id": "god:hercules",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "on to Asia",
+      "entity_id": "place:asia-province",
+      "in": "eng"
+    }
+  ]
+}

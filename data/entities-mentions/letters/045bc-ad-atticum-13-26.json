@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-26",
+  "mentions": [
+    {"loc": "1", "surface": "de Vergili parte", "entity_id": "person:c-vergilius", "in": "lat"},
+    {"loc": "1", "surface": "proximum Clodiae", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "1", "surface": "inruam in Drusum", "entity_id": "person:m-livius-drusus-claudianus", "in": "lat"},
+    {"loc": "1", "surface": "revolvor identidem in Tusculanum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "About Vergilius's share", "entity_id": "person:c-vergilius", "in": "eng"},
+    {"loc": "1", "surface": "Clodia's the next", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "1", "surface": "rush at Drusus", "entity_id": "person:m-livius-drusus-claudianus", "in": "eng"},
+    {"loc": "1", "surface": "coming back round to the Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "quam Asturae", "entity_id": "place:astura", "in": "lat"},
+    {"loc": "2", "surface": "Lanuvio conor equidem in Tusculanum", "entity_id": "place:lanuvium", "in": "lat"},
+    {"loc": "2", "surface": "conor equidem in Tusculanum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "2", "surface": "effeci epistulam ad Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "exemplum fortasse Lanuvio", "entity_id": "place:lanuvium", "in": "lat"},
+    {"loc": "2", "surface": "nisi forte Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "more ease than at Astura", "entity_id": "place:astura", "in": "eng"},
+    {"loc": "2", "surface": "From Lanuvium I am", "entity_id": "place:lanuvium", "in": "eng"},
+    {"loc": "2", "surface": "to push on to the Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "completed the letter to Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "from Lanuvium perhaps", "entity_id": "place:lanuvium", "in": "eng"},
+    {"loc": "2", "surface": "unless I do it from Rome", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

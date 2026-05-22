@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-41",
+  "mentions": [
+    {"loc": "1", "surface": "ego vero Quinto epistulam", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "epistulam ad sororem misi", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "1", "surface": "filio cum matre bellum", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "cum matre bellum", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "1", "surface": "domo cessurum filio diceret", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "ad matrem litteras", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "1", "surface": "graviter ad filium scripsisset", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "I have forwarded to Quintus", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "the letter to his sister", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "1", "surface": "war between his son and the mother", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "his son and the mother", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "1", "surface": "give up the house to his son", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "a pleasant enough letter to his mother", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "1", "surface": "written sharply and repeatedly to his son", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "si vero etiam Brutus aliquid adferet", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "If indeed Brutus too will bring something to bear", "entity_id": "person:brutus", "in": "eng"}
+  ]
+}

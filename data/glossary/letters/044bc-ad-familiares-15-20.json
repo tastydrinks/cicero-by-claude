@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "My \\textit{Orator}",
+      "note": "Cicero's rhetorical treatise the Orator, on the ideal orator, completed in 46 BC and dedicated to Brutus; here he has commended a copy to Trebonius's friend Sabinus."
+    },
+    {
+      "loc": "1",
+      "anchor": "something of Cures about them",
+      "note": "Cures was the chief town of the Sabines, an old people proverbial for plain, austere uprightness; Cicero teases that Sabinus's grave manner suited his Sabine surname, while wondering whether he had simply adopted the flattering name."
+    },
+    {
+      "loc": "3",
+      "anchor": "where you have seen our Brutus",
+      "entity_id": "person:brutus",
+      "note": "Marcus Junius Brutus, the future tyrannicide; Trebonius's route in April 44 BC, on his way to his province of Asia, was expected to bring him into contact with Brutus."
+    }
+  ]
+}

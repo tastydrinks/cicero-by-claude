@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "with the consuls taken from us",
+      "entity_id": "office:consul",
+      "note": "Both consuls of 43 BC died within days of the relief of Mutina: Pansa of wounds taken at Forum Gallorum, Hirtius in the final battle. Their loss left a dangerous vacuum in command and at Rome."
+    },
+    {
+      "loc": "1",
+      "anchor": "that most weathercock of men, Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Latin ventosissimum, literally \"most full of wind\"; Decimus brands Lepidus as the man most likely to shift with the political breeze, as he soon did in joining Antony."
+    },
+    {
+      "loc": "2",
+      "anchor": "29 April, from camp at Regium",
+      "entity_id": "place:regium-lepidi",
+      "note": "Latin iii K. Mai., the third day before the Kalends of May counted inclusively, i.e. 29 April. Regium is Regium Lepidi (modern Reggio Emilia) on the via Aemilia west of Mutina."
+    }
+  ]
+}

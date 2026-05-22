@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-28",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "threatening from Lilybaeum",
+      "entity_id": "place:lilybaeum",
+      "note": "Lilybaeum (modern Marsala) was the great port at the western tip of Sicily, the standard crossing-point to the province of Africa; men hostile to Cornificius were gathering there to make trouble."
+    },
+    {
+      "loc": "2",
+      "anchor": "the partnership in preserving the state which you took up with me from your father",
+      "entity_id": null,
+      "note": "Cornificius's father had been a political ally of Cicero; the son \"inherits\" and renews that alliance, a societas in defence of the Republic against Antony."
+    },
+    {
+      "loc": "2",
+      "anchor": "if it were ever convened while the consuls are absent",
+      "entity_id": "office:consul",
+      "note": "The Senate was normally summoned by a consul; with both consuls of 43 (Pansa and Hirtius) away on campaign at Mutina, it met only for urgent new business (rem novam), so routine grants for Cornificius could not be voted."
+    },
+    {
+      "loc": "2",
+      "anchor": "neither about the two million sesterces nor about the seven hundred thousand",
+      "entity_id": null,
+      "note": "The sestertius (HS) was the standard accounting coin; these are sums (HS 2,000,000 and HS 700,000) for Cornificius's African command that the Senate could not now authorise from the treasury."
+    },
+    {
+      "loc": "2",
+      "anchor": "you should requisition supplies under the senatorial decree",
+      "entity_id": "institution:senate",
+      "note": "A governor armed with a senatus consultum could requisition money and supplies from the province itself (the imperatum) or raise loans on credit, instead of waiting for funds from Rome."
+    }
+  ]
+}

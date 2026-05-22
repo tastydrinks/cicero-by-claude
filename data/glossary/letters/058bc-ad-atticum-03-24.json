@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-24",
+  "notes": [
+    {"loc": "1", "anchor": "the consuls' provinces had been allotted them by your common consent", "entity_id": null, "note": "By the Senate's vote the consuls of 57 (Lentulus and Metellus) were assigned their post-consular provinces in advance; Cicero's friends backed this to win the consuls over, but it stripped the friendly tribunes of a bargaining lever."},
+    {"loc": "1", "anchor": "they have lost all the force of their own right", "entity_id": null, "note": "The tribunes had hoped to control the allotment of the consular provinces and thereby bind the consuls to Cicero's recall; the Senate's pre-emptive grant gave that prize away for nothing."},
+    {"loc": "1", "anchor": "got the same thing through the people", "entity_id": null, "note": "A measure could be carried either by senatorial decree or by a vote of the popular assembly; Cicero notes the consuls could not have forced it through the assembly over a tribune's veto."},
+    {"loc": "2", "anchor": "the Senate would decree nothing before our case had been moved", "entity_id": "institution:senate", "note": "Cicero's partisans had hoped the Senate would transact no other business until his recall was settled; granting the provinces broke that resolve and so weakened the leverage of his cause."},
+    {"loc": "2", "anchor": "consuls-elect had their provinces allotted them ahead of time", "entity_id": null, "note": "Provinces were normally assigned to sitting consuls, not to consuls-elect; Cicero calls the early allotment unprecedented and a worrying precedent for hasty senatorial decrees."},
+    {"loc": "2", "anchor": "Metellus, who was setting aside his quarrel with me", "entity_id": "person:metellus-nepos", "note": "Q. Caecilius Metellus Nepos, consul of 57 and an old adversary of Cicero from 62 BC, was now publicly burying that feud to let the recall proceed."},
+    {"loc": "2", "anchor": "the fourth day before the Ides of December", "entity_id": null, "note": "The Ides fell on the 13th in December; reckoned inclusively, this dates the letter to 10 December 58 BC."}
+  ]
+}

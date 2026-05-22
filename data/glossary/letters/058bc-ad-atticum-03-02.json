@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on Sicca's estate",
+      "entity_id": "person:sicca",
+      "note": "Sicca was a close friend and confidential agent of Cicero who put his property at the fugitive's disposal during the exile. Staying on a friend's land was a way of remaining within Italy while the terms of the Clodian bill were still being settled."
+    },
+    {
+      "loc": "1",
+      "anchor": "before the bill is amended",
+      "entity_id": null,
+      "note": "The lex Clodia was at this stage still being revised; an amended version (the supplementary clause) would later fix the distance Cicero had to keep from Italy. Until then his legal position, and so his route, remained uncertain."
+    },
+    {
+      "loc": "1",
+      "anchor": "on account of Autronius",
+      "entity_id": "person:p-autronius-paetus",
+      "note": "P. Autronius Paetus, condemned for the Catilinarian conspiracy in 62 BC, was himself in exile in the east; his hostile presence made the Brundisium region and the sea-crossing toward Greece dangerous for Cicero. Cicero had testified against him, hence the enmity."
+    },
+    {
+      "loc": "1",
+      "anchor": "Sent the sixth day before the Ides of April",
+      "entity_id": null,
+      "note": "A Roman date: the sixth day (counted inclusively) before the Ides of April, i.e. 8 April. Letters routinely closed with the day of dispatch reckoned by Kalends, Nones, and Ides."
+    },
+    {
+      "loc": "1",
+      "anchor": "Nares Lucanae",
+      "entity_id": "place:nares-lucanae",
+      "note": "A staging-post in Lucania (southern Italy) on the road south toward Brundisium, marking a point on Cicero's flight. The Latin abbreviates it 'naribus Luc.'"
+    }
+  ]
+}

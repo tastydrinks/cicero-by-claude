@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-22",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "T. Manlium", "entity_id": "person:t-manlius-thespiensis", "in": "lat"},
+    {"loc": "1", "surface": "T. Manlius", "entity_id": "person:t-manlius-thespiensis", "in": "eng"},
+    {"loc": "1", "surface": "negotiatur Thespiis", "entity_id": "place:thespiae", "in": "lat"},
+    {"loc": "1", "surface": "carries on business at Thespiae", "entity_id": "place:thespiae", "in": "eng"},
+    {"loc": "1", "surface": "Varro Murena", "entity_id": "person:a-terentius-varro-murena", "in": "lat"},
+    {"loc": "1", "surface": "Varro Murena", "entity_id": "person:a-terentius-varro-murena", "in": "eng"},
+    {"loc": "1", "surface": "Manlium commendabat", "entity_id": "person:t-manlius-thespiensis", "in": "lat"},
+    {"loc": "1", "surface": "commending Manlius to you", "entity_id": "person:t-manlius-thespiensis", "in": "eng"},
+    {"loc": "1", "surface": "Varronis studium", "entity_id": "person:a-terentius-varro-murena", "in": "lat"},
+    {"loc": "1", "surface": "Varro's earnestness", "entity_id": "person:a-terentius-varro-murena", "in": "eng"},
+    {"loc": "2", "surface": "T. Manlium", "entity_id": "person:t-manlius-thespiensis", "in": "lat"},
+    {"loc": "2", "surface": "T. Manlius", "entity_id": "person:t-manlius-thespiensis", "in": "eng"}
+  ]
+}

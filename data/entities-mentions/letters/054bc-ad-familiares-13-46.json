@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-46",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "APPVLEIO", "entity_id": "person:m-appuleius", "in": "both"},
+    {"loc": "1", "surface": "L. Nostius Zoilus", "entity_id": "person:l-nostius-zoilus", "in": "lat"},
+    {"loc": "1", "surface": "L. Nostius Zoilus", "entity_id": "person:l-nostius-zoilus", "in": "eng"}
+  ]
+}

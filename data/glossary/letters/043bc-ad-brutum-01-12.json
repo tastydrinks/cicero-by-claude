@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Messala Corvinus",
+      "entity_id": "person:m-valerius-messala-corvinus",
+      "note": "M. Valerius Messala Corvinus (64 BC–AD 8), an aristocratic young general and orator who served under Brutus at Philippi before switching to Octavian; here he is the bearer of Cicero's letter to Brutus, a role confirming his standing in republican circles."
+    },
+    {
+      "loc": "1",
+      "anchor": "crime and madness of M. Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Marcus Aemilius Lepidus, one of Caesar's former officers and governor of Narbonese Gaul, had just joined Antony's forces in May 43 BC, reversing his earlier professed loyalty; the Senate declared him a public enemy (hostis)."
+    },
+    {
+      "loc": "1",
+      "anchor": "your mother's prayers, nor to your sister's",
+      "entity_id": "person:servilia-hortensii",
+      "note": "Brutus's mother was Servilia (half-sister of Cato Uticensis and former intimate of Julius Caesar); his sister was Iunia Tertia, wife of Cassius Longinus, who was interceding on behalf of Lepidus's children."
+    },
+    {
+      "loc": "1",
+      "anchor": "which Jupiter avert the omen",
+      "entity_id": "god:jupiter",
+      "note": "\"Quod Iuppiter omen avertat\" is a standard Roman religious formula for disavowing an ill-omened word just spoken, calling on Jupiter to prevent the feared event from materialising."
+    },
+    {
+      "loc": "2",
+      "anchor": "the laws, that affection for children should make parents better-disposed to the commonwealth",
+      "entity_id": null,
+      "note": "Cicero invokes the Roman principle — embodied in property-confiscation law — that a citizen's concern for his heirs' inheritance should deter him from treason; Lepidus's rebellion thus reveals him as cruel to his own children, not Cicero."
+    },
+    {
+      "loc": "2",
+      "anchor": "your army",
+      "entity_id": "person:brutus",
+      "note": "Brutus commanded several legions in Macedonia and was the Senate's hope for a reserve force that could march into Italy if the western campaign against Antony and Lepidus faltered."
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-15",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "ATTICO",
+      "entity_id": "person:atticus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Capuae",
+      "entity_id": "place:capua",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Capua",
+      "entity_id": "place:capua",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "in Albano",
+      "entity_id": "place:albanum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Curionem",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Arpinum",
+      "entity_id": "place:arpinum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Brundisi",
+      "entity_id": "place:brundisium",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Tarenti",
+      "entity_id": "place:tarentum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Graeciam",
+      "entity_id": "place:graecia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Hispanias",
+      "entity_id": "place:hispania",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Siponti",
+      "entity_id": "place:sipontum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "ATTICO",
+      "entity_id": "person:atticus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesar would be at Capua",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesar would be at Capua",
+      "entity_id": "place:capua",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "brought to me from Capua",
+      "entity_id": "place:capua",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "at the Alban estate",
+      "entity_id": "place:albanum",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "with Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "I shall go on to Arpinum",
+      "entity_id": "place:arpinum",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "posted one legion each at Brundisium",
+      "entity_id": "place:brundisium",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Tarentum",
+      "entity_id": "place:tarentum",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "looking to Greece",
+      "entity_id": "place:graecia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "rather than Spain",
+      "entity_id": "place:hispania",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Sipontum",
+      "entity_id": "place:sipontum",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "S. C. facere",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "augurum decretum",
+      "entity_id": "institution:college-of-augurs",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "consules roget praetor",
+      "entity_id": "office:consul",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "praetor",
+      "entity_id": "office:praetor",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Sulla",
+      "entity_id": "person:sulla",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "ab interrege",
+      "entity_id": "office:interrex",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Q. Mucius",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Scipio",
+      "entity_id": "person:l-cornelius-scipio-asiaticus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "pass a decree of the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "a decree of the augurs",
+      "entity_id": "institution:college-of-augurs",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "the praetor put the question for consular elections",
+      "entity_id": "office:consul",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "have the praetor put the question",
+      "entity_id": "office:praetor",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "if Sulla could bring it about",
+      "entity_id": "person:sulla",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "through an interrex",
+      "entity_id": "office:interrex",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "like Quintus Mucius",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "like Lucius Scipio",
+      "entity_id": "person:l-cornelius-scipio-asiaticus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Brundisi",
+      "entity_id": "place:brundisium",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "what had been done at Brundisium",
+      "entity_id": "place:brundisium",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "T. Rebilum",
+      "entity_id": "person:caninius-rebilus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "consules",
+      "entity_id": "office:consul",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Philippus",
+      "entity_id": "person:l-marcius-philippus-cos56",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Neapoli",
+      "entity_id": "place:neapolis",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Lentulus",
+      "entity_id": "person:lentulus-spinther",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Puteolis",
+      "entity_id": "place:puteoli",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Domitio",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "see Titus Rebilus",
+      "entity_id": "person:caninius-rebilus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "The mandates of Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "to the consuls",
+      "entity_id": "office:consul",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "and to Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Philippus is at Naples",
+      "entity_id": "person:l-marcius-philippus-cos56",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Philippus is at Naples",
+      "entity_id": "place:neapolis",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Lentulus at Puteoli",
+      "entity_id": "person:lentulus-spinther",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Lentulus at Puteoli",
+      "entity_id": "place:puteoli",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "About Domitius",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Dionysio",
+      "entity_id": "person:m-pomponius-dionysius",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Philargyro",
+      "entity_id": "person:philargyrus-torquatus",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "about Dionysius",
+      "entity_id": "person:m-pomponius-dionysius",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "By Philargyrus you have managed well",
+      "entity_id": "person:philargyrus-torquatus",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Matio",
+      "entity_id": "person:gaius-matius",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Trebatio",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "MATIVS",
+      "entity_id": "person:gaius-matius",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "TREBATIVS",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "CICERONI",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "IMP.",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Capua exissemus",
+      "entity_id": "place:capua",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Brundisio",
+      "entity_id": "place:brundisium",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Romam contendisse",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Hispanias proficisci",
+      "entity_id": "place:hispania",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Trebatius",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Beneventi",
+      "entity_id": "place:beneventum",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Capuae",
+      "entity_id": "place:capua",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Sinuessae",
+      "entity_id": "place:sinuessa",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "I had sent with Matius",
+      "entity_id": "person:gaius-matius",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "and Trebatius",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Matius and Trebatius to Cicero",
+      "entity_id": "person:gaius-matius",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Matius and Trebatius to Cicero",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "to Cicero \\textit{imperator}",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "to Cicero \\textit{imperator}",
+      "entity_id": "office:imperator",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "we had left Capua",
+      "entity_id": "place:capua",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Pompey had set out",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "set out from Brundisium",
+      "entity_id": "place:brundisium",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "that Caesar had entered the town",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "pushed on from there to Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "set out for Spain",
+      "entity_id": "place:hispania",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "about Caesar's arrival",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Trebatius is keeping busy",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Caesar will lodge",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "at Beneventum",
+      "entity_id": "place:beneventum",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "on the seventh at Capua",
+      "entity_id": "place:capua",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "on the sixth at Sinuessa",
+      "entity_id": "place:sinuessa",
+      "in": "eng"
+    }
+  ]
+}

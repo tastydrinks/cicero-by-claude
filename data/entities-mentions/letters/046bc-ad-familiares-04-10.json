@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-10",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "MARCELLO", "entity_id": "person:m-claudius-marcellus-cos51", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "MARCELLO", "entity_id": "person:m-claudius-marcellus-cos51", "in": "eng"},
+    {"loc": "1", "surface": "Theophilus", "entity_id": "person:theophilus-libertus-marcelli", "in": "lat"},
+    {"loc": "1", "surface": "Theophilus", "entity_id": "person:theophilus-libertus-marcelli", "in": "eng"}
+  ]
+}

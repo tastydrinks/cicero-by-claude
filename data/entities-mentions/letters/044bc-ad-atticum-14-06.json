@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-06",
+  "mentions": [
+    {"loc": "1", "surface": "de Octavio", "entity_id": "person:octavian", "in": "lat"},
+    {"loc": "1", "surface": "Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Antonio", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Idus Martias", "entity_id": "event:ides-of-march", "in": "lat"},
+    {"loc": "1", "surface": "Ligure nostro", "entity_id": "person:m-octavius-ligus", "in": "lat"},
+    {"loc": "1", "surface": "Sextili fundum", "entity_id": "person:q-sextilius", "in": "lat"},
+    {"loc": "1", "surface": "Curtilio", "entity_id": "person:curtilius", "in": "lat"},
+    {"loc": "1", "surface": "Octavius", "entity_id": "person:octavian", "in": "eng"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Antony's conference", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "the Ides of March", "entity_id": "event:ides-of-march", "in": "eng"},
+    {"loc": "1", "surface": "our friend Ligus", "entity_id": "person:m-octavius-ligus", "in": "eng"},
+    {"loc": "1", "surface": "Sextilius's estate", "entity_id": "person:q-sextilius", "in": "eng"},
+    {"loc": "1", "surface": "Curtilius", "entity_id": "person:curtilius", "in": "eng"},
+    {"loc": "2", "surface": "consules", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "tribunos pl.", "entity_id": "office:tribune", "in": "lat"},
+    {"loc": "2", "surface": "consuls", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "tribunes of the plebs", "entity_id": "office:tribune", "in": "eng"}
+  ]
+}

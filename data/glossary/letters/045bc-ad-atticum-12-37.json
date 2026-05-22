@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-37",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "As to the shrine, if you find no gardens for me",
+      "entity_id": null,
+      "note": "The horti are suburban pleasure-gardens across the Tiber from Rome; Cicero wants to buy a set as the site for Tullia's shrine. A frequented, public-facing location near the city was essential to his plan to make her memory permanent."
+    },
+    {
+      "loc": "2",
+      "anchor": "But somehow I find myself wanting a frequented spot",
+      "entity_id": null,
+      "note": "Cicero wants the shrine on a celebris locus, a much-visited site, so that crowds passing by will keep Tullia's cult alive; a remote tomb would be forgotten. This is why he prefers suburban gardens over his own country villas."
+    },
+    {
+      "loc": "2",
+      "anchor": "The greatest throng is at Scapula's",
+      "entity_id": "person:p-scapula",
+      "note": "The horti Scapulani were the gardens of the late P. Scapula, now held by his coheirs; their position made them the most public and so most desirable site for Cicero's shrine. Much of the 45 BC correspondence turns on prying them loose at auction."
+    },
+    {
+      "loc": "2",
+      "anchor": "I should very much like you to meet Otho, if he is in Rome",
+      "entity_id": "person:otho",
+      "note": "Otho was a part-owner or rival bidder in the Scapula gardens whose involvement Cicero hoped to turn to advantage. His name recurs through these letters as the hunt for the shrine-site stalls and revives."
+    },
+    {
+      "loc": "2",
+      "anchor": "For Drusus certainly wants to sell",
+      "entity_id": "person:m-livius-drusus-claudianus",
+      "note": "Drusus (M. Livius Drusus Claudianus) owned another set of gardens Cicero considered for the shrine and was, unlike the Scapula heirs, a willing seller. He is the contemporary property-owner of 45 BC, not the famous tribune of the same family."
+    }
+  ]
+}

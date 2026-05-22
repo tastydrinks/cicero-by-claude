@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-01",
+  "mentions": [
+    {"loc": "1", "surface": "cogitabam in Anagnino", "entity_id": "place:anagnia", "in": "lat"},
+    {"loc": "1", "surface": "postero autem in Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "ad complexum meae Tulliae", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "ad osculum Atticae", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "dum consisto in Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "itemque Piliae", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "1", "surface": "to spend that day at the Anagninum", "entity_id": "place:anagnia", "in": "eng"},
+    {"loc": "1", "surface": "the next at the Tusculanum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "run straight to my Tullia's embrace", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "1", "surface": "to a kiss from Attica", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "1", "surface": "while I am at the Tusculanum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "and the same to Pilia", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "2", "surface": "de Atticae febricula", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "2", "surface": "ego enim iiii Kal. Axio dederam", "entity_id": "person:q-axius", "in": "lat"},
+    {"loc": "2", "surface": "Quinto quo die venissem", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "much distressed about Attica's little fever", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "2", "surface": "I had given a letter to Axius on the fourth before the Kalends", "entity_id": "person:q-axius", "in": "eng"},
+    {"loc": "2", "surface": "and to Quintus on the day I arrived", "entity_id": "person:quintus-cicero", "in": "eng"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-14",
+  "mentions": [
+    {"loc": "1", "surface": "omnes enim Achaici deprecatores", "entity_id": "place:achaia", "in": "lat"},
+    {"loc": "1", "surface": "itemque in Asia quibus non erat ignotum", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "in Africam dicuntur navigaturi", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "1", "surface": "ita praeter Laelium neminem habeo culpae socium", "entity_id": "person:d-laelius", "in": "lat"},
+    {"loc": "1", "surface": "all those in Achaia who were pleading for pardon", "entity_id": "place:achaia", "in": "eng"},
+    {"loc": "1", "surface": "likewise in Asia those who were not pardoned", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "1", "surface": "are said to be on the point of sailing to Africa", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "1", "surface": "apart from Laelius I have no partner in my fault", "entity_id": "person:d-laelius", "in": "eng"},
+    {"loc": "2", "surface": "ad Balbum et ad Oppium scripserit", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "2", "surface": "et ad Oppium scripserit", "entity_id": "person:gaius-oppius", "in": "lat"},
+    {"loc": "2", "surface": "praesertim hoc genero", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "2", "surface": "he has written to Balbus and Oppius", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "2", "surface": "written to Balbus and Oppius", "entity_id": "person:gaius-oppius", "in": "eng"},
+    {"loc": "2", "surface": "especially with this son-in-law of mine", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "3", "surface": "Quintus pergit, ut ad me et Pansa scripsit et Hirtius", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "3", "surface": "ut ad me et Pansa scripsit", "entity_id": "person:vibius-pansa", "in": "lat"},
+    {"loc": "3", "surface": "et Hirtius", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "3", "surface": "isque item Africam petere cum ceteris dicitur", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "3", "surface": "ad Minucium Tarentum scribam", "entity_id": "person:minucius-tarentum", "in": "lat"},
+    {"loc": "3", "surface": "Minucium Tarentum", "entity_id": "place:tarentum", "in": "lat"},
+    {"loc": "3", "surface": "Quintus is pressing on", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "3", "surface": "as both Pansa and Hirtius have written to me", "entity_id": "person:vibius-pansa", "in": "eng"},
+    {"loc": "3", "surface": "Pansa and Hirtius have written to me", "entity_id": "person:hirtius", "in": "eng"},
+    {"loc": "3", "surface": "he too is said to be making for Africa with the rest", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "3", "surface": "I shall write to Minucius at Tarentum", "entity_id": "person:minucius-tarentum", "in": "eng"},
+    {"loc": "3", "surface": "Minucius at Tarentum", "entity_id": "place:tarentum", "in": "eng"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-24",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "at Aquinum and at Fabrateria plots were laid against me",
+      "entity_id": null,
+      "note": "Aquinum and Fabrateria (Fabrateria Vetus, in the Liri valley, modern Ceprano) are towns on the Via Latina south-east of Rome, near Cicero's estates at Arpinum; this passage is our only evidence of the plots, and the identity of the conspirators is unknown."
+    },
+    {
+      "loc": "2",
+      "anchor": "Spurinna",
+      "entity_id": "person:vestricius-spurinna",
+      "note": "Vestricius Spurinna was the distinguished haruspex (diviner of entrails) who famously warned Julius Caesar to beware the Ides of March; Cicero here invokes him with comic irony as a prophet of Paetus's social doom."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Favonius blew",
+      "entity_id": null,
+      "note": "Favonius (the west wind, Greek Zephyrus) was the mild spring breeze that traditionally arrived in late February and signalled the end of winter; Spurinna's mock-prophecy therefore threatens that Paetus must resume dinner-parties when spring comes."
+    },
+    {
+      "loc": "3",
+      "anchor": "symposia",
+      "entity_id": null,
+      "note": "Cicero's etymology contrasts Greek symposion (drinking-together) and syndeipnon (dining-together) with Latin convivium (living-together), arguing that the Roman term captures a richer idea of communal life than the Greek words, which stress merely eating and drinking."
+    },
+    {
+      "loc": "3",
+      "anchor": "convivia",
+      "entity_id": null,
+      "note": "The Latin word convivium derives from con- (together) + vivere (to live); Cicero treats this folk-etymology as philosophically significant, connecting the dinner-party to the Stoic and Epicurean ideals of the shared happy life."
+    },
+    {
+      "loc": "4",
+      "anchor": "day and night I do nothing else, care for nothing else, except that my fellow citizens should be safe and free",
+      "entity_id": "person:cicero",
+      "note": "Writing in early 43 BC, Cicero is at the height of his campaign against Mark Antony; the Philippics (speeches to the Senate) and his intense correspondence with provincial governors are the practical expression of this stated purpose."
+    }
+  ]
+}

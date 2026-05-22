@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-06",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "Q. Q.", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "Q. Q.", "entity_id": "person:q-cicero-younger", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "2", "surface": "Patras", "entity_id": "place:patrae", "in": "lat"},
+    {"loc": "2", "surface": "Patrae", "entity_id": "place:patrae", "in": "eng"},
+    {"loc": "2", "surface": "Italiam", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "2", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "mi Tiro", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "2", "surface": "my Tiro", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "2", "surface": "Actio", "entity_id": "place:actium", "in": "lat"},
+    {"loc": "2", "surface": "Actium", "entity_id": "place:actium", "in": "eng"}
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-17",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "both"
+    },
+    {
+      "loc": "1",
+      "surface": "TREBATIO",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "TREBATIO",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Quinto fratri",
+      "entity_id": "person:quintus-cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "my brother Quintus",
+      "entity_id": "person:quintus-cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Alexandream",
+      "entity_id": "place:alexandria",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Alexandria",
+      "entity_id": "place:alexandria",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesare",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Q. Cornelio",
+      "entity_id": "person:cornelius-iurisconsultus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Q. Cornelius",
+      "entity_id": "person:cornelius-iurisconsultus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Britanniam",
+      "entity_id": "place:britannia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Britain",
+      "entity_id": "place:britannia",
+      "in": "eng"
+    }
+  ]
+}

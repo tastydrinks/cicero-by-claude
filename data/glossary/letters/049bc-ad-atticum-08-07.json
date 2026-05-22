@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "our friend's total disgrace",
+      "entity_id": "person:pompey",
+      "note": "\"Our friend\" is Pompey, named here by bitter euphemism; the disgrace Cicero foresees is his failure to march to the relief of Domitius, besieged at Corfinium. Cicero predicts (rightly) that Pompey will abandon Domitius rather than risk battle."
+    },
+    {
+      "loc": "1",
+      "anchor": "thirty cohorts at hand",
+      "entity_id": null,
+      "note": "A cohort was a tenth of a legion, roughly 480 men, so thirty cohorts is about three legions; Cicero stresses that Pompey had ample force to rescue Domitius and chose not to. The reproach measures Pompey's nerve against his means."
+    },
+    {
+      "loc": "2",
+      "anchor": "I would rather be conquered with Pompey than conquer with those men",
+      "entity_id": "person:pompey",
+      "note": "Cicero's own much-quoted formula for his dilemma, which Atticus had praised: he prefers defeat in Pompey's cause to victory in Caesar's. He now qualifies it bitterly --- it held for the Pompey who once was, not for the man now fleeing Italy."
+    },
+    {
+      "loc": "2",
+      "anchor": "who is leaving Italy",
+      "entity_id": "place:italia",
+      "note": "Pompey's decision to evacuate Italy and cross to Greece, abandoning Rome and the homeland to Caesar, is what Cicero cannot forgive; it transforms the war from a defence of the state into flight. This crossing (from Brundisium, March 49) is the hinge of the whole book."
+    },
+    {
+      "loc": "3",
+      "anchor": "either from Moneta",
+      "entity_id": null,
+      "note": "Moneta is the temple of Juno Moneta on the Capitol, where the Roman mint stood; \"from Moneta\" means drawing on the public treasury or coined money. Cicero adds \"for nobody is paying\" --- in the chaos of war ordinary credit has dried up."
+    },
+    {
+      "loc": "3",
+      "anchor": "those Oppii who lodge with you",
+      "entity_id": "person:oppii-velienses",
+      "note": "The Oppii were banker-brothers of Velia (on the Lucanian coast) who shared lodgings with, or did business alongside, Atticus; Cicero looks to them as an alternative source of travel funds. They recur in the correspondence as a financial channel during the war."
+    }
+  ]
+}

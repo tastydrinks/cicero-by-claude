@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-04a",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Tyrannio",
+      "entity_id": "person:tyrannio",
+      "note": "Tyrannio of Amisus, the learned Greek grammarian and bibliophile then resident at Rome, whom Cicero had engaged to sort and arrange his library. He directed the shelving and labelling of the rolls."
+    },
+    {
+      "loc": "1",
+      "anchor": "little book-slaves",
+      "entity_id": null,
+      "note": "Librarioli: trained slave copyists and bookbinders. Cicero asks Atticus to lend two of his for the shelving work as glutinatores (paste-men) who glued and finished the rolls."
+    },
+    {
+      "loc": "1",
+      "anchor": "title-labels",
+      "entity_id": null,
+      "note": "The sittybai (Latin sillybi): small parchment tags bearing a roll's title, hung from or attached to the papyrus so it could be identified on the shelf without unrolling. Cicero uses the Greek term, teasing Atticus about his Greek learning."
+    },
+    {
+      "loc": "2",
+      "anchor": "splendid troop",
+      "entity_id": null,
+      "note": "A familia of gladiators that Atticus had bought, here praised as fine fighters. Cicero jokes that hiring them out for two upcoming shows would have recouped the whole purchase cost."
+    }
+  ]
+}

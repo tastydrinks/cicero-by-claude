@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-01",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "CICERO MEVS", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "FRATER", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "FRATRIS F.", "entity_id": "person:q-cicero-younger", "in": "lat"},
+    {"loc": "1", "surface": "ad urbem", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "the city", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Marionem", "entity_id": "person:mario-servus", "in": "lat"},
+    {"loc": "1", "surface": "Marion", "entity_id": "person:mario-servus", "in": "eng"},
+    {"loc": "2", "surface": "Patris", "entity_id": "place:patrae", "in": "lat"},
+    {"loc": "2", "surface": "Patrae", "entity_id": "place:patrae", "in": "eng"},
+    {"loc": "2", "surface": "Leucade", "entity_id": "place:leucas", "in": "lat"},
+    {"loc": "2", "surface": "Leucas", "entity_id": "place:leucas", "in": "eng"},
+    {"loc": "2", "surface": "mi Tiro", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "2", "surface": "my dear Tiro", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "2", "surface": "Marionis", "entity_id": "person:mario-servus", "in": "lat"},
+    {"loc": "2", "surface": "Marion's", "entity_id": "person:mario-servus", "in": "eng"}
+  ]
+}

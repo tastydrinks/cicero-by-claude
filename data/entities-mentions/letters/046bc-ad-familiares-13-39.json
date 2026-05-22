@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-39",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "1", "surface": "familia Titurnia", "entity_id": "person:m-titurnius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "the Titurnian family", "entity_id": "person:m-titurnius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "M. Titurnius Rufus", "entity_id": "person:m-titurnius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "Marcus Titurnius Rufus", "entity_id": "person:m-titurnius-rufus", "in": "eng"}
+  ]
+}

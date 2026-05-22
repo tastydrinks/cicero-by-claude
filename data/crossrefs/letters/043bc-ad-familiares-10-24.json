@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-24",
+  "refs": [
+    {
+      "from_loc": "1",
+      "to_work": "ad-familiares-10-13",
+      "to_loc": "1",
+      "kind": "echo",
+      "certainty": "medium",
+      "note": "Plancus thanks Cicero for the honours he carried in the Senate; Cicero had reported securing those honours for Plancus and his army in Fam. 10.13. This letter is Plancus's reply acknowledging them."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I judge along the lines of Diodorus",
+      "entity_id": "person:diodorus-cronus",
+      "note": "Diodorus Cronus (d. c. 284 BC), of the Megarian/Dialectical school, defined the 'possible' strictly: only what is or will actually be true is possible, so the future is wholly fixed. The whole letter is a learned joke built on this technical debate about modal logic (peri dynaton, 'on possibles')."
+    },
+    {
+      "loc": "1",
+      "anchor": "if you are going to come, you should know that it is necessary that you come; and if you are not, then your coming is of the class of impossibles",
+      "entity_id": "person:diodorus-cronus",
+      "note": "Cicero applies Diodorus's determinism to Varro's promised visit: on the Diodoran view, whatever will happen is necessary and whatever will not happen is impossible, so there is no real open possibility. He is teasing Varro that, logically, the visit is either inevitable or impossible --- there is no 'maybe.'"
+    },
+    {
+      "loc": "1",
+      "anchor": "that of Chrysippus, or this one, which our friend Diodotus could never quite digest",
+      "entity_id": "person:chrysippus",
+      "note": "Chrysippus (c. 279--206 BC), the great Stoic logician, rejected Diodorus's view and allowed that some things are possible even though they never come to pass, preserving room for contingency. Diodotus the Stoic, who lived in Cicero's house and taught him dialectic, sided with Chrysippus and 'could not stomach' the Diodoran position --- a private in-joke for Varro."
+    },
+    {
+      "loc": "1",
+      "anchor": "this is also, according to Chrysippus, possible",
+      "entity_id": "person:chrysippus",
+      "note": "A capping pun on the logic: postponing the discussion until they meet is 'possible' in Chrysippus's looser sense (a thing that may or may not happen), even if it would not count as possible on Diodorus's strict definition."
+    },
+    {
+      "loc": "1",
+      "anchor": "if you have a garden along with your library, nothing will be wanting",
+      "entity_id": "person:m-terentius-varro",
+      "note": "Cicero alludes to the philosophical ideal of garden-and-library (echoing the Epicurean Garden and the scholarly life): with Varro's famous library plus a garden for conversation, the two friends would have everything needed for the contemplative retirement they had chosen under Caesar's rule."
+    }
+  ]
+}

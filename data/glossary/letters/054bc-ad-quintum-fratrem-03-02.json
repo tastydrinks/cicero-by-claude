@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "against Gabinius before Cato's tribunal",
+      "entity_id": null,
+      "note": "The proceeding is a divinatio, the preliminary hearing in which a court decided which of several rival accusers should conduct a prosecution; here the contest is to lead the case against Gabinius before the praetor Cato's court."
+    },
+    {
+      "loc": "2",
+      "anchor": "he was going to demand a triumph",
+      "entity_id": null,
+      "note": "A triumph was the formal victory parade voted by the Senate to a returning general; Gabinius's claim to one for his Syrian and Egyptian campaigns was both presumptuous and politically inflammatory, given that he had restored Ptolemy without authorization."
+    },
+    {
+      "loc": "2",
+      "anchor": "the publicans were brought in",
+      "entity_id": "institution:publicani",
+      "note": "The publicani were the companies of tax-farmers who held the state revenue contracts; Gabinius had cheated them of their Syrian profits, so they testified against him in the Senate and joined its uproar."
+    },
+    {
+      "loc": "3",
+      "anchor": "an interregnum",
+      "entity_id": "office:interrex",
+      "note": "When no consuls could be elected, patrician senators held office in turn as interrex (five days each) until valid elections could be held; the deadlock of 54 BC threatened exactly this."
+    },
+    {
+      "loc": "3",
+      "anchor": "without a curiate law",
+      "entity_id": "law:lex-curiata",
+      "note": "The lex curiata de imperio was the formal grant of military and civil authority that the curiate assembly conferred on an incoming magistrate; Appius's claim to govern his province without it was a notorious irregularity."
+    }
+  ]
+}

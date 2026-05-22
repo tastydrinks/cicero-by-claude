@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "So you have no need of that tag from Trabea",
+      "entity_id": "person:trabea-poeta",
+      "note": "Quintus Trabea was an early Roman writer of comedy (palliatae), quoted elsewhere by Cicero (e.g. Tusc. 4.35, De Fin. 2.13). Paetus had apparently capped a remark with a line from Trabea; Cicero says he should rather quote a 'misfire' (apoteugma) of Cicero's own."
+    },
+    {
+      "loc": "2",
+      "anchor": "what came into your head to deny that any Papirius was ever anything but plebeian?",
+      "entity_id": "group:papirii",
+      "note": "Paetus, himself a Papirius, had claimed that the gens Papiria was wholly plebeian. Cicero, writing as an antiquarian, refutes him: the gens included a patrician branch (the 'lesser clans', minores gentes, admitted to the patriciate after the original families), to which the early consuls and dictators of the name belonged."
+    },
+    {
+      "loc": "2",
+      "anchor": "though in those days you used to be called Papisii",
+      "entity_id": "group:papirii",
+      "note": "An antiquarian point of Roman phonology: the older spelling of the name was Papisius, with intervocalic -s-, which by the late 4th century BC shifted to -r- (rhotacism), giving Papirius. Cicero notes that L. Papirius Crassus was 'the first to leave off being called Papisius', i.e. the spelling changed in his generation."
+    },
+    {
+      "loc": "2",
+      "anchor": "Of all of these --- patricians, every one --- I should like you to have the ancestor-masks.",
+      "entity_id": null,
+      "note": "The imagines were the wax ancestor-masks that noble Roman families kept in the atrium and paraded at funerals; the right to display them marked a family's nobility. Cicero offers the impoverished Paetus a distinguished patrician pedigree --- the Mugillani, Crassi, Cursores and Massones --- in place of the wealth he has lost."
+    },
+    {
+      "loc": "3",
+      "anchor": "apart from this Gaius Carbo whom Damasippus killed",
+      "entity_id": "person:c-papirius-carbo-arvina",
+      "note": "C. Papirius Carbo Arvina, a senator killed in the proscription-like massacre that L. Iunius Brutus Damasippus, praetor of 82 BC, carried out among the Marians' enemies just before Sulla's victory. Cicero singles him out as the only Carbo of any worth to the state."
+    },
+    {
+      "loc": "3",
+      "anchor": "with L. Crassus prosecuting, is said to have taken cantharides",
+      "entity_id": "person:c-papirius-carbo-cos120",
+      "note": "C. Papirius Carbo (cos. 120 BC), a turbulent tribune suspected in the death of Scipio Aemilianus (the 'Publius Africanus' here), was prosecuted by the young orator L. Licinius Crassus and, condemned, killed himself --- by swallowing cantharides (Spanish-fly, a poison), according to the tradition Cicero repeats."
+    },
+    {
+      "loc": "3",
+      "anchor": "the one who was put to death at Lilybaeum by our Pompey",
+      "entity_id": "person:cn-papirius-carbo",
+      "note": "Cn. Papirius Carbo, three times consul and leader of the Marians, was captured fleeing to Sicily and executed at Lilybaeum on the orders of the young Pompey (then Sulla's agent) in 82 BC. Cicero rates him the most worthless of all the Carbones."
+    },
+    {
+      "loc": "3",
+      "anchor": "prosecuted by M. Antonius, is reputed to have been acquitted by means of shoemaker's blacking",
+      "entity_id": "person:m-antonius-orator",
+      "note": "M. Antonius the orator (cos. 99 BC, grandfather of Mark Antony) prosecuted this Carbo. 'Shoemaker's blacking' (sutorium atramentum) was a caustic black dye; the dark proverb implies the defendant escaped condemnation only by suicide (poisoning himself with it) rather than by a true acquittal."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-06",
+  "mentions": [
+    {"loc": "1", "surface": "habes Hegesiae genus, quod Varro laudat", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "the manner of Hegesias, which Varro commends", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "2", "surface": "venio ad Tyrannionem", "entity_id": "person:tyrannio", "in": "lat"},
+    {"loc": "2", "surface": "Aristophanem reposueris pro Eupoli", "entity_id": "person:aristophanes-comicus", "in": "lat"},
+    {"loc": "2", "surface": "I come to Tyrannio", "entity_id": "person:tyrannio", "in": "eng"},
+    {"loc": "2", "surface": "you put Aristophanes back in place of Eupolis", "entity_id": "person:aristophanes-comicus", "in": "eng"},
+    {"loc": "4", "surface": "Caesar autem mihi inridere visus est", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "4", "surface": "Atticam doleo tam diu", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "4", "surface": "Caesar seemed to me to be mocking", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "4", "surface": "I grieve that Attica has been ill so long", "entity_id": "person:attica-pomponia", "in": "eng"}
+  ]
+}

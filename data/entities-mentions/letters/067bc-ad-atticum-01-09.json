@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-09",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Athenas", "entity_id": "place:athenae", "in": "lat"},
+    {"loc": "1", "surface": "Athenis", "entity_id": "place:athenae", "in": "lat"},
+    {"loc": "1", "surface": "Athens", "entity_id": "place:athenae", "in": "eng"},
+    {"loc": "2", "surface": "signa Megarica", "entity_id": "place:megara", "in": "lat"},
+    {"loc": "2", "surface": "Megarian statues", "entity_id": "place:megara", "in": "eng"},
+    {"loc": "2", "surface": "Academia", "entity_id": "place:academia-athens", "in": "lat"},
+    {"loc": "2", "surface": "Academy", "entity_id": "place:academia-athens", "in": "eng"},
+    {"loc": "2", "surface": "Lentulus", "entity_id": "person:lentulus-att-1-8", "in": "lat"},
+    {"loc": "2", "surface": "Lentulus", "entity_id": "person:lentulus-att-1-8", "in": "eng"},
+    {"loc": "2", "surface": "Thyillus", "entity_id": "person:thyillus", "in": "lat"},
+    {"loc": "2", "surface": "Thyillus", "entity_id": "person:thyillus", "in": "eng"}
+  ]
+}

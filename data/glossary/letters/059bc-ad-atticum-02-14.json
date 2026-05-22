@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the ox-eyed lady",
+      "entity_id": "person:clodia",
+      "note": "Greek boopis (\"ox-eyed\"), Homer's standing epithet for Hera, here applied mockingly to Clodia, sister of P. Clodius and wife of Metellus Celer. The nickname plays on her reputed incest with her brother, as Hera was both sister and wife of Zeus."
+    },
+    {
+      "loc": "1",
+      "anchor": "this our Sampsiceramus",
+      "entity_id": "person:pompey",
+      "note": "Cicero's recurring sneer for Pompey: Sampsiceramus was a petty Arab dynast of Emesa whom Pompey had subdued in the East. The name casts the great general as a tinpot oriental potentate, ridiculous in his new political pretensions."
+    },
+    {
+      "loc": "2",
+      "anchor": "I have a basilica, not a country house",
+      "entity_id": null,
+      "note": "Cicero complains that the crush of callers at his Formian villa turns it into a public hall (basilica) rather than a place of retirement; the following words are textually corrupt in the manuscripts."
+    },
+    {
+      "loc": "2",
+      "anchor": "Sebosus, that intimate of Catulus's",
+      "entity_id": "person:sebosus",
+      "note": "Statius Sebosus, a friend of the late consular Q. Lutatius Catulus, and one of the tiresome Formiae neighbours (with Gaius Arrius) whose constant visits Cicero laments in 2.14-2.15."
+    },
+    {
+      "loc": "2",
+      "anchor": "the day before the Nones of May",
+      "entity_id": null,
+      "note": "6 May (pridie Nonas Maias). Romans counted backward inclusively from the Nones, which fell on the 7th in March, May, July and October."
+    }
+  ]
+}

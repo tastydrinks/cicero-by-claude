@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-15",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "both"},
+    {"loc": "2", "surface": "C. Mati", "entity_id": "person:gaius-matius", "in": "lat"},
+    {"loc": "2", "surface": "C. Matius", "entity_id": "person:gaius-matius", "in": "eng"},
+    {"loc": "2", "surface": "ista provincia", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "2", "surface": "that province", "entity_id": "place:gallia", "in": "eng"}
+  ]
+}

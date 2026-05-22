@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Of Lentulus",
+      "entity_id": "person:l-cornelius-lentulus-niger",
+      "note": "L. Cornelius Lentulus Niger, flamen Martialis, who had recently died in 56 BC after an illness. Cicero mourns him as a great-spirited patriot and thinks him spared, by the gods' mercy, the ruin of the commonwealth."
+    },
+    {
+      "loc": "1",
+      "anchor": "Saufeius and your school",
+      "entity_id": "person:l-saufeius",
+      "note": "L. Saufeius, a wealthy Epicurean friend of Atticus; 'your school' is the Epicureans, who held that death is nothing to the dead. Cicero says his own grief is not that detached creed but genuine sorrow tempered by a different consolation."
+    },
+    {
+      "loc": "2",
+      "anchor": "You have drawn Sparta as your lot",
+      "entity_id": null,
+      "note": "A proverbial line (from Euripides' lost Telephus): 'Sparta is your portion; make the most of it', i.e. accept and adorn the lot fate has dealt you. Cicero applies it ruefully to his own forced acquiescence in the dynasts' politics."
+    },
+    {
+      "loc": "2",
+      "anchor": "Philoxenus",
+      "entity_id": "person:philoxenus-poeta",
+      "note": "Philoxenus of Cythera, the dithyrambic poet, who (in the famous anecdote) chose to be sent back to the Syracusan quarry-prison rather than praise the bad verses of the tyrant Dionysius I. Cicero says he 'forgives' him, half-wishing he himself could refuse to flatter."
+    },
+    {
+      "loc": "3",
+      "anchor": "the piece against Hortensius",
+      "entity_id": "person:hortensius",
+      "note": "Atticus had urged Cicero to write up his grievance against the orator Q. Hortensius, who had failed to back him at some juncture. Cicero shrinks from it, fearing it would only publicize the injury and look like petty self-justification."
+    },
+    {
+      "loc": "4",
+      "anchor": "Lucceius",
+      "entity_id": "person:l-lucceius",
+      "note": "L. Lucceius, the senator and historian whom Cicero had asked (in the celebrated Fam. 5.12) to write up his consulship and exile as a monograph. Here he passes the covering letter through Atticus and urges Lucceius to hurry."
+    },
+    {
+      "loc": "4",
+      "anchor": "Vestorius",
+      "entity_id": "person:c-vestorius",
+      "note": "C. Vestorius, a banker of Puteoli and a generous business contact of Cicero's. Cicero asks Atticus to send him a friendly word."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "he, it seems, has so taken Alexandria in hand",
+      "entity_id": "person:caesar",
+      "note": "Caesar was pinned down in the Alexandrian War (winter 48-47 BC), embroiled in the dynastic quarrel of Cleopatra and Ptolemy XIII. His prolonged absence left Cicero unable to obtain a settlement of his own position and stranded at Brundisium."
+    },
+    {
+      "loc": "2",
+      "anchor": "those very men who came of their own will to Fufius",
+      "entity_id": "person:q-fufius-calenus",
+      "note": "Q. Fufius Calenus was Caesar's legate left in command in Greece, to whom defeated Pompeians applied for pardon. Cicero notes that even voluntary suppliants to Fufius were judged merely \"timid,\" not traitors, unlike himself."
+    },
+    {
+      "loc": "2",
+      "anchor": "even Gaius Cassius has changed his plan of going to Alexandria",
+      "entity_id": "person:cassius-longinus",
+      "note": "C. Cassius Longinus had set out to seek Caesar at Alexandria (see 11.13) but reportedly abandoned the journey. Each such shift in the exiles' movements bore on Cicero's own calculation of where safety lay."
+    },
+    {
+      "loc": "3",
+      "anchor": "Even Aesopus's son is racking me",
+      "entity_id": null,
+      "note": "The dissolute son of the celebrated tragic actor Clodius Aesopus, whose extravagance was proverbial. Some matter involving him (perhaps a debt or a scandal touching Cicero's household) added to his torments; the reference is now obscure."
+    },
+    {
+      "loc": "4",
+      "anchor": "On the Fufidian matter",
+      "entity_id": "person:q-fufidius",
+      "note": "The unresolved partition of the Fufidian inheritance among its co-heirs (see 11.13). Cicero suspects the other heirs are stalling because they doubt his case will survive his political ruin."
+    }
+  ]
+}

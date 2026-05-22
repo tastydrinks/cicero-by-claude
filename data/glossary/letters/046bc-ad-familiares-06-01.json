@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "for a good man, to be at Rome is the most wretched lot of all",
+      "entity_id": "place:roma",
+      "note": "Torquatus was in exile or self-imposed absence abroad after Pharsalus (48 BC), while his property and family remained in Rome; the paradox Cicero exploits is that Rome itself, under Caesar's post-Pharsalus settlement, is the worse place to be."
+    },
+    {
+      "loc": "2",
+      "anchor": "the man who up to now has been more unjust to you than your dignity called for",
+      "entity_id": "person:caesar",
+      "note": "Caesar, unnamed but unmistakable: he had not yet granted Torquatus's petition for restoration, though Cicero detects signs that Caesar's hostility was softening. The circumlocution is characteristic of the dangerous candour of these private consolation letters."
+    },
+    {
+      "loc": "3",
+      "anchor": "by his consciousness of the best counsels",
+      "note": "A central Stoic-inflected consolation: the wise man's inner moral self-approval (conscientia) is independent of external fortune; Cicero draws on this tradition throughout Fam. 6.1–6.4 as the only consolation that cannot be stripped away by defeat."
+    },
+    {
+      "loc": "4",
+      "anchor": "virtue itself can still sustain itself",
+      "note": "The Stoic thesis that virtue (virtus) is the sole and sufficient good, here deployed consolatorily: even total political ruin leaves the morally upright man internally undefeated. Cicero distances himself from full Stoic rigorism elsewhere but leans on it in these civil-war letters."
+    },
+    {
+      "loc": "5",
+      "anchor": "public right was being argued by javelins and swords, not by our policies and authority",
+      "note": "Cicero's recurring self-defence: he had seen from the start that the Pompeian cause was militarily weaker, and had urged a negotiated settlement rather than battle; Pharsalus vindicated his pessimism. The phrase encapsulates his anguish that the res publica was being decided by force rather than law and senatorial deliberation."
+    },
+    {
+      "loc": "6",
+      "anchor": "Philargyrus",
+      "entity_id": "person:philargyrus-torquatus",
+      "note": "A slave or freedman of Torquatus who had visited Cicero and reported on his master's state of mind; the name is Greek ('fond of silver'), typical of servile nomenclature. He is otherwise unattested."
+    },
+    {
+      "loc": "6",
+      "anchor": "you have Servius Sulpicius, whom you have always uniquely loved",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Ser. Sulpicius Rufus (cos. 51 BC), the leading jurist of the late Republic and Cicero's close friend; he was himself in Athens or the Greek east at this period, and Cicero sees his proximity to Torquatus as a practical substitute for his own consoling letters."
+    }
+  ]
+}

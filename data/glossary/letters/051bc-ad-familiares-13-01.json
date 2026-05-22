@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO S. D. C. MEMMIO",
+      "entity_id": "person:c-memmius",
+      "note": "The salutation: \"Marcus Cicero sends greetings to Gaius Memmius.\" C. Memmius was a Roman politician and poet (patron of Lucretius), who had suffered a legal reversal and was living in exile at Athens; the \"wrong done to you\" in this section refers to that exile."
+    },
+    {
+      "loc": "2",
+      "anchor": "Patro the Epicurean",
+      "entity_id": "person:patro-epicurean",
+      "note": "Patro was scholarch (head) of the Epicurean school at Athens after the death of Phaedrus (c. 70 BC). He sought Memmius's permission to build on a plot of land in Athens that had once belonged to Epicurus, whose ruined house stood there."
+    },
+    {
+      "loc": "2",
+      "anchor": "before we had come to know Philo",
+      "entity_id": "person:philo-larissa",
+      "note": "Philo of Larissa (c. 159–84 BC), head of the Platonic Academy, came to Rome c. 88 BC and profoundly influenced the young Cicero; Phaedrus the Epicurean was Cicero's earlier philosophical contact before Philo arrived."
+    },
+    {
+      "loc": "3",
+      "anchor": "Epicurus's ruined walls",
+      "entity_id": "person:epicurus",
+      "note": "Epicurus (341–270 BC), founder of the Epicurean school, had owned a house and garden in Athens that became the cult centre of his school (the \"Garden\"). Patro wanted to build on or preserve this plot; Memmius had acquired it and proposed to develop it."
+    },
+    {
+      "loc": "5",
+      "anchor": "that resolution of the Areopagites --- what they call a memorandum \\textit{[Greek: hypomnematismon]}",
+      "entity_id": "institution:areopagus",
+      "note": "The Areopagus was the ancient Athenian council (named after the Hill of Ares where it met), which retained authority over civic and religious matters in the Roman period. Its formal memorandum (hypomnematismos) had apparently recorded or endorsed Memmius's building rights, and Cicero asks him to arrange for it to be rescinded."
+    },
+    {
+      "loc": "5",
+      "anchor": "I love Pomponius Atticus as a second brother",
+      "entity_id": "person:atticus",
+      "note": "T. Pomponius Atticus (110–32 BC), Cicero's closest friend and correspondent, had a long personal friendship with the Epicureans at Athens (though not himself an Epicurean) and was pressing Cicero to intercede with Memmius on Patro's behalf."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-28",
+  "mentions": [
+    {"loc": "1", "surface": "de Silio nilo plura cognovi ex praesente Sicca", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "nilo plura cognovi ex praesente Sicca quam ex litteris eius", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "1", "surface": "Ciceronem, si tibi placebit, adhibebis", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "About Silius I learned nothing more from Sicca in person", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "I learned nothing more from Sicca in person than from his letter", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "1", "surface": "you will, if you think fit, bring Cicero in too", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "3", "surface": "de Triario bene interpretaris voluntatem meam", "entity_id": "person:c-valerius-triarius", "in": "lat"},
+    {"loc": "3", "surface": "de Castriciano negotio, si Castricius pro mancipiis pecuniam accipere volet", "entity_id": "person:m-castricius-eques", "in": "lat"},
+    {"loc": "3", "surface": "nolo enim negoti Quintum fratrem quicquam habere", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "3", "surface": "Publilius, si aequinoctium exspectat", "entity_id": "person:publilius-frater", "in": "lat"},
+    {"loc": "3", "surface": "ut scribis Aledium dicere", "entity_id": "person:aledius", "in": "lat"},
+    {"loc": "3", "surface": "mihi autem dixerat per Siciliam", "entity_id": "place:sicilia", "in": "lat"},
+    {"loc": "3", "surface": "Piliae, Atticae salutem", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "3", "surface": "Piliae, Atticae salutem", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "3", "surface": "About Triarius you read my wish rightly", "entity_id": "person:c-valerius-triarius", "in": "eng"},
+    {"loc": "3", "surface": "On the Castricius business: if Castricius is willing to take money for the slaves", "entity_id": "person:m-castricius-eques", "in": "eng"},
+    {"loc": "3", "surface": "I do not want my brother Quintus to have any of the business in hand", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "3", "surface": "Publilius, if he is waiting for the equinox", "entity_id": "person:publilius-frater", "in": "eng"},
+    {"loc": "3", "surface": "as you write Aledius says he is", "entity_id": "person:aledius", "in": "eng"},
+    {"loc": "3", "surface": "he was going by way of Sicily", "entity_id": "place:sicilia", "in": "eng"},
+    {"loc": "3", "surface": "My greetings to Pilia and Attica", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "3", "surface": "My greetings to Pilia and Attica", "entity_id": "person:attica-pomponia", "in": "eng"}
+  ]
+}

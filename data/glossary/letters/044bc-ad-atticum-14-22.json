@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-22",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the sixteenth before the Kalends of June",
+      "entity_id": null,
+      "note": "A Roman date reckoned by inclusive backward counting from the Kalends (the 1st) of June, i.e. 17 May 44 BC. Cicero announces his departure for his ancestral home at Arpinum."
+    },
+    {
+      "loc": "1",
+      "anchor": "my own pupil --- who is dining with me today",
+      "entity_id": "person:dolabella",
+      "note": "Dolabella, Cicero's former son-in-law and rhetorical protege, whom Cicero calls his \"pupil\"; the bitter joke is that this pupil is now infatuated with Caesar's memory (\"the man whom our Brutus wounded\")."
+    },
+    {
+      "loc": "1",
+      "anchor": "the man whom our Brutus wounded",
+      "entity_id": "person:caesar",
+      "note": "A pointed periphrasis for the dead dictator Julius Caesar, struck down at the Ides; \"our Brutus\" is Marcus Brutus the Liberator."
+    },
+    {
+      "loc": "2",
+      "anchor": "if Pompeius arrives with a strong army",
+      "entity_id": "person:sextus-pompeius",
+      "note": "Sextus Pompeius, younger son of Pompey the Great, was at large in Spain and the western seas in 44 BC; Cicero fears that his arrival with a Republican army would reignite civil war."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Ides of March do not console me as much as they did before. For they contain a great flaw",
+      "entity_id": "event:ides-of-march",
+      "note": "The assassination of Caesar on 15 March 44 BC; Cicero's recurring lament is that the deed killed the tyrant but spared the tyranny (the \"great flaw\"), leaving the Liberators exposed."
+    },
+    {
+      "loc": "2",
+      "anchor": "my votive embassy",
+      "entity_id": null,
+      "note": "A legatio votiva (\"free legation for the discharge of a vow\") was a quasi-official commission letting a senator travel abroad on state expense under the pretext of fulfilling a religious vow; Cicero wanted one as a respectable cover for leaving an increasingly dangerous Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "warned by many not to be in the Senate on the Kalends",
+      "entity_id": "institution:senate",
+      "note": "Rumours warned Cicero that armed men were being mustered for the Senate meeting of 1 June 44 BC, aimed at the Liberators and their sympathizers, making attendance unsafe."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I gave Quintus Mucius a letter for you",
+      "entity_id": "person:q-mucius-courier-marcellus",
+      "note": "Quintus Mucius is one of the couriers carrying Cicero's letters to Marcellus in exile; the earlier letter he refers to is probably Fam. 4.8. His exact identity is uncertain — he may be the Q. Mucius Scaevola who served as Appius Claudius Pulcher's quaestor in Cilicia, but the bearer here cannot be securely identified."
+    },
+    {
+      "loc": "1",
+      "anchor": "your freedman Theophilus is setting out",
+      "entity_id": "person:theophilus-libertus-marcelli",
+      "note": "Theophilus, a freedman (libertus) of M. Marcellus, was acting as a messenger between his patron at Mytilene and Cicero at Rome; he carries both this letter and Fam. 4.10. Cicero vouches for his loyalty and goodwill toward Marcellus."
+    },
+    {
+      "loc": "2",
+      "anchor": "Everything is referred to one man",
+      "entity_id": "person:caesar",
+      "note": "A frank statement of the new political reality under Caesar's dictatorship: all decisions now rest with one man, who takes counsel from no one — not even his own intimates. Cicero uses this to argue that staying away changes nothing, since power is concentrated regardless."
+    },
+    {
+      "loc": "2",
+      "anchor": "when your brother held the consulship from the strength of your authority",
+      "entity_id": "person:c-claudius-marcellus-cos50",
+      "note": "C. Claudius Marcellus, consul 50 BC (Marcellus's cousin, called \"brother\"), succeeded M. Marcellus in office; Cicero's point is that Caesar ignored even the counsel of these consuls when they were in power, so he is hardly likely to heed defeated men's opinions now."
+    },
+    {
+      "loc": "3",
+      "anchor": "by an honourable retirement you have preserved both the state and the reputation of your own standing",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "Cicero praises Marcellus's honestum otium — his dignified withdrawal from the war — as having safeguarded both his political standing and his good name, but argues that continued absence now risks turning a noble choice into mere obstinacy."
+    },
+    {
+      "loc": "4",
+      "anchor": "Great is the licence of swords",
+      "entity_id": null,
+      "note": "A warning that armed violence goes unpunished in the lawless conditions of civil war, and even more so in foreign places far from any restraint — a chillingly prescient remark, since Marcellus was in fact murdered at Piraeus in May 45 BC on his way home."
+    }
+  ]
+}

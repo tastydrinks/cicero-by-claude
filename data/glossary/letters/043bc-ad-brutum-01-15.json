@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-15",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "Solon's saying",
+      "entity_id": "person:solon",
+      "note": "Solon (c. 638–558 BC), Athenian statesman and lawgiver, was counted the wisest of the canonical Seven Sages of Greece; Cicero attributes to him the maxim that the commonwealth rests on two pillars — reward and punishment — a version of which appears in Solon's own fragments and was a commonplace of political philosophy."
+    },
+    {
+      "loc": "4",
+      "anchor": "your memorable Ides of March",
+      "entity_id": "person:caesar",
+      "note": "15 March 44 BC, when Julius Caesar was stabbed in the Theatre of Pompey by the Liberators; Cicero uses \"memorabiles\" (memorable) with pointed irony given that he is about to argue the conspirators left too much undone."
+    },
+    {
+      "loc": "4",
+      "anchor": "the instrument of monarchy had been handed over to Lepidus and Antony",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Cicero's charge is that the conspirators killed Caesar but left his armies, provinces, and client networks in the hands of his lieutenants Lepidus and Antony, who could now use those resources to establish a successor autocracy."
+    },
+    {
+      "loc": "5",
+      "anchor": "in the days of the Etesian winds a south wind had carried me back into Italy",
+      "entity_id": null,
+      "note": "The Etesian winds blow reliably from the north in the Aegean in July–August, making southward voyages from Greece difficult; Cicero was sailing toward Athens in July 44 BC when an anomalous southerly drove him back to Italy, which he later interpreted as providential."
+    },
+    {
+      "loc": "5",
+      "anchor": "I saw you at Velia",
+      "entity_id": "place:velia",
+      "note": "Velia (modern Ascea Marina) is a coastal town in Lucania, southern Italy; Cicero encountered Brutus there in early August 44 BC as Brutus was departing Italy, ostensibly to take up his provincial command of Macedonia — an encounter Cicero here recalls with grief as a symbol of the republican retreat."
+    },
+    {
+      "loc": "5",
+      "anchor": "our Stoics deny that the wise man flees",
+      "entity_id": null,
+      "note": "A pointed jab: Brutus was a committed Stoic philosopher, and Stoic doctrine held that the sage does not flee adversity; Cicero turns the school's own tenet into a gentle reproach for Brutus's departure from Rome."
+    },
+    {
+      "loc": "7",
+      "anchor": "Philippus moved a statue",
+      "entity_id": "person:l-marcius-philippus",
+      "note": "L. Marcius Philippus (cos. 38 BC) was Octavian's stepfather (having married his mother Atia); he moved in the Senate that a statue be erected for the young Caesar, one of the first honours voted to Octavian in 44–43 BC."
+    },
+    {
+      "loc": "7",
+      "anchor": "Servius first moved the lowering of the age for standing for office",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus (cos. 51 BC), the great Roman jurist and Cicero's friend, who died in January 43 BC on an embassy to Antony; before his death he moved that the age-requirement for the cursus honorum be waived for Octavian, and Servilius subsequently moved an even larger exemption."
+    },
+    {
+      "loc": "8",
+      "anchor": "I decreed that Brutus's name be inscribed in the calendar against that day",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Cicero proposed that Decimus Brutus's liberation from the siege of Mutina (April 43 BC) be commemorated in the official Roman calendar (fasti) on the day it occurred, which happened also to be Decimus's birthday — a rare public honour normally given to gods or deified figures."
+    },
+    {
+      "loc": "8",
+      "anchor": "the woman Larentia, at whose altar in the Velabrum you pontiffs are accustomed to offer sacrifice",
+      "entity_id": "person:larentia",
+      "note": "Acca Larentia was a semi-mythical Roman woman (wife of the shepherd Faustulus in one tradition, a wealthy courtesan in another) who left her estate to the Roman people; the pontiffs performed a sacrifice at her altar in the Velabrum, the low district between the Capitoline and Palatine hills, each year on 23 December (the Larentalia)."
+    },
+    {
+      "loc": "8",
+      "anchor": "Hirtius and Pansa, on Aquila as well",
+      "entity_id": "person:hirtius",
+      "note": "Aulus Hirtius and Gaius Vibius Pansa, the consuls of 43 BC, both died of wounds sustained at the battles of Forum Gallorum and Mutina in April 43 BC; Pontius Aquila, a tribune of the plebs in 45 BC who had famously refused to stand for Caesar, also died fighting at Mutina — all three received posthumous honours on Cicero's motion."
+    },
+    {
+      "loc": "9",
+      "anchor": "that I decreed that Caesar be allowed to enter the city in ovation",
+      "entity_id": "person:octavian",
+      "note": "An ovatio (lesser triumph) was a military honour requiring a formal senatorial decree; Cicero's motion that Octavian receive an ovation was a calculated political concession designed to bind the young Caesar to the Senate's cause — and here Cicero defends it as prudent though potentially appearing too generous."
+    },
+    {
+      "loc": "11",
+      "anchor": "even the children of Themistocles were in want",
+      "entity_id": "person:themistocles",
+      "note": "Themistocles (c. 524–459 BC), the Athenian general of Marathon and Salamis, was later ostracised and died in Persian exile; his children were reportedly left in poverty, a standard example in ancient rhetoric for the principle that a traitor's family shares the consequences of his guilt."
+    }
+  ]
+}

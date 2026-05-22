@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "would not bring victims up to the Alban Mount",
+      "entity_id": "festival:feriae-latinae",
+      "note": "A joke: Atticus's grandmother is imagined dying partly from anxiety that the Latin communities would fail to perform the Feriae Latinae, the ancient festival of the Latin League celebrated on the Alban Mount, where each member town brought sacrificial victims. The consuls presided, and no major public business could proceed until it was held."
+    },
+    {
+      "loc": "2",
+      "anchor": "unloaded at Caieta",
+      "entity_id": "place:caieta",
+      "note": "Caieta (modern Gaeta) was the harbour on the Latian coast nearest Cicero's Formian villa; goods shipped from Greece for his Italian estates were landed here."
+    },
+    {
+      "loc": "2",
+      "anchor": "The statues which you arranged for us",
+      "entity_id": null,
+      "note": "Atticus, resident in Greece, regularly bought Greek statuary and gymnasium ornaments for Cicero to furnish his villas (cf. the Hermathena and gymnasium pieces of Att. 1.1, 1.4, 1.6)."
+    },
+    {
+      "loc": "3",
+      "anchor": "Tullia we have betrothed to Gaius Piso son of Lucius, of the Frugi",
+      "entity_id": "person:c-piso-frugi-son-in-law",
+      "note": "C. Calpurnius Piso Frugi, of the upright (\"Frugi\") branch of the Calpurnii, became Cicero's first son-in-law; he married Tullia c. 63 and died in 57 BC while Cicero was in exile. The filiation \"L. f.\" (son of Lucius) fixes which Piso is meant."
+    }
+  ]
+}

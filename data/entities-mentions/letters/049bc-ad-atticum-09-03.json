@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-03",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "ATTICO",
+      "entity_id": "person:atticus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Domiti",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "filius",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Formias",
+      "entity_id": "place:formiae",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Neapolim",
+      "entity_id": "place:neapolis",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Dionysius",
+      "entity_id": "person:m-pomponius-dionysius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Hispaniam",
+      "entity_id": "place:hispania",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Gnaeum",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Italia",
+      "entity_id": "place:italia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Domitio",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Lentulo",
+      "entity_id": "person:lentulus-spinther",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "ATTICO",
+      "entity_id": "person:atticus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Domitius's son",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Domitius's son",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "passed through Formiae",
+      "entity_id": "place:formiae",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "to his mother at Naples",
+      "entity_id": "place:neapolis",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "that his father was near the City",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "our slave Dionysius",
+      "entity_id": "person:m-pomponius-dionysius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "either to Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "or to Spain",
+      "entity_id": "place:hispania",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "I understand from this that Gnaeus",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "our exit from Italy",
+      "entity_id": "place:italia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "both about Domitius",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "and about Lentulus",
+      "entity_id": "person:lentulus-spinther",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Brundisio",
+      "entity_id": "place:brundisium",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Brundisium",
+      "entity_id": "place:brundisium",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Postumum",
+      "entity_id": "person:c-curtius-postumus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Gnaeum",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Brundisina",
+      "entity_id": "place:brundisium",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Arpis",
+      "entity_id": "place:arpi",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "From Brundisium no rumour had yet come",
+      "entity_id": "place:brundisium",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "I suspected Caesar had reached Brundisium",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "had reached Brundisium",
+      "entity_id": "place:brundisium",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "if you cared to listen to Postumus",
+      "entity_id": "person:c-curtius-postumus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "about to follow Gnaeus",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "the whole business of Brundisium",
+      "entity_id": "place:brundisium",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "stopped at Arpi",
+      "entity_id": "place:arpi",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the fourth day before the Ides of May",
+      "entity_id": null,
+      "note": "12 May 60 BC. Romans dated by counting inclusively backward from the Kalends, Nones, or Ides; the Ides of May fell on the 15th, so the \"fourth day before\" (a.d. iv Id. Mai.) is the 12th."
+    },
+    {
+      "loc": "1",
+      "anchor": "which you had given on the Ides of February",
+      "entity_id": null,
+      "note": "13 February 60 BC: the date Atticus handed his letter to the courier. In February the Ides fell on the 13th, not the 15th."
+    },
+    {
+      "loc": "2",
+      "anchor": "And he of whom you write has nothing ample",
+      "entity_id": null,
+      "note": "The unnamed man whose politics are \"low-cast and popular\" is Pompey, whose backing of the Flavian land bill (treated in the previous letter) Cicero deprecates while explaining why he has nonetheless allied with him."
+    },
+    {
+      "loc": "3",
+      "anchor": "that Sparta",
+      "entity_id": null,
+      "note": "An allusion to the proverb \"Sparta is your lot; do it credit\" (from Euripides): Cicero casts the optimate cause as the province assigned to him by fate, which he will not abandon even if abandoned by it."
+    },
+    {
+      "loc": "3",
+      "anchor": "since the death of Catulus",
+      "entity_id": "person:q-lutatius-catulus-cos78",
+      "note": "Q. Lutatius Catulus (consul 78 BC), the acknowledged leader of the senatorial conservatives (optimates), had died in 61 or 60 BC, leaving Cicero's \"aristocratic course\" without a senior champion."
+    },
+    {
+      "loc": "3",
+      "anchor": "as Rhinto says",
+      "entity_id": "person:rhinto",
+      "note": "Rhinthon of Tarentum, a comic poet of the early third century BC; Cicero quotes (in Greek) his line that some men count for nothing and others care for nothing, a verdict on the inert nobility."
+    },
+    {
+      "loc": "3",
+      "anchor": "our fish-pond men",
+      "entity_id": null,
+      "note": "The piscinarii again: the wealthy, do-nothing nobles (Hortensius, Lucullus and the like) more devoted to their luxury fish-ponds than to the state, whose jealousy of Cicero he postpones discussing."
+    },
+    {
+      "loc": "4",
+      "anchor": "the back-bench senators ran in haste",
+      "entity_id": null,
+      "note": "The pedarii were senators who had not held curule office and so could only vote with their feet by crossing the floor, not speak; Cicero blames the unwelcome decree on the Sicyonians' debt on their unconsidered rush to one side."
+    },
+    {
+      "loc": "5",
+      "anchor": "He wishes, I take it, to triumph",
+      "entity_id": "person:metellus-celer",
+      "note": "The consul Metellus Celer, holding Cisalpine Gaul, would lose his chance of a triumph if peace broke out there before he could win a victory; hence his reluctance to welcome news of calm in Gaul."
+    },
+    {
+      "loc": "5",
+      "anchor": "The son of Aulus",
+      "entity_id": "person:l-afranius",
+      "note": "L. Afranius (consul 60 BC), Pompey's man, whose consulship Cicero dismisses as so feeble that it is merely a \"black eye\" (Greek hypopion) on Pompey's reputation rather than a real magistracy."
+    },
+    {
+      "loc": "5",
+      "anchor": "the black eye",
+      "entity_id": "person:pompey",
+      "note": "\"Magnus\" (the Great) is Pompey's cognomen; Cicero puns that Afranius's incompetent consulship, secured by Pompey's bribery, is a disfiguring bruise on Pompey himself."
+    },
+    {
+      "loc": "6",
+      "anchor": "I have sent you my consulship completed in Greek",
+      "entity_id": "text:commentarius-consulatus",
+      "note": "The Greek prose memoir of his consulship, again (see Att. 1.19.10); Cicero jokes that Atticus, as a connoisseur of Greek, will be jealous of so good a Greek work by a Roman."
+    },
+    {
+      "loc": "7",
+      "anchor": "by the Cincian law",
+      "entity_id": "law:lex-cincia",
+      "note": "The lex Cincia de donis et muneribus (204 BC) restricted gifts, especially to advocates; Cicero is reassured by Atticus's agent Cincius that the law permits him to accept the gift of Servius Claudius's library."
+    },
+    {
+      "loc": "7",
+      "anchor": "that not a scrap perish",
+      "entity_id": null,
+      "note": "Scida: a single sheet or strip of papyrus. Cicero begs Atticus to mobilize his whole household so that none of the inherited library's rolls is lost in transit."
+    }
+  ]
+}

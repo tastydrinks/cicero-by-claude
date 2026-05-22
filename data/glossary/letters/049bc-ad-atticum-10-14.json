@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "which can be relieved nowhere except from the goods of private citizens",
+      "entity_id": null,
+      "note": "Servius's dread is that both Caesar and Pompey, short of funds, will resort to confiscating the property of private citizens to pay their armies. Such proscription-style seizures had marked the wars of Sulla a generation earlier and were the propertied class's deepest fear."
+    },
+    {
+      "loc": "2",
+      "anchor": "not the kind drawn from learning and books",
+      "entity_id": null,
+      "note": "Cicero contrasts the formal consolatio of philosophy, the literary genre of comfort he himself practised, with concrete political news; he says the philosophical remedy is feebler than the disease and asks instead for facts."
+    },
+    {
+      "loc": "2",
+      "anchor": "about Spain, about Marseilles",
+      "entity_id": "place:massilia",
+      "note": "Massilia (modern Marseilles), a Greek-founded city allied to Rome, shut its gates to Caesar and was being besieged by his forces in 49 BC while the campaign for the Spanish provinces unfolded beyond it. News of both fronts would decide the war's direction."
+    },
+    {
+      "loc": "2",
+      "anchor": "on the two legions, too, he said there were sound authorities",
+      "entity_id": null,
+      "note": "The \"two legions\" are Pompeian forces whose movements bore on the Spanish campaign; reliable reports of them mattered greatly to anyone gauging which side was winning. Cicero treats Servius's informants here as more trustworthy than usual."
+    },
+    {
+      "loc": "3",
+      "anchor": "A tiresome scruple about his son's service at Brundisium",
+      "entity_id": "person:servius-sulpicius-rufus-younger",
+      "note": "Servius's son had served in Caesar's army during the blockade of Pompey at Brundisium, and the father frets over having let him take Caesar's side. Brundisium, the great port on Italy's heel, was where Pompey embarked for Greece in March 49 BC."
+    }
+  ]
+}

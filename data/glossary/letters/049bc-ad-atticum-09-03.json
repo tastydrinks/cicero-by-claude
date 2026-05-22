@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "his father was near the City",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "note": "L. Domitius Ahenobarbus, the commander Caesar had captured and released at Corfinium in February, was now reported near Rome rather than with Pompey. Cicero needs to know his movements because Domitius's choices were a bellwether for whether escape from Italy was still feasible."
+    },
+    {
+      "loc": "1",
+      "anchor": "all Italy is held by arms and garrisons",
+      "entity_id": "place:italia",
+      "note": "By March 49 Caesar's forces controlled the Italian interior and coast, hemming in those who wished to follow Pompey. Cicero reads Pompey's apparent willingness to leave Domitius behind as a sign that the routes out are now closed."
+    },
+    {
+      "loc": "1",
+      "anchor": "nothing can be crossed but the Upper, and the road to it is cut off",
+      "entity_id": null,
+      "note": "The \"Upper Sea\" is the Adriatic, the \"Lower\" the Tyrrhenian; in winter only the Adriatic crossing to Greece was practical, but the land road to its ports lay through Caesar-held territory. Cicero's geography spells out his trap."
+    },
+    {
+      "loc": "2",
+      "anchor": "he had stopped at Arpi on the Kalends",
+      "entity_id": "place:arpi",
+      "note": "Arpi was a town in Apulia (not to be confused with Cicero's Arpinum); Caesar was tracked through it on the Kalends of March as he drove toward Brundisium. The detail lets Cicero compute when Caesar might reach the port."
+    },
+    {
+      "loc": "2",
+      "anchor": "the man's generosity had reached the ears of the ship-owners",
+      "entity_id": "person:caesar",
+      "note": "\"The man\" is Caesar, whose reputation for clemency and largesse (his clementia campaign of these months) was winning over even the ship-owners. Postumus expects this goodwill to secure him a passage where Cicero doubts he will find crews."
+    }
+  ]
+}

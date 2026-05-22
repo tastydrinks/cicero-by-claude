@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-07",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CAELIVS",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERONI",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "belli Parthici",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CAELIVS",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERONI",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Parthian war",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cornificius adulescens",
+      "entity_id": "person:q-cornificius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Orestillae",
+      "entity_id": "person:orestilla",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Paula Valeria",
+      "entity_id": "person:paula-valeria",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Triari",
+      "entity_id": "person:c-valerius-triarius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "D. Bruto",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Servius Ocella",
+      "entity_id": "person:servius-ocella",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "imperatorem",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Young Cornificius",
+      "entity_id": "person:q-cornificius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Orestilla's",
+      "entity_id": "person:orestilla",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Paula Valeria",
+      "entity_id": "person:paula-valeria",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Triarius",
+      "entity_id": "person:c-valerius-triarius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "D. Brutus",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Servius Ocella",
+      "entity_id": "person:servius-ocella",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "commander-in-chief",
+      "entity_id": "office:imperator",
+      "in": "eng"
+    }
+  ]
+}

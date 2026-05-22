@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I am away from the city, so that I cannot know who is setting out to you",
+      "note": "Written from Atticus's estate at Ficulea (north of Rome) in spring 45 BC; Cicero's ill health and absence from Rome meant he had no reliable courier to Torquatus's location, probably Athens or somewhere in the Greek east."
+    },
+    {
+      "loc": "2",
+      "anchor": "either the commonwealth is pressed by everlasting arms; or, those arms laid down, it is restored to itself in time; or it perishes utterly",
+      "note": "A tight trilemma framing all possible outcomes of Caesar's rule; Cicero argues that on none of the three outcomes does Torquatus's personal position require despair, a characteristic consolatory strategy of these post-Pharsalus letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "Marcus Antonius, that most prudent of men",
+      "entity_id": "person:antony",
+      "note": "The heavy irony is almost certain: Mark Antony (cos. 44 BC) was not widely regarded as prudentissimus; Cicero may be citing a specific occasion when Antony (perhaps as Caesar's legate) had warned of the dangers of prolonged civil war, or the praise is sarcastic. The identity is not in doubt but the occasion of Antony's prescient fear is unrecoverable."
+    },
+    {
+      "loc": "3",
+      "anchor": "you would not wish, even if it were allowed, to be the survivor of the commonwealth",
+      "note": "Cicero compliments Torquatus's Stoic-Pompeian integrity: a man of his principles could not want to outlive the republic, so the worst outcome (total ruin) is also the one that makes survival morally indifferent. The consolation turns Stoic fatalism to Torquatus's psychological advantage."
+    }
+  ]
+}

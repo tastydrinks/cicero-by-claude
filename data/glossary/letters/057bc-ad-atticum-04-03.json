@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-03",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "The portico of Catulus",
+      "entity_id": "place:porticus-catuli",
+      "note": "The colonnade of Q. Lutatius Catulus (cos. 78 BC), adjoining Cicero's house and torn down by Clodius. Its public-contract rebuilding had nearly reached the roof when Clodius's gang attacked the works in November 57 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "set on fire by Clodius's order",
+      "entity_id": "person:clodius",
+      "note": "P. Clodius Pulcher, Cicero's chief enemy, who as tribune in 58 BC had engineered his exile and razed his house. Here his armed gangs torch the rebuilding works and the house of Cicero's brother Quintus."
+    },
+    {
+      "loc": "2",
+      "anchor": "openly holds out the hope of liberty to slaves",
+      "entity_id": null,
+      "note": "Promising freedom to slaves to recruit them into a gang was among the gravest charges in Roman politics, evoking servile insurrection. Cicero marks it as the point at which Clodius passed beyond ordinary lawlessness."
+    },
+    {
+      "loc": "2",
+      "anchor": "Decimus the master-of-ceremonies",
+      "entity_id": "person:decimius-designator",
+      "note": "A designator was the marshal who managed seating and processions at public games and funerals. This Decimus was among the last free associates Clodius retained once his respectable followers had abandoned him."
+    },
+    {
+      "loc": "2",
+      "anchor": "when I was coming down the Sacra Via",
+      "entity_id": "place:sacra-via",
+      "note": "The Sacred Way, Rome's main ceremonial street running through the Forum toward the Palatine. Clodius's men ambushed Cicero on it; he took refuge in the entrance-hall of one Tettius Damio."
+    },
+    {
+      "loc": "2",
+      "anchor": "I am beginning to attempt cure by diet, I am tired of surgery",
+      "entity_id": null,
+      "note": "A medical metaphor: Cicero could have had Clodius killed (the 'surgery') but chose the slower 'cure by diet' of letting the law and Milo's pressure work. He affects weariness with violent remedies."
+    },
+    {
+      "loc": "2",
+      "anchor": "has since made all the Catilinas into Acidini",
+      "entity_id": "person:catiline",
+      "note": "A proverbial hyperbole: Clodius's violence has been so extreme that even the arch-conspirator Catiline now looks, by comparison, as upright as a Manlius Acidinus, a family byword for old-fashioned respectability."
+    },
+    {
+      "loc": "2",
+      "anchor": "the one which is on the Cermalus",
+      "entity_id": "place:cermalus",
+      "note": "The Cermalus was a fashionable spur of the Palatine hill. Milo's house stood there, and Clodius tried to storm and burn it, using the neighbouring house of P. Sulla as a staging-camp."
+    },
+    {
+      "loc": "2",
+      "anchor": "out of the Annian house of Milo's",
+      "entity_id": "person:milo",
+      "note": "Milo's full name was T. Annius Milo, of the gens Annia, hence his house is the 'Annian' house. From it his man Q. Flaccus sallied and cut down the leading Clodian gangsters."
+    },
+    {
+      "loc": "2",
+      "anchor": "gave notice that he would watch the heaven on every comitial day",
+      "entity_id": null,
+      "note": "Obnuntiatio: a magistrate could halt an assembly by announcing he was 'watching the sky' for omens, since adverse signs invalidated public business. Milo used this to block Clodius's elections on every available comitial day."
+    },
+    {
+      "loc": "4",
+      "anchor": "The contention of the three brothers",
+      "entity_id": null,
+      "note": "The three brothers are the patrician Claudii: Appius Claudius Pulcher (the eldest), Gaius Claudius, and Publius Clodius. Cicero scorns their combined effort to force the elections through as broken and despicable."
+    },
+    {
+      "loc": "4",
+      "anchor": "market-days",
+      "entity_id": null,
+      "note": "The nundinae, the recurring eighth-day market when country folk came to Rome; assemblies could not be held on them, so they punctuate Cicero's day-by-day chronicle of the electoral stand-off."
+    },
+    {
+      "loc": "5",
+      "anchor": "Marcellus the candidate",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "M. Claudius Marcellus, the future consul of 51 BC, here standing for office (probably the aedileship). Cicero notes wryly that his neighbour slept soundly through the crisis."
+    }
+  ]
+}

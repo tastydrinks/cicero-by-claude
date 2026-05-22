@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "there is loss enough on the exchange-rate",
+      "entity_id": null,
+      "note": "The collybus was the premium charged for converting one coinage or metal into another; a payment partly in gold could lose value at the changer's table. Cicero is checking that an outgoing payment is not short on both the metal and the rate."
+    },
+    {
+      "loc": "1",
+      "anchor": "the manner of Hegesias, which Varro commends",
+      "entity_id": "person:m-terentius-varro",
+      "note": "Hegesias of Magnesia was the founder of the florid, choppy \"Asianic\" prose style that Cicero disliked; he jokes that his own clipped sentences here are in that vein, the kind the polymath Varro happened to admire. Varro is the great antiquarian and scholar M. Terentius Varro."
+    },
+    {
+      "loc": "2",
+      "anchor": "you put Aristophanes back in place of Eupolis",
+      "entity_id": "person:aristophanes-comicus",
+      "note": "A point of textual scholarship: in his Orator Cicero had named the wrong poet of Old Comedy, and asks Atticus to have his copyists correct \"Eupolis\" to \"Aristophanes\" in the circulating copies. It shows how an author revised a work already in circulation through a friend's book-trade."
+    },
+    {
+      "loc": "2",
+      "anchor": "that thou readest even the",
+      "entity_id": null,
+      "note": "The Orator is Cicero's own treatise on the ideal orator, finished in 46 BC. He teases Atticus with a line of comic verse for troubling to read it."
+    }
+  ]
+}

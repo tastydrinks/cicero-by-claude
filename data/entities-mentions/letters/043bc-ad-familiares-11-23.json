@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-23",
+  "mentions": [
+    {"loc": "1", "surface": "D. BRVTVS", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTVS", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "1", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "2", "surface": "in Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "2", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "Eporedia", "entity_id": "place:eporedia", "in": "lat"},
+    {"loc": "2", "surface": "Eporedia", "entity_id": "place:eporedia", "in": "eng"}
+  ]
+}

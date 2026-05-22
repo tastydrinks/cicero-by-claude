@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO IMP. S. D. M. CATONI",
+      "entity_id": "office:imperator",
+      "note": "IMP. = imperator, the title by which troops acclaimed a victorious general; Cicero's soldiers had hailed him so after the Amanus campaign, and the salutation flags the very claim this letter presses on Cato. S. D. = salutem dicit, 'sends greeting'."
+    },
+    {
+      "loc": "3",
+      "anchor": "in accordance with a decree of the Senate",
+      "entity_id": "institution:senate",
+      "note": "Cicero's levy of recalled veterans (evocati) and allied auxiliaries rested on a senatorial decree authorizing the eastern commanders to raise troops against the Parthian threat of 51 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Parthians had crossed into Syria",
+      "entity_id": "place:parthia",
+      "note": "The Parthian empire beyond the Euphrates was Rome's great eastern rival; their invasion of Syria after the disaster at Carrhae (53 BC) is the looming menace behind Cicero's whole governorship and this dispatch."
+    },
+    {
+      "loc": "4",
+      "anchor": "there are two passes from Syria into Cilicia",
+      "entity_id": "place:amanus",
+      "note": "Mount Amanus is the range dividing Cilicia from Syria; the two passes are the Amanic and Syrian Gates, narrow defiles that a small force could hold, which is why Cicero judged Cilicia easily defensible but Cappadocia exposed."
+    },
+    {
+      "loc": "6",
+      "anchor": "whose safety I held under commendation from the Senate at your motion",
+      "entity_id": "person:ariobarzanes-iii",
+      "note": "Ariobarzanes III, Roman client king of Cappadocia; the Senate had specially commended his protection to Cicero on a motion of Cato's, which is why Cicero stresses Cato's personal stake in the king's preservation."
+    },
+    {
+      "loc": "7",
+      "anchor": "that Bibulus was at Antioch",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "note": "M. Calpurnius Bibulus, Caesar's former consular colleague, was now governor of neighbouring Syria. His arrival at Antioch relieved Cicero, who as governor of Cilicia held a parallel but separate command and a sometimes-uneasy rivalry with him."
+    },
+    {
+      "loc": "8",
+      "anchor": "removing from that mountain its perpetual enemy",
+      "note": "Amanus harboured autonomous brigand tribes who raided both provinces; clearing the mountain was the pretext and substance of the campaign that earned Cicero his imperator-acclamation."
+    },
+    {
+      "loc": "10",
+      "anchor": "the town of Pindenissus, of the Free Cilicians",
+      "entity_id": "place:eleutherocilices",
+      "note": "The Eleutherocilices ('Free Cilicians') were highland peoples of Amanus who had never submitted to any king; the fifty-seven-day siege and capture of their fortress Pindenissus was the chief military exploit of Cicero's command."
+    },
+    {
+      "loc": "10",
+      "anchor": "who were harbouring runaway slaves and were waiting in eager expectation of the Parthians' coming",
+      "entity_id": "place:pindenissum",
+      "note": "Cicero justifies the assault on Pindenissus as a matter of imperial prestige (existimatio imperi): the town sheltered fugitives and hoped for a Parthian advance, so its crushing would overawe other disaffected communities."
+    },
+    {
+      "loc": "11",
+      "anchor": "you would not vote a thanksgiving to a certain most distinguished and excellent man",
+      "entity_id": "festival:supplicatio",
+      "note": "A supplicatio was a public thanksgiving voted by the Senate, opening the temples for prayers; in a victorious general's name it was a high honour and the usual prelude to a triumph. The unnamed man whom Cato opposed is Pompey; Cicero recalls Cato's scruples to flatter the consistency he now asks Cato to extend to him."
+    },
+    {
+      "loc": "12",
+      "anchor": "defending Milo's cause",
+      "entity_id": "person:milo",
+      "note": "Cicero's enemy is P. Clodius Pulcher, killed by T. Annius Milo's men in 52 BC; Cato had backed the defence of Milo, which Cicero counts among Cato's services to him against their common foe."
+    },
+    {
+      "loc": "13",
+      "anchor": "I afterwards desired to become augur",
+      "entity_id": "office:augur",
+      "note": "The augurate was a lifelong priesthood charged with reading the auspices, one of Rome's most coveted honours; Cicero was co-opted into the college in 53 BC after the death of the younger Crassus."
+    },
+    {
+      "loc": "15",
+      "anchor": "your two greatest clients in particular --- the island of Cyprus and the kingdom of Cappadocia",
+      "entity_id": "person:cato-minor",
+      "note": "Cato had annexed and organized Cyprus as a Roman province in 58-56 BC, and had championed Cappadocia's king in the Senate; Cicero invokes these as Cato's 'clients' whose testimony will vouch for Cicero's just provincial administration."
+    }
+  ]
+}

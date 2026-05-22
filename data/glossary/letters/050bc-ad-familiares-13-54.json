@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-54",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO THERMO PROPR. S.",
+      "entity_id": "person:q-minucius-thermus-pr",
+      "note": "The letter-heading. PROPR. = pro praetore, propraetor of Asia (51-50 BC). One of Cicero's cluster of recommendations to Thermus (Fam. 13.53-57), this one a follow-up thanking him for favours already granted."
+    },
+    {
+      "loc": "1",
+      "anchor": "the son of my friend and interpreter",
+      "entity_id": "person:marcilius-pater",
+      "note": "An interpres was an official interpreter attached to a provincial governor's staff, indispensable in Greek-speaking and multilingual provinces. The elder Marcilius served Cicero in this role during his Cilician proconsulship; Cicero recommends his son M. Marcilius."
+    },
+    {
+      "loc": "1",
+      "anchor": "that the young man's mother-in-law be not made defendant",
+      "entity_id": null,
+      "note": "Cicero asks the governor to prevent the young man's mother-in-law from being made a defendant (rea), i.e. brought to trial in the provincial court. Provincial governors held wide judicial discretion over which suits proceeded against whom."
+    },
+    {
+      "loc": "1",
+      "anchor": "in his long term of attendance",
+      "entity_id": "person:marcilius-pater",
+      "note": "Apparitio is the formal service of an apparitor or staff-attendant to a Roman magistrate. Cicero's praise of the elder Marcilius's loyalty, restraint (abstinentia) and modesty is the language of an ideal subordinate official."
+    }
+  ]
+}

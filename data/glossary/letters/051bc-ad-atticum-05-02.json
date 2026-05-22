@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the sixth day before the Ides of May",
+      "entity_id": null,
+      "note": "The Ides of May fell on the 15th; reckoned inclusively in the Roman manner, the sixth day before is 10 May 51 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "tribune of the people",
+      "entity_id": "office:tribune",
+      "note": "The tribuni plebis were ten annually elected magistrates who could veto official acts and convene the plebs; Cicero counts on Furnius, a tribune-designate for 50 BC, to block any extension of his Cilician command."
+    },
+    {
+      "loc": "1",
+      "anchor": "that our provinces be extended",
+      "entity_id": null,
+      "note": "Prorogation: the Senate could prolong a governor's term beyond a year. Cicero, dreading a longer absence, lobbies friends to prevent his proconsulship of Cilicia from being extended."
+    },
+    {
+      "loc": "3",
+      "anchor": "a rumour about the Transpadanes that they had been instructed to elect four-men commissioners",
+      "entity_id": "place:gallia-transpadana",
+      "note": "The Transpadanes (communities of Cisalpine Gaul north of the Po) held only Latin rights; Caesar favoured giving them full citizenship, which would entail their towns electing the quattuorviri (boards of four) typical of Roman municipia. The rumour touched a flashpoint between Caesar and the Senate."
+    }
+  ]
+}

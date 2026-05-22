@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "that Petreius had joined Afranius",
+      "entity_id": null,
+      "note": "M. Petreius and L. Afranius were Pompey's two legates commanding the Pompeian army in Spain; their fate against Caesar was the campaign whose outcome Cicero kept waiting for. The (false) report that they had united raised hopes that Caesar might be checked there."
+    },
+    {
+      "loc": "1",
+      "anchor": "Pompey had marched with great forces into Germany by way of Illyricum",
+      "entity_id": "person:pompey",
+      "note": "A garbled rumour, reported \"on first authority\" yet quite wrong: Pompey had crossed the Adriatic to Greece. The conflicting bulletins reaching Cicero at Cumae show how blind he was to the war's real movements."
+    },
+    {
+      "loc": "1",
+      "anchor": "So let us make for Malta, I think, until something happens in Spain",
+      "entity_id": "place:melita",
+      "note": "Malta remains Cicero's chosen neutral bolt-hole, where he means to wait out the Spanish campaign before committing. The whole letter turns on his paralysis between Caesar's offered safety and loyalty to Pompey."
+    },
+    {
+      "loc": "2",
+      "anchor": "The tears of my own people sometimes soften me",
+      "entity_id": null,
+      "note": "Cicero's household --- Terentia, Tullia, and the two boys --- pressed him to stay in Italy and not throw himself and them away by joining Pompey. Their grief, and a piteous letter from Caelius, are set against his own resolve to act for his \"standing\" (dignitas)."
+    },
+    {
+      "loc": "3",
+      "anchor": "I am expecting Servius by the Nones",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus, the eminent jurist and consul of 51 BC, was another waverer Cicero hoped to consult; his wife Postumia and his son (\"young Servius\") were urging the meeting. The Nones of May fell on the 7th."
+    }
+  ]
+}

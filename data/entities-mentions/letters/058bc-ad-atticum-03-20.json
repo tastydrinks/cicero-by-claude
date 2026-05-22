@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-20",
+  "mentions": [
+    {"loc": "0", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "0", "surface": "Q. CAECILIVS Q. N. POMPONIANVS ATTICVS", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "avunculum tuum", "entity_id": "person:q-caecilius-atticus-uncle", "in": "lat"},
+    {"loc": "1", "surface": "Epiro", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "1", "surface": "your uncle", "entity_id": "person:q-caecilius-atticus-uncle", "in": "eng"},
+    {"loc": "1", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "2", "surface": "Curionis", "entity_id": "person:c-curio-cos", "in": "lat"},
+    {"loc": "2", "surface": "Curio's", "entity_id": "person:c-curio-cos", "in": "eng"},
+    {"loc": "3", "surface": "Sesti", "entity_id": "person:sestius-tribune", "in": "lat"},
+    {"loc": "3", "surface": "Thessalonicae", "entity_id": "place:thessalonica", "in": "lat"},
+    {"loc": "3", "surface": "Sestius", "entity_id": "person:sestius-tribune", "in": "eng"},
+    {"loc": "3", "surface": "Thessalonica", "entity_id": "place:thessalonica", "in": "eng"}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-20",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "consulibus", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "Capuam", "entity_id": "place:capua", "in": "lat"},
+    {"loc": "1", "surface": "Gnaeus", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Luceriae", "entity_id": "place:luceria", "in": "lat"},
+    {"loc": "1", "surface": "these consuls of ours", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "I came to Capua", "entity_id": "place:capua", "in": "eng"},
+    {"loc": "1", "surface": "Gnaeus, meanwhile, was said to be at Luceria", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "to be at Luceria", "entity_id": "place:luceria", "in": "eng"},
+    {"loc": "2", "surface": "Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "2", "surface": "Gnaei", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Phalarimne", "entity_id": "person:phalaris", "in": "lat"},
+    {"loc": "2", "surface": "Pisistratum", "entity_id": "person:pisistratus", "in": "lat"},
+    {"loc": "2", "surface": "consules", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "Formiano", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "2", "surface": "if I stay in Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "by friendship with Gnaeus", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Phalaris", "entity_id": "person:phalaris", "in": "eng"},
+    {"loc": "2", "surface": "Pisistratus", "entity_id": "person:pisistratus", "in": "eng"},
+    {"loc": "2", "surface": "you yourselves at Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "the consuls will soon be here", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "at the Formian villa", "entity_id": "place:formiae", "in": "eng"}
+  ]
+}

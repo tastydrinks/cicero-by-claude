@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-12",
+  "mentions": [
+    {"loc": "1", "surface": "Attice", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Idus Martiae", "entity_id": "event:ides-of-march", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Antonius", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Deiotari nostri", "entity_id": "person:deiotarus-of-galatia", "in": "lat"},
+    {"loc": "1", "surface": "Fulviam", "entity_id": "person:fulvia", "in": "lat"},
+    {"loc": "1", "surface": "Buthrotiam", "entity_id": "place:buthrotum", "in": "lat"},
+    {"loc": "1", "surface": "Octavius", "entity_id": "person:octavian", "in": "lat"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Ides of March", "entity_id": "event:ides-of-march", "in": "eng"},
+    {"loc": "1", "surface": "Caesar gave them many favours", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "our Deiotarus", "entity_id": "person:deiotarus-of-galatia", "in": "eng"},
+    {"loc": "1", "surface": "Fulvia", "entity_id": "person:fulvia", "in": "eng"},
+    {"loc": "1", "surface": "the Buthrotian case", "entity_id": "place:buthrotum", "in": "eng"},
+    {"loc": "1", "surface": "Octavius", "entity_id": "person:octavian", "in": "eng"},
+    {"loc": "2", "surface": "Caesarem", "entity_id": "person:octavian", "in": "lat"},
+    {"loc": "2", "surface": "Philippus", "entity_id": "person:l-marcius-philippus-cos56", "in": "lat"},
+    {"loc": "2", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "as Caesar", "entity_id": "person:octavian", "in": "eng"},
+    {"loc": "2", "surface": "Philippus", "entity_id": "person:l-marcius-philippus-cos56", "in": "eng"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "de Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "3", "surface": "Vestorium", "entity_id": "person:c-vestorius", "in": "lat"},
+    {"loc": "3", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "Vestorius", "entity_id": "person:c-vestorius", "in": "eng"}
+  ]
+}

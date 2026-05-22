@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-25",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Cephalio arrived from your side",
+      "entity_id": "person:cephalio",
+      "note": "Cephalio was one of Atticus's regular letter-carriers (tabellarii); his arrival from Rome with a more cheerful despatch is set against the gloomier news Cicero had just relayed from Capua."
+    },
+    {
+      "loc": "1",
+      "anchor": "He carried his bad causes through always; in the best of causes he has collapsed",
+      "entity_id": "person:pompey",
+      "note": "Cicero's verdict on Pompey: he had prevailed in his earlier, dubious enterprises but failed now in the cause of the Republic, lacking the difficult art of governing the state rightly."
+    }
+  ]
+}

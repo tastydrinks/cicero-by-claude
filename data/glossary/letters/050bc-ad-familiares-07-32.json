@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-32",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "without a forename",
+      "entity_id": null,
+      "note": "Roman letters normally carried the writer's full name; dropping the praenomen (Publius) was a mark of intimacy, but it momentarily left Cicero unsure whether the writer was Eutrapelus or another Volumnius, a senator. The whole letter then turns on Eutrapelus's reputation for wit (eutrapelia, from which his cognomen comes)."
+    },
+    {
+      "loc": "1",
+      "anchor": "the title to my saltworks is being defended none too diligently by you my agent",
+      "entity_id": null,
+      "note": "An extended legal-property metaphor: Cicero pretends to own a monopoly (\"saltworks,\" salinae) on Roman wit and casts Volumnius as the procurator (agent) bound to defend his client's title in court. Eutrapelus has reported that, since Cicero left town, other men's jokes are being attributed to him."
+    },
+    {
+      "loc": "1",
+      "anchor": "Sestius's",
+      "entity_id": "person:sestius-tribune",
+      "note": "P. Sestius, tribune of 57 BC and Cicero's client in the Pro Sestio, was notorious for being humourless and stilted; for his clumsy witticisms to be \"fathered on\" Cicero is the height of insult to Cicero's reputation as a wit."
+    },
+    {
+      "loc": "2",
+      "anchor": "book two of the \\textit{De Oratore}",
+      "entity_id": "text:de-oratore",
+      "note": "In the second book of his dialogue De Oratore (55 BC) Cicero gives, through the orator M. Antonius, the fullest ancient analysis of humour, classifying the kinds of jest named here in Greek: ambiguity, hyperbole, wordplay, and the surprise turn (para prosdokian)."
+    },
+    {
+      "loc": "2",
+      "anchor": "The freehold of urbanity --- this, by your leave, let us defend with whatever injunctions there are",
+      "entity_id": null,
+      "note": "Cicero keeps up the property-law conceit: urbanitas (urbane wit) is a freehold (possessio) he means to protect with interdicta, the praetor's summary injunctions used in Roman law to defend possession. The joke is that he will go to law to stop others passing off jokes as his."
+    }
+  ]
+}

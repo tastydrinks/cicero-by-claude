@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "transferred it to our friend",
+      "entity_id": "person:m-terentius-varro",
+      "note": "Varro, to whom Cicero has now reassigned the Academica, recasting the dialogue's speakers. He rebuilt the work from two books into four for the new dedication."
+    },
+    {
+      "loc": "1",
+      "anchor": "those most noble characters",
+      "entity_id": null,
+      "note": "The aristocratic interlocutors Catulus, Lucullus, and Hortensius of the first edition of the Academica, whom Cicero is removing. He thought such grandees ill-suited to talk technical philosophy."
+    },
+    {
+      "loc": "1",
+      "anchor": "converted it from two books into four",
+      "entity_id": "text:academica",
+      "note": "Cicero is describing the second edition of his Academica (the so-called Academica Posteriora), expanded from a two-book to a four-book form with Varro as a speaker. Only fragments of this version survive."
+    },
+    {
+      "loc": "1",
+      "anchor": "unless perhaps Brutus",
+      "entity_id": "person:brutus",
+      "note": "Marcus Brutus, dedicatee of the companion De Finibus; Cicero wonders, half in jest, whether Varro's jealousy is directed at him. \"That, by Hercules, was all we needed,\" he adds in mock dismay."
+    },
+    {
+      "loc": "2",
+      "anchor": "a sense of shame before the Trojans",
+      "entity_id": null,
+      "note": "A Homeric tag (Hector's words, Iliad 6.442): the dread of what people will say. Cicero fears that whatever he writes for Dolabella will draw public criticism."
+    },
+    {
+      "loc": "2",
+      "anchor": "for Dolabella",
+      "entity_id": "person:dolabella",
+      "note": "Publius Cornelius Dolabella, Cicero's ex-son-in-law and a Caesarian, who kept pressing Cicero for some literary or political composition. Cicero cannot think what to give him."
+    },
+    {
+      "loc": "3",
+      "anchor": "My Attica",
+      "entity_id": "person:attica-pomponia",
+      "note": "Atticus's young daughter Attica, whose continuing illness tormented Cicero. He keeps re-reading Atticus's letters for news of her."
+    },
+    {
+      "loc": "4",
+      "anchor": "Brinnius' freedman, our co-heir",
+      "entity_id": "person:brinnius",
+      "note": "A freedman of the deceased Brinnius who, by Roman custom, shared in his former patron's estate alongside Cicero as a co-heir. Cicero is a reluctant party to this minor inheritance."
+    },
+    {
+      "loc": "4",
+      "anchor": "his co-heir Sabinus Albius",
+      "entity_id": "person:albius-sabinus",
+      "note": "Albius Sabinus, another co-heir to the Brinnian estate. He and the freedman wished to confer with Cicero in person, which Cicero declines as not worth the trouble."
+    },
+    {
+      "loc": "4",
+      "anchor": "it is the third before the Ides",
+      "entity_id": null,
+      "note": "The auction date, reckoned in the Roman backward style from the Ides (the 13th of this month); the third day before, counted inclusively, is 11 July. The Ides fell on the 13th in months other than March, May, July, and October."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-28",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Patrae",
+      "entity_id": "place:patrae",
+      "note": "Patrae (modern Patras), a port city on the north-western coast of the Peloponnese where M'. Curius had settled as a Roman banker and negotiator (businessman). Cicero teases him for preferring provincial Patrae to cultivated Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "where neither the Pelopids",
+      "entity_id": null,
+      "note": "Cicero quotes the opening of a line from an unidentified Roman tragedy --- 'where I shall hear neither the name nor the deeds of the sons of Pelops' --- a wish to escape the cursed house of Atreus, here applied to fleeing Rome's miseries. He gives only the start and adds 'you know the rest,' counting on Curius to complete the famous tag."
+    },
+    {
+      "loc": "2",
+      "anchor": "a rare white bird",
+      "entity_id": null,
+      "note": "Avis alba, a proverbial term for something almost never seen; a citizen still loyal to the Republic had become as rare as a white crow."
+    },
+    {
+      "loc": "3",
+      "anchor": "the man in whose power everything stands",
+      "entity_id": "person:caesar",
+      "note": "A guarded periphrasis for Julius Caesar, dictator since 49 BC; Cicero avoids naming him while complaining that the whole state now rests in one man's hands."
+    }
+  ]
+}

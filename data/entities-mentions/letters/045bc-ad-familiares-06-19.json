@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-19",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "LEPTAE",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "LEPTAE",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Oppio",
+      "entity_id": "person:gaius-oppius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Balbum",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Oppius",
+      "entity_id": "person:gaius-oppius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-52",
+  "mentions": [
+    {"loc": "1", "surface": "cum secundis Saturnalibus", "entity_id": "festival:saturnalia", "in": "lat"},
+    {"loc": "1", "surface": "ad Philippum vesperi venisset", "entity_id": "person:l-marcius-philippus-cos56", "in": "lat"},
+    {"loc": "1", "surface": "ubi cenaturus ipse Caesar esset", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "ac mihi Barba Cassius subvenit", "entity_id": "person:barba-cassius", "in": "lat"},
+    {"loc": "1", "surface": "ille tertiis Saturnalibus", "entity_id": "festival:saturnalia", "in": "lat"},
+    {"loc": "1", "surface": "tertiis Saturnalibus apud Philippum", "entity_id": "person:l-marcius-philippus-cos56", "in": "lat"},
+    {"loc": "1", "surface": "rationes, opinor, cum Balbo", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "tum audivit de Mamurra", "entity_id": "person:mamurra", "in": "lat"},
+    {"loc": "1", "surface": "on the evening of the second day of the Saturnalia", "entity_id": "festival:saturnalia", "in": "eng"},
+    {"loc": "1", "surface": "he had arrived at Philippus's", "entity_id": "person:l-marcius-philippus-cos56", "in": "eng"},
+    {"loc": "1", "surface": "for Caesar himself to dine in", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Barba Cassius came to my aid", "entity_id": "person:barba-cassius", "in": "eng"},
+    {"loc": "1", "surface": "On the third day of the Saturnalia", "entity_id": "festival:saturnalia", "in": "eng"},
+    {"loc": "1", "surface": "he stayed at Philippus's", "entity_id": "person:l-marcius-philippus-cos56", "in": "eng"},
+    {"loc": "1", "surface": "accounts with Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "he heard the news about Mamurra", "entity_id": "person:mamurra", "in": "eng"},
+    {"loc": "2", "surface": "Puteolis se aiebat unum diem fore", "entity_id": "place:puteoli", "in": "lat"},
+    {"loc": "2", "surface": "alterum ad Baias", "entity_id": "place:baiae", "in": "lat"},
+    {"loc": "2", "surface": "deinde in Tusculanum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "2", "surface": "Dolabellae villam cum praeteriret", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "2", "surface": "hoc ex Nicia", "entity_id": "person:nicias-cous", "in": "lat"},
+    {"loc": "2", "surface": "spend one day at Puteoli", "entity_id": "place:puteoli", "in": "eng"},
+    {"loc": "2", "surface": "the next at Baiae", "entity_id": "place:baiae", "in": "eng"},
+    {"loc": "2", "surface": "then on to Tusculum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "As he passed Dolabella's villa", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "2", "surface": "This from Nicias", "entity_id": "person:nicias-cous", "in": "eng"}
+  ]
+}

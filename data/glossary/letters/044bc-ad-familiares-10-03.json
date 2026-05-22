@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "your justice in the administration of the province",
+      "entity_id": "place:gallia",
+      "note": "Plancus was governing Transalpine Gaul (Gallia Comata) as proconsul in 44 BC, with the founding of colonies such as Lugdunum (Lyon) among his tasks."
+    },
+    {
+      "loc": "3",
+      "anchor": "men thought you too compliant with the times",
+      "entity_id": "person:munatius-plancus",
+      "note": "A delicate allusion to Plancus's earlier accommodation with Antony and the Caesarian leadership; Cicero excuses it as prudent calculation under constraint rather than genuine endorsement."
+    },
+    {
+      "loc": "3",
+      "anchor": "You are consul-designate",
+      "entity_id": "person:munatius-plancus",
+      "note": "As consul-designate for 42 BC, Plancus held a recognised rank and a free hand that (Cicero argues) freed him to act on his own judgement rather than bend to the dominant faction."
+    }
+  ]
+}

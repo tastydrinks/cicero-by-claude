@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "About Marius, well done",
+      "entity_id": null,
+      "note": "Cicero approves the killing of the impostor \"Marius\" (Herophilus/Amatius), put to death by Antony; the pseudo-Marius is not the historical C. Marius and has no registry entity."
+    },
+    {
+      "loc": "1",
+      "anchor": "the grandson of Lucius Crassus",
+      "entity_id": "person:l-licinius-crassus",
+      "note": "The impostor claimed descent not only from Marius but from the great orator L. Licinius Crassus (cos. 95); Cicero, an admirer of Crassus, says he is \"sorry\" for the abuse of that illustrious name. The grandson here is the pseudo-Marius himself, who has no registry entity."
+    },
+    {
+      "loc": "1",
+      "anchor": "Junia delivered a letter",
+      "entity_id": "person:iunia-tertia",
+      "note": "Junia Tertia, half-sister of Brutus and wife of Cassius, the most active of the conspirators' womenfolk in carrying their correspondence (possibly her sister Junia Secunda, wife of Lepidus, is meant)."
+    },
+    {
+      "loc": "1",
+      "anchor": "one his brother had sent to him",
+      "entity_id": null,
+      "note": "The letter Paulus received was from his brother; the kinship term is left unbound, but Paulus's brother was M. Aemilius Lepidus, the magister equitum. Its closing lines warned that a plot was being laid against the writer."
+    },
+    {
+      "loc": "1",
+      "anchor": "The queen's flight",
+      "entity_id": "person:cleopatra-vii",
+      "note": "Cleopatra VII of Egypt, who had been lodged in Caesar's gardens across the Tiber, slipped out of Rome after the assassination; no registry entity for Cleopatra exists, so the surface is left unbound."
+    },
+    {
+      "loc": "1",
+      "anchor": "About the Byzantines",
+      "entity_id": "place:byzantium",
+      "note": "An outstanding diplomatic matter concerning the city of Byzantium that Atticus was handling on Cicero's behalf, to be pursued through the agent Pelops."
+    },
+    {
+      "loc": "1",
+      "anchor": "you will summon Pelops",
+      "entity_id": "person:pelops-byzantius",
+      "note": "Pelops of Byzantium, Cicero's local intermediary in the affairs of his clients there; Cicero asks Atticus to call him in."
+    }
+  ]
+}

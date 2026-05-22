@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-01",
+  "mentions": [
+    {"loc": "1", "surface": "Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "1", "surface": "Epirum", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "1", "surface": "Macedonia", "entity_id": "place:macedonia", "in": "lat"},
+    {"loc": "1", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "1", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "1", "surface": "Macedonia", "entity_id": "place:macedonia", "in": "eng"}
+  ]
+}

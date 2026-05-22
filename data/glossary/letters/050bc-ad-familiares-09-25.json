@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-25",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Your letter has made a supreme commander of me",
+      "entity_id": "person:cicero",
+      "note": "The whole opening is mock-military banter. The header 'CICERO IMP.' styles Cicero imperator, the title acclaimed by his troops after his minor campaign on Mt. Amanus during his Cilician governorship (51-50 BC); the letter is written from Laodicea in that period, and Cicero plays at being the great general Paetus's reading has made him."
+    },
+    {
+      "loc": "1",
+      "anchor": "the books of Pyrrhus and of Cineas",
+      "entity_id": "person:pyrrhus-epirus",
+      "note": "Pyrrhus, king of Epirus and famous adversary of Rome, was reputed to have written on the art of war, and his minister Cineas to have epitomized military and tactical treatises. Cicero jokes that Paetus -- a stay-at-home Epicurean gourmet -- must have been studying these masters to issue him such strategic 'instructions.'"
+    },
+    {
+      "loc": "1",
+      "anchor": "The Cyropaedia",
+      "entity_id": "text:cyropaedia",
+      "note": "Xenophon's Cyropaedia ('Education of Cyrus') idealizes Cyrus the Great as the model just ruler and commander. Cicero says he had worn his copy to shreds in reading and now 'unfolds it entire' in actual command -- a learned joke that his governorship is the practical test of the bookish ideal."
+    },
+    {
+      "loc": "2",
+      "anchor": "your fellow-tipplers the Epicureans",
+      "entity_id": "institution:epicurean-school",
+      "note": "Paetus and his circle on the bay of Naples were Epicureans; Cicero, a sceptical Academic, teasingly calls them 'combibones' (fellow drinking-companions) and notes that he relies on M. Fadius's help in his philosophical disputes against them."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Herculanean estate had been advertised for sale by his brother Q. Fadius",
+      "entity_id": "place:herculaneum",
+      "note": "The dispute concerns a property at Herculaneum on the bay of Naples held jointly by the brothers M. and Q. Fadius. Q. Fadius's posting it for forced sale ('proscriptum') threatens M. Fadius, and Cicero asks Paetus, as a local man of influence, to use his authority and standing to prevent the brothers going to law."
+    },
+    {
+      "loc": "3",
+      "anchor": "Fadius has Mato and Pollio for enemies",
+      "entity_id": "person:mato-inimicus-fadii",
+      "note": "Mato and Pollio are named as M. Fadius's adversaries in the affair; both are otherwise obscure. The Pollio here is not securely the famous orator-historian C. Asinius Pollio. (Date note: the letter belongs to Cicero's Cilician governorship, 50 BC, hence the 'imperator' header, despite its filing among the 46 BC Paetus letters.)"
+    }
+  ]
+}

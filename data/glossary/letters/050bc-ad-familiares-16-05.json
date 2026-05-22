@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "We were two hours at Thyrreum",
+      "entity_id": "place:thyrreum",
+      "note": "Thyrreum, an inland town of Acarnania in western Greece, was a brief halt on Cicero's homeward route; the dating shows he was making rapid progress along the coast."
+    },
+    {
+      "loc": "1",
+      "anchor": "Your host Xenomenes",
+      "entity_id": "person:xenomenes-thyrrensis",
+      "note": "Xenomenes is a Greek friend of Tiro's at Thyrreum who offered hospitality and help; \"host\" (hospes) marks a formal tie of guest-friendship."
+    },
+    {
+      "loc": "2",
+      "anchor": "Acastus is down at the harbour every day",
+      "entity_id": "person:acastus-servus",
+      "note": "Acastus is one of Cicero's slave-couriers, posted at the port so that letters from Tiro could be picked up and forwarded by passing travellers."
+    },
+    {
+      "loc": "2",
+      "anchor": "My whole hope for your being carefully looked after rests in Curius",
+      "entity_id": "person:mn-curius-patrensis",
+      "note": "Manius Curius, the Roman banker at Patrae, was the man Cicero most trusted to oversee Tiro's care; Cicero urges Tiro to put himself entirely in his hands."
+    }
+  ]
+}

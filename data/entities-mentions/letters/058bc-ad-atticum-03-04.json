@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-04",
+  "mentions": [
+    {"loc": "1", "surface": "Vibone", "entity_id": "place:vibo-valentia", "in": "lat"},
+    {"loc": "1", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "1", "surface": "Sicca", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "1", "surface": "Melitae", "entity_id": "place:melita", "in": "lat"},
+    {"loc": "1", "surface": "Pomponi", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Vibo", "entity_id": "place:vibo-valentia", "in": "eng"},
+    {"loc": "1", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "1", "surface": "Sicca", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "1", "surface": "Malta", "entity_id": "place:melita", "in": "eng"},
+    {"loc": "1", "surface": "Pomponius", "entity_id": "person:atticus", "in": "eng"}
+  ]
+}

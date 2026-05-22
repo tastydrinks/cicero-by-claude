@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Paulus",
+      "entity_id": "person:l-aemilius-paulus-cos50",
+      "note": "Lucius Aemilius Paullus, consul 50 BC and elder brother of the triumvir-to-be Lepidus; Cicero meets him at Caieta and learns from him both the news of the pseudo-Marius and a warning that Cassius's life was threatened."
+    },
+    {
+      "loc": "1",
+      "anchor": "news about Marius",
+      "entity_id": null,
+      "note": "Again the impostor \"Marius\" (Herophilus/Amatius); the \"thoroughly wretched news\" is presumably of his execution by Antony and the popular unrest it caused. No registry entity matches the pseudo-Marius."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the seventeenth day before the Kalends",
+      "entity_id": null,
+      "note": "Roman dates count inclusively backward from fixed points; \"the seventeenth before the Kalends (of May)\" is 15 April 44 BC. Cicero dates several of these post-Ides letters by such reckonings."
+    },
+    {
+      "loc": "2",
+      "anchor": "From my son",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "Young Marcus Cicero, then about to study at Athens; Cicero, pleased by the boy's polished Greek letter (Greek pinos, \"polish\"), urges Atticus to keep him amply supplied."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "you take Marcellus' death hard",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "Marcus Claudius Marcellus, consul 51 BC and a leading Republican, pardoned by Caesar in 46 BC (the occasion of Cicero's Pro Marcello). He was murdered by his companion Magius near the Piraeus in May 45 BC while preparing to return to Italy."
+    },
+    {
+      "loc": "1",
+      "anchor": "that I am the last consular left",
+      "entity_id": null,
+      "note": "A consular (consularis) was a senator who had held the consulship, the senior rank in debate. Marcellus's death prompted the gloomy thought that Cicero was now almost the only such elder statesman of the old Republic surviving."
+    },
+    {
+      "loc": "1",
+      "anchor": "What is your view of Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus, consul 51 BC (Marcellus's colleague) and Rome's foremost jurist, then governing Achaia; he sent Cicero the famous letter of condolence on Marcellus's death (Ad Fam. 4.12). Cicero counts him too among the surviving consulars."
+    },
+    {
+      "loc": "2",
+      "anchor": "As to Dolabella",
+      "entity_id": "person:dolabella",
+      "note": "Publius Cornelius Dolabella, Cicero's former son-in-law, then a partisan of Caesar; he was pressing Cicero to compose some public, political piece on his behalf. Cicero weighs how to satisfy him."
+    },
+    {
+      "loc": "3",
+      "anchor": "I am waiting for Spinther",
+      "entity_id": "person:p-lentulus-spinther-jr",
+      "note": "Publius Cornelius Lentulus Spinther the younger, son of the consul of 57 BC and an associate of Brutus, here acting as Brutus's courier to Cicero. Not to be confused with his father."
+    },
+    {
+      "loc": "3",
+      "anchor": "with the case against Magius established",
+      "entity_id": "person:p-magius-cilo",
+      "note": "Publius Magius Cilo, the companion of Marcellus who stabbed him to death after dinner near the Piraeus and then killed himself. Cicero, who had stood surety for him, traces the deed to his madness and insolvency."
+    },
+    {
+      "loc": "3",
+      "anchor": "a man for whom I had even gone surety",
+      "entity_id": null,
+      "note": "To \"go surety\" (sponsor fieri) was to bind oneself formally to pay another's debt if he defaulted. Cicero's embarrassment is that the killer turned out to be insolvent, leaving him exposed."
+    },
+    {
+      "loc": "3",
+      "anchor": "on the eleventh before the Kalends",
+      "entity_id": null,
+      "note": "The Roman calendar counted days backward and inclusively from the Kalends (the 1st of each month). The eleventh day before the Kalends of July falls on 21 June by our reckoning."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "LENTVLVS CICERONI SVO S. P. D.",
+      "entity_id": "person:p-lentulus-spinther-jr",
+      "note": "The sender is P. Cornelius Lentulus Spinther the younger, proquaestor pro praetore of Asia (the son, not his father the consul of 57). S. P. D. is salutem plurimam dicit, \"sends warmest greetings.\""
+    },
+    {
+      "loc": "3",
+      "anchor": "the official dispatch I have sent",
+      "entity_id": null,
+      "note": "The accompanying formal report to the Senate and People, sent litteris publicis (in the public name); it survives as the next letter, Fam. 12.15."
+    },
+    {
+      "loc": "3",
+      "anchor": "refused entry to my father in his flight, to L. Lentulus, to Pompeius",
+      "entity_id": null,
+      "note": "After Pharsalus (48 BC) the Rhodians shut their harbour against the fleeing Pompeians: the writer's father (Lentulus Spinther, cos. 57), L. Cornelius Lentulus Crus (cos. 49), and Pompey himself."
+    },
+    {
+      "loc": "4",
+      "anchor": "Since Asia has been decreed to the consuls",
+      "entity_id": null,
+      "note": "The Senate had assigned the province of Asia to the consuls of 43, Pansa and Hirtius; until they could come in person they could delegate its administration, which Spinther hopes Cicero will get assigned to him."
+    },
+    {
+      "loc": "6",
+      "anchor": "the first to break the Antonian laws",
+      "entity_id": "law:leges-antoniae",
+      "note": "The leges Antoniae were Mark Antony's enactments as consul in 44 BC; Spinther boasts of being first to defy them in his province."
+    },
+    {
+      "loc": "6",
+      "anchor": "their share in that famous deed",
+      "entity_id": null,
+      "note": "\"That famous deed\" (illud factum) is the assassination of Caesar on the Ides of March 44 BC, in which Cassius and the Bruti took part."
+    },
+    {
+      "loc": "7",
+      "anchor": "loving my country more than my own (\\textit{[Greek: patrida emēn mallon philōn]})",
+      "entity_id": null,
+      "note": "Spinther quotes a Greek tag, patrida emēn mallon philōn (\"loving my fatherland more\"), to dignify his break with Dolabella and the Antonii, to whom he was tied by friendship and blood."
+    },
+    {
+      "loc": "8",
+      "anchor": "he had already gone off into winter quarters with the cavalry",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "Cicero's son, young Marcus, was then serving with M. Brutus's cavalry in the Balkans, having left his studies at Athens for the republican army."
+    },
+    {
+      "loc": "8",
+      "anchor": "Pergē, 29 May.",
+      "entity_id": "place:perga",
+      "note": "Perga (Latin Perga/Pergae) was a city of Pamphylia; the letter is dated four days before the Kalends of June (= 29 May), 43 BC."
+    }
+  ]
+}

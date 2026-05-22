@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-36",
+  "mentions": [
+    {"loc": "2", "surface": "ad Brutum si quid scribes", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "quod in Cumano esse noluerit", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "2", "surface": "cohortere et exacuas Cluatium", "entity_id": "person:cluatius", "in": "lat"},
+    {"loc": "2", "surface": "If you write anything to Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "because he would not be at the Cumanum", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "2", "surface": "encourage and spur on Cluatius", "entity_id": "person:cluatius", "in": "eng"}
+  ]
+}

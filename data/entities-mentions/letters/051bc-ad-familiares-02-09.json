@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-09",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO PROCOS.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO AEDILI CVR. DESIGNATO",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "aedilis",
+      "entity_id": "office:aedile",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO PROCOS.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO AEDILI CVR. DESIGNATO",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "aedile",
+      "entity_id": "office:aedile",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "mi Rufe",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "my Rufus",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    }
+  ]
+}

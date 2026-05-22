@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-09",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TERENTIAE SVAE", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "Dolabellae", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "Dolabella's", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "1", "surface": "Tulliae", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "Tullia's", "entity_id": "person:tullia", "in": "eng"}
+  ]
+}

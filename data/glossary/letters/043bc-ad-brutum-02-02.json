@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-02-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Lepidus, your kinsman",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Marcus Aemilius Lepidus was a distant connection of Brutus through aristocratic family ties; Cicero sardonically notes that Lepidus ranks as nearest relation those he most hates (i.e., the Liberators)."
+    },
+    {
+      "loc": "3",
+      "anchor": "that madman Servilius",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "Publius Servilius Vatia Isauricus the younger (consul 48 and 41 BC), a consular senator who leaned toward Antony; Cicero had to endure his obstruction in the Senate while trying to honor Plancus."
+    },
+    {
+      "loc": "3",
+      "anchor": "on the fifth day before the Ides of April",
+      "entity_id": null,
+      "note": "Ante diem quintum Idus Apriles = 9 April 43 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "our friend Lentulus",
+      "entity_id": "person:p-lentulus-spinther",
+      "note": "Publius Cornelius Lentulus Spinther, a Republican commander operating in the East alongside Cassius; his letter brought news of Cassius's seizure of Syria and the Syrian legions."
+    },
+    {
+      "loc": "3",
+      "anchor": "about Cassius, about the legions, about Syria",
+      "entity_id": "person:cassius-longinus",
+      "note": "Cassius Longinus had taken control of Syria and the legions stationed there in early 43 BC, a major coup for the Liberators against the Antonian faction."
+    },
+    {
+      "loc": "3",
+      "anchor": "a great prodigy in the commonwealth",
+      "entity_id": null,
+      "note": "The Latin monstrum carries a strong religious sense — a portent or unnatural sign; Cicero treats Servilius's political conduct as a bad omen for the Republic. The sentence breaks off (indicated by the triple asterisk *** in the manuscripts)."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-12",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "Pansa", "entity_id": "person:vibius-pansa", "in": "both"},
+    {"loc": "1", "surface": "Epicureum", "entity_id": "institution:epicurean-school", "in": "lat"},
+    {"loc": "1", "surface": "Epicurean", "entity_id": "institution:epicurean-school", "in": "eng"},
+    {"loc": "1", "surface": "Tarentum", "entity_id": "place:tarentum", "in": "both"},
+    {"loc": "1", "surface": "Samarobrivam", "entity_id": "place:samarobriva", "in": "lat"},
+    {"loc": "1", "surface": "Samarobriva", "entity_id": "place:samarobriva", "in": "eng"},
+    {"loc": "1", "surface": "Zeius", "entity_id": "person:zeius-seius", "in": "lat"},
+    {"loc": "1", "surface": "Zeius", "entity_id": "person:zeius-seius", "in": "eng"},
+    {"loc": "2", "surface": "ius civile", "entity_id": "law:ius-civile", "in": "lat"},
+    {"loc": "2", "surface": "civil law", "entity_id": "law:ius-civile", "in": "eng"},
+    {"loc": "2", "surface": "IOVEM LAPIDEM", "entity_id": "god:jupiter", "in": "lat"},
+    {"loc": "2", "surface": "Jupiter of the Stone", "entity_id": "god:jupiter", "in": "eng"},
+    {"loc": "2", "surface": "Iovem", "entity_id": "god:jupiter", "in": "lat"},
+    {"loc": "2", "surface": "Jupiter", "entity_id": "god:jupiter", "in": "eng"},
+    {"loc": "2", "surface": "Ulubrano", "entity_id": "place:ulubrae", "in": "lat"},
+    {"loc": "2", "surface": "Ulubrae", "entity_id": "place:ulubrae", "in": "eng"},
+    {"loc": "2", "surface": "Pansae", "entity_id": "person:vibius-pansa", "in": "lat"},
+    {"loc": "2", "surface": "Pansa", "entity_id": "person:vibius-pansa", "in": "eng"}
+  ]
+}

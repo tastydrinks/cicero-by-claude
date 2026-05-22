@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-05",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. ANTONIO M. F. IMP.", "entity_id": "person:c-antonius-hybrida", "in": "lat"},
+    {"loc": "1", "surface": "Gaius Antonius, son of Marcus, Imperator", "entity_id": "person:c-antonius-hybrida", "in": "eng"},
+    {"loc": "1", "surface": "IMP.", "entity_id": "office:imperator", "in": "lat"},
+    {"loc": "1", "surface": "Imperator", "entity_id": "office:imperator", "in": "eng"},
+    {"loc": "1", "surface": "T. Pomponius", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Titus Pomponius", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Pomponio", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Pomponius", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "p. R.", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "2", "surface": "the Roman people", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "2", "surface": "Pomponio", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "2", "surface": "Pomponius", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "3", "surface": "Pomponio", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "3", "surface": "Pomponius", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "3", "surface": "ipsum tibi Pomponium", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "3", "surface": "Pomponius himself", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "3", "surface": "Pomponi negotio", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "3", "surface": "Pomponius's business", "entity_id": "person:atticus", "in": "eng"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-19",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "LL. PAPIRIO PAETO", "entity_id": "person:l-papirius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "LL. PAPIRIO PAETO", "entity_id": "person:l-papirius-paetus", "in": "eng"},
+    {"loc": "1", "surface": "Balbum", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "noster Paetus", "entity_id": "person:l-papirius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "our friend Paetus", "entity_id": "person:l-papirius-paetus", "in": "eng"},
+    {"loc": "2", "surface": "balbos", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "2", "surface": "the Balbi --- the stutterers", "entity_id": "person:l-cornelius-balbus", "in": "eng"}
+  ]
+}

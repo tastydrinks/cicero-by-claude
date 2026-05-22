@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-02",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Gnaeus", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "consules", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "Brundisio", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "that Gnaeus had embarked well attended", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "and that the consuls had crossed over", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "From Brundisium nothing had yet been brought", "entity_id": "place:brundisium", "in": "eng"}
+  ]
+}

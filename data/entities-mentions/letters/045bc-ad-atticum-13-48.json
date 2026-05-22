@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-48",
+  "mentions": [
+    {"loc": "1", "surface": "in Tusculanum venturum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "Lepta me rogat", "entity_id": "person:q-paconius-lepta", "in": "lat"},
+    {"loc": "1", "surface": "mortuus enim Babullius", "entity_id": "person:babullius", "in": "lat"},
+    {"loc": "1", "surface": "Caesar, opinor, ex uncia", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "sed Lepta ex triente", "entity_id": "person:q-paconius-lepta", "in": "lat"},
+    {"loc": "1", "surface": "tu Pollicem", "entity_id": "person:pollex-servus", "in": "lat"},
+    {"loc": "1", "surface": "coming out to the Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "Lepta asks me to hurry to him", "entity_id": "person:q-paconius-lepta", "in": "eng"},
+    {"loc": "1", "surface": "for Babullius is dead", "entity_id": "person:babullius", "in": "eng"},
+    {"loc": "1", "surface": "Caesar comes in for an ounce", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Lepta for a third", "entity_id": "person:q-paconius-lepta", "in": "eng"},
+    {"loc": "1", "surface": "Send Pollex when you can", "entity_id": "person:pollex-servus", "in": "eng"},
+    {"loc": "2", "surface": "laudationem Porciae", "entity_id": "person:porcia-bruti", "in": "lat"},
+    {"loc": "2", "surface": "aut Domitio filio", "entity_id": "person:cn-domitius-ahenobarbus-cos32", "in": "lat"},
+    {"loc": "2", "surface": "aut Bruto mitteretur", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "M. Varronis", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "2", "surface": "the eulogy of Porcia", "entity_id": "person:porcia-bruti", "in": "eng"},
+    {"loc": "2", "surface": "to Domitius the younger", "entity_id": "person:cn-domitius-ahenobarbus-cos32", "in": "eng"},
+    {"loc": "2", "surface": "or to Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "the eulogies of Marcus Varro", "entity_id": "person:m-terentius-varro", "in": "eng"}
+  ]
+}

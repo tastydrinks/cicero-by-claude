@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-06",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Ciceroni",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Ciceroni",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "filius tuus",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Your son",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Macedonia",
+      "entity_id": "place:macedonia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Macedonia",
+      "entity_id": "place:macedonia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Ambracia",
+      "entity_id": "place:ambracia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Ambracia",
+      "entity_id": "place:ambracia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Thessaliam",
+      "entity_id": "place:thessalia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Thessaly",
+      "entity_id": "place:thessalia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Heracleam",
+      "entity_id": "place:heraclea-macedoniae",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Heraclea",
+      "entity_id": "place:heraclea-macedoniae",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Glycona, medicum Pansae",
+      "entity_id": "person:glyco-physician",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Glyco, the physician of Pansa",
+      "entity_id": "person:glyco-physician",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pansae",
+      "entity_id": "person:vibius-pansa",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Achilleos nostri",
+      "entity_id": "person:achilleos",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "our friend Achilleos",
+      "entity_id": "person:achilleos",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Torquato",
+      "entity_id": "person:l-manlius-torquatus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Torquatus",
+      "entity_id": "person:l-manlius-torquatus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Satrio, legato C. Treboni",
+      "entity_id": "person:satrius-legate",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Satrius, the lieutenant of C. Trebonius",
+      "entity_id": "person:satrius-legate",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "C. Treboni",
+      "entity_id": "person:c-trebonius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "C. Trebonius",
+      "entity_id": "person:c-trebonius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Tillio",
+      "entity_id": "person:l-tillius-cimber",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Tillius",
+      "entity_id": "person:l-tillius-cimber",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Deiotaro",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Deiotarus",
+      "entity_id": "person:deiotarus-of-galatia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Dolabellam caesum fugatumque",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Dolabella has been cut down and put to flight",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Cicereii",
+      "entity_id": "person:cicereius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Cicereius",
+      "entity_id": "person:cicereius",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Flavius noster",
+      "entity_id": "person:l-flavius-eques",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Our friend Flavius",
+      "entity_id": "person:l-flavius-eques",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Dyrrhachinis",
+      "entity_id": "place:dyrrachium",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "the people of Dyrrachium",
+      "entity_id": "place:dyrrachium",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "a Caesare",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Candaviam",
+      "entity_id": "place:candavia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Candavia",
+      "entity_id": "place:candavia",
+      "in": "eng"
+    }
+  ]
+}

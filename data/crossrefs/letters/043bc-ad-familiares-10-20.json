@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-20",
+  "refs": [
+    {
+      "from_loc": "3",
+      "to_work": "ad-familiares-10-19",
+      "to_loc": "2",
+      "kind": "self_reference",
+      "certainty": "medium",
+      "note": "Cicero's \"as I have written to you more than once, whoever crushes the remnants of this war will have brought the whole of it to its end\" repeats almost verbatim his maxim of the previous letter (10.19.2), that whoever crushes Antony will have ended the war."
+    }
+  ]
+}

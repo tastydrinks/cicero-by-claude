@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Piraeus",
+      "entity_id": "place:piraeus",
+      "note": "The fortified harbour town some five miles southwest of Athens, the city's port since the fifth century BC; Cicero landed here on his homeward voyage and received Atticus's letter the moment he stepped ashore."
+    },
+    {
+      "loc": "1",
+      "anchor": "the twelfth day before the Kalends of October",
+      "entity_id": null,
+      "note": "Reckoned inclusively in the Roman manner, this is 20 September 50 BC, the day Atticus reached Rome with a fever; the inclusive count makes it twelve, not ten, days before the Kalends (the first) of October."
+    },
+    {
+      "loc": "4",
+      "anchor": "the censors",
+      "entity_id": "office:censor",
+      "note": "The two censors of 50 BC, App. Claudius Pulcher and L. Calpurnius Piso, conducted the census and revised the Senate roll; Cicero is anxious about their high-handed measures, including a proposed sumptuary crackdown on luxury art."
+    },
+    {
+      "loc": "4",
+      "anchor": "the statues and pictures",
+      "entity_id": null,
+      "note": "Signa et tabulae, statues and panel-paintings, were the prized luxury goods of wealthy Roman houses; Cicero wonders whether the censors will bring forward a measure restricting their ownership, a matter touching his own collection."
+    },
+    {
+      "loc": "4",
+      "anchor": "Caesar reaches Placentia with four legions",
+      "entity_id": "person:caesar",
+      "note": "Placentia (modern Piacenza) on the Po was a key town of Cisalpine Gaul; Caesar's moving four legions there in October 50 BC brought his army to the edge of Italy, an ominous prelude to the crossing of the Rubicon in January 49."
+    },
+    {
+      "loc": "4",
+      "anchor": "the citadel at Athens",
+      "entity_id": null,
+      "note": "The arx of Athens is the Acropolis; Cicero plays on the military sense of statio ('guard-post'), wryly casting his stop at Athens as the sentry-station from which he watches the gathering storm at Rome."
+    }
+  ]
+}

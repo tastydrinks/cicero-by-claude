@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "thank you for compelling me to live",
+      "entity_id": null,
+      "note": "A recurring note of the exile letters: Cicero believed Atticus had talked him out of suicide, and oscillates between gratitude and bitter regret at being kept alive. The reproach 'I am bitterly sorry I am alive' echoes through 3.4 and 3.5."
+    },
+    {
+      "loc": "1",
+      "anchor": "come to me at Vibo",
+      "entity_id": "place:vibo-valentia",
+      "note": "Vibo (Vibo Valentia) was a town on the coast of Bruttium in the far south-west of Italy, where Cicero had turned aside on his flight. He summons Atticus there to plan the sea-crossing into exile."
+    }
+  ]
+}

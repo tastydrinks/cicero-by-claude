@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-04",
+  "mentions": [
+    {"loc": "1", "surface": "ab Isidoro", "entity_id": "person:isidorus", "in": "lat"},
+    {"loc": "1", "surface": "de Frusinati", "entity_id": "place:frusino", "in": "lat"},
+    {"loc": "1", "surface": "cetera Celer", "entity_id": "person:q-pilius-celer", "in": "lat"},
+    {"loc": "1", "surface": "a letter from Isidorus", "entity_id": "person:isidorus", "in": "eng"},
+    {"loc": "1", "surface": "the property at Frusino", "entity_id": "place:frusino", "in": "eng"},
+    {"loc": "1", "surface": "The rest Celer will tell", "entity_id": "person:q-pilius-celer", "in": "eng"}
+  ]
+}

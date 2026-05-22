@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "your restoration",
+      "entity_id": "person:q-ligarius",
+      "note": "Ligarius's case became one of Cicero's most celebrated forensic efforts: the Pro Ligario, delivered before Caesar in 46 BC, was a remarkable speech addressed to a single judge who was also the prosecution's patron and the letter-writer here is the advocate preparing the ground."
+    },
+    {
+      "loc": "2",
+      "anchor": "the fifth day before the kalends of the first intercalary month",
+      "note": "The date corresponds to late October 46 BC, in the extra month Caesar's reformed calendar inserted; Cicero records it with precision because the audience with Caesar was a significant event worth fixing in the record."
+    },
+    {
+      "loc": "2",
+      "anchor": "your brothers and kinsmen lay prostrate at his feet",
+      "entity_id": "person:caesar",
+      "note": "Prostration (supplicatio) before a powerful patron in a private petition was an accepted Roman gesture of pleading; that Caesar's reaction was 'gentle and generous' (mollis et liberalis) was the positive signal Cicero was reporting back to Ligarius."
+    },
+    {
+      "loc": "3",
+      "anchor": "not only Caesar but all his friends besides",
+      "entity_id": "person:caesar",
+      "note": "Cicero's strategy was to work Caesar's inner circle — men like Balbus and Oppius — as auxiliary channels of persuasion, a network he deployed systematically for Pompeian exiles throughout 46 BC."
+    }
+  ]
+}

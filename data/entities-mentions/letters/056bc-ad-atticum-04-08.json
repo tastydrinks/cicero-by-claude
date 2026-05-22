@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-08",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Antium", "entity_id": "place:antium", "in": "lat"},
+    {"loc": "1", "surface": "Buthrotum", "entity_id": "place:buthrotum", "in": "lat"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Corcyrae", "entity_id": "place:corcyra", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Antium", "entity_id": "place:antium", "in": "eng"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Buthrotum", "entity_id": "place:buthrotum", "in": "eng"},
+    {"loc": "1", "surface": "Corcyra", "entity_id": "place:corcyra", "in": "eng"},
+    {"loc": "2", "surface": "Tyrannio", "entity_id": "person:tyrannio", "in": "lat"},
+    {"loc": "2", "surface": "Dionysi", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "2", "surface": "Menophili", "entity_id": "person:menophilus-libertus", "in": "lat"},
+    {"loc": "2", "surface": "Tyrannio", "entity_id": "person:tyrannio", "in": "eng"},
+    {"loc": "2", "surface": "Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "eng"},
+    {"loc": "2", "surface": "Menophilus", "entity_id": "person:menophilus-libertus", "in": "eng"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "not to have Vennonius's history",
+      "entity_id": null,
+      "note": "Vennonius was a Roman annalist whose history Cicero elsewhere rates poorly; he wants the volume to consult. No entity record exists for him in this corpus."
+    },
+    {
+      "loc": "1",
+      "anchor": "that debt of mine from Caesar",
+      "entity_id": "person:caesar",
+      "note": "A sum Caesar owed Cicero (or a credit standing in Caesar's name), which Cicero is trying to realise without loss. The three options that follow are ways of recovering or assigning the debt, a recurring financial worry of these years."
+    },
+    {
+      "loc": "1",
+      "anchor": "purchase at the auctioneer's spear",
+      "entity_id": null,
+      "note": "A spear (hasta) planted in the ground marked a public auction, especially of confiscated or state property; \"buying at the spear\" meant acquiring goods this way. Cicero finds the option degrading as well as unprofitable."
+    },
+    {
+      "loc": "1",
+      "anchor": "when will that Metonic year of his come round",
+      "entity_id": null,
+      "note": "Meton of Athens devised a nineteen-year lunisolar cycle; \"a Metonic year\" is Cicero's sardonic way of saying the contractor's one-year term will never actually arrive. The joke turns a long astronomical period into a byword for indefinite delay."
+    }
+  ]
+}

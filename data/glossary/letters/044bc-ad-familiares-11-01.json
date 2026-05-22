@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-01",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "\\textit{legatio libera}",
+      "entity_id": null,
+      "note": "A \"free legation\": a nominal, duty-free embassy that let a senator travel abroad on public business while drawing the privileges of an envoy. Here Decimus Brutus wants it as a respectable cover for leaving Italy."
+    },
+    {
+      "loc": "2",
+      "anchor": "interdicted from water and fire",
+      "entity_id": null,
+      "note": "The Roman formula of outlawry (aquae et ignis interdictio): a decree barring a man from fire and water within Italy, which amounted to a sentence of exile."
+    },
+    {
+      "loc": "4",
+      "anchor": "Sextus Pompeius and Bassus Caecilius",
+      "entity_id": "person:sextus-pompeius",
+      "note": "Sextus Pompeius (Pompey the Great's surviving son) held forces in Spain and the western seas, and Q. Caecilius Bassus held out for the Pompeian cause in Syria; Decimus names them as the only standing armies the assassins might fall back on. \"This news about Caesar\" is the report of the dictator's murder reaching the provinces."
+    }
+  ]
+}

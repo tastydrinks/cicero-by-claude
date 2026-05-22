@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I was away on my journey to Greece",
+      "entity_id": "person:cicero",
+      "note": "In July 44 BC Cicero set sail for Greece intending to wait out the political crisis near his son, then studying at Athens; contrary winds and news that conditions might improve drove him back to Italy, where he plunged into the campaign against Antony."
+    },
+    {
+      "loc": "1",
+      "anchor": "the prospect of your consulship",
+      "entity_id": "person:munatius-plancus",
+      "note": "Plancus had been designated consul for 42 BC (with Decimus Brutus) under Caesar's forward arrangements; Cicero fears the republic may not survive the eighteen-month wait until Plancus takes office."
+    },
+    {
+      "loc": "4",
+      "anchor": "our friend Furnius",
+      "entity_id": "person:furnius",
+      "note": "Gaius Furnius, Plancus's legate in Gaul and his regular courier to Cicero; recommending him to a governor's favour was a routine and valued service in Roman politics."
+    }
+  ]
+}

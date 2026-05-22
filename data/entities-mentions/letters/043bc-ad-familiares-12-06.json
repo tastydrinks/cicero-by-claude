@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-06",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CASSIO", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "CASSIO", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "C. Titio Strabone", "entity_id": "person:c-titius-strabo", "in": "lat"},
+    {"loc": "1", "surface": "C. Titius Strabo", "entity_id": "person:c-titius-strabo", "in": "eng"},
+    {"loc": "2", "surface": "Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "Brutus", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "2", "surface": "Mutinae", "entity_id": "place:mutina", "in": "lat"},
+    {"loc": "2", "surface": "Brutus, at Mutina", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "2", "surface": "Mutina", "entity_id": "place:mutina", "in": "eng"}
+  ]
+}

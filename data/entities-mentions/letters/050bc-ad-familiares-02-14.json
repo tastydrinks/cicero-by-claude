@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-14",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M CAELIO AEDILI CVRVLI",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. Fadio",
+      "entity_id": "person:m-fadius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Romanas",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M CAELIO AEDILI CVRVLI",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Marcus Fadius",
+      "entity_id": "person:m-fadius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Roman affairs",
+      "entity_id": "place:roma",
+      "in": "eng"
+    }
+  ]
+}

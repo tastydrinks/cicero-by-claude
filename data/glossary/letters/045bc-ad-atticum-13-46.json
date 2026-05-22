@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-46",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the Ides of Sextilis",
+      "entity_id": null,
+      "note": "Sextilis was the sixth month of the old Roman year (later renamed August); its Ides fell on the 13th. The Roman calendar counted days backward from the Kalends, Nones, and Ides, so \"the day before the Ides\" is the 12th."
+    },
+    {
+      "loc": "1",
+      "anchor": "a thumb (\\textit{pollex}), not a pointer (\\textit{index})",
+      "entity_id": "person:pollex-servus",
+      "note": "Pollex, a slave of Cicero's used as agent and courier; Cicero puns on his name, which means \"thumb,\" against index, the \"pointing\" forefinger --- the man turned up but pointed nothing out. He is the agent who must enter on the Cluvius inheritance."
+    },
+    {
+      "loc": "2",
+      "anchor": "the one he handed over to Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "M. Aemilius Lepidus, Caesar's master of the horse and the future triumvir, who had received from Balbus a property near Lanuvium. Balbus's largesse to such men is the backdrop to Cicero's own dealings with him."
+    },
+    {
+      "loc": "2",
+      "anchor": "much in it about my",
+      "entity_id": null,
+      "note": "Cicero's Cato, a laudatory pamphlet (the Laus Catonis) written in 45 BC praising Cato Uticensis. Caesar read it repeatedly; Caesar himself answered it with an Anticato. No separate text entity is registered."
+    },
+    {
+      "loc": "2",
+      "anchor": "after reading Brutus's",
+      "entity_id": null,
+      "note": "Brutus likewise composed his own Cato in praise of his uncle; Caesar reports that reading it made him feel eloquent by contrast. No separate text entity is registered."
+    },
+    {
+      "loc": "3",
+      "anchor": "the entry on Cluvius's inheritance",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "note": "M. Cluvius, a wealthy banker of Puteoli who made Cicero an heir; Cicero is arranging the formal acceptance of the bequest. The associated \"Cluvian gardens\" were among the properties Cicero hoped to gain."
+    },
+    {
+      "loc": "3",
+      "anchor": "formal acceptance, with witnesses present, within sixty days",
+      "entity_id": null,
+      "note": "The cretio: a Roman heir had to declare acceptance of an inheritance by a set formula before witnesses, within a fixed period (here sixty days), or forfeit the bequest. Cicero must send an agent to perform it on his behalf."
+    },
+    {
+      "loc": "3",
+      "anchor": "a legacy from T. Hordeonius and to Terentia 50,000 sesterces",
+      "entity_id": "person:t-hordeonius",
+      "note": "Cluvius's will charged his estate with legacies --- one connected with Titus Hordeonius and 50,000 sesterces to Terentia, Cicero's former wife --- but, to Cicero's relief, nothing burdening his own share. The sestertius was the standard Roman unit of account."
+    },
+    {
+      "loc": "3",
+      "anchor": "Plotius the perfumer",
+      "entity_id": null,
+      "note": "An unguentarius (dealer in perfumed oils) named Plotius, whose slaves had carried news to Balbus faster than Cicero's own people brought it to him; the point is the speed of his private courier network, not the man himself. No entity is bound."
+    },
+    {
+      "loc": "3",
+      "anchor": "About Cossinius I am sorry",
+      "entity_id": "person:l-cossinius",
+      "note": "Cicero mourns the recent death of Cossinius, a friend (most likely the Roman eques L. Cossinius linked to Atticus's circle). The binding is by best registry fit and should be confirmed."
+    }
+  ]
+}

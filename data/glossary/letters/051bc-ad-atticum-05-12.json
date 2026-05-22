@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "For you know the Rhodian undecked craft: nothing less able to bear a swell",
+      "entity_id": null,
+      "note": "The aphracta were light, open (undecked) galleys without protective bulwarks, ill-suited to the open Aegean. Cicero island-hopped through the Cyclades --- Ceos, Gyaros, Syros, Delos --- waiting at Delos for calm weather rather than risk a crossing in such vessels."
+    },
+    {
+      "loc": "2",
+      "anchor": "About Messalla I sent off to you a letter the moment I heard the news at Gyaros",
+      "entity_id": "person:m-valerius-messalla-rufus",
+      "note": "M. Valerius Messalla Rufus, consul of 53 BC and nephew of the orator Hortensius, was on trial for electoral bribery (ambitus) in 51 BC. Cicero, anxious for Hortensius who was defending him, awaits news of the verdict."
+    },
+    {
+      "loc": "2",
+      "anchor": "By the time you read this, we shall have consuls",
+      "entity_id": "office:consul",
+      "note": "Cicero reckons that by the time his letter reaches Rome the consular elections for 50 BC will have been held; he is eager for news of how the result bears on Caesar, Pompey, and the pending trials."
+    },
+    {
+      "loc": "3",
+      "anchor": "if Philippus asks anything",
+      "entity_id": "person:l-marcius-philippus-cos56",
+      "note": "L. Marcius Philippus, consul of 56 BC and a villa-neighbour of Cicero, is involved in the property business (a water-right and a pile of bricks) that Cicero asks Atticus to settle at Rome during his absence."
+    }
+  ]
+}

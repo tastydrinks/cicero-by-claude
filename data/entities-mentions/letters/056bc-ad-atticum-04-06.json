@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-06",
+  "mentions": [
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Lentulo", "entity_id": "person:l-cornelius-lentulus-niger", "in": "lat"},
+    {"loc": "1", "surface": "Lentulus", "entity_id": "person:l-cornelius-lentulus-niger", "in": "eng"},
+    {"loc": "1", "surface": "Saufeius", "entity_id": "person:l-saufeius", "in": "lat"},
+    {"loc": "1", "surface": "Saufeius", "entity_id": "person:l-saufeius", "in": "eng"},
+    {"loc": "1", "surface": "me hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "1", "surface": "by Hercules", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "2", "surface": "Σπάρταν", "entity_id": "place:sparta", "in": "lat"},
+    {"loc": "2", "surface": "Sparta", "entity_id": "place:sparta", "in": "eng"},
+    {"loc": "2", "surface": "Philoxeno", "entity_id": "person:philoxenus-poeta", "in": "lat"},
+    {"loc": "2", "surface": "Philoxenus", "entity_id": "person:philoxenus-poeta", "in": "eng"},
+    {"loc": "2", "surface": "Lentulo", "entity_id": "person:l-cornelius-lentulus-niger", "in": "lat"},
+    {"loc": "2", "surface": "Lentulus", "entity_id": "person:l-cornelius-lentulus-niger", "in": "eng"},
+    {"loc": "3", "surface": "Hortensiana", "entity_id": "person:hortensius", "in": "lat"},
+    {"loc": "3", "surface": "Hortensius", "entity_id": "person:hortensius", "in": "eng"},
+    {"loc": "3", "surface": "me hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "3", "surface": "by Hercules", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "4", "surface": "Lucceio", "entity_id": "person:l-lucceius", "in": "lat"},
+    {"loc": "4", "surface": "Lucceius", "entity_id": "person:l-lucceius", "in": "eng"},
+    {"loc": "4", "surface": "Vestorio", "entity_id": "person:c-vestorius", "in": "lat"},
+    {"loc": "4", "surface": "Vestorius", "entity_id": "person:c-vestorius", "in": "eng"}
+  ]
+}

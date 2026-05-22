@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-66",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "P. SERVILIO", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "lat"},
+    {"loc": "1", "surface": "P. SERVILIO", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "eng"},
+    {"loc": "1", "surface": "A. Caecinam", "entity_id": "person:a-caecina-friend", "in": "lat"},
+    {"loc": "1", "surface": "A. Caecina", "entity_id": "person:a-caecina-friend", "in": "eng"},
+    {"loc": "1", "surface": "familiae vestrae", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "lat"},
+    {"loc": "1", "surface": "your family", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "eng"},
+    {"loc": "1", "surface": "patris eius", "entity_id": "person:caecina-volaterranus", "in": "lat"},
+    {"loc": "1", "surface": "his father", "entity_id": "person:caecina-volaterranus", "in": "eng"},
+    {"loc": "2", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "A. Caecinae", "entity_id": "person:a-caecina-friend", "in": "lat"},
+    {"loc": "2", "surface": "A. Caecina's", "entity_id": "person:a-caecina-friend", "in": "eng"},
+    {"loc": "2", "surface": "conlegae tui", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "your colleague", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-11",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "BRVTO", "entity_id": "person:brutus", "in": "both"},
+    {"loc": "1", "surface": "municipes Arpinatis", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "1", "surface": "Arpinum", "entity_id": "place:arpinum", "in": "eng"},
+    {"loc": "1", "surface": "provincia Gallia", "entity_id": "place:gallia-cisalpina", "in": "lat"},
+    {"loc": "1", "surface": "province of Gaul", "entity_id": "place:gallia-cisalpina", "in": "eng"},
+    {"loc": "1", "surface": "Q. Fufidium Q. f.", "entity_id": "person:q-fufidius", "in": "lat"},
+    {"loc": "1", "surface": "Q. Fufidius son of Quintus", "entity_id": "person:q-fufidius", "in": "eng"},
+    {"loc": "1", "surface": "M. Faucium M. f.", "entity_id": "person:m-faucius", "in": "lat"},
+    {"loc": "1", "surface": "M. Faucius son of Marcus", "entity_id": "person:m-faucius", "in": "eng"},
+    {"loc": "1", "surface": "Q. Mamercium Q. f.", "entity_id": "person:q-mamercius", "in": "lat"},
+    {"loc": "1", "surface": "Q. Mamercius son of Quintus", "entity_id": "person:q-mamercius", "in": "eng"},
+    {"loc": "3", "surface": "filium meum", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "3", "surface": "my son", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "3", "surface": "fratris filium", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "3", "surface": "my brother's son", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "3", "surface": "M. Caesium", "entity_id": "person:m-caesius", "in": "lat"},
+    {"loc": "3", "surface": "M. Caesius", "entity_id": "person:m-caesius", "in": "eng"},
+    {"loc": "3", "surface": "aedilem", "entity_id": "office:aedile", "in": "lat"},
+    {"loc": "3", "surface": "aedile", "entity_id": "office:aedile", "in": "eng"}
+  ]
+}

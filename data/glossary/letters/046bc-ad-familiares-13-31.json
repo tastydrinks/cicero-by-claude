@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-31",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO ACILIO PROCONSVLI S.",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "Second consecutive letter to M'. Acilius Glabrio as proconsul of Sicily, commending a different beneficiary. The formula ACILIO PROCONSVLI identifies the same man as in 13.30 and 13.32."
+    },
+    {
+      "loc": "1",
+      "anchor": "an honourable and distinguished Roman knight",
+      "entity_id": "person:c-flavius-eques",
+      "note": "Gaius Flavius is described as honestus et ornatus eques Romanus --- standard commendatory language for a Roman knight (equestrian) of good standing; the phrase ornatus implies that he holds public distinctions beyond mere wealth-qualification, perhaps local offices or public honours."
+    },
+    {
+      "loc": "1",
+      "anchor": "for he was on the closest terms with my son-in-law, Gaius Piso",
+      "entity_id": "person:c-piso-frugi-son-in-law",
+      "note": "Cicero's son-in-law Gaius Calpurnius Piso Frugi married Tullia around 63 BC and died in 57 BC; the fact that Cicero still mentions the connection shows it remained socially operative even after Piso's death. The shared tie to the deceased Piso is Cicero's way of vouching for the depth of the friendship."
+    },
+    {
+      "loc": "1",
+      "anchor": "both he and his brother Lucius Flavius show me marked attention",
+      "entity_id": "person:l-flavius-eques",
+      "note": "Lucius Flavius, brother of Gaius Flavius, is otherwise unknown but is noted in the entity index (person:l-flavius-eques); the brothers appear to be a well-connected equestrian family with business interests in Sicily under the proconsul's jurisdiction."
+    }
+  ]
+}

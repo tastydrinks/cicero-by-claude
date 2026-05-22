@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "how great a weight your authority has always carried with me",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "Marcellus's own reply, written from Mytilene in October 46 BC, answering Cicero's run of letters (Fam. 4.7-4.10). He concedes that Cicero's auctoritas finally overcame his reluctance to accept Caesar's pardon and return from exile."
+    },
+    {
+      "loc": "1",
+      "anchor": "When my brother Gaius Marcellus, who loves me most warmly",
+      "entity_id": "person:c-claudius-marcellus-cos50",
+      "note": "C. Claudius Marcellus, consul 50 BC (his cousin, called frater), had pleaded for the recall both by counsel and by his famous tearful supplication of Caesar in the Senate; yet Marcellus says even that did not persuade him until Cicero's letters tipped the balance."
+    },
+    {
+      "loc": "1",
+      "anchor": "until your letter brought it about that the counsel I followed was, before all else, yours and his",
+      "entity_id": "person:caesar",
+      "note": "\"How the affair was managed\" alludes to the Senate session of September 46 BC, when Caesar, moved by the appeals of C. Marcellus and the whole house, granted his pardon — the moment that prompted Cicero's speech of thanks, the Pro Marcello."
+    },
+    {
+      "loc": "1",
+      "anchor": "out of the very small number of friends, kinsmen, and connections who truly favoured my restoration",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "Marcellus's pointed remark on the smallness of his loyal circle reflects the bitterness of exile: he singles out Cicero as the most eager and warm-hearted of the few who genuinely worked for his return (salus, here \"restoration\")."
+    }
+  ]
+}

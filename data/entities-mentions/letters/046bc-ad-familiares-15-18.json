@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-18",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "C. CASSIO", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "M. Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. Cassio", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "Platonis", "entity_id": "person:plato", "in": "lat"},
+    {"loc": "1", "surface": "Plato", "entity_id": "person:plato", "in": "eng"},
+    {"loc": "2", "surface": "Hispania", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "2", "surface": "Spain", "entity_id": "place:hispania", "in": "eng"}
+  ]
+}

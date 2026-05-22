@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-06",
+  "mentions": [
+    {"loc": "1", "surface": "Tarentum", "entity_id": "place:tarentum", "in": "lat"},
+    {"loc": "1", "surface": "Pomptinum", "entity_id": "person:c-pomptinus", "in": "lat"},
+    {"loc": "1", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Tarentum", "entity_id": "place:tarentum", "in": "eng"},
+    {"loc": "1", "surface": "Pomptinus", "entity_id": "person:c-pomptinus", "in": "eng"},
+    {"loc": "1", "surface": "Pompey's", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Caesar's", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

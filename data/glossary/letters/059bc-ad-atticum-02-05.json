@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "see Alexandria and the rest of Egypt",
+      "entity_id": null,
+      "note": "A commission to Egypt (probably tied to confirming Ptolemy Auletes on his throne, or to the Egyptian land question raised under Caesar's agrarian law) was being dangled before Cicero. He longs to go yet fears the political cost of accepting a favour from the coalition."
+    },
+    {
+      "loc": "1",
+      "anchor": "with these as the senders",
+      "entity_id": null,
+      "note": "\"These\" are the men of the coalition --- Caesar, Pompey and Crassus --- whose offer of the Egyptian mission Cicero is too proud to accept lest he seem bought."
+    },
+    {
+      "loc": "1",
+      "anchor": "Theophanes",
+      "entity_id": "person:theophanes",
+      "note": "Theophanes of Mytilene, the Greek historian and intimate adviser of Pompey, often Pompey's go-between. If he sounds Cicero out about the Egyptian commission, Cicero says, do not flatly rebuff him."
+    },
+    {
+      "loc": "2",
+      "anchor": "since Nepos is setting out, on whom the augurate is being conferred",
+      "entity_id": "office:augur",
+      "note": "Q. Caecilius Metellus Nepos was leaving to govern Nearer Spain, vacating his place in the college of augurs. Cicero, who coveted a priesthood, admits this single prospect could still tempt him back into the politics he claims to renounce."
+    }
+  ]
+}

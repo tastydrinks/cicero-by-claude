@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "at the Anagninum",
+      "entity_id": "place:anagnia",
+      "note": "The territory of Anagnia, a town of the Hernici in Latium on the Via Latina, southeast of Rome; Cicero is breaking his journey home at properties along the road. The \"-inum\" form names the estate or district rather than the town itself."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the fifth before the Kalends",
+      "entity_id": null,
+      "note": "The Roman calendar counted backward (inclusively) from three fixed points each month: the Kalends (1st), the Nones (5th or 7th), and the Ides (13th or 15th). \"The fifth before the Kalends\" thus means the 28th of the preceding month by our reckoning."
+    },
+    {
+      "loc": "2",
+      "anchor": "the morning fire is",
+      "entity_id": null,
+      "note": "Atticus had joked that wanting a fire lit first thing in the morning was a sign of old age; Cicero, quoting his Greek word for it, retorts that a failing memory is the more telling symptom. The exchange is light banter between two men in their sixties."
+    }
+  ]
+}

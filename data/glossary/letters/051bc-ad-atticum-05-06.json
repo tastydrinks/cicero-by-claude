@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I reached Tarentum on the 18th of May",
+      "entity_id": null,
+      "note": "The Latin dates the arrival to the fifteenth day before the Kalends of June (a. d. xv Kal. Iunias), reckoned inclusively as 18 May 51 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "I press you about Caesar's debt --- leave the business settled",
+      "entity_id": "person:caesar",
+      "note": "Cicero had lent money to Caesar (or borrowed against him) and wants the account closed before leaving for his province; he repeatedly urges Atticus to wind up this obligation while Caesar is solvent and well-disposed."
+    }
+  ]
+}

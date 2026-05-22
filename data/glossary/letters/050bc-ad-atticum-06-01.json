@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-06-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the fifth day before the Terminalia",
+      "entity_id": "festival:terminalia",
+      "note": "The Terminalia, festival of the boundary-god Terminus, fell on 23 February; reckoned inclusively the fifth day before it is 19 February 50 BC, the day Cicero received the letter at Laodicea."
+    },
+    {
+      "loc": "3",
+      "anchor": "thirty-three Attic talents",
+      "entity_id": null,
+      "note": "The Attic talent was a large Greek unit of silver worth roughly 24,000 sesterces; King Ariobarzanes was paying Pompey about 33 such talents every month merely to service the interest on his debt."
+    },
+    {
+      "loc": "4",
+      "anchor": "as Scaevola did in place of Glabrio",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "note": "A legal exemplum: in a guardianship (tutela) Q. Mucius Scaevola took over from M'. Glabrio and renounced claiming the interest and principal, the model Cicero invokes for declining to enforce Brutus's harsh loan."
+    },
+    {
+      "loc": "4",
+      "anchor": "those prefectures I had promised Brutus",
+      "entity_id": null,
+      "note": "A praefectura was an honorary post in a governor's cohort carrying imperium-backed authority; businessmen coveted it to deploy troops and coercion in collecting debts, which is why Cicero refused to grant it to active moneylenders."
+    },
+    {
+      "loc": "5",
+      "anchor": "they should pay at twelve percent compounded over two years",
+      "entity_id": null,
+      "note": "Cicero's edict capped interest at the legal Roman maximum of one percent a month (centesimae usurae, twelve percent a year), compounded only once annually; Scaptius by contrast demanded forty-eight percent, four times the legal rate."
+    },
+    {
+      "loc": "5",
+      "anchor": "a community that had been placed under the protection of Cato and of Brutus himself",
+      "entity_id": null,
+      "note": "Salamis in Cyprus, where Brutus's agents had besieged the local senate to extort repayment; Cyprus had passed under Roman administration in 58 BC on the motion carried by Cato, who had organised the island, hence its protected standing."
+    },
+    {
+      "loc": "6",
+      "anchor": "had besieged the Salamis senate, penned in the senate-house, until five senators died of starvation",
+      "entity_id": null,
+      "note": "Scaptius, as Appius's prefect, had used cavalry to blockade the council-chamber of Salamis to force repayment of Brutus's loan; the deaths of five councillors became the notorious illustration of provincial debt-collection abuse."
+    },
+    {
+      "loc": "7",
+      "anchor": "what is to become of them if Paulus comes out here",
+      "entity_id": "person:l-aemilius-paulus-cos50",
+      "note": "L. Aemilius Paullus, consul of 50 BC, was a likely successor to the province; Cicero fears a less scrupulous governor would let the Salaminians' deposited money be seized for the full inflated interest."
+    },
+    {
+      "loc": "8",
+      "anchor": "with six books, as it were as sureties, I have bound myself",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "The six books are Cicero's De Re Publica, in which Scipio Aemilianus (Africanus the Younger) is the chief speaker; Cicero treats the work's high ideals of provincial government as a public bond he must now live up to."
+    },
+    {
+      "loc": "8",
+      "anchor": "the scribe Gn. Flavius published the calendar and drew up the forms of legal action",
+      "entity_id": "person:cn-flavius-scriba",
+      "note": "Cn. Flavius, curule aedile in 304 BC, published the hitherto-secret fasti (the calendar of lawful court days) and the legis actiones (forms of pleading), breaking the patrician monopoly on legal knowledge; this body of published procedure is the ius Flavianum."
+    },
+    {
+      "loc": "8",
+      "anchor": "As to my being saluted Imperator",
+      "entity_id": "office:imperator",
+      "note": "Imperator was the honorific acclamation given by his troops to a victorious commander, the precondition for seeking a triumph; Cicero had been so saluted after his Cilician campaign at Pindenissus."
+    },
+    {
+      "loc": "12",
+      "anchor": "investing with the plain toga at the Liberalia",
+      "entity_id": "festival:liberalia",
+      "note": "The toga virilis (plain white toga of manhood) was assumed by a boy at a ceremony customarily held on the Liberalia, the festival of Liber Pater on 17 March, marking his coming of age."
+    },
+    {
+      "loc": "12",
+      "anchor": "as though there were no intercalation",
+      "entity_id": null,
+      "note": "Before Caesar's calendar reform the pontiffs irregularly inserted an intercalary month to realign the year; Cicero means he will keep the festival on its proper traditional date regardless of whether such a month had been added."
+    },
+    {
+      "loc": "14",
+      "anchor": "the Asiatic edict of Q. Mucius P. f.",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "note": "Q. Mucius Scaevola the Pontifex, as governor of Asia (c. 97 BC), issued a famously fair provincial edict that became the model for upright administration; Cicero modelled his own Cilician edict closely upon it."
+    },
+    {
+      "loc": "14",
+      "anchor": "about contracts",
+      "entity_id": null,
+      "note": "The Latin is syngraphae, the formal written bonds (Greek-style debt-contracts) governing provincial loans such as the Salaminian one; Cicero's edict laid down rules for honouring or contesting them."
+    },
+    {
+      "loc": "16",
+      "anchor": "the interest on their contracts which they had written into the agreements, even Servilius respected",
+      "entity_id": "person:p-servilius-vatia-isauricus",
+      "note": "P. Servilius Vatia Isauricus, an earlier governor of upright reputation, had upheld the interest rates the tax-farmers (publicani) wrote into their collection-contracts; Cicero cites him as precedent for indulging the publicani without injustice to the Greeks."
+    },
+    {
+      "loc": "17",
+      "anchor": "near the temple of Ops",
+      "entity_id": "place:aedes-opis",
+      "note": "The temple of the goddess Ops at Rome; Atticus had set up there, in a lofty position, a statue of Scipio Africanus the Younger inscribed only 'consul', proving (against Metellus Scipio's belief) that the man had never been censor."
+    },
+    {
+      "loc": "25",
+      "anchor": "fifty Attic talents",
+      "entity_id": null,
+      "note": "About 1.2 million sesterces; Cicero teases Atticus for extracting this large sum from Caesar (through the agent Herodes) for some Athenian project, which earned Atticus Pompey's resentment."
+    },
+    {
+      "loc": "25",
+      "anchor": "if Curio carries the law, he will have to pay a hundred sesterces a head",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "Curio, tribune in 50 BC, was promoting a measure (apparently a sumptuary or road bill) that would tax conveyances and retinues; Cicero jokes that Vedius's lavish travelling household would be ruinously assessed under it."
+    },
+    {
+      "loc": "26",
+      "anchor": "at Eleusis",
+      "entity_id": "place:eleusis",
+      "note": "A propylaeum is a monumental gateway; Appius Claudius Pulcher, an initiate, was financing one for the sanctuary of the Eleusinian Mysteries near Athens, prompting Cicero's half-joking wish to build one for the Academy."
+    },
+    {
+      "loc": "26",
+      "anchor": "The seven hundred and sixty-fifth day after the battle of Leuctra",
+      "entity_id": "event:battle-of-leuctra",
+      "note": "A mock-antiquarian dating: the battle of Leuctra (371 BC), Thebes's defeat of Sparta, was a famous chronological landmark, and Cicero playfully reckons his letter's date from it instead of by the Roman calendar."
+    }
+  ]
+}

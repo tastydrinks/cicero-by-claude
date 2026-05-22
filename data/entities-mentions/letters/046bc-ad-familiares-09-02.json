@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-02",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO VARRONI",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO VARRONI",
+      "entity_id": "person:m-terentius-varro",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO VARRONI",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO VARRONI",
+      "entity_id": "person:m-terentius-varro",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caninius",
+      "entity_id": "person:l-caninius-gallus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "e Tusculano",
+      "entity_id": "place:tusculum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Caninius",
+      "entity_id": "person:l-caninius-gallus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Caninio",
+      "entity_id": "person:l-caninius-gallus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Caninius",
+      "entity_id": "person:l-caninius-gallus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Tusculum",
+      "entity_id": "place:tusculum",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caninius came to me in the morning",
+      "entity_id": "person:l-caninius-gallus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "I handed that very letter to Caninius",
+      "entity_id": "person:l-caninius-gallus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Lynceus",
+      "entity_id": "person:lynceus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "lynx-eyed",
+      "entity_id": "person:lynceus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "victoris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "the victor",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "ad Baias",
+      "entity_id": "place:baiae",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Baiae",
+      "entity_id": "place:baiae",
+      "in": "eng"
+    }
+  ]
+}

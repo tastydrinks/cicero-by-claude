@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-22",
+  "mentions": [
+    {"loc": "1", "surface": "certior a Pilia factus", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "1", "surface": "me hinc Arpinum", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "1", "surface": "ante quam Romam venio", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "meus vero discipulus", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "quem Brutus noster sauciavit", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "illum quem Brutus noster sauciavit", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "clarissimum virum interfectum", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Having been told by Pilia", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "1", "surface": "leaving here for Arpinum", "entity_id": "place:arpinum", "in": "eng"},
+    {"loc": "1", "surface": "before I come to Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "my own pupil", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "1", "surface": "our Brutus wounded", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "the man whom our Brutus wounded", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "a most illustrious man has been murdered", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "si Pompeius cum exercitu firmo veniat", "entity_id": "person:sextus-pompeius", "in": "lat"},
+    {"loc": "2", "surface": "me Idus Martiae non tam consolantur", "entity_id": "event:ides-of-march", "in": "lat"},
+    {"loc": "2", "surface": "ne in senatu Kalendis", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "tutius quam in senatu fore", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "if Pompeius arrives with a strong army", "entity_id": "person:sextus-pompeius", "in": "eng"},
+    {"loc": "2", "surface": "the Ides of March do not console me", "entity_id": "event:ides-of-march", "in": "eng"},
+    {"loc": "2", "surface": "not to be in the Senate on the Kalends", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "safer anywhere than in the Senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

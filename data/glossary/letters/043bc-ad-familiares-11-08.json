@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "D. BRVTO IMP. COS. DESIG.",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Decimus Brutus is addressed with his titles: IMP. (imperator, the soldiers' acclamation won by his defense of Mutina) and COS. DESIG. (consul-designate, named for 42 BC). The salutation formula S. D. is salutem dicit, \"sends greetings.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "as before you freed the republic from a king, so now you will free it from kingship",
+      "entity_id": null,
+      "note": "A pointed play on rex (king) and regnum (kingship): the first \"king\" is the dictator Caesar, whom Decimus helped assassinate; the \"kingship\" now to be overthrown is Antony's bid for autocratic power."
+    },
+    {
+      "loc": "2",
+      "anchor": "A levy is being held at Rome and throughout all Italy",
+      "entity_id": null,
+      "note": "The dilectus was the conscription of troops; Cicero stresses that in the crisis of 43 BC men were volunteering rather than waiting to be enrolled."
+    }
+  ]
+}

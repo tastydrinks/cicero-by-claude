@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-21",
+  "notes": [
+    {"loc": "2", "anchor": "our little writings", "entity_id": null, "note": "Litterulae nostrae: Cicero's affectionate diminutive for his literary work, the refuge to which he withdrew under Caesar's dominance in 46 BC. The same consolation through study he urges on the ailing Mescinius."},
+    {"loc": "2", "anchor": "he whom you never loved", "entity_id": "person:caesar", "note": "An unnamed reference to Julius Caesar, whose envy (invidia) Cicero blames for thwarting the concord of the orders he had built. The periphrasis spares Cicero from naming the man now master of the state."},
+    {"loc": "2", "anchor": "that consensus of good men which I myself had brought into being", "entity_id": null, "note": "The consensus bonorum (or concordia ordinum), the alliance of senators and equestrians Cicero claimed to have forged in his consulship of 63 BC and regarded as his chief political achievement. He laments that armed force proved stronger than this consensus."},
+    {"loc": "3", "anchor": "my waiting on the African news", "entity_id": "place:africa", "note": "In spring 46 BC Cicero awaited word of Caesar's campaign against the Pompeian remnant in Africa, decided at the battle of Thapsus (April 46 BC). The outcome would settle the fate of the surviving republican cause and, Cicero feared, his own."}
+  ]
+}

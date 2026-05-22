@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-04",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "both"
+    },
+    {
+      "loc": "1",
+      "surface": "P. LENTVLO PROCOS.",
+      "entity_id": "person:lentulus-spinther",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "P. LENTVLO PROCOS.",
+      "entity_id": "person:lentulus-spinther",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "senatu",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Bibuli",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Volcaci",
+      "entity_id": "person:l-volcacius-tullus-cos66",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Volcacius",
+      "entity_id": "person:l-volcacius-tullus-cos66",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "frequenti senatu",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "a full Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "causam regiam",
+      "entity_id": "person:ptolemy-auletes",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "the royal cause",
+      "entity_id": "person:ptolemy-auletes",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Curionem",
+      "entity_id": "person:c-curio-cos",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Curio",
+      "entity_id": "person:c-curio-cos",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Bibulum",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caninius",
+      "entity_id": "person:l-caninius-gallus",
+      "in": "both"
+    },
+    {
+      "loc": "1",
+      "surface": "Cato",
+      "entity_id": "person:c-porcius-cato-tr56",
+      "in": "both"
+    },
+    {
+      "loc": "1",
+      "surface": "comitia",
+      "entity_id": "institution:comitia-centuriata",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "the elections",
+      "entity_id": "institution:comitia-centuriata",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "senatus",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "The Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "legem Pupiam",
+      "entity_id": "law:lex-pupia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "the Lex Pupia",
+      "entity_id": "law:lex-pupia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "populi Romani",
+      "entity_id": "institution:populus-romanus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the Roman people's",
+      "entity_id": "institution:populus-romanus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Alexandriam",
+      "entity_id": "place:alexandria",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Alexandria",
+      "entity_id": "place:alexandria",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "senatu",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "populi nomine",
+      "entity_id": "institution:populus-romanus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "in the people's name",
+      "entity_id": "institution:populus-romanus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "tribunorum",
+      "entity_id": "office:tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "tribunes",
+      "entity_id": "office:tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "senatus",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "populi Romani",
+      "entity_id": "institution:populus-romanus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "the Roman people",
+      "entity_id": "institution:populus-romanus",
+      "in": "eng"
+    }
+  ]
+}

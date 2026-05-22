@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I am sitting as judge between our friend Nicias and Vidius",
+      "entity_id": "person:curtius-nicias",
+      "note": "Curtius Nicias of Cos was a learned Greek grammarian and Homeric critic, a witty parasite welcome at the tables of Cicero and Dolabella. Here Cicero, sitting as a private arbiter (iudex), must decide a money dispute between Nicias and one Vidius over a record of debt."
+    },
+    {
+      "loc": "1",
+      "anchor": "the other, a second Aristarchus, marks them with an obelus",
+      "entity_id": "person:aristarchus-grammaticus",
+      "note": "Cicero turns the lawsuit into a literary joke: Aristarchus of Samothrace was the great Alexandrian editor of Homer who marked spurious or doubtful verses with an obelus (a dagger-like sign). Vidius, disputing the two lines of Nicias's account-book, plays the role of an Aristarchus athetizing verses, and Cicero the critic who must judge whether they are genuine."
+    },
+    {
+      "loc": "2",
+      "anchor": "Bursa Plancus may be left without anyone he can take his lessons from",
+      "entity_id": "person:t-munatius-plancus-bursa",
+      "note": "T. Munatius Plancus Bursa, tribune in 52 BC, had incited the riots after Clodius's death and was prosecuted and convicted by Cicero, becoming a personal enemy; pardoned by Caesar, he was back in Rome. Cicero jokes that he must not let the grammarian Nicias be condemned, lest the ill-educated Bursa lose his only available teacher."
+    },
+    {
+      "loc": "3",
+      "anchor": "the people were strongly agitated over the death of P. Sulla",
+      "entity_id": "person:sulla-defendant",
+      "note": "Publius Cornelius Sulla, nephew of the dictator and Cicero's client in the Pro Sulla (62 BC), was a notorious Caesarian profiteer who grew rich buying confiscated property at auction. His death in 45 BC caused a public stir; Cicero's mock-anxiety below is that the demand at Caesar's confiscation-auctions might slacken without him."
+    },
+    {
+      "loc": "3",
+      "anchor": "Caesar's auction-spear may have cooled",
+      "entity_id": "person:caesar",
+      "note": "The hasta (spear) planted in the ground was the traditional sign of a public auction; Caesar used such auctions to sell off the confiscated estates of his defeated opponents. Cicero's grim joke is that with the great bidder P. Sulla dead, prices at Caesar's sales of the proscribed may fall off."
+    }
+  ]
+}

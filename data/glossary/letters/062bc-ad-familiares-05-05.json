@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "those of recommendation",
+      "entity_id": null,
+      "note": "Litterae commendaticiae: formal letters of recommendation, a routine instrument of Roman patronage by which a man asked a powerful friend to favour a third party. Cicero notes he had meant to send Antonius only these, to keep up appearances despite their cooled friendship."
+    },
+    {
+      "loc": "1",
+      "anchor": "Titus Pomponius",
+      "entity_id": "person:atticus",
+      "note": "T. Pomponius Atticus, Cicero's lifelong intimate, here travelling to Antonius (then governing Macedonia) on business of his own. The whole letter is built around commending Atticus's affairs to Antonius."
+    },
+    {
+      "loc": "2",
+      "anchor": "that very word which men say is wont to be falsely turned against me",
+      "entity_id": null,
+      "note": "The verb comperisse (``I have ascertained''), which Cicero used of his evidence against the Catilinarian conspirators and which his enemies mockingly threw back at him as a sign of overreach. He pointedly avoids it here even while hinting at Antonius's disloyalty."
+    }
+  ]
+}

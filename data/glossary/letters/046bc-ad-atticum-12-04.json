@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-04",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "But on Cato the case is",
+      "entity_id": "person:cato-minor",
+      "note": "Cicero is composing his Cato, a eulogy of M. Porcius Cato (Uticensis), who took his own life at Utica in 46 BC rather than live under Caesar. The \"Archimedean problem\" is how to praise Cato's republican constancy without giving fatal offence to the Caesarians."
+    },
+    {
+      "loc": "2",
+      "anchor": "what your dinner-companions could read",
+      "entity_id": null,
+      "note": "Cicero means Atticus's Caesarian friends, who would take any honest praise of Cato as an attack on the regime. The remark gauges how politically charged the Cato project is."
+    },
+    {
+      "loc": "2",
+      "anchor": "acceptable to Aledius",
+      "entity_id": "person:aledius",
+      "note": "Aledius was a go-between in Cicero's circle, named here as a touchstone for what the Caesarian side would tolerate. Treating him as the measure of acceptable opinion is faintly mocking."
+    }
+  ]
+}

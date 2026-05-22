@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-27",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "What I am after is a frequented spot",
+      "entity_id": null,
+      "note": "Celebritas --- a much-visited, public location --- is precisely what Cicero wants for Tullia's shrine, so that her memory will stay before the eyes of the city. This is why a cramped plot at busy Ostia could serve where a secluded estate would not."
+    },
+    {
+      "loc": "3",
+      "anchor": "where he is waiting for Pansa",
+      "entity_id": "person:brutus",
+      "note": "Marcus Brutus was governor of Cisalpine Gaul in 46--45 BC and was expected to hand the province over to his successor Vibius Pansa. Cicero, dreading a visit from Brutus on his way back to Rome, is tracking his movements so he can contrive an excuse to avoid the meeting in his grief."
+    }
+  ]
+}

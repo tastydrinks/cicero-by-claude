@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-47",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Agamemnon",
+      "entity_id": "person:atticus",
+      "note": "A playful epithet for Atticus, cast as the Homeric commander-in-chief whose orders Cicero leaps to obey. The conceit suits Atticus's habit of issuing literary commissions to his friend."
+    },
+    {
+      "loc": "1",
+      "anchor": "roughed out what you had ordered",
+      "entity_id": null,
+      "note": "Edolavi, literally \"I hewed/planed it into shape,\" a carpenter's metaphor: Cicero says he hastily drafted the piece Atticus had requested. The image is of rough joinery, not polished work."
+    },
+    {
+      "loc": "1",
+      "anchor": "the day after the Ides",
+      "entity_id": null,
+      "note": "The Ides fell on the 13th in most months (the 15th in March, May, July, and October); \"the day after\" thus dates Dolabella's expected visit by the standard Roman reckoning."
+    },
+    {
+      "loc": "1",
+      "anchor": "What a tiresome schoolmaster!",
+      "entity_id": "person:dolabella",
+      "note": "Cicero groans at Dolabella, who came to him for instruction in rhetoric and declamation; the \"schoolmaster\" jest inverts their roles, since it is the pupil who imposes on the teacher's time."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-30",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "GALBA CICERONI S.",
+      "entity_id": "person:servius-sulpicius-galba",
+      "note": "Servius Sulpicius Galba, one of Caesar's assassins and an ancestor of the emperor Galba; his eyewitness dispatch is the fullest surviving account of the battle of Forum Gallorum (14 April 43 BC)."
+    },
+    {
+      "loc": "1",
+      "anchor": "a portion of the re-enrolled veterans",
+      "entity_id": null,
+      "note": "Renders evocati: time-served legionaries recalled to the standards individually, who served as a seasoned elite outside the regular legionary structure."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Martian Legion (which I used to command)",
+      "entity_id": "unit:legio-martia",
+      "note": "The Legio Martia, one of two legions that deserted Antony for the Republican side in late 44 BC; it formed the shock element of the consular army and bore the brunt of the fighting at Forum Gallorum."
+    },
+    {
+      "loc": "4",
+      "anchor": "On the Aemilian Way itself",
+      "entity_id": "place:via-aemilia",
+      "note": "The Via Aemilia, the great trunk road of Cisalpine Gaul running from Ariminum through Forum Gallorum to Placentia; the fighting was strung out along its line east of Mutina."
+    },
+    {
+      "loc": "4",
+      "anchor": "at the fourth hour of the night",
+      "entity_id": null,
+      "note": "Roman timekeeping divided night and day each into twelve hours; the fourth hour of the night falls roughly four hours after sunset."
+    },
+    {
+      "loc": "5",
+      "anchor": "Two eagles, sixty standards, of Antony's have been brought in",
+      "entity_id": null,
+      "note": "The aquila (eagle) was the sacred standard of a whole legion; its capture, with sixty lesser unit standards (signa), measures the scale of Antony's defeat."
+    }
+  ]
+}

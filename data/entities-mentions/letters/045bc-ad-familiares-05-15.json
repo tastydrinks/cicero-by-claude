@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-15",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "L. LVCCEIO Q. F.", "entity_id": "person:l-lucceius", "in": "both"},
+    {"loc": "2", "surface": "Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "2", "surface": "Tusculum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "Puteolano", "entity_id": "place:puteoli", "in": "lat"},
+    {"loc": "2", "surface": "Puteoli", "entity_id": "place:puteoli", "in": "eng"},
+    {"loc": "2", "surface": "urbe", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "the city", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "forum", "entity_id": "place:forum-romanum", "in": "lat"},
+    {"loc": "2", "surface": "the Forum", "entity_id": "place:forum-romanum", "in": "eng"},
+    {"loc": "4", "surface": "fori", "entity_id": "place:forum-romanum", "in": "lat"},
+    {"loc": "4", "surface": "the Forum", "entity_id": "place:forum-romanum", "in": "eng"},
+    {"loc": "4", "surface": "curiae", "entity_id": "place:senate-curia", "in": "lat"},
+    {"loc": "4", "surface": "the Senate-house", "entity_id": "place:senate-curia", "in": "eng"}
+  ]
+}

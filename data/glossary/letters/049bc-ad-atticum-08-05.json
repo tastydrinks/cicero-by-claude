@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the eighth day before the Kalends",
+      "entity_id": null,
+      "note": "By the Roman inclusive reckoning, the eighth day before the Kalends of March, i.e. 22 February 49 BC; this dates the previous letter (8.4) on Dionysius. Romans counted backwards from the Kalends (the first of the month) inclusively."
+    },
+    {
+      "loc": "1",
+      "anchor": "Dionysius himself came to me",
+      "entity_id": "person:m-pomponius-dionysius",
+      "note": "After his furious refusal in 8.4, the tutor Dionysius turns up in person at Formiae, prompted (Cicero guesses) by a rebuke from Atticus. The reconciliation is grudging: Cicero has already slipped a sharp letter to him into the packet and now wants it intercepted."
+    },
+    {
+      "loc": "1",
+      "anchor": "from the third milestone",
+      "entity_id": null,
+      "note": "Roman roads were marked with stone milestones counted from a city; \"the third milestone\" means three Roman miles out from town, where Dionysius is reported to have ridden off cursing. The detail places the scene on the road away from Cicero's villa."
+    },
+    {
+      "loc": "1",
+      "anchor": "tossing his horns idly into the air in his rage",
+      "entity_id": null,
+      "note": "A Greek tag (Iliadic in flavour) likening the raging Dionysius to a bull goring the empty air; Cicero quotes it to mock the man's impotent fury. He glosses it himself with \"upon his own head, as the saying goes.\""
+    },
+    {
+      "loc": "2",
+      "anchor": "the Corfinium business",
+      "entity_id": "place:corfinium",
+      "note": "Corfinium, a stronghold of the Paeligni, was where L. Domitius Ahenobarbus was besieged by Caesar in February 49; its fall (and Caesar's celebrated clemency to the captured Pompeians) was the decisive event of the campaign in Italy. Cicero is in suspense because, as he says, the safety of the state hangs on it."
+    },
+    {
+      "loc": "2",
+      "anchor": "the packet inscribed to M'. Curius",
+      "entity_id": "person:mn-curius-patrensis",
+      "note": "Manius Curius, a Roman banker settled at Patrae in Greece and an old friend of both Cicero and Atticus. Cicero is routing correspondence and his secretary Tiro's expenses through Curius, anticipating his own possible crossing eastward."
+    }
+  ]
+}

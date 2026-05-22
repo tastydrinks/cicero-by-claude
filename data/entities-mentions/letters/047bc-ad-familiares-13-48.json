@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-48",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. SEXTILIO RVFO QVAESTORI", "entity_id": "person:sextilius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "C. SEXTILIO RVFO QVAESTORI", "entity_id": "person:sextilius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "Cyprios", "entity_id": "place:cyprus", "in": "lat"},
+    {"loc": "1", "surface": "the Cypriots", "entity_id": "place:cyprus", "in": "eng"},
+    {"loc": "1", "surface": "Paphios", "entity_id": "place:paphos", "in": "lat"},
+    {"loc": "1", "surface": "the people of Paphos", "entity_id": "place:paphos", "in": "eng"},
+    {"loc": "1", "surface": "P. Lentuli", "entity_id": "person:p-lentulus-spinther", "in": "lat"},
+    {"loc": "1", "surface": "Publius Lentulus", "entity_id": "person:p-lentulus-spinther", "in": "eng"}
+  ]
+}

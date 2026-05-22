@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-41",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I have decided to stay the day after the Ides at Lanuvium",
+      "entity_id": null,
+      "note": "The Ides fell on the 13th of most months (the 15th in March, May, July, October); \"the day after the Ides\" of May 45 BC is thus 16 May. Romans habitually dated movements by the Kalends, Nones, and Ides rather than by a running day-count."
+    },
+    {
+      "loc": "2",
+      "anchor": "first, Scapula's place; then Clodia's",
+      "entity_id": null,
+      "note": "Cicero ranks the suburban gardens he covets for Tullia's shrine in order of preference: the Scapula gardens first, then those of Clodia, then Silius's, then (if Drusus proves difficult) Cusinius's and Trebonius's. The list is the fullest single survey of the properties in the whole shrine-hunt."
+    },
+    {
+      "loc": "2",
+      "anchor": "then Clodia's",
+      "entity_id": "person:clodia",
+      "note": "The horti Clodiani belonged to Clodia, the notorious sister of P. Clodius Pulcher (the \"Lesbia\" of Catullus and Cicero's target in the Pro Caelio). By 45 BC she is simply a wealthy garden-owner whose riverside property Cicero would consider for the shrine."
+    },
+    {
+      "loc": "2",
+      "anchor": "I know for certain that Rebilus was one",
+      "entity_id": "person:caninius-rebilus",
+      "note": "Caninius Rebilus --- famous as Caesar's consul \"for a few hours\" on the last day of 45 BC --- had been a previous owner of one of these gardens. Cicero cites him to establish the property's chain of ownership."
+    },
+    {
+      "loc": "2",
+      "anchor": "but all the same I have been seized with greed about the shrine",
+      "entity_id": null,
+      "note": "The fanum is the shrine for the deified Tullia; Cicero confesses an almost obsessive eagerness (cupiditas) to see it begun. Securing a site for it has become, as he says below, the one true relief left to him."
+    },
+    {
+      "loc": "4",
+      "anchor": "a kind of preliminary sketch",
+      "entity_id": null,
+      "note": "Cicero borrows the artist's term proplasma (Greek), the rough model a sculptor makes before the finished work, to describe Hirtius's pamphlet as a draft anticipating Caesar's fuller attack on Cato. The metaphor casts Caesar's Anticato as the finished piece for which Hirtius's was the trial model."
+    }
+  ]
+}

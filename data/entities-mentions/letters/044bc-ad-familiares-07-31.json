@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-31",
+  "mentions": [
+    {"loc": "1", "surface": "CVRIO", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "1", "surface": "CVRIO", "entity_id": "person:mn-curius-patrensis", "in": "eng"},
+    {"loc": "1", "surface": "Acilio", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "Acilius", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "2", "surface": "Sulpici", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "2", "surface": "Sulpicius's", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "2", "surface": "Pomponius noster", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "2", "surface": "our Pomponius", "entity_id": "person:atticus", "in": "eng"}
+  ]
+}

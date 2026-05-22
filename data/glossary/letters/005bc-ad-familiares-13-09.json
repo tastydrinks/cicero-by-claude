@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "company of tax-farmers in Bithynia",
+      "entity_id": "place:bithynia",
+      "note": "The societates publicanorum were joint-stock companies of equestrian businessmen who bid for state contracts to collect provincial taxes and customs duties; the Bithynian company held the franchise for the province of Bithynia et Pontus."
+    },
+    {
+      "loc": "2",
+      "anchor": "the whole order of tax-farmers",
+      "entity_id": null,
+      "note": "The ordo publicanorum (order of tax-farmers) was a powerful sub-group of the equestrian order; Cicero had famously defended their interests in the speech Pro Lege Manilia (66 BC) and cultivated their political support throughout his career."
+    },
+    {
+      "loc": "2",
+      "anchor": "composed of the rest of the companies",
+      "entity_id": null,
+      "note": "This cryptic phrase indicates the Bithynian company was a consortium formed from members of several other publicani companies, making it the single largest block of the citizen body among the societates."
+    },
+    {
+      "loc": "2",
+      "anchor": "Publius Rupilius the son of Publius, of the Menenian tribe, who is the company's manager",
+      "entity_id": "person:p-rupilius-bithynia",
+      "note": "The magister was the elected managing director who handled the company's day-to-day operations in Rome; the tribal designation (Menenia) is part of his formal Roman citizen identification, not a rank."
+    },
+    {
+      "loc": "3",
+      "anchor": "how much such a matter falls within a quaestor's competence",
+      "entity_id": "office:quaestor",
+      "note": "The quaestor was the junior magistrate assigned to a provincial governor, with responsibility for the treasury and financial administration; in that capacity he had direct dealing with the publicani collecting taxes in his province."
+    }
+  ]
+}

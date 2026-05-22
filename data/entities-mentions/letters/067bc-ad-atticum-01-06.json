@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-06",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Neapoli", "entity_id": "place:neapolis", "in": "lat"},
+    {"loc": "1", "surface": "Naples", "entity_id": "place:neapolis", "in": "eng"},
+    {"loc": "1", "surface": "M. Fontius", "entity_id": "person:m-fontius", "in": "lat"},
+    {"loc": "1", "surface": "Marcus Fontius", "entity_id": "person:m-fontius", "in": "eng"},
+    {"loc": "2", "surface": "Quintus frater", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "My brother Quintus", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "Pomponiam", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "2", "surface": "Pomponia", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "2", "surface": "Arpinatibus praediis", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "2", "surface": "Arpinum estate", "entity_id": "place:arpinum", "in": "eng"},
+    {"loc": "2", "surface": "D. Turranium", "entity_id": "person:d-turranius", "in": "lat"},
+    {"loc": "2", "surface": "Decimus Turranius", "entity_id": "person:d-turranius", "in": "eng"},
+    {"loc": "2", "surface": "pater", "entity_id": "person:m-tullius-cicero-elder", "in": "lat"},
+    {"loc": "2", "surface": "Our father", "entity_id": "person:m-tullius-cicero-elder", "in": "eng"},
+    {"loc": "2", "surface": "Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "2", "surface": "Tusculan villa", "entity_id": "place:tusculum", "in": "eng"}
+  ]
+}

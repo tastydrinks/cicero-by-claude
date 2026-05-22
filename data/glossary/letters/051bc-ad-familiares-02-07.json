@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO IMP.",
+      "entity_id": "office:imperator",
+      "note": "Cicero had been saluted as imperator by his troops after his campaign against the Amanus highlands and the siege of Pindenissum in late 51 BC; the title is inscribed in his salutation as governor of Cilicia, though he ultimately failed to win the triumph he sought."
+    },
+    {
+      "loc": "1",
+      "anchor": "C. CVRIONI TR. PL.",
+      "entity_id": "office:tribune",
+      "note": "Tribune of the plebs (tribunus plebis), the office Curio held in 50 BC; tribunes had the power to veto acts of the Senate (intercessio) and to bring legislation before the plebeian assembly. Curio's tribunate of 50 BC proved momentous: he switched from the optimates to Caesar and used his veto to help block a settlement over Caesar's command."
+    },
+    {
+      "loc": "2",
+      "anchor": "by your own judgement and not by chance you brought your tribunate forward to the very crisis of affairs",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "Cicero compliments Curio on timing his entry into the tribunate (50 BC) to coincide with the impending constitutional crisis over Caesar's command; whether this was really Curio's calculation or a fortunate accident is diplomatically left open."
+    },
+    {
+      "loc": "3",
+      "anchor": "write up in a single letter to the Senate all the summer's deeds",
+      "entity_id": "institution:senate",
+      "note": "A governor was required to report his military and administrative actions to the Senate in an official dispatch (litterae); Cicero's dispatch covering the Amanus and Pindenissum campaigns is largely preserved as Fam. 15.1-2."
+    },
+    {
+      "loc": "3",
+      "anchor": "your priesthood",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "Curio held or was seeking a place in one of Rome's priestly colleges (sacerdotium); the details of which college are not stated, and the letter Cicero says he gave to Thraso has not survived."
+    },
+    {
+      "loc": "4",
+      "anchor": "do not allow any extension of time to be granted me in this provincial vexation",
+      "note": "Roman governors' terms were set by the Senate; an extension (prorogatio) could be imposed without the governor's consent. Cicero was desperate to return to Rome before his legal immunity as governor expired and had been lobbying against any prolongation of his Cilician command."
+    },
+    {
+      "loc": "4",
+      "anchor": "not that something new be decreed (which is wont to be the harder thing), but that nothing new be decreed",
+      "note": "A pointed legal formula: Cicero does not ask Curio to pass positive legislation or secure a new senatorial decree in his favour, only to use the tribunician veto (intercessio) to block any move to extend his provincial term — negation is easier to achieve than positive action."
+    }
+  ]
+}

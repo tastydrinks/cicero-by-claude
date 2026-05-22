@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "those books which I set about writing when I was at the Cumanum",
+      "entity_id": null,
+      "note": "Cicero is describing the composition of his De Re Publica. He explains that he scrapped a nine-book dialogue set in 129 BC among the circle of Scipio Aemilianus and recast the work."
+    },
+    {
+      "loc": "1",
+      "anchor": "between Africanus shortly before his death and Laelius",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "The dialogue's speakers are the historical circle of Scipio Aemilianus (Africanus the Younger): his friend C. Laelius Sapiens, the jurist Philus, and others, conversing at the festival of 129 BC, the year Scipio died. Cicero gave them weight precisely because of their real eminence."
+    },
+    {
+      "loc": "1",
+      "anchor": "I was not a Heraclides of Pontus but a consular",
+      "entity_id": "person:heraclides-ponticus",
+      "note": "Heraclides of Pontus, a pupil of Plato, wrote dialogues set among figures of the distant past. Sallustius's point: a former consul who had lived through great events should write about the state in his own voice, not hide behind antique speakers."
+    },
+    {
+      "loc": "4",
+      "anchor": "always to be best and pre-eminent above the others",
+      "entity_id": null,
+      "note": "A line of Homer (Iliad 6.208, 11.784), the charge Peleus gave Achilles, which Cicero says he had embraced since boyhood as his own ideal of pre-eminence. He laments that it has now 'totally gone down' under the collapse of free public life."
+    },
+    {
+      "loc": "5",
+      "anchor": "the whole orders, all of them",
+      "entity_id": null,
+      "note": "The ordines: the senatorial and equestrian (and the lower) ranks of Roman society. Cicero means that hatred of Gabinius cut across every class, so defending him would have ruined Cicero with all of them."
+    },
+    {
+      "loc": "7",
+      "anchor": "(know thyself)",
+      "entity_id": null,
+      "note": "The Delphic maxim 'know thyself.' Cicero turns it playfully: it is meant not only to curb arrogance but also to make us recognise our own real gifts, urging the modest Quintus to value his tragedies."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-08",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO CAECINAE.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO CAECINAE.",
+      "entity_id": "person:a-caecina-friend",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO CAECINAE.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO CAECINAE.",
+      "entity_id": "person:a-caecina-friend",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Largus",
+      "entity_id": "person:largus-caecinae",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Oppius",
+      "entity_id": "person:gaius-oppius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesare",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "in Sicilia",
+      "entity_id": "place:sicilia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Largus",
+      "entity_id": "person:largus-caecinae",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Oppius",
+      "entity_id": "person:gaius-oppius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "in Sicily",
+      "entity_id": "place:sicilia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Largi",
+      "entity_id": "person:largus-caecinae",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "in Sicilia",
+      "entity_id": "place:sicilia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Largus",
+      "entity_id": "person:largus-caecinae",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "in Sicily",
+      "entity_id": "place:sicilia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "T. Furfanio Postumo",
+      "entity_id": "person:t-furfanius-postumus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Mutinae",
+      "entity_id": "place:mutina",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Furfanio",
+      "entity_id": "person:t-furfanius-postumus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Titus Furfanius Postumus",
+      "entity_id": "person:t-furfanius-postumus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Mutina",
+      "entity_id": "place:mutina",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Furfanius",
+      "entity_id": "person:t-furfanius-postumus",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-39",
+  "mentions": [
+    {"loc": "1", "surface": "exspectaram tamen aliquid de litteris Asini Pollionis", "entity_id": "person:asinius-pollio", "in": "lat"},
+    {"loc": "1", "surface": "I had looked for something about Asinius Pollio's letter", "entity_id": "person:asinius-pollio", "in": "eng"},
+    {"loc": "2", "surface": "et erat aliquid, Silius, Drusus, alia quaedam", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "2", "surface": "et erat aliquid, Silius, Drusus, alia quaedam", "entity_id": "person:m-livius-drusus-claudianus", "in": "lat"},
+    {"loc": "2", "surface": "nunc nisi Otho exstitisset", "entity_id": "person:otho", "in": "lat"},
+    {"loc": "2", "surface": "there was always something, Silius, Drusus, this and that", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "2", "surface": "there was always something, Silius, Drusus, this and that", "entity_id": "person:m-livius-drusus-claudianus", "in": "eng"},
+    {"loc": "2", "surface": "had Otho not turned up", "entity_id": "person:otho", "in": "eng"}
+  ]
+}

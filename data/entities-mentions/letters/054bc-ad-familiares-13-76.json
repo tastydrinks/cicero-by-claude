@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-76",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "IIII VIRIS", "entity_id": "office:quattuorvir", "in": "lat"},
+    {"loc": "1", "surface": "IIII VIRIS", "entity_id": "office:quattuorvir", "in": "eng"},
+    {"loc": "1", "surface": "DECVRIONIBVS", "entity_id": "institution:decuriones", "in": "lat"},
+    {"loc": "1", "surface": "DECVRIONIBVS", "entity_id": "institution:decuriones", "in": "eng"},
+    {"loc": "1", "surface": "Q. Hippio", "entity_id": "person:q-hippius", "in": "lat"},
+    {"loc": "1", "surface": "Q. Hippius", "entity_id": "person:q-hippius", "in": "eng"},
+    {"loc": "2", "surface": "C. Valgium Hippianum", "entity_id": "person:c-valgius-hippianus", "in": "lat"},
+    {"loc": "2", "surface": "C. Valgius Hippianus", "entity_id": "person:c-valgius-hippianus", "in": "eng"},
+    {"loc": "2", "surface": "agro Fregellano", "entity_id": "place:fregellae", "in": "lat"},
+    {"loc": "2", "surface": "the Fregellan country", "entity_id": "place:fregellae", "in": "eng"}
+  ]
+}

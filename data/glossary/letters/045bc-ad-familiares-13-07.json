@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO CLVVIO S.",
+      "entity_id": "person:c-cluvius",
+      "note": "The addressee is named only as 'Cluvius' in the Latin superscription. The headnote of ancient MSS calls him Gaius Cluvius. The registry contains Marcus Cluvius of Puteoli (a banker), but the C. praenomen and the Caesarian land-commission in Gaul suggest a distinct individual; see crux note."
+    },
+    {
+      "loc": "1",
+      "anchor": "what you have from C. Caesar is a commission, not a discretion",
+      "entity_id": "person:caesar",
+      "note": "Cicero distinguishes between negotium (a commission, a specific task) and iudicium (discretionary judicial or administrative power): Cluvius has been sent to Gaul by Caesar to execute a defined task, not to exercise independent judgement, which limits what Cicero can ask of him."
+    },
+    {
+      "loc": "1",
+      "anchor": "the tax-paying land which the township of Atella holds in Gaul",
+      "entity_id": "place:atella",
+      "note": "Atella was a municipium in Campania (between Capua and Neapolis). Like several Italian towns, it held ager vectigalis --- revenue-bearing public land --- in regions outside Campania, in this case in Cisalpine Gaul; Cicero is lobbying for that land's fiscal status to be preserved."
+    },
+    {
+      "loc": "4",
+      "anchor": "men of Rhegium have obtained this same favour from you",
+      "entity_id": "place:rhegium",
+      "note": "Rhegium (modern Reggio Calabria), like Atella, held ager vectigalis in Gaul, and had already won from Cluvius the same protection Cicero seeks for Atella. The precedent strengthens Cicero's case by showing Cluvius has discretion enough to grant it."
+    },
+    {
+      "loc": "5",
+      "anchor": "men worthy in the highest degree of being on your friendship's roll",
+      "entity_id": null,
+      "note": "A Roman convention of recommendation letters: Cicero's closing formula pledges that the beneficiaries (the Atellans) are worthy of being counted among Cluvius's amici (friends/clients), the formal Roman network of reciprocal obligation, so Cluvius's patronage of Atella will reflect credit on him."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Ides of March",
+      "entity_id": "event:ides-of-march",
+      "note": "15 March 44 BC, the assassination of Caesar; Cicero's fear here is that the deed brought emotional satisfaction but no real political restoration of the republic."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Sicilians",
+      "entity_id": null,
+      "note": "The people of Sicily, whom Cicero had defended in the Verrines and regarded as honourable clients; no distinct collective entity for the Siculi is registered, so the surface is left unbound."
+    },
+    {
+      "loc": "1",
+      "anchor": "the grant of Latin status",
+      "entity_id": null,
+      "note": "Caesar had given the Sicilians the Latin right (ius Latii), a lesser franchise; Cicero thought even that excessive, and now complains that Antony, bribed, has forged a full citizenship grant in Caesar's name."
+    },
+    {
+      "loc": "1",
+      "anchor": "but not through Fulvia",
+      "entity_id": "person:fulvia",
+      "note": "Fulvia, Antony's wife, was notorious for trafficking in political favours for cash; Cicero allows that King Deiotarus deserves his realm but objects to its being secured by bribing her."
+    },
+    {
+      "loc": "2",
+      "anchor": "addressing him as Caesar",
+      "entity_id": "person:octavian",
+      "note": "Octavian's partisans were already hailing the young heir by his adoptive name \"Caesar\"; Philippus, his stepfather, pointedly refused, and Cicero followed suit, denying he could be a good citizen."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Pelopidae's name",
+      "entity_id": null,
+      "note": "A truncated tragic quotation (the doomed house of Pelops, scene of kin-murder and curse), invoked as Cicero longs to flee somewhere untainted by such horrors; it is a literary allusion, not a reference to the intermediary Pelops of Byzantium."
+    }
+  ]
+}

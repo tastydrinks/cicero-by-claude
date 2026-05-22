@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-07",
+  "mentions": [
+    {"loc": "1", "surface": "Epirum", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "1", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Pompeium", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "1", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "1", "surface": "Pompey says", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "with Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"}
+  ]
+}

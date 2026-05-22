@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "about you, because what I had hoped for, about Hillus (for stammerer that I am), because what I had not",
+      "entity_id": "person:hillus",
+      "note": "Hillus was an apparently minor or obscure candidate who won election unexpectedly; Cicero calls himself 'balbus' (stammerer) to signal he can scarcely get the name out, a jesting admission of surprise. Hillus's identity is uncertain — he may be a freedman's son who broke into office against all expectation."
+    },
+    {
+      "loc": "2",
+      "anchor": "Is this the man who saved the city? whom the Senate",
+      "entity_id": "person:cicero",
+      "note": "Cicero quotes the awed provincial reaction to his arrival: he is famous in the East as the man who suppressed the Catilinarian conspiracy of 63 BC (hence 'saved the city') and was then honoured by the Senate. He trails off — 'You know the rest' — because his exile and recall are too painful to finish the sentence."
+    },
+    {
+      "loc": "2",
+      "anchor": "our friend Cassius, much to my pleasure, had thrown the enemy back from Antioch with success",
+      "entity_id": "person:cassius-longinus",
+      "note": "C. Cassius Longinus (later one of Caesar's assassins) was at this date quaestor-cum-legate in Syria under M. Crassus, whose army had been destroyed at Carrhae in 53 BC. Left in effective command, Cassius successfully defended Antioch against a Parthian incursion in 51 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "Clitarchus told you Darius was overcome by Alexander",
+      "entity_id": "person:clitarchus",
+      "note": "Clitarchus of Alexandria was the most popular Hellenistic historian of Alexander the Great, known for sensationalism rather than accuracy. Cicero seems to have met him in person, or he had told Caelius this anecdote; the Battle of Issus (333 BC) was fought on the very plain below the Amanus mountains."
+    },
+    {
+      "loc": "3",
+      "anchor": "battering with mounds, mantlets, and towers a most strongly walled town, Pindenissus",
+      "entity_id": "place:pindenissum",
+      "note": "Pindenissus was a hilltop stronghold of the Free Cilicians (Eleutherocilices) in the Amanus range; Cicero besieged it for 57 days in all. The town was so obscure that Cicero jokes it will add nothing to his reputation — only the name of a famous place dignifies a conquest."
+    },
+    {
+      "loc": "4",
+      "anchor": "first, that a successor be sent me",
+      "note": "Roman governors had to wait in their province until a legally designated successor arrived; departure without a successor was illegal and left the province ungoverned. Cicero was desperate to return to Rome before the political crisis came to a head."
+    }
+  ]
+}

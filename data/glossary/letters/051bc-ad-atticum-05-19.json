@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the forty-seventh day from Rome",
+      "entity_id": null,
+      "note": "The interval a private letter took to travel from Rome to Cicero's camp in Cilicia. Cicero notes it as fast for so vast a distance, a glimpse of the strained communications underpinning a frontier command."
+    },
+    {
+      "loc": "1",
+      "anchor": "About the Atilian debt I have written to Philotimus not to dun Messalla for it",
+      "entity_id": "person:philotimus",
+      "note": "A money matter Cicero managed at long range through Terentia's freedman-agent Philotimus, instructing him not to press M. Valerius Messalla Rufus for repayment of a debt connected with one Atilius."
+    },
+    {
+      "loc": "3",
+      "anchor": "About Patro and your fellow-students --- the trouble I took over the ruins at Melita",
+      "entity_id": "person:patro-epicurean",
+      "note": "Patro was the scholarch of the Epicurean school at Athens, of which Atticus and his circle were 'fellow-students'. Cicero had intervened on Patro's behalf over the threatened demolition of the ruined house of Epicurus, here recalled as 'the ruins at Melita' (the Athenian deme Melite)."
+    }
+  ]
+}

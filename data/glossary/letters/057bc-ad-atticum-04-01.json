@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-01",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "our authority in the Senate",
+      "entity_id": "institution:senate",
+      "note": "Auctoritas in senatu: the weight a senator's opinion carried when his view was asked in debate. Cicero measures his recovery from exile by the return of this standing among his peers."
+    },
+    {
+      "loc": "4",
+      "anchor": "the day before the Nones of August",
+      "entity_id": null,
+      "note": "Roman dates were counted backwards from three fixed points each month: the Kalends (1st), the Nones (5th or 7th), and the Ides (13th or 15th). 'The day before the Nones of August' is 4 August (counting inclusively)."
+    },
+    {
+      "loc": "4",
+      "anchor": "the temple of Salus next to your house",
+      "entity_id": "place:templum-salutis",
+      "note": "The temple of Salus (the goddess of Health and Welfare of the state) stood on the Quirinal beside Atticus's house. Cicero savours the omen that its dedication day fell on Tullia's birthday and the founding-day of Brundisium."
+    },
+    {
+      "loc": "4",
+      "anchor": "the law had been carried in the centuriate assembly",
+      "entity_id": null,
+      "note": "The comitia centuriata, the assembly organised by property-classes that elected consuls and could pass laws; the recall law of August 57 BC was passed by it, lending the measure maximum gravity."
+    },
+    {
+      "loc": "5",
+      "anchor": "name-caller",
+      "entity_id": null,
+      "note": "A nomenclator: a slave kept by a Roman politician to whisper the names of citizens he met, so he could greet them personally. The point is that every recognisable man came out to meet Cicero."
+    },
+    {
+      "loc": "6",
+      "anchor": "the price of corn was at its highest",
+      "entity_id": null,
+      "note": "A grain shortage gripped Rome in September 57 BC; Clodius's agents blamed it on Cicero's return. The crisis led to Pompey being given a five-year extraordinary command over the whole corn supply."
+    },
+    {
+      "loc": "6",
+      "anchor": "the consulars were absent",
+      "entity_id": null,
+      "note": "Consulares: ex-consuls, the senior bloc of the Senate whose opinions were asked first. Their absence (pleading they could not speak safely) left Cicero to carry the corn-command motion."
+    },
+    {
+      "loc": "6",
+      "anchor": "the senatus consultum",
+      "entity_id": null,
+      "note": "A senatus consultum was a formal decree of the Senate; it carried great authority but, lacking the force of statute, often needed a law (lex) to enact it, as here for Pompey's command."
+    },
+    {
+      "loc": "6",
+      "anchor": "the bill of Messius",
+      "entity_id": "person:c-messius-tr57",
+      "note": "C. Messius, a tribune of 57 BC, drafted a far more sweeping alternative giving Pompey control of all funds, a fleet, an army, and command outranking the provincial governors. Cicero found the milder consular version, by contrast, 'modest'."
+    },
+    {
+      "loc": "6",
+      "anchor": "the pontiffs have so far given no reply on our house",
+      "entity_id": "institution:college-of-pontiffs",
+      "note": "The College of Pontiffs, Rome's highest priestly board, had to rule whether Clodius's consecration of Cicero's razed Palatine house (a shrine of Liberty) was a valid 'religious dedication'. Until they lifted it, the site could not be rebuilt."
+    },
+    {
+      "loc": "6",
+      "anchor": "If they shall lift the religious dedication",
+      "entity_id": "god:libertas",
+      "note": "After razing Cicero's house Clodius had consecrated the ground with a statue and shrine of Libertas (Liberty), placing it under religious interdict. Lifting that 'religion' was the legal precondition for restoring the property."
+    }
+  ]
+}

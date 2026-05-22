@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-53",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO THERMO PROPR. S.",
+      "entity_id": "person:q-minucius-thermus-pr",
+      "note": "The letter-heading. PROPR. = pro praetore, propraetor: Q. Minucius Thermus governed the province of Asia in 51-50 BC, contemporary with Cicero's neighbouring proconsulship of Cilicia. This is the first of a cluster of recommendations to him (Fam. 13.53-57)."
+    },
+    {
+      "loc": "1",
+      "anchor": "so far as your good faith and dignity allow",
+      "entity_id": null,
+      "note": "Fides (good faith, integrity) and dignitas (the standing earned by acting honourably) are the two watchwords of the Roman governor's self-presentation. Cicero offers the face-saving formula so as not to ask the governor to act against his own honour."
+    },
+    {
+      "loc": "2",
+      "anchor": "that title to the lands which the community of Parium decreed and gave to him",
+      "entity_id": "place:parium",
+      "note": "Greek cities under Roman rule retained their own civic assemblies, which could decree (decrevit) and grant landholding rights to individuals. Cicero asks the governor to uphold the grant Parium had made to Genucilius and which he had held unchallenged."
+    },
+    {
+      "loc": "2",
+      "anchor": "you refer the matter to that",
+      "entity_id": null,
+      "note": "Cicero uses the Greek term dioikesis (administrative district), the technical name for a sub-district of the province within which local disputes were heard. He asks that any Hellespontine dispute of Genucilius be referred to the proper district court."
+    }
+  ]
+}

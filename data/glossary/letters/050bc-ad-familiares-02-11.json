@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "what is going to be decreed about the provinces",
+      "note": "The senate was debating whether to recall Cicero, extend his command (prorogatio), or assign a successor; the outcome bore directly on whether Cicero would return to Rome in time for the escalating political crisis over Caesar's command in Gaul."
+    },
+    {
+      "loc": "2",
+      "anchor": "by the men who do the hunting; but there is a marvellous scarcity of them, and the ones there are, they say, complain bitterly that no traps are set for anything in my province except themselves",
+      "entity_id": "person:patiscus-cilicia",
+      "note": "Cicero inserts a wry joke: the panthers, as if sentient, resent being the only prey in Cilicia. As curule aedile Caelius was responsible for the ludi (public games), which included wild-beast hunts (venationes) in the arena; live panthers from the East were a prized attraction."
+    },
+    {
+      "loc": "2",
+      "anchor": "they are reported to have resolved to leave our province for Caria",
+      "entity_id": "place:caria",
+      "note": "Caria was the region of south-western Asia Minor (modern south-west Turkey), adjacent to Cilicia's zone of influence; Cicero's joke is that the panthers are emigrating to avoid capture, as though exercising free will."
+    },
+    {
+      "loc": "2",
+      "anchor": "I am writing this on the day of the Megalesia itself",
+      "entity_id": "festival:megalesia",
+      "note": "The Megalesia (Ludi Megalenses) was a festival held 4--10 April in honour of the Magna Mater (Cybele), whose temple stood on the Palatine; the curule aediles presided over its games. Cicero's mention places this letter precisely on 4 April 50 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "the fear of a great war hangs over us, which we look to escape if we depart on the day appointed",
+      "note": "The expected war is the conflict between Caesar and Pompey that would break into open civil war in January 49 BC; Cicero hopes to depart Cilicia on schedule (before the crisis fully erupts) rather than be trapped in the East commanding armies in someone else's war."
+    }
+  ]
+}

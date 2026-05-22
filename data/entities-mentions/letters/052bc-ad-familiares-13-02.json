@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-02",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO MEMMIO S.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO MEMMIO S.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "MEMMIO", "entity_id": "person:c-memmius", "in": "lat"},
+    {"loc": "1", "surface": "CICERO MEMMIO S.", "entity_id": "person:c-memmius", "in": "eng"},
+    {"loc": "1", "surface": "C. Avianio Evandro", "entity_id": "person:c-avianius-evander", "in": "lat"},
+    {"loc": "1", "surface": "C. Avianius Evander", "entity_id": "person:c-avianius-evander", "in": "eng"},
+    {"loc": "1", "surface": "M. Aemilio", "entity_id": "person:m-aemilius-avianius", "in": "lat"},
+    {"loc": "1", "surface": "M. Aemilius", "entity_id": "person:m-aemilius-avianius", "in": "eng"}
+  ]
+}

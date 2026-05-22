@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Your letters about our Attica",
+      "entity_id": "person:attica-pomponia",
+      "note": "Attica (Caecilia Attica), the young daughter of Atticus, who had been ill; Cicero was devoted to her. Atticus's news of her alternately distressed and reassured him."
+    },
+    {
+      "loc": "2",
+      "anchor": "you have sold splendidly",
+      "entity_id": null,
+      "note": "The Ligariana is Cicero's speech Pro Ligario; \"sold\" means Atticus, who ran a copying house, had published and distributed it well. Cicero jokingly makes him his praeco (auction-crier) for future works."
+    },
+    {
+      "loc": "3",
+      "anchor": "what you write to me about Varro",
+      "entity_id": "person:m-terentius-varro",
+      "note": "Marcus Terentius Varro, the great polymath and antiquarian, to whom Cicero was planning to dedicate a philosophical work. The letter works out which dialogue should carry the dedication."
+    },
+    {
+      "loc": "3",
+      "anchor": "our friend Callippides",
+      "entity_id": "person:callippides",
+      "note": "Callippides, a proverbial figure (originally an actor mocked by a Spartan king) for someone who is forever bustling but gets nowhere. Cicero applies the byword to Varro, who keeps promising a dedication but never delivers."
+    },
+    {
+      "loc": "3",
+      "anchor": "For Hesiod, too, adds this",
+      "entity_id": "person:hesiod",
+      "note": "Hesiod, the early Greek didactic poet of the Works and Days. Cicero quotes his maxim about repaying a neighbour \"in the same measure, and better if you can\" (Works and Days 349-50)."
+    },
+    {
+      "loc": "3",
+      "anchor": "Treatise on Ends",
+      "entity_id": null,
+      "note": "Cicero's own De Finibus Bonorum et Malorum (\"On the Ends of Goods and Evils\"), his survey of the schools' views on the supreme good, dedicated to Brutus. The Greek tag peri Telon names the subject, the telos or \"end.\""
+    },
+    {
+      "loc": "3",
+      "anchor": "promised to Brutus",
+      "entity_id": "person:brutus",
+      "note": "Marcus Junius Brutus, the dedicatee of the De Finibus. Atticus had reported that Brutus was willing to receive the dedication."
+    },
+    {
+      "loc": "3",
+      "anchor": "There are Antiochean doctrines in it",
+      "entity_id": "person:antiochus-ascalon",
+      "note": "Antiochus of Ascalon, the philosopher who broke from the sceptical Academy toward a dogmatic, quasi-Stoic position; his system is the matter of Cicero's Academica. Varro, his former pupil, approved of these doctrines."
+    },
+    {
+      "loc": "3",
+      "anchor": "Catulus and Lucullus we shall set down elsewhere",
+      "entity_id": "person:q-lutatius-catulus-cos78",
+      "note": "Quintus Lutatius Catulus (consul 78 BC) and Lucius Licinius Lucullus, the noble interlocutors of the first edition of the Academica, whose books bore their names. Cicero plans to drop them in favour of Varro as speaker; the companion note tags Lucullus."
+    },
+    {
+      "loc": "4",
+      "anchor": "About the Brinnian auction",
+      "entity_id": "person:brinnius",
+      "note": "An auction (auctio) of the estate of the deceased Brinnius, of whose property Cicero was a co-heir. Roman estates were often liquidated by public auction so heirs could divide the proceeds."
+    },
+    {
+      "loc": "4",
+      "anchor": "I have had a letter from Vestorius",
+      "entity_id": "person:c-vestorius",
+      "note": "Gaius Vestorius, Cicero's banker-agent at Puteoli, who handled the practical side of the Brinnian inheritance. He reports the matter was referred to Cicero unopposed."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Kalends of Quintilis",
+      "entity_id": null,
+      "note": "Quintilis was the old name of the month later renamed July (in honour of Julius Caesar, from this very year 45 BC). The Kalends was its first day; \"the eighth day before\" it falls on 24 June."
+    },
+    {
+      "loc": "4",
+      "anchor": "S.~Vettius, my co-heir",
+      "entity_id": null,
+      "note": "Spurius (?) Vettius, a friend of Atticus and Cicero's fellow heir to the Brinnian estate. He is not securely identifiable with any Vettius in the registry."
+    },
+    {
+      "loc": "4",
+      "anchor": "our Labeo",
+      "entity_id": "person:antistius-labeo",
+      "note": "Probably Quintus Antistius Labeo, the jurist and later conspirator against Caesar, here acting in the auction business. The identification is a judgment call among several men named Labeo."
+    },
+    {
+      "loc": "4",
+      "anchor": "As for Piso, you have Eros",
+      "entity_id": null,
+      "note": "Piso is a man involved in Cicero's financial dealings, and Eros an agent (probably of Atticus) who keeps the relevant accounts. Neither can be pinned to a specific registry entity here."
+    },
+    {
+      "loc": "4",
+      "anchor": "About the Scapulan gardens",
+      "entity_id": "person:p-scapula",
+      "note": "The horti (suburban pleasure-grounds) of the late P. Scapula near Rome, then coming up for sale among his heirs. They were Cicero's leading candidate for the site of the shrine to Tullia he was trying to buy."
+    }
+  ]
+}

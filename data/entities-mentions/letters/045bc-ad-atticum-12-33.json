@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-33",
+  "mentions": [
+    {"loc": "1", "surface": "si et Silius is fuerit quem tu putas", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "nec Drusus facilem se praebuerit", "entity_id": "person:m-livius-drusus-claudianus", "in": "lat"},
+    {"loc": "1", "surface": "Damasippum velim adgrediare", "entity_id": "person:damasippus-art-dealer", "in": "lat"},
+    {"loc": "1", "surface": "if Silius turns out to be the man you think", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "and Drusus does not show himself easy to deal with", "entity_id": "person:m-livius-drusus-claudianus", "in": "eng"},
+    {"loc": "1", "surface": "I would like you to approach Damasippus", "entity_id": "person:damasippus-art-dealer", "in": "eng"},
+    {"loc": "2", "surface": "vehementer me sollicitat Atticae nostrae valetudo", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "2", "surface": "Our Attica's illness disturbs me deeply", "entity_id": "person:attica-pomponia", "in": "eng"}
+  ]
+}

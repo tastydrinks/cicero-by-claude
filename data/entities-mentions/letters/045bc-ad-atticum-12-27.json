@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-27",
+  "mentions": [
+    {"loc": "1", "surface": "de Siliano negotio", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "hodie me ex Sicca arbitror omnia cogniturum", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "1", "surface": "Cottae quod negas te nosse", "entity_id": "person:l-aurelius-cotta-cos65", "in": "lat"},
+    {"loc": "1", "surface": "ultra Silianam villam est", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "si perficitur de hortis Sili", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "nihil est scilicet quod de Cottae cogitemus", "entity_id": "person:l-aurelius-cotta-cos65", "in": "lat"},
+    {"loc": "1", "surface": "As to the Silius business", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "I expect to learn everything today from Sicca", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "1", "surface": "The Cotta place, which you say you do not know", "entity_id": "person:l-aurelius-cotta-cos65", "in": "eng"},
+    {"loc": "1", "surface": "lies beyond Silius' villa", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "But if the Silius gardens come through", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "there is plainly nothing to think about as regards Cotta's place", "entity_id": "person:l-aurelius-cotta-cos65", "in": "eng"},
+    {"loc": "2", "surface": "de Cicerone ut scribis ita faciam", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "2", "surface": "ex Aledio quod scribas si quid inveneris scribes", "entity_id": "person:aledius", "in": "lat"},
+    {"loc": "2", "surface": "About my son, I shall do as you say", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "If you have learned anything from Aledius worth writing about", "entity_id": "person:aledius", "in": "eng"},
+    {"loc": "3", "surface": "de Bruto tamen, si quid habebis", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "3", "surface": "sciri enim iam puto ubi Pansam exspectet", "entity_id": "person:vibius-pansa", "in": "lat"},
+    {"loc": "3", "surface": "valde enim urbem fugio multas ob causas", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "3", "surface": "Piliae, Atticae salutem", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "3", "surface": "Piliae, Atticae salutem", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "3", "surface": "On Brutus, however --- if you have anything", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "where he is waiting for Pansa", "entity_id": "person:vibius-pansa", "in": "eng"},
+    {"loc": "3", "surface": "for many reasons I am very much avoiding the city", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "My greetings to Pilia and Attica", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "3", "surface": "My greetings to Pilia and Attica", "entity_id": "person:attica-pomponia", "in": "eng"}
+  ]
+}

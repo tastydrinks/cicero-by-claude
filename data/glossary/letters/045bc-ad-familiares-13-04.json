@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO S. D. Q. VALERIO Q. F. ORCAE LEGATO PROPR.",
+      "entity_id": "person:q-valerius-orca",
+      "note": "The full formal salutation: \"Marcus Cicero sends greetings to Quintus Valerius, son of Quintus, Orca, legate with propraetorian power.\" Q. Valerius Orca was one of Caesar's officers, appointed to oversee the distribution of land confiscated from communities in Italy that had backed Pompey; his commission directly threatened Volaterrae."
+    },
+    {
+      "loc": "1",
+      "anchor": "they escaped the bitterness of the Sullan time",
+      "entity_id": "person:sulla",
+      "note": "When Sulla won the civil war in 82 BC, he stripped many Italian towns of their Roman citizenship as punishment for supporting his opponents. Volaterrae surrendered only after a long siege (80–79 BC), but its citizens managed to retain or recover their civic status, partly through legal challenges; Cicero had defended them in court in the 60s BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "C. Caesar in his first consulship ratified this act of mine by his Agrarian Law",
+      "entity_id": "law:lex-iulia-agraria-59bc",
+      "note": "Caesar passed agrarian legislation in 59 BC (his first consulship) that distributed public land. Among its provisions, it explicitly exempted the territory of Volaterrae from redistribution, ratifying Cicero's earlier advocacy on the town's behalf."
+    },
+    {
+      "loc": "2",
+      "anchor": "follow the lead of that man whose party and command you have followed to your own great honour",
+      "entity_id": "person:caesar",
+      "note": "Cicero diplomatically reminds Orca that he is a Caesarian officer bound to carry out Caesar's settled policy; since Caesar had already guaranteed Volaterrae's safety, dispossessing its citizens now would contradict Caesar's own wishes."
+    },
+    {
+      "loc": "3",
+      "anchor": "Their dwellings, their homes, their property, their fortunes",
+      "entity_id": null,
+      "note": "The rhetorical climax of the letter: Cicero entrusts the concrete human interests of the Volaterran community --- domus, sedes, res, fortunae --- to Orca's good faith (fides), invoking all four cardinal virtues in closing."
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-21",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "PAETO",
+      "entity_id": "person:l-papirius-paetus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "PAETO",
+      "entity_id": "person:l-papirius-paetus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Trabea",
+      "entity_id": "person:trabea-poeta",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Trabea",
+      "entity_id": "person:trabea-poeta",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "mi Paete",
+      "entity_id": "person:l-papirius-paetus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "my dear Paetus",
+      "entity_id": "person:l-papirius-paetus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Papirium",
+      "entity_id": "group:papirii",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "any Papirius",
+      "entity_id": "group:papirii",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Papirius Mugillanus",
+      "entity_id": "person:l-papirius-mugillanus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Papirius Mugillanus",
+      "entity_id": "person:l-papirius-mugillanus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Sempronio Atratino",
+      "entity_id": "person:l-sempronius-atratinus-cos444",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Sempronius Atratinus",
+      "entity_id": "person:l-sempronius-atratinus-cos444",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Papisii",
+      "entity_id": "group:papirii",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Papisii",
+      "entity_id": "group:papirii",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Papirium Crassum",
+      "entity_id": "person:l-papirius-crassus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Papirius Crassus",
+      "entity_id": "person:l-papirius-crassus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Papisius",
+      "entity_id": "group:papirii",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Papisius",
+      "entity_id": "group:papirii",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Papirio Cursore",
+      "entity_id": "person:l-papirius-cursor",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Papirius Cursor",
+      "entity_id": "person:l-papirius-cursor",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Romam conditam",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "founding of Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "K. Duilio",
+      "entity_id": "person:k-duilius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "K. Duilius",
+      "entity_id": "person:k-duilius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cursor",
+      "entity_id": "person:l-papirius-cursor",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cursor himself",
+      "entity_id": "person:l-papirius-cursor",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Masso",
+      "entity_id": "person:l-papirius-masso",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "L. Masso",
+      "entity_id": "person:l-papirius-masso",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Massones",
+      "entity_id": "person:l-papirius-masso",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Massones",
+      "entity_id": "person:l-papirius-masso",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Carbones",
+      "entity_id": "group:papirii",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Carbones",
+      "entity_id": "group:papirii",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Turdi",
+      "entity_id": "person:papirii-turdi",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Turdi",
+      "entity_id": "person:papirii-turdi",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "C. Carbonem",
+      "entity_id": "person:c-papirius-carbo-arvina",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Gaius Carbo whom Damasippus killed",
+      "entity_id": "person:c-papirius-carbo-arvina",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Damasippus",
+      "entity_id": "person:l-iunius-brutus-damasippus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Damasippus",
+      "entity_id": "person:l-iunius-brutus-damasippus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Cn. Carbonem",
+      "entity_id": "person:cn-papirius-carbo",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Gnaeus Carbo",
+      "entity_id": "person:cn-papirius-carbo",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "fratrem scurram",
+      "entity_id": "person:carbo-scurra-frater",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "his brother the buffoon",
+      "entity_id": "person:carbo-scurra-frater",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Rubriae filio",
+      "entity_id": "person:rubria-mater-carbonis",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Rubria's son",
+      "entity_id": "person:rubria-mater-carbonis",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "M. Carbones",
+      "entity_id": "person:m-papirius-carbo",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Marcus Carbo",
+      "entity_id": "person:m-papirius-carbo",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "P. Flacco",
+      "entity_id": "person:p-flaccus-accusator",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "P. Flaccus",
+      "entity_id": "person:p-flaccus-accusator",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Sicilia",
+      "entity_id": "place:sicilia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Sicily",
+      "entity_id": "place:sicilia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Gaius",
+      "entity_id": "person:c-papirius-carbo-cos120",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Gaius, with L. Crassus prosecuting",
+      "entity_id": "person:c-papirius-carbo-cos120",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "L. Crasso",
+      "entity_id": "person:l-licinius-crassus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "L. Crassus",
+      "entity_id": "person:l-licinius-crassus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "P. Africano",
+      "entity_id": "person:scipio-aemilianus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Publius Africanus",
+      "entity_id": "person:scipio-aemilianus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Lilybaei",
+      "entity_id": "place:lilybaeum",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Lilybaeum",
+      "entity_id": "place:lilybaeum",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompeio nostro",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "our Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "M. Antonio",
+      "entity_id": "person:m-antonius-orator",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "M. Antonius",
+      "entity_id": "person:m-antonius-orator",
+      "in": "eng"
+    }
+  ]
+}

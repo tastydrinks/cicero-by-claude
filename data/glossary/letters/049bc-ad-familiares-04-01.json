@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a defender of peace in your consulship and after your consulship",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus, the greatest Roman jurist of the age, was consul in 51 BC; in that year and after he urged compromise to head off the looming war between Caesar and Pompey. The letter dates to about April 49 BC, weeks after Caesar crossed the Rubicon, with civil war already under way."
+    },
+    {
+      "loc": "1",
+      "anchor": "about peace and about the Spains",
+      "entity_id": "place:hispania",
+      "note": "\"The Spains\" renders Latin Hispaniae, the two Roman provinces of the Iberian peninsula (Nearer and Further Spain), then held by Pompey's legates. After seizing Italy, Caesar marched on Spain in 49 BC to defeat Pompey's army there before turning east; control of the Spanish armies was a central issue in the peace debate."
+    },
+    {
+      "loc": "1",
+      "anchor": "to a meeting of senators",
+      "entity_id": "institution:senate",
+      "note": "Cicero distinguishes a true sitting of the Senate from a mere \"gathering of senators\": with the consuls and most magistrates fled abroad with Pompey, any assembly Caesar convened in Rome lacked, in Cicero's eyes, full constitutional authority."
+    },
+    {
+      "loc": "1",
+      "anchor": "the man who was asking me to imitate your example",
+      "entity_id": "person:caesar",
+      "note": "The unnamed \"man\" is Caesar, who in spring 49 was pressing Cicero to attend the Senate and lend his prestige to the new regime. Cicero, like Servius, wished to stay neutral; he ultimately left Italy to join Pompey rather than legitimize Caesar's position."
+    },
+    {
+      "loc": "1",
+      "anchor": "I had fallen among the madness of men hungry for the fight",
+      "entity_id": null,
+      "note": "A swipe at the hardliners in Pompey's own camp who, Cicero felt, rejected every chance of a negotiated peace; he repeatedly complained that the optimate war-party was as reckless as Caesar."
+    }
+  ]
+}

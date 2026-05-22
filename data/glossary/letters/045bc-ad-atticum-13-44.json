@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-44",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "including about Cotta",
+      "entity_id": null,
+      "note": "The reference is obscure; \"Cotta\" here (and the request to \"Send me Cotta\" in section 3) most likely names a book Cicero wanted to consult --- perhaps annals or a work associated with one of the Aurelii Cottae --- rather than the living man. The identification is uncertain and no entity is bound."
+    },
+    {
+      "loc": "1",
+      "anchor": "even Victory herself was not applauded",
+      "entity_id": "god:victoria",
+      "note": "Victoria, the deified personification of Victory. A gilded statue of her was carried in the procession (pompa) opening the games; the crowd withheld applause because of resentment at \"so bad a neighbour\" --- a statue of Caesar set beside her."
+    },
+    {
+      "loc": "1",
+      "anchor": "Brutus has been with me",
+      "entity_id": "person:brutus",
+      "note": "Marcus Iunius Brutus, the future tyrannicide, here a close friend and literary correspondent; he had dedicated to Cicero and would receive the dedication of the De Finibus. He relays the Corfidius correction in section 3."
+    },
+    {
+      "loc": "3",
+      "anchor": "the speech for Ligarius",
+      "entity_id": null,
+      "note": "The Pro Ligario, Cicero's speech of 46 BC defending Quintus Ligarius before Caesar on a charge brought by Q. Aelius Tubero. Cicero now learns that one supporter he named in it, Corfidius, had already died, and asks for the slip to be corrected in every copy."
+    },
+    {
+      "loc": "3",
+      "anchor": "Lucius Corfidius",
+      "entity_id": "person:l-corfidius",
+      "note": "A close associate of the Ligarii whom Cicero, by a lapse of memory, named in the Pro Ligario as still living; Brutus, relaying Titus Ligarius, pointed out that Corfidius had in fact died earlier. Cicero asks that the name be struck from all copies."
+    },
+    {
+      "loc": "3",
+      "anchor": "slip of memory",
+      "entity_id": null,
+      "note": "Cicero glosses his own error with a Greek tag (mnemonikon hamartema), \"a fault of memory\" --- a wry, technical-sounding excuse for naming a dead man as a living supporter."
+    },
+    {
+      "loc": "3",
+      "anchor": "give Pharnaces, Antaeus, and Salvius the job",
+      "entity_id": "person:pharnaces-atticianus",
+      "note": "Three copyists (librarii) of Atticus's publishing household, tasked with deleting Corfidius's name from every circulating copy of the speech. This Pharnaces is the household scribe, not King Pharnaces II of Pontus."
+    },
+    {
+      "loc": "3",
+      "anchor": "striking that name out of every copy",
+      "entity_id": null,
+      "note": "A glimpse of ancient \"publishing\": Atticus circulated Cicero's works as manuscript copies produced by his trained slaves, so a correction had to be propagated by hand through each existing exemplar."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-10",
+  "mentions": [
+    {"loc": "1", "surface": "Thessalonicae", "entity_id": "place:thessalonica", "in": "lat"},
+    {"loc": "1", "surface": "Thessalonica", "entity_id": "place:thessalonica", "in": "eng"},
+    {"loc": "2", "surface": "fratre", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "a brother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "3", "surface": "Thessalonicae", "entity_id": "place:thessalonica", "in": "lat"},
+    {"loc": "3", "surface": "Thessalonica", "entity_id": "place:thessalonica", "in": "eng"}
+  ]
+}

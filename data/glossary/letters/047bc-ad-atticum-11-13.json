@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "old Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus, the great jurist and consul of 51 BC, an old friend of Cicero who like him had hesitated between the two sides. \"Old Servius\" distinguishes the father from his son Servius."
+    },
+    {
+      "loc": "1",
+      "anchor": "Publius Lentulus the father is said to be at Rhodes, his son at Alexandria",
+      "entity_id": "person:lentulus-spinther",
+      "note": "P. Cornelius Lentulus Spinther, consul of 57 BC who had helped recall Cicero from exile, was a leading Pompeian now stranded in the eastern Mediterranean; his son of the same name was with Caesar at Alexandria. The scattered movements of these exiles measure the collapse of the Pompeian cause."
+    },
+    {
+      "loc": "1",
+      "anchor": "Gaius Cassius set out from Rhodes for Alexandria",
+      "entity_id": "person:cassius-longinus",
+      "note": "C. Cassius Longinus, the future tyrannicide, had commanded a Pompeian fleet; with Pompey dead he was moving to seek out Caesar (then besieged at Alexandria) to make his peace."
+    },
+    {
+      "loc": "3",
+      "anchor": "the co-heirs in the Fufidian estate",
+      "entity_id": "person:q-fufidius",
+      "note": "Cicero held a share, alongside other heirs, in property once belonging to a Fufidius; Atticus was managing the partition on his behalf. This recurring \"Fufidian\" business is wholly distinct from the Caesarian legate Q. Fufius Calenus."
+    },
+    {
+      "loc": "4",
+      "anchor": "About buying back the farm at Frusino",
+      "entity_id": "place:frusino",
+      "note": "Cicero owned an estate near Frusinum in Latium and hoped to recover or repurchase it. Even amid ruin he kept up his property dealings, anxious for some secure income."
+    },
+    {
+      "loc": "4",
+      "anchor": "What resources we had, we made over to Pompey",
+      "entity_id": "person:pompey",
+      "note": "When Cicero joined Pompey's camp in 49-48 BC he had handed over his ready funds to the war effort, leaving himself short of cash now that the cause had failed. He recalls this to explain his present financial straits."
+    }
+  ]
+}

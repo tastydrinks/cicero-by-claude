@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-12",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Lepta",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Matio",
+      "entity_id": "person:gaius-matius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Trebatio",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Menturnis",
+      "entity_id": "place:minturnae",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesare",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "in Epirum",
+      "entity_id": "place:epirus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Mucianum",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "a dispatch is brought to me from Lepta",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Pompey is shut in by a siege-wall",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the same news from Matius",
+      "entity_id": "person:gaius-matius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "and Trebatius",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesar's couriers met at Minturnae",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesar's couriers met at Minturnae",
+      "entity_id": "place:minturnae",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the meeting and conversation with Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the invitation to Epirus",
+      "entity_id": "place:epirus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "that end of Mucius",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Dionysio",
+      "entity_id": "person:m-pomponius-dionysius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Scipionem",
+      "entity_id": "person:scipio-aemilianus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Panaetius",
+      "entity_id": "person:panaetius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "About Dionysius I have been astonished",
+      "entity_id": "person:m-pomponius-dionysius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "than Panaetius was in Scipio's",
+      "entity_id": "person:scipio-aemilianus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "than Panaetius was in Scipio's",
+      "entity_id": "person:panaetius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "populi Romani",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Cn. Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "urbs ista",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "praetores",
+      "entity_id": "office:praetor",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "aediles",
+      "entity_id": "office:aedile",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "The army of the Roman people",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "sits down around Cnaeus Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "that City of ours stands",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "the praetors give judgement",
+      "entity_id": "office:praetor",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "the aediles get up the games",
+      "entity_id": "office:aedile",
+      "in": "eng"
+    }
+  ]
+}

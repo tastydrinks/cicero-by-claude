@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "this letter is in my secretary's hand",
+      "entity_id": null,
+      "note": "Dictation to a librarius (secretary) rather than autograph writing was a mark of how pressed Cicero was; an autograph letter signalled intimacy or confidentiality."
+    },
+    {
+      "loc": "2",
+      "anchor": "the books on the orator",
+      "entity_id": null,
+      "note": "Cicero's dialogue De Oratore, completed in 55 BC; he cites his own practice in it as a precedent and defers tagging it here as a self-reference."
+    },
+    {
+      "loc": "2",
+      "anchor": "this discussion on the commonwealth",
+      "entity_id": null,
+      "note": "The De Republica, the dialogue Cicero is composing in 54 BC, set dramatically in 129 BC; a self-reference to a work in progress."
+    },
+    {
+      "loc": "2",
+      "anchor": "Africanus",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "P. Cornelius Scipio Aemilianus Africanus, the conqueror of Carthage (146) and Numantia (133); the principal speaker of the De Republica, whose 'Dream of Scipio' closes the work."
+    },
+    {
+      "loc": "2",
+      "anchor": "Philus",
+      "entity_id": "person:l-furius-philus",
+      "note": "L. Furius Philus, consul 136 BC, a learned member of the Scipionic circle; in the De Republica he is assigned the case against justice in book 3."
+    },
+    {
+      "loc": "2",
+      "anchor": "Laelius",
+      "entity_id": "person:laelius-sapiens",
+      "note": "C. Laelius Sapiens, consul 140 BC, the intimate friend of Scipio Aemilianus and a principal interlocutor of the De Republica; also the title figure of Cicero's De Amicitia."
+    },
+    {
+      "loc": "2",
+      "anchor": "Manilius",
+      "entity_id": "person:m-manilius",
+      "note": "M'. Manilius, consul 149 BC and a noted jurist; one of the older speakers of the De Republica."
+    },
+    {
+      "loc": "2",
+      "anchor": "Q. Tubero",
+      "entity_id": "person:q-aelius-tubero",
+      "note": "Q. Aelius Tubero, a Stoic and nephew of Scipio Aemilianus; one of the younger participants in the dialogue."
+    },
+    {
+      "loc": "2",
+      "anchor": "P. Rutilius",
+      "entity_id": "person:p-rutilius-rufus",
+      "note": "P. Rutilius Rufus, consul 105 BC, a Stoic statesman later condemned and exiled in a notorious miscarriage of justice; Cicero presents him as the source for the conversation."
+    },
+    {
+      "loc": "2",
+      "anchor": "the two sons-in-law of Laelius",
+      "entity_id": null,
+      "note": "Q. Mucius Scaevola the augur and C. Fannius, both of whom married daughters of Laelius; the kinship explains their presence in the dialogue."
+    },
+    {
+      "loc": "2",
+      "anchor": "Fannius",
+      "entity_id": "person:c-fannius-historian",
+      "note": "C. Fannius, consul 122 BC, son-in-law of Laelius and a historian; one of the younger speakers of the De Republica."
+    },
+    {
+      "loc": "2",
+      "anchor": "the way Aristotle does in the works he calls exoteric",
+      "entity_id": "person:aristotle",
+      "note": "Aristotle's 'exoteric' (popular, published) works, as opposed to his esoteric school treatises, were prized in antiquity for their literary prefaces; Cicero models his own book-proems on them."
+    },
+    {
+      "loc": "3",
+      "anchor": "the character of Scaevola",
+      "entity_id": "person:q-mucius-scaevola-augur",
+      "note": "Q. Mucius Scaevola the augur, jurist and son-in-law of Laelius; Atticus complained that Cicero withdrew him after book 1, and Cicero here defends the dramaturgical choice."
+    },
+    {
+      "loc": "3",
+      "anchor": "our divine Plato did in his \\textit{Republic}",
+      "entity_id": "text:plato-respublica",
+      "note": "Plato's Republic (Politeia), the dialogue Cicero takes as the structural model for his own De Republica; he cites its opening to justify easing Scaevola out of the conversation."
+    },
+    {
+      "loc": "3",
+      "anchor": "When Socrates had come down to Cephalus",
+      "entity_id": "person:cephalus-platonicus",
+      "note": "The Republic opens with Socrates visiting the elderly, wealthy Cephalus at his house in the Piraeus; after a short exchange Cephalus leaves for a sacrifice and is not heard from again."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Piraeus",
+      "entity_id": "place:piraeus",
+      "note": "The harbour-town of Athens, the dramatic setting of Plato's Republic."
+    },
+    {
+      "loc": "3",
+      "anchor": "Crassus's Tusculan villa",
+      "entity_id": "place:tusculum",
+      "note": "The country estate at Tusculum belonging to L. Licinius Crassus (cos. 95), the dramatic setting of much of the De Oratore; here Cicero gives the De Republica a similar villa setting."
+    },
+    {
+      "loc": "3",
+      "anchor": "the remaining books carry technical exposition",
+      "entity_id": null,
+      "note": "Greek technologia: the systematic doctrinal core of the later books, which Cicero felt unsuited to the genial old Scaevola who suited only the opening conversation."
+    },
+    {
+      "loc": "4",
+      "anchor": "the matter of Pilia",
+      "entity_id": "person:pilia",
+      "note": "Pilia, the wife of Atticus, whose affairs Cicero is handling as a favour to his friend; he notes it will also commend him to his own daughter Tullia."
+    },
+    {
+      "loc": "5",
+      "anchor": "Lex Junia and Licinia",
+      "entity_id": "law:lex-iunia-licinia",
+      "note": "A law of 62 BC requiring that the text of a bill be deposited in the treasury before promulgation; here it is the statute under which C. Cato faced (and beat) prosecution for his irregular tribunate of 56 BC."
+    },
+    {
+      "loc": "5",
+      "anchor": "Lex Fufia",
+      "entity_id": "law:lex-aelia-fufia",
+      "note": "The lex Aelia et Fufia, mid-second-century legislation regulating obstruction of public business by religious observance (obnuntiatio); a second count against C. Cato."
+    },
+    {
+      "loc": "5",
+      "anchor": "the fifth day before the Nones of Quintilis",
+      "entity_id": null,
+      "note": "3 July by the inclusive Roman count. Quintilis was the old name for the month later renamed July in honour of Julius Caesar."
+    },
+    {
+      "loc": "5",
+      "anchor": "The senatorial decree which these consuls have passed about the provinces",
+      "entity_id": null,
+      "note": "A decree of the consuls of 54 (Ap. Claudius Pulcher and L. Domitius Ahenobarbus) on the assignment of consular provinces; the 'whosoever hereafter' formula struck Cicero as unlikely to stand."
+    },
+    {
+      "loc": "6",
+      "anchor": "his aedileship",
+      "entity_id": "person:m-aemilius-scaurus-pr-56",
+      "note": "M. Aemilius Scaurus's aedileship of 58 BC was remembered for games of extraordinary lavishness; here it is an electoral asset as he stands for the consulship."
+    },
+    {
+      "loc": "6",
+      "anchor": "his father's memory",
+      "entity_id": null,
+      "note": "Scaurus's father was M. Aemilius Scaurus, the long-serving princeps senatus (cos. 115); his prestige carried weight with the rural voters."
+    },
+    {
+      "loc": "6",
+      "anchor": "Pompey's Gaul",
+      "entity_id": "place:gallia",
+      "note": "Cisalpine Gaul, where Pompey's veteran settlers and Caesar's soldiers formed a bloc of votes that Memmius hoped to draw on."
+    },
+    {
+      "loc": "7",
+      "anchor": "By Hercules",
+      "entity_id": "god:hercules",
+      "note": "Me hercule, a common Roman asseveration invoking Hercules; a mild oath of emphasis rather than a religious appeal."
+    }
+  ]
+}

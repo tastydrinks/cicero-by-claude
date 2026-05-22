@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the perquisites of the tribunate",
+      "entity_id": "office:tribunus-militum",
+      "note": "Tribunatus commoda: the pay, prestige, and prospects of a military tribunate, a staff post Caesar had evidently offered Trebatius. Cicero is amazed Trebatius would slight it, the more so since (the next clause notes) it carried none of the hard labour of campaigning."
+    },
+    {
+      "loc": "2",
+      "anchor": "Vacerra and Manilius",
+      "entity_id": "person:vacerra-iurisconsultus",
+      "note": "Two jurists of Cicero's legal circle; he jokes that he will lodge his complaint about Trebatius's career-folly with fellow lawyers. They recur (Manilius again with Mucius) as the chorus of Trebatius's professional world."
+    },
+    {
+      "loc": "2",
+      "anchor": "since you profess to have learned from him how to be wise",
+      "entity_id": "person:cornelius-iurisconsultus",
+      "note": "A jurisprudential pun: Cornelius was Trebatius's teacher in law (the sapere of a iuris consultus), so Cicero cannot scold him without implicating the master. Sapere ('to be wise / to have legal expertise') is the pivot Cicero plays on all through the Trebatius letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "that Precianus, the jurist",
+      "entity_id": "person:precius",
+      "note": "M. Precius (Precianus), a jurist and friend of Cicero whom Cicero is canvassing on Trebatius's behalf; he later left Cicero an inheritance (the hereditas Preciana, c. 50 BC)."
+    },
+    {
+      "loc": "2",
+      "anchor": "I await your British letters",
+      "entity_id": "place:britannia",
+      "note": "Vestras Britannicas litteras: Cicero awaits news from Caesar's army, then poised for or returning from the second British expedition of 54 BC, in which Trebatius declined to take part."
+    }
+  ]
+}

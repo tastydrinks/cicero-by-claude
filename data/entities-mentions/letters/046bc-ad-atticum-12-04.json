@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-04",
+  "mentions": [
+    {"loc": "1", "surface": "quod Tiro ἐνερευθέστερον te sibi esse visum dixerat", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "because Tiro had told me you had seemed to him", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "2", "surface": "sed de Catone πρόβλημα Ἀρχιμήδειον est", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "2", "surface": "quid est quod Aledio probare possimus", "entity_id": "person:aledius", "in": "lat"},
+    {"loc": "2", "surface": "But on Cato the case is", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "2", "surface": "Which of these can we make acceptable to Aledius", "entity_id": "person:aledius", "in": "eng"}
+  ]
+}

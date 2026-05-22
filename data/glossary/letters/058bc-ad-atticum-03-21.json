@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Epirus",
+      "entity_id": "place:epirus",
+      "note": "The north-western Greek region where Atticus held an estate near Buthrotum. Cicero again states his plan to move there from Thessalonica to await the outcome of the recall effort."
+    },
+    {
+      "loc": "1",
+      "anchor": "in my name",
+      "entity_id": null,
+      "note": "Cicero authorizes Atticus to write and dispatch letters under Cicero's own name as the recall campaign requires. Such delegated correspondence was a normal part of managing a patron's affairs in his absence."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Kalends of November",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month, with dates counted backward from them. The fifth day before the Kalends of November is 28 October."
+    }
+  ]
+}

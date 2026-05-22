@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "held as I am by the exceptions made in the edicts",
+      "entity_id": "person:antony",
+      "note": "Antony's edict barring Pompeians from Italy had named Cicero as an exception, so that he could not even withdraw quietly into exile elsewhere. Cicero feels the exemption as a trap rather than a favour, since it ties his fate to Caesar's pleasure."
+    },
+    {
+      "loc": "1",
+      "anchor": "I came in before the entry of the new tribunate",
+      "entity_id": "office:tribune",
+      "note": "Cicero crossed to Italy before the tribunes of 47 BC took office on 10 December 48 BC, hoping to avoid being caught by hostile legislation. He found himself overborne all the same by Caesar's debt law."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pomponia, I believe, has his seal",
+      "entity_id": "person:pomponia",
+      "note": "Pomponia, Atticus's sister, was the estranged wife of Cicero's brother Quintus; Cicero notes she keeps Quintus's signet so the broken seals on the intercepted packet cannot easily be traced to him. The remark underlines how far the brothers' bond had decayed."
+    },
+    {
+      "loc": "3",
+      "anchor": "I have written this to you on my birthday",
+      "entity_id": "person:cicero",
+      "note": "Cicero was born on 3 January 106 BC; this letter is dated to his fifty-ninth birthday, 3 January 47 BC. The despairing wish that follows --- that he had never been born --- marks the depth of his Brundisium misery."
+    },
+    {
+      "loc": "3",
+      "anchor": "leaving that poor girl stripped of her patrimony",
+      "entity_id": "person:tullia",
+      "note": "Cicero feared he could leave his daughter Tullia nothing, his estate being forfeit or inaccessible while he was a defeated Pompeian. Her dowry to Dolabella and her own provision were now in jeopardy."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-28",
+  "mentions": [
+    {"loc": "1", "surface": "CVRIO", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "1", "surface": "CVRIO", "entity_id": "person:mn-curius-patrensis", "in": "eng"},
+    {"loc": "1", "surface": "huius urbis", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "this City", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "haec urbs", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "this City", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Peloponnesus", "entity_id": "place:peloponnesus", "in": "lat"},
+    {"loc": "1", "surface": "Peloponnese", "entity_id": "place:peloponnesus", "in": "eng"},
+    {"loc": "1", "surface": "Patrae", "entity_id": "place:patrae", "in": "both"},
+    {"loc": "1", "surface": "Graeciam", "entity_id": "place:graecia", "in": "lat"},
+    {"loc": "1", "surface": "Greece", "entity_id": "place:graecia", "in": "eng"},
+    {"loc": "3", "surface": "in cuius potestate omnia sunt", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "the man in whose power everything stands", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

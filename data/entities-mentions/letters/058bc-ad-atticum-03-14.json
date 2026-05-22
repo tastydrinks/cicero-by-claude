@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-14",
+  "mentions": [
+    {"loc": "1", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Thessalonica", "entity_id": "place:thessalonica", "in": "lat"},
+    {"loc": "2", "surface": "Plancio", "entity_id": "person:cn-plancius", "in": "lat"},
+    {"loc": "2", "surface": "Epirum", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "2", "surface": "Italiam", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "2", "surface": "Asiam", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "2", "surface": "Thessalonicae", "entity_id": "place:thessalonica", "in": "lat"},
+    {"loc": "2", "surface": "Thessalonica", "entity_id": "place:thessalonica", "in": "eng"},
+    {"loc": "2", "surface": "Plancius", "entity_id": "person:cn-plancius", "in": "eng"},
+    {"loc": "2", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "2", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "2", "surface": "Thessalonica", "entity_id": "place:thessalonica", "in": "eng"}
+  ]
+}

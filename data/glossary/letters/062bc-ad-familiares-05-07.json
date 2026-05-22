@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "If you and the army are well, that is well",
+      "entity_id": null,
+      "note": "The standard epistolary health-formula, abbreviated in the Latin as S.T.E.Q.V.B.E. (si tu exercitusque vales, bene est). Cicero uses the full official form because he writes to Pompey as a commander in the field."
+    },
+    {
+      "loc": "1",
+      "anchor": "your old enemies, your new friends",
+      "entity_id": null,
+      "note": "Pointed wordplay: the men once hostile to Pompey are now the populares and Caesarian allies whose hopes Pompey's dispatch has dashed. Cicero hints that Pompey's natural place is with the optimate cause he himself defends."
+    },
+    {
+      "loc": "3",
+      "anchor": "far greater than Africanus was",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "Cicero casts the proposed Pompey–Cicero partnership in the mold of the famous friendship of Scipio Aemilianus (Africanus the Younger) and Gaius Laelius. He flatters Pompey as the greater Scipio and modestly takes the supporting role of Laelius the wise."
+    },
+    {
+      "loc": "3",
+      "anchor": "not much less than Laelius was",
+      "entity_id": "person:laelius-sapiens",
+      "note": "Laelius Sapiens, the trusted counselor and intimate of Scipio Aemilianus, was the proverbial type of the loyal friend of a great man. Cicero offers himself in that role to Pompey."
+    }
+  ]
+}

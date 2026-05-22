@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "you most carefully warned the Senate",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "As consul in 51 BC, Servius Sulpicius Rufus had urged the Senate to remember the horrors of past civil wars and to avoid forcing a confrontation with Caesar. By the time of this letter (about 46 BC, after Caesar's victory) Cicero presents that warning as tragically vindicated."
+    },
+    {
+      "loc": "1",
+      "anchor": "as if from some watchtower, I saw the coming storm",
+      "entity_id": null,
+      "note": "A standard ancient image (the philosopher or statesman watching the tempest from a height) for political foresight; Cicero claims he and Servius both foresaw the civil war that ordinary politicians ignored."
+    },
+    {
+      "loc": "2",
+      "anchor": "as it were among the ruined walls of the state",
+      "entity_id": null,
+      "note": "Latin parietinae means the crumbling walls of a gutted building. Cicero casts the Republic after Caesar's victory as a ruined house, its institutions standing only as a shell."
+    },
+    {
+      "loc": "2",
+      "anchor": "Caesar himself judges you as he does",
+      "entity_id": "person:caesar",
+      "note": "Written when Caesar, victorious in the civil war, was effectively master of Rome. Cicero reassures Servius that even the dictator esteems his integrity, a delicate compliment given that Servius had supported the losing Pompeian side and now held a post under Caesar."
+    },
+    {
+      "loc": "4",
+      "anchor": "have turned all my care and labor to philosophy",
+      "entity_id": "person:cicero",
+      "note": "With public life closed off under Caesar's autocracy, Cicero withdrew to write the great philosophical works of 46--44 BC. Here he commends the same consolation to Servius, who as a famous jurist was a fellow man of learning."
+    },
+    {
+      "loc": "4",
+      "anchor": "Your son Servius, in all the liberal arts",
+      "entity_id": "person:servius-sulpicius-rufus-younger",
+      "note": "The younger Servius Sulpicius Rufus, the addressee's son, was then in Rome and a frequent companion of Cicero. The \"liberal arts\" (artes ingenuae) are the studies fit for a free-born gentleman: literature, rhetoric, and philosophy."
+    }
+  ]
+}

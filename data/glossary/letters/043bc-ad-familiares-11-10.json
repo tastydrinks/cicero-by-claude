@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-10",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "by emptying the slave-pens",
+      "entity_id": null,
+      "note": "Latin ergastula: the barrack-prisons in which chained agricultural slaves were kept. Releasing and arming them was a sign of Antony's desperation after Mutina and a slur on the quality of his new troops."
+    },
+    {
+      "loc": "3",
+      "anchor": "has reached Vada",
+      "entity_id": "place:vada-sabatia",
+      "note": "Vada Sabatia (near modern Vado Ligure) on the Ligurian coast, where Ventidius brought his column over the Apennines to join Antony. Not to be confused with Vada Volaterrana in Etruria."
+    },
+    {
+      "loc": "5",
+      "anchor": "I had four hundred thousand sesterces and more of my own",
+      "entity_id": null,
+      "note": "The sesterce (HS) was the standard Roman accounting coin; 400,000 was the property qualification for the equestrian order, so Decimus is saying he has spent a full knight's census on the war."
+    },
+    {
+      "loc": "5",
+      "anchor": "not if I had Varro's treasuries could I keep up with the expense",
+      "entity_id": "person:m-terentius-varro",
+      "note": "M. Terentius Varro, the great scholar and reputedly very wealthy landowner, here stands proverbially for vast riches."
+    },
+    {
+      "loc": "5",
+      "anchor": "5 May, from camp at Dertona",
+      "entity_id": "place:dertona",
+      "note": "Latin iii Non. Mai., the third day before the Nones of May counted inclusively, i.e. 5 May. Dertona (modern Tortona) lay on the road Decimus was following in pursuit of Antony."
+    }
+  ]
+}

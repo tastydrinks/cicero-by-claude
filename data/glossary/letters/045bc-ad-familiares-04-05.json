@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "After the news was brought to me of the death of your daughter Tullia",
+      "entity_id": "person:tullia",
+      "note": "Tullia, Cicero's beloved only daughter, died in February 45 BC at Cicero's villa at Tusculum, shortly after giving birth following her divorce from Dolabella. Her death plunged Cicero into a famous, near-incapacitating grief; this letter from his friend Servius is the most celebrated of the consolations he received and a classic of the ancient consolatory genre."
+    },
+    {
+      "loc": "1",
+      "anchor": "I should have made my own sorrow plain to you face to face",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus (cos. 51), Rome's foremost jurist of the age and a longtime friend of Cicero, was at this time Caesar's governor of Achaea (Greece), which is why he writes from a distance rather than consoling Cicero in person."
+    },
+    {
+      "loc": "2",
+      "anchor": "the things have been wrenched from us which ought to be no less dear to a man than his children --- country, honour, public standing, every office",
+      "entity_id": null,
+      "note": "Servius argues that the collapse of the free Republic under Caesar's dictatorship has already cost both men everything that mattered politically, so that a private bereavement should weigh less by comparison. This subordination of personal grief to the loss of the commonwealth is the letter's central consolatory move."
+    },
+    {
+      "loc": "3",
+      "anchor": "It was open to you, I imagine, suiting your standing, to choose a son-in-law from the young men of our day",
+      "entity_id": null,
+      "note": "Roman marriages were arranged by the paterfamilias to advance the family's standing; Servius suggests that under Caesar's regime no suitable aristocratic match remains for a senator's daughter, so Tullia is spared a bleak future. The remark also obliquely recalls the unhappy outcome of Tullia's actual marriage to the Caesarian Dolabella."
+    },
+    {
+      "loc": "4",
+      "anchor": "Behind me was Aegina, before me Megara, on my right the Piraeus, on my left Corinth --- cities which at one time were of the highest flourishing, and which now lie thrown down and broken in ruins",
+      "entity_id": null,
+      "note": "This is the most famous passage of the letter: Servius recalls sailing through the Saronic Gulf and seeing four once-great Greek cities in ruins (Corinth had been razed by Rome in 146 BC). The reflection that whole cities die became a celebrated meditation on mortality, echoed for instance by Sulpicius Severus and much later by Byron."
+    },
+    {
+      "loc": "4",
+      "anchor": "remember that you were born a man",
+      "entity_id": null,
+      "note": "The thought 'remember you are a mortal man' (memento te hominem esse) is a Stoic and consolatory commonplace, urging acceptance of death as natural and universal. Servius, addressing himself in the recalled monologue, models the self-admonition he wants Cicero to adopt."
+    },
+    {
+      "loc": "5",
+      "anchor": "that she saw you, her father, praetor, consul, augur",
+      "entity_id": null,
+      "note": "Servius lists the high offices Cicero held in Tullia's lifetime --- praetor (66 BC), consul (63 BC), and augur (a coveted lifelong priesthood, co-opted 53/52 BC) --- arguing she enjoyed every honour a daughter could wish and died before having to witness her father's full eclipse under Caesar."
+    },
+    {
+      "loc": "6",
+      "anchor": "do not give anyone occasion to think that you mourn not so much your daughter as the present times of the commonwealth and the victory of others",
+      "entity_id": null,
+      "note": "A pointed warning: open, excessive grief might be read by Caesar's partisans as a political protest disguised as bereavement (the 'victory of others' being Caesar's triumph in the civil war). Servius urges restraint partly for Cicero's own safety under the dictatorship."
+    }
+  ]
+}

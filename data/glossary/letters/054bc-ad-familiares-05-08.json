@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-08",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "your wife, the most outstanding of all women, and your sons",
+      "entity_id": null,
+      "note": "Crassus's wife was Tertulla; the two sons are Marcus and Publius Licinius Crassus, the \"two Crassi\" of section 4. Cicero stresses that he is now openly cultivating the whole household."
+    },
+    {
+      "loc": "4",
+      "anchor": "your two Crassi",
+      "entity_id": "person:p-crassus-iunior",
+      "note": "Marcus (the elder son, quaestor under Caesar) and Publius (the younger, Cicero's literary admirer, killed with his father at Carrhae in 53 BC). Cicero names them as the fittest judges of his goodwill toward their father."
+    },
+    {
+      "loc": "4",
+      "anchor": "as a second parent",
+      "entity_id": "person:p-crassus-iunior",
+      "note": "Alterum parentem: Cicero says young Publius Crassus reveres and loves him almost as a father, the warmest note in this otherwise diplomatic letter of reconciliation."
+    },
+    {
+      "loc": "5",
+      "anchor": "the force of a treaty, not of a letter",
+      "entity_id": null,
+      "note": "Foederis vim, non epistulae: the famous formula in which Cicero asks Crassus to read the letter as a binding pact between them. The whole letter (54 BC) is a careful repair of long-strained relations on the eve of Crassus's departure for Syria."
+    }
+  ]
+}

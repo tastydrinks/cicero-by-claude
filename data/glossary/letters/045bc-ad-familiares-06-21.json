@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "you alone in that whole army agreed with me",
+      "entity_id": "person:toranius",
+      "note": "Cicero credits Toranius as the one man in the Pompeian camp who shared his own assessment that civil war could lead only to destruction or enslavement regardless of outcome. This solidarity is the emotional core of Cicero's consolatory relationship with Toranius across Fam. 6.20-21."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Domitii and Lentuli, used to call timid",
+      "note": "L. Domitius Ahenobarbus (consul 54 BC), the most intransigent Pompeian commander, and Lentulus Crus (consul 49 BC) were the hardliners who scorned Cicero's warnings about the war's likely outcome; both died after Pharsalus (48 BC), confirming Cicero's pessimism."
+    },
+    {
+      "loc": "1",
+      "anchor": "with all hope of peace shut out, the very victory was bound to be of the bitterest kind: destruction it would bring, if you were defeated; if you conquered, slavery",
+      "note": "Cicero's central political argument against the Pompeian war, stated most sharply here: even Pompeian victory would have produced a military autocracy (servitudo) rather than restored republicanism, since Pompey too was not governing through the Senate. The dilemma proved correct."
+    },
+    {
+      "loc": "2",
+      "anchor": "even if things have turned out otherwise, you yet judged rightly and truly",
+      "note": "A consolatory topos: the rightness of a decision is independent of the outcome, since outcomes depend on fortune while judgment belongs to the agent. Cicero applies to Toranius the Stoic-inflected argument he had developed more fully in the post-civil-war philosophical writings."
+    },
+    {
+      "loc": "3",
+      "anchor": "for your safety, and for your children",
+      "entity_id": "person:toranius",
+      "note": "Toranius was later proscribed in 43 BC by the triumvirs, his son reportedly betraying him to Octavian; the assurance here that his children are safe and devoted sits in tragic retrospect against that outcome."
+    }
+  ]
+}

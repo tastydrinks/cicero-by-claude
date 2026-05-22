@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-38",
+  "mentions": [
+    {"loc": "1", "surface": "a sororis tuae filio", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "Bruti nostri", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "nam ad patrem de me quid scripserit", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "de matre quam pie", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "1", "surface": "from your sister's son", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "our Brutus's daily and tireless praise", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "What he wrote about me to his father", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "about his mother, how lovingly", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "2", "surface": "hanc autem causam pater odium matris esse dicebat", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "odium matris", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "2", "surface": "mi Attice", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "2", "surface": "ut enim Pindaro", "entity_id": "person:pindar", "in": "lat"},
+    {"loc": "2", "surface": "in Tusculano opprimar", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "2", "surface": "utrum igitur Asturae", "entity_id": "place:astura", "in": "lat"},
+    {"loc": "2", "surface": "quid si Caesar subito", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "His father said the reason was his hatred of his mother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "hatred of his mother", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "2", "surface": "my dear Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "For as with Pindar", "entity_id": "person:pindar", "in": "eng"},
+    {"loc": "2", "surface": "caught here at the Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "To Astura, then", "entity_id": "place:astura", "in": "eng"},
+    {"loc": "2", "surface": "what if Caesar drops in", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

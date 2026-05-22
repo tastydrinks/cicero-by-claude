@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "interrex",
+      "entity_id": "office:interrex",
+      "note": "When both consulships fell vacant, the Senate appointed a series of interreges, each holding office for five days, to conduct elections. In 53 BC electoral violence produced a long string of these interregna, the basis of Cicero's joke that no one needs a jurist."
+    },
+    {
+      "loc": "1",
+      "anchor": "demand two adjournments from each interrex",
+      "entity_id": null,
+      "note": "A mock legal tip: an advocatio was a postponement of a case. Cicero pretends that the rapid turnover of interreges can be exploited to stall any prosecution indefinitely, parading the 'civil law' he claims to have learned from Trebatius."
+    },
+    {
+      "loc": "2",
+      "anchor": "Laberius",
+      "entity_id": "person:laberius",
+      "note": "Decimus Laberius, the leading writer of mimes (low comic sketches) of the day. Cicero jokes that if Trebatius stays away too long he will become a stock comic type, 'the British jurisconsult,' fit for Laberius's stage."
+    },
+    {
+      "loc": "2",
+      "anchor": "the British jurisconsult",
+      "entity_id": "person:c-trebatius-testa",
+      "note": "Cicero's running gag: Trebatius, a serious Roman jurist, has been reduced to dispensing law in the wilds of Gaul and Britain, an absurd figure ripe for the comic stage."
+    }
+  ]
+}

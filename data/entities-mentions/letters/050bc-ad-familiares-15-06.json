@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-06",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "M. CATONI", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "1", "surface": "M. CATONI", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "1", "surface": "Hector", "entity_id": "person:hector", "in": "lat"},
+    {"loc": "1", "surface": "Hector", "entity_id": "person:hector", "in": "eng"},
+    {"loc": "1", "surface": "Naevium", "entity_id": "person:naevius", "in": "lat"},
+    {"loc": "1", "surface": "Naevius", "entity_id": "person:naevius", "in": "eng"},
+    {"loc": "1", "surface": "multi Catones", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "1", "surface": "many Catos", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "1", "surface": "currum", "entity_id": "institution:triumph", "in": "lat"},
+    {"loc": "1", "surface": "chariot", "entity_id": "institution:triumph", "in": "eng"},
+    {"loc": "2", "surface": "senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "illum ordinem", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "that body", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "supplicationis", "entity_id": "festival:supplicatio", "in": "lat"},
+    {"loc": "2", "surface": "the thanksgiving", "entity_id": "festival:supplicatio", "in": "eng"},
+    {"loc": "2", "surface": "senatus consulta", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "decrees of the Senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

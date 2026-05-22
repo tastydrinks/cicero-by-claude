@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-10",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "TREBIANO",
+      "entity_id": "person:trebianus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Postumuleno",
+      "entity_id": "person:postumulenus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Sestio",
+      "entity_id": "person:sestius-tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Attico",
+      "entity_id": "person:atticus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Theudae",
+      "entity_id": "person:theudas-libertus-trebiani",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "TREBIANUS",
+      "entity_id": "person:trebianus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Postumulenus",
+      "entity_id": "person:postumulenus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Sestius",
+      "entity_id": "person:sestius-tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "our Atticus",
+      "entity_id": "person:atticus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Theudas your freedman",
+      "entity_id": "person:theudas-libertus-trebiani",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "ipse, qui plurimum potest",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "he himself, who has the most power",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    }
+  ]
+}

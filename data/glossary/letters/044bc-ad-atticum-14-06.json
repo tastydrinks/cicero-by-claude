@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "at Fundi",
+      "entity_id": null,
+      "note": "Fundi, a town on the Via Appia in southern Latium where Cicero broke his journey; no registry place entity could be bound to it."
+    },
+    {
+      "loc": "1",
+      "anchor": "I am waiting to hear about Marius",
+      "entity_id": null,
+      "note": "Not the great C. Marius but the impostor \"Marius\" (Herophilus/Amatius), a freedman who posed as a grandson of Marius and stirred the urban crowd after the assassination; Antony had him summarily executed in mid-April 44. No registry entity matches this pseudo-Marius, so the surface is left unbound."
+    },
+    {
+      "loc": "1",
+      "anchor": "our heroes",
+      "entity_id": null,
+      "note": "Cicero's recurring honorific for the tyrannicides (Brutus, Cassius, and their associates), the \"heroes\" of the Ides; a collective epithet rather than a single bindable person."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Ides of March",
+      "entity_id": "event:ides-of-march",
+      "note": "The assassination of Caesar on 15 March 44 BC; throughout these letters the single political fact Cicero says still pleases him."
+    },
+    {
+      "loc": "1",
+      "anchor": "that scoundrel Curtilius",
+      "entity_id": "person:curtilius",
+      "note": "Curtilius, denounced here as a verbero (\"whipping-post,\" a scoundrel fit only for flogging), had got hold of the estate of Sextilius; he recurs in 14.10 in the list of profiteers exploiting Caesar's confirmed acta."
+    },
+    {
+      "loc": "2",
+      "anchor": "the consuls and tribunes of the plebs he chose for the next two years",
+      "entity_id": null,
+      "note": "Under his confirmed acta Caesar had nominated magistrates years in advance; Cicero's complaint is that the Liberators must now uphold the dead dictator's appointments for 43 and 42 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "to play the citizen",
+      "entity_id": null,
+      "note": "Renders Cicero's Greek politeuesthai (to engage in public life); he laces this letter with Greek political terms (soloikon, pepoliteumetha, politikotera) in the manner of his exchanges with the bookish Atticus."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-12",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO PROCOS.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "L. PAVLLO COS. DESIG.", "entity_id": "person:l-aemilius-paulus-cos50", "in": "lat"},
+    {"loc": "1", "surface": "M. Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "L. Paullus", "entity_id": "person:l-aemilius-paulus-cos50", "in": "eng"},
+    {"loc": "1", "surface": "populus R.", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "the Roman people", "entity_id": "institution:populus-romanus", "in": "eng"}
+  ]
+}

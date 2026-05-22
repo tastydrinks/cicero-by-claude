@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-18",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "Gallici belli", "entity_id": "event:bellum-gallicum", "in": "lat"},
+    {"loc": "1", "surface": "Gallic war", "entity_id": "event:bellum-gallicum", "in": "eng"},
+    {"loc": "3", "surface": "Balbo", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "3", "surface": "Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "3", "surface": "Pomptino", "entity_id": "place:ager-pomptinus", "in": "lat"},
+    {"loc": "3", "surface": "Pomptine country", "entity_id": "place:ager-pomptinus", "in": "eng"},
+    {"loc": "3", "surface": "M. Aemili Philemonis", "entity_id": "person:m-aemilius-philemo", "in": "lat"},
+    {"loc": "3", "surface": "M. Aemilius Philemo", "entity_id": "person:m-aemilius-philemo", "in": "eng"},
+    {"loc": "3", "surface": "Ulubris", "entity_id": "place:ulubrae", "in": "lat"},
+    {"loc": "3", "surface": "Ulubrae", "entity_id": "place:ulubrae", "in": "eng"},
+    {"loc": "3", "surface": "Pomptino", "entity_id": "place:ager-pomptinus", "in": "lat"},
+    {"loc": "3", "surface": "Pomptine", "entity_id": "place:ager-pomptinus", "in": "eng"},
+    {"loc": "4", "surface": "L. Arruntio", "entity_id": "person:l-arruntius", "in": "lat"},
+    {"loc": "4", "surface": "L. Arruntius", "entity_id": "person:l-arruntius", "in": "eng"},
+    {"loc": "4", "surface": "Arruntius", "entity_id": "person:l-arruntius", "in": "both"}
+  ]
+}

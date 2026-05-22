@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-17",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "D. BRVTO", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTO", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "L. Lamia", "entity_id": "person:l-aelius-lamia-pr42", "in": "lat"},
+    {"loc": "1", "surface": "L. Lamia", "entity_id": "person:l-aelius-lamia-pr42", "in": "eng"},
+    {"loc": "1", "surface": "populo Romano", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "the Roman people", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "1", "surface": "munere aedilitatis", "entity_id": "office:aedile", "in": "lat"},
+    {"loc": "1", "surface": "the office of aedile", "entity_id": "office:aedile", "in": "eng"},
+    {"loc": "1", "surface": "praeturam", "entity_id": "office:praetor", "in": "lat"},
+    {"loc": "1", "surface": "praetorship", "entity_id": "office:praetor", "in": "eng"},
+    {"loc": "2", "surface": "Brute", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "2", "surface": "Brutus", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "2", "surface": "Lamiam", "entity_id": "person:l-aelius-lamia-pr42", "in": "lat"},
+    {"loc": "2", "surface": "Lamia", "entity_id": "person:l-aelius-lamia-pr42", "in": "eng"}
+  ]
+}

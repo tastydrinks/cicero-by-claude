@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-20",
+  "mentions": [
+    {"loc": "1", "surface": "quam me nec Antonius commovent", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "de Terentia autem scripsi ad te", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "how little either Antonius moves me", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "About Terentia I have written to you", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "2", "surface": "non nihil etiam de Terentia", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "2", "surface": "item Rutilia vivone C. Cotta filio suo mortua sit an mortuo", "entity_id": "person:rutilia", "in": "lat"},
+    {"loc": "2", "surface": "item Rutilia vivone C. Cotta filio suo mortua sit an mortuo", "entity_id": "person:c-cotta", "in": "lat"},
+    {"loc": "2", "surface": "and somewhat also about Terentia", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "2", "surface": "And likewise Rutilia: did she die while her son Gaius Cotta was still living", "entity_id": "person:rutilia", "in": "eng"},
+    {"loc": "2", "surface": "did she die while her son Gaius Cotta was still living", "entity_id": "person:c-cotta", "in": "eng"}
+  ]
+}

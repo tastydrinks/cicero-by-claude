@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "nor, in any way, to console you",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "A second letter to the exiled M. Marcellus (cos. 51), in the same campaign of persuasion as Fam. 4.7. Cicero strikes the consolatory pose only to disclaim it: Marcellus's Stoic fortitude needs no comfort, and Cicero confesses he cannot even console himself amid the ruin of the Republic."
+    },
+    {
+      "loc": "2",
+      "anchor": "If there is to be any commonwealth",
+      "entity_id": null,
+      "note": "The recurring res publica theme of these letters: Cicero argues that whether or not a genuine commonwealth survives under Caesar's dominance, Rome remains the right place for Marcellus to be — either as a leading citizen or, failing that, as the most fitting place even for a kind of internal exile."
+    },
+    {
+      "loc": "2",
+      "anchor": "what place is empty of this tyranny?",
+      "entity_id": "person:caesar",
+      "note": "Cicero names Caesar's regime a dominatus (tyranny/sole rule). His point is bleakly pragmatic: since Caesar's power reaches everywhere, fleeing abroad buys no real liberty, so one may as well live at home."
+    },
+    {
+      "loc": "2",
+      "anchor": "even the man who holds all things looks kindly upon talent",
+      "entity_id": "person:caesar",
+      "note": "Caesar (\"the man who holds all things\") is here credited with genuine regard for ability, nobility, and rank — a calculated nod to his clementia, the famous policy of clemency toward pardoned opponents that underlay the recall of Marcellus."
+    }
+  ]
+}

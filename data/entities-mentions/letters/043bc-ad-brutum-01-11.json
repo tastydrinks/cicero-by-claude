@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-11",
+  "mentions": [
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Ciceroni", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "Ciceroni", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "veteris Antisti", "entity_id": "person:p-antistius-vetus", "in": "lat"},
+    {"loc": "1", "surface": "Veteran Antistius", "entity_id": "person:p-antistius-vetus", "in": "eng"},
+    {"loc": "1", "surface": "Caesare", "entity_id": "person:octavian", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:octavian", "in": "eng"},
+    {"loc": "1", "surface": "Antonio", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "Dolabella", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "Dolabella", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "1", "surface": "Achaia", "entity_id": "place:achaia", "in": "lat"},
+    {"loc": "1", "surface": "Achaia", "entity_id": "place:achaia", "in": "eng"},
+    {"loc": "2", "surface": "imperator", "entity_id": "person:p-antistius-vetus", "in": "lat"},
+    {"loc": "2", "surface": "commander", "entity_id": "person:p-antistius-vetus", "in": "eng"},
+    {"loc": "2", "surface": "praetorum comitia", "entity_id": "office:praetor", "in": "lat"},
+    {"loc": "2", "surface": "praetorian comitia", "entity_id": "office:praetor", "in": "eng"},
+    {"loc": "2", "surface": "consules", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "consuls", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "mi Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "2", "surface": "my Cicero", "entity_id": "person:cicero", "in": "eng"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "out of the goodwill of the best and most powerful man",
+      "entity_id": "person:caesar",
+      "note": "The 'best and most powerful man' is Caesar. Cicero reminds Quintus that the whole point of his serving as Caesar's legate in Gaul was to win Caesar's protective goodwill for the family's standing, not for petty gain."
+    },
+    {
+      "loc": "2",
+      "anchor": "do not entrust to any letter a thing such that, if it were brought out, we should be sorry",
+      "entity_id": null,
+      "note": "Letters travelled by hand and could be intercepted or read by their carriers. In the dangerous politics of 54 BC, Cicero urges his brother to keep anything compromising out of correspondence."
+    },
+    {
+      "loc": "3",
+      "anchor": "in these leisure days of the thanksgivings",
+      "entity_id": "festival:supplicatio",
+      "note": "A supplicatio was a public thanksgiving decreed by the Senate, here for Caesar's victories in Gaul, during which courts and business were suspended. Cicero means to use the holiday to finish a poem honouring Caesar."
+    },
+    {
+      "loc": "3",
+      "anchor": "a certain consul along with Domitius",
+      "entity_id": "person:cn-domitius-calvinus",
+      "note": "Cicero and Quintus reckon that their friend Messalla and Cn. Domitius Calvinus will be the consuls elected for 53 BC, as eventually happened after long delay. Cicero promises to commend Messalla to Caesar."
+    },
+    {
+      "loc": "4",
+      "anchor": "the elections brought to an interregnum",
+      "entity_id": null,
+      "note": "When no consuls could be elected in time, the state fell to a series of interreges (patrician senators each holding office five days) until elections could be held. The deadlock of 54-53 BC fed the talk of making Pompey dictator."
+    },
+    {
+      "loc": "6",
+      "anchor": "He is preparing games of the most magnificent kind",
+      "entity_id": "person:milo",
+      "note": "Milo, standing for the consulship of 52 BC, lavished ruinous sums on public games to court the electorate. Cicero thinks the expense pointless, especially as Milo was not even acting as aedile when he gave them."
+    }
+  ]
+}

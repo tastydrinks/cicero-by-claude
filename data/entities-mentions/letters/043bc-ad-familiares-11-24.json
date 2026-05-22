@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-24",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "D. BRUTO", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRUTO", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "COS. DESIG.", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "COS. DESIG.", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "Lepidum", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "1", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "1", "surface": "Brute", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "2", "surface": "in Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "2", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Servium", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "lat"},
+    {"loc": "2", "surface": "Servius", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "eng"}
+  ]
+}

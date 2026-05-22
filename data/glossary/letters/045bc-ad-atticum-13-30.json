@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-30",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I had just dispatched Demeas to you",
+      "entity_id": "person:demeas",
+      "note": "Demeas was a courier carrying letters between Cicero and Atticus in the summer of 45 BC. The traffic of named messengers (Demeas, Eros) marks the daily, near-hourly rhythm of this correspondence."
+    },
+    {
+      "loc": "1",
+      "anchor": "when Eros came to me",
+      "entity_id": "person:eros-atticianus",
+      "note": "Eros was Atticus's accounts-secretary, the man handling the financial mechanics of the Faberian debt and the gardens purchase. His reports on what \"cannot be today\" track the deal's progress."
+    },
+    {
+      "loc": "2",
+      "anchor": "the ten commissioners to Mummius",
+      "entity_id": null,
+      "note": "The decem legati: a senatorial board of ten sent to assist a victorious commander in organizing conquered territory, here the settlement of Greece after L. Mummius sacked Corinth in 146 BC. Cicero is researching their membership for an antiquarian dialogue he plans to set in that period."
+    },
+    {
+      "loc": "2",
+      "anchor": "I remember Albinus the consular",
+      "entity_id": "person:a-postumius-albinus-cos151",
+      "note": "A. Postumius Albinus, consul 151 BC, a philhellene annalist and one of the ten commissioners on the Greek settlement (he reappears as \"Postumius\" in 13.32). \"Consular\" (consularis) means a man who has already held the consulship."
+    },
+    {
+      "loc": "2",
+      "anchor": "in Libo's annals",
+      "entity_id": "person:l-scribonius-libo-cos34",
+      "note": "A chronological history (annales) by L. Scribonius Libo, used here by Cicero as a reference work for dating magistracies. The conflict between Libo's dates and Hortensius's recollection is the puzzle Cicero is trying to resolve."
+    },
+    {
+      "loc": "2",
+      "anchor": "I want someone at Olympia",
+      "entity_id": "place:olympia",
+      "note": "Olympia, the great sanctuary of Zeus in the Peloponnese, is the proposed setting for the dialogue Cicero is planning. He wants a historically attested cast of speakers gathered there in the manner described below."
+    },
+    {
+      "loc": "2",
+      "anchor": "in the manner of your friend Dicaearchus",
+      "entity_id": "person:dicaearchus",
+      "note": "Dicaearchus of Messana, a pupil of Aristotle, wrote dialogues and political works Cicero admired as models. The \"political gathering\" Cicero wants to stage imitates Dicaearchus's technique of assembling notable figures in conversation."
+    }
+  ]
+}

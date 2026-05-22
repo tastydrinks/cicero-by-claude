@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-28",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "L. Mescinio", "entity_id": "person:l-mescinius", "in": "lat"},
+    {"loc": "1", "surface": "L. Mescinius", "entity_id": "person:l-mescinius", "in": "eng"},
+    {"loc": "2", "surface": "Mescinio", "entity_id": "person:l-mescinius", "in": "lat"},
+    {"loc": "2", "surface": "Mescinius", "entity_id": "person:l-mescinius", "in": "eng"},
+    {"loc": "2", "surface": "Oppia", "entity_id": "person:oppia-mindi-uxor", "in": "lat"},
+    {"loc": "2", "surface": "Oppia", "entity_id": "person:oppia-mindi-uxor", "in": "eng"},
+    {"loc": "2", "surface": "Mindi", "entity_id": "person:m-mindius", "in": "lat"},
+    {"loc": "2", "surface": "Mindius", "entity_id": "person:m-mindius", "in": "eng"},
+    {"loc": "2", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "Mescini", "entity_id": "person:l-mescinius", "in": "lat"},
+    {"loc": "3", "surface": "Mescinius", "entity_id": "person:l-mescinius", "in": "eng"}
+  ]
+}

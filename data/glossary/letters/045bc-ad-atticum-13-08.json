@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the packet is delivered to Vestorius",
+      "entity_id": "person:c-vestorius",
+      "note": "Gaius Vestorius, a banker and businessman of Puteoli who managed financial affairs for Cicero on the Bay of Naples. He is the local agent through whom Cicero ran the Campanian property and inheritance business of these months."
+    },
+    {
+      "loc": "1",
+      "anchor": "Q.~Staberius' estate",
+      "entity_id": "person:q-staberius",
+      "note": "Quintus Staberius, owner of an estate in the Pompeii/Nola district that Cicero is having scouted for purchase. The inquiry belongs to Cicero's wider hunt of 45 BC for a property on which to build a shrine (fanum) to his dead daughter Tullia."
+    },
+    {
+      "loc": "1",
+      "anchor": "or Nola",
+      "entity_id": "place:nola",
+      "note": "An old Campanian town inland from Vesuvius, east of Pompeii; here it names the surrounding territory in which Cicero is looking for land to buy."
+    },
+    {
+      "loc": "1",
+      "anchor": "Brutus' epitome of the Caelian annals",
+      "entity_id": "person:brutus",
+      "note": "An abridgement made by Marcus Brutus of the historical annals of L. Coelius (Caelius) Antipater, the late-second-century BC historian of the Hannibalic War. Cicero wants the digest as a working reference."
+    },
+    {
+      "loc": "1",
+      "anchor": "Panaetius \\textit{On Providence}",
+      "entity_id": "person:panaetius",
+      "note": "A treatise of the Stoic philosopher Panaetius of Rhodes (c. 185-109 BC), head of the Stoa and chief influence on Cicero's own De Officiis. Cicero is asking for a copy through Philoxenus."
+    },
+    {
+      "loc": "1",
+      "anchor": "from Philoxenus",
+      "entity_id": null,
+      "note": "A contact named Philoxenus from whom Cicero hopes to obtain the Panaetius volume. The man cannot be securely identified with any Philoxenus already in the registry."
+    },
+    {
+      "loc": "1",
+      "anchor": "I shall see you on the Ides",
+      "entity_id": null,
+      "note": "The Ides were a fixed point of the Roman month, falling on the 13th (or the 15th in March, May, July, and October). This letter belongs to June 45 BC, so the Ides meant the 13th."
+    }
+  ]
+}

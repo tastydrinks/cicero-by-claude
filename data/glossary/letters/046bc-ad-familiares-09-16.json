@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-16",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "winning over and gathering in the goodwill of those people",
+      "entity_id": "person:caesar",
+      "note": "Written in 46 BC, after Pharsalus and Caesar's victory, when Cicero (a pardoned Pompeian) had to cultivate the goodwill of the Caesarians to stay safe. The whole letter is shadowed by this anxiety: Paetus has warned him of some danger, and Cicero reassures him that he is courted by Caesar's circle."
+    },
+    {
+      "loc": "3",
+      "anchor": "the man in whose hand all power lies",
+      "entity_id": "person:caesar",
+      "note": "A guarded periphrasis for Caesar the dictator, whom Cicero does not name. The note that 'all things are uncertain once law has been departed from' and that everything 'rests on another's will, not to say his whim' is Cicero's veiled lament for the loss of republican legality under one-man rule."
+    },
+    {
+      "loc": "4",
+      "anchor": "your brother Servius --- whom I count as the most lettered of men --- could readily say ``This verse is not Plautus's, this one is,''",
+      "entity_id": "person:servius-claudius",
+      "note": "Servius Claudius, Paetus's learned kinsman, was a textual critic of early Latin comedy able to distinguish genuine from spurious verses of Plautus by a connoisseur's 'worn ear.' Cicero uses him as a parallel for Caesar's discernment in spotting which witticisms are authentically Ciceronian."
+    },
+    {
+      "loc": "4",
+      "anchor": "Caesar, now that he has compiled whole volumes of sayings",
+      "entity_id": "person:caesar",
+      "note": "Caesar collected an anthology of apophthegmata (notable sayings, including Cicero's own bons mots); the Greek word is given in the text. Cicero boasts, half-anxiously, that Caesar's intimates report his daily quips back to the dictator, who weeds out the misattributed ones, so spurious jokes cannot be pinned on him."
+    },
+    {
+      "loc": "4",
+      "anchor": "I am making no use of your Oenomaus --- though you placed the lines of Accius well",
+      "entity_id": "person:accius",
+      "note": "Paetus had quoted lines from the Oenomaus, a tragedy by L. Accius (the great Roman tragedian, c. 170-86 BC), to needle Cicero. Cicero declines to take up the bait of the quotation, while complimenting Paetus on its apt placement; Accius recurs below in the 'wave against a rock' simile."
+    },
+    {
+      "loc": "7",
+      "anchor": "not, as it used to be, an Atellan farce, but, as the fashion now goes, a mime",
+      "entity_id": null,
+      "note": "The Atellan farce (fabula Atellana) was the old Italian improvised comedy with stock masked characters; the mimus was the racier, fashionable stage entertainment of the 40s BC, often obscene and topical. Cicero teases that Paetus has switched from genteel old humour to the coarse new style."
+    },
+    {
+      "loc": "7",
+      "anchor": "Hirtius and Dolabella I have as pupils in speaking, masters in dining",
+      "entity_id": "person:hirtius",
+      "note": "A. Hirtius (Caesar's legate, later cos. 43) and P. Cornelius Dolabella, Cicero's son-in-law, were both Caesarians who took rhetoric lessons from Cicero; in return he dined lavishly at their tables. The witticism captures Cicero's awkward intimacy with Caesar's men and his new taste for fine dining at 46 BC."
+    },
+    {
+      "loc": "8",
+      "anchor": "I remember your telling me about Phamea's dinner.",
+      "entity_id": "person:phamea",
+      "note": "Phamea was a host (probably a Carthaginian or freedman financier known to both men) whose dinner had become a private byword between Cicero and Paetus. The point of the anecdote was apparently that the meal should be served early ('Let it be earlier'), the convention for a leisurely banquet."
+    },
+    {
+      "loc": "8",
+      "anchor": "an octopus to match a red-leaded Jupiter",
+      "entity_id": "god:jupiter",
+      "note": "The cult-statue of Jupiter Capitolinus was traditionally painted with red lead (minium) on festal days; Cicero jokes that Paetus's purple-red boiled octopus is as garishly crimson as the god's painted face, mocking the showy dishes of provincial gourmandise."
+    },
+    {
+      "loc": "8",
+      "anchor": "I used to be done in beforehand by your olives and your Lucanian sausages",
+      "entity_id": null,
+      "note": "The promulsis was the appetizer course (the gustatio) of olives, sausages, eggs and the like that opened a Roman dinner. Lucanian sausages (lucanicae), a spiced smoked sausage from Lucania in southern Italy, were a famous delicacy; Cicero claims to have abolished the whole hors d'oeuvre course in his new austerity."
+    }
+  ]
+}

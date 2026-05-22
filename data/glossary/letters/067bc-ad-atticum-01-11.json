@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Sallustius",
+      "entity_id": "person:cn-sallustius",
+      "note": "Cn. Sallustius, a close friend of Cicero (not the historian); here he keeps urging Cicero to mediate the quarrel between Atticus and Lucceius."
+    },
+    {
+      "loc": "1",
+      "anchor": "Lucceius",
+      "entity_id": "person:l-lucceius",
+      "note": "L. Lucceius, a wealthy senator and historian on intimate terms with Cicero; he had fallen out with Atticus, and Cicero's failed attempt to reconcile them runs through letters 1.8, 1.10 and 1.11."
+    },
+    {
+      "loc": "2",
+      "anchor": "declared elected",
+      "entity_id": null,
+      "note": "Designatus: a candidate who has won election but not yet entered office. Atticus had assumed Cicero's aedilician canvass was as good as won; Cicero replies that the elections are in chaos and not even scheduled."
+    },
+    {
+      "loc": "3",
+      "anchor": "Philadelphus",
+      "entity_id": "person:philadelphus-att",
+      "note": "A courier or agent (the Greek name suggests a freedman or slave) carrying news between Cicero and Atticus; otherwise unknown."
+    },
+    {
+      "loc": "3",
+      "anchor": "our Academy",
+      "entity_id": "place:academia-athens",
+      "note": "Cicero's name for a colonnaded walk at his Tusculan villa, modelled on Plato's Academy at Athens; he is impatient for the Greek art and books Atticus has gathered to furnish it."
+    }
+  ]
+}

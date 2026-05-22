@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-30",
+  "mentions": [
+    {"loc": "1", "surface": "CVRIO", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "1", "surface": "CVRIO", "entity_id": "person:mn-curius-patrensis", "in": "eng"},
+    {"loc": "1", "surface": "in campo", "entity_id": "place:campus-martius", "in": "lat"},
+    {"loc": "1", "surface": "the Campus", "entity_id": "place:campus-martius", "in": "eng"},
+    {"loc": "1", "surface": "comitiis quaestoriis", "entity_id": "office:quaestor", "in": "lat"},
+    {"loc": "1", "surface": "quaestorian elections", "entity_id": "office:quaestor", "in": "eng"},
+    {"loc": "1", "surface": "Q. Maximi", "entity_id": "person:q-fabius-maximus-cos45", "in": "lat"},
+    {"loc": "1", "surface": "Q. Maximus", "entity_id": "person:q-fabius-maximus-cos45", "in": "eng"},
+    {"loc": "1", "surface": "consulem", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "consul", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "comitiis tributis", "entity_id": "institution:comitia-tributa", "in": "lat"},
+    {"loc": "1", "surface": "the elections by tribes", "entity_id": "institution:comitia-tributa", "in": "eng"},
+    {"loc": "1", "surface": "centuriata", "entity_id": "institution:comitia-centuriata", "in": "lat"},
+    {"loc": "1", "surface": "them by centuries", "entity_id": "institution:comitia-centuriata", "in": "eng"},
+    {"loc": "1", "surface": "consulem", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "a consul", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "Caninio consule", "entity_id": "person:caninius-rebilus", "in": "lat"},
+    {"loc": "1", "surface": "Caninius", "entity_id": "person:caninius-rebilus", "in": "eng"},
+    {"loc": "1", "surface": "eo consule", "entity_id": "person:caninius-rebilus", "in": "lat"},
+    {"loc": "1", "surface": "he was consul", "entity_id": "person:caninius-rebilus", "in": "eng"},
+    {"loc": "2", "surface": "Atticum nostrum", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "2", "surface": "our Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "3", "surface": "Acilius", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "both"},
+    {"loc": "3", "surface": "Graeciam", "entity_id": "place:graecia", "in": "lat"},
+    {"loc": "3", "surface": "Greece", "entity_id": "place:graecia", "in": "eng"}
+  ]
+}

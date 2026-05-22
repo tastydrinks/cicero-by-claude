@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the morning of the Saturnalia the people of Pindenissus surrendered themselves to me",
+      "entity_id": "festival:saturnalia",
+      "note": "The Saturnalia, the Roman festival of Saturn opening 17 December 51 BC, supplies the date of Cicero's one military triumph: the surrender of the besieged hill-town of Pindenissus. The coincidence of the merry festival with the grim siege gives the section its irony."
+    },
+    {
+      "loc": "1",
+      "anchor": "Could I turn Cilicia into Aetolia or Macedonia?",
+      "entity_id": "place:cilicia",
+      "note": "Cicero pleads that the obscurity of his enemies was not his fault: he could not transform his backwater province into theatres of famous warfare like Aetolia or Macedonia. The named lands stand for campaigns that won real glory."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Amanus, which divides Syria from Cilicia along the watershed",
+      "entity_id": "place:amanus",
+      "note": "The Amanus is the mountain range (modern Nur Daglari) forming the boundary between Cilicia and Syria, its crest marking the watershed. Its slopes harboured the independent 'Eleutherocilician' brigand-tribes Cicero attacked."
+    },
+    {
+      "loc": "3",
+      "anchor": "We were hailed as imperators",
+      "entity_id": "office:imperator",
+      "note": "After a victory a commander's troops could acclaim him 'imperator', the title that qualified him to seek a triumph and a public thanksgiving (supplicatio) at Rome. The acclamation is what Cicero spends much of the rest of book 5 hoping to convert into honours."
+    },
+    {
+      "loc": "3",
+      "anchor": "in the very place where Alexander had pitched against Darius at Issus",
+      "entity_id": "place:issus",
+      "note": "Cicero's camp lay on the field of Issus (333 BC), where Alexander the Great routed Darius III of Persia. The self-mocking comparison ('an imperator no little better than either you or I') sets his skirmish against the most celebrated of ancient battles."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Parthian general Osaces took a wound with great authority on his side, and died of it",
+      "entity_id": "person:osaces",
+      "note": "Osaces commanded the Parthian force that had penned Cassius in Antioch; pursued in his retreat, he was wounded and died days later. His death effectively ended the 51 BC invasion threat to Cicero's frontier."
+    },
+    {
+      "loc": "4",
+      "anchor": "the chief centurion --- a man of his own rank, Asinius Dento",
+      "entity_id": "person:asinius-dento",
+      "note": "The primus pilus (chief centurion of the first cohort) Asinius Dento fell in the Amanus with his whole cohort, in the ambush that cost Bibulus dear. Cicero contrasts this disaster with his own bloodless success to belittle Bibulus's bid for an equal title."
+    },
+    {
+      "loc": "4",
+      "anchor": "the bidding at the tribunal stands at HS 120,000",
+      "entity_id": null,
+      "note": "The captives of Pindenissus were auctioned as slaves before the commander's tribunal during the Saturnalia, the proceeds (here 120,000 sesterces and rising) forming the army's share of the booty. HS abbreviates sestertii."
+    },
+    {
+      "loc": "9",
+      "anchor": "I am bidden to give the plain toga to Quintus, your sister's son",
+      "entity_id": "person:q-cicero-younger",
+      "note": "The toga virilis (the plain white 'toga of manhood', toga pura) was assumed at a boy's coming of age, replacing the purple-bordered toga praetexta. Cicero, as guardian and uncle, performs the rite for his nephew young Quintus."
+    }
+  ]
+}

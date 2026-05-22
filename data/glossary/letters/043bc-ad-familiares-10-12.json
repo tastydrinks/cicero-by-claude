@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-12",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "on the seventh day before the Ides of April",
+      "entity_id": null,
+      "note": "Ante diem septimum Idus Apriles = 7 April 43 BC. Cicero writes this letter on 11 April (iii Id. Apr.); this date-within-the-letter records when he first received Plancus's dispatch."
+    },
+    {
+      "loc": "2",
+      "anchor": "our friend Munatius",
+      "entity_id": "person:plotius-plancus",
+      "note": "T. Munatius (Plotius Plancus), brother of L. Munatius Plancus, then in Rome acting as his brother's political agent and liaison with Cicero and the Senate."
+    },
+    {
+      "loc": "3",
+      "anchor": "Cornutus, the urban praetor",
+      "entity_id": "person:caecilius-cornutus",
+      "note": "M. Caecilius Cornutus, praetor urbanus in 43 BC; in the absence of both consuls at Mutina he exercised consular authority at Rome and convened the Senate, following the mos maiorum."
+    },
+    {
+      "loc": "3",
+      "anchor": "a religious objection was urged against Cornutus, on the warning of the chicken-keepers",
+      "entity_id": null,
+      "note": "The pullarii were the official keepers of the sacred chickens whose feeding-behavior was an auspicial sign; if the chickens would not eat, the auspices were unfavorable (obnuntiatio). Cornutus's college of augurs (Cicero was a member) upheld the objection, delaying the session by a day."
+    },
+    {
+      "loc": "3",
+      "anchor": "our college",
+      "entity_id": null,
+      "note": "The College of Augurs (collegium augurum), one of Rome's four great priestly colleges, responsible for interpreting auspices; Cicero had been an augur since 53 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "a great struggle for me, on behalf of your standing, with Servilius",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "P. Servilius Vatia Isauricus the younger (consul 48 BC with Caesar), who opposed awarding Plancus honors at this stage; he lost the vote when the Senate crossed to the opposing lobby (in alia omnia discessit)."
+    },
+    {
+      "loc": "4",
+      "anchor": "with Jupiter himself for an enemy --- in whose temple the business was being conducted",
+      "entity_id": null,
+      "note": "Senate meetings were regularly held in the Temple of Jupiter Optimus Maximus on the Capitoline; Cicero wittily says Servilius came hostile even to Jupiter on whose turf he was fighting."
+    },
+    {
+      "loc": "5",
+      "anchor": "The third day before the Ides of April",
+      "entity_id": null,
+      "note": "Ante diem tertium Idus Apriles = 11 April 43 BC, three days before the battle of Forum Gallorum (14 April); Cicero was writing in the tense days just before the decisive fighting at Mutina."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I should defend the city from domestic plots",
+      "entity_id": null,
+      "note": "Cicero's claim of a division of labour in 63 BC: he, as consul, guarded Rome against the Catilinarian conspiracy from within, while Celer, dispatched with troops to Picenum and the Ager Gallicus, blocked Catiline's escape and rising in the field. The shared muneris societas (partnership) is the grievance running through the letter."
+    },
+    {
+      "loc": "6",
+      "anchor": "her connection with Pompey",
+      "entity_id": "person:mucia",
+      "note": "Mucia, half-sister of Celer and Nepos, was Pompey's wife (necessitudo = the marriage tie) until he divorced her in 62 BC. Cicero recalls appealing to her, and to Celer's wife Clodia, to restrain the tribune Nepos."
+    },
+    {
+      "loc": "7",
+      "anchor": "the day before the Kalends of January",
+      "entity_id": null,
+      "note": "Pridie Kalendas Ianuarias = 29 December 63 BC, Cicero's last full day as consul. The Kalends were the first day of the Roman month; dates were counted backward from the Kalends, Nones, and Ides."
+    },
+    {
+      "loc": "7",
+      "anchor": "he stripped me of the power of holding a public meeting",
+      "entity_id": "person:metellus-nepos",
+      "note": "As tribune, Nepos vetoed the customary farewell address of the outgoing consul, allowing Cicero only to swear the exit oath. Cicero turned it into a coup by swearing instead that he had saved the republic, an oath the crowd loudly ratified."
+    },
+    {
+      "loc": "8",
+      "anchor": "the same penalty which the senate",
+      "entity_id": null,
+      "note": "The senate, on 5 December 63 BC, voted the death penalty for the captured Catilinarian conspirators (Lentulus, Cethegus, and others); Cicero executed them without trial. Nepos's argument was that the man who put citizens to death indicta causa (uncondemned) should himself be silenced, the seed of later attacks on Cicero's exile."
+    }
+  ]
+}

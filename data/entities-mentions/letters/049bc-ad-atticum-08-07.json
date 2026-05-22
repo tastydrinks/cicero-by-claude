@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-07",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "amico nostro", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Domitio", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "our friend's total disgrace", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "come to Domitius's relief", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "eng"},
+    {"loc": "2", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompeio qui tum erat", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Italiam", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "2", "surface": "conquered with Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "that Pompey who then was", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "with this Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "who is leaving Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "3", "surface": "Philotimum", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "3", "surface": "Oppiis tuis contubernalibus", "entity_id": "person:oppii-velienses", "in": "lat"},
+    {"loc": "3", "surface": "To Philotimus I have written", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "3", "surface": "those Oppii who lodge with you", "entity_id": "person:oppii-velienses", "in": "eng"}
+  ]
+}

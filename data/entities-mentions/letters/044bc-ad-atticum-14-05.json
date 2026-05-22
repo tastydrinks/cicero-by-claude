@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-05",
+  "mentions": [
+    {"loc": "1", "surface": "quod Calvena moleste fert", "entity_id": "person:gaius-matius", "in": "lat"},
+    {"loc": "1", "surface": "suspectum esse Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "veniunt e Gallia", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "1", "surface": "quae fuerunt in Hispania", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "1", "surface": "C. Asinium volui", "entity_id": "person:asinius-pollio", "in": "lat"},
+    {"loc": "1", "surface": "ista quidem Caesaris libertorum coniuratio", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "si recte saperet Antonius", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "that Calvena takes it badly", "entity_id": "person:gaius-matius", "in": "eng"},
+    {"loc": "1", "surface": "that Brutus suspects him", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "the legions are coming from Gaul", "entity_id": "place:gallia", "in": "eng"},
+    {"loc": "1", "surface": "those that were in Spain", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "1", "surface": "I meant Gaius Asinius", "entity_id": "person:asinius-pollio", "in": "eng"},
+    {"loc": "1", "surface": "that conspiracy of Caesar's freedmen", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "if Antony had any sense", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "tyranni satellites in imperiis", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "the tyrant's hangers-on holding commands", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "quid adventus Octavi", "entity_id": "person:octavian", "in": "lat"},
+    {"loc": "3", "surface": "proficiscens Astura", "entity_id": "place:astura", "in": "lat"},
+    {"loc": "3", "surface": "about Octavius's arrival", "entity_id": "person:octavian", "in": "eng"},
+    {"loc": "3", "surface": "as I set out from Astura", "entity_id": "place:astura", "in": "eng"}
+  ]
+}

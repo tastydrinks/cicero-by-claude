@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-30",
+  "mentions": [
+    {"loc": "1", "surface": "quod Lentulum invisis valde gratum", "entity_id": "person:p-lentulus-spinther-jr", "in": "lat"},
+    {"loc": "1", "surface": "de Sili voluntate vendendi", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "Sicca aliter", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "1", "surface": "scripsi ad Egnatium", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "quod Silius te cum Clodio loqui vult", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "That you are visiting Lentulus, most welcome", "entity_id": "person:p-lentulus-spinther-jr", "in": "eng"},
+    {"loc": "1", "surface": "About Silius' willingness to sell", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "Sicca thinks otherwise", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "1", "surface": "I have written to Egnatius", "entity_id": "person:l-egnatius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "That Silius wants you to speak with Clodius", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "2", "surface": "de mancipiis Castricianis", "entity_id": "person:m-castricius-eques", "in": "lat"},
+    {"loc": "2", "surface": "commodissimum esse credo transigere Egnatium", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "2", "surface": "cum Ovia, quaeso, vide ut conficiatur", "entity_id": "person:ovia", "in": "lat"},
+    {"loc": "2", "surface": "About the Castricius slaves", "entity_id": "person:m-castricius-eques", "in": "eng"},
+    {"loc": "2", "surface": "the most convenient course is for Egnatius to handle the transaction", "entity_id": "person:l-egnatius-rufus", "in": "eng"},
+    {"loc": "2", "surface": "With Ovia, please see that the business is brought to a close", "entity_id": "person:ovia", "in": "eng"}
+  ]
+}

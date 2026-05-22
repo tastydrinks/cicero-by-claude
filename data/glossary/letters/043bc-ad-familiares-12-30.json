@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-30",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO CORNIFICIO S.",
+      "entity_id": "person:q-cornificius",
+      "note": "Cicero to Q. Cornificius, proconsul of Africa; the longest of the surviving letters to him, answering several of Cornificius's dispatches at once. S. is salutem (dicit), \"sends greetings.\""
+    },
+    {
+      "loc": "2",
+      "anchor": "with the war beaten down and almost done away with, are now trying to wage it renewed",
+      "entity_id": null,
+      "note": "Written soon after the victory at Mutina (April 43 BC) had seemed to crush Antony; the \"renewed war\" is the fresh threat as Antony regrouped in Gaul and joined Lepidus, dashing the republicans' hopes."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Senate has been left orphaned by the loss of the consuls",
+      "entity_id": "office:consul",
+      "note": "Both consuls of 43, Hirtius and Pansa, died of wounds from Mutina within days of each other in April, leaving the Senate without its presiding magistrates (orbus, \"orphaned\") at the height of the crisis."
+    },
+    {
+      "loc": "4",
+      "anchor": "that what was promised to the soldiers who have served best may be paid out",
+      "entity_id": null,
+      "note": "The republican legions had been promised cash bounties (donativa) for their service against Antony; meeting these promises drained an already empty treasury and is the \"expense\" Cornificius cannot expect help with."
+    },
+    {
+      "loc": "4",
+      "anchor": "I do not think this can be done without a special levy",
+      "entity_id": null,
+      "note": "The tributum was a direct property-tax on Roman citizens, levied only in financial emergencies and not collected in Italy since 167 BC; reviving it was a measure of how desperate the war's finances had become."
+    },
+    {
+      "loc": "5",
+      "anchor": "they were prevented from granting it both by the formal compromise and by their oath",
+      "entity_id": "person:p-lucceius",
+      "note": "P. Lucceius's suit was before privately-appointed arbiters (arbitri) bound by a compromissum, an agreement under which both parties had sworn an oath fixing the procedure; that oath barred the arbiters from postponing the hearing date, so Lucceius had to appear in person."
+    },
+    {
+      "loc": "6",
+      "anchor": "while you did not know that Pansa was dead",
+      "entity_id": "person:vibius-pansa",
+      "note": "Cornificius had written asking Cicero to obtain money for him through the consul Pansa, not yet knowing Pansa had died of his Mutina wound; the request was now void."
+    },
+    {
+      "loc": "6",
+      "anchor": "you stripped your own legates also of their lictors",
+      "entity_id": null,
+      "note": "Legati were senior deputies attending a provincial governor; as a mark of rank they were escorted by lictors carrying the fasces. Cornificius removed his loyal legates' lictors to soften the disgrace of stripping the same insignia from offenders, a levelling Cicero disapproves of."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-22",
+  "mentions": [
+    {"loc": "1", "surface": "de Terentia quod mihi omne onus imponis", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "As to Terentia", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "2", "surface": "de Rutilia quoniam videris dubitare", "entity_id": "person:rutilia", "in": "lat"},
+    {"loc": "2", "surface": "num Clodia D. Bruto consulari filio suo mortuo vixerit", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "2", "surface": "Clodia D. Bruto consulari filio suo mortuo", "entity_id": "person:d-iunius-brutus-callaicus", "in": "lat"},
+    {"loc": "2", "surface": "id de Marcello aut certe de Postumia sciri potest", "entity_id": "person:m-claudius-marcellus-cos51", "in": "lat"},
+    {"loc": "2", "surface": "aut certe de Postumia sciri potest", "entity_id": "person:postumia", "in": "lat"},
+    {"loc": "2", "surface": "illud autem de M. Cotta aut de Syro aut de Satyro", "entity_id": "person:m-aurelius-cotta-cos74", "in": "lat"},
+    {"loc": "2", "surface": "aut de Syro aut de Satyro", "entity_id": "person:a-caninius-satyrus", "in": "lat"},
+    {"loc": "2", "surface": "About Rutilia", "entity_id": "person:rutilia", "in": "eng"},
+    {"loc": "2", "surface": "whether Clodia outlived her son", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "2", "surface": "her son, the ex-consul Decimus Brutus", "entity_id": "person:d-iunius-brutus-callaicus", "in": "eng"},
+    {"loc": "2", "surface": "can be ascertained from Marcellus", "entity_id": "person:m-claudius-marcellus-cos51", "in": "eng"},
+    {"loc": "2", "surface": "or certainly from Postumia", "entity_id": "person:postumia", "in": "eng"},
+    {"loc": "2", "surface": "the other from Marcus Cotta", "entity_id": "person:m-aurelius-cotta-cos74", "in": "eng"},
+    {"loc": "2", "surface": "or from Satyrus", "entity_id": "person:a-caninius-satyrus", "in": "eng"},
+    {"loc": "3", "surface": "paratissimi sunt Drusi; cupit enim vendere", "entity_id": "person:m-livius-drusus-claudianus", "in": "lat"},
+    {"loc": "3", "surface": "proximos puto Lamiae; sed abest", "entity_id": "person:l-aelius-lamia-pr42", "in": "lat"},
+    {"loc": "3", "surface": "ne Silius quidem quicquam utitur", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "3", "surface": "The readiest are Drusus's gardens; he is eager to sell", "entity_id": "person:m-livius-drusus-claudianus", "in": "eng"},
+    {"loc": "3", "surface": "Lamia's, I think, come next; but he is away", "entity_id": "person:l-aelius-lamia-pr42", "in": "eng"},
+    {"loc": "3", "surface": "Silius does not even use his", "entity_id": "person:silius-villa", "in": "eng"}
+  ]
+}

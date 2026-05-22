@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-05",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Alexandream",
+      "entity_id": "place:alexandria",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Alexandria",
+      "entity_id": "place:alexandria",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Aegyptum",
+      "entity_id": "place:aegyptus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Egypt",
+      "entity_id": "place:aegyptus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Cato ille noster",
+      "entity_id": "person:cato-minor",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "that Cato of ours",
+      "entity_id": "person:cato-minor",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Θεοφάνησ",
+      "entity_id": "person:theophanes",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Theophanes",
+      "entity_id": "person:theophanes",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Arrius",
+      "entity_id": "person:c-arrius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Arrius",
+      "entity_id": "person:c-arrius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompeius",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Crassus",
+      "entity_id": "person:crassus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Crassus",
+      "entity_id": "person:crassus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Gabinio",
+      "entity_id": "person:gabinius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Gabinius",
+      "entity_id": "person:gabinius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Servius Sulpicius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Servius Sulpicius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Nepos",
+      "entity_id": "person:metellus-nepos",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Nepos",
+      "entity_id": "person:metellus-nepos",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "auguratus",
+      "entity_id": "office:augur",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "augurate",
+      "entity_id": "office:augur",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Musis",
+      "entity_id": "god:muses",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Muses",
+      "entity_id": "god:muses",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Curtio",
+      "entity_id": "person:curtius-2-5",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Curtius",
+      "entity_id": "person:curtius-2-5",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "P. Clodio",
+      "entity_id": "person:clodius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Publius Clodius",
+      "entity_id": "person:clodius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Roma",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    }
+  ]
+}

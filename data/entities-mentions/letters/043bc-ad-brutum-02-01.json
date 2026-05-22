@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-02-01",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero Bruto", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Bruto nostro", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "our friend Brutus", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "consulum", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "the consuls", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "re publica", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "Brute", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "senatus populique", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the Senate and people", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "rei publicae", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "Brute", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "3", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "Cassiumque", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "3", "surface": "Cassius", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "3", "surface": "rem publicam", "entity_id": "institution:senate", "in": "lat"}
+  ]
+}

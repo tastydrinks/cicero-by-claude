@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "this present hour of yours",
+      "entity_id": "person:q-ligarius",
+      "note": "Ligarius had served as a Pompeian legate in Africa and, when the civil war ended with Caesar's victory at Thapsus (46 BC), was stranded there in exile. This letter is Cicero's first approach to console him and signal intercession with Caesar."
+    },
+    {
+      "loc": "2",
+      "anchor": "Caesar will not be too hard on you",
+      "entity_id": "person:caesar",
+      "note": "Caesar's policy after the civil war was clementia — ostentatious pardoning of former enemies — though he could delay these pardons as a form of continued pressure on the defeated Pompeian faction."
+    },
+    {
+      "loc": "2",
+      "anchor": "from the time when the first despatch came from Africa",
+      "entity_id": "place:africa",
+      "note": "The decisive battle of Thapsus in Africa (April 46 BC) ended Pompeian military resistance; the dispatch announcing Caesar's victory was the moment when Pompeian exiles' fates became Caesar's sole decision."
+    },
+    {
+      "loc": "3",
+      "anchor": "the African cause",
+      "entity_id": "place:africa",
+      "note": "The phrase encompasses the whole Pompeian last stand in the province of Africa Vetus (modern Tunisia), where Scipio, Cato, and other diehards had rallied after Pharsalus; Ligarius had been among the commanders there."
+    },
+    {
+      "loc": "4",
+      "anchor": "the same cause that broke my own resources brought your safety to its crisis",
+      "entity_id": "person:cicero",
+      "note": "Cicero acknowledges that his own political influence was destroyed by the civil war — he had sided with Pompey then capitulated to Caesar — leaving him unable to press Ligarius's case from a position of strength."
+    }
+  ]
+}

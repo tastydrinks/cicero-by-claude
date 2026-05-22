@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-48",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO C. SEXTILIO RVFO QVAESTORI S. D.",
+      "entity_id": "person:sextilius-rufus",
+      "note": "The letter-heading; addressed to C. Sextilius Rufus, quaestor in Cyprus (probably the same man who later commanded part of Cassius's fleet in Syria in 43 BC). Cicero commends the whole population of the island, and the Paphians above all, to the new quaestor's care."
+    },
+    {
+      "loc": "1",
+      "anchor": "since you are the first quaestor to come into that island, you should put in place the practices the rest will follow",
+      "entity_id": "place:cyprus",
+      "note": "Cyprus, annexed by Rome in 58 BC and attached to the province of Cilicia, was now (47 BC) receiving its own quaestor. As the first to hold the post, Sextilius would set precedents (mos) for his successors, hence Cicero's interest in his conduct."
+    },
+    {
+      "loc": "1",
+      "anchor": "the regulation of your kinsman Publius Lentulus",
+      "entity_id": "person:p-lentulus-spinther",
+      "note": "Cicero urges Sextilius to follow the lex (administrative regulation) laid down by his kinsman P. Lentulus together with the rules Cicero himself established. Lentulus is most plausibly P. Cornelius Lentulus Spinther (consul 57 BC), proconsul of Cilicia 56-53 BC, whose jurisdiction included Cyprus; the kinsman relation to Sextilius is otherwise unattested."
+    }
+  ]
+}

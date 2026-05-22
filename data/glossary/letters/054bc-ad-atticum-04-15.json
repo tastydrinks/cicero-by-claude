@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "he will be T. Caecilius",
+      "entity_id": "person:eutychides-libertus",
+      "note": "On manumission a slave took his patron's praenomen and nomen, keeping his slave-name as cognomen; freed by Atticus (Q. Caecilius Pomponianus Atticus), Eutychides becomes T. Caecilius Eutychides. Cicero compares it to Atticus's freedman Dionysius, who became M. Pomponius Dionysius."
+    },
+    {
+      "loc": "2",
+      "anchor": "the praetor Clodius",
+      "entity_id": null,
+      "note": "A Clodius holding a praetorship connected with the province of Asia in 54 BC; not the notorious P. Clodius Pulcher, who held no such office. His exact identity is uncertain."
+    },
+    {
+      "loc": "4",
+      "anchor": "On the fourth day before the Nones of Quintilis",
+      "entity_id": null,
+      "note": "Quintilis was the old name of the fifth month (later July); its Nones fell on the 7th, so this date is 4 July 54 BC, counted inclusively in the Roman manner."
+    },
+    {
+      "loc": "4",
+      "anchor": "thrice-honoured Areopagites",
+      "entity_id": "institution:areopagus",
+      "note": "Cicero sarcastically dignifies the corrupt jurors as members of the Areopagus, the venerable Athenian homicide court, mocking their indifference to every public crime except murder within the home."
+    },
+    {
+      "loc": "4",
+      "anchor": "interregnum",
+      "entity_id": "office:interrex",
+      "note": "When no consuls were in office, patrician senators held the auspices in succession as interreges (each five days) until elections could be held; the recurring interregna of the 50s BC signalled the breakdown of normal government."
+    },
+    {
+      "loc": "4",
+      "anchor": "Hortalus",
+      "entity_id": "person:hortensius",
+      "note": "Q. Hortensius Hortalus, the leading orator of the previous generation and Cicero's great courtroom rival, here appearing as an advocate in the Procilius trial."
+    },
+    {
+      "loc": "5",
+      "anchor": "their own Tempe",
+      "entity_id": "place:tempe",
+      "note": "The Reatines, proud of their valley, likened it to the Vale of Tempe in Thessaly, the proverbially lovely gorge of the Peneus."
+    },
+    {
+      "loc": "5",
+      "anchor": "before the consul and the ten commissioners",
+      "entity_id": null,
+      "note": "The boundary and water dispute between Reate and Interamna was referred to a serving consul (Ap. Claudius Pulcher) sitting with a board of ten legati as a special arbitration panel."
+    },
+    {
+      "loc": "5",
+      "anchor": "the Lacus Velinus, drained off by M'. Curius",
+      "entity_id": "place:lacus-velinus",
+      "note": "As censor (272 BC) Manius Curius Dentatus cut a channel through the rock to drain the Velinus lake into the river Nar, creating the great falls now called the Cascata delle Marmore; the drainage benefited Reate but threatened to flood Interamna downstream."
+    },
+    {
+      "loc": "5",
+      "anchor": "that famous Rosian plain",
+      "entity_id": null,
+      "note": "The ager Rosius (Rosea), the rich pastureland near Reate famous for breeding horses, reclaimed by the draining of the Velinus lake."
+    },
+    {
+      "loc": "6",
+      "anchor": "He had been manumitted before he was brought on",
+      "entity_id": "person:antiphon-actor",
+      "note": "Antiphon, a slave-actor, was freed just before his stage debut so that he could compete; Cicero is amused that despite being undersized and weak-voiced he carried off the prize."
+    },
+    {
+      "loc": "6",
+      "anchor": "he was taller than Astyanax",
+      "entity_id": "person:astyanax-actor",
+      "note": "A joke at the expense of the tiny Antiphon: in Ennius's tragedy Andromacha he towered over Astyanax (the child of Hector), but Astyanax was also the stage-name of a famously tall tragic actor of the day."
+    },
+    {
+      "loc": "6",
+      "anchor": "The games were magnificent",
+      "entity_id": null,
+      "note": "The ludi (probably the Ludi Apollinares of July 54 BC) included theatrical performances and a venatio (beast-hunt); the hunt here was deferred to a later occasion."
+    },
+    {
+      "loc": "7",
+      "anchor": "interest has gone from a third to two-thirds",
+      "entity_id": null,
+      "note": "Monthly interest rates leapt from 4 percent to 8 percent (a third to two-thirds of one percent per month is the older reading) as candidates borrowed massively to bribe the electorate; a market index of the bribery frenzy."
+    },
+    {
+      "loc": "7",
+      "anchor": "the consuls' compact",
+      "entity_id": null,
+      "note": "The coitio consulum: the secret pact by which the consuls of 54, Ap. Claudius Pulcher and L. Domitius Ahenobarbus, conspired to fix the elections, opposing Messalla's candidacy."
+    },
+    {
+      "loc": "7",
+      "anchor": "deposited 500,000 sesterces",
+      "entity_id": "person:cato-minor",
+      "note": "The candidates for the tribunate agreed to make Cato Uticensis arbiter of clean canvassing, each depositing HS 500,000 to be forfeited to his rivals if Cato judged him guilty of bribery."
+    },
+    {
+      "loc": "8",
+      "anchor": "the fifth day before the Kalends of Sextilis",
+      "entity_id": null,
+      "note": "Sextilis was the old name of the sixth month (later August); the Kalends fell on the 1st, so this date is 28 July 54 BC, counted inclusively."
+    },
+    {
+      "loc": "9",
+      "anchor": "recalled from his commission",
+      "entity_id": "person:c-messius-tr57",
+      "note": "C. Messius had been made a legate of Caesar by the consul Appius; recalled to stand trial, he was prosecuted (probably for bribery) with Cicero as his advocate."
+    },
+    {
+      "loc": "9",
+      "anchor": "He has three tribes: Pomptina, Velina, Maecia",
+      "entity_id": null,
+      "note": "Under the lex Licinia de sodaliciis a defendant could challenge jurors so that the panel was drawn from a limited set of voting tribes; Messius's jury came from the Pomptine, Veline, and Maecian tribes."
+    },
+    {
+      "loc": "9",
+      "anchor": "Splendid title-pages are being readied for my speeches",
+      "entity_id": null,
+      "note": "Cicero jokes that fine indices (the labelled lists or cover-sheets of his published forensic speeches) are being prepared, as his roster of high-profile defence briefs for 54 BC mounts up."
+    },
+    {
+      "loc": "10",
+      "anchor": "I suspect he is now in Britain",
+      "entity_id": "person:quintus-cicero",
+      "note": "Cicero's brother Quintus was serving as a legate under Caesar and took part in the second British expedition of 54 BC."
+    }
+  ]
+}

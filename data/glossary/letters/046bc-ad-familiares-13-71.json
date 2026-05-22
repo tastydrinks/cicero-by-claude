@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-71",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO S. D. P. SERVILIO CONLEGAE.",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "The letter-heading to Cicero's augural colleague (conlega) P. Servilius Vatia Isauricus the younger, proconsul of Asia (46-44 BC). S. D. = salutem dicit, \"sends greeting,\" the standard epistolary formula."
+    },
+    {
+      "loc": "1",
+      "anchor": "T. Agusius was my companion in that most wretched time, and the partner of all my journeyings, voyages, labours, and perils",
+      "entity_id": "person:t-agusius",
+      "note": "\"That most wretched time\" (illo miserrimo tempore) is Cicero's exile of 58-57 BC; he ranks recommendees by the depth of obligation, and Agusius's loyalty through the exile places him among the most strongly owed."
+    }
+  ]
+}

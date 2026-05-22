@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "D. BRVTO IMP. COS. DESIG.",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Decimus Brutus Albinus, hailed imperator after his defence of Mutina and already consul-designate for 42 BC; \"IMP. COS. DESIG.\" abbreviates imperator, consul designatus."
+    },
+    {
+      "loc": "1",
+      "anchor": "you were shut in",
+      "entity_id": "place:mutina",
+      "note": "Decimus Brutus had been besieged inside Mutina (modern Modena) by Antony from late 43; the siege was broken by the consular armies in April 43 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "the thanksgivings so freshly performed at every temple of the gods",
+      "entity_id": null,
+      "note": "A supplicatio, a public thanksgiving voted by the Senate at which the temples were thrown open for prayer and offering; one had just been decreed for the victory at Mutina."
+    },
+    {
+      "loc": "3",
+      "anchor": "\\textit{[1 June.]}",
+      "entity_id": null,
+      "note": "Cicero's closing dateline (Latin \"x iiii K. Iun.,\" reckoned by inclusive counting back from the Kalends of June) places the letter in late May / early June 43 BC."
+    }
+  ]
+}

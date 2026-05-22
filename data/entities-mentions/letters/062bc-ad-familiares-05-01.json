@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-01",
+  "mentions": [
+    {"loc": "1", "surface": "Q. METELLVS Q. F. CELER PROCOS.", "entity_id": "person:metellus-celer", "in": "lat"},
+    {"loc": "1", "surface": "Q. Metellus, son of Quintus, Celer, Proconsul", "entity_id": "person:metellus-celer", "in": "eng"},
+    {"loc": "1", "surface": "PROCOS.", "entity_id": "office:proconsul", "in": "lat"},
+    {"loc": "1", "surface": "Proconsul", "entity_id": "office:proconsul", "in": "eng"},
+    {"loc": "1", "surface": "M. TVLLIO CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. Tullius Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Metellum fratrem", "entity_id": "person:metellus-nepos", "in": "lat"},
+    {"loc": "1", "surface": "my brother Metellus", "entity_id": "person:metellus-nepos", "in": "eng"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-08",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "but he is being instructed to change his name",
+      "entity_id": "person:dolabella",
+      "note": "A condition of the bequest required the heir to assume the testatrix's name (a testamentary adoption of sorts); Cicero idly debates whether a young nobleman should change his name to inherit under a woman's will."
+    },
+    {
+      "loc": "4",
+      "anchor": "from the eighth hour to evening conferred in private",
+      "entity_id": null,
+      "note": "The Roman daylight was divided into twelve hours that varied with the season; the eighth hour falls in mid-afternoon, so the conference with Pompey ran several hours into the evening."
+    },
+    {
+      "loc": "4",
+      "anchor": "the speech of Antonius delivered before the assembly",
+      "entity_id": "person:antony",
+      "note": "M. Antonius (Mark Antony), then a tribune-elect and Caesar's quaestor, harangued a public meeting (contio) on 21 December 50 BC attacking Pompey's whole career; Cicero notes Pompey took even this junior assault as a measure of Caesar's intentions."
+    },
+    {
+      "loc": "4",
+      "anchor": "the apparatus of my triumph must be converted to that end",
+      "entity_id": null,
+      "note": "Cicero had borrowed money from Caesar and still hoped for a triumph over his Cilician campaign; with war looming he must repay the loan and divert the funds set aside for the triumphal procession, a galling debt to a political opponent."
+    }
+  ]
+}

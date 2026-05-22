@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "about Athamas",
+      "entity_id": null,
+      "note": "The reference is obscure: Athamas may be a slave or freedman of Atticus's whose death or illness Atticus had reported, prompting Cicero's words of consolation. The identity is uncertain and no firm prosopographical fit exists."
+    },
+    {
+      "loc": "1",
+      "anchor": "the very image of Tiro",
+      "entity_id": "person:alexis-servus",
+      "note": "Alexis was Atticus's literate slave-secretary, whom Cicero repeatedly likens to his own beloved freedman Tiro for his diligence and charm. Here Cicero offers to take Alexis into his own household if plague threatens."
+    },
+    {
+      "loc": "1",
+      "anchor": "any local infection",
+      "entity_id": null,
+      "note": "Renders the Greek \"epidēmion,\" a sickness endemic to a place; Cicero fears an outbreak on Atticus's hill at Rome and offers the empty upper storey of his own house as a refuge."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-26",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Marcus must be brought in",
+      "entity_id": "person:cicero",
+      "note": "The sender is Cicero's brother Quintus; 'Marcus' is the orator himself, jokingly cast as the advocate Tiro will need to defend his failure to write."
+    },
+    {
+      "loc": "2",
+      "anchor": "she would set her seal even on empty flasks",
+      "entity_id": "person:helvia",
+      "note": "Quintus recalls their mother Helvia sealing even emptied wine-jars, so a slave could not claim a jar had always been empty rather than secretly drained. The point: write even when there is nothing to report."
+    }
+  ]
+}

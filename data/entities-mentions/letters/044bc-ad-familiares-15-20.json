@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-20",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "C. TREBONIO", "entity_id": "person:c-trebonius", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. TREBONIO", "entity_id": "person:c-trebonius", "in": "eng"},
+    {"loc": "2", "surface": "Treboni", "entity_id": "person:c-trebonius", "in": "lat"},
+    {"loc": "2", "surface": "Trebonius", "entity_id": "person:c-trebonius", "in": "eng"},
+    {"loc": "3", "surface": "Brutum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "3", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"}
+  ]
+}

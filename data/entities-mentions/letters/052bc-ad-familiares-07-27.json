@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-27",
+  "mentions": [
+    {"loc": "1", "surface": "GALLO", "entity_id": "person:m-fadius", "in": "lat"},
+    {"loc": "1", "surface": "GALLO", "entity_id": "person:m-fadius", "in": "eng"},
+    {"loc": "1", "surface": "consulatu", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "consulship", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "both"},
+    {"loc": "1", "surface": "tribunatum plebei", "entity_id": "office:tribune", "in": "lat"},
+    {"loc": "1", "surface": "tribunate of the plebs", "entity_id": "office:tribune", "in": "eng"},
+    {"loc": "1", "surface": "tribunus", "entity_id": "office:tribune", "in": "lat"},
+    {"loc": "1", "surface": "tribune", "entity_id": "office:tribune", "in": "eng"},
+    {"loc": "2", "surface": "p. R.", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "2", "surface": "the Roman People", "entity_id": "institution:populus-romanus", "in": "eng"}
+  ]
+}

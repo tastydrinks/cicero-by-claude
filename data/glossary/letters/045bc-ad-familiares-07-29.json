@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-29",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "yours by use",
+      "entity_id": null,
+      "note": "Curius spins a legal-philosophical conceit out of the Greek terms chresis (use) and ktesis (ownership): Cicero holds the usufruct of him while Atticus holds title, as with a slave whose use is leased out. The whole sign-off plays on the language of Roman property law."
+    },
+    {
+      "loc": "1",
+      "anchor": "joint-purchase elders",
+      "entity_id": null,
+      "note": "Latin senes comptionales: worthless old slaves sold off in a job lot (coemptio) for a token price, a stock joke for human goods nobody wants. Curius means he himself would fetch almost nothing at auction."
+    },
+    {
+      "loc": "1",
+      "anchor": "Sulpicius's successor",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Ser. Sulpicius Rufus (cos. 51 BC), the great jurist, was governing the province of Achaia (45 BC); Curius, a Roman banker resident at Patrae, asks Cicero to commend him to whoever replaces Sulpicius in the proconsulship."
+    },
+    {
+      "loc": "2",
+      "anchor": "whitewashing two walls from the same pot",
+      "entity_id": null,
+      "note": "A proverb (duo parietes de eadem fidelia dealbare) for double-dealing: getting two jobs done with one batch of lime, i.e. trying to please two patrons at once. Curius jokes that Atticus must not learn he flatters both his patrons alike."
+    },
+    {
+      "loc": "2",
+      "anchor": "Kalends of November",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; the fourth day before them (counting inclusively) is 29 October. This dateline fixes the letter to late October 45 BC."
+    }
+  ]
+}

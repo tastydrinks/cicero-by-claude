@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Dionysius came to me",
+      "entity_id": "person:m-pomponius-dionysius",
+      "note": "M. Pomponius Dionysius, a learned freedman, had been the tutor of Cicero's son and nephew and bore Atticus's nomen as a former slave of his. His refusal to follow Cicero into exile abroad wounded Cicero deeply, as the surrounding paragraph shows."
+    },
+    {
+      "loc": "3",
+      "anchor": "set sail from Syracuse on the eighth day before the Kalends of May",
+      "entity_id": "place:syracusae",
+      "note": "Cato, holding Sicily for Pompey, abandoned the island rather than fight Curio's Caesarian force; the date is 24 April 49 BC. Cicero, who thought the position defensible, regarded the withdrawal as a disgrace --- \"the shame of Cato.\""
+    },
+    {
+      "loc": "3",
+      "anchor": "Would that Cotta, as they say, may hold Sardinia",
+      "entity_id": null,
+      "note": "The Pompeian governor of Sardinia in 49 BC, a M. Aurelius Cotta, abandoned that island as well when a Caesarian force approached. Cicero's wish that he hold it is bitter: a second Pompeian collapse would deepen the disgrace of Cato's flight from Sicily."
+    },
+    {
+      "loc": "4",
+      "anchor": "the centurions of the three cohorts which are at Pompeii",
+      "entity_id": null,
+      "note": "A cohort was a tenth of a legion, nominally some 480 men, commanded through its centurions. The offer of three garrison cohorts at Pompeii to declare for Pompey under Cicero was a trap he prudently dodged, slipping away before dawn."
+    },
+    {
+      "loc": "5",
+      "anchor": "whose litter, with an actress inside, is carried among his lictors",
+      "entity_id": "person:antony",
+      "note": "Lictors were the attendants who bore the fasces before a magistrate and marked his official dignity. Antony's parading of his mistress, the actress Cytheris, in a litter amid this solemn escort struck Cicero as a gross profanation of office."
+    },
+    {
+      "loc": "6",
+      "anchor": "present yourself to us in Greece full of vigour",
+      "entity_id": "place:graecia",
+      "note": "Greece was the gathering-ground of the Pompeian cause, where Pompey was massing his forces after quitting Italy. Cicero's hope to meet Atticus there marks his hardening resolve to leave Italy and join Pompey's camp."
+    }
+  ]
+}

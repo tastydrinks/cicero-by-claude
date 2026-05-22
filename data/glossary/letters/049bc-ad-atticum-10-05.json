@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "not before the new moon",
+      "entity_id": null,
+      "note": "Cicero ties his planned sailing to the lunar calendar; the new moon of late April 49 BC gave a fixed earliest date for departure. Ancient mariners watched the moon and season closely, the open sailing year running roughly from spring to autumn."
+    },
+    {
+      "loc": "2",
+      "anchor": "you are asking Arcadia of me",
+      "entity_id": null,
+      "note": "A Greek proverb meaning to demand the impossible, since Arcadia in the Peloponnese was a byword for backwardness. Charged with reforming his wayward nephew young Quintus, Cicero protests that the task is beyond him."
+    },
+    {
+      "loc": "3",
+      "anchor": "buy that lodging from Canuleius for fifty thousand sesterces",
+      "entity_id": "person:l-canuleius-publicanus",
+      "note": "The sesterce was the standard Roman unit of account; fifty thousand was a modest price for a wayside lodging (deversorium) used to break a journey. Cicero kept a chain of such stopping-places along his usual routes."
+    },
+    {
+      "loc": "3",
+      "anchor": "the day for payment was to be the Ides of November",
+      "entity_id": null,
+      "note": "The Ides, the 13th or 15th of the month, was the customary day for settling debts and rents at Rome. Setting payment for the Ides of November was thus a routine commercial term."
+    },
+    {
+      "loc": "3",
+      "anchor": "The fifteenth day before the Kalends of May",
+      "entity_id": null,
+      "note": "The Kalends were the first of the month; counted inclusively backward, this dates the letter to 17 April 49 BC. Cicero often closes a letter with the Roman date in this form."
+    }
+  ]
+}

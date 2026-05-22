@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-23",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "draw up the bills",
+      "entity_id": null,
+      "note": "Nomina facere: to enter the debt formally in the account-books, the Roman equivalent of drawing up a promissory note. The agent Avianius offered to set the payment terms for the statue purchase at Cicero's convenience."
+    },
+    {
+      "loc": "2",
+      "anchor": "Damasippus",
+      "entity_id": "person:damasippus-art-dealer",
+      "note": "A Roman art-dealer and connoisseur of the 40s BC, on whom Cicero hoped to offload the unwanted statues; he coins 'pseudo-Damasippus' for any rival dealer. Plausibly the bankrupt collector-turned-Stoic mocked by Horace, Satires 2.3."
+    },
+    {
+      "loc": "2",
+      "anchor": "those Bacchae of yours",
+      "entity_id": "god:bacchus",
+      "note": "Statues of Bacchae (maenads, the ecstatic female devotees of Bacchus/Dionysus), a popular decorative subject. Cicero dismisses them as 'pretty little things' with no fit place in his house."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Muses of Metellus",
+      "entity_id": "person:metellus-macedonicus",
+      "note": "The celebrated statue-group of the Muses housed in the Porticus Metelli at Rome, built by Q. Caecilius Metellus Macedonicus (cos. 143 BC); the gold standard against which Gallus rashly compared his Bacchae."
+    },
+    {
+      "loc": "2",
+      "anchor": "in the wrestling-school, a place after the likeness of a gymnasium",
+      "entity_id": null,
+      "note": "Cicero buys statues only to furnish his palaestra (private exercise-court) in the manner of a Greek gymnasium, whose colonnades were conventionally adorned with images of the Muses, athletes, and patron deities. Bacchae and a Mars do not fit that scheme."
+    },
+    {
+      "loc": "2",
+      "anchor": "the author of peace",
+      "entity_id": null,
+      "note": "Cicero's self-description (pacis auctor) drives the joke: a statue of Mars, god of war, is useless to a man who styles himself peacemaker."
+    },
+    {
+      "loc": "2",
+      "anchor": "I am glad there was no Saturn",
+      "entity_id": "god:saturnus",
+      "note": "A pun: the temple of Saturn held the state treasury (aerarium), so Cicero quips that a Saturn statue, paired with a Mars, would have 'brought him debt' (aes alienum)."
+    },
+    {
+      "loc": "2",
+      "anchor": "I should rather there had been some Mercury",
+      "entity_id": "god:mercurius",
+      "note": "Mercury was the god of commerce and gain, so Cicero jokes that a Mercury among the statues might have helped him strike a more favourable bargain with the dealer Avianius."
+    },
+    {
+      "loc": "3",
+      "anchor": "table-stand",
+      "entity_id": null,
+      "note": "Trapezophorum: an ornamental, often marble, supporting leg or pedestal for a luxury table, a prized item of Roman interior decoration."
+    }
+  ]
+}

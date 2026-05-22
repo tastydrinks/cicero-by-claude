@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-49",
+  "mentions": [
+    {"loc": "2", "surface": "per eum Marium quem scripsissem", "entity_id": "person:c-marius", "in": "lat"},
+    {"loc": "2", "surface": "per eloquentiam L. Crassi avi sui", "entity_id": "person:l-licinius-crassus", "in": "lat"},
+    {"loc": "2", "surface": "quoniam Caesaris propinqui eius omnis potestas esset", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "fore cum dubitet Curtius consulatum petere", "entity_id": "person:c-curtius-postumus", "in": "lat"},
+    {"loc": "2", "surface": "by that Marius whom I had written about", "entity_id": "person:c-marius", "in": "eng"},
+    {"loc": "2", "surface": "by the eloquence of his grandfather Lucius Crassus", "entity_id": "person:l-licinius-crassus", "in": "eng"},
+    {"loc": "2", "surface": "since the whole power of the matter lay with his kinsman Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "a moment when Curtius hesitates to stand for the consulship", "entity_id": "person:c-curtius-postumus", "in": "eng"},
+    {"loc": "3", "surface": "de Tirone mihi curae est", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "3", "surface": "epistulam ad Ciceronem tibi misi", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "3", "surface": "About Tiro I am anxious", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "3", "surface": "The letter to Cicero I have sent to you", "entity_id": "person:m-cicero-the-younger", "in": "eng"}
+  ]
+}

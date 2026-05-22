@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-26",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "About Vergilius's share",
+      "entity_id": "person:c-vergilius",
+      "note": "C. Vergilius, a co-owner whose portion of a riverside property near Rome Cicero hoped to buy. The purchase belongs to Cicero's long hunt for a site for the shrine (fanum) he meant to raise to his dead daughter Tullia."
+    },
+    {
+      "loc": "1",
+      "anchor": "Clodia's the next",
+      "entity_id": "person:clodia",
+      "note": "Clodia, owner of gardens that were Cicero's fallback choice if the Vergilius share fell through. The fanum project drove this anxious comparison of properties."
+    },
+    {
+      "loc": "1",
+      "anchor": "rush at Drusus",
+      "entity_id": "person:m-livius-drusus-claudianus",
+      "note": "M. Livius Drusus Claudianus, owner of yet another set of gardens; Cicero fears he may be driven to bid recklessly for them. The 'thing you know of' is the unnamed shrine for Tullia."
+    },
+    {
+      "loc": "2",
+      "anchor": "at Astura",
+      "entity_id": "place:astura",
+      "note": "Cicero's secluded coastal villa on a small island at the mouth of the river Astura in Latium, where he withdrew to grieve for Tullia in 45 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "the letter to Caesar",
+      "entity_id": null,
+      "note": "A letter of advice (the 'letter of counsel') Cicero had drafted for Caesar at Atticus's urging; he repeatedly weighs whether to send it. The doubts continue in letters 13.27 and 13.28."
+    }
+  ]
+}

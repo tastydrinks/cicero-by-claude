@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-26",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. FVRNIO", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "1", "surface": "C. FVRNIO", "entity_id": "person:furnius", "in": "eng"},
+    {"loc": "1", "surface": "Narbonensis", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "1", "surface": "the men of Narbonensis", "entity_id": "place:gallia", "in": "eng"},
+    {"loc": "1", "surface": "Planci", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "Bruti", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "Gallorum", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "1", "surface": "the Gauls", "entity_id": "place:gallia", "in": "eng"},
+    {"loc": "2", "surface": "mi Furni", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "2", "surface": "my Furnius", "entity_id": "person:furnius", "in": "eng"},
+    {"loc": "3", "surface": "Calvisius", "entity_id": "person:calvisius-sabinus", "in": "lat"},
+    {"loc": "3", "surface": "Calvisius", "entity_id": "person:calvisius-sabinus", "in": "eng"}
+  ]
+}

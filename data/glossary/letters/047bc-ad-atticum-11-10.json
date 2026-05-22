@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "served as deputy in the port and pasture-tax of Asia",
+      "entity_id": "person:p-terentius-hispo",
+      "note": "Publius Terentius Hispo acted as pro magistro, the on-site manager of the Roman tax-farming company that held the contract on the harbour dues and the scriptura (the levy on grazing) of the province of Asia. Such publicani were the equestrian financiers who collected Rome's provincial revenues."
+    },
+    {
+      "loc": "1",
+      "anchor": "showed him the roll of a speech which he was going to deliver against me before Caesar",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "Cicero's nephew, young Quintus, had drafted a formal denunciation of his uncle to read out to Caesar, hoping to win favour by attacking him. The volumen was the papyrus roll on which the speech was written."
+    },
+    {
+      "loc": "2",
+      "anchor": "legions whose strength and whose loyalty are no longer the same",
+      "entity_id": null,
+      "note": "Caesar's veteran legions, exhausted and resentful after years of campaigning, were nearing the open mutiny that broke out in Campania in 47 BC. Cicero counts their unreliability among the grounds for thinking the Caesarian position less secure than reported."
+    },
+    {
+      "loc": "2",
+      "anchor": "The news brought from Africa",
+      "entity_id": "place:africa",
+      "note": "The Pompeian remnant under Scipio, Cato, and king Juba was massing in the province of Africa for a last stand against Caesar, which would end at Thapsus in 46 BC. Reports of its strength fed Cicero's fear that the war was far from over."
+    }
+  ]
+}

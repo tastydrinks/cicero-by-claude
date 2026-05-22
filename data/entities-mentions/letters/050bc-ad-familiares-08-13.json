@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-13",
+  "mentions": [
+    {"loc": "1", "surface": "CAELIVS", "entity_id": "person:caelius-defendant", "in": "lat"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Tulliae", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "CAELIVS", "entity_id": "person:caelius-defendant", "in": "eng"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Tullia's", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "2", "surface": "Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "2", "surface": "Curionem", "entity_id": "person:c-scribonius-curio-tr", "in": "lat"},
+    {"loc": "2", "surface": "M. Marcelli", "entity_id": "person:m-claudius-marcellus-cos51", "in": "lat"},
+    {"loc": "2", "surface": "tribunis pl.", "entity_id": "office:tribune", "in": "lat"},
+    {"loc": "2", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "Pompeius Magnus", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "rei publicae", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "Q. Hortensius", "entity_id": "person:hortensius", "in": "lat"},
+    {"loc": "2", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "2", "surface": "Curio", "entity_id": "person:c-scribonius-curio-tr", "in": "eng"},
+    {"loc": "2", "surface": "M. Marcellus", "entity_id": "person:m-claudius-marcellus-cos51", "in": "eng"},
+    {"loc": "2", "surface": "tribunes of the plebs", "entity_id": "office:tribune", "in": "eng"},
+    {"loc": "2", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "Pompey the Great", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "the commonwealth", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "Q. Hortensius", "entity_id": "person:hortensius", "in": "eng"}
+  ]
+}

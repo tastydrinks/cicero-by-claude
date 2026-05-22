@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-22",
+  "mentions": [
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "Sex. Aelium", "entity_id": "person:sex-aelius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "Sex. Aelius", "entity_id": "person:sex-aelius-paetus", "in": "eng"},
+    {"loc": "1", "surface": "M'. Manilium", "entity_id": "person:m-manilius", "in": "lat"},
+    {"loc": "1", "surface": "M'. Manilius", "entity_id": "person:m-manilius", "in": "eng"},
+    {"loc": "1", "surface": "M. Brutum", "entity_id": "person:m-iunius-brutus-iurisconsultus", "in": "lat"},
+    {"loc": "1", "surface": "M. Brutus", "entity_id": "person:m-iunius-brutus-iurisconsultus", "in": "eng"},
+    {"loc": "1", "surface": "Scaevolae", "entity_id": "person:q-mucius-scaevola-pontifex", "in": "lat"},
+    {"loc": "1", "surface": "Scaevola", "entity_id": "person:q-mucius-scaevola-pontifex", "in": "eng"},
+    {"loc": "1", "surface": "Testae", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "Testa", "entity_id": "person:c-trebatius-testa", "in": "eng"}
+  ]
+}

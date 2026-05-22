@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Parilia",
+      "entity_id": "festival:parilia",
+      "note": "The rustic festival of Pales (21 April), also Rome's birthday; Cicero is needling Atticus over the news that his nephew young Quintus was crowned (publicly honoured) at the celebration in Antony's company."
+    },
+    {
+      "loc": "1",
+      "anchor": "the sixth before the Kalends",
+      "entity_id": null,
+      "note": "A Roman date reckoned by counting back inclusively from the Kalends (first) of the following month; here the sixth day before the Kalends of May, i.e. 26 April 44 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Vestorian school",
+      "entity_id": "person:c-vestorius",
+      "note": "A mock-philosophical \"school\" (haeresis) named for Vestorius, a Puteoli banker known for his peculiar arithmetic and businessman's jargon; Atticus had evidently parodied his manner."
+    },
+    {
+      "loc": "1",
+      "anchor": "the †Pherionian fashion†",
+      "entity_id": null,
+      "note": "A textual crux: the Latin (†Pherionum more†) is corrupt, marked by the editors' daggers, so the joke Atticus made about some \"Pherionian\" manner at Puteoli cannot be recovered. Flag-not-resolve."
+    },
+    {
+      "loc": "2",
+      "anchor": "Rufio of the Vestorian set",
+      "entity_id": null,
+      "note": "Rufio, an agent or freedman attached to Vestorius's circle, named as a coming nobody Cicero now expects to have to obey; he cannot be securely identified with any registered Rufio. Flag-not-resolve."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Liberalia",
+      "entity_id": "festival:liberalia",
+      "note": "The festival of Liber (17 March); the Senate met that day in 44 BC, two days after the assassination, the occasion of the strained debate Cicero recalls."
+    },
+    {
+      "loc": "2",
+      "anchor": "the sitting on the Capitol",
+      "entity_id": "place:capitolium",
+      "note": "After killing Caesar the conspirators withdrew to the Capitol and held council there; Cicero notes that he had disapproved of this passive occupation rather than decisive action."
+    },
+    {
+      "loc": "2",
+      "anchor": "other ``brutes''",
+      "entity_id": null,
+      "note": "A pun: Cicero turns the cognomen Brutus (which as a common noun means \"dull, stupid\") against the timid senators who merely applauded the deed without seeing it through. The wordplay does not name the Liberators."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Ides of March",
+      "entity_id": "event:ides-of-march",
+      "note": "The assassination of Caesar on 15 March 44 BC; Cicero's bitter point is that the deed opened heaven to its doers but failed to restore the Republic."
+    },
+    {
+      "loc": "3",
+      "anchor": "a public funeral",
+      "entity_id": null,
+      "note": "Caesar's funeral, at which Antony's eulogy and the display of the bloodied corpse roused the mob against the Liberators; Atticus had foreseen the danger of allowing it."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Kalends of June",
+      "entity_id": null,
+      "note": "The first of June (1 June 44 BC), the date set for Antony to bring the provincial commands before the Senate; a calendar date, not a person."
+    },
+    {
+      "loc": "4",
+      "anchor": "both Gauls",
+      "entity_id": "place:gallia",
+      "note": "Cisalpine and Transalpine Gaul; Antony was manoeuvring to have both provinces assigned to himself with extended terms, the move that precipitated the war with Decimus Brutus."
+    },
+    {
+      "loc": "5",
+      "anchor": "depredations are going on at the Temple of Ops",
+      "entity_id": null,
+      "note": "After the Ides, Antony seized the public treasury of some 700 million sesterces that Caesar had stored in the temple of Ops on the Capitol; no temple-of-Ops entity is registered. Flag-not-resolve."
+    },
+    {
+      "loc": "6",
+      "anchor": "the people of Buthrotum",
+      "entity_id": "place:buthrotum",
+      "note": "Buthrotum in Epirus, where Atticus held large estates; the town faced confiscation under a Caesarian colony scheme, and Cicero promises to push a favourable Senate decree on its behalf."
+    },
+    {
+      "loc": "6",
+      "anchor": "the Massiliotes",
+      "entity_id": "place:massilia",
+      "note": "The Greek city of Massilia (Marseilles), punished by Caesar for siding with Pompey; Cicero teases Atticus for already \"restoring\" their lost territory as though the Republic were back."
+    }
+  ]
+}

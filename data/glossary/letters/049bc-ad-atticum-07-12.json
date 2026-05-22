@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "sent on the twelfth day before the Kalends",
+      "entity_id": null,
+      "note": "The Romans dated by counting backward (inclusively) from three fixed points - the Kalends (1st), Nones, and Ides; \"the twelfth day before the Kalends\" of February is 21 January. Inclusive counting means the named day and the Kalends are both counted."
+    },
+    {
+      "loc": "2",
+      "anchor": "Lentulus the consul",
+      "entity_id": "person:lentulus-crus",
+      "note": "L. Cornelius Lentulus Crus, one of the two consuls of 49 BC and a leading hardliner against Caesar; Cicero met him at Formiae as the Pompeian command fell into confusion."
+    },
+    {
+      "loc": "2",
+      "anchor": "at Luceria and Teanum, and the rest of them in Apulia",
+      "entity_id": null,
+      "note": "Pompey was concentrating his cohorts in the towns of Apulia and northern Campania - Larinum, Luceria, Teanum - as he debated whether to make a stand in Italy or cross the Adriatic to Greece."
+    },
+    {
+      "loc": "2",
+      "anchor": "the locking of the treasury",
+      "entity_id": "institution:aerarium",
+      "note": "The aerarium, the state treasury kept in the Temple of Saturn; the consuls fled Rome leaving it (or its reserve fund) locked, but Cicero predicts this will not stop Caesar from helping himself."
+    },
+    {
+      "loc": "3",
+      "anchor": "broken by pity for the boys",
+      "entity_id": null,
+      "note": "\"The boys\" are Cicero's son Marcus and his nephew Quintus, whose safety weighs on him as he debates whether to follow Pompey into the war."
+    },
+    {
+      "loc": "4",
+      "anchor": "but the lictors not least",
+      "entity_id": "office:lictor",
+      "note": "Cicero still held proconsular imperium from his Cilician command and so was attended by lictors bearing the fasces; pending the triumph he hoped for, this kept him technically outside the city and constrained his movements."
+    }
+  ]
+}

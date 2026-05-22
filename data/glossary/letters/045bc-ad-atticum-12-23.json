@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-23",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "Carneades and that embassy came to Rome",
+      "entity_id": "person:carneades",
+      "note": "The famous embassy of three Athenian philosophers (the Academic Carneades, the Stoic Diogenes, and the Peripatetic Critolaus) sent to Rome in 155 BC over the fine imposed on Athens for sacking Oropus. Cicero, dating his philosophical exempla, wants the consular year fixed from Atticus's chronological handbook."
+    },
+    {
+      "loc": "2",
+      "anchor": "the eminent Epicurean and had charge of the Gardens at Athens",
+      "entity_id": null,
+      "note": "The Garden (Kepos) was Epicurus's school at Athens, whose head (scholarch) Cicero is trying to identify for the year of the embassy. The phrase 'Gardens at Athens' here means the Epicurean institution, not the suburban horti Cicero is buying."
+    },
+    {
+      "loc": "2",
+      "anchor": "from the work of Apollodorus too",
+      "entity_id": null,
+      "note": "Apollodorus of Athens, the second-century-BC scholar whose verse Chronica was a standard reference for dating philosophers and historical events. He has no entity in this corpus and is distinct from the Sicilian Apollodorus of the Verrines."
+    },
+    {
+      "loc": "3",
+      "anchor": "If nothing comes of the Transtiberine properties",
+      "entity_id": null,
+      "note": "The properties 'across the Tiber' (trans Tiberim) were the prime candidates for Tullia's shrine because of their suburban seclusion near the city. When the across-the-Tiber search stalls, Cicero falls back on Cotta's cramped but well-frequented plot at Ostia."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO S. D. Q. VALERIO LEG. PROPR.",
+      "entity_id": "person:q-valerius-orca",
+      "note": "The abbreviated salutation. LEG. PROPR. = legato propraetorian power: legate with propraetorian authority. Q. Valerius Orca was Caesar's land commissioner in Italy, charged with redistributing territory in areas that had supported Pompey in the civil war."
+    },
+    {
+      "loc": "1",
+      "anchor": "the will of Caesar, who has entrusted to you a great and difficult matter",
+      "entity_id": "person:caesar",
+      "note": "After his victory in the civil war, Caesar authorised a systematic redistribution of land in Campania and Etruria. Orca's assignment --- to parcel out confiscated territory in the Volaterran district --- was politically sensitive precisely because Caesar had previously exempted Volaterrae by law."
+    },
+    {
+      "loc": "2",
+      "anchor": "I have lived on the closest terms with C. Curtius from boyhood",
+      "entity_id": "person:c-curtius-volaterranus",
+      "note": "C. Curtius is otherwise unknown beyond this letter. He had suffered the loss of all his property in the upheavals of the Sullan era and rebuilt his life in the Volaterran territory; Caesar had recently enrolled him in the Senate, making it doubly embarrassing to dispossess a newly minted senator of land in Caesar's own assigned zone."
+    },
+    {
+      "loc": "2",
+      "anchor": "he gathered the wreckage, so to speak, of his shipwreck",
+      "entity_id": null,
+      "note": "A favourite Ciceronian metaphor: a man ruined by political catastrophe is likened to a shipwreck survivor clinging to flotsam. Here the \"wreckage\" is the Volaterran landholding --- all that remained of Curtius's fortune after Sullan confiscations."
+    },
+    {
+      "loc": "2",
+      "anchor": "Caesar has enrolled him in the Senate",
+      "entity_id": "institution:senate",
+      "note": "After the civil war, Caesar reduced the Senate's numbers lost to death and exile by enrolling new members by personal appointment (lectio senatus), bypassing the traditional censorial process. Curtius was one such new enrollee; stripping him of his land would undercut Caesar's own act of patronage."
+    }
+  ]
+}

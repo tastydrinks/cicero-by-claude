@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-13",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "comic-stage witness",
+      "note": "Cicero quotes the Greek phrase komikos martys (comic-stage witness), a stock figure from New Comedy who testifies to the obvious; the joke is that Phania's corroboration of Cicero's loyalty to Appius is so redundant it belongs in farce."
+    },
+    {
+      "loc": "2",
+      "anchor": "my own colleague besides, and, in the very prestige and learning of our college, a partisan of mine",
+      "entity_id": "person:appius-claudius-pulcher",
+      "note": "Cicero and Appius were both augurs, members of the prestigious college of augurs; Appius had supported Cicero's augural positions. The collegiality deepened their formal reconciliation after Appius's hostile governorship of Cilicia."
+    },
+    {
+      "loc": "2",
+      "anchor": "the recklessness of our friend Dolabella",
+      "entity_id": "person:dolabella",
+      "note": "P. Cornelius Dolabella had by this point become engaged to Cicero's daughter Tullia; the 'recklessness' likely refers to his turbulent personal conduct or an early legal scrape, details of which are lost."
+    },
+    {
+      "loc": "3",
+      "anchor": "the lethargy of the state",
+      "note": "Caelius had used the word veternus (cattle-sleep, torpor) for the political stagnation at Rome; Cicero relishes the metaphor and plays on it — the body politic had gone dormant rather than reaching crisis."
+    },
+    {
+      "loc": "3",
+      "anchor": "Curio defending Caesar now",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "The news that C. Scribonius Curio, tribune of the plebs 50 BC, had switched from opposition to active advocacy for Caesar's command was the political sensation of the year; Cicero claims, with characteristic irony, that he had foreseen it."
+    },
+    {
+      "loc": "3",
+      "anchor": "kept the arrears of the previous five-year cycle for the tax-farmers without one complaint from our allies",
+      "note": "The publicani (tax-farmers) collected revenue in five-year cycles (lustra); Cicero as governor of Cilicia had managed the delicate balance between their financial claims and the burden on the provincial subject communities (socii), a notoriously difficult task."
+    }
+  ]
+}

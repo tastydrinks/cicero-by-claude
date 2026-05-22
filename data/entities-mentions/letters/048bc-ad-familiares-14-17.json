@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-17",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TERENTIAE SVAE", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "TERENTIAE SVAE", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "1", "surface": "Lepta", "entity_id": "person:q-paconius-lepta", "in": "lat"},
+    {"loc": "1", "surface": "Lepta", "entity_id": "person:q-paconius-lepta", "in": "eng"},
+    {"loc": "1", "surface": "Trebatio", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "Tulliae", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "Tullia's", "entity_id": "person:tullia", "in": "eng"}
+  ]
+}

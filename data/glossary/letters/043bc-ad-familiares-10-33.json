@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-33",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "If you are well, it is well; I too am well",
+      "entity_id": null,
+      "note": "A rendering of the standard epistolary formula (Latin abbreviated S.V.B.E.E.V., si vales bene est, ego valeo) with which an official letter conventionally opened."
+    },
+    {
+      "loc": "1",
+      "anchor": "the battles fought at Mutina",
+      "entity_id": "place:mutina",
+      "note": "The two engagements of April 43 BC near Mutina (Modena) — Forum Gallorum on 14 April and the relief battle of 21 April — in which both consuls were killed and Antony was driven from the siege of Decimus Brutus."
+    },
+    {
+      "loc": "1",
+      "anchor": "the veterans of Caesar's party",
+      "entity_id": "person:caesar",
+      "note": "Pollio means the seasoned soldiers of the old Caesarian cause, now ranged on both sides at Mutina; he laments that this hard core of veterans is being consumed in fighting itself rather than spent on the commonwealth."
+    },
+    {
+      "loc": "2",
+      "anchor": "the speeches he is said to have made before the troops at Narbo",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Pollio implies that Lepidus's letters to him were as two-faced and inflammatory as the harangues (contiones) Lepidus reportedly delivered to his army at Narbo, then leaning toward Antony."
+    },
+    {
+      "loc": "3",
+      "anchor": "the legions for their winter rest deep in Lusitania",
+      "entity_id": "place:lusitania",
+      "note": "Pollio had quartered his army in the far west of his province (modern Portugal), so remote that, as he complains below, news of the Italian battles reached him forty days late."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Martian legion was wiped out",
+      "entity_id": null,
+      "note": "The Legio Martia, a crack legion that had deserted Antony for the senatorial side in 44 BC; its destruction (in fact heavy losses) at Forum Gallorum was a serious blow to the consuls' army."
+    },
+    {
+      "loc": "4",
+      "anchor": "L. Antonius has seized the Alpine passes",
+      "entity_id": "person:lucius-antonius",
+      "note": "Lucius Antonius, Mark Antony's youngest brother and a legate in his army; holding the Alpine passes would secure the line of retreat into Transalpine Gaul toward Lepidus and Plancus."
+    },
+    {
+      "loc": "5",
+      "anchor": "Brutus, I hear, has seventeen cohorts",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "This is Decimus Brutus, just relieved at Mutina, to whom the survivors of the consuls' army would naturally rally — not Marcus Brutus, who was in Macedonia."
+    },
+    {
+      "loc": "5",
+      "anchor": "the corn is either still in the fields or already in the barns",
+      "entity_id": null,
+      "note": "A campaigning-season calculation: with the late-spring harvest standing or just gathered, an army on the march could feed itself off the land, giving Pollio freedom to move."
+    }
+  ]
+}

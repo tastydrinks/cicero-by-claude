@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-19",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the fear of a Gallic war",
+      "entity_id": null,
+      "note": "In 60 BC the migration and raids of the Helvetii, and a defeat suffered by Rome's allies the Aedui, raised alarm of a war in Gaul. The crisis fizzled this year but recurred in 58, when it gave Caesar his pretext to begin the conquest of Gaul."
+    },
+    {
+      "loc": "2",
+      "anchor": "draw lots for the two Gauls",
+      "entity_id": null,
+      "note": "Provincial commands were assigned to the two consuls by lot (sortitio). \"The two Gauls\" are Cisalpine Gaul (northern Italy) and Transalpine Gaul (the Narbonese province)."
+    },
+    {
+      "loc": "2",
+      "anchor": "the joke of it",
+      "entity_id": null,
+      "note": "Cicero's aside (Greek to gelos) at the third legate, Lentulus son of Clodianus, an evidently undistinguished man whose appointment to so grave a mission Cicero finds absurd."
+    },
+    {
+      "loc": "3",
+      "anchor": "pledges of the commonwealth",
+      "entity_id": null,
+      "note": "When the senate by lot picked Cicero, then Pompey, to be detained in the city rather than sent to Gaul, Cicero reads the choice as the state holding its two indispensable men back as security (pignora)."
+    },
+    {
+      "loc": "4",
+      "anchor": "The agrarian law of the tribune Flavius",
+      "entity_id": "person:l-flavius-tr-pl-60",
+      "note": "L. Flavius, tribune of 60 BC, proposed at Pompey's instigation to buy land for Pompey's returning veterans and the urban poor, funded by the new revenues from Pompey's Eastern conquests. Cicero amended it to protect existing private holdings; the senate, fearing it would give Pompey a power base, blocked it."
+    },
+    {
+      "loc": "4",
+      "anchor": "the consulship of P. Mucius and L. Calpurnius",
+      "entity_id": "person:p-mucius-l-calpurnius-cos133",
+      "note": "Romans dated years by the names of the two consuls; this names 133 BC (P. Mucius Scaevola and L. Calpurnius Piso Frugi), the year of Tiberius Gracchus's agrarian commission, whose distributions Cicero's amendment seeks to confirm."
+    },
+    {
+      "loc": "4",
+      "anchor": "the men of Volaterrae and Arretium",
+      "entity_id": null,
+      "note": "Two Etruscan towns whose land Sulla had confiscated (\"publicized\") in his proscriptions but never actually redistributed; their inhabitants had held it precariously since. Cicero's clause secured their possession against the agrarian commissioners."
+    },
+    {
+      "loc": "4",
+      "anchor": "is my own army --- of men of substance",
+      "entity_id": null,
+      "note": "Cicero's political base (his concordia ordinum) rested on the propertied classes; he speaks of the wealthy property-holders, here aligned by his protection of their holdings, as his \"army.\""
+    },
+    {
+      "loc": "4",
+      "anchor": "the bilge of the city",
+      "entity_id": null,
+      "note": "Sentina urbis: the dregs or sediment of the urban poor, imagined as bilge-water to be pumped off. Cicero argues the land purchase would both relieve Rome's overcrowding and repopulate the depopulated Italian countryside."
+    },
+    {
+      "loc": "5",
+      "anchor": "transferring Publius Clodius to the plebs",
+      "entity_id": "person:clodius",
+      "note": "Clodius, a patrician, sought adoption into a plebeian family (transitio ad plebem) so he could hold the tribunate; the tribune Herennius pushed it. The scheme, repeatedly vetoed in 60, succeeded in 59 and led to Clodius's tribunate and Cicero's exile."
+    },
+    {
+      "loc": "6",
+      "anchor": "the famous Nones of December",
+      "entity_id": null,
+      "note": "5 December 63 BC, when the senate under Cicero's consulship voted to execute the Catilinarian conspirators; the date Cicero treats as the crowning, and most dangerous, glory of his career."
+    },
+    {
+      "loc": "6",
+      "anchor": "our publicans were easily cut off from the senate",
+      "entity_id": "institution:publicani",
+      "note": "The publicani (tax-farming companies of the equestrian order) had asked the senate to revise their over-bid Asian tax contract; in 60 the senate, led by Cato, refused, splitting the knights from the senate and undoing Cicero's cherished \"concord of the orders.\""
+    },
+    {
+      "loc": "6",
+      "anchor": "those fish-pond owners",
+      "entity_id": null,
+      "note": "Cicero's contemptuous name (piscinarii) for the rich, leisured nobles --- Hortensius, Lucullus and their like --- absorbed in stocking luxury fish-ponds at their villas rather than defending the state."
+    },
+    {
+      "loc": "10",
+      "anchor": "the memoir of my consulship composed in Greek",
+      "entity_id": "text:commentarius-consulatus",
+      "note": "Cicero's prose self-history of 63 BC (a commentarius / Greek hypomnema), written first in Greek and sent to Atticus, with a Latin version promised. It is distinct from the verse poem on the same theme mentioned just below."
+    },
+    {
+      "loc": "10",
+      "anchor": "Expect a third poem also",
+      "entity_id": "text:de-consulatu-suo",
+      "note": "Cicero's Latin epic De Consulatu Suo, the third in his run of self-celebrating works on his consulship; it contained the line cedant arma togae (\"let arms yield to the toga\") that critics never let him forget."
+    },
+    {
+      "loc": "11",
+      "anchor": "The Ides of March",
+      "entity_id": null,
+      "note": "15 March 60 BC, the date of the letter. The Ides fell on the 15th in March, May, July and October, on the 13th in other months; Romans counted days inclusively backward from such fixed points."
+    }
+  ]
+}

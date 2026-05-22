@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "having left Asia",
+      "entity_id": "person:quintus-cicero",
+      "note": "Quintus had been propraetorian governor of Asia (61--58 BC) and was now returning to Italy. He passed near his exiled brother, who could not bear to meet him."
+    },
+    {
+      "loc": "1",
+      "anchor": "before the Kalends of May",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; here, before 1 May 58 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "send away his lictors",
+      "entity_id": null,
+      "note": "Lictors were the attendants who bore the fasces before a magistrate; as a returning governor Quintus still had them. Dismissing them to embrace his ruined brother would have been a wrenching public gesture."
+    },
+    {
+      "loc": "1",
+      "anchor": "the not seeing of my brother",
+      "entity_id": "person:quintus-cicero",
+      "note": "Cicero's deliberate refusal to meet Quintus on his return, out of shame at his own fall; the dominant grief of the Thessalonican letters."
+    },
+    {
+      "loc": "1",
+      "anchor": "you, who urged me to live",
+      "entity_id": "person:atticus",
+      "note": "Atticus had argued Cicero out of suicide when the exile was decreed; Cicero now throws the consequence back at him."
+    },
+    {
+      "loc": "2",
+      "anchor": "the penalty of my own offence",
+      "entity_id": null,
+      "note": "Cicero's recurring self-reproach that his exile was his own fault --- for trusting the wrong men and not resisting Clodius in time."
+    },
+    {
+      "loc": "2",
+      "anchor": "before you came to Pompey",
+      "entity_id": "person:pompey",
+      "note": "Atticus had appealed to Pompey on Cicero's behalf; the cold reception drained the consolation from his letters. Pompey had abandoned Cicero to Clodius."
+    },
+    {
+      "loc": "2",
+      "anchor": "bring Hortensius over",
+      "entity_id": "person:hortensius",
+      "note": "Q. Hortensius Hortalus, the leading orator before Cicero; Cicero suspected him of false friendship and even of conniving at the exile, hence the wary \"bring him over.\""
+    },
+    {
+      "loc": "2",
+      "anchor": "not enemies but men who envied us",
+      "entity_id": null,
+      "note": "Cicero blames not open foes but jealous false friends (he means men like Hortensius) for engineering his fall."
+    },
+    {
+      "loc": "3",
+      "anchor": "Sent on the Ides of June",
+      "entity_id": null,
+      "note": "The Ides fell on the 13th in June; the letter is dated 13 June 58 BC."
+    }
+  ]
+}

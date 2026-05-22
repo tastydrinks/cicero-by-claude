@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-54",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "THERMO PROPR.", "entity_id": "person:q-minucius-thermus-pr", "in": "lat"},
+    {"loc": "1", "surface": "THERMO PROPR.", "entity_id": "person:q-minucius-thermus-pr", "in": "eng"},
+    {"loc": "1", "surface": "M. Marcilium", "entity_id": "person:m-marcilius", "in": "lat"},
+    {"loc": "1", "surface": "M. Marcilius", "entity_id": "person:m-marcilius", "in": "eng"},
+    {"loc": "1", "surface": "amici atque interpretis mei filium", "entity_id": "person:marcilius-pater", "in": "lat"},
+    {"loc": "1", "surface": "the son of my friend and interpreter", "entity_id": "person:marcilius-pater", "in": "eng"},
+    {"loc": "1", "surface": "Laudiceam", "entity_id": "place:laodicea-asia", "in": "lat"},
+    {"loc": "1", "surface": "Laodicea", "entity_id": "place:laodicea-asia", "in": "eng"},
+    {"loc": "1", "surface": "Marcilium", "entity_id": "person:m-marcilius", "in": "lat"},
+    {"loc": "1", "surface": "Marcilius", "entity_id": "person:m-marcilius", "in": "eng"},
+    {"loc": "1", "surface": "patris Marcili", "entity_id": "person:marcilius-pater", "in": "lat"},
+    {"loc": "1", "surface": "his father Marcilius", "entity_id": "person:marcilius-pater", "in": "eng"}
+  ]
+}

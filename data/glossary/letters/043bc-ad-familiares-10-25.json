@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-25",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "haste over the praetorship",
+      "entity_id": null,
+      "note": "The praetorship was the senior magistracy below the consulship, normally sought in a candidate's appointed year; Cicero urges Furnius not to abandon his command in Gaul merely to be in Rome for the elections."
+    },
+    {
+      "loc": "2",
+      "anchor": "come quickly to the elections",
+      "entity_id": null,
+      "note": "Candidates for magistracies had to canvass and stand in person at Rome (the comitia); Furnius's military service in Gaul kept him from the city during the campaigning season."
+    },
+    {
+      "loc": "2",
+      "anchor": "had you been aedile, your year would come two years after",
+      "entity_id": null,
+      "note": "Refers to the cursus honorum: a fixed two-year interval (biennium) was required between holding the aedileship and standing for the praetorship. Furnius had not been aedile, so no such designated year bound him."
+    },
+    {
+      "loc": "2",
+      "anchor": "with Plancus as consul",
+      "entity_id": "person:munatius-plancus",
+      "note": "Plancus was consul-designate for 42 BC; a candidate's prospects were brighter when a friendly consul presided over the elections and could lend support."
+    },
+    {
+      "loc": "3",
+      "anchor": "my brother Quintus",
+      "entity_id": "person:quintus-cicero",
+      "note": "Quintus Tullius Cicero, the orator's younger brother, praetor 62 BC and a former legate of Caesar in Gaul; both brothers would be proscribed and killed by the triumvirs later in 43 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "Dardanus your freedman",
+      "entity_id": null,
+      "note": "A libertus (freedman) of Furnius, present at the meeting as a trusted member of the household; freedmen commonly served their former masters as agents and messengers."
+    }
+  ]
+}

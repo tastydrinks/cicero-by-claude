@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-14",
+  "mentions": [
+    {"loc": "1", "surface": "Bibuli", "entity_id": "person:m-calpurnius-bibulus", "in": "lat"},
+    {"loc": "1", "surface": "Bibulus's", "entity_id": "person:m-calpurnius-bibulus", "in": "eng"},
+    {"loc": "1", "surface": "βοώπιδοσ", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "1", "surface": "the ox-eyed lady", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "1", "surface": "Sampsiceramus", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Sampsiceramus", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Formianorum", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "2", "surface": "Formians", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "2", "surface": "C. Arrius", "entity_id": "person:c-arrius", "in": "lat"},
+    {"loc": "2", "surface": "Gaius Arrius", "entity_id": "person:c-arrius", "in": "eng"},
+    {"loc": "2", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Sebosus", "entity_id": "person:sebosus", "in": "lat"},
+    {"loc": "2", "surface": "Sebosus", "entity_id": "person:sebosus", "in": "eng"},
+    {"loc": "2", "surface": "Catuli", "entity_id": "person:q-lutatius-catulus-cos78", "in": "lat"},
+    {"loc": "2", "surface": "Catulus's", "entity_id": "person:q-lutatius-catulus-cos78", "in": "eng"},
+    {"loc": "2", "surface": "Arpinum", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "2", "surface": "Arpinum", "entity_id": "place:arpinum", "in": "eng"},
+    {"loc": "2", "surface": "Formiano", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "2", "surface": "Formian villa", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "2", "surface": "fundum Formianum", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "2", "surface": "Formian estate", "entity_id": "place:formiae", "in": "eng"}
+  ]
+}

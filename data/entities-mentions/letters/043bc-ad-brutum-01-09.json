@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-09",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Bruto", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "Brute", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"}
+  ]
+}

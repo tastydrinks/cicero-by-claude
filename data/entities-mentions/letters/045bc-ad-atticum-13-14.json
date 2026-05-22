@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-14",
+  "mentions": [
+    {"loc": "1", "surface": "placeatne tibi mitti ad Varronem", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "nam scito te ei dialogo adiunctum esse tertium", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "whether it suits you that what I have written be sent to Varro", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "1", "surface": "you have been added to the dialogue as the third party", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "obsecro te, Attica nostra", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "2", "surface": "How is our Attica", "entity_id": "person:attica-pomponia", "in": "eng"}
+  ]
+}

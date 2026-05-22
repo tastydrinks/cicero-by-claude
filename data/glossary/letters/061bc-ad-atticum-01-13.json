@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "at Tres Tabernae",
+      "entity_id": "place:tres-tabernae",
+      "note": "\"Three Taverns,\" a posting-station on the Via Appia south-east of Rome, a common point for handing over letters to travellers."
+    },
+    {
+      "loc": "1",
+      "anchor": "when the victims have been killed at your Amalthea",
+      "entity_id": "place:amaltheum",
+      "note": "The Amaltheum was a shrine and pleasure-garden Atticus built on his estate at Buthrotum in Epirus, named for the nymph Amalthea who nursed the infant Zeus. Sacrificing \"victims\" there marks Atticus's setting-out on a journey."
+    },
+    {
+      "loc": "2",
+      "anchor": "I have not been the first asked for my opinion in the senate",
+      "entity_id": "institution:senate",
+      "note": "The presiding consul called on senators for their opinions (sententiae) in a fixed order of seniority; to be asked first (rogatus primus) was a mark of standing. Cicero is pleased to have been placed second, freeing him from obligation to the man given first place."
+    },
+    {
+      "loc": "2",
+      "anchor": "the pacificator of the Allobroges",
+      "entity_id": "person:c-calpurnius-piso-frugi",
+      "note": "C. Calpurnius Piso, consul 67 BC, who as proconsul of Narbonese Gaul put down a rising of the Allobroges; he is the consular given precedence over Cicero in the senate's speaking order of 61."
+    },
+    {
+      "loc": "2",
+      "anchor": "The consul himself is small-spirited and crooked",
+      "entity_id": "person:m-pupius-piso-frugi",
+      "note": "The consul of 61 BC, M. Pupius Piso Frugi Calpurnianus, who as presiding magistrate covertly favoured Clodius and obstructed the bill against the Bona Dea sacrilege. \"His colleague\" just below is the other consul, M. Valerius Messalla Niger."
+    },
+    {
+      "loc": "3",
+      "anchor": "when the Vestals had repeated the sacrifice",
+      "entity_id": "institution:vestals",
+      "note": "The Vestal Virgins conducted the Bona Dea rite together with the women of the household; Clodius's intrusion polluted it, so the sacrifice had to be performed again (instaurare) to expiate the offence."
+    },
+    {
+      "loc": "3",
+      "anchor": "the matter, by senate's decree, was referred to the Vestals and the pontiffs, who declared it sacrilege",
+      "entity_id": "institution:college-of-pontiffs",
+      "note": "On questions of sacred law the Senate consulted the religious authorities; the College of Pontiffs (with the Vestals) gave the formal ruling that the act was nefas (impious), after which the consuls were directed to bring a bill (rogatio) setting up a court to try it."
+    },
+    {
+      "loc": "3",
+      "anchor": "Caesar has sent his wife notice of divorce",
+      "entity_id": "person:caesar",
+      "note": "Caesar divorced Pompeia, in whose house (his, as praetor and pontifex maximus) the rite was held and with whom Clodius was rumoured to have an intrigue, with the remark that Caesar's wife must be above suspicion."
+    },
+    {
+      "loc": "3",
+      "anchor": "who from the start had been Lycurgean",
+      "entity_id": null,
+      "note": "\"Lycurgean\" after the austere Spartan lawgiver Lycurgus: i.e. severe and uncompromising in pressing the prosecution. Cicero confesses that this hard line is softening day by day."
+    },
+    {
+      "loc": "5",
+      "anchor": "To that Metelline speech I have added some things",
+      "entity_id": null,
+      "note": "The \"Metelline speech\" (oratio Metellina) was Cicero's published invective against the tribune Q. Metellus Nepos, delivered in early 62 BC; he is revising it for circulation."
+    },
+    {
+      "loc": "6",
+      "anchor": "Messalla the consul has bought Autronius's house for HS 13,400,000",
+      "entity_id": "person:p-autronius-paetus",
+      "note": "P. Autronius Paetus, consul-designate for 65 BC, was condemned for electoral bribery and later for the Catilinarian conspiracy; his confiscated mansion sold dear. HS = sesterces; the figure is the price."
+    },
+    {
+      "loc": "6",
+      "anchor": "Six days before the Kalends of February, in the consulship of Marcus Messalla and Marcus Piso",
+      "entity_id": null,
+      "note": "Roman dates were counted inclusively backward from the Kalends (1st), Nones, or Ides; the sixth day before the Kalends of February of 61 BC corresponds to 27 January."
+    }
+  ]
+}

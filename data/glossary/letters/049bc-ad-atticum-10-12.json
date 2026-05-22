@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-12",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "must creep secretly aboard some merchantman",
+      "entity_id": null,
+      "note": "An oneraria was a broad-bellied sailing cargo ship, slower and less conspicuous than an oared galley; Cicero schemes to slip out of Italy on one to avoid the watch Antony has set on him."
+    },
+    {
+      "loc": "2",
+      "anchor": "Sicily is the target",
+      "entity_id": "place:sicilia",
+      "note": "Sicily, Rome's oldest province and a key grain source, was a strategic prize in the war; Cicero hoped to reach it as a stepping-stone toward Pompey before Caesar's man Curio secured the island."
+    },
+    {
+      "loc": "2",
+      "anchor": "a rush of Sicilians to Cato begging him to make a stand",
+      "entity_id": "person:cato-minor",
+      "note": "M. Porcius Cato, the Stoic and staunchest of Pompey's partisans, held Sicily for the senatorial cause in early 49 BC but withdrew without a fight as Curio's force approached. Cicero doubts the report that the provincials had begged him to resist."
+    },
+    {
+      "loc": "2",
+      "anchor": "Only let things go right in Spain!",
+      "entity_id": "place:hispania",
+      "note": "The Spanish provinces held Pompey's veteran legions under his legates; their fate was the war's pivot in 49 BC. Cicero's hopes hang on news from the front, which would in fact end in Caesar's victory at Ilerda."
+    },
+    {
+      "loc": "3",
+      "anchor": "tear up at some point those letters of mine in which I wrote rather sharply",
+      "entity_id": null,
+      "note": "Correspondence could be intercepted or fall into hostile hands in wartime, so Cicero asks Atticus to destroy candid letters about his nephew; the request shows the danger of frank writing under Caesarian surveillance."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "TVLLIVS ET CICERO S. D. TIRONI SVO.",
+      "note": "Senders are Cicero ('Tullius') and his son young Marcus ('Cicero'); 'S. D.' = salutem dicit, 'sends greetings'; 'suo' ('his own') marks the warmth toward Tiro."
+    },
+    {
+      "loc": "1",
+      "anchor": "kept at Corcyra",
+      "entity_id": "place:corcyra",
+      "note": "Corcyra (modern Corfu), the large island off the coast of Epirus where ships waited for favourable winds before crossing to Italy."
+    },
+    {
+      "loc": "1",
+      "anchor": "Quintus my brother and his son at Buthrotum",
+      "note": "Cicero's younger brother Quintus and Quintus's son (Cicero's nephew) had stopped at Buthrotum, a town on the Epirote coast facing Corcyra where Atticus held property."
+    },
+    {
+      "loc": "1",
+      "anchor": "The fifteenth day before the Kalends of December",
+      "note": "17 November 50 BC. The Kalends are the 1st of the month; Roman counting back from the Kalends of December is inclusive."
+    }
+  ]
+}

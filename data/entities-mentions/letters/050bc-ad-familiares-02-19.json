@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-19",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. TVLLIVS M. F. M. N. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "C. COELIO L. F. C. N. CALDO Q.",
+      "entity_id": "person:c-coelius-caldus-q50",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. TVLLIVS M. F. M. N. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "C. COELIO L. F. C. N. CALDO Q.",
+      "entity_id": "person:c-coelius-caldus-q50",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "quaestorem",
+      "entity_id": "office:quaestor",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "provincia",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "quaestor",
+      "entity_id": "office:quaestor",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the province",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Curius, consobrinus tuus",
+      "entity_id": "person:curius-cousin-caldus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "C. Vergilius, propinquus tuus",
+      "entity_id": "person:c-vergilius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Ciliciam",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Curius, your cousin",
+      "entity_id": "person:curius-cousin-caldus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "C. Vergilius, your kinsman",
+      "entity_id": "person:c-vergilius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-34",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I reached Astura",
+      "entity_id": "place:astura",
+      "note": "Astura was a small island and villa at the mouth of the river of the same name on the Latian coast, Cicero's favourite retreat for solitude after Tullia's death. He uses it through 45 BC to escape both the heat and company."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the evening of the eighth day before the Kalends",
+      "entity_id": null,
+      "note": "The Roman calendar counted backward inclusively from the Kalends (1st of the month); \"the eighth before the Kalends\" is the 25th of the preceding month by our reckoning. The Nones mentioned next is the 5th or 7th."
+    },
+    {
+      "loc": "1",
+      "anchor": "you can manage that through Egnatius Maximus",
+      "entity_id": "person:l-egnatius-rufus",
+      "note": "Egnatius Maximus, identified with the banker L. Egnatius Rufus, is the agent through whom Atticus can arrange to delay Cicero's return to Rome. The identification is probable rather than certain."
+    },
+    {
+      "loc": "1",
+      "anchor": "settle the business with Publilius in my absence",
+      "entity_id": "person:publilius-frater",
+      "note": "Publilius was the brother of Publilia, Cicero's young second wife, whom Cicero had married and then separated from in 45 BC. The \"business\" is the financial unwinding of that brief marriage, which Cicero wants handled while he stays away."
+    },
+    {
+      "loc": "1",
+      "anchor": "The People take an interest in it",
+      "entity_id": null,
+      "note": "Heavy irony: Cicero mocks the idea that the Roman public cares about his private marital affairs, calling the gossip a tale \"sung threadbare long ago.\" He admits the whole remark is padding to fill the page."
+    }
+  ]
+}

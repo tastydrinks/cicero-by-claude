@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-10",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "TREBATIO",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "TREBATIO",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesari nostro",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "our friend Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Britanniam",
+      "entity_id": "place:britannia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Britain",
+      "entity_id": "place:britannia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Mucio",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Mucius",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Manilio",
+      "entity_id": "person:m-manilius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Manilius",
+      "entity_id": "person:m-manilius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Oceano",
+      "entity_id": "place:oceanus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Ocean",
+      "entity_id": "place:oceanus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "essedarios",
+      "entity_id": "group:essedarii",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "chariot-fighters",
+      "entity_id": "group:essedarii",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Romam",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Haedui",
+      "entity_id": "group:aedui",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Aedui",
+      "entity_id": "group:aedui",
+      "in": "eng"
+    }
+  ]
+}

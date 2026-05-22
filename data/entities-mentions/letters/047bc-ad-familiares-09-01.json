@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-01",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO M. VARRONI S.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO M. VARRONI S.", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "CICERO M. VARRONI S.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CICERO M. VARRONI S.", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "in Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "2", "surface": "in Cumano", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "2", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Tusculum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "Cumae", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

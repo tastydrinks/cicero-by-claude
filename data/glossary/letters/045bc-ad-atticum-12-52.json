@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-52",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "You know Lucius Tullius Montanus, who went out with my Cicero",
+      "entity_id": "person:l-tullius-montanus",
+      "note": "L. Tullius Montanus was a young companion who accompanied Cicero's son Marcus when he left for his studies at Athens in the spring of 45 BC. His tangled finances back at Rome recur as a worry through these letters."
+    },
+    {
+      "loc": "1",
+      "anchor": "that Montanus owes Plancus 20{,}000 sesterces, on the ground that he stood surety for Flaminius",
+      "entity_id": null,
+      "note": "Montanus had guaranteed a debt of one Flaminius (an otherwise unidentified man) to L. Munatius Plancus, and was now liable for it as the surety (praes). The sum, 20,000 sesterces (HS), was a modest but not trivial amount."
+    },
+    {
+      "loc": "2",
+      "anchor": "either the Scapulan gardens or the Clodian",
+      "entity_id": "person:p-scapula",
+      "note": "Two of the suburban pleasure-gardens (horti) across the Tiber that Cicero canvassed as the site for Tullia's shrine: those of the estate of the dead P. Scapula (held jointly by coheirs) and those of Clodia. He pressed Atticus to secure one or the other."
+    },
+    {
+      "loc": "2",
+      "anchor": "you seem to be in some hesitation about Clodia",
+      "entity_id": "person:clodia",
+      "note": "Clodia, the notorious sister of P. Clodius Pulcher and the 'Lesbia' of Catullus, owned riverside gardens Cicero coveted. The doubt was whether she was willing to sell and when she would be in town to negotiate."
+    },
+    {
+      "loc": "2",
+      "anchor": "that Spinther has divorced his wife",
+      "entity_id": "person:p-lentulus-spinther-jr",
+      "note": "P. Cornelius Lentulus Spinther the younger divorced his wife Metella in 45 BC amid a scandal; Cicero relays the gossip with detached curiosity. He is the son of the consul of 57, not the consul himself."
+    },
+    {
+      "loc": "2",
+      "anchor": "they get made with less labour; I am supplying only the words",
+      "entity_id": null,
+      "note": "Cicero deflects Atticus's wonder at how fast he writes his philosophical works: many are 'copies' (apographa), close adaptations of Greek originals into which he supplies only the Latin wording, of which he has an abundant stock. The remark belongs to his prolific 45 BC philosophical output."
+    }
+  ]
+}

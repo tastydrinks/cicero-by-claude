@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-34",
+  "mentions": [
+    {"loc": "1", "surface": "ego hic vel sine Sicca", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "1", "surface": "Tironi enim melius est", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "cras igitur in Siccae suburbano", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "1", "surface": "Here, even without Sicca", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "1", "surface": "for it is better so for Tiro", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "So tomorrow at Sicca's place outside the city", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "2", "surface": "tu tamen si quid cum Silio", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "2", "surface": "quo ad Siccam venturus ero", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "2", "surface": "Hirti epistulam tibi misi", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "2", "surface": "if there is anything with Silius", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "2", "surface": "even on the day itself when I am to arrive at Sicca's", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "2", "surface": "I have sent you Hirtius' letter", "entity_id": "person:hirtius", "in": "eng"}
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-02-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Trebonius's death",
+      "entity_id": "person:c-trebonius",
+      "note": "Gaius Trebonius, one of Caesar's assassins and governor of the province of Asia, was seized and murdered by Dolabella at Smyrna in early 43 BC; his death was both a personal loss and a strategic blow to the Liberators."
+    },
+    {
+      "loc": "2",
+      "anchor": "Antonius is still with us",
+      "entity_id": "person:antony",
+      "note": "This is not Mark Antony but almost certainly Gaius Antonius, Mark Antony's brother, whom Brutus had captured in Macedonia; Brutus held him as a bargaining piece, aware that executing him might spark reprisals."
+    },
+    {
+      "loc": "3",
+      "anchor": "Murcus, by Marcius, and by the army itself",
+      "entity_id": null,
+      "note": "Lucius Statius Murcus and Quintus Marcius Crispus were Caesarian governors of Syria and Bithynia respectively who, along with their troops, declared for Cassius, giving him a commanding force in the East."
+    },
+    {
+      "loc": "3",
+      "anchor": "my sister Tertia and to my mother",
+      "entity_id": "person:iunia-tertia",
+      "note": "Tertia (Junia Tertia or Tertulla) was Cassius's wife and Brutus's half-sister; \"my mother\" is Servilia, who dominated the Roman Republican women's network and could control the release of politically sensitive news."
+    },
+    {
+      "loc": "4",
+      "anchor": "the kalends of January",
+      "entity_id": null,
+      "note": "The First Philippic delivered on 2 September 44 BC is sometimes numbered differently; the speech of 1 January 43 BC is Cicero's Fifth Philippic, the first major oration of the new consular year, urging war against Antony."
+    },
+    {
+      "loc": "4",
+      "anchor": "I yield the point now",
+      "entity_id": null,
+      "note": "The name \"Philippics\" deliberately echoes Demosthenes' orations against Philip of Macedon; Cicero himself had used the term ironically in a letter, and Brutus here affectionately ratifies the now-famous label."
+    },
+    {
+      "loc": "5",
+      "anchor": "Veteran Antistius",
+      "entity_id": "person:p-antistius-vetus",
+      "note": "Publius Antistius Vetus, a well-connected senator and Brutus partisan, provided funds to Brutus's forces in Greece; vetus (\"veteran\" or \"old friend\") is an affectionate epithet, not a military rank."
+    },
+    {
+      "loc": "6",
+      "anchor": "Kalends of April, from Dyrrachium",
+      "entity_id": "place:dyrrachium",
+      "note": "Dyrrachium (modern Durrës, Albania), an Adriatic port and gateway to the Egnatian Road, was Brutus's principal base in Illyricum-Macedonia, dated here to 1 April 43 BC."
+    }
+  ]
+}

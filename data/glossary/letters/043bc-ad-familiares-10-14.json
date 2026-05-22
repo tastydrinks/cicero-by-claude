@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "two days before the victory",
+      "entity_id": "place:mutina",
+      "note": "Plancus's encouraging dispatch reached Cicero two days before news of the victory at Mutina (21 April 43 BC), where the consuls' armies broke Antony's siege of Decimus Brutus and forced Antony into retreat over the Alps."
+    },
+    {
+      "loc": "1",
+      "anchor": "the best-known of those brigand chiefs are reported to have fled from the field at Mutina",
+      "entity_id": "person:antony",
+      "note": "The \"brigand chiefs\" (latronum duces) are Antony and his lieutenants, whom Cicero throughout the Philippics and these letters denies the dignity of public enemies, casting them instead as bandits; Antony fled westward after the defeat to seek Lepidus and Plancus."
+    },
+    {
+      "loc": "2",
+      "anchor": "Lepidus, having been put in mind of the crisis of the state, would act with you and with the state",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Cicero hopes Lepidus, governor of Narbonese Gaul and Nearer Spain, will join Plancus against the retreating Antony rather than the reverse; within weeks Lepidus instead united his army with Antony's, dooming the senatorial cause in Gaul."
+    }
+  ]
+}

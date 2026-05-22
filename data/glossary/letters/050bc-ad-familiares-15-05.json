@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the kingdom of Ariobarzanes preserved together with the king himself",
+      "entity_id": "person:ariobarzanes-iii",
+      "note": "Ariobarzanes III, king of Cappadocia, whom Cicero shielded from a court plot and from his creditors during the Cilician command; protecting him was part of the brief Cato cites in supporting Cicero's honour."
+    },
+    {
+      "loc": "2",
+      "anchor": "the decreed thanksgiving",
+      "entity_id": "festival:supplicatio",
+      "note": "The supplicatio: a Senate-decreed period of public prayer and offerings at the temples in honour of a victory. Cato had argued for crediting Cicero's character rather than fortune, and now explains his vote."
+    },
+    {
+      "loc": "2",
+      "anchor": "you reckon a thanksgiving the foretaste of a triumph",
+      "entity_id": "institution:triumph",
+      "note": "A supplicatio commonly preceded the award of a triumph, the victory procession through Rome; Cato's point is that the one does not entail the other, and that the Senate's praise of a commander's restraint outweighs the parade."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-14",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CN. PLANCIO", "entity_id": "person:cn-plancius", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CN. PLANCIO", "entity_id": "person:cn-plancius", "in": "eng"},
+    {"loc": "1", "surface": "Corcyrae", "entity_id": "place:corcyra", "in": "lat"},
+    {"loc": "1", "surface": "re publica", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "Corcyra", "entity_id": "place:corcyra", "in": "eng"},
+    {"loc": "1", "surface": "thinking rightly about the state", "entity_id": "institution:populus-romanus", "in": "eng"}
+  ]
+}

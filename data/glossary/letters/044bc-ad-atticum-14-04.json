@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I fear Gallic wars too",
+      "entity_id": null,
+      "note": "Cicero fears renewed war in Gaul, where the Caesarian legions and ambitious commanders (Lepidus, Plancus, Pollio, and others) controlled the provinces; the legions there were the great unknown in the months after the assassination."
+    },
+    {
+      "loc": "1",
+      "anchor": "and where Sextus himself will come out",
+      "entity_id": "person:sextus-pompeius",
+      "note": "Sextus Pompeius, Pompey's surviving son, still under arms in Spain in 44 BC; Cicero anxiously watches which way his considerable forces will turn."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Ides of March are a consolation",
+      "entity_id": "person:caesar",
+      "note": "\"The Ides of March\" stands for the killing of Caesar on 15 March 44 BC; even amid his fears Cicero takes comfort that the deed was done."
+    },
+    {
+      "loc": "1",
+      "anchor": "Our heroes [Greek: hērōes]",
+      "entity_id": null,
+      "note": "Greek heroes, \"heroes\"; Cicero's admiring collective name for the assassins (Brutus, Cassius, and their fellow \"Liberators\"), praising the deed itself while lamenting that they made no plan for what came after. Refers to a group, so left unbound to a single entity."
+    }
+  ]
+}

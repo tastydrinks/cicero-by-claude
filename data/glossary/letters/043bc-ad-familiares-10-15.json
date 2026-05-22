@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "by means of continual messengers I urged on Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Plancus describes his diplomatic effort to win the wavering Lepidus, governor of the neighbouring province of Narbonese Gaul, to the senatorial side against the retreating Antony; the alliance Plancus reports here proved illusory."
+    },
+    {
+      "loc": "2",
+      "anchor": "through Laterensis as intermediary",
+      "entity_id": "person:iuventius-laterensis",
+      "note": "M. Iuventius Laterensis, a legate in Lepidus's camp loyal to the Senate, served as go-between; he later killed himself in despair when Lepidus joined Antony."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Isère, the largest river in the territory of the Allobroges",
+      "entity_id": "place:isara",
+      "note": "The Isère (Latin Isara), an Alpine tributary of the Rhone running through the lands of the Allobroges in Transalpine Gaul; Plancus bridged it in a single day to march south toward Lepidus."
+    },
+    {
+      "loc": "3",
+      "anchor": "Lucius Antonius had been sent ahead",
+      "entity_id": "person:lucius-antonius",
+      "note": "Lucius Antonius, the youngest brother of Mark Antony, tribune in 44 BC; here he leads Antony's advance cavalry into Transalpine Gaul. He later led the so-called Perusine War against Octavian in 41-40 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "Forum Iulii",
+      "entity_id": "place:forum-iulii",
+      "note": "Forum Iulii (modern Fréjus), a coastal town in Narbonese Gaul founded by Julius Caesar; a key point on the route between Italy and the Spanish provinces, here the rendezvous of the converging armies."
+    },
+    {
+      "loc": "3",
+      "anchor": "I sent my brother on 13 May with four thousand horse",
+      "entity_id": "person:plotius-plancus",
+      "note": "Plancus's brother T. Plotius Plancus (born Munatius, adopted into the Plotia gens) commanded his advance cavalry; he recurs as \"my brother\" throughout this Gallic campaign correspondence."
+    },
+    {
+      "loc": "4",
+      "anchor": "it will be Brutus's office to meet him",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "The Brutus here is Decimus Brutus Albinus, governor of Cisalpine Gaul, just freed from the siege of Mutina and positioned to intercept Antony should he fall back into Italy rather than press west into Gaul."
+    }
+  ]
+}

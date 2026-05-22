@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I gave a letter for you to Cn. Plancius's slaves",
+      "entity_id": "person:cn-plancius",
+      "note": "Gnaeus Plancius, the aedile whom Cicero had defended in the Pro Plancio (54 BC); he was in exile in the East (having supported Pompey) and his household slaves served as a courier link between Cicero and Toranius, also in exile."
+    },
+    {
+      "loc": "1",
+      "anchor": "the danger you will have avoided of a long voyage, in winter, with few harbours",
+      "note": "Toranius was in exile somewhere in the Greek East (probably Greece or Asia Minor); Cicero advises against attempting the dangerous winter sea-crossing to Italy before the political situation clarifies. The sailing season in antiquity effectively closed from November to March."
+    },
+    {
+      "loc": "1",
+      "anchor": "there is no reason to be eager to throw yourself in the way of arrivals",
+      "note": "A guarded reference to Caesar's anticipated return from the Spanish campaign; Cicero warns Toranius not to rush back to Rome to present himself before Caesar until the outcome is certain and the terms of pardon are known."
+    },
+    {
+      "loc": "2",
+      "anchor": "If he comes back to himself in time",
+      "entity_id": "person:caesar",
+      "note": "The deliberately oblique 'ille' (he) refers to Caesar, whose return from Spain and receptiveness to petitions for pardon was the determining factor in Toranius's fate. Cicero avoids naming him, perhaps from caution."
+    },
+    {
+      "loc": "3",
+      "anchor": "you have nothing in this business to fear except the common lot of the state",
+      "note": "Cicero distinguishes between the generic catastrophe of the post-Pompeian order (which Toranius shares with all republicans) and any personal legal peril — reassuring him that he faces no specific charge beyond the general condition of having been on the wrong side."
+    }
+  ]
+}

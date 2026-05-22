@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-14",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Epheso", "entity_id": "place:ephesus", "in": "lat"},
+    {"loc": "1", "surface": "Trallibus", "entity_id": "place:tralles", "in": "lat"},
+    {"loc": "1", "surface": "Parthicum", "entity_id": "place:parthia", "in": "lat"},
+    {"loc": "1", "surface": "Appio", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Ephesus", "entity_id": "place:ephesus", "in": "eng"},
+    {"loc": "1", "surface": "Tralles", "entity_id": "place:tralles", "in": "eng"},
+    {"loc": "1", "surface": "Parthia", "entity_id": "place:parthia", "in": "eng"},
+    {"loc": "1", "surface": "Appius", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "2", "surface": "Asia", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "2", "surface": "Tullium tuum", "entity_id": "person:l-tullius-legatus", "in": "lat"},
+    {"loc": "2", "surface": "Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "2", "surface": "your Tullius", "entity_id": "person:l-tullius-legatus", "in": "eng"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-11",
+  "mentions": [
+    {"loc": "1", "surface": "MARCELLVS", "entity_id": "person:m-claudius-marcellus-cos51", "in": "lat"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "MARCELLVS", "entity_id": "person:m-claudius-marcellus-cos51", "in": "eng"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. Marcellus, frater amantissimus mei", "entity_id": "person:c-claudius-marcellus-cos50", "in": "lat"},
+    {"loc": "1", "surface": "my brother Gaius Marcellus", "entity_id": "person:c-claudius-marcellus-cos50", "in": "eng"}
+  ]
+}

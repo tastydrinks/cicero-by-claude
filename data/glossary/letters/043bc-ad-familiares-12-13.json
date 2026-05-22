@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "C. CASSIVS Q. S. D. M. CICERONI",
+      "entity_id": "person:c-cassius-parmensis",
+      "note": "The sender is C. Cassius Parmensis (the poet and tyrannicide), not Cassius Longinus, with whom the manuscripts confuse him; \"Q.\" abbreviates quaestor, his rank with the eastern fleet. S. D. is salutem dicit, \"sends greetings.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "the greatest consular has surpassed his own greatest consulship",
+      "entity_id": "person:cicero",
+      "note": "A compliment to Cicero: as a consularis (ex-consul) leading the resistance to Antony in 43 BC he has now outdone even his celebrated consulship of 63 BC, when he crushed the Catilinarian conspiracy."
+    },
+    {
+      "loc": "1",
+      "anchor": "your toga has been more fortunate than all men's arms",
+      "entity_id": "person:cicero",
+      "note": "An echo of Cicero's own boast cedant arma togae (\"let arms yield to the toga\"): his civilian statesmanship has achieved more than any general's campaign."
+    },
+    {
+      "loc": "4",
+      "anchor": "Our Cassius, with ten legions",
+      "entity_id": "person:cassius-longinus",
+      "note": "\"Our Cassius\" is C. Cassius Longinus, here named in the third person by the letter's writer Cassius Parmensis; he is the commander besieging Dolabella at Laodicea in Syria."
+    },
+    {
+      "loc": "4",
+      "anchor": "at a javelin's cast away \\textit{[Greek: paltōi]}",
+      "entity_id": null,
+      "note": "Cassius Parmensis drops into Greek (paltōi, \"by a javelin\"), measuring the distance between the two camps by a single spear-throw; the Greek tag is preserved in the text."
+    },
+    {
+      "loc": "4",
+      "anchor": "wheat is at three tetrachms a measure",
+      "entity_id": null,
+      "note": "A tetrachm was a four-drachma silver coin; three tetrachms for a measure of wheat signals famine prices inside Dolabella's blockaded camp."
+    },
+    {
+      "loc": "4",
+      "anchor": "He has pitched camp before the town of Laodicea",
+      "entity_id": "place:laodicea-syria",
+      "note": "This is Laodicea ad Mare on the Syrian coast (modern Latakia), where Dolabella took refuge and was besieged --- not the inland Phrygian Laodicea in the province of Asia."
+    },
+    {
+      "loc": "4",
+      "anchor": "from Cyprus at Crommyuacris",
+      "entity_id": "place:crommyuacris",
+      "note": "Crommyuacris was a promontory on the north coast of Cyprus where the fleet lay; the letter is dated from there on the Ides (13th) of June 43 BC."
+    }
+  ]
+}

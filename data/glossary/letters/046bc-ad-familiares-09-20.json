@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "have flung myself into the camp of Epicurus, my adversary",
+      "entity_id": "person:epicurus",
+      "note": "Cicero was a committed Academic and a lifelong critic of Epicurean philosophy, with its goal of pleasure. He jokes that, having abandoned politics and the law, he has deserted to the enemy 'camp' of Epicurus --- meaning he has given himself over to the good food and ease that Paetus, a genuine Epicurean gourmet, embodies."
+    },
+    {
+      "loc": "1",
+      "anchor": "that old elegant style of yours, I mean when you had the means to spend",
+      "entity_id": "person:l-papirius-paetus",
+      "note": "Paetus had suffered financial losses (the recurring joke of this group of letters), so Cicero is careful to say he aspires to Paetus's former tasteful spending, not to vulgar present-day extravagance. The reference 'though you never had more landed estate than now' is an ironic dig at his friend's reduced fortunes."
+    },
+    {
+      "loc": "2",
+      "anchor": "you know how overbearing late learners",
+      "entity_id": null,
+      "note": "Cicero quotes a Greek tag, opsimatheis ('late learners'), proverbial for the tiresome zeal of those who take up a study late in life. He applies it self-mockingly to his own newfound enthusiasm for fine dining."
+    },
+    {
+      "loc": "2",
+      "anchor": "I dare summon, time and again, your Verrius and your Camillus --- what cleanly, what elegant fellows!",
+      "entity_id": null,
+      "note": "Verrius and Camillus are friends of Paetus renowned as connoisseurs of the table; Cicero boasts that his cooking has advanced so far he now dares to entertain even these fastidious epicures. Their precise identities are uncertain."
+    },
+    {
+      "loc": "2",
+      "anchor": "I have even given Hirtius a dinner --- without peacock, however",
+      "entity_id": "person:hirtius",
+      "note": "Aulus Hirtius, Caesar's legate and one of Cicero's rhetoric-pupils, was himself a famous gourmand. To host him to dinner --- yet stop short of the ruinously fashionable peacock --- is Cicero's mock-proof of his own daring as a new convert to gastronomy."
+    },
+    {
+      "loc": "3",
+      "anchor": "of these jubilant victors, who for their part attend on me with great deference",
+      "entity_id": null,
+      "note": "Among the morning callers at Cicero's house in 46 BC were triumphant Caesarians ('jubilant victors'), in contrast to the 'downcast' former Pompeians. Their courteous attentions to the defeated republican Cicero capture the awkward social texture of Rome under the dictatorship."
+    }
+  ]
+}

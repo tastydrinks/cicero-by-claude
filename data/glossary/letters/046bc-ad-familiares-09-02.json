@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-02",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "those who pride themselves on the victory look at us as if we were the conquered",
+      "entity_id": "person:caesar",
+      "note": "Cicero and Varro had backed Pompey in the civil war; after Caesar's triumph the partisans of the winning side treated former Pompeians like himself and Varro as defeated enemies, which is why Cicero counsels keeping out of public view."
+    },
+    {
+      "loc": "2",
+      "anchor": "But who is so lynx-eyed that in such darkness he does not stumble somewhere",
+      "entity_id": "person:lynceus",
+      "note": "Lynceus was a hero of Greek myth proverbial for piercing eyesight (said to see through solid objects); 'lynx-eyed' was a stock metaphor for sharp perception, here applied ruefully to the impossibility of seeing clearly amid the political 'darkness' after the civil war."
+    },
+    {
+      "loc": "4",
+      "anchor": "while this triumphal congratulation is at its boil",
+      "entity_id": "person:caesar",
+      "note": "Cicero advises Varro to stay out of sight during the public celebrations of Caesar's victory; Caesar held a series of triumphs in 46 BC, and Cicero thought it unseemly for defeated Pompeians to be seen while the city rejoiced."
+    },
+    {
+      "loc": "5",
+      "anchor": "I should not have you go to Baiae until the noise has gone hoarse",
+      "entity_id": "place:baiae",
+      "note": "Baiae, on the Bay of Naples, was Rome's most fashionable seaside resort, notorious for luxury and pleasure-seeking; Cicero jokes that for ruined Pompeians to be seen there now (for 'swimming' rather than 'weeping') would look frivolous and improper."
+    },
+    {
+      "loc": "5",
+      "anchor": "not merely as architects but even as common builders for the rebuilding of the commonwealth",
+      "entity_id": null,
+      "note": "Cicero proposes that, shut out of active politics, he and Varro should serve the state through their writing --- studying constitutions, customs and laws --- as the 'most learned of the ancients' (Greek philosophers such as Plato and Aristotle) had done; the philosophical works of these years are the fruit of that resolve."
+    }
+  ]
+}

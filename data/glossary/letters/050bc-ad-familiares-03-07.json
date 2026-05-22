@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-07",
+  "notes": [
+    {
+      "loc": "4",
+      "anchor": "the second watch",
+      "note": "The Romans divided the night into four watches (vigiliae); the second watch ran roughly from mid-evening to midnight."
+    },
+    {
+      "loc": "4",
+      "anchor": "my chief of engineers",
+      "entity_id": "person:q-paconius-lepta",
+      "note": "Praefectus fabrum: nominally the officer in charge of the army's engineers and artificers, but in practice a trusted senior aide and chief of staff to the commander; the post was Q. Lepta's."
+    },
+    {
+      "loc": "4",
+      "anchor": "an imperator",
+      "entity_id": "office:imperator",
+      "note": "The title acclaimed by an army to a victorious general; Cicero, hailed imperator in Cilicia, ranks the honour among the reasons he would naturally have gone out to meet Appius."
+    },
+    {
+      "loc": "4",
+      "anchor": "the custom of our ancestors",
+      "note": "Mos maiorum, the ancestral custom that carried near-binding moral force at Rome; here, the etiquette by which a magistrate ceremonially went out to receive a distinguished colleague."
+    },
+    {
+      "loc": "5",
+      "anchor": "of urbanity, which is a virtue, as the Stoics most rightly hold",
+      "entity_id": "institution:stoic-school",
+      "note": "The Stoics classed wit and refined social grace (urbanitas, Greek eutrapelia) among the virtues; Cicero flatters Appius's polish while mocking his snobbery about birth."
+    },
+    {
+      "loc": "5",
+      "anchor": "``Appius-ness'' or ``Lentulus-ness''",
+      "note": "Cicero coins the mock-abstractions Appietas and Lentulitas --- \"Appius-hood,\" \"Lentulus-hood\" --- to deride aristocratic pride in a great family name as against true merit."
+    },
+    {
+      "loc": "5",
+      "anchor": "Athenodorus, son of Sandon",
+      "entity_id": "person:athenodorus-sandonis",
+      "note": "Athenodorus Cananites, the Stoic philosopher of Tarsus (later tutor of the young Octavian), cited as the authority on what genuine nobility (eugeneia) consists in."
+    }
+  ]
+}

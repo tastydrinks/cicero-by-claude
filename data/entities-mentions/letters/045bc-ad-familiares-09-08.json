@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-08",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "1", "surface": "adulescentioris Academiae", "entity_id": "place:academia-athens", "in": "lat"},
+    {"loc": "1", "surface": "that younger Academy", "entity_id": "place:academia-athens", "in": "eng"},
+    {"loc": "1", "surface": "sermonem inter nos habitum in Cumano", "entity_id": "text:academica", "in": "lat"},
+    {"loc": "1", "surface": "a conversation held between us at the Cuman villa", "entity_id": "text:academica", "in": "eng"},
+    {"loc": "1", "surface": "in Cumano", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "1", "surface": "the Cuman villa", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "1", "surface": "Pomponius", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Pomponius", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "partis Antiochinas", "entity_id": "person:antiochus-ascalon", "in": "lat"},
+    {"loc": "1", "surface": "the parts of Antiochus", "entity_id": "person:antiochus-ascalon", "in": "eng"},
+    {"loc": "1", "surface": "Philonis", "entity_id": "person:philo-larissa", "in": "lat"},
+    {"loc": "1", "surface": "Philo's", "entity_id": "person:philo-larissa", "in": "eng"},
+    {"loc": "2", "surface": "mi Varro", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "2", "surface": "my Varro", "entity_id": "person:m-terentius-varro", "in": "eng"}
+  ]
+}

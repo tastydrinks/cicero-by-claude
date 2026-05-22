@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-01-04",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "kept me at Thessalonica",
+      "entity_id": "place:thessalonica",
+      "note": "Driven from Rome by Clodius's law against him, Cicero spent much of his exile (58 BC) at Thessalonica in Macedonia, staying with the quaestor Cn. Plancius. His friends restrained him from going further east into Asia."
+    },
+    {
+      "loc": "2",
+      "anchor": "our Piso",
+      "entity_id": "person:c-piso-frugi-son-in-law",
+      "note": "C. Calpurnius Piso Frugi, Cicero's son-in-law and Tullia's husband, who worked devotedly for the recall and died young in 57 BC. Not the consul L. Piso, an enemy."
+    },
+    {
+      "loc": "3",
+      "anchor": "Of the new tribunes of the plebs",
+      "entity_id": "office:tribune",
+      "note": "The tribunes designate for 57 BC, who would take office on 10 December 58; Cicero's recall depended on a friendly tribunate able to carry the bill, since Clodius's hostility could still block it."
+    },
+    {
+      "loc": "3",
+      "anchor": "an intercessor too will be procured",
+      "entity_id": "office:tribune",
+      "note": "Any single tribune could veto (intercessio) a fellow tribune's bill. Cicero fears Clodius will line up a tribune to interpose his veto against any motion for the recall."
+    },
+    {
+      "loc": "4",
+      "anchor": "the fear of the tax-farmers",
+      "entity_id": "institution:publicani",
+      "note": "The publicani, the companies that contracted to collect Rome's provincial taxes, were a powerful equestrian interest; their fright at the political crisis was one of the forces Cicero says unnerved him into flight rather than resistance."
+    }
+  ]
+}

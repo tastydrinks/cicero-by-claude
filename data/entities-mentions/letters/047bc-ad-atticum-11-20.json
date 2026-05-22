@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-20",
+  "mentions": [
+    {"loc": "1", "surface": "Seleucea Pieria", "entity_id": "place:seleucia-pieria", "in": "lat"},
+    {"loc": "1", "surface": "C. Treboni libertus", "entity_id": "person:c-trebonius", "in": "lat"},
+    {"loc": "1", "surface": "qui se Antiocheae diceret", "entity_id": "place:antiochia", "in": "lat"},
+    {"loc": "1", "surface": "apud Caesarem vidisse", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "vidisse Quintum filium", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "cum Hirtio", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "1", "surface": "eos de Quinto quae voluissent impetrasse", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "etiam Sallustio ignovit", "entity_id": "person:cn-sallustius", "in": "lat"},
+    {"loc": "1", "surface": "having left Seleucia in Pieria", "entity_id": "place:seleucia-pieria", "in": "eng"},
+    {"loc": "1", "surface": "a freedman of Gaius Trebonius", "entity_id": "person:c-trebonius", "in": "eng"},
+    {"loc": "1", "surface": "who said that at Antioch", "entity_id": "place:antiochia", "in": "eng"},
+    {"loc": "1", "surface": "with Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "he had seen my brother Quintus's son", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "together with Hirtius", "entity_id": "person:hirtius", "in": "eng"},
+    {"loc": "1", "surface": "that on the matter of Quintus they had obtained what they wanted", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "He has even pardoned Sallustius", "entity_id": "person:cn-sallustius", "in": "eng"},
+    {"loc": "2", "surface": "M. Gallius Q. f.", "entity_id": "person:m-gallius", "in": "lat"},
+    {"loc": "2", "surface": "mancipia Sallustio reddidit", "entity_id": "person:cn-sallustius", "in": "lat"},
+    {"loc": "2", "surface": "ut legiones in Siciliam traduceret", "entity_id": "place:sicilia", "in": "lat"},
+    {"loc": "2", "surface": "eo protinus iturum Caesarem Patris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "iturum Caesarem Patris", "entity_id": "place:patrae", "in": "lat"},
+    {"loc": "2", "surface": "Marcus Gallius, son of Quintus", "entity_id": "person:m-gallius", "in": "eng"},
+    {"loc": "2", "surface": "has returned the slaves to Sallustius", "entity_id": "person:cn-sallustius", "in": "eng"},
+    {"loc": "2", "surface": "to convey legions across into Sicily", "entity_id": "place:sicilia", "in": "eng"},
+    {"loc": "2", "surface": "Caesar will be going straight from there to Patrae", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "going straight from there to Patrae", "entity_id": "place:patrae", "in": "eng"}
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Your supplications",
+      "entity_id": "festival:supplicatio",
+      "note": "A supplicatio was a formal public thanksgiving voted by the Senate for a general's victory; Cicero, governing Cilicia, had won one for his Amanus campaign and these are the days of thanksgiving being haggled over in Rome."
+    },
+    {
+      "loc": "1",
+      "anchor": "comitial days",
+      "note": "Days on which the assemblies (comitia) could meet to vote; the tribune Curio was being deprived of them, since a supplicatio of many days would consume the dates he needed for his own legislative business."
+    },
+    {
+      "loc": "1",
+      "anchor": "Paulus's fit of temper",
+      "entity_id": "person:l-aemilius-paulus-cos50",
+      "note": "L. Aemilius Paullus, consul 50 BC and elder brother of the triumvir Lepidus; some quarrel of his had handed Curio an opening that Curio feared to lose by letting the thanksgiving be decreed."
+    },
+    {
+      "loc": "2",
+      "anchor": "Cornelius Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus of Gades, Caesar's chief financial and political agent at Rome; he leaned on Curio not to obstruct, warning that to do so would injure Caesar's interest."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Ides of November",
+      "note": "The Ides fell on the 13th of November; Pompey and the Senate wanted Caesar to lay down his Gallic command by that date, the crux of the looming crisis."
+    },
+    {
+      "loc": "3",
+      "anchor": "consul-designate",
+      "note": "A man elected consul but not yet in office; the dispute was whether Caesar could stand for and be declared consul-elect while still holding his army and province, so as never to be a private citizen liable to prosecution."
+    },
+    {
+      "loc": "4",
+      "anchor": "the city journal",
+      "note": "The acta urbana or acta diurna, an official daily gazette of Senate votes, trials, games, funerals and city news, copied and sent to Romans abroad; Caelius arranged such a digest for Cicero in Cilicia."
+    }
+  ]
+}

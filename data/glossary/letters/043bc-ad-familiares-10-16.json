@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "delivered to Cornutus, the Senate sitting in full",
+      "entity_id": "person:caecilius-cornutus",
+      "note": "M. Caecilius Cornutus, urban praetor (praetor urbanus) in 43 BC, presided over the Senate in the absence of the consuls Hirtius and Pansa, both killed at Mutina; convening and putting motions to the house fell to him."
+    },
+    {
+      "loc": "1",
+      "anchor": "a letter from Lepidus that was decidedly chilly and irresolute",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Lepidus's lukewarm dispatch, read just before Plancus's, betrayed his drift toward Antony; the contrast Cicero draws here is between Plancus's resolute loyalty and Lepidus's evasiveness on the eve of his defection."
+    },
+    {
+      "loc": "1",
+      "anchor": "five tribunes of the plebs brought the matter forward",
+      "entity_id": "office:tribune",
+      "note": "Tribunes of the plebs could convoke the Senate and put motions; when the presiding praetor Cornutus stalled, five tribunes used their own right of referral (relatio) to lay Plancus's letter before the house."
+    },
+    {
+      "loc": "1",
+      "anchor": "Servilius, called on, postponed the question",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "P. Servilius Vatia Isauricus, a senior consular asked to speak first, moved to defer the matter; Cicero, speaking after him, carried his own counter-motion unanimously, as he had done over the earlier honours for Plancus (Fam. 10.13)."
+    },
+    {
+      "loc": "1",
+      "anchor": "What was in the senatorial decree you will learn from itself",
+      "entity_id": "institution:senate",
+      "note": "The senatus consultum (s.c.), the formal written record of the Senate's vote, would be sent to Plancus separately; Cicero declines to recopy its terms into the letter."
+    },
+    {
+      "loc": "2",
+      "anchor": "be your own senate",
+      "entity_id": "institution:senate",
+      "note": "Cicero authorises Plancus to act on his own judgement without referring back to Rome (reicere ad senatum), an extraordinary licence reflecting both the speed of the war and Cicero's trust in him."
+    }
+  ]
+}

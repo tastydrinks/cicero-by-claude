@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "your uncle having performed his duty",
+      "entity_id": "person:q-caecilius-atticus-uncle",
+      "note": "Q. Caecilius, Atticus's wealthy and notoriously difficult uncle, had recently died and made Atticus his heir by adoption; the letter's heading reflects Atticus's new name. \"Performing his duty\" alludes to the favourable terms of the will."
+    },
+    {
+      "loc": "1",
+      "anchor": "the birthday of my return",
+      "entity_id": null,
+      "note": "Cicero pictures his recall from exile as a second birth, to be celebrated like a dies natalis. The conceit recurs across the exile correspondence."
+    },
+    {
+      "loc": "1",
+      "anchor": "Epirus",
+      "entity_id": "place:epirus",
+      "note": "The north-western Greek region where Atticus held an estate. Cicero had meant to await news of his recall there but now judges it better to stay where he is."
+    },
+    {
+      "loc": "2",
+      "anchor": "Curio's speech",
+      "entity_id": "person:c-curio-cos",
+      "note": "C. Scribonius Curio (consul 76 BC), a leading consular and orator who spoke in the Senate on Cicero's behalf during the recall agitation of 58 BC. Not to be confused with his son, the tribune of 50 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "my house",
+      "entity_id": null,
+      "note": "Cicero's mansion on the Palatine, demolished by Clodius after the exile, its site consecrated to Liberty. Its recovery was, after recall itself, Cicero's chief concern."
+    },
+    {
+      "loc": "2",
+      "anchor": "so great an inheritance",
+      "entity_id": null,
+      "note": "The large estate Atticus had just inherited from his uncle Q. Caecilius. Cicero is glad Atticus has cleared his other affairs to devote himself to the recall."
+    },
+    {
+      "loc": "3",
+      "anchor": "The bill of Sestius",
+      "entity_id": "person:sestius-tribune",
+      "note": "A draft recall bill associated with P. Sestius, tribune-designate for 57 BC. Cicero faults it for not naming him expressly and for handling his confiscated property too loosely."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Nones of October",
+      "entity_id": null,
+      "note": "The Nones fell on the 5th in October; dates were counted backward from them. The fourth day before the Nones of October is 4 October."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-01",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "A. TORQVATO",
+      "entity_id": "person:a-manlius-torquatus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "A. TORQVATO",
+      "entity_id": "person:a-manlius-torquatus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Torquate",
+      "entity_id": "person:a-manlius-torquatus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Torquatus",
+      "entity_id": "person:a-manlius-torquatus",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Philargyrus",
+      "entity_id": "person:philargyrus-torquatus",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Ser. Sulpicium",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Philargyrus",
+      "entity_id": "person:philargyrus-torquatus",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Servius Sulpicius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "eng"
+    }
+  ]
+}

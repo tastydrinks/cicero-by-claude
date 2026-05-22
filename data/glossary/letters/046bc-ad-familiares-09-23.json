@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-23",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "my house at Cumae",
+      "entity_id": "place:cumae",
+      "note": "Cumae, the old Greek colony on the bay of Naples, was the site of one of Cicero's seaside villas, much used as a writing retreat. In 46 BC he is there, within easy reach of Paetus, who lived nearby on the bay."
+    },
+    {
+      "loc": "1",
+      "anchor": "M. Caeparius",
+      "entity_id": "person:m-caeparius",
+      "note": "Marcus Caeparius, otherwise little known, is the common acquaintance who brings Cicero news of Paetus's health while crossing the Gallinarian Wood."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Gallinarian Wood",
+      "entity_id": "place:silva-gallinaria",
+      "note": "The Silva Gallinaria was a pine forest on the Campanian coast between Cumae and the mouth of the Volturnus, on the route between the bay-of-Naples estates."
+    },
+    {
+      "loc": "1",
+      "anchor": "suffering with your feet",
+      "entity_id": "person:l-papirius-paetus",
+      "note": "Paetus is laid up with gout (Latin 'ex pedibus laborares'), a recurring affliction of the wealthy diner; Cicero turns it into a joke that at least the cook will not also be gouty, so a dinner is still possible."
+    },
+    {
+      "loc": "1",
+      "anchor": "a guest at once least greedy and no friend to extravagant dinners",
+      "entity_id": "person:cicero",
+      "note": "A running theme of the Paetus correspondence of 46 BC: Cicero presents himself as a modest, frugal dinner-guest, partly as gallant reassurance to an ailing host and partly in keeping with the sumptuary restraint of the Caesarian moment."
+    }
+  ]
+}

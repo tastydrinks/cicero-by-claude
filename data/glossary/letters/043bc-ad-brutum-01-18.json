@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "25 July",
+      "entity_id": null,
+      "note": "The Latin gives a.d. VIII Kal. Sextilis, i.e. eight days before the Kalends of Sextilis (August) = 25 July 43 BC; the letter is dated by its closing date-line (vi Kal. Sextilis = 27 July 43 BC), so the meeting at Servilia's occurred two days before Cicero wrote."
+    },
+    {
+      "loc": "1",
+      "anchor": "a most prudent and most attentive woman, your mother",
+      "entity_id": "person:servilia-hortensii",
+      "note": "Servilia (c. 100–after 42 BC), daughter of Quintus Servilius Caepio; she was the mother of Marcus Brutus and, as the former long-standing mistress of Julius Caesar, a figure of great political weight who continued to manage her son's interests in Rome after Brutus left for the East."
+    },
+    {
+      "loc": "1",
+      "anchor": "Casca was there, and Labeo and Scaptius",
+      "entity_id": "person:p-servilius-casca",
+      "note": "Publius Servilius Casca (the conspirator who struck the first blow at Caesar) and Quintus Antistius Labeo (another Liberator and jurist) and Marcus Scaptius (a Caesaricide associate) were present at Servilia's council on 25 July 43 BC, the inner circle of the republican faction in Rome advising on whether to recall Brutus."
+    },
+    {
+      "loc": "2",
+      "anchor": "a commander who came through it whole --- adorned with the highest honours and greatest fortunes, with a wife, with children, with you for in-laws --- has declared war on the state",
+      "entity_id": "person:antony",
+      "note": "Cicero refers to Mark Antony: though the consular armies defeated Antony at Mutina in April 43 BC (the battles of Forum Gallorum and Mutina), Antony survived and fled northwest with his forces, and was being joined by Lepidus. \"With you for in-laws\" refers to the fact that Antony had married Antonia (a relative of the Atia/Octavia family), but here more likely alludes to Antony's long political connection to the republican faction before his rupture with the Senate."
+    },
+    {
+      "loc": "3",
+      "anchor": "having been accepted by the state as a guarantor for a youth, indeed practically a boy",
+      "entity_id": "person:octavian",
+      "note": "Cicero uses the metaphor of a financial surety (vas, vades): just as a guarantor pledges money on another's behalf, he has staked his political reputation on Octavian's loyalty to the Senate. The metaphor runs through sections 3–4 and was already famous from Brutus's pointed allusion to it in letter 1.16."
+    },
+    {
+      "loc": "5",
+      "anchor": "the word tributum",
+      "entity_id": null,
+      "note": "The tributum was a direct property-tax levied on Roman citizens in times of military emergency; it had long fallen into disuse (last regularly levied in the 2nd century BC) and its reimposition was politically toxic. The 43 BC levy at a rate of one per cent on (often fraudulently low) declared valuations provoked bitter resistance even among republicans."
+    },
+    {
+      "loc": "6",
+      "anchor": "your sister's sons",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Brutus's sister Iunia Tertia (wife of Cassius) is not meant here; rather these are the sons of Brutus's other sister, who married Marcus Aemilius Lepidus — making the boys Lepidus's children. After Lepidus defected to Antony in May 43 BC, Cicero worked in the Senate to shield the boys from the political consequences of their father's treachery."
+    }
+  ]
+}

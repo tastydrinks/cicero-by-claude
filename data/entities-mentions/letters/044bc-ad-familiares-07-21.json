@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-21",
+  "mentions": [
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "Sili", "entity_id": "person:p-silius-pr", "in": "lat"},
+    {"loc": "1", "surface": "Silius", "entity_id": "person:p-silius-pr", "in": "eng"},
+    {"loc": "1", "surface": "Q. CAEPIO PRAETOR", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "the praetor Q. Caepio", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "TVRPILIAE", "entity_id": "person:turpilia", "in": "lat"},
+    {"loc": "1", "surface": "Turpilia's", "entity_id": "person:turpilia", "in": "eng"},
+    {"loc": "1", "surface": "Servium", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "Servius", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "Ofilium", "entity_id": "person:ofilius", "in": "lat"},
+    {"loc": "1", "surface": "Ofilius", "entity_id": "person:ofilius", "in": "eng"},
+    {"loc": "1", "surface": "Testa", "entity_id": "person:c-trebatius-testa", "in": "both"},
+    {"loc": "1", "surface": "P. Silio", "entity_id": "person:p-silius-pr", "in": "lat"},
+    {"loc": "1", "surface": "P. Silius", "entity_id": "person:p-silius-pr", "in": "eng"}
+  ]
+}

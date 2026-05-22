@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-20",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "TORANIO",
+      "entity_id": "person:toranius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Cn. Planci",
+      "entity_id": "person:cn-plancius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "TORANIO",
+      "entity_id": "person:toranius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Cn. Plancius",
+      "entity_id": "person:cn-plancius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "ille",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "he",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    }
+  ]
+}

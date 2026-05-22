@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "To him we seem to be uncles",
+      "entity_id": null,
+      "note": "A bilingual pun: the Greek theioi means both \"uncles\" and \"divine ones,\" so to the small boy Cicero and Atticus appear god-like. Atticus was the boy's actual uncle by Cicero's marriage hopes for the families."
+    },
+    {
+      "loc": "2",
+      "anchor": "I had in my hands the work",
+      "entity_id": "person:dicaearchus",
+      "note": "One of the antiquarian constitutional treatises of Dicaearchus of Messana, the Peripatetic geographer and political writer (pupil of Aristotle); his works On the Pellenians, On the Corinthians, and On the Athenians described those states' political histories."
+    },
+    {
+      "loc": "2",
+      "anchor": "than from Procilius",
+      "entity_id": "person:procilius",
+      "note": "Procilius, a Roman antiquarian writer on early Rome and its topography, whom Cicero ranks far below the learned Dicaearchus."
+    },
+    {
+      "loc": "2",
+      "anchor": "Herodes, if he were a man",
+      "entity_id": "person:herodes",
+      "note": "Herodes, a Greek rhetorician and man of letters in Atticus's circle who had written attacking Cicero; Cicero jokes he should read Dicaearchus instead of penning such letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "I had rather have conspired than have resisted the conspiracy",
+      "entity_id": null,
+      "note": "An ironic flourish: Cicero, the man who crushed Catiline's conspiracy in 63 BC, says he would sooner have joined a plot than put up with listening to Herodes."
+    },
+    {
+      "loc": "3",
+      "anchor": "do you not see the Kalends coming",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; the approaching Kalends here mark a court deadline. Cicero invites Atticus to dine \"on the day before the Kalends.\""
+    },
+    {
+      "loc": "3",
+      "anchor": "Antonius not coming",
+      "entity_id": "person:c-antonius-hybrida",
+      "note": "C. Antonius Hybrida, Cicero's consular colleague of 63 BC, then facing prosecution (he was convicted in 59); his failure to appear was holding up the court."
+    },
+    {
+      "loc": "3",
+      "anchor": "Nigidius is threatening in a public meeting",
+      "entity_id": "person:p-nigidius-figulus",
+      "note": "P. Nigidius Figulus, the polymath senator and Pythagorean scholar, then a praetor or court official threatening to compel absent jurors to attend."
+    }
+  ]
+}

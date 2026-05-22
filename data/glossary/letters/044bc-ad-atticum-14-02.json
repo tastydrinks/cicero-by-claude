@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the theatre and about Publilius",
+      "entity_id": "person:publilius-syrus",
+      "note": "Publilius Syrus, the leading mime-writer and performer of the day; the theatre was a barometer of public feeling, and the crowd's reactions to his shows are read here as signs of political sentiment after the assassination."
+    },
+    {
+      "loc": "1",
+      "anchor": "The applause given to Lucius Cassius",
+      "entity_id": null,
+      "note": "L. Cassius Longinus, tribune of 44 BC and brother of the conspirator C. Cassius; the crowd applauded him in the theatre as a gesture of sympathy for the Liberators' cause. Could not be bound to a distinct registry entity (no contemporary L. Cassius is registered)."
+    },
+    {
+      "loc": "2",
+      "anchor": "The second letter was about Madarus",
+      "entity_id": null,
+      "note": "\"Madarus\" is a Greek baldness-nickname (madaros, \"bald, with thinning hair\"); the person teased is uncertain, and the joke turns on the pun with phalakoma/phalakroma (\"bald-pate\") that Cicero applies to Brutus a few lines later. Left unbound as a flagged in-joke."
+    },
+    {
+      "loc": "2",
+      "anchor": "in whom there is no [Greek: phalakōma]",
+      "entity_id": null,
+      "note": "Greek phalakoma / phalakroma, \"baldness\" or \"a bald-pate,\" used as a teasing tag; the daggers mark a corruption in the transmitted Greek, and Cicero redeploys the word as a mock-epithet for Brutus, \"the bitterest enemy of leisure.\""
+    },
+    {
+      "loc": "4",
+      "anchor": "to Tusculum today, Lanuvium tomorrow, then Astura",
+      "entity_id": null,
+      "note": "An itinerary among Cicero's country houses south of Rome: his Tusculan villa in the Alban hills, a stop at Lanuvium, then Astura, a secluded coastal retreat on a small island at the Astura river-mouth where he often went to be alone."
+    },
+    {
+      "loc": "4",
+      "anchor": "Pilia's lodging is ready; but I should have liked Attica's too",
+      "entity_id": "person:pilia",
+      "note": "Pilia is Atticus's wife and Attica (Caecilia Attica) their young daughter; Cicero, devoted to the family, regrets that Attica was not coming to stay along with her mother."
+    }
+  ]
+}

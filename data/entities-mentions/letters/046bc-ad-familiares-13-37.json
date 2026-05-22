@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-37",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "1", "surface": "Hippiam", "entity_id": "person:hippias-calactinus", "in": "lat"},
+    {"loc": "1", "surface": "Hippias of Calacte", "entity_id": "person:hippias-calactinus", "in": "eng"},
+    {"loc": "1", "surface": "Philoxeni filium", "entity_id": "person:hippias-calactinus", "in": "lat"},
+    {"loc": "1", "surface": "son of Philoxenus", "entity_id": "person:hippias-calactinus", "in": "eng"},
+    {"loc": "1", "surface": "Philoxeni", "entity_id": "person:philoxenus-calactinus", "in": "lat"},
+    {"loc": "1", "surface": "Philoxenus", "entity_id": "person:philoxenus-calactinus", "in": "eng"},
+    {"loc": "1", "surface": "Calactinum", "entity_id": "place:calacte", "in": "lat"},
+    {"loc": "1", "surface": "Calacte", "entity_id": "place:calacte", "in": "eng"},
+    {"loc": "1", "surface": "bona", "entity_id": "person:hippias-calactinus", "in": "lat"},
+    {"loc": "1", "surface": "His property", "entity_id": "person:hippias-calactinus", "in": "eng"},
+    {"loc": "1", "surface": "leges Calactinorum", "entity_id": "place:calacte", "in": "lat"},
+    {"loc": "1", "surface": "the laws of the Calactines", "entity_id": "place:calacte", "in": "eng"},
+    {"loc": "1", "surface": "aequitate tua", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "your sense of equity", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"}
+  ]
+}

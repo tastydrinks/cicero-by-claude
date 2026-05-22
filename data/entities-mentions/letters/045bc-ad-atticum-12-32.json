@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-32",
+  "mentions": [
+    {"loc": "1", "surface": "Egnatius mihi scripsit", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "nam cum Silio non video confici posse", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "Piliae et Atticae salutem", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "1", "surface": "Piliae et Atticae salutem", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "Publilia ad me scripsit matrem suam", "entity_id": "person:publilia", "in": "lat"},
+    {"loc": "1", "surface": "cum Publilio loqueretur", "entity_id": "person:publilius-frater", "in": "lat"},
+    {"loc": "1", "surface": "Egnatius has written to me", "entity_id": "person:l-egnatius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "For with Silius I do not see how it can be brought off", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "Greetings to Pilia and Attica", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "1", "surface": "Greetings to Pilia and Attica", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "1", "surface": "Publilia has written to me that her mother", "entity_id": "person:publilia", "in": "eng"},
+    {"loc": "1", "surface": "having spoken with Publilius", "entity_id": "person:publilius-frater", "in": "eng"},
+    {"loc": "2", "surface": "Ciceroni velim hoc proponas", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "2", "surface": "si Romae esset domumque conduceret", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "accommodet ad mercedes Argileti et Aventini", "entity_id": "place:argiletum", "in": "lat"},
+    {"loc": "2", "surface": "praestabo nec Bibulum nec Acidinum nec Messallam", "entity_id": "person:l-calpurnius-bibulus", "in": "lat"},
+    {"loc": "2", "surface": "praestabo nec Bibulum nec Acidinum nec Messallam", "entity_id": "person:m-valerius-messala-corvinus", "in": "lat"},
+    {"loc": "2", "surface": "quos Athenis futuros audio", "entity_id": "place:athenae", "in": "lat"},
+    {"loc": "2", "surface": "iumento certe Athenis nihil opus est", "entity_id": "place:athenae", "in": "lat"},
+    {"loc": "2", "surface": "I would like you to put this to my son Cicero", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "if he were at Rome and were renting a house", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "within the rents from the Argiletum and Aventine", "entity_id": "place:argiletum", "in": "eng"},
+    {"loc": "2", "surface": "neither Bibulus nor Acidinus nor Messalla", "entity_id": "person:l-calpurnius-bibulus", "in": "eng"},
+    {"loc": "2", "surface": "neither Bibulus nor Acidinus nor Messalla", "entity_id": "person:m-valerius-messala-corvinus", "in": "eng"},
+    {"loc": "2", "surface": "who I hear will be at Athens", "entity_id": "place:athenae", "in": "eng"},
+    {"loc": "2", "surface": "Certainly there is no need of a beast of burden at Athens", "entity_id": "place:athenae", "in": "eng"}
+  ]
+}

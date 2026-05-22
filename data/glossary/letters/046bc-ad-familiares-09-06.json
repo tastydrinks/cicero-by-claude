@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Caesar's arrival is being looked for",
+      "entity_id": "person:caesar",
+      "note": "Written in mid-46 BC, the letter anticipates Caesar's return to Italy from the African campaign (the victory at Thapsus in April 46 had ended organized Pompeian resistance there). The question of where he would land --- Alsium or Ostia --- mattered because hosts along the coast would have to receive him and his entourage."
+    },
+    {
+      "loc": "1",
+      "anchor": "Balbus and Oppius",
+      "entity_id": null,
+      "note": "L. Cornelius Balbus (the elder) and C. Oppius were Caesar's chief political agents and managers in Rome, handling his correspondence and patronage during his absences. Cicero notes that he is on familiar terms with them and with Hirtius, signalling his accommodation to the new dispensation."
+    },
+    {
+      "loc": "3",
+      "anchor": "a victory in civil war",
+      "entity_id": null,
+      "note": "Cicero develops the theme that the worst of all evils is the very fact of one citizen army defeating another; he insists he dreaded a Pompeian victory almost as much as Caesar's, because the irreconcilables on his own side were making cruel threats."
+    },
+    {
+      "loc": "4",
+      "anchor": "you stand almost alone in port",
+      "entity_id": "person:m-terentius-varro",
+      "note": "Cicero praises Varro --- the most learned Roman of the age --- for having withdrawn into scholarship as into a safe harbour amid the political storms, reaping the fruits of learning. The image anticipates the dedication of the Academica to Varro a year later (Fam. 9.8)."
+    },
+    {
+      "loc": "5",
+      "anchor": "a kind of furlough from public duty",
+      "entity_id": null,
+      "note": "Cicero argues, citing the verdict of great men, that literary and philosophical study is a legitimate substitute for political life when the commonwealth can no longer use one's service --- the self-justification underlying his own intense philosophical output of 46-44 BC."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-17",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "CONLEGAE", "entity_id": "office:augur", "in": "lat"},
+    {"loc": "1", "surface": "CONLEGAE", "entity_id": "office:augur", "in": "eng"},
+    {"loc": "1", "surface": "Syria", "entity_id": "place:syria", "in": "lat"},
+    {"loc": "1", "surface": "Syria", "entity_id": "place:syria", "in": "eng"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Caesari", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "de optimo genere dicendi", "entity_id": "text:cicero-de-optimo-genere-oratorum", "in": "lat"},
+    {"loc": "2", "surface": "On the Best Kind of Oratory", "entity_id": "text:cicero-de-optimo-genere-oratorum", "in": "eng"}
+  ]
+}

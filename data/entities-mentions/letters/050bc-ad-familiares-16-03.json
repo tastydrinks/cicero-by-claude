@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-03",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "Q. PATER", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "FILIVS", "entity_id": "person:q-cicero-younger", "in": "lat"},
+    {"loc": "1", "surface": "Alyziam", "entity_id": "place:alyzia", "in": "lat"},
+    {"loc": "1", "surface": "Alyzia", "entity_id": "place:alyzia", "in": "eng"},
+    {"loc": "1", "surface": "Quintus", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "Quintus", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "magistrum tuum", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "your master", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "2", "surface": "Marionem", "entity_id": "person:mario-servus", "in": "lat"},
+    {"loc": "2", "surface": "Marion", "entity_id": "person:mario-servus", "in": "eng"},
+    {"loc": "2", "surface": "mi Tiro", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "2", "surface": "my dear Tiro", "entity_id": "person:tiro", "in": "eng"}
+  ]
+}

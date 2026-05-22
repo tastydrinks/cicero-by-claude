@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-77",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO SULPICIO IMP. S.",
+      "entity_id": "person:p-sulpicius-rufus-procos-illyricum",
+      "note": "The letter-heading. The recipient is P. Sulpicius Rufus, then holding the title imperator as proconsul of Illyricum (48-46 BC); he is a different man from the famous orator and tribune of 88 BC of the same name. \"S.\" abbreviates salutem (dicit), \"sends greetings.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "I voted gladly for a public thanksgiving on your behalf",
+      "entity_id": null,
+      "note": "A supplicatio: a formal period of public thanksgiving to the gods decreed by the Senate to honour a victorious commander, and a normal precursor to a triumph. Cicero's vote here is an act of senatorial courtesy marking Sulpicius's military success in Illyricum."
+    },
+    {
+      "loc": "3",
+      "anchor": "Dionysius, my slave, who handled my library",
+      "entity_id": "person:dionysius-servus-ciceronis",
+      "note": "A literate slave entrusted with a wealthy Roman's library would catalogue, copy, and maintain the book-rolls; such men were valuable and the loss of one with his master's books was a real grievance. This Dionysius is not to be confused with Cicero's freedman scholar M. Pomponius Dionysius."
+    },
+    {
+      "loc": "3",
+      "anchor": "when he said he had been manumitted by me, they believed him",
+      "entity_id": null,
+      "note": "Manumission (manu missio) freed a slave; a freedman could move about and do business openly. By falsely claiming Cicero had freed him, the runaway Dionysius passed as a free man and so escaped recapture at Narona."
+    }
+  ]
+}

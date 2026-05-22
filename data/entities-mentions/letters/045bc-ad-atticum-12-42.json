@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-42",
+  "mentions": [
+    {"loc": "1", "surface": "scripsisti tamen nescio quid de Clodia", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "1", "surface": "Still you wrote something or other about Clodia", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "2", "surface": "Othonem nihil magis", "entity_id": "person:otho", "in": "lat"},
+    {"loc": "2", "surface": "Otho nothing pleases me more", "entity_id": "person:otho", "in": "eng"},
+    {"loc": "3", "surface": "sed aut in Tusculanum aut domum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "3", "surface": "inde fortasse Arpinum", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "3", "surface": "either for the Tusculanum or for the house", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "3", "surface": "from there perhaps to Arpinum", "entity_id": "place:arpinum", "in": "eng"}
+  ]
+}

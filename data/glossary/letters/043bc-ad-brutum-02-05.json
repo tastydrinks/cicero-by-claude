@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-02-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "What letters were read out in the Senate on the Ides of April",
+      "entity_id": null,
+      "note": "Idus Apriles = 13 April 43 BC; the sensational reading of letters in Brutus's and Antony's names touched off a constitutional crisis over Antony's self-styled proconsular authority."
+    },
+    {
+      "loc": "1",
+      "anchor": "the commonwealth should be freed not from a king alone, but from the kingship",
+      "entity_id": null,
+      "note": "Cicero distinguishes tyrannicidium (killing the tyrant) from abolishing the tyranny itself; his complaint is that sparing Antony and other Caesarians after the Ides of March preserved the structural conditions for renewed autocracy."
+    },
+    {
+      "loc": "2",
+      "anchor": "some god had not put that mind into Caesar Octavianus",
+      "entity_id": "person:octavian",
+      "note": "A rare moment of explicit gratitude to Octavian (the future Augustus), whose private legions in autumn 44 BC gave the Senate a counterweight to Antony; Cicero here acknowledges divine fortune in Octavian's timely action."
+    },
+    {
+      "loc": "3",
+      "anchor": "Celer Pilius",
+      "entity_id": "person:celer-pilius",
+      "note": "A messenger of disputed loyalties who arrives at dawn on the Ides of April carrying letters purportedly from both Brutus and Antony; his willingness to deliver Antony's letter to a magistrate contrasted with the timidity of Dolabella's own couriers."
+    },
+    {
+      "loc": "3",
+      "anchor": "ANTONIUS PROCONSUL",
+      "entity_id": "person:antony",
+      "note": "The title proconsul (procos.) was a claim to legitimate imperium over a province; Antony had issued this to himself after the Lex Antonia assigned him the Gallic provinces, but the Senate had not confirmed it — hence the astonishment."
+    },
+    {
+      "loc": "4",
+      "anchor": "with what danger his own son, with what danger mine",
+      "entity_id": "person:sestius-tribune",
+      "note": "Sestius's son and Cicero's son (Marcus the younger) were both serving under Brutus; if Antony were recognized as proconsul, their bearing arms against him would legally constitute treason, making the constitutional question acutely personal."
+    },
+    {
+      "loc": "5",
+      "anchor": "the three Antonii",
+      "entity_id": "person:antony",
+      "note": "The three brothers: Marcus Antonius (Mark Antony), Gaius Antonius (held by Brutus in Macedonia), and Lucius Antonius (tribune 44, consul 41 BC); Cicero argues that clemency toward any one of them undermines the condemnation of Dolabella."
+    },
+    {
+      "loc": "6",
+      "anchor": "The 18th day before the kalends of May",
+      "entity_id": null,
+      "note": "Ante diem duodevicesimum Kalendas Maias = 14 April 43 BC; this date formula confirms the letter was sent the day after the dramatic Senate session of the Ides of April."
+    }
+  ]
+}

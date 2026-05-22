@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "``Come, then,'' he said, ``and act for peace.''",
+      "entity_id": "person:caesar",
+      "note": "This is the famous interview between Cicero and Caesar at Cicero's Formian villa on 28 March 49 BC; Caesar pressed Cicero to come to Rome and lend his voice to a peace settlement, and Cicero, refusing to disown Pompey's cause, declined. The letter reports the exchange almost verbatim."
+    },
+    {
+      "loc": "1",
+      "anchor": "a crossing into the Spains, nor that armies be transported to Greece",
+      "entity_id": null,
+      "note": "Cicero warns that he would oppose in the Senate Caesar's two strategic aims: the campaign against the Pompeian legions in Spain and the pursuit of Pompey, now crossed to Greece. \"The Spains\" reflects the province's division into Hispania Citerior and Ulterior."
+    },
+    {
+      "loc": "2",
+      "anchor": "those camps which had Pompey under siege",
+      "entity_id": "person:pompey",
+      "note": "In March 49 BC Caesar tried to bottle up Pompey inside Brundisium and block his embarkation, throwing up siege-works across the harbour mouth; Pompey nonetheless slipped across the Adriatic to Greece on 17 March."
+    },
+    {
+      "loc": "2",
+      "anchor": "Servius's son, and Titinius's son",
+      "entity_id": null,
+      "note": "The sons of two respected neutralist senators --- the jurist Servius Sulpicius Rufus and Q. Titinius --- had joined Caesar's forces besieging Pompey; Cicero is appalled that even such families' heirs had gone over to Caesar."
+    },
+    {
+      "loc": "3",
+      "anchor": "He goes straight on to Norbanus at the Pedian villa",
+      "entity_id": "person:c-norbanus",
+      "note": "After the meeting Caesar moved on toward Rome; \"the Pedian villa\" was an estate in the Pedan territory east of Rome where C. Norbanus, one of his partisans, awaited him. The reading of both names is uncertain in the manuscripts."
+    }
+  ]
+}

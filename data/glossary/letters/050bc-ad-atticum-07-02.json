@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the seventh day before the Kalends of December",
+      "entity_id": null,
+      "note": "Roman dates count inclusively backward from the next named day; the Kalends is the 1st of December, so the seventh day before it (counting both ends) is 24 November. Cicero is landing back in Italy from his province."
+    },
+    {
+      "loc": "1",
+      "anchor": "such a pretty little spondaic breeze blew us from Epirus --- the gentlest Onchesmite",
+      "entity_id": "place:onchesmus",
+      "note": "Onchesmus was a harbour on the coast of Epirus; Cicero coins a mock-epic joke, calling the favourable wind from there an 'Onchesmite' and noting that the phrase scans as a spondaic (ending-in-spondees) line of verse."
+    },
+    {
+      "loc": "2",
+      "anchor": "one of the quartans has gone and the other is coming on more lightly",
+      "entity_id": null,
+      "note": "A quartan is a recurrent fever (typically malarial) that returns every fourth day by inclusive reckoning; Atticus was suffering a double quartan, with attacks on successive days, which Cicero hopes is now abating."
+    },
+    {
+      "loc": "2",
+      "anchor": "at the Trebulan villa",
+      "entity_id": "place:trebula",
+      "note": "Trebula was a town in Campania; the 'Trebulan' estate where Pontius gave the news belonged to Pontius himself, one of the country houses along Cicero's route up the Italian coast."
+    },
+    {
+      "loc": "3",
+      "anchor": "I left Tiro sick at Patrae",
+      "entity_id": "person:tiro",
+      "note": "Tiro was Cicero's trusted secretary (later his freedman and the editor of his letters); Patrae (modern Patras) was the Achaean port where the homeward party put in, and Cicero left the ailing Tiro there in Curius's care."
+    },
+    {
+      "loc": "3",
+      "anchor": "sealed with the signets of the three Ciceros and of the praetorian cohort",
+      "entity_id": null,
+      "note": "A Roman will required seven witnesses' seals to be valid; here Cicero, his son, and his nephew (the 'three Ciceros') plus members of the governor's praetorian cohort (his official staff/bodyguard) supplied the witnessing seals."
+    },
+    {
+      "loc": "3",
+      "anchor": "his heir of an as and me of a quarter-as",
+      "entity_id": null,
+      "note": "Roman wills divided the estate into twelfths of an as (the unit coin): a libella was one-tenth and a teruncius a quarter, so the figures are token honorary bequests marking esteem rather than real shares."
+    },
+    {
+      "loc": "5",
+      "anchor": "an account of Pompey's conversation at Naples",
+      "entity_id": "person:pompey",
+      "note": "Pompey was convalescing near Naples in 50 BC; Atticus had sounded him out and reported his friendly talk about Cicero's standing and his hoped-for triumph, news Cicero found especially welcome."
+    },
+    {
+      "loc": "6",
+      "anchor": "those most impudent letters of Bibulus --- which were followed by the most lavish supplication possible",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "note": "M. Calpurnius Bibulus, governor of Syria, won an exceptionally long public thanksgiving (supplicatio) for victories Cicero thinks exaggerated, since Bibulus never left his fortifications; Cicero is galled that his own real campaigning earned less."
+    },
+    {
+      "loc": "6",
+      "anchor": "so long as the enemy was on this side of the Euphrates",
+      "entity_id": "place:euphrates",
+      "note": "The Euphrates was the frontier between Roman Syria and Parthia; while the Parthians remained west of it (on the Roman side) Bibulus stayed shut in his stronghold, in Cicero's pointed contrast with his own activity."
+    },
+    {
+      "loc": "7",
+      "anchor": "this same Cato voted Bibulus twenty days",
+      "entity_id": "person:cato-minor",
+      "note": "The number of days of a supplicatio measured the honour; Cato proposed twenty days' thanksgiving for his son-in-law Bibulus while voting against any for Cicero, the partiality that so stings Cicero here."
+    },
+    {
+      "loc": "8",
+      "anchor": "that old formula of Drusus the praetor",
+      "entity_id": "person:m-livius-drusus-pr-iurist",
+      "note": "M. Livius Drusus, a noted jurist-praetor, was famous for a ruling about manumission oaths; Cicero invokes it to argue that his runaway slave Chrysippus was never legally freed, since no one was present to claim his freedom on his behalf."
+    },
+    {
+      "loc": "8",
+      "anchor": "the one in which you discuss the dangers facing the commonwealth",
+      "entity_id": null,
+      "note": "Atticus had written analysing the political peril of the Caesar-Pompey crisis; Cicero, overwhelmed, leaves it unanswered, deflecting with the grim joke that the Parthians' near-fatal attack on Bibulus gives him less to fear at home."
+    }
+  ]
+}

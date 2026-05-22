@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "About the dowry",
+      "entity_id": null,
+      "note": "Cicero is pressing to recover the dowry he had given for Tullia's marriage to Dolabella, repayable in installments after their divorce; the matter is bound up with Balbus's offer to take over (\"assign\") the debt. Settling it would free funds for the projected shrine to Tullia."
+    },
+    {
+      "loc": "1",
+      "anchor": "Balbus's terms for assigning the debt are princely",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus, Caesar's chief financial agent, has made generous terms for the legal transfer (\"delegatio\") of a debt owed to Cicero, redirecting it to a new payer. \"Princely\" (regia) marks how lavish the offer is."
+    },
+    {
+      "loc": "1",
+      "anchor": "consecration",
+      "entity_id": null,
+      "note": "Renders the Greek \"apotheōsin\": Cicero's plan to build a shrine (fanum) consecrating his dead daughter Tullia as a kind of deity. He weighs his island at Arpinum as a site but fears its remoteness would diminish the honour, and turns instead to suburban gardens near Rome."
+    },
+    {
+      "loc": "1",
+      "anchor": "the gardens",
+      "entity_id": null,
+      "note": "The \"horti\" are suburban pleasure-gardens across the Tiber from Rome, which Cicero hunts through this book as a public, visited site for Tullia's shrine. Their accessibility is exactly what the remote island at Arpinum lacks."
+    },
+    {
+      "loc": "2",
+      "anchor": "About Epicurus",
+      "entity_id": "person:epicurus",
+      "note": "Cicero and Atticus are discussing whether to retain an Epicurean speaker among the cast of characters in one of Cicero's philosophical dialogues; \"as you wish\" yields the point, though Cicero adds he will \"make the adjustment.\" Atticus was himself an Epicurean."
+    }
+  ]
+}

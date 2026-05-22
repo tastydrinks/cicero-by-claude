@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-03",
+  "mentions": [
+    {"loc": "1", "surface": "illius consilio et voluntati", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "to her judgement and her wishes", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "3", "surface": "pecunia apud Egnatium est", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "3", "surface": "quicum sumus", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "3", "surface": "de qua scis me miserrimum esse", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "3", "surface": "The money is with Egnatius", "entity_id": "person:l-egnatius-rufus", "in": "eng"},
+    {"loc": "3", "surface": "the man I am with", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "3", "surface": "the one for whose sake you know me to be most miserable", "entity_id": "person:tullia", "in": "eng"}
+  ]
+}

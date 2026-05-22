@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "C. CASSIVS PROCOS. S. D. M. CICERONI",
+      "entity_id": "person:cassius-longinus",
+      "note": "C. Cassius Longinus, the tyrannicide, writes as PROCOS. (proconsul) in command of the republican forces in the East. The formula S. D. is salutem dicit, \"sends greetings,\" to M. Cicero."
+    },
+    {
+      "loc": "1",
+      "anchor": "If you are well, that is good; I myself am well.",
+      "entity_id": null,
+      "note": "Renders the stock epistolary opening abbreviated in the Latin as S. v. b. e. e. q. v. (si vales, bene est; ego quoque valeo), a formula of well-wishing that conventionally began a Roman letter."
+    },
+    {
+      "loc": "1",
+      "anchor": "L. Murcus and Q. Crispus, commanders",
+      "entity_id": "office:imperator",
+      "note": "L. Statius Murcus and Q. Marcius Crispus, the two governors with armies in Syria who joined Cassius; \"commanders\" renders imp. (imperator), the victory-title their troops had given them."
+    },
+    {
+      "loc": "1",
+      "anchor": "the legion which Q. Caecilius Bassus had",
+      "entity_id": "person:q-caecilius-bassus",
+      "note": "Q. Caecilius Bassus was a renegade Pompeian who had seized a legion in Syria and held out against Caesarian forces; in 43 BC it went over to Cassius."
+    },
+    {
+      "loc": "1",
+      "anchor": "the four legions which A. Allienus led out of Egypt",
+      "entity_id": "person:a-allienus",
+      "note": "A. Allienus had marched four legions from Egypt intended for Dolabella; he handed them to Cassius instead, a major accession of strength for the republican cause."
+    },
+    {
+      "loc": "2",
+      "anchor": "Issued on the Nones of March, from the camp at Tarichea.",
+      "entity_id": null,
+      "note": "The Nones of March = 7 March (43 BC). \"Tarichea\" (the manuscripts vary) marks a camp in or near Syria; the place is not securely identified."
+    }
+  ]
+}

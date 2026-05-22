@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the very head of the bill",
+      "entity_id": null,
+      "note": "Clodius's law of exile (the lex Clodia de capite civis) had a sanction clause forbidding any motion for Cicero's recall to be raised in the Senate; hence \"there is silence.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "the same tribune of the plebs in office",
+      "entity_id": "office:tribune",
+      "note": "P. Clodius Pulcher, tribune of the plebs in 58 BC, whose bills exiled Cicero and who remained in office to block any recall."
+    },
+    {
+      "loc": "1",
+      "anchor": "an enemy as consul-elect",
+      "entity_id": "office:consul",
+      "note": "A consul-elect for 57 BC hostile to Cicero --- most likely Q. Metellus Nepos, who entered office an enemy though he was later won over to support the recall."
+    },
+    {
+      "loc": "1",
+      "anchor": "the speech that has come out",
+      "entity_id": null,
+      "note": "An unpublished invective speech of Cicero's against an opponent (probably Clodius or Curio) that had leaked into circulation against his will. Cicero is alarmed by its appearance and wants it disowned."
+    },
+    {
+      "loc": "2",
+      "anchor": "See to that wound",
+      "entity_id": "person:atticus",
+      "note": "Cicero asks Atticus to do damage control over the leaked speech, treating its escape as a fresh injury to him."
+    },
+    {
+      "loc": "2",
+      "anchor": "it can be shown not to be mine",
+      "entity_id": null,
+      "note": "Cicero hopes the leaked speech can be denied as a forgery, citing its carelessness and the fact that he never traded a word with the man it attacks."
+    },
+    {
+      "loc": "3",
+      "anchor": "the sixteenth day before the Kalends of August",
+      "entity_id": null,
+      "note": "Counting backward inclusively from 1 August (here called by its old name Sextilis), this is 17 July 58 BC."
+    }
+  ]
+}

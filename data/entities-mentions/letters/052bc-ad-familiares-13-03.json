@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-03",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO MEMMIO S.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO MEMMIO S.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "MEMMIO", "entity_id": "person:c-memmius", "in": "lat"},
+    {"loc": "1", "surface": "CICERO MEMMIO S.", "entity_id": "person:c-memmius", "in": "eng"},
+    {"loc": "1", "surface": "A. Fufium", "entity_id": "person:a-fufius", "in": "lat"},
+    {"loc": "1", "surface": "A. Fufius", "entity_id": "person:a-fufius", "in": "eng"}
+  ]
+}

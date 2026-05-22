@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-69",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "P. SERVILIO CONLEGAE", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "lat"},
+    {"loc": "1", "surface": "P. SERVILIO CONLEGAE", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "eng"},
+    {"loc": "1", "surface": "C. Curtius Mithres", "entity_id": "person:c-curtius-mithres", "in": "lat"},
+    {"loc": "1", "surface": "C. Curtius Mithres", "entity_id": "person:c-curtius-mithres", "in": "eng"},
+    {"loc": "1", "surface": "Postumi", "entity_id": "person:c-rabirius-postumus", "in": "lat"},
+    {"loc": "1", "surface": "Postumus", "entity_id": "person:c-rabirius-postumus", "in": "eng"},
+    {"loc": "1", "surface": "patronum suum", "entity_id": "person:c-rabirius-postumus", "in": "lat"},
+    {"loc": "1", "surface": "that very patron of his", "entity_id": "person:c-rabirius-postumus", "in": "eng"},
+    {"loc": "1", "surface": "Ephesi", "entity_id": "place:ephesus", "in": "lat"},
+    {"loc": "1", "surface": "Ephesus", "entity_id": "place:ephesus", "in": "eng"},
+    {"loc": "1", "surface": "in Asia", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "in Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "2", "surface": "quodam Colophonio", "entity_id": "place:colophon", "in": "lat"},
+    {"loc": "2", "surface": "a certain man of Colophon", "entity_id": "place:colophon", "in": "eng"}
+  ]
+}

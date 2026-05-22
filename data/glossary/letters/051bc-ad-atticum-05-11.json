@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-11",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "Marcellus has acted foully in the man from Comum",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "The consul M. Claudius Marcellus had a magistrate of Novum Comum flogged in 51 BC to show contempt for the Latin citizenship Caesar had granted that Transpadane colony; since a Roman citizen could not legally be scourged, the act was a deliberate insult to Caesar. Cicero adds that the victim had not even held the magistracy that would have conferred citizenship, yet was still a Transpadane."
+    },
+    {
+      "loc": "3",
+      "anchor": "So the Greek shall put his weight in",
+      "entity_id": "person:theophanes",
+      "note": "The Greek is Theophanes of Mytilene, Pompey's confidant and historian, whose advice carried great weight with Pompey. Cicero counts on him to dissuade Pompey from leaving Italy for his Spanish province."
+    },
+    {
+      "loc": "6",
+      "anchor": "Xeno I cherish as much as you do",
+      "entity_id": "person:xeno-epicurean",
+      "note": "Xeno was the resident head of the Epicurean school at Athens and an intimate of Atticus; Patro was the scholarch of the Garden at Athens. The whole passage concerns Cicero's efforts on behalf of the Epicureans' rights over the site of Epicurus's house."
+    },
+    {
+      "loc": "6",
+      "anchor": "that they cancel a \\textit{[Greek: minute of record]} which they had made in Polycharmus's praetorship",
+      "entity_id": "institution:areopagus",
+      "note": "The Areopagus, the ancient Athenian council, had passed a memorandum (hypomnematismos) authorising C. Memmius to build on the ruined house and garden of Epicurus, which the Epicureans regarded as sacred. Patro asked Cicero to have the council rescind it, but the matter hinged on Memmius's own consent."
+    }
+  ]
+}

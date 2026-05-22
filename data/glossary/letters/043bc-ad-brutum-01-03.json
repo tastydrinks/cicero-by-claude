@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "The consuls have turned out to be just the kind of men I have so often described to you",
+      "entity_id": "office:consul",
+      "note": "The consuls of 43 BC were Aulus Hirtius and Gaius Vibius Pansa; both died fighting Antony at Mutina in April 43 BC, and Cicero is praising their courage in posthumous retrospect."
+    },
+    {
+      "loc": "1",
+      "anchor": "the boy Caesar",
+      "entity_id": "person:octavian",
+      "note": "\"The boy Caesar\" (Caesar puer) is Octavian — Gaius Octavius, later Augustus — who was 19 years old and had raised private legions to fight Antony; Cicero's condescending phrase belied his dependence on Octavian's military power."
+    },
+    {
+      "loc": "2",
+      "anchor": "the twelfth day before the kalends of May",
+      "entity_id": null,
+      "note": "Ante diem duodecimum Kalendas Maias = 20 April 43 BC, the day news of the battles of Mutina (14 and 21 April) reached Rome and was celebrated as a liberation; the Roman calendar counted inclusively from the named day."
+    },
+    {
+      "loc": "2",
+      "anchor": "escorted up to the Capitol",
+      "entity_id": "place:capitolium",
+      "note": "The Capitoline Hill, seat of the great temple of Jupiter Optimus Maximus, was the symbolic religious heart of Rome; a triumphal procession from the Forum to the Capitol was Rome's highest civic honour."
+    },
+    {
+      "loc": "2",
+      "anchor": "placed on the Rostra",
+      "entity_id": "place:forum-romanum",
+      "note": "The Rostra was the speaker's platform in the Roman Forum, decorated with the bronze prows (rostra) of captured Antiate ships (338 BC); it was the premier stage for public oratory and political address."
+    },
+    {
+      "loc": "3",
+      "anchor": "the cause of the three brothers is one and the same",
+      "entity_id": "person:antony",
+      "note": "The \"three brothers\" are Marcus Antonius (Mark Antony), Lucius Antonius, and Gaius Antonius; Cicero argues that Brutus's leniency toward Gaius (his prisoner) is inconsistent with prosecuting the other two as enemies of the state."
+    }
+  ]
+}

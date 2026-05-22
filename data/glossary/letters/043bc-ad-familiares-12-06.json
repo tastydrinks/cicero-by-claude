@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO CASSIO S.",
+      "entity_id": "person:cassius-longinus",
+      "note": "The salutation header: \"Cicero to Cassius,\" with S. for salutem (dicit), \"sends greetings.\" The recipient is C. Cassius Longinus, the tyrannicide then raising republican forces in the East."
+    },
+    {
+      "loc": "1",
+      "anchor": "his very arrival at your camp will be commendation enough",
+      "entity_id": null,
+      "note": "A standard epistolary convention: a letter of recommendation (commendatio) usually vouches for its bearer, but Cicero says Titius Strabo's own self-exile to join Cassius speaks louder than any formal commendation."
+    },
+    {
+      "loc": "2",
+      "anchor": "Brutus, at Mutina, is barely holding on now",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "This Brutus is Decimus Brutus Albinus (not M. Brutus, named just before), besieged by Antony in Mutina (modern Modena) in spring 43 BC. His survival was the hinge of the war."
+    },
+    {
+      "loc": "2",
+      "anchor": "the recovery of the whole Republic",
+      "entity_id": null,
+      "note": "Renders res publica reciperanda, the watchword of the senatorial cause in 43 BC: restoring constitutional government against Antony's bid for autocracy."
+    }
+  ]
+}

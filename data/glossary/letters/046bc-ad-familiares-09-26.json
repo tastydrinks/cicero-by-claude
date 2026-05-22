@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-26",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I had been at table since the ninth hour",
+      "entity_id": null,
+      "note": "The ninth hour (mid-afternoon, about 3 p.m.) was the conventional start of the Roman dinner (cena). Diners reclined three to a couch (the triclinium); Cicero's careful note of who lay 'above' and 'below' him records the social geometry of the table and prepares the joke about his neighbour."
+    },
+    {
+      "loc": "1",
+      "anchor": "At Volumnius Eutrapelus's",
+      "entity_id": "person:p-volumnius-eutrapelus",
+      "note": "P. Volumnius Eutrapelus, a Roman knight whose Greek cognomen means 'the witty one,' was the host; he was the former owner and patron of the actress Cytheris, and a friend of Antony. The party mixes Cicero's respectable circle (Atticus, Verrius) with figures of the theatrical demimonde."
+    },
+    {
+      "loc": "1",
+      "anchor": "below Eutrapelus reclined Cytheris",
+      "entity_id": "person:cytheris",
+      "note": "Volumnia Cytheris was a famous mime-actress and courtesan, a freedwoman of Eutrapelus and at this date the notorious mistress of Mark Antony (later the 'Lycoris' of the poet Cornelius Gallus). For a senior senator to dine in such company was mildly scandalous, which is exactly the reaction Cicero anticipates from Paetus and pre-empts."
+    },
+    {
+      "loc": "2",
+      "anchor": "not even the famous Aristippus, the Socratic, blushed when it was thrown at him that he had Lais",
+      "entity_id": "person:aristippus",
+      "note": "Aristippus of Cyrene, a pupil of Socrates and founder of the hedonist Cyrenaic school, was the lover of the celebrated Corinthian courtesan Lais. His retort -- 'I have her, I am not had by her' -- claims that the philosopher masters pleasure rather than being mastered by it, and Cicero borrows it to defend his own unembarrassed enjoyment of the party."
+    },
+    {
+      "loc": "2",
+      "anchor": "I take my pleasure in the dinner-party; there I say whatever first falls on the floor",
+      "entity_id": "person:cicero",
+      "note": "Writing in 46 BC under Caesar's dictatorship, with public life closed to him, Cicero presents convivial wit as a refuge -- a way to 'transmute groaning into laughter.' The pose of cheerful detachment runs through the whole Paetus correspondence of this year."
+    },
+    {
+      "loc": "3",
+      "anchor": "not only not against the law, if any law there now is, but well within the law",
+      "entity_id": null,
+      "note": "A pointed allusion to Caesar's sumptuary legislation restricting expenditure on banquets, and more broadly to the suspension of the old constitution under the dictatorship ('if any law there now is'). Cicero insists, half in jest, that his modest dining keeps comfortably within whatever law still obtains."
+    }
+  ]
+}

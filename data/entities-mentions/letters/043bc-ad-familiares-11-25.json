@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-25",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "D. BRVTO", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTO", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "Lupus noster", "entity_id": "person:p-rutilius-lupus", "in": "lat"},
+    {"loc": "1", "surface": "our friend Lupus", "entity_id": "person:p-rutilius-lupus", "in": "eng"},
+    {"loc": "1", "surface": "conlega", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "your colleague", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "2", "surface": "de Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "urbis", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "the city", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

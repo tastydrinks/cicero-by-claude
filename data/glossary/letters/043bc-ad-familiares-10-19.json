@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Your letter has been wonderfully welcome to the Senate",
+      "entity_id": "institution:senate",
+      "note": "Plancus, as governor of Transalpine Gaul, reported officially to the Senate by despatch (litterae); such a despatch from a provincial commander would be read aloud in session and could itself be the trigger for honors voted to its author."
+    },
+    {
+      "loc": "2",
+      "anchor": "whoever crushes Antony will have brought this most foul and most dangerous war to its end",
+      "entity_id": "person:antony",
+      "note": "After the relief of Mutina (April 43) Antony had retreated across the Alps toward Lepidus's province; Cicero presses Plancus to be the man who finishes him off, the recurring refrain of his book-10 letters."
+    }
+  ]
+}

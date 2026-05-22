@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-24",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "what he will need can be transferred by exchange at Athens",
+      "entity_id": null,
+      "note": "Permutatio was the banking practice of supplying funds in a distant city by a paper transfer through agents, sparing the risk of shipping coin. Cicero is arranging his son Marcus's allowance for his studies at Athens this way rather than sending cash overland."
+    },
+    {
+      "loc": "2",
+      "anchor": "Publius Crassus, Venuleia's son, died while his father Publius Crassus the ex-consul was still alive",
+      "entity_id": null,
+      "note": "Another exemplum gathered for the Consolatio --- a parent who survived a grown child. The exact identity of this P. Crassus and his mother Venuleia is uncertain and unbound; Cicero himself is unsure of the facts and asks Atticus to verify."
+    },
+    {
+      "loc": "2",
+      "anchor": "Regillus, Lepidus's son",
+      "entity_id": null,
+      "note": "A further parent-outliving-child case for the Consolatio: M. Aemilius Lepidus Regillus, who predeceased his father. Neither Regillus nor the relevant Lepidus is bound to an entity in this corpus."
+    },
+    {
+      "loc": "3",
+      "anchor": "and the Precius one as well",
+      "entity_id": "person:precius",
+      "note": "Precius (or Praecius) had left Cicero a legacy; the 'Precius business' is the winding-up of that inheritance, which Atticus handled as Cicero's man of affairs. The parallel 'Cispius business' is a similar private matter that has no entity in this corpus."
+    }
+  ]
+}

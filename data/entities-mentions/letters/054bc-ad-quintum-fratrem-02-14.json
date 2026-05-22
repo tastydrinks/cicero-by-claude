@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-14",
+  "mentions": [
+    {"loc": "1", "surface": "MARCVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "MARCVS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "QVINTO FRATRI", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "QVINTO FRATRI", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "mi frater", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "my dear brother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "mi optime et suavissime frater", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "my best and sweetest brother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "mi Quinte", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "my Quinte", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Pompei", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "4", "surface": "Memmi", "entity_id": "person:c-memmius", "in": "lat"},
+    {"loc": "4", "surface": "Memmius", "entity_id": "person:c-memmius", "in": "eng"},
+    {"loc": "4", "surface": "consulum", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "4", "surface": "the consuls", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "4", "surface": "Domitio", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "lat"},
+    {"loc": "4", "surface": "Domitius", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "eng"},
+    {"loc": "4", "surface": "Scaurus", "entity_id": "person:m-aemilius-scaurus-pr-56", "in": "both"},
+    {"loc": "4", "surface": "Messala", "entity_id": "person:m-valerius-messalla-rufus", "in": "both"},
+    {"loc": "4", "surface": "M. Catonem", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "4", "surface": "Marcus Cato", "entity_id": "person:cato-minor", "in": "eng"},
+    {"loc": "4", "surface": "Cato", "entity_id": "person:cato-minor", "in": "eng"}
+  ]
+}

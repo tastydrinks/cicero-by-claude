@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "co-heirs",
+      "entity_id": null,
+      "note": "Coheredes: the other beneficiaries who share an inheritance with Cicero, with whom property held in common had to be sold or divided. Marius wants Cicero to buy out his interest in some jointly-inherited item."
+    },
+    {
+      "loc": "1",
+      "anchor": "fictitious bidder",
+      "entity_id": null,
+      "note": "An inlicitator: a shill planted at an auction to drive the price up by bidding without intending to buy. Cicero jokes that, since he knows Marius's reserve price, he will rig the bidding rather than let the lot go cheap."
+    },
+    {
+      "loc": "2",
+      "anchor": "Bursa",
+      "entity_id": "person:t-munatius-plancus-bursa",
+      "note": "T. Munatius Plancus Bursa, tribune in 52 BC and a partisan of Clodius and the rioting mob; Cicero prosecuted him for public violence (de vi) in 51 BC and secured his conviction. Marius had congratulated Cicero on the verdict."
+    },
+    {
+      "loc": "3",
+      "anchor": "this little ape",
+      "entity_id": null,
+      "note": "Latin simiolus, \"little monkey,\" a contemptuous diminutive Cicero coins for Bursa: a small imitator who attacked Cicero merely for sport and to ingratiate himself with Cicero's enemies."
+    },
+    {
+      "loc": "4",
+      "anchor": "intercalary month",
+      "entity_id": null,
+      "note": "Before Caesar's calendar reform, pontiffs periodically inserted an extra month (mensis intercalaris) to keep the lunar year aligned with the seasons; inserting one in 51 BC would have prolonged the legal term and delayed Cicero's escape to Cumae. Hence his \"vows\" against it."
+    }
+  ]
+}

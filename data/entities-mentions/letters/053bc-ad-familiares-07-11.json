@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-11",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "Roma", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "interregibus", "entity_id": "office:interrex", "in": "lat"},
+    {"loc": "1", "surface": "interrex", "entity_id": "office:interrex", "in": "eng"},
+    {"loc": "1", "surface": "ius civile", "entity_id": "law:ius-civile", "in": "lat"},
+    {"loc": "1", "surface": "civil law", "entity_id": "law:ius-civile", "in": "eng"},
+    {"loc": "2", "surface": "Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "2", "surface": "Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Samarobrivae", "entity_id": "place:samarobriva", "in": "lat"},
+    {"loc": "2", "surface": "Samarobrivas", "entity_id": "place:samarobriva", "in": "eng"},
+    {"loc": "2", "surface": "Laberium", "entity_id": "person:laberius", "in": "lat"},
+    {"loc": "2", "surface": "Laberius", "entity_id": "person:laberius", "in": "eng"},
+    {"loc": "2", "surface": "Valerium", "entity_id": "person:valerius-mimographus", "in": "lat"},
+    {"loc": "2", "surface": "Valerius", "entity_id": "person:valerius-mimographus", "in": "eng"},
+    {"loc": "2", "surface": "Britannici", "entity_id": "place:britannia", "in": "lat"},
+    {"loc": "2", "surface": "British", "entity_id": "place:britannia", "in": "eng"}
+  ]
+}

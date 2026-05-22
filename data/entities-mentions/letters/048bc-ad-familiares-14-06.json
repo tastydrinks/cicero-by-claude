@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-06",
+  "mentions": [
+    {"loc": "1", "surface": "nostra", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "our Tullia", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "1", "surface": "Pollicem", "entity_id": "person:pollex-servus", "in": "lat"},
+    {"loc": "1", "surface": "Pollex", "entity_id": "person:pollex-servus", "in": "eng"}
+  ]
+}

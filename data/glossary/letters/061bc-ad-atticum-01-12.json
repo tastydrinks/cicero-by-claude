@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "That Teucris affair",
+      "entity_id": null,
+      "note": "\"Teucris\" is one of Cicero's code-names for a confidential business or political matter (it recurs at 1.13.6 and 1.14.7); the real referent is not securely identifiable. The grammatically feminine \"that woman\" may be part of the disguise rather than literal."
+    },
+    {
+      "loc": "1",
+      "anchor": "I have commissioned Titus",
+      "entity_id": null,
+      "note": "\"Titus\" here is most likely a freedman or agent employed in the Teucris business, not Atticus (Titus Pomponius Atticus), whom Cicero would not refer to in the third person mid-sentence. The identity is uncertain."
+    },
+    {
+      "loc": "1",
+      "anchor": "at less than twelve percent",
+      "entity_id": null,
+      "note": "Latin \"minore centesimis\": the centesima usurae was 1 percent per month, i.e. 12 percent per year, the legal maximum for interest at Rome. Cicero complains his connections cannot borrow even at that ceiling rate."
+    },
+    {
+      "loc": "1",
+      "anchor": "the praetor will move to the people",
+      "entity_id": null,
+      "note": "A praetor could put a proposal (rogatio) before the popular assembly. The point is that Antonius's recall from his province would be pressed both by Pompey and by a praetor's bill."
+    },
+    {
+      "loc": "3",
+      "anchor": "Mucia's divorce",
+      "entity_id": "person:mucia",
+      "note": "Pompey divorced Mucia Tertia (half-sister of the Metelli Celer and Nepos) on his return from the East in 62 BC, reportedly for adultery; the divorce alienated the Metelli from him."
+    },
+    {
+      "loc": "3",
+      "anchor": "caught in women's dress at Gaius Caesar's house when the rite \\textit{pro populo} was being held",
+      "entity_id": "god:bona-dea",
+      "note": "The rite \"for the people\" (pro populo) was the December festival of the Bona Dea, the Good Goddess, from which all males were rigorously excluded; it was held in the house of a magistrate with imperium, here Caesar's (he was praetor and pontifex maximus), and conducted by the women and the Vestals. Clodius's intrusion in a woman's dress was therefore a grave sacrilege."
+    },
+    {
+      "loc": "4",
+      "anchor": "The Kalends of January, in the consulship of Marcus Messalla and Marcus Piso",
+      "entity_id": null,
+      "note": "Roman years were dated by the two consuls; M. Valerius Messalla Niger and M. Pupius Piso were consuls of 61 BC. The Kalends was the first day of the month, so this fixes the letter to 1 January 61 BC."
+    }
+  ]
+}

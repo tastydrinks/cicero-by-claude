@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-14",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "TULLIUS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TIRO", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Andricus", "entity_id": "person:andricus-servus", "in": "lat"},
+    {"loc": "1", "surface": "Andricus", "entity_id": "person:andricus-servus", "in": "eng"},
+    {"loc": "2", "surface": "Medico", "entity_id": "person:asclapo-patrensis", "in": "lat"},
+    {"loc": "2", "surface": "the doctor", "entity_id": "person:asclapo-patrensis", "in": "eng"},
+    {"loc": "2", "surface": "Ummium", "entity_id": "person:ummius", "in": "lat"},
+    {"loc": "2", "surface": "Ummius", "entity_id": "person:ummius", "in": "eng"},
+    {"loc": "2", "surface": "Acastum", "entity_id": "person:acastus-servus", "in": "lat"},
+    {"loc": "2", "surface": "Acastus", "entity_id": "person:acastus-servus", "in": "eng"}
+  ]
+}

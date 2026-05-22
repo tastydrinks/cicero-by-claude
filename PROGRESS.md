@@ -524,6 +524,2313 @@ session can `continue` and apply them without re-asking:
 
 ## Where to resume now
 
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 94 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-22, following session 93). Translation remains impossible autonomously: the same 14 pending works still lack usable Latin (the 7 pending letters — *ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8 — are `% PLACEHOLDER`/absent, and the 7 pending philosophy/rhetoric works — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius* — have no fetchable Latin). Per standing guidance this session opened the *Ad Atticum* book 14 apparatus sweep and **closed book 14 in a single session**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. The chronology pointer is unchanged (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC).
+
+**What this session produced — entity-mentions + glossary sidecars for all 22 drafted *Ad Atticum* book 14 letters (14.1–14.22), OPENING and CLOSING book 14 on both axes (22/22).** Book 14 (April–mid-May 44 BC, from Cicero's Campanian villas — Lanuvium, Astura, Cumae, Puteoli, Pompeii, Formiae, Sinuessa) is the **immediate post-Ides correspondence**: the bitter aftermath of Caesar's assassination — the amnesty and the funeral, Antony's swift ascendancy, and Cicero's disgust that the tyrant was killed but the tyranny left standing ("the deed done with the courage of men and the policy of children"); the first wary appraisals of the **young Octavian** (his arrival at Naples and lodging in Philippus's villa next door, the question whether the veterans and legions would rally to him); the gloom of **Matius "Calvena"**; the agitation of the **false Marius** (the pseudo-Marius Amatius/Herophilus); the long-running **Buthrotum** land affair Atticus pressed on Cicero's behalf; the property tangles (**Sextilius's estate seized by the scoundrel Curtilius**; the Censorinus/Messalla/Plancus/Postumus list); the **Quintus-the-younger / "dowered Aquilia" dowry quarrel** and the nephew's defection to "Antony's right hand"; the **Vestorian-school joke** at Puteoli; **Cleopatra's flight** from Rome; and the constant traffic with **Brutus, Cassius, Dolabella, Lepidus, Hirtius, Pansa, Balbus**. Totals: **682 entity mentions (338 lat / 344 eng), 172 glossary notes (69 null-id realia/flag-not-resolve).** Corpus letter-level entity-mention coverage now **823 of 868 drafted** (was 801). **With *Ad Atticum* books 1–14 all complete on the entity-mention axis, the entire remaining letter frontier is *Ad Atticum* books 15–16 — 45 letters (book 15: 29, book 16: 16).** *Ad Familiares*, *Ad Quintum Fratrem*, and *Ad Brutum* remain complete.
+
+**Method (PM-curated roster + 6 parallel workers in 2 waves of 3):** the PM wrote a binding canonical-ID roster (`cicero_roster_s94.md` in the PM session outputs), grounded in a programmatic proper-noun extraction across all 22 book-14 parallel sidecars (stem-matched against the registry to isolate genuinely-new names), pre-resolving the post-Ides political cast, the property/dowry affair, the Buthrotum business, the calendar-vs-person traps (e.g. "K. Iunias" the date vs Iunia the person), and the flag-not-resolve list. **The PM pre-minted 8 new entities into `data/entities.json` before dispatch** (plus `person:cleopatra-vii` minted between waves), so every roster id resolved at worker time. **6 workers** in two waves of 3 split the book (14.1–5 · 14.6–10 · 14.11–13 — then 14.14–16 · 14.17–19 · 14.20–22). Each tagged both Latin and English surface forms, grepped the registry to reuse ids, and reported genuinely-new / unbindable surfaces (no worker touched shared files or git).
+
+**PM consolidation: 9 new entities (registry 2008 → 2017 list / 2015 unique).** People (7): `person:m-aemilius-lepidus` (the magister equitum / triumvir-to-be, @14.1 — minted clean rather than binding to the misleadingly-slugged stub `person:m-aemilius-lepidus-pr-sicilia`), `person:fulvia` (Antony's wife, @14.12), `person:curtilius` (the "scoundrel" holding Sextilius's estate, @14.6/14.10), `person:aquilia` (the dowered/stepmother Aquilia, @14.13/14.17), `person:corumbus` (Balbus's architect, @14.3), `person:pelops-byzantius` (the Byzantine intermediary @14.8 — **distinct from** the @14.12 "Pelopidae" tragic allusion, left null), `person:barnaeus` (courier @14.19), plus mid-session `person:cleopatra-vii` ("the queen" whose flight from Rome @14.8 and departure @14.20 Cicero notes coldly). Place (1): `place:samnium` (@14.20). Also added the alias **"Calvena" to `person:gaius-matius`** (the baldness-pun nickname). **Key roster binds confirmed:** the heir **Octavius → `person:octavian`** (already in the registry — NOT `c-octavius-pater`); **Paulus @14.7/14.8 → `person:l-aemilius-paulus-cos50`** (Lepidus's brother; flag: duplicate of `l-aemilius-paullus-cos50`); Sestius → `sestius-tribune`; Ligus → `m-octavius-ligus`; **"Ides of March" → `event:ides-of-march`** (normalized in consolidation — wave 1 had mis-bound two to `person:caesar`); Rome → `place:roma`; the Cluvian estate → `m-cluvius-puteolanus` (no place entity); the @14.10 property list bound by best-fit and flagged (Censorinus → `censorinus-asia`, Messalla → `m-valerius-messala-corvinus`, Plancus → `munatius-plancus`, Postumus → `c-curtius-postumus`, Sextilius → `q-sextilius`).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–93 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block; **no new warnings** from the 44 new sidecars or 9 new entities). Independent PM verification confirmed all 22 letters carry **both** sidecars (22/22), each with `schema_version: 1` and the correct bare in-file `id`; **all 682 mention `entity_id`s and all non-null glossary `entity_id`s resolve**; **all glossary anchors are verbatim substrings of their English text**; mention ordering is loc-ascending, lat-before-eng throughout (consolidation reordered 1 file and removed 1 exact-duplicate mention); and **all 9 new entities have ≥1 mention** (no orphan-entity warnings). Registry integrity: still only the 2 pre-existing exact-duplicate ids (`person:p-rutilius-rufus`, `place:syracusae`); none introduced; registry remains sorted by `(type, id)`. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both are no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–93, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — and the 11 stray `data/_tmp_*.jsonl` scratch files are **still tracked** (the Cowork sandbox cannot delete files). **Alexander should `git rm` all 25 during handoff, then re-run `validate.py`.** Session 94 created **no** scratch files in the repo; it staged only the 44 book-14 sidecars + `entities.json`. The one backup it wrote (`entities.backup-s94.json`) lives in the PM **outputs** dir, NOT the repo.
+- **`works.yaml` date for `ad-atticum-14-15` is the out-of-sequence placeholder `-0044-03-01`** (March), inconsistent with its neighbours (early May 44 BC). NOT touched this apparatus-only session; a future metadata/translation pass should correct it to the Perseus dateline.
+- **Identity flags for a future prosopography pass:** the **Paulus duplicate pair** (`l-aemilius-paulus-cos50` vs `l-aemilius-paullus-cos50` — same cos. 50, Lepidus's brother); whether the stub **`person:m-aemilius-lepidus-pr-sicilia`** should merge with or stay distinct from the new **`person:m-aemilius-lepidus`** (the triumvir); the @14.10 property-list binds (best-fit, flagged); and the **candidate new entity `person:q-egnatius`** (Q. Egnatius @14.13, left null). Deferred unbindable surfaces (flag-not-resolve, left untagged or as null-id glossary notes): the **false Marius / pseudo-Marius (Amatius/Herophilus)** @14.6–8; **Madarus** the baldness in-joke @14.2; the derisive plurals **"the Tebassi, the Scaevae, the Fangones"** @14.10 (Scaevae NOT bound to `person:scaeva`); the **"†Pherionian fashion†"** textual crux @14.14; **Caesarion** ("that 'Caesar' of hers") @14.20; **L. Cassius** tribune 44 @14.2; **Annius** (Cimber) @14.5; **Chrysippus** the builder, **Volcatius**, **Aurelius** @14.9; the freedman **Demetrius** @14.17; **Rufio** @14.14; the **younger Lucullus** host @14.20; **Atilius** the poet @14.20; **Pontius** @14.21; **Servilia** the tyrannicide's mother @14.21 (stub); and the **"Cato the Elder" = Cicero's own *De Senectute*** @14.21 (no `text:` entity exists).
+- **Book 14 carries Greek** (e.g. φαλάκρωμα/phalakōma @14.2, the Pelopidae tragic tag @14.12, ἥρωες @14.4); `greek-phrases.json` + allusions/crossrefs were deferred per scope. **A dedicated Greek-phrases backfill of *Ad Atticum* remains warranted.**
+
+**Suggested next automated batch — continue *Ad Atticum* at book 15** (the **29 drafted letters, ~May–June 44 BC**: the villa-bound months after the Ides, the projected trip to Greece weighed against staying, the standing of Brutus and Cassius and Cicero's own course, and the deepening estrangement from Antony). Regenerate the entity index from `data/entities.json` first (now **2015 unique / 2017 list entries**). Book 15 is the largest remaining (29); book 16 (16) then finishes *Ad Atticum* and the entire letter frontier. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works). A dedicated Greek-phrases backfill of *Ad Atticum* is also now warranted.
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 94: apparatus enrichment — entity-mentions + glossary for all 22 Ad Atticum book 14 letters (14.1-14.22; April-mid-May 44 BC, the post-Ides correspondence from the Campanian villas — Antony's ascendancy and the half-finished liberation, the first appraisals of the young Octavian, Matius/Calvena's gloom, the false-Marius agitation, the Buthrotum land affair, the Sextilius/Curtilius and @14.10 property tangles, the Quintus-the-younger/dowered-Aquilia dowry quarrel, the Vestorian-school joke, Cleopatra's flight), OPENING+CLOSING book 14 22/22 on both axes; 682 mentions, 172 glossary notes; 9 new entities (registry 2008->2017 list / 2015 unique: person:m-aemilius-lepidus the triumvir / fulvia / curtilius / aquilia / corumbus / pelops-byzantius / barnaeus / cleopatra-vii, place:samnium) + alias Calvena->gaius-matius; key binds — heir Octavius->octavian (not c-octavius-pater), Paulus->l-aemilius-paulus-cos50 (flag dup), Sestius->sestius-tribune, Ligus->m-octavius-ligus, Ides of March->event:ides-of-march, Rome->place:roma, Cluvian estate->m-cluvius-puteolanus, @14.10 list Censorinus/Messalla/Plancus/Postumus/Sextilius bound best-fit+flagged. validate.py exit 0 at the 10-warning baseline. THEN (STILL PENDING from sessions 80-93) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) AND the 11 stray data/_tmp_*.jsonl scratch files, then re-run validate.py."` to land. Next session: begin *Ad Atticum* book 15 (29 drafted letters, May–June 44 BC); or supply manual Latin for the pending queue. A dedicated Greek-phrases backfill of *Ad Atticum* is also now warranted.
+
+---
+
+## Where to resume now (session 93 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 93 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, following session 92). Translation remains impossible autonomously: the same 14 pending works still lack usable Latin (the 7 pending letters — *ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8 — are `% PLACEHOLDER`/absent, and the 7 pending philosophy/rhetoric works — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius* — have no fetchable Latin). Per standing guidance this session opened the *Ad Atticum* book 13 apparatus sweep and **closed book 13 in a single session**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. The chronology pointer is unchanged (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC).
+
+**What this session produced — entity-mentions + glossary sidecars for all 49 drafted *Ad Atticum* book 13 letters (13.1–13.52, excluding the 3 pending 13.15/13.18/13.36), OPENING and CLOSING book 13 on both axes (49/49).** Book 13 (45 BC, from Astura/Tusculum) is the **philosophical and antiquarian heart of the late letters**: the composition and dedication maneuvers of the **Academica** (re-cast and dedicated to **Varro**) and **De Finibus** (the "peri Telon syntaxin"/Treatise on Ends, promised to **Brutus**), with the philosophy of **Antiochus of Ascalon** as their subject and the *Hortensius*/dialogue-casting questions behind them; the projected **letter of advice to Caesar** (the συμβουλευτικόν); the continuing **fanum / suburban-gardens hunt** — outbidding **Otho** via the **nomen Faberianum**, the **Cluvius** inheritance (the *cretio*, the legacies of T. Hordeonius and to Terentia) and the **Brinnian** estate (the auction, the co-heirs, the mancipation to Hetereius at Puteoli), with land-price benchmarks (Albanius's purchase from M. Pilius) and allies/rivals (Gellius Canus vs Otho); the antiquarian **"ten commissioners after Corinth" inquiry** (Mummius, Sp. Mummius, C. Tuditanus, A. Postumius Albinus, Polybius, Libo's annals, the Isthmus statue); the **Pro Ligario erratum** (the dead **L. Corfidius** wrongly named, struck from every copy by Atticus's copyists Pharnaces/Antaeus/Salvius); the death of **Marcellus** at Athens; the **Cato**/Anticato pamphlet aftermath; and **Caesar's Saturnalia descent** on the Cumae/Puteoli villa with a retinue of two thousand (Barba Cassius posting the guard, 13.52). Totals: **992 entity mentions (493 lat / 499 eng), 298 glossary notes (117 null-id realia).** Corpus letter-level entity-mention coverage now **801 of 868 drafted** (was 752). **With *Ad Atticum* books 1–13 all complete on the entity-mention axis, the entire remaining letter frontier is *Ad Atticum* books 14–16 — 67 letters (book 14: 22, book 15: 29, book 16: 16).** *Ad Familiares*, *Ad Quintum Fratrem*, and *Ad Brutum* remain complete.
+
+**Method (PM-curated roster + 8 parallel workers in 2 waves):** the PM wrote a binding canonical-ID roster (`cicero_roster_s93.md` in the PM session outputs), grounded in a programmatic proper-noun extraction across all 49 book-13 parallel sidecars (stem-matched against the registry to isolate genuinely-new names), pre-resolving the Academica/De Finibus philosophy cast, the gardens/inheritance finance cast, the "decem legati" antiquarian traps, the Pro-Ligario copyist trap, and the skip rules. **The PM pre-minted 34 new entities into `data/entities.json` before dispatch** (plus `person:eros-atticianus` between waves), so every roster id resolved at worker time. **8 workers** in two waves of 4 split the book (13.1–7 · 13.8–14 · 13.16–22 · 13.23–28 — then 13.29–34 · 13.35/37–41 · 13.42–47 · 13.48–52). Each tagged both Latin and English surface forms, grepped the registry to reuse ids, and reported genuinely-new / unbindable surfaces (no worker touched shared files or git).
+
+**PM consolidation: 35 new entities (registry 1973 → 2008 list / 2006 unique).** People (31): `person:q-staberius`, `person:brinnius`, `person:hetereius`, `person:t-hordeonius`, `person:babullius`, `person:barba-cassius`, `person:andromenes`, `person:spintharus`, `person:archedemus-tarsus` (the Stoic, the *problema Archidemou* @13.28), `person:l-corfidius` (the Pro-Ligario erratum @13.44), `person:pindar`, `person:hesiod`, `person:callippides` (the proverbial actor @13.12), `person:demeas` (courier), `person:c-albanius`, `person:m-pilius`, `person:a-postumius-albinus-cos151` (= "Albinus the consular" @13.30 AND "Postumius" @13.32, the cos. 151 / decem-legati man), `person:l-licinius-lucullus-cos151` (his consular colleague — NOT the famous Lucullus), `person:cornificia` (the @13.28 marriage proposal), `person:xeno-atheniensis`, `person:gellius-canus` ("Canus" @13.31), `person:critonius`, `person:balbinus`, `person:scaeva` (the model creditor @13.23), `person:avius`, `person:baebius`, `person:cispius`, `person:albius-sabinus` (Brinnian co-heir), `person:pharnaces-atticianus` (Atticus's copyist @13.44 — **NOT** the Pontic king), `person:antaeus-librarius` (copyist @13.44), `person:eros-atticianus` (Atticus's accounts-secretary @13.12/13.30 — distinct from Eros Turius). Places (4): `place:nola`, `place:isthmus-corinth`, `place:parthenon`, `place:olympia`. **Key roster binds confirmed:** Varro → `m-terentius-varro`; Antiochus → `antiochus-ascalon` (the philosopher, not the city/king); the De Oratore dialogue cast @13.19 (Crassus → `l-licinius-crassus`, Antonius → `m-antonius-orator`, Cotta → `c-cotta`, Sulpicius → `p-sulpicius-rufus`, C. Iulius → `c-iulius-caesar-strabo`); the De Finibus speakers (Torquatus → `l-manlius-torquatus`, Cato → `cato-minor`, M. Piso → `m-pupius-piso-frugi` @13.19); Mummius the consul → `l-mummius-achaicus` vs Sp. Mummius → `sp-mummius`; the Parthenon tyrant-slayers @13.40 → Ahala `c-servilius-ahala` + Brutus `l-iunius-brutus` (the founder, not M. Brutus); "Theon" @13.39 = θεῶν in the title *Phaedrus On the Gods* (author `phaedrus-epicurean`, no Theon entity); the three Pro-Ligario copyists; Salvius → `salvius-courier`; Magius → `p-magius-cilo`; Cassius → `cassius-longinus` @13.22; Servius → `servius-sulpicius-rufus`.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–92 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block; **no new warnings** from the 98 new sidecars or 35 new entities). Independent PM verification confirmed all 49 letters carry **both** sidecars (49/49), each with `schema_version: 1` and the correct bare in-file `id`; **all 992 mention `entity_id`s and all non-null glossary `entity_id`s resolve** (zero unresolved; the 4 invalid null-id *mentions* the workers emitted for "Cotta" @13.44 and "Plotius the perfumer" @13.46 were stripped and kept only as glossary null-notes); **all 298 glossary anchors are verbatim substrings of their English `.tex`**; mention ordering is loc-ascending, lat-before-eng throughout; and **all 35 new entities have ≥1 mention** (no orphan-entity warnings). Registry integrity: still only the 2 pre-existing exact-duplicate ids (`person:p-rutilius-rufus`, `place:syracusae`); none introduced; registry remains sorted by `(type, id)`. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both are no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–92, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — and the 11 stray `data/_tmp_*.jsonl` scratch files (`data/_tmp_entities_worker{A..G}.jsonl`, `data/_tmp_notes_{batch1,batch2,batch3,merged}.jsonl`) are **still tracked** (the Cowork sandbox cannot delete files). **Alexander should `git rm` all 25 during handoff, then re-run `validate.py`.** Session 93 created **no** scratch files in the repo; it staged only the 98 book-13 sidecars + `entities.json`. The one backup it wrote (`entities.backup-s93.json`) lives in the PM **outputs** dir, NOT the repo.
+- **Book 13 is GREEK-RICH — a dedicated `greek-phrases.json` backfill is warranted.** This session did NOT emit greek-phrases (deferred per scope), but many book-13 letters carry Greek (e.g. καταβίωσιν @13.1, περὶ Τελῶν @13.12, the Pindar quotation δίχα μοι νόος @13.38, σκολιαῖς ἀπάταις @13.38/41, πρόβλημα Ἀρχιδήμου @13.28, *Phaidrou peri Theon* @13.39, διὰ σημείων @13.32). No allusions/crossrefs emitted either (deferred). A future pass should sweep book 13 (and Att 14–16) for Greek.
+- **`person:servilia-hortensii` is a misleadingly-slugged stub** (canonical_name "Servilia", summary still "(stub — to be enriched)") that is nonetheless **used corpus-wide (11 sidecars)** as the canonical "Servilia" — including the *Ad Brutum* letters (Brutus's mother) but also *In Verrem* 2.2 (likely a different, Hortensian Servilia). Workers bound the book-13 Servilia (@13.16 and the PM-added @13.11) to it consistently. **A future pass should resolve the identity — possibly splitting the Verrines usage out — and enrich the summary** (do not blindly mint a competing `servilia-bruti-mater`; that would duplicate an already-used id).
+- **Deferred unbindable / null-id surfaces (flag-not-resolve; left untagged or as null-id glossary notes, all reported by workers) — candidates for a future minor-prosopography / textual pass:** the recurring debt-intermediary **Piso** (@13.4/13.6/13.11/13.12/13.16/13.33 — identity contested, deliberately left null per roster); finance/inheritance parties **Caelius** (@13.3/13.33), **Crispus** (@13.3/13.5, paired with Mustela), the **Herennius co-heirs** (@13.6), **S. Vettius** (Brinnian co-heir @13.12), **Hilarus librarius** (@13.19), **Cispius**'s rival **Plancus** bound to `munatius-plancus` (judgment); the book-supplier **Philoxenus** (@13.8); **Metella** (Lentulus Spinther jr's divorced wife @13.7); **Metellus** (@13.21, alongside Critonius/Balbinus — many candidates, none clean); **Cornificia's** suitor **Thalna** (@13.28 — distinct from `thalna-iudex`); **Cotta-as-a-book** (@13.44, "send me Cotta"); **Plotius the perfumer** (@13.46); **Ollius** (eulogist @13.48); the **young Octavii sons of Gnaeus** (@13.49); **Dida** (@13.50); the corrupt toponyms **Saxa** (@13.40) and **Cana** (@13.41); **Cn. Cornelius Lentulus cos. 146** (the 146 BC dating formula @13.33); and the @13.49 *Lex Pompeia* mismatch (the registry's `law:lex-pompeia-de-ambitu` is the later 52 BC law). Also worth a registry review: `m-pilius` (possibly kin of `q-pilius-celer`/`celer-pilius`), and the carried `silius-villa` vs `p-silius-pr` duplicate.
+
+**Suggested next automated batch — continue *Ad Atticum* at book 14** (the **22 drafted letters, April–early May 44 BC**: the immediate aftermath of Caesar's assassination — the Ides, the amnesty and the funeral, Antony's rise, Cicero's disgust at the half-finished liberation, the retreat to the Campanian villas, and the first appraisals of the young Octavian). Regenerate the entity index from `data/entities.json` first (now **2006 unique / 2008 list entries**). Books 14–16 are ~2–3 more apparatus sessions (book 15 is the largest at 29). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works). A dedicated Greek-phrases backfill of *Ad Atticum* is also now warranted.
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 93: apparatus enrichment — entity-mentions + glossary for all 49 Ad Atticum book 13 letters (13.1-13.52 minus pending 13.15/13.18/13.36; 45 BC, the Academica/De Finibus composition & dedications to Varro/Brutus, the philosophy of Antiochus, the letter of advice to Caesar, the fanum/gardens hunt & the Cluvius+Brinnian inheritances, the nomen Faberianum vs Otho, the decem-legati antiquarian inquiry, the Pro Ligario/Corfidius erratum, Marcellus's death at Athens, Caesar's Saturnalia descent on the villa), OPENING+CLOSING book 13 49/49 on both axes; 992 mentions, 298 glossary notes; 35 new entities (registry 1973->2008 list / 2006 unique: person:q-staberius/brinnius/hetereius/t-hordeonius/babullius/barba-cassius/andromenes/spintharus/archedemus-tarsus/l-corfidius/pindar/hesiod/callippides/demeas/c-albanius/a-postumius-albinus-cos151/l-licinius-lucullus-cos151/cornificia/xeno-atheniensis/gellius-canus/critonius/balbinus/scaeva/avius/baebius/cispius/albius-sabinus/m-pilius/pharnaces-atticianus/antaeus-librarius/eros-atticianus, place:nola/isthmus-corinth/parthenon/olympia); key binds — Varro->m-terentius-varro, Antiochus->antiochus-ascalon (the philosopher), De Oratore cast @13.19, De Finibus speakers, Mummius cos->l-mummius-achaicus vs sp-mummius, Albinus@13.30=Postumius@13.32->a-postumius-albinus-cos151, L.Lucullus cos151->l-licinius-lucullus-cos151 (not l-lucullus), Parthenon@13.40 Ahala+l-iunius-brutus, Theon@13.39=title-not-person, Pharnaces@13.44->pharnaces-atticianus not the king, copyists Antaeus/Salvius, Corfidius->l-corfidius. validate.py exit 0 at the 10-warning baseline. THEN (STILL PENDING from sessions 80-92) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) AND the 11 stray data/_tmp_*.jsonl scratch files, then re-run validate.py."` to land. Next session: begin *Ad Atticum* book 14 (the post-Ides letters); or supply manual Latin for the pending queue. A dedicated Greek-phrases backfill of *Ad Atticum* is also now warranted.
+
+---
+
+## Where to resume now (session 92 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 92 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-22 01:23 UTC, following session 91). Translation remains impossible autonomously: the same 14 pending works still lack usable Latin (the 7 pending letters — *ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8 — are `% PLACEHOLDER`/absent, and the 7 pending philosophy/rhetoric works — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius* — have no fetchable Latin). Per standing guidance this session opened the *Ad Atticum* book 12 apparatus sweep and **closed book 12 in a single session**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. The chronology pointer is unchanged (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC).
+
+**What this session produced — entity-mentions + glossary sidecars for all 53 drafted *Ad Atticum* book 12 letters (12.1–12.53), OPENING and CLOSING book 12 on both axes (53/53).** This is the **largest single book of the correspondence (53 letters, 46–45 BC)** and the emotional centre of the late letters: the death of **Tullia** in mid-February 45 BC and the grief that dominates the book; Cicero's withdrawal to **Astura** (the secluded island-villa newly registered as `place:astura`) to mourn; the obsessive project of a **fanum** (shrine) to the deified Tullia and the months-long hunt for suburban **horti** (gardens) across the Tiber to site it publicly (the candidate gardens of Silius, the dead Scapula's heirs, Clodia, Drusus, Cusinius, Trebonius, Damasippus, and Otho); the financial machinery to pay for them — above all the **nomen Faberianum**, the debt recoverable through Caesar's scriba Faberius, worked through agents Mustela and Hermogenes; the writing of the **Consolatio** (with its catalogue of bereaved-parent exempla — Rutilia and her son C. Cotta, the Crassi, Q. Maximus) and the **Cato** eulogy that drew the anti-Cato pamphlets of Hirtius and Caesar; the estrangement from the young second wife **Publilia** and the overtures of her brother Publilius; and the dispatch of young **Marcus** to study at Athens with the troublesome Montanus in tow. Totals: **800 entity mentions (399 lat / 401 eng), 192 glossary notes.** Corpus letter-level entity-mention coverage now **752 of 868 drafted** (was 699). **With *Ad Atticum* books 1–12 all complete on the entity-mention axis (280 of 396), the remaining *Ad Atticum* frontier is books 13–16 — 116 missing (book 13: 49, book 14: 22, book 15: 29, book 16: 16).** *Ad Familiares*, *Ad Quintum Fratrem*, and *Ad Brutum* remain complete; *Ad Atticum* 13–16 is the entire remaining letter frontier.
+
+**Method (PM-curated roster + 8 parallel workers in 2 waves):** the PM wrote a binding canonical-ID roster (`cicero_roster_s92.md` in the PM session outputs), grounded in a programmatic proper-noun extraction across all 53 book-12 parallel sidecars (cross-referenced against the 1956-entry registry), pre-resolving the Astura/Tullia-grief cast, the gardens-owner traps, the duplicate-id traps, the context-sensitive binds, the new entities to mint, and the skip rules. **The PM pre-minted 17 new entities into `data/entities.json` before dispatch**, so every roster id resolved at worker time. **8 workers** in two waves of 4 split the book (12.1–7 · 12.8–14 · 12.15–21 · 12.22–28 — then 12.29–35 · 12.36–42 · 12.43–48 · 12.49–53). Each tagged both Latin and English surface forms, grepped the registry to reuse ids, and reported genuinely-new / unbindable surfaces (no worker touched shared files or git).
+
+**PM consolidation: 17 new entities (all pre-minted; registry 1956 → 1973 list entries / 1971 unique).** People (16): `person:faberius` (Caesar's scriba; the nomen Faberianum), `person:mustela` (Mustela Tamisius, agent + Faberius co-surety), `person:hermogenes` (a source of ready cash; NOT Tigellius Hermogenes), `person:ovia` (wife of C. Lollius; the 100,000-HS debt), `person:cluatius` (the fanum architect), `person:craterus` (the physician attending Attica), `person:cusinius` (horti Cusinii owner), `person:otho` (a property that briefly revived the gardens hunt), `person:aledius` (intermediary), `person:marcianus` (the excuse-before-Appuleius correspondent), `person:laenas` + `person:l-statilius` (with C. Septimius, the three morbus-excuse oath-witnesses @12.13/12.14), `person:l-tullius-montanus` (young Marcus's companion at Athens; the Montanus debt affair), `person:rutilia` (Consolatio exemplum, mother of the orator C. Cotta), `person:publilia` (Cicero's estranged young second wife), `person:publilius-frater` (her brother). Place (1): `place:astura`. **Roster pre-resolution worked:** the key traps were all bound correctly — the **son** ("de Cicerone", off to Athens) → `person:m-cicero-the-younger` (52× prior, NOT the dup `marcus-cicero-younger`); the **nephew** → `person:q-cicero-the-younger` (73× prior, NOT `q-cicero-younger`); **"Cotta" is the orator C. Cotta** (`person:c-cotta`, Rutilia's son, a Consolatio exemplum) — NOT a gardens owner; **Nicias** → `person:nicias-cous` (prior usage; NOT the dup `curtius-nicias`); **Servius/Sulpicius the jurist** → `person:servius-sulpicius-rufus` (NOT the extractor's wrong default p-sulpicius-rufus); the gardens binds Silius → `person:silius-villa`, Scapula → `person:p-scapula`, Clodia → `person:clodia` (Metelli; 20× prior), Drusus → `person:m-livius-drusus-claudianus` (the contemporary seller), Trebonius → `person:c-trebonius`, Damasippus → `person:damasippus-art-dealer`, Rebilus → `person:caninius-rebilus`; Cato (the eulogy's subject) → `person:cato-minor`; Brutus → `person:brutus`; Balbus → `person:l-cornelius-balbus`; Oppius → `person:gaius-oppius`; Egnatius → `person:l-egnatius-rufus`; Quirinus ("temple-mate of Quirinus" @12.45) → `person:romulus`; Vergilius @12.51 → `person:c-vergilius`; L. Crassus the orator @12.49 → `person:l-licinius-crassus`.
+
+**Worker beyond-roster binds (all registry-confirmed):** Balbus *minor* @12.38 → `person:cornelius-balbus-younger` (text is explicit "the younger", overriding the roster's default-elder rule); **Pompey at Carteia** @12.44 → `person:cn-pompeius-iunior` (the living son after Munda, NOT the dead `person:pompey`); "Salus"/"Salutis" @12.45 → `place:templum-salutis`; Bibulus @12.32 → `person:l-calpurnius-bibulus` and Messalla @12.32 → `person:m-valerius-messala-corvinus` (the trio of nobles at Athens); Spinther @12.52 (the divorce from Metella) → `person:p-lentulus-spinther-jr`; Lentulus @12.30 → `person:p-lentulus-spinther-jr`; Lamia @12.22/12.29 → `person:l-aelius-lamia-pr42`; Libo @12.18/12.19 → `person:l-scribonius-libo-cos34`; Triarius @12.28 → `person:c-valerius-triarius`; D. Brutus (Clodia's consular son, exemplum) @12.22 → `person:d-iunius-brutus-callaicus`; Sex./Peducaeus's auction @12.50/12.51 → `person:sex-peducaeus-the-younger`; "that Marius" (the poem subject) @12.49 → `person:c-marius` (kept distinct from the unbindable petitioner "C. Marius C.f. C.n.").
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–91 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block; **no new warnings** from the 106 new sidecars or 17 new entities). Independent PM verification confirmed all 53 letters carry **both** sidecars (53/53), each with `schema_version: 1` and the correct bare in-file `id`; **all 800 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve** in the registry (zero unresolved); **all 192 glossary anchors are verbatim substrings of their English `.tex`**; mention ordering is loc-ascending, lat-before-eng throughout; and **all 17 new entities have ≥1 mention** (no orphan-entity warnings). Registry integrity: still only the 2 pre-existing exact-duplicate ids (`person:p-rutilius-rufus`, `place:syracusae`); none introduced; registry remains sorted by `(type, id)`. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both are no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–91, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked. **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical). The 11 stray `data/_tmp_*.jsonl` scratch files are also **still tracked** and should be `git rm`'d, then re-run `validate.py`. (Session 92 created NO scratch files in the repo; it staged only the 106 book-12 sidecars + `entities.json`. The one backup it wrote — `entities.backup-s92.json` — lives in the PM **outputs** dir, NOT the repo.)
+- **Book 12 is GREEK-RICH (unlike book 11) — a dedicated `greek-phrases.json` backfill is warranted.** This session did NOT emit greek-phrases (deferred per scope), but ~22 book-12 letters carry Greek (e.g. ἀπεραντολογίας @12.9, ἀνεκτότερα @12.45, σύνναον @12.45, ἐγγήραμα/ἐντάφιον @12.29, ἀλόγως). No allusions/crossrefs emitted either (deferred). A future pass should sweep book 12 (and the rest of *Ad Atticum*) for Greek.
+- **Deferred unbindable surfaces (flag-not-resolve; left as null-id glossary notes or omitted, all reported by workers):** persons — Paciaecus @12.2, Vennonius @12.3, Hegesias/Eupolis @12.6, the flamen Lentulus & father-Publilius @12.7, Junius the creditor @12.14, Apollodorus @12.23, Gamala/Ligus @12.23, Regillus @12.24, Cispius @12.24, the noble Acidinus @12.32, Musca @12.40, Pontianus/Fulvinius @12.44, Clodius the male intermediary @12.30, Flaminius & Meto @12.51/12.52, and the genealogical *Consolatio* exempla (P. Crassus/Venuleia's son @12.24, "C. Marius C.f. C.n." the kinship-petitioner @12.49) plus the 63 BC consular catalogue @12.21 (each ambiguous across multiple registry candidates); places with no entity — Praeneste @12.2, the Balearics @12.2, Oropus @12.23, Circeii/the Tiber @12.19, Ficulea @12.34, Carteia @12.44. A future minor-prosopography / gazetteer pass could mint the recurring ones (esp. `place:praeneste`, `place:carteia`, `place:oropus`, `place:circeii`).
+- **Duplicate-id pairs bound to the canonical / better-fitting id (NOT introduced — a single merge pass should adjudicate):** the son `m-cicero-the-younger` vs `marcus-cicero-younger`; the nephew `q-cicero-the-younger` vs `q-cicero-younger`; `nicias-cous` vs `curtius-nicias`; `l-egnatius-rufus` vs `egnatius-l`; `silius-villa` vs `p-silius-pr` (these may be the same P. Silius — the horti owner); and the **Drusus crux** (the gardens-seller bound to `m-livius-drusus-claudianus`; `m-livius-drusus-pr-iurist`/`-tribunus`/`drusus-pisaurensis` are distinct men). Also **"M. Cotta" @12.22.2** was bound to `m-aurelius-cotta-cos74` with a chronological flag (cos. 74 was dead by 45 BC — the living informant is likely a younger M. Aurelius Cotta; worth a registry review).
+
+**Suggested next automated batch — continue *Ad Atticum* at book 13** (the **largest remaining gap, 49 drafted letters, 0 enriched**; 45 BC: the fanum project continues, the philosophical reading and the *Academica* / *De Finibus* dedication maneuvers, the projected letter of advice to Caesar (the συμβουλευτικόν), the aftermath of the *Cato* / anti-Cato pamphlet war, and Brutus's and Atticus's interventions — note **13.15/13.18/13.36 are PENDING** (no usable Latin) and are excluded from the 49). Regenerate the entity index from `data/entities.json` first (now **1971 unique / 1973 list entries**). Books 13–16 are ~3–4 more apparatus sessions (book 13 is large and may want its own session, perhaps split across two). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 92: apparatus enrichment — entity-mentions + glossary for all 53 Ad Atticum book 12 letters (12.1-12.53; 46-45 BC, the death of Tullia, the Astura grief retreat, the fanum/shrine project and the trans-Tiberim horti hunt, the nomen Faberianum financing, the Consolatio and the Cato, the Publilia estrangement, young Marcus to Athens), OPENING+CLOSING book 12 53/53 on both axes; 800 mentions, 192 glossary notes; 17 new entities (registry 1956->1973 list / 1971 unique: person:faberius/mustela/hermogenes/ovia/cluatius/craterus/cusinius/otho/aledius/marcianus/laenas/l-statilius/l-tullius-montanus/rutilia/publilia/publilius-frater, place:astura); key binds — son de-Cicerone->m-cicero-the-younger, nephew->q-cicero-the-younger, Cotta=c-cotta the orator (Consolatio exemplum, not a gardens owner), Nicias->nicias-cous, Servius/Sulpicius->servius-sulpicius-rufus, gardens Silius->silius-villa/Scapula->p-scapula/Clodia->clodia/Drusus->m-livius-drusus-claudianus/Trebonius->c-trebonius/Damasippus->damasippus-art-dealer/Rebilus->caninius-rebilus/Cusinius->cusinius/Otho->otho, Cato->cato-minor, Quirinus->romulus, Vergilius->c-vergilius; worker beyond-roster binds Balbus minor@12.38->cornelius-balbus-younger, Pompey-at-Carteia@12.44->cn-pompeius-iunior, Salus@12.45->place:templum-salutis, Bibulus/Messalla@12.32, Spinther@12.52->p-lentulus-spinther-jr, Libo->l-scribonius-libo-cos34. validate.py exit 0 at the 10-warning baseline. THEN (STILL PENDING from sessions 80-91) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) AND the 11 stray data/_tmp_*.jsonl scratch files, then re-run validate.py."` to land. Next session: begin *Ad Atticum* book 13 (49 drafted letters; the fanum continues, the Academica/De Finibus dedication maneuvers, the letter of advice to Caesar); or supply manual Latin for the pending queue. A dedicated Greek-phrases backfill of *Ad Atticum* is also now warranted.
+
+---
+
+## Where to resume now (session 91 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 91 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, following session 90). Translation remains impossible autonomously: the same 14 pending works still lack usable Latin (the 7 pending letters — *ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8 — are `% PLACEHOLDER`/absent, and the 7 pending philosophy/rhetoric works — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius* — have no fetchable Latin). Per standing guidance this session opened the *Ad Atticum* book 11 apparatus sweep and **closed book 11 in a single session**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. The chronology pointer is unchanged (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC).
+
+**What this session produced — entity-mentions + glossary sidecars for all 25 drafted *Ad Atticum* book 11 letters (11.1–11.25), OPENING and CLOSING book 11 on both axes (25/25).** The arc is the **Brundisium letters (Jan 48 – Sept 47 BC)**: Cicero crosses to Pompey's camp before Pharsalus, then recrosses to Italy and is stranded, ill, and despairing at Brundisium under a Caesarian guard for nearly a year; Antony's edict (as magister equitum) barring Pompeians from Italy, with Cicero and D. Laelius excepted by name (11.7); the bitter rupture with brother Quintus and nephew young Quintus, who both go east to sue Caesar for pardon and to denounce Cicero (11.8–11.10, 11.15–11.16, 11.21–11.23); the estrangement from Terentia and the financial ruin via Philotimus; the dread over Tullia's dowry and her marriage to Dolabella (whose tabulae-novae agitation, nocturnal raids, and the "Metella" scandal surface at 11.23); and the long wait for Caesar's return from the Alexandrian war and the Pontic campaign against Pharnaces (Zela), while the legions mutiny in Italy and Sulla and Messalla are sent to them (11.21–11.22). Totals: **540 entity mentions, 105 glossary notes.** Corpus letter-level entity-mention coverage now **699 of 868 drafted** (was 674). **With *Ad Atticum* books 1–11 all complete on the entity-mention axis (227 of 396), the remaining *Ad Atticum* frontier is books 12–16 — 169 missing.** *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) remain complete; *Ad Atticum* is the entire remaining letter frontier (the 169-letter gap is exactly Att 12–16).
+
+**Method (PM-curated roster + 4 parallel workers):** the PM wrote a binding canonical-ID roster (`cicero_roster_s91.md` in the PM session outputs), grounded in a programmatic proper-noun extraction from all 25 book-11 parallel sidecars, pre-resolving the Brundisium cast, the duplicate-id traps (settled by registry usage / canonical fit), the context-sensitive binds, the new entities to mint, and the skip rules. **The PM pre-minted 9 anticipated new entities into `data/entities.json` before dispatch**, so every roster id resolved at worker time. **4 workers** split the letters (11.1–11.6 · 11.7–11.11 · 11.12–11.17 · 11.18–11.25). Each tagged both Latin and English surface forms, grepped the entity index to reuse ids, and reported genuinely-new-entity flags (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 9 new entities (all pre-minted; registry 1947 → 1956).** New people (7): `person:d-laelius` (Decimus Laelius, the Pompeian excepted with Cicero in Antony's edict, 11.7/11.14/11.15 — NOT the 2nd-c. statesman `laelius-sapiens`), `person:diochares` (Caesar's freedman courier from Alexandria, 11.6), `person:isidorus` (the estate-sale agent, 11.4), `person:galeo` (the testator whose inheritance Cicero entered, 11.12), `person:minucius-tarentum` (the banker at Tarentum, 11.14/11.15 — distinct from L. Minucius Basilus), `person:p-sallustius` (the man paid out of Cn. Sallustius's money, 11.11 — distinct from the friend Cn. Sallustius), `person:m-gallius` (M. Gallius Q.f., the Caesarian officer conveying legions to Sicily, 11.20). New places (2): `place:frusino` (Cicero's farm in Latium, 11.4/11.13) and `place:seleucia-pieria` (the Syrian port of Antioch, 11.20 — explicitly NOT `place:seleucia-tigris`). **Grep-first + roster pre-resolution worked:** the recurring traps were all bound correctly — the **two-Quintus split** (brother `person:quintus-cicero`, 47 mentions, vs nephew `person:q-cicero-the-younger`, 35 mentions — both estranged and gone east; the denouncer at 11.8/11.15/11.21/11.23 is the nephew, "Quintus frater" the brother); the **two Sullas** (the active Caesarian quelling the mutinous legions @11.21.2/11.22.2 → `person:p-sulla-filius` vs the dictator-as-exemplum "Sullana"/"Sulla's time" @11.21.3 → `person:sulla`); Balbus → `person:l-cornelius-balbus` (the elder, NOT the younger); Oppius → `person:gaius-oppius`; Antony/Antonius → `person:antony` (the magister equitum, NOT antonius-asia); Fufius → `person:q-fufius-calenus` (Caesar's legate, held STRICTLY DISTINCT from the "Fufidian estate"/co-heirs, treated as `person:q-fufidius` realia); Gaius Cassius → `person:cassius-longinus` (NOT q-cassius-longinus-spain); the Lentulus pair @11.13 (father P. Spinther → `person:lentulus-spinther`, son at Alexandria → `person:p-lentulus-spinther-jr`); L. Lentulus @11.6 → `person:lentulus-crus`; Hortensius @11.6 → `person:q-hortensius-filius` (the son, NOT the dead orator); Messalla @11.22 → `person:m-valerius-messalla-rufus`; Pharnaces → `person:pharnaces-ii`; Cato → `person:cato-minor`; L. Metellus @11.7 → `person:l-caecilius-metellus-pr71`; Chrysippus @11.2 → `person:chrysippus-vettius` (the freedman, NOT the Stoic); Egnatius → `person:l-egnatius-rufus`; Servius/"old Servius" @11.13 → `person:servius-sulpicius-rufus`; and the minor cast bound to existing ids (Camillus → `c-furius-camillus`, Ligurius → `a-ligurius`, Agusius → `t-agusius`, Cephalio → `cephalio`, Anteros → `anteros-servus`, Lepta → `q-paconius-lepta`, Trebatius → `c-trebatius-testa`, Sestius → `sestius-tribune`, Basilus → `l-minucius-basilus`, Cn. Sallustius → `cn-sallustius`, Vatinius → `vatinius-tribune`, Hirtius → `hirtius`, Pansa → `vibius-pansa`, Trebonius → `c-trebonius`).
+
+**Worker beyond-roster binds (5, all registry-confirmed):** L. Lamia @11.7 → `person:l-aelius-lamia-pr42` (NOT the *De Oratore* figure); P. Terentius @11.10 → `person:p-terentius-hispo` (the Asian-scriptura pro magistro); Celer @11.4 ("the rest Celer will tell") → `person:q-pilius-celer` (Atticus's kinsman/intermediary — a judgment bind); Servilius @11.5 → `person:p-servilius-vatia-isauricus-minor` (cos. 48 — a judgment bind); Clodius @11.23 ("the statue of Clodius") → `person:clodius` (Dolabella's revival of Clodian agitation).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–90 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block; **no new warnings** from the 50 new sidecars or 9 new entities). Independent PM verification confirmed all 25 letters carry **both** sidecars (25/25), each with `schema_version: 1` and the correct bare in-file `id`; **all 540 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1956-entry registry** (zero unresolved, zero null/empty surfaces); **all 105 glossary anchors are verbatim substrings of their English `.tex`**; mention ordering is loc-ascending, lat-before-eng throughout; and **all 9 new entities have ≥1 mention** (no orphan-entity warnings). Registry integrity: still only the 2 pre-existing exact-duplicate ids (`person:p-rutilius-rufus`, `place:syracusae`); none introduced; registry remains sorted by `(type, id)`. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both are no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–90, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical). The 11 stray `data/_tmp_*.jsonl` scratch files are also **still tracked** — `data/_tmp_entities_worker{A..G}.jsonl` and `data/_tmp_notes_{batch1,batch2,batch3,merged}.jsonl`. **Alexander should `git rm` these 11 too**, then re-run `validate.py`. (Session 91 created no scratch files in the repo; it staged only the 50 book-11 sidecars + `entities.json`.)
+- **Deliberate skips this session (no junk minted — flag-not-resolve):** "Metella" @11.23.3 (named among Dolabella's scandals — left untagged with a null-id glossary note; identity uncertain, NOT the Caecilia Metella of *Pro Roscio Amerino*; **a reviewer may decide whether to mint a distinct entity**); "Sulpicius" @11.25.2 (the letter-writer carrying the rumour of Caesar's departure from Alexandria — contested identity, possibly P. Sulpicius Rufus the Illyricum proconsul or Ser. Sulpicius cos. 51; left untagged); "Aesopus's son" @11.15.3 (the dissolute son of the actor — `person:aesopus` is the father; the son has no entity — null glossary note); "Murena's freedman" @11.13.1 and "P. Siser" @11.13.1 (obscure carriers); the wavering legions / "the twelfth legion" @11.21.2 (no `unit:legio-xii` in the registry — glossary note only; a future offices/units pass could mint it).
+- **Duplicate-id pairs bound to the canonical / better-fitting id (NOT introduced — a single merge pass should adjudicate):** `person:lentulus-spinther` (used for the cos.-57 father) vs `person:p-lentulus-spinther` (a near-dup of the same man); `person:l-egnatius-rufus` (bound) vs `person:egnatius-l` (same banker). Both carried from earlier sessions.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). All four workers reported **book 11 carries essentially no Greek** (Perseus carries none in these letters) and no clear literary allusions — unusual for *Ad Atticum*, and a fair reflection of the hurried, anguished register of the Brundisium correspondence. The only editorial backdrop worth a future note is the "veni vidi vici"/Zela context behind Pharnaces @11.21.2/11.22.2. Several daggered cruces (†…†) at 11.6/11.9/11.14/11.15/11.16/11.22 are textual corruptions, not allusions.
+
+**Suggested next automated batch — continue *Ad Atticum* at book 12** (the **largest single book, 53 letters, 46–45 BC**: Cicero's reconciliation to life under Caesar, the death of Tullia in Feb 45 BC and the grief that dominates the book, the projected *fanum* (shrine) for her and the gardens-purchase negotiations, the *Consolatio*, and the near-daily letters to Atticus from the Astura retreat — Att 12.1–12.53, **53 letters drafted, 0 enriched**). Regenerate the entity index from `data/entities.json` first (now **1956**). The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* books 12–16 (169 of 396 missing); finishing *Ad Atticum* is ~5–6 more apparatus sessions (book 12 alone is large — it may want its own session, perhaps split across two). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 91: apparatus enrichment — entity-mentions + glossary for all 25 Ad Atticum book 11 letters (11.1-11.25; the Brundisium letters Jan 48-Sept 47 BC, Pharsalus aftermath, Antony's edict excepting Cicero & D. Laelius 11.7, the rupture with brother Quintus and nephew young Quintus, estrangement from Terentia, dread over Tullia/Dolabella, the wait for Caesar's return and the Pharnaces/Zela campaign while the legions mutiny), OPENING+CLOSING book 11 25/25 on both axes; 540 mentions, 105 glossary notes; 9 new entities (registry 1947->1956: person:d-laelius/diochares/isidorus/galeo/minucius-tarentum/p-sallustius/m-gallius, place:frusino/seleucia-pieria); key binds — two-Quintus split (brother quintus-cicero vs nephew q-cicero-the-younger), two-Sullas split (p-sulla-filius the commander vs sulla the dictator-exemplum), Balbus->l-cornelius-balbus, Oppius->gaius-oppius, Antony->antony, Fufius->q-fufius-calenus (distinct from the Fufidian estate->q-fufidius), Cassius->cassius-longinus, Lentulus pair lentulus-spinther+p-lentulus-spinther-jr @11.13, L. Lentulus->lentulus-crus, Hortensius->q-hortensius-filius not the dead orator, Messalla->m-valerius-messalla-rufus, Pharnaces->pharnaces-ii, Chrysippus->chrysippus-vettius, Seleucia in Pieria->seleucia-pieria NOT seleucia-tigris; worker beyond-roster binds L. Lamia->l-aelius-lamia-pr42, P. Terentius->p-terentius-hispo, Celer->q-pilius-celer, Servilius->p-servilius-vatia-isauricus-minor, Clodius@11.23->clodius. THEN (STILL PENDING from sessions 80-90) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) AND the 11 stray data/_tmp_*.jsonl scratch files, then re-run validate.py."` to land. Next session: begin *Ad Atticum* book 12 (the death of Tullia and the grief letters); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 90 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 90 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, following session 89). Translation remains impossible autonomously: the same 14 pending works still lack usable Latin (the 7 pending letters — *ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8 — are `% PLACEHOLDER`/absent, and the 7 pending philosophy/rhetoric works — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius* — have no fetchable Latin). Per standing guidance this session opened the *Ad Atticum* book 10 apparatus sweep and **closed book 10 in a single session**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. The chronology pointer is unchanged (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC).
+
+**What this session produced — entity-mentions + glossary sidecars for all 18 drafted *Ad Atticum* book 10 letters (10.1–10.18), OPENING book 10 on both axes (18/18).** The arc is the **irresolute spring of 49 BC** (late March – early May): Cicero penned at Cumae/Formiae under Caesarian watch, the long Curio interview at the villa (10.4: Curio's candour about the proscription-style recall of those condemned under the lex Pompeia, the six laurelled fasces, Caesar's anger at the tribune Metellus over the treasury); the suspense over the Spanish campaign as the war's true pivot (10.8, with the great Themistoclean-naval-strategy argument and the famous-deaths exempla cluster at 10.8.6–7); the Antony correspondence (the parallel "I want to be on Malta, not a party to this war" overture at 10.8.10; Antony's tiresome letter; the actress Cytheris travelling openly in his carriage at 10.10); the wreck of the two boys, Cicero's loyal son and the corrupted nephew (10.4.5–6); and the slow hardening of Cicero's resolve to sail to Pompey. Totals: **603 entity mentions, 89 glossary notes.** Corpus letter-level entity-mention coverage now **674 of 868 drafted** (was 656). **With *Ad Atticum* books 1–10 all complete on the entity-mention axis (184 + 18 = 202 of 396), the remaining *Ad Atticum* frontier is books 11–16 — 194 missing.** *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) remain complete; *Ad Atticum* is the entire remaining letter frontier.
+
+**Method (PM-curated roster + 4 parallel workers):** the PM wrote a binding canonical-ID roster (`cicero_roster_s90.md` in the PM session outputs), grounded in a programmatic proper-noun extraction from all 18 book-10 parallel sidecars, pre-resolving the civil-war cast, the duplicate-id traps (settled by registry usage / canonical fit), the context-sensitive binds, the new entities to mint, and the skip rules. **The PM pre-minted 11 anticipated new entities into `data/entities.json` before dispatch** (plus 1 more, `law:lex-pompeia-de-ambitu`, at consolidation), so every roster id resolved at worker time. **4 workers** split the letters (10.1–10.5 · 10.6–10.9 · 10.10–10.14 · 10.15–10.18). Each tagged both Latin and English surface forms, grepped the entity index to reuse ids, and reported genuinely-new-entity flags (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 12 new entities merged; registry 1935 → 1947.** New people (5): `person:sex-peducaeus-the-younger` (the friend/son, distinct from the elder propraetor `person:sex-peducaeus-iudex` who is the "his father" of 10.1.1, the Nones-of-December adviser), `person:vettienus` (the money-man), `person:attus-navius` (the legendary augur, 10.8.6), `person:sardanapallus` (10.8.7), `person:artaxerxes` (Artaxerxes I, 10.8.7). New god (1): `god:furiae` (10.18). New places (5): `place:massilia` (the besieged Marseille, 10.10/10.14), `place:liternum` (10.13), `place:aenaria` (Ischia, 10.13), `place:illyricum` (10.6/10.9), `place:germania` (10.9). New law (1): `law:lex-pompeia-de-ambitu` (52 BC, the law under which Caesar's recall-targets were condemned, 10.4.8). **Grep-first + roster pre-resolution worked:** the recurring traps were all bound correctly — Curio (Curio/Curione/Curionem) → `person:c-scribonius-curio-tr` (already extant; NOT Curius, NOT the cos. 76); "Hortensius" the active scoundrel with the fleet → `person:q-hortensius-filius` (the **son**; the orator father is dead 50 BC); Cato → `person:cato-minor`; "Gaius Marcellus, who regrets having been consul" → `person:c-claudius-marcellus-cos50`; Philippus → `person:l-marcius-philippus-cos56`; Africanus @9.8.7 ("that night so bitter to Africanus") → `person:scipio-aemilianus` (the mysterious-death exemplum, **not** the Elder); Gabinius @10.8.3 → `person:a-gabinius`; Dionysius the runaway tutor → `person:m-pomponius-dionysius`; Balbus → `person:l-cornelius-balbus`; and the whole minor cast bound to existing ids (Ocella → `servius-ocella`, Silius → `p-silius-pr`, the praetor Allienus → `a-allienus`, Gallius → `q-gallius`, L. Egnatius → `l-egnatius-rufus`, the freedman Salvius → `salvius-courier`, Canuleius → `l-canuleius-publicanus`, Axius → `q-axius`, Eros → `eros-turius`, Ninnius → `l-ninnius-quadratus`, Pilia → `pilia`, Pomponia → `pomponia`).
+
+**PM corrections beyond pure tagging (3):** (1) minted `law:lex-pompeia-de-ambitu` and back-patched the 10.4.8 mention (lat + eng) and the previously-null glossary note's `entity_id`; (2) bound the 10.1.4 "that man who sent his son to Brundisium about peace" → `person:servius-sulpicius-rufus` and "his son" → `person:servius-sulpicius-rufus-younger`, consistent with the 9.19 reading (a worker had left the person untagged, tagging only `place:brundisium`); (3) bound the 10.8.6 Metellus ("mildness in the matter of Metellus") → `person:l-caecilius-metellus-pr71` and the paired treasury → `institution:aerarium`, for consistency with the 10.4.8 binding of the same tribune (a worker had left 10.8.6 untagged on the slug-mismatch worry — same caveat as session 89, the "pr71" slug is anomalous for the tr.-49).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–89 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block; **no new warnings** from the 36 new sidecars or 12 new entities). Independent PM verification confirmed all 18 letters carry **both** sidecars (18/18), each with `schema_version: 1` and the correct bare in-file `id`; **all 603 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1947-entry registry** (zero unresolved, **zero null/empty surfaces**); **all 89 glossary anchors are verbatim substrings of their English `.tex`** (34 notes legitimately carry `entity_id: null` per schema); and **all 12 new entities have ≥1 mention** (no orphan-entity warnings). Registry integrity: still only the 2 pre-existing exact-duplicate ids (`person:p-rutilius-rufus`, `place:syracusae`); none introduced; registry remains sorted by `(type, id)` with no entry missing a required field. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both are no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–89, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical). The 11 stray `data/_tmp_*.jsonl` scratch files are also **still tracked** — `data/_tmp_entities_worker{A..G}.jsonl` and `data/_tmp_notes_{batch1,batch2,batch3,merged}.jsonl`. **Alexander should `git rm` these 11 too**, then re-run `validate.py`. (Session 90 staged only to `data/`; it created no scratch files in the repo.)
+- **Deliberate skips this session (no junk minted — flag-not-resolve):** 10.8.3 "Clodius" (a restored Clodian agent, NOT P. Clodius Pulcher, dead 52) and "Plaguleius"/"C. Ateius" (both obscure); 10.12 "Reginus" (no clean id); 10.16 "Cotta" holding Sardinia (the Pompeian governor M. Aurelius Cotta of 49 does not cleanly match `person:m-aurelius-cotta-cos74` — left untagged with a null-id glossary note); 10.15 "Funisulanus" and the corrupt †tabellarius† crux; 10.17 "Serapion" the letter-carrier (NOT the geographer `person:serapion`); **10.1.4 "Mucianum istud"** (left untagged — genuinely ambiguous whether it is the 9.12/9.15 "Mucian end" exemplum that session 89 bound to `person:q-mucius-scaevola-pontifex`; **a reviewer should decide whether to bind it for cross-letter consistency**); 10.4.12 the banking Oppii (vs the Oppii of Velia at 10.7 → `person:oppii-velienses`, which **was** tagged); 10.11 "Axius's son" (no `person:q-axius-son`); and the Adriatic / the Sicilian Strait / the upper-lower sea (per the book 8–9 sea-precedent).
+- **Duplicate-id pairs bound to the canonical / more-specific id (NOT introduced — a single merge pass should adjudicate):** `person:a-gabinius` vs `person:gabinius` (both "Aulus Gabinius"); `person:l-egnatius-rufus` vs `person:egnatius-l` (both L. Egnatius Rufus); `person:p-silius-pr` vs `person:silius-villa`; and `person:l-flavius-tr-pl-60` (bound at 10.1.2 for the Caesarian given a legion + Sicily) whose own registry entry already flags a possible dup with the stub `person:l-flavius-eques`.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). 36 Greek markers across the book; heaviest **10.10** (7, incl. the scytale tag and `σύνες ὅ τοι λέγω`), **10.8** (6), **10.1** (5), **10.11** (4). Suspected allusions to flag: the Homeric tag at 10.1.1 (*Iliad* 22.304–305, "μὴ μάν … ἐσσομένοισι πυθέσθαι"); the two Thucydides quotations on Themistocles at 10.8.7 (Thuc. 1.138) and the Plato-on-tyrants reference at 10.8.6 (*Republic* bks 8–9); the corrupt †EKITAONON† at 10.13.3 and `Κωρυκαῖοι` at 10.18.1. The per-worker reports (in the s90 PM outputs) hold the full loci lists.
+
+**Suggested next automated batch — continue *Ad Atticum* at book 11** (the **"Brundisium letters," 48–47 BC**: Cicero in Pompey's camp, then stranded and despairing at Brundisium after Pharsalus, the estrangement from Terentia and the anxiety over Dolabella and young Quintus — Att 11.1–11.25, **25 letters drafted, 0 enriched**). Regenerate the entity index from `data/entities.json` first (now **1947**). The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* books 11–16 (194 of 396 missing); finishing *Ad Atticum* is ~6 more apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 90: apparatus enrichment — entity-mentions + glossary for all 18 Ad Atticum book 10 letters (10.1-10.18; irresolute spring of 49 BC, the Curio interview 10.4, the Spanish-campaign pivot and famous-deaths exempla 10.8, the Antony/Cytheris correspondence 10.8/10.10, Cicero edging toward leaving for Pompey), OPENING book 10 18/18 on both axes; 603 mentions, 89 glossary notes; 12 new entities (registry 1935->1947: person:sex-peducaeus-the-younger/vettienus/attus-navius/sardanapallus/artaxerxes, god:furiae, place:massilia/liternum/aenaria/illyricum/germania, law:lex-pompeia-de-ambitu); key context binds (Curio->c-scribonius-curio-tr, Hortensius->q-hortensius-filius not the dead orator, Cato->cato-minor, Marcellus 'regrets being consul'->c-claudius-marcellus-cos50, Philippus->l-marcius-philippus-cos56, Africanus@10.8.7->scipio-aemilianus not the Elder, Gabinius->a-gabinius, Peducaeus split son->sex-peducaeus-the-younger vs father->sex-peducaeus-iudex, Dionysius tutor->m-pomponius-dionysius); PM minted law:lex-pompeia-de-ambitu and back-patched 10.4.8, bound the 10.1.4 'sent his son to Brundisium' man->servius-sulpicius-rufus+son per 9.19, and bound the 10.8.6 Metellus->l-caecilius-metellus-pr71 + treasury->aerarium for consistency with 10.4.8. THEN (STILL PENDING from sessions 80-89) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) AND the 11 stray data/_tmp_*.jsonl scratch files, then re-run validate.py."` to land. Next session: begin Ad Atticum book 11 (the Brundisium letters after Pharsalus); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 89 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 89 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, following session 88). Translation remains impossible autonomously: the same 14 pending works still lack usable Latin (the 7 pending letters — *ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8 — are `% PLACEHOLDER`/absent, and the 7 pending philosophy/rhetoric works — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius* — have no fetchable Latin). Per standing guidance, this session opened the *Ad Atticum* book 9 apparatus sweep and **closed book 9 in a single session**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. The chronology pointer is unchanged (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC).
+
+**What this session produced — entity-mentions + glossary sidecars for all 19 drafted *Ad Atticum* book 9 letters (9.1–9.19), CLOSING book 9 on both axes (19/19).** The arc is the **aftermath of Corfinium, March 49 BC**: Pompey shut up in Brundisium and his escape across the Adriatic to Greece (9.6); Caesar's pursuit and the failed harbour-blockade by rafts (9.12–9.13); Pompey's peace-envoy N. Magius shuttling between the sides even under siege (9.13.8); Caesar's overtures to Cicero through Balbus, Matius, and Trebatius and Cicero's unrelenting paralysis over whether to follow Pompey; the great self-justifying letter 9.10, in which Cicero unrolls Atticus's own (Greek-laced) letters and reads them back to vindicate his staying, anchored by the historical-exempla cluster of 9.10.3 (Tarquin, Porsena, Octavius Mamilius, Coriolanus, Themistocles, Hippias, Sulla–Marius–Cinna); the climactic Cicero–Caesar interview (9.18, "I have seen no one less easy"); and Cicero's final resolution to leave Italy, giving his son the toga virilis at Arpinum (9.19). Totals: **902 entity mentions, 105 glossary notes.** Corpus letter-level entity-mention coverage now **656 of 868 drafted** (was 637). **With *Ad Atticum* books 1–9 all complete on the entity-mention axis (20+25+27+21+21+9+26+16+19 = 184 of 396), the remaining *Ad Atticum* frontier is books 10–16 — 212 missing.** *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) remain complete; *Ad Atticum* is the entire remaining letter frontier.
+
+**Method (PM-curated roster + 4 parallel workers):** the PM wrote a binding canonical-ID roster (`cicero_roster_s89.md` in the PM session outputs), grounded in a programmatic proper-noun extraction from all 19 book-9 parallel sidecars, pre-resolving the civil-war cast, the duplicate-id traps (settled by corpus usage-count), the context-sensitive binds, the new entities to mint, and the skip rules. **The PM pre-minted 13 anticipated new entities into `data/entities.json` before dispatch** (so every roster id resolved at worker time and no worker had to stage new entities). **4 workers** split the letters (9.1–9.6 · 9.7–9.10 · 9.11–9.14 · 9.15–9.19). Each tagged both Latin and English surface forms, grepped the entity index to reuse ids, and reported genuinely-new-entity flags in their final report (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 16 new entities merged; registry 1919 → 1935.** New people (8): `person:coriolanus`, `person:hippias-tyrant` (the Athenian tyrant son of Pisistratus — NOT the sophists hippias-of-elis/calactinus), `person:m-iunius-brutus-pater` (the elder, executed by Pompey 77 BC — the tyrannicide's father, NOT `person:brutus`), `person:n-magius` (Pompey's peace envoy), `person:octavius-mamilius`, `person:pontius-titinianus` (= "Titinius's son"), `person:porsena`, `person:q-pedius` (Caesar's great-nephew). New places (6): `place:arabia-felix`, `place:croton`, `place:mesopotamia`, `place:via-minucia`, `place:arpi`, `place:sipontum`. New events (2): `event:battle-of-marathon`, `event:battle-of-allia`. **The last three (arpi, battle-of-allia, sipontum) were added at consolidation from worker flags**, with their mention rows and a glossary note back-patched into 9.3/9.5/9.15 so each carries ≥1 mention. **Grep-first + roster pre-resolution worked:** the recurring traps were all bound correctly — bare "Gnaeus"/"Cnaeus"/"our Gnaeus" → `person:pompey` (Pompey the Great, **never** the son cn-pompeius-iunior, whose aliases are exactly those words); Domitius → `person:l-domitius-ahenobarbus-cos54`; "the consul Lentulus" → `person:lentulus-crus` BUT "Publius/our Lentulus" → `person:lentulus-spinther`; the deserting tutor Dionysius → `person:m-pomponius-dionysius`; the Sulla-exemplum → `person:sulla`; the **Scipio split** (the Pompeian commander → `person:q-metellus-scipio` vs the Panaetius-patron at 9.12.2 → `person:scipio-aemilianus`); the senatorial-formula "Marcus Tullius" (9.5.2) → `person:cicero`; the bellwether consulars Manius Lepidus & Lucius Volcacius → `person:man-aemilius-lepidus-cos66` / `person:l-volcacius-tullus-cos66`; "my Cicero" (9.19.1) → `person:m-cicero-the-younger`; Servius → `person:servius-sulpicius-rufus` and his son → `person:servius-sulpicius-rufus-younger`.
+
+**PM correction beyond pure tagging:** at 9.12.1 the "Mucian end" exemplum ("illum Mucianum exitum" / "that end of Mucius") had been left untagged by its worker; the PM bound it to `person:q-mucius-scaevola-pontifex` for consistency with 9.15.2, where the same man (the pontifex murdered 82 BC, paired with "Lucius Scipio") was tagged.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–88 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block; **no new warnings** from the 38 new sidecars or 16 new entities). Independent PM verification confirmed all 19 letters carry **both** sidecars (19/19), each with `schema_version: 1` and the correct bare in-file `id`; **all 902 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1935-entry registry** (zero unresolved, **zero null mentions**); **all 105 glossary anchors are verbatim substrings of their English `.tex`** (37 glossary notes legitimately carry `entity_id: null` per schema); and **all 16 new entities have ≥1 mention** (no orphan-entity warnings). Registry integrity: still only the 2 pre-existing exact-duplicate ids (`person:p-rutilius-rufus`, `place:syracusae`); none introduced; registry remains sorted by `(type, id)`. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both are no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–88, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical). The 11 stray `data/_tmp_*.jsonl` scratch files are also **still tracked** — `data/_tmp_entities_worker{A..G}.jsonl` and `data/_tmp_notes_{batch1,batch2,batch3,merged}.jsonl`. **Alexander should `git rm` these 11 too**, then re-run `validate.py`. (Session 89 staged only to the PM outputs dir, not `data/`.)
+- **Duplicate-id pairs bound this session to the more-used / better-fitting id (NOT introduced — a single merge pass should adjudicate):** `person:c-curtius-postumus` (the bound id, 6 uses) vs `person:c-rabirius-postumus` (4 uses) for the war-eager Caesarian "Postumus"/"Curtius" Cicero patronised (9.5, 9.6 — these are very likely one man); `person:lentulus-spinther` (used) vs `person:p-lentulus-spinther` (cos.-57 near-dup); `person:l-cornelius-scipio-asiaticus` (bound at 9.15.2 for the Sullan victim) vs `person:l-cornelius-scipio-asiagenus` (whose alias is "the consul"); `person:m-cicero-the-younger` (used, 111 corpus uses) vs `person:marcus-cicero-younger`.
+- **`person:l-caecilius-metellus-pr71` was bound at 9.6.3 for the tribune of 49 BC** ("L. Metello tribuno pl.", the man who obstructed Caesar at the treasury) — the only registry entry carrying the alias "L. Metello", but its slug's "pr71" date is anomalous for the tr.-49; reviewer to confirm whether a distinct tr-49 Metellus entity is wanted.
+- **`person:l-fabatus` (= L. Roscius Fabatus) enrichment** (carried from s88) and **`person:lucretius` bare stub** (carried from s87/s88) still pending.
+- **Deferred new-entity candidates flagged by workers but NOT minted (future pass):** `office:dictator` and `office:magister-equitum` (9.15.2 — fundamental offices left untagged this session to avoid a misleading `first_appearance`; they recur untagged across the corpus and deserve a dedicated offices pass); place candidates **Sidon** and **Aradus** (9.9.2 fleet list) and the **Troianum** villa (9.13.6); the four deliberately-generic placeholder senators "Galba, Scaevola, Cassius, Antonius" (9.9.3, Cicero being dismissive — probably leave untagged).
+- **Cruxes left untagged (no junk minted):** "Curius" at 9.6.1 (the Curius/Curio textual crux — recipient of the six Alba cohorts via the Via Minucia); Alba/Alba Fucens at 9.6.1 (no clean id — `place:albanum` is Pompey's Alban villa, the wrong place); "the hero Celer" at 9.18.2; "the Pedian villa" at 9.18.3; "Mentor" at 9.8.2 (the Homeric character — Homer → `person:homer`, Minerva → `god:minerva` were tagged); the barbarian triad at 9.10.3 (the Armenians → `place:armenia`, the Getae & Colchians & Volscians left untagged); the Upper/Lower Sea (no toponym, per book-8 precedent).
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged: book 9 is heavy with Greek, esp. **9.10** (which quotes Atticus's own Greek-laced letters back at Cicero, with `νέκυια` at 9.10.7); suspected Homeric quotations at 9.5.3 (*Iliad* 18.96–98), 9.6.4 (*Iliad* 10.93–94 "οὐδέ μοι ἦτορ ἔμπεδον"), 9.6.6 (*Iliad* 10.224), 9.8.2 (*Odyssey* 1.158/3.22, Athena-as-Mentor), 9.9.3 (*Iliad* 4.182), 9.15.3 (*Odyssey* 20.18 "τέτλαθι κύντερον"); the "Sulla potuit, ego non potero" line (9.10.2); an **explicit Plato quotation** at 9.13.4 (*Epistles* 329d); a likely **Stesichorus** Palinode formula at 9.13.1; and the *De Re Publica* resonance. The per-worker reports (in the s89 PM outputs) hold the full loci lists.
+
+**Suggested next automated batch — continue *Ad Atticum* at book 10** (the immediate sequel, **late March – early May 49 BC**: Cicero penned in at Cumae/Formiae under Caesarian watch, the bitter exchange with Antony over leaving Italy, the question of young Quintus, and Cicero's final resolution to sail to Pompey — Att 10.1–10.18, **18 letters drafted, 0 enriched**). Regenerate the entity index from `data/entities.json` first (now **1935**). The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* books 10–16 (212 of 396 missing); finishing *Ad Atticum* is ~7 more apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 89: apparatus enrichment — entity-mentions + glossary for all 19 Ad Atticum book 9 letters (9.1-9.19; aftermath of Corfinium Mar 49 BC, Pompey besieged at Brundisium and his escape to Greece, the great self-justifying letter 9.10, the Cicero-Caesar interview 9.18, Cicero's decision to leave Italy 9.19), CLOSING book 9 19/19 on both axes; 902 mentions, 105 glossary notes; 16 new entities (registry 1919->1935: person:coriolanus/hippias-tyrant/m-iunius-brutus-pater/n-magius/octavius-mamilius/pontius-titinianus/porsena/q-pedius, place:arabia-felix/croton/mesopotamia/via-minucia/arpi/sipontum, event:battle-of-marathon/battle-of-allia); key context binds (Gnaeus->pompey not the son, Domitius->l-domitius-ahenobarbus-cos54, consul Lentulus->lentulus-crus vs Publius/our Lentulus->lentulus-spinther, Dionysius tutor->m-pomponius-dionysius, Scipio split q-metellus-scipio vs scipio-aemilianus@9.12.2, Marcus Tullius@9.5.2->cicero, Marcus Brutus@9.14.2->m-iunius-brutus-pater not the tyrannicide, the 9.10.3 exempla cluster); PM bound the Mucian-end exemplum@9.12.1 to q-mucius-scaevola-pontifex for consistency with 9.15.2; arpi/battle-of-allia/sipontum added at consolidation from worker flags with back-patched mentions. THEN (STILL PENDING from sessions 80-88) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) AND the 11 stray data/_tmp_*.jsonl scratch files, then re-run validate.py."` to land. Next session: begin Ad Atticum book 10 (the Antony correspondence and Cicero's departure to Pompey); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 88 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 88 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, following session 87). Translation remains impossible autonomously: the same 14 pending works still lack usable Latin (the 7 pending letters — *ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8 — are `% PLACEHOLDER`/absent, and the 7 pending philosophy/rhetoric works — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius* — have no fetchable Latin). Per standing guidance, this session opened the *Ad Atticum* book 8 apparatus sweep and **closed book 8 in a single session**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. The chronology pointer is unchanged (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC).
+
+**What this session produced — entity-mentions + glossary sidecars for all 16 drafted *Ad Atticum* book 8 letters (8.1–8.16), CLOSING book 8 on both axes (16/16).** The arc is the **civil war in full flood, Feb–Mar 49 BC**: the Sulmo garrison's gates thrown open to Antony (8.4); the running scandal of Dionysius the boys' tutor, who deserted Cicero in his adversity (8.4–8.10); the siege and surrender of Corfinium, where L. Domitius Ahenobarbus and P. Lentulus Spinther (cos. 57) were captured and released under Caesar's celebrated clemency; Pompey's evacuation through Apulia to Brundisium and his crossing to Greece; the L. Caesar / L. Roscius Fabatus peace embassy carrying terms between the sides (8.12); Cicero's self-citation of his own *De Re Publica*, measuring Pompey against the ideal statesman (8.11); and his unrelenting torment over whether to follow Pompey out of Italy. Totals: **573 entity mentions, 88 glossary notes.** Corpus letter-level entity-mention coverage now **637 of 868 drafted** (was 621). **With *Ad Atticum* books 1–8 all complete on the entity-mention axis (20+25+27+21+21+9+26+16 = 165 of 396), the remaining *Ad Atticum* frontier is books 9–16 — 231 missing.** *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) remain complete; *Ad Atticum* is the entire remaining letter frontier.
+
+**Method (PM-curated roster + 4 parallel workers):** the PM wrote a binding canonical-ID roster (`cicero_roster_s88.md` in the PM session outputs), grounded in a programmatic proper-noun extraction from all 16 book-8 parallel sidecars, pre-resolving the civil-war cast, the duplicate-id traps (settled by corpus usage-count), the context-sensitive binds, the new entities to mint, and the skip rules. **4 workers** split the letters (8.1–8.3 · 8.4–8.7 · 8.8–8.11 · 8.12–8.16). Each tagged both Latin and English surface forms, grepped `data/entities.json` to reuse ids, and staged genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 12 new entities merged; registry 1907 → 1919.** New places: `place:corfinium` (the Paelignian siege town, central to the book), `place:sulmo`, `place:pyrenaei` (Afranius's position in Spain), `place:tibur`. New people: `person:thrasybulus` (the Athenian who broke the Thirty), `person:aristoxenus` (the music theorist paired with Dicaearchus at 8.4), `person:attius-paelignus` (C. Atius, who opened Sulmo to Antony), `person:c-sosius` (the praetor of 49), `person:oppii-velienses` (the Velia banker-brothers). New institution: `institution:thirty-tyrants`. New festival: `festival:feralia` (21 Feb, the dateline at 8.14). New text: `text:de-re-publica` (Cicero's own work, self-cited at 8.11 with Scipio Aemilianus = the speaker). **`place:corfinium` was triple-minted by three workers and deduped to one** (first_appearance 8.3). **Grep-first + roster pre-resolution worked:** the recurring traps were all bound correctly — L. Domitius at Corfinium → `person:l-domitius-ahenobarbus-cos54`; the Corfinium prisoner Lentulus → `person:lentulus-spinther` (cos. 57) BUT the consul of 49 → `person:lentulus-crus`; Dionysius the deserting tutor → `person:m-pomponius-dionysius`; Africanus the *De Re Publica* speaker → `person:scipio-aemilianus`; the Formiae-companion Lepidus → `person:man-aemilius-lepidus-cos66` vs the Rome-acting praetor → `person:lepidus-triumvir`; Curius the banker → `person:mn-curius-patrensis` (NOT Curio the tribune `c-scribonius-curio-tr`); Fannius the pr. 49 → `person:c-fannius-pr49`.
+
+**PM corrections beyond pure tagging:** (1) **re-pointed the 4 "younger Balbus" mention rows** (8.9, 8.11) from `person:l-cornelius-balbus` → `person:cornelius-balbus-younger` — the nephew has his own existing registry id that the workers had not been given; the elder/correspondent Balbus (Caesar's confidant) stays `person:l-cornelius-balbus`. (2) **Enriched `person:l-fabatus` → "Lucius Roscius Fabatus":** the registry described him only as the Fam 10.33 Mutina casualty of April 43 BC, but he is L. Roscius Fabatus, praetor of 49 and the peace envoy at 8.12 (the identification of the envoy with the casualty rests on the rare cognomen *Fabatus* + the attested death of L. Roscius Fabatus at Mutina — flagged in the entity summary for reviewer confirmation). Both worker-grounded summaries for `person:c-sosius` (C. Sosius praetor, ex-quaestor of M'. Lepidus, Att. 8.6.1) and `person:attius-paelignus` (C. Atius, five cohorts at Sulmo, Att. 8.4.3) were verified verbatim against the Latin before minting.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–87 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block; **no new warnings** from the 32 new sidecars or 12 new entities). Independent PM verification confirmed all 16 letters carry **both** sidecars (16/16), each with `schema_version: 1` and the correct bare in-file `id`; **all 573 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1919-entry registry** (zero unresolved, **zero null mentions**); and **all 88 glossary anchors are verbatim substrings of their English `.tex`**. Registry integrity: still only the 2 pre-existing exact-duplicate ids (`person:p-rutilius-rufus`, `place:syracusae`); none introduced; registry remains sorted by `(type, id)`. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both are no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–87, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical). The 11 stray `data/_tmp_*.jsonl` scratch files (from an earlier session's mis-staging) are also **still tracked** — `data/_tmp_entities_worker{A..G}.jsonl` and `data/_tmp_notes_{batch1,batch2,batch3,merged}.jsonl`. **Alexander should `git rm` these 11 too**, then re-run `validate.py`. (Session 88 correctly staged to the PM outputs dir, not `data/`.)
+- **`person:l-fabatus` enrichment (= L. Roscius Fabatus):** reviewer to confirm the pr.-49-envoy = Fam-10.33-casualty identification before treating it as settled.
+- **`person:lucretius` is still a bare stub:** the 8.4 Q. Lucretius (the Sulmo holder, probably Q. Lucretius Vespillo) was bound there low-confidence; needs enrichment and a same-man check (carried from session 87).
+- **`person:oppii-velienses` minted as a collective;** reviewer to confirm no merge with the individual Oppii (`person:gaius-oppius`, `person:l-oppius`).
+- **`person:c-sosius` "consul 32 BC" identification is probable, not certain;** reviewer to confirm.
+- **Cruxes left untagged (no junk minted):** L. Valerius Flaccus (cos. suff. 86), the third member of the Cinnan-exemplum triad at 8.3.6 (no clean registry id — NOT bound to `flaccus-defendant`); "your Fabius" at 8.3.7 (genuinely ambiguous); Cassandra at 8.11.3 (no `person:cassandra` entity — captured as a null-id glossary note); Moneta at 8.7.3 (temple/mint left untagged); "mare Superum"/the Upper Sea at 8.16 (not forced to a toponym); "optimates" at 8.16 (generic faction).
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged: heavy Greek throughout book 8; the *De Re Publica* self-quotation at 8.11.1 (a prime crossref to DRP book 5); a suspected tragic-fragment quotation at 8.8.2; the "Iliad of evils" Greek proverb at 8.11.3 (bound to `person:homer`, English surface only); the Dicaearchus/Aristoxenus soul-as-harmony doxography at 8.4; Demetrius of Magnesia's *Peri homonoias* at 8.11.7; and the Parthia/Carrhae allusion at 8.11.7. Per-worker flag files (`_s88_flags_worker{A..D}.md`) in the PM outputs hold the full loci list.
+
+**Suggested next automated batch — continue *Ad Atticum* at book 9** (the **aftermath of Corfinium, Mar 49 BC**: Pompey shut up in Brundisium and his escape across the Adriatic to Greece, Caesar's pursuit and the failed blockade, Caesar's overtures to Cicero, and Cicero's continuing paralysis over whether to follow — Att 9.1–9.19, **19 letters drafted, 0 enriched**). Regenerate the entity index from `data/entities.json` first (now **1919**). The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* books 9–16 (231 of 396 missing); finishing *Ad Atticum* is ~8 more apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 88: apparatus enrichment — entity-mentions + glossary for all 16 Ad Atticum book 8 letters (8.1-8.16; civil war in full flood Feb-Mar 49 BC, the siege of Corfinium and Pompey's evacuation to Brundisium), CLOSING book 8 16/16 on both axes; 573 mentions, 88 glossary notes; 12 new entities (registry 1907->1919: place:corfinium/sulmo/pyrenaei/tibur, person:thrasybulus/aristoxenus/attius-paelignus/c-sosius/oppii-velienses, institution:thirty-tyrants, festival:feralia, text:de-re-publica); key context binds (Domitius@Corfinium->l-domitius-ahenobarbus-cos54, Corfinium prisoner Lentulus->lentulus-spinther vs consul->lentulus-crus, Dionysius tutor->m-pomponius-dionysius, Africanus->scipio-aemilianus, Lepidus Formiae-companion->man-aemilius-lepidus-cos66 vs praetor->lepidus-triumvir); PM corrections: 4 younger-Balbus rows re-pointed to cornelius-balbus-younger, l-fabatus enriched to L. Roscius Fabatus (pr.49 envoy); corfinium triple-mint deduped; pre-existing dups not introduced. THEN (STILL PENDING from sessions 80-87) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) AND the 11 stray data/_tmp_*.jsonl scratch files, then re-run validate.py."` to land. Next session: begin Ad Atticum book 9 (Pompey's escape from Brundisium); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 87 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 87 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, following session 86). Translation remains impossible autonomously: the same 14 pending works still lack usable Latin (the 7 pending letters — *ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8 — are `% PLACEHOLDER`/absent, and the 7 pending philosophy/rhetoric works — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius* — have no fetchable Latin). Per standing guidance, this session opened the *Ad Atticum* book 7 apparatus sweep and **closed book 7 in a single session**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. The chronology pointer is unchanged (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC).
+
+**What this session produced — entity-mentions + glossary sidecars for all 26 drafted *Ad Atticum* book 7 letters (7.1–7.26), CLOSING book 7 on both axes (26/26).** The arc is the **outbreak of the civil war, Dec 50 – mid-Feb 49 BC**: the deadlock of the last weeks of 50 and the "Speak, Marcus Tullius" senatorial debate (7.1–7.3); Cicero's agonised weighing of Pompey against Caesar and the Spanish provinces (7.5, 7.7); the war breaking as he reaches Italy and the Themistocles / abandon-the-city analogy (7.10–7.11); Pompey's retreat through Apulia and the consul Lentulus Crus (7.12); L. Caesar's peace embassy carrying Caesar's terms to Pompey at Teanum (7.13–7.19); and the collapse on the Campanian coast — C. Cassius the Pompeian tribune at Capua, the lost Picenum, Pompey making for Brundisium (7.20–7.26). Totals: **1,154 entity mentions, 129 glossary notes.** Corpus letter-level entity-mention coverage now **621 of 868 drafted** (was 595). **With *Ad Atticum* books 1–7 all complete on the entity-mention axis (20+25+27+21+21+9+26 = 149 of 396), the remaining *Ad Atticum* frontier is books 8–16 — 247 missing.** *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) remain complete; *Ad Atticum* is now the entire remaining letter frontier.
+
+**Method (PM-curated roster + two waves of 3 parallel workers):** the PM wrote a binding canonical-ID roster (`cicero_roster_s87.md` in the PM session outputs), grounded in a programmatic proper-noun extraction from all 26 book-7 parallel sidecars, pre-resolving the civil-war cast, the duplicate-id traps (settled by corpus usage-count), and the context-sensitive binds. **6 workers across two waves of 3** split the letters (7.1–7.2 · 7.3–7.5 · 7.6–7.10 ‖ 7.11–7.14 · 7.15–7.19 · 7.20–7.26). Each tagged both Latin and English surface forms, grepped `data/entities.json` to reuse ids, and staged genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 23 new entities merged; registry 1884 → 1907.** New people: `person:c-fannius-pr49` (the praetor of 49 sent to Sicily — distinct from the historian `c-fannius-historian`), `person:man-aemilius-lepidus-cos66` (Manius Lepidus cos. 66, with Cicero at Formiae — NOT the triumvir, NOT Mamercus), `person:cephalio` (Atticus's courier), `person:veiento` (left in charge of Bibulus's Syria), `person:mamurra` (Caesar's praefectus fabrum, Catullus's target), `person:cn-tremellius-scrofa`, `person:m-livius-drusus-pr-iurist` (the jurist, father of the tribune of 91), `person:caecilius-statius` (the comic poet), `person:nicias-cous` (the grammarian Curtius Nicias), `person:alexio`, `person:l-quinctius-friend49`, `person:livia-testatrix`. New places: `place:campania`, `place:teanum-sidicinum`, `place:cingulum` (Labienus's town), `place:albanum` (Pompey's Alban estate), `place:lavernium`, `place:aeculanum`, `place:pomptina` (the Pomptine Marshes), `place:onchesmus`, `place:thyamis`, `place:sunium`. New text: `text:mercator-terence`. **Grep-first + roster pre-resolution worked:** the recurring traps were all bound to the correct existing ids — Pompey the Great → `person:pompey` (incl. "our Gnaeus"); Caesar → `person:caesar` BUT **L. Caesar the envoy → `person:l-iulius-caesar-son`**; Domitius → `person:l-domitius-ahenobarbus-cos54` (NOT the thin dup); Curio → `person:c-scribonius-curio-tr` (NOT `curius-procos`); Cato → `person:cato-minor`; Labienus → `person:t-labienus`; the Pompeian tribune **C. Cassius (Capua/Formiae) → `person:cassius-longinus`**; the consul → `person:lentulus-crus` BUT the Picene commander at 7.23.1 → `person:p-lentulus-spinther-jr`; Lepidus the praetor → `person:lepidus-triumvir`; Balbus → `person:l-cornelius-balbus`; Egnatius → `person:l-egnatius-rufus`; Piso → `person:l-piso`; Thermus → `person:q-minucius-thermus-pr`; Chrysippus → `person:chrysippus-vettius`.
+
+**PM corrections beyond pure tagging:** during consolidation **43 misplaced null-`entity_id` mentions were removed** from the mention files — Roman calendar terms (Kalends/Nones, which belong on the glossary axis, not as entity mentions), plus the explicitly-untagged names Fabius/Caninius (7.3.3), Luscenius (7.5.3), Postumius (7.15.2), and the Greek "ship of the Atridae" quotation (7.3.5) — and the **2 "publicani/publicans" mentions (7.7.4) were bound to the existing `institution:publicani`** (60 prior corpus uses). The one cross-worker duplicate mint (`person:man-aemilius-lepidus-cos66`, staged by two workers) was merged once, keeping the earlier `first_appearance` (7.12).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–86 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block; **no new warnings** from the 52 new sidecars or 23 new entities). Independent PM verification confirmed all 26 letters carry **both** sidecars (26/26), each with `schema_version: 1` and the correct bare in-file `id`; **all 1,154 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1907-entry registry** (zero unresolved, **zero null mentions**); and **all 129 glossary anchors are verbatim substrings of their English `.tex`** (62 glossary notes legitimately carry `entity_id: null` per schema). Registry integrity: still only the 2 pre-existing exact-duplicate ids (`person:p-rutilius-rufus`, `place:syracusae`); none introduced; registry remains sorted by `(type, id)`. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both are no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–86, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical), then re-run `validate.py`.
+- **NEW cleanup this session: 11 stray scratch staging files are tracked under `data/`** from an earlier session's mis-staging — `data/_tmp_entities_worker{A,B,C,D,E,F,G}.jsonl` and `data/_tmp_notes_{batch1,batch2,batch3,merged}.jsonl`. (Session 87 correctly staged to the PM outputs dir instead.) **Alexander should `git rm` these 11 `data/_tmp_*.jsonl` files during handoff.**
+- **Pre-existing registry duplicates bound this session to the more-used id (NOT introduced — a single merge pass should adjudicate):** `person:l-domitius-ahenobarbus` (6 uses) vs `person:l-domitius-ahenobarbus-cos54` (58, used); `person:egnatius-l` (2) vs `person:l-egnatius-rufus` (18, used); `person:piso-caesoninus` (11) vs `person:l-piso` (16, used); `person:q-minucius-thermus` vs `person:q-minucius-thermus-pr` (used).
+- **`person:mamurra` (new) vs `person:itfius-corrupt`** (which carries the alias "Mamurra (conj.)" from the Fam 7.5 textual crux): minted as distinct (the real praefectus fabrum); a reviewer should confirm they are not the same.
+- **`person:lucretius` is a bare stub:** the 7.24/7.25 Lucretius (friend of Cassius, probably Q. Lucretius Vespillo) was bound there low-confidence; needs enrichment and a same-man check.
+- **`person:caelius-defendant`** (= M. Caelius Rufus, used at 7.17.3 / 7.21.3) has an awkward slug; re-slug candidate (pre-existing).
+- **Cruxes left untagged (no junk minted):** "Gaius Cassius" among Caesar's tribunes @7.3.5 (bound by surface form to `person:cassius-longinus`, flagged — the strict Caesarian tribune was Q. Cassius); the Cassius driven from Ancona @7.18.2 (→ `person:q-cassius-longinus-spain`, low); Postumius @7.15.2, Fabius & Caninius @7.3.3, Luscenius @7.5.3 (no clean registry entries); the Oppii of Velia @7.13.4.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged for the later passes: heavy Greek throughout book 7; suspected Homeric allusions *Iliad* 22.99–100 (7.1.4), 6.442 (7.12.3), 18.309 ξυνὸς Ἐνυάλιος (7.8.4); "Where is the ship of the Atridae?" (7.3.5); the Phalaris-tyranny tag (7.11–7.12); "in the manner of Sestius" (7.17.2); the pseudo-Hesiodic tag (7.18.4); and the Themistocles / Pericles / Gallic-sack material (7.11). Per-worker flag files (`_flags_worker{A..F}.md`) in the PM outputs hold the full loci list.
+
+**Suggested next automated batch — continue *Ad Atticum* at book 8** (the **civil war in full flood, Feb–Mar 49 BC**: the siege and surrender of Corfinium, Domitius's capture and Caesar's clemency, Pompey's evacuation to Brundisium and crossing to Greece, and Cicero's torment over whether to follow — Att 8.1–8.16, **16 letters drafted, 0 enriched**). Regenerate the entity index from `data/entities.json` first (now **1907**). The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* books 8–16 (247 of 396 missing); finishing *Ad Atticum* is ~8 more apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 87: apparatus enrichment — entity-mentions + glossary for all 26 Ad Atticum book 7 letters (7.1-7.26; civil-war outbreak Dec 50 - mid-Feb 49 BC), CLOSING book 7 26/26 on both axes; 1154 mentions, 129 glossary notes; 23 new entities (registry 1884->1907: person:c-fannius-pr49/man-aemilius-lepidus-cos66/cephalio/veiento/mamurra/cn-tremellius-scrofa/m-livius-drusus-pr-iurist/caecilius-statius/nicias-cous/alexio/l-quinctius-friend49/livia-testatrix, place:campania/teanum-sidicinum/cingulum/albanum/lavernium/aeculanum/pomptina/onchesmus/thyamis/sunium, text:mercator-terence); key context binds (L.Caesar envoy->l-iulius-caesar-son, C.Cassius tribune->cassius-longinus, Domitius->l-domitius-ahenobarbus-cos54, Lentulus consul->lentulus-crus vs Picene->p-lentulus-spinther-jr); 43 misplaced null-id mentions removed, 2 publicani bound to institution:publicani, lepidus-cos66 dup-mint merged; pre-existing dups flagged not introduced. THEN (STILL PENDING from sessions 80-86) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) AND the 11 stray data/_tmp_*.jsonl scratch files, then re-run validate.py."` to land. Next session: begin Ad Atticum book 8 (Corfinium / Pompey's evacuation); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 86 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 86 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, following session 85). Translation remains impossible autonomously: the same 14 pending works still lack usable Latin (the 7 pending letters — *ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8 — are `% PLACEHOLDER`/absent, and the 7 pending philosophy/rhetoric works — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius* — have no fetchable Latin). Per standing guidance, this session opened the *Ad Atticum* book 6 apparatus sweep and **closed book 6 in a single session**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. The chronology pointer is unchanged (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC).
+
+**What this session produced — entity-mentions + glossary sidecars for all 9 drafted *Ad Atticum* book 6 letters (6.1–6.9), CLOSING book 6 on both axes (9/9).** The arc is the **50 BC close of the Cilician proconsulship and the homeward journey**: the long 6.1 answering Atticus point by point (the Appius handover, the Brutus/Scaptius/Salamis usury at 48% vs Cicero's 12% edict, the Ariobarzanes debt to Pompey, the prefectures refused to businessmen, the Vedius/Vindullus scandal at Laodicea, Cn. Flavius and the legal calendar, Scipio Aemilianus as the *De Re Publica* speaker); the provinces-decree politics and Curio's tribunate (6.2–6.3); the handover of the province to the quaestor Coelius Caldus (6.4, 6.6); and the homeward voyage as the Caesar–Pompey crisis breaks (6.7–6.9 — the consul-designate Lentulus Crus and the tribune Q. Cassius at 6.8, Caesar reaching Placentia with four legions at 6.9). Totals: **821 entity mentions, 66 glossary notes.** Corpus letter-level entity-mention coverage now **595 of 868 drafted** (was 586). **With *Ad Atticum* books 1–6 all complete on the entity-mention axis (20+25+27+21+21+9 = 123 of 396), the remaining *Ad Atticum* frontier is books 7–16 — 273 missing.** *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) remain complete.
+
+**Method (PM-curated roster + 3 parallel workers):** the PM wrote a binding canonical-ID roster (`cicero_roster_s86.md` in the PM session outputs) pre-resolving the proconsular cast and the duplicate-id traps, grounded in a programmatic proper-noun extraction from all 9 book-6 parallel sidecars. **3 workers** split the letters (6.1 alone — the 24-section giant · 6.2–6.4 · 6.5–6.9). Each tagged both Latin and English surface forms, grepped `data/entities.json` to reuse ids, and staged genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 13 new entities merged; registry 1871 → 1884.** New people: `person:cn-flavius-scriba` (the scribe/aedile of 304 BC who published the legal calendar, the *ius Flavianum*), `person:l-gavius-bruti` (L. Gavius, Brutus's insolent agent), `person:sex-statius` (Pompey's prefecture candidate, refused), `person:p-vedius` (the Laodicea rascal with the baboon and the compromising portraits), `person:pompeius-vindullus`, `person:alcibiades`, `person:q-hortensius-filius` (the dissolute son of the orator). New places: `place:equus-tuticus`, `place:aedes-opis`, `place:eleusis`, `place:nemus-dianae`. New festival/event: `festival:terminalia`, `event:battle-of-leuctra`. **Grep-first discipline + roster pre-resolution worked:** the recurring traps were all bound to the correct existing ids — Brutus the correspondent → `person:brutus` (NOT `l-iunius-brutus`), Appius → `person:appius-claudius-pulcher`, Cassius the Syria proquaestor → `person:cassius-longinus` BUT the tribune Cassius (6.8) → `person:q-cassius-longinus-spain`, Cato → `person:cato-minor` (NOT the son `m-porcius-cato-filius`), Curio → `person:c-scribonius-curio-tr` (NOT `curius-procos`), Paulus cos. 50 → `person:l-aemilius-paulus-cos50` (NOT `macedonicus`), Africanus the *De Re Publica* speaker → `person:scipio-aemilianus` (NOT the elder `maior`), Scaevola the jurist/proconsul → `person:q-mucius-scaevola-pontifex`, the consul-designate Lentulus → `person:lentulus-crus` vs the young Spinther → `person:p-lentulus-spinther-jr`, M. Servilius the defendant → `person:m-servilius-defendant`, Coelius the quaestor → `person:c-coelius-caldus-q50`, Mescinius → `person:l-mescinius`.
+
+**One PM correction beyond pure tagging:** a worker mis-slugged Sex. Statius as `person:sex-statius-bruti` (the `-bruti` suffix copy-pasted from L. Gavius); the id was corrected to `person:sex-statius` in both the staged entity and the two 6.1 mentions before merge. Two stray `place:laodicea` mentions in 6.7 were normalized to the more-used `place:laodicea-asia`.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–85 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block; **no new warnings** from the 18 new sidecars or 13 new entities). Independent PM verification confirmed all 9 letters carry **both** sidecars (9/9), each with `schema_version: 1` and the correct bare in-file `id`; **all 821 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1884-entry registry** (zero unresolved, **zero null mentions**); and **all 66 glossary anchors are verbatim substrings of their English `.tex`**. Registry integrity: still only the 2 pre-existing exact-duplicate ids (`person:p-rutilius-rufus`, `place:syracusae`); none introduced; registry remains sorted by `(type, id)`. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both are no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–85, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical), then re-run `validate.py`.
+- **New registry duplicates flagged this session (NOT introduced — pre-existing splits a single registry-merge cleanup pass should adjudicate):** `place:laodicea` / `place:laodicea-asia` (both Laodicea ad Lycum, Cicero's assize seat; the corpus uses both — 26 vs 44 mentions — normalize to one); `person:scaevola-asia` (thin) vs `person:q-mucius-scaevola-pontifex`; `person:l-aemilius-paulus-cos50` (30 uses) vs `person:l-aemilius-paullus-cos50` (2 uses, "Paullus" spelling); `person:m-cicero-the-younger` vs `person:marcus-cicero-younger`; `person:q-cicero-the-younger` vs `person:q-cicero-younger`.
+- **`person:q-cassius-longinus-spain` summary too narrow:** scoped only to the 48–47 BC Spanish governorship (and warns against confusion with the tyrannicide); should be broadened to note he was tribune of the plebs in 49 BC (the 6.8.2 mention is the same man).
+- **Low-confidence bind:** Glabrio (6.1.4 "as Scaevola did in place of Glabrio") bound to `person:m-glabrio` by praenomen; a prosopographer should confirm against `person:m-acilius-glabrio-procos-sicily`.
+- **No `text:de-re-publica` entity yet:** 6.1.8 ("of Africanus, for it is he who speaks") is an explicit self-reference to Cicero's *De Re Publica*; worth minting a `text:` entity and a crossref in a later pass.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged: heavy Greek throughout 6.1–6.9; Homer *Iliad* 6.236 (χρύσεα χαλκείων, 6.1.1); the Catalogue of Ships (6.2.3); Ennius (6.2.8); apparent epic/proverbial verse tags at 6.3.1 and 6.5.2; Cicero's running self-reference to *De Re Publica* (6.1.8); and the coded-Greek finance passages (6.4.2, 6.5.1–2).
+- **Flag-not-merge cruxes skipped this session (no junk minted):** the literary-catalogue names of 6.1.18 (Eupolis, Duris of Samos, Zaleucus, Timaeus); Polycles the sculptor (6.1.17); Scrofa·Phemius·Moeragenes·Turpio·Vettius (6.1.13–14); Granius (6.3.7); Spartacus (6.2.8); the Peloponnesian micro-toponyms Lepreon/Tenea/Aliphera/Tritia/Phlius (6.2.3); Batonius and L. Tarquitius (6.8); and the enciphered names of 6.5.2.
+
+**Suggested next automated batch — continue *Ad Atticum* at book 7** (the **late-50 / early-49 BC outbreak of civil war**: the return to Italy, the Rubicon, and Cicero's agonized correspondence as he weighs Pompey against Caesar — Att 7.1–7.26, **26 letters drafted, 0 enriched**). Regenerate the entity index from `data/entities.json` first (now **1884**). The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* books 7–16 (273 of 396 missing); finishing *Ad Atticum* is ~9 more apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 86: apparatus enrichment — entity-mentions + glossary for all 9 Ad Atticum book 6 letters (6.1-6.9; 50 BC end of Cilician proconsulship + homeward journey), CLOSING book 6 9/9 on both axes; 821 mentions, 66 glossary notes; 13 new entities (registry 1871->1884: person:cn-flavius-scriba/l-gavius-bruti/sex-statius/p-vedius/pompeius-vindullus/alcibiades/q-hortensius-filius, place:equus-tuticus/aedes-opis/eleusis/nemus-dianae, festival:terminalia, event:battle-of-leuctra); recurring traps bound to correct existing ids (brutus, appius-claudius-pulcher, cassius-longinus vs q-cassius-longinus-spain@6.8, cato-minor not -filius, c-scribonius-curio-tr not curius-procos, l-aemilius-paulus-cos50 not macedonicus, scipio-aemilianus@DeRePublica not maior, q-mucius-scaevola-pontifex, lentulus-crus, c-coelius-caldus-q50); sex-statius slug-fix and 6.7 laodicea->laodicea-asia normalization applied; pre-existing dups flagged not introduced. THEN (STILL PENDING from sessions 80-85) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) and re-run validate.py."` to land. Next session: begin Ad Atticum book 7 (civil-war-outbreak letters); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 85 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 85 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 84). Translation remains impossible autonomously: the same 14 pending works still lack usable Latin (the 7 pending letters — *ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8 — are `% PLACEHOLDER`/absent, and the 7 pending philosophy/rhetoric works — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius* — have no fetchable Latin). Per standing guidance, this session opened the *Ad Atticum* book 5 apparatus sweep and **closed book 5 in a single session**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. The chronology pointer is unchanged (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC).
+
+**What this session produced — entity-mentions + glossary sidecars for all 21 drafted *Ad Atticum* book 5 letters (5.1–5.21), CLOSING book 5 on both axes (21/21).** The arc is the **51–50 BC Cilician proconsulship**: the departure from Italy and Tullia's marriage negotiations (5.1–5.4); the crossing via Brundisium and the Milo finances (5.5–5.9, `person:fausta-cornelia`, `person:duronius`); Athens and the Patro/Epicurus-house affair, Memmius, the Comum flogging by Marcellus, and the Aegean crossing to Ephesus (5.10–5.13, `person:aristus-academicus`, `person:xeno-epicurean`, `place:comum`, `place:gyaros`/`ceos`/`syros`); the journey up-country and the burden of the ruined province under the *lex Julia* (5.14–5.17, `place:laodicea`); the Parthian invasion of Cyrrhestice and the Amanus campaign with the storming of Pindenissus during the Saturnalia (5.18–5.20, `place:cyrrhestica`, `place:pindenissus`, `person:osaces`, `festival:saturnalia`, `god:momus`); and the great Brutus–Scaptius–Salamis usury letter (5.21, `place:salamis-cyprus`, `person:l-matinius`, `law:lex-gabinia`). Totals: **986 entity mentions, 103 glossary notes.** Corpus letter-level entity-mention coverage now **586 of 868 drafted** (was 565; raw file count 593 incl. 7 stale bare-id Fam-13 dups). **With *Ad Atticum* books 1–5 all complete on the entity-mention axis (20+25+27+21+21 = 114 of 396), the remaining *Ad Atticum* frontier is books 6–16 — 282 missing.** *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) remain complete.
+
+**Method (PM-curated roster + two waves of parallel workers):** the PM wrote a binding canonical-ID roster (`cicero_roster_s85.md` in the PM session outputs) pre-resolving the proconsular cast, the duplicate-id binds, and the new-entity slugs, grounded in a programmatic proper-noun extraction from all 21 parallel sidecars. **6 workers across two waves of 3** split the letters (5.1–5.4 · 5.5–5.9 · 5.10–5.13 ‖ 5.14–5.17 · 5.18–5.20 · 5.21). Each tagged both Latin and English surface forms, grepped `data/entities.json` to reuse ids, and staged genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 28 new entities merged; registry 1843 → 1871.** New people: `person:l-marcius-philippus-cos56` (the living Philippus, cos. 56 — NOT the cos.-91 `l-marcius-philippus`), `person:osaces`, `person:l-matinius`, `person:fausta-cornelia`, `person:xeno-epicurean`, `person:aristus-academicus`, `person:duronius`, `person:nicanor-servus`, `person:alexis-servus`, `person:philogenes`, `person:asinius-dento`, `person:pontidia`. New places: `place:laodicea`, `place:pindenissus`, `place:salamis-cyprus`, `place:comum`, `place:cyrrhestica`, `place:colossae`, `place:gyaros`, `place:ceos`, `place:syros`, `place:bovillae`, `place:aetolia`, `place:sybota`, `place:melite-deme`. New god/festival/law: `god:momus`, `festival:saturnalia`, `law:lex-gabinia`. **Grep-first discipline + roster pre-resolution worked:** the recurring traps were all bound to existing ids — Caelius the correspondent → `person:caelius-defendant`, Cassius (Syria) → `person:cassius-longinus`, Bibulus → `person:m-calpurnius-bibulus`, Thermus (gov. Asia) → `person:q-minucius-thermus-pr` (not the 65 BC candidate), Volusius → `person:volusius-fam-05-20`, Lentulus Spinther cos. 57 → `person:lentulus-spinther` (the 74-use canonical, not the dup `p-lentulus-spinther`), the L. Tullius legate → `person:l-tullius-legatus` (not the cousin/scriba), and the 5.17.5 Scaevola correctly read as the Pontifex (cos. 95) not Appius's quaestor.
+
+**Two PM corrections beyond pure tagging:** (1) the *lex Gabinia* is explicitly named in 5.21.12, so it was minted (`law:lex-gabinia`) and given lat+eng mentions plus a linked glossary note rather than left as an `entity_id:null` note; (2) the "ruins at Melita" of 5.19.3 are the Athenian deme **Melite** (the Epicurus-house affair), not the island Malta, so the two mentions were rebound from `place:melita` to the new `place:melite-deme`.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–84 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block; **no new warnings** from the 42 new sidecars or 28 new entities). Independent PM verification confirmed all 21 letters carry **both** sidecars (21/21), each with `schema_version: 1` and the correct bare in-file `id`; **all 986 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1871-entry registry** (zero unresolved, **zero null mentions**); and **all 103 glossary anchors are verbatim substrings of their English `.tex`**. Registry integrity: still only the 2 pre-existing exact-duplicate ids (`person:p-rutilius-rufus`, `place:syracusae`); none introduced; registry remains sorted by `(type, id)`. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both are no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–84, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). They inflate the letter-sidecar file count to 593 (real coverage 586). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical), then re-run `validate.py`.
+- **Q. Cassius (Att 5.20.8 vs 5.21.2):** the 5.20 worker bound "Q. Cassius" → `person:q-cassius-longinus-spain` (the only Q. Cassius in the registry); the 5.21.2 "your intimate Q. Cassius" was left untagged as a conservative skip (that registry entry is scoped to the 48–47 BC Spanish governorship and warns against confusion). They are the same man (Q. Cassius Longinus, tr. pl. 49); a prosopographer may wish to broaden that entry's summary and add the 5.21.2 mention.
+- **Flag-not-merge cruxes skipped this session (no junk minted):** the Trebula host "Pontius" (5.2–5.4); "Annius Saturninus" + the Mennian/Atilian predia (5.1); "Oppius" (5.1/5.4); "Servilia"·"Funisulanus"·"Maso"·"Ligus"·"Scrofa"·"Sicinius" (5.4); "P. Licinius" (5.3); "Rufio" (5.2); "Polycharmus"/"Ister" (5.11); "Zoster"/"Gyrae"/"Thallumetus"/"Helonius" (5.12); "Cestius"/"Seius" (5.13); "A. Plotius"/"Moeragenes"/"C. Andronicus" (5.15); "Araus" (5.9); the casualty names "Sex. Lucilius"/"T. Gavius Caepio" and "Pammenes"/"Phemio"/"Laenius's slaves"/"Plaetorian" (5.20); "M. Octavius"/"Q. Titinius"/"Postumius"/"Hermon"/"Phemius" and the Eleusinian "Mysteries" (5.21); plus bare ethnonyms (Parthians, Greeks, Sicilians, Eleutherocilicians) and the "Gates of the Taurus" descriptor.
+- **Pre-existing registry duplicates carried (NOT introduced):** the `lentulus-spinther` / `p-lentulus-spinther` pair (used `lentulus-spinther`); plus the exact-id dups `person:p-rutilius-rufus`, `place:syracusae` and the cross-id backlog from sessions 79–84. A single registry-merge cleanup pass should adjudicate all of these (and could rename the awkward-but-correct `person:volusius-fam-05-20`).
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged: the heavy Greek in 5.10–5.12 and 5.20–5.21; the Homeric "rocks of Gyrae" tag (5.12); Cicero's running self-reference to *De Republica* (5.12, 5.13); and the Alexander-at-Issus comparison (5.20).
+
+**Suggested next automated batch — continue *Ad Atticum* at book 6** (the **50 BC close of the Cilician proconsulship and the return journey**, Att 6.1–6.9 — the long 6.1 answering Atticus point by point, the continuing Brutus/Scaptius/Salamis business and the Ariobarzanes debt, the handover to the quaestor Coelius Caldus, the homeward voyage through the islands as the civil war looms; **9 letters drafted, 0 enriched**). Regenerate the entity index from `data/entities.json` first (now **1871**). The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* books 6–16 (282 of 396 missing); finishing *Ad Atticum* is ~9 more apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 85: apparatus enrichment — entity-mentions + glossary for all 21 Ad Atticum book 5 letters (5.1-5.21; 51-50 BC Cilician proconsulship), CLOSING book 5 21/21 on both axes; 986 mentions, 103 glossary notes; 28 new entities (registry 1843->1871: person:l-marcius-philippus-cos56/osaces/l-matinius/fausta-cornelia/xeno-epicurean/aristus-academicus/duronius/nicanor-servus/alexis-servus/philogenes/asinius-dento/pontidia, place:laodicea/pindenissus/salamis-cyprus/comum/cyrrhestica/colossae/gyaros/ceos/syros/bovillae/aetolia/sybota/melite-deme, god:momus, festival:saturnalia, law:lex-gabinia); recurring traps bound to existing ids (caelius-defendant, cassius-longinus, m-calpurnius-bibulus, q-minucius-thermus-pr, volusius-fam-05-20, lentulus-spinther, l-tullius-legatus, q-mucius-scaevola-pontifex@5.17.5); lex-gabinia minted+linked from 5.21.12; Melita->melite-deme rebind in 5.19.3; pre-existing dups carried not introduced. THEN (STILL PENDING from sessions 80-84) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) and re-run validate.py."` to land. Next session: begin Ad Atticum book 6 (50 BC end-of-proconsulship + return letters); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 84 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 84 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 83). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs / absent (those letter numbers do not exist in Perseus's TEI), and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have no fetchable Latin. Per standing guidance, this session continued the *Ad Atticum* apparatus sweep, **closing book 4**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — entity-mentions + glossary sidecars for the 15 remaining drafted *Ad Atticum* book 4 letters (4.1–4.8a and 4.15–4.19; 4.9–4.14 were already enriched), CLOSING book 4 on both axes (now 21/21).** The arc is the **post-return correspondence of 57–54 BC**. **The return and the house (4.1–4.3, Sept–Nov 57):** the great congratulation-to-Atticus letter on the recall, the recovery of standing in Forum and Senate, the College of Pontiffs' ruling on the razed Palatine house and the shrine of Liberty Clodius had raised on its site (`god:libertas`), and the November Clodian gang violence on the Sacra Via and the Cermalus (`place:sacra-via`, `place:cermalus`, `place:porta-capena`), Milo's counter-violence, Tettius Damio (`person:tettius-damio`). **The 56 BC accommodation (4.4–4.8a):** Tyrannio arranging the library, Tullia's betrothal to Furius Crassipes, the "palinode" and Cicero's deference to the renewed coalition after Luca, the dead flamen Lentulus Niger (`person:l-cornelius-lentulus-niger`), the lex Trebonia debated through Trebonius's conduct, Domitius obstructed in his consular run (`person:l-domitius-ahenobarbus-cos54`). **The 54 BC year (4.15–4.19):** the trials (Scaurus, Drusus, Vatinius defended under coalition pressure, Gabinius), the Reate water-dispute Cicero arbitrated before the consul (the Velinus drainage via the Nar — `place:reate`, `place:nar-river`, `place:lacus-velinus`, `place:septem-aquae`, the Reatine "Tempe"), Messius's and Sufenas's and **C. Cato the tribune's** acquittals (`person:c-porcius-cato-tr56`, kept distinct from the Stoic `person:cato-minor`), the games and the actors Antiphon and Arbuscula (`person:antiphon-actor`, `person:arbuscula-mima`), the consular-bribery scandal and the candidates' pact (Memmius, Domitius Calvinus, Messalla), and — at 4.16 — Cicero's running description of *De Republica* with its full dramatis personae (Scipio Aemilianus, Laelius, Philus, Manilius, Q. Tubero, P. Rutilius Rufus, Sp. Mummius, C. Fannius, Q. Mucius Scaevola the augur) framed against Plato's *Republic* and its interlocutor Cephalus (`person:cephalus-platonicus`, `text:plato-respublica`); Caesar's Britain/Gaul news closes the book (4.19). Totals: **726 entity mentions, 161 glossary notes.** Corpus letter-level entity-mention coverage now **565 of 868 drafted** (was 550 at session-83 end; raw file count 572 incl. 7 stale Fam-13 dups). **With *Ad Atticum* books 1–4 all complete on the entity-mention axis (20+25+27+21 = 93 of 396), the remaining *Ad Atticum* frontier is books 5–16 — 303 missing.** *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) remain complete.
+
+**Method (PM-curated roster + 4 parallel workers in one wave):** the PM wrote a binding canonical-ID roster (`cicero_roster_s84.md` in the PM session outputs) pre-resolving the post-return cast, the Cato trap, the *De Republica* dramatis personae, the duplicate-ID binds, and the new-entity slugs. **4 workers** split the 15 letters (4.1/4.2/4.3 · 4.4/4.4a/4.5/4.6/4.7 · 4.8/4.8a/4.15 · 4.16/4.17/4.18/4.19). Each tagged both Latin and English surface forms (reading the parallel sidecar's `lat`+`eng` per section plus the English `.tex`), grepped `data/entities.json` to reuse ids, and staged genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 32 new entities merged; registry 1811 → 1843.** New people: `person:c-messius-tr57`, `person:m-nonius-sufenas`, `person:antiphon-actor`, `person:arbuscula-mima`, `person:astyanax-actor`, `person:tettius-damio`, `person:cornicinus`, `person:decimius-designator`, `person:q-flaccus-milonian`, `person:l-cornelius-lentulus-niger`, `person:philoxenus-poeta`, `person:apollonius-debtor`, `person:eutychides-libertus`, `person:pituanius`, `person:mn-curius-dentatus`, `person:menophilus-libertus`, `person:pinarius-natta`, `person:cephalus-platonicus`. New places: `place:reate`, `place:nar-river`, `place:lacus-velinus`, `place:septem-aquae`, `place:tempe`, `place:porta-capena`, `place:cermalus`, `place:sacra-via`, `place:templum-salutis`, `place:villa-publica`. New law/god/text: `law:lex-trebonia`, `god:libertas`, `text:plato-respublica`, `text:andromacha`. **Grep-first discipline worked:** `person:c-messius-tr57` was staged independently by two workers and deduped to one (earliest first_appearance kept); the *De Republica* dramatis personae were all bound to existing ids rather than minted; the Cato trap was resolved correctly in both directions; `person:p-crassus-iunior`, `person:m-pomponius-dionysius` (the tutor, not the tyrant), `person:crassipes`, and `person:vatinius-tribune` were all reused, not re-minted.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–83 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, `054bc-ad-familiares-13-49.tex`, `043bc-ad-familiares-11-28.tex` — plus the chronological-gap block; **no new warnings from the 30 new sidecars**). Independent PM verification confirmed all 15 letters carry **both** sidecars (15/15; book 4 now 21/21), each carries `schema_version: 1` and the correct bare in-file `id`, **all 726 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1843-entry registry** (zero unresolved, **zero null mentions**), and **all 161 glossary anchors are verbatim substrings of their English `.tex`**. Registry integrity re-checked: only the 2 pre-existing exact-duplicate ids remain (`person:p-rutilius-rufus`, `place:syracusae`); **none introduced**. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both would be no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–83, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). They inflate the letter-sidecar file count to 572 (real coverage 565). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical), then re-run `validate.py`.
+- **`law:lex-trebonia` minted but not yet carried by a surface-form mention** — the 55 BC provincial law recurs in book 4 prose (4.8a, and the 4.9 glossary note), but its surface form in those letters is the man "Trebonius" (bound to `person:c-trebonius`). The law entry is complete and forward-looking (it will be referenced when a later letter names the law); harmless, not a stub.
+- **Flag-not-merge cruxes for a prosopographer (resolved conservatively this session):** "Catulus" of 4.5 bound to `person:q-lutatius-catulus-pater` (cos. 78) by the worker — but the Palatine portico-of-Catulus property is conventionally the cos.-102 Catulus; revisit. The Palatine **place** `place:porticus-catuli` was reused, distinct from the person. "Gellius" (4.3) bound to `person:l-gellius-publicola-younger` (the wild Clodian-era profligate, not the cos.-72 censor). "Cincius" → `person:cincius-agent` (over the dup `person:cincius`); "Chaerippus" → `person:chaerippus` (over `chaerippus-q-staff`); "Drusus" (4.15.9) → `person:m-livius-drusus-claudianus`; "Servilius" (4.15/4.17) → `person:servilius-praetor-54`; "the boy Cicero" (4.7.3) → `person:q-cicero-younger`. Names **skipped** (no clean id, identity unclear — no junk minted): the "praetor Clodius" of 4.15.2, Fonteius (4.15.6), the obscure Vettius/Terentius creditors of 4.5/4.7, Fabius Luscus / Gavius the Firmian / Apenas (4.8a), and the 4.16–4.18 jury/defendant ciphers (Opimius, Veiento, Rantius, Antius, Aurelianus, M. Paccius, Antiochus Gabinius, Sopolis, and a 54 BC ambitus "M. Fulvius Nobilior" distinct from the cos.-189 Ennius patron).
+- **Pre-existing registry duplicates carried (NOT introduced):** the Catulus cluster (`q-lutatius-catulus-cos78` / `q-lutatius-catulus-pater` are both "cos. 78"); the young-Marcus pair (`m-cicero-the-younger` / `marcus-cicero-younger`, used `m-cicero-the-younger`); the young-Quintus pair (`q-cicero-younger` / `q-cicero-the-younger`, used `q-cicero-younger`); the Domitius pair (`l-domitius-ahenobarbus` / `-cos54`, used `-cos54`); `gabinius` / `a-gabinius` (used `gabinius`); the Cincius and Chaerippus dups noted above; plus the exact-id dups `person:p-rutilius-rufus`, `place:syracusae` and the session-79–83 cross-id backlog. A single registry-merge cleanup pass should adjudicate all of these.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged: the Greek tags in the exile/return letters; the "by Demeter / no fig so like a fig" proverb (4.8a); the Andromacha tragic quotation (4.15, modelled as `text:andromacha`); and above all Cicero's own *De Republica* and *De Oratore* throughout 4.16 (self-references — better expressed as crossrefs in the deferred pass; glossed with `entity_id: null` this session).
+
+**Suggested next automated batch — continue *Ad Atticum* at book 5** (the **51–50 BC Cilician proconsulship correspondence**, Att 5.1–5.21 — the journey east, the governorship of Cilicia, the Parthian alarm and the campaign on Mount Amanus, the running anxiety about the succession and about events at Rome; **21 letters drafted, 0 enriched**). The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* books 5–16 (303 of 396 missing). Regenerate the entity index from `data/entities.json` first (now **1843**). Finishing *Ad Atticum* is ~10 more apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 84: apparatus enrichment — entity-mentions + glossary for the 15 remaining Ad Atticum book 4 letters (4.1-4.8a, 4.15-4.19; 57-54 BC post-return correspondence), CLOSING book 4 21/21 on both axes; 726 mentions, 161 glossary notes; 32 new entities (registry 1811->1843: the house-restitution/violence cast incl. god:libertas + place:sacra-via/cermalus/porta-capena/templum-salutis + person:tettius-damio/c-messius-tr57/cornicinus, the 56 BC world incl. person:l-cornelius-lentulus-niger/philoxenus-poeta/apollonius-debtor + law:lex-trebonia, the 54 BC trials/elections/De-Republica incl. person:m-nonius-sufenas/antiphon-actor/arbuscula-mima/astyanax-actor/pituanius/mn-curius-dentatus/menophilus-libertus/pinarius-natta/cephalus-platonicus + text:plato-respublica/andromacha + the Reate-dispute places reate/nar-river/lacus-velinus/septem-aquae/tempe + place:villa-publica); Cato trap resolved (c-porcius-cato-tr56 the tribune vs cato-minor the Stoic); De Republica dramatis personae all reused not minted; c-messius-tr57 deduped across two workers; pre-existing dups carried not introduced (Catulus cos78/pater, the young-Marcus/young-Quintus/Domitius pairs, gabinius/a-gabinius). THEN (STILL PENDING from sessions 80-83) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) and re-run validate.py."` to land. Next session: begin Ad Atticum book 5 (51-50 BC Cilician proconsulship letters); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 83 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 83 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 82). Translation remains impossible autonomously: the 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs (those letter numbers do not exist in Perseus's TEI), and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have **no Latin file at all**. Per standing guidance, this session continued the *Ad Atticum* apparatus sweep, closing **book 3** (the 58–57 BC exile correspondence).
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — entity-mentions + glossary sidecars for the 26 drafted book-3 letters that lacked them (3.1–3.14, 3.16–3.27; 3.15 was already enriched), CLOSING book 3 on both axes (now 27/27).** The arc is the **exile correspondence of 58–57 BC**. **The flight from Italy (3.1–3.6):** Cicero begs Atticus to overtake him as he goes south, the route's staging-posts (`place:nares-lucanae`, `place:thurii`, `place:vibo-valentia`, `place:tarentum`, `place:brundisium`), the host Sicca and the Catilinarian exile Autronius (`person:p-autronius-paetus`) whose presence in Greece menaces the crossing. **Brundisium and the despair letter (3.7):** Atticus's invitation to Epirus declined, Cicero kept from suicide only by Atticus, the road through `place:candavia`. **Thessalonica, in the household of the quaestor Cn. Plancius (3.8–3.21):** the Tigranes-the-Younger bribery scandal (`person:tigranes-the-younger`, the Armenian prince Clodius freed — kept distinct from the king `person:tigranes-armenia`), the agent Caecilius Tryphon (`person:caecilius-tryphon`), the courier Phaethon (reused `person:phaethon-courier`), Pompey/Hortensius/Varro/Hypsaeus (`person:p-plautius-hypsaeus`) and the route via `place:ephesus`/`place:athenae`/`place:ilium`/`place:pella`; the daily grief, brother Quintus arriving from Asia and Cicero refusing from shame to see him; Quintus's legal exposure and the 3.17 prosecution cast (`person:appius-claudius-pulcher` presiding over the *quaestio*, the freedman `person:l-livineius-trypho` of `person:l-regulus`, the new uncertain `person:c-clodius-filius`); Curio's senatorial recall speech (the elder, `person:c-curio-cos`, cos. 76); the uncle `person:q-caecilius-atticus-uncle` and Atticus's testamentary adoption (the 3.20 heading "Q. Caecilius … Pomponianus Atticus"); Sestius (`person:sestius-tribune`) and the recall agitation. **Dyrrachium (3.22–3.24):** Plancius keeping Cicero by him, the goodwill of the cos.-57 champions Lentulus Spinther (`person:lentulus-spinther`) and Metellus Nepos (`person:metellus-nepos`), and the great legal letter **3.23** — the recall bill's three clauses, Clodius's self-protective *sanctio*, the eight tribunes (tagged collectively `office:tribune`; only `person:l-ninnius-quadratus` named individually), the rival drafts of `person:visellius-varro` (Cicero's jurist cousin) for T. Fadius (`person:t-fadius`) versus Sestius's, and Crassus (`person:crassus`)/Pompey weighed for hope. **The first early-57 letters (3.26, 3.27)** close the book on the cusp of recall. Totals: **387 entity mentions, 138 glossary notes.** Corpus letter-level entity-mention coverage now **550 of 868 drafted** (was 524 at session-82 end). With *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), *Ad Brutum* (23/23), and *Ad Atticum* books 1–3 all complete, **the remaining letter frontier is *Ad Atticum*, now 78 / 396 — 318 missing** (book 4 already has 6 scattered letters covered; books 4–16 are the work that remains).
+
+**Method (PM-curated roster + 6 parallel workers in one wave):** the PM wrote a binding canonical-ID roster (`cicero_roster_s83.md` in the PM session outputs) pre-resolving the recurring exile cast, the duplicate-ID bind choices, the identity traps, and the new-entity slugs. **6 workers** split the 26 letters (3.1–3.5 · 3.6–3.8 · 3.9–3.12 · 3.13/3.14/3.16/3.17 · 3.18–3.21 · 3.22–3.27). Each worker tagged both Latin and English surface forms (reading the parallel sidecar's `lat`+`eng` per section plus the English `.tex`), grepped `data/entities.json` to reuse ids, and staged genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 10 new entities merged; registry 1801 → 1811 (1809 unique).** New: `place:nares-lucanae`, `place:thurii` (the flight's staging-posts); `person:caecilius-tryphon`, `person:tigranes-the-younger`, `place:ilium`, `place:pella` (the 3.8 cast/geography); `person:c-clodius-filius` (the uncertain 3.17 figure); `law:lex-clodia-de-exilio` (the exile plebiscite — the first lex-Clodia-of-exile entity in the registry), `person:l-ninnius-quadratus` (the first mover of the recall, tr. pl. 58), `person:visellius-varro` (Cicero's jurist cousin who drafted the recall bill). **Worker grep-first discipline avoided three would-be duplicates:** the roster's "mint `person:p-sestius` if absent" was correctly overridden — every worker who hit Sestius reused the existing **`person:sestius-tribune`**; the roster's `person:phaethon-libertus` was overridden in favour of the existing **`person:phaethon-courier`**; and Autronius/Malta/Tigranes-the-king/Curio/Livineius/Regulus/Appius were all bound to existing ids rather than minted.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–82 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, `054bc-ad-familiares-13-49.tex`, `043bc-ad-familiares-11-28.tex` — plus the chronological-gap block; **no new warnings from the 52 new sidecars**). Independent PM verification confirmed all 26 letters carry **both** sidecars (26/26; book 3 now 27/27 incl. the pre-existing 3.15), each carries `schema_version: 1` and the correct bare in-file `id`, **all 387 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1811-entry registry** (zero unresolved, **zero null mentions**), and **all 138 glossary anchors are verbatim substrings of their English `.tex`**. Registry integrity re-checked: only the 2 pre-existing exact-duplicate ids remain (`person:p-rutilius-rufus`, `place:syracusae`); **none introduced**. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both would be no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–82, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). They inflate the letter-entity-mention file count to 557 (real coverage 550). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical), then re-run `validate.py`.
+- **Flag-not-merge cruxes for a prosopographer (resolved conservatively this session):** Sestius bound to `person:sestius-tribune` — the roster's `person:p-sestius` slug is now moot and should be struck from future rosters; Phaethon bound to `person:phaethon-courier` (3.8's blown-back freedman = the Q.fr-1.4 courier? probable, not certain); `person:c-clodius-filius` (3.17, manuscript + identity both uncertain — kept distinct from P. Clodius's line); `person:appius-claudius-pulcher` for "Appi quaestio est" (3.17 — Appius presiding over the court threatening Quintus; textually debated); Curio's recall speech (3.20) bound to the elder `person:c-curio-cos` (cos. 76), not his son `person:c-scribonius-curio-tr`; `person:visellius-varro` ≈ Cicero's cognate jurisconsult (probable, not certain); the "eight/old tribunes" of 3.23 tagged collectively `office:tribune`.
+- **Pre-existing registry duplicates carried (NOT introduced):** the Piso cos.-58 pair `person:l-piso` / `person:piso-caesoninus` (bound to `l-piso`); the Gabinius pair `person:gabinius` / `person:a-gabinius` (bound to `gabinius`); the young-Marcus pair `person:m-cicero-the-younger` / `person:marcus-cicero-younger`; the nephew pair `person:q-cicero-the-younger` / `person:q-cicero-younger` (used `q-cicero-the-younger`); the Fadius pair `person:t-fadius` / `person:fadius-tr57` (used the named `t-fadius`); plus the exact-id dups `person:p-rutilius-rufus`, `place:syracusae` and the session-79/80/81/82 cross-id backlog. A single registry-merge cleanup pass should adjudicate all of these.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged: the Homeric/tragic tags scattered through the exile letters; the dense legislative-procedure vocabulary of 3.23 (*promulgare/abrogare/derogare/obrogare*, *sanctio*, *contio*, plebiscite — all glossed); Cicero's own consular speeches/poem if echoed (better expressed as crossrefs in the deferred pass).
+
+**Suggested next automated batch — continue *Ad Atticum* at book 4** (the **57–54 BC post-return letters** — Att 4.1–4.19; 6 are already enriched, so ~13 remain — the triumphant recall, the house-on-the-Palatine restitution fight with Clodius, the Sardinia conference and the politics of the renewed coalition). The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* (318 of 396 missing). Regenerate the entity index from `data/entities.json` first (now **1811**). Finishing *Ad Atticum* is ~9–10 more apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 83: apparatus enrichment — entity-mentions + glossary for the 26 remaining Ad Atticum book 3 letters (3.1-3.14, 3.16-3.27, 58-57 BC exile correspondence), CLOSING book 3 27/27 on both axes; 387 mentions, 138 glossary notes; 10 new entities (registry 1801->1811: place:nares-lucanae/thurii/ilium/pella, person:caecilius-tryphon/tigranes-the-younger/c-clodius-filius/l-ninnius-quadratus/visellius-varro, law:lex-clodia-de-exilio); grep-first discipline reused person:sestius-tribune (not the roster's p-sestius), person:phaethon-courier (not phaethon-libertus), and bound tigranes-the-younger distinct from the king tigranes-armenia; pre-existing dups carried not introduced (l-piso/piso-caesoninus, gabinius/a-gabinius, the young-Marcus/nephew/Fadius pairs). THEN (STILL PENDING from sessions 80-82) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) and re-run validate.py."` to land. Next session: begin Ad Atticum book 4 (57-54 BC post-return letters); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 82 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 82 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 81). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs (those letter numbers do not exist in Perseus's TEI), and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have **no Latin file at all**. Per standing guidance, this session continued the *Ad Atticum* apparatus sweep, closing **book 2**.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — entity-mentions + glossary sidecars for ALL 25 drafted letters of *Ad Atticum* book 2 (2.1–2.25; 2.1–2.3 written 60 BC, 2.4–2.25 in 59 BC), CLOSING book 2 on both axes (now 25/25).** The arc: **the 60 BC letters (2.1–2.3):** Cicero sends Atticus the body of his "consular speeches" (the umbrella `text:orationes-consulares`; the Demosthenic model `text:demosthenes-philippics`; the *Prognostica*), reports the agrarian law cooling, fends off Clodius's tribunate ambition, and frames the year's politics — Cato judging "as if in the Republic of Plato, not the dregs of Romulus," the fish-pond nobles (*piscinarii*), Balbus's overture on Caesar's behalf, the Cyropaedia/Cyrus-the-architect pun (`text:cyropaedia` + `person:cyrus-architectus`). **The 59 BC letters (2.4–2.25):** Caesar's consulship and the "three immoderate men" coalition; the *lex Iulia agraria* and the Campanian-land distribution (`place:ager-campanus`, `law:lex-campana`) with its candidate-curse oath; Bibulus's withdrawal and his Archilochean sky-watching edicts (`person:m-calpurnius-bibulus`, upgraded; `person:archilochus`); the populace's hisses at the theatre and the *ludi Apollinares* (the actor `person:diphilus-tragoedus`); Clodius's adoption to the plebs and the gathering threat of exile; the obstruction-law roll-call at 2.9.1 (`law:lex-aelia-fufia`, new `law:lex-iunia-licinia`, `law:lex-caecilia-didia`); the geographical/philosophical interlude (`person:dicaearchus`, `person:theophrastus`, `person:eratosthenes`, `person:serapion`, `person:hipparchus`, `person:tyrannio`, `person:posidonius`); and the **Vettius affair** in 2.24 (the informer `person:l-vettius-informer`; the planted-dagger plot; the dense cast — the two Curios, Paullus, Caepio/Brutus, Lentulus the flamen's son, Gabinius's gladiators, Fannius, Considius, Crassus Dives as quaesitor). The nicknames decoded throughout: **Sampsiceramus / Arabarch / Hierosolymarius = Pompey**; **the ox-eyed lady / boōpis / Ox-Eyed Hera = Clodia (Metelli)**; **Pulchellus / little Pulcher = Clodius**. Totals: **984 entity mentions, 196 glossary notes.** Corpus letter-level entity-mention coverage now **524 of 868 drafted** (was 499 at session-81 end). With *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) complete, **the remaining letter frontier is still *Ad Atticum*, now 52 / 396 — 344 missing** (books 3–16, plus scattered book-3/4 gaps; books 1 and 2 are now both closed).
+
+**Method (PM-curated roster + 7 parallel workers in two waves):** the PM wrote a binding canonical-ID roster (`cicero_roster_s82.md` in the PM session outputs) pre-resolving the recurring cast, the identity traps, the dedupe cruxes, and the new-entity slugs. **Wave 1 = 4 workers** on 2.1–2.16 (2.1/2.2/2.3 · 2.4/2.5/2.6/2.7 · 2.8/2.9/2.10/2.11/2.12 · 2.13/2.14/2.15/2.16); **Wave 2 = 3 workers** on 2.17–2.25 (2.17/2.18/2.19 · 2.20/2.21/2.23 · 2.22/2.24/2.25). Each worker tagged both Latin and English surface forms (reading the parallel sidecar, which carries `lat`+`eng` per section, plus the English `.tex`), grepped `data/entities.json` to reuse ids, and staged genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 53 new entities merged; registry 1748 → 1801 (1799 unique).** **Rebinds:** worker-minted `person:varro-reatinus` → existing `person:m-terentius-varro` (9 refs; the polymath Varro already had a malformed stub — its canonical_name was upgraded from "Varro's" to "Marcus Terentius Varro"); `person:q-arrius-praetor` → new `person:c-arrius` (4 refs in 2.5/2.7), unifying ALL book-2 Arrius to the explicitly-named *Gaius* Arrius (Cicero's Formiae neighbour and passed-over consular hopeful). **One worker-minted collision dropped:** `person:l-aemilius-paulus-cos50` (already in the registry). **Cross-worker exact-id dups deduped (aliases unioned, earliest first_appearance kept):** `person:dicaearchus` (3→1), `person:theophanes` (3→1), `place:solonium` (2→1), `law:lex-roscia-theatralis` (2→1), `person:numerius-numestius` (2→1). **Also upgraded the malformed Bibulus stub** `person:m-calpurnius-bibulus` (canonical_name "Bibulum" → "Marcus Calpurnius Bibulus", cos. 59). **Identity traps resolved against the text:** Antonius at 2.2.3 = **`person:c-antonius-hybrida`** (Cicero's cos.-63 colleague on trial, NOT Mark Antony); the two "Brutus" in 2.24 — "Q. Caepio (this Brutus)" = the future assassin **`person:brutus`**, but "Servilius Ahala or Brutus" = the tyrannicide-exempla **`person:l-iunius-brutus`** (the founder) + new **`person:c-servilius-ahala`**; "my son-in-law Piso" = **`person:c-piso-frugi-son-in-law`** (NOT the cos.-67 `c-calpurnius-piso-frugi`); the Cyrus pun split into `text:cyropaedia` + `person:cyrus-architectus`; Nasica (2.1.9) = **`person:p-cornelius-scipio-nasica`** (carrying the standing scipio-nasica / metellus-scipio crux). Date-formula realia (Kalends/Nones/Ides/month-names) kept in glossary only, never in mentions.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–81 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, `054bc-ad-familiares-13-49.tex`, `043bc-ad-familiares-11-28.tex` — plus the chronological-gap block; **no new warnings from the 50 new sidecars**). Independent PM verification confirmed all 25 letters carry **both** sidecars (25/25, no orphans), each carries `schema_version: 1` and the correct bare in-file `id`, **all 984 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1801-entry registry** (zero unresolved, **zero null mentions**), and **all 196 glossary anchors are verbatim substrings of their English `.tex`**. Registry integrity re-checked: only the 2 pre-existing exact-duplicate ids remain (`person:p-rutilius-rufus`, `place:syracusae`); **none introduced**. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both would be no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from sessions 80–81, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). They inflate the letter-sidecar file count to 531 (real coverage 524). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical), then re-run `validate.py`.
+- **Flag-not-merge cruxes for a prosopographer (kept distinct / unified this session):** `person:c-arrius` vs `person:q-arrius-praetor` (unified book-2 Arrius to c-arrius; a prosopographer should confirm they are the same man); the obscure 2.3.1 trio `person:valerius-att-2-3` / `person:auli-filius-att-2-3` / `person:epicrates-att-2-3` (Epicrates is most likely an editorial code-name for Pompey — kept distinct, flagged); `person:fabius-att-2-1` (2.1.5, corrupt text); `person:m-caecilius-metellus-praetor` (the games-host of 2.1.1); `person:vettius-2-4` (the wall-adviser Vettius, 2.4.7) vs `person:l-vettius-informer` (2.24) — kept distinct; `person:curtius-2-5` (2.5.3); `person:vibius-amicus` (2.20.6); `person:c-cosconius-xxvir` (2.19.4 land-commissioner — distinct from the 56 BC beast-dealer `person:cosconius`); `person:athenio-signifer` (2.12.2, the Clodian standard-bearer); `person:lentulus-flaminis-filius` and `person:l-aemilius-paulus-cos50` (2.24.2); quaestor Caecilius (2.9.1) bound to `person:q-caecilius-atticus-uncle` but the 59 BC quaestorship is not securely attested; "our Gnaeus, the colleague of Balbus" (2.12.1) treated as Pompey but the phrase is textually debated; `law:lex-campana` (2.18.2) may be a clause of `law:lex-iulia-agraria-59bc`.
+- **Pre-existing registry duplicates carried (NOT introduced):** exact-id `person:p-rutilius-rufus` (×2), `place:syracusae` (×2); plus the session-79/80/81 cross-id dup backlog (gabinius/a-gabinius — book 2 used `person:gabinius`; ptolemy-auletes/ptolemy-xii-auletes — used `ptolemy-auletes`; l-domitius-ahenobarbus/-cos54 — used `-cos54`; q-fufius-calenus/q-fufius-tr-pl-62; the Catulus cluster; etc.). A single registry-merge cleanup pass should adjudicate all of these.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged: the Homeric tags (*Il.* 12.243 at 2.3.4; *Il.* 6.442 & 22.100 at 2.5.1; *Od.* 9.27 at 2.11; *Il.* 6.181 at 2.16.4); Sophocles at 2.7.4; the Ennian *unus homo nobis cunctando* tag thrown at Bibulus (2.19.2); the consular-speeches corpus (2.1.3) and Cicero's *Prognostica* / *De Consulatu Suo* / Greek consular memoir (modelled as `text:` entities, but as **Cicero's own** works they may be better expressed as crossrefs in the deferred pass); the Apelles/Protogenes painters' simile (2.21.4); Archilochus's iambics behind the "Archilochean edicts" (2.20.6/2.21.4).
+
+**Suggested next automated batch — continue *Ad Atticum* at book 3** (the **58–57 BC exile correspondence**, Att 3.1–3.27 — the anguished letters from flight, Thessalonica, and Dyrrachium; 3.15 is already enriched, so **26 letters remain**). The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* (344 of 396 missing). Regenerate the entity index from `data/entities.json` first (now **1801**). Finishing *Ad Atticum* is ~10 more apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 82: apparatus enrichment — entity-mentions + glossary for all 25 Ad Atticum book 2 letters (2.1-2.25, 60-59 BC), CLOSING book 2 25/25 on both axes; 984 mentions, 196 glossary notes; 53 new entities (registry 1748->1801: Caesar's-consulship cast incl. l-vettius-informer + the Vettius-affair figures, the coalition/agrarian world incl. lex-campana/lex-iunia-licinia/lex-caecilia-didia, the geographers Dicaearchus/Eratosthenes/Serapion/Hipparchus + Posidonius/Theophanes/Tigranes/Molon, Bibulus's Archilochus + Diphilus + the ludi Apollinares, the painters Apelles/Protogenes, festivals Compitalia/Cerialia, and assorted minor figures); identity traps resolved (2.2 Antonius=c-antonius-hybrida NOT Mark Antony; 2.24 two Brutus — brutus the assassin vs l-iunius-brutus the founder + new c-servilius-ahala; son-in-law Piso=c-piso-frugi-son-in-law; Cyrus pun=cyropaedia+cyrus-architectus); reconciliations: varro-reatinus->existing m-terentius-varro (stub upgraded), q-arrius-praetor->new c-arrius (book-2 Arrius unified), l-aemilius-paulus-cos50 collision dropped, dicaearchus(3->1)/theophanes(3->1)/solonium(2->1)/lex-roscia-theatralis(2->1)/numerius-numestius(2->1) dedupes, m-calpurnius-bibulus stub upgraded. THEN (STILL PENDING from sessions 80-81) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) and re-run validate.py."` to land. Next session: begin Ad Atticum book 3 (58-57 BC exile letters); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 81 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 81 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 80). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs (those letter numbers do not exist in Perseus's TEI), and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have **no Latin file at all**. Per standing guidance, this session continued the apparatus sweep from sessions 67–80 and opened the *Ad Atticum* frontier.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — entity-mentions + glossary sidecars for ALL 20 drafted letters of *Ad Atticum* book 1 (1.1–1.20, written 67–60 BC; manuscript order ≠ date order), CLOSING book 1 on both axes (now 20/20).** The arc, by period: **the 67 BC early letters to Atticus-in-Greece (1.3, 1.5–1.11):** the statue-buying for the Tusculan villa — the Hermathena (tagged `god:mercurius` + `god:minerva`, the Roman forms of its Hermes/Athena halves), the Megarian and Pentelic marbles, the *Amaltheum* (`place:amaltheum` + the nymph `god:amalthea`); the long-running Acutilius–Tadius business (`person:acutilius`, `person:tadius-att`); the family (cousin Lucius, Cicero's father, Atticus's mother Caecilia); the poet Thyillus, agents (Philadelphus), the Epicurean Saufeius. **The 66–65 BC consular-candidacy cluster (1.4, 1.1, 1.2):** the great competitor-list of Att 1.1 with its identity traps resolved (see below), plus M. Caesonius, the Aufidius candidate, D. Iunius Silanus (cos. 62), Q. Minucius Thermus (curator of the Via Flaminia), the Varius/Satyrus fraud cast, Atticus's uncle Q. Caecilius, C. Licinius Macer, C. Marcius Figulus, and the birth of young Marcus. **The 61 BC Bona Dea / Clodius-trial letters (1.12–1.17):** the sacrilege and the bribed acquittal — the corrupt jurors (Thalna, Plautus, Spongia), the consul M. Pupius Piso, Q. Marcius Rex, the tribune Lurco, Philip II ("the ass laden with gold"), Xenocrates, the Vestals (`institution:vestals`), the equestrian order (`group:equites`), the financiers (Considius, Q. Axius), the household (the reader-slave Sositheus, the freedman-accountant Hilarus), the Teucris affair, P. Autronius Paetus, the pseudo-Cato tribune Cornutus, and the topography (Tres Tabernae, Canusium, Misenum, the Argiletum, the Circus Flaminius). **The 60 BC political-survey letters (1.18–1.20):** the breaking of the Senate–equestrian concord, the Flavian agrarian bill (`person:l-flavius-tr-pl-60`, modelled on the *lex Plotia agraria*), the transitio-tribune C. Herennius, the Helvetic alarm (`group:helvetii`), the Lucullus/Memmius scandal (the Menelaus/Paris ciphers, Clodia Luculli), Iuventas's unperformed rites, and Cicero's Greek consular memoir vs. his Latin poem (`text:commentarius-consulatus`, `text:de-consulatu-suo`), the *lex Cincia* and Servius Claudius's library, and Rhinthon. Totals: **913 entity mentions, 180 glossary notes.** Corpus letter-level entity-mention coverage now **499 of 868 drafted** (was 479 at the true session-80 end). With *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) all complete, **the entire remaining letter frontier is *Ad Atticum*, now 27 / 396 — 369 missing** (books 2–16, plus a handful of book-3/4 gaps).
+
+**Method (PM-curated roster + 7 parallel workers in two waves):** the PM wrote a binding canonical-ID roster (`cicero_roster_s81.md` in the PM session outputs) pre-resolving the recurring cast, the identity traps, the dedupe cruxes, and the new-entity slugs. **Wave 1 = 4 workers** on 1.1–1.14 (1.3/1.5/1.6/1.7 · 1.8/1.9/1.10/1.11 · 1.4/1.1/1.2 · 1.12/1.13/1.14); **Wave 2 = 3 workers** on 1.15–1.20 (1.16/1.15 · 1.17/1.18 · 1.19/1.20). Each worker tagged both Latin and English surface forms (reading the parallel sidecar, which carries `lat`+`eng` per section, plus the English `.tex`), grepped `data/entities.json` to reuse ids, and staged genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 66 new entities merged; registry 1682 → 1748 (1746 unique).** **Identity traps resolved against the text:** the "Caesar" standing for consul at Att 1.1.2 = **`person:l-iulius-caesar-cos64`** (cos. 64, already in the registry), NOT the dictator `person:caesar`; "P. Galba" the open canvasser (1.1.1) = new **`person:p-sulpicius-galba`** (flagged against the stub `person:p-galba-iudex`); "legati ad Pisonem" (1.1.2) = the cos.-67 Gaul governor **`person:c-calpurnius-piso-frugi`** (existing); the consul of 61 = **`person:m-pupius-piso-frugi`** (existing). **Four worker-minted duplicates rebound to the canonical existing id and dropped:** `person:m-pupius-piso`→`person:m-pupius-piso-frugi`; `person:sex-peducaeus`→`person:sex-peducaeus-iudex`; `person:c-calpurnius-piso-cos67`→`person:c-calpurnius-piso-frugi`; **`god:hermes`→`god:mercurius`** (the Hermathena's Herm- half, for consistency with the Roman-form `god:minerva` used for the -athena half). **One cross-worker same-person merge:** `person:herennius-tr-pl-60` (W7, from 1.19) → **`person:c-herennius-tr-pl`** (W6, from 1.18) — both are C. Herennius, tr. pl. 60, the tribune driving Clodius's *transitio ad plebem*; aliases unioned, the duplicate registry entry removed. **Two cross-worker exact-id dups deduped:** `person:acutilius` (staged by 3 workers → 1, aliases unioned) and `place:caieta` (2 → 1). **The book-1 Tadius** (1.5, 1.8) was bound to a NEW distinct `person:tadius-att` (the conservative flag-not-merge call: identifying the Atticus-circle business contact with the Verrine `person:q-tadius` is uncertain), and the Verrine `person:q-tadius` was rebound away within the book-1 files. **Six `entity_id: null` mentions** (the date formulae *Ides of March*, *Ides of May*, *Kalends of Sextilis* in 1.15/1.16) were stripped from the entity-mentions files — such realia belongs in glossary (where it is already present), not mentions.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–80 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, `054bc-ad-familiares-13-49.tex`, `043bc-ad-familiares-11-28.tex` — plus the chronological-gap block; **no new warnings from the 40 new sidecars**). Independent PM verification confirmed all 20 letters carry **both** sidecars (20/20, no orphans), each carries `schema_version: 1` and the correct bare in-file `id`, **all 913 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1748-entry registry** (zero unresolved, **zero null mentions** after the strip), and **all 180 glossary anchors are verbatim substrings of their English `.tex`**. Registry integrity re-checked: only the 2 pre-existing exact-duplicate ids remain (`person:p-rutilius-rufus`, `place:syracusae`); **none introduced**. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both would be no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP STILL PENDING (carried from session 80, NOT yet done).** The 14 stale **non-date-prefixed** Fam book-13 sidecars — `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` — are still tracked (the Cowork sandbox cannot delete files). They inflate the letter-sidecar file count to 506 (real coverage 499). **Alexander should `git rm` these 14 bare-id files during handoff** (the conforming `054bc-ad-familiares-13-*.json` versions are canonical), then re-run `validate.py`.
+- **Flag-not-merge cruxes for a prosopographer (kept distinct this session):** `person:p-sulpicius-galba` vs stub `person:p-galba-iudex`; `person:aufidius-candidate` (1.1 candidate) vs `person:lurco-tr-pl` (M. Aufidius Lurco, tr. 61) — possibly the same Aufidius; `person:p-cornelius-scipio-nasica` (1.1.3 creditor) vs existing `person:q-metellus-scipio` (the same man before adoption?); `person:m-fontius` (1.6 house-buyer) vs existing `person:fonteius-defendant` (Pro Fonteio's M. Fonteius); `person:tadius-att` vs `person:q-tadius`/`person:p-tadius-eques`; `person:l-flavius-tr-pl-60` vs stub `person:l-flavius-eques` (an earlier, likely-distinct figure); `person:considius-financier` vs C. Considius Nonianus; `person:lentulus-att-1-8` (the 67 BC ship-owner) — identity open.
+- **Pre-existing registry duplicates carried (NOT introduced):** exact-id `person:p-rutilius-rufus` (×2), `place:syracusae` (×2); the Catulus near-dups bound this session to `person:q-lutatius-catulus-cos78` (cross-id dups `person:q-lutatius-catulus`, `person:q-lutatius-catulus-pater` remain); `person:q-fufius-calenus` vs the mis-dated `person:q-fufius-tr-pl-62` (used calenus); plus all the session-79/80-flagged cross-id dups (gabinius, l-piso, lentulus-spinther, p-crassus-iunior, ptolemy-auletes, `marcus-cicero-younger` vs `m-cicero-the-younger`, `c-aquilius-gallus` vs `aquilius-c`, `cincius-agent` vs `cincius`). A single registry-merge cleanup pass should adjudicate all of these.
+- **Empty `external_ids` on most new entities** (a handful carry wikidata/pleiades). Backfill DPRR/Pleiades/Wikidata in a later pass.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged: the *Iliad* 22.159 tag at 1.1.4; Cicero's Greek hypomnema and Latin *De Consulatu Suo* (1.19/1.20 — modelled as `text:` entities this session, but as **Cicero's own** works they may be better expressed as crossrefs in the deferred pass); Rhinthon's verse (1.20.3); the Menelaus/Paris ciphers (1.18.3); Philip II's "ass laden with gold" (1.16.12); Xenocrates's excused oath (1.16.4).
+
+**Suggested next automated batch — continue *Ad Atticum* at book 2.** The whole remaining letter frontier on the entity-mention axis is *Ad Atticum* (369 of 396 missing). Begin **book 2** (the 59 BC letters — Caesar's consulship, the consolidation of the "three-headed" coalition, Clodius's adoption into the plebs, the Vettius affair; Att 2.1–2.25), working chronologically forward. Regenerate the entity index from `data/entities.json` first (now **1748**). Finishing *Ad Atticum* is ~10–12 more apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 81: apparatus enrichment — entity-mentions + glossary for all 20 Ad Atticum book 1 letters (1.1-1.20, 67-60 BC), CLOSING book 1 20/20 on both axes; 913 mentions, 180 glossary notes; 66 new entities (registry 1682->1748: the early-Atticus statue/Hermathena/Amaltheum world, the 65 BC consular-candidate cast, the 61 BC Bona Dea/Clodius-trial cast incl. the corrupt jurors + group:equites + institution:vestals, the 60 BC Flavian-agrarian/Helvetii/Lucullus-scandal cast, Cicero's consular memoir+poem as text: entities); identity traps resolved (1.1 Caesar=l-iulius-caesar-cos64 NOT the dictator; P. Galba=p-sulpicius-galba; cos.61 Piso=existing m-pupius-piso-frugi; cos.67 Piso=existing c-calpurnius-piso-frugi); reconciliations: 4 minted-dup->existing rebinds (m-pupius-piso, sex-peducaeus, c-calpurnius-piso-cos67, god:hermes->god:mercurius), herennius-tr-pl-60->c-herennius-tr-pl cross-worker same-person merge, acutilius(3->1)/caieta(2->1) dedupes, book-1 Tadius->new tadius-att, 6 null date-mentions stripped. THEN (STILL PENDING from session 80) git rm the 14 stale non-date-prefixed Fam-13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) and re-run validate.py."` to land. Next session: begin Ad Atticum book 2; or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 80 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 80 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 79). Translation remains impossible autonomously: the 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs (those letter numbers do not exist in Perseus's TEI), and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have no Latin file at all. Per standing guidance, this session continued the apparatus sweep from sessions 67–79.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — entity-mentions + glossary sidecars for the 23 remaining drafted letters of *Ad Quintum Fratrem*, CLOSING the collection (now 28/28 on both axes), PLUS the 7 *Ad Familiares* book-13 stragglers that session 79 wrongly reported as complete, CLOSING *Ad Familiares* for real (now 421/421 on the date-prefixed convention).** ***Ad Quintum Fratrem* (23 letters, 60–54 BC):** book 1 — the great essay-letter on provincial administration to Quintus as proconsul of Asia (1.1, 46 sections), 1.2, and the exile letter 1.4; book 2 — the 56 BC political-news letters (2.1–2.6) and the 54 BC literary/Gallic-legate letters (2.10–2.12, 2.14, 2.15); book 3 — the 54 BC letters from the Gallic-legate year (3.1, the long building/Pomptine/elections letter at 25 sections; 3.2–3.9, incl. the 3.06 stub that modern editions fold into 3.5). Totals: **1801 entity mentions, 166 glossary notes.** ***Ad Familiares* book 13 (7 short recommendation letters: 13.11–13.14, 13.16, 13.45, 13.46):** to Brutus (gov. Cisalpine Gaul), to Caesar (commending Crassus's freedman Apollonius), and to the proquaestor Appuleius — **87 mentions, 19 notes**, no new entities (all figures already registered). **Session total: 30 letters, 1888 mentions, 185 glossary notes.** Corpus letter-level entity-mention coverage now **479 of 868 drafted** (was 449 at the true session-79 end — see book-13 note below); letters still lacking entity-mentions: **389 of 868, ALL of them *Ad Atticum***. With *Ad Familiares* (421/421), *Ad Quintum Fratrem* (28/28), and *Ad Brutum* (23/23) all complete, the **entire remaining letter frontier is *Ad Atticum* (7/396 — 389 missing).**
+
+**Method (PM-curated roster + parallel workers, two waves of 3 plus a cleanup worker):** the PM wrote a binding canonical-ID roster (`cicero_roster_s80.md` in the PM session outputs) pre-resolving the recurring Q.fr cast and the dedupe cruxes — central bindings: Quintus → `person:quintus-cicero`; the brothers' circle (Atticus, Pompey/Caesar/Crassus the triumvirs, Clodius, Milo, Terentia, Tullia, the two young Ciceros `person:marcus-cicero-younger`/`person:q-cicero-younger`, Pomptinus, Statius the freedman, Tiro, Trebatius); and **four registry dedupe cruxes resolved by usage frequency: Gabinius → `person:gabinius` (NOT `a-gabinius`); Piso cos. 58 → `person:l-piso` (NOT `piso-caesoninus`); Lentulus Spinther → `person:lentulus-spinther` (NOT `p-lentulus-spinther`); young P. Crassus → `person:p-crassus-iunior` (NOT `p-crassus-younger`).** **Wave 1 = 3 workers on the substantial letters** (1.1 · 1.2+1.4 · 3.1+3.2); **Wave 2 = 3 workers on the short letters** (2.1–2.6 · 2.10–2.15 · 3.3–3.9); **a 7th worker** then closed the Fam book-13 stragglers. Each worker tagged both Latin and English surface forms (reading the English `.tex` + the parallel sidecar), grepped `data/entities.json` to reuse ids, and staged genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 140 new entities merged; registry 1542 → 1682 (1680 unique).** New entities span: the **Asian-province world of Q.fr 1.1–1.2** (Quintus's legates `person:l-aelius-tubero`/`person:allienus-legate-asia`/`person:m-gratidius-legate`, the staff `person:caesius-q-staff`/`person:chaerippus-q-staff`/`person:labeo-q-staff`, the Greek cities and provincials of 1.2, `place:ionia`/`place:mysia`, `office:lictor`); the **estate/household world of Q.fr 3.1** (the builders and surveyors `person:mescidius`/`person:diphilus-contractor`/`person:cillo`/`person:nicephorus-vilicus`, the estates `place:arcanum`/`place:laterium`/`place:fundus-manilianus` etc., Quintus's wife `person:pomponia`); the **56 BC political cast of Q.fr 2.1–2.6** (`person:procilius`, `person:cn-domitius-calvinus`, `place:graecostasis`, `festival:quirinalia`, the gladiator-dealer `person:pomponius-bestiarius` deliberately kept distinct from Atticus); the **literary/Gallic cast of 2.10–2.15** (`person:theopompus-cnidius`, `person:callisthenes`, `person:philistus`, `person:m-orfius`, `place:tyrus`); and the **De Re Publica personae + gladiator/library world of 3.3–3.9** (`person:tyrannio`, `person:heraclides-ponticus`, `person:c-fannius-historian`, `person:aeserninus-gladiator`/`person:pacideianus-gladiator`, `text:electra-quintus`/`text:troilus-quintus`, `group:nervii`). **Reconciliations this session:** (a) two cross-worker slug-collisions for the same person were collapsed — **`person:theopompus-cnidus` → `person:theopompus-cnidius`** (Theopompus of Cnidus, distinct from the historian `person:theopompus`) and **`person:pomponia-q-wife` → `person:pomponia`** (Quintus's wife; aliases unioned, mentions rebound); (b) four ids staged by two workers each (`cn-domitius-calvinus`, `tyrannio`, `arcanum`, `laterium`) were merged to single registry entries; (c) **10 invalid `entity_id: null` mentions** (generic date/games tokens — "Kalends of November," "the games," "school of gladiators" in 3.4/3.8/3.9) were stripped from the entity-mentions files (such content belongs in glossary, not mentions).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–79 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, `054bc-ad-familiares-13-49.tex`, `043bc-ad-familiares-11-28.tex` — plus the chronological-gap block; **no new warnings from the 60 new sidecars**). Independent PM verification confirmed all 30 letters carry **both** sidecars (30/30, no orphans), each carries `schema_version: 1` and the correct bare in-file `id`, **all 1888 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1682-entry registry** (zero unresolved, **zero null mentions** after the strip), and **all 185 glossary anchors are verbatim substrings of their English `.tex`**. Registry integrity re-checked: only the 2 pre-existing exact-duplicate ids remain (`person:p-rutilius-rufus`, `place:syracusae`); **none introduced**. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session (only `entities-mentions/`, `glossary/`, and `entities.json` changed), so both would be no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **HANDOFF CLEANUP REQUIRED — 14 stale tracked sidecar files.** A prior partial run committed **non-date-prefixed** sidecars for the 7 Fam book-13 letters: `data/entities-mentions/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json` and `data/glossary/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json`. These are the files that misled session 79 into reporting book 13 complete. The conforming **date-prefixed** versions (`054bc-ad-familiares-13-*.json`) now exist and are the canonical ones. The Cowork sandbox cannot delete files, so **Alexander should `git rm` the 14 bare-id files during handoff** (then re-run `validate.py`). Until removed, every book-13 straggler has a redundant duplicate sidecar.
+- **Pre-existing registry duplicates carried (NOT introduced), candidates for a registry-merge cleanup pass:** exact-id dups `person:p-rutilius-rufus` (×2) and `place:syracusae` (×2); cross-id semantic dups bound this session to the canonical (left) id via the roster — `person:gabinius`/`a-gabinius`, `person:l-piso`/`piso-caesoninus`, `person:lentulus-spinther`/`p-lentulus-spinther`, `person:p-crassus-iunior`/`p-crassus-younger`, plus the session-79-flagged `ptolemy-auletes`/`ptolemy-xii-auletes`.
+- **Conservative distinct stagings flagged as merge candidates (workers chose flag-not-merge):** `person:chaerippus-q-staff` (Q.fr 1.1 staffer) vs the existing 43 BC `person:chaerippus`; `person:allienus-legate-asia` vs the existing `person:a-allienus` (plausibly the same A. Allienus); `person:l-aelius-tubero` (the historian-legate) vs `person:q-aelius-tubero` (the De Re Publica Stoic). A prosopographer should adjudicate these in the enrichment pass.
+- **Identity cruxes resolved in-text (see worker reports in PM outputs):** "Calventius Marius" (3.1.11) is Cicero's abusive nickname for L. Piso → `person:l-piso`; the 1.2/3.4 "Cato" of the praetorian/tribunician acts → `person:c-porcius-cato-tr56` (distinct from `person:cato-minor`); "Porcia" (3.9.8) is the standard textual corruption for Pomponia → `person:pomponia`; Greek divinity names Zeus/Ares bound to `god:jupiter`/`god:mars`.
+- **Empty `external_ids` on all 140 new entities.** Backfill DPRR/Pleiades/Wikidata in a later pass.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged: the εἰλικρινές tag (Q.fr 2.6); the *De Re Publica* personae + dramatic date and Quintus's tragedies *Electra*/*Troilus* (3.5); the Lucilian gladiator pair Aeserninus/Pacideianus (3.4); Homeric quotations and the *De Oratore* self-reference in book 3.
+
+**Suggested next automated batch — the letter collections are nearly done; the whole remaining letter frontier is *Ad Atticum*.** Begin ***Ad Atticum* at book 1** (the 68–65 BC letters — Atticus, the pre-consular and Catilinarian-era cast), working chronologically forward; it is the only letter collection still needing entity-mention/glossary apparatus (389 of 396 letters). Regenerate the entity index from `data/entities.json` first (now **1682**). Given *Ad Atticum*'s size (~389 letters), this is ~10–13 apparatus sessions at ~30 letters/session. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 80: apparatus enrichment — entity-mentions + glossary for the 23 remaining Ad Quintum Fratrem letters (CLOSES Q.fr 28/28) plus the 7 Ad Familiares book-13 stragglers session 79 mis-reported as done (CLOSES Ad Familiares 421/421 for real); 1888 mentions, 185 glossary notes across 30 letters; 140 new entities (registry 1542->1682: the Asian-province cast of Q.fr 1.1-1.2, the estate/builder world of 3.1, the 56 BC political cast of 2.1-2.6, the literary/Gallic cast of 2.10-2.15, the De Re Publica personae + gladiator/library world of 3.3-3.9); theopompus-cnidus->theopompus-cnidius and pomponia-q-wife->pomponia slug-collapses; 4 multi-staged ids merged; 10 null-entity_id mentions stripped. THEN git rm the 14 stale non-date-prefixed Fam 13 sidecars (data/{entities-mentions,glossary}/letters/ad-familiares-13-{11,12,13,14,16,45,46}.json) and re-run validate.py."` to land. Next session: begin Ad Atticum book 1; or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 79 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 79 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 78). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs (those letter numbers do not exist in Perseus's TEI), and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have **no Latin file at all**. Per standing guidance, this session continued the apparatus sweep from sessions 67–78.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — entity-mentions + glossary sidecars for the 28 remaining drafted letters of *Ad Familiares* books 1 and 5, CLOSING *Ad Familiares* entirely on both axes (now 421/421 drafted letters carry both sidecars; 0 missing).** **Book 1 (10 letters, 56–54 BC, the Lentulus Spinther / Egyptian-question dispatches):** 1.1–1.7 (incl. the 1.5a/1.5b split), 1.9 (the great 26-section "palinode" justifying Cicero's realignment toward Pompey/Caesar/Crassus after Luca), and 1.10 — the senate's wrangling over restoring the exiled king Ptolemy Auletes and the rival claims to the Alexandrian command. **Book 5 (18 letters, 62–46 BC, the mixed political correspondence):** the Metellus Celer complaint-and-reply (5.1/5.2), the letters to Metellus Nepos (5.4), C. Antonius Hybrida (5.5), P. Sestius (5.6), the great letter to Pompey (5.7), M. Crassus (5.8), the two Vatinius letters from Illyricum (5.9/5.11), the L. Lucceius history-request cluster (5.13–5.15), the consolation to Titius (5.16), and the letters to P. Sittius (5.17), T. Fadius (5.18), and L. Mescinius Rufus including the dense Cilician-accounts letter (5.19/5.20/5.21). Totals: **847 entity mentions, 128 glossary notes** (book 1: 518 + 52; book 5: 329 + 76). Corpus letter-level entity-mention coverage now **456 of 868 drafted** (was 428 at the true session-78 end — see book-13 note below); letters still lacking entity-mentions: **412 of 868**. With *Ad Familiares* (421/421) and *Ad Brutum* (23/23) complete, the entire remaining letter frontier is ***Ad Atticum*** (7/396) and ***Ad Quintum Fratrem*** (5/28).
+
+**Method (PM-curated roster + parallel workers, two waves, book-by-book):** the PM wrote a binding canonical-ID roster (`cicero_roster_s79.md` in the PM session outputs) pre-resolving the recurring cast and the dedupe cruxes — central bindings: the **book-1 recipient Lentulus Spinther (cos. 57) → `person:lentulus-spinther`** (NOT the duplicate `person:p-lentulus-spinther`); the king → **`person:ptolemy-auletes`** (NOT the duplicate `person:ptolemy-xii-auletes`); Bibulus of the Egyptian debate → `person:m-calpurnius-bibulus` (cos. 59); Servilius → `person:p-servilius-vatia-isauricus` (cos. 79); the book-5 recipients Metellus Celer/Nepos, `person:c-antonius-hybrida`, `person:sestius-tribune`, `person:vatinius-tribune`, `person:l-lucceius` (NOT P./Q. Lucceius), `person:p-sittius`, `person:l-mescinius`. **Wave 1 = 3 workers on book 1** (1.1–1.4 · 1.5a–1.7 · 1.9+1.10); after consolidation, **Wave 2 = 4 workers on book 5** (5.1/5.2/5.4/5.5 · 5.6–5.11 · 5.13–5.16 · 5.17–5.21). Each worker enriched 2–5 letters end-to-end against the roster, grepping `data/entities.json` to reuse existing ids and staging genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 40 new entities merged; registry 1502 → 1542 list entries (1540 unique).** Book 1 (19 new): the Egyptian-question cast `person:ammonius-ptolemy-envoy`, `person:l-volcacius-tullus-cos66` (the Lucius, cos. 66 — distinct from the registry's `person:c-volcacius-tullus`), `person:p-plautius-hypsaeus`, `person:c-porcius-cato-tr56` (the obstructing tribune of 56 — distinct from M. Cato Uticensis), `person:q-selicius`, `text:libri-sibyllini`, `law:lex-pupia`, `law:lex-sempronia-de-provinciis`, `place:ptolemais`, `person:a-trebonius-cilicia`; plus the 1.9/1.10 literary-and-exemplary cast (`person:l-cornelius-cinna`, `text:eunuchus-terence`, `person:apelles`, `god:bona-dea`, `god:venus`, `law:lex-curiata`, `person:menocritus`, `person:ulysses`, `place:apulia`). Book 5 (21 new): `person:mucia` (Pompey's wife, the Metelli's half-sister), the 5.6 Sestius cast (`person:decius-librarius`, `person:cornelia-sestii`, `person:q-cornelius-sestii`, `person:q-fufius-tr-pl-62`), `event:catilinarian-conspiracy`, `person:m-licinius-crassus-son` (5.8), the Vatinius/Illyricum cast (`person:pompeia-vatini-uxor`, `person:sura-agent-45`, `place:dalmatia`, `group:dalmatae`, `group:vardaei`), `person:titius-fam-05-16` (the 5.16 consolation addressee, no praenomen in the salutation), `person:t-fadius` (5.18), `person:p-sittius-jr` (5.17), and the 5.20 Cilician-accounts cast (`person:m-tullius-scriba`, `person:volusius-fam-05-20`, `person:valerius-fam-05-20`, `person:t-marius`, `institution:publicani`, `place:myrina`). **Reconciliations:** (a) the early-56 "Cato" of **1.2.4 and 1.4.1** — paired with the tribune Caninius and performing tribunician acts — was **rebound from a worker's `person:cato-minor` to `person:c-porcius-cato-tr56`** (confirmed against the text; the 1.9.19 Cato, the praetorian rival, correctly stays `person:cato-minor`); (b) `text:libri-sibyllini`, staged independently by two book-1 workers, was **merged to one entry** (aliases unioned); (c) worker 5E used the **invalid entity type `people:`** (with the `type` field wrongly set to `place`) for the two Illyrian peoples — **normalized to `group:dalmatae` / `group:vardaei`** (id + type), and the 6 referencing mentions rebound, matching the registry's `group:` convention for collectives.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–78 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, `054bc-ad-familiares-13-49.tex`, `043bc-ad-familiares-11-28.tex` — plus the chronological-gap block; **no new warnings from the 56 new sidecars**). Independent PM verification confirmed all 28 letters carry **both** sidecars (28/28, no orphans), every one carries `schema_version: 1` and the correct bare in-file `id`, **all 847 mention `entity_id`s and all (non-null) glossary `entity_id`s resolve in the 1542-entry registry** (zero unresolved, zero null mentions), and **all 128 glossary anchors are verbatim substrings of their English `.tex`**. Registry integrity re-checked: only the 2 pre-existing duplicate ids remain (none introduced); no `people:`-prefixed ids remain. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session, so both would be no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **Session-78's "book-13 stragglers" note does not hold.** The 7 letters it flagged as lacking entity-mentions (13.11–13.14, 13.16, 13.45, 13.46) all in fact carry both sidecars; **book 13 is complete 79/79**. Session 78's "421 of 868" coverage figure undercounted by those 7 — the true session-78-end coverage was 428/868, and this session's +28 brings it to 456/868.
+- **Pre-existing registry duplicates carried (NOT introduced), plus this session's bound-around dups — all candidates for a registry-merge cleanup pass:** `person:p-rutilius-rufus` (×2) and `place:syracusae` (×2); `person:lentulus-spinther` vs `person:p-lentulus-spinther` (both the cos. 57 — bound to `lentulus-spinther` this session); `person:ptolemy-auletes` vs `person:ptolemy-xii-auletes` (bound to `ptolemy-auletes`); `person:p-crassus-iunior` vs `person:p-crassus-younger` (used `p-crassus-iunior` in 5.8).
+- **`institution:publicani` (minted for 5.20) is schema-valid but a candidate for normalization to `group:publicani`** for consistency with the group-collective convention (treveri/aedui/papirii). Flagged, not changed.
+- **Uncertain identities (best-guess bound, flagged in each summary):** `person:a-trebonius-cilicia` (may = the empty Verrines stub `person:a-trebonius-proscriptus` — kept distinct; merge candidate); `person:sura-agent-45` (the 45 BC agent, explicitly NOT the Catilinarian Lentulus Sura); `person:titius-fam-05-16` (no praenomen); `person:c-furius-camillus` bound for 5.20 "G. Camillus" (praenomen fits, cognomen unstated); the otherwise-unattested 5.20 financial figures `person:volusius-fam-05-20` / `person:valerius-fam-05-20` / `person:t-marius`; the Lucullus of 1.5b/1.7 bound to `person:l-lucullus` despite his likely death c. 57/56 (date tension).
+- **Opener-loc inconsistency:** this session tagged letter openers at `loc: "1"` (following the `054bc-ad-familiares-07-05` exemplar); the in-book `056bc-ad-familiares-05-12` exemplar used `loc: "0"`. Pre-existing corpus inconsistency, cosmetic only (the validator does not check `loc` values); flag for a future normalization sweep.
+- **Empty `external_ids` on most new entities** (a handful carry wikidata/pleiades). Backfill DPRR/Pleiades/Wikidata in a later pass.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Notable loci flagged: the *Eunuchus* quotation (1.9.19; minted `text:eunuchus-terence`); Apelles's Venus Anadyomene image (1.9); the Ulysses/Ithaca joke (1.10); the Scipio Aemilianus / Laelius friendship comparison (5.7); Vatinius's Dalmatian campaign (5.9/5.11).
+
+**Suggested next automated batch — *Ad Familiares* is closed; pivot to the next letter collection.** The whole remaining letter frontier on the entity-mention axis is **Ad Quintum Fratrem (5/28 — 23 missing)** and **Ad Atticum (7/396 — 389 missing)**. The cleanest next session: **finish *Ad Quintum Fratrem*** (small, ~23 letters, closeable in one session — the 54–52 BC letters to Cicero's brother during the Gallic-war years and the *De Re Publica* period), then **begin *Ad Atticum* at book 1** (the 68–65 BC letters — Atticus, the Tribunician/Catilinarian-era cast). Regenerate the entity index from `data/entities.json` first (now **1542**). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 79: apparatus enrichment — entity-mentions + glossary for the 28 remaining Ad Familiares book-1 (Lentulus Spinther / Egyptian question) and book-5 (Metellus/Pompey/Crassus/Vatinius/Lucceius/Mescinius) letters; Ad Familiares now COMPLETE 421/421 on both axes; 847 mentions, 128 glossary notes; 40 new entities (registry 1502->1542: the Egyptian-question cast incl. Ammonius/Volcacius cos66/C. Porcius Cato tr56/the Sibylline Books/lex Pupia/lex Sempronia de provinciis, the 1.9 literary-exemplary cast, Mucia, the Sestius and Vatinius/Illyricum casts incl. group:dalmatae/vardaei, the 5.16 Titius, T. Fadius, the 5.20 Cilician-accounts cast incl. institution:publicani); 1.2/1.4 Cato rebound to c-porcius-cato-tr56; people:->group: normalized; libri-sibyllini cross-worker dup merged"` to land. Next session: finish Ad Quintum Fratrem, then begin Ad Atticum book 1; or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 78 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 78 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 77). Translation remains impossible autonomously: the 14 pending works still lack usable Latin (7 letters are `% PLACEHOLDER` stubs — *ad-familiares-05-10*, *ad-atticum* 13.15/13.18/13.36, *ad-brutum* 2.6/2.7/2.8; 7 philosophy/rhetoric works have no Latin file — *aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*). Per standing guidance, this session continued the apparatus sweep (sessions 67–77).
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — entity-mentions + glossary sidecars for the 30 remaining drafted letters of *Ad Familiares* book 7, completing the book on both axes (33/33).** Book 7 is the Cicero–Trebatius correspondence (54–44 BC) plus the letters to **M'. Curius** the banker of Patrae (7.28/7.30/7.31, with 7.29 *from* Curius), to **M. Fadius Gallus** the Epicurean art-collector (7.23–7.27, including the famous statues-bought-by-Damasippus letter 7.23), to **M. Marius** the Cumae neighbour (7.2, 7.4), and to **P. Volumnius Eutrapelus** the wit (7.32, 7.33), plus the letter commending Trebatius **to Caesar** (7.5). Totals across the 30 letters: **485 entity mentions, 139 glossary notes.** Corpus letter-level entity-mention coverage now **421 of 868 drafted** (book 7's 30 added this session); letters still lacking entity-mentions: **447 of 868.** *Ad Familiares* is now complete on both axes for books **2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16**; remaining: **books 1 (1/11), 5 (2/20), 13 (72/79 — see follow-ups)**.
+
+**Method (PM-curated roster + parallel workers, two waves of 3):** the PM wrote a binding canonical-ID roster (`outputs/cicero_roster_s78.md`) pre-resolving the recurring cast and the dedupe cruxes — central bindings: **Trebatius → `person:c-trebatius-testa`**; the banker **"Curius/Curio" → `person:mn-curius-patrensis`** (NOT `person:curius-procos`, the Fam 13.49 proconsul); **"Marius" → `person:m-marius`** the Cumae neighbour (NOT `person:m-marius-valentinus`); the **"Gallus/Fadius" recipient → `person:m-fadius`** (the art-collector, brother of `person:q-fadius`); **Volumnius → `person:p-volumnius-eutrapelus`**. **Wave 1 = 3 workers on the Trebatius cluster** (7.5/6/8/9/10 · 7.16/17/18/11/12 · 7.13/14/15/19/20); **Wave 2 = 3 workers** (7.21/22/23/24/25 · 7.26/27/28/30/31 · 7.29/2/4/32/33). Each worker enriched 5 letters end-to-end against the roster, grepping `data/entities.json` to reuse existing ids and staging genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 55 new entities merged; registry 1447 → 1502 (1500 unique).** New entities span the **jurist-world of the Trebatius letters** (`person:vacerra-iurisconsultus`, `person:cornelius-iurisconsultus`, `person:sex-aelius-paetus`, `person:m-iunius-brutus-iurisconsultus`), the **Gallic-war backdrop** (`place:samarobriva`, `group:treveri`, `group:aedui`, `group:essedarii`, `place:oceanus`, `event:bellum-gallicum`, `place:ulubrae`, `place:ager-pomptinus`), the **7.23 statues letter** (`person:damasippus-art-dealer`, the deities `god:bacchus`/`god:mars`/`god:mercurius`/`god:saturnus`, `person:metellus-macedonicus` and his Porticus-Metelli Muses, `place:tarracina`), the **"consul-for-a-day" joke of 7.30** (`person:caninius-rebilus`, `person:q-fabius-maximus-cos45`, `institution:comitia-centuriata`, `institution:comitia-tributa`, `place:peloponnesus`), and the **Velia / dinner / medical world of 7.20 & 7.24** (`person:nico-medicus`, `person:sex-fadius-medicus`, `person:tigellius`, `person:cyrus-architectus`, `text:nico-de-polyphagia`, `text:aristotle-topica`). **Reconciliations:** (a) `person:cn-octavius-host` (staged for 7.9) **merged into `person:cn-octavius`** (7.16) — the same well-born friend who keeps inviting Cicero to dinner (7.9 has Cicero's "or is it Cn. Cornelius?" tease); (b) `person:manilius-iurisconsultus` **merged into the existing `person:m-manilius`** (Manius Manilius, cos. 149) — confirmed by 7.22's "M'. Manilius"; (c) `person:mucius-iurisconsultus` **merged into the existing `person:q-mucius-scaevola-pontifex`**, consistent with 7.22's "Scaevola"; (d) `person:q-cornelius` (7.17) **merged into `person:cornelius-iurisconsultus`** (7.8) — the jurist Cornelius of the Trebatius letters (identification per Shackleton Bailey; flagged); (e) `text:equus-troianus` **dropped as a registry collision** (already present from Fam 7.1/7.16); (f) **group types normalized** to `group` (`group:essedarii` was staged `unit`, `group:treveri` was `place`), matching the registry's `group:` convention; (g) the two central **stubs `person:c-trebatius-testa` and `person:m-fadius` were enriched** with real summaries (the only enrichment of existing entities this session).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–77 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, `054bc-ad-familiares-13-49.tex`, `043bc-ad-familiares-11-28.tex` — plus the chronological-gap block; **no new warnings**). Independent PM verification confirmed all 30 letters carry **both** sidecars (30/30, no orphans), every one carries `schema_version: 1` and the correct bare in-file `id`, **all 485 mention `entity_id`s and all (non-null) 139 glossary `entity_id`s resolve in the 1502-entry registry** (zero unresolved, zero null mentions, zero leftover merged ids), and **all 139 glossary anchors are verbatim substrings of their English `.tex`**. All 60 new files use the date-prefixed canonical filename. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session, so both would be no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup / translation pass):**
+- **Date crux flagged (NOT corrected — apparatus scope):** **7.23** is filed `062bc-ad-familiares-07-23` but is really **~46 BC** (the Damasippus statues letter; the Perseus dateline itself hedges "692 (62) aut paulo post," and the Tullia/Cassius/Damasippus content fits 46). Needs a `works.yaml` date fix + file rename across english/latin/parallel/sidecars in a metadata-cleanup pass.
+- **Book 13 is NOT actually complete (contra the session-77 note):** 7 drafted letters lack entity-mentions — **13.11, 13.12, 13.13, 13.14, 13.16, 13.45, 13.46** (the recommendation letters translated in the "eighth-or-later parallel-assignment session" but never given apparatus). Fold these into the next *Ad Familiares* apparatus batch.
+- **Uncertain identities** (best-guess bound, flagged in each summary): `person:cornelius-iurisconsultus` (the 7.8 teacher ≟ the 7.17 cited authority — merged but unconfirmed), `person:itfius-corrupt` (corrupt name in Caesar's joke 7.5, ?Mamurra), `person:zeius-seius` (corrupt †Zeius, 7.12), `person:valerius-mimographus` (7.11, may = a Valerius jurist), `person:cn-octavius` (7.9 "or Cn. Cornelius?"), the Velia one-offs `person:rufio-trebatii` and `person:bassus-velia`; and worker binds to existing entities worth a glance — 7.21 "P. Silius" → `person:p-silius-pr`, 7.23 "Avianius" → `person:c-avianius-evander`, 7.30/7.31 "Acilius" → `person:m-acilius-glabrio-procos-sicily` (the 44 BC Greece command may be a distinct role), 7.26 "Lentulus" → `person:p-lentulus-spinther-jr`.
+- **Empty `external_ids` on all 55 new entities.** Backfill DPRR/Pleiades/Wikidata ids in a later pass.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Greek/allusion loci flagged: the *philotheoron* Greek tag (7.16); the Ennius *Medea* quotation (7.6); the *Equus Troianus* tag (7.16); Aristotle's *Topica* behind Cicero's own (7.19); the Odyssey lotus allusion + Nico's diet-book (7.20); Accius's *Philoctetes* (7.33).
+- **Pre-existing registry dups carried** (NOT introduced this session): `person:p-rutilius-rufus` (×2) and `place:syracusae` (×2) — 1502 list entries vs 1500 unique.
+
+**Suggested next automated batch — continue the apparatus sweep to close *Ad Familiares*.** The remaining *Ad Familiares* gaps on the entity-mention axis are **book 5 (18 letters: 5.1, 5.2, 5.4–5.9, 5.11, 5.13–5.21 — the Metellus Celer / Pompey / Vatinius / Lucceius political letters)**, **book 1 (10 letters: 1.1–1.7, 1.9, 1.10 — the Lentulus Spinther dispatches of 56 BC)**, and the **7 book-13 stragglers** above (13.11–13.14, 13.16, 13.45, 13.46). Finishing those closes *Ad Familiares* entirely on both axes. After that, the large frontier is ***Ad Atticum*** (7/396 — start at book 1) and ***Ad Quintum Fratrem*** (5/28). Regenerate the entity index from `data/entities.json` first (now **1502**). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 78: apparatus enrichment — entity-mentions + glossary for the 30 remaining Ad Familiares book-7 letters (Trebatius cluster + Curius/Fadius Gallus/Marius/Volumnius); book 7 now complete 33/33 on both axes; 485 mentions, 139 glossary notes; 55 new entities (registry 1447->1502: the Trebatius-letter jurists, the Gallic-war backdrop incl. Samarobriva/Treveri/Aedui/essedarii, the 7.23 statues-letter gods + Damasippus + Metellus Macedonicus, the 7.30 consul-for-a-day cast Caninius Rebilus/Fabius Maximus cos45/comitia, the Velia/medical world of 7.20 & 7.24); cn-octavius-host merged into cn-octavius; manilius-iurisconsultus -> m-manilius; mucius-iurisconsultus -> q-mucius-scaevola-pontifex; q-cornelius -> cornelius-iurisconsultus; equus-troianus collision dropped; group types normalized; c-trebatius-testa and m-fadius stubs enriched"` to land. Next session: continue the apparatus sweep through Ad Familiares books 5 and 1 plus the 7 book-13 stragglers (closes Ad Familiares); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 77 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 77 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 76). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs, and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have **no Latin file at all**. Per standing guidance, this session continued the apparatus sweep from sessions 67–76.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — entity-mentions + glossary sidecars for the 40 remaining drafted letters of *Ad Familiares* books 4 and 9, completing both books on both axes.** **Book 4 (15 letters, 4.1–4.15, 49–45 BC, the consolatory / civil-war correspondence):** the **Servius Sulpicius Rufus** letters (4.1–4.4 Cicero→Servius; 4.5 Servius's famous consolation on Tullia's death; 4.6 Cicero's reply; 4.12 Servius's report of M. Marcellus's murder at the Piraeus), the **M. Claudius Marcellus** correspondence (4.7–4.10 Cicero→Marcellus; 4.11 Marcellus's reply — the *Pro Marcello* recall and its aftermath), the letter to **P. Nigidius Figulus** the scholar-exile (4.13), and the two letters to **Cn. Plancius** (4.14–4.15). **Book 9 (25 letters, 9.1–9.26 minus 9.24 already done, 48–44 BC):** the **M. Terentius Varro** academic letters (9.1–9.8, including 9.8 the cover-letter for the *Academica*), the **P. Cornelius Dolabella** son-in-law letters (9.9 Dolabella→Cicero; 9.10–9.14 Cicero→Dolabella), and the **L. Papirius Paetus** gourmet/Epicurean banter (9.15–9.23, 9.25–9.26, the great dinner-table letters of 46 — the *convivium* etymology, the sumptuary-law jokes, the "obscene words" letter 9.22, the dinner-with-Cytheris 9.26). Totals: **851 entity mentions, 224 glossary notes** (book 4: 268 + 85; book 9: 583 + 139). **Book 4 now COMPLETE 15/15 on both axes; book 9 now COMPLETE 26/26 on both axes.** Corpus letter-level entity-mention coverage rose **358 → 398 of 868 drafted**; letters still lacking entity-mentions: **470 of 868** (down from 510). *Ad Familiares* is now complete on both axes for books **2, 3, 4, 6, 8, 9, 10–16**; only **books 1 (1/11), 5 (2/20), 7 (3/33)** remain.
+
+**Method (PM-curated roster + parallel workers, two waves):** the PM wrote a binding canonical-ID roster (`outputs/cicero_roster_s77.md`) pre-resolving the cast and dedupe cruxes — central bindings: **Servius Sulpicius → `person:servius-sulpicius-rufus`** (the son → `person:servius-sulpicius-rufus-younger`); the book-4 Marcellus = the cos.51 exile → **`person:m-claudius-marcellus-cos51`** (kept distinct from the cos.50 and cos.49 Marcelli and the Punic-War hero `person:m-claudius-marcellus-cos-3`); **Varro the polymath → `person:m-terentius-varro`** (NOT `person:varro-appius-friend`); **Dolabella the son-in-law → `person:dolabella`** (NOT the elder Cornelii Dolabellae); **Paetus → `person:l-papirius-paetus`** (NOT `person:l-castrinius/castronius-paetus` or `person:rufus-amicus-paeti`). **Wave 1 = 4 workers on book 4** (4.1–4.4 / 4.5,4.6,4.12 / 4.7–4.11 / 4.13–4.15); after consolidation, **Wave 2 = 6 workers on book 9** (9.1–9.4 / 9.5–9.8 / 9.9–9.13 / 9.14–9.17 / 9.18–9.21 / 9.22,9.23,9.25,9.26). Each worker enriched 3–5 letters end-to-end against the roster, grepping `data/entities.json` to reuse existing ids and staging genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 77 new entities merged; registry 1370 → 1447 list entries (1445 unique).** Book 4 (13 new): `person:p-nigidius-figulus`, `person:postumia` (Servius's wife), and the book-4 grief/murder cast — the Greek-itinerary geography of Marcellus's death (`place:piraeus`, `place:aegina`, `place:megara`, `place:epidaurus`, `place:malea`, `place:academia-athens`), the murder principals (`person:p-magius-cilo` the killer, `person:p-postumius-marcelli`, `person:acidinus-puer-marcelli`), and the Marcellus couriers (`person:theophilus-libertus-marcelli`, `person:q-mucius-courier-marcellus`). Book 9 (64 new): the philosophers/poets of the Varro & Paetus letters (`person:chrysippus`, `person:diodorus-cronus`, `person:antiochus-ascalon`, `person:zeno-citium`, `person:aristippus`, `text:academica`, `text:cyropaedia`, `text:cicero-pro-deiotaro`, `person:accius`, `person:trabea-poeta`), the Dolabella/commendation cast (`person:c-subernius`, `person:m-planius-heir`, `place:cales`, `person:curtius-nicias`, `person:vidius-creditor`, `person:salvius-courier`), the Paetus dinner-world (`person:p-volumnius-eutrapelus`, `person:cytheris`, `person:phamea`, `person:silius-villa`, `law:lex-iulia-sumptuaria`, `festival:matronalia`, `place:latium`, plus Naples-bay/Latin geography), and the large 9.21 Papirii/Carbones genealogy (`group:papirii` and ~12 family members). **Reconciliations:** (a) the recurring Varro-letter messenger "Caninius" — staged by two workers as `person:caninius` and `person:l-caninius-gallus` — was **merged into `person:l-caninius-gallus`** (and 8 mentions in 9.2/9.3 rebound), flagged as possibly = the tribune `person:gallus-canius`; (b) 9.13's Spanish-war "Pompeius" was **rebound from `person:pompey` (a worker fallback) to `person:cn-pompeius-iunior`** (the Younger, who consolidated the war after Scapula), which already existed in the registry; (c) the staged `gens:papiria` was **normalized to `group:papirii`** to match the registry's `group:` convention; (d) **6 null-`entity_id` mentions removed** (9.22 the generic specimen-names *Aurelia*/*Lollia*; 9.26 the generic *Graii*/"the Greeks" in a verse quotation), since mentions require a resolved id; (e) `place:latium` was minted to resolve a 9.15 reference.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–76 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, `054bc-ad-familiares-13-49.tex`, `043bc-ad-familiares-11-28.tex` — plus the chronological-gap block; **no new warnings from the 80 new sidecars**). Independent PM verification confirmed all 40 letters carry **both** sidecars (40/40, no orphans), every one carries `schema_version: 1` and the correct bare in-file `id`, **all 851 mention `entity_id`s and all 224 glossary `entity_id`s resolve in the 1447-entry registry** (zero unresolved), and **all 224 glossary anchors are verbatim substrings of their English `.tex`** (the PM-side anchor check `validate.py` does not perform). All 80 new files use the date-prefixed canonical filename. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session, so both would be no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup / translation pass):**
+- **Date cruxes flagged by workers (NOT corrected — no rename this session, out of apparatus scope):** **9.14** opener `CICERO DOLABELLAE CONSVLI SVO` styles Dolabella consul and the body has Ides-of-March references ⇒ the letter belongs to **44 BC** though filed `044bc`/dated 45 (the Perseus dateline header reads `a. 710 (44)`); **9.25** header `CICERO IMP.` written from Laodicea during the Cilician proconsulship ⇒ a **50 BC** letter though grouped with the 46 BC Paetus letters (filed `050bc`). Each would need a works.yaml date fix + file rename across english/latin/parallel/sidecars — defer to a metadata-cleanup pass.
+- **Uncertain identities** (best-guess bound, flagged in each entity summary): `person:l-caninius-gallus` (may = the tribune `person:gallus-canius`), `person:q-mucius-courier-marcellus` (may = `person:q-mucius-scaevola-quaestor-51`), `person:silius-villa`, `person:phamea`, `person:cocceius` (MS "de Coctio"), `person:dion-philosophus-paeti`, `person:mato-inimicus-fadii`, `person:pollio-inimicus-fadii` (not securely Asinius Pollio), `person:carbo-scurra-frater`, `person:m-papirius-carbo`, `person:rubria-mater-carbonis`, `person:m-planius-heir`; soft-matches `person:verrius`/`person:c-furius-camillus` (the 9.20 epicure dinner-companions).
+- **Deliberate same-name splits to confirm in cleanup:** `person:l-sempronius-atratinus-cos444` vs `person:atratinus-prosecutor`; `person:cytheris` vs the uncertain `person:volumnia`; `person:l-iulius-caesar-son` vs `person:l-iulius-caesar-cos64` (father); `person:cn-pompeius-iunior` (used for 9.13) vs `person:pompey`.
+- **Registry dup flagged by a worker (pre-existing, candidate merge):** `person:l-aemilius-paulus` (enriched, used in 4.6) vs `person:l-aemilius-paulus-macedonicus` (stub).
+- **Empty `external_ids` on all 77 new entities.** Backfill DPRR/Pleiades/Wikidata ids in a later pass.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Greek-bearing / allusion loci flagged: the "owls to Athens" proverb (9.3); the Homeric Agamemnon/Nestor tags (9.14); the Diodorus-vs-Chrysippus modal-logic joke (9.4); tragic/comic quotations (Accius, Trabea, 9.21); the *Cyropaedia* reference (9.25, minted `text:cyropaedia`).
+- **Pre-existing registry dups carried** (NOT introduced this session): `person:p-rutilius-rufus` (×2) and `place:syracusae` (×2) — 1447 list entries vs 1445 unique.
+
+**Suggested next automated batch — continue the apparatus sweep. 470 drafted letters still lack entity-mention sidecars.** Within *Ad Familiares*, only **books 1 (1/11), 5 (2/20), 7 (3/33)** remain; finishing them closes *Ad Familiares* entirely on both axes. The most coherent next cluster is **book 7** (the Trebatius letters of 53–46 — Cicero's wittiest correspondence, with the Caesar-in-Gaul backdrop) plus **book 5** (the Metellus Celer / Pompey / Vatinius / Lucceius political letters) and **book 1** (the Lentulus Spinther dispatches of 56). After *Ad Familiares* is closed, the large frontier is ***Ad Atticum*** (7/396 — start at book 1) and ***Ad Quintum Fratrem*** (5/28). Regenerate the entity index from `data/entities.json` first (now **1447**). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 77: apparatus enrichment — entity-mentions + glossary for the 40 remaining Ad Familiares book-4 (Servius/Marcellus/Nigidius/Plancius) and book-9 (Varro/Dolabella/Paetus) letters; books 4 and 9 now complete 15/15 and 26/26 on both axes; 851 mentions, 224 glossary notes; 77 new entities (registry 1370->1447: P. Nigidius Figulus + the Marcellus-death Greek geography and murder cast for book 4; the Academica/Cyropaedia/Pro Deiotaro texts, the Varro philosophers, the Paetus dinner-world incl. Cytheris/Eutrapelus, and the 9.21 Papirii/Carbones genealogy for book 9); caninius merged into l-caninius-gallus; 9.13 Pompeius rebound to cn-pompeius-iunior; gens:papiria normalized to group:papirii; place:latium minted; 6 null mentions pruned"` to land. Next session: continue the apparatus sweep from Ad Familiares book 7 (Trebatius) / books 5 and 1; or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 76 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 76 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 75). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs, and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have **no Latin file at all**. Per standing guidance, this session continued the apparatus sweep from sessions 67–75.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — entity-mentions + glossary sidecars for the 41 remaining drafted letters of *Ad Familiares* books 2 and 6, completing both books on both axes.** **Book 2 (19 letters, 2.1–2.19, 53–49 BC):** Cicero to **C. Scribonius Curio** the tribune (2.1–2.7 — the congratulation/advice letters and the famous letter on letter-genres), to **M. Caelius Rufus** as curule-aedile-designate (2.8–2.16 — the Cilician-command dispatches, the panther-and-politics correspondence, and the anguished civil-war letter 2.16), and the three administrative letters to **Cn. Sallustius** the proquaestor (2.17), **Q. Minucius Thermus** propr. of Asia (2.18), and **C. Coelius Caldus** Cicero's own quaestor (2.19). **Book 6 (22 letters, 6.1–6.22, 46–45 BC, the Pompeian-consolation / civil-war correspondence):** to **A. Manlius Torquatus** (6.1–6.4), **A. Caecina** (6.5–6.8, incl. Caecina's own reply 6.7), **T. Furfanius Postumus** procos. of Sicily (6.9), **Trebianus** (6.10–6.11), **T. Ampius Balbus** (6.12), **Q. Ligarius** (6.13–6.14, the *Pro Ligario* context), **L. Minucius Basilus** (6.15 — the cryptic one-line congratulation on the Ides of March), **Q. Pompeius Bithynicus** (6.16 his reply, 6.17 Cicero's), **Q. Paconius Lepta** (6.18–6.19), **C. Toranius** (6.20–6.21), and **Cn. Domitius Ahenobarbus** the future cos. 32 (6.22). Totals: **679 entity mentions, 211 glossary notes** (book 2: 365 + 99; book 6: 314 + 112). **Book 2 now COMPLETE 19/19 on both axes; book 6 now COMPLETE 22/22 on both axes.** Corpus letter-level entity-mention coverage rose **317 → 358 of 868 drafted** (counted by bare id); letters still lacking entity-mentions: **510 of 868** (down from 551).
+
+**Method (PM-curated roster + parallel workers, two waves of 5):** the PM wrote a binding canonical-ID roster (`outputs/cicero_roster_s76.md`) pre-resolving the late-Republican cast and the dedupe cruxes. Central bindings: **M. Caelius Rufus → `person:caelius-defendant`**; **Curio the tribune of 50 → `person:c-scribonius-curio-tr`** (NOT his cos.76 father `person:c-curio-cos`); **A. Caecina the addressee → `person:a-caecina-friend`** (the Volaterran man of letters, NOT `person:caecina-volaterranus`, which is his father, the *Pro Caecina* defendant); **Cn. Domitius (6.22) → `person:cn-domitius-ahenobarbus-cos32`**. **Wave 1 = 5 workers on book 2** (covering 2.1–2.4 / 2.5–2.7 / 2.8–2.11 / 2.12–2.15 / 2.16–2.19); after consolidation, **Wave 2 = 5 workers on book 6** (6.1–6.4 / 6.5–6.8 / 6.9–6.12 / 6.13–6.17 / 6.18–6.22). Each worker enriched 3–5 letters end-to-end against the roster, grepping `data/entities.json` directly to reuse existing ids and staging genuinely-new entities to per-worker JSONL files in the PM's outputs (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 36 new entities merged; registry 1334 → 1370 list entries (1368 unique).** Two dedupes: **`person:coelius-quaestor-cilicia`** (staged for the quaestor left in charge of Cilicia in 2.15) was merged into **`person:c-coelius-caldus-q50`** (the 2.19 addressee) — they are the same man, C. Coelius Caldus, Cicero's quaestor; the 3 references in 2.15 were rebound. **`person:t-furfanius-postumus`** was staged by two book-6 workers and kept once. New entities of note — **book 2:** the quaestor `person:c-coelius-caldus-q50`, `person:c-marius-successor` (Cicero's successor in Cilicia — name only, flagged), `person:aristo-thermi`/`person:rhodo-thermi` (Thermus's go-betweens), `person:sex-villius-milonis`/`person:thraso-curionis` (Curio's couriers), `person:rupa-agent` (Curio's games-agent), the Cilician-campaign geography (`place:issus`, `place:caria`, `place:pessinus`, `person:darius-iii`, `person:clitarchus`, `person:adiatorix`, `person:patiscus-cilicia`, `festival:megalesia`), `person:c-vergilius`, `person:curius-cousin-caldus`, `person:matrinius-fam-02-15`, `person:hillus`; **book 6:** `person:a-manlius-torquatus`, `person:q-ligarius`, `person:l-minucius-basilus`, `person:toranius`, `person:trebianus`, `person:t-furfanius-postumus`, the texts `text:liber-querelarum` (Caecina's lost pamphlet) and `text:orator` (Cicero's *Orator*), `person:siro` (the Epicurean), `person:amphiaraus`, and minor household figures (`person:philargyrus-torquatus`, `person:theudas-libertus-trebiani`, `person:largus-caecinae`, `person:postumulenus`, `person:postumius-caesaris`, `person:eppuleia`, `person:ampia`).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–75 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, `054bc-ad-familiares-13-49.tex`, `043bc-ad-familiares-11-28.tex` — plus the chronological-gap block; **no new warnings from the 82 new sidecars**). Independent PM verification confirmed all 41 book-2/6 letters now carry **both** sidecars (41/41, no orphans), every one carries `schema_version: 1` and the correct bare in-file `id`, **all 679 mention `entity_id`s and all glossary `entity_id`s resolve in the 1370-entry registry** (zero unresolved), and **all 211 glossary anchors are verbatim substrings of their English `.tex`.** **Note: `validate.py` does NOT actually check glossary anchors** (despite SCHEMA.md describing the check) — anchor verification is a PM-side step; 6 paraphrased anchors (in 2.10, 6.06, 6.07, 6.18×2, 6.19) were caught this way and corrected to verbatim substrings before handoff. All 82 new files use the date-prefixed canonical filename. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session, so both would be no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **Uncertain identities** (best-guess bound, flagged in each entity summary): `person:c-marius-successor` (only the name survives — needs DPRR/MRR backfill), `person:c-vergilius` (probable *Q.fr* 1.2 figure, not certain), `person:hillus`, `person:patiscus-cilicia` (may = `person:patiscus`; rebind if so), `person:matrinius-fam-02-15` (may relate to `person:c-matrinius-eques`), `person:postumulenus`, `person:postumius-caesaris`, `person:siro` (medium confidence as Virgil's teacher), `person:rupa-agent`, `person:largus-caecinae`, `person:t-furfanius-postumus`, `person:trebianus`, `person:toranius`.
+- **2.17 corrupt opener** "†CANINI SALVSTIO PROQ." bound to `person:cn-sallustius` per roster; the underlying name is still unresolved by editors.
+- **Pre-existing draft irregularity (NOT this pass):** several book-6 letter openers (6.9, 6.15, 6.16, 6.17) carry **English** text inside `\ciceroLetterOpener{…}` rather than the Latin salutation — a translation-side fix for a future Latin/parallel-cleanup pass, not touched by the apparatus sweep.
+- **Relational figures not tagged** (no registry entry): Cn. Domitius's mother **Porcia** (daughter of Cato) in 6.22; the **elder Q. Pompeius Bithynicus** (the father) in 6.17. Candidates for future staging.
+- **`res publica` references** were tagged to `institution:senate` per corpus convention; an `institution:res-publica` entity may be warranted in a future pass (flagged by workers on 2.15, 6.13, 6.17).
+- **Empty `external_ids` on all 36 new entities.** Backfill DPRR/Pleiades/Wikidata ids in a later pass.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Greek-bearing loci flagged: the "owls to Athens" proverb in 6.3/6.4 (Beta-code in Perseus). Allusion candidates: the Caecilius Statius (*Plocium*) comic quotation in 2.9.
+- **Pre-existing registry dups carried** (NOT introduced this session): `person:p-rutilius-rufus` (×2) and `place:syracusae` (×2) — 1370 list entries vs 1368 unique.
+
+**Suggested next automated batch — continue the apparatus sweep. 510 drafted letters still lack entity-mention sidecars.** *Ad Familiares* books **2, 3, 6, 8, 10–16** and *Ad Brutum* are now complete on both axes; **books 1, 4, 5, 7, 9 remain** (bk01 1/11, bk04 0/15, bk05 2/20, bk07 3/33, bk09 1/26). The most coherent next clusters that finish *Ad Familiares*: **book 4** (the consolatory/political letters to Marcellus, Servius Sulpicius, and others of 46–45 — the cast overlaps this session's book 6) and **book 9** (the Varro / Papirius Paetus letters of 46). Then mop up books 1, 5, 7. After *Ad Familiares* is closed, the large frontier is ***Ad Atticum*** (7/396 — start at book 1) and ***Ad Quintum Fratrem*** (5/28). Regenerate the entity index from `data/entities.json` first (now **1370**). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 76: apparatus enrichment — entity-mentions + glossary for the 41 remaining Ad Familiares book-2 (Curio/Caelius/admin) and book-6 (Pompeian-consolation) letters; books 2 and 6 now complete 19/19 and 22/22 on both axes; 679 mentions, 211 glossary notes; 36 new entities (registry 1334->1370: the C. Coelius Caldus quaestor + Curio/Thermus couriers + Cilician-campaign geography for book 2, and the book-6 consolation addressees — Torquatus/Ligarius/Basilus/Toranius/Trebianus/Furfanius, Caecina's Liber Querelarum + Cicero's Orator, Siro); coelius-quaestor-cilicia merged into c-coelius-caldus-q50; t-furfanius-postumus cross-worker dup deduped; 6 paraphrased glossary anchors corrected to verbatim"` to land. Next session: continue the apparatus sweep from Ad Familiares book 4 (Marcellus/Servius cast) / book 9 (Varro/Paetus); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 75 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 75 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21, immediately following session 74). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*; *ad-atticum* 13.15/13.18/13.36; *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs, and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have **no Latin file at all**. Per standing guidance, this session continued the apparatus sweep from sessions 67–74.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — entity-mentions + glossary sidecars for the 30 remaining drafted letters of *Ad Familiares* books 3 and 8, completing both books on both axes.** **Book 3 (the Appius Claudius Pulcher correspondence, 53–50 BC):** all 13 letters (3.1–3.13) — Cicero's careful, prickly exchange with his predecessor as governor of Cilicia, on the handover, the *Appietas*/*Lentulitas* banter, Appius's *maiestas* and *ambitus* trials, and his censorship. **Book 8 (the Caelius Rufus letters, 51–48 BC):** all 17 letters (8.1–8.17) — M. Caelius Rufus's gossipy political dispatches to Cicero in Cilicia, from the trials and elections of 51–50 through Curio's tribunate and the *senatus consultum* on the consular provinces (8.8) to the outbreak of civil war (8.15–8.17). Totals: **1,340 entity mentions, 174 glossary notes.** **Book 3 now COMPLETE 13/13 on both axes; book 8 now COMPLETE 17/17 on both axes.** Corpus letter-level entity-mention coverage rose **287 → 317 of 868 drafted** (counted by bare id); letters still lacking entity-mentions: **551 of 868** (down from 581).
+
+**Method (PM-curated roster + parallel workers, two waves):** the PM wrote a binding canonical-ID roster (`outputs/cicero_roster_s75.md`) pre-resolving the recurring late-Republican cast and the dedupe cruxes — central: **M. Caelius Rufus (book-8 sender) bound to `person:caelius-defendant`** (the canonical "Marcus Caelius Rufus" entry from *Pro Caelio*; NOT a new `person:caelius-rufus`); **Curio the tribune of 50 to `person:c-scribonius-curio-tr`** (NOT his cos.76 father `person:c-curio-cos`); **the three Marcelli kept distinct by consular year** (cos.51 `person:m-claudius-marcellus-cos51`, cos.50 `person:c-claudius-marcellus-cos50`, cos.49 `person:c-claudius-marcellus-cos49`); the two Lentuli (Crus `person:lentulus-crus`, Spinther `person:lentulus-spinther`). **Wave 1 = 3 workers on book 3**; the PM then folded the book-3 new entities into the registry; **Wave 2 = 4 workers on book 8**, so the law/institution entities minted in book 3 (`law:lex-de-ambitu`, `law:lex-de-maiestate`, `institution:college-of-augurs`) were reused. Each of the 7 workers enriched 3–5 letters end-to-end against the roster, grepping `data/entities.json` directly to reuse existing ids and staging genuinely-new entities to per-worker JSONL files in `outputs/` (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 77 new entities merged; registry 1257 → 1334.** Cross-worker exact dups deduped: **`person:phania`** (book 3, staged by 2 workers) and **`person:c-lucilius-hirrus`** + **`person:p-sittius`** (book 8, each staged by 3 workers — Hirrus and Sittius recur across the Caelius letters). New entities of note: the **book-3 Cilician-handover cast** (Appius's freedmen/couriers `person:phania`, `person:cilix-freedman`, `person:q-servilius-courier`, `person:d-tullius-courier`, `person:l-lucilius-appius-agent`; legates `person:q-fabius-vergilianus`, `person:d-antonius-praefectus`; the Tarsian Stoic `person:athenodorus-sandonis` + `institution:stoic-school`; provincial laws `law:lex-cornelia-de-provinciis`, `law:lex-cornelia-de-sumptu-legatorum`; standing charges `law:lex-de-maiestate`, `law:lex-de-ambitu`; `institution:college-of-augurs`; places `place:tralles`, `place:midaeum`, `place:mopsuhestia`, `place:pyramus`, `place:phrygia-epictetus`); the **book-8 Roman-politics cast** (`person:c-lucilius-hirrus`, `person:p-sittius`, the trial-cast `person:m-servilius-defendant`/`person:m-tuccius`/`person:gallii-prosecutors`/`person:c-sempronius-rufus`, the tribunes `person:l-ateius-capito-tr`/`person:c-caelius-tr50`/`person:p-cornelius-tr`/`person:m-caelius-vinicianus`, `person:q-pompeius-rufus-tr52`, the women `person:orestilla`/`person:paula-valeria`, laws `law:lex-scantinia`/`law:lex-plotia-de-vi`/`law:lex-licinia-de-sodaliciis`, `institution:quindecimviri`, `unit:legio-septima`, `group:bellovaci`, places `place:ravenna`/`place:baulis`/`place:campus-martius`/`place:commagene`/`place:seleucia-tigris`, the Intimilium murder cast `person:bellienus-intimilium`/`person:domitius-intimilium`/`place:intimilium`, `god:fortuna`).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–74 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, `054bc-ad-familiares-13-49.tex`, `043bc-ad-familiares-11-28.tex` — plus the chronological-gap block; **no new warnings from the 60 new sidecars**). Independent verification confirmed all 30 book-3/8 letters now carry **both** sidecars (30/30, no orphans), every one carries `schema_version: 1` and the correct bare in-file `id`, **all 1,340 mention `entity_id`s and all 174 glossary `entity_id`s resolve in the 1,334-entry registry** (zero unresolved), and **every one of the 174 glossary anchors is a verbatim substring of its English `.tex`.** All 60 new files use the date-prefixed canonical filename. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session, so both would be no-ops.
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **Uncertain identities** (best-guess bound, flagged in each entity summary): `person:l-valerius-jurisconsult`, `person:c-flaccus-l-f`, `person:m-octavius-cn-f`, `person:q-mucius-scaevola-quaestor-51`, `person:varro-appius-friend`, `person:flaccus-legate-asia-50` (book 3); `person:gallii-prosecutors` (a pair-entity for the two Gallii), `person:orestilla`, `person:c-valerius-triarius`, `person:s-tettius`, `person:l-lollius-servilius-case`, `person:pausanias-servilius-case`, `person:cn-saturninus-defendant`, `person:demetrius-intimilium`, `person:psecas` (book 8).
+- **Deliberate same-name splits to confirm in cleanup:** `person:cn-saturninus-defendant` vs `person:cn-saturninus`; `person:c-sempronius-rufus` vs `person:sempronius-rufus`; `person:q-pilius-celer` vs `person:celer-pilius`; `person:l-ateius-capito-tr` vs `person:c-ateius-capito`; `person:c-caelius-tr50` vs `person:c-caelius-caldus-cos94`.
+- **Augural-college inconsistency:** worker on 3.4 tagged the body as `office:augur`; worker on 3.10 minted `institution:college-of-augurs`. Rebind 3.4's college reference to `institution:college-of-augurs` for consistency in cleanup.
+- **Empty `external_ids` on all 77 new entities.** Backfill DPRR/Pleiades/Wikidata ids in a later pass.
+- **No Greek phrases / allusions / crossrefs emitted** (deferred). Book 3 is Greek-bearing (the *Polias*/*Appias* Athena pun in 3.1; "Zeus the counsellor" in 3.8) and book 8 too — a future greek-phrases sweep should cover them.
+- **Latin-source cruxes** (Perseus OCR corruptions / daggered loci) flagged by workers in 3.5/3.6/3.7/3.8/3.10 and 8.1/8.2/8.3/8.5/8.7/8.9 (the "Curionem prorsus Curionem" crux, left untranslated in the English)/8.15/8.17 (the corrupt "Arruntanum Catonem") — for the Latin-cleanup/parallel pass; none affect the apparatus.
+- **Pre-existing dups carried from s74** (NOT introduced this session): `person:m-cicero-the-younger` vs `person:marcus-cicero-younger`; `person:q-cicero-younger` vs `person:q-cicero-the-younger`; `person:p-rutilius-rufus` (×2); `place:syracusae` (×2); `person:lentulus-spinther` vs `person:p-lentulus-spinther` — still pending merge.
+
+**Suggested next automated batch — continue the apparatus sweep. 551 drafted letters still lack entity-mention sidecars.** *Ad Familiares* books **3, 8, 10–16** and *Ad Brutum* are now complete on both axes; **books 1, 2, 4, 5, 6, 7, 9 remain** (bk01 1/11, bk02 0/19, bk04 0/15, bk05 2/20, bk06 0/22, bk07 3/33, bk09 1/26). The most coherent next clusters that finish *Ad Familiares*: **book 2** (the Caelius/Curio political letters of 51–50 — the cast carries straight over from this session's book 8) and **book 6** (the civil-war-years letters to Pompeians — A. Torquatus, A. Caecina, etc.); then mop up books 1, 4, 5, 7, 9. After *Ad Familiares* is closed, the large frontier is ***Ad Atticum*** (7/396 — start at book 1) and ***Ad Quintum Fratrem*** (5/28). Regenerate the entity index from `data/entities.json` first (now **1334**). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 75: apparatus enrichment — entity-mentions + glossary for the 30 remaining Ad Familiares book-3 (Appius) and book-8 (Caelius) letters; books 3 and 8 now complete 13/13 and 17/17 on both axes; 1340 mentions, 174 glossary notes; 77 new entities (registry 1257->1334: the Appius Cilician-handover cast + provincial laws + college-of-augurs, the Caelius Roman-politics cast — Hirrus/Sittius/the trial-and-tribune roster, lex Scantinia/Plotia/Licinia, the Intimilium murder cast); Caelius bound to person:caelius-defendant; phania/hirrus/sittius cross-worker dups deduped"` to land. Next session: continue the apparatus sweep from Ad Familiares book 2 (Curio/Caelius cast) / book 6 (civil-war Pompeians); or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 74 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 74 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*, *ad-atticum* 13.15/13.18/13.36, *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs that explicitly forbid translation, and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have **no Latin file at all**. `fetch_latin.py` is forbidden on every one. Per standing guidance, this session continued the apparatus sweep from sessions 67–73.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — apparatus sidecars (entity-mentions + glossary) for the 45 remaining drafted letters of *Ad Familiares* books 16 and 15.** **Book 16 (the Tiro correspondence):** all 26 letters that lacked sidecars (16.1–16.12, 16.14–16.27; 16.13 was already done) — Cicero's letters to his freedman-secretary on the journey home from Cilicia and through the civil war, the brother Quintus's notes to Tiro, and young Marcus's two letters from Athens (16.21, 16.25). **Book 15 (the Cilician command + political correspondence):** all 19 letters that lacked sidecars (15.1–15.7, 15.10–15.21; 15.8/15.9 were already done) — the two official Senate dispatches on the Parthian invasion (15.1–15.2), the four-letter Cato exchange about the supplicatio (15.3–15.6, incl. Cato's own reply 15.5), the Marcellus/Paullus consular letters (15.7, 15.10–15.13), and the C. Cassius Epicurean-banter sequence (15.14–15.20, incl. Cassius's reply 15.19) plus the two Trebonius letters (15.20–15.21). Totals: **1,109 entity mentions, 199 glossary notes.** **Book 16 is now COMPLETE on both axes: 27 / 27. Book 15 is now COMPLETE on both axes: 21 / 21.** With books 10–16 (and *Ad Brutum*) all complete, corpus letter-level coverage rose **entity-mentions 242 → 287, glossary 242 → 287** (counted by bare id; see filename note below). Letters still lacking entity-mentions: **581 of 868 drafted** (down from 626).
+
+**Method (PM-curated roster + parallel workers):** the PM wrote a binding canonical-ID roster (`outputs/cicero_roster_s74.md`) pre-resolving the household/freedman cast and the Cilician/political cast, with the central cruxes: **young Marcus (the son), sender of 16.21/16.25, bound to `person:m-cicero-the-younger`** (corpus-dominant, 19 files — not the dup `person:marcus-cicero-younger`); **the nephew young Quintus to `person:q-cicero-younger`** (dominant); **C. Cassius Longinus the tyrannicide bound to `person:cassius-longinus`** (26 files — not `person:q-cassius-longinus-spain` nor `person:c-cassius-cos73`); **M. Cato Uticensis to `person:cato-minor`**; the three Marcelli kept distinct (cos.50 `person:c-claudius-marcellus-cos50`, cos.51 `person:m-claudius-marcellus-cos51`, cos.49 `person:c-claudius-marcellus-cos49`); the Patrae household (banker `person:mn-curius-patrensis`, host `person:lyso-patrensis`, doctor `person:asclapo-patrensis`). Dispatched **11 worker sub-agents across three waves** (book 16 = 5 workers; book 15 = 3 + 3), each enriching 3–6 letters (or one long letter, 15.4) end-to-end against the roster, grepping `data/entities.json` directly to reuse existing ids and staging genuinely-new entities to per-worker JSONL files in `outputs/` (no worker touched shared files or git). Between waves the PM folded each wave's new entities into the registry so later workers reused them (the Cilician royalty/geography carried straight from the 15.1–15.2 dispatches into the 15.4 Cato letter and the Cato/Cassius letters).
+
+**PM consolidation / reconciliation: 94 new entities merged; registry 1163 → 1257 (list entries; 1255 unique ids).** Cross-worker exact dups deduped: **`place:leucas`** (staged by two book-16 workers) and **`person:catius-epicureus`** (staged independently by the 15.15–18 and the 15.19–21 workers — same id, kept once). One concept-level split was reconciled: the supplicatio was staged as both `institution:supplicatio` (15.4) and `festival:supplicatio` (15.5/15.6/15.10) — **canonicalized to `festival:supplicatio`** (a supplicatio is a religious observance, not a governing body; it was also the majority id) and the 6 references in 15.4 were rebound. New entities of note: the **foreign-royalty cast** of the Parthian-war dispatches (`person:ariobarzanes-iii`, `person:antiochus-of-commagene`, `person:orodes-ii`, `person:pacorus`, `person:artavasdes-ii`, `person:tarcondimotus`, `person:iamblichus-phylarch`, `person:ariarathes-of-cappadocia`, `person:pharnaces-ii`); the **Amanus-campaign geography** (`place:pindenissum`, `place:erana`, `place:sepyra`, `place:commoris`, `place:aras-alexandri`, `place:eleutherocilices`, `place:euphrates`, `place:taurus`, `place:cybistra`, `place:iconium`, `place:armenia`, `place:lycaonia`, `place:isauria`, `place:comana`); the **household couriers** (`person:mario-servus`, `person:andricus-servus`, `person:aegypta-servus`, `person:hermia-servus`, `person:harpalus-servus`, `person:helico-servus`, `person:motho-servus`, `person:parhedrus-servus`, `person:anteros-servus`); **young Marcus's Athens teachers** (`person:cratippus-pergamenus`, `person:gorgias-rhetor`, `person:epicrates-atheniensis`, `person:leonides-atheniensis`); the **civil-war cast** (`person:c-scribonius-curio-tr` — the tribune of 50, distinct from his cos.-76 father `person:c-curio-cos`; `person:m-petreius`, `person:considius-nonianus`); the **Epicurean cast** (`person:catius-epicureus`, `person:amafinius`, `person:democritus-abdera`, `institution:epicurean-school`); Cicero's mother **`person:helvia`**; the legates `person:c-pomptinus`, `person:l-tullius-legatus`; and the offices/honours `office:tribunus-militum`, `festival:supplicatio`, `institution:triumph`.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–73 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, the stale `054bc-ad-familiares-13-49.tex`, the `043bc-ad-familiares-11-28.tex` duplicate — plus the chronological-gap block). Independent verification confirmed all 48 book-15/16 letters now carry **both** sidecars (full coverage, no orphans), every one carries `schema_version: 1` and the correct bare in-file `id`, **all 94 new entities and every `entity_id` across all 96 sidecars resolve in the 1257-entry registry** (zero unresolved), and **every glossary anchor in the 90 new files is a verbatim substring of its English `.tex`.** **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session, so both would be no-ops (running them risks a spurious whole-corpus diff).
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **Two 45-BC "Demetrius" entities** were staged as flag-not-resolve placeholders: `person:demetrius-circle-45` (16.17, a man with an entourage Cicero extracts himself from) and `person:demetrius-fam-16-22` (16.22, the man mocked as "no Demetrius of Phalerum but a Billienus"). They are plausibly the **same** contemporary acquaintance and possibly relate to the existing `person:demetrius-courier` / `person:demetrius-magnes` — a dedupe-and-identify candidate.
+- **`person:m-cicero-the-younger` vs `person:marcus-cicero-younger` dup persists** (book 16 binds consistently to `person:m-cicero-the-younger` now); likewise `person:q-cicero-younger` vs `person:q-cicero-the-younger`. Merge favouring the dominant ids in a future cleanup.
+- **Pre-existing exact-id duplicates in `entities.json`** (NOT introduced this session): `person:p-rutilius-rufus` (×2) and `place:syracusae` (×2) each appear twice in the registry list (hence list 1257 vs 1255 unique). Harmless to the validator; dedupe candidates carried from session 73.
+- **Pre-existing glossary-anchor mismatches** (NOT this session, NOT caught by `validate.py`): `054bc-ad-familiares-15-08.json` anchor `"C. Marcello conlegae"` (a Latin anchor) and `055bc-ad-familiares-16-13.json` anchor `"Tiro"` are not verbatim English substrings. One-line fixes in a future pass.
+- **Empty `external_ids` on all 94 new entities.** Backfill DPRR/Pleiades/Wikidata ids in a later pass.
+- **Uncertain identities flagged, not resolved** (best-guess bound, noted in each entity summary): `person:antiochus-of-commagene` (regnal number), `person:athenais`, `person:comana-priest`, `place:tebarani`/`place:tyba` (locations); `person:pompeius-bithynicus` and `person:ofilius` (16.24); `person:q-titurius-sabinus` ("Sabinus", 16.16); the unidentified Fam-16 figures `person:servilius-fam-16-23`, `person:aurelius-fam-16-24`, `person:flamma-debtor`, `person:papia-fam-16-24`; "Tertia" (16.22) bound best-guess to `person:iunia-tertia`; `person:cn-pompeius-iunior` (Gnaeus the elder son, kept distinct from `person:sextus-pompeius`); `person:democritus-abdera` (kept distinct from `person:democritus-sicyonius`, Cicero's guest-friend); `person:mindius-macellarius` (distinct from `person:m-mindius`).
+- **No Greek phrases or allusions/crossrefs emitted** (deferred). These two books are Greek-rich and a future greek-phrases pass should sweep them: the Cassius Epicurean letters 15.16–15.19 (*eidōla*/*spectra*, *dianoētikas phantasias*, *hairesis*, *to kalon di' hauto haireton*, the Epicurus quotation in 15.19) and book 16 (16.4 *kakostomachos*; 16.8 two phrases incl. a Euripides tragic line; 16.10 the *fides*/*etymon* pun; 16.17–18 the *kanōn* and the medical-vocabulary run; 16.21 *philologia*, *hypomnēmata*). Allusion candidates flagged: 16.8 Euripides (unattributed play) and 15.6 Naevius (the Hector line "abs te, pater, a laudato viro").
+- **Latin source cruxes** (Perseus typos/daggered text) flagged by workers in 15.1, 15.4 §6, 15.11, and 16.21 §6 — for the Latin-cleanup/parallel pass.
+- **Filename-convention irregularity** (carried from session 71/72): a handful of earlier book-13 entity-mentions sidecars use the bare `ad-familiares-13-NN.json` name rather than the date-prefixed canonical name, so corpus coverage must be counted by **bare id** (date-prefixed matching undercounts by ~7). This session's 90 new files all use the correct date-prefixed names.
+
+**Suggested next automated batch — continue the apparatus sweep.** **581 drafted letters still lack entity-mention sidecars.** *Ad Familiares* books **10–16** and *Ad Brutum* are now complete on both axes; **books 1–9 remain** (bk01 1/11, bk02 0/19, bk03 0/13, bk04 0/15, bk05 2/20, bk06 0/22, bk07 3/33, bk08 0/17, bk09 1/26). The most coherent next clusters that finish *Ad Familiares*: **book 3** (the Appius Claudius Pulcher correspondence — `person:appius-claudius-pulcher`'s cast carries straight over from this session's book 15) and **book 8** (the letters *from* M. Caelius Rufus to Cicero — distinct sender to tag). Then mop up books 1, 2, 4, 5, 6, 7, 9. After *Ad Familiares* is closed, the large frontier is ***Ad Atticum*** (7/396 — start at book 1) and ***Ad Quintum Fratrem*** (5/28). Regenerate the entity index from `data/entities.json` first (now **1257**). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 74: apparatus enrichment — entity-mentions + glossary for the 45 remaining Ad Familiares book-16 (Tiro) and book-15 (Cilicia/Cato/Cassius) letters; books 15 and 16 now complete 21/21 and 27/27 on both axes; 1109 mentions, 199 glossary notes; 94 new entities (registry 1163->1257: the Parthian-war royalty + Amanus geography, the Tiro-household couriers, young Marcus's Athens teachers, the Curio-tribune/civil-war cast, the Catius/Epicurean cast, Helvia, supplicatio/triumph); supplicatio canonicalized to festival:supplicatio; leucas + catius cross-worker dups deduped"` to land. Next session: continue the apparatus sweep from Ad Familiares book 3 (Appius) / book 8 (Caelius) to finish books 1–9, then open Ad Atticum; or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 73 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 73 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*, *ad-atticum* 13.15/13.18/13.36, *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs that explicitly forbid translation, and the 7 pending philosophy/rhetoric works (*aratea*, *de-inventione*, *de-consulatu-suo*, *de-temporibus-suis*, *de-legibus*, *consolatio*, *hortensius*) have **no Latin file at all**. `fetch_latin.py` is forbidden on every one. Per standing guidance, this session continued the apparatus sweep from sessions 67–72.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — apparatus sidecars (entity-mentions + glossary) for the 23 remaining drafted letters of *Ad Familiares* book 14** (14.1–14.3, 14.5–14.24; 14.4 was already done): the **Terentia / family correspondence** — the 58 BC exile letters to his wife, daughter Tullia and young son Marcus, then the 49–47 BC civil-war and post-Pharsalus notes from Brundisium. **Plus the one missing book-13 glossary (`ad-familiares-13-40`)**, the quick win that closes book 13. Totals: **320 entity mentions, 47 glossary notes.** **Book 14 is now COMPLETE on both axes: 24 / 24 drafted letters carry entity-mentions AND glossary. Book 13 is now COMPLETE on both axes: 79 / 79.** Corpus letter-level coverage rose **entity-mentions 219 → 242, glossary 218 → 242.** (Letters still lacking entity-mentions: 626 of 868 drafted.)
+
+**Method (PM-curated roster + parallel workers):** the PM rebuilt the entity index from `data/entities.json` (1147) and wrote a binding book-14 roster pre-resolving the tight family cast plus three dup/disambiguation cruxes: **young Marcus bound to `person:m-cicero-the-younger`** (the corpus-dominant id, 10 mention-files vs 3) — **not** the variant `person:marcus-cicero-younger` that the older 14-04 sample uses (a dup carry-forward; the eventual merge should favor `person:m-cicero-the-younger`); **Tullia's FIRST husband Piso bound to `person:c-piso-frugi-son-in-law`** (the loyal son-in-law of the exile letters — a real disambiguation from `person:c-calpurnius-piso-frugi`, the cos.-67 *Pro Roscio Comoedo* judge who happens to share the name); and **Lentulus Spinther bound to `person:p-lentulus-spinther`** (the dominant id; dup with `person:lentulus-spinther`). The PM pre-registered **`person:cn-plancius`** (Cn. Plancius, quaestor of Macedonia 58 BC who sheltered Cicero at Thessalonica — absent from the registry) as a prescribed anchor. Dispatched **5 worker sub-agents in one wave** (4+5+5+5+4 letters), each enriching its letters end-to-end against the roster + index, staging genuinely-new entities to per-worker JSONL files (no worker touched shared files or git).
+
+**PM consolidation / reconciliation: 16 new worker entities merged; registry 1147 → 1163.** Resolved one cross-worker exact-duplicate: **`person:c-camillus`** (worker A, 14.5) and **`person:c-furius-camillus`** (worker C, 14.14) are the SAME man (C. Furius Camillus, jurisconsult / financial agent) → kept `person:c-furius-camillus`, patched 14.5's two mentions, dropped `c-camillus`. Workers correctly **reused existing** `person:philotimus` (Terentia's freedman, household manager — exactly the right man for book 14) and `person:c-trebatius-testa`. Kept the workers' correct new distinct entities: **`person:t-labienus`**, **`person:q-paconius-lepta`**, **`person:sicca`** (all genuinely absent from the registry); **`person:p-valerius`** (the contemporary 58 BC informant who reported Terentia's summons — distinct from the ancient founder `person:p-valerius-publicola`); **`person:precius`** (the deceased testator of the *hereditas Preciana* in 14.5 — distinct from the living `person:precilius-pater`/`-filius` of Fam. 13.15); the couriers **`person:aristocritus-servus`**, **`person:dexippus-servus`**, **`person:acastus-servus`**, **`person:pollex-servus`**; and places **`place:tabula-valeria`** (the Forum banking station Terentia was dragged to), **`place:minturnae`**, **`place:venusia`**. **Softened `person:volumnia`** (Fam 14.16): canonical_name set to "Volumnia" with the Cytheris (the mime-actress, Antony's mistress) identification flagged *uncertain* rather than asserted.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–72 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, the stale `054bc-ad-familiares-13-49.tex`, the `043bc-ad-familiares-11-28.tex` duplicate — plus the chronological-gap block). Independent verification confirmed all 23 new mention files + 23 new glossary files + the 13.40 glossary parse, carry `schema_version: 1` and correct bare in-file `id`s, every one of the mention/glossary `entity_id`s resolves in the 1163-entry registry, and **every glossary anchor in the new files is a verbatim substring of its English `.tex`.** **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — `english/`, `data/parallel/`, and `works.yaml` are all unchanged this session, so both would be no-ops (running them risks a spurious whole-corpus diff).
+
+**Known issues / follow-ups (for a future apparatus / cleanup pass):**
+- **`person:m-cicero-the-younger` vs `person:marcus-cicero-younger` dup persists**, and book 14 is now split: 23 letters bind to `person:m-cicero-the-younger`, only 14-04 to `person:marcus-cicero-younger`. Merge favoring `person:m-cicero-the-younger`, and re-bind 14-04, in a future cleanup.
+- **Pre-existing data bug in the `ad-familiares-14-04` glossary** (NOT touched this session): its anchor `"Brundisium, late April 58 BC"` is NOT a verbatim substring of its English `.tex` (`validate.py` does not catch glossary-anchor mismatches). One-line fix in a future pass.
+- **Pre-existing exact-id duplicates in `entities.json`** (NOT introduced this session): **`person:p-rutilius-rufus`** (×2) and **`place:syracusae`** (×2) each appear twice in the registry list. Harmless to the validator; dedupe candidates.
+- **Empty `external_ids` on the 16 new registry entities.** Backfill DPRR/Pleiades/Wikidata ids in a later pass.
+- **Pre-existing dup pairs carried forward:** `person:l-piso`/`person:piso-caesoninus` (both = L. Calpurnius Piso Caesoninus; 14.14's Piso bound to `person:l-piso`); `person:lentulus-spinther`/`person:p-lentulus-spinther`; plus those listed in the session-72 note (`person:a-gabinius`/`person:gabinius`; the two Marcellus ids; `person:m-terentius-varro` still a stub).
+- **Uncertain identities flagged not resolved:** `person:rufus-comes-49` (the "Rufus" travelling with Cicero in 14.14, identity uncertain); `person:precius` (the reading of *hereditas Preciana*); `person:volumnia` (the Cytheris identification).
+- **No Greek phrases or allusions/crossrefs emitted** (deferred, as in session 72). Book 14 carries little Greek; a future greek-phrases pass can sweep it with books 15–16.
+
+**Suggested next automated batch — continue the apparatus sweep.** **626 drafted letters still lack entity-mention sidecars** (down from 649). With *Ad Familiares* books 13 and 14 now complete on both axes, the next coherent clusters are **book 16** (the 27 **Tiro** letters — Cicero's freedman-secretary correspondence; only 16.13 currently carries both sidecars) and **book 15** (the 21 **Cilicia / Cassius / Cato** dispatches; only 15.08 and 15.09 carry both). Regenerate the entity index from `data/entities.json` first (now **1163**). The household/freedman cast (Tiro, Philotimus, the couriers) and the Cilician/Asian provincial cast carry straight over. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 73: apparatus enrichment — entity-mentions + glossary for the 23 remaining Ad Familiares book-14 letters (Terentia/family correspondence; book 14 now complete 24/24 on both axes) + the missing 13.40 glossary (book 13 now complete 79/79 on both axes); 320 mentions, 47 glossary notes; 16 new entities (registry 1147->1163: cn-plancius, c-furius-camillus, t-labienus, q-paconius-lepta, sicca, p-valerius, precius, volumnia, four couriers, tabula-valeria, minturnae, venusia); c-camillus deduped into c-furius-camillus; young Marcus bound to m-cicero-the-younger"` to land. Next session: continue the apparatus sweep from Ad Familiares book 16 (Tiro) / book 15 (Cilicia), or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 72 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 72 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*, *ad-atticum* 13.15/13.18/13.36, *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs that explicitly say not to translate, and the 7 pending philosophy/rhetoric works (*de-legibus*, *consolatio*, *hortensius*, *de-consulatu-suo*, *de-temporibus-suis*, *aratea*, *de-inventione*) have no Latin file at all. `fetch_latin.py` is forbidden on every one. Per the standing guidance, this session continued the apparatus sweep from sessions 67–71.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — apparatus sidecars for the final 32 drafted letters of *Ad Familiares* book 13** (13.38–13.39, 13.41–13.44, 13.47–13.50, 13.52–13.54, 13.57–13.60, 13.63, 13.66–13.79: the close of the recommendation book — the M'. Acilius Glabrio / Sicily tail, the L. Culleolus / Illyricum pair, Q. Gallius, P. Silius Nerva, C. Sextilius Rufus, the Q. Minucius Thermus / Asia cluster, the seven-letter P. Servilius Isauricus / Asia sequence, Q. Marcius Philippus, the T. Titius / Avianius wine-merchant letter, the IIII-viri-et-decuriones municipal letter, P. Sulpicius Rufus / Illyricum, and the A. Allienus pair). Each letter got an **entity-mentions** sidecar and a **glossary** sidecar. **Allusions/crossrefs were NOT emitted** (deferred — see flagged candidates below). Totals: **383 entity mentions, 107 glossary notes.** **Book 13 entity-mentions coverage is now COMPLETE: 79 / 79 drafted letters.** Corpus letter-level coverage rose **entity-mentions 187 → 219, glossary 186 → 218.** (Letters still lacking entity-mentions: 649 of 868 drafted.)
+
+**Method (PM-curated roster + parallel workers):** the PM rebuilt the entity index from `data/entities.json` and **pre-registered three recipient anchors** so the multi-letter and trap-name addressees resolve cleanly: **`person:l-culleolus`** (L. Culleolus, proconsul of Illyricum c. 59 BC — recipient of 13.41–42; new), **`person:q-marcius-philippus-procos`** (Q. Marcius Philippus, proconsul of Asia in the mid-40s — recipient of 13.73–74; kept distinct from `person:l-marcius-philippus`, the cos.-91 *De Oratore* interlocutor), and **`person:p-sulpicius-rufus-procos-illyricum`** (P. Sulpicius Rufus, imperator/proconsul of Illyricum 48–46 BC — recipient of 13.77; kept distinct from `person:p-sulpicius-rufus`, the orator and tribune of 88 BC). The PM also wrote a binding canonical-ID roster, the central crux being that **the seven Servilius letters (13.66–72) bind to the YOUNGER `person:p-servilius-vatia-isauricus-minor`** (cos. 48, proconsul of Asia 46–44, Cicero's augural colleague), **never** the elder `person:p-servilius-vatia-isauricus` (cos. 79, the Verres-trial judge — who surfaces only as "the father" in 13.68 §3); plus Glabrio-Sicily, Thermus, P. Silius, Sextilius Rufus, and A. Allienus bound to their existing ids. Dispatched **7 worker sub-agents in 2 waves (4 + 3)**, each enriching 3–5 letters end-to-end against the roster + index, staging genuinely-new entities to per-worker JSONL files (no worker touched shared files or git). Between waves the PM folded wave-1's new entities into the registry so wave 2 reused them.
+
+**PM consolidation / reconciliation: 47 new worker entities + 3 pre-registered anchors merged; registry 1097 → 1147.** Resolved one cross-worker exact-id duplicate: **`person:l-oppius`** (the banker at Philomelium tied to the Egnatii) was staged by both worker B (13.44) and worker D (13.73/74) → kept one, first_appearance 13.44. Kept the workers' correct disambiguations: **`person:c-titius-rufus-pr`** (C. Titius L.f. Rufus, praetor urbanus 50 BC, recipient of 13.58) distinct from `person:c-titius`; **`person:t-titius-legatus`** (T. Titius T.f., legate, recipient of 13.75) distinct from both; **`person:c-curtius-peducaeanus`** (praetor, recipient of 13.59) distinct from the other Curtii; **`person:c-curtius-mithres`** (a freedman, 13.69) likewise; **`person:c-rabirius-postumus`** (the *Pro Rabirio Postumo* financier, 13.69) distinct from `person:rabirius-perduellionis-reus`; **`person:dionysius-servus-ciceronis`** (Cicero's runaway library-slave, the subject of 13.77) distinct from `person:m-pomponius-dionysius` and the other Dionysii; the two Avianius-Flaccus sons **`person:c-avianius-flaccus-filius`** and **`person:m-avianius-flaccus`** (13.79) distinct from their father `person:c-avianius-flaccus`; **`person:l-oppius`** distinct from `person:gaius-oppius` (Caesar's agent); and the flagged recipient cruxes **`person:q-gallius`** (13.43–44), **`person:curius-procos`** (13.49), and **`person:rex-recipient`** (13.52). New offices/institutions: **`office:quattuorvir`** and **`institution:decuriones`** (the municipal addressees of 13.76). Place anchors added: Bullis, Philomelium, Paphos, Parium, Derbe, Colophon, Narona, Fregellae.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–71 baseline** (3 pre-existing orphan-Latin warnings — `046bc-ad-familiares-09-25.tex`, the stale `054bc-ad-familiares-13-49.tex` left by the Phase-0 rename, and the `043bc-ad-familiares-11-28.tex` duplicate — plus the chronological-gap block). Independent verification confirmed all 32 letters carry both required sidecars with correct bare in-file `id`s and `schema_version: 1`, every one of the 383 mention `entity_id`s and every glossary `entity_id` resolves in the 1147-entry registry, and **every glossary anchor is a verbatim substring of its English `.tex`.** **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — they regenerate from `english/`, `data/parallel/`, and `works.yaml`, none of which changed this session, so both would be no-ops (running them risks a spurious whole-corpus diff).
+
+**Known issues / follow-ups (for a future apparatus pass):**
+- **Book 13 glossary is 78 / 79**: only **`ad-familiares-13-40`** still lacks a glossary sidecar (it already has entity-mentions from an earlier session). A one-letter quick win to finish book 13 on both axes.
+- **Empty `external_ids` on the 50 new registry entities** (3 anchors + 47 worker entities). A future pass should backfill DPRR/Pleiades/Wikidata ids.
+- **Recipient-identity cruxes flagged, not resolved:** `person:q-gallius` (13.43–44; opener "Quintius Gallus", praenomen/nomen uncertain); `person:curius-procos` (13.49; a one-line letter, identity uncertain — explicitly not the banker M'. Curius of Patrae); `person:rex-recipient` (13.52; cognomen-only, likely but not certainly Q. Marcius Rex); `person:c-titius-rufus-pr` vs `person:c-titius` (possible identity, kept distinct pending a merge decision).
+- **13.79 heading praenomen "D. Allieno"** is a manuscript corruption for A. (Aulus) Allienus; bound to `person:a-allienus`, noted in the glossary.
+- **Possible near-duplicate:** `person:t-ampius-menander` (the manumitted freedman of T. Ampius Balbus, 13.70) vs the pre-existing `person:menander-slave`; kept distinct (the freedman bears the full tria nomina) but worth a review.
+- **Pre-existing Egnatius registry duplicate confirmed by two workers:** `person:l-egnatius-rufus` (banker, Fam. 13.43/13.45) and `person:egnatius-l` (Att. 4.12) appear to be the same financier — a dedupe candidate carried forward.
+- **Greek phrases flagged but NOT emitted** to `greek-phrases.json`: 13.53 *dioikēsis* (διοίκησιν, "administrative district") and 13.67 §1 *treis dioikēseis* (τρεῖς διοικήσεις, "three administrative districts/dioceses"). A future greek-phrases pass for book 13.
+- **Pre-existing registry duplicates still owed** (carried from sessions 68–71): `person:lentulus-spinther`/`person:p-lentulus-spinther`; `person:a-gabinius`/`person:gabinius`; `person:m-claudius-marcellus-cos-3`/`person:m-claudius-marcellus-cos51`; `person:m-cicero-the-younger`/`person:marcus-cicero-younger`; `person:m-terentius-varro` still a stub.
+- **Filename-convention irregularity** (carried from session 71): a handful of earlier book-13 entity-mentions sidecars use the bare `ad-familiares-13-NN.json` name rather than the date-prefixed canonical name. Harmless to the validator/backmatter; worth normalising in a cleanup pass.
+
+**Suggested next automated batch — continue the apparatus sweep.** **649 drafted letters still lack entity-mention sidecars** (down from 681). With *Ad Familiares* book 13 now complete for entity-mentions, the next coherent clusters are **books 15–16** (the Cassius/Cato/Cilicia correspondence and the Tiro letters) and **book 14** (the letters to Terentia and the family). Regenerate the entity index from `data/entities.json` first (it grew to 1147). The promagistracy offices and the Cilician/Asian provincial cast carry straight over. A cheap finishing task to close book 13: add the single missing **`ad-familiares-13-40`** glossary sidecar. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 72: apparatus enrichment — entity-mentions + glossary sidecars for the final 32 Ad Familiares book-13 letters (13.38-13.79 remainder); book 13 entity-mentions now complete 79/79; 47 new worker entities + 3 pre-registered anchors (registry 1097->1147: person:l-culleolus, person:q-marcius-philippus-procos, person:p-sulpicius-rufus-procos-illyricum); Servilius 13.66-72 bound to the younger isauricus-minor; l-oppius cross-worker dup deduped"` to land. Next session: continue the apparatus sweep from Ad Familiares books 15–16 / 14 (and the one-letter 13.40 glossary), or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 71 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 71 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*, *ad-atticum* 13.15/13.18/13.36, *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs that explicitly say not to translate, and the 7 pending philosophy/rhetoric works (*de-legibus*, *consolatio*, *hortensius*, *de-consulatu-suo*, *de-temporibus-suis*, *aratea*, *de-inventione*) have no Latin file at all. `fetch_latin.py` is forbidden on every one. Per the standing guidance, this session continued the apparatus sweep from sessions 67–70.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — apparatus sidecars for 30 drafted letters of *Ad Familiares* book 13** (13.01–13.05, 13.07, 13.08, 13.10, 13.15, 13.17–13.37: the opening run of the recommendation book — to C. Memmius (the Epicurus's-house affair at Athens), Q. Valerius Orca, C. Cluvius, M. Rutilius, M. Brutus, Caesar, the long Servius Sulpicius Rufus / Achaea sequence, L. Munatius Plancus, and the M'. Acilius Glabrio / Sicily sequence). Each letter got an **entity-mentions** sidecar and a **glossary** sidecar. **Allusions/crossrefs were NOT emitted** (deferred — see flagged candidates below). Totals: **567 entity mentions, 127 glossary notes.** Corpus letter-level coverage rose **entity-mentions 157 → 187, glossary 156 → 186**; book-13 entity-mentions coverage rose **17 → 47 of 79.** (Letters still lacking entity-mentions: 681 of 868 drafted.)
+
+**Method (PM-curated roster + parallel workers):** the PM regenerated the full entity index from `data/entities.json` and **pre-registered two central-cast recipient anchors** so the 11 letters that name them resolve cleanly: **`person:c-memmius`** (C. Memmius, pr. 58 BC, dedicatee of Lucretius and owner of the ruined site of Epicurus's house at Athens — recipient of 13.01–03; previously absent from the registry) and **`person:m-acilius-glabrio-procos-sicily`** (M'. Acilius Glabrio, proconsul of Sicily 46–45 BC — recipient of 13.30–37; kept deliberately distinct from the bare stub `person:m-glabrio`, which is the M'. Acilius Glabrio who presided as praetor over the Verres trial of 70 BC, an earlier generation). The PM then wrote a binding canonical-ID roster for the book-13 cast (Servius Sulpicius Rufus = the cos.-51 jurist, **not** the younger; L. Munatius Plancus, **not** his brother Bursa; Q. Valerius Orca; M. Brutus; Caesar) plus two recipient cruxes, and dispatched **6 worker sub-agents in 2 waves of 3**, each enriching 5 letters end-to-end against the roster + index, staging genuinely-new entities to per-worker JSONL files (no worker touched shared files or git). Between waves the PM folded wave-1's new entities into the index so wave 2 reused the Patrae/Achaea cast (M'. Curius of Patrae, Lyso, Asclapo, the Avianii, `place:patrae`, `place:epirus`).
+
+**PM consolidation / reconciliation: 56 new entities merged; registry 1039 → 1097** (1039 + 2 pre-registered anchors + 56 worker entities). Resolved two cross-worker exact-id duplicates: **`place:patrae`** (staged by both worker B for 13.17 and worker C for 13.19 → kept one, first_appearance 13.17) and **`person:l-mescinius`** (D for 13.26, E for 13.28 → kept 13.26). Resolved two cross-worker *near*-dups with different slugs: **`person:mindius` (E, 13.28) merged into `person:m-mindius` (D, 13.26)** — the one M. Mindius whose widow **`person:oppia-mindi-uxor`** (kept distinct) is at issue in the Mescinius inheritance; and **`person:m-aemilius-aviani-patron` (A, 13.02) merged into `person:m-aemilius-avianius` (C, 13.21)** — the single M. Aemilius Avianius who manumitted both the sculptor C. Avianius Evander (13.02) and the Sicyon agent C. Avianius Hammonius (13.21/13.27); first_appearance back-dated to 13.02. The affected sidecars were retagged. Kept the workers' correct disambiguations: the recipient crux **`person:c-cluvius`** (Gaius Cluvius of 13.07) staged distinct from the banker **`person:m-cluvius-puteolanus`** (Marcus, of Puteoli); **`person:m-rutilius`** (recipient of 13.08, new); **`person:m-laberius`** (Marcus, 13.08) distinct from the mime **`person:laberius`** (Decimus); **`person:c-flavius-eques`** (Gaius, 13.31) distinct from **`person:l-flavius-eques`** (Lucius); **`person:lyso-lilybitanus-filius`** (the son, 13.34) distinct from the Verrine father **`person:lyso-lilybitanus`**; **`person:lyso-patrensis`** (Patrae) distinct from both; **`person:hippias-calactinus`** (13.37) distinct from the sophist **`person:hippias-of-elis`**; **`person:t-manlius-thespiensis`** distinct from **`person:t-manlius-praetor`**; **`person:c-curtius-volaterranus`** distinct from **`person:m-curtius`**. The 56 additions span the recommendation-book beneficiaries and their freedmen/agents (the Avianii, the Otacilius Naso freedmen Hilarus/Antigonus/Demostratus, the Cossinii, the Clodii of Halaesa, Demetrius Megas, Hagesaretus of Larisa, T. Antistius, A. Plautius, C. Ateius Capito, A. Terentius Varro Murena, etc.), four philosophers tied to the Memmius/Epicurus affair (**`person:epicurus`, `person:patro-epicurean`, `person:phaedrus-epicurean`, `person:philo-larissa`** — none previously in the registry), **`institution:areopagus`**, **`law:lex-iulia-agraria-59bc`**, and several Greek/Sicilian/Italian place anchors (Patrae, Epirus, Larissa, Elis, Corcyra, Novum Comum, Atella, Halaesa, Catina).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–70 baseline** (3 pre-existing orphan-Latin warnings — including the stray `043bc-ad-familiares-11-28.tex` duplicate — plus the chronological-gap block). Independent verification confirmed all 30 letters carry both required sidecars with correct bare in-file `id`s and `schema_version: 1`, every one of the 567 mention `entity_id`s and every glossary `entity_id` resolves in the 1097-entry registry, and **every glossary anchor is a verbatim substring of its English `.tex`** (two anchors were corrected during consolidation: a stray-period letter-heading in 13.18 and a Latin-instead-of-English anchor in 13.33). **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — they regenerate from `english/`, `data/parallel/`, and `works.yaml`, none of which changed this session, so both would be no-ops (running them risks a spurious whole-corpus diff). The apparatus sidecars this session produced are consumed directly by `generate_backmatter.py` (study/scholar profiles).
+
+**Known issues / follow-ups (for a future apparatus pass):**
+- **Empty `external_ids` on the 58 new registry entities** (2 anchors + 56 worker entities; each carries id/type/canonical_name/short_name/aliases/summary/first_appearance/categories). A future pass should backfill DPRR/Pleiades/Wikidata ids.
+- **`person:m-acilius-glabrio-procos-sicily` vs the stub `person:m-glabrio`**: kept distinct (proconsul of Sicily 46 vs. Verres-trial praetor 70). If prosopography decides they are the same line/man, merge later; either way the `person:m-glabrio` stub still needs enrichment.
+- **`person:c-cluvius` vs `person:m-cluvius-puteolanus`** (13.07): praenomen differs (Gaius vs Marcus) and role differs (Caesarian land-commission agent vs. Puteolan banker); staged distinct with a flag. Possible identity; merge decision deferred.
+- **`person:a-terentius-varro-murena`** (13.22): identification rests on the rare double-name + chronological fit (the Murena of Horace *Odes* 1.33, cos.-suff.-designate 23 BC); worker flagged UNCERTAIN for review before any merge.
+- **`person:c-ateius-capito`** (13.29): Cicero's late-Republican equestrian friend, deliberately kept distinct from the Augustan jurist C. Ateius Capito (cos. suff. AD 5) of the same name.
+- **13.10 §4 "Varro"** tagged to the polymath `person:m-terentius-varro` while §1–2 "M. Terentius" (MS-corrupted to "M. Varro") is Brutus's quaestor `person:m-terentius-quaestor-bruti`; the §4 reference follows the standard (Shackleton Bailey) reading but is a genuine ambiguity.
+- **`person:c-avianius-flaccus`** (13.35) is also the principal subject of the still-unenriched 13.75; back-annotate when book-13's later letters are swept.
+- **`person:m-terentius-varro` is still a stub** ("Varro's" placeholder canonical_name — flagged in sessions 69/71); owed an enrichment.
+- **Greek phrases flagged but NOT emitted** to `greek-phrases.json`: 13.01 §5 *hypomnematismon* (ὑπομνηματισμόν, the Areopagus's "memorandum"); and the dense cluster of ~7 Homeric/Euripidean tags in **13.15** (the Caesar letter — *Il.* 9.345; 6.208/8.285 *alkimos*; 6.479; 1.343 *hama prosso kai opisso*; Eur. fr. 905 *miso sophisten*; 6.208 *aien aristeuein*). 13.15 deserves a dedicated greek-phrases + allusions pass.
+- **Allusion candidates flagged but NOT emitted**: the 13.15 Homeric/Euripidean quotations above (a future allusion pass).
+- **Pre-existing registry duplicates still owed** (carried from sessions 68–70): `person:lentulus-spinther`/`person:p-lentulus-spinther`; `person:a-gabinius`/`person:gabinius`; `person:m-claudius-marcellus-cos-3`/`person:m-claudius-marcellus-cos51`; `person:m-cicero-the-younger`/`person:marcus-cicero-younger`.
+- **Filename-convention irregularity**: 7 earlier book-13 entity-mentions sidecars (13.11–13.14, 13.16, 13.45, 13.46) use the bare `ad-familiares-13-NN.json` name rather than the canonical date-prefixed `054bc-…` name. Harmless to the validator/backmatter (matched by bare id) but worth normalising in a cleanup pass.
+
+**Suggested next automated batch — continue the apparatus sweep.** **681 drafted letters still lack entity-mention sidecars** (down from 711). The immediate continuation is **the rest of *Ad Familiares* book 13** — 32 letters remain (13.38–13.39, 13.41–13.44, 13.47–13.50, 13.52–13.54, 13.57–13.60, 13.63, 13.66–13.79; the others in the book — 13.40/13.45/13.46/13.51/13.55/13.56/13.61/13.62/13.64/13.65 — were enriched in earlier sessions), which finishes the recommendation book; then **books 15–16** (Cassius/Cato/Cilicia + the Tiro correspondence). Regenerate the entity index from `data/entities.json` first (it grew to 1097). The book-13 recipient anchors (Memmius, Glabrio-Sicily, Servius, Plancus, Orca) and the Patrae/Achaea cast carry straight over. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 71: apparatus enrichment — entity-mentions + glossary sidecars for 30 Ad Familiares book-13 letters (13.01-13.37 run; recommendation book to Memmius/Orca/Cluvius/Rutilius/Brutus/Caesar/Servius/Plancus/Glabrio); 56 new registry entities + 2 pre-registered anchors (registry 1039->1097: person:c-memmius, person:m-acilius-glabrio-procos-sicily); Mindius + Aemilius-Avianius near-dups merged, Patrae/Mescinius exact-dups deduped"` to land. Next session: continue the apparatus sweep from the rest of Ad Familiares book 13, then books 15–16, or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 70 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 70 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21). Translation remains impossible autonomously: re-verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*, *ad-atticum* 13.15/13.18/13.36, *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs that explicitly say not to translate, and the 7 pending philosophy/rhetoric works (*de-legibus*, *consolatio*, *hortensius*, *de-consulatu-suo*, *de-temporibus-suis*, *aratea*, *de-inventione*) have no Latin file at all. `fetch_latin.py` is forbidden on every one. Per the standing guidance, this session continued the apparatus sweep from sessions 67–69.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — apparatus sidecars for all 30 drafted letters of *Ad Familiares* book 12** (12.01–12.30: the correspondence with the Liberators' eastern command — Cicero to/from C. Cassius Longinus, the field reports of Cassius Parmensis and Lentulus Spinther the younger, Trebonius's letter from Athens, and the long Q. Cornificius / Africa-Vetus sequence of 46–43 BC). Each letter got an **entity-mentions** sidecar and a **glossary** sidecar. **Allusions/crossrefs were NOT emitted** (deferred — see flagged candidates below). Totals: **1004 entity mentions, 170 glossary notes.** Corpus letter-level coverage rose **entity-mentions 127 → 157, glossary 126 → 156.** (Letters still lacking entity-mentions: 711 of 868 drafted.)
+
+**Method (PM-curated roster + parallel workers):** the PM regenerated the full entity index from `data/entities.json` and **pre-registered three central-cast anchors** so the 15+ letters that name them resolve cleanly: **`person:q-cornificius`** (the poet/augur/proconsul of Africa — distinct from the Verrines stub `person:cornificius-scriba`), **`person:p-lentulus-spinther-jr`** (the proquaestor of Asia, sender of 12.14/12.15 — distinct from his father the cos. 57), and **`person:c-cassius-parmensis`** (the sender of 12.13, the tyrannicide-poet the MSS confuse with C. Cassius Longinus). The PM then wrote a binding canonical-ID roster for the book-12 cast and dispatched **6 worker sub-agents in 2 waves of 3**, each enriching ~5 letters end-to-end against the roster + index, staging genuinely-new entities to per-worker JSONL files (no worker touched shared files or git). Between waves the PM folded wave-1's 36 new entities into the index so wave 2 reused them (especially the new promagistracy offices).
+
+**PM consolidation / reconciliation: 64 new entities merged; registry 975 → 1039.** Resolved one cross-worker duplicate — **`person:tratorius`** was staged twice (worker E for 12.23 as Cornificius's African staff-officer, worker F for 12.30 as Cicero's Rome contact); merged into one entity (first_appearance 12.23, combined summary). Kept the workers' correct disambiguations: the besieged **`place:laodicea-syria`** (Laodicea ad Mare) distinct from the inland `place:laodicea-asia`; the 12.25 letter-carrier **`person:cornificius-tabellarius`** distinct from the recipient `person:q-cornificius`; **`person:venuleius-africa`** distinct from the tax-farmer `person:venuleius-publicanus`; **`person:c-titius-strabo`** (12.06) distinct from `person:c-titius` (12.15). The 64 additions span the eastern fleet cast (Cassius Parmensis, A. Allienus, L. Figulus, P. Turullius, Patiscus, Sextilius Rufus, Sex. Marius, C. Titius, Verrius, L. Carteius), the eastern theatre (Cyprus, Crommyuacris, Corycus, Laodicea-Syria, Tarsus, Tarichea, Apamea, Side, Mt Amanus), the Mutina-campaign towns (Claterna, Forum Cornelii, Gallia Transpadana, the Rostra), the Cornificius/Africa cluster (the Turius-estate heirs, P. Lucceius, Chaerippus, Attius Dionysius, T. Pinarius, T. Statilius Taurus, three African offenders), four literary figures (Lucilius, Laberius, Publilius Syrus, Terence) and one Cicero work (`text:cicero-de-optimo-genere-oratorum`), plus six new **offices/institutions/festivals/groups**: `office:proconsul`, `office:proquaestor`, `office:propraetor`, `office:imperator`, `office:augur`, `office:legatus`, `festival:liberalia`, `festival:quinquatrus`, `group:legiones-macedonicae`, and `law:leges-antoniae`.
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66–69 baseline** (3 pre-existing orphan-Latin warnings — including the stray `043bc-ad-familiares-11-28.tex` duplicate — plus the chronological-gap block). Independent verification confirmed all 30 letters carry both required sidecars with correct bare in-file `id`s and `schema_version: 1`, every one of the 1004 mention `entity_id`s and every glossary `entity_id` resolves in the 1039-entry registry, and **every glossary anchor is a verbatim substring of its English `.tex`.** **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — they regenerate from `english/`, `data/parallel/`, and `works.yaml`, none of which changed this session, so both would be no-ops (running them risks a spurious whole-corpus diff). The apparatus sidecars this session produced are consumed directly by `generate_backmatter.py` (study/scholar profiles).
+
+**Known issues / follow-ups (for a future apparatus pass):**
+- **Empty `external_ids` on the 64 new entities** (they carry id/type/canonical_name/short_name/aliases/summary/first_appearance/categories). A future pass should backfill DPRR/Pleiades/Wikidata ids per the registry convention.
+- **Pre-existing registry duplicates flagged by workers (still owed):** `person:lentulus-spinther` AND `person:p-lentulus-spinther` (both = the father, cos. 57 — the son is now the separate `person:p-lentulus-spinther-jr`); `person:a-gabinius` AND `person:gabinius` (cos. 58); `person:m-claudius-marcellus-cos-3` AND `person:m-claudius-marcellus-cos51` (possible cos. 51 dup); `person:m-cicero-the-younger` AND `person:marcus-cicero-younger` (carried from sessions 68/69); a possible `person:m-calpurnius-bibulus` stub/dup.
+- **`person:cratippus-tyndaritanus`** (tagged in 12.16): its canonical name "of Tyndaris" looks wrong for the Pergamene Peripatetic who taught young Marcus at Athens — needs a rename/review.
+- **`person:cornificius-scriba`** remains a Verrines-era stub; not used this session (book-12 Cornificius routed to `person:q-cornificius`). A future pass should decide whether it is salvageable or should be retired.
+- **Uncertain attributions left flag-not-resolve:** "T. Plancus" (12.18) → `person:t-munatius-plancus-bursa` (also defensible: `person:plotius-plancus`); "Sempronius" (12.25) → `person:sempronius-rufus` (cognomen-only, slug is a guess); "Taurus" (12.25) → `person:t-statilius-taurus` (full name reconstructed from the Minotaur pun, not in the text); `place:tarichea` (12.11 dateline) site genuinely unidentified; "M. Marcellus" (12.15) → `person:m-claudius-marcellus-cos-3`. T. Sextius (12.25 "holding a province in absentia") is referred to but never named, so left untagged.
+- **Greek phrases flagged but NOT emitted** to `greek-phrases.json`: 12.13 *paltōi* (παλτῷ, "at a javelin's cast"); 12.14 *patrida emēn mallon philōn* (a near-Homeric tag, "loving my fatherland more"); 12.16 *euthyrrhēmonesteros* ("rather plain-spoken"); 12.20 *hypomnēmatismon* ("a memorandum").
+- **Allusion candidates flagged but NOT emitted** (for a future allusion pass): 12.25 §4 "as Terence says" (a verbatim Terentian tag — *Andria*/*Heauton*); 12.16 §3 Trebonius invoking Lucilius as licence for satirical freedom.
+- **Candidate corpus-wide entities flagged but NOT created** (need a schema/registry decision): `group:antonii` (the plural "the Antonii" = Antony + his brothers, 12.12/12.14), an order/institution entity for the *equites* ("Roman knight", 12.27), `institution:acta` / the daily gazette (12.08/12.09), and a convention for *res publica*-as-concept (currently tagged inconsistently across the corpus). Also: `place:gallia-transpadana` was staged as a *place* though "the Transpadani" is really a people (possible `group:` recast), and `group:legiones-macedonicae` was staged as one group rather than per-legion `unit:` entries.
+
+**Suggested next automated batch — continue the apparatus sweep.** **711 drafted letters still lack entity-mention sidecars** (down from 741). The next coherent chronological/structural cluster is the rest of the *Ad Familiares* letters: **book 13 (the ~80 letters of recommendation — short, formulaic, entity-light per letter but heavy on named beneficiaries and provinces)**, or **books 15–16 (Cassius/Cato/Cilicia and the Tiro correspondence)**. Regenerate the entity index from `data/entities.json` first (it grew to 1039). The book-12 cast and the new promagistracy offices carry straight over. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 70: apparatus enrichment — entity-mentions + glossary sidecars for all of Ad Familiares book 12 (30 letters: 12.01-12.30); 64 new registry entities (registry 975->1039), incl. 3 pre-registered anchors (q-cornificius, p-lentulus-spinther-jr, c-cassius-parmensis); Tratorius double-stage deduped; Laodicea-Syria/Cornificius-carrier/Venuleius variants kept distinct"` to land. Next session: continue the apparatus sweep from `ad-familiares` book 13 (or 15–16), or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 69 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 69 was an APPARATUS / ENRICHMENT session, not a translation session** (scheduled 2-hour Cowork run, 2026-05-21). Translation remains impossible autonomously: verified at session start that all 14 pending works still lack usable Latin — the 7 pending letters (*ad-familiares-05-10*, *ad-atticum* 13.15/13.18/13.36, *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs that explicitly say "Do NOT translate," and the 7 pending philosophy/rhetoric works (*de-legibus*, *consolatio*, *hortensius*, *de-consulatu-suo*, *de-temporibus-suis*, *aratea*, *de-inventione*) have no Latin file at all. `fetch_latin.py` is forbidden on every one. Per the standing guidance, this session continued the apparatus sweep from sessions 67/68.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — apparatus sidecars for all 29 drafted letters of *Ad Familiares* book 11** (11.01–11.29: the Decimus Brutus / Mutina-war correspondence of 44–43 BC, plus the late-44 Matius/Oppius letters 11.27–11.29). Each letter got an **entity-mentions** sidecar and a **glossary** sidecar. **Allusions/crossrefs were NOT emitted** (deferred — see flagged candidates below). Totals: **732 entity mentions, 102 glossary notes.** Corpus letter-level coverage rose **entity-mentions 98 → 127, glossary 97 → 126.** (Letters still lacking entity-mentions: 741 of 868 drafted.)
+
+**Method (PM-curated roster + parallel workers):** the PM regenerated the full **944-entry entity index** from `data/entities.json` and wrote a binding **canonical-ID roster** for the book-11 cast (key disambiguations carried from 67/68: Decimus Brutus `decimus-brutus-albinus` vs. Marcus Brutus `brutus` by geography/action; present-tense "Caesar" = `octavian` vs. the dead Dictator `caesar`; Lepidus = `lepidus-triumvir`; the three Planci). Then **6 worker sub-agents in 2 waves of 3** each enriched 4–5 letters end-to-end against the roster + the index, staging genuinely-new entities to per-worker JSONL files (no worker touched shared files or git). Between waves the PM folded wave-1's new entities into the index so wave 2 reused them.
+
+**PM consolidation / reconciliation: 31 new entities merged; registry 944 → 975.** Resolved cross-worker variants: (1) two ids for Cicero's courier Lupus (`rutilius-lupus-tr-pl-43` → **`p-rutilius-lupus`**, retagged 11.06/11.07); (2) `place:eporedia` and `person:graeceius` each staged twice — deduped; (3) renamed `labeo-segulius` → **`person:segulius-labeo`** (matching the name order Cicero uses; retagged 11.20/11.21); (4) renamed `l-aelius-lamia-candidate` → **`person:l-aelius-lamia-pr42`** and **kept it distinct** from the registry's `person:l-aelius-lamia` (the De Oratore 2.262 figure — different generation; flag-not-resolve; retagged 11.16/11.17). Kept the workers' correct disambiguation of three contemporaries from anachronistic namesakes: **`l-aemilius-paulus-cos50`** (not Paullus Macedonicus), **`m-livius-drusus-claudianus`** (Livia's father, not the tribune of 91), **`l-trebellius`** (the Antonian cavalry officer, not the Pro Quinctio arbiter). The 31 additions span the campaign cast (Sextus Pompey, Caecilius Bassus, Libo, Seius, Graeceius, Servius Sulpicius Rufus the younger, Matius, Oppius, Polla, Flaccus Volumnius, T. Vibius, L. Trebellius, Segulius Labeo, Lamia), the Cisalpine/Ligurian theatre (Bononia, Pollentia, Regium Lepidi, Dertona, Vada Sabatia, Eporedia, Vicetia, Vercellae, the Statiellan territory, the Apennines, Etruria, Trebula, the Campanian land), and **1 legion** (`unit:legio-quarta`).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66/67/68 baseline** (3 pre-existing orphan-Latin warnings — including the stray `043bc-ad-familiares-11-28.tex` duplicate — plus the chronological-gap block). Independent verification confirmed all 29 letters carry both required sidecars with correct bare in-file `id`s and `schema_version: 1`, every one of the 732 mention `entity_id`s and every glossary `entity_id` resolves in the 975-entry registry, and **every glossary anchor is a verbatim substring of its English `.tex`.** **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — they regenerate from `english/`, `data/parallel/`, and `works.yaml`, none of which changed this session, so both would be no-ops (running them risks a spurious whole-corpus diff). The apparatus sidecars this session produced are consumed directly by `generate_backmatter.py` (study/scholar profiles).
+
+**Known issues / follow-ups (for a future apparatus pass):**
+- **Empty `external_ids` on the 31 new entities** (they carry id/type/canonical_name/short_name/aliases/summary/first_appearance/categories). A future pass should backfill DPRR/Pleiades/Wikidata ids per the registry convention.
+- **`person:l-aelius-lamia-pr42` vs `person:l-aelius-lamia`** — possibly the same L. Aelius Lamia; kept distinct pending a merge decision (the De Or. 2.262 anecdote has a 91 BC dramatic date vs. a 43 BC praetorian candidate).
+- **Pre-existing registry duplicate** (still owed from sessions 67/68): `person:m-cicero-the-younger` AND `person:marcus-cicero-younger`.
+- **`person:m-terentius-varro` is a stub** with placeholder canonical_name ("Varro's"); worker C linked "Varro's treasuries" (11.10) to it — needs cleanup.
+- **Uncertain attributions left as tagged** (flag-not-resolve): "Servius" (11.07) = Ser. Sulpicius Rufus the younger (probable); "Drusus"/"Paullus" (11.19) = the 43 BC senators (cognomen-only); "Volumnius" (11.18) tagged to `flaccus-volumnius` (the 11.12 carrier — plausibly same man).
+- **Candidate crossrefs/allusions flagged but NOT emitted** (for a future crossref/allusion pass): 11.24→11.23 "champed the bit"/`frenum momordi` self-echo (high certainty); 11.21→11.20 verbatim pickup ("what you do not do for your own sake…"); 11.20 "praised, decorated, and lifted up" (*laudandum, ornandum, tollendum*) — the famous quip reported by Velleius/Suetonius, an allusion candidate; Matius 11.28 is a direct reply to 11.27.
+- **Greek phrases flagged but NOT emitted** to `greek-phrases.json`: 11.14 *skiamachiai*/*organon*; 11.25 *lakonismon*.
+- **Candidate corpus-wide entities flagged but NOT created** (would need a schema/registry decision): `office:imperator` (the "IMP." in letter openers), `institution:ordo-equester` (the equestrian order), an office/board entity for the *decemviri*/land commission, and `event:` entities for the Ides of March and the civil war (both recur heavily across book 11). The registry currently holds only 2 event entities.
+
+**Suggested next automated batch — continue the apparatus sweep.** **741 drafted letters still lack entity-mention sidecars** (down from 770). The next coherent chronological cluster is the rest of the 43 BC correspondence: **`ad-familiares` book 12 (to Cassius and the eastern Liberators — ~30 letters)**, then book 13 (the recommendations) or books 15–16. Regenerate the entity index from `data/entities.json` first (it grew to 975). The roster + the 31 new 43 BC entities carry straight over. Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 69: apparatus enrichment — entity-mentions + glossary sidecars for all of Ad Familiares book 11 (29 letters: 11.01-11.29); 31 new registry entities (registry 944->975); Lupus/Graeceius/Eporedia dups + Segulius Labeo + Lamia variants reconciled"` to land. Next session: continue the apparatus sweep from `ad-familiares` book 12, or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 68 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 68 was an APPARATUS / ENRICHMENT session, not a translation session.** No translation work was possible autonomously. Verified at session start that **all 14 pending works lack usable Latin**: the 7 pending letters (*ad-familiares-05-10*, *ad-atticum* 13.15/13.18/13.36, *ad-brutum* 2.6/2.7/2.8) are `% PLACEHOLDER` stubs (each div is absent from or combined in Perseus's TEI; manual sourcing required), and the 7 pending philosophy/rhetoric works (*de-legibus*, *consolatio*, *hortensius*, *de-consulatu-suo*, *de-temporibus-suis*, *aratea*, *de-inventione*) have no Latin file at all. `fetch_latin.py` is forbidden on every one of them. Per PROGRESS's standing guidance, this session continued the apparatus sweep started in session 67.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The translation chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; the 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — apparatus sidecars for 27 drafted letters: the rest of *Ad Familiares* book 10** (10.14–10.35 = 22 letters, plus the 44 BC openers 10.01–10.05 = 5 letters), the 43 BC Mutina-war correspondence with Plancus, Lepidus, Asinius Pollio, Decimus Brutus, Furnius, and the eyewitness Galba. Each letter got an **entity-mentions** sidecar and a **glossary** sidecar; **crossrefs** emitted only where real (2: Fam 10.20→10.19 self-reference; 10.24→10.13 echo); **allusions** none (no genuine quotations of other authors). Totals: **803 entity mentions, 127 glossary notes, 2 crossrefs.** Corpus letter-level coverage rose **entity-mentions 71 → 98, glossary 70 → 97.**
+
+**Method (PM-curated roster + parallel workers):** the session-67 roster at `outputs/enrich/roster.md` was gone (sandbox outputs are cleared between sessions), so the PM regenerated the full **904-entry entity index** from `data/entities.json` and rewrote a binding **canonical-ID roster** for the 43 BC cast (key disambiguations: Decimus Brutus `decimus-brutus-albinus` vs. Marcus Brutus `brutus` by geography/action; present-tense "Caesar" = `octavian` vs. the dead Dictator `caesar`; Lepidus = `lepidus-triumvir`; Cassius = `cassius-longinus`; the three Planci — `munatius-plancus` / `plotius-plancus` / `t-munatius-plancus-bursa`). Then **6 worker sub-agents (2 parallel waves of 3)** each enriched 4–5 letters end-to-end against the roster + the dumped 904-line index, staging genuinely-new entities to per-worker JSONL files (no worker touched shared files or git).
+
+**PM consolidation / reconciliation:** **40 new entities merged; registry 904 → 944.** Resolved cross-worker variants and one conflation: (1) canonicalized `place:isara-river` → **`place:isara`** (the river Isère) and retagged the 10-15/10-18 sidecars; (2) dropped `place:pons-argenteus` (staged but never used in any mention — would have orphaned); (3) merged `person:silanus-lepidus-officer` → **`person:m-iunius-silanus`** — the same man commands one of Antony's praetorian cohorts at Forum Gallorum (10.30, 14 April) and is reported by Lepidus as having gone over to Antony (10.34, late May) — retagged 10-34 and wrote a reconciled summary. The 40 additions span the campaign cast (Lucius Antonius; Servius Sulpicius Galba; L. Iulius Caesar cos. 64; the younger Balbus; Cornelius Gallus the poet; Q. Cassius Longinus of Spain; Terentius Culleo; Carfulenus; et al.), the Gallic/Spanish theatre (Isara, Cularo, Forum Iulii/Voconii/Gallorum, the Rhodanus, the Argenteus, Gades, Calpe, Hispalis, Lusitania, Parma, the Alpes, Saltus Castulonensis, the Via Aemilia), **4 legions** (`unit:legio-martia`/`-secunda`/`-xxxv`/`-tricesima`), and **2 groups** (`group:vocontii`, `group:mauri`).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session 66/67 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block). No unknown entity-IDs, all JSON parses, all crossref `to_work` targets resolve. Independent verification confirmed all 27 letters carry both required sidecars with correct top-level `id`s, and that every glossary anchor matches the raw English `.tex` verbatim (three anchors legitimately carry source markup — `\textit{praetexta}`, `Is\`ere`). **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — they regenerate from `english/`, `data/parallel/`, and `works.yaml`, none of which changed this session, so both would be no-ops (running them risks a spurious whole-corpus diff). The apparatus sidecars this session produced are consumed directly by `generate_backmatter.py` (study/scholar profiles).
+
+**Known issues / follow-ups (for a future apparatus pass):**
+- **Empty `aliases`/`external_ids` on the 40 new entities.** They carry id/type/canonical_name/short_name/summary/first_appearance/categories but no alias surface-forms yet; a future pass should backfill `aliases` (the Latin inflected forms) per the existing registry convention.
+- **Pre-existing registry duplicate** (carried from session 67, still owed): `person:m-cicero-the-younger` AND `person:marcus-cicero-younger` both denote young Marcus Cicero.
+- **Uncertain attributions left as the workers tagged them** (flag-not-resolve): the MS "Q. Caesar" reading at Fam 10.32 tagged to `person:q-cassius-longinus-spain` (a genuine textual/prosopographical crux); "L. Lentulus procos." (10.32) → `person:lentulus-crus` assumed; "L. Caesar" (10.28) → `person:l-iulius-caesar-cos64`. Worth a verification pass.
+- **Inter-letter reply-chains within a collection** (e.g. Fam 10.04 answering 10.01/10.03) are not captured by the crossref schema, whose `to_work` targets distinct works or earlier sections of the same work, not sibling letters. Flagged by a worker as a candidate future apparatus type.
+- **Dateline-place tagging:** Pons Argenteus (dateline of 10.34/10.35) is not tagged as a body mention, so it was not added to the registry. If a future pass wants dateline places tagged, add it then.
+
+**Suggested next automated batch — continue the apparatus sweep.** **770 drafted letters still lack entity-mention sidecars** (down from 797). The next coherent chronological clusters are the rest of the 43 BC correspondence: **`ad-familiares` book 11 (to Decimus Brutus — 11.01–11.29, ~29 letters), then book 12 (to Cassius and the eastern Liberators — ~30 letters).** The roster + the 40 new 43 BC entities carry straight over (regenerate the entity index from `data/entities.json` first, since it grew to 944). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 68: apparatus enrichment — entity-mentions + glossary sidecars for the rest of Ad Familiares book 10 (27 letters: 10.1-10.5, 10.14-10.35); 40 new registry entities (registry 904->944); isara/Silanus variants reconciled"` to land. Next session: continue the apparatus sweep from `ad-familiares` book 11, or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 67 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Session 67 was an APPARATUS / ENRICHMENT session, not a translation session.** No translation work was possible autonomously: every one of the 14 pending works needs hand-supplied Latin (the manual-Latin queue — De Divinatione in session 66 was the last Perseus-fetchable work), and the protocol forbids `fetch_latin.py` on them. Per PROGRESS's own standing guidance ("the better next *automated* run is an apparatus/enrichment session"), this session backfilled the per-work apparatus sidecars on a coherent cluster of already-drafted 43 BC letters.
+
+**Translation state: unchanged at 944 / 958 drafted; 14 pending.** No `works.yaml` status flips, no date corrections, no new Latin/English. **The translation chronology pointer is unchanged** (deepest drafted still *Ad Familiares* 10.24, 28 July 43 BC; 8 earlier-dated pending works remain in the gap warning).
+
+**What this session produced — apparatus sidecars for 33 drafted letters** (the top of the "letters missing entity-mentions" sweep, a tight 43 BC cluster): *Ad Familiares* 13.9; **all of *Ad Brutum*** (1.1–1.18, 2.1–2.5 — 23 letters); *Ad Familiares* 9.24; and *Ad Familiares* 10.6–10.13. Each got an **entity-mentions** sidecar and a **glossary** sidecar; **allusions/crossrefs** were emitted only where real. Totals: **951 entity mentions, 201 glossary notes, 4 allusions, 9 crossrefs.** Corpus letter-level coverage rose **entity-mentions 38 → 71, glossary 37 → 70.**
+
+**Method (PM-curated roster + parallel workers):** because the registry was missing or mis-wiring most of the central 43 BC cast, the PM first **added 10 central-cast entities by hand with real summaries** (`person:cassius-longinus`, `:munatius-plancus`, `:hirtius`, `:vibius-pansa`, `:octavian`, `:lepidus-triumvir`, `:decimus-brutus-albinus`, `:asinius-pollio`, `:furnius`, `place:mutina`) and wrote a binding **canonical-ID roster** (with disambiguations: Marcus vs. Decimus Brutus; the Liberator Cassius vs. `c-cassius-cos73`; the triumvir Lepidus vs. `…pr-sicilia`; the consul Pansa vs. `l-sestius-pansa`; "Caesar" = the young `octavian` in present-tense 43 BC contexts vs. the dead Dictator `person:caesar`). Then **8 worker sub-agents (2 parallel batches of 4)** each enriched 4–5 letters end-to-end against the roster + a dumped 841-line entity index, staging any genuinely-new minor figures to per-worker JSONL files (no worker touched shared files or git).
+
+**PM consolidation / reconciliation:** merged the staged definitions (dedup), **canonicalized four cross-worker ID variants** (`m-porcius-cato-fil`→`-cato-filius`; `c-trebonius-cos`→`c-trebonius`; `scaptius`→`m-scaptius`; `junia-tertia`→`iunia-tertia`) by rewriting the affected sidecars, and **corrected a real prosopographical conflation the workers flagged**: Brutus's sister married to Lepidus (mother of the children interceded for) is **Iunia Secunda**, not Iunia Tertia (who married Cassius) — added `person:iunia-secunda`, retagged the Lepidus-context "sister/mother" references in 1.12/1.13/1.15/1.18, kept the explicit-"Tertia" references (2.3, 2.4) on `iunia-tertia`, and tagged the plural "my sisters" (1.17) to both. **63 new entities merged; registry 841 → 904** (then 904 after the central 10 were already in). Also fixed 3 crossref validation errors (workers used `to_work: philippicae`; retargeted to real ids `philippic-1`/`philippic-3`).
+
+**Validation: `validate.py` exit 0, 10 warnings — identical to the session-66 baseline** (3 pre-existing orphan-Latin warnings + the chronological-gap block). No unknown entity-IDs, no broken glossary anchors, no missing required sidecars, all JSON parses. **`backfill_structural.py` and `build_manifest.py` were deliberately NOT run** — they regenerate from `english/`, `data/parallel/`, and `works.yaml`, none of which changed this session, so both would be pure no-ops (running them risks a spurious whole-corpus diff). The apparatus sidecars this session produced are consumed directly by `generate_backmatter.py` (study/scholar profiles).
+
+**Known issues / follow-ups (for a future apparatus pass):**
+- **Pre-existing registry duplicate** (not introduced this session, surfaced by a worker): `person:m-cicero-the-younger` AND `person:marcus-cicero-younger` both denote young Marcus Cicero. This batch standardized on `person:m-cicero-the-younger`; a dedup/merge across the whole corpus is still owed.
+- **Uncertain attributions left as the workers tagged them** (flagged, not resolved): "Torquatus"/"Appuleius" (Ad Brut. 1.6/1.7), "Servius" (1.15 = Servius Sulpicius Rufus assumed), and `person:deiotarus-of-galatia` (1.6 — possibly the King Deiotarus rather than a separate Galatian). Worth a verification pass.
+- **Multi-book parallel-sidecar collision** (carried over from session 66, unchanged): de-officiis / dnd / de-finibus / tusculans / de-re-publica / de-oratore / de-divinatione sidecars pair Book-1 Latin with Book-2 English on reset section numbers. Needs a book-aware `backfill_structural.py` change — a substantive change for Alexander to approve, not autonomous.
+
+**Suggested next automated batch — continue the apparatus sweep.** 804 drafted letters still lack entity-mention sidecars (down from 837). The next coherent chronological clusters are the rest of the 43 BC correspondence: **`ad-familiares-10-14` onward (book 10, to Plancus/Lepidus), then book 11 (to Decimus Brutus), then book 12 (to Cassius and the eastern Liberators)** — the roster + the 73 new registry entities from this session will carry straight over, so cross-worker ID consistency stays high. The reusable roster is at `outputs/enrich/roster.md` (regenerate the entity index from `data/entities.json` first, since it grew). Alternatively, if Alexander supplies hand-keyed Latin, pivot to the manual-Latin translation queue (*ad-familiares-05-10*, *de-legibus*, *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36, and the fragmentary works).
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 67: apparatus enrichment — entity-mentions + glossary sidecars for 33 drafted 43 BC letters (Ad Brutum + Fam 9.24/10.6-13/13.9); 63 new registry entities; Iunia Secunda/Tertia split corrected"` to land. Next session: continue the apparatus sweep from `ad-familiares-10-14`, or supply manual Latin for the pending queue.
+
+---
+
+## Where to resume now (session 66 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Translation state (post-Cowork-session-66): 944 / 958 works drafted (~98.5%); 14 pending.** This session translated the last Perseus-fetchable treatise, **De Divinatione** (On Divination), end-to-end (English + whole-work headnote + parallel sidecar), flipped pending→drafted:
+
+- **De Divinatione** (On Divination) — **two books, 282 §§** (Book 1 = §§1–132, Book 2 = §§1–150), philosophy, -0044-04-01, Rome. A dialogue between Cicero and his brother Quintus: Book 1 Quintus argues the Stoic case *for* divination (the two kinds — by art and by nature); Book 2 Cicero refutes it point by point. Begun before, finished after, the Ides of March.
+
+**Method (per-treatise parallel-worker pattern, as de-fato/de-natura-deorum):** PM pre-fetched Perseus phi053 (195 KB, already at `latin/philosophy/044bc-de-divinatione.tex`), which flattens both books into one `\ciceroSection` run with a section-number RESET (§§1–150 appear twice). PM sliced the Latin into **24 chunks (~12 §§ each)** under `outputs/divin/latin/`, then dispatched **24 worker sub-agents in 4 parallel batches**, each translating one range end-to-end from the Latin under a **shared rendering glossary** so the independent workers hold one voice: *divinatio*→"divination" (never "prophecy"/"soothsaying"); *divinatio artificiosa*→"divination by art" vs *naturalis*→"natural divination"; *haruspex/haruspices* kept Latin; *augur/augurium/auspicium*→"augur/augury/auspices"; *exta*→"entrails"; *vates*→"seer", *harioli*→"fortune-tellers", *coniectura*→"conjecture", *coniectores*→"interpreters"; *somnia*→"dreams", *furor*→"frenzy"; *portentum/ostentum/monstrum/prodigium*→"portent/showing/monstrous sign/prodigy" (kept distinct); *fatum*→"fate" (never "destiny", per the de-fato through-line); no-Christianizing held (*hercle*→"by Hercules", gods by name). Workers wrote english/ fragments only (no shared files, no status flip, no git). PM assembled into `english/philosophy/044bc-de-divinatione.tex` with **`\ciceroBook{1}` / `\ciceroBook{2}` delimiters** inserted at the section reset (matching the de-officiis/dnd english convention), **verified per-book contiguity** (132 + 150, each exactly 1..N, no gaps/dupes), then ran `backfill_structural.py` + `build_manifest.py` + `validate.py`.
+
+**Genre convention:** a dialogue, handled per the de-natura-deorum/de-fato precedent — speaker labels (*inquit/inquam*) absorbed into narration; the light framing exchanges (Book 1 §§8–11 opener, the Book 1→2 hinge at §132, and the closing exchange at Book 2 §150 "*Quae cum essent dicta, surreximus*") rendered as quoted dialogue; the two long set-discourses (Quintus's case; Cicero's refutation) rendered as unwrapped continuous prose. The §§1–7 prefaces to each book are Cicero's own first-person authorial voice (Book 2's preface carries the famous catalogue of his philosophical works). Heavy verse throughout (Ennius, Pacuvius, Accius, Cicero's own *Marius*/*De Consulatu*/*Prognostica*, oracles) rendered as verse.
+
+**Dates:** de-divinatione retains works.yaml month-precision (-0044-04-01); treatise, no Perseus dateline. **Earlier-dated backfill: does NOT move the deep-chronology pointer**, which stays at *Ad Familiares* 10.24 (28 July 43 BC). No works.yaml date corrections this session.
+
+**KNOWN ISSUE flagged for Alexander — multi-book parallel-sidecar collision (corpus-wide, pre-existing):** `backfill_structural.py`'s `build_parallel` keys the English side by the **bare** `\ciceroSection{N}` number and ignores `\ciceroBook`. For any multi-book work whose section numbers reset per book, duplicate `loc` values collide and the **last book wins** the English text. In de-divinatione's sidecar this means Book 1 §§1–132 carry Book 1's *Latin* paired with Book 2's *English* (132 duplicate locs); Book-2-only sections (§§133–150) are correctly paired. **This is identical to the existing sidecars for de-officiis (121 dup), de-natura-deorum (124 dup), de-finibus, tusculanae-disputationes, de-re-publica, de-oratore** — inserting `\ciceroBook` delimiters does *not* fix it, because backfill never reads them. The **reading-edition body is unaffected** (it is built from `english/…tex`, which is correct, complete, and book-delimited); only the parallel-corpus apparatus (study/scholar backmatter) is misaligned. **Did NOT patch backfill this session** (a book-aware loc change would alter every multi-book sidecar corpus-wide — a substantive change for Alexander to approve, not an autonomous one). **Suggested fix for an apparatus pass:** make `read_section_split`/`build_parallel` book-aware (track `\ciceroBook` and key eng by `book.section`, e.g. loc "2.1"), then regenerate all multi-book parallel sidecars.
+
+**Translator-notes worth logging** (deferred to enrichment): the §1.1 etymology *divinatio* from *divi* vs. the Greek from *furor*; the etymological cluster *ostenta/portenta/monstra/prodigia* (2.93); the Pyrrhus-oracle amphiboly *Aio te Aeacida Romanos vincere posse* (2.116); the Sibylline acrostic (2.111–112); the *Cauneas / cave ne eas* pun (2.84); the astrology demolition and the twins argument (2.87–99); the great closing distinction *religio* (to be cherished) vs. *superstitio* (to be torn out by the roots), 2.148–149; Cicero writing as a serving augur. Greek handled (sense + `\textit{[Greek: …]}`): *mantikē, daimonion, heimarmenē, sympatheia, akrostichis, philippizein, zōdiakos, horizontes, physiologia, manteis, pseudomenon*.
+
+**Sidecars:** 1 parallel sidecar (282 segments — subject to the multi-book collision noted above). `backfill_structural.py` regenerated the corpus aggregates (**943 parallel sidecars, 868 letter-network entries, 2180 Greek-phrase entries** — Greek +15 from de-divinatione). **No** enrichment sidecars (entities-mentions / glossary / allusions / crossrefs) — deferred to the apparatus pass, per the major-works method.
+
+**Validation:** `validate.py` **exit 0, 10 warnings** — 3 orphan Latin files (pre-existing carry-overs: `046bc-ad-familiares-09-25`, `054bc-ad-familiares-13-49`, `043bc-ad-familiares-11-28`) + the chronological-gap warning, now **8 earlier-dated pending works** (down from 9 — de-divinatione cleared). `build_manifest.py` regenerated `MANIFEST.md` (958 entries) + `build/chronology.tex`.
+
+**Suggested next batch — NO Perseus-fetchable works remain.** De Divinatione was the last treatise sourceable via `fetch_latin.py`. **All 14 remaining pending works are the manual-Latin queue** (Latin must be supplied by hand — do NOT `fetch_latin.py`): *ad-familiares-05-10* (51), *de-legibus* (52, complete but absent from Perseus's TEI corpus — try a classical-Latin repository; thelatinlibrary 403s), *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36; plus the fragmentary *de-consulatu-suo* (60), *de-temporibus-suis* (54), *hortensius* (45), *consolatio* (45); and the deliberately-skipped *aratea* (86) + *de-inventione* (85). Because every remaining translation needs manual Latin (not autonomous-friendly), **the better next *automated* run is an apparatus/enrichment session: Slice M** (entity-stub enrichment — 472 stubs in `data/entities.json`) and/or backfilling entity-mention/glossary/allusion/crossref sidecars on the ~160 drafted works that lack them, and/or the multi-book parallel-sidecar fix above. These are parallel-friendly and need no new Latin.
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 66: translate De Divinatione (282 §§, 2 books) end-to-end; whole-work headnote + parallel sidecar; status drafted"` to land. Next session: either supply manual Latin for the queue above, or run an enrichment/apparatus pass (incl. the multi-book sidecar fix).
+
+---
+
+## Where to resume now (session 65 legacy snapshot below)
+
+**Project management is Claude Cowork** (running on Alexander's desktop). When Cowork opens this repo, this is the first section to read; `PLAN.md` is the binding multi-surface roadmap.
+
+**Translation state (post-Cowork-session-65): 943 / 958 works drafted (~98.4%); 15 pending.** This session translated the three remaining single-book 44–45 BC philosophy/rhetoric works end-to-end (English + whole-work headnote + parallel sidecar), all flipped pending→drafted:
+
+- **De Fato** (On Fate) — 48 §§, philosophy, -0044-05-01, Puteoli
+- **Timaeus** (Cicero's partial Latin Plato) — 52 §§, philosophy, -0045-07-01, Rome
+- **Topica ad C. Trebatium** (Topics) — 100 §§, rhetoric, -0044-07-01, Rhegium/shipboard
+
+**Method (per-treatise parallel-worker pattern, as de-senectute/de-amicitia):** PM pre-fetched Perseus phi054 (de-fato, 36 KB), phi072 (timaeus, 30 KB), phi042 (topica, 48 KB) — all **single-book** works (no `\ciceroBook`, no per-book §-reset → no multi-book sidecar collision). Split into 4 + 4 + 8 section-range chunks; dispatched **16 worker sub-agents** (two parallel batches of 8), each translating one range end-to-end from the Latin under a **shared per-work rendering glossary** so the independent workers hold one voice — de-fato: *fatum*→"fate" (never "destiny"), *voluntas*→"will", *adsensio*→"assent", *declinatio*→"swerve", *enuntiatio/pronuntiatum*→"proposition"; timaeus: *mundus*→"the world", *fabricator*→"the maker", *opifex/artifex*→"the craftsman", *exemplar/species*→"the pattern"; topica: *locus*→"topic", *sedes argumenti*→"the seat of an argument", *notatio*→"etymology", *coniugata*→"conjugates". Workers wrote english/ fragments only (no shared files, no status flip, no git). PM assembled, **verified per-work contiguity** (48 / 52 / 100, each exactly 1..N, no gaps/dupes, eng section sequence == latin), then ran `backfill_structural.py` + `build_manifest.py` + `validate.py`.
+
+**Genre conventions:** *De Fato* is a dialogue (Cicero & Hirtius at Puteoli) — per the de-natura-deorum/de-senectute convention, speaker labels absorbed into narration; the opening exchange as balanced quoted dialogue, the set-discourse as unwrapped prose. *Timaeus* opens with Cicero's own preface (meeting Nigidius Figulus and Cratippus) then becomes continuous cosmological prose (his Latin of Plato). *Topica* is an epistolary treatise to Trebatius — straight first-person exposition. All three are **fragmentary/partial**: de-fato survives as a torso (lost beginning + end, internal lacunae; the Perseus "Fragmenta" testimonia block after §48 was deliberately NOT translated — it is quoted scraps from later authors). Internal lacunae in de-fato/timaeus rendered as a spaced ellipsis " . . . ". No-Christianizing held (*hercle*→"by Hercules", gods by name; "god"/"the god" for the Timaeus demiurge).
+
+**Dates:** all three retain works.yaml month-precision; treatises carry no Perseus dateline. **All three are earlier-dated backfill: they do NOT move the deep-chronology pointer**, which stays at *Ad Familiares* 10.24 (28 July 43 BC). No works.yaml date corrections this session.
+
+**Translator-notes worth logging** (deferred to enrichment): *De Fato* — Perseus section numbering diverges from standard Teubner/OCT (followed Perseus exactly, since the sidecar derives from it); *confatalis*→"co-fated" (Chrysippus's coinage); the Stoic causal taxonomy (*perfectae/principales* vs. *adiuvantes/proximae causae*; *continens causa*); the daggered crux at §35 (Ennius's Medea). *Timaeus* — *unigena*→"only-begotten" (§12, unavoidable Christian resonance for a literal coinage); the harmonic mathematics of the world-soul (§§22–24, *sesquialtera/sesquioctava*, the 256:243 leimma); *decussavit*→"crossed as in the letter X" (§24). *Topica* — the Roman-law worked examples throughout (manumission modes §10, the *actiones aquae pluviae arcendae* / *finium regundorum*, *mancipatio*, *rutis caesis* §100); the *postliminium* etymology (§§36–37) and word-mark arguments turn on Latin morphology (Latin case-forms kept in italics).
+
+**Sidecars:** 3 parallel sidecars (48 + 52 + 100 segments, section-grain, verified lat/eng aligned — single-book, no collision). `backfill_structural.py` regenerated the corpus aggregates (**942 parallel sidecars, 868 letter-network entries, 2165 Greek-phrase entries** — Greek +39 from the three new works). **No** enrichment sidecars (entities-mentions / glossary / allusions / crossrefs) — deferred to the apparatus pass, per the major-works method.
+
+**Validation:** `validate.py` **exit 0, 10 warnings** — 3 orphan Latin files (pre-existing carry-overs: `046bc-ad-familiares-09-25`, `054bc-ad-familiares-13-49`, `043bc-ad-familiares-11-28`) + the chronological-gap warning, now **9 earlier-dated pending works** (down from 12 — de-fato, timaeus, topica cleared). `build_manifest.py` regenerated `MANIFEST.md` (958 entries) + `build/chronology.tex`.
+
+**Suggested next batch: De Divinatione** (On Divination, ~Apr 44 BC) — the last substantial 44 BC philosophy work and the only remaining Perseus-fetchable treatise. **It is a TWO-BOOK work and wants its own dedicated session.** The Perseus fetch (phi053, 195 KB, already at `latin/philosophy/044bc-de-divinatione.tex`) flattens both books into a single `\ciceroSection` run with NO `\ciceroBook` markers and a section-number RESET: Book 1 = §§1–132, Book 2 = §§1–150 (282 sections total; §§1–150 appear twice). **Before translating, insert `\ciceroBook{1}` / `\ciceroBook{2}` delimiters at the reset** (after Book-1 §132, before the second §1) — otherwise the parallel sidecar collides on duplicate `loc` values (the de-officiis multi-book hazard). Slice ~12 §§/worker (≈24 workers across both books, or do one book per session). **Slice M** (entity-stub enrichment) remains the parallel-friendly fallback when a translation session isn't wanted.
+
+**Manual-Latin queue (do NOT `fetch_latin.py`):** *ad-familiares-05-10* (51), *de-legibus* (52), *ad-brutum* 2.6/2.7/2.8, *ad-atticum* 13.15/13.18/13.36; plus the fragmentary *de-consulatu-suo* (60), *de-temporibus-suis* (54), *hortensius* (45), *consolatio* (45); and the deliberately-skipped *aratea* (86) + *de-inventione* (85). After de-divinatione, the only remaining translatable works are these manual-Latin items.
+
+**Handoff:** run `bash scripts/cowork_handoff.sh "session 65: translate De Fato (48 §§) + Timaeus (52 §§) + Topica (100 §§) end-to-end; whole-work headnotes + parallel sidecars; status drafted"` to land. Next session continues from **de-divinatione** (dedicated two-book session — insert `\ciceroBook` markers first).
+
+---
+
+## Where to resume now (session 64 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-64):} \textbf{940 / 958
+works drafted (\~98.1\%)}; \textbf{18 pending}. This session translated
+the two short 44 BC philosophical dialogues \textbf{\textit{Cato Maior
+de Senectute}} (On Old Age, 85 \S\S) and \textbf{\textit{Laelius de
+Amicitia}} (On Friendship, 104 \S\S) --- both end-to-end (English +
+whole-work headnote + parallel sidecar). Both flipped
+\texttt{pending}$\rightarrow$\texttt{drafted}.
+
+\textbf{Method (per-treatise parallel-worker pattern, as de-officiis /
+de-finibus):} PM pre-fetched the Perseus \texttt{phi051} (58\,KB,
+85\,\S\S) and \texttt{phi052} (65\,KB, 104\,\S\S) Latin --- both
+\textbf{single-book} works (no \texttt{\textbackslash ciceroBook}, no
+per-book \S-number reset, so \textbf{no multi-book sidecar collision} of
+the kind seen in de-officiis). Split each into \textbf{8 section-range
+chunks}; dispatched \textbf{8 + 8 worker sub-agents}, each translating
+one range end-to-end from the Latin under a \textbf{shared rendering
+glossary} so the 16 independent workers hold one voice:
+\textit{senectus}$\rightarrow$``old age'' (through-line),
+\textit{amicitia}$\rightarrow$``friendship'' (through-line, never
+``amity''/``fellowship''), plus \textit{virtus}/\textit{voluptas}/
+\textit{benevolentia}/\textit{caritas} fixed. Workers wrote
+\texttt{english/} fragments only (no shared files, no status flip, no
+git). PM assembled, \textbf{verified per-work contiguity} (85 and 104,
+no gaps/dupes, all in order), then ran \texttt{backfill\_structural.py}
++ \texttt{build\_manifest.py} + \texttt{validate.py}.
+
+\textbf{Dialogue convention + style normalizations (PM, during
+consolidation):} both works are dialogues. Per the established
+\textit{de-natura-deorum} convention, speaker labels in the Latin
+(CATO./SCIPIO./LAELIUS./FANNIUS./SCAEVOLA.) are \textbf{absorbed into
+natural narration} (``said Fannius,'' etc.), never reproduced as
+standalone labels. The genuine framing/interjection exchanges (De
+Amicitia \S\S 6--8, 16, 17, 25, 26, 32--33) are kept as \textbf{balanced
+quoted dialogue}; the principal speaker's long set-discourse (Cato
+throughout De Senectute; Laelius \S\S 9--104) is rendered as
+\textbf{unwrapped prose}, matching the DND/de-finibus precedent and the
+majority of workers. PM removed \textbf{stray per-section opening quotes}
+that two workers had put on Laelius's monologue (\S\S 9--13, 17, 26) and
+converted his transitional replies into short closed retorts, so every
+quotation mark is balanced. No-Christianizing held
+(\textit{hercle}$\rightarrow$``by Hercules,''
+\textit{edepol}$\rightarrow$``By Pollux,'' gods by name).
+
+\textbf{Dates:} both retain works.yaml month-precision (\textit{de
+senectute} \texttt{-0044-04-01}, \textit{de amicitia}
+\texttt{-0044-07-01}); treatises carry no Perseus dateline.
+\textbf{Both are earlier-dated backfill: they do NOT move the
+deep-chronology pointer}, which stays at \textit{Ad Familiares} 10.24
+(28 July 43 BC). No \texttt{works.yaml} date corrections this session.
+
+\textbf{Translator-notes worth logging} (deferred to enrichment):
+\textit{De Senectute} --- the Ennius ``\textit{unus homo nobis
+cunctando}'' lines (1.10--11) and archaic \textit{viai} (16); the
+\textit{convivium} pun (45); the \textit{occatio}/\textit{occaecatum}
+wordplay (51); \textit{suadae medullam} = ``marrow of Persuasion''
+(50); the Pelias/Medea boiling image (83); \textit{Catonem meum} =
+Cato's dead son, not himself (84). \textit{De Amicitia} --- the
+definition of friendship (20); \textit{pingui Minerva} = ``thick-witted
+Minerva'' (19); the Pacuvius Orestes/Pylades scene (24); \textit{magnam
+Graeciam} = Magna Graecia (13); the Blossius ``firebrands to the
+Capitol'' exchange (37); Terence's \textit{obsequium amicos, veritas
+odium parit} (89).
+
+\textbf{Sidecars:} 2 parallel sidecars (85 + 104 segments,
+section-grain, verified \texttt{lat}/\texttt{eng} aligned ---
+single-book, so no collision). \texttt{backfill\_structural.py}
+regenerated the corpus aggregates (\textbf{939 parallel sidecars, 868
+letter-network entries, 2126 Greek-phrase entries} --- Greek count
+unchanged; neither dialogue contains Greek script). \textbf{No}
+enrichment sidecars (entities-mentions / glossary / allusions /
+crossrefs) --- deferred to the apparatus pass, per the major-works
+method.
+
+\textbf{Validation:} \texttt{validate.py} \textbf{exit 0, 10 warnings}
+--- 3 orphan Latin files (pre-existing carry-overs:
+\texttt{046bc-ad-familiares-09-25}, \texttt{054bc-ad-familiares-13-49},
+\texttt{043bc-ad-familiares-11-28}) + the chronological-gap warning,
+now \textbf{12 earlier-dated pending works} (down from 14 --- de
+senectute and de amicitia cleared). \texttt{build\_manifest.py}
+regenerated \texttt{MANIFEST.md} (958 entries) +
+\texttt{build/chronology.tex}.
+
+\textbf{Suggested next batch:} continue the remaining \textbf{44 BC
+philosophy} in the same per-treatise pattern ---
+\textbf{\textit{de-divinatione}} (On Divination, two books, \~Apr 44)
+and \textbf{\textit{de-fato}} (On Fate, \~May 44, survives in part);
+then the 45 BC \textbf{\textit{timaeus}} (Cicero's partial Plato) and
+the 44 BC rhetoric \textbf{\textit{topica}} (\~Jul 44). \textbf{Slice M}
+(entity-stub enrichment) remains the parallel-friendly fallback when a
+translation session isn't wanted.
+
+\textbf{Manual-Latin queue (do NOT \texttt{fetch\_latin.py}):}
+\textit{ad-familiares-05-10} (51), \textit{de-legibus} (52),
+\textit{ad-brutum} 2.6/2.7/2.8, \textit{ad-atticum} 13.15/13.18/13.36;
+plus the fragmentary \textit{de-consulatu-suo} (60),
+\textit{de-temporibus-suis} (54), \textit{hortensius} (45),
+\textit{consolatio} (45); and the deliberately-skipped \textit{aratea}
+(86) + \textit{de-inventione} (85).
+
+\textbf{Handoff:} run \texttt{bash scripts/cowork\_handoff.sh "session
+64: translate De Senectute (85 \S\S) + De Amicitia (104 \S\S)
+end-to-end; whole-work headnotes + parallel sidecars; status drafted"}
+to land. Next session continues from \textit{de-divinatione} (+
+\textit{de-fato}).
+
+---
+
+## Where to resume now (session 63 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-63):} \textbf{938 / 958
+works drafted (\~97.9\%)}; \textbf{20 pending}. This session translated
+the major work \textbf{\textit{De Officiis} (On Duties)}, 44 BC ---
+Cicero's last completed prose work, the three-book treatise-letter to
+his son Marcus --- \textbf{end-to-end, all 371 sections} (Book~1: 161
+\S\S on the honorable and its four sources; Book~2: 89 \S\S on the
+expedient; Book~3: 121 \S\S on the apparent conflict of honor and
+expediency, with the Rhodes grain-merchant, Gyges' ring, and Regulus).
+Flipped \texttt{pending}$\rightarrow$\texttt{drafted}. Whole-work
+headnote written; parallel sidecar emitted (371 segments).
+
+\textbf{Method (the de-finibus / Tusc / DND per-treatise pattern):}
+PM pre-fetched the Perseus \texttt{phi055} Latin (371 \S\S, 243\,KB;
+clean, not a whole-book dump), split it into \textbf{24 chunks} of
+\~16 sections each (book boundaries detected by the \S-number reset ---
+the Latin has no \texttt{\textbackslash ciceroBook} markers and
+restarts numbering per book, exactly like de-finibus). Dispatched
+\textbf{24 worker sub-agents} (Book~1: 10, Book~2: 6, Book~3: 8) in
+rounds of 5--8, each translating one section-range end-to-end from the
+Latin under \texttt{045bc-de-finibus} as register template, governed by
+a \textbf{shared rendering glossary} so 24 independent workers hold one
+voice: \textit{officium}$\rightarrow$``duty,''
+\textit{honestum}$\rightarrow$``the honorable'' (through-line, never
+``moral good''/``virtue''), \textit{utile}$\rightarrow$``the
+expedient'' (technical counterpart) / ``advantage,''
+\textit{decorum}$\rightarrow$``what is fitting''/``propriety.'' Workers
+wrote \texttt{english/} fragments only (no shared files, no status
+flip, no git). PM assembled with \texttt{\textbackslash ciceroBook}
+markers, \textbf{verified per-book contiguity} (161/89/121, no gaps or
+duplicates, all in order; total 371), then ran
+\texttt{backfill\_structural.py} + \texttt{build\_manifest.py} +
+\texttt{validate.py}.
+
+\textbf{Style normalizations (PM, during consolidation):} fixed 4
+Greek-tag deviations to the STYLE.md form (meaning-in-English then
+\texttt{\textbackslash textit\{[Greek: transliteration]\}}, bracket
+holding the transliteration not an English gloss): 1.104
+\textit{apophthegmata}, 1.108 \textit{eiron}, and removed redundant
+double-tags at 1.93 \textit{prepon} and 1.142 \textit{eukairia}.
+No-Christianizing carried from session~62 (no \textit{medius fidius}
+arose in this text). \texttt{\textbackslash textsc} legal formulas
+(\textsc{ex fide bona} etc., 3.61/3.65) and a \texttt{quote} verse
+block (1.38, the Pyrrhus/Ennius lines) are consistent with existing
+corpus usage; both \texttt{\textbackslash textgreek} (Unicode) and
+\texttt{[Greek: translit]} forms appear, as elsewhere.
+
+\textbf{Date:} works.yaml \texttt{-0044-11-01} (month precision)
+retained --- treatises carry no Perseus dateline, and late-44 BC is the
+conventional date. \textbf{De Officiis is an earlier-dated backfill: it
+does NOT move the deep-chronology pointer}, which stays at
+\textit{Ad Familiares} 10.24 (28 July 43 BC). No \texttt{works.yaml}
+date corrections this session.
+
+\textbf{Translator-notes worth logging} (deferred to enrichment): the
+four-sources-of-the-honorable vocabulary (1.15); \textit{kathēkon} /
+\textit{katorthoma} (Stoic ``middle''/``fulfilled'' duty, 1.8); the
+\textit{persona}/role doctrine (1.107ff); \textit{decorum} =
+\textit{prepon} (1.93); \textit{cedant arma togae} rendered fresh
+(1.77); the Rhodes grain-merchant casuistry (3.50--57); the Regulus
+exemplum (3.99ff); Euripides ``my tongue has sworn, my mind unsworn''
+(3.108); Scipio's ``never less alone than when alone'' (3.1); the
+running choice of \textit{utile} = ``the expedient.''
+
+\textbf{Sidecars:} 1 parallel sidecar (371 segments);
+\texttt{backfill\_structural.py} regenerated the corpus aggregates
+(\textbf{937 parallel sidecars, 868 letter-network entries, 2126
+Greek-phrase entries} --- up 15 from de-officiis). \textbf{No}
+enrichment sidecars (entities-mentions / glossary / allusions /
+crossrefs) --- deferred to the apparatus pass, per the major-works
+method.
+
+\textbf{Validation:} \texttt{validate.py} \textbf{exit 0, 10 warnings}
+--- 3 orphan Latin files (pre-existing carry-overs:
+\texttt{046bc-ad-familiares-09-25}, \texttt{054bc-ad-familiares-13-49},
+\texttt{043bc-ad-familiares-11-28}) + the chronological-gap warning,
+now \textbf{14 earlier-dated pending works} (down from 15 ---
+de-officiis cleared). \texttt{build\_manifest.py} regenerated
+\texttt{MANIFEST.md} (958 entries) + \texttt{build/chronology.tex}.
+
+\textbf{Suggested next batch:} continue the remaining \textbf{44 BC
+philosophy} in the same per-treatise pattern, easiest first ---
+\textbf{\textit{cato-maior-de-senectute}} (On Old Age) and
+\textbf{\textit{laelius-de-amicitia}} (On Friendship), both short
+single-book dialogues that fit comfortably in one session (possibly
+both together); then the larger \textbf{\textit{de-divinatione}} (two
+books), \textbf{\textit{de-fato}}, \textbf{\textit{topica}}, and the
+45 BC \textbf{\textit{timaeus}} (Cicero's partial Plato). \textbf{Slice
+M} (entity-stub enrichment) remains the parallel-friendly fallback when
+a translation session isn't wanted.
+
+\textbf{Manual-Latin queue (do NOT \texttt{fetch\_latin.py}):}
+\textit{ad-familiares-05-10} (51), \textit{de-legibus} (52),
+\textit{ad-brutum} 2.6/2.7/2.8, \textit{ad-atticum} 13.15/13.18/13.36;
+plus the fragmentary \textit{de-consulatu-suo} (60),
+\textit{de-temporibus-suis} (54), \textit{hortensius} (45),
+\textit{consolatio} (45); and the deliberately-skipped \textit{aratea}
+(86) + \textit{de-inventione} (85).
+
+\textbf{Handoff:} run \texttt{bash scripts/cowork\_handoff.sh "session
+63: translate De Officiis (3 books, 371 \S\S) end-to-end; whole-work
+headnote + parallel sidecar; status drafted"} to land. Next session
+continues from \textit{cato-maior-de-senectute} (+
+\textit{laelius-de-amicitia}).
+
+---
+
+## Where to resume now (session 62 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-62):} \textbf{937 / 958
+works drafted (\~97.8\%)}. This session \textbf{cleared the fetchable
+short-letter backlog}: it drafted the \textbf{4} pending letters that
+have authentic Perseus Latin --- \textit{Ad M. Brutum} 1.16 (Brutus
+\emph{to Cicero}, 11 \S\S, the indignant rebuke of Cicero's servile
+letter to Octavian commending Brutus's safety --- companion to 1.17),
+\textit{Ad Familiares} 11.8 (Cicero to D. Brutus, 2 \S\S, the Mutina
+levy and the \textit{rege/regno} antithesis), 11.17 (Cicero to D.
+Brutus, 2 \S\S, the Lamia recommendation paired with 11.16), and 11.28
+(\textbf{Matius's reply to Cicero}, 8 \S\S, the celebrated defence of
+private \textit{amicitia} over faction) --- and flipped all four
+\texttt{pending}$\rightarrow$\texttt{drafted}.
+
+\textbf{Root-cause fix (the reason these were stuck):} all \textbf{10}
+pending-letter entries in \texttt{works.yaml} were misconfigured ---
+\texttt{latin\_source\_url} pointed only at \texttt{thelatinlibrary.com}
+(which 403/404s) with \textbf{no Perseus URL and no
+\texttt{speech\_index}}, so \texttt{fetch\_latin.py} fell through to the
+Latin-Library whole-book dump (the cause of the earlier ``manual Latin
+needed'' placeholders on 13.15/13.18 and the 107-char failure on 11.28).
+Repaired all 10: set \texttt{latin\_source\_url} to the correct Perseus
+TEI XML (\texttt{phi0474.phi056} Fam, \texttt{phi057} Att,
+\texttt{phi059} Brut) and added \texttt{speech\_index:
+book:N,letter:M}. That unblocked the 4 fetchable letters.
+
+\textbf{The other 6 pending letters are genuinely absent from Perseus}
+(verified 2026-05-21 against the TEI book structure, not assumed):
+\textit{Ad M. Brutum} \textbf{2.6 / 2.7 / 2.8} --- Perseus phi059 Book~2
+contains only letters \textbf{1--5} (the canonical collection is Bk~1 =
+18 letters, Bk~2 = 5); and \textit{Ad Atticum} \textbf{13.15 / 13.18 /
+13.36} --- Perseus phi057 Book~13 jumps \textbf{14$\to$16, 17$\to$19,
+35$\to$37} (these are combined/renumbered in the editorial tradition,
+Shackleton Bailey). All six keep \texttt{status: pending} with
+\textbf{refreshed \% PLACEHOLDER stubs} documenting the absence; their
+entries now carry the right Perseus book URL + \texttt{speech\_index} so
+a future manual-sourcing pass knows exactly which div was checked and
+found missing. \textbf{Manual Latin (Shackleton Bailey) is required}
+before they can be translated --- do NOT \texttt{fetch\_latin.py}.
+
+\textbf{Method:} PM repaired \texttt{works.yaml}, pre-fetched + extracted
+the 4 Latin files from the cached Perseus TEI, then dispatched \textbf{3
+parallel workers} (one each for the substantial 1.16 and 11.28; one for
+the two short Fam~11 letters) under adjacent drafted letters
+(\texttt{043bc-ad-brutum-01-17}, \texttt{044bc-ad-familiares-11-27},
+\texttt{043bc-ad-familiares-11-16}) as register templates. Workers wrote
+\texttt{english/} + \texttt{headnotes/} + \texttt{data/parallel/} only.
+
+\textbf{Date corrections (Perseus dateline over year-placeholder):} 1.16
+$\to$ \texttt{-0043-05-01} (\textit{in. Maio a. 711}); Fam 11.8 $\to$
+\texttt{-0043-01-24} (\textit{ix K. Febr.}); Fam 11.17 $\to$
+\texttt{-0043-07-15} (\textit{eodem tempore quo ep. 16}); \textbf{Fam
+11.28 $\to$ \texttt{-0044-09-01}} --- it is Matius's reply written
+\textit{paulo post ep. 27} (30 Aug 44), hence \textbf{44 BC, not 43};
+its three file paths were renamed \texttt{043bc-}$\to$\texttt{044bc-} and
+the stale \texttt{043bc} Latin overwritten with a superseded-stub (the
+sandbox cannot delete it; \texttt{cowork\_handoff.sh} cleans it).
+
+\textbf{Style fix:} in 1.16 \S2 \textit{medius fidius} was corrected from
+a worker's ``so help me God'' to \textbf{``upon my word''} --- the
+Christianizing reading clashes with the adjacent \textit{omnis deos}
+(``all the gods'') and violates STYLE.md's no-Christianizing rule.
+
+\textbf{Translator-notes worth logging} (deferred to enrichment):
+\textit{medius fidius} rendering; 1.16 textual cruxes (\S1 \textit{quae
+morte qua non perniciosior}, \S3 \textit{unius vix etiam nunc viri});
+Fam 11.8 \textit{rege/regno} cognate antithesis and \textit{dilectus}
+(``levy, if it is to be called a levy''); Fam 11.17 \textit{non dico
+officia sed merita}; Fam 11.28 \textit{me ipse retexam} (the
+unweave/unravel metaphor, kept literal) and the \textit{superbia /
+adrogantia} collision both landing on ``arrogance.''
+
+\textbf{Sidecars:} 4 parallel sidecars emitted (one per work);
+\texttt{backfill\_structural.py} regenerated the corpus aggregates
+(\textbf{936 parallel sidecars, 868 letter-network entries, 2111
+Greek-phrase entries}). No enrichment sidecars
+(entities-mentions/glossary/allusions/crossrefs) this session ---
+deferred to the apparatus pass. None of the 4 letters carry Greek.
+
+\textbf{Validation:} \texttt{validate.py} \textbf{exit 0, 10 warnings}
+--- 3 orphan Latin files (the two prior carry-overs
+\texttt{054bc-ad-familiares-13-49} + \texttt{046bc-ad-familiares-09-25},
+plus the new \texttt{043bc-ad-familiares-11-28} stub from the 11.28 date
+rename) and the chronological-gap warning, now \textbf{15 earlier-dated
+pending works} (down from 19). \textbf{Latest drafted by deep chronology
+unchanged}: \textit{Ad Familiares} 10.24 (28 July 43 BC) --- the 4 new
+letters are earlier-dated backfills. \texttt{build\_manifest.py}
+regenerated \texttt{MANIFEST.md} (958 entries) + \texttt{build/chronology.tex}.
+
+\textbf{Suggested next batch:} the \textbf{fetchable short-letter backlog
+is now exhausted} --- every remaining pending \emph{letter} needs manual
+Latin. Switch back to the \textbf{major-works pattern}: \textbf{\textit{de-officiis}}
+(44 BC, three books on duties) per the per-book section-range
+parallelisation (the DND / Tusc / de-finibus method: pre-fetch, slice
+each book into \~16-section ranges, dispatch in rounds of \~6--8 workers
+under a drafted treatise as register template, assemble with
+\texttt{\textbackslash ciceroBook} markers, verify contiguity, write the
+whole-work headnote, flip status, then
+\texttt{backfill\_structural.py}+\texttt{build\_manifest.py}+\texttt{validate.py}).
+The other 44 BC works (\textit{cato-maior-de-senectute},
+\textit{de-divinatione}, \textit{de-fato}, \textit{laelius-de-amicitia},
+\textit{topica}) and the 45 BC \textit{timaeus} are the same per-treatise
+pattern. \textbf{Slice M} (entity-stub enrichment) remains the
+parallel-friendly fallback.
+
+\textbf{Manual-Latin queue (do NOT \texttt{fetch\_latin.py}):}
+\textit{ad-familiares-05-10} (51), \textit{de-legibus} (52),
+\textit{ad-brutum} 2.6/2.7/2.8, \textit{ad-atticum} 13.15/13.18/13.36;
+plus the fragmentary \textit{de-consulatu-suo} (60),
+\textit{de-temporibus-suis} (54), \textit{hortensius} (45),
+\textit{consolatio} (45); and the deliberately-skipped \textit{aratea}
+(86) + \textit{de-inventione} (85).
+
+\textbf{Handoff:} run \texttt{bash scripts/cowork\_handoff.sh "session
+62: clear fetchable letter backlog (Brut 1.16, Fam 11.8/11.17/11.28
+drafted); repair 10 mis-configured pending-letter Perseus URLs; placeholder
+6 Perseus-absent letters; correct Fam 11.28 to 44 BC"} to land. Next
+session continues from \textit{de-officiis}.
+
+---
+
+## Where to resume now (session 61 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-61):} \textbf{933 / 958
+works drafted (\~97.4\%)} --- \textbf{\textit{de-natura-deorum} is now
+COMPLETE.} This session drafted all \textbf{three books end to end}
+(\textbf{387 sections}: Book~I \S\S1--124, the Epicurean theology of
+Velleius and Cotta's Academic demolition of it; Book~II \S\S1--168,
+Balbus's Stoic case in four movements --- that the gods exist, their
+nature, the world governed by providence, providence's care for
+humankind, with the design arguments and the long \textit{Aratea}
+constellation passage; Book~III \S\S1--95, Cotta's reply against the
+Stoics, lacunose in its attack on providence), wrote the whole-work
+headnote, and \textbf{flipped status \texttt{pending}$\rightarrow$\texttt{drafted}}.
+The three-book \textit{De Natura Deorum}
+(\texttt{045bc-de-natura-deorum}) is now whole: \textbf{387 sections}
+across three \texttt{\textbackslash ciceroBook} blocks.
+
+\textbf{Method (parallel, per-book section-range --- same as Tusc /
+de-finibus sessions 57--60):} PM sliced the in-tree fetched Latin into
+\textbf{25 ranges of \~16 sections} written to the Cowork \emph{outputs}
+scratch dir, and dispatched \textbf{25 worker sub-agents in 3 rounds
+(8 Book~I + 11 Book~II + 6 Book~III)} under \texttt{045bc-de-finibus} as
+register template (English \texttt{\textbackslash ciceroSection} blocks
+only, to scratch). PM assembled the parts onto
+\texttt{english/philosophy/045bc-de-natura-deorum.tex} with
+\texttt{\textbackslash ciceroBook\{1\}/\{2\}/\{3\}} markers, normalised
+blank-line separation, and \textbf{verified contiguity
+programmatically}: Book~I = 124 (\S\S1--124), Book~II = 168 (\S\S1--168),
+Book~III = 95 (\S\S1--95), each an exact match to the Latin per book.
+\textbf{Book~I \S120 is an empty Perseus lacuna} --- preserved as an
+empty \texttt{\textbackslash ciceroSection\{120\}} block to keep the
+numbering.
+
+\textbf{Greek handled} (all meaning-first + \textit{[Greek: \ldots]}):
+\textit{prolepsis}, \textit{isonomia}, \textit{apeiria}/\textit{eidola}
+(I); \textit{hegemonikon}, \textit{pronoia}, the planet Greek-names
+(\textit{Phainon}/\textit{Phaethon}/\textit{Pyroeis}/\textit{Stilbon}/
+\textit{Phosphoros}/\textit{Hesperos}) and the \textit{Aratea}
+constellation catalogue (II); \textit{sympatheian} and the divine
+etymologies (III). Quoted verse (Ennius, Accius, Pacuvius, Cicero's own
+\textit{Aratea}) rendered as italic prose; daggered/corrupt loci and
+asterisk-lacunae translated through by sense per the no-brackets-in-body
+rule.
+
+\textbf{Translator-notes worth logging} (deferred to enrichment): the
+\textbf{divine-etymology chain in Book~II \S\S63--72} (Iuno/\textit{iuvando},
+Neptunus/\textit{nando}, Ceres/\textit{gerendis}, Dis/\textit{dives},
+the \textit{superstitiosus}/\textit{religiosus} pair) --- a
+consistency-pass target where both Roman name and Latin root are kept
+visible; the \textbf{\textit{Aratea} verse-catalogue in Book~II
+\S\S104--114} (a rich crop for the allusions sidecar); the
+\textbf{multiple-Jupiters/Mercuries genealogical catalogues in Book~III
+\S\S42--60} (entity-dense); and Book~III's \textbf{lacunae} (the long
+attack on providence survives only in part, with dialogue gaps around
+\S65); the closing \S95 frame \textit{ad veritatis similitudinem
+propensior} was rendered freshly as "lean nearer the resemblance of
+truth," not echoing the stock "more probable."
+
+\textbf{Metadata:} no correction --- the treatise has no Perseus
+dateline; the works.yaml date (\texttt{-0045-08-01}, precision
+\texttt{month}) is consistent with the standard 45 BC dating; left
+as-is.
+
+\textbf{Sidecars:} parallel sidecar \textbf{generated at completion} via
+\texttt{backfill\_structural.py} ---
+\texttt{data/parallel/philosophy/045bc-de-natura-deorum.json},
+\textbf{387 segments}, \texttt{alignment\_grain:"section"}. No enrichment
+sidecars (entities-mentions / glossary / allusions / crossrefs) this
+session --- deferred to the apparatus pass, which should harvest the
+\textit{Aratea} verse crop (II) and the god-genealogy catalogues (III).
+
+\textbf{Validation:} \texttt{validate.py} \textbf{exit 0, 9 warnings} ---
+the two orphan-Latin carry-overs (\texttt{054bc-ad-familiares-13-49},
+\texttt{046bc-ad-familiares-09-25}) and the chronological-gap warning,
+now \textbf{19 pending earlier-dated works} (down from 20:
+\textit{de-natura-deorum} has left the pending set).
+\textbf{Latest drafted by deep chronology unchanged}: \textit{Ad
+Familiares} 10.24 (28 July 43 BC). \texttt{build\_manifest.py}
+regenerated \texttt{MANIFEST.md} (958 entries) and
+\texttt{build/chronology.tex}.
+
+\textbf{Suggested next batch:} \textbf{\textit{de-officiis}} (44 BC,
+three books on duties --- \textit{honestum}, the useful, and their
+apparent conflict) --- the next major philosophical work --- parallelised
+per-book by section-range exactly as DND / Tusc / de-finibus: pre-fetch
+the Latin via \texttt{fetch\_latin.py}, slice each book into
+\~16-section ranges, dispatch in rounds of \~6--8 workers under a drafted
+treatise as register template, assemble with \texttt{\textbackslash
+ciceroBook} markers, verify contiguity, write the whole-work headnote,
+flip status, then \texttt{backfill\_structural.py} +
+\texttt{build\_manifest.py} + \texttt{validate.py}. Note the \textbf{19
+earlier-dated pending works} a later letters pass should mop up: the
+45 BC \textit{Ad Atticum} cluster (13.15, 13.18, 13.36, \ldots) plus the
+two manual-Latin works \textit{de-legibus} (52) and
+\textit{ad-familiares-05-10} (51). \textbf{Slice M} (entity-stub
+enrichment) remains the parallel-friendly fallback.
+
+\textbf{File carry-overs:} the completed
+\texttt{english/philosophy/045bc-de-natura-deorum.tex} (three books,
+387 sections), the new headnote, the flipped works.yaml entry, the
+regenerated MANIFEST/chronology, and the new parallel sidecar are
+committable. Earlier carry-overs persist (the two orphan Latin stubs;
+sandbox cannot delete --- Alexander handles at handoff). Cowork scratch
+slices/parts live outside the repo (\emph{outputs} dir).
+
+\textbf{Still NOT fetchable} (manual Latin needed; do NOT
+\texttt{fetch\_latin.py}): \textit{de-legibus} (52),
+\textit{ad-familiares-05-10} (51), and the fragmentary
+\textit{de-consulatu-suo} (60), \textit{de-temporibus-suis} (54),
+\textit{hortensius} (45), \textit{consolatio} (45); plus the
+deliberately-skipped \textit{aratea} (86) and \textit{de-inventione}
+(85).
+
+\textbf{Handoff:} run \texttt{bash scripts/cowork\_handoff.sh "session
+61: complete De Natura Deorum (3 books, 387 sections; work now
+drafted)"} to land. Next session continues from \textit{de-officiis}.
+
+---
+
+## Where to resume now (session 60 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-60):} \textbf{932 / 958
+works drafted (\~97.3\%)} --- \textbf{\textit{tusculanae-disputationes}
+is now COMPLETE.} This session drafted \textbf{Books III--V end to end}
+(\textbf{289 sections}: Book~III \S\S1--84 on distress/\textit{aegritudo};
+Book~IV \S\S1--84 on the passions/\textit{perturbationes} and the Stoic
+taxonomy; Book~V \S\S1--121 on whether virtue suffices for the happy
+life), assembled them onto the Books~I--II carry-over, wrote the
+whole-work headnote, and \textbf{flipped status
+\texttt{pending}$\rightarrow$\texttt{drafted}}. The five-book
+\textit{Tusculan Disputations} (\texttt{045bc-tusculanae-disputationes})
+is now whole: \textbf{474 sections} across five \texttt{\textbackslash
+ciceroBook} blocks.
+
+\textbf{Method (parallel, per-book section-range --- same as Tusc
+Books~I--II / de-finibus sessions 57--59):} PM sliced the in-tree
+cleaned Latin (Book~III lines 375--541, Book~IV 543--709, Book~V
+711--951) into \textbf{20 ranges of \~15 sections} written to the Cowork
+\emph{outputs} scratch dir, and dispatched \textbf{20 worker sub-agents
+in 3 rounds (6 + 6 + 8)} under \texttt{045bc-de-finibus} and the
+now-drafted Tusc Books~I--II as register templates (English
+\texttt{\textbackslash ciceroSection} blocks only, to scratch). PM
+assembled the parts onto
+\texttt{english/philosophy/045bc-tusculanae-disputationes.tex} with
+\texttt{\textbackslash ciceroBook\{3\}/\{4\}/\{5\}} markers after Book~II,
+normalised blank-line separation, and \textbf{verified contiguity
+programmatically}: Book~III = 84 (\S\S1--84), Book~IV = 84 (\S\S1--84),
+Book~V = 121 (\S\S1--121), each matching the Latin exactly; full work
+474 labels (Book~I retains its expected \S31-label gap).
+
+\textbf{Greek handled} (all meaning-first + \textit{[Greek: \ldots]},
+across III--V): \textit{pathe}/\textit{pathos}, \textit{mania},
+\textit{melancholia} (III); \textit{zēlotypia}, \textit{thymōsis},
+\textit{katēgorēmata}, \textit{philogynia}, \textit{misanthrōpos},
+\textit{nosēmata}, \textit{arrōstēmata}, \textit{boulēsin},
+\textit{logika}, \textit{kakia}, \textit{lupē} (IV); \textit{sophoi}
+with the \textit{sophia/philosophia} etymology (V). Quoted verse (Ennius,
+Accius, Pacuvius, Afranius, Caecilius, Lucilius, the tragedians; the
+Sardanapalus epitaph; the Teucer line) rendered as italic prose;
+daggered/corrupt loci (e.g. III.40, III.43; IV.32, IV.50; V.45, V.72,
+V.117) translated through by sense per the no-brackets-in-body rule.
+
+\textbf{Translator-notes worth logging} (deferred to enrichment): the
+lexical/etymological cruxes workers flagged --- III.10's
+\textit{insania/amentia/dementia} pun (Cicero's claim Latin marks these
+"better than Greek"); III.17--18's \textit{frugalitas/nequitia}
+etymologies; IV.11--14's count of \textbf{four \textit{perturbationes}
+vs. three \textit{constantiae}} (the eupatheiai
+\textit{gaudium}/\textit{voluntas}/\textit{cautio}); V.101's
+\textbf{Sardanapalus called king "of Syria"} in Cicero's text
+(historically Assyria --- kept as written, not silently corrected); and
+a \textbf{passions-vocabulary consistency pass} now that all five books
+are drafted (\textit{aegritudo}, \textit{perturbatio},
+\textit{morbus}/\textit{aegrotatio}, the Book~IV species-lists).
+
+\textbf{Metadata:} no correction --- the treatise has no Perseus
+dateline; the works.yaml date (\texttt{-0045-08-01}, precision
+\texttt{month}) is consistent with the standard 45 BC dating; left
+as-is.
+
+\textbf{Sidecars:} parallel sidecar \textbf{generated at completion} via
+\texttt{backfill\_structural.py} ---
+\texttt{data/parallel/philosophy/045bc-tusculanae-disputationes.json},
+\textbf{474 segments}, \texttt{alignment\_grain:"section"}. No enrichment
+sidecars (entities-mentions / glossary / allusions / crossrefs) this
+session --- deferred to the apparatus pass, which should also harvest the
+\textbf{rich verse-fragment crop} (III--V quote dozens of tragic/comic
+lines) for the allusions sidecar.
+
+\textbf{Validation:} \texttt{validate.py} \textbf{exit 0, 9 warnings} ---
+the two orphan-Latin carry-overs (\texttt{054bc-ad-familiares-13-49},
+\texttt{046bc-ad-familiares-09-25}) and the chronological-gap warning,
+now \textbf{20 pending earlier-dated works} (down from 21:
+\textit{tusculanae-disputationes} has left the pending set).
+\textbf{Latest drafted by deep chronology unchanged}: \textit{Ad
+Familiares} 10.24 (28 July 43 BC). \texttt{build\_manifest.py}
+regenerated \texttt{MANIFEST.md} (958 entries) and
+\texttt{build/chronology.tex}.
+
+\textbf{Suggested next batch:} \textbf{\textit{de-natura-deorum}} (45 BC,
+three books on the nature of the gods) --- the next major philosophical
+work in the 45 sweep --- then \textbf{\textit{de-officiis}} (44 BC, three
+books). Both parallelise per-book by section-range exactly as Tusc and
+de-finibus did: pre-fetch the Latin via \texttt{fetch\_latin.py}, slice
+each book into \~15-section ranges, dispatch in rounds of \~4--6 workers
+under a drafted treatise as register template, assemble with
+\texttt{\textbackslash ciceroBook} markers, verify contiguity, write the
+whole-work headnote, flip status, then \texttt{backfill\_structural.py}
++ \texttt{build\_manifest.py} + \texttt{validate.py}. \textbf{Slice M}
+(entity-stub enrichment) remains the parallel-friendly fallback.
+
+\textbf{File carry-overs:} the completed
+\texttt{english/philosophy/045bc-tusculanae-disputationes.tex} (five
+books, 474 sections), the new headnote, the flipped works.yaml entry,
+the regenerated MANIFEST/chronology, and the new parallel sidecar are
+committable. Earlier carry-overs persist (the two orphan Latin stubs;
+sandbox cannot delete --- Alexander handles at handoff). Cowork scratch
+slices/parts live outside the repo (\emph{outputs} dir).
+
+\textbf{Still NOT fetchable} (manual Latin needed; do NOT
+\texttt{fetch\_latin.py}): \textit{de-legibus} (52),
+\textit{ad-familiares-05-10} (51), and the fragmentary
+\textit{de-consulatu-suo} (60), \textit{de-temporibus-suis} (54),
+\textit{hortensius} (45), \textit{consolatio} (45); plus the
+deliberately-skipped \textit{aratea} (86) and \textit{de-inventione}
+(85).
+
+\textbf{Handoff:} run \texttt{bash scripts/cowork\_handoff.sh "session
+60: complete Tusculan Disputations (Books III--V, 289 sections; work now
+drafted)"} to land. Next session continues from
+\textit{de-natura-deorum}.
+
+---
+
+## Where to resume now (session 59 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-59):} \textbf{931 / 958
+works drafted (\~97.2\%) --- count unchanged.}
+\textit{tusculanae-disputationes} is \textbf{opened but not yet
+complete} (status remains \texttt{pending}). This session drafted
+\textbf{Books I--II end to end} of the five-book \textit{Tusculanae
+Disputationes} (\texttt{045bc-tusculanae-disputationes}): \textbf{Book I
+\S\S1--119} (whether death is an evil; the nature and immortality of the
+soul) and \textbf{Book II \S\S1--67} (whether pain is the greatest evil;
+the endurance of pain) --- \textbf{185 sections}. \textbf{Books III--V}
+(\S\S1--84 / 1--84 / 1--121, \textbf{289 sections}) remain for the
+completion session, which will write the whole-work headnote, flip
+status \texttt{pending}$\rightarrow$\texttt{drafted}, and backfill the
+parallel sidecar.
+
+\textbf{Method (parallel, per-book section-range --- same as the
+de-finibus sessions 57--58):} PM pre-fetched the Latin via
+\texttt{fetch\_latin.py} (Perseus phi0474.phi049). Sliced Books 1--2
+into \textbf{12 ranges of \~15 sections} written to the Cowork
+\emph{outputs} scratch dir. Dispatched \textbf{12 worker sub-agents in 3
+parallel batches of 4} under \texttt{045bc-de-finibus} as the register
+template (English parts only, to scratch). PM assembled the parts into
+\texttt{english/philosophy/045bc-tusculanae-disputationes.tex} with
+\texttt{\textbackslash ciceroBook\{1\}}/\texttt{\{2\}} markers and
+per-book \texttt{\textbackslash ciceroSection} numbering, normalised
+blank-line separation, and verified contiguity programmatically (Book 1
+= 118 sections present, Book 2 = 67).
+
+\textbf{Source cleanup (carried forward):} the Perseus fetch appended a
+\textbf{Teubner editorial index} (\textsc{Nomina Propria} +
+\textsc{Res Memorabiles et Vocabula Memorabilia}) as two spurious
+\texttt{\textbackslash ciceroSection\{1\}}/\texttt{\{2\}} blocks after
+Book 5. The PM \textbf{stripped these} (overwrote the Latin file to keep
+Books I--V only, lines 1--951); they are NOT Cicero and must not be
+translated. If a future \texttt{fetch\_latin.py} re-fetch restores them,
+strip again before slicing Books 3--5.
+
+\textbf{\S31 gap (Book 1, expected --- do not "fix"):} Perseus's
+numbering \textbf{skips the label \S31} in Book 1 (the content is folded
+into \S30/\S32; the book still ends at \S119, as in OCT/Teubner). The
+English mirrors the source: \texttt{\textbackslash ciceroSection\{30\}}
+is followed directly by \texttt{\{32\}}. A single missing label, not
+missing text.
+
+\textbf{Greek handled} (all meaning-first + \textit{[Greek: \ldots]}):
+\textit{axioma}, \textit{harmonia}, \textit{endelecheia},
+\textit{Leukothea}, \textit{nekyia}, \textit{nekyomanteia},
+\textit{kentron}, \textit{ennoiai}, \textit{idea}, \textit{antichthona},
+\textit{Apokarteron}. Quoted tragic/epic verse (Ennius, Accius,
+Pacuvius's \textit{Niptra}, the \textit{Trachiniae}/Prometheus
+adaptations, Cicero's own verse renderings, the Simonides Thermopylae
+epitaph) rendered as italic prose; Perseus lacunae as ellipses;
+daggered/corrupt loci (Book 1 \S86; Book 2 \S26) translated through by
+sense per the no-brackets-in-body rule.
+
+\textbf{Dialogue convention (autonomous choice, carry forward to Books
+3--5):} Books 1--2 are Socratic Q\&A with \textbf{unmarked speakers} in
+the Latin. Workers rendered the exchanges as flowing prose, marking a
+clear mid-section speaker change with an \textbf{em-dash (---)}, with no
+invented speaker names, labels, or macros (consistent with the existing
+dialogue works, which use only \texttt{\textbackslash ciceroSection} /
+\texttt{\textbackslash ciceroBook}).
+
+\textbf{Translator-notes worth logging} (deferred to an enrichment
+pass): the \textbf{logical-vocabulary} rendering in Book 1 \S\S13--14
+(\textit{pronuntiatum}/\textit{axioma} = "proposition", the joke turning
+on the copula --- "Crassus is wretched" vs. "Crassus wretched"); the
+\textbf{etymological wordplay} (\textit{cor}-compounds at I.18;
+\textit{animus}/\textit{anima} at I.19; \textit{virtus}/\textit{vir} at
+II.43) where bracketed Latin glosses were occasionally needed and should
+be reviewed against the no-brackets rule; the \textbf{verse-fragment
+crop} for the allusions sidecar; and a \textbf{passions-vocabulary
+consistency pass} once Books 3--5 are drafted (\textit{aegritudo},
+\textit{perturbatio}, \textit{morbus}/\textit{aegrotatio}, and the Stoic
+\textit{logika} terms in Books 3--4).
+
+\textbf{Metadata:} no correction --- \textit{tusculanae-disputationes}
+is a treatise with no Perseus dateline; the works.yaml date
+(\texttt{-0045-08-01}, precision \texttt{month}) is consistent with the
+standard 45 BC dating; left as-is.
+
+\textbf{Sidecars:} parallel sidecar \textbf{deliberately NOT generated
+this session} --- the work is partial, and
+\texttt{backfill\_structural.py} would emit a misaligned, partial JSON
+for a pending work. It will be generated at completion, after the status
+flip, as for \textit{de-finibus}. No enrichment sidecars this session.
+
+\textbf{Validation:} \texttt{validate.py} \textbf{exit 0, 9 warnings}
+--- unchanged from session 58: the two orphan-Latin carry-overs
+(\texttt{054bc-ad-familiares-13-49}, \texttt{046bc-ad-familiares-09-25})
+and the chronological-gap warning (21 pending earlier-dated works;
+\textit{tusculanae-disputationes} among them, still pending).
+\textbf{Latest drafted by deep chronology unchanged}: \textit{Ad
+Familiares} 10.24 (28 July 43 BC). \texttt{build\_manifest.py} not run
+(no status flip $\rightarrow$ works.yaml unchanged).
+
+\textbf{Suggested next batch (completion of this work):} finish
+\textit{tusculanae-disputationes} \textbf{Books III--V} (\S\S1--84 /
+1--84 / 1--121, 289 sections): Book III on grief/distress
+(\textit{aegritudo}), Book IV on the passions (\textit{perturbationes}),
+Book V on whether virtue suffices for happiness. Latin is already
+fetched and cleaned in tree
+(\texttt{latin/philosophy/045bc-tusculanae-disputationes.tex}, Books
+I--V, 474 sections, index stripped; Book III \S1 begins at line 375,
+Book IV \S1 at line 543, Book V \S1 at line 711). Slice Books 3--5
+per-book into \~15-section ranges, dispatch in batches of four under
+\texttt{045bc-de-finibus} / the now-drafted Tusc Books 1--2 as register
+templates, assemble onto the existing english file with
+\texttt{\textbackslash ciceroBook\{3\}/\{4\}/\{5\}} markers
+\emph{after Book II}, verify contiguity, write the whole-work headnote,
+\textbf{flip status \texttt{pending}$\rightarrow$\texttt{drafted}}, then
+run \texttt{backfill\_structural.py} + \texttt{build\_manifest.py} +
+\texttt{validate.py}. After Tusc: \textit{de-natura-deorum} (45, three
+books), then \textit{de-officiis} (44, three books). \textbf{Slice M}
+(entity-stub enrichment) remains the parallel-friendly fallback.
+
+\textbf{File carry-overs:} the \textbf{WIP
+\texttt{english/philosophy/045bc-tusculanae-disputationes.tex} (Books
+I--II, 185 sections, header + \textbackslash ciceroBook markers)} and
+the \textbf{cleaned
+\texttt{latin/philosophy/045bc-tusculanae-disputationes.tex}} (index
+stripped) are committable carry-overs. No headnote, no status flip, no
+sidecar yet (all deferred to completion). The Cowork scratch slices and
+English parts live outside the repo (the \emph{outputs} dir). Earlier
+carry-overs persist (the two orphan Latin stubs; sandbox cannot delete
+--- Alexander handles at handoff).
+
+\textbf{Still NOT fetchable} (manual Latin needed; do NOT
+\texttt{fetch\_latin.py}): \textit{de-legibus} (52),
+\textit{ad-familiares-05-10} (51), and the fragmentary
+\textit{de-consulatu-suo} (60), \textit{de-temporibus-suis} (54),
+\textit{hortensius} (45), \textit{consolatio} (45); plus the
+deliberately-skipped \textit{aratea} (86) and \textit{de-inventione}
+(85).
+
+\textbf{Launch-prompt advisory:} the scheduled 2-hour Cowork prompt
+still carries Phase-1 wording (``dispatch 3--4 parallel batches \ldots
+3--5 short letters''), which remains stale --- the project is in
+\textbf{Phase 3 (major-works sweep)}: one substantial work (often split
+across sessions), parallelised by section-range. Each scheduled session
+reads ``Where to resume now'' first and follows it, so this is not
+blocking; updating the scheduled-task prompt to Phase-3 wording is still
+recommended.
+
+---
+
+## Where to resume now (session 58 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-58):} \textbf{931 / 958
+works drafted (\~97.2\%) --- \textit{de-finibus} COMPLETED, +1.} Session
+58 finished the five-book \textit{De Finibus Bonorum et Malorum}
+(\texttt{045bc-de-finibus}) that session 57 had opened. Session 57 had
+drafted Books I--II (the Epicurean unit, 191 sections); this session
+drafted the remaining three books end to end: \textbf{Book III §§1--76}
+(Cato's exposition of Stoic ethics), \textbf{Book IV §§1--80} (Cicero's
+critique of the Stoics), and \textbf{Book V §§1--96} (Piso on Antiochus
+and the Old Academy) --- \textbf{252 sections}. The assembled work is now
+\textbf{443 sections} (72 / 119 / 76 / 80 / 96), verified
+\textbf{contiguous across all five books} (zero gaps/dups). Whole-work
+headnote written; \textbf{status flipped \texttt{pending} $\rightarrow$
+\texttt{drafted}}.
+
+\textbf{Method (parallel, per-book section-range --- same as session 57):}
+PM sliced the already-pre-fetched Latin into \textbf{16 ranges of
+\~16 sections} written to the Cowork \emph{outputs} scratch dir (book
+boundaries in \texttt{latin/philosophy/045bc-de-finibus.tex}: Book III
+§1 at line 387, Book IV §1 at line 539, Book V §1 at line 699; Perseus
+restarts section numbers each book). Dispatched \textbf{16 worker
+sub-agents in 4 parallel batches of 4} under
+\texttt{045bc-academica} as the dialogue register template (English
+parts only, to scratch). PM assembled the parts onto the existing
+\texttt{english/philosophy/045bc-de-finibus.tex} \emph{after Book II},
+adding \texttt{\textbackslash ciceroBook\{3\}/\{4\}/\{5\}} and per-book
+\texttt{\textbackslash ciceroSection} numbering, normalising blank-line
+separation, and verifying contiguity programmatically.
+
+\textbf{Greek handled} (all meaning-first + \textit{[Greek: \ldots]}):
+\textit{proēgmena}, \textit{apoproēgmena}, \textit{katalēpseis},
+\textit{axia}, \textit{kathēkon}, \textit{ennoia}, \textit{homologia},
+\textit{hormē}, \textit{katorthōmata}, \textit{telos},
+\textit{epigennēmatikon}, \textit{ōphelēma}, \textit{kakia},
+\textit{eukairia}, \textit{katorthōsis}/\textit{katorthōma},
+\textit{ōphelēmata kai blammata}, \textit{euchrēstēmata kai
+dyschrēstēmata}, \textit{politikon}, \textit{exoterikon},
+\textit{paradoxa}, \textit{euthymia}, \textit{athambia},
+\textit{agelastos}. Lacunae (Perseus \texttt{* * *}) rendered as
+ellipses per the no-brackets-in-body rule.
+
+\textbf{Translator-notes worth logging} (deferred to an enrichment pass):
+the \textbf{Stoic technical-vocabulary consistency} across Books III--V
+needs a harmonisation pass --- \textit{praeposita}/\textit{reiecta}
+("preferred"/"rejected"), \textit{producta}/\textit{reducta}/
+\textit{praecipua}, and the \textit{aestimabile}/\textit{axia} value-terms
+were rendered slightly differently by different workers (workers
+flagged this themselves); the \textbf{lorem-ipsum locus at I.32--33}
+(already noted session 57); a dense crop of \textbf{verse fragments}
+rendered as italic prose (Ennius \textit{Alcmaeon} at IV.62--63, Cicero's
+Latin Homer/Sirens at V.49, Pacuvius/Accius/Terence/Lucilius fragments
+through Book V) --- flag-not-resolve for the allusions sidecar; the
+famous \textbf{genius-loci opening of Book V} (the walk in the Academy);
+the \textbf{Carneadea divisio} (V.16, V.20); and the \textbf{rack /
+Phalaris's-bull / Regulus debate} on whether virtue alone suffices for
+happiness (V.81--96), with the §96 closing dialogue frame.
+
+\textbf{Metadata:} no correction --- \textit{de-finibus} is a treatise
+with no Perseus dateline; the works.yaml date (\texttt{-0045-06-01},
+precision \texttt{month}) is consistent with the standard 45 BC dating;
+left as-is.
+
+\textbf{Sidecars:} the parallel sidecar \textbf{was generated this
+session} by \texttt{backfill\_structural.py} \emph{after} the status
+flip --- \texttt{data/parallel/philosophy/045bc-de-finibus.json},
+\textbf{443 segments}, all with English. \textbf{Known limitation carried
+forward (unchanged):} \texttt{backfill\_structural.py} keys the English
+side by the \emph{bare} section number, so for this multi-book work the
+parallel JSON has cross-book section-number collisions that
+\textbf{misalign} the English side (same as
+\texttt{055bc-de-oratore.json} and \texttt{054bc-de-re-publica.json}).
+The bound volume is built from the \texttt{.tex}, not the JSON, so the
+\textbf{reader edition is unaffected} --- flag for a
+sentence-grain/book-qualified refinement pass; do not hand-patch the
+script mid-session (no unsanctioned script edits).
+
+\textbf{Validation:} \texttt{validate.py} \textbf{exit 0, 9 warnings} ---
+the two orphan-Latin carry-overs (\texttt{054bc-ad-familiares-13-49},
+\texttt{046bc-ad-familiares-09-25}) and the chronological-gap warning,
+now \textbf{21} pending earlier-dated works (\textit{de-finibus} removed,
+was 22). \textbf{Latest drafted by deep chronology unchanged}:
+\textit{Ad Familiares} 10.24 (28 July 43 BC).
+\texttt{build\_manifest.py} regenerated \texttt{MANIFEST.md} (958
+entries) and \texttt{build/chronology.tex}.
+
+\textbf{Suggested next batch (session 59):} continue the Phase-3
+major-works sweep with \textbf{\textit{tusculanae-disputationes}} (45 BC,
+five books), then \textit{de-natura-deorum} (45, three books), then
+\textit{de-officiis} (44, three books). Pre-fetch via
+\texttt{fetch\_latin.py}, slice per-book into \~15-section ranges,
+dispatch in batches of four under
+\texttt{045bc-academica}/\texttt{045bc-de-finibus} as register
+templates, assemble with \texttt{\textbackslash ciceroBook} markers and
+per-book numbering, verify contiguity, write the whole-work headnote,
+flip status, and run \texttt{backfill\_structural.py} +
+\texttt{build\_manifest.py} + \texttt{validate.py}. \textbf{Slice M}
+(entity-stub enrichment) remains the parallel-friendly fallback when no
+fetchable substantial work is ready.
+
+\textbf{File carry-overs:} the \textbf{completed
+\texttt{english/philosophy/045bc-de-finibus.tex} (Books I--V, 443
+sections)}, the \textbf{new headnote}
+(\texttt{headnotes/philosophy/045bc-de-finibus.tex}), the flipped
+\texttt{meta/works.yaml}, the regenerated
+\texttt{data/parallel/philosophy/045bc-de-finibus.json} +
+corpus aggregates, \texttt{MANIFEST.md}, and \texttt{build/chronology.tex}
+are committable carry-overs. The \textit{de-finibus} Latin pre-fetch was
+already in tree. The Cowork scratch slices and English parts live
+outside the repo (the \emph{outputs} dir). Earlier carry-overs persist
+(the two orphan Latin stubs; sandbox cannot delete --- Alexander handles
+at handoff).
+
+\textbf{Still NOT fetchable} (manual Latin needed; do NOT
+\texttt{fetch\_latin.py}): \textit{de-legibus} (52),
+\textit{ad-familiares-05-10} (51), and the fragmentary
+\textit{de-consulatu-suo} (60), \textit{de-temporibus-suis} (54),
+\textit{hortensius} (45), \textit{consolatio} (45); plus the
+deliberately-skipped \textit{aratea} (86) and \textit{de-inventione}
+(85).
+
+\textbf{Launch-prompt advisory:} the scheduled 2-hour Cowork prompt
+still carries Phase-1 wording (``dispatch 3--4 parallel batches \ldots
+3--5 short letters''), which remains stale --- the project is in
+\textbf{Phase 3 (major-works sweep)}: one substantial work (often split
+across sessions), parallelised by section-range. Each scheduled session
+reads ``Where to resume now'' first and follows it, so this is not
+blocking; updating the scheduled-task prompt to Phase-3 wording is still
+recommended.
+
+---
+
+## Where to resume now (session 57 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-57):} \textbf{930 /
+958 works drafted (\~97.1\%) --- drafted count UNCHANGED.} Session 57
+opened \textbf{\textit{de-finibus}} (45 BC, \texttt{045bc-de-finibus},
+\textbf{443 sections across five books}, \~326 KB Latin --- the longest
+treatise in the Phase-3 sweep) but, like the \textit{Philippic 2} split
+(sessions 36/37), is translating it across \textbf{two sessions}. This
+session drafted \textbf{Books I and II} (the complete Epicurean unit):
+\textbf{Book I §§1--72} (Torquatus's exposition of Epicurean ethics) and
+\textbf{Book II §§1--119} (Cicero's refutation) --- \textbf{191 sections}
+end to end. \textbf{Books III--V (252 sections) remain for session 58.}
+\textbf{Status stays \texttt{pending}} until all five books are
+assembled and the headnote is written (session 58); the drafted count
+does not advance until then.
+
+\textbf{Method (parallel, per-book section-range):} PM sliced the
+already-pre-fetched Latin into per-book ranges written to the Cowork
+\emph{outputs} scratch dir --- Book I as 4 ranges of 18 sections, Book II
+as 8 ranges of \~15 --- and dispatched \textbf{12 worker sub-agents in 3
+parallel batches of 4} under \texttt{045bc-academica} as the
+register/dialogue template (English parts only, to scratch). PM
+assembled the parts into \texttt{english/philosophy/045bc-de-finibus.tex}
+with a file header, \texttt{\textbackslash ciceroBook\{1\}} /
+\texttt{\textbackslash ciceroBook\{2\}}, and per-book
+\texttt{\textbackslash ciceroSection} numbering. \textbf{Perseus restarts
+section numbers per book}; PM verified the assembled file is
+\textbf{contiguous} (Book I §§1--72, Book II §§1--119, 191 total, zero
+gaps/dups). Whole-work headnote DEFERRED to the completing session.
+
+\textbf{Book boundaries for session-58 slicing} (section numbers restart
+each book): in \texttt{latin/philosophy/045bc-de-finibus.tex}, \textbf{Book
+III} (§§1--76) begins at line 387, \textbf{Book IV} (§§1--80) at line 539,
+\textbf{Book V} (§§1--96) at line 699. Confirmed per-book counts:
+72 / 119 / 76 / 80 / 96 = 443.
+
+\textbf{Greek handled} (all meaning-first + \textit{[Greek: \ldots]}):
+\textit{telos}, \textit{hedone}, \textit{eidola}, \textit{apeiria},
+\textit{logike}, \textit{kyriai doxai}, \textit{sophos},
+\textit{skoteinos}, \textit{ommat\=on to oxytaton}, \textit{ho en skot\=o},
+\textit{h\=edeia mn\=em\=e pon\=on parelthont\=on}. Lacunae (Perseus
+\texttt{* * *}) rendered as ellipses per the no-brackets-in-body rule.
+
+\textbf{Translator-notes worth logging} (deferred to an enrichment pass):
+the \textbf{lorem-ipsum locus classicus at I.32--33} (rendered seriously,
+in its real Epicurean-calculus context); the \textbf{katastematic vs.
+kinetic pleasure distinction} signaled in the Latin only by
+\textit{in motu} / \textit{in stabilitate} (I.37--39, II.9, II.16), no
+technical label in the text; \textit{honestum} left in Latin at I.61; the
+\textbf{Manlian/Torquatus family wordplay} (II.105, II.60); and a dense
+crop of \textbf{verse fragments} (Ennius, Lucilius, Caecilius, Accius,
+Trabea, Terence) rendered as italic prose --- flag-not-resolve for the
+allusions sidecar. The \textbf{Calatinus inscription (II.116)} is set as a
+\texttt{\textbackslash begin\{quote\}} block (precedented in
+\texttt{english/letters/054bc-ad-familiares-01-09.tex}).
+
+\textbf{Metadata:} no correction --- \textit{de-finibus} is a treatise with
+no Perseus dateline; the works.yaml date (\texttt{-0045-06-01}, precision
+\texttt{month}) is consistent with the standard 45 BC dating; left as-is.
+\textbf{Status NOT flipped} (multi-session).
+
+\textbf{Sidecars --- IMPORTANT for session 58:} the parallel sidecar was
+\textbf{deliberately NOT generated this session}.
+\texttt{backfill\_structural.py} only processes \texttt{drafted}/
+\texttt{reviewed}/\texttt{final} works, and \textit{de-finibus} stays
+\texttt{pending}; it would skip the entry anyway. The sidecar is to be
+generated in session 58 \emph{after} status is flipped. \textbf{Known
+limitation to carry forward:} \texttt{backfill\_structural.py} keys the
+English side by the \emph{bare} section number, so for multi-book works
+(see \texttt{data/parallel/rhetoric/055bc-de-oratore.json} and
+\texttt{054bc-de-re-publica.json}) cross-book section-number collisions
+\textbf{misalign} the parallel JSON. \textit{de-finibus}'s sidecar will
+inherit this; the bound volume is built from the \texttt{.tex}, not the
+JSON, so the \textbf{reader edition is unaffected} --- flag for a
+sentence-grain/book-qualified refinement pass, do not hand-patch the
+script mid-session (no unsanctioned script edits).
+
+\textbf{Validation:} \texttt{validate.py} \textbf{exit 0, 9 warnings} ---
+the two orphan-Latin carry-overs (\texttt{054bc-ad-familiares-13-49},
+\texttt{046bc-ad-familiares-09-25}) and the chronological-gap warning,
+\textbf{22} pending earlier-dated works (\textit{de-finibus} still among
+them --- expected, since it has not flipped). \textbf{Latest drafted by
+deep chronology unchanged}: \textit{Ad Familiares} 10.24 (28 July 43 BC).
+\texttt{build\_manifest.py} regenerated \texttt{MANIFEST.md} (958 entries)
+and \texttt{build/chronology.tex}.
+
+\textbf{Suggested next batch (session 58): COMPLETE \textit{de-finibus}.}
+Translate \textbf{Book III} (§§1--76, Cato's exposition of Stoic ethics),
+\textbf{Book IV} (§§1--80, Cicero's critique of the Stoics), and
+\textbf{Book V} (§§1--96, Piso on Antiochus and the Old Academy) --- slice
+each book into \~15-section ranges (book boundaries above), dispatch in
+batches of four under
+\texttt{045bc-academica}/\texttt{046bc-brutus} as register templates,
+and \textbf{APPEND} to the existing
+\texttt{english/philosophy/045bc-de-finibus.tex} after Book II (add
+\texttt{\textbackslash ciceroBook\{3\}/\{4\}/\{5\}}). Then: verify
+per-book contiguity, write the \textbf{whole-work headnote},
+\textbf{flip status \texttt{pending}$\rightarrow$\texttt{drafted}}
+(anchor on the three-line \texttt{latin\_file:}/\texttt{english\_file:}/
+\texttt{headnote\_file:} block), and run
+\texttt{backfill\_structural.py} + \texttt{build\_manifest.py} +
+\texttt{validate.py}. Drafted count then 930 $\rightarrow$ 931. After
+\textit{de-finibus}: \textit{tusculanae-disputationes} (45),
+\textit{de-natura-deorum} (45), then \textit{de-officiis} (44).
+
+\textbf{File carry-overs:} the \textit{de-finibus} Latin pre-fetch and the
+\textbf{new partial English file (Books I--II only)} are in the working
+tree as expected, committable carry-overs. The Cowork scratch slices and
+English parts live outside the repo (the \emph{outputs} dir). Earlier
+carry-overs persist (the two orphan Latin stubs; sandbox cannot delete ---
+Alexander handles at handoff).
+
+\textbf{Still NOT fetchable} (manual Latin needed; do NOT
+\texttt{fetch\_latin.py}): \textit{de-legibus} (52), \textit{ad-familiares-05-10}
+(51), and the fragmentary \textit{de-consulatu-suo} (60),
+\textit{de-temporibus-suis} (54), \textit{hortensius} (45),
+\textit{consolatio} (45); plus the deliberately-skipped \textit{aratea}
+(86) and \textit{de-inventione} (85). \textbf{Slice M} (entity-stub
+enrichment) remains the parallel-friendly fallback when no fetchable
+substantial work is ready.
+
+\textbf{Launch-prompt advisory:} the scheduled 2-hour Cowork prompt still
+carries Phase-1 wording (``dispatch 3--4 parallel batches \ldots 3--5
+short letters''), which remains stale --- the project is in \textbf{Phase 3
+(major-works sweep)}: one substantial work (often split across sessions),
+parallelized by section-range. Each scheduled session reads ``Where to
+resume now'' first and follows it, so this is not blocking; updating the
+scheduled-task prompt to Phase-3 wording is still recommended.
+
+---
+
+## Where to resume now (session 56 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-56):} \textbf{930 /
+958 works drafted (\~97.1\%)} --- session 56 opened the \textbf{45 BC
+philosophica run} (still \textbf{Phase 3}, the major-works sweep) by
+drafting the surviving \textit{Academica} (45 BC,
+\texttt{045bc-academica}, \textbf{46 sections}, \~29 KB Latin) end to
+end. Drafted count 929 $\rightarrow$ 930.
+
+\textbf{Which \textit{Academica}:} Perseus \texttt{phi045} carries only
+the surviving torso of the \emph{second} edition --- the dialogue called
+\textbf{``the Varro''} (Academica Posteriora Book I), set at Cicero's
+Cumanum among Cicero, Varro, and Atticus, breaking off mid-sentence at
+\textsection 46 (the Carneades portrait). The companion
+\textit{Lucullus} (the surviving book of the \emph{first} edition) is a
+separate Perseus text, \emph{not} currently a works.yaml entry; flag for
+a possible later addition if the bound volume wants the whole surviving
+Academica. The works.yaml \texttt{notes} field garbles the two-edition
+history (it swaps Priora/Posteriora and the speaker pairs) --- worth a
+one-line correction in an apparatus pass, not blocking.
+
+\textbf{Method (parallel, section-range):} PM pre-fetched the Latin
+(\texttt{fetch\_latin.py academica}, clean Perseus content, 46
+\texttt{ciceroSection} markers, no fallback dump), sliced it into
+\textbf{four contiguous ranges} (\textsection\textsection 1--12,
+13--24, 25--35, 36--46) written to the Cowork \emph{outputs} scratch
+dir, and dispatched \textbf{four worker sub-agents in one parallel
+batch} under \texttt{046bc-brutus} as the register/dialogue template
+(English parts only). PM assembled the four English parts into
+\texttt{english/philosophy/045bc-academica.tex} (\textbf{verified
+contiguous \textsection\textsection 1--46}, header added on assembly;
+\~36 KB), wrote the whole-work headnote itself, and flipped status.
+Per-work parallel sidecar generated by
+\texttt{backfill\_structural.py} (\textbf{46 segments, zero empty
+eng/lat}).
+
+\textbf{Metadata:} no correction needed --- \textit{Academica} is a
+treatise with no Perseus dateline; the works.yaml date
+(\texttt{-0045-05-01}, precision \texttt{month}) is consistent with the
+standard mid-45 BC dating; left as-is.
+
+\textbf{Greek handled:} workers rendered all Greek meaning-first with
+\textit{[Greek: \ldots]}: the load-bearing epistemological coinage
+Cicero forges in Latin --- \textit{qualitas}/\textit{poiotes}
+(\textsection\textsection 24--25), the Platonic
+\textit{idea}/\textit{species} (\textsection 30), \textit{etymologia}
+(\textsection 32), \textit{phantasia} (\textsection 40, Cicero's
+\textit{visum}), \textit{katal\=empton}/\textit{comprehendibile}
+(\textsection 41, the Stoic ``graspable presentation''). The
+\textsection 29 and \textsection 46 textual lacunae (Perseus
+\texttt{* * *}) rendered as ellipses per the no-brackets-in-body rule.
+
+\textbf{Translator-notes worth logging} (deferred to an enrichment pass
+to avoid concurrent-write contention): the vocabulary-coinage thread is
+the richest note-cluster --- \textit{visum} vs
+``presentation''/``impression'' (\textsection\textsection 40--41),
+\textit{comprehendibile}/\textit{comprehensio} rendered with the
+hand-metaphor ``graspable''/``grasp'' rather than the cognate
+``comprehension,'' \textit{praeposita}/\textit{reiecta} = Stoic
+``preferred''/``dispreferred'' (\textsection 37), \textit{opinatio} vs
+\textit{opinio} (\textsection\textsection 41--42, 45). A daggered crux
+at \textsection 13 (\texttt{negaret}) and the corrupt \textsection 46
+break (\texttt{...facultate et to}) were rendered for sense;
+flag-not-resolve for a later Teubner/OCT check.
+
+\textbf{Validation:} \texttt{validate.py} clean --- exit 0, 9 warnings
+= the two orphan-Latin carry-overs (\texttt{054bc-ad-familiares-13-49}
+and \texttt{046bc-ad-familiares-09-25}, both pre-existing) and the
+chronological-gap warning, now at \textbf{22} pending earlier-dated
+works (down from 23 post-session-55, the expected $-1$ since
+\textit{Academica} falls before the deep-chronology frontier).
+\textbf{Latest drafted by deep chronology unchanged}: \textit{Ad
+Familiares} 10.24 (28 July 43 BC). \texttt{build\_manifest.py}
+regenerated \texttt{MANIFEST.md} (958 entries) and
+\texttt{build/chronology.tex}.
+
+\textbf{Suggested next batch (session 57):} continue the 45 BC
+philosophica run with \textbf{\textit{de-finibus}} ---
+\textbf{already pre-fetched this session}
+(\texttt{latin/philosophy/045bc-de-finibus.tex}, \~326 KB,
+\textbf{443 sections} across five books). It is the longest treatise yet
+in the sweep; \textbf{plan \~2 sessions}. Slice into \~10--14 contiguous
+section-ranges, dispatch in batches of four under
+\texttt{046bc-brutus}/\texttt{046bc-orator}/\texttt{045bc-academica} as
+register templates; the PM assembles, verifies the section sequence, and
+writes the whole-work headnote. Because it is multi-book,
+\textbf{verify the book boundaries in the section numbering when
+slicing} (Perseus may restart section numbers per book; if so, slice
+along book lines and preserve per-book numbering). After
+\textit{de-finibus}: \textit{tusculanae-disputationes} (45),
+\textit{de-natura-deorum} (45), then \textit{de-officiis} (44).
+
+\textbf{Still NOT fetchable} (manual Latin needed; do NOT
+\texttt{fetch\_latin.py}): \textit{de-legibus} (52, complete but absent
+from Perseus TEI), \textit{ad-familiares-05-10} (51, Perseus-absent),
+and the fragmentary \textit{de-consulatu-suo} (60),
+\textit{de-temporibus-suis} (54), \textit{hortensius} (45),
+\textit{consolatio} (45); plus the deliberately-skipped \textit{aratea}
+(86) and \textit{de-inventione} (85). \textbf{Slice M} (entity-stub
+enrichment) remains the parallel-friendly fallback when no fetchable
+substantial work is ready.
+
+\textbf{File carry-overs:} the four \textit{Academica} Latin-slice and
+English-part files were written to the Cowork \emph{outputs} scratch dir
+(outside the repo), so they do not pollute the working tree. The
+\textbf{de-finibus Latin pre-fetch}
+(\texttt{latin/philosophy/045bc-de-finibus.tex}) is in the working tree
+as an expected, committable carry-over (commit-the-Latin-before-
+translating discipline). Earlier carry-overs persist (the two orphan
+Latin stubs; sandbox cannot delete --- Alexander handles at handoff).
+
+\textbf{Launch-prompt advisory:} the scheduled 2-hour Cowork prompt
+still carries Phase-1 wording (``dispatch 3--4 parallel batches \ldots
+3--5 short letters''), which remains stale --- the project is in
+\textbf{Phase 3 (major-works sweep)}: one (or a few contiguous)
+substantial work(s) per session, parallelized by section-range. Each
+scheduled session reads ``Where to resume now'' first and follows what
+it says, so this is not blocking; updating the scheduled-task prompt to
+Phase-3 wording is still recommended.
+
+---
+
+## Where to resume now (session 55 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-55):} \textbf{929 /
+958 works drafted (\~97.0\%)} --- session 55 continued \textbf{Phase 3
+(the major-works sweep)} by drafting one Brutus-scale major work end to
+end: \textit{Orator ad M. Brutum} (46 BC, \texttt{046bc-orator},
+\textbf{238 sections}, \~130 KB Latin). Drafted count 928
+$\rightarrow$ 929.
+
+\textbf{Method (parallel, section-range):} the \textit{Orator} Latin was
+already fetched in session 54
+(\texttt{latin/rhetoric/046bc-orator.tex}, 238 sections), so the PM
+skipped the fetch, sliced the work into \textbf{eight contiguous
+section-ranges} (\textsection\textsection 1--30, 31--60, 61--90,
+91--120, 121--150, 151--180, 181--210, 211--238) written to the Cowork
+\emph{outputs} scratch dir, and dispatched \textbf{eight worker
+sub-agents in two parallel batches of four} under \texttt{046bc-brutus}
+as the register/voice template (English parts only; each worker built
+its part in chunks and verified its own contiguous section markers
+before returning). The PM assembled the eight English parts into
+\texttt{english/rhetoric/046bc-orator.tex} (\textbf{verified contiguous
+\textsection\textsection 1--238}, header added on assembly; $\sim$164
+KB), wrote the whole-work headnote itself, and flipped status. Per-work
+parallel sidecar generated by \texttt{backfill\_structural.py}
+(\textbf{238 segments, zero empty eng/lat}).
+
+\textbf{Metadata:} no correction needed --- \textit{Orator} is a
+treatise with no Perseus dateline, and the works.yaml date
+(\texttt{-0046-09-01}, precision \texttt{month}) is consistent with the
+standard late-46 BC dating; left as-is.
+
+\textbf{Greek handled:} workers rendered all Greek meaning-first with
+\textit{[Greek: \ldots]} (the Latin carries Greek as betacode): the
+Platonic \textit{idea} (\textsection 10); the rhetorical/dialectical
+figure-names (\textit{charact\=er}, \textit{epideiktikon},
+\textit{logodaidalous}, \textit{thesis}, \textit{aux\=esis},
+\textit{\=ethikon}/\textit{path\=etikon}, \textit{hypallag\=e},
+\textit{met\=onymia}, \textit{katachr\=esis}, \textit{all\=egoria},
+\textit{schemata}); and, through the long rhythm doctrine, the
+load-bearing pair \textit{rhythmos}/\textit{numerus} (\textsection 170)
+plus \textit{periodon}, \textit{kommata}/\textit{k\=ola}. Metrical feet
+rendered by standard English names (cretic, paean, dactyl, spondee,
+trochee, iamb, dochmiac).
+
+\textbf{Translator-notes worth logging} (deferred to an enrichment pass
+to avoid concurrent-write contention): the famous translation-method /
+Atticism material in the first half; the technical rhythm core
+(\textsection\textsection 168--236) repeatedly quotes sample clauses
+(Carbo, Crassus, the \textit{Verrines}, Gracchus) whose Latin
+syllable-quantities the English cannot fully carry --- workers rendered
+the sense and preserved Cicero's word-order demonstrations where the
+point survives. Several quoted poetic fragments (Naevius / Ennius /
+Accius) and a daggered crux (\textsection 163 \texttt{supera Tmolum ac
+Tauricos}) were rendered for sense per the no-brackets-in-body rule;
+flag-not-resolve for a later apparatus check against the Teubner/OCT.
+
+\textbf{Validation:} \texttt{validate.py} clean --- exit 0, 9 warnings
+= two orphan-Latin carry-overs (\texttt{054bc-ad-familiares-13-49} and
+\texttt{046bc-ad-familiares-09-25}, both pre-existing) and the
+chronological-gap warning, now at \textbf{23} pending earlier-dated
+works (down from 24 post-session-54, the expected $-1$ since
+\textit{Orator} falls before the deep-chronology frontier).
+\textbf{Latest drafted by deep chronology unchanged}: \textit{Ad
+Familiares} 10.24 (28 July 43 BC). \texttt{build\_manifest.py}
+regenerated \texttt{MANIFEST.md} (958 entries) and
+\texttt{build/chronology.tex}.
+
+\textbf{Suggested next batch (session 56):} the 45 BC philosophica run
+--- long treatises suited to the same section-range pattern (slice into
+$\sim$8--12 contiguous ranges, dispatch in batches of four under
+\texttt{046bc-brutus}/\texttt{046bc-orator} as register templates; PM
+assembles, verifies the section sequence, writes the whole-work
+headnote). In chronological order from the pending set:
+\textit{academica} (\texttt{-0045-05-01}), \textit{de-finibus}
+(\texttt{-0045-06-01}), \textit{tusculanae-disputationes} (45),
+\textit{de-natura-deorum} (45), then \textit{de-officiis} (44). All are
+fetchable via \texttt{scripts/fetch\_latin.py} --- pre-fetch the first
+one or two at session start. \textit{Note:} \textit{academica} and
+\textit{de-finibus} are multi-book; confirm \texttt{speech\_index}
+book/section coverage when fetching, and expect $\sim$2 sessions each
+for the longest treatises.
+
+\textbf{Still NOT fetchable} (manual Latin needed; do NOT
+\texttt{fetch\_latin.py}): \textit{de-legibus} (52, complete but absent
+from Perseus TEI), \textit{ad-familiares-05-10} (51, Perseus-absent),
+and the fragmentary \textit{de-consulatu-suo} (60),
+\textit{de-temporibus-suis} (54), \textit{hortensius} (45),
+\textit{consolatio} (45); plus the deliberately-skipped \textit{aratea}
+(86) and \textit{de-inventione} (85). \textbf{Slice M} (entity-stub
+enrichment) remains the parallel-friendly fallback when no fetchable
+substantial work is ready.
+
+\textbf{File carry-overs:} the eight \textit{Orator} Latin-slice and
+English-part files were written to the Cowork \emph{outputs} scratch
+dir (outside the repo), so they do not pollute the working tree.
+Earlier carry-overs persist (the two orphan Latin stubs; sandbox
+cannot delete --- Alexander handles at handoff).
+
+\textbf{Launch-prompt advisory:} the scheduled 2-hour Cowork prompt
+still carries Phase-1 wording (``dispatch 3--4 parallel batches \ldots
+3--5 short letters''), which remains stale --- the project is in
+\textbf{Phase 3 (major-works sweep)}: one (or a few contiguous)
+substantial work(s) per session, parallelized by section-range. Each
+scheduled session reads ``Where to resume now'' first and follows what
+it says, so this is not blocking; updating the scheduled-task prompt to
+Phase-3 wording is still recommended.
+
+---
+
+## Where to resume now (session 54 legacy snapshot below)
+
+**Project management is now Claude Cowork** (running on Alexander's
+desktop). When Cowork opens this repo, this is the first section to
+read; \texttt{PLAN.md} is the binding multi-surface roadmap.
+
+\textbf{Translation state (post-Cowork-session-54):} \textbf{928 /
+958 works drafted (\~96.9\%)} --- session 54 continued \textbf{Phase 3
+(the major-works sweep)} along the 46 BC rhetorica/philosophica run by
+drafting \textbf{three works}: \textit{Ad Familiares} 9.25 (a short
+letter to Paetus), \textit{De Optimo Genere Oratorum} (46 BC, 23
+sections), and \textit{Paradoxa Stoicorum} (46 BC, 52 sections).
+Drafted count 925 $\rightarrow$ 928.
+
+\textbf{Method (parallel):} the PM pre-fetched the next four fetchable
+works (the three above plus \textit{Orator}) via
+\texttt{scripts/fetch\_latin.py}, then dispatched \textbf{four worker
+sub-agents in one parallel batch} under \texttt{046bc-brutus} and
+\texttt{046bc-ad-familiares-09-02} as register/voice templates: one
+full end-to-end on the letter (English + headnote + parallel sidecar),
+one full end-to-end on \textit{De Optimo} (English + headnote), and two
+on \textit{Paradoxa} by section-range (\textsection\textsection 1--26 /
+27--52, English parts only). The PM assembled the two \textit{Paradoxa}
+parts into \texttt{english/philosophy/046bc-paradoxa-stoicorum.tex}
+(\textbf{verified contiguous \textsection\textsection 1--52}, header
+added on assembly), wrote the \textit{Paradoxa} whole-work headnote
+itself, and flipped statuses. Per-work parallel sidecars generated by
+\texttt{backfill\_structural.py} (de-optimo 23 segs, paradoxa 52 segs,
+letter 3 segs; zero empty segments).
+
+\textbf{Metadata correction (important --- a real chronology bug):}
+\textbf{\textit{Ad Familiares} 9.25 was misdated.} The works.yaml entry
+carried the book-level placeholder \texttt{-0046-07-01}
+(\texttt{year\_range}) and pointed \texttt{latin\_source\_url} at
+\texttt{thelatinlibrary.com} (whose earlier fetch had left a
+\texttt{\% PLACEHOLDER} stub from session 18, so the work had never
+actually been fetched). The Perseus dateline (\texttt{Scr. Laudiceae
+post iii Id. Febr.; a. 704}) fixes the letter at \textbf{ca. 13
+February 50 BC} --- it is the playful ``supreme commander'' letter to
+Paetus written during Cicero's Cilician proconsulship (salutation
+\textsc{Cicero Imp. Paeto}), \emph{four years earlier} than the rest of
+Book 9, which is otherwise the 46 BC Paetus/Varro cluster. Fixes
+applied: corrected the Perseus URL to \texttt{phi0474.phi056}; added
+\texttt{speech\_index: book:9,letter:25}; corrected \texttt{date} to
+\texttt{-0050-02-13} (precision \texttt{day}), set \texttt{recipient:
+PAETO} and \texttt{location\_written: Laodiceae}; removed the
+\texttt{date\_range\_end}; and \textbf{renamed the three files
+\texttt{046bc-} $\rightarrow$ \texttt{050bc-}}. The old
+\texttt{046bc-ad-familiares-09-25.tex} Latin was overwritten with a
+stub and is now an orphan carry-over (handoff cleans it).
+
+\textbf{Greek handled:} letter --- \textit{Paideia Kyrou} (Xenophon's
+\textit{Cyropaedia}). \textit{Paradoxa} --- the six betacode
+paradox-titles rendered meaning-first with \textit{[Greek: \ldots]}
+(\textsection 6 \textit{hoti monon to kalon agathon}; \textsection 16
+\textit{autark\=es h\=e aret\=e}; \textsection 20 \textit{isa ta
+hamart\=emata}; \textsection 27 \textit{pas aphr\=on mainetai};
+\textsection 33 \textit{monos ho sophos eleutheros}; \textsection 42
+\textit{monos ho sophos plousios}), plus \textit{paradoxa} and
+\textit{thetik\=os} in the proem. \textit{De Optimo} has no inline Greek
+script (Attic figures named in Roman form).
+
+\textbf{Translator-notes worth logging} (deferred to a future
+enrichment pass to avoid concurrent-write contention):
+\begin{itemize}
+\item \textbf{\textit{De Optimo} \textsection 14} --- the famous
+translation-method statement (\textit{nec converti ut interpres sed ut
+orator}; words ``weighed, not counted out like coins''), rendered fresh
+per STYLE.md's no-echo rule, keeping Cicero's \textit{adnumerare /
+appendere} coin image.
+\item \textbf{\textit{Paradoxa} \textsection 27} --- a genuine lacuna
+in the Perseus Latin, left as \texttt{* * *} in the English rather than
+filled; \textsection 46 carries a daggered crux given a sense-rendering.
+The register deliberately hardens into invective in the later paradoxes
+(the demagogue of paradox IV, the grasping politician of paradox VI
+standing in for Cicero's enemies).
+\item \textbf{\textit{Fam} 9.25 \textsection 3} --- a stray ``is''
+(likely OCR/textual noise) translated for sense.
+\end{itemize}
+
+\textbf{Validation:} \texttt{validate.py} clean --- exit 0, 9 warnings =
+two orphan-Latin (\texttt{054bc-ad-familiares-13-49} pre-existing, plus
+the new \texttt{046bc-ad-familiares-09-25} rename stub) and the
+chronological-gap warning, now at \textbf{24} pending earlier-dated
+works (down from 27 post-session-53, the expected $-3$ since all three
+drafted works fall before the deep-chronology frontier).
+\textbf{Latest drafted by deep chronology unchanged}: \textit{Ad
+Familiares} 10.24 (28 July 43 BC). \texttt{build\_manifest.py}
+regenerated \texttt{MANIFEST.md} (958 entries) and
+\texttt{build/chronology.tex}.
+
+\textbf{Suggested next batch (session 55):} \textbf{\textit{Orator ad
+M. Brutum}} (46 BC, \texttt{046bc-orator}, \textbf{238 sections},
+$\sim$130 KB Latin) --- a Brutus-scale major work that warrants its own
+session, parallelized by section-range (slice into $\sim$8 contiguous
+ranges, dispatch in two batches of four under \texttt{046bc-brutus} as
+the register template; PM assembles, verifies the section sequence,
+writes the whole-work headnote). \textbf{Its Latin is already fetched
+this session} (\texttt{latin/rhetoric/046bc-orator.tex}, 238 sections),
+so session 55 can skip the fetch and go straight to slicing/dispatch.
+After \textit{Orator}: \textit{academica} (45), \textit{de-finibus}
+(45), \textit{tusculanae-disputationes} (45), \textit{de-natura-deorum}
+(45), \textit{de-officiis} (44) --- all long treatises suited to the
+same section-range pattern.
+
+\textbf{Still NOT fetchable} (manual Latin needed; do NOT
+\texttt{fetch\_latin.py}): \textit{de-legibus} (52, complete but absent
+from Perseus TEI), \textit{ad-familiares-05-10} (51, Perseus-absent),
+and the fragmentary \textit{de-consulatu-suo} (60),
+\textit{de-temporibus-suis} (54), \textit{hortensius} (45),
+\textit{consolatio} (45); plus the deliberately-skipped \textit{aratea}
+(86) and \textit{de-inventione} (85). \textbf{Slice M} (entity-stub
+enrichment) remains the parallel-friendly fallback when no fetchable
+substantial work is ready.
+
+\textbf{File carry-overs:} new this session --- the orphan
+\texttt{046bc-ad-familiares-09-25.tex} stub (from the rename). The
+\textit{Paradoxa} English part files were written to the Cowork
+\emph{outputs} scratch dir (outside the repo), so they do not pollute
+the working tree. Earlier carry-overs persist (sandbox cannot delete;
+Alexander handles at handoff).
+
+\textbf{Launch-prompt advisory:} the scheduled 2-hour Cowork prompt
+still says ``dispatch 3--4 parallel batches \ldots 3--5 short letters''
+(Phase-1 wording) and remains stale --- the project is in \textbf{Phase
+3 (major-works sweep)}: one (or a few contiguous) substantial work(s)
+per session, parallelized by section-range. Each scheduled session
+reads ``Where to resume now'' first and follows what it says, so this
+is not blocking, but updating the scheduled-task prompt to Phase-3
+wording is still recommended.
+
+---
+
+## Where to resume now (session 53 legacy snapshot below)
+
 **Project management is now Claude Cowork** (running on Alexander's
 desktop). When Cowork opens this repo, this is the first section to
 read; \texttt{PLAN.md} is the binding multi-surface roadmap.

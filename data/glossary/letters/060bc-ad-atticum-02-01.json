@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the Kalends of June",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; this dates the letter to 1 June 60 BC. Romans named the day rather than numbering it."
+    },
+    {
+      "loc": "1",
+      "anchor": "the memoir of my consulship written in Greek",
+      "entity_id": "text:commentarius-consulatus",
+      "note": "Cicero's prose self-history of his consulship of 63 BC (a commentarius / Greek hypomnema). Both he and Atticus had written Greek accounts of it; Cicero teases that his own is the more ornate."
+    },
+    {
+      "loc": "1",
+      "anchor": "the whole perfumery-box of Isocrates",
+      "entity_id": "person:isocrates",
+      "note": "Isocrates was the Athenian master of polished, periodic Greek prose; his \"perfumery-box\" (myrothecium) stands for stylistic ornament. Cicero contrasts his own perfumed style with Atticus's plainer one."
+    },
+    {
+      "loc": "2",
+      "anchor": "Posidonius has now written back from Rhodes",
+      "entity_id": "person:posidonius",
+      "note": "Posidonius of Apamea (c. 135-51 BC), the great Stoic polymath who taught at Rhodes, where Cicero had heard him. Cicero had asked him to write up the consulship more elaborately; Posidonius declined, daunted (Cicero claims) by Cicero's own version."
+    },
+    {
+      "loc": "3",
+      "anchor": "those speeches which are called Philippics",
+      "entity_id": "text:demosthenes-philippics",
+      "note": "Demosthenes' orations urging Athens to resist Philip of Macedon, the model of the politically engaged \"deliberative\" speech. Cicero models his own \"consular\" corpus on them (and would later name his speeches against Antony Philippics)."
+    },
+    {
+      "loc": "3",
+      "anchor": "speeches that were called consular",
+      "entity_id": "text:orationes-consulares",
+      "note": "Cicero's collection of twelve orations from his consular year (63 BC), the list of which follows; he gathered them as a self-conscious corpus on the model of Demosthenes' Philippics."
+    },
+    {
+      "loc": "3",
+      "anchor": "the third on Otho",
+      "entity_id": "law:lex-roscia-theatralis",
+      "note": "Cicero's lost speech defending the lex Roscia theatralis of the tribune L. Roscius Otho (67 BC), which reserved the first fourteen rows of theatre seats for the equestrian order; it had provoked popular protest."
+    },
+    {
+      "loc": "3",
+      "anchor": "the tenth in the senate on the Nones of December",
+      "entity_id": null,
+      "note": "The Nones fell on the 5th in December (the 7th in March, May, July, October). This is the famous 5 December 63 BC, when the senate voted to execute the Catilinarian conspirators (the Fourth Catilinarian)."
+    },
+    {
+      "loc": "4",
+      "anchor": "the madness of Pulchellus",
+      "entity_id": "person:clodius",
+      "note": "\"Pulchellus\" (little Pulcher) is Cicero's contemptuous diminutive for P. Clodius Pulcher, then maneuvering to become a plebeian so he could hold the tribunate. The consul Metellus Celer was blocking him."
+    },
+    {
+      "loc": "5",
+      "anchor": "But my sister, who has so much consular space, gives me only one foot of room.",
+      "entity_id": "person:clodia",
+      "note": "Clodius's \"sister\" is Clodia, wife of the consular Metellus Celer; the joke turns on rumors of incest between them. Cicero's reply (\"you are permitted to lift the other one too\") is a coarse retort he admits is beneath a consular."
+    },
+    {
+      "loc": "5",
+      "anchor": "I detest that woman, the wretched consular's wife",
+      "entity_id": "person:clodia",
+      "note": "The \"consular's wife\" is Clodia, married to Q. Metellus Celer (cos. 60); Cicero's enmity with her and her brother Clodius runs through the correspondence. She is the probable \"Lesbia\" of Catullus and the defendant's accuser in the Pro Caelio."
+    },
+    {
+      "loc": "6",
+      "anchor": "What you ask about the agrarian law",
+      "entity_id": "law:lex-iulia-agraria-59bc",
+      "note": "The land-distribution bill then in contention, which Caesar would carry as consul in 59 BC; in mid-60 it had \"cooled down.\" Cicero's relations with Pompey turn on his stance toward it."
+    },
+    {
+      "loc": "7",
+      "anchor": "that cavalry whom I, with you as standard-bearer and chief, had stationed on the Capitoline slope",
+      "entity_id": "group:equites",
+      "note": "A military metaphor for the equestrian order (the knights), whom Cicero, with Atticus's help, had rallied in support of the senate during the Catilinarian crisis; he laments they have now \"deserted.\""
+    },
+    {
+      "loc": "7",
+      "anchor": "bearded mullets in their fish-ponds",
+      "entity_id": null,
+      "note": "Cicero's recurring jibe at the rich, leisured nobles (the piscinarii, \"fish-pond owners\") who pampered luxury mullets in their villa ponds instead of defending the state."
+    },
+    {
+      "loc": "8",
+      "anchor": "as if he were in the Republic of Plato",
+      "entity_id": "person:plato",
+      "note": "Cicero's barb at Cato: he votes as though living in Plato's ideal commonwealth rather than \"the dregs of Romulus\" (the messy real Rome), insisting on principle where compromise was needed."
+    },
+    {
+      "loc": "8",
+      "anchor": "the dregs of Romulus",
+      "entity_id": "person:romulus",
+      "note": "\"Romuli faece\": the sediment or dregs left by Romulus, i.e. the degenerate actual Rome of Cicero's day, contrasted with Plato's ideal Republic."
+    },
+    {
+      "loc": "8",
+      "anchor": "the publicans renouncing their contract",
+      "entity_id": "institution:publicani",
+      "note": "The publicani (equestrian tax-farming companies) had over-bid for the Asian tax contract and asked the senate to revise it; Cato blocked the relief, splitting the knights from the senate and undoing Cicero's cherished \"concord of the orders.\""
+    },
+    {
+      "loc": "8",
+      "anchor": "when a consul has been shut up in prison",
+      "entity_id": null,
+      "note": "Refers to the consul Q. Metellus Celer (cos. 60), briefly imprisoned by the tribune L. Flavius in the struggle over Flavius's agrarian bill; the magistrate's humiliation shocked Cicero."
+    },
+    {
+      "loc": "9",
+      "anchor": "Favonius carried my tribe more honourably than his own",
+      "entity_id": "person:m-favonius",
+      "note": "M. Favonius, the austere Cato-imitator, had been prosecuted for electoral bribery (ambitus); acquitted, he won the votes of Cicero's tribe though he lost the support of Lucceius."
+    },
+    {
+      "loc": "9",
+      "anchor": "given his pains rather to the millers than to Molon",
+      "entity_id": "person:apollonius-molon",
+      "note": "A pun: Apollonius Molon was the famous Rhodian rhetorician under whom Cicero studied; the \"millers\" (Greek myloi, mill-stones) jibe that Nasica/Favonius spent his time at Rhodes grinding rather than learning eloquence from Molon."
+    },
+    {
+      "loc": "11",
+      "anchor": "My Amaltheum",
+      "entity_id": "place:amaltheum",
+      "note": "An ornamented shrine-and-garden retreat, named for the nymph Amalthea who nursed the infant Zeus; Atticus had built one at Buthrotum, and Cicero was making his own. He says it \"looks for\" Atticus's visit."
+    },
+    {
+      "loc": "11",
+      "anchor": "not Corinthian bronze but this Forum brass",
+      "entity_id": null,
+      "note": "A pun on aes (bronze/money): not the prized Corinthian bronze of collectors but \"Forum brass\" (aes circumforaneum), the debt owed to the Forum money-lenders into which his new villas have sunk him."
+    },
+    {
+      "loc": "11",
+      "anchor": "Expect my Prognostica together with the little speeches",
+      "entity_id": "text:prognostica",
+      "note": "Cicero's Prognostica, the verse rendering of the weather-signs section of Aratus's Phaenomena, part of his youthful Aratea; he promises Atticus a copy with the speeches."
+    },
+    {
+      "loc": "11",
+      "anchor": "you would be at Rome in the month of Quintilis",
+      "entity_id": null,
+      "note": "Quintilis (\"the fifth month,\" counting from March) was the old name for the month later renamed July in Caesar's honor; here = July 60 BC."
+    }
+  ]
+}

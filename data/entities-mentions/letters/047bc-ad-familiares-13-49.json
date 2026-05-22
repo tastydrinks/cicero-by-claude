@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-49",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CVRIO PROCOS.", "entity_id": "person:curius-procos", "in": "lat"},
+    {"loc": "1", "surface": "CVRIO PROCOS.", "entity_id": "person:curius-procos", "in": "eng"},
+    {"loc": "1", "surface": "Q. Pompeius Sex. f.", "entity_id": "person:q-pompeius-sex-f", "in": "lat"},
+    {"loc": "1", "surface": "Q. Pompeius, son of Sextus", "entity_id": "person:q-pompeius-sex-f", "in": "eng"}
+  ]
+}

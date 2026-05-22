@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-22",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "1", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "huius autem nostri", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Caesari", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "not a foot of ground in Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "1", "surface": "About Pompey I know nothing", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "As for our friend", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "less in Caesar's interest", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Philotimo", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "2", "surface": "Terentiam", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "2", "surface": "Speak with Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "2", "surface": "you will have Terentia with you by the Ides", "entity_id": "person:terentia", "in": "eng"}
+  ]
+}

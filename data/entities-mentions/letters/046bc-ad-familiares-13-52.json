@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-52",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "REGI", "entity_id": "person:rex-recipient", "in": "lat"},
+    {"loc": "1", "surface": "REX", "entity_id": "person:rex-recipient", "in": "eng"},
+    {"loc": "1", "surface": "A. Licinius Aristoteles Melitensis", "entity_id": "person:a-licinius-aristoteles", "in": "lat"},
+    {"loc": "1", "surface": "A. Licinius Aristoteles, of Malta", "entity_id": "person:a-licinius-aristoteles", "in": "eng"},
+    {"loc": "1", "surface": "Melitensis", "entity_id": "place:melita", "in": "lat"},
+    {"loc": "1", "surface": "of Malta", "entity_id": "place:melita", "in": "eng"},
+    {"loc": "1", "surface": "Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "mi Rex", "entity_id": "person:rex-recipient", "in": "lat"},
+    {"loc": "1", "surface": "my dear Rex", "entity_id": "person:rex-recipient", "in": "eng"}
+  ]
+}

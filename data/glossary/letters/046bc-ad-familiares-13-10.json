@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO BRVTO S.",
+      "entity_id": "person:brutus",
+      "note": "The recipient is M. Iunius Brutus, later one of Caesar's assassins; at this date (46 BC) he was governing Cisalpine Gaul under Caesar's appointment, and M. Terentius was serving as his quaestor, which created the formal bond (necessitudo quaesturae) Cicero invokes."
+    },
+    {
+      "loc": "1",
+      "anchor": "the ancestral custom itself, which, as you well know, has held this bond of the quaestorship to be next in closeness to the tie of one's own children",
+      "entity_id": "office:quaestor",
+      "note": "Roman tradition held that a quaestor was bound to his commanding magistrate (the person who drew him by lot, his 'patron') almost as a son to a father: the mos maiorum made this relationship quasi-filial and mutually obligatory for life."
+    },
+    {
+      "loc": "2",
+      "anchor": "he early threw himself into the partnerships of the public revenues. That last I could have wished he had not done; for he sustained very heavy losses",
+      "entity_id": "institution:populus-romanus",
+      "note": "The societates publicanorum were joint-stock companies of Roman equestrians that bid for state tax-farming contracts across the empire. Membership was prestigious but financially risky; Terentius lost money badly, which Cicero notes with sympathy while still counting the shared class-interest (ordinis communis) as cementing their friendship."
+    },
+    {
+      "loc": "3",
+      "anchor": "he set out for Caesar from Brundisium at my instance, carrying letters and instructions from me",
+      "entity_id": "person:caesar",
+      "note": "This embassy to Caesar at Brundisium dates to 47 BC, when Cicero was waiting at Brundisium for Caesar's return from the Alexandrian campaign and authorisation to re-enter Italy; Terentius acted as Cicero's courier and go-between, demonstrating his personal loyalty."
+    },
+    {
+      "loc": "4",
+      "anchor": "if you value me as much as Varro thinks you do",
+      "entity_id": "person:m-terentius-varro",
+      "note": "M. Terentius Varro, the great polymath and Cicero's close friend, appears here as a mutual acquaintance of Cicero and Brutus whose assessment of Brutus's regard for Cicero Terentius (the quaestor) presumably relayed. The shared Terentius nomen between the recommender and the man Varro is coincidental."
+    }
+  ]
+}

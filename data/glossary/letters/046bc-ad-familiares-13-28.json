@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-28",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO SERVIO S.",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Heading: Cicero to Servius [Sulpicius Rufus], greetings. The recipient is Servius Sulpicius Rufus, the great jurist, then proconsul of Achaea 46--45 BC; not his son of the same name. S. = salutem dicit."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the matter of L. Mescinius, most welcome of all",
+      "entity_id": "person:l-mescinius",
+      "note": "Lucius Mescinius Rufus, apparently an eques and man of literary interests closely connected to Cicero; he had business pending in Achaea (Sulpicius's province) and Cicero had evidently written an earlier letter of recommendation on his behalf."
+    },
+    {
+      "loc": "2",
+      "anchor": "no further claim shall be made under that head",
+      "entity_id": null,
+      "note": "The formula amplius eo nomine non peti (no further claim shall be made under that head) was a standard suretyship release in Roman inheritance disputes, confirming that a creditor or litigant would pursue no further action once terms were met; Cicero offers his own surety (fides) to guarantee it."
+    },
+    {
+      "loc": "2",
+      "anchor": "Oppia, who was Mindius's wife, has carried off",
+      "entity_id": "person:oppia-mindi-uxor",
+      "note": "Oppia, widow of a Mindius, is accused of misappropriating property that forms part of an estate in which Mescinius has an interest; bringing her to Rome (in iudicium, to trial) is the legal remedy Cicero urges Sulpicius to facilitate."
+    },
+    {
+      "loc": "2",
+      "anchor": "those studies of ours, in which we formerly took delight and by which we now actually live",
+      "entity_id": null,
+      "note": "A recurring Ciceronian motif (especially post-49 BC): after being shut out of political life by Caesar's dominance, Cicero found refuge in philosophy and letters; the phrase nunc etiam vivimus (we now actually live by them) reflects his self-presentation in the period of the Tusculanae and De finibus."
+    }
+  ]
+}

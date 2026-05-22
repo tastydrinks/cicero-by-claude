@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-34",
+  "mentions": [
+    {"loc": "1", "surface": "Asturam veni viii Kal. vesperi", "entity_id": "place:astura", "in": "lat"},
+    {"loc": "1", "surface": "Lanuvi tris horas acquieveram", "entity_id": "place:lanuvium", "in": "lat"},
+    {"loc": "1", "surface": "id potes per Egnatium Maximum", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "cum Publilio me absente conficias", "entity_id": "person:publilius-frater", "in": "lat"},
+    {"loc": "1", "surface": "I reached Astura on the evening", "entity_id": "place:astura", "in": "eng"},
+    {"loc": "1", "surface": "I had rested three hours at Lanuvium", "entity_id": "place:lanuvium", "in": "eng"},
+    {"loc": "1", "surface": "you can manage that through Egnatius Maximus", "entity_id": "person:l-egnatius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "settle the business with Publilius in my absence", "entity_id": "person:publilius-frater", "in": "eng"}
+  ]
+}

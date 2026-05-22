@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Pompey is shut in by a siege-wall",
+      "entity_id": "person:pompey",
+      "note": "In March 49 BC Caesar tried to trap Pompey's army inside Brundisium by throwing moles and rafts across the harbour mouth; the report of this blockade is the disaster that prostrates Cicero here."
+    },
+    {
+      "loc": "1",
+      "anchor": "couriers met at Minturnae",
+      "entity_id": "place:minturnae",
+      "note": "Minturnae was a town on the Via Appia near the mouth of the Liris, on the road between Rome and Cicero's Campanian villas; it lay on the natural route by which Caesar's despatch-riders carried news up the coast."
+    },
+    {
+      "loc": "1",
+      "anchor": "the invitation to Epirus",
+      "entity_id": "place:epirus",
+      "note": "Atticus owned a large estate at Buthrotum in Epirus (north-western Greece) and offered it to Cicero as a refuge; Cicero calls the offer \"brotherly\" but it would have meant crossing to the very region Pompey was making for."
+    },
+    {
+      "loc": "1",
+      "anchor": "that end of Mucius",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "note": "Q. Mucius Scaevola the Pontifex, the great jurist, was murdered in the temple of Vesta during the Marian terror of 82 BC; Cicero, in despair, says he now longs for 'that end of Mucius' — a noble death at home rather than flight."
+    },
+    {
+      "loc": "2",
+      "anchor": "than Panaetius was in Scipio's",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "The Stoic philosopher Panaetius of Rhodes was the intimate of Scipio Aemilianus, the model of the cultivated patron and his learned Greek companion; Cicero says he had honoured his own runaway tutor Dionysius even more highly, which makes the desertion sting the more."
+    },
+    {
+      "loc": "3",
+      "anchor": "the aediles get up the games",
+      "entity_id": "office:aedile",
+      "note": "The aediles were junior magistrates charged with the city's public buildings, markets, and festival games; Cicero lists their humdrum routine to mark the surreal normality of Rome while Pompey is besieged."
+    },
+    {
+      "loc": "3",
+      "anchor": "the honest men enter up their interest payments",
+      "entity_id": null,
+      "note": "The \"honest men\" render boni, Cicero's name for the conservative propertied class; here he mocks them for placidly bookkeeping their loan interest while the Republic collapses around them."
+    }
+  ]
+}

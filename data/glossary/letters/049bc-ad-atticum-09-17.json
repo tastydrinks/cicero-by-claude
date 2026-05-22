@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "he wants the Senate to attend in numbers on the Kalends",
+      "entity_id": "institution:senate",
+      "note": "Caesar summoned the Senate to meet at Rome on the Kalends (1st) of April 49 BC to give a constitutional veneer to his position; Cicero, dreading what he would have to say there, agonizes over whether to obey the proclamation."
+    },
+    {
+      "loc": "1",
+      "anchor": "give my Cicero his white toga",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "The toga virilis (or toga pura), the plain white toga assumed by a Roman boy at coming of age, replacing the purple-bordered toga praetexta of childhood. Cicero performs this rite for his son Marcus, then about sixteen, at Arpinum since Rome is closed to them."
+    },
+    {
+      "loc": "1",
+      "anchor": "I should go to Arpinum",
+      "entity_id": "place:arpinum",
+      "note": "Arpinum, the hill-town in the Volscian country about 100 km southeast of Rome, was Cicero's birthplace and ancestral home; with the capital barred to him he falls back on it both for refuge and for his son's coming-of-age ceremony."
+    },
+    {
+      "loc": "2",
+      "anchor": "anything has been written to you about Tiro",
+      "entity_id": "person:tiro",
+      "note": "Marcus Tullius Tiro, Cicero's learned freedman and confidential secretary, had fallen ill and been left behind on the journey; Cicero, anxious for news, prizes his service and loyalty especially in the present crisis."
+    }
+  ]
+}

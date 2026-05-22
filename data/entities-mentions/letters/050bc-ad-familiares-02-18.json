@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-18",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Q. THERMO PROPR.",
+      "entity_id": "person:q-minucius-thermus-pr",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Q. THERMO PROPR.",
+      "entity_id": "person:q-minucius-thermus-pr",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Rhodonem",
+      "entity_id": "person:rhodo-thermi",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Rhodo",
+      "entity_id": "person:rhodo-thermi",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Aristoni nostro",
+      "entity_id": "person:aristo-thermi",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "our Aristo",
+      "entity_id": "person:aristo-thermi",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "legatos",
+      "entity_id": "office:legatus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "quaestor est",
+      "entity_id": "office:quaestor",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "quaestor tuus",
+      "entity_id": "office:quaestor",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "tribunos pl.",
+      "entity_id": "office:tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "legates",
+      "entity_id": "office:legatus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "he is a quaestor",
+      "entity_id": "office:quaestor",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "your quaestor",
+      "entity_id": "office:quaestor",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "tribunes of the plebs",
+      "entity_id": "office:tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Ciliciam",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    }
+  ]
+}

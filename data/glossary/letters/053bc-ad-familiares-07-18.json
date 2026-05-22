@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a little Greek bond in my own hand",
+      "entity_id": null,
+      "note": "Cicero's joke: a chirographum (a bond written in one's own hand) drawn up Graeculam, in informal Greek style, was less binding at Roman law than a formal sealed instrument. He teases the jurist Trebatius that his own promise is therefore as 'flimsy' as the guarantees Trebatius complains of."
+    },
+    {
+      "loc": "2",
+      "anchor": "palimpsest",
+      "entity_id": null,
+      "note": "A reused writing surface, scraped clean of an earlier text. Cicero mock-praises Trebatius's thrift, then needles him: what could have been worth erasing except his own legal formulae?"
+    },
+    {
+      "loc": "3",
+      "anchor": "in proper Roman style",
+      "entity_id": null,
+      "note": "More Romano: with the full formality of a Roman letter of recommendation (commendatio), as opposed to the casual Greek-style note joked about above. Recommending a friend to a patron was a structured social obligation."
+    },
+    {
+      "loc": "3",
+      "anchor": "the buzzing of my own constituents",
+      "entity_id": "place:ulubrae",
+      "note": "An elaborate joke: Cicero pretends the croaking frogs of the marshes around the near-deserted town of Ulubrae are his loyal voters turning out to honour him. Trebatius had apparently helped 'procure' him this imaginary constituency."
+    },
+    {
+      "loc": "3",
+      "anchor": "The sixth day before the Ides of April",
+      "entity_id": null,
+      "note": "8 April by inclusive Roman reckoning (the Ides of April fell on the 13th). Romans counted dates backward from the Kalends, Nones, and Ides, including both endpoints."
+    },
+    {
+      "loc": "4",
+      "anchor": "read out in a public assembly",
+      "entity_id": null,
+      "note": "A contio was a non-voting public meeting at which magistrates addressed the people. Cicero means Trebatius's letter was so innocuous it could have been published openly, yet Trebatius had asked him to destroy it."
+    }
+  ]
+}

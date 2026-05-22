@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-09",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "that perennial enemy of his own friends",
+      "entity_id": "person:clodius",
+      "note": "P. Clodius Pulcher, never named in the letter; the man Lentulus's kindnesses had advanced who then turned on him. By 54 BC Clodius's career had collapsed in scandal and street violence."
+    },
+    {
+      "loc": "4",
+      "anchor": "on good terms with Caesar and with Appius",
+      "entity_id": null,
+      "note": "In gratia: the political reconciliations Cicero made after the conference of Luca (56 BC), aligning himself with the triumvirate. The whole letter is his apologia (the 'palinode') for this realignment to Lentulus, the author of his recall."
+    },
+    {
+      "loc": "7",
+      "anchor": "the gift of kingdoms",
+      "entity_id": null,
+      "note": "Donatio regnorum: Cicero's charge that Vatinius, as tribune in 59 BC, illegally trafficked in royal recognitions, notably confirming Caesar's grant of the title 'friend and ally' to foreign kings. One of the standing reproaches against Vatinius's tribunate."
+    },
+    {
+      "loc": "8",
+      "anchor": "in the consulship of Marcellinus and Philippus",
+      "entity_id": null,
+      "note": "The consuls of 56 BC, Cn. Cornelius Lentulus Marcellinus and L. Marcius Philippus; Roman years were dated by the names of the year's consuls. The Nones of April fell on 5 April."
+    },
+    {
+      "loc": "8",
+      "anchor": "the Campanian land should be brought forward",
+      "entity_id": "place:ager-campanus",
+      "note": "The ager Campanus, rich public land that Caesar's agrarian law of 59 BC had distributed; Cicero's move to reopen the question on 5 April 56 BC struck at the heart of Caesar's settlement and helped provoke the conference of Luca."
+    },
+    {
+      "loc": "9",
+      "anchor": "came to Caesar at Luca",
+      "entity_id": "place:luca",
+      "note": "The conference of Luca (Lucca), April 56 BC, where Caesar, Pompey, and Crassus renewed their compact and divided the future; Cicero's Campanian-land motion had alarmed them. The meeting forced his political submission, the occasion of this whole letter."
+    },
+    {
+      "loc": "11",
+      "anchor": "the days of Cinna",
+      "entity_id": "person:l-cornelius-cinna",
+      "note": "L. Cornelius Cinna's domination of Rome by violence and proscription (87-84 BC); Cicero's byword for the commonwealth held by 'base and ruined citizens', a state to which he says he would never have lent himself."
+    },
+    {
+      "loc": "12",
+      "anchor": "written with divine insight in our Plato",
+      "entity_id": "person:plato",
+      "note": "Cicero appeals to Plato (Laws and Republic) for the maxim that the character of a state's leaders sets the character of its citizens; Plato is the philosophical authority he invokes throughout the letter to justify yielding to circumstance."
+    },
+    {
+      "loc": "15",
+      "anchor": "that fury of feminine rites",
+      "entity_id": "person:clodius",
+      "note": "Clodius again unnamed, branded by his profanation of the Bona Dea mysteries in 62 BC (he entered Caesar's house disguised as a woman). His acquittal, Cicero says, removed the precedent for punishing sedition."
+    },
+    {
+      "loc": "15",
+      "anchor": "As Apelles brought to finish the head of his Venus",
+      "entity_id": "person:apelles",
+      "note": "Apelles, the supreme Greek painter, was said to have finished the head and breast of his Venus Anadyomene exquisitely but left the body sketched in. Cicero's image for a restoration that saved his life but not his standing or property."
+    },
+    {
+      "loc": "16",
+      "anchor": "Quintus Metellus son of Lucius",
+      "entity_id": "person:q-metellus-numidicus",
+      "note": "Q. Caecilius Metellus Numidicus (cos. 109), who chose exile in 100 BC rather than swear to Saturninus's law and returned with dignity intact. Cicero offers him as the model of unbroken spirit and contrasts his own grander, whole-commonwealth recall."
+    },
+    {
+      "loc": "19",
+      "anchor": "the parasite advises the soldier",
+      "entity_id": "text:eunuchus-terence",
+      "note": "Cicero quotes Gnatho's tit-for-tat advice to the soldier Thraso in Terence's Eunuchus (lines 440-445): match every move with a counter-move. His drily comic justification for defending Vatinius to needle the optimates who cultivated Clodius."
+    },
+    {
+      "loc": "21",
+      "anchor": "tranquillity with dignity",
+      "entity_id": null,
+      "note": "Cum dignitate otium: Cicero's signature political ideal, peace combined with honour, first formulated in the Pro Sestio. Here he insists one should always aim at it even while adjusting one's tactics to the times."
+    },
+    {
+      "loc": "26",
+      "anchor": "your letter about the publicans",
+      "entity_id": null,
+      "note": "The publicani, the equestrian companies that farmed the provincial taxes; Lentulus as governor of Cilicia had ruled against their interests. Cicero, their long-time patron, urges him to placate the order while promising to defend his decrees."
+    },
+    {
+      "loc": "26",
+      "anchor": "that famous Quintus Scaevola",
+      "entity_id": "person:q-mucius-scaevola-pontifex",
+      "note": "Q. Mucius Scaevola the Pontifex (cos. 95), whose just but strict governorship of Asia made him bitter enemies among the publicani. Cicero cites him as the precedent for the hostility an upright governor incurs from the tax-farming companies."
+    }
+  ]
+}

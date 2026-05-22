@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-04",
+  "mentions": [
+    {"loc": "1", "surface": "D. BRVTVS", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTVS", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "COS. DESIG.", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "COS. DESIG.", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Inalpinos", "entity_id": "place:alpes", "in": "lat"},
+    {"loc": "1", "surface": "the Alpine tribes", "entity_id": "place:alpes", "in": "eng"},
+    {"loc": "2", "surface": "senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-22",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO PAETO.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO PAETO.",
+      "entity_id": "person:l-papirius-paetus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO PAETO.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO PAETO.",
+      "entity_id": "person:l-papirius-paetus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Zenoni",
+      "entity_id": "person:zeno-citium",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Zeno",
+      "entity_id": "person:zeno-citium",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "me hercule",
+      "entity_id": "god:hercules",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "by Hercules",
+      "entity_id": "god:hercules",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Academiae nostrae",
+      "entity_id": "place:academia-athens",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "our Academy",
+      "entity_id": "place:academia-athens",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Stoicis",
+      "entity_id": "institution:stoic-school",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "the Stoics",
+      "entity_id": "institution:stoic-school",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Roscium",
+      "entity_id": "person:roscius-actor",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Roscius",
+      "entity_id": "person:roscius-actor",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Iuppiter",
+      "entity_id": "god:jupiter",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Jupiter",
+      "entity_id": "god:jupiter",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Piso ille Frugi",
+      "entity_id": "person:l-calpurnius-piso-frugi-149",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Piso Frugi",
+      "entity_id": "person:l-calpurnius-piso-frugi-149",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Socraten",
+      "entity_id": "person:socrates",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Socrates",
+      "entity_id": "person:socrates",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Connus",
+      "entity_id": "person:connus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Connus",
+      "entity_id": "person:connus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "colei Lanuvini",
+      "entity_id": "place:lanuvium",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "colei Lanuvini",
+      "entity_id": "place:lanuvium",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "the Lanuvine balls",
+      "entity_id": "place:lanuvium",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Cliternini",
+      "entity_id": "place:cliternium",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "the Cliternine ones",
+      "entity_id": "place:cliternium",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "scholam Stoicam",
+      "entity_id": "institution:stoic-school",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "the Stoic doctrine",
+      "entity_id": "institution:stoic-school",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Platonis verecundiam",
+      "entity_id": "person:plato",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Plato's reserve",
+      "entity_id": "person:plato",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Stoici",
+      "entity_id": "institution:stoic-school",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "the Stoics handle",
+      "entity_id": "institution:stoic-school",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "K. Martiis",
+      "entity_id": "festival:matronalia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "the Kalends of March",
+      "entity_id": "festival:matronalia",
+      "in": "eng"
+    }
+  ]
+}

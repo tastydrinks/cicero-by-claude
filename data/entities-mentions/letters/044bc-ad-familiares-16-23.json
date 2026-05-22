@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-23",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Balbus", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "Antonius", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "Bithynicum", "entity_id": "person:pompeius-bithynicus", "in": "lat"},
+    {"loc": "1", "surface": "Bithynicus", "entity_id": "person:pompeius-bithynicus", "in": "eng"},
+    {"loc": "2", "surface": "Servilio", "entity_id": "person:servilius-fam-16-23", "in": "lat"},
+    {"loc": "2", "surface": "Servilius", "entity_id": "person:servilius-fam-16-23", "in": "eng"},
+    {"loc": "2", "surface": "Atticus noster", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "2", "surface": "our friend Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "Antoni", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "Leptam", "entity_id": "person:q-paconius-lepta", "in": "lat"},
+    {"loc": "2", "surface": "Lepta", "entity_id": "person:q-paconius-lepta", "in": "eng"}
+  ]
+}

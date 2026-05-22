@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-58",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO C. TITIO L. F. RVFO PR. VRB. S. .",
+      "entity_id": "person:c-titius-rufus-pr",
+      "note": "The letter-heading. PR. VRB. = praetor urbanus, the city praetor, the chief judicial magistrate at Rome who presided over civil suits between citizens. C. Titius Rufus, son of Lucius, held this office ca. 50 BC; L. F. = Lucii filius, 'son of Lucius'."
+    },
+    {
+      "loc": "1",
+      "anchor": "is my fellow tribesman, my fellow townsman, and a close friend",
+      "entity_id": "person:l-custidius",
+      "note": "Tribulis (member of the same voting tribe) and municeps (citizen of the same home town) name two civic bonds Romans counted as grounds for loyalty and recommendation. Cicero stacks them to mark Custidius as a man of his own community at Arpinum."
+    },
+    {
+      "loc": "1",
+      "anchor": "most of all at your tribunal",
+      "entity_id": null,
+      "note": "The tribunal was the raised platform from which a praetor administered justice. Cicero asks that his friendship help Custidius above all in the praetor's own court, where Titius Rufus would preside over the case."
+    }
+  ]
+}

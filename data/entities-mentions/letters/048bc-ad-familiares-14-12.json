@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-12",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TERENTIAE SVAE", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "TERENTIAE SVAE", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "1", "surface": "Italiam", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "1", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "1", "surface": "Brundisio", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "1", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"}
+  ]
+}

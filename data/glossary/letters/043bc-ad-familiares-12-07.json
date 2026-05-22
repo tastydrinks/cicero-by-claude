@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "had not Pansa fiercely stood against it",
+      "entity_id": "person:vibius-pansa",
+      "note": "C. Vibius Pansa, one of the two consuls of 43 BC; as presiding magistrate he could block Cicero's motion in the Senate. He died of wounds soon after the battles around Mutina."
+    },
+    {
+      "loc": "1",
+      "anchor": "I was led out to a public meeting by the tribune of the plebs M. Servilius",
+      "entity_id": "person:servilius-trib-pl-43",
+      "note": "A contio was a non-voting public assembly; only a magistrate (here the tribune Servilius) could convene one and \"lead out\" a speaker to address the people. Tribunes of the plebs held this power as a key lever of popular politics."
+    },
+    {
+      "loc": "2",
+      "anchor": "the province of Asia",
+      "entity_id": "place:asia-province",
+      "note": "The wealthy Roman province of western Anatolia, a prize Cicero assumes Cassius can secure for the republican cause along with the rest of the East."
+    }
+  ]
+}

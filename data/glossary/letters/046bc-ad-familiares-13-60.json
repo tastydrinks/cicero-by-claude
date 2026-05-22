@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-60",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO C. MVNATIO C. F. S.",
+      "entity_id": "person:c-munatius",
+      "note": "The letter-heading; a recommendation to C. Munatius, son of Gaius. \"C. F.\" abbreviates Gai filius, \"son of Gaius,\" a filiation that distinguishes him from other Munatii."
+    },
+    {
+      "loc": "1",
+      "anchor": "is in plain truth the freedman of L. Regulus",
+      "entity_id": "person:l-livineius-trypho",
+      "note": "A libertus was a manumitted slave, who took his former owner's nomen (here Livineius, from L. Livineius Regulus) and remained bound to him by ties of duty (obsequium) and clientship. Cicero stresses that he commends Trypho not merely out of regard for the patron but for the freedman's own sake."
+    },
+    {
+      "loc": "1",
+      "anchor": "for the services he rendered me were of the highest order in those times of ours in which it was easiest to gauge a man's true goodwill and good faith",
+      "entity_id": null,
+      "note": "A veiled reference to Cicero's exile of 58-57 BC, the test that separated loyal friends from false ones. The dangerous sea-voyages \"through the depth of winter\" that follow are errands run on Cicero's behalf during that period of disgrace and uncertainty."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-19",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "Syria", "entity_id": "place:syria", "in": "lat"},
+    {"loc": "1", "surface": "Syria", "entity_id": "place:syria", "in": "eng"},
+    {"loc": "1", "surface": "Syriam", "entity_id": "place:syria", "in": "lat"},
+    {"loc": "1", "surface": "province of Syria", "entity_id": "place:syria", "in": "eng"},
+    {"loc": "1", "surface": "Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Parthici belli", "entity_id": "place:parthia", "in": "lat"},
+    {"loc": "2", "surface": "Parthian war", "entity_id": "place:parthia", "in": "eng"},
+    {"loc": "2", "surface": "M. Bibuli", "entity_id": "person:m-calpurnius-bibulus", "in": "lat"},
+    {"loc": "2", "surface": "M. Bibulus", "entity_id": "person:m-calpurnius-bibulus", "in": "eng"},
+    {"loc": "2", "surface": "Parthi", "entity_id": "place:parthia", "in": "lat"},
+    {"loc": "2", "surface": "Parthians", "entity_id": "place:parthia", "in": "eng"}
+  ]
+}

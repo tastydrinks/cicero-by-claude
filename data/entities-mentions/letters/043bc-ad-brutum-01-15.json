@@ -1,0 +1,516 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-15",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Messalam",
+      "entity_id": "person:m-valerius-messala-corvinus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Messala",
+      "entity_id": "person:m-valerius-messala-corvinus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Brute",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Messalam",
+      "entity_id": "person:m-valerius-messala-corvinus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Messala",
+      "entity_id": "person:m-valerius-messala-corvinus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Brutum",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Solonis",
+      "entity_id": "person:solon",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Solon's",
+      "entity_id": "person:solon",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesar's death",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Idus Mart.",
+      "entity_id": null,
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Ides of March",
+      "entity_id": null,
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Brute",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Lepidum",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Antonium",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "re publica",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Cassium",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Cassius",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Antonio",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Antony's arms",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Achaico",
+      "entity_id": "place:achaia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "toward Achaia",
+      "entity_id": "place:achaia",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Veliae",
+      "entity_id": "place:velia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "at Velia",
+      "entity_id": "place:velia",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Stoici nostri",
+      "entity_id": null,
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "our Stoics",
+      "entity_id": null,
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Antoni",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Antony's crime",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Caesarem hunc adulescentem",
+      "entity_id": "person:octavian",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "this young Caesar",
+      "entity_id": "person:octavian",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Decimi quidem Bruti",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "D. Brutus's",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Antonium",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Philippus",
+      "entity_id": "person:l-marcius-philippus",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Philippus",
+      "entity_id": "person:l-marcius-philippus",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Servilius",
+      "entity_id": "person:p-servilius-vatia-isauricus",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Servilius",
+      "entity_id": "person:p-servilius-vatia-isauricus",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "D. Bruto",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "D. Brutus's liberation",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "Bruti nomen",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "Brutus's name",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "Larentiae",
+      "entity_id": "person:larentia",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "Larentia",
+      "entity_id": "person:larentia",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "pontifices",
+      "entity_id": "institution:college-of-pontiffs",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "you pontiffs",
+      "entity_id": "institution:college-of-pontiffs",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "Hirtium",
+      "entity_id": "person:hirtius",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "Hirtius",
+      "entity_id": "person:hirtius",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "Pansam",
+      "entity_id": "person:vibius-pansa",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "Pansa",
+      "entity_id": "person:vibius-pansa",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "Aquilam",
+      "entity_id": "person:pontius-aquila",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "Aquila",
+      "entity_id": "person:pontius-aquila",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "Caesari",
+      "entity_id": "person:octavian",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Caesar be allowed to enter the city in ovation",
+      "entity_id": "person:octavian",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "D. Bruto",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "D. Brutus",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "L. Planco",
+      "entity_id": "person:munatius-plancus",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "L. Plancus",
+      "entity_id": "person:munatius-plancus",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "Lepido",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "rostris",
+      "entity_id": "place:forum-romanum",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "the Rostra",
+      "entity_id": "place:forum-romanum",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Antonium",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Lepidum",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "11",
+      "surface": "Themistocli",
+      "entity_id": "person:themistocles",
+      "in": "lat"
+    },
+    {
+      "loc": "11",
+      "surface": "Themistocles",
+      "entity_id": "person:themistocles",
+      "in": "eng"
+    },
+    {
+      "loc": "12",
+      "surface": "Brute",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "12",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "12",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "12",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "13",
+      "surface": "sororis tuae filiis",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "13",
+      "surface": "your sister's sons",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "13",
+      "surface": "matris",
+      "entity_id": "person:servilia-hortensii",
+      "in": "lat"
+    },
+    {
+      "loc": "13",
+      "surface": "your mother's",
+      "entity_id": "person:servilia-hortensii",
+      "in": "eng"
+    },
+    {
+      "loc": "13",
+      "surface": "sororis",
+      "entity_id": "person:iunia-secunda",
+      "in": "lat"
+    },
+    {
+      "loc": "13",
+      "surface": "your sister's",
+      "entity_id": "person:iunia-secunda",
+      "in": "eng"
+    }
+  ]
+}

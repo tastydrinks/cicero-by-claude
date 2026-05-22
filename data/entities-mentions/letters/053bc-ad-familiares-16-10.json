@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-10",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "Cumanum", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "1", "surface": "Cumae", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "1", "surface": "Formiano", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "1", "surface": "Formian villa", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "1", "surface": "mi Tiro", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "my Tiro", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "2", "surface": "Acastus", "entity_id": "person:acastus-servus", "in": "lat"},
+    {"loc": "2", "surface": "Acastus", "entity_id": "person:acastus-servus", "in": "eng"},
+    {"loc": "2", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Musis nostris", "entity_id": "god:muses", "in": "lat"},
+    {"loc": "2", "surface": "our Muses", "entity_id": "god:muses", "in": "eng"}
+  ]
+}

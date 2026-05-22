@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "P. Crassus",
+      "entity_id": "person:p-crassus-iunior",
+      "note": "Publius Licinius Crassus, younger son of the triumvir; served as a cavalry commander under Caesar in Gaul, then died at Carrhae in 53 BC. The letter's standing is built on Cicero's and Caesar's shared affection for the dead man, whose freedman is the person commended."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Alexandrian war",
+      "entity_id": "event:alexandrian-war",
+      "note": "Caesar's campaign at Alexandria (autumn 48 to spring 47 BC), in which he was besieged in the city and intervened in the dynastic quarrel on behalf of Cleopatra against her brother Ptolemy XIII."
+    },
+    {
+      "loc": "3",
+      "anchor": "Spain",
+      "entity_id": "place:hispania",
+      "note": "Caesar was in Spain from late 46 BC for the Munda campaign, which closed the surviving Pompeian resistance in March 45 BC; this dates the letter, since Apollonius travels to him there."
+    },
+    {
+      "loc": "4",
+      "anchor": "Diodotus the Stoic",
+      "entity_id": "person:diodotus-stoicus",
+      "note": "The Stoic philosopher who lived in Cicero's house from the orator's youth until his own death, blind, in 60 BC; Cicero cites him as the teacher of his dialectic. Apollonius shared that household schooling."
+    },
+    {
+      "loc": "4",
+      "anchor": "in Greek",
+      "entity_id": null,
+      "note": "Roman dynasts cultivated Greek-language celebrants of their deeds; Apollonius's project would have been a prose history in Greek, in the tradition of Theophanes of Mytilene's account of Pompey's campaigns."
+    }
+  ]
+}

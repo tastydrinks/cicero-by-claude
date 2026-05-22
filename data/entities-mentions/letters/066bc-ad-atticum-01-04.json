@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-04",
+  "mentions": [
+    {"loc": "1", "surface": "Quinti fratris", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "my brother Quintus's", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "Acutilianam controversiam", "entity_id": "person:acutilius", "in": "lat"},
+    {"loc": "1", "surface": "the Acutilian quarrel", "entity_id": "person:acutilius", "in": "eng"},
+    {"loc": "1", "surface": "Peducaeus", "entity_id": "person:sex-peducaeus-iudex", "in": "lat"},
+    {"loc": "1", "surface": "Peducaeus", "entity_id": "person:sex-peducaeus-iudex", "in": "eng"},
+    {"loc": "2", "surface": "C. Macro", "entity_id": "person:c-licinius-macer", "in": "lat"},
+    {"loc": "2", "surface": "Gaius Macer", "entity_id": "person:c-licinius-macer", "in": "eng"},
+    {"loc": "3", "surface": "Hermathena", "entity_id": "god:mercurius", "in": "lat"},
+    {"loc": "3", "surface": "Hermathena", "entity_id": "god:mercurius", "in": "eng"},
+    {"loc": "3", "surface": "Academiae", "entity_id": "place:academia-athens", "in": "lat"},
+    {"loc": "3", "surface": "Academy", "entity_id": "place:academia-athens", "in": "eng"},
+    {"loc": "3", "surface": "Hermes", "entity_id": "god:mercurius", "in": "lat"},
+    {"loc": "3", "surface": "Hermes", "entity_id": "god:mercurius", "in": "eng"},
+    {"loc": "3", "surface": "Minerva", "entity_id": "god:minerva", "in": "lat"},
+    {"loc": "3", "surface": "Minerva", "entity_id": "god:minerva", "in": "eng"},
+    {"loc": "3", "surface": "Formiano", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "3", "surface": "Formian villa", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "3", "surface": "Tusculanum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "3", "surface": "Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "3", "surface": "Caietam", "entity_id": "place:caieta", "in": "lat"},
+    {"loc": "3", "surface": "Caieta", "entity_id": "place:caieta", "in": "eng"},
+    {"loc": "3", "surface": "Crassum", "entity_id": "person:crassus", "in": "lat"},
+    {"loc": "3", "surface": "Crassus", "entity_id": "person:crassus", "in": "eng"}
+  ]
+}

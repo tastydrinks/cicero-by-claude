@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the kalends of January had been set as your deadline",
+      "note": "The Kalends of January (1 January) was the standard administrative date for new arrangements to take effect; the implication is that Caesar's government had set 1 January 45 BC as the date by which Caecina must leave Sicily, giving his exile a hard bureaucratic boundary."
+    },
+    {
+      "loc": "1",
+      "anchor": "what Balbus and Oppius transacted in Caesar's absence is usually held by him to be ratified",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus and C. Oppius were Caesar's two chief agents in Rome, managing his affairs and acting as informal gatekeepers to his clemency petitions during his campaigns; Cicero's remark confirms that their word was in practice equivalent to Caesar's own."
+    },
+    {
+      "loc": "2",
+      "anchor": "sit tight in Sicily, or set out to what remains of your business affairs in Asia",
+      "entity_id": "place:sicilia",
+      "note": "Caecina, exiled, was managing his financial interests partly from Sicily and had business in the province of Asia; the question whether to stay near Italy (and thus Caesar's returning attention) or retreat to the east was a genuine dilemma for exiled Pompeians calculating the timing of their appeal for pardon."
+    },
+    {
+      "loc": "3",
+      "anchor": "To Titus Furfanius Postumus, a familiar friend of mine",
+      "entity_id": "person:t-furfanius-postumus",
+      "note": "T. Furfanius Postumus was proconsul of Sicily in 46-45 BC and thus Caecina's de facto host and administrator during the exile; as a Caesarian who was also a personal friend of Cicero's, he was well placed to make Caecina's stay in Sicily comfortable and politically safe."
+    },
+    {
+      "loc": "3",
+      "anchor": "for they were all at Mutina",
+      "entity_id": "place:mutina",
+      "note": "Mutina (modern Modena) in Cisalpine Gaul was a Roman colony and administrative centre; Furfanius and his legates had apparently been stationed there before taking up the Sicilian command, perhaps in connection with Caesar's reorganisation of northern Italy."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "our Caelius is being attacked vigorously by the Clodian clan",
+      "entity_id": "person:caelius-defendant",
+      "note": "M. Caelius Rufus, Cicero's brilliant protege (whom he had defended in the Pro Caelio of 56 BC); the Clodian faction, kin and partisans of P. Clodius, were pressing a fresh prosecution against him."
+    },
+    {
+      "loc": "2",
+      "anchor": "a crowded Senate gave audience to the Tyrians",
+      "entity_id": "place:tyrus",
+      "note": "An embassy from the Phoenician city of Tyre was heard in the Senate, opposed by the publicani (tax-farming companies) who held the Syrian revenue contracts and resented Gabinius's conduct as governor of Syria."
+    },
+    {
+      "loc": "2",
+      "anchor": "Gabinius was savagely set upon",
+      "entity_id": "person:gabinius",
+      "note": "A. Gabinius, returning from his governorship of Syria, faced furious hostility for having restored Ptolemy to Egypt without senatorial sanction; he was prosecuted on several counts in 54 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "he is not barred by the lex Pupia",
+      "entity_id": "law:lex-pupia",
+      "note": "The lex Pupia forbade Senate sittings on comitial days (assembly days), while the lex Gabinia required daily audience to be given to foreign embassies in February; Appius exploits the clash to keep the Senate busy and stall the elections."
+    },
+    {
+      "loc": "4",
+      "anchor": "almost a Thucydides in miniature",
+      "entity_id": "person:philistus",
+      "note": "Philistus of Syracuse, the Sicilian historian whom Quintus has been reading, modelled his dense, compressed style on Thucydides; Cicero rates him far above Callisthenes, the historian of Alexander."
+    },
+    {
+      "loc": "4",
+      "anchor": "you shall have today's doings on the Lupercalia",
+      "entity_id": null,
+      "note": "The Lupercalia, an ancient fertility festival held on 15 February, when half-naked runners (Luperci) struck bystanders with thongs; Cicero promises a news bulletin written that very day."
+    }
+  ]
+}

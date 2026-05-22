@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-29",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO OPPIO S. D.",
+      "entity_id": "person:gaius-oppius",
+      "note": "Gaius Oppius, a Roman knight and, with Cornelius Balbus, one of Caesar's two chief confidential agents in Rome. After Caesar's death he transferred his loyalty to Cicero, the gesture this letter acknowledges."
+    },
+    {
+      "loc": "1",
+      "anchor": "whether to go to Pompey or to remain in Italy",
+      "entity_id": null,
+      "note": "The decision that tormented Cicero in early 49 BC: to join Pompey's republican camp across the Adriatic, or stay neutral in Caesar's Italy. He consulted Oppius, Caesar's own agent, by letter."
+    },
+    {
+      "loc": "1",
+      "anchor": "your closest friend preferred a different course",
+      "entity_id": "person:caesar",
+      "note": "The \"closest friend\" is Caesar, whom Oppius served; Cicero praises Oppius for advising him to follow his own honour (i.e. toward Pompey) even though Caesar wished otherwise."
+    }
+  ]
+}

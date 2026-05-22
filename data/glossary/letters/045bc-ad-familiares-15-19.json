@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Catian spectres",
+      "entity_id": "person:catius-epicureus",
+      "note": "A jab at Catius the Insubrian Epicurean, who coined the Latin spectra to render Epicurus's eidola, the thin films Epicurean physics held that objects continually shed to produce sense-images and the appearances of the absent or dead."
+    },
+    {
+      "loc": "1",
+      "anchor": "countrified Stoics",
+      "note": "Cassius and Cicero had been bantering over philosophy; Cassius threatens to retaliate for the 'Catian spectres' by inflicting on Cicero a flood of boorish Stoic doctrine in his next letter."
+    },
+    {
+      "loc": "2",
+      "anchor": "left the city in his general's cloak",
+      "entity_id": "person:vibius-pansa",
+      "note": "The paludatus, the scarlet military cloak a magistrate donned on leaving Rome to take up a provincial command; Pansa was setting out to govern Cisalpine Gaul in 45 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "those poor interpreters of words",
+      "entity_id": "person:amafinius",
+      "note": "Catius and Amafinius were the early Latin popularizers of Epicureanism; Cassius, himself an Epicurean, dismisses them as crude vulgarizers who debased the master's teaching."
+    },
+    {
+      "loc": "3",
+      "anchor": "bought up all the goods at once",
+      "entity_id": "person:sulla-defendant",
+      "note": "A pun on bona ('goods'/'the good'): P. Cornelius Sulla, the speculator who had recently died, sidestepped the philosophers' quarrel over the supreme good by buying up confiscated estates wholesale at Caesar's auctions."
+    },
+    {
+      "loc": "3",
+      "anchor": "want for a buyer at his auctions",
+      "entity_id": "person:caesar",
+      "note": "The sector was the bidder at auctions of confiscated property; Cassius jokes grimly that Caesar's proscription-style sales will not lack a successor to P. Sulla once Sulla's son takes up the trade."
+    },
+    {
+      "loc": "4",
+      "anchor": "what a fool Cnaeus is",
+      "entity_id": "person:cn-pompeius-iunior",
+      "note": "Gnaeus Pompeius the Younger, the elder son of Pompey the Great, then leading the surviving Pompeian army in Spain; Cassius fears his victory would replace Caesar's clemency with a vindictive new master. He was beaten at Munda weeks later."
+    }
+  ]
+}

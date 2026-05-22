@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-46",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Pollex quidem",
+      "entity_id": "person:pollex-servus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "mihi Lanuvi pridie Idus praesto fuit",
+      "entity_id": "place:lanuvium",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Pollex, just as he had said",
+      "entity_id": "person:pollex-servus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the day before the Ides at Lanuvium",
+      "entity_id": "place:lanuvium",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Balbum conveni",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Lepta enim de sua munerum curatione",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "in eo autem Lanuvino",
+      "entity_id": "place:lanuvium",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "quod Lepido tradidit",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Bruti Catone lecto",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "I met Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Lepta, in distress over his management of the games",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "at his Lanuvine place",
+      "entity_id": "place:lanuvium",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "the one he handed over to Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "after reading Brutus's",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "cretionem Cluvi",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Vestorium neglegentem",
+      "entity_id": "person:c-vestorius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "de hortis Cluvianis egi cum Balbo",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "egi cum Balbo",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "se enim statim ad Caesarem scripturum",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Cluvium autem a T. Hordeonio legare",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "a T. Hordeonio legare",
+      "entity_id": "person:t-hordeonius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "et Terentiae HS",
+      "entity_id": "person:terentia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "omnia tanto ante Balbo",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "subaccusa , quaeso, Vestorium",
+      "entity_id": "person:c-vestorius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "de Cossinio doleo",
+      "entity_id": "person:l-cossinius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "the entry on Cluvius's inheritance",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Vestorius is being negligent",
+      "entity_id": "person:c-vestorius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "About the Cluvian gardens too I dealt with Balbus",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "I dealt with Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "He will write to Caesar at once",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "that Cluvius leaves a legacy",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "a legacy from T. Hordeonius",
+      "entity_id": "person:t-hordeonius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "and to Terentia 50,000 sesterces",
+      "entity_id": "person:terentia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "should have got everything to Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Please reprove Vestorius a little",
+      "entity_id": "person:c-vestorius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "About Cossinius I am sorry",
+      "entity_id": "person:l-cossinius",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Quinto delegabo",
+      "entity_id": "person:quintus-cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "de domo Arpini nil scio",
+      "entity_id": "place:arpinum",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Vestorium nil est quod accuses",
+      "entity_id": "person:c-vestorius",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "To Quintus I shall consign",
+      "entity_id": "person:quintus-cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "About the house at Arpinum",
+      "entity_id": "place:arpinum",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "There is no reason to find fault with Vestorius",
+      "entity_id": "person:c-vestorius",
+      "in": "eng"
+    }
+  ]
+}

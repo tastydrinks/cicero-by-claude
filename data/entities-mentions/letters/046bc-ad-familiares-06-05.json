@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-05",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO S. D. A. CAECINAE.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO S. D. A. CAECINAE.",
+      "entity_id": "person:a-caecina-friend",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO S. D. A. CAECINAE.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO S. D. A. CAECINAE.",
+      "entity_id": "person:a-caecina-friend",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "filium tuum",
+      "entity_id": "person:a-caecina-friend",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Liber tuus",
+      "entity_id": "person:a-caecina-friend",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "your son",
+      "entity_id": "person:a-caecina-friend",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Your book",
+      "entity_id": "person:a-caecina-friend",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "hic, cuius in potestate sumus",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "this man in whose power we stand",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "liberisque tuis",
+      "entity_id": "person:a-caecina-friend",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "your children",
+      "entity_id": "person:a-caecina-friend",
+      "in": "eng"
+    }
+  ]
+}

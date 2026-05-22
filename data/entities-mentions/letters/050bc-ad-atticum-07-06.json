@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-06",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "Caesari", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Pompeius", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "concede to Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "the same as Pompey says", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "to differ from Pompey", "entity_id": "person:pompey", "in": "eng"}
+  ]
+}

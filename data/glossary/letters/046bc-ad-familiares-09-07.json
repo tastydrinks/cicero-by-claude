@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "young Lucius Caesar",
+      "entity_id": "person:l-iulius-caesar-son",
+      "note": "L. Iulius Caesar the younger, son of the consul of 64 BC, had fought on the Pompeian side in Africa and was put to death after Thapsus (46 BC), despite his kinship to the dictator. Cicero's grim joke --- 'What will this fellow do to me, given what he did to his own father?' --- reflects the report that Caesar showed no mercy even to a relative, and underlies Cicero's wary policy of dining with the men now in power."
+    },
+    {
+      "loc": "1",
+      "anchor": "these men who are now masters",
+      "entity_id": "person:caesar",
+      "note": "Cicero refers to the Caesarian establishment in Rome in 46 BC; 'one must serve the time' (tempori serviendum est) is his rueful watchword for outward accommodation to the dictatorship while withholding inner approval."
+    },
+    {
+      "loc": "2",
+      "anchor": "Africa terribili tremit horrida terra tumultu",
+      "entity_id": null,
+      "note": "An old Latin verse (an Ennian or quasi-Ennian hexameter, much imitated for its piled-up alliteration) which Cicero quotes to capture the alarm caused by Caesar's African war. The renderings overlap: terribili / horrida / tumultu evoke a land 'bristling' and shaking with terrible commotion."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Stoic ``dispreferred''",
+      "entity_id": null,
+      "note": "In Stoic ethics the 'preferred' (proēgmena) and 'dispreferred' (apoproēgmena) are external things --- health, wealth, their opposites --- which are not strictly good or evil but have relative value. Cicero, playing the philosopher, says he fears every item on the dispreferred list, i.e. every possible misfortune."
+    },
+    {
+      "loc": "2",
+      "anchor": "Dolabella is on his way",
+      "entity_id": "person:dolabella",
+      "note": "P. Cornelius Dolabella, Cicero's son-in-law (married to Tullia) and a partisan of Caesar, was returning and would be a source of fresh news. Cicero caps this with the Greek tag 'many pupils outdo their teachers,' a wry compliment to his volatile son-in-law."
+    }
+  ]
+}

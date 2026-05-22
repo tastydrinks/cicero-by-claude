@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-09",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the prospect, by no means in doubt and now plainly settled, of your triumph",
+      "entity_id": "institution:triumph",
+      "note": "The triumph was the supreme honour for a victorious commander, a ceremonial procession through Rome voted by the Senate; Appius was angling for one on his return from Cilicia."
+    },
+    {
+      "loc": "2",
+      "anchor": "an \\textit{[Greek: Epikoureion]} (Epicurean) consideration",
+      "entity_id": "institution:epicurean-school",
+      "note": "Cicero disowns a self-interested motive as \"Epicurean,\" alluding to the Epicurean school's reputation for grounding action in one's own pleasure or advantage."
+    },
+    {
+      "loc": "2",
+      "anchor": "the long bench",
+      "note": "Pompey's nickname (longum subsellium) for the slow, crowded board of senators that adjudicated triumph-claims; the joke is that getting a triumph approved meant waiting on a long bench of colleagues."
+    },
+    {
+      "loc": "3",
+      "anchor": "the knowledge itself of augural law",
+      "entity_id": "office:augur",
+      "note": "Cicero had been co-opted into the college of augurs (in 53/52 BC, into the place left by the dead Crassus); Appius, a noted authority on augural lore, had promised him instruction in the discipline (ius augurium)."
+    },
+    {
+      "loc": "4",
+      "anchor": "a supplicatio be decreed me",
+      "entity_id": "festival:supplicatio",
+      "note": "A supplicatio was a public thanksgiving voted by the Senate for a military success, with days of prayer at the temples; it was the usual prelude to a triumph, which Cicero is here soliciting."
+    },
+    {
+      "loc": "4",
+      "anchor": "hailed as imperator",
+      "entity_id": "office:imperator",
+      "note": "The acclamation imperator by one's own troops after a victory was the formal prerequisite for seeking a supplicatio and triumph; Cicero won it in his Amanus campaign of 51 BC."
+    }
+  ]
+}

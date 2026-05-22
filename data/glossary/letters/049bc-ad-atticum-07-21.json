@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I came to Capua on the Nones of February",
+      "entity_id": null,
+      "note": "The Nones of February fell on the 5th; Cicero counts the following days backward toward the Ides (the 13th in February), so the seventh day before the Ides is 7 February."
+    },
+    {
+      "loc": "1",
+      "anchor": "no levy anywhere",
+      "entity_id": null,
+      "note": "The dilectus was the consular conscription of citizen-soldiers; Cicero's complaint is that the Pompeian levy in Campania had simply collapsed, with recruiting officers afraid to act and no one enrolling."
+    },
+    {
+      "loc": "2",
+      "anchor": "take money from the inner treasury",
+      "entity_id": "institution:aerarium",
+      "note": "The sanctius aerarium was the reserve fund kept in the temple of Saturn, drawn on only in extreme emergency (originally the 5 percent manumission tax); Pompey's flight left it behind, and Caesar later seized it on entering Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "go into Picenum himself",
+      "entity_id": "place:picenum",
+      "note": "Picenum, the Adriatic coastal region of central Italy, was Pompey's ancestral power base; its swift loss to Caesar (confirmed here by Dolabella's letter) was a decisive early blow to the Pompeian cause."
+    },
+    {
+      "loc": "2",
+      "anchor": "at the gates of Apulia",
+      "entity_id": "place:apulia",
+      "note": "Apulia, the heel-region of south-east Italy, lay on Pompey's line of retreat toward the port of Brundisium, from which he intended to cross to Greece."
+    }
+  ]
+}

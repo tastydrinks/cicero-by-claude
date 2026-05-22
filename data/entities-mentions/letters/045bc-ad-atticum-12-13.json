@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-13",
+  "mentions": [
+    {"loc": "1", "surface": "commovet me Attica", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "etsi adsentior Cratero", "entity_id": "person:craterus", "in": "lat"},
+    {"loc": "1", "surface": "Bruti litterae scriptae et prudenter et amice", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "non me hercule indulgente me", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "1", "surface": "Attica troubles me", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "1", "surface": "though I do agree with Craterus", "entity_id": "person:craterus", "in": "eng"},
+    {"loc": "1", "surface": "Brutus's letter, written shrewdly and with affection", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "not, by Hercules, because I indulge it", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "2", "surface": "quod scribis de Appuleio", "entity_id": "person:m-appuleius", "in": "lat"},
+    {"loc": "2", "surface": "nec Balbo et Oppio", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "2", "surface": "nec Balbo et Oppio", "entity_id": "person:gaius-oppius", "in": "lat"},
+    {"loc": "2", "surface": "Laenas hoc receperat", "entity_id": "person:laenas", "in": "lat"},
+    {"loc": "2", "surface": "prende C. Septimium", "entity_id": "person:c-septimius", "in": "lat"},
+    {"loc": "2", "surface": "L. Statilium", "entity_id": "person:l-statilius", "in": "lat"},
+    {"loc": "2", "surface": "Cocceium velim appelles", "entity_id": "person:cocceius", "in": "lat"},
+    {"loc": "2", "surface": "As to what you write about Appuleius", "entity_id": "person:m-appuleius", "in": "eng"},
+    {"loc": "2", "surface": "for Balbus and Oppius", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "2", "surface": "for Balbus and Oppius", "entity_id": "person:gaius-oppius", "in": "eng"},
+    {"loc": "2", "surface": "Laenas had undertaken this", "entity_id": "person:laenas", "in": "eng"},
+    {"loc": "2", "surface": "Take hold of Gaius Septimius", "entity_id": "person:c-septimius", "in": "eng"},
+    {"loc": "2", "surface": "Lucius Statilius", "entity_id": "person:l-statilius", "in": "eng"},
+    {"loc": "2", "surface": "Will you, please, approach Cocceius", "entity_id": "person:cocceius", "in": "eng"}
+  ]
+}

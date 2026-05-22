@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-43",
+  "mentions": [
+    {"loc": "1", "surface": "Lanuvi manere constitui", "entity_id": "place:lanuvium", "in": "lat"},
+    {"loc": "1", "surface": "inde aut Romae aut in Tusculano", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "inde aut Romae aut in Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "to stop on the day after the Ides at Lanuvium", "entity_id": "place:lanuvium", "in": "eng"},
+    {"loc": "1", "surface": "from there either to Rome or to the Tusculanum", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "from there either to Rome or to the Tusculanum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "de Othone diffido", "entity_id": "person:otho", "in": "lat"},
+    {"loc": "2", "surface": "proximum est ut velim Clodiae", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "2", "surface": "videbis etiam Trebonianos", "entity_id": "person:c-trebonius", "in": "lat"},
+    {"loc": "2", "surface": "considerabis etiam de Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "2", "surface": "Of Otho I have my doubts", "entity_id": "person:otho", "in": "eng"},
+    {"loc": "2", "surface": "The next best is, I should like Clodia's", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "2", "surface": "You will see the Trebonian heirs too", "entity_id": "person:c-trebonius", "in": "eng"},
+    {"loc": "2", "surface": "you will also think about the Tusculanum", "entity_id": "place:tusculum", "in": "eng"}
+  ]
+}

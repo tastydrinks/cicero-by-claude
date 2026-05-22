@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-16",
+  "mentions": [
+    {"loc": "1", "surface": "a Philotimo", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "1", "surface": "se venditant Caesari", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "which is written to me by Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "1", "surface": "they peddle themselves to Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "hic Pisistratus", "entity_id": "person:pisistratus", "in": "lat"},
+    {"loc": "2", "surface": "me hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "2", "surface": "Gnaeo nostro", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "eius Lucerias", "entity_id": "place:luceria", "in": "lat"},
+    {"loc": "2", "surface": "vastandam Italiam", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "2", "surface": "a Brundisio", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "2", "surface": "Appia veniret", "entity_id": "place:via-appia", "in": "lat"},
+    {"loc": "2", "surface": "Arpinum cogitabam", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "2", "surface": "this Peisistratus", "entity_id": "person:pisistratus", "in": "eng"},
+    {"loc": "2", "surface": "by Hercules", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "2", "surface": "our friend Gnaeus", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "certain ``Lucerias'' of his", "entity_id": "place:luceria", "in": "eng"},
+    {"loc": "2", "surface": "more prepared to ravage Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "something from Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "2", "surface": "if he was coming by the Appian Way", "entity_id": "place:via-appia", "in": "eng"},
+    {"loc": "2", "surface": "I was thinking of Arpinum", "entity_id": "place:arpinum", "in": "eng"}
+  ]
+}

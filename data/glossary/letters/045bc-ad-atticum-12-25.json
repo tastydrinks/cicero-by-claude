@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-25",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I should prefer cash to a valuation in kind",
+      "entity_id": null,
+      "note": "Cicero contrasts numerato (payment in ready coin) with aestimatio (settlement by appraised property handed over at a fixed value). Under Caesar's debt legislation creditors could be forced to take land in lieu of cash, which Cicero wants to avoid here."
+    },
+    {
+      "loc": "1",
+      "anchor": "six hundred thousand sesterces",
+      "entity_id": null,
+      "note": "The sum stands in the Latin as HS DC, i.e. 600,000 sesterces, the standard Roman money of account. A first-class senatorial fortune ran into the millions, so this is a substantial but not extravagant sum toward the garden purchase."
+    },
+    {
+      "loc": "1",
+      "anchor": "settle in full from Faberius or from someone who owes Faberius",
+      "entity_id": "person:faberius",
+      "note": "Faberius was Caesar's secretary (scriba); a large debt owed by or through him --- the recurring 'nomen Faberianum' of these letters --- is the fund Cicero hopes will finally pay for Tullia's shrine. Repraesentatio means paying the whole price down at once rather than by instalments."
+    }
+  ]
+}

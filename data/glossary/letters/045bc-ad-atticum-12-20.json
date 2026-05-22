@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-20",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "Gnaeus Caepio, the father of Servilia the wife of Claudius",
+      "entity_id": null,
+      "note": "Cicero is collecting cases of parents who outlived a child as exempla for his Consolatio: did Gnaeus Caepio die in shipwreck before or after his own father? Caepio, this Servilia, and her husband Claudius are otherwise obscure and are not separately catalogued in the entity registry."
+    },
+    {
+      "loc": "2",
+      "anchor": "And likewise Rutilia: did she die while her son Gaius Cotta was still living",
+      "entity_id": "person:rutilia",
+      "note": "Rutilia, mother of the orator Gaius Aurelius Cotta (consul 75 BC), was a stock example of a mother who bore her son's death with fortitude --- exactly the consolatory model Cicero needed. He asks Atticus to verify the chronology for the lost Consolatio."
+    },
+    {
+      "loc": "2",
+      "anchor": "the book I have written on the lessening of grief",
+      "entity_id": null,
+      "note": "This is the Consolatio, the philosophical work Cicero composed to assuage his grief for Tullia, now lost except in fragments. Here he is fact-checking its historical exempla."
+    }
+  ]
+}

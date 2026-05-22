@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-67",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "P. SERVILIO PROPR.", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "lat"},
+    {"loc": "1", "surface": "P. SERVILIO PROPR.", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "eng"},
+    {"loc": "1", "surface": "provincia mea Ciliciensi", "entity_id": "place:cilicia", "in": "lat"},
+    {"loc": "1", "surface": "my province of Cilicia", "entity_id": "place:cilicia", "in": "eng"},
+    {"loc": "1", "surface": "dioikh/seis Asiaticas", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "three Asiatic districts", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "1", "surface": "Androne", "entity_id": "person:andro-laodicensis", "in": "lat"},
+    {"loc": "1", "surface": "Andro", "entity_id": "person:andro-laodicensis", "in": "eng"},
+    {"loc": "1", "surface": "Artemonis filio", "entity_id": "person:andro-laodicensis", "in": "lat"},
+    {"loc": "1", "surface": "son of Artemo", "entity_id": "person:andro-laodicensis", "in": "eng"},
+    {"loc": "1", "surface": "Artemonis", "entity_id": "person:artemo-laodicensis", "in": "lat"},
+    {"loc": "1", "surface": "Artemo", "entity_id": "person:artemo-laodicensis", "in": "eng"},
+    {"loc": "1", "surface": "Laudicensi", "entity_id": "place:laodicea-asia", "in": "lat"},
+    {"loc": "1", "surface": "Laodicea", "entity_id": "place:laodicea-asia", "in": "eng"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "ista provincia", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "that province", "entity_id": "place:asia-province", "in": "eng"}
+  ]
+}

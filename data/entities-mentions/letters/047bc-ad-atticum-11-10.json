@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-10",
+  "mentions": [
+    {"loc": "1", "surface": "ex iis quae de Q. Q. ad me adferuntur", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "ex iis quae de Q. Q. ad me adferuntur", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "P. Terentius meus necessarius", "entity_id": "person:p-terentius-hispo", "in": "lat"},
+    {"loc": "1", "surface": "operas in portu et scriptura Asiae", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "is Quintum filium Ephesi vidit", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "Quintum filium Ephesi vidit", "entity_id": "place:ephesus", "in": "lat"},
+    {"loc": "1", "surface": "quam apud Caesarem contra me esset habiturus", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "multa postea Patris", "entity_id": "place:patrae", "in": "lat"},
+    {"loc": "1", "surface": "simili scelere secum Quintum patrem locutum", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "the reports that reach me about my Quintus the younger", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "Publius Terentius, my close associate", "entity_id": "person:p-terentius-hispo", "in": "eng"},
+    {"loc": "1", "surface": "served as deputy in the port and pasture-tax of Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "1", "surface": "He saw young Quintus at Ephesus", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "young Quintus at Ephesus", "entity_id": "place:ephesus", "in": "eng"},
+    {"loc": "1", "surface": "a speech which he was going to deliver against me before Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Later, at Patrae", "entity_id": "place:patrae", "in": "eng"},
+    {"loc": "1", "surface": "Quintus the father spoke with him in the same wicked vein", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "de Africanis rebus", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "2", "surface": "accedit Hispania", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "2", "surface": "et alienata Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "2", "surface": "urbanae res perditae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "The news brought from Africa", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "2", "surface": "Add Spain", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "2", "surface": "and an Italy alienated", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "the affairs of the city in ruin", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

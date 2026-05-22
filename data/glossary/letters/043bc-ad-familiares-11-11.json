@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I am expecting envoys from the Allobroges",
+      "entity_id": "group:allobroges",
+      "note": "The Allobroges were a powerful Gallic people between the Rhone, the Isère, and the Alps. Their loyalty was strategically vital in 43 BC because their territory controlled the route by which Antony might join Lepidus and Plancus in Transalpine Gaul."
+    },
+    {
+      "loc": "2",
+      "anchor": "6 May, from camp on the territory of the Statiellenses",
+      "entity_id": "place:statiellenses",
+      "note": "Latin Pr. Non. Mai. (pridie Nonas Maias), \"the day before the Nones of May,\" i.e. 6 May. The Statielli were a Ligurian people around Aquae Statiellae (modern Acqui Terme), on Decimus Brutus's line of pursuit toward the Alps."
+    }
+  ]
+}

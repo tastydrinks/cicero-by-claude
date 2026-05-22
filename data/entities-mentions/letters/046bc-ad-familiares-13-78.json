@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-78",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ALLIENO", "entity_id": "person:a-allienus", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ALLIENO", "entity_id": "person:a-allienus", "in": "eng"},
+    {"loc": "1", "surface": "Democritus", "entity_id": "person:democritus-sicyonius", "in": "lat"},
+    {"loc": "1", "surface": "Sicyonius", "entity_id": "place:sicyon", "in": "lat"},
+    {"loc": "1", "surface": "Achaiae", "entity_id": "place:achaia", "in": "lat"},
+    {"loc": "1", "surface": "Democritus", "entity_id": "person:democritus-sicyonius", "in": "eng"},
+    {"loc": "1", "surface": "Sicyon", "entity_id": "place:sicyon", "in": "eng"},
+    {"loc": "1", "surface": "Achaea", "entity_id": "place:achaia", "in": "eng"}
+  ]
+}

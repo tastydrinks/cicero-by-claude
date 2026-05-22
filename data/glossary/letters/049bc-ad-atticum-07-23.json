@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-23",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the fifth day before the Ides of February",
+      "entity_id": null,
+      "note": "Counting inclusively backward from the Ides of February (the 13th), the fifth day before is 9 February."
+    },
+    {
+      "loc": "1",
+      "anchor": "cohorts from Picenum under Lentulus and Thermus",
+      "entity_id": "place:picenum",
+      "note": "Philotimus's optimistic report had Picene cohorts rallying to L. Domitius Ahenobarbus under P. Lentulus Spinther the younger and Q. Minucius Thermus; in fact Picenum had already fallen and Domitius would be trapped and captured at Corfinium within weeks."
+    },
+    {
+      "loc": "1",
+      "anchor": "these are with us, that is, at the Formian villa",
+      "entity_id": "place:formiae",
+      "note": "Cicero's seaside villa at Formiae on the Campanian coast was a gathering point in Feb 49 for hesitant senators (Manius Lepidus, Lucius Torquatus, the tribune C. Cassius) weighing whether to follow Pompey out of Italy."
+    },
+    {
+      "loc": "1",
+      "anchor": "Gaius Cassius, tribune of the plebs",
+      "entity_id": "office:tribune",
+      "note": "The plebeian tribunes held no imperium and no military command, but their persons were sacrosanct and their veto could block magistrates; C. Cassius's presence among the Pompeians lent the cause constitutional cover."
+    }
+  ]
+}

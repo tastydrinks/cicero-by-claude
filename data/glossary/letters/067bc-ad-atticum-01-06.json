@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "The Rabirian house at Naples",
+      "entity_id": null,
+      "note": "A house at Naples known by the name of a former owner named Rabirius; Atticus had evidently been considering it. Cicero reports its sale in case Atticus still had designs on it."
+    },
+    {
+      "loc": "1",
+      "anchor": "for HS 130,000",
+      "entity_id": null,
+      "note": "HS abbreviates the sestertius, the standard Roman unit of account. 130,000 sesterces is a modest price for a house, reflecting the bargain Cicero is reporting."
+    },
+    {
+      "loc": "2",
+      "anchor": "Decimus Turranius",
+      "entity_id": "person:d-turranius",
+      "note": "A learned companion (Cicero calls him chrēstomathēs, \"fond of useful learning\") staying with Quintus and Pomponia at Arpinum; otherwise little known."
+    },
+    {
+      "loc": "2",
+      "anchor": "Our father has died on the 28th of November",
+      "entity_id": "person:m-tullius-cicero-elder",
+      "note": "The Latin dates the death \"a. d. iv Kal. Dec.\" --- the fourth day before the Kalends (first) of December, i.e. 28 November, by Roman inclusive counting. The deceased is M. Tullius Cicero the elder, the orator's father."
+    },
+    {
+      "loc": "2",
+      "anchor": "any ornaments in the gymnasium style",
+      "entity_id": null,
+      "note": "Cicero asks Atticus to buy Greek statuary suited to a gymnasium or palaestra (the word he uses, gymnasiōdē, means \"of the gymnasium type\") to decorate his villa, of a piece with the Hermathena and other pieces commissioned in Att. 1.1 and 1.4."
+    }
+  ]
+}

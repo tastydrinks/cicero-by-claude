@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-49",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO CVRIO PROCOS.",
+      "entity_id": "person:curius-procos",
+      "note": "The letter-heading; a brief, intense recommendation addressed to a proconsul named Curius. His identity is uncertain (the Perseus TEI for this letter is mislabeled n=159); he is not the banker M'. Curius of Patrae."
+    },
+    {
+      "loc": "1",
+      "anchor": "Q. Pompeius, son of Sextus, is bound to me by many old ties of close friendship.",
+      "entity_id": "person:q-pompeius-sex-f",
+      "note": "Q. Pompeius, son of Sextus, an old friend of Cicero who had long relied on Cicero's recommendations to uphold his property, standing, and authority. He is distinct from Q. Pompeius the consul of 141 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "you receive this man, before any other, into your good faith",
+      "entity_id": null,
+      "note": "\"Into your good faith\" (in tuam fidem recipias) is the formal language of patronage: the governor is asked to take the man under his fides (protection and good faith), the central bond of the Roman recommendation letter."
+    }
+  ]
+}

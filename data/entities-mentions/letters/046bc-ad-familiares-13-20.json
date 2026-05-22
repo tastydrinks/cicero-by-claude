@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-20",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "Asclapone Patrensi", "entity_id": "person:asclapo-patrensis", "in": "lat"},
+    {"loc": "1", "surface": "Asclapo, a physician of Patrae", "entity_id": "person:asclapo-patrensis", "in": "eng"},
+    {"loc": "1", "surface": "medico", "entity_id": "person:asclapo-patrensis", "in": "lat"},
+    {"loc": "1", "surface": "physician", "entity_id": "person:asclapo-patrensis", "in": "eng"}
+  ]
+}

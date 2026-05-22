@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-22",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "About Marcellus",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "M. Claudius Marcellus, consul 51 BC, a leading optimate pardoned by Caesar; murdered at Athens (or Piraeus) in May 45 BC on his way home. Cassius and then Servius Sulpicius sent Cicero the news, which shocked Rome."
+    },
+    {
+      "loc": "3",
+      "anchor": "Caerellia has certain pieces",
+      "entity_id": "person:caerellia",
+      "note": "Caerellia, a wealthy older woman and devotee of Cicero's philosophy, had somehow obtained advance copies of his works; Cicero is annoyed but acquits Atticus's copyists, suspecting another channel."
+    },
+    {
+      "loc": "3",
+      "anchor": "an unfinished one to Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "Cicero worries about which version of his text reaches whom: an outdated draft must not go to Brutus, nor an unfinished one to Balbus, Caesar's powerful agent who expected a finished copy."
+    },
+    {
+      "loc": "4",
+      "anchor": "you are dunning the assigned debtors",
+      "entity_id": null,
+      "note": "Attributi were debtors formally assigned (by attributio) to a creditor in settlement of an obligation; Atticus is collecting on such assignments on Cicero's behalf."
+    },
+    {
+      "loc": "4",
+      "anchor": "Tullius my secretary",
+      "entity_id": "person:m-tullius-scriba",
+      "note": "M. Tullius, Cicero's clerk (scriba), who had kept his provincial accounts; distinct from Cicero himself and from the freedman Tiro. A sum of Cicero's was in his hands, earmarked for the gardens purchase."
+    },
+    {
+      "loc": "4",
+      "anchor": "under the head of a vow",
+      "entity_id": null,
+      "note": "Money set aside nomine voti, dedicated to fulfil a religious vow; Cicero clarifies that the sum held by his secretary was not so consecrated but is his own, to be spent on the project."
+    },
+    {
+      "loc": "4",
+      "anchor": "the co-heirs",
+      "entity_id": null,
+      "note": "Joint heirs (coheredes) to one of the estates Cicero had entered; co-heirship required collective action, so settling matters without Atticus present would be onerous. The Latin clause here is textually corrupt."
+    }
+  ]
+}

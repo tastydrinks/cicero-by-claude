@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-18",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "D. BRVTO IMP. COS. DESIG.", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTO IMP. COS. DESIG.", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "Galbae", "entity_id": "person:servius-sulpicius-galba", "in": "lat"},
+    {"loc": "1", "surface": "Galba", "entity_id": "person:servius-sulpicius-galba", "in": "eng"},
+    {"loc": "1", "surface": "Volumnio", "entity_id": "person:flaccus-volumnius", "in": "lat"},
+    {"loc": "1", "surface": "Volumnius", "entity_id": "person:flaccus-volumnius", "in": "eng"},
+    {"loc": "1", "surface": "senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "populique Romani", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "the Roman people's", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "1", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "The Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "mi Brute", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "my dear Brutus", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "2", "surface": "Antonio", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "Lepidum", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "2", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "3", "surface": "Antonius", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "3", "surface": "Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "3", "surface": "senatui", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "3", "surface": "populo Romano", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "3", "surface": "the Roman people", "entity_id": "institution:populus-romanus", "in": "eng"}
+  ]
+}

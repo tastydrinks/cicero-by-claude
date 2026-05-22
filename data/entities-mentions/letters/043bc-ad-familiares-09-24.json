@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-24",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO PAETO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PAETO", "entity_id": "person:l-papirius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "Rufum istum", "entity_id": "person:rufus-amicus-paeti", "in": "lat"},
+    {"loc": "1", "surface": "That Rufus of yours", "entity_id": "person:rufus-amicus-paeti", "in": "eng"},
+    {"loc": "1", "surface": "mi Paete", "entity_id": "person:l-papirius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "my Paetus", "entity_id": "person:l-papirius-paetus", "in": "eng"},
+    {"loc": "1", "surface": "Aquini", "entity_id": "place:aquinum", "in": "lat"},
+    {"loc": "1", "surface": "Aquinum", "entity_id": "place:aquinum", "in": "eng"},
+    {"loc": "1", "surface": "Fabrateriae", "entity_id": "place:fabrateria", "in": "lat"},
+    {"loc": "1", "surface": "Fabrateria", "entity_id": "place:fabrateria", "in": "eng"},
+    {"loc": "2", "surface": "Spurinna", "entity_id": "person:vestricius-spurinna", "in": "lat"},
+    {"loc": "2", "surface": "Spurinna", "entity_id": "person:vestricius-spurinna", "in": "eng"},
+    {"loc": "3", "surface": "me hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "3", "surface": "by Hercules", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "3", "surface": "mi Paete", "entity_id": "person:l-papirius-paetus", "in": "lat"},
+    {"loc": "3", "surface": "my Paetus", "entity_id": "person:l-papirius-paetus", "in": "eng"},
+    {"loc": "4", "surface": "mi Paete", "entity_id": "person:l-papirius-paetus", "in": "lat"},
+    {"loc": "4", "surface": "my Paetus", "entity_id": "person:l-papirius-paetus", "in": "eng"}
+  ]
+}

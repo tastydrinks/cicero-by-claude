@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "those debt-claims",
+      "entity_id": null,
+      "note": "A nomen (plural nomina) was an entry in an account-book recording a debt owed to one party by another; such claims could be assigned to a third person, and Cicero means to take over these particular debts as a way of financing the gardens purchase."
+    },
+    {
+      "loc": "1",
+      "anchor": "As for Caelius, you do not approve",
+      "entity_id": null,
+      "note": "Caelius is one of the debtors (or his debt) that Atticus had judged unsuitable to take on; the man cannot be securely matched to any registered Caelius and is left untagged."
+    },
+    {
+      "loc": "1",
+      "anchor": "even from the auctioneer",
+      "entity_id": null,
+      "note": "The praeco (auctioneer/herald) conducted the public sale of an estate; payment to creditors might come either from the auction proceeds or directly from the heirs, hence the two routes Cicero names."
+    },
+    {
+      "loc": "2",
+      "anchor": "About Crispus and Mustela",
+      "entity_id": null,
+      "note": "Mustela and Crispus held shares (probably as co-owners or co-creditors) in property bearing on the gardens deal; Crispus cannot be matched to a registered entity and is left untagged, while Mustela is tagged."
+    },
+    {
+      "loc": "2",
+      "anchor": "the freedman Aegypta",
+      "entity_id": "person:aegypta-servus",
+      "note": "A freedman (libertus) of Cicero's circle who served as a courier; here he carries a letter announcing the return of M. Brutus to Italy."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-22",
+  "notes": [
+    {"loc": "1", "anchor": "Plancius keeps me here by his generosity", "entity_id": "person:cn-plancius", "note": "Cn. Plancius, the quaestor of Macedonia, sheltered Cicero through his exile and pressed him to stay; here at Dyrrachium he hopes the two may quit the province together."},
+    {"loc": "1", "anchor": "leave the province together", "entity_id": null, "note": "Plancius's quaestorian term was ending; he hoped to escort Cicero home at his own departure, which he reckoned would do him honour."},
+    {"loc": "2", "anchor": "Lentulus", "entity_id": "person:lentulus-spinther", "note": "P. Cornelius Lentulus Spinther, consul-elect for 57 BC and the chief champion of Cicero's recall; his goodwill is Cicero's best lever on Pompey."},
+    {"loc": "2", "anchor": "Metellus", "entity_id": "person:metellus-nepos", "note": "Q. Caecilius Metellus Nepos, the other consul of 57 BC and a former enemy of Cicero, whose hostility Atticus was working to soften."},
+    {"loc": "4", "anchor": "the sixth day before the Kalends of December", "entity_id": null, "note": "The Roman calendar counted backward and inclusively from fixed points; the Kalends fell on the first of the month, so this dates the letter to 26 November 58 BC."}
+  ]
+}

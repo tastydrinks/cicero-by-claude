@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-01",
+  "mentions": [
+    {"loc": "1", "surface": "Anteros", "entity_id": "person:anteros-servus", "in": "lat"},
+    {"loc": "1", "surface": "Anteros", "entity_id": "person:anteros-servus", "in": "eng"},
+    {"loc": "2", "surface": "in cistophoro in Asia", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "2", "surface": "on deposit in Asia", "entity_id": "place:asia-province", "in": "eng"}
+  ]
+}

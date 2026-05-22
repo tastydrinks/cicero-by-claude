@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "that book on augural law",
+      "note": "Appius Claudius Pulcher wrote a learned treatise on augural discipline (the Roman science of reading the gods' will from the flight of birds and other signs), which he dedicated to Cicero, his fellow augur."
+    },
+    {
+      "loc": "2",
+      "anchor": "Cn. Pompeius, your daughter's father-in-law",
+      "entity_id": "person:pompey",
+      "note": "One of Appius's daughters married Pompey's elder son, Gnaeus Pompeius the younger; the marriage tie made the great general Appius's connection by marriage."
+    },
+    {
+      "loc": "2",
+      "anchor": "M. Brutus, your son-in-law",
+      "entity_id": "person:brutus",
+      "note": "The future tyrannicide Marcus Brutus had married another of Appius's daughters, Claudia, binding him to Appius as son-in-law."
+    },
+    {
+      "loc": "2",
+      "anchor": "our common membership of the college",
+      "entity_id": "office:augur",
+      "note": "Cicero and Appius were both members of the college of augurs, the priestly board charged with taking the auspices; Appius had supported Cicero's co-option into it in 53 BC."
+    }
+  ]
+}

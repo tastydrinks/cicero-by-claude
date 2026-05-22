@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-01-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "third year has been added",
+      "entity_id": "person:quintus-cicero",
+      "note": "Quintus Cicero had governed the rich province of Asia since 61 BC; his command, meant to be brief, was prorogued a third year to 59 BC, the occasion of this letter of advice. Cicero blames himself for failing to secure a successor."
+    },
+    {
+      "loc": "1",
+      "anchor": "praetors",
+      "entity_id": "office:praetor",
+      "note": "Roman magistrates who, after their year of office in Rome, were assigned provinces to govern; here the praetors at Rome whose support Cicero had hoped would secure Quintus's recall."
+    },
+    {
+      "loc": "6",
+      "anchor": "publicans",
+      "entity_id": "institution:publicani",
+      "note": "The publicani were companies of Roman businessmen who bought, by auction from the censors, the right to collect a province's taxes for profit. In Asia they were politically powerful and a constant source of friction between governor and provincials."
+    },
+    {
+      "loc": "8",
+      "anchor": "the highest command for three years in Asia",
+      "entity_id": "place:asia-province",
+      "note": "Asia, the Roman province organised from the Attalid kingdom of Pergamum after 129 BC, covered western Asia Minor and was the wealthiest of Rome's eastern provinces --- proverbially a place where a governor could enrich himself."
+    },
+    {
+      "loc": "9",
+      "anchor": "guardian, not a tyrant",
+      "entity_id": null,
+      "note": "The contrast frames the ideal Roman governor as a protector of the provincials rather than a plunderer, the central theme of the whole letter."
+    },
+    {
+      "loc": "10",
+      "anchor": "writing history",
+      "entity_id": "person:l-aelius-tubero",
+      "note": "Tubero, the senior legate, was an author of annales (year-by-year history); Cicero jokes that he can find models to imitate in his own pages. (This L. Aelius Tubero is distinct from the Stoic Q. Aelius Tubero of De Re Publica.)"
+    },
+    {
+      "loc": "10",
+      "anchor": "legates",
+      "entity_id": "office:legatus",
+      "note": "Legati were senior senatorial deputies assigned to assist a provincial governor; men of standing who shared in the dignity and the responsibility of the command."
+    },
+    {
+      "loc": "11",
+      "anchor": "whom the lot gave",
+      "entity_id": "office:quaestor",
+      "note": "A governor's quaestor --- his financial officer --- was assigned not by choice but by sortition, so Quintus had no say in the man's character and had to manage him as he found him."
+    },
+    {
+      "loc": "12",
+      "anchor": "cohort",
+      "entity_id": null,
+      "note": "The cohors praetoria was the governor's personal staff and entourage --- friends, attendants, and hangers-on --- for whose conduct, Cicero stresses, the governor was held publicly answerable."
+    },
+    {
+      "loc": "13",
+      "anchor": "seal-ring",
+      "entity_id": null,
+      "note": "The signet ring (anulus) sealed official documents and so authorised them; Cicero urges that it witness Quintus's own will, not be lent out as a tool of others' designs."
+    },
+    {
+      "loc": "13",
+      "anchor": "lictor",
+      "entity_id": "office:lictor",
+      "note": "Lictors were the official attendants who walked before a magistrate with imperium, carrying the fasces and clearing his path; their conduct reflected directly on the governor."
+    },
+    {
+      "loc": "13",
+      "anchor": "fasces and axes",
+      "entity_id": null,
+      "note": "The fasces --- bundled rods, with axes added outside Rome --- were the lictors' emblems of a magistrate's power to compel and to execute; Cicero wants them to signal dignity rather than menace."
+    },
+    {
+      "loc": "17",
+      "anchor": "Appian Way",
+      "entity_id": "place:via-appia",
+      "note": "The Via Appia, Italy's most prestigious highway running south from Rome, stands as the benchmark of orderly travel: Quintus's slaves should behave on the Asian roads as if still on a public road in Italy."
+    },
+    {
+      "loc": "17",
+      "anchor": "Tralles or to Formiae",
+      "entity_id": null,
+      "note": "Tralles was a wealthy city of inland Asia; Formiae a coastal town in Latium where Cicero owned a villa. Pairing them tells the household to treat a provincial city no differently from home soil."
+    },
+    {
+      "loc": "19",
+      "anchor": "a Mysian or rather a Phrygian",
+      "entity_id": "person:paconius-asia",
+      "note": "Mysians and Phrygians were Roman bywords for ignoble, contemptible origin; Cicero dismisses the complainant Paconius as not even a proper Greek but the lowest sort of Anatolian."
+    },
+    {
+      "loc": "21",
+      "anchor": "Gaius Octavius",
+      "entity_id": "person:c-octavius-pater",
+      "note": "C. Octavius, praetor 61 and governor of Macedonia (60 BC), is held up as the model of a judge whose mildness was made possible by underlying severity; he was the father of the future emperor Augustus."
+    },
+    {
+      "loc": "21",
+      "anchor": "Sullan men",
+      "entity_id": "person:sulla",
+      "note": "Beneficiaries of the dictator Sulla's settlement (d. 78 BC), who had seized property and lands by force; Octavius compelled them to give back what they had taken, a politically delicate act of justice."
+    },
+    {
+      "loc": "23",
+      "anchor": "Cyrus of Xenophon",
+      "entity_id": "person:cyrus",
+      "note": "Xenophon's Cyropaedia portrays Cyrus the Great not as history but as an idealised model of the just ruler; it was a touchstone of Greek and Roman thinking on good government."
+    },
+    {
+      "loc": "23",
+      "anchor": "our Africanus",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "Scipio Aemilianus (Africanus the younger, 185-129 BC), conqueror of Carthage and the central figure of Cicero's De Re Publica, was famously devoted to Xenophon's Cyropaedia."
+    },
+    {
+      "loc": "25",
+      "anchor": "the most noble of Ionia",
+      "entity_id": "place:samos",
+      "note": "Samos, the island off the Ionian coast, was reckoned the noblest city of Ionia; Cicero credits Quintus with restoring it and Halicarnassus in Caria from ruin."
+    },
+    {
+      "loc": "25",
+      "anchor": "brigandage of Mysia",
+      "entity_id": "place:mysia",
+      "note": "Mysia, a region of north-western Asia Minor in the province, was plagued by banditry that Quintus is praised for suppressing."
+    },
+    {
+      "loc": "26",
+      "anchor": "aedilician tax",
+      "entity_id": "office:aedile",
+      "note": "Aediles at Rome funded the public games from their own pockets and routinely pressed provincial cities for contributions; Quintus's edict barring such levies for the games freed Asia of a heavy exaction."
+    },
+    {
+      "loc": "26",
+      "anchor": "HS 200,000",
+      "entity_id": null,
+      "note": "Sums in sesterces (HS), the standard Roman unit of account; 200,000 sesterces was a substantial sum, the contribution one Roman noble claimed Quintus's edict had cost him."
+    },
+    {
+      "loc": "29",
+      "anchor": "that prince of talent and learning",
+      "entity_id": "person:plato",
+      "note": "Plato (c. 428-348 BC), whose Republic argues that states flourish only when philosophers rule or rulers philosophise --- the 'philosopher-king' doctrine Cicero applies to Quintus's learned governance of Asia."
+    },
+    {
+      "loc": "31",
+      "anchor": "consecrated and placed among the gods",
+      "entity_id": null,
+      "note": "Greek cities honoured benefactors and Roman governors with cult --- temples, statues, festivals --- treating them almost as gods; Cicero takes such honours to Quintus as genuine and worth preserving."
+    },
+    {
+      "loc": "32",
+      "anchor": "the publicans bring great difficulty",
+      "entity_id": "institution:publicani",
+      "note": "Cicero names the central dilemma: the tax-farming companies were the order to which he owed his political base, yet indulging them ruined the provincials a just governor was bound to protect."
+    },
+    {
+      "loc": "33",
+      "anchor": "tributary",
+      "entity_id": null,
+      "note": "Provincials paid vectigal (tribute) to Rome; Cicero argues the Greeks had long paid tribute under their own kings and to one another, so Roman tax should sting less than they pretend."
+    },
+    {
+      "loc": "35",
+      "anchor": "censorial law",
+      "entity_id": null,
+      "note": "The lex censoria was the standard contract by which the censors at Rome let out the tax-collecting concessions; Cicero hopes the publicani will settle their pacts by convenience rather than the letter of that harsh instrument."
+    },
+    {
+      "loc": "42",
+      "anchor": "theatre",
+      "entity_id": "place:asia-province",
+      "note": "Cicero casts the whole province of Asia as a vast theatre whose verdict on Quintus's conduct will carry all the way back to Rome --- a metaphor for the public scrutiny of a governor's reputation."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Your book has been read",
+      "entity_id": "person:a-caecina-friend",
+      "note": "Caecina was an author as well as Cicero's friend; this is likely his inflammatory pamphlet on the civil war (the Liber Querelarum or a related work), which he had sent for Cicero's safekeeping. The 'most careful guard' hints at the political danger of the text under Caesar's dominance."
+    },
+    {
+      "loc": "2",
+      "anchor": "this fortune of yours, and of the others, cannot be lasting",
+      "note": "Caecina was in exile as a Pompeian after the Battle of Thapsus (46 BC); Cicero is consoling him with the argument that Caesar's victors cannot indefinitely punish good men who fought on the losing side."
+    },
+    {
+      "loc": "3",
+      "anchor": "this man in whose power we stand",
+      "entity_id": "person:caesar",
+      "note": "Caesar, named obliquely in the characteristic Ciceronian periphrasis that was both prudent and revealing: the phrase 'in whose power' (in potestate) acknowledges the revolution without naming it. In 46 BC Caesar was dictator for the second time."
+    },
+    {
+      "loc": "3",
+      "anchor": "the talent of yours by which he is delighted",
+      "entity_id": "person:a-caecina-friend",
+      "note": "Caesar is portrayed as simultaneously admiring Caecina's literary talent and resenting the use to which it had been put against him; the paradox drives Cicero's argument that the same talent will ultimately secure Caecina's pardon."
+    }
+  ]
+}

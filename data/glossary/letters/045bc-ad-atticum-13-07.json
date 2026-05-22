@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "and Theopompus the day before",
+      "entity_id": "person:theopompus-cnidius",
+      "note": "Theopompus of Cnidus, a learned Greek who was a favourite and agent of Caesar; his news here reports Caesar's intention to stay in Rome rather than leave for the East."
+    },
+    {
+      "loc": "1",
+      "anchor": "his own laws would be disregarded",
+      "entity_id": null,
+      "note": "Caesar feared that the body of legislation he had pushed through as dictator would be ignored if he left Rome, citing the way his sumptuary law was already being flouted."
+    },
+    {
+      "loc": "1",
+      "anchor": "just as the sumptuary law had been",
+      "entity_id": "law:lex-iulia-sumptuaria",
+      "note": "Caesar's Lex Iulia sumptuaria, a statute capping private expenditure on luxury and dining; its open neglect is Caesar's example of how his laws lapse in his absence."
+    },
+    {
+      "loc": "1",
+      "anchor": "Lentulus had definitely divorced Metella",
+      "entity_id": "person:p-lentulus-spinther-jr",
+      "note": "P. Cornelius Lentulus Spinther the younger; his divorce from his wife Metella is reported as the latest piece of Roman gossip. Metella herself cannot be matched to a registered entity and is left untagged."
+    }
+  ]
+}

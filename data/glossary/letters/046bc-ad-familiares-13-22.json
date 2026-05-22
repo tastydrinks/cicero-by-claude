@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-22",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "T. Manlius, who carries on business at Thespiae",
+      "entity_id": "person:t-manlius-thespiensis",
+      "note": "Thespiae was a Boeotian city (central Greece) notable for its cult of Eros and proximity to Helicon; it lay outside Achaea proper but within Servius's sphere of influence as proconsul. T. Manlius is otherwise unknown; the phrase negotiatur Thespiis identifies him as a Roman businessman (negotiator) resident in Greece."
+    },
+    {
+      "loc": "1",
+      "anchor": "he is no stranger to our pursuits",
+      "entity_id": null,
+      "note": "\"Our pursuits\" (studia nostra) is Cicero's habitual phrase for literary and philosophical culture; saying a businessman shares these interests is high praise in Ciceronian terms, implying he is not merely a money-man but an educated Roman gentleman."
+    },
+    {
+      "loc": "1",
+      "anchor": "Varro Murena is keenly anxious to do everything for his sake",
+      "entity_id": "person:a-terentius-varro-murena",
+      "note": "\"Varro Murena\" is A. Terentius Varro Murena, who had been adopted into the gens Licinia Murena; he appears in several of Cicero's 46--44 BC letters as an active friend and sometime advocate, and is likely the same man later consul suffect in 23 BC and executed for conspiracy against Augustus."
+    },
+    {
+      "loc": "2",
+      "anchor": "if you assist and dignify T. Manlius as much as ever you can, in whatever ways you can do so honourably and consistently with your standing",
+      "entity_id": null,
+      "note": "The phrase pro tua dignitate (consistently with your standing) is a standard epistolary safeguard: Cicero acknowledges the proconsul cannot do anything improper, but presses him to do as much as his office permits --- a polite framing of a substantial request for official favour."
+    }
+  ]
+}

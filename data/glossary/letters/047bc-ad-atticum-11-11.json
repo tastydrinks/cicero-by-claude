@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-11",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "Publius Sallustius is to be paid the thirty thousand sesterces which I received from Gnaeus Sallustius",
+      "entity_id": "person:cn-sallustius",
+      "note": "Two distinct men: Gnaeus Sallustius, a literary friend of Cicero, had advanced him cash at Brundisium, while Publius Sallustius was the creditor to whom that sum was now owed and to be repaid through Atticus. The transaction shows Cicero's near-destitution while stranded in Italy."
+    },
+    {
+      "loc": "2",
+      "anchor": "the thirty thousand sesterces",
+      "entity_id": null,
+      "note": "The sesterce was the standard unit of Roman accounting; thirty thousand was a modest sum for a man of Cicero's former wealth, a measure of how straitened his cash position had become in exile-like confinement."
+    },
+    {
+      "loc": "2",
+      "anchor": "The other man, in Achaea, does not let up in running me down",
+      "entity_id": "person:quintus-cicero",
+      "note": "\"The other man\" is Cicero's brother Quintus, who had crossed to Achaea (the Greek mainland) and was openly disparaging Cicero to win Caesar's favour. Atticus's efforts to reconcile them had failed."
+    }
+  ]
+}

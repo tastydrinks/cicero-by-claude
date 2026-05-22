@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the verdict in the \\textit{ambitus} case",
+      "entity_id": "law:lex-de-ambitu",
+      "note": "Ambitus was the crime of electoral bribery; this was the second prosecution Appius beat in 50 BC, after the maiestas charge treated in Fam. 3.11."
+    },
+    {
+      "loc": "1",
+      "anchor": "even in the secrecy of the ballot",
+      "note": "Roman juries voted by secret written tablets (tabellae), so a hostile juror could condemn without exposure; Cicero marvels that not even this cover for malice produced a vote against Appius."
+    },
+    {
+      "loc": "2",
+      "anchor": "what has been done in my absence by my people",
+      "note": "A guarded reference to the betrothal of Cicero's daughter Tullia to P. Cornelius Dolabella, arranged by Cicero's household while he was away in Cilicia; the awkwardness is that Dolabella was at that very moment prosecuting Appius."
+    },
+    {
+      "loc": "3",
+      "anchor": "this connection of marriage was announced to me",
+      "note": "The new adfinitas (relationship by marriage) created by Tullia's match with Dolabella; Cicero insists it would only have made him defend Appius more openly, not less."
+    },
+    {
+      "loc": "4",
+      "anchor": "with my year of command now ended",
+      "entity_id": "office:proconsul",
+      "note": "Cicero's annual proconsular imperium over Cilicia expired around 30 July 50 BC, and he was sailing home; provincial commands were normally held for a single year."
+    },
+    {
+      "loc": "4",
+      "anchor": "the fourth day before the Nones of August",
+      "note": "A Roman calendar date reckoned inclusively back from the Nones (5 August), i.e. 2 August 50 BC."
+    },
+    {
+      "loc": "4",
+      "anchor": "Side by ship",
+      "entity_id": "place:sida",
+      "note": "Side, a harbour town on the coast of Pamphylia in southern Asia Minor, a stage on Cicero's voyage home from his province."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-27",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "MATIO",
+      "entity_id": "person:gaius-matius",
+      "note": "Gaius Matius, a learned Roman knight and close friend of both Caesar and Cicero. After the Ides of March he openly mourned Caesar and helped stage the young Caesar's victory games, drawing the reproach this letter answers."
+    },
+    {
+      "loc": "4",
+      "anchor": "compelled me to set out to Pompey",
+      "entity_id": null,
+      "note": "Cicero joined Pompey's camp in Greece in 49 BC after long hesitation, against the wishes of Caesar and Caesar's agents; the move he recalls here as forced by honour and duty."
+    },
+    {
+      "loc": "7",
+      "anchor": "cast your vote for that law",
+      "entity_id": null,
+      "note": "Matius was rumoured to have voted for one of Antony's measures of 44 BC (probably the agrarian law or a law confirming Caesar's acts); Cicero says he refused to believe the charge. The specific statute is not named."
+    },
+    {
+      "loc": "7",
+      "anchor": "as about your management of the games",
+      "entity_id": null,
+      "note": "Matius had organised the ludi Victoriae Caesaris, the games for Caesar's victory mounted by the young Caesar (Octavian) in July 44 BC; critics read his participation as Caesarian partisanship."
+    },
+    {
+      "loc": "8",
+      "anchor": "if Caesar was a king",
+      "entity_id": "person:caesar",
+      "note": "The crux of the post-assassination debate: whether Caesar's dictatorship amounted to monarchy (regnum), which would justify the Liberators' \"liberty of one's country above the life of a friend\" against Matius's plea of personal loyalty."
+    }
+  ]
+}

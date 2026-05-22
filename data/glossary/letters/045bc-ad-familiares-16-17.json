@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "as Theophrastus would have it, a modest metaphor",
+      "entity_id": "person:theophrastus",
+      "note": "Theophrastus, Aristotle's successor as head of the Peripatos, wrote on style; Cicero invokes his doctrine that a metaphor should be modest and apt. The whole letter is a playful lesson on usage, treating Tiro as the standard (kanon) of Cicero's Latin."
+    },
+    {
+      "loc": "2",
+      "anchor": "Thank you for the trouble you have taken over Cuspius",
+      "entity_id": "person:p-cuspius",
+      "note": "Publius Cuspius, an equestrian friend of Cicero with business in the African tax-farming companies, on whose behalf Cicero repeatedly wrote letters of recommendation."
+    }
+  ]
+}

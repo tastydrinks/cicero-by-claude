@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "my candidacy",
+      "entity_id": "office:consul",
+      "note": "Cicero is canvassing for the consulship of 63 BC, the supreme annual magistracy held by two colleagues. As a 'new man' without consular ancestors, his canvass (petitio) depended on counting friends and tracking rivals, which is what this letter does."
+    },
+    {
+      "loc": "1",
+      "anchor": "without disguise or trickery, in the old way",
+      "entity_id": null,
+      "note": "More maiorum: voters were rebuffing Galba's premature canvassing openly and bluntly, as old custom allowed, rather than with polite evasions. The point is that the refusals named Cicero as the man they were already pledged to."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the Field at the tribunician elections",
+      "entity_id": "place:campus-martius",
+      "note": "The Campus Martius outside the city walls, where the comitia met to elect magistrates; the tribunician elections of mid-65 drew a crowd Cicero could begin to work. Formal canvassing for the consulship customarily opened about a year before the vote."
+    },
+    {
+      "loc": "1",
+      "anchor": "the seventeenth day before the Kalends of Sextilis",
+      "entity_id": null,
+      "note": "A Roman inclusive-counting date formula: counting back from the Kalends (first) of Sextilis (the old name for August, before it was renamed for Augustus), this is 17 July 65 BC. Romans dated by counting toward the next Kalends, Nones, or Ides."
+    },
+    {
+      "loc": "1",
+      "anchor": "that judicial kingship of his",
+      "entity_id": "person:c-aquilius-gallus",
+      "note": "Aquilius Gallus was the leading jurist of the day; his unrivalled authority in the courts (regnum iudiciale) gave him a pretext for declining a consular bid. The phrase is half-admiring, half-mocking."
+    },
+    {
+      "loc": "1",
+      "anchor": "if it shall have been judged that the sun does not shine at noon",
+      "entity_id": null,
+      "note": "A sardonic joke: Catiline faced trial for extortion in his province of Africa, and only an absurd acquittal --- a court ruling against the obvious --- would clear him to stand. He was in fact acquitted and did become a candidate."
+    },
+    {
+      "loc": "2",
+      "anchor": "curator of the Via Flaminia",
+      "entity_id": "place:via-flaminia",
+      "note": "A curator viae was a magistrate charged with maintaining one of the great public roads; the post kept Thermus before the public eye, an asset to a candidate. The Via Flaminia ran north from Rome to the Adriatic."
+    },
+    {
+      "loc": "2",
+      "anchor": "as a legate to Piso",
+      "entity_id": "person:c-calpurnius-piso-frugi",
+      "note": "Cicero contemplated taking a legatio (a salaried staff post) under C. Calpurnius Piso, consul of 67 and proconsul of Cisalpine and Narbonese Gaul, partly to court Gallic voters whose votes 'count for much.' This Piso is the provincial governor, not the consuls of 61 or 58 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "the foreman if the goods went up for sale",
+      "entity_id": "person:l-pontius-magister",
+      "note": "The magister bonorum (vendendorum) presided over the auction of an insolvent debtor's confiscated estate on the creditors' behalf. Cicero calls the suggestion ridiculous because the affair was nowhere near so grand."
+    },
+    {
+      "loc": "3",
+      "anchor": "to attend on his side",
+      "entity_id": null,
+      "note": "To 'attend' (adesse) in court meant to appear as an advocate or supporter for a party. Cicero felt unable to plead against Satyrus, who had aided his canvass, hence the awkwardness he explains to Atticus."
+    },
+    {
+      "loc": "5",
+      "anchor": "Your Hermathena",
+      "entity_id": "god:mercurius",
+      "note": "A composite herm combining Hermes (Mercury) and Athena (Minerva), procured by Atticus for the gymnasium-and-library Cicero called his 'Academy' at his Tusculan villa. Hermes suited any gymnasium; Athena/Minerva was the special patron of Cicero's."
+    },
+    {
+      "loc": "5",
+      "anchor": "the whole gymnasium seems an offering",
+      "entity_id": null,
+      "note": "Cicero fashions a private gymnasium --- a Greek-style colonnaded space for cultured leisure --- at his villa and adorns it with statuary as if it were a dedicated sanctuary (anathema, a votive offering) to the Hermathena."
+    }
+  ]
+}

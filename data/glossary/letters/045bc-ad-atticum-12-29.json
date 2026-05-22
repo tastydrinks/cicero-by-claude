@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-29",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I shall have to look for some excuse to Brutus",
+      "entity_id": "person:brutus",
+      "note": "Marcus Brutus had been pressing visits and consolation on the grieving Cicero, who wanted solitude at this time. The 'excuse' is a polite pretext to avoid a meeting without giving offence."
+    },
+    {
+      "loc": "2",
+      "anchor": "About the gardens, please bring it to a head",
+      "entity_id": null,
+      "note": "The horti are suburban pleasure-gardens (with a villa) across the Tiber that Cicero is hunting throughout book 12 as the site for a fanum, a shrine to his dead daughter Tullia. The whole letter turns on the financing and rival owners of these plots."
+    },
+    {
+      "loc": "2",
+      "anchor": "if that Faberian business is cleared up",
+      "entity_id": "person:faberius",
+      "note": "The nomen Faberianum: a large sum owed to Cicero by Faberius, one of Caesar's secretaries. Cicero hopes to liquidate this asset to pay cash down for the gardens, which is why Oppius and Balbus, as Caesarian financiers, must be enlisted."
+    },
+    {
+      "loc": "2",
+      "anchor": "that ``thing to grow old in''",
+      "entity_id": null,
+      "note": "Cicero quotes back two Greek tags Atticus had used --- engeērama, a place to grow old in, and entaphion, a place to be buried in --- wryly recognizing that the gardens he means to buy will serve both as retreat and as the site of Tullia's shrine."
+    }
+  ]
+}

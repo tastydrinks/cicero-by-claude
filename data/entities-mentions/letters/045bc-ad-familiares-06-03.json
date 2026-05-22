@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-03",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "A. TORQVATO",
+      "entity_id": "person:a-manlius-torquatus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "A. TORQVATO",
+      "entity_id": "person:a-manlius-torquatus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "*)aqh/nas",
+      "entity_id": "place:athenae",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Athens",
+      "entity_id": "place:athenae",
+      "in": "eng"
+    }
+  ]
+}

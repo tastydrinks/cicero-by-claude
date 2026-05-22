@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I have been excused before Appuleius",
+      "entity_id": "person:m-appuleius",
+      "note": "The named men --- Laterensis, Naso, Laenas, Torquatus, Strabo --- were fellow augurs who formally certified Cicero's excused absence to Appuleius, the presiding augur. The college required colleagues to vouch for an absent member's leave."
+    },
+    {
+      "loc": "1",
+      "anchor": "I stood surety for Cornificius more than twenty-five years ago",
+      "entity_id": "person:q-cornificius",
+      "note": "Cicero is being dunned over an old sponsio --- a surety bond by which he allegedly guaranteed another man's debt --- supposedly contracted before his aedileship of 69 BC. He doubts the claim and asks Atticus to check the co-sureties' account-books."
+    },
+    {
+      "loc": "1",
+      "anchor": "Appuleius the auctioneer a generous one",
+      "entity_id": "person:m-appuleius",
+      "note": "A praediator was a dealer who bought up and pursued debts secured on property pledged to the treasury. The phrase puns on the augur Appuleius, who in this financial role would press the old surety claim."
+    }
+  ]
+}

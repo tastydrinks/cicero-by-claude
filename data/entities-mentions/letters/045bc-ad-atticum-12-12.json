@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-12",
+  "mentions": [
+    {"loc": "1", "surface": "Balbi regia condicio est delegandi", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "Insula Arpinas habere potest germanam", "entity_id": "place:arpinum", "in": "lat"},
+    {"loc": "1", "surface": "Balbus's terms for assigning the debt are princely", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "The island at Arpinum could afford a true", "entity_id": "place:arpinum", "in": "eng"},
+    {"loc": "2", "surface": "de Epicuro, ut voles", "entity_id": "person:epicurus", "in": "lat"},
+    {"loc": "2", "surface": "About Epicurus, as you wish", "entity_id": "person:epicurus", "in": "eng"}
+  ]
+}

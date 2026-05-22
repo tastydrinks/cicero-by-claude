@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO MEMMIO S.",
+      "entity_id": "person:c-memmius",
+      "note": "A second brief letter of recommendation to the same C. Memmius in exile at Athens. S. = salutem dicit, \"sends greetings.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "A. Fufius, one of my closest friends",
+      "entity_id": "person:a-fufius",
+      "note": "A. Fufius is otherwise little known; Cicero describes him as a learned man (eruditum hominem) of high character, one of his intimate circle (ex meis intimis). The letter asks only that Memmius treat him as he had promised to do in a prior face-to-face conversation."
+    },
+    {
+      "loc": "1",
+      "anchor": "in the way you assured me in person you would",
+      "entity_id": null,
+      "note": "Roman letters of recommendation typically followed up on prior verbal assurances; Cicero is holding Memmius to a promise made at an earlier meeting, making the letter more a formal record of the commitment than a fresh request."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "it matters greatly to my standing that I reach the city as soon as possible",
+      "entity_id": "place:roma",
+      "note": "Cicero is hurrying home from his Cilician governorship in late 50 BC, hoping to be voted a triumph; \"the city\" is Rome, which a commander seeking a triumph could not enter until the vote, but which he needed to reach before the political crisis deepened."
+    },
+    {
+      "loc": "1",
+      "anchor": "I have sent Marion to you",
+      "entity_id": "person:mario-servus",
+      "note": "Mario (Greek \"Marion\") is a slave-courier of Cicero's household, shuttled between Cicero and the sick Tiro to carry letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "stay on a little at Patrae",
+      "entity_id": "place:patrae",
+      "note": "Patrae, a port in Achaea, is where Cicero left the ailing Tiro in the care of local friends; the whole of book 16's opening run of letters concerns his recovery there."
+    },
+    {
+      "loc": "2",
+      "anchor": "you will catch us at Leucas",
+      "entity_id": "place:leucas",
+      "note": "Leucas, an island town off Acarnania, was the next stage on Cicero's homeward sea route; Tiro could rejoin the party there if he sailed at once."
+    },
+    {
+      "loc": "3",
+      "anchor": "The third day before the Nones",
+      "note": "A Roman calendar date, counted inclusively backward from the Nones (here the Nones of November, the 5th); the third day before is thus 3 November 50 BC."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Sampsiceramus",
+      "entity_id": "person:pompey",
+      "note": "Cicero's mocking nickname for Pompey, after Sampsiceramus, the petty Arab dynast of Emesa whom Pompey had dealt with on his Eastern campaign. The name brands Pompey as an Oriental despot fitting up a tyranny."
+    },
+    {
+      "loc": "1",
+      "anchor": "that sudden joining of marriage",
+      "entity_id": null,
+      "note": "The marriage of Pompey to Caesar's daughter Julia in 59 BC, which sealed the political alliance of the \"three-headed\" coalition. Cicero reads it, with the Campanian land and the lavish spending, as a sign that worse is being prepared."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Campanian land",
+      "entity_id": "place:ager-campanus",
+      "note": "The fertile public land of Campania, distributed to settlers under Caesar's second agrarian law (the lex Campana) of 59 BC. Its alienation, long resisted as a last reserve of state revenue, was a flashpoint of the year."
+    },
+    {
+      "loc": "1",
+      "anchor": "before the Ides of May",
+      "entity_id": null,
+      "note": "13 May 59 BC. The Ides fell on the 15th in March, May, July and October, on the 13th in other months; Romans counted days inclusively backward from the fixed point."
+    },
+    {
+      "loc": "3",
+      "anchor": "from Theophanes",
+      "entity_id": "person:theophanes",
+      "note": "Theophanes of Mytilene, the Greek historian and intimate adviser of Pompey, who recorded his patron's campaigns and was his confidential agent. Cicero hopes to sound out Pompey's mood toward him through Theophanes."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Arabarch",
+      "entity_id": "person:pompey",
+      "note": "Another sneering byname for Pompey (the title of the Egyptian customs-official who taxed Arab trade), again casting him as an Eastern potentate grown rich on conquest."
+    }
+  ]
+}

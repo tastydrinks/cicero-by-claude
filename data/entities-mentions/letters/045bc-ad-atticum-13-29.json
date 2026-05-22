@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-29",
+  "mentions": [
+    {"loc": "1", "surface": "ex Chrysippo", "entity_id": "person:chrysippus-vettius", "in": "lat"},
+    {"loc": "1", "surface": "in Tusculano fecimus", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "si Faberius nobis nomen illud explicat", "entity_id": "person:faberius", "in": "lat"},
+    {"loc": "1", "surface": "Othonem vincas volo", "entity_id": "person:otho", "in": "lat"},
+    {"loc": "1", "surface": "from Chrysippus", "entity_id": "person:chrysippus-vettius", "in": "eng"},
+    {"loc": "1", "surface": "the one we made at Tusculum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "if Faberius clears that debt for us", "entity_id": "person:faberius", "in": "eng"},
+    {"loc": "1", "surface": "I want you to outbid Otho", "entity_id": "person:otho", "in": "eng"},
+    {"loc": "2", "surface": "si Faberianum explicas", "entity_id": "person:faberius", "in": "lat"},
+    {"loc": "2", "surface": "Clodiam igitur", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "2", "surface": "Dolabellae nomen tam expeditum", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "2", "surface": "puto futuram Faberianam", "entity_id": "person:faberius", "in": "lat"},
+    {"loc": "2", "surface": "Ciceronis epistulam tibi remisi", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "2", "surface": "If you clear the Faberian business", "entity_id": "person:faberius", "in": "eng"},
+    {"loc": "2", "surface": "Clodia's, then", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "2", "surface": "the Dolabella debt looks so available", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "2", "surface": "will be the Faberian business", "entity_id": "person:faberius", "in": "eng"},
+    {"loc": "2", "surface": "I have sent Cicero's letter back to you", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "3", "surface": "in Cumanum hodie misi tabellarium", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "3", "surface": "tuas ad Vestorium", "entity_id": "person:c-vestorius", "in": "lat"},
+    {"loc": "3", "surface": "quas Pharnaci dederas", "entity_id": "person:pharnaces-atticianus", "in": "lat"},
+    {"loc": "3", "surface": "I have sent a courier to Cumae today", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "3", "surface": "your letter to Vestorius", "entity_id": "person:c-vestorius", "in": "eng"},
+    {"loc": "3", "surface": "which you had given to Pharnaces", "entity_id": "person:pharnaces-atticianus", "in": "eng"}
+  ]
+}

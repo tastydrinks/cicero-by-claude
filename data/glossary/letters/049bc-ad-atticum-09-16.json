@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "that famous clemency of his at Corfinium",
+      "entity_id": "place:corfinium",
+      "note": "At Corfinium in February 49 BC Caesar captured the Pompeian garrison under L. Domitius Ahenobarbus and pointedly released the senators unharmed; this celebrated act of clementia was the cornerstone of his propaganda, which Cicero here flatters back to him."
+    },
+    {
+      "loc": "2",
+      "anchor": "``Caesar \\textit{imperator} to Cicero \\textit{imperator}, greeting.",
+      "entity_id": "office:imperator",
+      "note": "The reciprocal salutation imperator to imperator: both men had been hailed imperator by their soldiers and so addressed one another as equals in military honour, a calculated courtesy on Caesar's part during his courtship of Cicero."
+    },
+    {
+      "loc": "2",
+      "anchor": "those whom I let go are said to have made off in order to bring war upon me again",
+      "entity_id": null,
+      "note": "The Pompeian officers freed at Corfinium, chiefly L. Domitius Ahenobarbus, who at once rejoined the war effort; Caesar professes himself unmoved, preferring (he says) that each side act according to its own nature."
+    },
+    {
+      "loc": "3",
+      "anchor": "at hand to me near the City",
+      "entity_id": "place:roma",
+      "note": "\"Near the City\" (ad urbem) means just outside the formal boundary (pomerium) of Rome; a magistrate holding military command, like Caesar or Cicero as imperator, forfeited that command on crossing it, so business was often transacted just beyond the line."
+    }
+  ]
+}

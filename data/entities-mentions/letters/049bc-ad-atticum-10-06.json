@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-06",
+  "mentions": [
+    {"loc": "1", "surface": "in Hispania", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "1", "surface": "whatever happens in Spain", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "2", "surface": "de Quinto filio", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "2", "surface": "About young Quintus", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "3", "surface": "Pompeium", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "3", "surface": "per Illyricum", "entity_id": "place:illyricum", "in": "lat"},
+    {"loc": "3", "surface": "in Galliam", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "3", "surface": "Pompey is setting out for Gaul", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "3", "surface": "by way of Illyricum", "entity_id": "place:illyricum", "in": "eng"},
+    {"loc": "3", "surface": "setting out for Gaul", "entity_id": "place:gallia", "in": "eng"}
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "decrees of the Senate, edicts, stories, rumours",
+      "note": "The contents of the running news-digest (the acta urbana) Caelius hired a man to compile: senatorial decrees, magistrates' edicts, and the daily gossip of the city. This kind of paid clipping-service kept absent governors abreast of Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "the assemblies of the men beyond the Po",
+      "note": "The Transpadane Gauls north of the river Po held Latin rights but not full Roman citizenship; rumours that Caesar might enfranchise them through a comitia were a live and inflammatory issue in 51 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "the succession to the Gallic provinces",
+      "entity_id": "place:gallia",
+      "note": "The question of when and how Caesar's command in Gaul would be handed to a successor; the central constitutional struggle of 51-50 BC that led to civil war. Marcellus's stalling here is the opening move."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Kalends of June",
+      "note": "The first day of June in the Roman calendar (the Kalends being the first of any month). Senate business was routinely postponed to a named future date."
+    },
+    {
+      "loc": "4",
+      "anchor": "the loafers in front of the rostra",
+      "entity_id": "place:rostra",
+      "note": "The subrostrani, idlers who hung about the speaker's platform (the Rostra) in the Forum and traded in rumour; Caelius treats them as an unreliable Roman gossip-mill."
+    },
+    {
+      "loc": "4",
+      "anchor": "running a bathing-business at Baulis",
+      "note": "Caelius's deflating joke: the supposed roadside murderer Q. Pompeius Rufus was in fact reduced to keeping public baths at the seaside resort of Baulis, too poor and starved to kill anyone."
+    }
+  ]
+}

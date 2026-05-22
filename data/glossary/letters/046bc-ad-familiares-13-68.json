@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-68",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. TVLLIVS CICERO P. SERVILIO ISAVRICO PROCOS. CONLEGAE S. P.",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "'CONLEGAE' marks the recipient as Cicero's colleague in the college of augurs; 'PROCOS.' as proconsul of Asia. Unlike the recommendation letters around it, this is a personal, political letter to the younger P. Servilius Isauricus, written soon after he reached his province (c. Sept. 46 BC)."
+    },
+    {
+      "loc": "2",
+      "anchor": "Caesar, our colleague, will see to it",
+      "entity_id": "person:caesar",
+      "note": "Julius Caesar, dictator from 49 BC, here called 'our colleague' as a fellow augur (and Servilius's consular colleague of 48 BC). Cicero's guarded hope that Caesar might leave Rome 'some sort of commonwealth' reflects the uneasy republicanism of his Caesarian-period letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "on account of the danger of letters of that sort",
+      "entity_id": null,
+      "note": "Cicero will not commit his views on high politics to writing for fear of interception: letters were carried by private couriers (tabellarii) and could be opened or seized. The reticence is itself a comment on the constraints of Caesar's ascendancy."
+    },
+    {
+      "loc": "3",
+      "anchor": "that most illustrious man, your father",
+      "entity_id": "person:p-servilius-vatia-isauricus",
+      "note": "The elder P. Servilius Vatia Isauricus (cos. 79 BC, censor 55), conqueror of the Isaurian pirates and a senior consular still living in 46 BC. Cicero promises to look after the old man's interests at Rome on the grounds of long friendship and the favours the family had done him."
+    }
+  ]
+}

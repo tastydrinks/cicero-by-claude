@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-10",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "1", "surface": "magistrum Ciceronum", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "1", "surface": "Ciceronum", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "Ciceronum", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Dionysius, having come to me", "entity_id": "person:m-pomponius-dionysius", "in": "eng"},
+    {"loc": "1", "surface": "as the boys' teacher", "entity_id": "person:m-pomponius-dionysius", "in": "eng"},
+    {"loc": "1", "surface": "the boys' teacher", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "the boys' teacher", "entity_id": "person:q-cicero-the-younger", "in": "eng"}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the fifth day before the Nones of March, Aegypta delivered your letters",
+      "entity_id": "person:aegypta-servus",
+      "note": "The date is 3 March 49 BC, counted back inclusively from the Nones (the 7th). Aegypta was a slave courier in Cicero's service who shuttled letters between him and Atticus."
+    },
+    {
+      "loc": "1",
+      "anchor": "what Vibullius, sent on ahead, is doing",
+      "entity_id": "person:l-vibullius-rufus",
+      "note": "L. Vibullius Rufus was a prefect and trusted agent of Pompey, captured at Corfinium and released by Caesar, then sent ahead by Caesar with overtures; Atticus had been waiting to learn his movements. Cicero notes Caesar in fact never met him."
+    },
+    {
+      "loc": "1",
+      "anchor": "whether Domitius is with the fasces",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "note": "Domitius had been designated Pompeian commander in further Gaul, entitled to the fasces, the bundled rods carried by lictors that marked a magistrate's imperium. The question is whether, after his release at Corfinium, he still held that command and its insignia."
+    },
+    {
+      "loc": "2",
+      "anchor": "the consuls themselves, to whom by ancestral custom it is permitted to enter all the provinces",
+      "entity_id": null,
+      "note": "Cicero distinguishes those with the legal right to leave Italy (those holding imperium, or serving as their legates) from himself, who held none in 49 BC. By more maiorum, ancestral custom, consuls could enter any province; this is why crossing to join Pompey was lawful for the named commanders but not obviously so for a private senator."
+    },
+    {
+      "loc": "2",
+      "anchor": "you might grieve on my behalf, when you saw me being made a laughingstock",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus, Caesar's chief agent, kept writing to Cicero in a coaxing, flattering vein to keep him neutral; Cicero forwards the letter to Atticus as evidence of the humiliating courtship he was subjected to. He resented being handled by Caesar's intermediaries."
+    }
+  ]
+}

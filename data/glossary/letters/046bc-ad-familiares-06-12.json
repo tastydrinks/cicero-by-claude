@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-12",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "the trumpet of the civil war",
+      "entity_id": "person:t-ampius-balbus",
+      "note": "The nickname 'tuba belli civilis' (trumpet of the civil war) was attached to T. Ampius Balbus by Caesar's partisans, evidently because of his vigorous public advocacy for the Pompeian cause, his rhetorical energy, or both; the phrase is otherwise unattested outside this letter."
+    },
+    {
+      "loc": "3",
+      "anchor": "The warrant has not been issued at once",
+      "note": "The diploma was the written authorisation (a kind of passport or safe-conduct) issued by Caesar's office confirming a pardon and permitting the exile to return; its delay was a bureaucratic and political calculation, not a reversal of the pardon itself."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pansa, Hirtius, Balbus, Oppius, Matius, Postumius",
+      "entity_id": "person:vibius-pansa",
+      "note": "Caesar's inner circle of political managers: C. Vibius Pansa and A. Hirtius (future consuls 43 BC), L. Cornelius Balbus (Caesar's secretary and confidant), C. Oppius and C. Matius (agents and literary friends); Postumius here is uncertain, likely a less prominent Caesarian official."
+    },
+    {
+      "loc": "4",
+      "anchor": "your magistracies had fallen at the very turning-points of our common safety",
+      "entity_id": "person:t-ampius-balbus",
+      "note": "Ampius Balbus was tribune 63 BC (during the Catilinarian crisis) and later governed Asia and Cilicia; Cicero flatters him by presenting his entire career as spent at history's hinge-points, the better to console him for the final reversal."
+    },
+    {
+      "loc": "5",
+      "anchor": "handing down to memory the deeds of brave men",
+      "entity_id": "person:t-ampius-balbus",
+      "note": "Ampius Balbus was known as a writer of historical memoirs, including anecdotes about Julius Caesar himself; Cicero pointedly reminds him that a man who celebrates exemplary Romans must himself be prepared to live up to those exempla."
+    },
+    {
+      "loc": "5",
+      "anchor": "there is one refuge: learning and letters",
+      "note": "A signature Ciceronian theme — studia and litterae as the only reliable consolation in political catastrophe — articulated most fully in the Tusculan Disputations (written 45 BC, the year after this letter) and running through all his late philosophical works."
+    }
+  ]
+}

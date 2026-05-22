@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "we should achieve just so much glory and triumph as is necessary",
+      "entity_id": "institution:triumph",
+      "note": "A triumph, the formal victory-parade voted by the Senate, required a real military success; Caelius wishes Cicero a war just big enough to earn one without the genuine danger of a full Parthian invasion."
+    },
+    {
+      "loc": "1",
+      "anchor": "if the Parthian moves at all",
+      "entity_id": "place:parthia",
+      "note": "After the Roman disaster at Carrhae (53 BC) a Parthian counter-invasion of Syria and Cilicia was the standing fear of Cicero's governorship; his single under-strength army could not have held the passes."
+    },
+    {
+      "loc": "2",
+      "anchor": "someone will interpose a veto",
+      "entity_id": "office:tribune",
+      "note": "The tribunician veto (intercessio): any tribune of the plebs could block a senatorial decree or motion by his single 'no,' the procedural lever that kept the provinces question deadlocked for years."
+    },
+    {
+      "loc": "2",
+      "anchor": "the dispute over the Gauls",
+      "entity_id": "place:gallia",
+      "note": "The unresolved question of replacing Caesar in his Gallic command; until it was settled no successor could be named to Cicero in Cilicia either, so the deadlock pinned Cicero in his province."
+    },
+    {
+      "loc": "3",
+      "anchor": "If, with this year passed by, Curio is to be tribune",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "C. Scribonius Curio's tribunate began in December 50 BC; Caelius foresees that he will reopen the whole provinces question, as in fact he did, helping to precipitate the civil war."
+    }
+  ]
+}

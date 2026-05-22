@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-08",
+  "mentions": [
+    {"loc": "1", "surface": "fasciculum ad Vestorium deferendum", "entity_id": "person:c-vestorius", "in": "lat"},
+    {"loc": "1", "surface": "Q. Staberi fundus", "entity_id": "person:q-staberius", "in": "lat"},
+    {"loc": "1", "surface": "in Pompeiano", "entity_id": "place:pompeii", "in": "lat"},
+    {"loc": "1", "surface": "Nolanove", "entity_id": "place:nola", "in": "lat"},
+    {"loc": "1", "surface": "epitomen Bruti Caelianorum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "the packet is delivered to Vestorius", "entity_id": "person:c-vestorius", "in": "eng"},
+    {"loc": "1", "surface": "Q.~Staberius' estate", "entity_id": "person:q-staberius", "in": "eng"},
+    {"loc": "1", "surface": "the territory of Pompeii", "entity_id": "place:pompeii", "in": "eng"},
+    {"loc": "1", "surface": "or Nola", "entity_id": "place:nola", "in": "eng"},
+    {"loc": "1", "surface": "Brutus' epitome of the Caelian annals", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "Panaetius", "entity_id": "person:panaetius", "in": "eng"}
+  ]
+}

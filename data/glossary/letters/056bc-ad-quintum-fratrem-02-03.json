@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the embassies were being put off to the Ides of February",
+      "entity_id": "institution:senate",
+      "note": "By custom February was the month the Senate gave over to hearing foreign embassies (legationes). Their crowding the calendar kept squeezing out the urgent business of the riots and the courts."
+    },
+    {
+      "loc": "1",
+      "anchor": "The young son changed his dress",
+      "entity_id": "person:lentulus-spinther",
+      "note": "When C. Cato moved to strip Lentulus Spinther of his command (and so of the Egyptian commission), Lentulus's son put on mourning dress (mutare vestem) --- the conventional Roman gesture of public distress to win sympathy."
+    },
+    {
+      "loc": "2",
+      "anchor": "Clodius thrown down from the Rostra",
+      "entity_id": "place:rostra",
+      "note": "The Rostra was the speaker's platform in the Forum, named for the ships' beaks (rostra) that adorned it. Clodius had mounted it to answer Pompey before Milo's men drove him off."
+    },
+    {
+      "loc": "2",
+      "anchor": "Clodius set the trial day forward to the Quirinalia",
+      "entity_id": "festival:quirinalia",
+      "note": "The Quirinalia, the festival of Quirinus on 17 February, to which Clodius rescheduled Milo's trial --- and for which both sides massed their gangs."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Senate was at the temple of Apollo, that Pompey might be present",
+      "entity_id": "place:templum-apollinis",
+      "note": "The temple of Apollo lay just outside the pomerium (the city's sacred boundary). The Senate met there so Pompey, who held imperium for his grain command, could attend without forfeiting it by crossing into the city."
+    },
+    {
+      "loc": "3",
+      "anchor": "than Africanus had been, whom C. Carbo had put to death",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "Scipio Aemilianus (Africanus the Younger) died suddenly in 129 BC; rumour blamed the demagogue C. Papirius Carbo. Pompey's pointed comparison cast Crassus as a man who might engineer his death."
+    },
+    {
+      "loc": "5",
+      "anchor": "Cn. Nerius of the Pupinian tribe",
+      "entity_id": "person:cn-nerius",
+      "note": "Roman citizens were registered in voting tribes; naming a man's tribe (here the rural tribus Pupinia) identified him formally. Nerius was the chief accuser (delator) who charged Sestius with electoral bribery."
+    },
+    {
+      "loc": "5",
+      "anchor": "the political clubs and the gangs organized by tribes",
+      "entity_id": "institution:senate",
+      "note": "The sodalitates were political clubs and the decuriati were men enrolled by tribe to deliver votes or violence at the assemblies. The Senate ordered them dissolved and a law passed treating refusal as a violence (de vi) offence."
+    },
+    {
+      "loc": "6",
+      "anchor": "wounds in the temple of Castor",
+      "entity_id": "place:templum-castoris",
+      "note": "The temple of Castor and Pollux in the Forum, often a flashpoint in the street violence of the 50s BC; Sestius had been beaten nearly to death there in 57 and rescued by Bestia's intervention."
+    }
+  ]
+}

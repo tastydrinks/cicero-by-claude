@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I have set out everything in full in the official dispatch",
+      "entity_id": null,
+      "note": "Roman provincial governors sent formal dispatches (litterae publicae or tabulae) to the Senate distinct from private correspondence; Plancus distinguishes this personal note to Cicero from his official report."
+    },
+    {
+      "loc": "1",
+      "anchor": "M. Varisidius, a Roman knight and a close friend of mine",
+      "entity_id": "person:m-varisidius",
+      "note": "A Roman knight (eques Romanus) was a member of the second property-census class, below senators; equites frequently served as officers, agents, and envoys, and Plancus uses Varisidius here as a trusted verbal messenger to supplement the written letter."
+    },
+    {
+      "loc": "2",
+      "anchor": "while others looked to be occupying the ground of glory",
+      "entity_id": null,
+      "note": "Plancus obliquely refers to governors such as Decimus Brutus (besieged at Mutina) who had already declared openly for the Senate; he explains his own strategic delay as a considered choice to maximize impact rather than timidity."
+    },
+    {
+      "loc": "2",
+      "anchor": "the rewards whose prospect you used to spur me to glory",
+      "entity_id": "person:cicero",
+      "note": "Plancus acknowledges Cicero's sustained lobbying campaign in which the orator had urged provincial commanders to declare for the Senate, dangling the prospect of public honours, triumphs, and posthumous gloria."
+    }
+  ]
+}

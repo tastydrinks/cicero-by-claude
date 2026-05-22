@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-73",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO Q. PHILIPPO PROCOS. S.",
+      "entity_id": "person:q-marcius-philippus-procos",
+      "note": "The letter-heading; addressed to Q. Marcius Philippus, proconsul (PROCOS. = proconsule) of an eastern province in the mid-40s BC. The first of two letters to him (Fam. 13.73-74); he is distinct from L. Marcius Philippus, cos. 91."
+    },
+    {
+      "loc": "2",
+      "anchor": "With Antipater of Derbe there subsists, on my side, not only the tie of guest-friendship but the closest familiarity",
+      "entity_id": "person:antipater-derbetes",
+      "note": "Antipater was the dynast of Derbe in Lycaonia, in the interior of southern Asia Minor. Hospitium (guest-friendship) was a formal, hereditary bond of mutual hospitality and obligation between Romans and foreign notables, here reinforced by personal intimacy."
+    },
+    {
+      "loc": "2",
+      "anchor": "I ask you again and again to grant me his sons, who are in your power",
+      "entity_id": null,
+      "note": "Antipater's sons were being held as hostages or prisoners after the proconsul fell out with their father. Cicero asks that they be \"granted\" (condones) to him as a personal favour, while carefully leaving the governor an honourable way to refuse if his standing would suffer."
+    }
+  ]
+}

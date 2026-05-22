@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-10",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "On the Commagenian business",
+      "entity_id": "person:antiochus-of-commagene",
+      "note": "Antiochus I of Commagene, a petty client king on the upper Euphrates, was seeking honours from the Senate; Cicero had blocked the whole package and is now milking the obstruction for influence over Appius."
+    },
+    {
+      "loc": "2",
+      "anchor": "the praetexta he had got in Caesar's consulship",
+      "entity_id": null,
+      "note": "The toga praetexta, the purple-bordered robe of Roman magistrates, had been granted to the Commagenian king as an honorific in 59 BC; Cicero mocks the pretension of a foreign princeling parading in it."
+    },
+    {
+      "loc": "3",
+      "anchor": "Jove the Host, and summon all the Greeks",
+      "entity_id": "god:jupiter",
+      "note": "A playful tag, half-quotation of an epic line: Jupiter Hospitalis was the god guaranteeing the bond of host and guest, and Appius (a noted philhellene) might call on him and on his Greek friends, who had brokered Cicero's reconciliation with Appius."
+    },
+    {
+      "loc": "4",
+      "anchor": "he has written to Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus of Gades, Caesar's chief confidential agent and man of business at Rome, who relayed letters between Caesar in Gaul and his friends in the city."
+    },
+    {
+      "loc": "5",
+      "anchor": "Don't take his joke about his own poverty lightly",
+      "entity_id": "person:caesar",
+      "note": "Caesar had jokingly pleaded poverty; Cicero replies in kind, teasing that Caesar may henceforth draw on the Ciceros' own strong-box --- a banter of intimacy between the two men."
+    }
+  ]
+}

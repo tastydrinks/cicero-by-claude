@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "in the midst of such a conflagration of the state",
+      "entity_id": "person:caesar",
+      "note": "The 'conflagration' is the political crisis of 46 BC: the Republic in ruins after Pharsalus, Caesar's dictatorship consolidating, and the war against the surviving Pompeians still smouldering (Caesar would crush them at Thapsus in April 46). Cicero worries that he and Varro will be criticized for retiring to their books while the state burns."
+    },
+    {
+      "loc": "1",
+      "anchor": "pay no heed to the ignorance of barbarians",
+      "entity_id": null,
+      "note": "Cicero dismisses the gossip of the uncultured as the 'ignorance of barbarians' --- a Greek-derived contrast between the educated (himself and Varro, devoted to learning) and the uncomprehending crowd who would mock their scholarly retirement."
+    },
+    {
+      "loc": "1",
+      "anchor": "our pursuits, somehow, seem now to bear richer fruit than they once bore",
+      "entity_id": null,
+      "note": "A central theme of the Varro letters: deprived of politics, Cicero finds that philosophy and literature now yield deeper consolation than ever, comparing his studies to medicine whose value is felt only in sickness --- the sickness being the loss of the free Republic."
+    },
+    {
+      "loc": "1",
+      "anchor": "in whose own house they are home-born",
+      "entity_id": "place:athenae",
+      "note": "Cicero quotes the Greek proverb 'owls to Athens' (the equivalent of 'coals to Newcastle'): owls were sacred to Athena and abundant in her city, so to bring one there is pointless. He means it is absurd to lecture the supremely learned Varro on matters Varro knows best."
+    }
+  ]
+}

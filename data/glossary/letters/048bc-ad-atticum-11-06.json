@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-06",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the proscription had been sketched out not by name but by class",
+      "entity_id": null,
+      "note": "Cicero alleges that the hardliners in Pompey's camp had planned wholesale confiscations of property by category rather than by named lists, treating all who had remained in Italy as enemies. He cites this menace to justify abandoning their cause."
+    },
+    {
+      "loc": "2",
+      "anchor": "without the lictors the people granted me",
+      "entity_id": "office:lictor",
+      "note": "Lictors were attendants who carried the fasces and escorted a magistrate; Cicero still held the imperium of his Cilician proconsulship of 51 BC, with its escort, and could not legally be stripped of it while uncondemned. Their presence made his movements conspicuous and dangerous."
+    },
+    {
+      "loc": "3",
+      "anchor": "I have written to Oppius and Balbus",
+      "entity_id": null,
+      "note": "C. Oppius and L. Cornelius Balbus were Caesar's two chief agents in Rome, managing his affairs and dispensing his favour in his absence. Cicero works through them to secure Caesar's pardon and the preservation of his standing."
+    },
+    {
+      "loc": "3",
+      "anchor": "let Trebonius and Pansa be brought in",
+      "entity_id": null,
+      "note": "C. Trebonius and C. Vibius Pansa were prominent Caesarians; Cicero wants them to write to Caesar vouching that he acted on the advice of Caesar's own circle, so his return looks sanctioned rather than suspect."
+    },
+    {
+      "loc": "5",
+      "anchor": "About Pompey's end",
+      "entity_id": "person:pompey",
+      "note": "Pompey, defeated at Pharsalus, fled to Egypt and was murdered on landing in late September 48 BC. Cicero, who had served in his camp, grieves the man even while accepting the collapse of his cause."
+    },
+    {
+      "loc": "6",
+      "anchor": "had pledged to himself Hortensius's house, Caesar's gardens, and Baiae",
+      "entity_id": null,
+      "note": "L. Lentulus Crus, consul of 49 and a Pompeian extremist, was said to have earmarked confiscated Caesarian property for himself in advance --- the young Hortensius's town house, Caesar's pleasure-gardens, and villas at the fashionable resort of Baiae. The boast illustrates the rapacity Cicero ascribes to Pompey's side."
+    },
+    {
+      "loc": "6",
+      "anchor": "ask Diochares, Caesar's freedman",
+      "entity_id": "person:diochares",
+      "note": "Diochares, a freedman of Caesar, had just arrived carrying dispatches from Alexandria, where Caesar was caught up in the war with Ptolemy XIII. As a fresh courier from the east he might know the movements of Cicero's estranged brother Quintus."
+    }
+  ]
+}

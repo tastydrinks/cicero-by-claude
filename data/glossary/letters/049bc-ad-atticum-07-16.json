@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-16",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "what was given to Lucius Caesar to take back to him",
+      "entity_id": "person:l-iulius-caesar-son",
+      "note": "L. Caesar (a young kinsman of the dictator) served as the formal go-between in the January 49 negotiations, carrying Caesar's demands to Pompey and the consuls and bringing their written replies back; the exchange is the diplomatic thread running through 7.16-7.19."
+    },
+    {
+      "loc": "2",
+      "anchor": "if he himself comes into the Picenum country",
+      "entity_id": "place:picenum",
+      "note": "Picenum, the Adriatic-coast region north-east of Rome, was Pompey's family heartland and recruiting ground; his hope of rallying it explains his confidence that Cicero might soon return to Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "We were ordered by the consuls to come to Capua on the Nones of February",
+      "entity_id": null,
+      "note": "The consuls of 49 (Lentulus Crus and C. Marcellus) summoned the senators to Capua, the de facto Pompeian command-centre in Campania, for the fifth of February (the February Nones), to coordinate the war effort."
+    }
+  ]
+}

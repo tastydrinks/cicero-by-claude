@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "His judgement of his son-in-law",
+      "entity_id": "person:l-piso",
+      "note": "L. Calpurnius Piso Caesoninus (consul 58) was Caesar's father-in-law, his daughter Calpurnia being Caesar's wife; Cicero expects Piso's disapproval of his son-in-law's course to sting Caesar."
+    },
+    {
+      "loc": "1",
+      "anchor": "born not of a quarrel between citizens but of the audacity of one ruined citizen",
+      "entity_id": null,
+      "note": "Cicero draws a careful distinction: a true civil war springs from a faction-quarrel within the citizen body, whereas this conflict (he charges) arose solely from the recklessness of Caesar, a single bankrupt citizen turning his army on the state."
+    },
+    {
+      "loc": "1",
+      "anchor": "not even Picenum was a known country",
+      "entity_id": "place:picenum",
+      "note": "Picenum, the Adriatic region of east-central Italy, was traditionally Pompeian territory (his family's heartland); Cicero's gibe is that Pompey has so mismanaged the campaign that he does not even know the ground in his own stronghold."
+    },
+    {
+      "loc": "2",
+      "anchor": "All his hope rests on two legions",
+      "entity_id": null,
+      "note": "The two legions were those recalled from Caesar in 50 BC on the pretext of a Parthian war and handed to Pompey; Cicero suspects their loyalty (\"almost not his own\") because they had so recently served under Caesar."
+    },
+    {
+      "loc": "3",
+      "anchor": "best to send them off to Greece",
+      "entity_id": "place:graecia",
+      "note": "Cicero weighs evacuating his son and nephew to Greece, away from the fighting in Italy and toward the safety of Atticus's connections in Epirus and Athens."
+    },
+    {
+      "loc": "3",
+      "anchor": "when Dolabella comes to mind, I breathe a little",
+      "entity_id": "person:dolabella",
+      "note": "P. Cornelius Dolabella, Tullia's husband, was a partisan of Caesar; his standing in the Caesarian camp gave Cicero some reassurance that Tullia and Terentia might be safe even if Rome fell to Caesar."
+    },
+    {
+      "loc": "4",
+      "anchor": "it is more obscure than the number of Plato",
+      "entity_id": "person:plato",
+      "note": "A byword for impenetrable obscurity: the \"nuptial number\" of Plato's Republic (8.546) was already proverbially baffling in antiquity. Cicero says Atticus's riddle of the Oppii is harder still."
+    }
+  ]
+}

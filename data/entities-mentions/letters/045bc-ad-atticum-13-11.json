@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-11",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "observantiae Bruto nostro",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "commodius colere inter nos in Tusculano",
+      "entity_id": "place:tusculum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "omni delectatione Tusculani",
+      "entity_id": "place:tusculum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "of attendance on our friend Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "more conveniently in the Tusculanum",
+      "entity_id": "place:tusculum",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "all the pleasure of the Tusculanum",
+      "entity_id": "place:tusculum",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "si Brutus quid egerit",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "si Servilia venerit",
+      "entity_id": "person:servilia-hortensii",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "if Brutus has done anything",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "if Servilia has come",
+      "entity_id": "person:servilia-hortensii",
+      "in": "eng"
+    }
+  ]
+}

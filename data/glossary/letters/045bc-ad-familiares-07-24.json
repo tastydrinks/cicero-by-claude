@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-24",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Tigellius",
+      "entity_id": "person:tigellius",
+      "note": "A Sardinian singer in Caesar's circle, grandson of Phamea, who had fallen out with Cicero; later a stock figure of caprice in Horace's Satires. Cicero calls him 'more pestilential than his own country' (a swipe at Sardinia's bad reputation)."
+    },
+    {
+      "loc": "1",
+      "anchor": "I am not asleep for everyone.",
+      "entity_id": "person:cipius",
+      "note": "A proverb attributed to one Cipius, who pretended to sleep so as to ignore his wife's infidelity but stayed awake for matters that touched him; Cicero applies it to mean he is at no one's beck and call indiscriminately."
+    },
+    {
+      "loc": "1",
+      "anchor": "Calvus",
+      "entity_id": "person:licinius-calvus",
+      "note": "C. Licinius Macer Calvus, the Atticist orator and neoteric poet (d. c. 47 BC), famed for savage invective verse. Cicero jokes that Tigellius is now wholly the 'property' of Calvus's lampooning tongue."
+    },
+    {
+      "loc": "2",
+      "anchor": "Hipponactean billing",
+      "entity_id": null,
+      "note": "Hipponax of Ephesus (6th c. BC) was the archetype of scurrilous Greek iambic invective; 'Hipponactean' marks Calvus's verse on Tigellius as savage lampoon, advertised like an auctioneer's bill (praeconium)."
+    },
+    {
+      "loc": "2",
+      "anchor": "Sardinians for sale, one worse than the next",
+      "entity_id": null,
+      "note": "A proverb mocking Sardinians as cheap and worthless slaves; Cicero turns it against Tigellius, the Sardinian, and the kinsmen he peddles. The line may quote a comic or satiric source."
+    },
+    {
+      "loc": "2",
+      "anchor": "Cato",
+      "entity_id": "person:cato-minor",
+      "note": "Gallus had written a laudatory pamphlet on Cato of Utica, one of many 'Catos' produced after his suicide in 46 BC (Cicero and Brutus wrote their own; Caesar replied with an Anticato). Cicero is embarrassed not yet to have read his friend's."
+    }
+  ]
+}

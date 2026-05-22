@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-48",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "for Babullius is dead",
+      "entity_id": "person:babullius",
+      "note": "A man whose death in 45 BC left legacies in which Caesar took a twelfth share and Cicero's friend Lepta a third. He is known only from this letter."
+    },
+    {
+      "loc": "1",
+      "anchor": "Caesar comes in for an ounce",
+      "entity_id": null,
+      "note": "Roman inheritances were reckoned in twelfths of the as (the whole estate); the uncia (\"ounce\") was one twelfth, the triens (\"a third\") four twelfths. So Caesar takes one twelfth of Babullius's estate, Lepta a full third."
+    },
+    {
+      "loc": "1",
+      "anchor": "to hold on to the inheritance",
+      "entity_id": null,
+      "note": "Under Caesar a legacy to a man of Lepta's standing could be at risk; entering on (\"holding\") a bequest required a formal act of acceptance, and Lepta fears his right to it may be challenged."
+    },
+    {
+      "loc": "2",
+      "anchor": "the eulogy of Porcia",
+      "entity_id": "person:porcia-bruti",
+      "note": "Porcia, daughter of Cato the Younger and wife of Marcus Brutus; the funeral eulogy (laudatio) is for her, and Cicero has revised his copy before it circulates among the family."
+    },
+    {
+      "loc": "2",
+      "anchor": "to Domitius the younger",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "note": "Cn. Domitius Ahenobarbus the Younger, son of the consul of 54 BC and a relation by marriage of the family mourning Porcia; later consul in 32 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "the eulogies of Marcus Varro and Ollius",
+      "entity_id": null,
+      "note": "Other funeral eulogies for Porcia, by the polymath M. Terentius Varro and by an otherwise unknown Ollius, which Cicero wants to read again. No entity exists for Ollius."
+    }
+  ]
+}

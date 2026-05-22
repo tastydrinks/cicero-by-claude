@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a promissory note to the commander rather than a letter",
+      "entity_id": null,
+      "note": "A jurist's joke at Trebatius's expense: a syngrapha is a bond or IOU. Cicero accuses him of treating his recommendation to Caesar as a cash voucher to be redeemed at once rather than a relationship to be cultivated."
+    },
+    {
+      "loc": "1",
+      "anchor": "Alexandria",
+      "entity_id": "place:alexandria",
+      "note": "Roman financiers had advanced huge sums to Ptolemy Auletes of Egypt; those who chased the debt to Alexandria recovered nothing. Cicero's point is that quick money is an illusion and Trebatius should be patient."
+    },
+    {
+      "loc": "3",
+      "anchor": "as you people are accustomed to write in your books",
+      "entity_id": "person:cornelius-iurisconsultus",
+      "note": "Cicero parodies the citation style of the jurists' handbooks, which appended the agreement of earlier authorities ('Q. Cornelius held the same view'). He pretends to cap his own advice with such a tag."
+    }
+  ]
+}

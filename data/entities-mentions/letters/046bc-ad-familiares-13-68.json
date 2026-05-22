@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-68",
+  "mentions": [
+    {"loc": "1", "surface": "M. TVLLIVS CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. TVLLIVS CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "P. SERVILIO ISAVRICO PROCOS. CONLEGAE", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "lat"},
+    {"loc": "1", "surface": "P. SERVILIO ISAVRICO PROCOS. CONLEGAE", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "eng"},
+    {"loc": "1", "surface": "provinciae", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "your province", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "2", "surface": "Caesari, conlegae nostro", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar, our colleague", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Asiae", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "2", "surface": "Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "3", "surface": "clarissimum virum, patrem tuum", "entity_id": "person:p-servilius-vatia-isauricus", "in": "lat"},
+    {"loc": "3", "surface": "that most illustrious man, your father", "entity_id": "person:p-servilius-vatia-isauricus", "in": "eng"}
+  ]
+}

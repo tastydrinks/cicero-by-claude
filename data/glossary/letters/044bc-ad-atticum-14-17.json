@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the fifth before the Nones of May",
+      "entity_id": null,
+      "note": "Roman dates were counted backwards (inclusively) from three fixed points each month: the Kalends (1st), Nones (5th or 7th), and Ides (13th or 15th). The fifth before the Nones of May is 3 May 44 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "the freedman Demetrius",
+      "entity_id": null,
+      "note": "A freedman carrying Atticus's letter; \"Demetrius\" is too common a freedman's name to bind with confidence to any of the several Demetrii in the corpus, so the surface is left unresolved (flag-not-resolve)."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Buthrotian business",
+      "entity_id": "place:buthrotum",
+      "note": "Buthrotum (modern Butrint, Epirus) was the seat of Atticus's estates; its townsmen faced confiscation of land to settle Caesar's veterans, and Cicero spent much of 44 BC lobbying Antony to spare them. The \"Buthrotian business\" is this recurring effort."
+    },
+    {
+      "loc": "2",
+      "anchor": "Lucius Caesar",
+      "entity_id": "person:l-iulius-caesar-cos64",
+      "note": "L. Iulius Caesar, consul 64 BC and maternal uncle of Mark Antony; a moderate consular whose pessimism about Antony's intentions Cicero here cites with alarm as he found him gravely ill at Naples."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Kalends of June",
+      "entity_id": null,
+      "note": "The Kalends (1st) of June 44 BC, the date set for the Senate meeting at which Antony's land and colony measures (including the Buthrotum case) were to be decided."
+    },
+    {
+      "loc": "3",
+      "anchor": "Quintus the son",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "Quintus Cicero the younger, Cicero's nephew, who in 44 BC attached himself to Antony as a partisan; Cicero repeatedly calls him a lost cause. Distinct from his father, Cicero's brother Quintus."
+    },
+    {
+      "loc": "3",
+      "anchor": "his stepmother Aquilia",
+      "entity_id": "person:aquilia",
+      "note": "Aquilia, the dowered second wife taken (or proposed) by Cicero's brother Quintus; young Quintus's refusal to tolerate her is the surface grievance of the bitter letter, with the dowry the underlying friction."
+    },
+    {
+      "loc": "3",
+      "anchor": "it will be seen to",
+      "entity_id": null,
+      "note": "Renders the Greek tag melesei (\"it will be a care to me / it will be seen to\"), one of Cicero's habitual code-switches into Greek to round off a vexed subject with affected lightness."
+    },
+    {
+      "loc": "6",
+      "anchor": "the unpublished one",
+      "entity_id": null,
+      "note": "Renders the Greek anekdoton (\"not given out,\" unpublished); Cicero means a private, still-unpolished political work he is withholding, fearing it is now more dangerous to attack the Caesarian party with Caesar dead than it was while he lived."
+    },
+    {
+      "loc": "6",
+      "anchor": "About Montanus",
+      "entity_id": "person:l-tullius-montanus",
+      "note": "L. Tullius Montanus, a young companion of Cicero's son at Athens for whose debts Cicero had stood surety; the tangled \"Montanus affair\" recurs across these letters."
+    }
+  ]
+}

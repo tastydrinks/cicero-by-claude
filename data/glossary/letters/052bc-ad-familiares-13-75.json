@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-75",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO T. TITIO T. F. LEG. S. D.",
+      "entity_id": "person:t-titius-legatus",
+      "note": "The letter-heading. T. f. = Titi filius (\"son of Titus\"); LEG. = legatus, a deputy or staff officer, here apparently attached to the grain administration. S. D. = salutem dicit, \"sends greeting.\""
+    },
+    {
+      "loc": "2",
+      "anchor": "both in the place to which he is to convey the grain and in the matter of the timing",
+      "entity_id": "person:c-avianius-flaccus",
+      "note": "C. Avianius Flaccus was a grain-contractor (negotiator in the corn trade); the two concessions Cicero seeks for him are the delivery-point and the schedule for handing over the grain, both points of leverage in fulfilling a state grain contract."
+    },
+    {
+      "loc": "2",
+      "anchor": "for three years while Pompey was in charge of that office",
+      "entity_id": "person:pompey",
+      "note": "Pompey held the cura annonae, an extraordinary five-year commission over the grain supply granted in 57 BC; while he ran it Avianius had been granted the same favourable terms, which Cicero now asks Titius to renew."
+    }
+  ]
+}

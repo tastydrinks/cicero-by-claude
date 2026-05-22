@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "His place at Falernum has always struck me as a suitable inn",
+      "note": "Falernum (ager Falernus) is the famous wine-producing district on the border of Campania and Latium; Macula apparently had a property there that could serve as a way-station (deversorium) for a travelling party, though Cicero doubts it has room enough."
+    },
+    {
+      "loc": "1",
+      "anchor": "your Petrinum",
+      "entity_id": "person:q-paconius-lepta",
+      "note": "Lepta's estate at Petrinum (location uncertain, possibly in Campania), which Cicero visited and evidently valued as a proper country villa for an extended stay, contrasted with the mere overnight usefulness of Macula's farm."
+    },
+    {
+      "loc": "2",
+      "anchor": "some sort of curatorship of the royal games",
+      "note": "After Caesar's conquest of the East, a curatorship (curatio) of the 'royal games' (ludi regii) was a prize Caesarian appointment — oversight of lavish games funded from confiscated royal treasuries. Cicero counsels Lepta not to seek it via Oppius or Balbus, since Caesar's inner circle was already over-subscribed and no one who brought only goodwill (rather than money or concrete usefulness) would get in."
+    },
+    {
+      "loc": "2",
+      "anchor": "the favour (if indeed he learns of you at all)",
+      "entity_id": "person:caesar",
+      "note": "Cicero articulates the asymmetry of favour under a monarchy: when the ruler gives an appointment, the obligation runs entirely toward him, and the recipient is in debt rather than creditor. The observation has a wry edge given Cicero's own situation."
+    }
+  ]
+}

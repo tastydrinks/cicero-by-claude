@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-25",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Hagesaretus of Larisa",
+      "entity_id": "person:hagesaretus-larisaeus",
+      "note": "Hagesaretus (a Thessalian Greek name) is described as the leading citizen (princeps civitatis) of Larisa, the principal city of Thessaly. His prominence in a key Greek city explains both why Cicero cultivated him during his consulship of 63 BC and why Servius Sulpicius, as proconsul of Achaea, could exercise useful patronage over him."
+    },
+    {
+      "loc": "1",
+      "anchor": "distinguished by great benefits at my hand during my consulship",
+      "entity_id": "person:cicero",
+      "note": "Cicero's consulship of 63 BC (during which he suppressed the Catilinarian conspiracy) was the high point of his political career and the moment he first cultivated friendships with Greek notables across the Mediterranean world. The exact benefits he conferred on Hagesaretus are unknown, but Cicero clearly rendered him some political or legal service."
+    },
+    {
+      "loc": "1",
+      "anchor": "the leading citizen of his town",
+      "entity_id": "person:hagesaretus-larisaeus",
+      "note": "Princeps civitatis suae (leading citizen of his city) is a standard Roman honorific for the most prominent local magnate; Larisa was the chief city of Thessaly and its leading man would carry weight with the Roman provincial governor of Achaea."
+    }
+  ]
+}

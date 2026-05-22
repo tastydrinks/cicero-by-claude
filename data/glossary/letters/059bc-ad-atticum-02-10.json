@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a sub-solecism \\textit{[Greek: hyposoloikon]}",
+      "entity_id": null,
+      "note": "Hyposoloikon, \"somewhat solecistic\" --- a touch of bad form. Cicero, posing as a man shunning all luxury, jokes that to detour for the Antium games would be a social grammatical error: travelling \"not only luxuriously but ineptly.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "to show myself \\textit{[Greek: anaphainesthai]}",
+      "entity_id": null,
+      "note": "Anaphainesthai, \"to appear / show oneself.\" Part of Cicero's playful sprinkling of Greek to dress an everyday excuse in mock-philosophical garb."
+    },
+    {
+      "loc": "1",
+      "anchor": "From the Forum of Appius",
+      "entity_id": "place:forum-appii",
+      "note": "Forum Appi, a way-station and market town on the Appian Way some 43 miles south of Rome, founded by the censor Appius Claudius Caecus. Cicero notes the place and hour of dispatch, as travellers did."
+    },
+    {
+      "loc": "1",
+      "anchor": "the fourth hour",
+      "entity_id": null,
+      "note": "Roman daytime was divided into twelve hours from sunrise to sunset; the fourth hour is mid-morning, roughly 9-10 a.m. The varying length of the hour with the season is ignored in such casual notes."
+    },
+    {
+      "loc": "1",
+      "anchor": "from Tres Tabernae",
+      "entity_id": "place:tres-tabernae",
+      "note": "Tres Tabernae (\"Three Taverns\"), another posting-station on the Appian Way near Forum Appi. Cicero mentions an earlier letter sent from there shortly before --- the two stops mark stages of his journey."
+    }
+  ]
+}

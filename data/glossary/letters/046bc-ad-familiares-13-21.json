@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "if I had not been hearing that he is still lingering there at Cibyra, where I left him",
+      "entity_id": "place:cibyra",
+      "note": "Cibyra was a city in Phrygia (south-west Asia Minor), in the conventus of Laodicea; Cicero passed through the region during his Cilician proconsulship (51--50 BC), and the phrase \"where I left him\" shows Avianius accompanied or followed Cicero to that province, staying on for business."
+    },
+    {
+      "loc": "1",
+      "anchor": "M. Aemilius Avianius has shown me regard from his earliest youth",
+      "entity_id": "person:m-aemilius-avianius",
+      "note": "M. Aemilius Avianius is known only from this letter; his cognomen Avianius may indicate family ties to the Italian mercantile family of that name. He was based at Sicyon, a city in Achaea south-west of Corinth, and conducted business in the Greek-speaking east."
+    },
+    {
+      "loc": "2",
+      "anchor": "C. Avianius Hammonius, his freedman, whom indeed I commend to you also on his own account",
+      "entity_id": "person:c-avianius-hammonius",
+      "note": "Hammonius (a name of Egyptian divine origin, from Ammon) was Avianius's freedman and business agent (procurator), acting in his patron's absence to manage the household and estate at Sicyon. On manumission, a freedman took his patron's gentilicium; hence C. Avianius Hammonius."
+    },
+    {
+      "loc": "2",
+      "anchor": "in my most distressing season stood by me with such fidelity and good will, as if he had been freed by my own hand",
+      "entity_id": null,
+      "note": "\"My most distressing season\" (molestissimis temporibus) is likely Cicero's exile in 58--57 BC or the strains of the civil war; the comparison \"as if freed by my own hand\" frames Hammonius's loyalty in terms of the Roman patron--freedman bond, the most intimate tier of Roman personal obligation."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the seventeenth day before the Kalends of May",
+      "entity_id": null,
+      "note": "A Roman date formula (ante diem xvi Kal. Maias), counted inclusively backward from the Kalends (first) of May; this is 16 April. The translation renders the inclusive count literally as \"the seventeenth day.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "the young Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "C. Scribonius Curio the younger (the future tribune of 50 BC), then a brash young man whom Cicero courts as an opponent of the coalition. \"He hates haughty kings\" plays on his contempt for the dynasts dominating the state."
+    },
+    {
+      "loc": "1",
+      "anchor": "you may suppose I am Saufeius",
+      "entity_id": "person:l-saufeius",
+      "note": "L. Saufeius, an Epicurean friend of Atticus famous for philosophical detachment and inactivity. Cicero jokes that in retiring to write history he is as idle as Saufeius --- then caps it: \"Nothing is lazier than I.\""
+    },
+    {
+      "loc": "2",
+      "anchor": "at the Parilia [21 April]",
+      "entity_id": "festival:parilia",
+      "note": "The Parilia (or Palilia), the rustic festival of Pales on 21 April, also celebrated as the traditional birthday of Rome. The bracketed date is editorial, supplied for the reader."
+    },
+    {
+      "loc": "2",
+      "anchor": "that pretty little drinking-cup",
+      "entity_id": null,
+      "note": "Cicero's playful figure (cratera illum delicatum) for Antium, the seaside resort whose games he is being advised to skip; literally \"that elegant mixing-bowl,\" i.e. an enticing draught of luxury to be set aside this season."
+    },
+    {
+      "loc": "2",
+      "anchor": "on the Kalends of May",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; here 1 May. Romans named the three fixed points of each month --- Kalends, Nones, Ides --- and counted other days backward from them."
+    },
+    {
+      "loc": "2",
+      "anchor": "on the fifth day before the Nones of May",
+      "entity_id": null,
+      "note": "The Nones fell on the 7th in May (and in March, July, October), on the 5th in other months; counted inclusively, the fifth day before is 3 May."
+    }
+  ]
+}

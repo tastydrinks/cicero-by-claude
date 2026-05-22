@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-17",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Brutus Attico",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Attico",
+      "entity_id": "person:atticus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Ciceronem",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Antonium",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "pueri",
+      "entity_id": "person:octavian",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Cascae",
+      "entity_id": "person:p-servilius-casca",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Bestiam",
+      "entity_id": "person:bestia-tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Clodius",
+      "entity_id": "person:clodius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Idus Martias",
+      "entity_id": null,
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Nonas Decembris",
+      "entity_id": null,
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Atticus",
+      "entity_id": "person:atticus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the young man",
+      "entity_id": "person:octavian",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Casca",
+      "entity_id": "person:p-servilius-casca",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Bestia",
+      "entity_id": "person:bestia-tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Clodius",
+      "entity_id": "person:clodius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Ides of March",
+      "entity_id": null,
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Nones of December",
+      "entity_id": null,
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cicero noster",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Antoni",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Our Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Antony's war",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Attice",
+      "entity_id": "person:atticus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Flavio nostro",
+      "entity_id": "person:l-flavius-eques",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Atticus",
+      "entity_id": "person:atticus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "our Flavius",
+      "entity_id": "person:l-flavius-eques",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Ciceronem",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Salvidienum",
+      "entity_id": "person:salvidienus-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Salvidienus",
+      "entity_id": "person:salvidienus-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Octavius",
+      "entity_id": "person:octavian",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Ciceronem",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Philippus",
+      "entity_id": "person:l-marcius-philippus",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Antonio",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Octavius",
+      "entity_id": "person:octavian",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Philippus",
+      "entity_id": "person:l-marcius-philippus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Antonio",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Octavio",
+      "entity_id": "person:octavian",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Octavius",
+      "entity_id": "person:octavian",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Atticae nostrae",
+      "entity_id": "person:attica-pomponia",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Porciae meae",
+      "entity_id": "person:porcia-bruti",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "sorores",
+      "entity_id": "person:iunia-tertia",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "sorores",
+      "entity_id": "person:iunia-secunda",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "our Attica",
+      "entity_id": "person:attica-pomponia",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "my Porcia",
+      "entity_id": "person:porcia-bruti",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "my sisters",
+      "entity_id": "person:iunia-tertia",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "my sisters",
+      "entity_id": "person:iunia-secunda",
+      "in": "eng"
+    }
+  ]
+}

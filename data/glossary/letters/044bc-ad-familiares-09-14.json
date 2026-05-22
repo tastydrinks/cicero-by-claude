@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO DOLABELLAE CONSVLI SVO",
+      "entity_id": "person:dolabella",
+      "note": "P. Cornelius Dolabella was Cicero's son-in-law (husband of Tullia); the salutation styles him 'consul,' which fits his suffect consulship of 44 BC rather than 45 BC, under which the letter is conventionally filed. The whole letter congratulates Dolabella on his deed as consul (his violent suppression of the pro-Caesarian disorders in the Forum after the assassination), so it most plausibly belongs to spring 44 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "it was an honor to Agamemnon himself, the king of kings",
+      "entity_id": "person:agamemnon",
+      "note": "Agamemnon, leader of the Greeks at Troy, is the 'king of kings' (Homer's anax andron); Cicero's flattery casts himself as the aged counsellor Nestor to Dolabella's commander, a stock Homeric pairing of seasoned wisdom advising vigorous youth."
+    },
+    {
+      "loc": "3",
+      "anchor": "Lucius Caesar",
+      "entity_id": "person:l-iulius-caesar-cos64",
+      "note": "L. Iulius Caesar, consul 64 BC, was the maternal uncle of Mark Antony ('my sister's son'); a senior republican-leaning consular, here ailing at Naples, he laments that he lacks the influence over his nephew Antony that Cicero has over Dolabella."
+    },
+    {
+      "loc": "3",
+      "anchor": "the one man whom, since your consulship, we can truly call a consul",
+      "entity_id": "person:cicero",
+      "note": "A compliment that doubles back on Cicero himself: L. Caesar ranks Dolabella's consular conduct second only to Cicero's own famous consulship of 63 BC, when he crushed the Catilinarian conspiracy. The flattery binds Cicero's celebrated past to Dolabella's present action."
+    },
+    {
+      "loc": "5",
+      "anchor": "on the Ides of March so much was added to my love",
+      "entity_id": "event:ides-of-march",
+      "note": "The Ides (15th) of March 44 BC, the day Caesar was assassinated by Brutus, Cassius, and the other Liberators. Cicero, an enthusiast for the deed, says his already great affection for Brutus surged on that day, and now likewise for Dolabella's anti-Caesarian violence in the Forum."
+    },
+    {
+      "loc": "7",
+      "anchor": "I have read your speech to the assembly",
+      "entity_id": "person:dolabella",
+      "note": "The contio was a public meeting of the people addressed by a magistrate; Dolabella's speech justified his harsh suppression (he had the rioters who built an altar to Caesar thrown from the Tarpeian rock or crucified). Cicero praises its measured, step-by-step rhetoric for making the severity seem warranted by 'everyone's consent.'"
+    },
+    {
+      "loc": "8",
+      "anchor": "those men through whom liberty's beginning was made",
+      "entity_id": "event:ides-of-march",
+      "note": "A pointed allusion to the Liberators (the assassins of Caesar): Cicero urges Dolabella not merely to protect but actively to honour Brutus, Cassius, and their fellows as the authors of restored freedom, aligning the consul firmly with the republican cause."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-14",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "Plancius",
+      "entity_id": "person:cn-plancius",
+      "note": "Cn. Plancius, quaestor of Macedonia in 58 BC, who sheltered the exiled Cicero in his own household at Thessalonica and pressed him to stay. Cicero later defended him in the Pro Plancio (54 BC)."
+    },
+    {
+      "loc": "2",
+      "anchor": "we shall turn off into Asia",
+      "entity_id": "place:asia-province",
+      "note": "The Roman province of Asia (western Asia Minor), a destination Cicero weighs if his recall stalls; going there would put him farther from Italy. He never made the move, remaining at Thessalonica."
+    },
+    {
+      "loc": "2",
+      "anchor": "Sent the tenth day before the Kalends of August",
+      "entity_id": null,
+      "note": "By inclusive Roman counting, the tenth day before the Kalends (first) of the following month; the Latin dateline names the month Sextilis (later August). Conventionally placed at 23 July 58 BC."
+    }
+  ]
+}

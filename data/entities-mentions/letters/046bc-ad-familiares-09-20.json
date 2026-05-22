@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-20",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "PAETO", "entity_id": "person:l-papirius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PAETO", "entity_id": "person:l-papirius-paetus", "in": "eng"},
+    {"loc": "1", "surface": "Epicuri", "entity_id": "person:epicurus", "in": "lat"},
+    {"loc": "1", "surface": "Epicurus", "entity_id": "person:epicurus", "in": "eng"},
+    {"loc": "2", "surface": "Verrium tuum", "entity_id": "person:verrius", "in": "lat"},
+    {"loc": "2", "surface": "your Verrius", "entity_id": "person:verrius", "in": "eng"},
+    {"loc": "2", "surface": "Camillum", "entity_id": "person:c-furius-camillus", "in": "lat"},
+    {"loc": "2", "surface": "your Camillus", "entity_id": "person:c-furius-camillus", "in": "eng"},
+    {"loc": "2", "surface": "Hirtio", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "2", "surface": "Hirtius", "entity_id": "person:hirtius", "in": "eng"},
+    {"loc": "3", "surface": "in senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "in the Senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

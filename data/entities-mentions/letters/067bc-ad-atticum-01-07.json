@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-07",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "matrem", "entity_id": "person:caecilia-atticus-mother", "in": "lat"},
+    {"loc": "1", "surface": "your mother's", "entity_id": "person:caecilia-atticus-mother", "in": "eng"},
+    {"loc": "1", "surface": "L. Cincio", "entity_id": "person:cincius-agent", "in": "lat"},
+    {"loc": "1", "surface": "Lucius Cincius", "entity_id": "person:cincius-agent", "in": "eng"}
+  ]
+}

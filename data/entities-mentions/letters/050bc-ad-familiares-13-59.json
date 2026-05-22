@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-59",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. CVRTIO PEDVCAEANO PR.", "entity_id": "person:c-curtius-peducaeanus", "in": "lat"},
+    {"loc": "1", "surface": "C. CVRTIO PEDVCAEANO PR.", "entity_id": "person:c-curtius-peducaeanus", "in": "eng"},
+    {"loc": "1", "surface": "M. Fadium", "entity_id": "person:m-fadius", "in": "lat"},
+    {"loc": "1", "surface": "M. Fadius", "entity_id": "person:m-fadius", "in": "eng"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-07",
+  "mentions": [
+    {"loc": "1", "surface": "MARCVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "QVINTO FRATRI", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Appia", "entity_id": "place:via-appia", "in": "lat"},
+    {"loc": "1", "surface": "Appian Way", "entity_id": "place:via-appia", "in": "eng"},
+    {"loc": "1", "surface": "Martis", "entity_id": "place:templum-martis-via-appia", "in": "lat"},
+    {"loc": "1", "surface": "temple of Mars", "entity_id": "place:templum-martis-via-appia", "in": "eng"},
+    {"loc": "1", "surface": "Crassipedis", "entity_id": "person:crassipes", "in": "lat"},
+    {"loc": "1", "surface": "Crassipes's", "entity_id": "person:crassipes", "in": "eng"},
+    {"loc": "1", "surface": "piscinam publicam", "entity_id": "place:piscina-publica", "in": "lat"},
+    {"loc": "1", "surface": "Piscina Publica", "entity_id": "place:piscina-publica", "in": "eng"},
+    {"loc": "1", "surface": "Homeri", "entity_id": "person:homer", "in": "lat"},
+    {"loc": "1", "surface": "Homer", "entity_id": "person:homer", "in": "eng"},
+    {"loc": "1", "surface": "Ζεύς", "entity_id": "god:jupiter", "in": "lat"},
+    {"loc": "1", "surface": "Zeus", "entity_id": "god:jupiter", "in": "eng"},
+    {"loc": "1", "surface": "Gabini", "entity_id": "person:gabinius", "in": "lat"},
+    {"loc": "1", "surface": "Gabinius", "entity_id": "person:gabinius", "in": "eng"},
+    {"loc": "2", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Labienum", "entity_id": "person:t-labienus", "in": "lat"},
+    {"loc": "2", "surface": "Labienus", "entity_id": "person:t-labienus", "in": "eng"},
+    {"loc": "2", "surface": "ligurium", "entity_id": "person:a-ligurius", "in": "lat"},
+    {"loc": "2", "surface": "Ligurius", "entity_id": "person:a-ligurius", "in": "eng"},
+    {"loc": "2", "surface": "Sami", "entity_id": "place:samos", "in": "lat"},
+    {"loc": "2", "surface": "Samos", "entity_id": "place:samos", "in": "eng"}
+  ]
+}

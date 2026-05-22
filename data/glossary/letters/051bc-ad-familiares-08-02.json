@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "by every order, with the votes in each order falling all one way",
+      "note": "A bribery jury was drawn in thirds from senators, knights, and tribuni aerarii (the three 'orders'); Caelius's point is that the scandalous acquittal carried unanimously in all three panels."
+    },
+    {
+      "loc": "1",
+      "anchor": "he comes up under the Lex Licinia",
+      "entity_id": "law:lex-licinia-de-sodaliciis",
+      "note": "Crassus's Lex Licinia de sodaliciis of 55 BC, against the electoral clubs (sodalicia) used to organise bribery; a man acquitted on the general bribery charge could be retried under this stricter law, hence the defendant's worse danger."
+    },
+    {
+      "loc": "1",
+      "anchor": "Hortensius walked into Curio's theatre",
+      "note": "C. Scribonius Curio had built a famous double revolving wooden theatre for his father's funeral games; Hortensius, the great advocate who had secured the unpopular acquittal, was hissed there by an outraged crowd."
+    },
+    {
+      "loc": "1",
+      "anchor": "rope-end hissing",
+      "note": "The image is of theatre rigging: the hissing of the audience is likened to the whistling of a ship's rope-ends in a gale, part of the storm-of-noise metaphor Caelius piles up."
+    },
+    {
+      "loc": "2",
+      "anchor": "the moment you hear of my being elected designate",
+      "entity_id": "office:aedile",
+      "note": "Caelius was standing for the aedileship of 50 BC; an 'aedile designate' was one elected but not yet entered on office. The aedile's chief public duty was staging the games, which is why he immediately raises the panthers."
+    },
+    {
+      "loc": "2",
+      "anchor": "the panthers business",
+      "note": "As aedile Caelius would stage games and wanted exotic beasts; he repeatedly badgers Cicero, as governor of Cilicia near beast-rich Asia, to procure and ship him panthers."
+    },
+    {
+      "loc": "2",
+      "anchor": "the city-news bulletin",
+      "note": "The commentarium rerum urbanarum, the running digest of Roman political and social news that Caelius had commissioned (see 8.1) and forwarded to Cicero in instalments by successive couriers."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-12",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO DOLABELLAE.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO DOLABELLAE.", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "CICERO DOLABELLAE.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CICERO DOLABELLAE.", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "1", "surface": "Baiis nostris", "entity_id": "place:baiae", "in": "lat"},
+    {"loc": "1", "surface": "our friends at Baiae", "entity_id": "place:baiae", "in": "eng"},
+    {"loc": "2", "surface": "oratiunculam pro Deiotaro", "entity_id": "text:cicero-pro-deiotaro", "in": "lat"},
+    {"loc": "2", "surface": "The little speech on behalf of Deiotarus", "entity_id": "text:cicero-pro-deiotaro", "in": "eng"},
+    {"loc": "2", "surface": "Deiotaro", "entity_id": "person:deiotarus-of-galatia", "in": "lat"},
+    {"loc": "2", "surface": "Deiotarus", "entity_id": "person:deiotarus-of-galatia", "in": "eng"}
+  ]
+}

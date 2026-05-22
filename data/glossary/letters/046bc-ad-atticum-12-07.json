@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "written in a set of notes and given to Eros",
+      "entity_id": "person:eros-turius",
+      "note": "Codicilli were small wax tablets used for memoranda and short messages, here carrying Cicero's detailed reply. Eros was an accountant-secretary who handled Cicero's affairs."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the matter of young Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "Cicero's son Marcus, then about eighteen, who wanted to go to Caesar's army in Spain and to receive a larger allowance. His father feared the political censure of sending his son to fight on the Caesarian side after laying down arms himself."
+    },
+    {
+      "loc": "1",
+      "anchor": "what the flamen Lentulus gives his son",
+      "entity_id": null,
+      "note": "Cicero benchmarks his son's allowance against what other fathers settle on their sons, here a Cornelius Lentulus holding one of the flaminates (state priesthoods). The particular flamen cannot be securely identified, nor can the \"Publilius\" cited alongside him."
+    },
+    {
+      "loc": "1",
+      "anchor": "outdone in intimacy and in every kind of favour by his cousin",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "The cousin is young Quintus Cicero, the nephew, already in close standing with Caesar; Latin frater here means cousin. Cicero fears his own son would resent being eclipsed by him."
+    }
+  ]
+}

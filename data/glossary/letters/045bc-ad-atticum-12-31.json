@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-31",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the Coponian villa I do know --- old and not large",
+      "entity_id": null,
+      "note": "A villa once belonging to a Coponius, evidently standing on or near the Drusus gardens; Cicero knows the house and the celebrated wood but not the income either property yields. The owner Coponius is otherwise unidentified here."
+    },
+    {
+      "loc": "2",
+      "anchor": "if I could sell the Faberian asset",
+      "entity_id": "person:faberius",
+      "note": "The nomen Faberianum again: the debt owed to Cicero by Caesar's secretary Faberius, which Cicero treats as the fund for buying the gardens outright. Liquidating it would let him pay cash and close the deal."
+    },
+    {
+      "loc": "2",
+      "anchor": "Hermogenes too can be a great help to us in paying cash down",
+      "entity_id": "person:hermogenes",
+      "note": "Hermogenes is a source of ready money Cicero can tap to make the down payment if the Faberian debt cannot be realized in time. Cash on the nail (repraesentatio) was decisive in these property negotiations."
+    }
+  ]
+}

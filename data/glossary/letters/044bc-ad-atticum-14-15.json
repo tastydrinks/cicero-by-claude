@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "to throw men from the rock",
+      "entity_id": null,
+      "note": "The Tarpeian Rock, the cliff of the Capitol from which traitors and murderers were hurled; Cicero applauds the consul Dolabella for executing in this brutal traditional way the mob that had been venerating Caesar's makeshift altar."
+    },
+    {
+      "loc": "1",
+      "anchor": "to tear down the column",
+      "entity_id": null,
+      "note": "A column and altar to Caesar set up in the Forum by the freedman Herophilus (Amatius) and the people; Dolabella demolished it and dispersed the cult, an act Cicero calls \"heroic.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "our tyrannicides",
+      "entity_id": null,
+      "note": "The Liberators Brutus, Cassius, and their fellow assassins of Caesar; Cicero feared the popular grief for Caesar, if left to fester, would endanger them."
+    },
+    {
+      "loc": "3",
+      "anchor": "our Pilia's villa",
+      "entity_id": "person:pilia",
+      "note": "Pilia, Atticus's wife; Cicero, leaving for Pompeii, is handing the villa and its contents back into her keeping."
+    },
+    {
+      "loc": "3",
+      "anchor": "on the Kalends of May",
+      "entity_id": null,
+      "note": "The first of May (1 May 44 BC), the day Cicero set out for his villa at Pompeii; a calendar date."
+    }
+  ]
+}

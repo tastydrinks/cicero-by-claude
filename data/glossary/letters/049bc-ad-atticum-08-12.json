@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "My eye-inflammation",
+      "entity_id": null,
+      "note": "Cicero suffered repeated bouts of lippitudo, an inflammation of the eyes, through this spring of 49 BC; it is why he dictates the letter rather than writing in his own hand. The complaint recurs as the explicit reason for brevity in the next letter (8.13)."
+    },
+    {
+      "loc": "2",
+      "anchor": "Capua already having been put in my charge",
+      "entity_id": "place:capua",
+      "note": "At the outbreak of war Pompey had assigned Cicero a supervisory command over Capua and the Campanian coast; Cicero here defends his refusal to take it up as prudence rather than cowardice or bad faith."
+    },
+    {
+      "loc": "2",
+      "anchor": "the terms of peace had been brought through Lucius Caesar and Lucius Fabatus",
+      "entity_id": null,
+      "note": "In late January 49 BC Caesar sent L. Julius Caesar (a young kinsman) and L. Roscius Fabatus to Pompey and the consuls with proposals for a negotiated settlement; the talks came to nothing. Cicero notes that he was careful not to antagonise Caesar while the embassy was in play."
+    },
+    {
+      "loc": "2",
+      "anchor": "conferring the consulship and the triumph of a fellow under arms",
+      "entity_id": "person:caesar",
+      "note": "Among the peace terms Pompey was prepared to grant Caesar the consulship and a triumph; Cicero's pointed phrasing stresses that both parties were already armed, so the offer was made under threat rather than in concord."
+    },
+    {
+      "loc": "3",
+      "anchor": "he would come to Domitius's aid",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "note": "L. Domitius Ahenobarbus was besieged by Caesar in Corfinium; Cicero had assumed from Pompey's own letter that Pompey would march to relieve him. Pompey did not, and Corfinium surrendered (mid-February 49 BC) with Domitius captured."
+    },
+    {
+      "loc": "6",
+      "anchor": "the book of Demetrius of Magnesia on concord",
+      "entity_id": "person:demetrius-magnes",
+      "note": "Demetrius of Magnesia was a Greek scholar and friend of Atticus; his treatise On Concord (peri homonoias) was topically apt as the Republic split into civil war. Cicero asks Atticus more than once to forward his copy."
+    }
+  ]
+}

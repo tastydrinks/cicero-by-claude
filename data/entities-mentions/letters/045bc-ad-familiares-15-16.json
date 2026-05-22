@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-16",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "C. CASSIO", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "M. Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. Cassio", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "Catius Insuber", "entity_id": "person:catius-epicureus", "in": "lat"},
+    {"loc": "1", "surface": "Catius the Insubrian", "entity_id": "person:catius-epicureus", "in": "eng"},
+    {"loc": "1", "surface": "spectris Catianis", "entity_id": "person:catius-epicureus", "in": "lat"},
+    {"loc": "1", "surface": "Catian spectres", "entity_id": "person:catius-epicureus", "in": "eng"},
+    {"loc": "1", "surface": "*)epikou/reios", "entity_id": "institution:epicurean-school", "in": "lat"},
+    {"loc": "1", "surface": "an Epicurean", "entity_id": "institution:epicurean-school", "in": "eng"},
+    {"loc": "1", "surface": "tui amici novi", "entity_id": "institution:epicurean-school", "in": "lat"},
+    {"loc": "1", "surface": "your new friends", "entity_id": "institution:epicurean-school", "in": "eng"},
+    {"loc": "1", "surface": "Gargettius", "entity_id": "person:epicurus", "in": "lat"},
+    {"loc": "1", "surface": "the man of Gargettus", "entity_id": "person:epicurus", "in": "eng"},
+    {"loc": "1", "surface": "Democritus", "entity_id": "person:democritus-abdera", "in": "lat"},
+    {"loc": "1", "surface": "Democritus", "entity_id": "person:democritus-abdera", "in": "eng"},
+    {"loc": "2", "surface": "insulam Britanniam", "entity_id": "place:britannia", "in": "lat"},
+    {"loc": "2", "surface": "the island of Britain", "entity_id": "place:britannia", "in": "eng"},
+    {"loc": "3", "surface": "ai(re/sei", "entity_id": "institution:epicurean-school", "in": "lat"},
+    {"loc": "3", "surface": "the school", "entity_id": "institution:epicurean-school", "in": "eng"},
+    {"loc": "3", "surface": "ista ipsa ai(re/sei", "entity_id": "institution:epicurean-school", "in": "lat"},
+    {"loc": "3", "surface": "that very school", "entity_id": "institution:epicurean-school", "in": "eng"}
+  ]
+}

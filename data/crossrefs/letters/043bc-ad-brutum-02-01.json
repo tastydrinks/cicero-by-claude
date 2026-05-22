@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-02-01",
+  "refs": [
+    {
+      "from_loc": "1",
+      "to_work": "philippic-3",
+      "to_loc": null,
+      "kind": "self_reference",
+      "certainty": "low",
+      "note": "Cicero's phrase 'on the day I delivered my motion' refers to one of his Philippic orations in the Senate of 43 BC calling for decisive action against Antony; he regrets that the Senate's decrees passed on his proposal were then delayed in execution."
+    }
+  ]
+}

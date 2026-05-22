@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-03",
+  "mentions": [
+    {"loc": "1", "surface": "Vibonem", "entity_id": "place:vibo-valentia", "in": "lat"},
+    {"loc": "1", "surface": "Vibo", "entity_id": "place:vibo-valentia", "in": "eng"}
+  ]
+}

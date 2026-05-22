@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-10",
+  "mentions": [
+    {"loc": "1", "surface": "graviter ferre de Marcello", "entity_id": "person:m-claudius-marcellus-cos51", "in": "lat"},
+    {"loc": "1", "surface": "tibi Servius quid videtur", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "you take Marcellus' death hard", "entity_id": "person:m-claudius-marcellus-cos51", "in": "eng"},
+    {"loc": "1", "surface": "What is your view of Servius", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "2", "surface": "ad Dolabellam", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "2", "surface": "As to Dolabella", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "3", "surface": "Brutus si quid egerit", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "3", "surface": "hodie Spintherem exspecto", "entity_id": "person:p-lentulus-spinther-jr", "in": "lat"},
+    {"loc": "3", "surface": "misit enim Brutus ad me", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "3", "surface": "purgat Caesarem de interitu Marcelli", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "de interitu Marcelli", "entity_id": "person:m-claudius-marcellus-cos51", "in": "lat"},
+    {"loc": "3", "surface": "cum de Magio constet", "entity_id": "person:p-magius-cilo", "in": "lat"},
+    {"loc": "3", "surface": "ipsi Magio quae fuerit causa amentiae", "entity_id": "person:p-magius-cilo", "in": "lat"},
+    {"loc": "3", "surface": "eum petisse a Marcello aliquid", "entity_id": "person:m-claudius-marcellus-cos51", "in": "lat"},
+    {"loc": "3", "surface": "If Brutus does anything", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "I am waiting for Spinther", "entity_id": "person:p-lentulus-spinther-jr", "in": "eng"},
+    {"loc": "3", "surface": "Brutus has sent him to me", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "he clears Caesar of Marcellus' death", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "clears Caesar of Marcellus' death", "entity_id": "person:m-claudius-marcellus-cos51", "in": "eng"},
+    {"loc": "3", "surface": "with the case against Magius established", "entity_id": "person:p-magius-cilo", "in": "eng"},
+    {"loc": "3", "surface": "what cause of derangement Magius himself had", "entity_id": "person:p-magius-cilo", "in": "eng"},
+    {"loc": "3", "surface": "asked Marcellus for something and Marcellus", "entity_id": "person:m-claudius-marcellus-cos51", "in": "eng"}
+  ]
+}

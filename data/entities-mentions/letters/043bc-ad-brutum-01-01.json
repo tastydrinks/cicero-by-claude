@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-01",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "L. Clodius", "entity_id": "person:l-clodius-trib-pl-43", "in": "lat"},
+    {"loc": "1", "surface": "L. Clodius", "entity_id": "person:l-clodius-trib-pl-43", "in": "eng"},
+    {"loc": "1", "surface": "tribunus plebis designatus", "entity_id": "office:tribune", "in": "lat"},
+    {"loc": "1", "surface": "tribune of the plebs designate", "entity_id": "office:tribune", "in": "eng"},
+    {"loc": "1", "surface": "Antoni beneficio", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Antony's", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "Clodium", "entity_id": "person:l-clodius-trib-pl-43", "in": "lat"},
+    {"loc": "2", "surface": "Clodius", "entity_id": "person:l-clodius-trib-pl-43", "in": "eng"}
+  ]
+}

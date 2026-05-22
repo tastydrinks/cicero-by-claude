@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-60",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. MVNATIO C. F.", "entity_id": "person:c-munatius", "in": "lat"},
+    {"loc": "1", "surface": "C. MVNATIO C. F.", "entity_id": "person:c-munatius", "in": "eng"},
+    {"loc": "1", "surface": "L. Livineius Trypho", "entity_id": "person:l-livineius-trypho", "in": "lat"},
+    {"loc": "1", "surface": "L. Livineius Trypho", "entity_id": "person:l-livineius-trypho", "in": "eng"},
+    {"loc": "1", "surface": "L. Reguli", "entity_id": "person:l-regulus", "in": "lat"},
+    {"loc": "1", "surface": "L. Regulus", "entity_id": "person:l-regulus", "in": "eng"},
+    {"loc": "1", "surface": "libertum eius", "entity_id": "person:l-livineius-trypho", "in": "lat"},
+    {"loc": "1", "surface": "the freedman", "entity_id": "person:l-livineius-trypho", "in": "eng"}
+  ]
+}

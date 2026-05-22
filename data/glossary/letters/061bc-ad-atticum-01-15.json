@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "fallen by lot",
+      "entity_id": "place:asia-province",
+      "note": "Provincial commands were assigned to outgoing magistrates by lot (sortitio). Quintus Cicero, as propraetor, drew Asia, the wealthy province in western Anatolia, which he would govern 61--58 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "lovers of Greece",
+      "entity_id": null,
+      "note": "Philhellenes: the brothers' professed devotion to Greek culture, which Cicero invokes to urge Quintus toward a just and humane administration of the Greek-speaking province."
+    },
+    {
+      "loc": "2",
+      "anchor": "Brundisium",
+      "entity_id": "place:brundisium",
+      "note": "The chief Adriatic port of Italy (modern Brindisi), standard point of embarkation for travellers crossing to Greece and the East; Atticus had sailed from here toward Epirus."
+    },
+    {
+      "loc": "2",
+      "anchor": "The Ides of March",
+      "entity_id": null,
+      "note": "The Ides fell on the 15th of March; here the dateline of the letter, 15 March 61 BC. (Famous for an event still twenty-seven years in the future.)"
+    }
+  ]
+}

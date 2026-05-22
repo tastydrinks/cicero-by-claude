@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-11",
+  "mentions": [
+    {"loc": "1", "surface": "D. BRVTVS IMR COS. DES.", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTVS IMR COS. DES.", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "COS. DES.", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "COS. DES.", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Antonius", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "1", "surface": "Lepidum", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "1", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "1", "surface": "Planco", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "Asinium", "entity_id": "person:asinius-pollio", "in": "lat"},
+    {"loc": "1", "surface": "Asinius", "entity_id": "person:asinius-pollio", "in": "eng"},
+    {"loc": "1", "surface": "Lepidum", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "1", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "1", "surface": "Plancum", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "Plancum", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "Allobrogibus", "entity_id": "group:allobroges", "in": "lat"},
+    {"loc": "1", "surface": "Allobroges", "entity_id": "group:allobroges", "in": "eng"},
+    {"loc": "1", "surface": "Galliae", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "1", "surface": "Gaul", "entity_id": "place:gallia", "in": "eng"},
+    {"loc": "2", "surface": "Statiellensium", "entity_id": "place:statiellenses", "in": "lat"},
+    {"loc": "2", "surface": "Statiellenses", "entity_id": "place:statiellenses", "in": "eng"}
+  ]
+}

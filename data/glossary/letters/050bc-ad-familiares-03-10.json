@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the most assured and most rightful triumph",
+      "entity_id": "institution:triumph",
+      "note": "The triumph was the formal victory procession through Rome granted by the Senate to a victorious commander; Appius had hoped for one for his campaigns as governor of Cilicia, but his enemies' prosecutions cost him the honour."
+    },
+    {
+      "loc": "1",
+      "anchor": "of a commander by his weight",
+      "entity_id": "office:imperator",
+      "note": "Cicero, as the sitting governor (imperator) of Cilicia, the very province Appius had just left, offers to throw the authority of his office behind Appius's defence."
+    },
+    {
+      "loc": "3",
+      "anchor": "you so conduct the censorship",
+      "entity_id": "office:censor",
+      "note": "The censorship was the most prestigious Roman magistracy, held every five years: the censors enrolled citizens, let public contracts, and policed senatorial morals (the regimen morum). Appius was standing for it and was elected censor for 50 BC."
+    },
+    {
+      "loc": "6",
+      "anchor": "the Epictetus region",
+      "entity_id": "place:phrygia-epictetus",
+      "note": "Phrygia Epictetus (\"Acquired Phrygia\"), a district of Phrygia in the province of Asia attached to Cicero's command; its communities had complained of the cost of the embassies they were asked to fund."
+    },
+    {
+      "loc": "6",
+      "anchor": "the Cornelian law",
+      "entity_id": "law:lex-cornelia-de-sumptu-legatorum",
+      "note": "A statute of Sulla capping the travelling allowances a province could vote to embassies sent to Rome; Cicero says he merely advised the towns to keep their grants close to this legal ceiling, not below it."
+    },
+    {
+      "loc": "9",
+      "anchor": "the most ample college of priests",
+      "entity_id": "institution:college-of-augurs",
+      "note": "The college of augurs, to which both Cicero and Appius belonged; by its rule a man at enmity with a member could not be co-opted, so membership was itself a pledge of friendship between augurs."
+    },
+    {
+      "loc": "10",
+      "anchor": "your daughter's father-in-law",
+      "entity_id": "person:pompey",
+      "note": "Pompey's son Gnaeus had married Appius's daughter, making Pompey and Appius connections by marriage (adfinitas); Cicero leans on his own debt to Pompey to bind himself to Appius."
+    },
+    {
+      "loc": "10",
+      "anchor": "some Phrygian or Lycaonian",
+      "note": "A contemptuous reference to the provincial subjects of Asia Minor; Cicero reproaches Appius for trusting the malicious talk of such low informants, named here for their proverbial unreliability."
+    }
+  ]
+}

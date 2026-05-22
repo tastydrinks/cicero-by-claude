@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-28",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "How I wish you had invited me to that most beautiful banquet on the Ides of March!",
+      "entity_id": "person:c-trebonius",
+      "note": "Grim wit: the \"banquet\" is the assassination of Caesar, in which Trebonius shared by detaining Antony in conversation outside the Senate house. Cicero, not among the conspirators, jokes that he was not \"invited.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "this plague is still alive --- because he was drawn aside by you",
+      "entity_id": "person:antony",
+      "note": "Cicero reproaches Trebonius for sparing Antony: by detaining him outside on the Ides, Trebonius kept him clear of the daggers, leaving \"leftovers\" of the conspiracy for Cicero to clear up in 43."
+    },
+    {
+      "loc": "2",
+      "anchor": "when the tribunes of the plebs had called the Senate for 20 December",
+      "entity_id": "institution:senate",
+      "note": "Refers to the meeting of 20 December 44 BC at which Cicero delivered the Third Philippic, rousing the Senate against Antony; the tribunes had summoned it for a different agenda item before Cicero broadened the debate."
+    },
+    {
+      "loc": "3",
+      "anchor": "great loss has been suffered in Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "The jurist Servius Sulpicius Rufus (consul 51) had died in January 43 while serving on the senatorial embassy to Antony, depriving the consular bench of one of its most authoritative members."
+    },
+    {
+      "loc": "3",
+      "anchor": "since he is Antony's uncle he does not deliver his most cutting opinions",
+      "entity_id": "person:l-iulius-caesar-cos64",
+      "note": "L. Iulius Caesar (consul 64) was Mark Antony's maternal uncle; family loyalty tempered his senatorial votes against his nephew even as he sided broadly with the Republican cause."
+    },
+    {
+      "loc": "3",
+      "anchor": "had not two legions from Antony's army gone over to his authority",
+      "entity_id": "person:octavian",
+      "note": "The Martian and Fourth Legions deserted Antony for Octavian in late 44 BC; Cicero credits these defections, and Octavian's rapid levy of Caesar's veterans, with checking Antony's power."
+    }
+  ]
+}

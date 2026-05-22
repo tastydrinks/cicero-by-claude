@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "In the consulship of Lucius Julius Caesar and Gaius Marcius Figulus",
+      "entity_id": "office:consul",
+      "note": "Romans dated the year by its two ordinary consuls; this is 64 BC. The solemn consular formula opening the letter underlines that Cicero is recording his son's birth as a public, datable event. This L. Iulius Caesar (cos. 64) is not the future dictator."
+    },
+    {
+      "loc": "1",
+      "anchor": "I have been increased by a little son",
+      "entity_id": "person:marcus-cicero-younger",
+      "note": "The birth of Marcus Tullius Cicero the younger, Cicero's only son, in 65 BC (the parallel Latin dates it by the consuls of 64; the editorial tradition places the letter in 65). 'Terentia safe' reports that his wife came through the delivery well."
+    },
+    {
+      "loc": "1",
+      "anchor": "defending Catiline, our competitor",
+      "entity_id": "person:catiline",
+      "note": "Catiline, a rival for the consulship of 63, was on trial for extortion (repetundae) over his governorship of Africa. Cicero weighed defending him to win his goodwill in the canvass; in the event he did not, and Catiline was acquitted by other means."
+    },
+    {
+      "loc": "1",
+      "anchor": "We have judges such as we wished, with the highest goodwill of the prosecutor",
+      "entity_id": null,
+      "note": "A frank admission that the jury panel was favourably composed and the prosecutor (P. Clodius) collusively lenient --- the kind of arranged trial (praevaricatio) common in extortion cases. Cicero expected an acquittal."
+    },
+    {
+      "loc": "2",
+      "anchor": "those distinguished friends of yours",
+      "entity_id": null,
+      "note": "The nobiles --- the entrenched office-holding aristocracy, with whom Atticus was on easy terms --- were expected to resist a 'new man' reaching the consulship. Cicero wants Atticus back in Rome to help win them over."
+    },
+    {
+      "loc": "2",
+      "anchor": "opposed to my honour",
+      "entity_id": "office:consul",
+      "note": "Honos here is the consulship itself, the highest 'honour' (office) in the Roman cursus honorum. Cicero fears the nobility will block his bid for it."
+    }
+  ]
+}

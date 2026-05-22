@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "tribune of the plebs designate",
+      "entity_id": "office:tribune",
+      "note": "A tribunus plebis designatus had been elected to office but had not yet entered it; in 43 BC tribunes-elect held a politically volatile position between the outgoing year's alliances and the power struggles ahead."
+    },
+    {
+      "loc": "1",
+      "anchor": "more emphatically",
+      "entity_id": null,
+      "note": "Cicero quotes the Greek word emphatikoteron (transliterated in the Latin as e)mfatikw/teron) — the Greek rhetorical term for a more vivid or forceful expression; the interplay of Greek and Latin registers was characteristic of Cicero's intimate correspondence."
+    },
+    {
+      "loc": "1",
+      "anchor": "He has been advanced by a kindness of Antony's",
+      "entity_id": "person:antony",
+      "note": "Antony, as consul in 44 BC, had wide powers of patronage and appointment; Clodius owed his tribunate to Antony's backing, which made his loyalty to the republican cause potentially suspect in Brutus's eyes."
+    },
+    {
+      "loc": "2",
+      "anchor": "the two cannot both come safely through",
+      "entity_id": null,
+      "note": "Cicero is saying that Antony and the republican cause (personified by Brutus and Cicero) cannot coexist; L. Clodius has chosen the republican side despite owing his position to Antony."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Cincius",
+      "entity_id": "person:cincius-agent",
+      "note": "L. Cincius, the man of business who handled affairs between Cicero and Atticus; here he brings word, before dawn, that Atticus has reached Italy and is sending slaves ahead."
+    },
+    {
+      "loc": "1",
+      "anchor": "the third day before the Kalends of February",
+      "entity_id": null,
+      "note": "The Roman inclusive-counting date formula: the third day before the Kalends (the first) of February, i.e. 30 January. Days were reckoned backwards from the Kalends, Nones, and Ides, counting both endpoints."
+    }
+  ]
+}

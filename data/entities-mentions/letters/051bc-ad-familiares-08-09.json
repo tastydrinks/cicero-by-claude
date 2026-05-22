@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-09",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CAELIVS",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERONI",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Hirrum",
+      "entity_id": "person:c-lucilius-hirrus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Curionem prorsus Curionem",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "foro",
+      "entity_id": "place:forum-romanum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CAELIVS",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERONI",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Hirrus",
+      "entity_id": "person:c-lucilius-hirrus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "against Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Curionem prorsus Curionem",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "even by Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "in the Forum",
+      "entity_id": "place:forum-romanum",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Marcelli, consulis designati",
+      "entity_id": "person:c-claudius-marcellus-cos50",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "provinciam",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Galliae",
+      "entity_id": "place:gallia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Marcellus, consul-designate",
+      "entity_id": "person:c-claudius-marcellus-cos50",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "hold the province",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "the Gauls",
+      "entity_id": "place:gallia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Patiscum",
+      "entity_id": "person:patiscus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Curioni",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Ciburatas",
+      "entity_id": "place:cibyra",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Pamphyliam",
+      "entity_id": "place:pamphylia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Sittianam syngrapham",
+      "entity_id": "person:p-sittius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Patiscus has sent Curio",
+      "entity_id": "person:patiscus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Patiscus has sent Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Curio has made me a present",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "those Cibyrans",
+      "entity_id": "place:cibyra",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Pamphylia",
+      "entity_id": "place:pamphylia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "the Sittian bond",
+      "entity_id": "person:p-sittius",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "M. Feridium",
+      "entity_id": "person:m-feridius",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "M. Feridius, a Roman knight",
+      "entity_id": "person:m-feridius",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Favonium",
+      "entity_id": "person:m-favonius",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Pompeius tuus",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "senatus consultum",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Scipio",
+      "entity_id": "person:q-metellus-scipio",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Galliis",
+      "entity_id": "place:gallia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Balbum Cornelium",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Scipione",
+      "entity_id": "person:q-metellus-scipio",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Calidius",
+      "entity_id": "person:m-calidius",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Favonius was passed over",
+      "entity_id": "person:m-favonius",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Your friend Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "no decree of the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Scipio's, this",
+      "entity_id": "person:q-metellus-scipio",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "the Gallic provinces",
+      "entity_id": "place:gallia",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Balbus Cornelius",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "complaint with Scipio",
+      "entity_id": "person:q-metellus-scipio",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Calidius in his own defence",
+      "entity_id": "person:m-calidius",
+      "in": "eng"
+    }
+  ]
+}

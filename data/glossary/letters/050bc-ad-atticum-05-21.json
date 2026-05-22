@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-21",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the Nones of October",
+      "entity_id": null,
+      "note": "The Nones of October fell on the 7th, so the dispatches were dated 7 October 51 BC. Cassius's claim of victory and Cicero's report of alarm reached the Senate the same day."
+    },
+    {
+      "loc": "4",
+      "anchor": "the tax-farmers' couriers",
+      "entity_id": "institution:publicani",
+      "note": "The publicani, the companies of Roman knights who farmed the provincial taxes, maintained a fast private courier network (tabellarii) across Asia Minor; Cicero and Atticus regularly entrusted their letters to it."
+    },
+    {
+      "loc": "4",
+      "anchor": "the tenth day before the Kalends of October",
+      "entity_id": null,
+      "note": "Reckoned inclusively in the Roman manner, this is 22 September 51 BC; the letter took nearly five months to reach Cicero at Laodicea, where it arrived on 11 February (the third day before the Ides)."
+    },
+    {
+      "loc": "5",
+      "anchor": "the Cibyran panthers",
+      "entity_id": "place:cibyra",
+      "note": "Panthers from the region of Cibyra in Phrygia were prized for the beast-hunts (venationes) of Roman games; Roman magistrates routinely pressed provincials to supply them, a favour Cicero conspicuously declined to extract."
+    },
+    {
+      "loc": "5",
+      "anchor": "the Julian law",
+      "entity_id": "law:lex-iulia-de-rebus-repetundis",
+      "note": "Caesar's lex Iulia de repetundis of 59 BC tightly regulated what a governor and his staff could requisition from provincials in transit; L. Tullius is faulted for taking his daily entitlement, technically a breach of its strict letter."
+    },
+    {
+      "loc": "7",
+      "anchor": "two hundred Attic talents",
+      "entity_id": null,
+      "note": "An enormous sum, roughly 4.8 million sesterces, which the Cyprians had annually paid governors to be spared the billeting of soldiers in winter quarters; Cicero boasts of taking nothing of it."
+    },
+    {
+      "loc": "7",
+      "anchor": "four-horse chariots",
+      "entity_id": null,
+      "note": "Greek cities honoured Roman benefactors with statues, shrines, and bronze four-horse chariot groups (the tethrippa); Cicero forbade all such costly honours, accepting only votes of thanks."
+    },
+    {
+      "loc": "9",
+      "anchor": "hold the assize",
+      "entity_id": null,
+      "note": "The conventus was the judicial circuit by which a governor toured fixed assize-centres (here Laodicea, Apamea, Synnada, and others) to hear cases for each district (dioecesis); Cicero lays out his whole 50 BC itinerary by these sessions."
+    },
+    {
+      "loc": "9",
+      "anchor": "the third day before the Kalends of August",
+      "entity_id": null,
+      "note": "Counted inclusively, this is 30 July 50 BC, the date on which Cicero's one-year tenure of Cilicia legally expired; he was anxious to leave the day his term ran out."
+    },
+    {
+      "loc": "10",
+      "anchor": "He asked for a prefecture",
+      "entity_id": null,
+      "note": "A praefectura was an honorary military post in the governor's cohort which carried imperium-backed authority; businessmen sought it to use cavalry and coercive power to collect debts, a practice Cicero refused to grant to creditors."
+    },
+    {
+      "loc": "11",
+      "anchor": "twelve per cent simple interest with annual compounding",
+      "entity_id": null,
+      "note": "Cicero's standing edict capped interest at the legal Roman maximum of one per cent per month (centesimae usurae = twelve per cent a year), compounded only once a year (anatocismus anniversarius)."
+    },
+    {
+      "loc": "11",
+      "anchor": "in the consulship of Lentulus and Philippus",
+      "entity_id": null,
+      "note": "The consuls of 56 BC were P. Cornelius Lentulus Spinther and L. Marcius Philippus; under them the Senate passed the decree(s) authorising the Salaminian loan on Brutus's behalf."
+    },
+    {
+      "loc": "11",
+      "anchor": "forty-eight per cent",
+      "entity_id": null,
+      "note": "Four per cent per month (quaternae centesimae), four times the legal cap, the rate Scaptius demanded under the bond; the gap between this and Cicero's twelve per cent is the heart of the affair."
+    },
+    {
+      "loc": "12",
+      "anchor": "the lex Gabinia (a law on provincial loans)",
+      "entity_id": "law:lex-gabinia",
+      "note": "A lex Gabinia (probably of the tribune A. Gabinius, 67 BC) barred provincials from contracting loans at Rome and barred Roman courts from enforcing such bonds, which is why the Salaminians needed special senatorial decrees to borrow from Brutus's agents."
+    },
+    {
+      "loc": "12",
+      "anchor": "deposit the money in a temple",
+      "entity_id": null,
+      "note": "By offering to lodge the disputed sum in a temple treasury, the Salaminians sought to discharge their debt and stop interest running; Cicero refused, leaving the case formally open out of deference to Brutus."
+    },
+    {
+      "loc": "13",
+      "anchor": "twelve per cent should run as the perpetual rate",
+      "entity_id": null,
+      "note": "A recent senatorial decree in a creditors' case fixed twelve per cent per year (centesimae) as the standing rate for such debts; Cicero notes it confirms his own edict and undercuts Scaptius's claim."
+    },
+    {
+      "loc": "13",
+      "anchor": "a cancellation of debts",
+      "entity_id": null,
+      "note": "Tabulae novae, literally 'new ledgers', meant the wholesale wiping-out of debts, a radical and feared measure associated with revolutionaries; Lucceius warns that the Senate's mishandling of these decrees risks provoking it."
+    },
+    {
+      "loc": "14",
+      "anchor": "an intercalary month",
+      "entity_id": null,
+      "note": "Before Caesar's reform the pontiffs could insert an intercalary month (mensis intercalaris) to keep the lunar calendar aligned with the seasons; whether they had done so determined the real date of festivals, which is why Cicero asks Atticus to confirm it."
+    }
+  ]
+}

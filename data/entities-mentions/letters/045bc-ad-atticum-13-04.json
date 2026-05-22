@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-04",
+  "mentions": [
+    {"loc": "1", "surface": "de Tuditano", "entity_id": "person:c-sempronius-tuditanus-cos129", "in": "lat"},
+    {"loc": "1", "surface": "consul Mummius", "entity_id": "person:l-mummius-achaicus", "in": "lat"},
+    {"loc": "1", "surface": "Avius enim", "entity_id": "person:avius", "in": "lat"},
+    {"loc": "1", "surface": "quom Brutus veniet in Tusculanum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "veniet in Tusculanum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "about Tuditanus", "entity_id": "person:c-sempronius-tuditanus-cos129", "in": "eng"},
+    {"loc": "1", "surface": "Mummius was consul", "entity_id": "person:l-mummius-achaicus", "in": "eng"},
+    {"loc": "1", "surface": "Avius, indeed", "entity_id": "person:avius", "in": "eng"},
+    {"loc": "1", "surface": "when Brutus comes to the Tusculanum", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "comes to the Tusculanum", "entity_id": "place:tusculum", "in": "eng"}
+  ]
+}

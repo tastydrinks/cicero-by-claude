@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-26",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the men of Narbonensis",
+      "entity_id": "place:gallia",
+      "note": "The province of Gallia Narbonensis (southern Gaul), held by Lepidus; Furnius had reported that to fight there meant either abandoning the provincials or risking a dangerous engagement against Lepidus's forces."
+    },
+    {
+      "loc": "1",
+      "anchor": "the concord of Plancus and Brutus",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "After Antony's defeat at Mutina, Plancus's army and Decimus Brutus's army joined in Cisalpine Gaul; their cooperation was the republicans' best hope against Antony and Lepidus."
+    },
+    {
+      "loc": "1",
+      "anchor": "if the elections fall in Sextilis",
+      "entity_id": null,
+      "note": "Sextilis was the Roman month later renamed August; Cicero is teasing Furnius about racing home for the praetorian elections instead of staying at his post."
+    },
+    {
+      "loc": "2",
+      "anchor": "whether you become praetor at this election or the next",
+      "entity_id": null,
+      "note": "The praetorship was an annual elective magistracy on the cursus honorum; Cicero argues that the timing of the office matters far less than the lasting glory Furnius is earning in the war."
+    },
+    {
+      "loc": "3",
+      "anchor": "we are pushing back into the month of January",
+      "entity_id": null,
+      "note": "Cicero says he and his allies are working to postpone the praetorian elections, so that Furnius need not choose between his command and his candidacy."
+    }
+  ]
+}

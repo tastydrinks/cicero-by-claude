@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "all of Caesar's acts, writings, sayings, promises, and intentions",
+      "entity_id": "person:caesar",
+      "note": "The dead dictator's acta, ratified wholesale by the Senate on 17 March; Cicero's bitter complaint is that even Caesar's mere unwritten \"intentions\" are now treated as binding law."
+    },
+    {
+      "loc": "1",
+      "anchor": "the praetors ought to summon the Senate to the Capitoline",
+      "entity_id": null,
+      "note": "Brutus and Cassius, as urban and peregrine praetors of 44, had the right to convene the Senate; Cicero recalls urging them to do so at once on the day of the assassination, while the conspirators held the Capitol."
+    },
+    {
+      "loc": "1",
+      "anchor": "You blame the Liberalia",
+      "entity_id": "festival:liberalia",
+      "note": "The festival of Liber, 17 March 44, when the amnesty meeting in the Temple of Tellus confirmed Caesar's acts; Atticus had evidently faulted the decisions taken that day."
+    },
+    {
+      "loc": "1",
+      "anchor": "slaves and beggars were set loose on our houses with torches",
+      "entity_id": null,
+      "note": "The mob violence after Caesar's funeral pyre in the Forum; \"slaves\" renders servique (the common people's rabble), which is not a reference to the jurist Servius Sulpicius and is left unbound."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Tebassi, the Scaevae, the Fangones",
+      "entity_id": null,
+      "note": "Contemptuous plurals lumping together Antony's veteran land-grabbers and profiteers as so many \"Tebassi, Scaevas, and Fangos\"; these are types, not individuals, so \"Scaevae\" is deliberately not bound to any registered Scaeva."
+    },
+    {
+      "loc": "2",
+      "anchor": "about Censorinus, about Messalla, about Plancus, about Postumus",
+      "entity_id": null,
+      "note": "A roll of men profiting from Caesar's confirmed acts and the unsettled estates; the individual names are bound where the registry allows (Censorinus, Messalla Corvinus, Munatius Plancus, Curtius Postumus), with several binds tentative given the bare nomina."
+    },
+    {
+      "loc": "3",
+      "anchor": "Octavius arrived at Naples",
+      "entity_id": "person:octavian",
+      "note": "The young heir C. Octavius (the future Augustus), landed in Italy and now at Naples; the next morning Balbus reports that he means to accept Caesar's inheritance, presaging the breach with Antony Cicero notes here."
+    },
+    {
+      "loc": "3",
+      "anchor": "The Buthrotian business",
+      "entity_id": "place:buthrotum",
+      "note": "The long-running affair of Buthrotum in Epirus, where Atticus had estates threatened by Caesar's planned veteran colony; Cicero promises to keep it in hand, as he must for his friend's sake."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Cluvian estate",
+      "entity_id": "person:m-cluvius-puteolanus",
+      "note": "The property inherited from M. Cluvius of Puteoli, whose yearly yield Cicero tracks; he reports it nearing a hundred thousand sesterces, with eighty thousand already skimmed off in the first year."
+    },
+    {
+      "loc": "4",
+      "anchor": "indulges his mother",
+      "entity_id": "person:pomponia",
+      "note": "Pomponia, Atticus's sister and the divorced wife of Quintus Cicero the elder; young Quintus's new deference to her, after past hostility, is what so angers his father."
+    }
+  ]
+}

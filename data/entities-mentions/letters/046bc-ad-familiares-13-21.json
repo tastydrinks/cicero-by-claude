@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-21",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "M. Aemilius Avianius", "entity_id": "person:m-aemilius-avianius", "in": "lat"},
+    {"loc": "1", "surface": "M. Aemilius Avianius", "entity_id": "person:m-aemilius-avianius", "in": "eng"},
+    {"loc": "1", "surface": "esse Sicyone", "entity_id": "place:sicyon", "in": "lat"},
+    {"loc": "1", "surface": "to be at Sicyon", "entity_id": "place:sicyon", "in": "eng"},
+    {"loc": "1", "surface": "Cibyrae commorari", "entity_id": "place:cibyra", "in": "lat"},
+    {"loc": "1", "surface": "lingering there at Cibyra", "entity_id": "place:cibyra", "in": "eng"},
+    {"loc": "2", "surface": "domum eius quae est Sicyone", "entity_id": "place:sicyon", "in": "lat"},
+    {"loc": "2", "surface": "his household at Sicyon", "entity_id": "place:sicyon", "in": "eng"},
+    {"loc": "2", "surface": "C. Avianium Hammonium", "entity_id": "person:c-avianius-hammonius", "in": "lat"},
+    {"loc": "2", "surface": "C. Avianius Hammonius, his freedman", "entity_id": "person:c-avianius-hammonius", "in": "eng"},
+    {"loc": "2", "surface": "libertum eius", "entity_id": "person:c-avianius-hammonius", "in": "lat"},
+    {"loc": "2", "surface": "his freedman", "entity_id": "person:c-avianius-hammonius", "in": "eng"},
+    {"loc": "2", "surface": "Hammonium", "entity_id": "person:c-avianius-hammonius", "in": "lat"},
+    {"loc": "2", "surface": "this Hammonius", "entity_id": "person:c-avianius-hammonius", "in": "eng"},
+    {"loc": "2", "surface": "procuratorem", "entity_id": "person:c-avianius-hammonius", "in": "lat"},
+    {"loc": "2", "surface": "his patron's agent", "entity_id": "person:c-avianius-hammonius", "in": "eng"}
+  ]
+}

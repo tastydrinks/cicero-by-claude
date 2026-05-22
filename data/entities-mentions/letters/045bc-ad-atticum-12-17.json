@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-17",
+  "mentions": [
+    {"loc": "1", "surface": "Marcianus ad me scripsit", "entity_id": "person:marcianus", "in": "lat"},
+    {"loc": "1", "surface": "me excusatum esse apud Appuleium", "entity_id": "person:m-appuleius", "in": "lat"},
+    {"loc": "1", "surface": "a Laterense, Nasone, Laenate, Torquato, Strabone", "entity_id": "person:laenas", "in": "lat"},
+    {"loc": "1", "surface": "quod pro Cornificio me abhinc amplius annis xxv spopondisse dicit Flavius", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "et Appuleius praediator liberalis", "entity_id": "person:m-appuleius", "in": "lat"},
+    {"loc": "1", "surface": "mihi enim ante aedilitatem meam nihil erat cum Cornificio", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "Pansae profectionem scribes cum scies", "entity_id": "person:vibius-pansa", "in": "lat"},
+    {"loc": "1", "surface": "Atticam salvere iube", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "Piliae salutem", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "1", "surface": "Marcianus has written to me", "entity_id": "person:marcianus", "in": "eng"},
+    {"loc": "1", "surface": "I have been excused before Appuleius", "entity_id": "person:m-appuleius", "in": "eng"},
+    {"loc": "1", "surface": "by Laterensis, Naso, Laenas, Torquatus, and Strabo", "entity_id": "person:laenas", "in": "eng"},
+    {"loc": "1", "surface": "Flavius's saying that I stood surety for Cornificius", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "Appuleius the auctioneer a generous one", "entity_id": "person:m-appuleius", "in": "eng"},
+    {"loc": "1", "surface": "for I had no dealings with Cornificius at all before my aedileship", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "Pansa's departure you will write me of when you know", "entity_id": "person:vibius-pansa", "in": "eng"},
+    {"loc": "1", "surface": "Bid Attica greetings", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "1", "surface": "Greetings to Pilia", "entity_id": "person:pilia", "in": "eng"}
+  ]
+}

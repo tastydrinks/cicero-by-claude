@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-13",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the day before the Quinquatria there was a magnificent storm-wind",
+      "entity_id": "festival:quinquatrus",
+      "note": "The Quinquatrus, Minerva's festival, opened on 19 March; the eve gives Cicero a fixed date (18 March) for the gale he supposes carried Pompey's fleet out of Brundisium."
+    },
+    {
+      "loc": "4",
+      "anchor": "the auxiliaries of the Gauls",
+      "entity_id": "place:gallia",
+      "note": "Caesar's nine years of conquest in Gaul (58--50 BC) had given him a hardened army and large levies of Gallic auxiliary cavalry and infantry, the military base from which he now overwhelmed Italy."
+    },
+    {
+      "loc": "4",
+      "anchor": "says Plato",
+      "entity_id": "person:plato",
+      "note": "Cicero quotes Plato (Epistles 329d) on the menace lurking in a tyrant's \"requests\" --- pleas that are really commands, mixed with compulsion; he applies it to Caesar's coaxing invitations, which he fears more than open force."
+    },
+    {
+      "loc": "6",
+      "anchor": "About Phamea's place at Lanuvium",
+      "entity_id": "place:lanuvium",
+      "note": "Lanuvium was a hill town on the Via Appia south of Rome, in fashionable villa country; Cicero is house-hunting (for his brother Quintus) even amid the crisis, but has confused this property with another."
+    },
+    {
+      "loc": "7",
+      "anchor": "He dreads a repetition",
+      "entity_id": "place:corfinium",
+      "note": "At Corfinium in February 49 BC Caesar had taken and then pointedly released the Pompeian garrison and its commanders; Lentulus Spinther, one of those freed, fears being put through the same humiliating capture-and-pardon again."
+    },
+    {
+      "loc": "8",
+      "anchor": "the little booklet that has been thrown in with the letter",
+      "entity_id": null,
+      "note": "Cicero often enclosed (\"thrown in\") with his own letters copies of the correspondence reaching him, here a libellus bundling the alarming despatches he has been receiving so Atticus can read the raw reports himself."
+    }
+  ]
+}

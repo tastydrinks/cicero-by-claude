@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-02",
+  "mentions": [
+    {"loc": "1", "surface": "Murcum perisse naufragio", "entity_id": "person:l-statius-murcus", "in": "lat"},
+    {"loc": "1", "surface": "Asinium delatum vivum in manus militum", "entity_id": "person:asinius-pollio", "in": "lat"},
+    {"loc": "1", "surface": "L navis delatas uticam", "entity_id": "place:utica", "in": "lat"},
+    {"loc": "1", "surface": "Pompeium non comparere", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "ibi Hirtius et isti omnes", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "1", "surface": "that Murcus has perished in a shipwreck", "entity_id": "person:l-statius-murcus", "in": "eng"},
+    {"loc": "1", "surface": "that Asinius has been delivered alive into the hands of soldiers", "entity_id": "person:asinius-pollio", "in": "eng"},
+    {"loc": "1", "surface": "fifty ships have been driven to Utica", "entity_id": "place:utica", "in": "eng"},
+    {"loc": "1", "surface": "that Pompey is nowhere to be found", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "Hirtius is there, and all that set", "entity_id": "person:hirtius", "in": "eng"},
+    {"loc": "2", "surface": "at Balbus aedificat", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "2", "surface": "diem Tyrannioni constituemus", "entity_id": "person:tyrannio", "in": "lat"},
+    {"loc": "2", "surface": "But Balbus is building", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "2", "surface": "We shall settle the day for Tyrannio", "entity_id": "person:tyrannio", "in": "eng"}
+  ]
+}

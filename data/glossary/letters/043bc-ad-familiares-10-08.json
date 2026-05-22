@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "PLANCVS IMR COS. DESIG. S. D. COS. PR. TR. PL. SENATVI POPVLO PLEBIQVE ROMANAE",
+      "entity_id": "person:munatius-plancus",
+      "note": "The formal salutation of an official senatorial dispatch: Plancus writes as imperator (battlefield commander's acclamation, abbrev. IMR) and consul-designate (COS. DESIG.) to the consuls (COS.), praetor (PR.), tribunes of the plebs (TR. PL.), Senate, and Roman people --- the full constitutional address for a public letter read aloud in the Senate house."
+    },
+    {
+      "loc": "2",
+      "anchor": "the easiest road of the common safety rather than that of my own renown",
+      "entity_id": null,
+      "note": "Plancus presents strategic delay as a selfless choice: by waiting to gather strength before committing openly, he pursued the public good (communis salus) at the cost of personal gloria, a pointed reversal of the usual Roman political calculus."
+    },
+    {
+      "loc": "3",
+      "anchor": "several communities, which the year before had been bound by largesses and grants of rewards",
+      "entity_id": null,
+      "note": "Antony had in 44 BC distributed land grants, cash, and privileges to communities in Gaul to secure their loyalty; Plancus describes his diplomatic work to detach them from those obligations."
+    },
+    {
+      "loc": "4",
+      "anchor": "from my colleague's case, how dangerous to a good citizen unprepared is the premature unveiling of his hand",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Plancus's consul-designate colleague was Lepidus, whose peace-advocacy letters to the Senate had already damaged his standing; Plancus implies he learned from Lepidus's exposed and ambiguous position that premature declaration was politically fatal."
+    },
+    {
+      "loc": "5",
+      "anchor": "C. Furnius, my legate --- a man of courage and energy",
+      "entity_id": "person:furnius",
+      "note": "Gaius Furnius served as Plancus's senior legate (legatus) in Transalpine Gaul and was repeatedly dispatched to Rome as a personal emissary; he is also the recipient of favourable mention by Cicero throughout the Fam. 10 correspondence."
+    },
+    {
+      "loc": "6",
+      "anchor": "I have five legions under the standards",
+      "entity_id": "person:munatius-plancus",
+      "note": "Transalpine Gaul's garrison of five legions made Plancus one of the most powerful military actors outside Italy in early 43; this force was what Cicero and the Senate were urgently trying to commit to the anti-Antony cause."
+    }
+  ]
+}

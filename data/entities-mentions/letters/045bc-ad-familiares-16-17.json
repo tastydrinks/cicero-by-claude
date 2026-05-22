@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-17",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "TULLIUS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TIRO", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Theophrasto", "entity_id": "person:theophrastus", "in": "lat"},
+    {"loc": "1", "surface": "Theophrastus", "entity_id": "person:theophrastus", "in": "eng"},
+    {"loc": "2", "surface": "Demetrius", "entity_id": "person:demetrius-circle-45", "in": "lat"},
+    {"loc": "2", "surface": "Demetrius", "entity_id": "person:demetrius-circle-45", "in": "eng"},
+    {"loc": "2", "surface": "Cuspio", "entity_id": "person:p-cuspius", "in": "lat"},
+    {"loc": "2", "surface": "Cuspius", "entity_id": "person:p-cuspius", "in": "eng"}
+  ]
+}

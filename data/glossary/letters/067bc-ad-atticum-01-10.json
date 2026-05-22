@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I was in the Ceramicus",
+      "entity_id": "place:ceramicus",
+      "note": "The Kerameikos was a district of Athens (potters' quarter and cemetery) bordering the Academy. Cicero teases the Athens-resident Atticus by matching his fashionable Greek dateline with his own homely \"I was at the Tusculan villa.\""
+    },
+    {
+      "loc": "3",
+      "anchor": "the Hermathenae",
+      "entity_id": null,
+      "note": "Composite herms: a square pillar topped by two divine heads back to back (here Hermes and Athena). The Latin actually reads Hermeraclae, herms of Hermes and Heracles; the rendering follows the better-known Hermathena Cicero prizes elsewhere (Att. 1.1, 1.4)."
+    },
+    {
+      "loc": "3",
+      "anchor": "relief panels",
+      "entity_id": null,
+      "note": "Typi: figured relief plaques set into wall-stucco as ornament. With the \"figured well-heads\" (putealia sigillata, decorated puteals capping cisterns) these are further Greek-style fittings for Cicero's villa."
+    },
+    {
+      "loc": "5",
+      "anchor": "his wife is pregnant",
+      "entity_id": "person:pomponia",
+      "note": "Atticus's sister Pomponia, married to Cicero's brother Quintus; her pregnancy is offered as proof that the often-strained marriage is going well. The child is the younger Quintus."
+    },
+    {
+      "loc": "6",
+      "anchor": "About my elections",
+      "entity_id": null,
+      "note": "Cicero was a candidate for the aedileship of 66 BC; aediles were elected by the comitia tributa. He releases Atticus from any duty to return to Rome to canvass, urging him to stay on his own business in Greece."
+    },
+    {
+      "loc": "6",
+      "anchor": "calls me as guarantor",
+      "entity_id": null,
+      "note": "The recurring joke (cf. Att. 1.8): little Tullia \"summons Atticus to court\" over an unsent gift and names her father as the surety (sponsor) bound to make it good."
+    }
+  ]
+}

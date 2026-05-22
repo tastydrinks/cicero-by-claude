@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-14",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Ciceroni",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "my Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Ciceronem",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Cicero himself",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Domiti",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Domitius",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Catonis",
+      "entity_id": "person:m-porcius-cato-filius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Cato",
+      "entity_id": "person:m-porcius-cato-filius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Lentuli",
+      "entity_id": "person:p-lentulus-spinther",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Lentulus",
+      "entity_id": "person:p-lentulus-spinther",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Bibulorum",
+      "entity_id": "person:bibuli-fratres",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "the Bibuli",
+      "entity_id": "person:bibuli-fratres",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "mi Brute",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "my Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Ciceronem meum",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "my Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Lepidi",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesaris",
+      "entity_id": "person:octavian",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar's army",
+      "entity_id": "person:octavian",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Brutum",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Brutus",
+      "entity_id": "person:decimus-brutus-albinus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Planco",
+      "entity_id": "person:munatius-plancus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Plancus",
+      "entity_id": "person:munatius-plancus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Idibus Martiis",
+      "entity_id": null,
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Ides of March",
+      "entity_id": null,
+      "in": "eng"
+    }
+  ]
+}

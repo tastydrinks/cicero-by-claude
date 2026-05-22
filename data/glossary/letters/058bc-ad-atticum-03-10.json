@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the eighth day before the Kalends of June",
+      "entity_id": null,
+      "note": "Roman dates counted backward inclusively from the next named day; this is 25 May 58 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "the discord of those men",
+      "entity_id": null,
+      "note": "The friction among the dynasts and the consuls of 58 (Pompey, Caesar, Piso, Gabinius); Cicero notes bitterly that they quarrel over everything except his recall."
+    },
+    {
+      "loc": "2",
+      "anchor": "weak in spirit",
+      "entity_id": null,
+      "note": "Atticus had reproached Cicero for collapsing emotionally in exile; the charge of weakness (animo infirmo) recurs across these letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "his mourning and his squalor",
+      "entity_id": "person:quintus-cicero",
+      "note": "Quintus would have put on the squalor --- unkempt dress and beard --- of a mourner or suppliant on his brother's behalf; Cicero could not bear to see it."
+    },
+    {
+      "loc": "2",
+      "anchor": "planned within my own walls",
+      "entity_id": null,
+      "note": "Cicero hints that his ruin was contrived by intimates of his own household and circle, not only by open enemies."
+    },
+    {
+      "loc": "3",
+      "anchor": "the fourteenth day before the Kalends of July",
+      "entity_id": null,
+      "note": "Counting backward inclusively from 1 July, this is 18 June 58 BC."
+    }
+  ]
+}

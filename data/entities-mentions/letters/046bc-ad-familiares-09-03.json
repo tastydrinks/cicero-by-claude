@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-03",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO VARRONI",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO VARRONI",
+      "entity_id": "person:m-terentius-varro",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO VARRONI",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO VARRONI",
+      "entity_id": "person:m-terentius-varro",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caninio",
+      "entity_id": "person:l-caninius-gallus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Caninius",
+      "entity_id": "person:l-caninius-gallus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "*)aqh/nas",
+      "entity_id": "place:athenae",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Athēnas",
+      "entity_id": "place:athenae",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-21",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "that friend of ours",
+      "entity_id": "person:pompey",
+      "note": "Pompey, here named only obliquely. Cicero describes his ally's sudden fall from popularity since allying with Caesar: \"swimming in glory,\" he is now \"broken in spirit\" and friendless, hated by good and bad alike."
+    },
+    {
+      "loc": "4",
+      "anchor": "as Apelles, if he had seen his Venus, or Protogenes his Ialysus",
+      "entity_id": null,
+      "note": "Apelles (his Venus Anadyomene) and Protogenes (his Ialysus) were the two most celebrated painters of antiquity. Cicero casts himself as a painter whose own masterpiece, the figure of Pompey \"painted and polished with all the colours of my art,\" he must now watch \"smeared with mud.\""
+    },
+    {
+      "loc": "4",
+      "anchor": "Bibulus's Archilochian edicts against him",
+      "entity_id": "person:archilochus",
+      "note": "Archilochus of Paros was the archetype of savage iambic invective. Bibulus's edicts mocking Pompey and Caesar are \"Archilochian\" in their lacerating venom; crowds gathered to read them where they were posted."
+    },
+    {
+      "loc": "6",
+      "anchor": "what you have done with the Sicyonians",
+      "entity_id": "place:sicyon",
+      "note": "Sicyon, a city of the Peloponnese, owed money to Atticus; recovering the debt was a long-running and vexing piece of his business that Cicero repeatedly asks after. The matter recurs across the Atticus letters of these years."
+    }
+  ]
+}

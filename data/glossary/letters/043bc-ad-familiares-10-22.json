@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-22",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Your concord, which was declared to the Senate in the letter from the two of you",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Plancus and Decimus Brutus, the consuls-designate for 42 BC, sent a joint despatch announcing their cooperation; the Senate welcomed this concordia as the basis of the campaign against Antony."
+    },
+    {
+      "loc": "1",
+      "anchor": "what you wrote to me about the land law",
+      "entity_id": null,
+      "note": "Plancus had raised a question about an agrarian distribution (lex agraria), probably land for his veterans; Cicero says the Senate would have followed the most honorific motion in his favor had business not stalled."
+    },
+    {
+      "loc": "1",
+      "anchor": "to make use of that senatus consultum",
+      "entity_id": "institution:senate",
+      "note": "A senatus consultum was a formal resolution of the Senate; Cicero explains that, business being too slow to frame a fresh decree at their own discretion, he and Plancus's brother fell back on an existing one."
+    },
+    {
+      "loc": "1",
+      "anchor": "it seemed most convenient to me and to your brother Plancus",
+      "entity_id": "person:plotius-plancus",
+      "note": "The addressee's brother, T. Plotius Plancus (born Munatius, adopted into the Plotia gens), who was at Rome managing his absent brother's interests in the Senate."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-16",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Sinuessae", "entity_id": "place:sinuessa", "in": "lat"},
+    {"loc": "1", "surface": "clementiam Corfiniensem", "entity_id": "place:corfinium", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Caesar will lodge", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "the Kalends at Sinuessa", "entity_id": "place:sinuessa", "in": "eng"},
+    {"loc": "1", "surface": "that famous clemency of his at Corfinium", "entity_id": "place:corfinium", "in": "eng"},
+    {"loc": "2", "surface": "CAESAR", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "IMP.", "entity_id": "office:imperator", "in": "lat"},
+    {"loc": "2", "surface": "CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "2", "surface": "IMP.", "entity_id": "office:imperator", "in": "lat"},
+    {"loc": "2", "surface": "Caesar \\textit{imperator}", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Caesar \\textit{imperator}", "entity_id": "office:imperator", "in": "eng"},
+    {"loc": "2", "surface": "to Cicero \\textit{imperator}", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "2", "surface": "to Cicero \\textit{imperator}", "entity_id": "office:imperator", "in": "eng"},
+    {"loc": "3", "surface": "Dolabella tuo", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "3", "surface": "Of your Dolabella", "entity_id": "person:dolabella", "in": "eng"}
+  ]
+}

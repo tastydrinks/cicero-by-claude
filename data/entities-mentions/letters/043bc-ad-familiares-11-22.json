@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-22",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "D. BRVTO.", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTO.", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "Appio Claudio C. f.", "entity_id": "person:appius-claudius-pulcher-younger", "in": "lat"},
+    {"loc": "1", "surface": "Appius Claudius, son of Gaius", "entity_id": "person:appius-claudius-pulcher-younger", "in": "eng"},
+    {"loc": "1", "surface": "Antonio", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Antony", "entity_id": "person:antony", "in": "eng"}
+  ]
+}

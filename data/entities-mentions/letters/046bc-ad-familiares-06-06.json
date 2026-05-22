@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-06",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO S. D. A. CAECINAE.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO S. D. A. CAECINAE.",
+      "entity_id": "person:a-caecina-friend",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO S. D. A. CAECINAE.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO S. D. A. CAECINAE.",
+      "entity_id": "person:a-caecina-friend",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "ex re p. expulissent",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "ex Asia",
+      "entity_id": "place:asia-province",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "driven from the commonwealth",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "from Asia",
+      "entity_id": "place:asia-province",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Tuscae disciplinae",
+      "entity_id": "place:etruria",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "a patre",
+      "entity_id": "person:caecina-volaterranus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Etruscan discipline",
+      "entity_id": "place:etruria",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "your father",
+      "entity_id": "person:caecina-volaterranus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Pompeio",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesare",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "senatus",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "in Hispaniam",
+      "entity_id": "place:hispania",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Pompeio",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "into Spain",
+      "entity_id": "place:hispania",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Pompeio",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Amphiaraus",
+      "entity_id": "person:amphiaraus",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Amphiaraus",
+      "entity_id": "person:amphiaraus",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "augures",
+      "entity_id": "office:augur",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "augur publicus",
+      "entity_id": "office:augur",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "augurs",
+      "entity_id": "office:augur",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "a public augur",
+      "entity_id": "office:augur",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "Caesare",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "libro ' querelarum ' tuarum",
+      "entity_id": "text:liber-querelarum",
+      "in": "lat"
+    },
+    {
+      "loc": "8",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "8",
+      "surface": "your famous book of Querelae",
+      "entity_id": "text:liber-querelarum",
+      "in": "eng"
+    },
+    {
+      "loc": "9",
+      "surface": "Etruria",
+      "entity_id": "place:etruria",
+      "in": "lat"
+    },
+    {
+      "loc": "9",
+      "surface": "Etruria",
+      "entity_id": "place:etruria",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Cassium",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Brutum",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Galliae",
+      "entity_id": "place:gallia",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Sulpicium",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Graeciae",
+      "entity_id": "place:graecia",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Marcellum",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "in": "lat"
+    },
+    {
+      "loc": "10",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Cassius",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Gaul",
+      "entity_id": "place:gallia",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Sulpicius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Greece",
+      "entity_id": "place:graecia",
+      "in": "eng"
+    },
+    {
+      "loc": "10",
+      "surface": "Marcellus",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "in": "eng"
+    },
+    {
+      "loc": "13",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "13",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    }
+  ]
+}

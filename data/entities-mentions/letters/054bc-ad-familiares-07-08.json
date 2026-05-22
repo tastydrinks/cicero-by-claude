@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-08",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "both"
+    },
+    {
+      "loc": "1",
+      "surface": "TREBATIO",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "TREBATIO",
+      "entity_id": "person:c-trebatius-testa",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "both"
+    },
+    {
+      "loc": "1",
+      "surface": "tribunatus",
+      "entity_id": "office:tribunus-militum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "tribunate",
+      "entity_id": "office:tribunus-militum",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Vacerra",
+      "entity_id": "person:vacerra-iurisconsultus",
+      "in": "both"
+    },
+    {
+      "loc": "2",
+      "surface": "Manilio",
+      "entity_id": "person:m-manilius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Manilius",
+      "entity_id": "person:m-manilius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cornelio",
+      "entity_id": "person:cornelius-iurisconsultus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cornelius",
+      "entity_id": "person:cornelius-iurisconsultus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Preciano",
+      "entity_id": "person:precius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Precianus",
+      "entity_id": "person:precius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Britannicas",
+      "entity_id": "place:britannia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "British",
+      "entity_id": "place:britannia",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-06",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Balbum", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "Balbus", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "Medeae", "entity_id": "person:medea", "in": "lat"},
+    {"loc": "1", "surface": "Medea", "entity_id": "person:medea", "in": "eng"},
+    {"loc": "1", "surface": "Corinthum", "entity_id": "place:corinthus", "in": "lat"},
+    {"loc": "1", "surface": "Corinth's", "entity_id": "place:corinthus", "in": "eng"},
+    {"loc": "2", "surface": "Britannia", "entity_id": "place:britannia", "in": "lat"},
+    {"loc": "2", "surface": "Britain", "entity_id": "place:britannia", "in": "eng"},
+    {"loc": "2", "surface": "essedariis", "entity_id": "group:essedarii", "in": "lat"},
+    {"loc": "2", "surface": "chariot-fighters", "entity_id": "group:essedarii", "in": "eng"},
+    {"loc": "2", "surface": "Medeam", "entity_id": "person:medea", "in": "lat"},
+    {"loc": "2", "surface": "Medea", "entity_id": "person:medea", "in": "eng"}
+  ]
+}

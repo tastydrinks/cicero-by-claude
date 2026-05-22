@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-16",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "BITHYNICVS",
+      "entity_id": "person:pompeius-bithynicus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERONI",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "BITHYNICUS",
+      "entity_id": "person:pompeius-bithynicus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    }
+  ]
+}

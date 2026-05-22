@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "A curse on Segulius from the gods",
+      "entity_id": "person:segulius-labeo",
+      "note": "Segulius (Labeo Segulius) is the rumour-monger of the preceding letter (Fam. 11.20); Cicero answers Decimus Brutus's report of his gossip with this mock-imprecation."
+    },
+    {
+      "loc": "2",
+      "anchor": "the board of ten",
+      "entity_id": null,
+      "note": "The commission of ten (decemviri) for assigning land and rewards to soldiers; Cicero says he so disliked serving on it that he wishes he were not a member, and that he had Octavian and Decimus Brutus deliberately excepted from it."
+    },
+    {
+      "loc": "4",
+      "anchor": "your consulship",
+      "entity_id": "office:consul",
+      "note": "Decimus Brutus was consul-designate for 42 BC; Cicero invokes the authority of that coming consulship as a guarantee of security."
+    },
+    {
+      "loc": "4",
+      "anchor": "the land-assignment commission",
+      "entity_id": null,
+      "note": "The agraria curatio, the magistracy charged with allotting land to veterans; Cicero says he blocked rival senators who were angling to control it and kept the matter reserved for himself and Decimus Brutus."
+    },
+    {
+      "loc": "4",
+      "anchor": "The day before the Nones of June.",
+      "entity_id": null,
+      "note": "By inclusive Roman counting, the day before the Nones (the 5th) of June, i.e. 4 June 43 BC; the letter was written at Rome."
+    }
+  ]
+}

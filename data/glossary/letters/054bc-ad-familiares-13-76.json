@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-76",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO IIII VIRIS ET DECVRIONIBVS S. D.",
+      "entity_id": "office:quattuorvir",
+      "note": "The letter is addressed not to an individual but to a town council: the IIII viri (quattuorviri), the board of four chief magistrates of a municipium, and the decuriones, the members of its local senate (ordo decurionum). The town is unnamed in the text but lay in the territory of Fregellae."
+    },
+    {
+      "loc": "1",
+      "anchor": "My ties of connection with Q. Hippius",
+      "entity_id": "person:q-hippius",
+      "note": "Q. Hippius is the friend on whose account Cicero writes; the man recommended, C. Valgius Hippianus, carries the cognomen Hippianus derived from Hippius, marking a tie of inheritance or adoption between them."
+    },
+    {
+      "loc": "2",
+      "anchor": "the holding which he possesses in the Fregellan country and which he has bought from you",
+      "entity_id": "place:fregellae",
+      "note": "After Fregellae's destruction in 125 BC its territory (ager Fregellanus) was administered by the neighbouring community Cicero here addresses. Cicero asks that Valgius's purchased holding be confirmed to him \"free and exempt\" (liberam et immunem), i.e. with clear title and free of local land-tax or other public burdens."
+    }
+  ]
+}

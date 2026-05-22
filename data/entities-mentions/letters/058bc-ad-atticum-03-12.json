@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-12",
+  "mentions": [
+    {"loc": "1", "surface": "senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "tribuno pl.", "entity_id": "office:tribune", "in": "lat"},
+    {"loc": "1", "surface": "consule designato", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "tribune of the plebs", "entity_id": "office:tribune", "in": "eng"},
+    {"loc": "1", "surface": "consul-elect", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "3", "surface": "Thessalonicae", "entity_id": "place:thessalonica", "in": "lat"},
+    {"loc": "3", "surface": "Thessalonica", "entity_id": "place:thessalonica", "in": "eng"}
+  ]
+}

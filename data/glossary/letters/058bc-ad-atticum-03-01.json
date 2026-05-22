@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "since I have read the bill",
+      "entity_id": null,
+      "note": "The bill (Latin rogatio) is the lex Clodia de exsilio Ciceronis, Clodius's tribunician measure of 58 BC interdicting Cicero from fire and water and so driving him into exile. Reading its terms is what fixes Cicero's route and his urgency."
+    },
+    {
+      "loc": "1",
+      "anchor": "the road through Epirus",
+      "entity_id": "place:epirus",
+      "note": "Epirus, in north-western Greece, was where Atticus held large estates; Cicero hoped to shelter under his friend's protection there on the way east. The route ran from Brundisium across the Adriatic to Dyrrachium and inland."
+    },
+    {
+      "loc": "1",
+      "anchor": "the law on the province of Macedonia has been carried",
+      "entity_id": "place:macedonia",
+      "note": "A separate Clodian law assigned Macedonia as a province to the consul Piso; once passed, Cicero could no longer count on safe passage or refuge there, sharpening his need for Atticus's counsel. Macedonia bordered Epirus and lay on Cicero's eastward route."
+    }
+  ]
+}

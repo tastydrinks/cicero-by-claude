@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-09",
+  "mentions": [
+    {"loc": "1", "surface": "PLANCVS CICERONI S.", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCUS CICERONI S.", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERONI S.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "2", "surface": "mi Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "2", "surface": "my dear Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "3", "surface": "Rhodanum", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "3", "surface": "Rhone", "entity_id": "place:gallia", "in": "eng"},
+    {"loc": "3", "surface": "Vienna", "entity_id": "place:vienna-gaul", "in": "lat"},
+    {"loc": "3", "surface": "Vienna", "entity_id": "place:vienna-gaul", "in": "eng"},
+    {"loc": "3", "surface": "Lepido", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "3", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "eng"}
+  ]
+}

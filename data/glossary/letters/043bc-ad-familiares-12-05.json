@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "from the first shore of Greece all the way to Egypt",
+      "entity_id": null,
+      "note": "Cicero sketches the arc of the eastern Mediterranean now (he hopes) held by republican commanders: Brutus in Greece and Macedonia, Cassius in Syria, and their allies down to the borders of Egypt."
+    },
+    {
+      "loc": "2",
+      "anchor": "the entire decisive issue of the whole war seemed to rest on D. Brutus",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Decimus Brutus (a different Brutus from Marcus) was besieged by Antony in Mutina; relieving him was the central objective of the consuls' campaign in early 43 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "broken out of Mutina",
+      "entity_id": "place:mutina",
+      "note": "Mutina (modern Modena) in Cisalpine Gaul, where Decimus Brutus was blockaded by Antony; the siege gave its name to the Mutina War of 43 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "Our Hirtius was at Claterna, Caesar at Forum Cornelii",
+      "entity_id": "person:octavian",
+      "note": "The consul Hirtius and the young Caesar (Octavian, leading his private army) were posted at towns on the Via Aemilia closing in on Antony; here \"Caesar\" is Octavian, not the dead dictator."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pansa had levied great forces from the muster of Italy",
+      "entity_id": "person:vibius-pansa",
+      "note": "The consul C. Vibius Pansa was raising fresh troops at Rome through the dilectus (the levy or muster) across Italy, to reinforce the campaign against Antony."
+    },
+    {
+      "loc": "2",
+      "anchor": "your own Transpadane clients",
+      "entity_id": "place:gallia-transpadana",
+      "note": "The inhabitants of Transpadane Gaul (Cisalpine Gaul north of the Po) stood in a hereditary client relationship to Cassius's family and so favored the republican cause."
+    },
+    {
+      "loc": "2",
+      "anchor": "With Servius Sulpicius's death we have lost a great bulwark",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus, the eminent jurist and consular, died while serving on the senatorial embassy to Antony at Mutina; his loss removed a steadying voice from the Senate."
+    },
+    {
+      "loc": "2",
+      "anchor": "from those regions of the East the light of your courage shine forth",
+      "entity_id": null,
+      "note": "A closing prayer that Cassius, campaigning in Syria and the eastern provinces, will reveal his successes; \"those regions\" (istis Orientis partibus) gestures eastward to where Cassius then was."
+    }
+  ]
+}

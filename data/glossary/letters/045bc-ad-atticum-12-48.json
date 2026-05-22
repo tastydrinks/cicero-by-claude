@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-48",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "your house will be worth more with Caesar for a neighbour",
+      "entity_id": "person:caesar",
+      "note": "Caesar's pleasure-gardens lay across the Tiber, and his presence as a neighbour raised the value of nearby property; the same district held the gardens Cicero was hunting for Tullia's shrine. The remark is half a compliment to Atticus's house, half a wry note on how Caesar's proximity now governed the property market."
+    },
+    {
+      "loc": "1",
+      "anchor": "He will give us news of Pilia and Attica",
+      "entity_id": "person:pilia",
+      "note": "Pilia was Atticus's wife and Attica (Caecilia Attica) their young daughter, whose illness recurs anxiously through book 12. Even amid his own grief Cicero keeps close track of their health through his couriers."
+    },
+    {
+      "loc": "1",
+      "anchor": "Distribute Hirtius' book, as you are doing",
+      "entity_id": "person:hirtius",
+      "note": "Cicero again presses Atticus to put Hirtius's anti-Cato pamphlet into circulation, sure that its hostility will rebound to the dead Cato's credit. The repeated insistence across these letters shows how much the literary contest over Cato's memory occupied him."
+    }
+  ]
+}

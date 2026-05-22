@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-02-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Grim letters and reports about our friend Brutus",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "\"Our friend Brutus\" here refers to Decimus Iunius Brutus Albinus (not Marcus Brutus, the letter's recipient), who had been besieged at Mutina and was now attempting to lead his army north to join Plancus in Gaul; Cicero was receiving alarming dispatches about his deteriorating position."
+    },
+    {
+      "loc": "1",
+      "anchor": "The good faith of the consuls I did not condemn --- though it was strongly under suspicion",
+      "entity_id": "office:consul",
+      "note": "The consuls of 43 BC were Aulus Hirtius and Gaius Vibius Pansa, both of whom died of wounds after the battles of Forum Gallorum and Mutina (April 43 BC); Cicero here defends their loyalty while regretting their lack of speed and forcefulness, pointedly noting suspicion had fallen on them for slowness."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the day I delivered my motion",
+      "entity_id": "person:cicero",
+      "note": "A reference to one of Cicero's Philippic speeches in the Senate, in which he urged a specific decree (such as declaring Antony a public enemy or authorising emergency measures); the complaint is that whatever was voted was then delayed in execution until the moment had passed."
+    },
+    {
+      "loc": "2",
+      "anchor": "in the rank in which the judgement of the Senate and people has set me",
+      "entity_id": "institution:senate",
+      "note": "Cicero means his standing as a former consul (consularis) who speaks among the principes civitatis — the leading men who address the Senate first; he claims not merely the ordinary duties of a senator but the heightened responsibility of one who has taken the role of steering the state."
+    },
+    {
+      "loc": "3",
+      "anchor": "the minds of the majority look back to you and to Cassius",
+      "entity_id": "person:cassius-longinus",
+      "note": "By late March/early April 43 BC, Gaius Cassius Longinus had secured most of the eastern provinces and was advancing against Dolabella in Syria; the political centre of gravity at Rome was already shifting toward the hope that Brutus and Cassius together would march west and decide the war."
+    }
+  ]
+}

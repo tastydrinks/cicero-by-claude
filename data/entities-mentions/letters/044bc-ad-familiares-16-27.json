@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-27",
+  "mentions": [
+    {"loc": "1", "surface": "Q. CICERO", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI SVO", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "Q. CICERO", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "frater", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "my brother", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "2", "surface": "Gallorum castris", "entity_id": "place:gallia-cisalpina", "in": "lat"},
+    {"loc": "2", "surface": "the Gauls' camp", "entity_id": "place:gallia-cisalpina", "in": "eng"},
+    {"loc": "2", "surface": "ille latro", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "2", "surface": "that bandit", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "foro", "entity_id": "place:forum-romanum", "in": "lat"},
+    {"loc": "2", "surface": "the Forum", "entity_id": "place:forum-romanum", "in": "eng"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-16",
+  "mentions": [
+    {"loc": "1", "surface": "QVINTVS", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "MARCO FRATRI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "QUINTUS", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "MARCO FRATRI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Tirone", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "Tiro", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "mi Marce", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "my dear Marcus", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "meumque Ciceronem", "entity_id": "person:q-cicero-younger", "in": "lat"},
+    {"loc": "1", "surface": "my own Cicero", "entity_id": "person:q-cicero-younger", "in": "eng"},
+    {"loc": "1", "surface": "meam Tulliolam", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "my Tulliola", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "1", "surface": "tuumque filium", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "your son", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "Stati", "entity_id": "person:statius-q-freedman", "in": "lat"},
+    {"loc": "2", "surface": "Statius", "entity_id": "person:statius-q-freedman", "in": "eng"},
+    {"loc": "2", "surface": "Sabini", "entity_id": "person:q-titurius-sabinus", "in": "lat"},
+    {"loc": "2", "surface": "Sabinus's", "entity_id": "person:q-titurius-sabinus", "in": "eng"}
+  ]
+}

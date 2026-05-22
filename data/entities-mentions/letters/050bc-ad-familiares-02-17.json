@@ -1,0 +1,318 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-17",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMR",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "†CANINI SALVSTIO PROQ.",
+      "entity_id": "person:cn-sallustius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMR",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "†CANINI SALVSTIO PROQ.",
+      "entity_id": "person:cn-sallustius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Tarsi",
+      "entity_id": "place:tarsus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Parthico",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Rhodum",
+      "entity_id": "place:rhodes",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Ciceronum",
+      "entity_id": "person:quintus-cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Asia",
+      "entity_id": "place:asia-province",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Tarsus",
+      "entity_id": "place:tarsus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Parthian",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Rhodes",
+      "entity_id": "place:rhodes",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the two Ciceros",
+      "entity_id": "person:quintus-cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Asia",
+      "entity_id": "place:asia-province",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Bibulo",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "legem Iuliam",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Julian law",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Apamea",
+      "entity_id": "place:apamea",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Parthi",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Apamea",
+      "entity_id": "place:apamea",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Parthians",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "quaestoris",
+      "entity_id": "office:quaestor",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "quaestore",
+      "entity_id": "office:quaestor",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "populum Romanum",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Laudiceae",
+      "entity_id": "place:laodicea-asia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Apameae",
+      "entity_id": "place:apamea",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "quaestor",
+      "entity_id": "office:quaestor",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "city quaestors",
+      "entity_id": "office:quaestor",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Roman people",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Laodicea",
+      "entity_id": "place:laodicea-asia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Apamea",
+      "entity_id": "place:apamea",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Syriam",
+      "entity_id": "place:syria",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "senatus",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Marium",
+      "entity_id": "person:c-marius-successor",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Syria",
+      "entity_id": "place:syria",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Marius, my successor",
+      "entity_id": "person:c-marius-successor",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Bibulo",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Antiochiae",
+      "entity_id": "place:antiochia",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Thermum",
+      "entity_id": "person:q-minucius-thermus-pr",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Antioch",
+      "entity_id": "place:antiochia",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Thermus",
+      "entity_id": "person:q-minucius-thermus-pr",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "senatum",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Transpadanis",
+      "entity_id": "place:italia",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Ariobarzanem",
+      "entity_id": "person:ariobarzanes-iii",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Transpadane",
+      "entity_id": "place:italia",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Ariobarzanes",
+      "entity_id": "person:ariobarzanes-iii",
+      "in": "eng"
+    }
+  ]
+}

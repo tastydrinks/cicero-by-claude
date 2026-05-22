@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-31",
+  "mentions": [
+    {"loc": "1", "surface": "accepi a Demea litteras", "entity_id": "person:demeas", "in": "lat"},
+    {"loc": "1", "surface": "tam expeditum Faberianum negotium futurum", "entity_id": "person:faberius", "in": "lat"},
+    {"loc": "1", "surface": "I received from Demeas a letter", "entity_id": "person:demeas", "in": "eng"},
+    {"loc": "1", "surface": "the Faberian business will turn out so easily", "entity_id": "person:faberius", "in": "eng"},
+    {"loc": "2", "surface": "Dicaearchi quos scribis libros", "entity_id": "person:dicaearchus", "in": "lat"},
+    {"loc": "2", "surface": "those books of Dicaearchus you mentioned", "entity_id": "person:dicaearchus", "in": "eng"},
+    {"loc": "3", "surface": "de epistula ad Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "non iturum in Parthos", "entity_id": "place:parthia", "in": "lat"},
+    {"loc": "3", "surface": "About the letter to Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "he will not set out for the Parthians", "entity_id": "place:parthia", "in": "eng"},
+    {"loc": "4", "surface": "sed adgredere Othonem", "entity_id": "person:otho", "in": "lat"},
+    {"loc": "4", "surface": "in foro non sim", "entity_id": "place:forum-romanum", "in": "lat"},
+    {"loc": "4", "surface": "C. Albanius proximus est vicinus", "entity_id": "person:c-albanius", "in": "lat"},
+    {"loc": "4", "surface": "de M. Pilio emit", "entity_id": "person:m-pilius", "in": "lat"},
+    {"loc": "4", "surface": "praeter Othonem non puto", "entity_id": "person:otho", "in": "lat"},
+    {"loc": "4", "surface": "facilius etiam si Canum haberes", "entity_id": "person:gellius-canus", "in": "lat"},
+    {"loc": "4", "surface": "But move on Otho, as you write", "entity_id": "person:otho", "in": "eng"},
+    {"loc": "4", "surface": "be out of the Forum", "entity_id": "place:forum-romanum", "in": "eng"},
+    {"loc": "4", "surface": "Gaius Albanius is next-door neighbour", "entity_id": "person:c-albanius", "in": "eng"},
+    {"loc": "4", "surface": "a thousand iugera from Marcus Pilius", "entity_id": "person:m-pilius", "in": "eng"},
+    {"loc": "4", "surface": "we shall have any rival but Otho", "entity_id": "person:otho", "in": "eng"},
+    {"loc": "4", "surface": "more easily still if you have Canus on your side", "entity_id": "person:gellius-canus", "in": "eng"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-39",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO ACILIO PROCONSVLI S.",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "The letter-heading; another in the sequence of recommendation letters to M'. Acilius Glabrio, proconsul of Sicily in 46-45 BC. Identical in form to the heading of the neighbouring letters in this group."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Titurnian family",
+      "entity_id": "person:m-titurnius-rufus",
+      "note": "The gens Titurnia, a Roman family with which Cicero held an inherited bond of necessitudo (mutual obligation). M. Titurnius Rufus is named as the last surviving member of the line."
+    },
+    {
+      "loc": "1",
+      "anchor": "a long-standing tie of connection",
+      "entity_id": null,
+      "note": "Necessitudo: a formal, often inherited bond of mutual obligation between families or individuals, stronger than ordinary friendship and carrying reciprocal duties of support and protection."
+    },
+    {
+      "loc": "1",
+      "anchor": "I therefore commend him to you in the strongest terms",
+      "entity_id": "person:m-titurnius-rufus",
+      "note": "A commendatio, the formal letter of recommendation by which a Roman of standing asked a magistrate or governor to extend favour and protection to a friend or client; Ad Familiares book 13 is largely composed of such letters."
+    }
+  ]
+}

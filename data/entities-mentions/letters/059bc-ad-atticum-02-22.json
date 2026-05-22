@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-22",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Romae",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Pulchellum nostrum",
+      "entity_id": "person:clodius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "our little Pulcher",
+      "entity_id": "person:clodius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompeius",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Appius",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Appius",
+      "entity_id": "person:appius-claudius-pulcher",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Varronem nostrum",
+      "entity_id": "person:m-terentius-varro",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "our Varro",
+      "entity_id": "person:m-terentius-varro",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Publio",
+      "entity_id": "person:clodius",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Publius",
+      "entity_id": "person:clodius",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Crasso",
+      "entity_id": "person:crassus",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Crassus",
+      "entity_id": "person:crassus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "βοῶπιν",
+      "entity_id": "person:clodia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Ox-Eyed Hera",
+      "entity_id": "person:clodia",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Alexandri",
+      "entity_id": "person:alexander-ephesius",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Alexander",
+      "entity_id": "person:alexander-ephesius",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Numerium Numestium",
+      "entity_id": "person:numerius-numestius",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Numerius Numestius",
+      "entity_id": "person:numerius-numestius",
+      "in": "eng"
+    }
+  ]
+}

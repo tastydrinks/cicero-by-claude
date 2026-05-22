@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-30",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Assign him as many of the boys, and which ones, as seems good",
+      "entity_id": null,
+      "note": "The 'boys' (pueri) are young household slaves; Cicero leaves it to Atticus to detail however many he likes for Lentulus's service. A routine courtesy of lending slaves between friends."
+    },
+    {
+      "loc": "1",
+      "anchor": "it is more convenient that way than what he asks of me, namely that I myself write to Clodius",
+      "entity_id": null,
+      "note": "This Clodius is an otherwise obscure intermediary in the negotiation over Silius's gardens, not the notorious P. Clodius Pulcher, who had been dead since 52 BC. Cicero would rather Atticus deal with him than write directly himself."
+    },
+    {
+      "loc": "2",
+      "anchor": "About the Castricius slaves",
+      "entity_id": "person:m-castricius-eques",
+      "note": "A separate piece of business: the purchase or transfer of slaves connected with Castricius, a Roman knight, which Cicero wants the banker Egnatius to settle. Several such small financial errands are folded into the gardens correspondence."
+    }
+  ]
+}

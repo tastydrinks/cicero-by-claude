@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "D. BRVTVS IMP. COS. DES. S. D. M. CICERONI",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Decimus Brutus signs with his titles: imperator (a general acclaimed by his troops) and consul designate for 42 BC. The letter is his eyewitness report of the pursuit of Antony after the relief of Mutina in May 43 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "I did not know Hirtius had perished, I did not know Aquila had perished",
+      "entity_id": "person:hirtius",
+      "note": "Hirtius (one of the consuls of 43) and Pontius Aquila (a legate of Decimus Brutus) were both killed in the fighting around Mutina, 21--27 April 43 BC; with Pansa's death soon after, Decimus was left without his fellow commanders."
+    },
+    {
+      "loc": "2",
+      "anchor": "he broke open the slave-barracks and dragged the men off",
+      "entity_id": null,
+      "note": "The Latin ergastula were the barracks where chained agricultural slaves were housed; freeing and conscripting them was a desperate, disreputable way to fill out an army, marking Antony's force as a fugitive rabble."
+    },
+    {
+      "loc": "3",
+      "anchor": "he had, he said, an understanding with M. Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Lepidus, governing Narbonese Gaul and Nearer Spain with a large army, was the prize both sides courted; Antony's claim of an understanding with him foreshadows their actual junction at the end of May 43 BC."
+    }
+  ]
+}

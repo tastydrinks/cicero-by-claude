@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the tenth day before the Kalends of June",
+      "entity_id": null,
+      "note": "The Romans counted dates inclusively backward from three fixed points: the Kalends (1st), Nones, and Ides. The tenth day before the Kalends of June is 23 May; the murder is thus dated to late May 45 BC. The letter itself is dispatched 'the day before the Kalends of June', i.e. 31 May."
+    },
+    {
+      "loc": "1",
+      "anchor": "I met there our colleague M. Marcellus",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "M. Claudius Marcellus, consul of 51 BC, was a leading optimate who went into exile at Mytilene after Pharsalus. In 46 BC Caesar pardoned him at the Senate's plea, the occasion of Cicero's speech Pro Marcello; Marcellus was murdered while making his way home from exile. Servius calls him 'colleague' because both had been augurs and held the consulship."
+    },
+    {
+      "loc": "1",
+      "anchor": "finishing out the remainder of my judicial business",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus was Caesar's governor of Achaea (Greece), and was touring the province to hold assizes (administer justice) when he chanced to meet Marcellus at the Piraeus the day before the murder, making him an eyewitness reporter of events."
+    },
+    {
+      "loc": "2",
+      "anchor": "struck after dinner by P. Magius Cilo, his own intimate, with a dagger",
+      "entity_id": "person:p-magius-cilo",
+      "note": "The killer was not a political enemy but one of Marcellus's own companions. Ancient sources disagree on the motive --- a refused loan or financial grievance, or simple madness --- and some even suspected Caesar's hand, though Cicero and Servius treat it as a private crime. Magius killed himself immediately after."
+    },
+    {
+      "loc": "3",
+      "anchor": "the man whom his enemies had spared for the sake of his standing has found a friend to deal him death",
+      "entity_id": null,
+      "note": "The bitter paradox of the letter: Marcellus survived civil war and exile, and was spared by the victorious Caesar out of regard for his dignitas, only to be killed by a trusted friend just as he was returning home. The reflection on the caprice of fortune is what makes this a fitting companion-piece to the Tullia consolation."
+    },
+    {
+      "loc": "3",
+      "anchor": "I could not win the granting of a place of burial within the city, since they said they were prevented by religious scruple",
+      "entity_id": null,
+      "note": "Both Greek and Roman religious law forbade burial within the city walls (the pomerium at Rome), reserving intramural interment as a rare honour. The Athenians refused even for so distinguished a Roman, citing this prohibition, so Servius had to find an alternative resting place outside the inhabited centre."
+    },
+    {
+      "loc": "3",
+      "anchor": "in the most famous gymnasium in the world, the place of the Academy",
+      "entity_id": "place:academia-athens",
+      "note": "The Academy was the grove and gymnasium northwest of Athens where Plato had taught; it lay outside the city and gave its name to the Academic philosophical school. Burying and commemorating Marcellus there was a signal honour, associating him with the intellectual glory of Athens that he, a cultivated exile, had shared."
+    },
+    {
+      "loc": "3",
+      "anchor": "in virtue of our shared office and our personal connection",
+      "entity_id": null,
+      "note": "Servius justifies the trouble he took --- arranging the cremation, funeral, and a marble monument --- by appeal to two bonds: the collegial tie of men who had held the same magistracies and priesthoods, and propinquitas, a personal or family connection. Such reciprocal duties (officia) were the moral fabric of Roman aristocratic friendship."
+    }
+  ]
+}

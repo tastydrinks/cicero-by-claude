@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I scarcely entrust them even to my own copyists",
+      "entity_id": null,
+      "note": "Sensitive letters were dictated to or copied by trusted librarii (slave secretaries); Cicero's reluctance signals how dangerous his candour about the dynasts had become."
+    },
+    {
+      "loc": "2",
+      "anchor": "40,000 sesterces",
+      "entity_id": null,
+      "note": "The bargain was for ten million sesterces (HS quadragena, 40,000 per century or tribe); the bribe Memmius and Domitius promised the sitting consuls in return for help at the polls."
+    },
+    {
+      "loc": "2",
+      "anchor": "a \\textit{lex curiata} was passed",
+      "entity_id": null,
+      "note": "The lex curiata de imperio, a formal grant of authority voted by the comitia curiata, was needed to validate a magistrate's imperium; the conspirators planned to fake augural testimony that it had been passed."
+    },
+    {
+      "loc": "2",
+      "anchor": "the decree on the consular provinces",
+      "entity_id": null,
+      "note": "Under the lex Sempronia the Senate assigned the provinces the consuls would govern after office; the plotters planned to have consulars falsely swear they had attended a meeting that never took place."
+    },
+    {
+      "loc": "3",
+      "anchor": "a silent verdict",
+      "entity_id": null,
+      "note": "Tacitum iudicium: a proposed secret, non-public vote by jury-panels passing judgement on each candidate's conduct before the elections, an extraordinary anti-bribery measure."
+    },
+    {
+      "loc": "3",
+      "anchor": "appealed to the tribunes",
+      "entity_id": "office:tribune",
+      "note": "The tribunes of the plebs could intercede (intercessio) on behalf of citizens; the jurors invoked this protection to refuse judging without an order of the people."
+    },
+    {
+      "loc": "3",
+      "anchor": "``Abdera!''",
+      "entity_id": null,
+      "note": "A proverbial byword for a town of fools (Greek Abdera in Thrace); Cicero exclaims it to mark the farcical muddle of the Senate's self-contradicting decrees."
+    },
+    {
+      "loc": "4",
+      "anchor": "\\textit{obnuntiationes}",
+      "entity_id": null,
+      "note": "Obnuntiatio: the announcement of an unfavourable omen by a magistrate or augur, which could halt or postpone public business such as elections; here used obstructively day after day."
+    },
+    {
+      "loc": "4",
+      "anchor": "the day before the Kalends of October",
+      "entity_id": null,
+      "note": "30 September by the inclusive Roman count; the Kalends fell on the first of the month."
+    },
+    {
+      "loc": "4",
+      "anchor": "tribe by tribe",
+      "entity_id": null,
+      "note": "Tributim: canvassing voters organized by their voting tribes, the units in which the assembly cast its votes; a euphemism here for systematic bribery."
+    },
+    {
+      "loc": "4",
+      "anchor": "the business of many market-days",
+      "entity_id": null,
+      "note": "Nundinae, the eight-day market cycle, served as a rough calendar unit; Cicero doubts the electoral crisis will be resolved within a few such cycles."
+    },
+    {
+      "loc": "4",
+      "anchor": "Cato is unwell",
+      "entity_id": "person:cato-minor",
+      "note": "M. Porcius Cato (Uticensis), the Stoic and uncompromising defender of the old order; his illness means the one truly free voice will be absent from the Senate."
+    },
+    {
+      "loc": "6",
+      "anchor": "the British war",
+      "entity_id": "place:britannia",
+      "note": "Caesar's second expedition to Britain in 54 BC; Cicero's brother Quintus was serving on Caesar's staff and sent eyewitness reports."
+    },
+    {
+      "loc": "6",
+      "anchor": "not a scruple of silver on that island",
+      "entity_id": null,
+      "note": "A scrupulum was the smallest Roman weight (about 1.14 grams); Cicero jokes that Britain held no treasure worth the campaign, only unschooled slaves."
+    },
+    {
+      "loc": "7",
+      "anchor": "his basilica",
+      "entity_id": "person:l-aemilius-paulus-cos50",
+      "note": "L. Aemilius Paulus, restoring the Basilica Aemilia in the Forum; Caesar secretly financed the work to win his support, part of the lavish building boom Cicero describes."
+    },
+    {
+      "loc": "7",
+      "anchor": "sixty million sesterces",
+      "entity_id": null,
+      "note": "Sescenties HS (60,000,000 sesterces): the enormous sum Caesar's agents, including Cicero, paid private owners to clear land for the new Forum and voting precincts."
+    },
+    {
+      "loc": "7",
+      "anchor": "the Atrium of Liberty",
+      "entity_id": null,
+      "note": "The Atrium Libertatis on the edge of the Forum housed the censors' records and freed-slave registers; the planned forum extension would reach as far as it."
+    },
+    {
+      "loc": "7",
+      "anchor": "the precincts for the tribal elections",
+      "entity_id": null,
+      "note": "The Saepta on the Campus Martius, the enclosures where the tribal assembly voted; Caesar's plan rebuilt them grandly in marble with a surrounding portico."
+    },
+    {
+      "loc": "7",
+      "anchor": "the \\textit{lustrum}",
+      "entity_id": null,
+      "note": "The lustrum was the purificatory ceremony closing the census; with the censors of 54 paralysed by the scandals, its completion was 'despaired of'."
+    },
+    {
+      "loc": "7",
+      "anchor": "the \\textit{lex Coctia}",
+      "entity_id": null,
+      "note": "An otherwise unknown law named in a corrupt passage; the manuscript reading 'Coctia' is uncertain and may conceal a different statute."
+    }
+  ]
+}

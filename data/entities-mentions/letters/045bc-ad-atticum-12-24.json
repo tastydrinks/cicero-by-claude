@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-24",
+  "mentions": [
+    {"loc": "1", "surface": "bene fecit A. Silius qui transegerit", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "de Ovia confice, ut scribis", "entity_id": "person:ovia", "in": "lat"},
+    {"loc": "1", "surface": "de Cicerone tempus esse iam videtur", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "Athenis permutarine possit", "entity_id": "place:athenae", "in": "lat"},
+    {"loc": "1", "surface": "Publilius iturusne sit in Africam", "entity_id": "person:publilius-frater", "in": "lat"},
+    {"loc": "1", "surface": "iturusne sit in Africam et quando", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "1", "surface": "et quando ex Aledio scire poteris", "entity_id": "person:aledius", "in": "lat"},
+    {"loc": "1", "surface": "Aulus Silius has done well in settling the business", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "As to Ovia, finish it off, as you say", "entity_id": "person:ovia", "in": "eng"},
+    {"loc": "1", "surface": "About young Cicero, the time now seems to be at hand", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "can be transferred by exchange at Athens", "entity_id": "place:athenae", "in": "eng"},
+    {"loc": "1", "surface": "Whether Publilius is going to Africa", "entity_id": "person:publilius-frater", "in": "eng"},
+    {"loc": "1", "surface": "Publilius is going to Africa, and when", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "1", "surface": "you will be able to find out from Aledius", "entity_id": "person:aledius", "in": "eng"},
+    {"loc": "3", "surface": "itemque Preciana", "entity_id": "person:precius", "in": "lat"},
+    {"loc": "3", "surface": "de Attica optime", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "3", "surface": "et ei salutem dices et Piliae", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "3", "surface": "and the Precius one as well", "entity_id": "person:precius", "in": "eng"},
+    {"loc": "3", "surface": "About Attica, excellent", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "3", "surface": "Give my greetings to her and to Pilia", "entity_id": "person:pilia", "in": "eng"}
+  ]
+}

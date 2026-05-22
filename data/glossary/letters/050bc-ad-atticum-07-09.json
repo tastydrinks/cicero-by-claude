@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "near the tomb of Basilus",
+      "entity_id": "person:l-minucius-basilus",
+      "note": "The monument of L. Minucius Basilus stood on the Via Appia just outside Rome; the spot was notorious for highwaymen, so it serves Cicero as a landmark for where his courier was robbed."
+    },
+    {
+      "loc": "2",
+      "anchor": "the business is to be brought down to an interregnum",
+      "entity_id": "office:interrex",
+      "note": "If no consuls could be elected, the auspices reverted to the patrician senators, who appointed a series of interreges for five-day terms to hold the elections; the device had been used repeatedly during the electoral paralysis of the late 50s BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "or removed or expelled, or, claiming to have been expelled, has fled to him",
+      "entity_id": null,
+      "note": "Cicero foresees the exact pretext Caesar would in fact use: in January 49 BC the tribunes Antony and Q. Cassius, after their vetoes were overridden, fled to Caesar's camp, giving him the grievance of violated tribunician sacrosanctity."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pompey for certain is to be in Spain",
+      "entity_id": "place:hispania",
+      "note": "Pompey held the two Spanish provinces under the lex Pompeia of 52 BC but governed them through legates while remaining in Italy; were Caesar made consul, Pompey would withdraw to his armies in Spain, leaving Rome to his rival."
+    },
+    {
+      "loc": "4",
+      "anchor": "granted not by the Senate but by yourself, by force and by faction",
+      "entity_id": null,
+      "note": "Cicero, ventriloquizing the case against Caesar, denies the legitimacy of his command: the Gallic provinces were secured through the political combine of 60-59 BC and popular legislation rather than a free senatorial grant."
+    }
+  ]
+}

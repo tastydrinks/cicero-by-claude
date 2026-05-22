@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-22",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "About Rutilia",
+      "entity_id": "person:rutilia",
+      "note": "Rutilia, mother of the orator C. Aurelius Cotta, was a stock instance of a parent who outlived a child with composure; Cicero is gathering such exempla for his self-addressed Consolatio after Tullia's death. He presses Atticus, the antiquarian, to confirm the family facts."
+    },
+    {
+      "loc": "2",
+      "anchor": "whether Clodia outlived her son, the ex-consul Decimus Brutus",
+      "entity_id": "person:d-iunius-brutus-callaicus",
+      "note": "Another parent-outliving-child case for the Consolatio: whether Clodia survived her son D. Junius Brutus Callaicus (consul 138 BC). This is the old republican Decimus Brutus, not Caesar's assassin of the same name."
+    },
+    {
+      "loc": "3",
+      "anchor": "About the gardens",
+      "entity_id": null,
+      "note": "The horti are suburban pleasure-gardens across the Tiber that Cicero is hunting for a site on which to build a fanum (shrine) commemorating his dead daughter Tullia. The obsessive garden-search dominates the Astura letters of spring 45 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "pay interest to the seller for no more than a year",
+      "entity_id": null,
+      "note": "Roman large purchases were often financed by carrying the unpaid balance at interest (usura) until cash could be raised. Cicero proposes to take a garden on credit for up to a year rather than liquidate his own income-producing estates."
+    }
+  ]
+}

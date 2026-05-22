@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-14",
+  "mentions": [
+    {"loc": "1", "surface": "Servius", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "1", "surface": "Servius, as I wrote before", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "by Hercules, he feared nothing", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "2", "surface": "de Hispaniis", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "2", "surface": "de Massilia", "entity_id": "place:massilia", "in": "lat"},
+    {"loc": "2", "surface": "Servius adfert", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "2", "surface": "about Spain", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "2", "surface": "about Marseilles", "entity_id": "place:massilia", "in": "eng"},
+    {"loc": "2", "surface": "What Servius brings on those scores", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "3", "surface": "ad Servium", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "3", "surface": "fili militia Brundisina", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "lat"},
+    {"loc": "3", "surface": "Brundisina", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "3", "surface": "de Caelio", "entity_id": "person:caelius-defendant", "in": "lat"},
+    {"loc": "3", "surface": "But I return to Servius", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "3", "surface": "scruple about his son's service", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "eng"},
+    {"loc": "3", "surface": "service at Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "3", "surface": "concerning Caelius", "entity_id": "person:caelius-defendant", "in": "eng"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-27",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "tribunate of the plebs",
+      "entity_id": "office:tribune",
+      "note": "The tribunes of the plebs were ten annually elected officers whose person was sacrosanct; their chief weapon was the veto (intercessio) by which one could block any magistrate's act or another tribune's measure. Gallus claims he sought the office to be able to defend Cicero's interests."
+    },
+    {
+      "loc": "1",
+      "anchor": "someone to interpose a veto",
+      "entity_id": null,
+      "note": "The intercessio, a tribune's power to halt legislation or a colleague's action by a single word of objection. Cicero's barb is that if Gallus were still a tribune he could simply veto whatever threatened him, instead of begging others to do it."
+    },
+    {
+      "loc": "2",
+      "anchor": "the man on account of whom the rest are free",
+      "entity_id": "person:cicero",
+      "note": "Cicero casts himself as the savior of the Republic for his suppression of the Catilinarian conspiracy in 63 BC, the deed for which he claims the Roman People remain in his debt."
+    }
+  ]
+}

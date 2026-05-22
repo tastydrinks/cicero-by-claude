@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-14",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "both"},
+    {"loc": "1", "surface": "Chrysippus Vettius", "entity_id": "person:chrysippus-vettius", "in": "both"},
+    {"loc": "1", "surface": "Cyri architecti", "entity_id": "person:cyrus-architectus", "in": "lat"},
+    {"loc": "1", "surface": "Cyrus the architect", "entity_id": "person:cyrus-architectus", "in": "eng"},
+    {"loc": "1", "surface": "Britannia", "entity_id": "place:britannia", "in": "lat"},
+    {"loc": "1", "surface": "Britain", "entity_id": "place:britannia", "in": "eng"},
+    {"loc": "2", "surface": "Chrysippo", "entity_id": "person:chrysippus-vettius", "in": "lat"},
+    {"loc": "2", "surface": "Chrysippus", "entity_id": "person:chrysippus-vettius", "in": "eng"},
+    {"loc": "2", "surface": "Caesari", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

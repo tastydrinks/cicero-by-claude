@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-02",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "Alyziam", "entity_id": "place:alyzia", "in": "lat"},
+    {"loc": "1", "surface": "Alyzia", "entity_id": "place:alyzia", "in": "eng"},
+    {"loc": "1", "surface": "Leucadem", "entity_id": "place:leucas", "in": "lat"},
+    {"loc": "1", "surface": "Leucas", "entity_id": "place:leucas", "in": "eng"},
+    {"loc": "1", "surface": "Leucade", "entity_id": "place:leucas", "in": "lat"},
+    {"loc": "1", "surface": "At Leucas", "entity_id": "place:leucas", "in": "eng"},
+    {"loc": "1", "surface": "Marione", "entity_id": "person:mario-servus", "in": "lat"},
+    {"loc": "1", "surface": "Marion", "entity_id": "person:mario-servus", "in": "eng"},
+    {"loc": "1", "surface": "Alyzia.", "entity_id": "place:alyzia", "in": "lat"},
+    {"loc": "1", "surface": "Alyzia.", "entity_id": "place:alyzia", "in": "eng"}
+  ]
+}

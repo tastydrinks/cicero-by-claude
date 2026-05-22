@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-19",
+  "mentions": [
+    {"loc": "1", "surface": "D. BRVTVS IMP. COS. DESIG.", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTVS IMP. COS. DESIG.", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "quartam", "entity_id": "unit:legio-quarta", "in": "lat"},
+    {"loc": "1", "surface": "the Fourth", "entity_id": "unit:legio-quarta", "in": "eng"},
+    {"loc": "1", "surface": "Martiam legiones", "entity_id": "unit:legio-martia", "in": "lat"},
+    {"loc": "1", "surface": "the Martian legions", "entity_id": "unit:legio-martia", "in": "eng"},
+    {"loc": "1", "surface": "Druso", "entity_id": "person:m-livius-drusus-claudianus", "in": "lat"},
+    {"loc": "1", "surface": "Drusus", "entity_id": "person:m-livius-drusus-claudianus", "in": "eng"},
+    {"loc": "1", "surface": "Paulloque", "entity_id": "person:l-aemilius-paulus-cos50", "in": "lat"},
+    {"loc": "1", "surface": "Paullus", "entity_id": "person:l-aemilius-paulus-cos50", "in": "eng"},
+    {"loc": "2", "surface": "Vicetini", "entity_id": "place:vicetia", "in": "lat"},
+    {"loc": "2", "surface": "The people of Vicetia", "entity_id": "place:vicetia", "in": "eng"},
+    {"loc": "2", "surface": "M. Brutum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "M. Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "Vercellis", "entity_id": "place:vercellae", "in": "lat"},
+    {"loc": "2", "surface": "Vercellae", "entity_id": "place:vercellae", "in": "eng"}
+  ]
+}

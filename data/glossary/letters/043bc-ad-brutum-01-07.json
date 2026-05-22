@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "our family connection",
+      "entity_id": "person:l-calpurnius-bibulus",
+      "note": "Lucius Calpurnius Bibulus was the son of Marcus Calpurnius Bibulus (consul 59 BC) and Porcia, the sister of Cato the Younger; Porcia was also Brutus's half-sister (Cato was Brutus's maternal uncle), making Bibulus Brutus's cousin by marriage."
+    },
+    {
+      "loc": "1",
+      "anchor": "stand for Pansa's place",
+      "entity_id": "person:vibius-pansa",
+      "note": "When a consul died in office, the surviving consul held elections (comitia) to fill the vacancy for the remainder of the year; Bibulus wished to be elected suffect consul to replace Pansa, who died of wounds sustained at Forum Gallorum."
+    },
+    {
+      "loc": "1",
+      "anchor": "That nomination we ask of you",
+      "entity_id": "person:cicero",
+      "note": "Roman electoral procedure required that a magistrate formally announce (nominare) a candidate's name in the comitia; Cicero, as the most senior statesman in Rome, had the political standing to nominate Bibulus effectively."
+    },
+    {
+      "loc": "2",
+      "anchor": "Domitius and Apuleius",
+      "entity_id": null,
+      "note": "Gnaeus Domitius Ahenobarbus (later consul 32 BC) and Marcus Appuleius are here commended as additional candidates for office; both were young men associated with Brutus's cause in the East who stood for elections in Rome in 43 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "he can grow up to answer to the praises of you few",
+      "entity_id": "person:l-calpurnius-bibulus",
+      "note": "Brutus closes with an appeal to Cicero's pride: Bibulus can fulfil the legacy of the small circle of great men — Cicero, Cato, Brutus himself — who have upheld Republican ideals against both Caesar and Antony."
+    }
+  ]
+}

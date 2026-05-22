@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the crown of the Reatines",
+      "entity_id": "place:reate",
+      "note": "Reate was a town in the Sabine country northeast of Rome; the \"crown\" (corona) was a golden votive wreath the Reatines were offering, a gesture of allegiance to the victorious Caesar. Cicero reads such deputations as the first stirrings of a Caesarian proscription."
+    },
+    {
+      "loc": "1",
+      "anchor": "the seed of proscription is being sown",
+      "entity_id": null,
+      "note": "Proscription was the publication of lists outlawing enemies, whose property was confiscated and lives forfeit, made notorious by Sulla in 82 BC. Cicero fears Caesar's victory will revive the practice, the Sabine deputations being its first ominous signs."
+    },
+    {
+      "loc": "2",
+      "anchor": "the eleventh day before the Kalends of April",
+      "entity_id": null,
+      "note": "Roman dates were reckoned by counting backward (inclusively) from three fixed points each month: the Kalends (1st), the Nones (5th or 7th), and the Ides (13th or 15th). The eleventh day before the Kalends of April is 22 March."
+    },
+    {
+      "loc": "2",
+      "anchor": "Homer's Minerva in the likeness of Mentor",
+      "entity_id": "god:minerva",
+      "note": "In the Odyssey the goddess Athena (Latin Minerva) takes the form of the old counsellor Mentor to guide and advise Telemachus and Odysseus. Cicero wishes for such a divine adviser to tell him how to face his coming interview with Caesar."
+    }
+  ]
+}

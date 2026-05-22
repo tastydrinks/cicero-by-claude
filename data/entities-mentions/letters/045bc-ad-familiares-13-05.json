@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-05",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO S. D. Q. VALERIO LEG. PROPR.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO S. D. Q. VALERIO LEG. PROPR.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Q. VALERIO LEG. PROPR.", "entity_id": "person:q-valerius-orca", "in": "lat"},
+    {"loc": "1", "surface": "Q. VALERIO LEG. PROPR.", "entity_id": "person:q-valerius-orca", "in": "eng"},
+    {"loc": "1", "surface": "LEG. PROPR.", "entity_id": "office:propraetor", "in": "lat"},
+    {"loc": "1", "surface": "LEG. PROPR.", "entity_id": "office:legatus", "in": "lat"},
+    {"loc": "1", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "C. Curtio", "entity_id": "person:c-curtius-volaterranus", "in": "lat"},
+    {"loc": "2", "surface": "C. Curtius", "entity_id": "person:c-curtius-volaterranus", "in": "eng"},
+    {"loc": "2", "surface": "Sullani temporis", "entity_id": "person:sulla", "in": "lat"},
+    {"loc": "2", "surface": "the Sullan time", "entity_id": "person:sulla", "in": "eng"},
+    {"loc": "2", "surface": "in Volaterrano", "entity_id": "place:volaterrae", "in": "lat"},
+    {"loc": "2", "surface": "in the territory of Volaterrae", "entity_id": "place:volaterrae", "in": "eng"},
+    {"loc": "2", "surface": "Caesar in senatum legit", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar has enrolled him in the Senate", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "in senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "Caesaris iussu dividatur", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar's orders are dividing", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "C. Curti", "entity_id": "person:c-curtius-volaterranus", "in": "lat"},
+    {"loc": "3", "surface": "C. Curtius", "entity_id": "person:c-curtius-volaterranus", "in": "eng"}
+  ]
+}

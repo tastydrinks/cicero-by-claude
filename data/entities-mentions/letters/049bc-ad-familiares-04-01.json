@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-01",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "SER. SVLPICIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SER. SVLPICIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "C. Trebativs", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "G. Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "Servi", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "Servius", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "rei publicae", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "in senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "to the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "de Hispaniis", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "1", "surface": "the Spains", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "2", "surface": "urbem", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "the city", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Trebatioque", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "2", "surface": "Trebatius", "entity_id": "person:c-trebatius-testa", "in": "eng"}
+  ]
+}

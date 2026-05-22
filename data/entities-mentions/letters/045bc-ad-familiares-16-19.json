@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-19",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI SVO", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "TULLIUS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TIRO", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Demetrium", "entity_id": "person:demetrius-circle-45", "in": "lat"},
+    {"loc": "1", "surface": "Demetrius", "entity_id": "person:demetrius-circle-45", "in": "eng"},
+    {"loc": "1", "surface": "Aufidiano nomine", "entity_id": "person:sex-aufidius", "in": "lat"},
+    {"loc": "1", "surface": "Aufidius account", "entity_id": "person:sex-aufidius", "in": "eng"}
+  ]
+}

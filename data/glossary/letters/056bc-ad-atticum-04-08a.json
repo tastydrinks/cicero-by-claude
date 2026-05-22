@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-08a",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Since a day has been added to the games",
+      "entity_id": null,
+      "note": "Public games could be prolonged by an added day, often for ritual or political reasons (an instauratio); the extra day gives Cicero leisure to spend with Dionysius."
+    },
+    {
+      "loc": "2",
+      "anchor": "About Trebonius",
+      "entity_id": "person:c-trebonius",
+      "note": "C. Trebonius, tribune 55 BC, carried the lex Trebonia assigning the Spains to Pompey and Syria to Crassus for five years; Cicero and Atticus are weighing his conduct."
+    },
+    {
+      "loc": "2",
+      "anchor": "by Demeter",
+      "entity_id": null,
+      "note": "Cicero quotes a Greek proverb on perfect likeness ('no fig was ever so like a fig'), the oath 'by Demeter' being part of the tag, to liken Domitius's plight to his own."
+    },
+    {
+      "loc": "2",
+      "anchor": "About Domitius",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "note": "L. Domitius Ahenobarbus, the leading anti-triumviral candidate, was being obstructed in his run for the consulship of 54 BC; Cicero pities him while noting his troubles are deserved."
+    },
+    {
+      "loc": "2",
+      "anchor": "consul-designate",
+      "entity_id": null,
+      "note": "Consul designatus: the title held between election and entry into office on 1 January. Cicero's barb is that Domitius has been a presumptive consul-in-waiting nearly all his life yet still cannot get elected."
+    },
+    {
+      "loc": "3",
+      "anchor": "Gavius the Firmian",
+      "entity_id": null,
+      "note": "A man from Firmum (modern Fermo) in Picenum, source of Cicero's information about the 'Firmian brothers'; otherwise unidentified."
+    }
+  ]
+}

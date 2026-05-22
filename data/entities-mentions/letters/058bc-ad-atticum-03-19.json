@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-19",
+  "mentions": [
+    {"loc": "0", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "0", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Thessalonicae", "entity_id": "place:thessalonica", "in": "lat"},
+    {"loc": "1", "surface": "Asiam", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "Epirum", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "1", "surface": "Thessalonica", "entity_id": "place:thessalonica", "in": "eng"},
+    {"loc": "1", "surface": "Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "1", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "2", "surface": "fratris", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "Sesti", "entity_id": "person:sestius-tribune", "in": "lat"},
+    {"loc": "2", "surface": "Terentiae", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "2", "surface": "Tulliolae", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "2", "surface": "Epirus", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "2", "surface": "brother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "Sestius", "entity_id": "person:sestius-tribune", "in": "eng"},
+    {"loc": "2", "surface": "Terentia", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "2", "surface": "Tullia", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "2", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "3", "surface": "T. Pomponi", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "3", "surface": "Quintum fratrem", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "3", "surface": "Terentiam", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "3", "surface": "T. Pomponius", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "3", "surface": "Quintus my brother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "3", "surface": "Terentia", "entity_id": "person:terentia", "in": "eng"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-16",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "'Equo Troiano'", "entity_id": "text:equus-troianus", "in": "lat"},
+    {"loc": "1", "surface": "Trojan Horse", "entity_id": "text:equus-troianus", "in": "eng"},
+    {"loc": "1", "surface": "Britannia", "entity_id": "place:britannia", "in": "lat"},
+    {"loc": "1", "surface": "Britain", "entity_id": "place:britannia", "in": "eng"},
+    {"loc": "2", "surface": "Cn. Octavio", "entity_id": "person:cn-octavius", "in": "lat"},
+    {"loc": "2", "surface": "Cn. Octavius", "entity_id": "person:cn-octavius", "in": "eng"},
+    {"loc": "3", "surface": "Balbus", "entity_id": "person:l-cornelius-balbus", "in": "both"},
+    {"loc": "3", "surface": "Stoici", "entity_id": "institution:stoic-school", "in": "lat"},
+    {"loc": "3", "surface": "Stoics", "entity_id": "institution:stoic-school", "in": "eng"},
+    {"loc": "3", "surface": "Samarobrivae", "entity_id": "place:samarobriva", "in": "lat"},
+    {"loc": "3", "surface": "Samarobriva", "entity_id": "place:samarobriva", "in": "eng"}
+  ]
+}

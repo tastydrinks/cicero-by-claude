@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-67",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO P. SERVILIO PROPR. S.",
+      "entity_id": "person:p-servilius-vatia-isauricus-minor",
+      "note": "The letter-heading; 'PROPR.' = pro praetore, the rank under which Servilius governed Asia. The recipient is the younger P. Servilius Vatia Isauricus, Cicero's fellow augur, here addressed as the provincial governor who can extend hospitality to Cicero's eastern friends."
+    },
+    {
+      "loc": "1",
+      "anchor": "three Asiatic districts",
+      "entity_id": "place:asia-province",
+      "note": "Greek 'treis dioikeseis': three judicial circuits (conventus) detached from the province of Asia and attached to Cicero's command of Cilicia in 51-50 BC, namely Cibyra, Apamea, and Synnada. They contained inland Laodicea, Andro's home city."
+    },
+    {
+      "loc": "1",
+      "anchor": "Andro son of Artemo, of Laodicea",
+      "entity_id": "person:andro-laodicensis",
+      "note": "A leading Greek citizen of inland (Phrygian) Laodicea, identified by the patronymic 'son of Artemo' in the Greek manner. He had been Cicero's host during his Cilician proconsulship and is now commended to Servilius as one deserving of hospitium."
+    },
+    {
+      "loc": "1",
+      "anchor": "both as a host and as a man very well suited to the manner and habits of my own life",
+      "entity_id": null,
+      "note": "Hospitium was the formal, inheritable bond of guest-friendship between a Roman and a provincial host; Cicero asks Servilius to receive Andro 'into his protection' (in fidem), extending that personal tie. He stresses the rarity of grateful provincials to make the point that Andro has earned the favour."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "my little rents from the estates",
+      "entity_id": null,
+      "note": "The small rents (mercedulae) owed by the tenants of Cicero's country properties, which he needs to go and settle in person. Such estate-management was a routine reason for a senator's absence from Rome."
+    },
+    {
+      "loc": "1",
+      "anchor": "on our friend Brutus",
+      "entity_id": "person:brutus",
+      "note": "Marcus Junius Brutus, the future tyrannicide, then a close intellectual companion and the dedicatee of Cicero's De Finibus. He had been wanting Cicero's daily company at Tusculum."
+    },
+    {
+      "loc": "1",
+      "anchor": "more conveniently in the Tusculanum",
+      "entity_id": "place:tusculum",
+      "note": "Cicero's villa at Tusculum in the Alban Hills southeast of Rome, his favourite retreat for study and writing. \"The Tusculanum\" names the estate rather than the town."
+    },
+    {
+      "loc": "2",
+      "anchor": "if Servilia has come",
+      "entity_id": null,
+      "note": "Servilia, Brutus's mother and a formidable political operator, whose movements bore on Brutus's domestic affairs (his contested divorce and remarriage). The registry does not yet hold a securely matching entity for this Servilia."
+    },
+    {
+      "loc": "2",
+      "anchor": "Piso, if you can, you will meet with",
+      "entity_id": null,
+      "note": "A man named Piso whom Atticus is to approach, probably as an intermediary in Cicero's financial business of these weeks. He cannot be confidently identified with any particular Piso in the registry."
+    }
+  ]
+}

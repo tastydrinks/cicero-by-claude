@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "tyrotarichus",
+      "entity_id": null,
+      "note": "A Greek-named dish of salt-fish and cheese; a homely delicacy Cicero relishes here as a gift mentioned in Atticus's letter."
+    },
+    {
+      "loc": "1",
+      "anchor": "Antium is to Rome what your Buthrotum is to Corcyra",
+      "entity_id": "place:antium",
+      "note": "Antium (modern Anzio) was Cicero's favourite quiet seaside retreat from Rome, paired here with Atticus's villa estate at Buthrotum in Epirus, near the island of Corcyra (Corfu)."
+    },
+    {
+      "loc": "2",
+      "anchor": "Tyrannio",
+      "entity_id": "person:tyrannio",
+      "note": "A learned grammarian from Amisus, brought to Rome as a prisoner of war; he catalogued and arranged Cicero's library, with help from Atticus's slaves Dionysius and Menophilus."
+    },
+    {
+      "loc": "2",
+      "anchor": "title-labels",
+      "entity_id": null,
+      "note": "Latin sillybi (Greek sittybai): the small parchment tags hung from a papyrus roll bearing its title, here added to brighten the newly shelved books."
+    },
+    {
+      "loc": "2",
+      "anchor": "gladiators",
+      "entity_id": null,
+      "note": "Atticus owned and let out a troupe of gladiators; Cicero, half in jest, asks for news of them only if they are fighting well."
+    }
+  ]
+}

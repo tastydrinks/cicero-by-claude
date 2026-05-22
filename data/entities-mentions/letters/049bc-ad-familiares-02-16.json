@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-16",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "lictorum",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "imperi",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "laurus",
+      "entity_id": "institution:triumph",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Italiae",
+      "entity_id": "place:italia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Italia",
+      "entity_id": "place:italia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "lictors",
+      "entity_id": "office:imperator",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "imperator",
+      "entity_id": "office:imperator",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "laurel",
+      "entity_id": "institution:triumph",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Italy",
+      "entity_id": "place:italia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Italy",
+      "entity_id": "place:italia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Cumanum",
+      "entity_id": "place:cumae",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "T. Ampi",
+      "entity_id": "person:t-ampius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Italia",
+      "entity_id": "place:italia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Q. Hortensium",
+      "entity_id": "person:hortensius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Cumae",
+      "entity_id": "place:cumae",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "T.\\ Ampius",
+      "entity_id": "person:t-ampius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Italy",
+      "entity_id": "place:italia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Q.\\ Hortensius",
+      "entity_id": "person:hortensius",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "filio meo",
+      "entity_id": "person:quintus-cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "generum meum",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Tulliam",
+      "entity_id": "person:tullia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Dolabellam",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "my son",
+      "entity_id": "person:quintus-cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "my son-in-law",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "my Tullia",
+      "entity_id": "person:tullia",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "my Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "6",
+      "surface": "Hispaniensem",
+      "entity_id": "place:hispania",
+      "in": "lat"
+    },
+    {
+      "loc": "6",
+      "surface": "Spanish",
+      "entity_id": "place:hispania",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Oppio",
+      "entity_id": "person:gaius-oppius",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Dolabellae",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "7",
+      "surface": "Oppius",
+      "entity_id": "person:gaius-oppius",
+      "in": "eng"
+    },
+    {
+      "loc": "7",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    }
+  ]
+}

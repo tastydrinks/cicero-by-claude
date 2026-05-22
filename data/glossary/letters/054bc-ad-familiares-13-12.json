@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "military tribune",
+      "entity_id": "office:tribunus-militum",
+      "note": "Tribunus militum: a senior officer of a Roman legion (six per legion), often the staff posting given to young men of equestrian standing on a governor's command. Q. Fufidius held this rank under Cicero in Cilicia in 51-50 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "Cilicia",
+      "entity_id": "place:cilicia",
+      "note": "The province of southern Asia Minor where Cicero served as proconsul from summer 51 to summer 50 BC."
+    }
+  ]
+}

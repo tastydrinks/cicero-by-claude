@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-12",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "epistulae tuae de Attica nostra",
+      "entity_id": "person:attica-pomponia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Your letters about our Attica",
+      "entity_id": "person:attica-pomponia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "quod ad me de Varrone scribis",
+      "entity_id": "person:m-terentius-varro",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "ut Varronem nusquam possem intexere",
+      "entity_id": "person:m-terentius-varro",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "iam Varro mihi denuntiaverat",
+      "entity_id": "person:m-terentius-varro",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "nam hoc etiam Hesiodus ascribit",
+      "entity_id": "person:hesiod",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "sane mihi probatam Bruto",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "ad Varronem transferamus",
+      "entity_id": "person:m-terentius-varro",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "etenim sunt Antiochia quae iste valde probat",
+      "entity_id": "person:antiochus-ascalon",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Catulo et Lucullo alibi reponemus",
+      "entity_id": "person:q-lutatius-catulus-cos78",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "et Lucullo alibi reponemus",
+      "entity_id": "person:l-lucullus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "what you write to me about Varro",
+      "entity_id": "person:m-terentius-varro",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "I could nowhere weave Varro in",
+      "entity_id": "person:m-terentius-varro",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Varro had already been giving me notice",
+      "entity_id": "person:m-terentius-varro",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "our friend Callippides",
+      "entity_id": "person:callippides",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "For Hesiod, too, adds this",
+      "entity_id": "person:hesiod",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "we have, at your suggestion, promised to Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "let us transfer to Varro",
+      "entity_id": "person:m-terentius-varro",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "So that Academic work",
+      "entity_id": "text:academica",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "There are Antiochean doctrines in it",
+      "entity_id": "person:antiochus-ascalon",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Catulus and Lucullus we shall set down elsewhere",
+      "entity_id": "person:q-lutatius-catulus-cos78",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "and Lucullus we shall set down elsewhere",
+      "entity_id": "person:l-lucullus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "de Brinniana auctione",
+      "entity_id": "person:brinnius",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "accepi a Vestorio litteras",
+      "entity_id": "person:c-vestorius",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Romae videlicet",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "aut in Tusculano me fore putaverunt",
+      "entity_id": "place:tusculum",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "vel Labeoni nostro",
+      "entity_id": "person:antistius-labeo",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "me circiter Nonas in Tusculano fore",
+      "entity_id": "place:tusculum",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "de Scapulanis hortis",
+      "entity_id": "person:p-scapula",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Erotem habes",
+      "entity_id": "person:eros-atticianus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "About the Brinnian auction",
+      "entity_id": "person:brinnius",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "I have had a letter from Vestorius",
+      "entity_id": "person:c-vestorius",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "I would be at Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "at Rome or at the Tusculanum",
+      "entity_id": "place:tusculum",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "our Labeo",
+      "entity_id": "person:antistius-labeo",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "I shall be at the Tusculanum around the Nones",
+      "entity_id": "place:tusculum",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "About the Scapulan gardens",
+      "entity_id": "person:p-scapula",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "you have Eros",
+      "entity_id": "person:eros-atticianus",
+      "in": "eng"
+    }
+  ]
+}

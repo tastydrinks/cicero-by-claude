@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-01",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CASSIO", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "CASSIO", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "Cassi", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "Cassius", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "Bruto nostro", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "our Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "re p.", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "the whole state", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "1", "surface": "D. Bruto", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. Brutus", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "Dolabella meo", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "my dear Dolabella", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "1", "surface": "urbi", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "the city", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "rege", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "the king", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "senatus consulta", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "decrees of the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "rem p.", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "2", "surface": "the state", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "2", "surface": "tyranni", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "the tyrant", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

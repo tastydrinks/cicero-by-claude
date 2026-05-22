@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-10",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO AEDILI CVRVLI DESIGNATO",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "imp.",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "aedilis",
+      "entity_id": "office:aedile",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Hillo",
+      "entity_id": "person:hillus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO AEDILI CVRVLI DESIGNATO",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "aedile",
+      "entity_id": "office:aedile",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Hillus",
+      "entity_id": "person:hillus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Parthos",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Parthico bello",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Amanum",
+      "entity_id": "place:amanus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cassius noster",
+      "entity_id": "person:cassius-longinus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Antiochea",
+      "entity_id": "place:antiochia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Parthians",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Parthian war",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Amanus",
+      "entity_id": "place:amanus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "our friend Cassius",
+      "entity_id": "person:cassius-longinus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Antioch",
+      "entity_id": "place:antiochia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Bibulus",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Amaniensis",
+      "entity_id": "place:eleutherocilices",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Issum",
+      "entity_id": "place:issus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Clitarchus",
+      "entity_id": "person:clitarchus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Dareum",
+      "entity_id": "person:darius-iii",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Alexandro",
+      "entity_id": "person:alexander-magnus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Ciliciae",
+      "entity_id": "place:cilicia",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "imperator",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Pindenissum",
+      "entity_id": "place:pindenissum",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Amanienses",
+      "entity_id": "place:eleutherocilices",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Issus",
+      "entity_id": "place:issus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Clitarchus",
+      "entity_id": "person:clitarchus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Darius",
+      "entity_id": "person:darius-iii",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Alexander",
+      "entity_id": "person:alexander-magnus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Cilicia",
+      "entity_id": "place:cilicia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "imperator",
+      "entity_id": "office:imperator",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Pindenissus",
+      "entity_id": "place:pindenissum",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Parthos",
+      "entity_id": "place:parthia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "mi Rufe",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Parthians",
+      "entity_id": "place:parthia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "my Rufus",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-04",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "having slipped from his father-in-law's hands and his sword",
+      "entity_id": "person:pompey",
+      "note": "Pompey had married Caesar's daughter Julia, so the two were father-in-law and son-in-law even after her death in 54 BC dissolved the bond in practice. Here \"the other\" is Pompey, who escaped Caesar's pursuit at Brundisium and crossed to Greece to muster his forces."
+    },
+    {
+      "loc": "4",
+      "anchor": "we said rightly in those books of mine",
+      "entity_id": "text:de-re-publica",
+      "note": "Cicero refers to his political dialogue De Re Publica, completed in 51 BC, and to the Stoic tenet it shares with his ethics that nothing is truly good but the honourable and nothing truly evil but the base. Atticus had reminded him of his own teaching to console him."
+    },
+    {
+      "loc": "8",
+      "anchor": "all those who were condemned under the Pompeian law are to be restored",
+      "entity_id": "law:lex-pompeia-de-ambitu",
+      "note": "Pompey's laws of 52 BC on electoral corruption and violence had sent many men into exile after summary trials. Caesar now planned to recall them wholesale, both to win their loyalty and to undo his rival's legacy."
+    },
+    {
+      "loc": "9",
+      "anchor": "those six fasces of yours? If they are from the Senate, why are they laurelled?",
+      "entity_id": "office:lictor",
+      "note": "The fasces were the bundled rods carried by lictors that signified a magistrate's authority; six denoted a propraetor, twelve a consul or proconsul. Laurel-wreathed fasces marked a commander hailed for a victory, so Cicero teases Curio that his insignia do not match any lawful grant."
+    },
+    {
+      "loc": "8",
+      "anchor": "he had given offence to the plebs themselves over the treasury",
+      "entity_id": "institution:aerarium",
+      "note": "On entering Rome in 49 BC Caesar broke open the Aerarium Saturni, the state treasury kept in the temple of Saturn, when the tribune Metellus tried to bar him. Even Caesar's own supporters found the seizure of the sacred reserve unpopular."
+    },
+    {
+      "loc": "11",
+      "anchor": "whether he is going to wait for an interregnum",
+      "entity_id": "office:interrex",
+      "note": "When both consulships fell vacant with no successors elected, the patrician senators appointed a series of interreges, each holding office five days, until elections could be held. Caesar weighed using this device, or having the consulship simply conferred on him, to legitimise his power."
+    }
+  ]
+}

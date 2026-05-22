@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-59",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO C. CVRTIO PEDVCAEANO PR. S.",
+      "entity_id": "person:c-curtius-peducaeanus",
+      "note": "The letter-heading; a recommendation to the praetor C. Curtius Peducaeanus (PR. = praetor) in 50 BC on behalf of Cicero's old friend M. Fadius. \"S.\" abbreviates salutem (dicit), \"sends greetings.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "you will keep your edict and your established practice",
+      "entity_id": null,
+      "note": "The praetor's edictum was the standing proclamation, issued at the start of his year of office, setting out the legal rules and remedies he would apply; his institutum was his settled procedural practice. Cicero pointedly does not ask the praetor to depart from either, requesting only fair access for his friend."
+    },
+    {
+      "loc": "1",
+      "anchor": "most of all at your tribunal",
+      "entity_id": null,
+      "note": "The tribunal was the raised platform from which a Roman magistrate dispensed justice; here a metonym for proceedings before the praetor, where M. Fadius's lawsuits would be heard."
+    }
+  ]
+}

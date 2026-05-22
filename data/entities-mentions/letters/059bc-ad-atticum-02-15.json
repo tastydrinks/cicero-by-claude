@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-15",
+  "mentions": [
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Bibuli", "entity_id": "person:m-calpurnius-bibulus", "in": "lat"},
+    {"loc": "2", "surface": "Bibulus", "entity_id": "person:m-calpurnius-bibulus", "in": "eng"},
+    {"loc": "2", "surface": "Publio", "entity_id": "person:clodius", "in": "lat"},
+    {"loc": "2", "surface": "Publius", "entity_id": "person:clodius", "in": "eng"},
+    {"loc": "2", "surface": "tribunus pl.", "entity_id": "office:tribune", "in": "lat"},
+    {"loc": "2", "surface": "tribune of the plebs", "entity_id": "office:tribune", "in": "eng"},
+    {"loc": "2", "surface": "Epiro", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "2", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "3", "surface": "Sebosus", "entity_id": "person:sebosus", "in": "lat"},
+    {"loc": "3", "surface": "Sebosus", "entity_id": "person:sebosus", "in": "eng"},
+    {"loc": "3", "surface": "Arrius", "entity_id": "person:c-arrius", "in": "lat"},
+    {"loc": "3", "surface": "Arrius", "entity_id": "person:c-arrius", "in": "eng"},
+    {"loc": "3", "surface": "Roma", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "3", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "Formiano", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "3", "surface": "Formian villa", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "4", "surface": "Terentiae", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "4", "surface": "Terentia", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "4", "surface": "publicanis", "entity_id": "institution:publicani", "in": "lat"},
+    {"loc": "4", "surface": "publicans", "entity_id": "institution:publicani", "in": "eng"},
+    {"loc": "4", "surface": "Κικέρων", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "4", "surface": "little Cicero", "entity_id": "person:m-cicero-the-younger", "in": "eng"}
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-11",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "TREBIANO",
+      "entity_id": "person:trebianus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Dolabellam",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "TREBIANUS",
+      "entity_id": "person:trebianus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Vestorius",
+      "entity_id": "person:c-vestorius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Sironem",
+      "entity_id": "person:siro",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Vestorius",
+      "entity_id": "person:c-vestorius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "our friend Siro",
+      "entity_id": "person:siro",
+      "in": "eng"
+    }
+  ]
+}

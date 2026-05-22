@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-02",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "We spoke before the pontiffs on the day before the Kalends of October",
+      "entity_id": "institution:college-of-pontiffs",
+      "note": "This is the speech De Domo Sua, delivered on 29 September 57 BC to the College of Pontiffs. The board had to decide whether Clodius's consecration of Cicero's house-site barred its restitution."
+    },
+    {
+      "loc": "3",
+      "anchor": "he who said he had dedicated",
+      "entity_id": "person:clodius",
+      "note": "The pontiffs' ruling turned on a technicality: a valid dedication required that the man performing it be named to the task by a vote of the people. Since Clodius had no such authorisation, the consecration could be lifted."
+    },
+    {
+      "loc": "3",
+      "anchor": "a public meeting which Appius had given him",
+      "entity_id": "person:appius-claudius-pulcher",
+      "note": "A contio, an informal public assembly that any magistrate could convene to address the people without a vote. Appius Claudius Pulcher, Clodius's elder brother and a praetor in 57 BC, summoned this one so Clodius could spin the pontiffs' verdict."
+    },
+    {
+      "loc": "3",
+      "anchor": "the rebuilding of Catulus's portico",
+      "entity_id": "place:porticus-catuli",
+      "note": "A colonnade built by Q. Lutatius Catulus (cos. 78 BC) that adjoined Cicero's house; Clodius had demolished it to extend his own grounds. Its restitution by public contract was bound up with Cicero's own."
+    },
+    {
+      "loc": "4",
+      "anchor": "M. Lucullus",
+      "entity_id": "person:m-lucullus",
+      "note": "M. Terentius Varro Lucullus (consul 73 BC), a senior pontiff and brother of the great Lucullus. He drew the crucial distinction: the priests judged the religious question, the Senate the legal one."
+    },
+    {
+      "loc": "4",
+      "anchor": "Serranus interposed his veto",
+      "entity_id": "person:atilius-serranus",
+      "note": "Sex. Atilius Serranus, a tribune of 57 BC, used the tribunician veto (intercessio) to block the Senate's decree. A single tribune could thus halt senatorial business, the chief obstructive weapon of the period."
+    },
+    {
+      "loc": "4",
+      "anchor": "throwing off his toga, he cast himself at his son-in-law's feet",
+      "entity_id": "person:cornicinus",
+      "note": "A theatrical gesture of supplication: Cornicinus dramatised entreaty by stripping to his tunic and falling at Serranus's feet to win him a delay. Cicero scorns it as a stale piece of stagecraft ('his old play')."
+    },
+    {
+      "loc": "4",
+      "anchor": "they remembered the Kalends of January",
+      "entity_id": null,
+      "note": "A bitter memory: when a previous obstructionist had been granted an overnight adjournment, the delay had let opponents wreck the business by the next day's session. The senators feared a repeat."
+    },
+    {
+      "loc": "5",
+      "anchor": "valued the upper part of the house at two million sesterces",
+      "entity_id": null,
+      "note": "The consuls, on their advisory council, assessed compensation for Cicero's losses: 2,000,000 sesterces for the house's superstructure, 500,000 for the Tusculan villa, 250,000 for the Formian. Cicero thought the country-house figures meanly low."
+    },
+    {
+      "loc": "6",
+      "anchor": "one of Pompey's legates",
+      "entity_id": "office:legatus",
+      "note": "A legatus was a senior deputy appointed to a commander's staff; the post let a senator travel on public business while keeping his standing. Cicero took a free-floating legateship under Pompey's grain command so as to keep his options open."
+    },
+    {
+      "loc": "6",
+      "anchor": "a votive legation",
+      "entity_id": null,
+      "note": "A legatio votiva (or libera) was a nominal commission allowing a senator to travel abroad on the pretext of fulfilling a vow at temples, with the privileges of an envoy but no real duties. Cicero declines it to stay visible at Rome."
+    }
+  ]
+}

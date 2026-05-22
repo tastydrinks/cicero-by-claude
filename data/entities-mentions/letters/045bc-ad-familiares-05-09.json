@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-09",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "VATINIVS IMP.",
+      "entity_id": "person:vatinius-tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Vatinius",
+      "entity_id": "person:vatinius-tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "IMP.",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "IMP.",
+      "entity_id": "office:imperator",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERONI SVO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Cicero",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "P. Vatinius",
+      "entity_id": "person:vatinius-tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Publius Vatinius",
+      "entity_id": "person:vatinius-tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "senatum",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "tuus servus anagnostes fugitivus",
+      "entity_id": "person:dionysius-servus-ciceronis",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "your reader, that runaway slave of yours",
+      "entity_id": "person:dionysius-servus-ciceronis",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Vardaeis",
+      "entity_id": "group:vardaei",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the Vardaeans",
+      "entity_id": "group:vardaei",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Dalmatiam",
+      "entity_id": "place:dalmatia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Dalmatia",
+      "entity_id": "place:dalmatia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Narona",
+      "entity_id": "place:narona",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Narona",
+      "entity_id": "place:narona",
+      "in": "eng"
+    }
+  ]
+}

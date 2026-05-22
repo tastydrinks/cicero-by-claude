@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-07",
+  "mentions": [
+    {"loc": "1", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "1", "surface": "Epiro", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "1", "surface": "Autronio", "entity_id": "person:p-autronius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "Athenas", "entity_id": "place:athenae", "in": "lat"},
+    {"loc": "1", "surface": "Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "1", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "1", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "1", "surface": "Autronius", "entity_id": "person:p-autronius-paetus", "in": "eng"},
+    {"loc": "1", "surface": "Athens", "entity_id": "place:athenae", "in": "eng"},
+    {"loc": "1", "surface": "Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "3", "surface": "Epirum", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "3", "surface": "Candaviam", "entity_id": "place:candavia", "in": "lat"},
+    {"loc": "3", "surface": "Epiro", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "3", "surface": "fratre", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "3", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "3", "surface": "Candavia", "entity_id": "place:candavia", "in": "eng"},
+    {"loc": "3", "surface": "Epirus", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "3", "surface": "my brother", "entity_id": "person:quintus-cicero", "in": "eng"}
+  ]
+}

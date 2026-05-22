@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the course you have followed thus far",
+      "entity_id": "person:m-claudius-marcellus-cos51",
+      "note": "M. Claudius Marcellus (cos. 51), Cicero's augural colleague and a leading optimate, had withdrawn into voluntary exile at Mytilene after the Pompeian collapse rather than seek Caesar's pardon. This is the first of four letters (Fam. 4.7-4.10) in which Cicero urges him to accept reconciliation and return to Rome."
+    },
+    {
+      "loc": "2",
+      "anchor": "who held the consulship with the greatest distinction",
+      "entity_id": "office:consul",
+      "note": "Marcellus was consul in 51 BC, the year in which he pressed hardest for an early end to Caesar's Gallic command, helping precipitate the crisis that led to civil war; Cicero flatters him as a statesman who foresaw the coming disaster."
+    },
+    {
+      "loc": "3",
+      "anchor": "who have taken themselves to Africa",
+      "entity_id": "place:africa",
+      "note": "After Pharsalus (48 BC) the surviving Pompeian leadership regrouped in the province of Africa, where they were finally crushed by Caesar at Thapsus in April 46 BC. Cicero contrasts these die-hards with Marcellus's \"middle course\" of quiet withdrawal."
+    },
+    {
+      "loc": "3",
+      "anchor": "the man in whose hands the power lies",
+      "entity_id": "person:caesar",
+      "note": "Caesar, now dictator and sole master of the state. Cicero hints (without naming him) that Caesar's only hesitation about recalling Marcellus is the fear that the exile would refuse to regard a pardon as a favour; Cicero adds that his own acceptance of clemency shows the way."
+    },
+    {
+      "loc": "4",
+      "anchor": "at Mytilene or at Rhodes",
+      "entity_id": "place:mytilene",
+      "note": "Mytilene (on Lesbos) and Rhodes were famous centres of Greek rhetoric and philosophy and favoured places of cultured exile; Marcellus was in fact living at Mytilene. Cicero argues that life in Caesar's world is no safer abroad than at Rome, since Caesar's power \"embraces the whole globe.\""
+    },
+    {
+      "loc": "6",
+      "anchor": "Gaius Marcellus, your splendid brother",
+      "entity_id": "person:c-claudius-marcellus-cos50",
+      "note": "C. Claudius Marcellus, consul 50 BC, here called Marcellus's \"brother\" (frater, in fact his cousin); it was his tearful intercession in the Senate, supported by the whole house, that moved Caesar to pardon the exile in September 46 BC (the occasion of Cicero's speech Pro Marcello)."
+    }
+  ]
+}

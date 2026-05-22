@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-05",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CICERO VARRONI", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "3", "surface": "Tusculanum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "3", "surface": "Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "3", "surface": "Cumanum", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "3", "surface": "Cumanum", "entity_id": "place:cumae", "in": "eng"}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Dolabella up till now I had only held in high regard",
+      "entity_id": "person:dolabella",
+      "note": "P. Cornelius Dolabella, Cicero's son-in-law (he married Tullia in 50 BC); though the marriage was troubled and later dissolved, Dolabella was a Caesarian officer who used his influence to secure the pardon and return of Trebianus, earning Cicero's deep gratitude here."
+    },
+    {
+      "loc": "1",
+      "anchor": "not having failed him in his dangers",
+      "entity_id": "person:dolabella",
+      "note": "Cicero had defended Dolabella against a charge of adultery brought by P. Valerius Triarius (54 or 50 BC); Dolabella owed him the debt of an acquittal, and this letter acknowledges that the balance has now been more than repaid."
+    },
+    {
+      "loc": "2",
+      "anchor": "Vestorius, our friend",
+      "entity_id": "person:c-vestorius",
+      "note": "Gaius Vestorius, a wealthy businessman of Puteoli and long-standing friend of both Cicero and Atticus; he appears repeatedly in Cicero's correspondence as a link to the business community of Campania."
+    },
+    {
+      "loc": "2",
+      "anchor": "our friend Siro",
+      "entity_id": "person:siro",
+      "note": "Siro, an Epicurean philosopher based at Naples (Neapolis) and teacher to Virgil among others; Cicero speaks of him with warm respect, suggesting a close personal friendship despite his own Academic allegiance."
+    },
+    {
+      "loc": "2",
+      "anchor": "You have acquired more of standing than you have lost of property",
+      "note": "A characteristic Ciceronian consolation-reversal: the loss of fortune (res familiaris) is presented as the lesser evil, since dignitas — civic standing and reputation — has been restored by the pardon, and dignitas was the very thing Pompeians like Trebianus had staked their lives upon."
+    }
+  ]
+}

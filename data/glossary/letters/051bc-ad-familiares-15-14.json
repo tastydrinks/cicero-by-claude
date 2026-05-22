@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-14",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "on your departure from your province the highest praise and the highest goodwill of the province escorted you",
+      "entity_id": "person:cassius-longinus",
+      "note": "Cassius had served as proquaestor in Syria after the death of Crassus and, left in effective command, repulsed a Parthian invasion under Pacorus near Antioch in 51 BC; that is the 'recent victory' Cicero congratulates."
+    },
+    {
+      "loc": "4",
+      "anchor": "this recent victory of yours will make your arrival a brilliant one",
+      "entity_id": "person:cassius-longinus",
+      "note": "A successful commander returning to Rome could expect an honorific reception and possibly a thanksgiving; Cicero urges Cassius to hasten home while the glory of his Parthian success is fresh."
+    },
+    {
+      "loc": "5",
+      "anchor": "no extension of time be given me for this province, which both the Senate and the people willed to be annual",
+      "entity_id": "institution:senate",
+      "note": "Cicero's command in Cilicia was legally fixed at one year; only a fresh senatorial decree could prolong it, and he repeatedly asks his friends at Rome to block any such extension."
+    },
+    {
+      "loc": "6",
+      "anchor": "your Brutus",
+      "entity_id": "person:brutus",
+      "note": "M. Iunius Brutus, the future tyrannicide, closely linked to Cassius (who would later marry Brutus's half-sister Junia Tertia); the two are already a pair in Cicero's mind years before the conspiracy of 44 BC."
+    }
+  ]
+}

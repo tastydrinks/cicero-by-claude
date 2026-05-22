@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-10",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO PLANCO.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO PLANCO.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PLANCO", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCO.", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "Furnio nostro", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "1", "surface": "our friend Furnius", "entity_id": "person:furnius", "in": "eng"},
+    {"loc": "1", "surface": "re p.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "state", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "consulem Romae", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "a consul at Rome", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "mi Plance", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "2", "surface": "my dear Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "2", "surface": "patriae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "your country", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "conlegae", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "2", "surface": "your colleague", "entity_id": "person:lepidus-triumvir", "in": "eng"}
+  ]
+}

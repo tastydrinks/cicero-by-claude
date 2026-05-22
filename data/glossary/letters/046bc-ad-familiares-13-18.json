@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO SERVIO S.",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "The heading \"Cicero to Servius, greetings.\" The recipient is Servius Sulpicius Rufus (cos. 51 BC), the great jurist, who served as proconsul of Achaea 46--45 BC; he died on embassy in 43 BC and received a public funeral lauded by Cicero in the Ninth Philippic."
+    },
+    {
+      "loc": "1",
+      "anchor": "whom I saw beside himself with delight",
+      "entity_id": "person:atticus",
+      "note": "T. Pomponius Atticus, Cicero's closest friend and financial adviser, was a major property-owner in Epirus; Servius had evidently written to Atticus directly, an unsolicited gesture that delighted both men."
+    },
+    {
+      "loc": "2",
+      "anchor": "in the affairs of Epirus and the rest",
+      "entity_id": "place:epirus",
+      "note": "Atticus derived a large portion of his income from his estates in Epirus (north-west Greece), which he had inherited from an uncle and developed with slave-run flocks; Servius, as proconsul of Achaea, had jurisdiction over or proximity to these holdings and could offer practical protection."
+    },
+    {
+      "loc": "2",
+      "anchor": "by whatever good offices, in the affairs of Epirus and the rest, you bind Atticus to yourself, by those same offices you will lay me under obligation to you",
+      "entity_id": null,
+      "note": "A characteristic Ciceronian formula: benefactions to a friend are treated as debts owed to the friend's patron (Cicero). The letter thus converts Servius's courtesy to Atticus into a personal obligation on Cicero's own credit."
+    }
+  ]
+}

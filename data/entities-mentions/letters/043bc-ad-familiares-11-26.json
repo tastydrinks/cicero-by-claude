@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-26",
+  "mentions": [
+    {"loc": "1", "surface": "D. BRVTVS", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTVS", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ex Africa", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "1", "surface": "Africa", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "1", "surface": "Sardinia", "entity_id": "place:sardinia", "in": "lat"},
+    {"loc": "1", "surface": "Sardinia", "entity_id": "place:sardinia", "in": "eng"},
+    {"loc": "1", "surface": "Brutum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "ad senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Varro is satisfying me.",
+      "entity_id": "person:m-terentius-varro",
+      "note": "M. Terentius Varro of Reate, the great antiquarian and most learned Roman of the age, was an awkward, prickly character whom Cicero courted warily because of his closeness to Pompey. Cicero's repeated terse \"Varro satisfies me\" reflects the prudence captured in his own maxim that one must bear with the ways of the powerful."
+    },
+    {
+      "loc": "4",
+      "anchor": "I shall make myself Laelius and you Atticus",
+      "entity_id": null,
+      "note": "Fearing his correspondence may be intercepted (\"the very paper may betray us\"), Cicero proposes a cipher of code-names, casting himself as Laelius and Atticus as Atticus and using neither his usual hand nor his seal. Laelius and Furius (Philus) were the great friends of Scipio in Cicero's De Re Publica, hence the chosen aliases."
+    },
+    {
+      "loc": "6",
+      "anchor": "Diodotus has died; he has left us perhaps HS 10,000,000(?)",
+      "entity_id": "person:diodotus-stoicus",
+      "note": "Diodotus the Stoic, Cicero's teacher and household philosopher who had lived blind in his house for years, has just died and left Cicero a substantial legacy (the sum, perhaps ten million sesterces, is textually uncertain). The bequest reflects the intimacy of their long association."
+    },
+    {
+      "loc": "6",
+      "anchor": "by an Archilochean edict",
+      "entity_id": "person:archilochus",
+      "note": "Archilochus of Paros (7th c. BC) was the archetypal poet of savage iambic invective. Cicero calls Bibulus's stinging edicts against Caesar and Pompey \"Archilochean\" for their venomous, lacerating tone."
+    },
+    {
+      "loc": "6",
+      "anchor": "to the fifteenth day before the Kalends of November",
+      "entity_id": null,
+      "note": "18 October. Romans counted inclusively backward from the Kalends (the first) of the following month; the fifteenth day before the Kalends of November falls on 18 October. Bibulus, as consul, repeatedly postponed the consular elections by edict to obstruct his colleague Caesar."
+    }
+  ]
+}

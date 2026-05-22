@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-15",
+  "mentions": [
+    {"loc": "1", "surface": "apud Appuleium", "entity_id": "person:m-appuleius", "in": "lat"},
+    {"loc": "1", "surface": "Bruto ut suades, rescribam", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "I am excused before Appuleius day by day", "entity_id": "person:m-appuleius", "in": "eng"},
+    {"loc": "1", "surface": "To Brutus, as you advise, I shall write back", "entity_id": "person:brutus", "in": "eng"}
+  ]
+}

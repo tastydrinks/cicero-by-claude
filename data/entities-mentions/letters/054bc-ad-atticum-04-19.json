@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-19",
+  "mentions": [
+    {"loc": "1", "surface": "me hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "1", "surface": "Apulia", "entity_id": "place:apulia", "in": "lat"},
+    {"loc": "1", "surface": "Apulia moretur", "entity_id": "place:apulia", "in": "lat"},
+    {"loc": "1", "surface": "Vestorio", "entity_id": "person:c-vestorius", "in": "lat"},
+    {"loc": "1", "surface": "Gabinium", "entity_id": "person:gabinius", "in": "lat"},
+    {"loc": "1", "surface": "by Hercules, I had dreaded", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "1", "surface": "to be in Apulia", "entity_id": "place:apulia", "in": "eng"},
+    {"loc": "1", "surface": "what is Apulia to detain you", "entity_id": "place:apulia", "in": "eng"},
+    {"loc": "1", "surface": "Vestorius", "entity_id": "person:c-vestorius", "in": "eng"},
+    {"loc": "1", "surface": "Gabinius thereupon acquitted", "entity_id": "person:gabinius", "in": "eng"},
+    {"loc": "2", "surface": "me hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "2", "surface": "Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Quintum meum tuumque", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "Quintus scribit", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "Pompeio", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Dionysio", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "2", "surface": "by Hercules, my most agreeable connection", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "2", "surface": "connection with Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "on my Quintus and yours", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "as Quintus writes to me", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "a legate to Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Give Dionysius my warmest greeting", "entity_id": "person:m-pomponius-dionysius", "in": "eng"}
+  ]
+}

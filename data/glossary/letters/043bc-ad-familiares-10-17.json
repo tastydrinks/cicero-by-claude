@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Antony reached Forum Iulii with his leading troops on the Ides of May",
+      "entity_id": "place:forum-iulii",
+      "note": "The Ides of May = 15 May 43 BC. Forum Iulii (modern Fréjus) lay on the coastal road by which Antony, retreating from Mutina, was moving west toward Lepidus's province."
+    },
+    {
+      "loc": "1",
+      "anchor": "Ventidius is two days' march behind him",
+      "entity_id": "person:p-ventidius-bassus",
+      "note": "P. Ventidius Bassus, a Caesarian general of humble origins (Plancus later sneers at him as a muleteer, Fam. 10.18.3), was bringing three legions to reinforce Antony after the defeat at Mutina."
+    },
+    {
+      "loc": "1",
+      "anchor": "Lepidus has his camp at Forum Voconii, a place twenty-four miles from Forum Iulii",
+      "entity_id": "place:forum-voconii",
+      "note": "Forum Voconii was a posting-station on the Via Aurelia in Narbonese Gaul, between Fréjus and Aquae Sextiae (Aix); Lepidus's choice to halt and \"wait\" there foreshadows his reluctance to engage Antony."
+    },
+    {
+      "loc": "2",
+      "anchor": "after the terrible loss of the consuls",
+      "entity_id": "institution:senate",
+      "note": "Both consuls of 43 BC, A. Hirtius and C. Vibius Pansa, died in the Mutina campaign, leaving Rome without its chief magistrates; Plancus sends his ailing brother home to fill the gap in civic administration."
+    },
+    {
+      "loc": "2",
+      "anchor": "required such a citizen as praetor for civic duties",
+      "entity_id": "person:plotius-plancus",
+      "note": "Plancus's brother, sent back to Rome, held a praetorship in 43 BC; with the consuls dead, praetors carried the burden of the city's magisterial business (urbana officia)."
+    },
+    {
+      "loc": "3",
+      "anchor": "he sent Apella to me, so that I should hold him as a hostage",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Apella, an agent (probably a freedman) of Lepidus, was handed over as a personal guarantee (obses) of Lepidus's good faith in the alliance Plancus believed he had secured; Lepidus's defection to Antony soon nullified the pledge."
+    },
+    {
+      "loc": "3",
+      "anchor": "L. Gellius gave me proof of his zeal",
+      "entity_id": "person:l-gellius-publicola-younger",
+      "note": "L. Gellius Publicola, who served Plancus here as an intermediary to Lepidus; the same man is later remembered as a turncoat who deserted the Liberators. The Latin of this clause is corrupt (daggered), and the words \"from the three brothers Segavianus\" are unintelligible."
+    }
+  ]
+}

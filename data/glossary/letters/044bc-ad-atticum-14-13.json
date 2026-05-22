@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-13",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "Decimus Brutus's arrival at his legions",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "Decimus Junius Brutus Albinus, one of the assassins, had been assigned Cisalpine Gaul and its legions by Caesar; Cicero sees the army he is taking up as the republicans' best military hope against Antony."
+    },
+    {
+      "loc": "2",
+      "anchor": "if Sextus stays under arms",
+      "entity_id": "person:sextus-pompeius",
+      "note": "Sextus Pompeius, the surviving son of Pompey the Great, was still in arms in Spain; Cicero reckons that his refusal to lay them down makes a renewed civil war certain."
+    },
+    {
+      "loc": "4",
+      "anchor": "as legate to Greece",
+      "entity_id": null,
+      "note": "Cicero held a libera legatio (\"free legation\"), a nominal commission as a legate originally granted by Caesar, which let a senator travel abroad with official standing; he is weighing whether to use it to slip away to Greece."
+    },
+    {
+      "loc": "5",
+      "anchor": "Quintus the son",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "Cicero's nephew, Quintus Cicero the younger (son of his brother Quintus), at this time aligned with Antony; he is the gossiping source for the rumour about the villa and the dowry."
+    },
+    {
+      "loc": "5",
+      "anchor": "the dowered Aquilia",
+      "entity_id": "person:aquilia",
+      "note": "Aquilia, the prospective bride whose dowry is at issue in the marriage scheme Cicero relays; she reappears in 14.17 as a \"stepmother,\" the marriage having gone forward."
+    },
+    {
+      "loc": "5",
+      "anchor": "thanks to Quintus Egnatius",
+      "entity_id": null,
+      "note": "Q. Egnatius is the lender (or guarantor) to whom Cicero's brother Quintus owes the dowry money he is straining to repay; no entity for this particular Quintus Egnatius is registered, so the surface is left unbound and flagged."
+    },
+    {
+      "loc": "6",
+      "anchor": "the restoration of Sextus Clodius",
+      "entity_id": "person:sex-clodius",
+      "note": "Sextus Clodius, an agent of the demagogue P. Clodius, had been exiled; Antony recalled him by claiming the measure was among Caesar's enactments, exemplifying the abuse Cicero condemns next."
+    },
+    {
+      "loc": "6",
+      "anchor": "his forged notebooks",
+      "entity_id": "person:caesar",
+      "note": "Antony was producing measures he claimed to find in Caesar's papers (the acta Caesaris); Cicero charges that these commentarii were forged, smuggling through decisions the living Caesar would never have countenanced."
+    }
+  ]
+}

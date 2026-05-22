@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "you had fallen to me by lot as quaestor",
+      "entity_id": "office:quaestor",
+      "note": "The quaestors were assigned to their provinces by lot (sortitio) each year; Cicero's warm opening signals genuine pleasure at the draw, and also a hint of anxiety, since Caldus had not yet arrived in Cilicia despite the province being active."
+    },
+    {
+      "loc": "1",
+      "anchor": "the connection which the lot had assigned us",
+      "note": "The bond between a governor and his quaestor (necessitudo sortis) was treated in Roman tradition as quasi-filial and lifelong, comparable to the tie between a patron and client; Cicero invokes this convention to make clear how seriously he takes the appointment."
+    },
+    {
+      "loc": "2",
+      "anchor": "Curius, your cousin",
+      "entity_id": "person:curius-cousin-caldus",
+      "note": "A Curius who was consobrinus (cousin on the maternal side) of Coelius Caldus and was on intimate terms with Cicero; not further identifiable from the surviving letters, but evidently a member of Cicero's social circle who had written a warm recommendation of his cousin."
+    },
+    {
+      "loc": "2",
+      "anchor": "C. Vergilius, your kinsman and one of my closest friends",
+      "entity_id": "person:c-vergilius",
+      "note": "C. Vergilius, likely the man criticised alongside Quintus Cicero in Cic. Q. fr. 1.2 as a former propraetor in that region; here Cicero stresses his closeness to Vergilius to underline the weight of the double recommendation Caldus was receiving."
+    },
+    {
+      "loc": "2",
+      "anchor": "whatever marks of distinction shall set out from me",
+      "note": "The obelus in the Latin (†ad te proficiscentur) marks a textual crux; the sense is that Cicero will confer on Caldus whatever official honours and commendations lie within a governor's power to bestow, provided the quaestor arrives in the province in time."
+    }
+  ]
+}

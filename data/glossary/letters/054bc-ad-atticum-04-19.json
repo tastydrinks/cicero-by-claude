@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the leather screens of your earlier crossing",
+      "entity_id": null,
+      "note": "Greek derreis: the leather weather-screens rigged on a ship's deck for rough passages; Cicero recalls Atticus's earlier stormy crossing with relief that this one was smooth."
+    },
+    {
+      "loc": "1",
+      "anchor": "that Latin Atticism",
+      "entity_id": null,
+      "note": "A pun on Atticus's name: the plain, elegant 'Attic' style of oratory, here transferred jocularly to the banker Vestorius's company that detains Atticus in Campania."
+    },
+    {
+      "loc": "1",
+      "anchor": "the cash openly distributed before the elections tribe by tribe",
+      "entity_id": null,
+      "note": "Open, brazen bribery (divisio) organized by voting tribe; Cicero's bitter shorthand for the collapse of electoral order in 54 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "the dictatorship",
+      "entity_id": null,
+      "note": "The persistent rumour that Pompey would be made dictator amid the electoral paralysis; an office dormant and feared since Sulla."
+    },
+    {
+      "loc": "2",
+      "anchor": "the one plank from the shipwreck",
+      "entity_id": null,
+      "note": "A favourite Ciceronian image: amid the wreck of the free state, his friendship with Caesar (and Caesar's favour to his brother Quintus) is the single spar he clings to."
+    },
+    {
+      "loc": "2",
+      "anchor": "made a legate to Pompey",
+      "entity_id": "person:pompey",
+      "note": "Cicero accepted a nominal legateship (legatio libera) under Pompey, who as Spanish proconsul governed through deputies while remaining near Rome; it let Cicero keep a foot outside the city."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Ides of January",
+      "entity_id": null,
+      "note": "13 January; the Ides fell on the thirteenth in most months. Cicero notes he will be outside the city bounds from that date in his new role as Pompey's legate."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-24",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "``I have champed the bit''",
+      "entity_id": null,
+      "note": "Cicero quotes back Decimus Brutus's own horsemanship metaphor from Fam. 11.23 (Latin frenum momordi, \"I have taken the bit between my teeth\"), agreeing to throw off restraint and speak out boldly."
+    },
+    {
+      "loc": "1",
+      "anchor": "to hand over my watch to you",
+      "entity_id": null,
+      "note": "A military image (Latin vigilia, the night-watch a sentry stands): Cicero longs to pass the burden of guarding the Republic to Decimus Brutus, but only on terms consistent with his own resolve."
+    },
+    {
+      "loc": "2",
+      "anchor": "You have Servius for the most affectionate of friends",
+      "entity_id": "person:servius-sulpicius-rufus-younger",
+      "note": "Servius Sulpicius Rufus the younger, son of the jurist (cos. 51) and a cousin of Decimus Brutus, was acting at Rome in Decimus's interest; Cicero reassures him of this support."
+    },
+    {
+      "loc": "2",
+      "anchor": "Six days before the Ides of June",
+      "entity_id": null,
+      "note": "The Roman dateline \"viii Idus Iunias\" (the eighth day before the Ides of June, counted inclusively, the Ides falling on the 13th) corresponds to 6 June 43 BC."
+    }
+  ]
+}

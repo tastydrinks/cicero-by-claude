@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-13",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "BRVTO", "entity_id": "person:brutus", "in": "both"},
+    {"loc": "1", "surface": "L. Castronius Paetus", "entity_id": "person:l-castronius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "L. Castronius Paetus", "entity_id": "person:l-castronius-paetus", "in": "eng"},
+    {"loc": "1", "surface": "municipi Lucensis", "entity_id": "place:luca", "in": "lat"},
+    {"loc": "1", "surface": "the municipality of Luca", "entity_id": "place:luca", "in": "eng"}
+  ]
+}

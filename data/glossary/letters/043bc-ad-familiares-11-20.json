@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Labeo Segulius",
+      "entity_id": "person:segulius-labeo",
+      "note": "A disreputable rumour-monger of 43 BC who shuttled gossip between Octavian's camp and Decimus Brutus; the wry phrase \"a man entirely true to himself\" marks him as untrustworthy."
+    },
+    {
+      "loc": "1",
+      "anchor": "``praised, decorated, and lifted up''",
+      "entity_id": "person:octavian",
+      "note": "Cicero's notorious bon mot about the young Caesar (Latin laudandum, ornandum, tollendum), where tollere puns on \"raise up / honour\" and \"do away with\"; the report that Octavian had heard it caused Cicero lasting embarrassment."
+    },
+    {
+      "loc": "1",
+      "anchor": "the board of ten",
+      "entity_id": null,
+      "note": "A commission of ten (decemviri) charged with assigning land and rewards to the soldiers; the veterans resented that neither Octavian nor Decimus Brutus had been named to it."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Sullan lands and the Campanian district",
+      "entity_id": "place:ager-campanus",
+      "note": "Two reserves of public land available for veteran settlement: territory confiscated and redistributed under Sulla's dictatorship (82-79 BC), and the ager Campanus, the rich state land around Capua long contested in Roman politics."
+    },
+    {
+      "loc": "4",
+      "anchor": "The ninth day before the Kalends of June, at Eporedia.",
+      "entity_id": "place:eporedia",
+      "note": "Dated by inclusive Roman counting back from the Kalends (first) of June, i.e. 24 May 43 BC; Eporedia (modern Ivrea) was a colony of Cisalpine Gaul at the foot of the Alps."
+    }
+  ]
+}

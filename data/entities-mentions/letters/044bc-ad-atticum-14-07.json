@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-07",
+  "mentions": [
+    {"loc": "1", "surface": "Paulum", "entity_id": "person:l-aemilius-paulus-cos50", "in": "lat"},
+    {"loc": "1", "surface": "Caietae", "entity_id": "place:caieta", "in": "lat"},
+    {"loc": "1", "surface": "Brutum nostrum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Lanuvio", "entity_id": "place:lanuvium", "in": "lat"},
+    {"loc": "1", "surface": "Formiano", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "1", "surface": "Puteolanum", "entity_id": "place:puteoli", "in": "lat"},
+    {"loc": "1", "surface": "Paulus", "entity_id": "person:l-aemilius-paulus-cos50", "in": "eng"},
+    {"loc": "1", "surface": "Caieta", "entity_id": "place:caieta", "in": "eng"},
+    {"loc": "1", "surface": "our Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "Lanuvium", "entity_id": "place:lanuvium", "in": "eng"},
+    {"loc": "1", "surface": "the Formian villa", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "1", "surface": "the Puteolan estate", "entity_id": "place:puteoli", "in": "eng"},
+    {"loc": "2", "surface": "a Cicerone", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "2", "surface": "in Graeciam", "entity_id": "place:graecia", "in": "lat"},
+    {"loc": "2", "surface": "From my son", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "off to Greece", "entity_id": "place:graecia", "in": "eng"}
+  ]
+}

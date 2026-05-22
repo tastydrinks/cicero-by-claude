@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the column-tax",
+      "entity_id": null,
+      "note": "The columnarium was a tax assessed on the columns (and so the size) of a private house; Cicero wants to be sure none is owed and recalls having had the relevant rule changed."
+    },
+    {
+      "loc": "1",
+      "anchor": "going to Camillus",
+      "entity_id": "person:c-furius-camillus",
+      "note": "C. Furius Camillus, a jurist and financial expert whom Cicero regularly consulted on legal and property questions."
+    },
+    {
+      "loc": "2",
+      "anchor": "than Cato's lonely position",
+      "entity_id": "person:cato-minor",
+      "note": "M. Porcius Cato (Uticensis), who died at Utica in 46 BC; \"Cato's lonely position\" (his isolated, uncompromising stand) is offered as the most honourable possible answer to give Piso."
+    },
+    {
+      "loc": "2",
+      "anchor": "with the Herennius co-heirs",
+      "entity_id": null,
+      "note": "Co-heirs (coheredes) named Herennius shared in an estate whose settlement Cicero is negotiating; this Herennius family cannot be matched to a registered entity and is left untagged."
+    },
+    {
+      "loc": "2",
+      "anchor": "the boy Lucullus",
+      "entity_id": "person:l-lucullus",
+      "note": "The orphaned young son of M. Lucullus (consul 73 BC), whose guardian had borrowed money in Achaia that now bears on the inheritance dispute. No separate entity for the boy exists; tagged to the Lucullus line."
+    },
+    {
+      "loc": "2",
+      "anchor": "for Piso, what answer",
+      "entity_id": null,
+      "note": "The same Piso who acts as intermediary in the debt and inheritance settlements of these months (cf. 13.4); he cannot be securely matched to any registered Piso and is left untagged."
+    },
+    {
+      "loc": "2",
+      "anchor": "his guardian",
+      "entity_id": null,
+      "note": "Under Roman law a fatherless minor (pupillus) was administered by a tutor, who could contract debts on the ward's behalf; here the guardian's borrowing in Achaia entangles the boy Lucullus in the present accounts."
+    }
+  ]
+}

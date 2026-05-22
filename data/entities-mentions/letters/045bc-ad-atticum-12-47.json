@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-47",
+  "mentions": [
+    {"loc": "1", "surface": "de Mustela, ut scribis", "entity_id": "person:mustela", "in": "lat"},
+    {"loc": "1", "surface": "eo magis delabor ad Clodiam", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "1", "surface": "in utroque Faberianum nomen explorandum est", "entity_id": "person:faberius", "in": "lat"},
+    {"loc": "1", "surface": "si aliquid cum Balbo eris locutus", "entity_id": "person:l-cornelius-balbus", "in": "lat"},
+    {"loc": "1", "surface": "sed quando Clodia Romae futura est", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "1", "surface": "sed quando Clodia Romae futura est", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "About Mustela, as you write", "entity_id": "person:mustela", "in": "eng"},
+    {"loc": "1", "surface": "I am leaning all the more towards Clodia", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "1", "surface": "the Faberian bond has to be looked into", "entity_id": "person:faberius", "in": "eng"},
+    {"loc": "1", "surface": "if you had a word with Balbus about it", "entity_id": "person:l-cornelius-balbus", "in": "eng"},
+    {"loc": "1", "surface": "when is Clodia going to be in Rome", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "1", "surface": "when is Clodia going to be in Rome", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

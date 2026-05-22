@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "young Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "C. Scribonius Curio the younger (later tribune in 50 BC), here a brash young aristocrat who alone dared to speak openly against the coalition and won loud popular favour for it."
+    },
+    {
+      "loc": "1",
+      "anchor": "Fufius",
+      "entity_id": "person:q-fufius-calenus",
+      "note": "Q. Fufius Calenus, tribune of 59 BC and a partisan of Caesar, hissed and abused by the crowd as Curio was applauded."
+    },
+    {
+      "loc": "2",
+      "anchor": "The Campanian law even has a curse for the candidates in their public meeting",
+      "entity_id": "law:lex-campana",
+      "note": "Caesar's second agrarian law of 59 BC distributed the public land of Campania. To entrench it, candidates for office were made to swear at a public meeting (contio) a self-cursing oath (exsecratio) never to propose holding the land on any other terms than the Julian laws allowed."
+    },
+    {
+      "loc": "2",
+      "anchor": "by the Julian laws",
+      "entity_id": "law:lex-iulia-agraria-59bc",
+      "note": "The agrarian legislation Caesar carried as consul in 59 BC, of which the Campanian law was the second and most contested part. \"The Julian laws\" here are these statutes whose terms the oath protected."
+    },
+    {
+      "loc": "2",
+      "anchor": "Laterensis is thought to have done handsomely",
+      "entity_id": "person:iuventius-laterensis",
+      "note": "M. Juventius Laterensis withdrew his candidacy for the tribunate of the plebs rather than swear the curse-oath binding him to Caesar's land law, a gesture of principle Cicero admires."
+    },
+    {
+      "loc": "3",
+      "anchor": "By Caesar I am very generously invited into that legation: to be his legate",
+      "entity_id": "person:caesar",
+      "note": "Caesar, with Gaul before him, offered Cicero a post as one of his legates (deputy commanders) on the staff. The appointment carried official protection but would tie Cicero to Caesar; he holds onto it as insurance but means not to use it."
+    },
+    {
+      "loc": "3",
+      "anchor": "a free legation",
+      "entity_id": null,
+      "note": "A votiva legatio: a sham diplomatic commission, nominally to discharge a vow at a shrine abroad, that let a senator travel with a magistrate's privileges and immunity. It would have let Cicero leave Rome to escape Clodius, but offered no real shield and would absent him at his brother Quintus's return."
+    },
+    {
+      "loc": "3",
+      "anchor": "the shame of little Pulcher",
+      "entity_id": "person:clodius",
+      "note": "\"Little Pulcher\" (Pulchellus) is Cicero's contemptuous diminutive for P. Clodius Pulcher, whose adoption to the plebs and impending tribunate threatened him with prosecution and exile."
+    },
+    {
+      "loc": "4",
+      "anchor": "About Statius's being manumitted",
+      "entity_id": "person:statius-q-freedman",
+      "note": "Statius, the influential slave-secretary of Cicero's brother Quintus, had been freed by Quintus. The manumission caused public scandal and private vexation, treated more fully in the next letter (2.19.1)."
+    }
+  ]
+}

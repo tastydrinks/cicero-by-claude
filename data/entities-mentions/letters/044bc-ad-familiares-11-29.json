@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-29",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "OPPIO", "entity_id": "person:gaius-oppius", "in": "lat"},
+    {"loc": "1", "surface": "OPPIO", "entity_id": "person:gaius-oppius", "in": "eng"},
+    {"loc": "1", "surface": "Atticus noster", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "our friend Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "ad Pompeium", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "to Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "in Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "1", "surface": "in Italy", "entity_id": "place:italia", "in": "eng"},
+    {"loc": "2", "surface": "post mortem Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "after Caesar's death", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "mi Oppi", "entity_id": "person:gaius-oppius", "in": "lat"},
+    {"loc": "3", "surface": "my dear Oppius", "entity_id": "person:gaius-oppius", "in": "eng"},
+    {"loc": "3", "surface": "Attico", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "3", "surface": "to Atticus", "entity_id": "person:atticus", "in": "eng"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a hidden and safe road to the Upper Sea",
+      "entity_id": null,
+      "note": "The Upper Sea (mare superum) is the Adriatic, on Italy's eastern coast, from which Cicero would have to embark to reach Pompey in Greece; the Lower Sea is the Tyrrhenian to the west. He complains he has no safe overland route to a usable Adriatic port at this season."
+    },
+    {
+      "loc": "1",
+      "anchor": "they were making vows for him in his sickness",
+      "entity_id": "person:pompey",
+      "note": "In the summer of 50 BC Pompey fell gravely ill at Naples and recovered, and the towns of Italy made public vows and held thanksgivings for him; Cicero bitterly contrasts that devotion with their present rush to Caesar. The episode had been read as proof of Pompey's popularity."
+    },
+    {
+      "loc": "2",
+      "anchor": "this Peisistratus",
+      "entity_id": "person:pisistratus",
+      "note": "Peisistratus was the sixth-century Athenian who seized sole power as tyrant; Cicero casts Caesar in the role, a usurper whose mildness only makes his domination more palatable. The comparison brands Caesar's clemency as the velvet glove of tyranny."
+    },
+    {
+      "loc": "2",
+      "anchor": "delighted by this man's insidious clemency",
+      "entity_id": "person:caesar",
+      "note": "Caesar's policy of sparing his defeated opponents (clementia), shown at Corfinium, won him goodwill across Italy; Cicero calls it insidiosa, a trap that disarms resistance more effectively than terror. The judgement anticipates the later view of the clementia Caesaris as a tool of autocracy."
+    },
+    {
+      "loc": "2",
+      "anchor": "The jurors out of the three hundred and sixty",
+      "entity_id": null,
+      "note": "The standing criminal courts at Rome drew jurors from a panel of 360 (120 each from senators, knights, and tribuni aerarii under the Lex Aurelia); the propertied men who staffed them had favoured Pompey. Cicero says even these now shudder at the threat of a Pompeian return."
+    },
+    {
+      "loc": "2",
+      "anchor": "certain ``Lucerias'' of his",
+      "entity_id": "place:luceria",
+      "note": "Luceria in Apulia was Pompey's headquarters during the retreat, from which he was rumoured to be issuing Sullan-style threats of proscription against those who stayed behind; \"Lucerias\" stands for those menacing pronouncements. The jurors dread a victorious Pompey more than a victorious Caesar."
+    }
+  ]
+}

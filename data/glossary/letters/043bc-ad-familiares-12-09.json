@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "carried to you in the gazette",
+      "entity_id": null,
+      "note": "Renders in actis: the acta (acta diurna), the official Roman gazette of senatorial proceedings and public news, copies of which were sent out to provincial commanders."
+    },
+    {
+      "loc": "1",
+      "anchor": "As though Asia were sealed off",
+      "entity_id": "place:asia-province",
+      "note": "Cicero complains of a communications blackout from the East: no firm news crosses from the province of Asia, only unconfirmed rumours of Dolabella's defeat."
+    },
+    {
+      "loc": "2",
+      "anchor": "it is pledged to the year of your consulship",
+      "entity_id": "office:consul",
+      "note": "Cassius and M. Brutus had been designated consuls for 41 BC; Cicero stakes the Republic's slender hope on that future year of their joint magistracy."
+    }
+  ]
+}

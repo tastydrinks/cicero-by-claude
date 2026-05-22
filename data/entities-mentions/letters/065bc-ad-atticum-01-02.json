@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-02",
+  "mentions": [
+    {"loc": "1", "surface": "L. Iulio Caesare", "entity_id": "person:l-iulius-caesar-cos64", "in": "lat"},
+    {"loc": "1", "surface": "Lucius Julius Caesar", "entity_id": "person:l-iulius-caesar-cos64", "in": "eng"},
+    {"loc": "1", "surface": "C. Marcio Figulo", "entity_id": "person:c-marcius-figulus", "in": "lat"},
+    {"loc": "1", "surface": "Gaius Marcius Figulus", "entity_id": "person:c-marcius-figulus", "in": "eng"},
+    {"loc": "1", "surface": "filiolo", "entity_id": "person:marcus-cicero-younger", "in": "lat"},
+    {"loc": "1", "surface": "a little son", "entity_id": "person:marcus-cicero-younger", "in": "eng"},
+    {"loc": "1", "surface": "Terentia", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "Terentia", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "1", "surface": "Catilinam", "entity_id": "person:catiline", "in": "lat"},
+    {"loc": "1", "surface": "Catiline", "entity_id": "person:catiline", "in": "eng"},
+    {"loc": "2", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

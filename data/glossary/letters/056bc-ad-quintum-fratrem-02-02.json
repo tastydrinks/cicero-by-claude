@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "that famous Gracchus the augur",
+      "entity_id": "person:ti-gracchus-augur-cos177",
+      "note": "Ti. Sempronius Gracchus (cos. 177, 163 BC), father of the reforming tribunes. While governor of Sardinia he recalled, as an augur, that he had presided over a consular election under a flawed auspice; Cicero teases Quintus that Sardinia is likewise a place for second thoughts about old business."
+    },
+    {
+      "loc": "1",
+      "anchor": "holding the consular elections against the auspices",
+      "entity_id": null,
+      "note": "Roman magistrates took the auspices (bird-signs) before public acts; an election conducted under a defective auspice was religiously void. Gracchus's belated scruple forced the consuls he had declared to resign."
+    },
+    {
+      "loc": "2",
+      "anchor": "this raving aedileship",
+      "entity_id": "office:aedile",
+      "note": "The aediles, junior magistrates responsible for the city, the games, and public works; canvassing for the office (here for Quintus's building business) was disrupting other work. 'Raving' reflects the disorder of the 56 BC campaigning."
+    },
+    {
+      "loc": "2",
+      "anchor": "the eleventh day before the Kalends of February",
+      "entity_id": null,
+      "note": "A Roman date reckoned by counting back inclusively from the Kalends (the 1st) of the next month, here 22 January. Romans dated by the Kalends, Nones, and Ides rather than by serial day-numbers."
+    },
+    {
+      "loc": "3",
+      "anchor": "About the Alexandrian king a senatus consultum has been passed",
+      "entity_id": "person:ptolemy-auletes",
+      "note": "Ptolemy XII Auletes, the exiled king of Egypt, whose restoration was the great political prize of 56 BC. The Senate ruled it dangerous to restore him 'with a multitude' (an army), leaving open who --- Lentulus Spinther or Pompey --- should do it."
+    }
+  ]
+}

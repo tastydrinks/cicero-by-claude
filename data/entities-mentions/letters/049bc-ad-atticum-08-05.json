@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-05",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Dionysio", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "1", "surface": "Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "1", "surface": "Pollicem servum", "entity_id": "person:pollex-servus", "in": "lat"},
+    {"loc": "1", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "a letter before dawn on the eighth day before the Kalends about Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "eng"},
+    {"loc": "1", "surface": "Dionysius himself came to me", "entity_id": "person:m-pomponius-dionysius", "in": "eng"},
+    {"loc": "1", "surface": "my body-slave Pollex", "entity_id": "person:pollex-servus", "in": "eng"},
+    {"loc": "1", "surface": "dispatched my body-slave Pollex to Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Corfiniensi", "entity_id": "place:corfinium", "in": "lat"},
+    {"loc": "2", "surface": "M'. Curio", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "2", "surface": "Tironem", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "2", "surface": "Curio", "entity_id": "person:mn-curius-patrensis", "in": "lat"},
+    {"loc": "2", "surface": "the Corfinium business", "entity_id": "place:corfinium", "in": "eng"},
+    {"loc": "2", "surface": "the packet inscribed to M'. Curius", "entity_id": "person:mn-curius-patrensis", "in": "eng"},
+    {"loc": "2", "surface": "recommend Tiro to Curius", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "2", "surface": "recommend Tiro to Curius", "entity_id": "person:mn-curius-patrensis", "in": "eng"}
+  ]
+}

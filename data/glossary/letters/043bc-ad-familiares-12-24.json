@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-24",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the envoys had not yet returned, whom the Senate sent not to sue for peace but to declare war if their message were not obeyed",
+      "entity_id": null,
+      "note": "The first embassy to Antony at Mutina (Jan.–43 BC), carrying the Senate's ultimatum; its failure to make Antony yield led to the war Cicero had urged in the Philippics."
+    },
+    {
+      "loc": "2",
+      "anchor": "professed myself the leading man for the Senate and the Roman people",
+      "entity_id": "person:cicero",
+      "note": "Cicero claims the role of princeps, taking the lead in the senatorial resistance to Antony in early 43 BC, the cause of libertas to which his Philippics were devoted."
+    }
+  ]
+}

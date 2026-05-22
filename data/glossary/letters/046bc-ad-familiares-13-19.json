@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "With Lyso of Patrae I have indeed an old guest-friendship",
+      "entity_id": "person:lyso-patrensis",
+      "note": "Lyso was a prominent citizen of Patrae (Roman colony in Achaea, modern Patras), with whom Cicero had ties of hospitium --- the formal bond of reciprocal hospitality between Romans and provincials that carried social and legal obligations of mutual protection."
+    },
+    {
+      "loc": "1",
+      "anchor": "because Lyso had been in our camp and under our protection",
+      "entity_id": "person:lyso-patrensis",
+      "note": "Lyso had sided with the Pompeian (senatorial) cause before Caesar's victory in the civil war, making his property and safety precarious under Caesar's settlement; Cicero's phrase \"our camp\" (nostra causa nostrisque praesidiis) identifies Lyso as a fellow Pompeian sympathiser."
+    },
+    {
+      "loc": "1",
+      "anchor": "we obtained from Caesar everything we wanted",
+      "entity_id": "person:caesar",
+      "note": "Caesar's clemency policy (clementia Caesaris) extended to provincial allies of his opponents; Cicero and other patrons successfully interceded to secure Lyso's property from confiscation, a result confirmed by a letter from Caesar to Servius."
+    },
+    {
+      "loc": "2",
+      "anchor": "my client C. Maenius Gemellus, when in the calamity of his exile he had been made a citizen of Patrae, adopted under the laws of that city",
+      "entity_id": "person:c-maenius-gemellus",
+      "note": "Maenius Gemellus was a Roman citizen exiled (perhaps under Sulla or by Caesarian decree) who took Patraean citizenship during his exile --- a Roman colonist city could absorb such persons. He then adopted Lyso's son under local law, entangling Roman inheritance rights with Greek civic adoption procedures, which explains why the case needed a proconsul's oversight."
+    },
+    {
+      "loc": "3",
+      "anchor": "you will be of the same mind and the same disposition that I am",
+      "entity_id": null,
+      "note": "Cicero closes with a standard recommendation formula predicting that the recommender's own high opinion of the beneficiary will be vindicated once the recipient knows him personally --- implicitly flattering the recipient as a man of sound judgment."
+    }
+  ]
+}

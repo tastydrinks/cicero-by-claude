@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-25",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the day before the Ides",
+      "entity_id": null,
+      "note": "The Roman calendar counted backward from three fixed points each month: the Kalends (1st), the Nones (5th or 7th), and the Ides (13th or 15th). The day before the Ides of this month (July 45 BC) is the 14th."
+    },
+    {
+      "loc": "1",
+      "anchor": "for the auction",
+      "entity_id": null,
+      "note": "An auctio, a public sale by auction --- here connected with settling an estate. Cicero says he can manage it with Atticus alone but wanted Brutus present chiefly for the will (testamentum)."
+    },
+    {
+      "loc": "3",
+      "anchor": "given to Varro",
+      "entity_id": "person:m-terentius-varro",
+      "note": "M. Terentius Varro, Rome's greatest polymath, the dedicatee of the recast Academica. Cicero's anxiety over how the prickly Varro would receive the work runs through this letter."
+    },
+    {
+      "loc": "3",
+      "anchor": "to Epirus",
+      "entity_id": "place:epirus",
+      "note": "The region of north-western Greece where Atticus held a large estate; Cicero pictures Atticus reading the books there at leisure."
+    },
+    {
+      "loc": "3",
+      "anchor": "he too is an Antiochean",
+      "entity_id": "person:antiochus-ascalon",
+      "note": "An adherent of Antiochus of Ascalon, the philosopher whose 'Old Academy' system is the subject of the Academica. Cicero notes that Brutus, like Varro, follows Antiochus, so the dialogue would suit him as an alternative dedicatee."
+    },
+    {
+      "loc": "3",
+      "anchor": "O the flighty Academy",
+      "entity_id": "place:academia-athens",
+      "note": "A play on the Academy, Plato's philosophical school: Cicero mocks his own dithering over the dedication as the 'flighty Academy,' the sceptical New Academy that suspends judgment and shifts about. 'Now here, now there' caps the joke."
+    },
+    {
+      "loc": "3",
+      "anchor": "large-format paper",
+      "entity_id": null,
+      "note": "Macrocolla, sheets of papyrus of unusually large size used for fine presentation copies. Having paid for the deluxe format, Cicero is reluctant to abandon the Varro dedication."
+    },
+    {
+      "loc": "3",
+      "anchor": "Spintharus",
+      "entity_id": "person:spintharus",
+      "note": "A secretary in Cicero's household; he took down the painstaking letter to Varro syllable by syllable, in contrast to Tiro, who could take whole stretches of dictation at speed."
+    }
+  ]
+}

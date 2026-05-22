@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-45",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "PROQVAESTORI",
+      "entity_id": "office:proquaestor",
+      "note": "Pro quaestore: an officer holding a quaestor's financial authority in a province, either as an outgoing quaestor whose term ran on past the year, or as a deputy administering finances under the governor's imperium. Appuleius held this post in Asia."
+    },
+    {
+      "loc": "1",
+      "anchor": "His slave Anchialus",
+      "entity_id": "person:anchialus",
+      "note": "Anchialus is the slave (servus) of the knight L. Egnatius, sent to Asia on his master's business; Cicero commends both the slave and the affairs as if they were his own --- a measure of how far a recommendation could be stretched on a friend's behalf."
+    }
+  ]
+}

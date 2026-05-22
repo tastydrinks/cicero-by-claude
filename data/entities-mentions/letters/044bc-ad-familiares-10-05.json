@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-05",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PLANCO", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCO", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "rem p.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the state", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "paternae necessitudinis", "entity_id": null, "in": "lat"},
+    {"loc": "1", "surface": "your father's friendship with me", "entity_id": null, "in": "eng"},
+    {"loc": "2", "surface": "mi Plance", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "2", "surface": "my dear Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "3", "surface": "Antonium", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "3", "surface": "Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "3", "surface": "tuo exercitu", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "3", "surface": "your army", "entity_id": "person:munatius-plancus", "in": "eng"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-30",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "1", "surface": "L. Manlius", "entity_id": "person:l-manlius-sosis", "in": "lat"},
+    {"loc": "1", "surface": "Lucius Manlius Sosis", "entity_id": "person:l-manlius-sosis", "in": "eng"},
+    {"loc": "1", "surface": "Catinensis", "entity_id": "place:catina", "in": "lat"},
+    {"loc": "1", "surface": "Catina", "entity_id": "place:catina", "in": "eng"},
+    {"loc": "1", "surface": "Neapoli", "entity_id": "place:neapolis", "in": "lat"},
+    {"loc": "1", "surface": "Naples", "entity_id": "place:neapolis", "in": "eng"},
+    {"loc": "1", "surface": "Catinae", "entity_id": "place:catina", "in": "lat"},
+    {"loc": "1", "surface": "Catina", "entity_id": "place:catina", "in": "eng"},
+    {"loc": "1", "surface": "Sicilia", "entity_id": "place:sicilia", "in": "lat"},
+    {"loc": "1", "surface": "Sicily", "entity_id": "place:sicilia", "in": "eng"},
+    {"loc": "2", "surface": "Siciliam", "entity_id": "place:sicilia", "in": "lat"},
+    {"loc": "2", "surface": "Sicily", "entity_id": "place:sicilia", "in": "eng"}
+  ]
+}

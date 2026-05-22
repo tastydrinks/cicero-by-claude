@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-16",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "he was the leading man of the equestrian order",
+      "entity_id": null,
+      "note": "The equestrian order (ordo equester) was the wealthy, non-senatorial \"knights\"; its princeps (leading man) was an informal but real position of influence. Lamia held it when he campaigned for Cicero's recall in 58 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "he was banished from the city by the consul Gabinius",
+      "entity_id": "person:gabinius",
+      "note": "A. Gabinius, consul 58 BC and an ally of Clodius, ordered Lamia out of Rome for agitating on Cicero's behalf --- an extraordinary act, since (Cicero notes) no Roman citizen had been relegated from the city itself before this."
+    },
+    {
+      "loc": "3",
+      "anchor": "with that most magnificent aedile's show to his credit",
+      "entity_id": "office:aedile",
+      "note": "As aedile (probably 45 BC) Lamia had staged exceptionally lavish public games (munus), the customary way to win popular favour before standing for the praetorship."
+    },
+    {
+      "loc": "3",
+      "anchor": "since the centuries of the knights are in your hand --- you are king there",
+      "entity_id": null,
+      "note": "Praetors were elected by the comitia centuriata, voting by centuries; the eighteen equestrian centuries carried special weight. Cicero asks Decimus Brutus, as the knights' patron, to deliver their votes for Lamia."
+    }
+  ]
+}

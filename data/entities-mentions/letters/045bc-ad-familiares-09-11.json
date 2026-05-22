@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-11",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO DOLABELLAE S.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO DOLABELLAE S.", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "CICERO DOLABELLAE S.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CICERO DOLABELLAE S.", "entity_id": "person:dolabella", "in": "eng"}
+  ]
+}

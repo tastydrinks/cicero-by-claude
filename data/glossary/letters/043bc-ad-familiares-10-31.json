@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-31",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the pass of Castulo",
+      "entity_id": "place:saltus-castulonensis",
+      "note": "The saltus Castulonensis, the mountain defile of the Sierra Morena near the town of Castulo, the chief land route between Pollio's Further Spain and the rest of the empire; Pollio explains that brigands and rival patrols have made it impassable to couriers."
+    },
+    {
+      "loc": "2",
+      "anchor": "the talk of the man whom, though no one wants to look at him, men nonetheless do not hate as he deserves",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Pollio leaves the man pointedly unnamed, but he is Lepidus, the neighbouring governor of Narbonese Gaul and Nearer Spain whose couriers Pollio names openly in section 4; the circumlocution guards against the letter being intercepted."
+    },
+    {
+      "loc": "3",
+      "anchor": "Caesar, however, for treating me --- newly known to him, in the midst of such fortune --- as one of his oldest intimates",
+      "entity_id": "person:caesar",
+      "note": "The dictator Julius Caesar (murdered March 44 BC), not the young Octavian; Pollio recalls the personal favour Caesar showed him during the civil war while distancing himself from any new \"domination.\""
+    },
+    {
+      "loc": "5",
+      "anchor": "That at Corduba I said before the assembly",
+      "entity_id": null,
+      "note": "Renders pro contione: a formal public address to a non-voting assembly (contio) of citizens or soldiers, here the provincials and garrison of Corduba, capital of Further Spain."
+    },
+    {
+      "loc": "5",
+      "anchor": "what struggles I had about handing over the Thirtieth Legion",
+      "entity_id": "unit:legio-tricesima",
+      "note": "The Legio XXX, Pollio's most battle-hardened unit; he resisted demands to surrender it precisely because it was the core of his bargaining power as governor of Further Spain."
+    }
+  ]
+}

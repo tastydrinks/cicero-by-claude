@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-35",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "If you and your children are well, it is well; I and my army are in good health",
+      "entity_id": null,
+      "note": "The formal health-formula expanded for a public dispatch addressed to the whole state; \"I and my army\" signals that the message comes from a commander in the field."
+    },
+    {
+      "loc": "1",
+      "anchor": "I call gods and men to witness, senators",
+      "entity_id": "institution:senate",
+      "note": "\"Senators\" renders patres conscripti, the formal mode of addressing the Senate; this letter is Lepidus's open dispatch to the magistrates, Senate, and people of Rome justifying his conduct."
+    },
+    {
+      "loc": "1",
+      "anchor": "had not fortune wrung from my hands a policy of my own",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Lepidus's euphemism for his junction with Antony on 29 May 43 BC, which he presents as forced upon him; the Senate was unconvinced and on 30 June declared him a public enemy."
+    },
+    {
+      "loc": "1",
+      "anchor": "an uprising having broken out",
+      "entity_id": null,
+      "note": "Lepidus blames a mutiny (seditio) of his soldiers — who, he claims, insisted on sparing their fellow-citizens in Antony's camp — for compelling him to merge his army with Antony's rather than fight."
+    }
+  ]
+}

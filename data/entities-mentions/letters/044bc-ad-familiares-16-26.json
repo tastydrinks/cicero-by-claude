@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-26",
+  "mentions": [
+    {"loc": "1", "surface": "QVINTVS", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI SVO", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "QUINTUS", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Marcus", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Marcus", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "2", "surface": "matrem nostram", "entity_id": "person:helvia", "in": "lat"},
+    {"loc": "2", "surface": "our mother", "entity_id": "person:helvia", "in": "eng"}
+  ]
+}

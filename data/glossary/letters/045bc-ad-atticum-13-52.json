@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-52",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the second day of the Saturnalia",
+      "entity_id": "festival:saturnalia",
+      "note": "The Saturnalia, the midwinter festival of Saturn beginning 17 December, marked by feasting, gift-giving, and a loosening of social rank; by Cicero's day it ran several days. Caesar's descent on the coast falls on its second and third days (18-19 December 45 BC)."
+    },
+    {
+      "loc": "1",
+      "anchor": "he had arrived at Philippus's",
+      "entity_id": "person:l-marcius-philippus-cos56",
+      "note": "L. Marcius Philippus, consul 56 BC, stepfather of the young Octavian and Cicero's villa-neighbour on the Bay of Naples, at whose house Caesar lodged. Cicero entertained the overflow next door."
+    },
+    {
+      "loc": "1",
+      "anchor": "two thousand men, no less",
+      "entity_id": null,
+      "note": "Caesar travelled with a military escort of some two thousand soldiers, who had to be quartered and fed; the logistical burden, not the company, is what alarmed his hosts."
+    },
+    {
+      "loc": "1",
+      "anchor": "Barba Cassius came to my aid",
+      "entity_id": "person:barba-cassius",
+      "note": "Barba Cassius, a Caesarian officer who posted guards to secure Cicero's villa during the visit; otherwise little known."
+    },
+    {
+      "loc": "1",
+      "anchor": "until the seventh hour",
+      "entity_id": null,
+      "note": "Romans divided daylight into twelve hours of varying length; the seventh hour falls around midday and the eighth in the early afternoon, so Caesar worked through the morning before walking and bathing."
+    },
+    {
+      "loc": "1",
+      "anchor": "the news about Mamurra",
+      "entity_id": "person:mamurra",
+      "note": "Mamurra, Caesar's praefectus fabrum in Gaul, who grew scandalously rich on the campaigns and was a favourite target of Catullus; the unspecified news (perhaps his death) left Caesar's expression unchanged."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the emetic regimen",
+      "entity_id": null,
+      "note": "A dietary practice (Greek emetike) of deliberately purging by vomiting before or between meals, which let one eat and drink freely without ill effect; Caesar's adherence to it is why he could indulge so heavily."
+    },
+    {
+      "loc": "2",
+      "anchor": "the next at Baiae",
+      "entity_id": "place:baiae",
+      "note": "Baiae, the fashionable luxury resort on the Bay of Naples famed for its hot springs and seaside villas, the next stop on Caesar's itinerary after Puteoli."
+    },
+    {
+      "loc": "2",
+      "anchor": "a billeting",
+      "entity_id": null,
+      "note": "Cicero reaches for the Greek term for the compulsory quartering of troops (epistathmeia) to characterize Caesar's visit: less a guest's call than an army's billet imposed on the household."
+    },
+    {
+      "loc": "2",
+      "anchor": "This from Nicias",
+      "entity_id": "person:nicias-cous",
+      "note": "Curtius Nicias of Cos, a learned grammarian and friend of Cicero, his source for the detail of Caesar's armed escort drawing up past Dolabella's villa."
+    }
+  ]
+}

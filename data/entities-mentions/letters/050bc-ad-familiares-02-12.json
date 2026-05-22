@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-12",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M CAELIO AEDILI CVRVLI",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Quinquatrus",
+      "entity_id": "festival:quinquatrus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M CAELIO AEDILI CVRVLI",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Quinquatrus",
+      "entity_id": "festival:quinquatrus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Diogenes tuus",
+      "entity_id": "person:diogenes-caelius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Philone",
+      "entity_id": "person:philo-caelius-libertus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pessinunte",
+      "entity_id": "place:pessinus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Adiatorigem",
+      "entity_id": "person:adiatorix",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Romae",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Your Diogenes",
+      "entity_id": "person:diogenes-caelius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Philo",
+      "entity_id": "person:philo-caelius-libertus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pessinus",
+      "entity_id": "place:pessinus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Adiatorix",
+      "entity_id": "person:adiatorix",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Rome",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "triumphi",
+      "entity_id": "institution:triumph",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "triumph",
+      "entity_id": "institution:triumph",
+      "in": "eng"
+    }
+  ]
+}

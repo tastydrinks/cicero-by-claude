@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-22",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "DOMITIO",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "DOMITIO",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "consili tui bene fortiterque suscepti",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "a course chosen well and bravely",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "matrem tuam",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "your mother",
+      "entity_id": "person:cn-domitius-ahenobarbus-cos32",
+      "in": "eng"
+    }
+  ]
+}

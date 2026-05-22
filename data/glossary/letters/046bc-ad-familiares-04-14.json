@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CN. PLANCIO",
+      "entity_id": "person:cn-plancius",
+      "note": "Cnaeus Plancius, quaestor in Macedonia in 58 BC, had sheltered the exiled Cicero at Thessalonica during his banishment; Cicero repaid the debt by defending him in 54 BC in the surviving speech Pro Plancio. Plancius himself is now an exile after the civil war, addressed at Corcyra, so the obligation has come full circle."
+    },
+    {
+      "loc": "1",
+      "anchor": "both sent from Corcyra",
+      "entity_id": "place:corcyra",
+      "note": "Corcyra (modern Corfu), the island off north-western Greece, was a common waystation and place of refuge for Pompeians fleeing Italy and the East; Plancius is writing to Cicero from there in exile."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the one side slaughter, on the other slavery",
+      "entity_id": null,
+      "note": "Cicero's bleak formula sums up his view of the civil war's possible outcomes: a Pompeian victory would have brought bloody proscriptions, a Caesarian victory (which had occurred) servitude under one man. The antithesis caedem/servitutem is characteristic of his despairing letters of 46 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "drawn there by the hope of peace and not by the desire of war",
+      "entity_id": null,
+      "note": "Cicero defends his decision to join Pompey's camp in 49 BC, insisting he went reluctantly and hoping for a negotiated peace rather than out of zeal for the war, and that he had foreseen the ruin either side's victory would bring."
+    },
+    {
+      "loc": "3",
+      "anchor": "my household affairs no better off than the public affairs",
+      "entity_id": null,
+      "note": "An allusion to the breakdown of Cicero's marriage to Terentia, whom he suspected of mismanaging and embezzling his property; the 'new ties' he speaks of fortifying himself with point toward his impending divorce and remarriage to the young Publilia."
+    }
+  ]
+}

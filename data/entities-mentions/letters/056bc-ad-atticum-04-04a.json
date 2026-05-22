@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-04a",
+  "mentions": [
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Tyrannionis", "entity_id": "person:tyrannio", "in": "lat"},
+    {"loc": "1", "surface": "Tyrannio", "entity_id": "person:tyrannio", "in": "eng"},
+    {"loc": "1", "surface": "Tyrannio", "entity_id": "person:tyrannio", "in": "lat"},
+    {"loc": "1", "surface": "Tyrannio", "entity_id": "person:tyrannio", "in": "eng"},
+    {"loc": "2", "surface": "Piliam", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "2", "surface": "Pilia", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "2", "surface": "Tullia", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "2", "surface": "Tullia", "entity_id": "person:tullia", "in": "eng"}
+  ]
+}

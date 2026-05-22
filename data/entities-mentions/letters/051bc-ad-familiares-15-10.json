@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-10",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO IMP.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO IMP.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. MARCELLO C. R COS.", "entity_id": "person:c-claudius-marcellus-cos50", "in": "lat"},
+    {"loc": "1", "surface": "C. MARCELLO C. R COS.", "entity_id": "person:c-claudius-marcellus-cos50", "in": "eng"},
+    {"loc": "1", "surface": "tuus consulatus", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "your consulship", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "senatus consultum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "a decree of the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "in supplicatione decernenda", "entity_id": "festival:supplicatio", "in": "lat"},
+    {"loc": "2", "surface": "the decree of the supplicatio", "entity_id": "festival:supplicatio", "in": "eng"}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-24",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "M. FADIO GALLO", "entity_id": "person:m-fadius", "in": "both"},
+    {"loc": "1", "surface": "Tigellio", "entity_id": "person:tigellius", "in": "lat"},
+    {"loc": "1", "surface": "Tigellius", "entity_id": "person:tigellius", "in": "eng"},
+    {"loc": "1", "surface": "Galle", "entity_id": "person:m-fadius", "in": "lat"},
+    {"loc": "1", "surface": "Gallus", "entity_id": "person:m-fadius", "in": "eng"},
+    {"loc": "1", "surface": "Cipius", "entity_id": "person:cipius", "in": "both"},
+    {"loc": "1", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar's", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Calvi", "entity_id": "person:licinius-calvus", "in": "lat"},
+    {"loc": "1", "surface": "Calvus", "entity_id": "person:licinius-calvus", "in": "eng"},
+    {"loc": "2", "surface": "Licini", "entity_id": "person:licinius-calvus", "in": "lat"},
+    {"loc": "2", "surface": "Licinius's", "entity_id": "person:licinius-calvus", "in": "eng"},
+    {"loc": "2", "surface": "Phameae", "entity_id": "person:phamea", "in": "lat"},
+    {"loc": "2", "surface": "Phamea's", "entity_id": "person:phamea", "in": "eng"},
+    {"loc": "2", "surface": "P. Sestio", "entity_id": "person:sestius-tribune", "in": "lat"},
+    {"loc": "2", "surface": "P. Sestius", "entity_id": "person:sestius-tribune", "in": "eng"},
+    {"loc": "2", "surface": "Catonem", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "2", "surface": "Cato", "entity_id": "person:cato-minor", "in": "eng"}
+  ]
+}

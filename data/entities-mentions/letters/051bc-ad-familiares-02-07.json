@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-07",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "IMP.",
+      "entity_id": "office:imperator",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CVRIONI TR. PL.",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "TR. PL.",
+      "entity_id": "office:tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "tribunatus",
+      "entity_id": "office:tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO IMP.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "IMP.",
+      "entity_id": "office:imperator",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "C. CVRIONI TR. PL.",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "TR. PL.",
+      "entity_id": "office:tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "this tribunate of yours",
+      "entity_id": "office:tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "tribunatum",
+      "entity_id": "office:tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "tribunate",
+      "entity_id": "office:tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "senatum",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Thrasoni",
+      "entity_id": "person:thraso-curionis",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Thraso, your freedman",
+      "entity_id": "person:thraso-curionis",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "mi Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "tr. pl.",
+      "entity_id": "office:tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Curione tribuno",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "senati consultum",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "my Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "tribune of the plebs",
+      "entity_id": "office:tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Curio the tribune",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "decree of the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    }
+  ]
+}

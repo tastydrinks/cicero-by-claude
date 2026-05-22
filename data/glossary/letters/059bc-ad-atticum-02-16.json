@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Campanian land",
+      "entity_id": "place:ager-campanus",
+      "note": "The ager Campanus, fertile public land around Capua that Rome had leased out as a steady source of revenue. Caesar's second agrarian law of 59 BC distributed it in allotments to Pompey's veterans and the poor, ending the rents it brought the treasury and outraging the senatorial \"good men.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "the tolls of Italy abolished and the Campanian land divided up",
+      "entity_id": null,
+      "note": "Two blows to public revenue: the portoria (customs-dues levied at Italian ports and borders) had been abolished by a law of 60 BC, and now Caesar's distribution of the Campanian land removed its rents. Cicero reckons up what income the state has left."
+    },
+    {
+      "loc": "1",
+      "anchor": "save the twentieth",
+      "entity_id": null,
+      "note": "The vicesima, a five-percent tax on the manumission of slaves, by Cicero's day almost the only domestic revenue Rome still drew. He fears even this trifling sum could be swept away by a single rowdy public meeting."
+    },
+    {
+      "loc": "2",
+      "anchor": "now, Sampsiceramus",
+      "entity_id": "person:pompey",
+      "note": "Cicero turns to address Pompey directly under the mocking name Sampsiceramus, an Arab princeling of Emesa whom Pompey had subjugated in the East. The jibe reduces the conqueror to an oriental despot levying tribute on Syrian mountains."
+    },
+    {
+      "loc": "3",
+      "anchor": "the active life",
+      "entity_id": "person:dicaearchus",
+      "note": "Cicero frames his choice between politics and study as the old Peripatetic debate over the best life: Atticus's favourite Dicaearchus of Messana championed the bios praktikos (active, public life), while Cicero's Theophrastus preferred the bios theoretikos (the contemplative life of scholarship)."
+    },
+    {
+      "loc": "4",
+      "anchor": "the toll on the carriage",
+      "entity_id": null,
+      "note": "The portorium circumvectionis, a transit-duty Quintus (governing Asia) had referred to the senate. Cicero, having ruled it was not owed, is caught between obliging the publicani and protecting the Asian taxpayers and businessmen."
+    },
+    {
+      "loc": "4",
+      "anchor": "the cistophorus",
+      "entity_id": null,
+      "note": "The cistophorus, the standard silver coin of the province of Asia, named from the mystic cista (basket of Dionysus) on its obverse. Cicero asks whether the quaestors are quibbling over accepting payment in this provincial currency."
+    }
+  ]
+}

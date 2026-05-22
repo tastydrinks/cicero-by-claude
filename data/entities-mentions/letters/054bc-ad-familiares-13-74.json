@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-74",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Q. PHILIPPO PROCOS.", "entity_id": "person:q-marcius-philippus-procos", "in": "lat"},
+    {"loc": "1", "surface": "Q. PHILIPPO PROCOS.", "entity_id": "person:q-marcius-philippus-procos", "in": "eng"},
+    {"loc": "1", "surface": "L. Oppium", "entity_id": "person:l-oppius", "in": "lat"},
+    {"loc": "1", "surface": "L. Oppius", "entity_id": "person:l-oppius", "in": "eng"},
+    {"loc": "1", "surface": "L. Egnati", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "L. Egnatius", "entity_id": "person:l-egnatius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "eo", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "Egnatius", "entity_id": "person:l-egnatius-rufus", "in": "eng"}
+  ]
+}

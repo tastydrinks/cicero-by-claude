@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Parthians have crossed the Euphrates under the lead of Pacorus, son of Orodes",
+      "entity_id": "person:pacorus",
+      "note": "The great Parthian invasion of Roman Syria in 51 BC, exploiting the collapse of Roman power after Crassus's defeat at Carrhae (53 BC). It was nominally led by the young prince Pacorus, son of King Orodes II, though direction lay with his commanders."
+    },
+    {
+      "loc": "1",
+      "anchor": "between the slaying of the victim and the laying-out on the altar",
+      "entity_id": null,
+      "note": "A proverb drawn from Roman sacrifice: the perilous interval between cutting the victim's throat (caesa) and laying its portions out on the altar (porrecta), when the rite could still be spoiled. Cicero means he dreads any new burden in the precarious gap before his command can end."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Senate, in its fear for matters in the City, may be unwilling to send Pompey out",
+      "entity_id": "person:pompey",
+      "note": "There was talk of sending Pompey east with a special command against the Parthians, but the Senate feared to leave Rome without him amid the mounting political crisis. Cicero, undermanned in Cilicia, hoped relief would come before his own term was extended."
+    },
+    {
+      "loc": "3",
+      "anchor": "our tribune of the people Furnius",
+      "entity_id": "person:furnius",
+      "note": "C. Furnius, tribune of the plebs in 50 BC, a friend on whom Cicero relied to block any extension of his Cilician command; a tribune's veto could halt a senatorial decree."
+    }
+  ]
+}

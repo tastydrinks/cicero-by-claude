@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-09",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CASSIO", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "CASSIO", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "1", "surface": "Asia", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "1", "surface": "Dolabella", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "Dolabella", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "2", "surface": "Lepido", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "2", "surface": "Lepidus", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "2", "surface": "consulatus tui", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "your consulship", "entity_id": "office:consul", "in": "eng"}
+  ]
+}

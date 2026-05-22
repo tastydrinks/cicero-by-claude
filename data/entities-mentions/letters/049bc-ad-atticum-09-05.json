@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-05",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "ATTICO",
+      "entity_id": "person:atticus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Philotimus",
+      "entity_id": "person:philotimus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Arpinum",
+      "entity_id": "place:arpinum",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Formiis",
+      "entity_id": "place:formiae",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Postumus",
+      "entity_id": "person:c-curtius-postumus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Q. Fufius",
+      "entity_id": "person:q-fufius-tr-pl-62",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Brundisium",
+      "entity_id": "place:brundisium",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Pompei",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "senatus",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Curtium",
+      "entity_id": "person:c-curtius-postumus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "curia",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "ATTICO",
+      "entity_id": "person:atticus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Philotimus delivered it to me",
+      "entity_id": "person:philotimus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "a withdrawal to Arpinum",
+      "entity_id": "place:arpinum",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "a stay at Formiae",
+      "entity_id": "place:formiae",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Postumus was with me",
+      "entity_id": "person:c-curtius-postumus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Quintus Fufius too came to me",
+      "entity_id": "person:q-fufius-tr-pl-62",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Hurrying to Brundisium",
+      "entity_id": "place:brundisium",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "denouncing Pompey's crime",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "and stupidity of the Senate",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "am I to bear Curtius",
+      "entity_id": "person:c-curtius-postumus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "in the Senate-house",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "M. Tulli",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompeio",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesari",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "urbis captae",
+      "entity_id": "place:roma",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Alliensis pugnae",
+      "entity_id": "event:battle-of-allia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Tell us, Marcus Tullius",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "What am I to do about Pompey?",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "more hostile to him than to Caesar himself",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "the day of the City's capture",
+      "entity_id": "place:roma",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "the battle of the Allia",
+      "entity_id": "event:battle-of-allia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Balbi",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Homerum",
+      "entity_id": "person:homer",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Ἕκτορα",
+      "entity_id": "person:hector",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "because of Balbus's letters and conversations",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "that hero in Homer",
+      "entity_id": "person:homer",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "after Hector your doom is ready",
+      "entity_id": "person:hector",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Brundisi",
+      "entity_id": "place:brundisium",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "let us see what is done at Brundisium",
+      "entity_id": "place:brundisium",
+      "in": "eng"
+    }
+  ]
+}

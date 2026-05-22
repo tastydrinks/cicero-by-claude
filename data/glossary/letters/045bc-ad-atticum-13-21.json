@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-21",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "that \\textit{inhibere} of yours",
+      "entity_id": null,
+      "note": "Cicero and Atticus had been debating whether the Latin verb inhibere (\"to hold back, check\") could render the Greek Stoic-Academic term epoche, the suspension of assent. Cicero now rejects it, having learned the word is a rowing command that actually denotes vigorous reverse motion, not a halt."
+    },
+    {
+      "loc": "3",
+      "anchor": "the very opposite of \\textit{epoch\\=e}",
+      "entity_id": null,
+      "note": "Epoche is the Skeptics' \"suspension of judgement\" --- withholding assent from any proposition. The technical term is central to the Academica Cicero is composing."
+    },
+    {
+      "loc": "3",
+      "anchor": "Carneades always compares",
+      "entity_id": "person:carneades",
+      "note": "Carneades of Cyrene (214-129 BC), the great head of the skeptical New Academy, who likened the suspension of assent to a boxer dropping his guard or a charioteer reining in --- a checking, not a reversal."
+    },
+    {
+      "loc": "3",
+      "anchor": "the gossip or to Pollio",
+      "entity_id": "person:asinius-pollio",
+      "note": "Probably C. Asinius Pollio, then with Caesar's forces in Spain; Cicero affects to care more about a fine point of philosophical vocabulary than about current news. Identification flagged as a judgment bind."
+    },
+    {
+      "loc": "4",
+      "anchor": "about Metellus and Balbinus",
+      "entity_id": null,
+      "note": "Cicero asks for news of a Metellus, but which of the several Caecilii Metelli is meant cannot be securely fixed; no registered Metellus is a clean contemporary fit. Flagged for the registry; left untagged."
+    }
+  ]
+}

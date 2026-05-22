@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "hemmed in at Brundisium",
+      "entity_id": "place:brundisium",
+      "note": "Brundisium (modern Brindisi) was Italy's chief Adriatic embarkation port; in March 49 BC Pompey made his stand there before evacuating his army across to Greece, with Caesar trying to bottle him up by blockading the harbour."
+    },
+    {
+      "loc": "2",
+      "anchor": "a guest-friend of Caesar's",
+      "note": "A hospes, bound to Caesar by hospitium --- the reciprocal, often hereditary tie of guest-friendship that obliged each party to shelter and protect the other; killing such a man was an outrage on Caesar personally."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Domitii come to a bad end",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "note": "A pun: 'your Domitius' is L. Domitius Ahenobarbus, the Pompeian consul of 54 lately captured by Caesar at Corfinium, while 'this one' is the murdered Ligurian notable, so Caelius jokes that men named Domitius habitually meet sticky ends."
+    },
+    {
+      "loc": "2",
+      "anchor": "the man sprung from Venus",
+      "entity_id": "person:caesar",
+      "note": "Caesar, whose patrician gens Iulia claimed descent from Venus through Aeneas's son Iulus; Caelius mockingly contrasts this divine pedigree with the slave Bellienus, 'born of Psecas.'"
+    },
+    {
+      "loc": "2",
+      "anchor": "the one born of Psecas",
+      "entity_id": "person:bellienus-intimilium",
+      "note": "The slave Bellienus, given a lowborn maternal pedigree to set against Caesar's; Psecas is a stock servile name for a hairdressing slave-girl, the contemptuous opposite of divine Venus."
+    },
+    {
+      "loc": "2",
+      "anchor": "Greetings to young Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "Cicero's son Marcus, then about sixteen; the closing 'Ciceroni f. s. d.' is a formulaic greeting passed to the younger Cicero, who was with his father."
+    }
+  ]
+}

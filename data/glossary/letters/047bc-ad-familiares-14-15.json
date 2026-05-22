@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "to send our Cicero to meet Caesar, but we have changed the plan",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "The same scheme floated in Fam. 14.11 to send young Marcus as an intercessor to the victorious Caesar; it was dropped because no firm news of Caesar's return to Italy had reached Brundisium in mid-47 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "you can learn from Sicca",
+      "entity_id": "person:sicca",
+      "note": "Sicca was a trusted friend and confidential agent of Cicero who had sheltered him at Vibo during the exile of 58 BC; here he again serves as the bearer of news too sensitive to commit to writing."
+    }
+  ]
+}

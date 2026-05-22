@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-53",
+  "mentions": [
+    {"loc": "1", "surface": "hic nobiscum sunt Nicias et Valerius", "entity_id": "person:nicias-cous", "in": "lat"},
+    {"loc": "1", "surface": "hic nobiscum sunt Nicias et Valerius", "entity_id": "person:l-valerius-jurisconsult", "in": "lat"},
+    {"loc": "1", "surface": "nisi te Epiroticae litterae impedient", "entity_id": "place:epirus", "in": "lat"},
+    {"loc": "1", "surface": "misi ad te epistulas ad Marcianum", "entity_id": "person:marcianus", "in": "lat"},
+    {"loc": "1", "surface": "ad Marcianum et ad Montanum", "entity_id": "person:l-tullius-montanus", "in": "lat"},
+    {"loc": "1", "surface": "Here with me are Nicias and Valerius", "entity_id": "person:nicias-cous", "in": "eng"},
+    {"loc": "1", "surface": "Here with me are Nicias and Valerius", "entity_id": "person:l-valerius-jurisconsult", "in": "eng"},
+    {"loc": "1", "surface": "unless the Epirote correspondence is holding you up", "entity_id": "place:epirus", "in": "eng"},
+    {"loc": "1", "surface": "the letters to Marcianus and to Montanus", "entity_id": "person:marcianus", "in": "eng"},
+    {"loc": "1", "surface": "the letters to Marcianus and to Montanus", "entity_id": "person:l-tullius-montanus", "in": "eng"}
+  ]
+}

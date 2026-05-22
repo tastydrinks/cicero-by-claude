@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "He thinks Cato spoke first to the motion on the punishment",
+      "entity_id": "person:cato-minor",
+      "note": "Cicero corrects Brutus's account of the senate debate of 5 December 63 BC on punishing the Catilinarian conspirators. Cato spoke late, not first, but his severe motion for execution carried the day, and the division (discessio) was taken on it."
+    },
+    {
+      "loc": "1",
+      "anchor": "the consulars",
+      "entity_id": null,
+      "note": "The consulares were ex-consuls, who by custom were asked their opinion before lower-ranking senators; the long roll-call names those who spoke in the 63 BC debate. The list is recalled from memory and several of the men are identifiable only loosely."
+    },
+    {
+      "loc": "1",
+      "anchor": "All he asks is that you correct the decree of the senate",
+      "entity_id": "institution:senate",
+      "note": "A senatus consultum was the senate's formal resolution; Brutus, writing his own work on the affair, wanted only a textual correction to the recorded decree. Cicero finds the request trivial, fit for a copyist."
+    },
+    {
+      "loc": "2",
+      "anchor": "The gardens of Drusus are certainly for sale",
+      "entity_id": "person:m-livius-drusus-claudianus",
+      "note": "The horti Drusi were suburban gardens belonging to M. Livius Drusus Claudianus, one of several Tiber-side properties Cicero weighed for siting Tullia's shrine. He also names the gardens of Lamia and Cassius as possibly available."
+    },
+    {
+      "loc": "2",
+      "anchor": "If indeed something also comes loose from Faberius",
+      "entity_id": "person:faberius",
+      "note": "Faberius was Caesar's secretary (scriba); a debt owed by or through him --- the so-called nomen Faberianum --- was the chief sum Cicero hoped to call in to fund the purchase of gardens for the shrine."
+    },
+    {
+      "loc": "4",
+      "anchor": "The 100,000 sesterces owed to Ovia, the wife of Gaius Lollius",
+      "entity_id": "person:ovia",
+      "note": "A sum of 100,000 sesterces (HS C) was due to Ovia, wife of Gaius Lollius, and Cicero's accountant Eros could not settle it without him because a property valuation (aestimatio) had to be exchanged. Gaius Lollius is otherwise unidentified."
+    },
+    {
+      "loc": "5",
+      "anchor": "without the courts, without the senate-house",
+      "entity_id": "institution:senate",
+      "note": "The curia was the senate-house in the Forum; with the courts (iudicia) suspended and the senate dominated by Caesar, Cicero felt the Forum had lost everything that once drew him to it. Returning would only force him to face men he could not bear to see."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-07",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "stay in Formiae",
+      "entity_id": "place:formiae",
+      "note": "Formiae, on the coast of Latium between Rome and Campania, was Cicero's favourite seaside villa and his base throughout the crisis of early 49 BC. Staying there let him avoid both Pompey's camp and a too-conspicuous meeting with the advancing Caesar."
+    },
+    {
+      "loc": "3",
+      "anchor": "the office of speaking out for peace",
+      "entity_id": null,
+      "note": "Cicero uses the Greek word politeuma for a deliberate political role or programme; here, acting as an open advocate of peace between Caesar and Pompey. He weighs the dignity of the office against the danger of offending Pompey."
+    },
+    {
+      "loc": "3",
+      "anchor": "an appetite for a Sullan kingship",
+      "entity_id": "person:sulla",
+      "note": "The dictator L. Cornelius Sulla had seized Rome by force in 82 BC and ruled by proscription; Cicero charges that Pompey now covets the same kind of armed autocracy. The recurring \"Sullan\" tag frames the civil war as a contest of would-be tyrants rather than a defence of the Republic."
+    },
+    {
+      "loc": "3",
+      "anchor": "as I did in Milo's case",
+      "entity_id": "person:milo",
+      "note": "Cicero recalls his defence of T. Annius Milo, on trial in 52 BC for the murder of Clodius; he undertook it out of personal obligation rather than approval of the cause, the same logic by which he now feels bound to Pompey."
+    },
+    {
+      "loc": "6",
+      "anchor": "too much an optimate",
+      "entity_id": null,
+      "note": "An \"optimate\" (optimas) was a partisan of the conservative senatorial establishment, the boni who backed Pompey against Caesar. Cicero's wry remark that his agent Philotimus is excessively optimate flags the man's zeal for the Pompeian cause."
+    }
+  ]
+}

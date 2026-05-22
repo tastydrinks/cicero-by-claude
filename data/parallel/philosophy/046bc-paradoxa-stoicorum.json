@@ -1,0 +1,378 @@
+{
+  "schema_version": 1,
+  "id": "paradoxa-stoicorum",
+  "category": "philosophy",
+  "title_latin": "Paradoxa Stoicorum",
+  "title_english": "Stoic Paradoxes",
+  "date": "-0046-07-01",
+  "source_latin": "Perseus Digital Library (canonical-latinLit)",
+  "translator": "Claude (Anthropic), via cicero-by-claude",
+  "license": "CC BY-NC-SA 4.0",
+  "alignment_grain": "section",
+  "segments": [
+    {
+      "loc": "1",
+      "section": 1,
+      "lat": "Animadverti, Brute, saepe Catonem, avunculum tuum, cum in senatu sententiam diceret, locos gravis ex philosophia tractare abhorrentis ab hoc usu forensi et publico, sed dicendo consequi tamen, ut illa etiam populo probabilia viderentur;",
+      "eng": "I have often observed, Brutus, that your uncle Cato, when he delivered his opinion in the Senate, would handle weighty themes drawn from philosophy — themes alien to this forensic and public usage — and yet by his speaking would bring it about that even the people found them plausible.",
+      "notes": null
+    },
+    {
+      "loc": "2",
+      "section": 2,
+      "lat": "quod eo maius est illi quam aut tibi aut nobis, quia nos ea philosophia plus utimur, quae peperit dicendi copiam et in qua dicuntur ea, quae non multum discrepent ab opinione populari, Cato autem, perfectus mea sententia Stoicus, et ea sentit, quae non sane probantur in volgus, et in ea est haeresi, quae nullum sequitur florem orationis neque dilatat argumentum: minutis interrogatiunculis quasi punctis quod proposuit efficit.",
+      "eng": "This is a greater achievement in him than it would be either in you or in me, because we make more use of that philosophy which has given birth to fluency of speech, and in which the things said do not depart greatly from the common opinion; whereas Cato — in my judgment a perfect Stoic — both holds views that are by no means approved among the multitude, and belongs to a school that pursues no flower of language and never expands its argument: by minute little questionings, as though by pinpricks, it accomplishes what it sets out to prove.",
+      "notes": null
+    },
+    {
+      "loc": "3",
+      "section": 3,
+      "lat": "sed nihil est tam incredibile, quod non dicendo fiat probabile, nihil tam horridum, tam incultum, quod non splendescat oratione et tamquam excolatur. quod cum ita putarem, feci etiam audacius quam ille ipse, de quo loquor: Cato enim dum taxat de magnitudine animi, de continentia, de morte, de omni laude virtutis, de dis inmortalibus, de caritate patriae Stoice solet oratoriis ornamentis adhibitis dicere; ego tibi illa ipsa, quae vix in gymnasiis et in otio Stoici probant, ludens conieci in communis locos.",
+      "eng": "But nothing is so incredible that speaking cannot make it plausible, nothing so rough, so uncultivated, that it cannot be made to shine by oratory and, as it were, refined. Holding this view, I have been even bolder than the very man of whom I speak: for Cato, when he treats only of greatness of soul, of self-restraint, of death, of every excellence of virtue, of the immortal gods, of love of country, is wont to speak as a Stoic but with oratorical ornaments brought to bear; whereas I, in play, have cast into commonplace form those very tenets that the Stoics scarcely uphold even in their schools and at their leisure.",
+      "notes": null
+    },
+    {
+      "loc": "4",
+      "section": 4,
+      "lat": "quae quia sunt admirabilia contraque opinionem omnium ab ipsis etiam para/doca appellantur , temptare volui possentne proferri in lucem id est in forum et ita dici, ut probarentur, an alia quaedam esset erudita, alia popularis oratio, eoque hos locos scripsi libentius, quod mihi ista para/doca quae appellant maxime videntur esse Socratica longeque verissima.",
+      "eng": "And because these tenets are astonishing, and run counter to the opinion of all, the Stoics themselves call them paradoxa — that is, \"marvels contrary to expectation\" [Greek: paradoxa]. I wished to test whether they could be brought out into the light — that is, into the Forum — and so stated as to win approval; or whether one kind of speech was for the learned and another for the people. And I wrote out these pieces the more gladly because these so-called paradoxa seem to me to be most thoroughly Socratic, and by far the truest things of all.",
+      "notes": null
+    },
+    {
+      "loc": "5",
+      "section": 5,
+      "lat": "accipies igitur hoc parvum opusculum, lucubratum his iam contractioribus noctibus, quoniam illud maiorum vigiliarum munus in tuo nomine adparuit, et degustabis genus exercitationum earum, quibus uti consuevi, cum ea, quae dicuntur in scholis qetikw=s , ad nostrum hoc oratorium transfero dicendi genus. hoc tamen opus in acceptum ut referas nihil postulo; non enim est tale, ut in arce poni possit, quasi Minerva illa Phidiae, sed tamen, ut ex eadem officina exisse adpareat.",
+      "eng": "You will receive, then, this little work, composed by lamplight in these now shorter nights — since that labour of longer watches has already appeared under your name — and you will taste the kind of exercise I have been accustomed to practise, when I take those things that are discussed in the schools by the method of abstract thesis [Greek: thetikōs] and transfer them to this oratorical manner of mine. Yet I make no demand that you enter this work to my credit; for it is not such as could be set up in the citadel, like that Minerva of Phidias — but still, such that it may plainly appear to have come from the same workshop.",
+      "notes": null
+    },
+    {
+      "loc": "6",
+      "section": 6,
+      "lat": "o(/ti mo/non to\\ kalo\\n a)gaqo/n. vereor ne cui vestrum ex Socraticorum hominum disputationibus, non ex meo sensu deprompta haec videatur oratio; dicam quod sentio tamen et dicam brevius quam res tanta dici potest. numquam hercule ego neque pecunias istorum neque tecta magnifica neque opes neque imperia neque eas, quibus maxime astricti sunt, voluptates in bonis rebus aut expetendis esse duxi, quippe cum viderem rebus his circumfluentis ea tamen desiderare maxime, quibus abundarent; neque enim umquam expletur nec satiatur cupiditatis sitis, neque solum ea qui habent libidine augendi cruciantur, sed etiam amittendi metu.",
+      "eng": "That the morally good is the only good [Greek: hoti monon to kalon agathon]. I fear this discourse may seem to some of you to be drawn from the disputations of the followers of Socrates rather than from my own conviction; yet I shall say what I think, and say it more briefly than so great a matter can be stated. Never, by Hercules, have I counted the riches of those men, nor their magnificent dwellings, nor their wealth, nor their commands, nor those pleasures by which above all they are held fast, to be among things that are good or worth desiring — seeing that I observed men awash in these very things still longing most for the things in which they abounded; for the thirst of greed is never filled nor sated, and those who possess such things are tormented not only by the craving to increase them, but also by the fear of losing them.",
+      "notes": null
+    },
+    {
+      "loc": "7",
+      "section": 7,
+      "lat": "in quo equidem continentissimorum hominum, maiorum nostrorum, saepe requiro prudentiam, qui haec inbecilla et conmutabilia pecuniae membra verbo bona putaverunt appellanda, cum re ac factis longe aliter iudicavissent. potestne bonum cuiquam malo esse aut potest quisquam in abundantia bonorum ipse esse non bonus? atqui ista omnia talia videmus, ut et inprobi habeant et absint probis.",
+      "eng": "On this point I often miss the prudence of our self-restrained ancestors, who judged that these weak and changeable appendages of money ought to be called \"goods\" in word, when in fact and in deed they had judged far otherwise. Can a good be an evil to anyone? Or can anyone, amid an abundance of goods, be himself not good? And yet we see that all these things are of such a kind that the wicked possess them and the good go without them.",
+      "notes": null
+    },
+    {
+      "loc": "8",
+      "section": 8,
+      "lat": "quam ob rem licet inrideat si qui volt, plus apud me tamen vera ratio valebit quam volgi opinio; neque ego umquam bona perdidisse dicam, si quis pecus aut supellectilem amiserit, nec non saepe laudabo sapientem illum, Biantem, ut opinor, qui numeratur in septem: cuius cum patriam Prienam cepisset hostis ceterique ita fugerent, ut multa de suis rebus asportarent, cum esset admonitus a quodam ut idem ipse faceret, ego vero inquit facio; nam omnia mecum porto mea.",
+      "eng": "Therefore, let anyone laugh who wishes; with me, all the same, true reason will weigh more than the opinion of the crowd. Nor shall I ever say that anyone has lost goods if he has lost cattle or furniture, and I shall often praise that wise man — Bias, I believe, who is counted among the Seven. When the enemy had taken his native city of Priene, and the rest were fleeing in such a way as to carry off much of their property, and someone urged him to do the same, \"I am doing so,\" he said; \"for I carry all that is mine with me.\"",
+      "notes": null
+    },
+    {
+      "loc": "9",
+      "section": 9,
+      "lat": "ille haec ludibria fortunae ne sua quidem putavit, quae nos appellamus etiam bona. quid est igitur, quaeret aliquis, bonum? si, quod recte fit et honeste et cum virtute, id bene fieri vere dicitur, quod rectum et honestum et cum virtute est, id solum opinor bonum.",
+      "eng": "He did not even reckon as his own these playthings of fortune, which we go so far as to call goods. What, then, someone will ask, is good? If whatever is done rightly and honourably and with virtue is truly said to be done well, then what is right and honourable and done with virtue is, I hold, the only good.",
+      "notes": null
+    },
+    {
+      "loc": "10",
+      "section": 10,
+      "lat": "sed haec videri possunt odiosiora, cum lentius disputantur: vita atque factis inlustrata sunt summorum virorum haec quae verbis subtilius quam satis est, disputari videntur ; quaero enim a vobis, num ullam cogitationem habuisse videantur ii, qui hanc rein publicam tam praeclare fundatam nobis reliquerunt, aut argenti ad avaritiam aut amoenitatum ad delectationem aut supellectilis ad delicias aut epularum ad voluptates? ponite ante oculos unum quemque regum .",
+      "eng": "But these claims can seem rather distasteful when they are argued at too leisurely a length: in the life and deeds of the greatest men, those things are made luminous which, in words, seem to be argued more subtly than is needful. For I ask of you: do those men seem to have given any thought — those who left us this commonwealth so splendidly founded — to silver for greed, or to charming retreats for delight, or to furnishings for luxury, or to banquets for pleasure? Set before your eyes each of the kings in turn.",
+      "notes": null
+    },
+    {
+      "loc": "11",
+      "section": 11,
+      "lat": "voltis a Romulo? voltis post liberam civitatem ab iis ipsis, qui liberaverunt? quibus tandem Romulus gradibus escendit in caelum? iisne, quae isti bona appellant, an rebus gestis atque virtutibus? quid? a Numa Pompilio minusne gratas dis inmortalibus capudines ac fictilis urnulas fuisse quam felicatas Saliorum pateras arbitramur? omitto reliquos; sunt enim omnes pares inter se praeter Superbum.",
+      "eng": "Will you have it from Romulus? Or, after the founding of the free state, from the very men who set it free? By what steps, then, did Romulus mount to heaven? By those things which these men call goods, or by his deeds and his virtues? And what of Numa Pompilius — do we suppose his earthenware bowls and little clay urns were less pleasing to the immortal gods than the fern-chased dishes of the Salii? I pass over the rest; for they are all equal among themselves, except for the Proud.",
+      "notes": null
+    },
+    {
+      "loc": "12",
+      "section": 12,
+      "lat": "Brutum si qui roget, quid egerit in patria liberanda, si quis item reliquos eiusdem consilii socios, quid spectaverint, quid secuti sint: num quis exsistat, cui voluptas, cui divitiae, cui denique praeter officium fortis et magni viri quicquam aliud propositum fuisse videatur? quae res ad necem Porsennae C. Mucium inpulit sine ulla spe salutis suae? quae vis Coclitem contra omnis hostium copias tenuit in ponte solum? quae patrem Decium, quae filium devota vita inmisit in armatas hostium copias? quid continentia C. Fabricii, quid tenuitas victus M'. Curii sequebatur? quid duo propugnacula belli Punici, Cn. et P. Scipiones, qui Karthaginiensium adventum corporibus suis intercludendum putaverunt? quid Africanus maior? quid minor? quid inter horum aetates interiectus Cato? quid innumerabiles alii? - nam domesticis exemplis abundamus -: cogitassene quicquam in vita sibi esse expetendum nisi quod laudabile esse et praeclarum videretur?",
+      "eng": "If anyone should ask Brutus what he aimed at in setting his country free, or if anyone should ask the rest of his fellow-conspirators what they had in view, what they pursued — could anyone come forward to whom it would seem that pleasure, or riches, or anything at all beyond the duty of a brave and great man, had been their object? What drove C. Mucius to the slaying of Porsenna, with no hope of his own safety? What force held Cocles alone upon the bridge against all the enemy's forces? What sent Decius the father, what sent the son, with life devoted, into the armed ranks of the enemy? What did the self-restraint of C. Fabricius pursue, what the frugal table of M'. Curius? What did those two bulwarks of the Punic War, Cn. and P. Scipio, who thought the Carthaginians' advance must be blocked with their own bodies? What of Africanus the elder? What of the younger? What of Cato, born between their generations? What of countless others — for in our own annals we have examples in abundance — was it that any of them thought anything worth seeking in life except what should seem praiseworthy and glorious?",
+      "notes": null
+    },
+    {
+      "loc": "13",
+      "section": 13,
+      "lat": "veniant igitur isti inrisores huius orationis ac sententiae, et iam vel ipsi iudicent, utrum se horum alicuius, qui marmoreis tectis ebore et auro fulgentibus, qui signis, qui tabulis, qui caelato auro et argento, qui Corinthiis operibus abundant, an C. Fabricii, qui nihil habuit eorum, nihil habere voluit, similis malint?",
+      "eng": "Let them come, then, these mockers of this discourse and this view, and let them now judge for themselves whether they would rather be like one of these men who abound in marble halls gleaming with ivory and gold, in statues, in paintings, in chased gold and silver, in works of Corinthian bronze — or like C. Fabricius, who had none of these things, and wished to have none.",
+      "notes": null
+    },
+    {
+      "loc": "14",
+      "section": 14,
+      "lat": "atque haec quidem, quae modo huc, modo illuc transferuntur, facile adduci solent ut in bonis rebus esse negent; illud arte tenent accurateque defendunt, voluptatem esse summum bonum: quae quidem mihi vox pecudum videtur esse, non hominum. tu, cum tibi sive deus sive mater, ut ita dicam, rerum omnium natura dederit animum, quo nihil est praestantius neque divinius, sic te ipse abicies atque prosternes, ut nihil inter te atque inter quadripedem aliquam putes interesse? quicquam bonum est, quod non eum, qui id possidet, meliorem facit?",
+      "eng": "And as for these goods, which are carried now this way, now that, men can readily be brought to deny that they are good things at all; but this they hold firmly and defend with care: that pleasure is the highest good. This, to me, is the voice of cattle, not of men. When either a god or, so to speak, the mother of all things, nature, has given you a soul than which nothing is more excellent or more divine, will you so cast yourself down and grovel as to think there is no difference between you and some four-footed beast? Is anything good that does not make better the one who possesses it?",
+      "notes": null
+    },
+    {
+      "loc": "15",
+      "section": 15,
+      "lat": "ut enim est quisque maxime boni particeps, ita est laudabilis maxime, neque est ullum bonum, de quo non is, qui id habeat, honeste possit gloriari. quid autem est horum in voluptate? melioremne efficit aut laudabiliorem virum? an quisquam in potiendis voluptatibus gloriando se et praedicatione ecfert? atqui si voluptas, quae plurimorum patrociniis defenditur, in rebus bonis habenda non est, eaque quo est maior, eo magis mentem ex sua sede et statu demovet, profecto nihil est aliud bene et beate vivere nisi honeste et recte vivere.",
+      "eng": "For just as each man shares most fully in the good, so is he most praiseworthy; nor is there any good in which the man who possesses it cannot honourably glory. Now what of this is there in pleasure? Does it make a man better, or more praiseworthy? Does anyone, in the having of pleasures, exalt himself with boasting and proclamation? But if pleasure, which is defended by so many advocates, is not to be reckoned among good things, and if the greater it is, the more it dislodges the mind from its seat and its standing — then surely to live well and happily is nothing other than to live honourably and rightly.",
+      "notes": null
+    },
+    {
+      "loc": "16",
+      "section": 16,
+      "lat": "o(/ti au)ta/rkhs h( a)reth\\ pro\\s eu)daimoni/an In quo virtus sit, ei nihil deesse ad beate vivendum. nec vero ego M. Regulum aerumnosum nec infelicem nec miserum umquam putavi; non enim magnitudo animi cruciabatur eius a Poenis, non gravitas, non fides, non constantia, non ulla virtus, non denique animus ipse, qui tot virtutum praesidio tantoque comitatu, cum corpus eius caperetur, capi certe ipse non potuit. C. vero Marium vidimus, qui mihi secundis rebus unus ex fortunatis hominibus, adversis unus ex summis viris videbatur, quo beatius esse mortali nihil potest.",
+      "eng": "That virtue is sufficient of itself for happiness [Greek: hoti autarkēs hē aretē pros eudaimonian]: that the man in whom virtue dwells lacks nothing for living happily. Nor indeed did I ever think M. Regulus wretched, or unhappy, or miserable; for it was not his greatness of soul that the Carthaginians tortured, nor his gravity, nor his good faith, nor his constancy, nor any virtue of his — nor, finally, that very soul which, fenced about by the safeguard and the great escort of so many virtues, surely could not itself be taken captive even when his body was taken. And C. Marius we saw — a man who, in prosperity, seemed to me one of the fortunate, and in adversity one of the greatest of men: than which nothing happier can befall a mortal.",
+      "notes": null
+    },
+    {
+      "loc": "17",
+      "section": 17,
+      "lat": "nescis, insane, nescis, quantas viris virtus habeat; nomen tantum virtutis usurpas, quid ipsa valeat ignoras: nemo potest non beatissimus esse, qui est totus aptus ex sese quique in se uno sua ponit omnia. cui spes omnis et ratio et cogitatio pendet ex fortuna, huic nihil potest esse certi, nihil quod exploratum habeat permansurum sibi unum diem; eum tu hominem terreto, si quem eris nanctus, istis mortis aut exsilii minis: mihi vero quicquid acciderit in tam ingrata civitate, ne recusanti quidem evenerit, non modo non repugnanti. quid enim ego laboravi aut quid egi aut in quo evigilarunt curae et cogitationes meae, si quidem nihil peperi tale, nihil consecutus sum, ut eo statu essem, quem neque fortunae temeritas neque inimicorum labefactaret iniuria? mortemne mihi minitaris,",
+      "eng": "You do not know, madman, you do not know what strength virtue has; you merely usurp the name of virtue, and are ignorant of what it can do. No one can fail to be supremely happy who is wholly self-sufficient, and who places all that is his in himself alone. The man whose every hope and reason and reflection hangs upon fortune can have nothing certain, nothing he holds assured will remain his for a single day. Such a man you may terrify, if you find one, with those threats of death or exile; but for me, whatever befalls me in so thankless a state will not have come even against my refusal, much less against my resistance. For why did I toil, what did I do, in what did my cares and reflections keep watch, if indeed I brought forth nothing of such a kind, achieved nothing, that should set me in a condition which neither the recklessness of fortune nor the injustice of enemies could shake? Do you threaten me with death,",
+      "notes": null
+    },
+    {
+      "loc": "18",
+      "section": 18,
+      "lat": "ut omnino ab hominibus, an exsilium, ut ab inprobis demigrandum sit? mors terribilis iis, quorum cum vita omnia exstinguuntur, non iis, quorum laus emori non potest; exsilium autem illis, quibus quasi circumscriptus est habitandi locus, non iis, qui omnem orbem terrarum unam urbem esse ducunt. te miseriae, te aerumnae premunt omnes, qui te beatum, qui florentem putas; te lubidines torquent; tu dies noctisque cruciaris, cui nec sat est quod est et id ipsum ne non diuturnum sit futurum times; te conscientiae stimulant maleficiorum tuorum; te metus exanimant iudiciorum atque legum; quocumque adspexisti, ut furiae sic tuae tibi occurrunt iniuriae, quae te suspirare libere non sinunt.",
+      "eng": "that I must depart from the company of men altogether — or with exile, that I must depart from the company of the wicked? Death is terrible to those for whom all things are extinguished together with their life, not to those whose praise cannot die; exile is terrible to those for whom the place of dwelling is, as it were, circumscribed, not to those who reckon the whole world to be a single city. All miseries, all afflictions press upon you, who think yourself happy and flourishing; lusts torment you; day and night you are racked, who find no satisfaction in what you have and fear that this very thing will not be lasting; the consciousness of your misdeeds goads you; dread of judgments and of laws unmans you; wherever you have looked, like Furies your injustices rush to meet you, and will not let you draw a free breath.",
+      "notes": null
+    },
+    {
+      "loc": "19",
+      "section": 19,
+      "lat": "quam ob rem ut inprobo et stulto et inerti nemini bene esse potest, sic bonus vir et sapiens et fortis miser esse nemo potest; nec vero, cuius virtus moresque laudandi sunt, eius non laudanda vita est, neque porro fugienda vita est quae laudanda est, esset autem fugienda, si esset misera. quam ob rem quicquid est laudabile, idem et beatum et florens et expetendum videri decet.",
+      "eng": "For this reason, just as no man can be well off who is wicked and foolish and slothful, so no man can be wretched who is good and wise and brave. Nor indeed is the life of a man whose virtue and character are to be praised itself anything but praiseworthy; and a life that is praiseworthy is not to be fled; but it would be a thing to flee, if it were wretched. For this reason, whatever is praiseworthy ought rightly to seem also happy and flourishing and worth desiring.",
+      "notes": null
+    },
+    {
+      "loc": "20",
+      "section": 20,
+      "lat": "o(/ti i)/sa ta\\ a(marth/mata kai\\ ta\\ katorqw/mata parva inquit est res. at magna culpa; nec enim peccata rerum eventis, sed vitiis hominum metienda sunt: in quo peccatur, id potest aliud alio maius esse aut minus, ipsum quidem illud peccare, quoquo verteris, unum est. auri navem evertat gubernator an paleae, in re aliquantum, in gubernatoris inscitia nihil interest. lapsa est lubido in muliere ignota, dolor ad pauciores pertinet, quam si petulans fuisset in aliqua generosa ac nobili virgine; peccavit vero nihilo minus, si quidem est peccare tamquam transire lineas, quod cum feceris, culpa commissa est: quam longe progrediare, cum semel transieris, ad augendam transeundi culpam nihil pertinet. peccare certe licet nemini; quod autem non licet, id hoc uno tenetur, si arguitur non licere: id si nec maius nec minus umquam fieri potest, quoniam in eo est peccatum, si non licuit, quod semper unum et idem est, quae ex eo peccata nascuntur aequalia sint oportet.",
+      "eng": "That offences and right actions are equal [Greek: hoti isa ta hamartēmata kai ta katorthōmata]. \"It is a small matter,\" he says. But the fault is great; for offences are to be measured not by their outcomes but by men's vices. The thing in which the offence is committed may be greater in one case, smaller in another; but the very act of offending, whichever way you turn it, is one. Whether a pilot wrecks a ship laden with gold or one laden with chaff, there is some difference in the cargo, but none in the pilot's incompetence. Lust has slipped after an unknown woman: the harm reaches fewer people than if he had been wanton with some high-born and noble maiden; yet he has offended none the less, if indeed to offend is, as it were, to cross a line — and once you have done that, the fault is committed. How far you advance, once you have crossed over, has no bearing on increasing the fault of crossing. To offend is surely permitted to no one; and what is not permitted is held to consist in this one thing — that it is proved not to be permitted: and if this can never become either greater or less, since the offence lies in this, that something was not permitted — which is always one and the same — then the offences that arise from it must needs be equal.",
+      "notes": null
+    },
+    {
+      "loc": "21",
+      "section": 21,
+      "lat": "quod si virtutes sunt pares inter se, paria esse etiam vitia necesse est: atqui paris esse virtutes nec bono viro meliorem nec temperante temperantiorem nec. forti fortiorem nec sapienti sapientiorem posse fieri, facillume potest perspici. an virum bonum dices, qui depositum nullo teste, cum lucrari inpune posset auri pondo decem, reddiderit, si idem in decem milibus non idem fecerit? aut temperantem, qui se in aliqua libidine continuerit, in aliqua effuderit?",
+      "eng": "But if the virtues are equal among themselves, the vices too must of necessity be equal. Now that the virtues are equal — that no one can become better than a good man, or more temperate than a temperate man, or braver than a brave man, or wiser than a wise man — can very easily be seen. Or will you call him a good man who, when there was no witness, restored a deposit of ten pounds of gold which he might have pocketed with impunity, if the same man would not do the same with ten thousand? Or call him temperate who held himself back in one lust, but let himself loose in another?",
+      "notes": null
+    },
+    {
+      "loc": "22",
+      "section": 22,
+      "lat": "una virtus est consentiens cum ratione et perpetua constantia; nihil huc addi potest, quo magis virtus sit, nihil demi, ut virtutis nomen relinquatur: etenim si bene facta recte facta sunt et nihil recto rectius, certe ne bono quidem melius quicquam inveniri potest. sequitur igitur ut etiam vitia sint paria, si quidem pravitates animi recte vitia dicuntur. atqui quoniam pares virtutes sunt, recte facta, quoniam a virtutibus proficiscuntur, paria esse debent, itemque peccata, quoniam ex vitiis manant, sint aequalia necesse est.",
+      "eng": "Virtue is one thing: a settled and perpetual constancy in accord with reason; nothing can be added to it to make it more virtue, nothing taken away while the name of virtue is left. For if good deeds are right deeds, and nothing is more right than the right, then surely nothing can be found better even than the good. It follows, then, that the vices too are equal — if indeed crooked dispositions of the soul are rightly called vices. And since the virtues are equal, right actions, because they proceed from the virtues, must be equal; and likewise offences, because they flow from vices, must of necessity be equal.",
+      "notes": null
+    },
+    {
+      "loc": "23",
+      "section": 23,
+      "lat": "a philosophis inquit ista sumis. metuebam ne a lenonibus diceres. Socrates disputabat isto modo. bene hercule narras; nam istum doctum et sapientem virum fuisse memoriae traditum est. sed tamen quaero ex te, quoniam verbis inter nos contendimus, non pugnis: utrum nobis est quaerendum quid baioli atque operarii an quid homines doctissimi senserint? praesertim cum hac sententia non modo verior, sed ne utilior quidem hominum vitae reperiri ulla possit. quae vis est enim quae magis arceat homines ab inprobitate omni, quam si senserint nullum in delictis esse discrimen? aeque peccare se, si privatis ac si magistratibus manus adferant? quamcumque in domum stuprum intulerint, eandem esse labem lubidinis?",
+      "eng": "\"You take these notions from the philosophers,\" he says. I was afraid you would say from the pimps. \"Socrates argued in this fashion.\" Well told, by Hercules; for it has been handed down to memory that he was a learned and wise man. But still I ask of you — since we contend with each other in words, not with fists — whether we are to inquire what porters and day-labourers have thought, or what the most learned of men have thought? Especially since no view can be found that is not only truer, but even more useful, to human life. For what force is there that more keeps men back from all wickedness than this — if they have come to feel that there is no distinction among offences? that they offend equally whether they lay hands on private men or on magistrates? that into whatever house they have brought defilement, the stain of lust is the same?",
+      "notes": null
+    },
+    {
+      "loc": "24",
+      "section": 24,
+      "lat": "nihilne igitur interest —nam hoc dicet aliquis— patrem quis necet anne servum? nuda ista si ponas, iudicare qualia sint non facile possim. patrem vita privare si per se scelus est, Saguntini, qui parentes suos liberos emori quam servos vivere maluerunt, parricidae fuerunt: ergo et parenti non numquam adimi vita sine scelere potest et servo saepe sine iniuria non potest. causa igitur haec, non natura distinguit, quae quoniam utro accessit, id fit propensius, si utroque adiuncta est, paria fiant necesse est.",
+      "eng": "\"Does it make no difference, then,\" someone will say, \"whether a man kills his father or kills a slave?\" If you set these down bare, I could not easily judge of what sort they are. To deprive a father of life, if it is in itself a crime — then the people of Saguntum, who chose that their parents should die free rather than live as slaves, were parricides. Therefore life may sometimes be taken from a parent without crime, and often cannot be taken from a slave without injustice. It is the circumstance, then, not the nature of the act, that draws the distinction; and since, whichever of the two it attaches to, the act inclines that way, then if it attaches to both, the offences must of necessity become equal.",
+      "notes": null
+    },
+    {
+      "loc": "25",
+      "section": 25,
+      "lat": "illud tamen interest, quod in servo necando, si id fit iniuria, semel peccatur, in patris vita violanda multa peccantur: violatur is qui procreavit, is qui aluit, is qui erudivit, is qui in sede ac domo atque in re publica conlocavit; multitudine peccatorum praestat eoque poena maiore dignus est. sed nos in vita non quae cuique peccato poena sit, sed quantum cuique liceat spectare debemus: quicquid non oportet scelus esse, quicquid non licet nefas putare debemus. etiamne in minimis rebus? etiam, si quidem rerum modum figere non possumus, animorum modum tenere possumus.",
+      "eng": "Yet this much difference there is: that in killing a slave, if it is done unjustly, the offence is committed once, while in violating a father's life many offences are committed at once: violated is he who begot, he who reared, he who taught, he who established him in a station, a home, and a place in the commonwealth; the man surpasses in the multitude of his offences, and is therefore worthy of a greater penalty. But in life we ought to look not to what penalty attaches to each offence, but to what is permitted to each man: whatever is not fitting we ought to count a crime, whatever is not permitted we ought to count an abomination. Even in the smallest matters? Even so — if indeed, though we cannot fix the measure of things, we can hold to the measure of our own minds.",
+      "notes": null
+    },
+    {
+      "loc": "26",
+      "section": 26,
+      "lat": "histrio si paulum se movit extra numerum aut si versus pronuntiatus est syllaba una brevior aut longior, exsibilatur, exploditur: in vita tu, quae omni gestu moderatior, omni versu aptior esse debet, in syllaba te peccasse dices? poetam non audio in nugis: in vitae societate audiam civem digitis peccata dimetientem sua? si vis, sane sint breviora, leviora qui possunt videri? cum quicquid peccatur perturbatione peccetur rationis atque ordinis, perturbata autem semel ratione et ordine nihil possit addi, quo magis peccari posse videatur.",
+      "eng": "An actor, if he has moved a little out of rhythm, or if a verse has been delivered one syllable too short or too long, is hissed and driven from the stage; and will you, in your life — which ought to be more measured than any gesture, more fitting than any verse — say that you have offended only by a syllable? In trifles I will not listen to a poet; in the fellowship of life shall I listen to a citizen who measures out his offences by his fingers? Grant, if you will, that they are shorter — how can they be made to seem lighter? Since whatever is offended is offended through a disturbance of reason and order, and once reason and order have been disturbed nothing can be added by which the offence may seem greater.",
+      "notes": null
+    },
+    {
+      "loc": "27",
+      "section": 27,
+      "lat": "o(/ti pa=s a)/frwn mai/netai Omnis stultos insanire. ego vero te non stultum, ut saepe, non inprobum, ut semper, sed dementem * * * * * * rebus ad victum necessariis esse invictus * * potest. sapientis animus magnitudine consilii, tolerantia rerum humanarum, contemptione fortunae, virtutibus denique omnibus ut moenibus saeptus vincetur et expugnabitur, qui ne civitate quidem pelli potest? quae est enim civitas? omnisne conventus etiam ferorum et inmanium? omnisne etiam fugitivorum ac latronum congregata unum in locum multitude? certe negabis. non igitur erat illa tum civitas, cum leges in ea nihil valebant, cum iudicia iacebant, cum mos patrius occiderat, cum ferro pulsis magistratibus senatus nomen in re publica non erat; praedonum ille concursus et te duce latrocinium in foro constitutum et reliquiae coniurationis a Catilinae furiis ad tuum scelus furoremque conversae non civitas erat.",
+      "eng": "That every fool is mad. [Greek: hoti pas aphrōn mainetai.] For my part, I have called you not a fool, as I often have, nor a scoundrel, as I always have, but deranged. * * * * * * is unconquered as regards the things necessary to sustain life * * can be. Will the mind of the wise man be conquered and stormed — fenced about, as if by ramparts, with greatness of counsel, with endurance of human affairs, with contempt of fortune, in short with all the virtues — when it cannot even be driven out of a city? For what is a city? Every gathering whatsoever, even of savage and brutal men? Every multitude of runaways and brigands herded together into one place? Surely you will say no. There was no city, then, in those days, when the laws had no force in it, when the courts lay prostrate, when ancestral custom had perished, when, the magistrates having been driven out by the sword, the name of the Senate had no place in the commonwealth. That muster of robbers, the brigandage you set up in the Forum under your own command, the remnants of the conspiracy turned aside from the madness of Catiline to your own crime and frenzy — that was no city.",
+      "notes": null
+    },
+    {
+      "loc": "28",
+      "section": 28,
+      "lat": "itaque pulsus ego civitate non sum, quae nulla erat: accersitus in civitatem sum, cum esset in re publica consul, qui tum nullus fuerat, esset senatus, qui tum occiderat, esset consensus populi liber, esset iuris et aequitatis, quae vincla sunt civitatis, repetita memoria. ac vide quam ista tui latrocinii tela contempserim: iactam et inmissam a te nefariam in me iniuriam semper duxi; pervenisse ad me numquam putavi, nisi forte, cum parietes disturbabas aut cum tectis sceleratas faces inferebas, meorum aliquid ruere aut deflagrare arbitrabare:",
+      "eng": "And so I was not driven out of a city, for there was none: I was summoned back into a city, when there was in the commonwealth a consul, of which there had then been none; a Senate, which had then perished; a free consensus of the people; a memory of law and equity — the very bonds of a city — recovered. And see how I despised those weapons of your brigandage: the impious wrong hurled and launched against me by you I always reckoned thrown, but I never thought it had reached me — unless, perhaps, while you were tearing down walls or carrying your criminal torches against my house, you imagined that something of mine was collapsing or burning to ash.",
+      "notes": null
+    },
+    {
+      "loc": "29",
+      "section": 29,
+      "lat": "nihil neque meum est neque cuiusquam, quod auferri, quod eripi, quod amitti potest. si mihi eripuisses divinam animi mei conscientiam, meis curis, vigiliis, consiliis stare te invitissimo rem publicam, si huius aeterni beneficii inmortalem memoriam delevisses, multo etiam magis, si illam mentem, unde haec consilia manarunt, mihi eripuisses, tum ego accepisse me confiterer iniuriam; sed si haec nec fecisti nec facere potuisti, reditum mihi gloriosum iniuria tua dedit, non exitum calamitosum. ergo ego semper civis, et tum maxime, cum meam salutem senatus exteris nationibus, ut civis optumi, commendabat, tu ne nunc quidem, nisi forte idem hostis esse et civis potest. an tu civem ab hoste natura ac loco, non animo factisque distinguis?",
+      "eng": "Nothing is mine, nor anyone's, that can be carried off, snatched away, or lost. Had you stripped from me the divine consciousness of my own mind — that by my cares, my vigils, my counsels the commonwealth stands, against your fiercest will; had you blotted out the immortal memory of this everlasting service; and still more, had you torn from me the very mind from which those counsels flowed — then I would confess that I had suffered a wrong. But since you neither did this nor could have done it, your wrong gave me a glorious return, not a calamitous exit. So I have always been a citizen, and most of all at the moment when the Senate was commending my safety to foreign nations as that of its best citizen; you, not even now — unless, perhaps, the same man can be both enemy and citizen. Or do you distinguish a citizen from an enemy by nature and by place, not by spirit and by deeds?",
+      "notes": null
+    },
+    {
+      "loc": "30",
+      "section": 30,
+      "lat": "caedem in foro fecisti, armatis latronibus templa tenuisti, privatorum domos, aedis sacras incendisti: cur hostis Spartacus, si tu civis? potes autem esse tu civis, propter quem aliquando civitas non fuit? et me tuo nomine appellas, cum omnes meo discessu exsulasse rem publicam putent? numquamne, homo amentissime, te circumspicies? numquam nec quid facias considerabis nec quid loquare? nescis exsilium scelerum esse poenam, meum illud iter ob praeclarissimas res a me gestas esse susceptum?",
+      "eng": "You committed slaughter in the Forum, you held the temples with armed brigands, you set fire to the houses of private men and to sacred shrines: why was Spartacus an enemy, if you are a citizen? And can you be a citizen, on whose account there was once no city at all? And you call me by your own name, when all men think the commonwealth went into exile at my departure? Will you never look about you, most insane of men? Will you never weigh either what you do or what you say? Do you not know that exile is the penalty of crimes, and that my own journey was undertaken on account of the most distinguished deeds I performed?",
+      "notes": null
+    },
+    {
+      "loc": "31",
+      "section": 31,
+      "lat": "omnes scelerati atque inpii, quorum tu te ducem esse profiteris, quos leges exsilio adfici volunt, exsules sunt, etiam si solum non mutarunt. an cum omnes te leges exsulem esse iubeant, non eris tu exsul? exsul non appelletur is, qui cum telo fuerit? ante senatum tua sica deprehensa est. qui hominem occiderit? plurimos occidisti. qui incendium fecerit? aedes Nympharum manu tua deflagravit. qui templa occupaverit? in foro castra posuisti.",
+      "eng": "All the criminal and impious men whose leader you profess yourself to be, whom the laws would have visited with exile, are exiles, even if they have not changed their soil. Or, when all the laws command that you be an exile, will you not be an exile? Shall a man who has gone about armed not be called an exile? Your dagger was caught before the Senate. A man who has killed another? You have killed very many. A man who has committed arson? The temple of the Nymphs burned to ash by your own hand. A man who has seized temples? You pitched your camp in the Forum.",
+      "notes": null
+    },
+    {
+      "loc": "32",
+      "section": 32,
+      "lat": "sed quid ego communis leges profero, quibus omnibus es exsul? familiarissimus tuus de te privilegium tulit, ut, si in opertum Bonae Deae accessisses, exsulares: at te id fecisse etiam gloriari soles. quo modo igitur tot legibus eiectus in exsilium nomen exsulis non perhorrescis? Romae sum inquit. et quidem in operto fuisti. non igitur ubi quisque erit, eius loci ius tenebit, si ibi eum legibus esse non oportebit.",
+      "eng": "But why do I produce the common laws, by every one of which you are an exile? Your closest friend carried a private bill against you, that if you had entered the secret rites of the Good Goddess you should go into exile: and yet you are even in the habit of boasting that you did it. How, then, cast into exile by so many laws, do you not shudder at the name of exile? \"I am at Rome,\" he says. And you were, indeed, in the forbidden place. It is not, then, that wherever a man happens to be, he holds the law of that place, if it is unlawful for him to be there.",
+      "notes": null
+    },
+    {
+      "loc": "33",
+      "section": 33,
+      "lat": "o(/ti mo/nos o( sofo\\s e)leu/qeros kai\\ pa=s a)/frwn dou=los Omnis sapientis liberos esse et stultos omnis servos. laudetur vero hic imperator aut etiam appelletur aut hoc nomine dignus putetur. quo modo aut cui tandem hic libero imperabit, qui non potest cupiditatibus suis imperare? refrenet primum libidines, spernat voluptates, iracundiam teneat, coerceat avaritiam, ceteras animi labis repellat; tum incipiat aliis imperare, cum ipse inprobissimis dominis, dedecori ac turpitudini, parere desierit: dum quidem iis oboediet, non modo imperator, sed liber habendus omnino non erit. praeclare enim est hoc usurpatum a doctissimis - quorum ego auctoritate non uterer, si mihi apud aliquos agrestis haec habenda esset oratio; cum vero apud prudentissimos loquar, quibus haec inaudita non sint, cur ego simulem me, si quid in his studiis operae posuerim, perdidisse? — dictum est igitur ab eruditissimis viris nisi sapientem liberum esse neminem.",
+      "eng": "That only the wise man is free, and every fool a slave. [Greek: hoti monos ho sophos eleutheros kai pas aphrōn doulos.] Let this man be praised as a commander, then, or even called one, or thought worthy of the name. Over what free man, or how, will he command, who cannot command his own desires? Let him first rein in his lusts, despise pleasures, hold down his anger, curb his avarice, drive off the other stains of the spirit; then let him begin to command others, when he himself has ceased to obey those most disgraceful masters, dishonour and depravity. So long as he obeys them, he must be held not merely no commander, but no free man at all. For this has been finely laid down by the most learned men — on whose authority I would not rely, if I had to deliver this discourse before some rustics; but since I speak before men of the keenest judgment, to whom these things are not unheard of, why should I pretend that I have wasted whatever effort I have spent on these studies? — it has been said, then, by the most erudite men, that no one is free but the wise man.",
+      "notes": null
+    },
+    {
+      "loc": "34",
+      "section": 34,
+      "lat": "quid est enim libertas? potestas vivendi, ut velis. quis igitur vivit, ut volt, nisi qui recte vivit, qui gaudet officio, cui vivendi via considerata atque provisa est? qui ne legibus quidem propter metum paret, sed eas sequitur et colit, quod id salutare esse maxime iudicat; qui nihil dicit, nihil facit, nihil cogitat denique nisi lubenter ac libere; cuius omnia consilia resque omnes, quas gerit, ab ipso proficiscuntur eodemque referuntur, nec est ulla res, quae plus apud eum polleat quam ipsius voluntas atque iudicium; cui quidem etiam, quae vim habere maximam dicitur, Fortuna ipsa cedit, si, ut sapiens poeta dixit, suis ea cuique fingitur moribus. soli igitur hoc contingit sapienti, ut nihil faciat invitus, nihil dolens, nihil coactus.",
+      "eng": "For what is freedom? The power to live as you will. Who, then, lives as he wills, except the man who lives rightly, who delights in his duty, for whom the path of life is considered and provided for; who obeys the laws not even out of fear, but follows and reveres them because he judges this to be most salutary; who says nothing, does nothing, in short thinks nothing except gladly and freely; whose every counsel and every act he performs proceed from himself and are referred back to himself; for whom there is nothing of greater force than his own will and judgment; to whom even Fortune herself — who is said to have the greatest power — gives way, if, as the wise poet said, she is shaped for each man by his own character? To the wise man alone, therefore, does it fall to do nothing unwillingly, nothing in grief, nothing under compulsion.",
+      "notes": null
+    },
+    {
+      "loc": "35",
+      "section": 35,
+      "lat": "quod etsi ita esse pluribus verbis disserendum est, illud tamen et breve et confitendum est, nisi qui ita sit adfectus, esse liberum neminem. servi igitur omnes inprobi; nec hoc tam re est quam dictu inopinatum atque mirabile: non enim ita dicunt eos esse servos, ut mancipia, quae sunt dominorum facta nexo aut aliquo iure civili, sed, si servitus sit, sicut est, oboedientia fracti animi et abiecti et arbitrio carentis suo, quis neget omnis levis, omnis cupidos, omnis denique inprobos esse servos?",
+      "eng": "And though this must be argued at greater length, that it is so, yet this too is both brief and to be conceded: that no one is free unless he is so disposed. All scoundrels, therefore, are slaves — and this is not so much in fact as in the saying of it that it seems unexpected and astonishing. For they do not say that those men are slaves in the way that chattels are, which have become their masters' property by bond or by some title of the civil law; but, if slavery is — as it is — the obedience of a spirit broken and abject and bereft of its own choice, who would deny that all the fickle, all the covetous, all scoundrels in short, are slaves?",
+      "notes": null
+    },
+    {
+      "loc": "36",
+      "section": 36,
+      "lat": "an ille mihi liber, cui mulier imperat? cui leges inponit, praescribit, iubet, vetat quod videtur? qui nihil imperanti negare potest, nihil recusare audet? poscit, dandum est; vocat, veniendum; eicit, abeundum; minatur, extimescendum. ego vero istum non modo servum, sed nequissimum servum, etiam si in amplissima familia natus sit, appellandum puto. atque in pari stultitia sunt, quos signa, quos tabulae, quos caelatum argentum, quos Corinthia opera, quos aedificia magnifica nimio opere delectant. at sumus inquit principes civitatis. vos vero ne conservorum quidem vestrorum principes estis;",
+      "eng": "Is that man free, to whom a woman gives orders? on whom she imposes laws, prescribes, commands, forbids what she pleases? who can deny her nothing she commands, dares refuse her nothing? She demands: he must give. She summons: he must come. She casts him out: he must go. She threatens: he must quake. For my part, I think such a man must be called not merely a slave, but the most worthless of slaves, even if he was born into a most distinguished household. And in the same folly are those whom statues, paintings, chased silver, Corinthian works, magnificent buildings delight beyond all measure. \"But,\" he says, \"we are leading men of the state.\" You are not even leading men among your own fellow slaves.",
+      "notes": null
+    },
+    {
+      "loc": "37",
+      "section": 37,
+      "lat": "sed ut in magna familia sunt alii lautiores, ut sibi videntur, servi, sed tamen servi, ut atrienses, at qui tractant ista, qui tergent, qui ungunt, qui verrunt, qui spargunt, non honestissimum locum servitutis tenent, sic in civitate, qui se istarum rerum cupiditatibus dediderunt, ipsius servitutis locum paene infimum obtinent. magna inquit bella gessi, magnis imperiis et provinciis praefui. gere igitur animum laude dignum: Aetionis tabula te stupidum detinet aut signum aliquod Polycleti; mitto unde sustuleris, quo modo habeas: intuentem te, admirantem, clamores tollentem cum video, servum esse ineptiarum omnium iudico.",
+      "eng": "But just as in a great household there are some slaves more elegant — as they think themselves — yet slaves all the same, such as the hall attendants, while those who handle these things, who scour, who anoint, who sweep, who sprinkle, hold no very honourable post in the slavery, so in the state those who have given themselves over to the desire for such things hold almost the lowest place of slavery itself. \"I have waged great wars,\" he says, \"I have governed great commands and provinces.\" Then bear a spirit worthy of praise. A painting by Aëtion holds you transfixed, or some statue by Polyclitus; I pass over where you lifted it from, how you came to have it: when I see you gazing, marvelling, raising shouts, I judge you the slave of every triviality.",
+      "notes": null
+    },
+    {
+      "loc": "38",
+      "section": 38,
+      "lat": "nonne igitur sunt illa festiva? sunt; nam nos quoque oculos eruditos habemus. sed, obsecro te, ita venusta habeantur ista, non ut vincla virorum sint, sed ut oblectamenta puerorum. quid enim censes? si L. Mummius aliquem istorum videret matellionem Corinthium cupidissime tractantem, cum ipse totam Corinthum contempsisset, utrum illum civem excellentem an atriensem diligentem putaret? revivescat M'. Curius aut eorum aliquis, quorum in villa ac domo nihil splendidum, nihil ornatum fuit praeter ipsos, et videat aliquem summis populi beneficiis usum barbatulos mullos exceptantem de piscina et pertractantem et murenarum copia gloriantem, nonne hunc hominem ita servum iudicet, ut ne in familia quidem dignum maiore aliquo negotio putet?",
+      "eng": "\"Are those things not charming, then?\" They are; for we too have eyes that are trained. But I beg you, let such things be held lovely not as the chains of men, but as the amusements of boys. For what do you suppose? If L. Mummius were to see one of these men handling a Corinthian chamber-pot with the greatest passion — Mummius, who held the whole of Corinth in contempt — would he think him an excellent citizen or a diligent hall attendant? Let M'. Curius come back to life, or any of those men in whose villa and house there was nothing splendid, nothing adorned, except the men themselves, and let him see a man who has enjoyed the highest favours of the people lifting bearded mullets out of his fishpond and fondling them and boasting of his abundance of lampreys — would he not judge this man so much a slave that he would not think him worthy of any greater employment even within the household?",
+      "notes": null
+    },
+    {
+      "loc": "39",
+      "section": 39,
+      "lat": "an eorum servitus dubia est, qui cupiditate peculii nullam condicionem recusant durissimae servitutis? hereditatis spes quid iniquitatis in serviendo non suscipit? quem nutum locupletis orbi senis non observat? loquitur ad voluntatem, quicquid denuntiatum est facit, adsectatur, adsidet, muneratur. quid horum est liberi?",
+      "eng": "Or is the slavery doubtful of those men who, in their lust for gain, refuse no condition of the harshest servitude? What injustice does the hope of an inheritance not undertake in its serving? What nod of a rich and childless old man does it not watch for? It speaks to his pleasure, does whatever is bidden, dances attendance, sits beside him, sends him gifts. What in this is the conduct of a free man —",
+      "notes": null
+    },
+    {
+      "loc": "40",
+      "section": 40,
+      "lat": "quid denique servi non inertis? quid? iam illa cupiditas, quae videtur esse liberalior, honoris, imperii, provinciarum, quam dura est domina, quam imperiosa, quam vehemens! Cethego, homini non probatissimo, servire coegit eos, qui sibi esse amplissimi videbantur, munera mittere, noctu venire domum ad eum, precari, denique supplicare. quae servitus est, si haec libertas existimari potest? quid? cum cupiditatis dominatus excessit et alius est dominus exortus ex conscientia peccatorum, timor, quam est illa misera, quam dura servitus? adulescentibus paulo loquacioribus est serviendum; omnes, qui aliquid scire videntur, tamquam domini timentur; iudex vero quantum habet dominatum, quo timore nocentis adficiti an non est omnis metus servitus?",
+      "eng": "or, in short, of any but a lazy slave? And what of that desire which seems more gentlemanly — for office, for command, for provinces? How harsh a mistress is she, how imperious, how violent! She compelled men who thought themselves the most distinguished to be the slaves of Cethegus, a man by no means above reproach — to send him gifts, to come to his house by night, to entreat him, in short to beg. What slavery is this, if this can be reckoned freedom? And what of it, when the dominion of desire has passed and another master has arisen out of the consciousness of one's crimes — fear? How wretched, how harsh that slavery is! One must be the slave of rather talkative young men; all who seem to know anything are dreaded as masters; and the judge — how great a dominion does he hold, with what fear does he strike the guilty! Is not all fear a slavery?",
+      "notes": null
+    },
+    {
+      "loc": "41",
+      "section": 41,
+      "lat": "quid valet igitur illa eloquentissimi viri, L. Crassi, copiosa magis quam sapiens oratio eripite nos ex servitute ? quae est ista servitus tam claro homini tamque nobili? omnis animi debilitati et humilis et fracti timiditas servitus est. nolite sinere nos cuiquam servire. in libertatem vindicari volt? minime; quid enim adiungit? nisi vobis universis. dominum mutare, non liber esse volt. quibus et possumus et debemus. nos vero, si quidem animo excelso et alto et virtutibus exaggerato sumus, nec debemus nec possumus: tu posse te dicito, quoniam quidem potes, debere ne dixeris, quoniam nihil quisquam debet nisi quod est turpe non reddere. sed haec hactenus. ille videat, quo modo imperator esse possit, cum eum ne liberum quidem esse ratio et veritas ipsa convincat.",
+      "eng": "What force, then, has that speech of the most eloquent of men, L. Crassus, fluent rather than wise — \"Rescue us from slavery\"? What is that slavery of so renowned a man, so noble? All the timidity of a spirit weakened, humbled, and broken is slavery. \"Do not suffer us to be the slaves of anyone.\" Does he wish to be claimed into freedom? Not at all; for what does he add? \"Except all of you together.\" He wishes to change his master, not to be free. \"To whom we both can and ought to be slaves.\" But we, if indeed our spirit is lofty and high and built up with virtues, neither ought nor can. Say of yourself that you can, since indeed you can; do not say that you ought, since no one owes anything except what it is base not to render. But enough of this. Let him see how he can be a commander, when reason and truth itself prove that he is not even a free man.",
+      "notes": null
+    },
+    {
+      "loc": "42",
+      "section": 42,
+      "lat": "o(/ti mo/nos o( sofo\\s plou/sios Quod solus sapiens dives. quae est ista in commemoranda pecunia tua tam insolens ostentatio? solusne tu dives? pro di inmortales! egone me audisse aliquid et didicisse non gaudeam? solusne dives? quid, si ne dives quidem? quid, si pauper etiam? quem enim intellegimus divitem aut hoc verbum in quo homine ponimus? opinor in eo, cui tanta possessio sit, ut ad liberaliter vivendum facile contentus sit, qui nihil quaerat, nihil adpetat, nihil optet amplius.",
+      "eng": "That only the wise man is rich. [Greek: hoti monos ho sophos plousios.] What is that so insolent display in the parading of your wealth? Are you alone rich? Immortal gods! Should I not rejoice that I have heard something and learned something? Are you alone rich? What if you are not even rich? What if you are even poor? For whom do we understand to be rich, or in what man do we place that word? In the man, I suppose, whose possession is so great that he is easily content to live as a gentleman, who seeks nothing, craves nothing, wishes for nothing further.",
+      "notes": null
+    },
+    {
+      "loc": "43",
+      "section": 43,
+      "lat": "animus oportet tuus se iudicet divitem, non hominum sermo, neque possessiones tuae. nihil sibi deesse putat, nihil curat amplius, satiatus est aut contentus etiam pecunia: concedo, dives est. sin autem propter aviditatem pecuniae nullum quaestum turpem putas, cum isti ordini ne honestus quidem possit esse ullus; si cotidie fraudas, decipis, poscis, pacisceris, aufers, eripis, si socios spolias, aerarium expilas, si testamenta amicorum ne exspectas quidem atque ipse supponis, haec utrum abundantis an egentis signa sunt?",
+      "eng": "It is your own spirit that must judge you rich, not the talk of men, nor your possessions. It thinks nothing wanting to itself, cares for nothing further, is sated, or at least content, with its money: I grant it, the man is rich. But if, out of greed for money, you think no gain disgraceful — though to that order of yours none can be even honourable — if every day you defraud, deceive, demand, bargain, carry off, snatch away; if you despoil allies, plunder the treasury; if you do not even wait for the wills of your friends but forge them yourself — are these the marks of a man who abounds or of one in want?",
+      "notes": null
+    },
+    {
+      "loc": "44",
+      "section": 44,
+      "lat": "animus hominis dives, non arca appellari solet. quamvis ilia sit plena, dum te inanem videbo, divitem non putabo; etenim ex eo, quantum cuique satis est, metiuntur homines divitiarum modum. filiam quis habet, pecunia est opus; duas, maiore; pluris, maiore etiam; si, ut aiunt Danao, quinquaginta sint filiae, tot dotes magnam quaerunt pecuniam: quantum enim cuique opus est, ad id accommodatur, ut ante dixi, divitiarum modus. qui igitur non filias pluris, sed innumerabilis cupiditates habet, quae brevi tempore maximas copias exhaurire possint, hunc quo modo ego appellabo divitem, cum ipse egere se sentiat?",
+      "eng": "It is the spirit of a man, not his strongbox, that is wont to be called rich. However full that may be, so long as I see you empty, I shall not think you rich; for men measure the standard of wealth by how much is enough for each man. A man has a daughter: he needs money; two: more; more daughters: more still; if, as they say of Danaüs, there are fifty daughters, so many dowries call for a great sum of money. For the standard of wealth, as I said before, is fitted to how much each man needs. The man, then, who has not many daughters but countless desires, which in a brief time can drain the greatest resources — how shall I call this man rich, when he himself feels that he is in want?",
+      "notes": null
+    },
+    {
+      "loc": "45",
+      "section": 45,
+      "lat": "multi ex te audierunt cum diceres, neminem esse divitem, nisi qui exercitum alere posset suis fructibus, quod populus Romanus tantis vectigalibus iam pridem vix potest: ergo hoc proposito numquam eris dives ante, quam tibi ex tuis possessionibus tantum reficietur, ut eo tueri sex legiones et magna equitum ac peditum auxilia possis. iam fateris igitur non esse te divitem, cui tantum desit, ut expleas id quod exoptas. itaque istam paupertatem vel potius egestatem ac mendicitatem tuam numquam obscure tulisti.",
+      "eng": "Many have heard you say that no one is rich unless he can maintain an army out of his own revenues — which the Roman people, with all its great taxes, has long now been scarcely able to do. By that proposition, then, you will never be rich before so much is yielded to you out of your possessions that with it you can maintain six legions and great auxiliaries of horse and foot. So you confess, then, that you are not rich, since so much is lacking to you that you may fill out what you long for. And so you have never carried that poverty of yours — or rather, that destitution and beggary — in obscurity.",
+      "notes": null
+    },
+    {
+      "loc": "46",
+      "section": 46,
+      "lat": "nam ut iis, qui honeste rem quaerunt mercaturis faciendis, operis dandis, publicis sumendis, intellegimus opus esse quaesito, sic, qui videt domi tuae pariter accusatorum atque indicum consociatos greges, qui nocentis et pecuniosos reos eodem te actore corruptelam iudicii molientis, qui tuas mercedum pactiones in patrociniis, † intercidas pecuniarum in coitionibus candidatorum, dimissiones libertorum ad defaenerandas diripiendasque provincias, qui expulsiones vicinorum, qui latrocinia in agris, qui cum servis, cum libertis, cum clientibus societates, qui possessiones vacuas, qui proscriptiones locupletium, qui cladis municipiorum, qui illam Sullani temporis messem recordetur, qui testamenta subiecta, tot qui sublatos homines, qui denique omnia venalia, edictum, decretum, alienam suam sententiam, forum, domum, vocem, silentium: quis hunc non putet confiteri sibi quaesito opus esse? cui quaesito autem opus sit, quis umquam hunc vere dixerit divitem?",
+      "eng": "For just as we understand that those who seek their fortune honestly — by carrying on trade, by hiring out labour, by taking up public contracts — have need of acquired means, so whoever recalls how, in your house, there are bands of accusers and informers banded together alike; how guilty and moneyed defendants, with you as their agent, contrive the corruption of the court; your bargains for fees in your advocacies, your interceptions of money in the coalitions of candidates, your dispatching of freedmen to fleece and plunder the provinces; the expulsions of neighbours, the brigandage in the fields, the partnerships with slaves, with freedmen, with clients, the vacant estates, the proscriptions of the wealthy, the disasters of the towns, that harvest of the Sullan time, the wills forged, the so many men done away with, in short everything for sale — edict, decree, your own and another's vote, Forum, house, voice, silence: who would not think that this man confesses he has need of acquired means? And of a man who has need of acquired means, who would ever truly call him rich?",
+      "notes": null
+    },
+    {
+      "loc": "47",
+      "section": 47,
+      "lat": "etenim divitiarum est fructus in copia, copiam autem declarat satietas rerum atque abundantia: quam tu quoniam numquam adsequere, numquam omnino es dives futurus. meam autem quoniam pecuniam contemnis, et recte—est enim ad volgi opinionem mediocris, ad tuam nulla, ad meam modica—, de me silebo, de re loquar.",
+      "eng": "For the fruit of wealth lies in plenty, and plenty is shown by a sufficiency and abundance of things: and since you will never attain this, you will never at all be rich in time to come. But since you despise my money — and rightly, for to the opinion of the crowd it is middling, to yours nothing, to mine moderate — I shall say nothing of myself, and shall speak of the matter itself.",
+      "notes": null
+    },
+    {
+      "loc": "48",
+      "section": 48,
+      "lat": "si censenda nobis sit atque aestimanda res, utrum tandem pluris aestimemus pecuniam Pyrrhi, quam Fabricio dabat, an continentiam Fabricii, qui illam pecuniam repudiabat? utrum aurum Samnitium an responsum M'. Curii? hereditatem L. Pauli an liberalitatem Africani, qui eius hereditatis Q. Maximo fratri partem suam concessit? haec profecto, quae sunt summarum virtutum, pluris aestimanda sunt quam illa, quae sunt pecuniae. quis igitur, si quidem, ut quisque quod plurimi est possidet, ita divitissimus habendus est, dubitet quin in virtute divitiae sint? quoniam nulla possessio, nulla vis auri et argenti pluris quam virtus aestimanda est.",
+      "eng": "If we are to reckon and appraise the matter, which, after all, shall we value the higher: the money of Pyrrhus, which he offered to Fabricius, or the self-restraint of Fabricius, who refused that money? The gold of the Samnites, or the answer of M'. Curius? The inheritance of L. Paulus, or the generosity of Africanus, who yielded his share of that inheritance to his brother Q. Maximus? These things, surely, which belong to the highest virtues, are to be valued higher than those which belong to money. Who, then — if indeed each man is to be held the richest in proportion as he possesses what is worth most — would doubt that wealth lies in virtue, since no possession, no quantity of gold and silver, is to be valued higher than virtue?",
+      "notes": null
+    },
+    {
+      "loc": "49",
+      "section": 49,
+      "lat": "o di inmortales! non intellegunt homines quam magnum vectigal sit parsimonia. venio enim iam ad sumptuosos, relinquo istum quaestuosum. capit ille ex suis praediis sescena sestertia, ego centena ex meis; illi aurata tecta in villis et sola marmorea facienti et signa, tabulas, supellectilem et vestem infinite concupiscenti non modo ad sumptum ille est fructus, sed etiam ad faenus exiguus: ex meo tenui vectigali detractis sumptibus cupiditatis aliquid etiam redundabit. uter igitur est divitior, cui deest an cui superat? qui eget an qui abundat? cuius possessio quo est maior, eo plus requirit ad se tuendam, an quae suis se viribus sustinet?",
+      "eng": "Immortal gods! Men do not understand how great a revenue thrift is. For I come now to the lavish, leaving aside that profiteer of yours. He takes six hundred thousand sesterces from his estates, I a hundred thousand from mine; yet to him — building gilded ceilings in his villas and marble floors, and craving statues, paintings, furniture, and clothing without limit — that revenue is scant not only for his spending but even for the interest on his debts: while out of my slender revenue, once my expenses are deducted, there will even be something left over for desire. Which of us, then, is the richer, the man who lacks or the man who has to spare? the man in want or the man in abundance? the man whose possession, the greater it is, requires the more to maintain it, or the possession that sustains itself by its own strength?",
+      "notes": null
+    },
+    {
+      "loc": "50",
+      "section": 50,
+      "lat": "sed quid ego de me loquor, qui morum ac temporum vitio aliquantum etiam ipse fortasse in huius saeculi errore verser? M'. Manilius patrum nostrorum memoria, ne semper Curios et Luscinos loquamur, pauper tandem fuit? habuit enim aediculas in Carinis et fundum in Labicano. nos igitur divitiores, qui plura habemus? utinam quidem! sed non aestimatione census, verum victu atque cultu terminatur pecuniae modus.",
+      "eng": "But why do I speak of myself, who, by the fault of the times and of our manners, am perhaps even somewhat entangled myself in the error of this age? Was M'. Manilius, within our fathers' memory — not to be forever talking of the Curii and the Luscini — was he, after all, a poor man? For he had a little house in the Carinae and a farm in the Labican country. Are we, then, the richer, who have more? Would that we were! But the standard of wealth is bounded not by the assessment of the census, but by one's way of life and manner of living.",
+      "notes": null
+    },
+    {
+      "loc": "51",
+      "section": 51,
+      "lat": "non esse cupidum pecunia est, non esse emacem vectigal est: contentum vero suis rebus esse maximae sunt certissimaeque divitiae. etenim si isti callidi rerum aestimatores prata et areas quasdam magno aestimant, quod ei generi possessionum minime quasi noceri potest, quanti est aestimanda virtus, quae nec eripi nec subripi potest, neque naufragio neque incendio amittitur, nec tempestatum nec temporum perturbatione mutatur!",
+      "eng": "Not to be covetous is a fortune; not to be a buyer is a revenue: but to be content with one's own affairs is the greatest and surest wealth. For if those shrewd appraisers of things value certain meadows and plots highly, because that kind of possession can least, as it were, be harmed, at how great a price is virtue to be valued — which can neither be snatched nor stolen away, is lost in no shipwreck nor fire, and is changed by no turmoil of weather or of the times!",
+      "notes": null
+    },
+    {
+      "loc": "52",
+      "section": 52,
+      "lat": "qua praediti qui sunt, soli sunt divites. soli enim possident res et fructuosas et sempiternas solique, quod est proprium divitiarum, contenti sunt rebus suis, satis esse putant quod est, nihil adpetunt, nulla re egent, nihil sibi deesse sentiunt, nihil requirunt: inprobi autem et avari, quoniam incertas atque in casu positas possessiones habent et plus semper adpetunt nec eorum quisquam adhuc inventus est, cui quod haberet esset satis, non modo non copiosi ac divites, sed etiam inopes ac pauperes existinandi sunt.",
+      "eng": "They who are endowed with it are the only rich men. For they alone possess things both fruitful and everlasting; and they alone — which is the property of riches — are content with their own affairs, think that what they have is enough, crave nothing, want for nothing, feel that nothing is lacking to them, seek after nothing. But scoundrels and the avaricious, since they hold possessions uncertain and set upon chance, and always crave more, and since no one of them has yet been found for whom what he had was enough, are to be judged not only not wealthy and rich, but even needy and poor.",
+      "notes": null
+    }
+  ]
+}

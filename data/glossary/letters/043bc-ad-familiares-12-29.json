@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-29",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO CORNIFICIO sal.",
+      "entity_id": "person:q-cornificius",
+      "note": "A recommendation for L. Aelius Lamia to Q. Cornificius, proconsul of Africa. sal. is salutem (dicit), the standard \"sends greetings\" of a familiar letter."
+    },
+    {
+      "loc": "1",
+      "anchor": "he was banished by the consul A. Gabinius",
+      "entity_id": "person:gabinius",
+      "note": "In 58 BC the consul A. Gabinius, ally of Clodius, ordered Lamia (a leading knight) out of Rome by edict (relegatio) for openly agitating on Cicero's behalf during Cicero's exile."
+    },
+    {
+      "loc": "1",
+      "anchor": "It was witnessed by a great audience",
+      "entity_id": null,
+      "note": "Cicero casts Lamia's loyalty as a public spectacle (magno theatro, \"in a great theatre\"), a stock image for conduct done before the eyes of the whole citizenry."
+    },
+    {
+      "loc": "2",
+      "anchor": "every kind of falsified decree of the Senate was being put about",
+      "entity_id": "institution:senate",
+      "note": "After Caesar's death Antony was accused of forging senatus consulta and inserting bogus measures among Caesar's papers; Cicero exploits this to deny that any decree damaging Cornificius was genuinely Lamia's doing."
+    },
+    {
+      "loc": "2",
+      "anchor": "that Sempronian decree",
+      "entity_id": "institution:senate",
+      "note": "A particular senatorial decree associated with a Sempronius, evidently one Cornificius suspected was aimed at him; Cicero denies any part in it, noting he was not even at Rome when it passed."
+    },
+    {
+      "loc": "3",
+      "anchor": "Take care of your health.",
+      "entity_id": null,
+      "note": "Cura ut valeas, the conventional sign-off of a Roman letter, equivalent to \"farewell\" / \"keep well.\""
+    }
+  ]
+}

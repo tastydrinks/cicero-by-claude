@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I set about composing the \\textit{Topics} of Aristotle",
+      "entity_id": "text:aristotle-topica",
+      "note": "Cicero composed his own Topica for Trebatius on the voyage of 44 BC, modelling it on Aristotle's Topics, the treatise on dialectical commonplaces; he claims (with some exaggeration) to have written it from memory while at sea."
+    },
+    {
+      "loc": "1",
+      "anchor": "can your civil law be learned from books?",
+      "entity_id": "law:ius-civile",
+      "note": "The ius civile, the body of Roman private law expounded by the jurisconsults; Trebatius's own specialism. Cicero argues that, like his Topics, the law cannot be mastered from texts alone but needs a teacher and practice."
+    },
+    {
+      "loc": "1",
+      "anchor": "the loci themselves rising up to meet you",
+      "entity_id": null,
+      "note": "Loci (Greek topoi), the 'commonplaces' or standard lines of argument that are the subject of the Topics; Cicero promises that with practice they will spring to mind the instant a question is posed."
+    },
+    {
+      "loc": "1",
+      "anchor": "if I return safe and find the state safe",
+      "entity_id": null,
+      "note": "Written in late July 44 BC, soon after Caesar's assassination, as Cicero set out toward Greece; the anxious proviso reflects the precarious politics of the year and his uncertainty about returning to Rome."
+    }
+  ]
+}

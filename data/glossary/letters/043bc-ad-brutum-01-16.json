@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "that little letter of yours to Octavius",
+      "entity_id": "person:octavian",
+      "note": "Brutus has seen a fragment of a private letter Cicero sent to Octavian (the future Augustus), forwarded by Atticus; the letter contained language so respectful of Octavian's power that Brutus treats it as the act of a suppliant to a king, triggering the whole indictment of this letter."
+    },
+    {
+      "loc": "1",
+      "anchor": "the despotism has not been abolished, only the master changed",
+      "entity_id": "person:caesar",
+      "note": "Brutus's core charge: Cicero opposed Julius Caesar's dictatorship and applauded the Ides of March, yet now courts Octavian with the same deference, proving that the regime has merely changed its personnel without losing its monarchic character."
+    },
+    {
+      "loc": "2",
+      "anchor": "the liberators of the whole world",
+      "entity_id": "person:brutus",
+      "note": "Brutus uses the term \"liberatores\" — which he and his fellow conspirators applied to themselves — to contrast the dignity of the Caesaricides with the humiliation of begging Octavian for the right to exist."
+    },
+    {
+      "loc": "3",
+      "anchor": "Caesar's lust for kingship",
+      "entity_id": "person:caesar",
+      "note": "Brutus's analysis of the political dynamic: collective spinelessness first enabled Julius Caesar's monarchy, then allowed Antony to try to fill Caesar's place, and now has elevated Octavian — the same cycle of servility producing successive tyrants."
+    },
+    {
+      "loc": "5",
+      "anchor": "the heir of the man I killed",
+      "entity_id": "person:octavian",
+      "note": "Octavian (Gaius Octavius, the future Augustus) was named heir to Julius Caesar in Caesar's will and adopted his name; Brutus pointedly reminds Cicero that Octavian's very claim to power rests on Caesar's name, making him the political successor to the man the Liberators killed."
+    },
+    {
+      "loc": "6",
+      "anchor": "in the cities of the Greeks the children of tyrants, once the tyrants are overthrown, are visited with the very same punishment",
+      "entity_id": null,
+      "note": "A standard topos of Greek political thought: Greek democratic theory held that a tyrant's offspring were tainted by association and subject to the same punishment as their parent; Brutus applies this to argue that Octavian, as Caesar's heir and adoptive son, should logically be treated as a tyrant's child, not petitioned as a protector."
+    },
+    {
+      "loc": "10",
+      "anchor": "both as consul and now as consular",
+      "entity_id": "office:consul",
+      "note": "Cicero was consul in 63 BC; in Roman usage a \"consularis\" (consular, or ex-consul) was a former consul who retained lifelong standing in the Senate to speak before others of lesser rank. Brutus addresses Cicero by both his past and present dignities to emphasise how much is at stake in his capitulation."
+    },
+    {
+      "loc": "11",
+      "anchor": "that consul is rightly seen to live up to this consular",
+      "entity_id": "office:consul",
+      "note": "A pointed wordplay: Brutus says the consul of 63 BC (Cicero's peak achievement, suppressing Catiline) is expected to be matched by Cicero the consular (ex-consul) of 43 BC — but if Cicero courts Octavian, the later man will have cancelled the glory of the earlier."
+    }
+  ]
+}

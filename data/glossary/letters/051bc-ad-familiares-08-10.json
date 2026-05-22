@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "through Commagene",
+      "entity_id": "place:commagene",
+      "note": "Commagene, the small client-kingdom on the upper Euphrates ruled by Antiochus I, was the natural corridor for a Parthian army crossing into the Roman province of Syria and Cilicia."
+    },
+    {
+      "loc": "2",
+      "anchor": "set out in war-cloak",
+      "note": "Magistrates leaving Rome to take up a military command put off the toga and donned the paludamentum, the general's cloak; the consuls dreaded a decree forcing them to do so for an unwanted Parthian war."
+    },
+    {
+      "loc": "2",
+      "anchor": "any private citizen by decree of the Senate",
+      "note": "An extraordinary command voted to a privatus (a man holding no magistracy) --- as had been done for Pompey --- was the constitutionally dramatic option; Caelius notes that no one proposed it this time."
+    },
+    {
+      "loc": "2",
+      "anchor": "a sailer-by-favour to anyone",
+      "note": "Translating velificari, 'to crowd on sail,' i.e. to trim one's report to catch a political wind; Caelius warns Cicero not to seem to be flattering Pompey or Caesar in what he writes home about the Parthians."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Campanian land",
+      "entity_id": "place:ager-campanus",
+      "note": "The ager Campanus, rich public land round Capua distributed under Caesar's law of 59 BC; control of its remaining allotments was a live political prize that Pompey now wished to deny Caesar."
+    },
+    {
+      "loc": "4",
+      "anchor": "a further prorogation",
+      "note": "Prorogatio was the extension of a governor's command beyond its term; Caelius cannot guarantee a successor for Cicero but promises at least to prevent his Cilician tenure being prolonged again."
+    }
+  ]
+}

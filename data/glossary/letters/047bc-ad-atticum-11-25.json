@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-25",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "he has set out from Alexandria",
+      "entity_id": "person:caesar",
+      "note": "The unnamed \"he\" is Caesar, whose long-awaited departure from Egypt — after the Alexandrian War and his sojourn with Cleopatra — was the precondition of Cicero's release from Brundisium. A first faint rumour was now being confirmed by later messengers."
+    },
+    {
+      "loc": "3",
+      "anchor": "At the second installment we were blind",
+      "entity_id": null,
+      "note": "Cicero regrets that the family paid over the second installment of Tullia's dowry to Dolabella when, given his conduct, they should have moved to divorce instead and withheld it. Roman dowries were paid in three annual portions, recoverable on divorce."
+    },
+    {
+      "loc": "3",
+      "anchor": "The third day before the Nones of Quintilis",
+      "entity_id": null,
+      "note": "Quintilis was the old name for July; the third day before its Nones (the 7th, counted inclusively) is 5 July. Cicero still dates by the pre-Julian calendar."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-38",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "writing against the Epicureans",
+      "entity_id": null,
+      "note": "Cicero is at work on his philosophical project of 45 BC (the Academica and De Finibus), arguing against the Epicurean school's doctrine that pleasure is the highest good. The pre-dawn labour by lamplight is a recurring image of his furious productivity that summer."
+    },
+    {
+      "loc": "1",
+      "anchor": "your sister's son",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "Cicero's nephew, young Quintus Cicero, son of his brother Quintus and of Pomponia (Atticus's sister); the wayward youth whose double-dealing toward his estranged parents is the subject of letters 13.38--13.41."
+    },
+    {
+      "loc": "1",
+      "anchor": "our Brutus's daily and tireless praise",
+      "entity_id": "person:brutus",
+      "note": "M. Iunius Brutus, whose repeated praise of Cicero has, Cicero supposes, finally shamed the young Quintus into writing him a civil letter."
+    },
+    {
+      "loc": "2",
+      "anchor": "as with Pindar",
+      "entity_id": "person:pindar",
+      "note": "Cicero quotes the Greek lyric poet Pindar (fr. 213 Snell) on the dilemma of whether to speak the plain truth or take \"crooked\" paths; the line frames his question of how to handle his treacherous nephew."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Tusculan villa",
+      "entity_id": "place:tusculum",
+      "note": "Cicero's favourite country house at Tusculum in the Alban hills southeast of Rome, his main retreat for writing during this period."
+    },
+    {
+      "loc": "2",
+      "anchor": "To Astura",
+      "entity_id": "place:astura",
+      "note": "A small island-villa at the mouth of the Astura river on the Latian coast, where Cicero often went to be alone, especially after his daughter Tullia's death; he weighs it as a place to avoid an awkward meeting."
+    }
+  ]
+}

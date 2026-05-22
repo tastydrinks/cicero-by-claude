@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "our Quintus",
+      "entity_id": "person:q-cicero-younger",
+      "note": "Young Quintus, the small son of Cicero's brother, then in Atticus's care; Atticus's letter has relieved Cicero's anxiety over the boy's health after alarming reports from Chaerippus."
+    },
+    {
+      "loc": "1",
+      "anchor": "Roman knights",
+      "entity_id": null,
+      "note": "The equites Romani, the propertied non-senatorial order. Cicero's point is that a Greek (Apollonius) cannot evade his debts the way a Roman knight might exploit the procedures of bankruptcy; the creditor Terentius is within his rights to press him."
+    },
+    {
+      "loc": "2",
+      "anchor": "Of Metellus",
+      "entity_id": "person:metellus-nepos",
+      "note": "Q. Caecilius Metellus Nepos (cos. 57), who had recently died. Cicero, no friend of his, checks himself with a Homeric tag against speaking ill of the dead, then reassures Atticus about a debt secured on Cicero's guarantee."
+    },
+    {
+      "loc": "2",
+      "anchor": "unless he made Publius",
+      "entity_id": "person:clodius",
+      "note": "P. Clodius Pulcher, Cicero's enemy and Metellus's kinsman. Cicero jokes that whoever Metellus named as heir is a decent man so long as it was not Clodius."
+    },
+    {
+      "loc": "3",
+      "anchor": "Arpinates about Laterium",
+      "entity_id": "place:laterium",
+      "note": "Laterium was Quintus Cicero's estate in the territory of Arpinum, the Ciceros' home town. The townspeople (Arpinates) were in an uproar over some matter there, possibly building or water-rights, which 'heeded not' Cicero's own concern."
+    },
+    {
+      "loc": "3",
+      "anchor": "the boy Cicero",
+      "entity_id": "person:q-cicero-younger",
+      "note": "The young Cicero in Atticus's charge, here again young Quintus (Quintus's son), whom Cicero asks Atticus to keep looking after. The praenomen 'Cicero' for the boy is ambiguous between the two cousins; the editorial tradition takes it as young Quintus."
+    }
+  ]
+}

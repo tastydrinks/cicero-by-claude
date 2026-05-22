@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Brutus's sortie",
+      "entity_id": "person:brutus",
+      "note": "Marcus Brutus commanded forces besieging or operating near Mutina in spring 43 BC; this \"sortie\" (eruptio) likely refers to a military operation by Decimus Brutus or a combined movement coinciding with the consuls' actions at the battle of Forum Gallorum (April 14) or Mutina (April 21)."
+    },
+    {
+      "loc": "1",
+      "anchor": "the consuls",
+      "entity_id": "office:consul",
+      "note": "The consuls of 43 BC were Aulus Hirtius and Gaius Vibius Pansa; both died fighting Antony at Mutina in April 43, making this letter among the last written before that catastrophe was known in all quarters."
+    },
+    {
+      "loc": "2",
+      "anchor": "the three Antonii",
+      "entity_id": "person:antony",
+      "note": "The three Antonii are Marcus Antonius (the triumvir), his brother Lucius Antonius, and his brother Gaius Antonius; all three had been declared public enemies by the Senate in 43 BC, and Brutus held Gaius prisoner."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Senate or the Roman people must judge those citizens who have not perished in arms",
+      "entity_id": "institution:senate",
+      "note": "Brutus resists Cicero's pressure to execute Gaius Antonius on his own authority, insisting that condemnation of a Roman citizen requires a formal verdict of the Senate or People — a pointed invocation of Republican constitutional principle."
+    },
+    {
+      "loc": "3",
+      "anchor": "too much trust in your own hope",
+      "entity_id": "person:cicero",
+      "note": "Brutus is gently rebuking Cicero for his enthusiastic trust in Octavian (\"Caesar the younger\"), whom Cicero had championed in the Senate; Brutus doubted that the young heir could remain loyal to Republican principles once Antony was defeated."
+    }
+  ]
+}

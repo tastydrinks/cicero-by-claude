@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-08",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "L. Crassi nepotem",
+      "entity_id": "person:l-licinius-crassus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Bruto nostro",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Antonium",
+      "entity_id": "person:antony",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Iuniam",
+      "entity_id": "person:iunia-tertia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Paulus",
+      "entity_id": "person:l-aemilius-paulus-cos50",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Clodia",
+      "entity_id": "person:clodia",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "de Byzantiis",
+      "entity_id": "place:byzantium",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Pelopem",
+      "entity_id": "person:pelops-byzantius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Baiana negotia",
+      "entity_id": "place:baiae",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "reginae",
+      "entity_id": "person:cleopatra-vii",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Lucius Crassus",
+      "entity_id": "person:l-licinius-crassus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "our Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Antony",
+      "entity_id": "person:antony",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Junia",
+      "entity_id": "person:iunia-tertia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Paulus gave me one",
+      "entity_id": "person:l-aemilius-paulus-cos50",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "What Clodia has done",
+      "entity_id": "person:clodia",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "About the Byzantines",
+      "entity_id": "place:byzantium",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "you will summon Pelops",
+      "entity_id": "person:pelops-byzantius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the Baian affair",
+      "entity_id": "place:baiae",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "The queen",
+      "entity_id": "person:cleopatra-vii",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Sextus",
+      "entity_id": "person:sextus-pompeius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "de Bruto",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Sextus is up to",
+      "entity_id": "person:sextus-pompeius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "About Brutus",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    }
+  ]
+}

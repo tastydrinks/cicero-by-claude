@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the Nones of April",
+      "entity_id": null,
+      "note": "The Nones of April fell on the 5th, so Cicero received the letter on 5 April 49 BC. The Nones were one of the three fixed reference points of the Roman month from which other dates were counted backward."
+    },
+    {
+      "loc": "1",
+      "anchor": "we might be in a more out-of-the-way spot",
+      "entity_id": "place:arcanum",
+      "note": "Cicero halted at his brother Quintus's estate at Arcanum, near Arpinum in the hills, to avoid notice while he decided whether to join Pompey. Movement by senators of his rank was watched by Caesar's agents, so a secluded inland villa was safer than the coast road."
+    },
+    {
+      "loc": "2",
+      "anchor": "I wish Dionysius had not set out to me",
+      "entity_id": "person:m-pomponius-dionysius",
+      "note": "M. Pomponius Dionysius, a learned freedman who had tutored Cicero's son and nephew, had quarrelled with the family and is here treated as estranged. Cicero, harried by the war, did not want the awkwardness of a hostile visitor witnessing his troubles."
+    }
+  ]
+}

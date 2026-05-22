@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-09",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "FVRFANIO",
+      "entity_id": "person:t-furfanius-postumus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "PROCOS.",
+      "entity_id": "office:proconsul",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "A. Caecina",
+      "entity_id": "person:a-caecina-friend",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "patre eius",
+      "entity_id": "person:caecina-volaterranus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "FURFANIUS",
+      "entity_id": "person:t-furfanius-postumus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "PROCONSUL",
+      "entity_id": "office:proconsul",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "A. Caecina",
+      "entity_id": "person:a-caecina-friend",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "his father",
+      "entity_id": "person:caecina-volaterranus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Caecinam",
+      "entity_id": "person:a-caecina-friend",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caecina",
+      "entity_id": "person:a-caecina-friend",
+      "in": "eng"
+    }
+  ]
+}

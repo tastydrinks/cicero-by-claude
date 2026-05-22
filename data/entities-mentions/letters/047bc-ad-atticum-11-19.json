@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-19",
+  "mentions": [
+    {"loc": "2", "surface": "Philotimus dicitur Id. Sext.", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "2", "surface": "Philotimus is said to be coming on the Ides of Sextilis", "entity_id": "person:philotimus", "in": "eng"}
+  ]
+}

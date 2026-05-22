@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-06",
+  "mentions": [
+    {"loc": "1", "surface": "MARCVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "MARCVS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "QVINTO FRATRI", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "QVINTO FRATRI", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "Olbia", "entity_id": "place:olbia", "in": "lat"},
+    {"loc": "1", "surface": "Olbia", "entity_id": "place:olbia", "in": "eng"},
+    {"loc": "1", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "supplicatione", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "thanksgiving", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "Gabinio", "entity_id": "person:gabinius", "in": "lat"},
+    {"loc": "1", "surface": "Gabinius", "entity_id": "person:gabinius", "in": "eng"},
+    {"loc": "1", "surface": "Procilius", "entity_id": "person:procilius", "in": "lat"},
+    {"loc": "1", "surface": "Procilius", "entity_id": "person:procilius", "in": "eng"},
+    {"loc": "1", "surface": "agro Campano", "entity_id": "place:ager-campanus", "in": "lat"},
+    {"loc": "1", "surface": "Campanian-land", "entity_id": "place:ager-campanus", "in": "eng"}
+  ]
+}

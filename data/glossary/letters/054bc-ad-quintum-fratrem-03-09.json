@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-03-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I was a stinging witness, and for the rest kept quiet",
+      "entity_id": "person:gabinius",
+      "note": "Cicero defends his conduct at Gabinius's trial: he gave damaging testimony but neither prosecuted nor defended. He casts the restraint as dignified, having been pressed to take a more active part."
+    },
+    {
+      "loc": "2",
+      "anchor": "fitting up a school of gladiators at a hundred thousand sesterces",
+      "entity_id": "person:milo",
+      "note": "Milo was buying and training a gladiatorial troupe (ludus) at vast expense, both for his games and as a private armed force in the street-fighting of late-Republican Rome. Cicero dreads the strain it puts on the family finances he and Quintus had backed."
+    },
+    {
+      "loc": "3",
+      "anchor": "Gabinius's acquittal is reckoned a law of impunity",
+      "entity_id": "person:gabinius",
+      "note": "Gabinius's escape from the maiestas charge was taken as a precedent that even flagrant offenders would go unpunished, which Cicero thinks will help shield Messalla in his own coming consular candidacy."
+    },
+    {
+      "loc": "3",
+      "anchor": "Pompey is away; Appius is stirring it all; Hirrus is preparing for it",
+      "entity_id": null,
+      "note": "A snapshot of the dictatorship intrigue of late 54 BC: Pompey, the intended dictator, stays conspicuously absent, while the consul Appius Claudius manoeuvres and the tribune C. Lucilius Hirrus readies the proposal. Cicero notes the move is stalling for lack of broad support."
+    },
+    {
+      "loc": "6",
+      "anchor": "(epic poem) addressed to Caesar",
+      "entity_id": "person:caesar",
+      "note": "Cicero had composed an epic poem in Caesar's honour (probably his lost De Expeditione Britannica or a related piece). He wants a trustworthy courier so it does not go astray as Quintus's Erigone had on the road out of Gaul."
+    },
+    {
+      "loc": "8",
+      "anchor": "About Felix's will",
+      "entity_id": "person:felix-testator",
+      "note": "By the carelessness of the testator Felix and his slave, the wrong wax tablets were sealed, invalidating the bequest of a twelfth share of the estate to Quintus. Cicero dismisses the loss with a Greek tag, 'let him howl for it.'"
+    }
+  ]
+}

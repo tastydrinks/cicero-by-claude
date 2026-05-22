@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Veteran Antistius",
+      "entity_id": "person:p-antistius-vetus",
+      "note": "\"Veteran Antistius\" renders \"veteris Antisti\" — likely Publius Antistius Vetus, whose cognomen Vetus (\"old\"/\"veteran\") Brutus plays on; he had held an independent command (hence imperator) and was standing for the praetorship of 42 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "falling in with Dolabella in Achaia",
+      "entity_id": "person:dolabella",
+      "note": "P. Cornelius Dolabella, declared a public enemy by the Senate in early 43 BC, was passing through Greece with troops on his way to Syria; he later besieged and captured Smyrna, where he killed C. Trebonius."
+    },
+    {
+      "loc": "1",
+      "anchor": "twenty thousand sesterces out of his own purse",
+      "entity_id": null,
+      "note": "Twenty thousand sesterces (HS XX) was a significant but not enormous private donation; by comparison, a legionary soldier's annual pay was about 900 sesterces, so this represented roughly 22 years of an ordinary soldier's wages."
+    },
+    {
+      "loc": "2",
+      "anchor": "praetorian comitia",
+      "entity_id": "office:praetor",
+      "note": "The praetorian comitia were the electoral assemblies (comitia centuriata) that voted for praetors, the second-highest magistracy in the cursus honorum; holding the praetorship was a prerequisite for the consulship and for commanding provincial armies."
+    },
+    {
+      "loc": "2",
+      "anchor": "the time of his standing for office",
+      "entity_id": null,
+      "note": "Brutus urged Antistius not to postpone his candidacy for the praetorship; the elections for 42 BC would be held later in 43 BC, and a delay in announcing one's candidacy could cost a man votes and political momentum."
+    }
+  ]
+}

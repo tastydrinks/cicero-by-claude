@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "not by way of images of mental impressions, as your new friends say",
+      "entity_id": "institution:epicurean-school",
+      "note": "A learned joke at Cassius's recent conversion to Epicureanism. Epicurean physics held that perception (and even thought) occurs when thin films of atoms, the eidola or 'images' streaming off objects, strike the eyes or mind."
+    },
+    {
+      "loc": "1",
+      "anchor": "Catius the Insubrian, an Epicurean, who died not long ago, calls",
+      "entity_id": "person:catius-epicureus",
+      "note": "Catius was a recently deceased Epicurean of Cisalpine Gaul. Cicero mocks his Latin coinage 'spectra' (spectres) for the Greek eidola, the perception-images of Epicurean and Democritean atomism."
+    },
+    {
+      "loc": "1",
+      "anchor": "the man of Gargettus, and Democritus before him",
+      "entity_id": "person:epicurus",
+      "note": "'The man of Gargettus' is Epicurus, born in the Attic deme of Gargettus; the doctrine of perception by images he took over from the atomist Democritus of Abdera."
+    },
+    {
+      "loc": "2",
+      "anchor": "will come winging into my breast",
+      "note": "Cicero presses the Epicurean theory to absurdity: if thinking of Cassius means an image of him flies into the mind, then thinking of distant Britain ought to summon an image of the whole island, image and all."
+    },
+    {
+      "loc": "3",
+      "anchor": "from which you have been ejected",
+      "entity_id": "institution:epicurean-school",
+      "note": "Cicero casts Cassius's defection to Epicureanism in the language of the praetor's interdict de vi armata, which restored a man violently ejected from property; the formula did not carry the usual one-year limit, so the 'case' for restoring Cassius to virtue stays open."
+    }
+  ]
+}

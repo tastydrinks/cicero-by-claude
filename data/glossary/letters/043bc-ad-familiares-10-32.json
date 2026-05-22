@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-32",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "The quaestor Balbus",
+      "entity_id": "person:cornelius-balbus-younger",
+      "note": "This is the younger L. Cornelius Balbus, quaestor of Further Spain under Pollio, nephew of the elder Balbus, Caesar's intimate. He absconded with the provincial treasury into Mauretania."
+    },
+    {
+      "loc": "1",
+      "anchor": "kingdom of Bogudes",
+      "entity_id": "person:bogudes",
+      "note": "Bogudes (Bogud) was king of western Mauretania in North Africa, a Caesarian client; Balbus crossed the strait at the Pillars of Hercules to take refuge in his realm."
+    },
+    {
+      "loc": "2",
+      "anchor": "the same things Quintus Caesar did",
+      "entity_id": "person:q-cassius-longinus-spain",
+      "note": "\"Quintus Caesar\" is a manuscript corruption for Q. Cassius Longinus, the rapacious Caesarian governor of Further Spain in 48-47 BC whose extortions provoked a mutiny; Pollio holds him up as the byword for misrule that Balbus is now imitating."
+    },
+    {
+      "loc": "2",
+      "anchor": "led him down to a seat in the fourteen rows",
+      "entity_id": null,
+      "note": "By the lex Roscia theatralis (67 BC) the first fourteen rows of seats in the theatre were reserved for the equestrian order; seating an actor there (and giving him the gold ring of a knight) usurped a privilege only the state could confer."
+    },
+    {
+      "loc": "2",
+      "anchor": "he extended his own four-year magistracy for himself",
+      "entity_id": null,
+      "note": "The quattuorvirate was the board of four chief magistrates of a Roman municipality; Balbus, holding such an office in a Spanish town, illegally prolonged his own tenure and rigged the local elections."
+    },
+    {
+      "loc": "2",
+      "anchor": "the proconsul Sextus Varus",
+      "entity_id": "person:sextus-varus-procos",
+      "note": "An earlier proconsul of Further Spain (probably in the Sullan civil wars) under whom a local Senate was massacred or expelled; Balbus restored from exile the partisans of that bygone upheaval rather than of the present one."
+    },
+    {
+      "loc": "3",
+      "anchor": "a \\textit{praetexta} drawn from his own journey",
+      "entity_id": null,
+      "note": "A fabula praetexta was a Roman historical drama on a native (rather than Greek) subject; Balbus's vanity in staging a play about his own diplomatic mission, and weeping at it, struck Pollio as beyond even Caesar's example."
+    },
+    {
+      "loc": "3",
+      "anchor": "I am born a Roman citizen",
+      "entity_id": null,
+      "note": "The cry asserts the citizen's legal immunity from summary execution and from being thrown to the beasts; Balbus's mocking reply (\"go appeal to the people's good faith\") flouts the most basic protection of Roman law, the right of provocatio."
+    }
+  ]
+}

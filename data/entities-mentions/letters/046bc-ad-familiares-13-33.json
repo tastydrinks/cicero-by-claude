@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-33",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "1", "surface": "Cn. Otacilio Nasone", "entity_id": "person:cn-otacilius-naso", "in": "lat"},
+    {"loc": "1", "surface": "Gnaeus Otacilius Naso", "entity_id": "person:cn-otacilius-naso", "in": "eng"},
+    {"loc": "1", "surface": "provincia tua", "entity_id": "place:sicilia", "in": "lat"},
+    {"loc": "1", "surface": "your province", "entity_id": "place:sicilia", "in": "eng"},
+    {"loc": "1", "surface": "Hilarus", "entity_id": "person:hilarus-nasonis-libertus", "in": "lat"},
+    {"loc": "1", "surface": "Hilarus", "entity_id": "person:hilarus-nasonis-libertus", "in": "eng"},
+    {"loc": "1", "surface": "Antigonus", "entity_id": "person:antigonus-nasonis-libertus", "in": "lat"},
+    {"loc": "1", "surface": "Antigonus", "entity_id": "person:antigonus-nasonis-libertus", "in": "eng"},
+    {"loc": "1", "surface": "Demostratus", "entity_id": "person:demostratus-nasonis-libertus", "in": "lat"},
+    {"loc": "1", "surface": "Demostratus", "entity_id": "person:demostratus-nasonis-libertus", "in": "eng"},
+    {"loc": "1", "surface": "liberti", "entity_id": "person:hilarus-nasonis-libertus", "in": "lat"}
+  ]
+}

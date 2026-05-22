@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-11",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the thirteen thousand sesterces I lent his son in cash",
+      "entity_id": null,
+      "note": "The sesterce was the standard Roman unit of account; sums in the tens of thousands like these were ordinary private loans among the senatorial class. Cicero's complaint is that, in the cash crunch of the civil war, debtors such as Axius were defaulting just as his own creditors pressed him."
+    },
+    {
+      "loc": "4",
+      "anchor": "in that Rhodian",
+      "entity_id": "place:rhodes",
+      "note": "Rhodes, the great maritime republic of the southeastern Aegean, was famous for its ships; Cicero recalls a queasy earlier voyage in a Rhodian aphraktos, an undecked light galley, to gauge how much worse a small skiff would be."
+    },
+    {
+      "loc": "4",
+      "anchor": "Is even Balbus thinking of coming into the Senate?",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus was a Gades-born financier and Caesar's chief political agent; the wonder is partly that a man of provincial origin should sit among the senators. The Senate was the council of former magistrates that had been the steering body of the Republic, now being reshaped under Caesar's ascendancy."
+    },
+    {
+      "loc": "4",
+      "anchor": "my addressing him as ``master of the mint,''",
+      "entity_id": null,
+      "note": "The tresviri monetales were the junior magistrates who oversaw the striking of Roman coinage; Cicero mock-titles the money-man Vettienus thus in return for Vettienus's having ironically addressed him as \"consul.\" The joke turns on Vettienus's role in handling Cicero's finances."
+    }
+  ]
+}

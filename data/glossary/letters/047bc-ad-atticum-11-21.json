@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "my brother Quintus's wickedness",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "The \"wickedness\" is that of young Quintus, Cicero's nephew, who had denounced his uncle to Caesar to clear his own name; the genitive \"Quinti\" here is the son, not Cicero's brother. A letter from Atticus had reopened the wound by enclosing the nephew's own accusatory letter."
+    },
+    {
+      "loc": "2",
+      "anchor": "Many things are said to be detaining him in Asia, Pharnaces above all",
+      "entity_id": "person:pharnaces-ii",
+      "note": "Pharnaces II, king of the Bosporus and son of Mithridates VI, had overrun Pontus and defeated a Roman force; subduing him kept Caesar in the East and so prolonged Cicero's wait. Caesar crushed him at Zela in August 47 BC — the victory of his \"veni, vidi, vici.\""
+    },
+    {
+      "loc": "2",
+      "anchor": "The twelfth legion, which Sulla approached first",
+      "entity_id": "person:p-sulla-filius",
+      "note": "The veteran legions in Campania mutinied in 47 BC over unpaid bonuses and discharge; P. Cornelius Sulla, sent to pacify them, was pelted with stones when he tried to address the twelfth. The \"Sulla\" of this section is the Caesarian commander, not the dictator."
+    },
+    {
+      "loc": "3",
+      "anchor": "the precedents of Sulla's time",
+      "entity_id": "person:sulla",
+      "note": "Here \"Sulla\" is the dictator L. Cornelius Sulla, cited as a historical exemplum: Atticus had pointed to how the partisans of Sulla's day trimmed their conduct to circumstance. Cicero replies that even those expedients were tempered with too little moderation to serve as a model now."
+    }
+  ]
+}

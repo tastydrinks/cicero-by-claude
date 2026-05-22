@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Let my secretary's hand be a sign to you of my eye-inflammation",
+      "entity_id": null,
+      "note": "The letter is in the hand of a scribe (librarius) rather than Cicero's own; he tells Atticus to read the change of hand as proof that his eye-inflammation persists. The same ailment forces the dictation noted in 8.12."
+    },
+    {
+      "loc": "1",
+      "anchor": "All our expectation hangs upon the news from Brundisium",
+      "entity_id": "place:brundisium",
+      "note": "Pompey was falling back on Brundisium, the chief port for crossing the Adriatic to Greece; everything turned on whether Caesar would trap him there or whether he would get his army across first. Pompey ultimately evacuated to Greece in March 49 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "The country-town men talk much with me",
+      "entity_id": null,
+      "note": "The municipales are the propertied men of the Italian country towns near Cicero's villas; he reports that, caring only for their land and savings, they have swung from trusting Pompey to welcoming Caesar. Their shift is Cicero's gauge of collapsing support for the senatorial cause."
+    }
+  ]
+}

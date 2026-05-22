@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-13",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "this Telepylus, this Laestrygonian land",
+      "entity_id": "place:formiae",
+      "note": "A Homeric joke: Telepylus, the land of the cannibal Laestrygonians (Odyssey 10), was traditionally identified with Formiae on the coast of Latium. Cicero names his own seaside resort by the grim epithet to mark the savagery of the political talk he hears there."
+    },
+    {
+      "loc": "2",
+      "anchor": "that kingship of yours",
+      "entity_id": null,
+      "note": "Regnum: the autocratic ascendancy of Caesar, Pompey and Crassus in 59 BC, which Cicero and his correspondents privately denounced as a tyranny over the republic."
+    },
+    {
+      "loc": "2",
+      "anchor": "the day before the Nones of May",
+      "entity_id": null,
+      "note": "6 May (pridie Nonas Maias). The Nones fell on the 7th in March, May, July and October and on the 5th in other months; Romans counted backward inclusively from the fixed point."
+    }
+  ]
+}

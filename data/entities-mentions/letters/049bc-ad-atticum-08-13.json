@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-13",
+  "mentions": [
+    {"loc": "1", "surface": "Brundisinis", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "1", "surface": "Gnaeum nostrum", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "me hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "1", "surface": "the news from Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "1", "surface": "our Cnaeus", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "By Hercules", "entity_id": "god:hercules", "in": "eng"}
+  ]
+}

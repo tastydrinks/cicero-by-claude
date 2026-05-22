@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-33",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO ACILIO PROCONSVLI S.",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "The letter-heading: \"Cicero to Acilius the proconsul, greetings.\" M'. Acilius Glabrio served as proconsul of Sicily 46–45 BC; the five letters 13.33–13.37 are all addressed to him, recommending Sicilian businessmen and their agents."
+    },
+    {
+      "loc": "1",
+      "anchor": "than any man of his rank",
+      "entity_id": null,
+      "note": "\"Than any man of his rank\" — Naso's ordo (social rank) is the equestrian order; the phrase signals that Naso is a Roman knight, not a senator, and calibrates the warmth of the recommendation within the social hierarchy Glabrio would recognise."
+    },
+    {
+      "loc": "1",
+      "anchor": "looked after by his freedmen Hilarus, Antigonus, and Demostratus",
+      "entity_id": "person:cn-otacilius-naso",
+      "note": "Roman businessmen routinely managed provincial operations through freed slaves acting as procuratores (agents). The Greek names — Hilarus, Antigonus, Demostratus — are typical of the freedman class and reflect the Greek-speaking eastern slave market from which household staff were drawn."
+    }
+  ]
+}

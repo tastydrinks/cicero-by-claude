@@ -1,0 +1,798 @@
+{
+ "schema_version": 1,
+ "id": "ad-atticum-01-16",
+ "mentions": [
+  {
+   "loc": "1",
+   "surface": "senatus",
+   "entity_id": "institution:senate",
+   "in": "lat"
+  },
+  {
+   "loc": "1",
+   "surface": "senate",
+   "entity_id": "institution:senate",
+   "in": "eng"
+  },
+  {
+   "loc": "1",
+   "surface": "Pisonem",
+   "entity_id": "person:m-pupius-piso-frugi",
+   "in": "lat"
+  },
+  {
+   "loc": "1",
+   "surface": "Piso",
+   "entity_id": "person:m-pupius-piso-frugi",
+   "in": "eng"
+  },
+  {
+   "loc": "1",
+   "surface": "Curionem",
+   "entity_id": "person:c-curio-cos",
+   "in": "lat"
+  },
+  {
+   "loc": "1",
+   "surface": "Curio",
+   "entity_id": "person:c-curio-cos",
+   "in": "eng"
+  },
+  {
+   "loc": "2",
+   "surface": "Hortensius",
+   "entity_id": "person:hortensius",
+   "in": "lat"
+  },
+  {
+   "loc": "2",
+   "surface": "Hortensius",
+   "entity_id": "person:hortensius",
+   "in": "eng"
+  },
+  {
+   "loc": "2",
+   "surface": "Fufius tribunus pl.",
+   "entity_id": "person:q-fufius-calenus",
+   "in": "lat"
+  },
+  {
+   "loc": "2",
+   "surface": "Fufius, tribune of the plebs",
+   "entity_id": "person:q-fufius-calenus",
+   "in": "eng"
+  },
+  {
+   "loc": "2",
+   "surface": "tribunus pl.",
+   "entity_id": "office:tribune",
+   "in": "lat"
+  },
+  {
+   "loc": "2",
+   "surface": "tribune of the plebs",
+   "entity_id": "office:tribune",
+   "in": "eng"
+  },
+  {
+   "loc": "3",
+   "surface": "senatores",
+   "entity_id": "institution:senate",
+   "in": "lat"
+  },
+  {
+   "loc": "3",
+   "surface": "senators",
+   "entity_id": "institution:senate",
+   "in": "eng"
+  },
+  {
+   "loc": "3",
+   "surface": "equites",
+   "entity_id": "group:equites",
+   "in": "lat"
+  },
+  {
+   "loc": "3",
+   "surface": "equites",
+   "entity_id": "group:equites",
+   "in": "eng"
+  },
+  {
+   "loc": "3",
+   "surface": "tribuni",
+   "entity_id": "office:tribune",
+   "in": "lat"
+  },
+  {
+   "loc": "3",
+   "surface": "tribunes",
+   "entity_id": "office:tribune",
+   "in": "eng"
+  },
+  {
+   "loc": "4",
+   "surface": "Hortensius",
+   "entity_id": "person:hortensius",
+   "in": "lat"
+  },
+  {
+   "loc": "4",
+   "surface": "Hortensius",
+   "entity_id": "person:hortensius",
+   "in": "eng"
+  },
+  {
+   "loc": "4",
+   "surface": "Clodi",
+   "entity_id": "person:clodius",
+   "in": "lat"
+  },
+  {
+   "loc": "4",
+   "surface": "Clodius's supporters",
+   "entity_id": "person:clodius",
+   "in": "eng"
+  },
+  {
+   "loc": "4",
+   "surface": "P. Clodio",
+   "entity_id": "person:clodius",
+   "in": "lat"
+  },
+  {
+   "loc": "4",
+   "surface": "Publius Clodius",
+   "entity_id": "person:clodius",
+   "in": "eng"
+  },
+  {
+   "loc": "4",
+   "surface": "Xenocratem",
+   "entity_id": "person:xenocrates",
+   "in": "lat"
+  },
+  {
+   "loc": "4",
+   "surface": "Xenocrates",
+   "entity_id": "person:xenocrates",
+   "in": "eng"
+  },
+  {
+   "loc": "4",
+   "surface": "Metelli Numidici",
+   "entity_id": "person:q-metellus-numidicus",
+   "in": "lat"
+  },
+  {
+   "loc": "4",
+   "surface": "Metellus Numidicus",
+   "entity_id": "person:q-metellus-numidicus",
+   "in": "eng"
+  },
+  {
+   "loc": "5",
+   "surface": "Ariopagitae",
+   "entity_id": "institution:areopagus",
+   "in": "lat"
+  },
+  {
+   "loc": "5",
+   "surface": "Areopagites",
+   "entity_id": "institution:areopagus",
+   "in": "eng"
+  },
+  {
+   "loc": "5",
+   "surface": "senatum",
+   "entity_id": "institution:senate",
+   "in": "lat"
+  },
+  {
+   "loc": "5",
+   "surface": "senate",
+   "entity_id": "institution:senate",
+   "in": "eng"
+  },
+  {
+   "loc": "5",
+   "surface": "Calvum ex Nanneianis",
+   "entity_id": "person:crassus",
+   "in": "lat"
+  },
+  {
+   "loc": "5",
+   "surface": "Calvus of the Nanneian estate",
+   "entity_id": "person:crassus",
+   "in": "eng"
+  },
+  {
+   "loc": "5",
+   "surface": "Catulus",
+   "entity_id": "person:q-lutatius-catulus-cos78",
+   "in": "lat"
+  },
+  {
+   "loc": "5",
+   "surface": "Catulus",
+   "entity_id": "person:q-lutatius-catulus-cos78",
+   "in": "eng"
+  },
+  {
+   "loc": "6",
+   "surface": "populi Romani",
+   "entity_id": "institution:populus-romanus",
+   "in": "lat"
+  },
+  {
+   "loc": "6",
+   "surface": "the Roman people",
+   "entity_id": "institution:populus-romanus",
+   "in": "eng"
+  },
+  {
+   "loc": "6",
+   "surface": "Thalnam",
+   "entity_id": "person:thalna-iudex",
+   "in": "lat"
+  },
+  {
+   "loc": "6",
+   "surface": "Thalna",
+   "entity_id": "person:thalna-iudex",
+   "in": "eng"
+  },
+  {
+   "loc": "6",
+   "surface": "Plautum",
+   "entity_id": "person:plautus-iudex",
+   "in": "lat"
+  },
+  {
+   "loc": "6",
+   "surface": "Plautus",
+   "entity_id": "person:plautus-iudex",
+   "in": "eng"
+  },
+  {
+   "loc": "6",
+   "surface": "Spongiam",
+   "entity_id": "person:spongia-iudex",
+   "in": "lat"
+  },
+  {
+   "loc": "6",
+   "surface": "Spongia",
+   "entity_id": "person:spongia-iudex",
+   "in": "eng"
+  },
+  {
+   "loc": "7",
+   "surface": "senatus",
+   "entity_id": "institution:senate",
+   "in": "lat"
+  },
+  {
+   "loc": "7",
+   "surface": "senate's",
+   "entity_id": "institution:senate",
+   "in": "eng"
+  },
+  {
+   "loc": "8",
+   "surface": "Pisonem consulem",
+   "entity_id": "person:m-pupius-piso-frugi",
+   "in": "lat"
+  },
+  {
+   "loc": "8",
+   "surface": "the consul Piso",
+   "entity_id": "person:m-pupius-piso-frugi",
+   "in": "eng"
+  },
+  {
+   "loc": "8",
+   "surface": "consulem",
+   "entity_id": "office:consul",
+   "in": "lat"
+  },
+  {
+   "loc": "8",
+   "surface": "consul",
+   "entity_id": "office:consul",
+   "in": "eng"
+  },
+  {
+   "loc": "8",
+   "surface": "Syriam",
+   "entity_id": "place:syria",
+   "in": "lat"
+  },
+  {
+   "loc": "8",
+   "surface": "Syria",
+   "entity_id": "place:syria",
+   "in": "eng"
+  },
+  {
+   "loc": "8",
+   "surface": "senatum",
+   "entity_id": "institution:senate",
+   "in": "lat"
+  },
+  {
+   "loc": "8",
+   "surface": "senate",
+   "entity_id": "institution:senate",
+   "in": "eng"
+  },
+  {
+   "loc": "8",
+   "surface": "Clodium",
+   "entity_id": "person:clodius",
+   "in": "lat"
+  },
+  {
+   "loc": "8",
+   "surface": "Clodius",
+   "entity_id": "person:clodius",
+   "in": "eng"
+  },
+  {
+   "loc": "8",
+   "surface": "senatu",
+   "entity_id": "institution:senate",
+   "in": "lat"
+  },
+  {
+   "loc": "8",
+   "surface": "the senate",
+   "entity_id": "institution:senate",
+   "in": "eng"
+  },
+  {
+   "loc": "9",
+   "surface": "senatum",
+   "entity_id": "institution:senate",
+   "in": "lat"
+  },
+  {
+   "loc": "9",
+   "surface": "senate",
+   "entity_id": "institution:senate",
+   "in": "eng"
+  },
+  {
+   "loc": "9",
+   "surface": "patres conscripti",
+   "entity_id": "institution:senate",
+   "in": "lat"
+  },
+  {
+   "loc": "9",
+   "surface": "the senators",
+   "entity_id": "institution:senate",
+   "in": "eng"
+  },
+  {
+   "loc": "9",
+   "surface": "Lentulum",
+   "entity_id": "person:lentulus-sura",
+   "in": "lat"
+  },
+  {
+   "loc": "9",
+   "surface": "Lentulus",
+   "entity_id": "person:lentulus-sura",
+   "in": "eng"
+  },
+  {
+   "loc": "9",
+   "surface": "Catilinam",
+   "entity_id": "person:catiline",
+   "in": "lat"
+  },
+  {
+   "loc": "9",
+   "surface": "Catiline",
+   "entity_id": "person:catiline",
+   "in": "eng"
+  },
+  {
+   "loc": "9",
+   "surface": "Clodi",
+   "entity_id": "person:clodius",
+   "in": "lat"
+  },
+  {
+   "loc": "9",
+   "surface": "Clodius",
+   "entity_id": "person:clodius",
+   "in": "eng"
+  },
+  {
+   "loc": "9",
+   "surface": "patres conscripti",
+   "entity_id": "institution:senate",
+   "in": "lat"
+  },
+  {
+   "loc": "9",
+   "surface": "members of the senate",
+   "entity_id": "institution:senate",
+   "in": "eng"
+  },
+  {
+   "loc": "10",
+   "surface": "pulchellus puer",
+   "entity_id": "person:clodius",
+   "in": "lat"
+  },
+  {
+   "loc": "10",
+   "surface": "The pretty little boy",
+   "entity_id": "person:clodius",
+   "in": "eng"
+  },
+  {
+   "loc": "10",
+   "surface": "Baias",
+   "entity_id": "place:baiae",
+   "in": "lat"
+  },
+  {
+   "loc": "10",
+   "surface": "Baiae",
+   "entity_id": "place:baiae",
+   "in": "eng"
+  },
+  {
+   "loc": "10",
+   "surface": "Arpinati",
+   "entity_id": "place:arpinum",
+   "in": "lat"
+  },
+  {
+   "loc": "10",
+   "surface": "Arpinum",
+   "entity_id": "place:arpinum",
+   "in": "eng"
+  },
+  {
+   "loc": "10",
+   "surface": "Arpinatis",
+   "entity_id": "place:arpinum",
+   "in": "lat"
+  },
+  {
+   "loc": "10",
+   "surface": "an Arpine",
+   "entity_id": "place:arpinum",
+   "in": "eng"
+  },
+  {
+   "loc": "10",
+   "surface": "Marianas",
+   "entity_id": "person:c-marius",
+   "in": "lat"
+  },
+  {
+   "loc": "10",
+   "surface": "Marius's",
+   "entity_id": "person:c-marius",
+   "in": "eng"
+  },
+  {
+   "loc": "10",
+   "surface": "Rex",
+   "entity_id": "person:q-marcius-rex",
+   "in": "lat"
+  },
+  {
+   "loc": "10",
+   "surface": "Rex",
+   "entity_id": "person:q-marcius-rex",
+   "in": "eng"
+  },
+  {
+   "loc": "11",
+   "surface": "Magno",
+   "entity_id": "person:pompey",
+   "in": "lat"
+  },
+  {
+   "loc": "11",
+   "surface": "this Magnus of ours",
+   "entity_id": "person:pompey",
+   "in": "eng"
+  },
+  {
+   "loc": "11",
+   "surface": "Cn. Ciceronem",
+   "entity_id": "person:pompey",
+   "in": "lat"
+  },
+  {
+   "loc": "11",
+   "surface": "Gnaeus Cicero",
+   "entity_id": "person:pompey",
+   "in": "eng"
+  },
+  {
+   "loc": "12",
+   "surface": "Magnus",
+   "entity_id": "person:pompey",
+   "in": "lat"
+  },
+  {
+   "loc": "12",
+   "surface": "our Magnus",
+   "entity_id": "person:pompey",
+   "in": "eng"
+  },
+  {
+   "loc": "12",
+   "surface": "Auli filium",
+   "entity_id": "person:l-afranius",
+   "in": "lat"
+  },
+  {
+   "loc": "12",
+   "surface": "the son of Aulus",
+   "entity_id": "person:l-afranius",
+   "in": "eng"
+  },
+  {
+   "loc": "12",
+   "surface": "Philippus",
+   "entity_id": "person:philip-ii-macedon",
+   "in": "lat"
+  },
+  {
+   "loc": "12",
+   "surface": "Philip",
+   "entity_id": "person:philip-ii-macedon",
+   "in": "eng"
+  },
+  {
+   "loc": "12",
+   "surface": "consul",
+   "entity_id": "office:consul",
+   "in": "lat"
+  },
+  {
+   "loc": "12",
+   "surface": "The consul",
+   "entity_id": "office:consul",
+   "in": "eng"
+  },
+  {
+   "loc": "12",
+   "surface": "senatus consulta duo",
+   "entity_id": "institution:senate",
+   "in": "lat"
+  },
+  {
+   "loc": "12",
+   "surface": "two senate's decrees",
+   "entity_id": "institution:senate",
+   "in": "eng"
+  },
+  {
+   "loc": "12",
+   "surface": "Catone",
+   "entity_id": "person:cato-minor",
+   "in": "lat"
+  },
+  {
+   "loc": "12",
+   "surface": "Cato",
+   "entity_id": "person:cato-minor",
+   "in": "eng"
+  },
+  {
+   "loc": "12",
+   "surface": "Domitio",
+   "entity_id": "person:l-domitius-ahenobarbus-cos54",
+   "in": "lat"
+  },
+  {
+   "loc": "12",
+   "surface": "Domitius",
+   "entity_id": "person:l-domitius-ahenobarbus-cos54",
+   "in": "eng"
+  },
+  {
+   "loc": "13",
+   "surface": "Lurco autem tribunus pl.",
+   "entity_id": "person:lurco-tr-pl",
+   "in": "lat"
+  },
+  {
+   "loc": "13",
+   "surface": "Lurco, however, the tribune of the plebs",
+   "entity_id": "person:lurco-tr-pl",
+   "in": "eng"
+  },
+  {
+   "loc": "13",
+   "surface": "tribunus pl.",
+   "entity_id": "office:tribune",
+   "in": "lat"
+  },
+  {
+   "loc": "13",
+   "surface": "the tribune of the plebs",
+   "entity_id": "office:tribune",
+   "in": "eng"
+  },
+  {
+   "loc": "13",
+   "surface": "Aelia et Fufia",
+   "entity_id": "law:lex-aelia-fufia",
+   "in": "lat"
+  },
+  {
+   "loc": "13",
+   "surface": "the Aelian and Fufian law",
+   "entity_id": "law:lex-aelia-fufia",
+   "in": "eng"
+  },
+  {
+   "loc": "13",
+   "surface": "P. Clodium",
+   "entity_id": "person:clodius",
+   "in": "lat"
+  },
+  {
+   "loc": "13",
+   "surface": "Publius Clodius",
+   "entity_id": "person:clodius",
+   "in": "eng"
+  },
+  {
+   "loc": "13",
+   "surface": "Curio",
+   "entity_id": "person:c-curio-cos",
+   "in": "lat"
+  },
+  {
+   "loc": "13",
+   "surface": "Curio",
+   "entity_id": "person:c-curio-cos",
+   "in": "eng"
+  },
+  {
+   "loc": "14",
+   "surface": "Asiam",
+   "entity_id": "place:asia-province",
+   "in": "lat"
+  },
+  {
+   "loc": "14",
+   "surface": "Asia",
+   "entity_id": "place:asia-province",
+   "in": "eng"
+  },
+  {
+   "loc": "15",
+   "surface": "Amaltheo",
+   "entity_id": "place:amaltheum",
+   "in": "lat"
+  },
+  {
+   "loc": "15",
+   "surface": "Amaltheum",
+   "entity_id": "place:amaltheum",
+   "in": "eng"
+  },
+  {
+   "loc": "15",
+   "surface": "Thyillus",
+   "entity_id": "person:thyillus",
+   "in": "lat"
+  },
+  {
+   "loc": "15",
+   "surface": "Thyillus",
+   "entity_id": "person:thyillus",
+   "in": "eng"
+  },
+  {
+   "loc": "15",
+   "surface": "Archias",
+   "entity_id": "person:archias-poet",
+   "in": "lat"
+  },
+  {
+   "loc": "15",
+   "surface": "Archias",
+   "entity_id": "person:archias-poet",
+   "in": "eng"
+  },
+  {
+   "loc": "15",
+   "surface": "Lucullis",
+   "entity_id": "person:l-lucullus",
+   "in": "lat"
+  },
+  {
+   "loc": "15",
+   "surface": "the Luculli",
+   "entity_id": "person:l-lucullus",
+   "in": "eng"
+  },
+  {
+   "loc": "16",
+   "surface": "Antonio",
+   "entity_id": "person:c-antonius-hybrida",
+   "in": "lat"
+  },
+  {
+   "loc": "16",
+   "surface": "Antonius",
+   "entity_id": "person:c-antonius-hybrida",
+   "in": "eng"
+  },
+  {
+   "loc": "16",
+   "surface": "Mallio",
+   "entity_id": "person:mallius-letter-carrier",
+   "in": "lat"
+  },
+  {
+   "loc": "16",
+   "surface": "Mallius",
+   "entity_id": "person:mallius-letter-carrier",
+   "in": "eng"
+  },
+  {
+   "loc": "17",
+   "surface": "Cincius",
+   "entity_id": "person:cincius-agent",
+   "in": "lat"
+  },
+  {
+   "loc": "17",
+   "surface": "Cincius",
+   "entity_id": "person:cincius-agent",
+   "in": "eng"
+  },
+  {
+   "loc": "18",
+   "surface": "Ἀμαλθεῖον",
+   "entity_id": "place:amaltheum",
+   "in": "lat"
+  },
+  {
+   "loc": "18",
+   "surface": "Amaltheum",
+   "entity_id": "place:amaltheum",
+   "in": "eng"
+  },
+  {
+   "loc": "18",
+   "surface": "Ἀμαλθεία",
+   "entity_id": "god:amalthea",
+   "in": "lat"
+  },
+  {
+   "loc": "18",
+   "surface": "Amalthea",
+   "entity_id": "god:amalthea",
+   "in": "eng"
+  },
+  {
+   "loc": "18",
+   "surface": "Arpinati",
+   "entity_id": "place:arpinum",
+   "in": "lat"
+  },
+  {
+   "loc": "18",
+   "surface": "the Arpinum estate",
+   "entity_id": "place:arpinum",
+   "in": "eng"
+  }
+ ]
+}

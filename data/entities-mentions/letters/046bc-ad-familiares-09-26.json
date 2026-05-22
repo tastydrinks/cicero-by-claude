@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-26",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO PAETO S. D.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO PAETO S. D.",
+      "entity_id": "person:l-papirius-paetus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO PAETO S. D.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO PAETO S. D.",
+      "entity_id": "person:l-papirius-paetus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "apud Volumnium Eutrapelum",
+      "entity_id": "person:p-volumnius-eutrapelus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "At Volumnius Eutrapelus's",
+      "entity_id": "person:p-volumnius-eutrapelus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "supra me Atticus",
+      "entity_id": "person:atticus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "above me Atticus",
+      "entity_id": "person:atticus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "infra Verrius",
+      "entity_id": "person:verrius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "below me Verrius",
+      "entity_id": "person:verrius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Dioni philosopho",
+      "entity_id": "person:dion-philosophus-paeti",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Dion the philosopher",
+      "entity_id": "person:dion-philosophus-paeti",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "infra Eutrapelum Cytheris accubuit",
+      "entity_id": "person:p-volumnius-eutrapelus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "below Eutrapelus reclined Cytheris",
+      "entity_id": "person:p-volumnius-eutrapelus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "infra Eutrapelum Cytheris accubuit",
+      "entity_id": "person:cytheris",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "below Eutrapelus reclined Cytheris",
+      "entity_id": "person:cytheris",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "me hercule",
+      "entity_id": "god:hercules",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "By Hercules",
+      "entity_id": "god:hercules",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Aristippus quidem ille Socraticus",
+      "entity_id": "person:aristippus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the famous Aristippus, the Socratic",
+      "entity_id": "person:aristippus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Socraticus",
+      "entity_id": "person:socrates",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the Socratic",
+      "entity_id": "person:socrates",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "habere eum Laida",
+      "entity_id": "person:lais",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "he had Lais",
+      "entity_id": "person:lais",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "non habeor a Laide",
+      "entity_id": "person:lais",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "in philosophum inriseris",
+      "entity_id": "person:dion-philosophus-paeti",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "who actually mocked even the philosopher",
+      "entity_id": "person:dion-philosophus-paeti",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "at hercule",
+      "entity_id": "god:hercules",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "by Hercules, what is dinner to you",
+      "entity_id": "god:hercules",
+      "in": "eng"
+    }
+  ]
+}

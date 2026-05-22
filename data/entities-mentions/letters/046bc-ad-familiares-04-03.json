@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-03",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "SER. SVLPICIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SER. SVLPICIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "monuisti senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "warned the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "Caesar ipse", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar himself", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "4", "surface": "in curia", "entity_id": "place:senate-curia", "in": "lat"},
+    {"loc": "4", "surface": "the Senate-house", "entity_id": "place:senate-curia", "in": "eng"},
+    {"loc": "4", "surface": "in foro", "entity_id": "place:forum-romanum", "in": "lat"},
+    {"loc": "4", "surface": "the Forum", "entity_id": "place:forum-romanum", "in": "eng"},
+    {"loc": "4", "surface": "Servius quidem tuus", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "lat"},
+    {"loc": "4", "surface": "Your son Servius", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "eng"}
+  ]
+}

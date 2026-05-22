@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO S. D. CORNIFICIO CONLEGAE.",
+      "entity_id": "office:augur",
+      "note": "S. D. is salutem dicit, \"sends greetings\"; CONLEGAE addresses Cornificius as Cicero's fellow-augur, a member of the same priestly college."
+    },
+    {
+      "loc": "1",
+      "anchor": "Caecilius Bassus",
+      "entity_id": "person:q-caecilius-bassus",
+      "note": "Q. Caecilius Bassus, a Pompeian who in 46 BC raised a revolt in Syria and seized the province from Caesar's governor Sex. Iulius Caesar; his next move was the uncertainty Cornificius was waiting to resolve."
+    },
+    {
+      "loc": "2",
+      "anchor": "at our friend Caesar's games I watched T. Plancus",
+      "entity_id": "person:t-munatius-plancus-bursa",
+      "note": "At Caesar's victory games of 46 BC; T. Plancus is most plausibly T. Munatius Plancus Bursa, the disgraced ex-tribune whom Cicero had once prosecuted, now restored under Caesar, so that watching him is itself part of the new order Cicero finds galling."
+    },
+    {
+      "loc": "2",
+      "anchor": "listened to the verses of Laberius and Publilius",
+      "entity_id": "person:laberius",
+      "note": "Decimus Laberius and Publilius Syrus were the leading mime-writers of the day; at these games Caesar forced the elderly knight Laberius to act in his own mimes against Publilius, a calculated humiliation that Cicero watched \"with the most equable mind\"."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Chersonese",
+      "entity_id": "place:chersonesus-thracius",
+      "note": "The Thracian Chersonese (modern Gallipoli peninsula, Turkey), the narrow strip of land separating the Aegean from the Hellespont; in 43 BC it lay within the theatre of operations between Dolabella (Asia) and Brutus (Macedonia)."
+    },
+    {
+      "loc": "1",
+      "anchor": "Dolabella",
+      "entity_id": "person:dolabella",
+      "note": "P. Cornelius Dolabella, suffect consul of 44 BC and son-in-law of Cicero, had been declared a public enemy after murdering the Caesarian governor Trebonius in Asia; by the time of this letter he was retreating through Syria."
+    },
+    {
+      "loc": "2",
+      "anchor": "Antony's flight",
+      "entity_id": "person:antony",
+      "note": "At the battle of Mutina (21 April 43 BC) Antony was defeated and forced to withdraw westward; Cicero is referring to news of his flight from Italy as the decisive turn of events."
+    },
+    {
+      "loc": "2",
+      "anchor": "breakout of Brutus",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "This refers to Decimus Brutus Albinus (not Marcus Brutus the letter's recipient), who had been besieged in Mutina by Antony since late 44 BC and broke out after Antony's defeat."
+    },
+    {
+      "loc": "2",
+      "anchor": "Apollonia and Dyrrhachium",
+      "entity_id": "place:apollonia-illyria",
+      "note": "Two major Adriatic ports in Illyricum (modern Albania) that served as Brutus's logistical bases; he had waited there for news from Italy before deciding whether to march westward or eastward."
+    },
+    {
+      "loc": "3",
+      "anchor": "treachery of C. Antonius",
+      "entity_id": "person:c-antonius-antony-brother",
+      "note": "Gaius Antonius, younger brother of Mark Antony, had been captured by Brutus in Macedonia in 43 BC; as Brutus's prisoner he was suspected of inciting the mutiny in the Fourteenth Legion from within captivity."
+    }
+  ]
+}

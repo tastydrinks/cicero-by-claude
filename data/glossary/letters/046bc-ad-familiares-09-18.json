@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "just as the tyrant Dionysius, when he had been driven from Syracuse, is said to have opened a school at Corinth",
+      "entity_id": "person:dionysius-tyrannus-syracusarum",
+      "note": "A stock anecdote: the exiled Dionysius II of Syracuse was popularly said to have ended his days as a humble schoolmaster at Corinth, the proverbial image of fallen tyranny reduced to teaching boys. Cicero casts his own forced retirement from the law-courts under Caesar's dictatorship as the same kind of comedown."
+    },
+    {
+      "loc": "1",
+      "anchor": "with the courts taken away and my kingdom of the Forum lost, have started to keep a kind of school myself",
+      "entity_id": "person:cicero",
+      "note": "With Caesar in sole power the regular courts had largely ceased to function, ending Cicero's career as the Forum's leading advocate. He jokes that he has opened a 'school' instead --- in fact giving rhetorical declamation lessons to young Caesarians such as Hirtius and Dolabella over dinner."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pompey, your Lentulus, Scipio, Afranius --- perished foully enough. ``But Cato gloriously.''",
+      "entity_id": "person:cato-minor",
+      "note": "The roll-call of Pompeian dead after the defeat at Pharsalus (48 BC) and Thapsus (46 BC): Pompey murdered in Egypt, Lentulus Crus (cos. 49) killed there too, Metellus Scipio and Afranius dead in the African war. Against their squalid ends Cicero sets the noble suicide of Cato at Utica in 46 BC --- the recent event that gave Caesar's clemency its great rival in glory."
+    },
+    {
+      "loc": "3",
+      "anchor": "I have now polished off more peacocks than you have wood-pigeon squabs",
+      "entity_id": null,
+      "note": "A mock-boast in the gourmet idiom of these letters: peacock was a famously extravagant luxury dish, more lavish than Paetus's wood-pigeons. Cicero pretends his enforced leisure has turned him into a greater epicure than his Epicurean friend."
+    },
+    {
+      "loc": "3",
+      "anchor": "though it is a pig giving lessons to Minerva",
+      "entity_id": "god:minerva",
+      "note": "The proverb 'sus Minervam (docet)' --- a pig teaching Minerva, goddess of wisdom and craft --- meant a fool presuming to instruct an expert. Cicero deploys it self-deprecatingly about offering rhetorical 'introductions' (prolegomena) to Paetus."
+    },
+    {
+      "loc": "4",
+      "anchor": "If you cannot sell off your assessed assets nor fill your pot of denarii",
+      "entity_id": null,
+      "note": "Under Caesar's debt-relief measures of 49--46 BC creditors could be compelled to accept property at pre-war valuation (aestimatio) in lieu of cash. Cicero teases the impoverished Paetus that if he cannot turn such assessed assets into ready coin he had better come to Rome and join the 'school' as junior master."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "A. Caecina",
+      "entity_id": "person:a-caecina-friend",
+      "note": "Aulus Caecina of Volaterrae, man of letters and Cicero's close friend; a Pompeian who had returned to Italy after Pharsalus and was seeking Caesar's full pardon, which Cicero pursued through several letters (Fam. 6.5-6.9). Distinct from his father, the defendant of the Pro Caecina."
+    },
+    {
+      "loc": "1",
+      "anchor": "PROCONSUL",
+      "entity_id": "office:proconsul",
+      "note": "A proconsul was a former consul (or sometimes praetor) commanding a province with consular authority after his year of office; Furfanius held Sicily, a strategically vital grain-producing province, in 46-45 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "his father, a distinguished man and a man of courage",
+      "entity_id": "person:caecina-volaterranus",
+      "note": "The elder Aulus Caecina of Volaterrae, the defendant whom Cicero successfully represented in the Pro Caecina (c. 69 BC), a landmark speech on Roman property law and the interdict 'uti possidetis'."
+    },
+    {
+      "loc": "2",
+      "anchor": "the calamities of the commonwealth",
+      "note": "A standard Ciceronian circumlocution for the defeat of the Pompeian cause and the civil war's aftermath; by framing it as a 'calamity of the republic' rather than Caesar's victory, Cicero appeals to Furfanius's sympathies without naming Caesar directly."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-31",
+  "mentions": [
+    {"loc": "1", "surface": "Silium mutasse sententiam", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "Silium mutasse sententiam Sicca mirabatur", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "1", "surface": "Sicca was surprised that Silius had changed his mind", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "Sicca was surprised that Silius had changed his mind", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "2", "surface": "quantum anteire istos hortos Drusi", "entity_id": "person:m-livius-drusus-claudianus", "in": "lat"},
+    {"loc": "2", "surface": "si enim Faberianum venderem", "entity_id": "person:faberius", "in": "lat"},
+    {"loc": "2", "surface": "non dubitarem de Silianis", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "2", "surface": "transirem ad Drusum", "entity_id": "person:m-livius-drusus-claudianus", "in": "lat"},
+    {"loc": "2", "surface": "quanti Egnatius illum velle tibi dixit", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "2", "surface": "magno etiam adiumento nobis Hermogenes potest esse", "entity_id": "person:hermogenes", "in": "lat"},
+    {"loc": "2", "surface": "by how much the Silius gardens outstrip those of Drusus", "entity_id": "person:m-livius-drusus-claudianus", "in": "eng"},
+    {"loc": "2", "surface": "by how much the Silius gardens outstrip those of Drusus", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "2", "surface": "if I could sell the Faberian asset", "entity_id": "person:faberius", "in": "eng"},
+    {"loc": "2", "surface": "for the Silius gardens, if only he could be brought to sell", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "2", "surface": "I would cross over to Drusus", "entity_id": "person:m-livius-drusus-claudianus", "in": "eng"},
+    {"loc": "2", "surface": "even at the price Egnatius told you he wants", "entity_id": "person:l-egnatius-rufus", "in": "eng"},
+    {"loc": "2", "surface": "Hermogenes too can be a great help to us in paying cash down", "entity_id": "person:hermogenes", "in": "eng"}
+  ]
+}

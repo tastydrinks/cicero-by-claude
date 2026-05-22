@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-18",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "TULLIUS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TIRO", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Tusculanum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "Tusculanum nostrum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "our Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "Parhedrum", "entity_id": "person:parhedrus-servus", "in": "lat"},
+    {"loc": "1", "surface": "Parhedrus", "entity_id": "person:parhedrus-servus", "in": "eng"},
+    {"loc": "2", "surface": "Helico", "entity_id": "person:helico-servus", "in": "lat"},
+    {"loc": "2", "surface": "Helico", "entity_id": "person:helico-servus", "in": "eng"},
+    {"loc": "2", "surface": "Mothonem", "entity_id": "person:motho-servus", "in": "lat"},
+    {"loc": "2", "surface": "Motho", "entity_id": "person:motho-servus", "in": "eng"},
+    {"loc": "3", "surface": "Crabra", "entity_id": "place:aqua-crabra", "in": "lat"},
+    {"loc": "3", "surface": "Aqua Crabra", "entity_id": "place:aqua-crabra", "in": "eng"},
+    {"loc": "3", "surface": "Sophocleum", "entity_id": "person:sophocles", "in": "lat"},
+    {"loc": "3", "surface": "Sophoclean style", "entity_id": "person:sophocles", "in": "eng"},
+    {"loc": "3", "surface": "A. Ligurius", "entity_id": "person:a-ligurius", "in": "lat"},
+    {"loc": "3", "surface": "A. Ligurius", "entity_id": "person:a-ligurius", "in": "eng"},
+    {"loc": "3", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

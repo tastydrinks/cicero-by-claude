@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Hilarus the copyist",
+      "entity_id": null,
+      "note": "A librarius (professional scribe) who carried Cicero's letter; not securely identifiable with either of the registered freedmen named Hilarus. Flagged for the registry."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the fourth before the Kalends",
+      "entity_id": null,
+      "note": "The Roman calendar counted backward inclusively from the Kalends (1st of the month); reckoned our way, the fourth before the Kalends falls on the 28th of the preceding month (or 27th in a long month)."
+    },
+    {
+      "loc": "2",
+      "anchor": "The \\textit{Pro Ligario}",
+      "entity_id": null,
+      "note": "Cicero's speech defending Q. Ligarius before Caesar; here gaining wide circulation with Atticus's help and forwarded to Caesar by his agents Balbus and Oppius. No text entity exists for it yet."
+    },
+    {
+      "loc": "2",
+      "anchor": "Balbus and Oppius",
+      "entity_id": null,
+      "note": "L. Cornelius Balbus and C. Oppius, Caesar's two chief political managers at Rome, who handled his correspondence and patronage while he was away on campaign."
+    },
+    {
+      "loc": "3",
+      "anchor": "the whole Academic inquiry in four books",
+      "entity_id": "text:academica",
+      "note": "The recast Academica in four books, with Varro now arguing the dogmatic Antiochean case and Cicero replying for the skeptics; the first version had been in two books with different speakers."
+    },
+    {
+      "loc": "4",
+      "anchor": "the six books \\textit{On the Republic}",
+      "entity_id": null,
+      "note": "Cicero's own De Re Publica, a dialogue set among figures of the previous generation (notably Scipio Aemilianus), which let the author keep silent; he cites it as a model for using long-dead interlocutors."
+    },
+    {
+      "loc": "4",
+      "anchor": "our three books \\textit{On the Orator}",
+      "entity_id": null,
+      "note": "Cicero's De Oratore, whose speakers (Crassus, Antonius, and the rest) are set in his boyhood so that he himself takes no part."
+    },
+    {
+      "loc": "4",
+      "anchor": "five books \\textit{On Ends}",
+      "entity_id": null,
+      "note": "Cicero's De Finibus Bonorum et Malorum (\"On the Ends of Goods and Evils\"), in which the Epicurean, Stoic, and Peripatetic positions are voiced by Torquatus, Cato, and M. Piso respectively. No text entity exists for it yet."
+    },
+    {
+      "loc": "4",
+      "anchor": "follows the Aristotelian manner",
+      "entity_id": "person:aristotle",
+      "note": "The dialogue form in which the author himself leads the conversation rather than effacing himself, as Aristotle was thought to have done in his (now lost) dialogues."
+    }
+  ]
+}

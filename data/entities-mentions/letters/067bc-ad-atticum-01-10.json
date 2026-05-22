@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-10",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "in Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "in Ceramico", "entity_id": "place:ceramicus", "in": "lat"},
+    {"loc": "1", "surface": "Ceramicus", "entity_id": "place:ceramicus", "in": "eng"},
+    {"loc": "1", "surface": "Roma", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "at Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "a sorore tua", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "1", "surface": "your sister", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "5", "surface": "de fratre", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "5", "surface": "my brother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "5", "surface": "soror", "entity_id": "person:pomponia", "in": "lat"},
+    {"loc": "5", "surface": "his wife", "entity_id": "person:pomponia", "in": "eng"},
+    {"loc": "6", "surface": "Tulliola", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "6", "surface": "Tullia", "entity_id": "person:tullia", "in": "eng"}
+  ]
+}

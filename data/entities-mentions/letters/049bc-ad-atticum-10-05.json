@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-05",
+  "mentions": [
+    {"loc": "2", "surface": "Curionis sermo", "entity_id": "person:c-scribonius-curio-tr", "in": "lat"},
+    {"loc": "2", "surface": "de Quinto regendo", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "2", "surface": "epistulam ad Vestorium", "entity_id": "person:c-vestorius", "in": "lat"},
+    {"loc": "2", "surface": "Curio's conversation on the next day", "entity_id": "person:c-scribonius-curio-tr", "in": "eng"},
+    {"loc": "2", "surface": "what you charge me with about managing Quintus", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "The letter to Vestorius I delivered at once", "entity_id": "person:c-vestorius", "in": "eng"},
+    {"loc": "3", "surface": "Commodius tecum Vettienus est locutus", "entity_id": "person:vettienus", "in": "lat"},
+    {"loc": "3", "surface": "cum enim mihi Philotimus dixisset", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "3", "surface": "emere de Canuleio deversorium illud", "entity_id": "person:l-canuleius-publicanus", "in": "lat"},
+    {"loc": "3", "surface": "minoris etiam empturum si Vettienum rogassem", "entity_id": "person:vettienus", "in": "lat"},
+    {"loc": "3", "surface": "Vettienus spoke to you more handsomely", "entity_id": "person:vettienus", "in": "eng"},
+    {"loc": "3", "surface": "when Philotimus had told me", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "3", "surface": "he could buy that lodging from Canuleius", "entity_id": "person:l-canuleius-publicanus", "in": "eng"},
+    {"loc": "3", "surface": "could buy it even for less if I asked Vettienus", "entity_id": "person:vettienus", "in": "eng"}
+  ]
+}

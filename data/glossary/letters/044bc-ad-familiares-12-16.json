@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "TREBONIVS CICERONI S.",
+      "entity_id": "person:c-trebonius",
+      "note": "The opening of a letter from C. Trebonius (governor of Asia, one of Caesar's assassins) to Cicero. The S. is salutem (dicit), \"sends greetings\"."
+    },
+    {
+      "loc": "1",
+      "anchor": "If you are well, it is well.",
+      "entity_id": null,
+      "note": "Renders the formulaic Latin opener S. v. b. (si vales, bene), a conventional epistolary courtesy inquiring after the recipient's health."
+    },
+    {
+      "loc": "1",
+      "anchor": "your son devoted to the best studies",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "Cicero's son Marcus, then about eighteen, was studying philosophy and rhetoric at Athens, the standard finishing education for young Roman aristocrats."
+    },
+    {
+      "loc": "2",
+      "anchor": "Cratippus",
+      "entity_id": "person:cratippus-tyndaritanus",
+      "note": "The Peripatetic philosopher under whom the younger Marcus studied at Athens; Cicero held him in high esteem and dedicated the De Officiis to his son partly on the strength of this teaching."
+    },
+    {
+      "loc": "3",
+      "anchor": "more outspoken",
+      "entity_id": null,
+      "note": "Trebonius glosses his Latin with the Greek euthyrrhemonesteros (\"rather plain-spoken\"), apologising for the satirical bluntness of the verses he encloses."
+    },
+    {
+      "loc": "3",
+      "anchor": "Lucilius",
+      "entity_id": "person:lucilius",
+      "note": "Gaius Lucilius (2nd c. BC), founder of Roman verse satire, was proverbial for the freedom (libertas) with which he attacked named contemporaries; Trebonius invokes him as a precedent for his own invective."
+    },
+    {
+      "loc": "4",
+      "anchor": "the death of Caesar",
+      "entity_id": "person:caesar",
+      "note": "The Latin de interitu Caesaris refers to a projected literary treatment of the dictator's assassination on 15 March 44 BC; Trebonius, himself a conspirator, asks to be given his share of the credit in any such account."
+    }
+  ]
+}

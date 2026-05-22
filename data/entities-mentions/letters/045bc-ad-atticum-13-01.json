@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-01",
+  "mentions": [
+    {"loc": "1", "surface": "ad Cicerone", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "to Cicero", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "3", "surface": "de epistula ad Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "Nicias te", "entity_id": "person:nicias-cous", "in": "lat"},
+    {"loc": "3", "surface": "Peducaeum nostrum", "entity_id": "person:sex-peducaeus-the-younger", "in": "lat"},
+    {"loc": "3", "surface": "the letter to Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "Nicias loves you", "entity_id": "person:nicias-cous", "in": "eng"},
+    {"loc": "3", "surface": "our Peducaeus", "entity_id": "person:sex-peducaeus-the-younger", "in": "eng"}
+  ]
+}

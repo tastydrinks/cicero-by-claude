@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "one short, which you had given to Flaccus Volumnius; two fuller, of which the courier of T. Vibius brought one, and the other Lupus sent on to me",
+      "entity_id": null,
+      "note": "Romans had no public post; letters traveled by private couriers (tabellarii) or trusted travelers, so a single message often passed through several named hands. Cicero lists the bearers to confirm which dispatches he has received."
+    },
+    {
+      "loc": "2",
+      "anchor": "to abuse their liberty most particularly against the very man through whom they have obtained it",
+      "entity_id": null,
+      "note": "A near-proverbial reflection on popular ingratitude: the people turn their newly recovered freedom against the very leader who won it for them. Cicero applies it to those now criticizing Decimus for not pursuing Antony."
+    },
+    {
+      "loc": "2",
+      "anchor": "he will have finished the war who crushes Antonius",
+      "entity_id": "person:antony",
+      "note": "A pointed maxim warning that whoever finally destroys Antony will reap the war's whole credit and power. Cicero leaves Decimus to weigh the implication for himself rather than commit it openly to a letter that might be intercepted."
+    }
+  ]
+}

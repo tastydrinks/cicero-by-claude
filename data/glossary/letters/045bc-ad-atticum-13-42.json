@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-42",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "the third before the Nones of January",
+      "entity_id": null,
+      "note": "The Roman calendar counted backward inclusively from three fixed points each month: the Kalends (1st), the Nones (5th or 7th), and the Ides (13th or 15th). The Nones of January fell on the 5th, so \"the third before the Nones\" is 3 January, Cicero's birthday."
+    },
+    {
+      "loc": "3",
+      "anchor": "Lepidus is begging me to come",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "M. Aemilius Lepidus, Caesar's master of the horse and an augur, who in late 45 BC needed Cicero present for an augural rite. He would later become the third member of the triumvirate of 43 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "the ritual marking-out of a temple",
+      "entity_id": null,
+      "note": "The inauguratio: augurs formally defined and consecrated the templum (the sacred precinct) by ritual word and gesture before it could be built upon or used for the taking of auspices. Cicero, himself an augur, was wanted to perform the rite."
+    }
+  ]
+}

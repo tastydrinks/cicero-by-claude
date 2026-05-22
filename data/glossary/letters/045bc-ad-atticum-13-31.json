@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-31",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the fifth before the Kalends",
+      "entity_id": null,
+      "note": "The Roman calendar counted backward inclusively from three fixed points: the Kalends (1st), Nones (5th or 7th), and Ides (13th or 15th). \"The fifth before the Kalends\" is the 27th of the preceding month by our reckoning."
+    },
+    {
+      "loc": "2",
+      "anchor": "add the \\textit{Descent} \\textit{[Greek: katabaseōs]}",
+      "entity_id": "person:dicaearchus",
+      "note": "The Katabasis (\"Descent\"), a work of Dicaearchus that Cicero wants alongside his other books for source material. He is collecting Dicaearchus's writings as he plans his own antiquarian dialogue."
+    },
+    {
+      "loc": "3",
+      "anchor": "About the letter to Caesar",
+      "entity_id": "person:caesar",
+      "note": "Cicero had been pressed to send Caesar a letter of political advice; here he reports his decision (kekrika, \"I have decided\") to drop the project. The pretext is that Caesar will postpone his planned Parthian campaign until the state is settled, so the advice is moot."
+    },
+    {
+      "loc": "4",
+      "anchor": "He bought a thousand iugera from Marcus Pilius",
+      "entity_id": "person:m-pilius",
+      "note": "Cicero cites a recent local sale as a price benchmark: the neighbour Gaius Albanius paid 11,500,000 sesterces for a thousand iugera (about 625 acres) bought from M. Pilius. The iugerum was the standard Roman land unit, roughly two-thirds of an acre."
+    },
+    {
+      "loc": "4",
+      "anchor": "if you have Canus on your side",
+      "entity_id": "person:gellius-canus",
+      "note": "Gellius Canus, a friend of Atticus, whose influence Cicero hopes can be used to manage the rival bidder Otho. He is an ally in the gardens negotiation."
+    },
+    {
+      "loc": "4",
+      "anchor": "I am ashamed of his father",
+      "entity_id": "person:otho",
+      "note": "A barbed aside about Otho, the rival bidder, whose \"tasteless palate\" (gula) Cicero mocks. The remark about his father implies the family fell short of its forebears."
+    }
+  ]
+}

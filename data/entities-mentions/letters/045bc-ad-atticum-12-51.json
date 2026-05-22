@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-51",
+  "mentions": [
+    {"loc": "1", "surface": "Tironem habeo citius quam verebar", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "venit etiam Nicias", "entity_id": "person:nicias-cous", "in": "lat"},
+    {"loc": "1", "surface": "et Valerium hodie audiebam esse venturum", "entity_id": "person:l-valerius-jurisconsult", "in": "lat"},
+    {"loc": "1", "surface": "a Peducaeo utique", "entity_id": "person:sex-peducaeus-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "I have Tiro back sooner than I had feared", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Nicias has come too", "entity_id": "person:nicias-cous", "in": "eng"},
+    {"loc": "1", "surface": "I was hearing today that Valerius would arrive", "entity_id": "person:l-valerius-jurisconsult", "in": "eng"},
+    {"loc": "1", "surface": "at any rate after Peducaeus'", "entity_id": "person:sex-peducaeus-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "de Vergilio, ut scribis", "entity_id": "person:c-vergilius", "in": "lat"},
+    {"loc": "2", "surface": "epistulam ad Caesarem mitti video tibi placere", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "About Vergilius, as you write", "entity_id": "person:c-vergilius", "in": "eng"},
+    {"loc": "2", "surface": "The letter to Caesar I see meets with your approval for sending", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "de Caerellia quid tibi placeret Tiro mihi narravit", "entity_id": "person:caerellia", "in": "lat"},
+    {"loc": "3", "surface": "de Caerellia quid tibi placeret Tiro mihi narravit", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "3", "surface": "solutio est nominis Caerelliani", "entity_id": "person:caerellia", "in": "lat"},
+    {"loc": "3", "surface": "dum et de Metone et de Faberio sciamus", "entity_id": "person:faberius", "in": "lat"},
+    {"loc": "3", "surface": "About Caerellia, Tiro told me what you thought", "entity_id": "person:caerellia", "in": "eng"},
+    {"loc": "3", "surface": "About Caerellia, Tiro told me what you thought", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "3", "surface": "The settling of the Caerellian debt", "entity_id": "person:caerellia", "in": "eng"},
+    {"loc": "3", "surface": "until we know how things stand with Meto and with Faberius", "entity_id": "person:faberius", "in": "eng"}
+  ]
+}

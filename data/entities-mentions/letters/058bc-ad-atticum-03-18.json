@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-18",
+  "mentions": [
+    {"loc": "0", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "0", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Varronem", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "Pompeium", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Varro", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "1", "surface": "Pompey", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Caesar's", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Quintus frater", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "Quintus", "entity_id": "person:quintus-cicero", "in": "eng"}
+  ]
+}

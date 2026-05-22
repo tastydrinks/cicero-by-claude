@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "to have played the double game",
+      "entity_id": null,
+      "note": "Praevaricatio: collusion between a prosecutor and the defendant he is supposed to be attacking, so as to throw the case; here imputed to the prosecutor L. Lentulus in Gabinius's trial."
+    },
+    {
+      "loc": "1",
+      "anchor": "the squalor of the jurors",
+      "entity_id": null,
+      "note": "Iudicum sordes: a euphemism for bribed or corrupt jurors; the 'filth' of the panel that acquitted Gabinius by the narrow margin of 38 to 32."
+    },
+    {
+      "loc": "2",
+      "anchor": "the sap and blood of the state",
+      "entity_id": null,
+      "note": "Cicero laments that the res publica has lost not only its vital substance but its very 'colour and form' under the dominance of the dynasts; a recurring elegy for the free republic."
+    },
+    {
+      "loc": "2",
+      "anchor": "with us at her helm",
+      "entity_id": null,
+      "note": "Cicero recalls his consulship of 63 BC, when (as he saw it) he steered the state through the Catilinarian crisis; he contrasts that brief glory with his present marginalization."
+    },
+    {
+      "loc": "2",
+      "anchor": "that one man can do everything",
+      "entity_id": null,
+      "note": "A guarded reference to the overwhelming power of the dynasts (above all Pompey, backed by Caesar and Crassus); Cicero professes resignation rather than grief."
+    },
+    {
+      "loc": "3",
+      "anchor": "an interregnum",
+      "entity_id": null,
+      "note": "When no consuls had been elected, patrician senators held the auspices in succession as interreges (each for five days) until elections could be held; a sign of constitutional breakdown."
+    },
+    {
+      "loc": "3",
+      "anchor": "a dictatorship",
+      "entity_id": null,
+      "note": "Rumours that Pompey would be named dictator to resolve the electoral chaos; the office had been dormant since Sulla and aroused deep republican fears."
+    },
+    {
+      "loc": "3",
+      "anchor": "the charge of electoral corruption",
+      "entity_id": null,
+      "note": "Ambitus, the bribery of voters, prosecuted under successive statutes; in 54 BC every consular candidate stood accused of it."
+    },
+    {
+      "loc": "3",
+      "anchor": "outside the city bounds",
+      "entity_id": null,
+      "note": "A returning promagistrate retained his imperium and was technically immune from prosecution until he crossed the pomerium into the city; P. Sulla argued Gabinius was still outside it."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Lex Papia",
+      "entity_id": null,
+      "note": "The lex Papia of 65 BC, which expelled from Rome non-citizens who had usurped citizen status and penalized false claims of citizenship; the freedman Antiochus Gabinius was condemned under it."
+    },
+    {
+      "loc": "4",
+      "anchor": "the fourth day before the Nones of November",
+      "entity_id": null,
+      "note": "2 November by the inclusive Roman count; the Nones fell on the fifth of November."
+    },
+    {
+      "loc": "4",
+      "anchor": "no formal grant of \\textit{imperium}",
+      "entity_id": null,
+      "note": "A general needed a valid grant of imperium, ratified by a lex curiata, to qualify for a triumph; the praetors objected that Pomptinus's grant had been irregularly carried."
+    },
+    {
+      "loc": "4",
+      "anchor": "the man shall not have his triumph",
+      "entity_id": "person:c-pomptinus",
+      "note": "C. Pomptinus, praetor 63 and Cicero's ally against Catiline, had crushed the Allobroges as proconsul of Narbonese Gaul; he finally triumphed in 54 over Cato's bitter objection."
+    },
+    {
+      "loc": "4",
+      "anchor": "go off to Cilicia at his own charge, without a law",
+      "entity_id": "person:appius-claudius-pulcher",
+      "note": "Ap. Claudius Pulcher, consul 54, intended to leave for his province of Cilicia without waiting for the usual enabling law (lex curiata); Cicero would succeed him there in 51."
+    },
+    {
+      "loc": "5",
+      "anchor": "the ninth day before the Kalends of November",
+      "entity_id": null,
+      "note": "24 October by the inclusive Roman count; the Kalends fell on the first of November."
+    },
+    {
+      "loc": "5",
+      "anchor": "I miss Dionysius so badly",
+      "entity_id": "person:m-pomponius-dionysius",
+      "note": "M. Pomponius Dionysius, a learned freedman of Atticus who served as tutor to Cicero's son Marcus and nephew Quintus; Cicero longs for his return along with Atticus's."
+    },
+    {
+      "loc": "5",
+      "anchor": "the fifth day before the Ides of Sextilis",
+      "entity_id": null,
+      "note": "9 August by the inclusive Roman count. Sextilis was the old name for the month later renamed August in honour of Augustus."
+    }
+  ]
+}

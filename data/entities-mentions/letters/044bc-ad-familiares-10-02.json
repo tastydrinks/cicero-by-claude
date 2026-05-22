@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-02",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PLANCO", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCO", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "senatores", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "the senators", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

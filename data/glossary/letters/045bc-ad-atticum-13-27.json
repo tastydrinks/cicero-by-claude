@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-27",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Parthian war",
+      "entity_id": null,
+      "note": "Caesar's planned campaign against Parthia, in preparation when he was killed in March 44 BC. Cicero's draft letter of advice flattered the project, which is why he now thinks the whole thing better suppressed."
+    },
+    {
+      "loc": "1",
+      "anchor": "to balance my Cato",
+      "entity_id": "person:cato-minor",
+      "note": "Cicero's pamphlet praising the dead Cato the Younger, the Caesarians' bitterest opponent, had given great offence to Caesar's side. Cicero fears the letter of advice would look like a sweetener (Greek meiligma) offered to make up for the Cato."
+    },
+    {
+      "loc": "1",
+      "anchor": "your relative among them",
+      "entity_id": null,
+      "note": "One of Caesar's confidants who reviewed the draft, described as a kinsman (cognatus) of Atticus; the man is not named here and cannot be securely identified. FLAG: no clean roster or registry match; left untagged."
+    },
+    {
+      "loc": "2",
+      "anchor": "back to the gardens",
+      "entity_id": null,
+      "note": "The horti, the suburban pleasure-gardens Cicero was hunting for the site of Tullia's shrine; the recurring subject of the 45 BC letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Faberius business",
+      "entity_id": "person:faberius",
+      "note": "Faberius, Caesar's secretary, owed Cicero a large sum (the nomen Faberianum); recovering it was to finance the purchase of the gardens. Cicero presses Atticus to concentrate on collecting the debt."
+    },
+    {
+      "loc": "2",
+      "anchor": "from the Cumanum",
+      "entity_id": "place:cumae",
+      "note": "Cicero's villa in the territory of Cumae on the Bay of Naples; a messenger from there brought word that Atticus's daughter Attica was in good health."
+    }
+  ]
+}

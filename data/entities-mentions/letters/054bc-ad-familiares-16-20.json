@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-20",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TIRONI", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "TULLIUS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TIRO", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "mi Tiro", "entity_id": "person:tiro", "in": "lat"},
+    {"loc": "1", "surface": "my dear Tiro", "entity_id": "person:tiro", "in": "eng"},
+    {"loc": "1", "surface": "Metrodoro", "entity_id": "person:metrodorus-librarian", "in": "lat"},
+    {"loc": "1", "surface": "Metrodorus", "entity_id": "person:metrodorus-librarian", "in": "eng"}
+  ]
+}

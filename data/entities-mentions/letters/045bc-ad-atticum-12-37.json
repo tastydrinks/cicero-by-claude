@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-37",
+  "mentions": [
+    {"loc": "1", "surface": "ab Aegypta liberto eodem die", "entity_id": "person:aegypta-servus", "in": "lat"},
+    {"loc": "1", "surface": "Piliam et Atticam plane belle se habere", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "1", "surface": "Piliam et Atticam plane belle se habere", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "quod mihi Bruti litteras, gratum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "from the freedman Aegypta", "entity_id": "person:aegypta-servus", "in": "eng"},
+    {"loc": "1", "surface": "Pilia and Attica are in plainly good health", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "1", "surface": "Pilia and Attica are in plainly good health", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "1", "surface": "That you sent Brutus' letter", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "valde probo rationem tuam de Tusculano", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "2", "surface": "maxima est in Scapulae celebritas", "entity_id": "person:p-scapula", "in": "lat"},
+    {"loc": "2", "surface": "Othonem, si Romae est, convenias pervelim", "entity_id": "person:otho", "in": "lat"},
+    {"loc": "2", "surface": "Othonem, si Romae est, convenias pervelim", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Drusus enim certe vendere vult", "entity_id": "person:m-livius-drusus-claudianus", "in": "lat"},
+    {"loc": "2", "surface": "si quid de Scapulanis possumus", "entity_id": "person:p-scapula", "in": "lat"},
+    {"loc": "2", "surface": "I thoroughly approve your reasoning about the Tusculanum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "2", "surface": "The greatest throng is at Scapula's", "entity_id": "person:p-scapula", "in": "eng"},
+    {"loc": "2", "surface": "I should very much like you to meet Otho, if he is in Rome", "entity_id": "person:otho", "in": "eng"},
+    {"loc": "2", "surface": "if he is in Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "For Drusus certainly wants to sell", "entity_id": "person:m-livius-drusus-claudianus", "in": "eng"},
+    {"loc": "2", "surface": "if we can do anything about the Scapula heirs", "entity_id": "person:p-scapula", "in": "eng"},
+    {"loc": "3", "surface": "apud Terentiam tam gratia opus est nobis tua", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "3", "surface": "With Terentia I have as much need of your influence", "entity_id": "person:terentia", "in": "eng"}
+  ]
+}

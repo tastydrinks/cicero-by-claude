@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-10",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "BRVTO", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "BRVTO", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "M. Varro", "entity_id": "person:m-terentius-quaestor-bruti", "in": "lat"},
+    {"loc": "1", "surface": "M. Terentius", "entity_id": "person:m-terentius-quaestor-bruti", "in": "eng"},
+    {"loc": "1", "surface": "quaesturae coniunctionem", "entity_id": "office:quaestor", "in": "lat"},
+    {"loc": "1", "surface": "bond of the quaestorship", "entity_id": "office:quaestor", "in": "eng"},
+    {"loc": "2", "surface": "M. Terentius in forum venit", "entity_id": "person:m-terentius-quaestor-bruti", "in": "lat"},
+    {"loc": "2", "surface": "M. Terentius came of age and took his place in the Forum", "entity_id": "person:m-terentius-quaestor-bruti", "in": "eng"},
+    {"loc": "2", "surface": "in societates publicorum", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "2", "surface": "partnerships of the public revenues", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "3", "surface": "a me Brundisio", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "3", "surface": "from Brundisium at my instance", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "3", "surface": "ad Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "for Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "4", "surface": "Varro", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "4", "surface": "Varro", "entity_id": "person:m-terentius-varro", "in": "eng"}
+  ]
+}

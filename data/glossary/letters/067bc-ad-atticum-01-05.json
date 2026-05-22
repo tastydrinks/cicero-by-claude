@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "by the death of our cousin Lucius",
+      "entity_id": "person:l-tullius-cicero-cousin",
+      "note": "L. Tullius Cicero, the orator's first cousin and close companion, who had accompanied him to Greece and on his Sicilian quaestorship; his recent death is the occasion of this letter's opening lament."
+    },
+    {
+      "loc": "4",
+      "anchor": "The Acutilian business",
+      "entity_id": "person:acutilius",
+      "note": "A legal or financial matter at Rome involving one Acutilius that Atticus had entrusted to Cicero before leaving for Greece; Cicero, finding no dispute necessary, passed the advisory role to the jurist Peducaeus."
+    },
+    {
+      "loc": "6",
+      "anchor": "acquired by usucaption",
+      "entity_id": null,
+      "note": "Usucapio: acquisition of full ownership by uninterrupted possession for a fixed term (one year for movables, two for land) under Roman law. Cicero's point in the next sentence is that property held in statutory guardianship was exempt from usucaption."
+    },
+    {
+      "loc": "6",
+      "anchor": "in the case of statutory guardianship",
+      "entity_id": null,
+      "note": "Tutela legitima: guardianship over a woman or minor assigned by law (typically to the nearest male agnate) rather than by a will. Cicero corrects Atticus: a ward's property under such guardianship could not be lost by usucaption."
+    },
+    {
+      "loc": "7",
+      "anchor": "Of the Epirote purchase",
+      "entity_id": "place:epirus",
+      "note": "Atticus had bought an estate in Epirus (north-west Greece), near Buthrotum, where he would build his celebrated retreat; Cicero approves the acquisition."
+    }
+  ]
+}

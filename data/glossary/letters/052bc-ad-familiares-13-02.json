@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO MEMMIO S.",
+      "entity_id": "person:c-memmius",
+      "note": "The abbreviated salutation: \"Cicero to Memmius, greetings\" (salutem dicit). C. Memmius is the same exiled politician-poet addressed in 13.1; he was now living in Athens where he had acquired property."
+    },
+    {
+      "loc": "1",
+      "anchor": "C. Avianius Evander, who lives in your shrine-house",
+      "entity_id": "person:c-avianius-evander",
+      "note": "C. Avianius Evander was a Greek sculptor and art-restorer living at Rome and Athens; he worked on famous statues and is known to have restored Praxiteles' work. Here he is lodging in Memmius's Athens property, which apparently had a small shrine (sacrarium) on the premises."
+    },
+    {
+      "loc": "1",
+      "anchor": "his patron M. Aemilius",
+      "entity_id": "person:m-aemilius-avianius",
+      "note": "Under Roman social custom, a freed slave or dependent craftsman owed loyalty to his patron, who in turn was expected to advocate for him. This M. Aemilius was Evander's patron and a personal friend of Cicero's, making Cicero doubly motivated to intervene."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Kalends of July",
+      "entity_id": null,
+      "note": "The Kalends (first day) of July was a common Roman lease-renewal date; Evander faced eviction on this date because Memmius's property was apparently tied up in ongoing construction projects that forced a change of tenancy."
+    }
+  ]
+}

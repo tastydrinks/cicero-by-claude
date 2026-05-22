@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "set the year-calendar in motion",
+      "entity_id": null,
+      "note": "A parapegma was a Greek peg-board almanac in which a movable peg was advanced day by day. Cicero asks Atticus to start the count from the Kalends of August (his entry into the province), since he means to serve only the single statutory year of his governorship."
+    },
+    {
+      "loc": "1",
+      "anchor": "the contracts of the publicans had been settled",
+      "entity_id": null,
+      "note": "The publicani (companies of tax-farmers) bid at Rome for the right to collect the revenues of a province and then negotiated terms (pactiones) with the provincial communities. A governor's relations with these powerful contractors were a chief test of his administration, as Cicero's later complaints make clear."
+    },
+    {
+      "loc": "1",
+      "anchor": "a mutiny of the soldiers had been put down by Appius",
+      "entity_id": "person:appius-claudius-pulcher",
+      "note": "Ap. Claudius Pulcher, Cicero's predecessor as governor of Cilicia, had quelled a pay-mutiny among the legions before handing over the province. Their stipendium had been paid in full down to the Ides of July, just before Cicero took command."
+    },
+    {
+      "loc": "2",
+      "anchor": "All my people have now arrived except your Tullius",
+      "entity_id": "person:l-tullius-legatus",
+      "note": "L. Tullius was one of the legates on Cicero's staff in Cilicia, later prominent in the Amanus campaign. \"Your Tullius\" marks him as a connection of Atticus's, the last of the cohort still to reach the province."
+    }
+  ]
+}

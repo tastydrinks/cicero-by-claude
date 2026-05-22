@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I omitted nothing in your honour that could be set down either as a reward of valour or as a tribute in words",
+      "entity_id": "person:munatius-plancus",
+      "note": "Cicero is reporting the outcome of the senatorial debate narrated in Fam. 10.12: his motion to award Plancus a public thanksgiving (supplicatio) and other honors passed after he defeated the opposition of Servilius and the veto of P. Titius."
+    },
+    {
+      "loc": "1",
+      "anchor": "the senatorial decree itself",
+      "entity_id": "institution:senate",
+      "note": "The senatus consultum formally recorded the decree; Cicero says it was written out verbatim from his prepared motion (de scripto dicta sententia), an unusually formal procedure signaling the gravity of the honors."
+    },
+    {
+      "loc": "2",
+      "anchor": "You will join the last stage of the work to the first",
+      "entity_id": null,
+      "note": "A military metaphor: having already demonstrated his republican loyalty by crossing the Rhone, Plancus must complete the task by crushing Antony — the last act closing the circle of service."
+    },
+    {
+      "loc": "2",
+      "anchor": "it was not Ajax, not Achilles, but Ulysses whom Homer called",
+      "entity_id": "person:homer",
+      "note": "Cicero quotes the Homeric epithet ptoliporthion (\"sacker of cities\"), applied to Odysseus/Ulysses; Ajax and Achilles were supreme fighters but Odysseus — the strategist who devised the Trojan Horse — actually ended the war. The implication is that Plancus, like Ulysses, must be the man who finishes the job."
+    }
+  ]
+}

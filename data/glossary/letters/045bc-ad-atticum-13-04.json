@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the ten legates",
+      "entity_id": null,
+      "note": "The board of ten commissioners (decem legati) sent by the Senate to organize Greece after the sack of Corinth in 146 BC; Cicero is having Atticus research its membership for an antiquarian point in his current writing."
+    },
+    {
+      "loc": "1",
+      "anchor": "and I think the same about Tuditanus",
+      "entity_id": "person:c-sempronius-tuditanus-cos129",
+      "note": "C. Sempronius Tuditanus, consul 129 BC; Cicero dates his career relative to L. Mummius's consulship (146 BC), noting the son was quaestor a year after Mummius held office."
+    },
+    {
+      "loc": "1",
+      "anchor": "Mummius was consul",
+      "entity_id": "person:l-mummius-achaicus",
+      "note": "L. Mummius (Achaicus), consul 146 BC and the destroyer of Corinth; not to be confused with his brother Sp. Mummius, the legate (see 13.5)."
+    },
+    {
+      "loc": "1",
+      "anchor": "you will settle it with Piso",
+      "entity_id": null,
+      "note": "A Piso acting as intermediary in settling one of Cicero's debts; he cannot be securely matched to any registered Piso and is left untagged. Not the Piso who speaks in the De Finibus."
+    },
+    {
+      "loc": "1",
+      "anchor": "the debts",
+      "entity_id": null,
+      "note": "The nomina (debt-claims) Cicero is taking over to fund the gardens purchase; he repeats here that he is content with them and presses Atticus to close the arrangement."
+    }
+  ]
+}

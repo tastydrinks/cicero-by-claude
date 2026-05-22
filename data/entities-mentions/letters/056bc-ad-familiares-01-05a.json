@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-05a",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "P. LENTVLO PROCOS.", "entity_id": "person:lentulus-spinther", "in": "lat"},
+    {"loc": "1", "surface": "P. Lentulus", "entity_id": "person:lentulus-spinther", "in": "eng"},
+    {"loc": "2", "surface": "Catonis", "entity_id": "person:c-porcius-cato-tr56", "in": "lat"},
+    {"loc": "2", "surface": "Cato", "entity_id": "person:c-porcius-cato-tr56", "in": "eng"},
+    {"loc": "2", "surface": "Catoni", "entity_id": "person:c-porcius-cato-tr56", "in": "lat"},
+    {"loc": "2", "surface": "Cato", "entity_id": "person:c-porcius-cato-tr56", "in": "eng"},
+    {"loc": "3", "surface": "Alexandrina re", "entity_id": "place:alexandria", "in": "lat"},
+    {"loc": "3", "surface": "Alexandrian business", "entity_id": "place:alexandria", "in": "eng"},
+    {"loc": "3", "surface": "Selicio", "entity_id": "person:q-selicius", "in": "lat"},
+    {"loc": "3", "surface": "Selicius", "entity_id": "person:q-selicius", "in": "eng"},
+    {"loc": "4", "surface": "Q. Selicio", "entity_id": "person:q-selicius", "in": "lat"},
+    {"loc": "4", "surface": "Q. Selicius", "entity_id": "person:q-selicius", "in": "eng"}
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "that Calvena takes it badly that Brutus suspects him",
+      "entity_id": "person:gaius-matius",
+      "note": "\"Calvena\" (\"Baldy\") is Cicero's mocking nickname for Gaius Matius, Caesar's loyal friend; Matius was offended that Brutus distrusted him for his continuing devotion to the dead dictator's memory."
+    },
+    {
+      "loc": "1",
+      "anchor": "if it is with the standards that the legions are coming from Gaul",
+      "entity_id": "place:gallia",
+      "note": "Cicero plays on signa, both \"signs/omens\" and military \"standards\": pretty omens, but no good omen if the Gallic legions march on Italy under their standards (i.e. ready for war)."
+    },
+    {
+      "loc": "1",
+      "anchor": "And what of those Annius shipped over",
+      "entity_id": null,
+      "note": "An \"Annius\" (probably T. Annius Cimber, an Antonian partisan) who had ferried legions across to Italy; no contemporary Annius could be matched to a registry entity, so left unbound and flagged."
+    },
+    {
+      "loc": "1",
+      "anchor": "I meant Gaius Asinius --- but a [Greek: mnemonikon hamartema], a slip of memory",
+      "entity_id": "person:asinius-pollio",
+      "note": "Gaius Asinius Pollio, the Caesarian commander then in Further Spain (and later the historian and patron); Cicero, correcting himself in Greek (mnemonikon hamartema, \"a memory-slip\"), had first named the wrong man."
+    },
+    {
+      "loc": "1",
+      "anchor": "that conspiracy of Caesar's freedmen",
+      "entity_id": "person:caesar",
+      "note": "Caesar's wealthy and powerful freedmen (imperial-style household agents) were rumoured to be intriguing; Cicero thinks Antony could easily crush them if he chose."
+    },
+    {
+      "loc": "2",
+      "anchor": "you see, all the same, the tyrant's hangers-on holding commands",
+      "entity_id": "person:caesar",
+      "note": "The \"tyrant\" is the assassinated Caesar; Cicero laments that Caesar's partisans still hold the provincial commands, armies, and the loyalty of the veterans, leaving the Liberators honoured but powerless."
+    },
+    {
+      "loc": "2",
+      "anchor": "all things [Greek: euripista], easily blown about",
+      "entity_id": null,
+      "note": "Greek euripista, \"shifting like the Euripus\" (the notoriously fickle tidal strait between Euboea and the mainland); Cicero's figure for how unreliable and changeable the veterans' loyalty is."
+    },
+    {
+      "loc": "3",
+      "anchor": "But I should like to know about Octavius's arrival",
+      "entity_id": "person:octavian",
+      "note": "The eighteen-year-old Gaius Octavius, Caesar's grand-nephew and adopted heir (the future Augustus), had just landed in Italy; Cicero watches anxiously whether crowds and troops will rally to him --- the first sign of his political emergence."
+    },
+    {
+      "loc": "3",
+      "anchor": "on the third day before the Ides",
+      "entity_id": null,
+      "note": "A Roman date: counted inclusively backward from the Ides (the 13th of April here), giving the 11th of April 44 BC; Romans dated by counting toward the Kalends, Nones, and Ides rather than forward from the month's start."
+    }
+  ]
+}

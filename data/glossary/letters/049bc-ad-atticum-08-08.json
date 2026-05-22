@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "He had fed Caesar up",
+      "entity_id": "person:pompey",
+      "note": "The unnamed \"he\" through this whole indictment is Pompey, whose conduct Cicero rehearses in a string of bitter pluperfects. The charge is that Pompey first built Caesar up politically, then lost his nerve and abandoned Italy without a plan."
+    },
+    {
+      "loc": "1",
+      "anchor": "he had lost Picenum by his own fault",
+      "entity_id": "place:picenum",
+      "note": "Picenum, the Adriatic-coast region of central Italy and Pompey's own ancestral power-base, fell to Caesar's advance in late February 49 BC; its loss was felt as a particular humiliation for Pompey."
+    },
+    {
+      "loc": "2",
+      "anchor": "letters from Domitius to him, his own to the consuls",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "note": "L. Domitius Ahenobarbus, holding Corfinium against Caesar, wrote begging Pompey to march to his relief while writing also to the consuls; Pompey refused and left him to his fate."
+    },
+    {
+      "loc": "2",
+      "anchor": "pushes on for Brundisium",
+      "entity_id": "place:brundisium",
+      "note": "Brundisium (modern Brindisi), the great port on Italy's south-eastern heel, was Pompey's embarkation point for the crossing to Greece; his march there abandoned the inland Pompeian forces."
+    },
+    {
+      "loc": "2",
+      "anchor": "Domitius, they say, on hearing the news, has given himself up",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "note": "When Pompey would not relieve him, Domitius's own troops at Corfinium forced his surrender to Caesar in late February 49 BC; Caesar spared him and his officers, the famous early act of clementia."
+    }
+  ]
+}

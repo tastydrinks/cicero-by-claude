@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-53",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "THERMO PROPR.", "entity_id": "person:q-minucius-thermus-pr", "in": "lat"},
+    {"loc": "1", "surface": "THERMO PROPR.", "entity_id": "person:q-minucius-thermus-pr", "in": "eng"},
+    {"loc": "1", "surface": "L. Genucilio Curvo", "entity_id": "person:l-genucilius-curvus", "in": "lat"},
+    {"loc": "1", "surface": "L. Genucilius Curvus", "entity_id": "person:l-genucilius-curvus", "in": "eng"},
+    {"loc": "2", "surface": "Hellesponto", "entity_id": "place:hellespontus", "in": "lat"},
+    {"loc": "2", "surface": "Hellespont", "entity_id": "place:hellespontus", "in": "eng"},
+    {"loc": "2", "surface": "Pariana civitas", "entity_id": "place:parium", "in": "lat"},
+    {"loc": "2", "surface": "community of Parium", "entity_id": "place:parium", "in": "eng"},
+    {"loc": "2", "surface": "Hellespontio", "entity_id": "place:hellespontus", "in": "lat"},
+    {"loc": "2", "surface": "the Hellespont", "entity_id": "place:hellespontus", "in": "eng"},
+    {"loc": "2", "surface": "Genucilium", "entity_id": "person:l-genucilius-curvus", "in": "lat"},
+    {"loc": "2", "surface": "Genucilius", "entity_id": "person:l-genucilius-curvus", "in": "eng"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Lucius Cincius",
+      "entity_id": "person:cincius-agent",
+      "note": "L. Cincius, a business agent of Atticus and a recurring man of affairs in the correspondence; Cicero settles payments through him for purchases Atticus is making in Greece."
+    },
+    {
+      "loc": "1",
+      "anchor": "to pay HS 20,400 on the Ides of February",
+      "entity_id": null,
+      "note": "HS = sestertii; the sum (20,400 sesterces) is presumably for statuary or books Atticus had bought. The Ides of February fell on the 13th (the Ides are the 13th of most months, the 15th only in March, May, July, October)."
+    },
+    {
+      "loc": "1",
+      "anchor": "how you can put together a library for us",
+      "entity_id": null,
+      "note": "Atticus, who ran a copying establishment of trained slave scribes, supplied Cicero with books and helped assemble his villa libraries; this is the first of many such requests in the correspondence."
+    }
+  ]
+}

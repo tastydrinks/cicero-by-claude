@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "That entire Academic composition",
+      "entity_id": "text:academica",
+      "note": "The Academica, Cicero's dialogue on the theory of knowledge and the skeptical Academy. He is recasting it: reassigning the speaking parts from one set of figures to another, and finally dedicating it to Varro."
+    },
+    {
+      "loc": "1",
+      "anchor": "I have transferred to Varro",
+      "entity_id": "person:m-terentius-varro",
+      "note": "Marcus Terentius Varro (116-27 BC), the most learned Roman of the age and a prolific scholar; Cicero now makes him the chief interlocutor and dedicatee of the recast Academica, the dominant anxiety running through these letters."
+    },
+    {
+      "loc": "1",
+      "anchor": "Catulus, Lucullus, and Hortensius",
+      "entity_id": null,
+      "note": "The three distinguished interlocutors of the first version of the Academica. Cicero felt the highly technical philosophy did not suit men known as men of affairs rather than scholars, so he reassigned the roles."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Antiochean line of argument",
+      "entity_id": "person:antiochus-ascalon",
+      "note": "Antiochus of Ascalon (c. 125-68 BC), head of the Academy whose syncretic, dogmatic system is the philosophical subject of the Academica; not the Syrian city or any Seleucid king."
+    },
+    {
+      "loc": "2",
+      "anchor": "do what you can with Piso",
+      "entity_id": null,
+      "note": "A Piso who recurs in book 13 as an intermediary in Cicero's financial dealings; his precise identity is uncertain and he is not the Calpurnius Piso of the De Finibus. Flagged for the registry."
+    }
+  ]
+}

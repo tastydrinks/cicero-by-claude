@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-08",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the recall of exiles, the cancelling of debts",
+      "entity_id": null,
+      "note": "Cicero lists the classic programme of a popularis revolution: recalling political exiles and cancelling debts (tabulae novae), measures long associated with demagogues and feared as the prelude to social upheaval. He casts a Caesarian victory as bringing exactly this and a kingship worse than any in Persia."
+    },
+    {
+      "loc": "4",
+      "anchor": "his whole plan is Themistoclean",
+      "entity_id": "person:themistocles",
+      "note": "Themistocles, architect of the Athenian fleet at Salamis, held that whoever commands the sea commands the war; Cicero reads Pompey's whole strategy this way, expecting him to abandon Spain and Italy, build a great fleet, and return by sea. The naval doctrine \"he who holds the sea holds the situation\" is the heart of the analysis."
+    },
+    {
+      "loc": "6",
+      "anchor": "not those of our College of augurs from Attus Navius",
+      "entity_id": "person:attus-navius",
+      "note": "Attus Navius was the legendary augur of Rome's regal period whose feats founded the augural tradition that Cicero, himself an augur, belonged to. Cicero pointedly grounds his optimism not in this Roman divinatory \"College\" but in Plato's philosophical analysis of how tyrannies collapse."
+    },
+    {
+      "loc": "7",
+      "anchor": "I prefer, after the manner of Sardanapallus, to die in my own little bed",
+      "entity_id": "person:sardanapallus",
+      "note": "Sardanapallus was the proverbially luxurious and effeminate last king of Assyria, a byword for dying soft amid pleasures rather than nobly. Cicero contrasts such an ignoble bed-death with the honourable hardship of a Themistoclean exile."
+    },
+    {
+      "loc": "7",
+      "anchor": "That night would not have been so bitter to Africanus, wisest of men",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "The \"Africanus\" here is Scipio Aemilianus, conqueror of Carthage, who was found dead in his bed in 129 BC under circumstances widely suspected to be murder. Cicero's point in the exempla string is that even the wisest and shrewdest men (Africanus, Marius, Themistocles) were undone because something deceived them."
+    },
+    {
+      "loc": "7",
+      "anchor": "those whom the Senate, lest the commonwealth take any harm, armed against me",
+      "entity_id": "institution:senate",
+      "note": "This echoes the senatus consultum ultimum, the emergency decree \"that the consuls see to it that the commonwealth take no harm,\" by which the Senate armed the magistrates against a public enemy. Cicero turns the formula bitterly against himself: were he to join Pompey, he would be the one declared the enemy."
+    },
+    {
+      "loc": "10",
+      "anchor": "coming to Misenum on the sixth day before the Nones, that is to-day",
+      "entity_id": null,
+      "note": "Romans counted days inclusively backward from three fixed points each month --- the Kalends (1st), Nones, and Ides; \"the sixth day before the Nones\" of May falls on 2 May, the date of this letter. Cicero's dating idiom required the reader to count back from the marker day."
+    }
+  ]
+}

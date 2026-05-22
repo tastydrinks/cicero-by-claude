@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-47",
+  "mentions": [
+    {"loc": "1", "surface": "postea quam abs te, Agamemno", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "nisi Torquatus esset", "entity_id": "person:l-manlius-torquatus", "in": "lat"},
+    {"loc": "1", "surface": "tu velim e Pollice cognoscas", "entity_id": "person:pollex-servus", "in": "lat"},
+    {"loc": "1", "surface": "idem Pollex remittendus est", "entity_id": "person:pollex-servus", "in": "lat"},
+    {"loc": "1", "surface": "plane Puteolos non fuit eundum", "entity_id": "place:puteoli", "in": "lat"},
+    {"loc": "1", "surface": "quod Caesar adest", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Dolabella scribit se ad me", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "touched my ears, Agamemnon", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "were it not for Torquatus", "entity_id": "person:l-manlius-torquatus", "in": "eng"},
+    {"loc": "1", "surface": "the state of my accounts from Pollex", "entity_id": "person:pollex-servus", "in": "eng"},
+    {"loc": "1", "surface": "Pollex himself must be sent back", "entity_id": "person:pollex-servus", "in": "eng"},
+    {"loc": "1", "surface": "no going down to Puteoli", "entity_id": "place:puteoli", "in": "eng"},
+    {"loc": "1", "surface": "because Caesar is at hand", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Dolabella writes that he will be with me", "entity_id": "person:dolabella", "in": "eng"}
+  ]
+}

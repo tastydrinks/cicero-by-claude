@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-38",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "1", "surface": "L. Bruttius", "entity_id": "person:l-bruttius", "in": "lat"},
+    {"loc": "1", "surface": "Lucius Bruttius", "entity_id": "person:l-bruttius", "in": "eng"},
+    {"loc": "1", "surface": "eques R.", "entity_id": "person:l-bruttius", "in": "lat"},
+    {"loc": "1", "surface": "a Roman knight", "entity_id": "person:l-bruttius", "in": "eng"},
+    {"loc": "1", "surface": "quaestura mea Siciliensi", "entity_id": "place:sicilia", "in": "lat"},
+    {"loc": "1", "surface": "my quaestorship in Sicily", "entity_id": "place:sicilia", "in": "eng"},
+    {"loc": "1", "surface": "Bruttius", "entity_id": "person:l-bruttius", "in": "lat"},
+    {"loc": "1", "surface": "Bruttius", "entity_id": "person:l-bruttius", "in": "eng"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

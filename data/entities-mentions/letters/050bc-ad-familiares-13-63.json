@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-63",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "P. SILIO PROPR.", "entity_id": "person:p-silius-pr", "in": "lat"},
+    {"loc": "1", "surface": "P. SILIO PROPR.", "entity_id": "person:p-silius-pr", "in": "eng"},
+    {"loc": "1", "surface": "M. Laenio", "entity_id": "person:m-laenius", "in": "lat"},
+    {"loc": "1", "surface": "M. Laenius", "entity_id": "person:m-laenius", "in": "eng"},
+    {"loc": "1", "surface": "frater meus", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "my brother", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "M. Laenium", "entity_id": "person:m-laenius", "in": "lat"},
+    {"loc": "1", "surface": "M. Laenius", "entity_id": "person:m-laenius", "in": "eng"},
+    {"loc": "2", "surface": "hominem", "entity_id": "person:m-laenius", "in": "lat"},
+    {"loc": "2", "surface": "the man", "entity_id": "person:m-laenius", "in": "eng"},
+    {"loc": "2", "surface": "fratrique meo", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "my brother", "entity_id": "person:quintus-cicero", "in": "eng"}
+  ]
+}

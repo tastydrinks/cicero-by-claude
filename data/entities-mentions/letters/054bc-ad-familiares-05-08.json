@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-08",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "M. LICINIO P. F. CRASSO", "entity_id": "person:crassus", "in": "lat"},
+    {"loc": "1", "surface": "M. Licinio P. F. Crasso", "entity_id": "person:crassus", "in": "eng"},
+    {"loc": "1", "surface": "consulibus", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "consuls", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "consularibus", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "consulars", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "mehercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "2", "surface": "by Hercules", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "2", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "populusque R.", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "2", "surface": "people of Rome", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "3", "surface": "forum", "entity_id": "place:forum-romanum", "in": "lat"},
+    {"loc": "3", "surface": "Forum", "entity_id": "place:forum-romanum", "in": "eng"},
+    {"loc": "4", "surface": "Crassis tuis", "entity_id": "person:p-crassus-iunior", "in": "lat"},
+    {"loc": "4", "surface": "your two Crassi", "entity_id": "person:p-crassus-iunior", "in": "eng"},
+    {"loc": "4", "surface": "Crassis tuis", "entity_id": "person:m-licinius-crassus-son", "in": "lat"},
+    {"loc": "4", "surface": "your two Crassi", "entity_id": "person:m-licinius-crassus-son", "in": "eng"},
+    {"loc": "4", "surface": "Marcum", "entity_id": "person:m-licinius-crassus-son", "in": "lat"},
+    {"loc": "4", "surface": "Marcus", "entity_id": "person:m-licinius-crassus-son", "in": "eng"},
+    {"loc": "4", "surface": "Publio", "entity_id": "person:p-crassus-iunior", "in": "lat"},
+    {"loc": "4", "surface": "Publius", "entity_id": "person:p-crassus-iunior", "in": "eng"}
+  ]
+}

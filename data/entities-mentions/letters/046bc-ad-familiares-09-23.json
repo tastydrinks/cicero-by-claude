@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-23",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO PAETO.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO PAETO.", "entity_id": "person:l-papirius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "CICERO PAETO.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CICERO PAETO.", "entity_id": "person:l-papirius-paetus", "in": "eng"},
+    {"loc": "1", "surface": "Cumanum", "entity_id": "place:cumae", "in": "lat"},
+    {"loc": "1", "surface": "my house at Cumae", "entity_id": "place:cumae", "in": "eng"},
+    {"loc": "1", "surface": "M. Caeparius", "entity_id": "person:m-caeparius", "in": "lat"},
+    {"loc": "1", "surface": "M. Caeparius", "entity_id": "person:m-caeparius", "in": "eng"},
+    {"loc": "1", "surface": "in silva gallinaria", "entity_id": "place:silva-gallinaria", "in": "lat"},
+    {"loc": "1", "surface": "in the Gallinarian Wood", "entity_id": "place:silva-gallinaria", "in": "eng"}
+  ]
+}

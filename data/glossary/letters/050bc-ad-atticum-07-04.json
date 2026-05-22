@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "not to seem to praise a freedman",
+      "entity_id": "person:m-pomponius-dionysius",
+      "note": "Dionysius was a libertinus (freedman), so unreserved praise of him would carry a faint social impropriety; Cicero's hedge marks the status gap even as he commends the tutor's character."
+    },
+    {
+      "loc": "2",
+      "anchor": "lest by delivering my opinion I alienate some tribune",
+      "entity_id": "office:tribune",
+      "note": "A tribune of the plebs could veto the senatorial decree (supplicatio or triumph) Cicero hoped for; Pompey warns him to settle his triumph before speaking on policy and offending one."
+    },
+    {
+      "loc": "3",
+      "anchor": "the man on whom even his enemies have bestowed a second consulship",
+      "entity_id": "person:caesar",
+      "note": "Caesar's first consulship was 59 BC; the \"second\" he sought for 48 was the issue of the day, since standing for it in absentia without disbanding his army was the legal crux that precipitated the civil war."
+    },
+    {
+      "loc": "3",
+      "anchor": "the third day before the Nones of January",
+      "entity_id": null,
+      "note": "The Nones of January fell on the 5th; reckoned inclusively, the third day before is 3 January 49 BC, the date Cicero planned to reach the outskirts of Rome."
+    }
+  ]
+}

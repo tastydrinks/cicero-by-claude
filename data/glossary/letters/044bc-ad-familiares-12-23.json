@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-23",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "The city's gazette",
+      "entity_id": null,
+      "note": "The acta urbana (or acta diurna) were the daily public records of business at Rome, posted in the city and copied out to be sent to absent magistrates and friends in the provinces."
+    },
+    {
+      "loc": "2",
+      "anchor": "the venture of Caesar Octavianus",
+      "entity_id": "person:octavian",
+      "note": "Octavian's private mobilisation of Caesar's veterans in autumn 44 BC, here defended against Antony's allegation that Octavian had suborned assassins; Cicero's report registers his own growing hope in the young Caesar."
+    },
+    {
+      "loc": "2",
+      "anchor": "the four Macedonian legions",
+      "entity_id": "group:legiones-macedonicae",
+      "note": "Veteran legions stationed in Macedonia that Antony summoned to Italy and went to Brundisium to suborn with money; two of them (the Martian and the Fourth) soon deserted to Octavian."
+    },
+    {
+      "loc": "3",
+      "anchor": "if a commonwealth can exist in a camp",
+      "entity_id": null,
+      "note": "Cicero's bitter point that the res publica now survives only with the armies in the field, not in the institutions of the city."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "you, who have had our friend Balbus staying at your house?",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus of Gades, Caesar's confidential agent and man of business, was the best-informed man in Rome about the dictator's plans. Cicero teases Paetus that, with Balbus as his houseguest, he could have learned the fate of the townships 'either sober or, failing that, drunk' — and so should be the one informing Cicero, not the reverse."
+    },
+    {
+      "loc": "1",
+      "anchor": "what I think will become of those townships and their land",
+      "entity_id": null,
+      "note": "Caesar was settling his discharged veterans on confiscated Italian land, and the municipia of Campania feared expropriation of their territory. Paetus, living near Naples, had anxiously asked Cicero what would happen; the whole letter turns on this fear of the land-commissioners."
+    },
+    {
+      "loc": "1",
+      "anchor": "it is now going on four years that we have been living on bonus time",
+      "entity_id": null,
+      "note": "Reckoning from the outbreak of civil war in 49 BC, Cicero counts nearly four years of mere survival under Caesar's domination, so the letter dates to 46 BC. 'Living on bonus time' (de lucro vivere) is the resigned phrase of a man who feels he has outlived the Republic itself."
+    },
+    {
+      "loc": "2",
+      "anchor": "They are now measuring out the Veientine and Capenate land; this is not far from Tusculum.",
+      "entity_id": "place:veii",
+      "note": "Veii and Capena were old Etruscan towns just north of Rome; their territory was now being surveyed (centuriated) for veteran allotments. Cicero notes nervously that the commissioners' work is approaching his beloved Tusculan villa in the Alban hills, yet professes philosophic calm."
+    },
+    {
+      "loc": "2",
+      "anchor": "the man through whose kindness I have come by it",
+      "entity_id": "person:caesar",
+      "note": "Caesar, unnamed, whose clemency (clementia) had spared Cicero after Pharsalus. Cicero says that since he counts continued life the finest of things, he cannot help feeling affection for the man who granted it — a strikingly ambivalent acknowledgement of dependence on the dictator's mercy."
+    },
+    {
+      "loc": "3",
+      "anchor": "We are slaves to him, he to circumstances.",
+      "entity_id": "person:caesar",
+      "note": "A bleak epigram on the autocracy of 46 BC: Romans are now slaves (servi) to Caesar, the 'chief man' (princeps), while he in turn is the servant of events he cannot fully control. Cicero's point is that not even Caesar can predict the future, so Paetus should hope for the best and bear whatever comes."
+    }
+  ]
+}

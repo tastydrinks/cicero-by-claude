@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-09",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "more ample than his own, than Africanus's",
+      "entity_id": "person:scipio-aemilianus",
+      "note": "Cicero compares the flattering language of Caesar's published letter to the way the elder Scipio Aemilianus (Africanus, conqueror of Carthage in 146 BC) was praised; the point is that Caesar lavished on a correspondent praise grander than any owed even to that paragon."
+    },
+    {
+      "loc": "2",
+      "anchor": "went out to the fifth milestone",
+      "entity_id": null,
+      "note": "Distances from Rome were reckoned by numbered milestones along the great roads; going out as far as the fifth milestone to meet someone was a marked public honour, here a show of welcome that Cicero finds politically compromising."
+    },
+    {
+      "loc": "3",
+      "anchor": "Lepidus, indeed",
+      "entity_id": "person:man-aemilius-lepidus-cos66",
+      "note": "Manius Aemilius Lepidus, consul of 66 BC, an elderly consular who was sitting out the war near Cicero at Formiae and keeping him company; not to be confused with the praetor of 49 and future triumvir."
+    },
+    {
+      "loc": "4",
+      "anchor": "all this clemency is being heaped up toward the Cinnan kind of cruelty",
+      "entity_id": "person:l-cornelius-cinna",
+      "note": "L. Cornelius Cinna dominated Rome in the 80s BC and was remembered for the bloody Marian terror; Cicero fears Caesar's much-advertised clementia is only a prelude to violence on Cinna's model."
+    },
+    {
+      "loc": "4",
+      "anchor": "the younger Balbus came to me",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "The \"younger Balbus\" is the nephew of L. Cornelius Balbus of Gades, Caesar's chief agent and Cicero's correspondent; he was carrying Caesar's overtures to the consul Lentulus, while the \"elder Balbus\" wrote separately to reassure Cicero."
+    },
+    {
+      "loc": "4",
+      "anchor": "On the sixth day before the Kalends, in the evening",
+      "entity_id": null,
+      "note": "The Roman calendar counted days inclusively backward from the Kalends (the first of the month); here the sixth and fifth days before the Kalends of March fall on 24 and 25 February 49 BC."
+    }
+  ]
+}

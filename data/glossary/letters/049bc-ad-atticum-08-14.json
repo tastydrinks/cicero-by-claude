@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-08-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "we shall know everything before the Nones",
+      "entity_id": null,
+      "note": "The Nones of March fell on the 7th; Cicero is writing on 2 March 49 BC and expects the issue at Brundisium to be settled within days. Roman dates were reckoned by counting back from the Kalends, Nones, and Ides of the month."
+    },
+    {
+      "loc": "1",
+      "anchor": "Caesar set out from Corfinium",
+      "entity_id": "place:corfinium",
+      "note": "Corfinium, the chief town of the Paeligni in central Italy, had just fallen to Caesar after a short siege (mid-February 49 BC), with L. Domitius Ahenobarbus and other Pompeians captured and released. Caesar then drove south toward Brundisium in pursuit of Pompey."
+    },
+    {
+      "loc": "1",
+      "anchor": "that is, on the Feralia",
+      "entity_id": "festival:feralia",
+      "note": "The Feralia, on 21 February, was the closing day of the Parentalia, the festival on which Romans made offerings to the dead at family tombs. Cicero uses it here purely as a calendar marker for the day both commanders broke camp."
+    },
+    {
+      "loc": "1",
+      "anchor": "spurs the troops' speed on with their daily rations",
+      "entity_id": "person:caesar",
+      "note": "Cicero marvels at the pace of Caesar's march; the obscure phrase (the Latin text is corrupt) seems to refer to driving the men on by their daily issue of rations. Caesar's celebrated speed was already proverbial by this point in the war."
+    },
+    {
+      "loc": "3",
+      "anchor": "a sum of money quite large, which Domitius had at Corfinium, has not been returned to him",
+      "entity_id": "person:l-domitius-ahenobarbus-cos54",
+      "note": "Domitius had brought a large war-chest of public and private money into Corfinium; when the town surrendered, Caesar took it over, and (despite his clemency to the men) it was not given back. The detail circulated as a grievance among the released Pompeians."
+    }
+  ]
+}

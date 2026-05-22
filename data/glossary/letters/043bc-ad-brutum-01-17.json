@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Nones of December always on his tongue",
+      "entity_id": "person:cicero",
+      "note": "5 December 63 BC, the day Cicero as consul ordered the execution of the arrested Catilinarian conspirators without trial; Cicero was famous for alluding to this act throughout his career, and Brutus here accuses him of the same self-congratulatory repetition he charges against others."
+    },
+    {
+      "loc": "1",
+      "anchor": "he killed more than one man and must confess himself an assassin first before he can fling the charge at Casca",
+      "entity_id": "person:p-servilius-casca",
+      "note": "Publius Servilius Casca was the conspirator who struck the first blow at Julius Caesar on the Ides of March; Brutus accuses Cicero of hypocrisy for attacking Casca, since Cicero himself arranged extrajudicial killings of the Catilinarians and cannot consistently condemn political violence."
+    },
+    {
+      "loc": "1",
+      "anchor": "in the matter of Casca he is imitating Bestia",
+      "entity_id": "person:bestia-tribune",
+      "note": "Lucius Calpurnius Bestia was a tribune of the plebs in 62 BC who attacked Cicero over the Catilinarian executions, even though Bestia himself had supported Catiline; Brutus draws the parallel that Cicero attacking Casca for killing Caesar is as two-faced as Bestia attacking Cicero for killing Catilinarians."
+    },
+    {
+      "loc": "1",
+      "anchor": "Bestia and Clodius were to reproach his consulship",
+      "entity_id": "person:clodius",
+      "note": "Publius Clodius Pulcher, the populist tribune of 58 BC who passed the law sending Cicero into exile, was Cicero's bitterest enemy; Clodius made political capital of the unconstitutional execution of the Catilinarians throughout his career until his death in 52 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "civilian and in the toga, he has held off Antony's war",
+      "entity_id": "person:cicero",
+      "note": "Cicero's boast in his Philippics that he, a civilian ex-magistrate (togatus), masterminded the senatorial coalition against Antony — raising Octavian's army, rallying the consuls, and passing the decrees — without himself commanding troops; Brutus retorts that the fruits of this strategy are catastrophically wrong."
+    },
+    {
+      "loc": "4",
+      "anchor": "What is the difference between him and Salvidienus?",
+      "entity_id": "person:salvidienus-rufus",
+      "note": "Quintus Salvidienus Rufus was one of Octavian's most powerful generals and closest friends in 43 BC, of low birth but enormous military capacity; Brutus's comparison implies that Cicero has become as much an instrument of Octavian's ambition as Octavian's own military henchman."
+    },
+    {
+      "loc": "5",
+      "anchor": "Philippus who has granted less to a stepson than Cicero is granting to a stranger",
+      "entity_id": "person:l-marcius-philippus",
+      "note": "Lucius Marcius Philippus (cos. suff. 38 BC) was Octavian's stepfather, having married Atia (Octavian's mother) after Gaius Octavius died; Brutus's thrust is that even the stepfather — with a familial obligation — was less obsequious toward Octavian than Cicero, who has no blood tie whatsoever."
+    },
+    {
+      "loc": "7",
+      "anchor": "what terms have been arranged for our Attica",
+      "entity_id": "person:attica-pomponia",
+      "note": "Attica (Caecilia Attica, born c. 51 BC) was Atticus's daughter; at some point in 43–42 BC she became betrothed or married to Marcus Vipsanius Agrippa, Octavian's leading general. Brutus's inquiry about \"terms\" likely refers to her betrothal or dowry negotiations."
+    },
+    {
+      "loc": "7",
+      "anchor": "the health of my Porcia",
+      "entity_id": "person:porcia-bruti",
+      "note": "Porcia was Brutus's wife, daughter of Cato Uticensis and widow of Gaius Calpurnius Bibulus; she reportedly died in 43 BC (ancient sources disagree on the date and manner), and the concern for her health expressed here may reflect her final illness."
+    }
+  ]
+}

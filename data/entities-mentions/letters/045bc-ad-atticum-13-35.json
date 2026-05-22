@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-35",
+  "mentions": [
+    {"loc": "1", "surface": "Varroni scribis te", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "To Varro you are writing", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "2", "surface": "de Bruti amore", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "About Brutus's affection", "entity_id": "person:brutus", "in": "eng"}
+  ]
+}

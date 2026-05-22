@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "after the elections",
+      "entity_id": null,
+      "note": "The consular and other elections for 57 BC, expected to clear the way for a senatorial motion on Cicero's recall; held in late summer 58 BC. Cicero waits at Thessalonica for word of their outcome."
+    },
+    {
+      "loc": "1",
+      "anchor": "tribunes designate",
+      "entity_id": "office:tribune",
+      "note": "The tribunes of the plebs elected for 57 BC, not yet in office; Cicero pins his last hope on them since they could bring his recall before the people. Several (Sestius, Milo, Fadius) did fight for it."
+    },
+    {
+      "loc": "2",
+      "anchor": "Cyzicus",
+      "entity_id": "place:cyzicus",
+      "note": "A Greek city on the Propontis (Sea of Marmara), far from Italy; a possible retreat Cicero contemplates as hope of an early recall fades. The greater distance would slow his correspondence with Atticus."
+    },
+    {
+      "loc": "2",
+      "anchor": "Sent on the Nones of August",
+      "entity_id": null,
+      "note": "5 August 58 BC. The Nones fell on the 5th in months of 31 days (here Sextilis, the old name for August), reckoned by the Roman calendar."
+    }
+  ]
+}

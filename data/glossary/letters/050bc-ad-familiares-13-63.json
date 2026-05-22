@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-63",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO S. D. P. SILIO PROPR.",
+      "entity_id": "person:p-silius-pr",
+      "note": "The letter-heading; one of a cluster of recommendations (Fam. 13.61-65) to P. Silius Nerva, propraetor of Bithynia and Pontus in 51-50 BC. \"S. D.\" abbreviates salutem dicit, \"sends greetings\"; PROPR. = propraetore, governing with praetorian power."
+    },
+    {
+      "loc": "2",
+      "anchor": "to clear up whatever business he has in your province",
+      "entity_id": null,
+      "note": "P. Silius's province was Bithynia and Pontus, on the southern shore of the Black Sea; Laenius had affairs there that needed the governor's intervention to settle. Cicero's request that he be sent home \"free and at his own disposal\" implies the business was litigation or a debt that tied him down."
+    }
+  ]
+}

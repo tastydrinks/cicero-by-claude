@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-17",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "C. CASSIO", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "1", "surface": "M. Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. Cassio", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "2", "surface": "P. Sullam patrem", "entity_id": "person:sulla-defendant", "in": "lat"},
+    {"loc": "2", "surface": "the elder P. Sulla", "entity_id": "person:sulla-defendant", "in": "eng"},
+    {"loc": "2", "surface": "Caesarem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Mindius macellarius", "entity_id": "person:mindius-macellarius", "in": "lat"},
+    {"loc": "2", "surface": "Mindius the meat-seller", "entity_id": "person:mindius-macellarius", "in": "eng"},
+    {"loc": "2", "surface": "Attius pigmentarius", "entity_id": "person:attius-pigmentarius", "in": "lat"},
+    {"loc": "2", "surface": "Attius the perfumer", "entity_id": "person:attius-pigmentarius", "in": "eng"},
+    {"loc": "3", "surface": "Hispania", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "3", "surface": "Spain", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "3", "surface": "Pansa noster", "entity_id": "person:vibius-pansa", "in": "lat"},
+    {"loc": "3", "surface": "Our friend Pansa", "entity_id": "person:vibius-pansa", "in": "eng"},
+    {"loc": "4", "surface": "Brundisi", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "4", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"}
+  ]
+}

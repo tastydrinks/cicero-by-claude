@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-10",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "what against good men by name",
+      "entity_id": null,
+      "note": "The \"good men\" (boni) are the optimates, the conservative senators who sided with Pompey. Cicero dreads a Caesarian victory that would name and persecute them individually, as in a Sullan proscription."
+    },
+    {
+      "loc": "2",
+      "anchor": "Sulla could; cannot I?",
+      "entity_id": "person:sulla",
+      "note": "A line Cicero imagines on Caesar's lips, modelling his ambition on the dictator Sulla, who marched on Rome and ruled by proscription in 82 BC. The recurring \"Sulla\" measure frames the war as a contest of would-be autocrats."
+    },
+    {
+      "loc": "3",
+      "anchor": "Tarquin acted ill who led Porsena and Octavius Mamilius against the fatherland",
+      "entity_id": null,
+      "note": "Cicero ranks legendary and historical exiles by whether they took up arms against their own city: the expelled king Tarquin the Proud, who brought the Etruscan Porsena and his Latin son-in-law Octavius Mamilius against Rome, is the negative type. The series weighs his own dilemma over following Pompey out of Italy."
+    },
+    {
+      "loc": "3",
+      "anchor": "Themistocles, who preferred to die",
+      "entity_id": "person:themistocles",
+      "note": "Themistocles, the Athenian victor of Salamis, was later exiled and (in the tradition Cicero follows) chose suicide rather than lead Persia's forces against Greece. He is Cicero's model of the exile who refuses to war on his homeland, set against the traitor Hippias."
+    },
+    {
+      "loc": "3",
+      "anchor": "Hippias the son of Pisistratus, who fell in the battle of Marathon",
+      "entity_id": "person:hippias-tyrant",
+      "note": "Hippias, the deposed tyrant of Athens, guided the Persian invaders and died at Marathon (490 BC) fighting against his own city. Cicero brands him the criminal extreme, an exile who returned in arms with a foreign army."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Getae and the Armenians and the Colchians",
+      "entity_id": null,
+      "note": "A rhetorical roll-call of distant, warlike peoples (Danubian Getae, Caucasian Armenians and Colchians) standing for the barbarian levies Pompey was said to be mustering in the East. Cicero recoils at the thought of leading such forces against Rome itself."
+    },
+    {
+      "loc": "3",
+      "anchor": "the preserver of this city, whom they have called its parent",
+      "entity_id": "person:cicero",
+      "note": "Cicero alludes to the honours voted him for crushing the Catilinarian conspiracy in 63 BC, when he was hailed as \"saviour\" and \"father of his country\" (parens patriae). The titles deepen his horror at the idea of now warring on the city he saved."
+    },
+    {
+      "loc": "7",
+      "anchor": "you should leave this Necyia",
+      "entity_id": null,
+      "note": "Necyia (Greek nekuia) is the title of Odyssey book 11, Odysseus's visit to the land of the dead; Atticus uses it as a grim figure for the Caesarian regime taking shape in Italy. Cicero quotes the Greek back to him as he reviews their correspondence."
+    }
+  ]
+}

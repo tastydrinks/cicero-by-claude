@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-38",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "Asinius Pollio has written to me about that impure kinsman of ours",
+      "entity_id": "person:asinius-pollio",
+      "note": "C. Asinius Pollio, the soldier, orator, and historian, was at this date a Caesarian officer; here he relays unwelcome news about a disreputable relative of Cicero's. The veiled \"impure kinsman\" is unnamed in the letter and almost certainly Cicero's nephew Quintus, whose conduct toward Caesar had alarmed the family."
+    },
+    {
+      "loc": "2",
+      "anchor": "Balbus the younger, recently, said it plainly enough",
+      "entity_id": "person:cornelius-balbus-younger",
+      "note": "L. Cornelius Balbus the Younger, nephew of Caesar's confidant Balbus the elder, was himself a Caesarian agent; he and the others had each reported on the kinsman's misconduct. He is distinct from his more famous uncle, who appears elsewhere in the correspondence simply as \"Balbus.\""
+    }
+  ]
+}

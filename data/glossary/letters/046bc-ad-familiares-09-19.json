@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-19",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "``Balbus was content with a slender spread''",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus the elder, the Gaditane financier who was one of Caesar's two chief political agents in Rome (with Oppius). Paetus had evidently written that even the immensely powerful Balbus dined frugally with him --- a needling hint that Cicero, a mere consular, should be content with a modest table too."
+    },
+    {
+      "loc": "1",
+      "anchor": "when kings live so abstemiously, a man of consular rank ought to live more so by far",
+      "entity_id": null,
+      "note": "'Kings' (reges) is Cicero's wry word for Caesar's all-powerful henchmen like Balbus, who effectively ruled Rome though holding no kingly title. The joke turns on the contrast between their real power and Paetus's claim that they ate plainly."
+    },
+    {
+      "loc": "1",
+      "anchor": "I do not wonder at that, since he did not go to his own; what I wonder at is that he did not go to his lady's",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "Cicero reports cross-examining Balbus about his visit to Paetus. The teasing remark --- that on reaching Rome Balbus came straight to Cicero's house rather than to his own home, and stranger still, not to his mistress's --- is a piece of risque banter typical of the Paetus correspondence."
+    },
+    {
+      "loc": "2",
+      "anchor": "I ask you not to rate the Balbi --- the stutterers --- above good speakers",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "An untranslatable pun: the cognomen Balbus is also the Latin adjective balbus, 'stammering'. Cicero plays the 'Balbi/stammerers' against the diserti ('the eloquent'), warning Paetus not to value a good menu (the way to please a Balbus) over good conversation (the way to please an orator)."
+    }
+  ]
+}

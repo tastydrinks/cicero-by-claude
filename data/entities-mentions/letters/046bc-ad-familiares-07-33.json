@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-33",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "VOLVMNIO", "entity_id": "person:p-volumnius-eutrapelus", "in": "both"},
+    {"loc": "1", "surface": "Hirtio", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "1", "surface": "Hirtius", "entity_id": "person:hirtius", "in": "eng"},
+    {"loc": "1", "surface": "mi suavissime Volumni", "entity_id": "person:p-volumnius-eutrapelus", "in": "lat"},
+    {"loc": "1", "surface": "my most charming Volumnius", "entity_id": "person:p-volumnius-eutrapelus", "in": "eng"},
+    {"loc": "1", "surface": "Philoctetes", "entity_id": "person:philoctetes", "in": "both"},
+    {"loc": "1", "surface": "Accium", "entity_id": "person:accius", "in": "lat"},
+    {"loc": "1", "surface": "Accius", "entity_id": "person:accius", "in": "eng"},
+    {"loc": "2", "surface": "foro", "entity_id": "place:forum-romanum", "in": "lat"},
+    {"loc": "2", "surface": "Forum", "entity_id": "place:forum-romanum", "in": "eng"},
+    {"loc": "2", "surface": "curiae", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "Senate House", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "Cassius tuus", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "2", "surface": "your Cassius", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "2", "surface": "Dolabella noster", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "2", "surface": "our Dolabella", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "2", "surface": "Caesar", "entity_id": "person:caesar", "in": "both"}
+  ]
+}

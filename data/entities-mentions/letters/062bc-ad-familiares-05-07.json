@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-07",
+  "mentions": [
+    {"loc": "1", "surface": "M. TVLLIVS M. F. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. Tullius, son of Marcus, Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CN. POMPEIO CN. fl MAGNO", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Cn. Pompeius, son of Cn., Magnus", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "IMPERATORI", "entity_id": "office:imperator", "in": "lat"},
+    {"loc": "1", "surface": "Imperator", "entity_id": "office:imperator", "in": "eng"},
+    {"loc": "3", "surface": "Africanus", "entity_id": "person:scipio-aemilianus", "in": "lat"},
+    {"loc": "3", "surface": "Africanus", "entity_id": "person:scipio-aemilianus", "in": "eng"},
+    {"loc": "3", "surface": "Laelium", "entity_id": "person:laelius-sapiens", "in": "lat"},
+    {"loc": "3", "surface": "Laelius", "entity_id": "person:laelius-sapiens", "in": "eng"}
+  ]
+}

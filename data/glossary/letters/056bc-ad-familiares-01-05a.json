@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-05a",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the royal cause",
+      "entity_id": "person:ptolemy-auletes",
+      "note": "Causa regia: the question of restoring Ptolemy XII Auletes, the exiled king of Egypt, to his throne --- the commission Lentulus Spinther, as governor of Cilicia, hoped to receive. It dominates the whole Lentulus correspondence of 56 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "the wicked promulgation of Cato",
+      "entity_id": "person:c-porcius-cato-tr56",
+      "note": "Promulgatio: the formal posting of a bill before the people. This Cato is C. Porcius Cato, the tribune of 56 BC (not M. Cato Uticensis); his bill aimed at stripping Lentulus of the Egyptian command, which Cicero feared would divert and inflame the whole affair."
+    },
+    {
+      "loc": "3",
+      "anchor": "transferred to the man to whom it is by now thought practically transferred",
+      "entity_id": "person:pompey",
+      "note": "The rival for the Egyptian command was Pompey, whom many in Rome wanted entrusted with restoring the king. Cicero, working for Lentulus, dreads seeing the charge slip to Pompey."
+    },
+    {
+      "loc": "4",
+      "anchor": "Q. Selicius",
+      "entity_id": "person:q-selicius",
+      "note": "Quintus Selicius, an agent of Lentulus at Rome whom Cicero uses for everything touching the Egyptian business, praising him as the most prudent and loyal of Lentulus's men."
+    }
+  ]
+}

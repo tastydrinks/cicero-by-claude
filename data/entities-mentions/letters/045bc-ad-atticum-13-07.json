@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-07",
+  "mentions": [
+    {"loc": "1", "surface": "Sestius apud me fuit", "entity_id": "person:sestius-tribune", "in": "lat"},
+    {"loc": "1", "surface": "et Theopompus pridie", "entity_id": "person:theopompus-cnidius", "in": "lat"},
+    {"loc": "1", "surface": "a Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Romae manere", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "sicut esset neglecta sumptuaria", "entity_id": "law:lex-iulia-sumptuaria", "in": "lat"},
+    {"loc": "1", "surface": "et Lentulum cum Metella", "entity_id": "person:p-lentulus-spinther-jr", "in": "lat"},
+    {"loc": "1", "surface": "de Mustela", "entity_id": "person:mustela", "in": "lat"},
+    {"loc": "1", "surface": "si Silium videris", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "Sestius was with me", "entity_id": "person:sestius-tribune", "in": "eng"},
+    {"loc": "1", "surface": "and Theopompus the day before", "entity_id": "person:theopompus-cnidius", "in": "eng"},
+    {"loc": "1", "surface": "a letter had come from Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "to remain at Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "the sumptuary law had been", "entity_id": "law:lex-iulia-sumptuaria", "in": "eng"},
+    {"loc": "1", "surface": "Lentulus had definitely divorced Metella", "entity_id": "person:p-lentulus-spinther-jr", "in": "eng"},
+    {"loc": "1", "surface": "about Mustela", "entity_id": "person:mustela", "in": "eng"},
+    {"loc": "1", "surface": "if you should see Silius", "entity_id": "person:silius-villa", "in": "eng"}
+  ]
+}

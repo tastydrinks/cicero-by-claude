@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-40",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "What Caesar's attack on Cato is going to look like in answer to my praise of him",
+      "entity_id": "person:cato-minor",
+      "note": "Cicero had written a panegyric, the Cato, praising the younger Cato (Cato Uticensis), who killed himself at Utica in 46 rather than submit to Caesar. Caesar replied with an Anticato attacking the dead man; here Cicero previews its tone from a draft Hirtius sent him."
+    },
+    {
+      "loc": "1",
+      "anchor": "from the book Hirtius has sent me",
+      "entity_id": "person:hirtius",
+      "note": "A. Hirtius, a leading Caesarian and consul-designate, had written his own polemic against Cato that anticipated Caesar's; he sent it to Cicero, who treats it as a foretaste of Caesar's coming Anticato. Cicero ironically notes it abuses Cato but praises Cicero himself."
+    },
+    {
+      "loc": "2",
+      "anchor": "From you I set off for Astura",
+      "entity_id": "place:astura",
+      "note": "Astura was a small coastal estate on an island at the mouth of the river Astura in Latium, to which Cicero withdrew to grieve after Tullia's death in 45 BC. Its seclusion made it his refuge from the visitors he could not face at Rome."
+    },
+    {
+      "loc": "3",
+      "anchor": "So I am where the man who used to have the finest of Baiae regularly spent this time of year",
+      "entity_id": null,
+      "note": "Cicero says he is spending the off-season at Astura, just as a famous earlier owner of the grandest villa at Baiae used to do; the man is left unnamed in the letter. The remark glances obliquely at the resort culture of Baiae while underlining his own withdrawal from it."
+    },
+    {
+      "loc": "4",
+      "anchor": "to get them put up by the auctioneer",
+      "entity_id": null,
+      "note": "Cicero hopes to force the Scapula gardens to public auction (sub hasta / ad tabulam) so he can bid for them; the coheirs would otherwise keep him shut out. At an open sale he reckons his eagerness will overbid a rival like Otho."
+    },
+    {
+      "loc": "4",
+      "anchor": "Let only the Faberius business be sure",
+      "entity_id": "person:faberius",
+      "note": "Faberius was Caesar's scriba (secretary) who owed Cicero a large sum; collecting this debt (the nomen Faberianum) was Cicero's intended means of financing the gardens purchase. The whole shrine scheme hinges on the money coming through."
+    }
+  ]
+}

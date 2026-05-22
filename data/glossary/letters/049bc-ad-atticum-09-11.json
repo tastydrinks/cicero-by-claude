@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-09-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "our Lentulus is at Puteoli",
+      "entity_id": "person:lentulus-spinther",
+      "note": "P. Cornelius Lentulus Spinther, consul of 57 BC and Cicero's old benefactor in his recall from exile, had been captured at Corfinium and released by Caesar; he is now lying low at the seaside resort of Puteoli, uncertain whether to follow Pompey."
+    },
+    {
+      "loc": "1",
+      "anchor": "the thirteenth day before the Kalends of April",
+      "entity_id": null,
+      "note": "Romans counted dates inclusively backward from three fixed points each month --- the Kalends (1st), Nones, and Ides; this is 20 March 49 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "came to me on the Quinquatria",
+      "entity_id": "festival:quinquatrus",
+      "note": "The Quinquatrus was the festival of Minerva, beginning on 19 March; Cicero often uses it as a casual date-marker, here fixing Matius's visit to mid-March 49 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "nothing but proscriptions, nothing but Sullas",
+      "entity_id": "person:sulla",
+      "note": "Cicero fears that a Pompeian victory would bring a fresh round of proscriptions --- the published death-lists by which the dictator Sulla had liquidated his enemies in 82--81 BC --- with the Pompeian commanders cast as so many would-be Sullas."
+    },
+    {
+      "loc": "4",
+      "anchor": "of Arabia Felix",
+      "entity_id": "place:arabia-felix",
+      "note": "\"Arabia Felix\" (literally \"Fortunate Arabia\") was the Roman name for the fertile, incense-bearing south-western corner of the Arabian peninsula; it figures here among the wild rumours of distant lands to which Pompey might withdraw and rebuild his strength."
+    },
+    {
+      "loc": "4",
+      "anchor": "men whose creditors are reported to be holding meetings",
+      "entity_id": null,
+      "note": "The Pompeian grandees named --- Scipio, Faustus Sulla, Libo --- were notoriously in debt; Cicero implies they need a victory and its plunder to satisfy their creditors, and so will stop at no crime to get it."
+    }
+  ]
+}

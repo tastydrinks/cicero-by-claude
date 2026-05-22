@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CASSIVS PROCOS. S. D. M. CICERONI",
+      "entity_id": "person:cassius-longinus",
+      "note": "C. Cassius Longinus again writes as PROCOS. (proconsul); S. D. is salutem dicit, \"sends greetings,\" to M. Cicero. The trailing letters in the manuscript opener are corrupt."
+    },
+    {
+      "loc": "1",
+      "anchor": "I forbade to be delivered until it had first been read to you",
+      "entity_id": "institution:senate",
+      "note": "Cassius routed his official dispatch to the Senate through Cicero, instructing his couriers to let Cicero read it first — a mark of how far he relied on Cicero to manage affairs at Rome."
+    },
+    {
+      "loc": "1",
+      "anchor": "after Trebonius was foully murdered, seized Asia",
+      "entity_id": "person:dolabella",
+      "note": "Dolabella tortured and killed C. Trebonius, the tyrannicide governor of Asia, at Smyrna in January 43 BC, then took over the province; the Senate declared him a public enemy."
+    },
+    {
+      "loc": "2",
+      "anchor": "the most lawless brigands",
+      "entity_id": null,
+      "note": "\"Brigands\" (latrones) is the standard republican slur for Antony, Dolabella, and their partisans, denying them the standing of legitimate magistrates or soldiers."
+    },
+    {
+      "loc": "3",
+      "anchor": "he would have held Apamea shut up until it was taken by storm",
+      "entity_id": "place:apamea",
+      "note": "Apamea on the Orontes, a strong city of Syria where the renegade Q. Caecilius Bassus had entrenched himself; his troops mutinied and came over to Cassius before it had to be stormed."
+    },
+    {
+      "loc": "5",
+      "anchor": "The Nones of May, from the camp.",
+      "entity_id": null,
+      "note": "The Nones of May = 7 May (43 BC). A postscript (§5) added news, received after the letter was drafted, that Dolabella had moved into Cilicia."
+    }
+  ]
+}

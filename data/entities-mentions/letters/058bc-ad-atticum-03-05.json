@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-05",
+  "mentions": [
+    {"loc": "1", "surface": "Terentia", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Thuri.", "entity_id": "place:thurii", "in": "lat"},
+    {"loc": "1", "surface": "Terentia", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Thurii", "entity_id": "place:thurii", "in": "eng"}
+  ]
+}

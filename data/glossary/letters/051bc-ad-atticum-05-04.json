@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the fifth day before the Ides of May",
+      "entity_id": null,
+      "note": "The Ides of May fell on the 15th; counted inclusively, the fifth day before is 11 May 51 BC, when Cicero reached Beneventum."
+    },
+    {
+      "loc": "1",
+      "anchor": "Tullius the secretary",
+      "entity_id": "person:m-tullius-scriba",
+      "note": "A scriba was a professional public clerk who handled magistrates' records and accounts. This M. Tullius (no relation to Cicero) served as Cicero's secretary and kept the accounts of his Cilician proconsulship."
+    },
+    {
+      "loc": "2",
+      "anchor": "if a decree of the Senate is passed",
+      "entity_id": null,
+      "note": "A senatus consultum was a formal resolution of the Senate. Cicero hopes for one authorising reimbursement of his and Bibulus's outfitting expenses, but notes that even without it Atticus can secure the payment."
+    },
+    {
+      "loc": "2",
+      "anchor": "especially when there is in it a saving for the people",
+      "entity_id": null,
+      "note": "A measure that saved the public treasury (a compendium populi) money was easy to carry; Cicero expects little opposition to a decree that costs the state nothing extra."
+    },
+    {
+      "loc": "2",
+      "anchor": "Do not lay it before the Senate, consul!",
+      "entity_id": null,
+      "note": "Only a presiding magistrate (here a consul) could put a matter to the Senate (referre ad senatum). Cicero jokingly mimics the obstruction a friend would need only to deflect, not actively manage, the trivial business referred to him."
+    },
+    {
+      "loc": "2",
+      "anchor": "Call the count!",
+      "entity_id": null,
+      "note": "The cry numera! (\"count!\") demanded a head-count to show the Senate lacked a quorum, a standard delaying tactic to prevent a vote."
+    },
+    {
+      "loc": "2",
+      "anchor": "before the Kalends of June",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the month, so this means before 1 June 51 BC, the deadline by which the legate Pomptinus needed to reach Brundisium for the crossing east."
+    },
+    {
+      "loc": "3",
+      "anchor": "the five prefects",
+      "entity_id": null,
+      "note": "Praefecti were officers a proconsul appointed to his staff (cohors); the prefectures of a governor's entourage were sought-after favours, and Cicero awaited Pompey's wishes about five such appointments."
+    },
+    {
+      "loc": "3",
+      "anchor": "the matter of the eight hundred thousand sesterces",
+      "entity_id": null,
+      "note": "The 800,000 sesterces (HS) of credit opened through Oppius (cf. 5.1); Cicero presses Atticus to settle the account before leaving for Epirus."
+    }
+  ]
+}

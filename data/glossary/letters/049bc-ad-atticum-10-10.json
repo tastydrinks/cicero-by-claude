@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I bore in mind my son-in-law",
+      "entity_id": "person:dolabella",
+      "note": "Cicero's son-in-law was P. Cornelius Dolabella, Tullia's husband, who had thrown in his lot with Caesar; the kinship is Cicero's standing excuse to Caesar's men for not joining Pompey outright."
+    },
+    {
+      "loc": "1",
+      "anchor": "run about with lictors against my will",
+      "entity_id": "office:lictor",
+      "note": "Lictors were the attendants who carried the fasces before a magistrate or promagistrate; Cicero, still holding imperium from his Cilician command and awaiting a triumph, was obliged to keep them, which made discreet movement impossible."
+    },
+    {
+      "loc": "3",
+      "anchor": "There you have a Spartan scytale",
+      "entity_id": null,
+      "note": "The scytale was a Spartan device for sending secret dispatches: a strip wound on a rod of matching diameter so the message read only when rewound. Cicero applies the term ironically to Antony's terse, coded refusal."
+    },
+    {
+      "loc": "3",
+      "anchor": "the fifth before the Nones",
+      "entity_id": null,
+      "note": "Roman dates were counted backward and inclusively from three fixed points each month; the fifth day before the Nones of May is 3 May. Cicero glosses it himself as \"today.\""
+    },
+    {
+      "loc": "5",
+      "anchor": "carrying Cytheris around with him in an open litter, like a second wife",
+      "entity_id": "person:cytheris",
+      "note": "Volumnia Cytheris was a celebrated freedwoman mime-actress and Antony's mistress; parading her openly in a litter as though a married matron was a notorious scandal that Cicero recurs to with disgust. The litter was a curtained conveyance carried by bearers, normally reserved for respectable women."
+    }
+  ]
+}

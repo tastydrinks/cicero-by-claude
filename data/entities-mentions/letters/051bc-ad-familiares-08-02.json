@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-02",
+  "mentions": [
+    {"loc": "1", "surface": "CAELIVS", "entity_id": "person:caelius-defendant", "in": "lat"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CAELIVS", "entity_id": "person:caelius-defendant", "in": "eng"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "legi Liciniae", "entity_id": "law:lex-licinia-de-sodaliciis", "in": "lat"},
+    {"loc": "1", "surface": "Curionis", "entity_id": "person:c-scribonius-curio-tr", "in": "lat"},
+    {"loc": "1", "surface": "Hortensius", "entity_id": "person:hortensius", "in": "lat"},
+    {"loc": "1", "surface": "Lex Licinia", "entity_id": "law:lex-licinia-de-sodaliciis", "in": "eng"},
+    {"loc": "1", "surface": "Curio's theatre", "entity_id": "person:c-scribonius-curio-tr", "in": "eng"},
+    {"loc": "1", "surface": "Hortensius", "entity_id": "person:hortensius", "in": "eng"},
+    {"loc": "2", "surface": "Marcelli", "entity_id": "person:m-claudius-marcellus-cos51", "in": "lat"},
+    {"loc": "2", "surface": "comitiis consularibus", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "M. Octavius Cn. f.", "entity_id": "person:m-octavius-cn-f", "in": "lat"},
+    {"loc": "2", "surface": "C. Hirrus", "entity_id": "person:c-lucilius-hirrus", "in": "lat"},
+    {"loc": "2", "surface": "Hirrum", "entity_id": "person:c-lucilius-hirrus", "in": "lat"},
+    {"loc": "2", "surface": "syngrapham Sittianam", "entity_id": "person:p-sittius", "in": "lat"},
+    {"loc": "2", "surface": "L. Castrinio Paeto", "entity_id": "person:l-castrinius-paetus", "in": "lat"},
+    {"loc": "2", "surface": "Marcellus's", "entity_id": "person:m-claudius-marcellus-cos51", "in": "eng"},
+    {"loc": "2", "surface": "consular elections", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "M. Octavius son of Cnaeus", "entity_id": "person:m-octavius-cn-f", "in": "eng"},
+    {"loc": "2", "surface": "C. Hirrus", "entity_id": "person:c-lucilius-hirrus", "in": "eng"},
+    {"loc": "2", "surface": "Hirrus", "entity_id": "person:c-lucilius-hirrus", "in": "eng"},
+    {"loc": "2", "surface": "The Sittian bond", "entity_id": "person:p-sittius", "in": "eng"},
+    {"loc": "2", "surface": "L. Castrinius Paetus", "entity_id": "person:l-castrinius-paetus", "in": "eng"}
+  ]
+}

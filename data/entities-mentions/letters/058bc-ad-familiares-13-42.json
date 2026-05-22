@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-42",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "L. CVLLEOLO PROCOS.", "entity_id": "person:l-culleolus", "in": "lat"},
+    {"loc": "1", "surface": "L. CVLLEOLVS the proconsul", "entity_id": "person:l-culleolus", "in": "eng"},
+    {"loc": "1", "surface": "L. Lucceius", "entity_id": "person:l-lucceius", "in": "lat"},
+    {"loc": "1", "surface": "L. Lucceius", "entity_id": "person:l-lucceius", "in": "eng"},
+    {"loc": "1", "surface": "Bulliones", "entity_id": "place:bullis", "in": "lat"},
+    {"loc": "1", "surface": "the men of Bullis", "entity_id": "place:bullis", "in": "eng"},
+    {"loc": "1", "surface": "Lucceio", "entity_id": "person:l-lucceius", "in": "lat"},
+    {"loc": "1", "surface": "Lucceius", "entity_id": "person:l-lucceius", "in": "eng"},
+    {"loc": "1", "surface": "Pompei", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Pompey's", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Luccei", "entity_id": "person:l-lucceius", "in": "lat"},
+    {"loc": "2", "surface": "Lucceius's", "entity_id": "person:l-lucceius", "in": "eng"},
+    {"loc": "2", "surface": "Lucceius", "entity_id": "person:l-lucceius", "in": "lat"},
+    {"loc": "2", "surface": "Lucceius", "entity_id": "person:l-lucceius", "in": "eng"}
+  ]
+}

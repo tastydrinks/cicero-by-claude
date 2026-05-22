@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-07",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "that you might go to greet Tigranes",
+      "entity_id": "person:tigranes-armenia",
+      "note": "Clodius's eastern legation was nominally to Tigranes II of Armenia, Pompey's client king. Cicero's sneer --- that no patrician needed to turn plebeian merely to be received by a foreign king --- mocks the pretext for Clodius's transfer to the plebs."
+    },
+    {
+      "loc": "2",
+      "anchor": "the proposers and the augurs of the curiate law",
+      "entity_id": "law:lex-curiata",
+      "note": "The lex curiata was the formal act of the comitia curiata that ratified an adoption (here Clodius's adoption into a plebeian family) and could confer a magistrate's command. Its sponsors and the augurs who oversaw the auspices were annoyed that Clodius scorned the legation they had arranged."
+    },
+    {
+      "loc": "2",
+      "anchor": "now he could not even be one of the twenty",
+      "entity_id": "institution:vigintiviri",
+      "note": "The vigintiviri were the twenty land commissioners of Caesar's agrarian law of 59 BC. Clodius, once Caesar's favourite, has been passed over for a seat on the board --- a public slight Cicero relishes."
+    },
+    {
+      "loc": "2",
+      "anchor": "for Drusus of Pisaurum",
+      "entity_id": "person:drusus-pisaurensis",
+      "note": "An otherwise little-known man from Pisaurum (modern Pesaro) on the Adriatic coast, evidently in line for the lucrative \"fat\" legation to collect monies. Distinct from the famous tribune M. Livius Drusus."
+    },
+    {
+      "loc": "2",
+      "anchor": "for the priest Vatinius",
+      "entity_id": "person:vatinius-tribune",
+      "note": "P. Vatinius, the Caesarian tribune of 59, was a member of the epulones, the college of priests who arranged the sacred banquets at games. \"Epulo\" (priest of the feast) is Cicero's contemptuous tag for him here."
+    },
+    {
+      "loc": "2",
+      "anchor": "Megabocchus and this bloodthirsty youth",
+      "entity_id": "person:megabocchus",
+      "note": "Megabocchus, a hot-headed young associate (later linked to Catilinarian violence and to Crassus's Parthian campaign). \"This bloodthirsty youth\" names him and the reckless young men around him as bitter enemies of the coalition."
+    },
+    {
+      "loc": "4",
+      "anchor": "even some of the five-men are talking",
+      "entity_id": "institution:quinqueviri",
+      "note": "The quinqueviri (\"five-men\") were an inner committee of five drawn from the twenty land commissioners. Atticus has hinted that dissension is now surfacing even within this select board --- a sign, Cicero hopes, of the coalition cracking."
+    },
+    {
+      "loc": "5",
+      "anchor": "The Castricius slip",
+      "entity_id": "person:m-castricius-eques",
+      "note": "An error in an account or memorandum concerning a man named Castricius (a Roman businessman, eques), which Cicero promises to put right. The exact transaction is lost to us."
+    },
+    {
+      "loc": "5",
+      "anchor": "HS 17,000, not HS 30,000",
+      "entity_id": null,
+      "note": "Sums in sesterces (HS), the standard Roman unit of account. Cicero corrects the figure his brother Quintus had reported against the amount owed to Atticus's sister Pomponia."
+    },
+    {
+      "loc": "5",
+      "anchor": "the same answer to Aristodemus",
+      "entity_id": "person:aristodemus",
+      "note": "Aristodemus of Nysa, a Greek rhetorician and teacher engaged to instruct the boys; Cicero's son Marcus asks that the reply given about his cousin (young Quintus) hold for himself too. A glimpse of the household's tutoring arrangements."
+    },
+    {
+      "loc": "5",
+      "anchor": "About the Amalthea",
+      "entity_id": null,
+      "note": "The Amaltheum (named for Amalthea, the nymph or she-goat who nursed Zeus): a shrine-and-garden retreat Atticus had built on his Epirote estate near Buthrotum. Cicero, charmed by it, is planning an Amaltheum of his own and promises not to neglect the matter."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-03",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the eleventh day before the Kalends of June",
+      "note": "The Romans counted dates inclusively backward from fixed points; the Kalends was the first of the month, so this is 22 May 51 BC."
+    },
+    {
+      "loc": "1",
+      "anchor": "your legate Q. Fabius Vergilianus",
+      "entity_id": "office:legatus",
+      "note": "A legatus was a senior deputy appointed to assist a governor or general with military and administrative authority; Vergilianus served Appius in this role in Cilicia."
+    },
+    {
+      "loc": "1",
+      "anchor": "a stronger garrison force was needed for that province",
+      "note": "Cilicia lay exposed to a feared Parthian invasion after the disaster of Crassus at Carrhae (53 BC); the Senate's anxiety about reinforcements reflects this threat on the eastern frontier."
+    },
+    {
+      "loc": "1",
+      "anchor": "the consul Sulpicius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Servius Sulpicius Rufus, consul in 51 BC and the foremost jurist of the age, who blocked the proposed levy of reinforcements for the eastern provinces."
+    },
+    {
+      "loc": "2",
+      "anchor": "the decrees of the Senate that have been passed",
+      "entity_id": "institution:senate",
+      "note": "Senatus consulta: formal resolutions of the Senate, here governing the disposition of troops in the eastern provinces."
+    }
+  ]
+}

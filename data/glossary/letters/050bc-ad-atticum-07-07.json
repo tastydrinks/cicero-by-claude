@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the fifteenth day before the Kalends of January",
+      "entity_id": null,
+      "note": "Roman dates were counted inclusively backward from three fixed points: the Kalends (1st), Nones (5th or 7th), and Ides (13th or 15th). The fifteenth day before the Kalends of January is 18 December."
+    },
+    {
+      "loc": "3",
+      "anchor": "so as not to come as a burden to the household",
+      "entity_id": "festival:compitalia",
+      "note": "The Compitalia, a moveable festival of the crossroads-Lares (Lares Compitales) celebrated in early January, fell here on 2 January; Cicero avoids descending on the Alban household on the feast-day itself, when the slaves kept holiday."
+    },
+    {
+      "loc": "4",
+      "anchor": "on the strength of the imperium I hold",
+      "entity_id": null,
+      "note": "Imperium was the formal power of military command and jurisdiction. Cicero still held his proconsular imperium from Cilicia (not yet laid down, since he hoped for a triumph), which Pompey's circle wanted to redeploy by sending him to govern Sicily."
+    },
+    {
+      "loc": "4",
+      "anchor": "for Curio could never have held out",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "note": "C. Scribonius Curio, tribune of 50 BC and now Caesar's agent, used his veto through the year to block any decree assigning successors to Caesar's provinces, keeping them governorless; Cicero blames the Senate for never moving against him."
+    },
+    {
+      "loc": "6",
+      "anchor": "the loss of the Campanian land",
+      "entity_id": "place:campania",
+      "note": "The fertile public land of Campania (the ager Campanus), distributed to Pompey's veterans and the urban poor under Caesar's agrarian law of 59 BC; Cicero lists it among the chain of concessions that followed from indulging Caesar."
+    },
+    {
+      "loc": "6",
+      "anchor": "the adoption of a patrician by a plebeian",
+      "entity_id": null,
+      "note": "The transfer of the patrician P. Clodius into a plebeian family in 59 BC (so he could hold the tribunate), which Cicero blamed for his own exile; he links it here to Caesar's consulship as part of one lawless sequence."
+    },
+    {
+      "loc": "6",
+      "anchor": "now there are eleven legions",
+      "entity_id": null,
+      "note": "The military reckoning of Caesar's strength after the Gallic wars; Cicero contrasts the ease of resisting Caesar when he was weak with the futility of doing so now that he commands eleven legions, abundant cavalry, and his northern Italian clients."
+    }
+  ]
+}

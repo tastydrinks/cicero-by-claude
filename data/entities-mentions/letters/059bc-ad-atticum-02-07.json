@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-07",
+  "mentions": [
+    {
+      "loc": "2",
+      "surface": "Publio",
+      "entity_id": "person:clodius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Publius",
+      "entity_id": "person:clodius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Tigranem",
+      "entity_id": "person:tigranes-armenia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Tigranes",
+      "entity_id": "person:tigranes-armenia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "reges Armenii",
+      "entity_id": "place:armenia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "kings of Armenia",
+      "entity_id": "place:armenia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "legis curiatae",
+      "entity_id": "law:lex-curiata",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the curiate law",
+      "entity_id": "law:lex-curiata",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "noster Publius",
+      "entity_id": "person:clodius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "our Publius",
+      "entity_id": "person:clodius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar's",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "viginti",
+      "entity_id": "institution:vigintiviri",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the twenty",
+      "entity_id": "institution:vigintiviri",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Druso",
+      "entity_id": "person:drusus-pisaurensis",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pisaurensi",
+      "entity_id": "person:drusus-pisaurensis",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Drusus of Pisaurum",
+      "entity_id": "person:drusus-pisaurensis",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "epuloni Vatinio",
+      "entity_id": "person:vatinius-tribune",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the priest Vatinius",
+      "entity_id": "person:vatinius-tribune",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Curione",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Curio",
+      "entity_id": "person:c-scribonius-curio-tr",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Arrius",
+      "entity_id": "person:c-arrius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Arrius",
+      "entity_id": "person:c-arrius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "consulatum",
+      "entity_id": "office:consul",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the consulship",
+      "entity_id": "office:consul",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Megabocchus",
+      "entity_id": "person:megabocchus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Megabocchus",
+      "entity_id": "person:megabocchus",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "auguratus",
+      "entity_id": "office:augur",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the augurate",
+      "entity_id": "office:augur",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "quinque viris",
+      "entity_id": "institution:quinqueviri",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "the five-men",
+      "entity_id": "institution:quinqueviri",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Sophocles",
+      "entity_id": "person:sophocles",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Sophocles",
+      "entity_id": "person:sophocles",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Castricianum",
+      "entity_id": "person:m-castricius-eques",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "The Castricius slip",
+      "entity_id": "person:m-castricius-eques",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Quintus",
+      "entity_id": "person:quintus-cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Quintus",
+      "entity_id": "person:quintus-cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Terentia",
+      "entity_id": "person:terentia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Terentia",
+      "entity_id": "person:terentia",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Cicero",
+      "entity_id": "person:m-cicero-the-younger",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Aristodemo",
+      "entity_id": "person:aristodemus",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Aristodemus",
+      "entity_id": "person:aristodemus",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "sororis tuae filio",
+      "entity_id": "person:q-cicero-the-younger",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "your sister's son",
+      "entity_id": "person:q-cicero-the-younger",
+      "in": "eng"
+    }
+  ]
+}

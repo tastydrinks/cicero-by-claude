@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Seleucia in Pieria",
+      "entity_id": "place:seleucia-pieria",
+      "note": "The Syrian port of Antioch on the Orontes, founded by Seleucus I; the time it took a traveller to reach Brundisium from there (twenty-eight days) gauges how slowly news of Caesar in the East reached Italy."
+    },
+    {
+      "loc": "1",
+      "anchor": "a freedman of Gaius Trebonius",
+      "entity_id": "person:c-trebonius",
+      "note": "C. Trebonius, a Caesarian officer (and later one of Caesar's assassins), had been with the army in the East; his freedman is the source of Cicero's news that the nephew had won Caesar's pardon at Antioch."
+    },
+    {
+      "loc": "1",
+      "anchor": "other Quintuses too",
+      "entity_id": null,
+      "note": "A bitter quip: besides his brother Quintus and the nephew Quintus who denounced him, Cicero fears \"other Quintuses\" — that is, fresh betrayals from his own kin. Both Quintuses had laid the blame for the family's Pompeian course on Cicero to ingratiate themselves with Caesar."
+    },
+    {
+      "loc": "2",
+      "anchor": "Marcus Gallius, son of Quintus",
+      "entity_id": "person:m-gallius",
+      "note": "A Caesarian agent charged with ferrying legions to Sicily for the coming African campaign; the patronymic \"son of Quintus\" distinguishes him in the formal Roman manner."
+    },
+    {
+      "loc": "2",
+      "anchor": "to convey legions across into Sicily",
+      "entity_id": null,
+      "note": "The legions were being staged in Sicily as the springboard for Caesar's invasion of Africa, where the Pompeian survivors under Scipio and Cato had massed their forces."
+    }
+  ]
+}

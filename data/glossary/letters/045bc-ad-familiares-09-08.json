@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-09-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "four reminders",
+      "entity_id": "text:academica",
+      "note": "This letter accompanied Cicero's dedication to Varro of the Academica, his dialogue on the theory of knowledge, composed in 45 BC. The 'four reminders' are the four books of the first edition (the Academici libri / Academica Posteriora), here personified as brash messengers sent to dun Varro for the literary gift he had long promised Cicero in return."
+    },
+    {
+      "loc": "1",
+      "anchor": "the brashness of that younger Academy",
+      "entity_id": "place:academia-athens",
+      "note": "Cicero puns on the 'younger' (or New) Academy, the sceptical phase of Plato's school associated with Arcesilaus and Carneades and continued by Philo of Larissa, whose hallmark was aggressive dialectical questioning. The joke is that his four 'reminder' books, steeped in that argumentative spirit, will badger Varro for his promised work."
+    },
+    {
+      "loc": "1",
+      "anchor": "a conversation held between us at the Cuman villa, with Pomponius present",
+      "entity_id": "text:academica",
+      "note": "Cicero casts the Academica as a dialogue set at his villa near Cumae, with himself, Varro and 'Pomponius' (T. Pomponius Atticus) as the speakers. The dramatic conversation is fictional, as the next sentence admits."
+    },
+    {
+      "loc": "1",
+      "anchor": "I have given you the parts of Antiochus",
+      "entity_id": "person:antiochus-ascalon",
+      "note": "In the dialogue Cicero assigns Varro the role of expounding the dogmatic, anti-sceptical position of Antiochus of Ascalon (Varro's own philosophical allegiance), while taking for himself the sceptical position of Philo of Larissa, Cicero's teacher. The 'parts' are thus philosophical roles in the debate over whether certain knowledge is possible."
+    },
+    {
+      "loc": "1",
+      "anchor": "you know the convention of dialogues",
+      "entity_id": "text:academica",
+      "note": "Cicero defends the literary licence of putting into the speakers' mouths arguments they never actually exchanged, appealing to the established convention of the philosophical dialogue (as practised by Plato and Aristotle) in which historical figures voice positions for the sake of the argument."
+    },
+    {
+      "loc": "2",
+      "anchor": "now, what reason have we to wish to live, if not for these?",
+      "entity_id": "person:cicero",
+      "note": "Written in 45 BC, in the depths of Cicero's grief after the death of his daughter Tullia and his political eclipse under Caesar's dictatorship, the sentence expresses the consolation he found in philosophy and shared scholarship --- the personal motive behind his great output of philosophical works in these years."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-13",
+  "mentions": [
+    {"loc": "1", "surface": "quod ad me de Varrone scripseras", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "totam Academiam ab hominibus nobilissimis abstuli", "entity_id": "text:academica", "in": "lat"},
+    {"loc": "1", "surface": "transtuli ad nostrum sodalem", "entity_id": "person:m-terentius-varro", "in": "lat"},
+    {"loc": "1", "surface": "nisi forte Brutum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "quae habes de Academicis", "entity_id": "text:academica", "in": "lat"},
+    {"loc": "1", "surface": "what you had written to me about Varro", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "1", "surface": "I have taken the whole Academica away", "entity_id": "text:academica", "in": "eng"},
+    {"loc": "1", "surface": "transferred it to our friend", "entity_id": "person:m-terentius-varro", "in": "eng"},
+    {"loc": "1", "surface": "unless perhaps Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "the Academica passages you have in copy", "entity_id": "text:academica", "in": "eng"},
+    {"loc": "2", "surface": "volo Dolabellae valde desideranti", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "2", "surface": "I want to do something for Dolabella", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "3", "surface": "Attica mea", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "3", "surface": "My Attica", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "4", "surface": "Brinni libertus coheres noster", "entity_id": "person:brinnius", "in": "lat"},
+    {"loc": "4", "surface": "coheredes se et Sabinum Albium", "entity_id": "person:albius-sabinus", "in": "lat"},
+    {"loc": "4", "surface": "si me in Tusculano postridie Nonas", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "4", "surface": "de Bruto, si quid egerit", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "4", "surface": "de Caesare, si quid scies", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "4", "surface": "Brinnius' freedman, our co-heir", "entity_id": "person:brinnius", "in": "eng"},
+    {"loc": "4", "surface": "his co-heir Sabinus Albius", "entity_id": "person:albius-sabinus", "in": "eng"},
+    {"loc": "4", "surface": "if they meet me at the Tusculanum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "4", "surface": "About Brutus, if he has done anything", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "4", "surface": "about Caesar, if you know anything", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

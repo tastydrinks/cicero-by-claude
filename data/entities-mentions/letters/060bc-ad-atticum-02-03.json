@@ -1,0 +1,354 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-03",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "Valerius",
+      "entity_id": "person:valerius-att-2-3",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Valerius",
+      "entity_id": "person:valerius-att-2-3",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Hortensio defendente",
+      "entity_id": "person:hortensius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "with Hortensius defending",
+      "entity_id": "person:hortensius",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Auli filio",
+      "entity_id": "person:auli-filius-att-2-3",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "the son of Aulus",
+      "entity_id": "person:auli-filius-att-2-3",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Epicratem",
+      "entity_id": "person:epicrates-att-2-3",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Epicrates",
+      "entity_id": "person:epicrates-att-2-3",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Κύρου παιδείαν",
+      "entity_id": "text:cyropaedia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the Cyropaedia",
+      "entity_id": "text:cyropaedia",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Cyrus",
+      "entity_id": "person:cyrus-architectus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Cyrus",
+      "entity_id": "person:cyrus-architectus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "legi agrariae",
+      "entity_id": "law:lex-iulia-agraria-59bc",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "the agrarian law",
+      "entity_id": "law:lex-iulia-agraria-59bc",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Solonium",
+      "entity_id": "place:solonium",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Solonium",
+      "entity_id": "place:solonium",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Antium",
+      "entity_id": "place:antium",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Antium",
+      "entity_id": "place:antium",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Cornelius",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Cornelius",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Balbum, Caesaris familiarem",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Balbus, Caesar's intimate",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesaris",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesar's",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "illum",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Caesar would in all things use my counsel",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompei",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompey's",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompeio",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Crassum",
+      "entity_id": "person:crassus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Crassus",
+      "entity_id": "person:crassus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Pompeio",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesare",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "consul",
+      "entity_id": "office:consul",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "consul",
+      "entity_id": "office:consul",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "in libro tertio",
+      "entity_id": "text:de-consulatu-suo",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "in book three",
+      "entity_id": "text:de-consulatu-suo",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Calliope",
+      "entity_id": "god:calliope",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Calliope",
+      "entity_id": "god:calliope",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "eo libro",
+      "entity_id": "text:de-consulatu-suo",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "that book",
+      "entity_id": "text:de-consulatu-suo",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Compitaliciis",
+      "entity_id": "festival:compitalia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "the Compitalia",
+      "entity_id": "festival:compitalia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Compitalia",
+      "entity_id": "festival:compitalia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "the Compitalia",
+      "entity_id": "festival:compitalia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Pomponiam",
+      "entity_id": "person:pomponia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Pomponia",
+      "entity_id": "person:pomponia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Terentia",
+      "entity_id": "person:terentia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "Terentia",
+      "entity_id": "person:terentia",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Θεοφράστου περὶ",
+      "entity_id": "person:theophrastus",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "the book of Theophrastus",
+      "entity_id": "person:theophrastus",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Quinti fratris",
+      "entity_id": "person:quintus-cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "your brother Quintus's",
+      "entity_id": "person:quintus-cicero",
+      "in": "eng"
+    }
+  ]
+}

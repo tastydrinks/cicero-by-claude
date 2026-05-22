@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-33",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the declaration had been filed",
+      "entity_id": null,
+      "note": "The professio: a formal registration of a debt or asset before the official handling Caesar's financial settlements. Cicero is registering the Faberian debt so that he can apply it toward buying the gardens."
+    },
+    {
+      "loc": "1",
+      "anchor": "My freedman Philotimus has made the declaration",
+      "entity_id": "person:philotimus",
+      "note": "Philotimus, a freedman of Terentia, was the long-serving manager of Cicero's household accounts and business. Here he is the agent who actually filed the registration of the debt."
+    },
+    {
+      "loc": "2",
+      "anchor": "About Vergilius I feel no embarrassment \\textit{[Greek: dys\\=opia]}",
+      "entity_id": "person:c-vergilius",
+      "note": "C. Vergilius held a share or interest in the property under negotiation; dysōpia is the Greek for the bashful reluctance Cicero says he does not feel toward him. Cicero reasons he owes Vergilius no favour that should deter the purchase."
+    },
+    {
+      "loc": "2",
+      "anchor": "in Africa, as Caelius is",
+      "entity_id": null,
+      "note": "An otherwise unidentified Caelius, cited as a man currently abroad in Africa whose absence would complicate a transaction. The reference is too brief to fix him among the several known men of that name."
+    },
+    {
+      "loc": "2",
+      "anchor": "you will look into it with Cispius",
+      "entity_id": "person:cispius",
+      "note": "Cispius is the holder of a debt (nomen) bearing on the gardens deal. The complication is that Plancus may also have a claim on the same obligation."
+    },
+    {
+      "loc": "2",
+      "anchor": "but if Plancus is fixed on it",
+      "entity_id": "person:munatius-plancus",
+      "note": "Most likely L. Munatius Plancus, a Caesarian who may be competing for the same debt (nomen) Cicero is pursuing through Cispius. The identification rests on context and is not certain."
+    },
+    {
+      "loc": "2",
+      "anchor": "With Piso, do what you can",
+      "entity_id": null,
+      "note": "A Piso acting as an intermediary in one of the debt settlements; the bare cognomen does not allow a secure identification among the many Calpurnii Pisones. He is not the Piso who speaks in De Finibus."
+    },
+    {
+      "loc": "3",
+      "anchor": "the consulship of Gnaeus Cornelius and Lucius Mummius",
+      "entity_id": "person:l-mummius-achaicus",
+      "note": "A dating formula for 146 BC, the year Corinth was destroyed: the consuls were Cn. Cornelius Lentulus and L. Mummius. Cicero wants the senatorial decree of that year located in the archive of senatus consulta to settle the membership of the commission."
+    },
+    {
+      "loc": "3",
+      "anchor": "since he was at Corinth",
+      "entity_id": "place:corinthus",
+      "note": "Corinth, the great Greek commercial city sacked by Mummius in 146 BC. Cicero infers Tuditanus's rank in that campaign to place him correctly in his projected historical dialogue."
+    },
+    {
+      "loc": "3",
+      "anchor": "You can find out about Antiochus",
+      "entity_id": null,
+      "note": "A figure (probably an officer in the Achaean war) whom Cicero wants dated by his quaestorship or military tribunate; the name is uncertain and the surrounding Latin is corrupt. This is not the philosopher Antiochus of Ascalon."
+    }
+  ]
+}

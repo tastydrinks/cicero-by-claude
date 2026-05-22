@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-27",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "1", "surface": "Sex. Aufidius", "entity_id": "person:sex-aufidius", "in": "lat"},
+    {"loc": "1", "surface": "Sex. Aufidius", "entity_id": "person:sex-aufidius", "in": "eng"},
+    {"loc": "1", "surface": "Africa", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "1", "surface": "Africa", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "1", "surface": "Cornifici", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "Cornificius", "entity_id": "person:q-cornificius", "in": "eng"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-52",
+  "mentions": [
+    {"loc": "1", "surface": "L. Tullium Montanum nosti", "entity_id": "person:l-tullius-montanus", "in": "lat"},
+    {"loc": "1", "surface": "qui cum Cicerone profectus est", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "Montanum Planco debere", "entity_id": "person:l-tullius-montanus", "in": "lat"},
+    {"loc": "1", "surface": "Montanum Planco debere", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "de ea re nescio quid te a Montano rogatum", "entity_id": "person:l-tullius-montanus", "in": "lat"},
+    {"loc": "1", "surface": "sive Plancus est rogandus", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "aut si Plancum rogandum putas", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "You know Lucius Tullius Montanus", "entity_id": "person:l-tullius-montanus", "in": "eng"},
+    {"loc": "1", "surface": "who went out with my Cicero", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "that Montanus owes Plancus 20{,}000 sesterces", "entity_id": "person:l-tullius-montanus", "in": "eng"},
+    {"loc": "1", "surface": "that Montanus owes Plancus 20{,}000 sesterces", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "you have had some request from Montanus", "entity_id": "person:l-tullius-montanus", "in": "eng"},
+    {"loc": "1", "surface": "whether by asking Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "if you think Plancus is the one to be asked", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "2", "surface": "de epistula ad Caesarem quid egeris exspecto", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "de Silio non ita sane laboro", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "2", "surface": "tu mi aut Scapulanos aut Clodianos efficias necesse est", "entity_id": "person:p-scapula", "in": "lat"},
+    {"loc": "2", "surface": "tu mi aut Scapulanos aut Clodianos efficias necesse est", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "2", "surface": "sed nescio quid videris dubitare de Clodia", "entity_id": "person:clodia", "in": "lat"},
+    {"loc": "2", "surface": "quod audio Spintherem fecisse divortium", "entity_id": "person:p-lentulus-spinther-jr", "in": "lat"},
+    {"loc": "2", "surface": "About the letter to Caesar, I am waiting to hear what you have done", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "About Silius I am not particularly anxious", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "2", "surface": "either the Scapulan gardens or the Clodian", "entity_id": "person:p-scapula", "in": "eng"},
+    {"loc": "2", "surface": "either the Scapulan gardens or the Clodian", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "2", "surface": "you seem to be in some hesitation about Clodia", "entity_id": "person:clodia", "in": "eng"},
+    {"loc": "2", "surface": "that Spinther has divorced his wife", "entity_id": "person:p-lentulus-spinther-jr", "in": "eng"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-26",
+  "mentions": [
+    {"loc": "1", "surface": "Quinto fratre", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "1", "surface": "senatus consulto", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "auctoritate senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "my brother Quintus", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "1", "surface": "the senatus consultum", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "the authority of the Senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-43",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Quintio Gallo", "entity_id": "person:q-gallius", "in": "lat"},
+    {"loc": "1", "surface": "Quintius Gallus", "entity_id": "person:q-gallius", "in": "eng"},
+    {"loc": "1", "surface": "L. Oppius M. f.", "entity_id": "person:l-oppius", "in": "lat"},
+    {"loc": "1", "surface": "L. Oppius, son of Marcus", "entity_id": "person:l-oppius", "in": "eng"},
+    {"loc": "1", "surface": "Philomeli", "entity_id": "place:philomelium", "in": "lat"},
+    {"loc": "1", "surface": "Philomelium", "entity_id": "place:philomelium", "in": "eng"},
+    {"loc": "1", "surface": "L. Egnati Rufi", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "L. Egnatius Rufus", "entity_id": "person:l-egnatius-rufus", "in": "eng"},
+    {"loc": "2", "surface": "Oppium", "entity_id": "person:l-oppius", "in": "lat"},
+    {"loc": "2", "surface": "Oppius", "entity_id": "person:l-oppius", "in": "eng"},
+    {"loc": "2", "surface": "Egnati", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "2", "surface": "Egnatius", "entity_id": "person:l-egnatius-rufus", "in": "eng"}
+  ]
+}

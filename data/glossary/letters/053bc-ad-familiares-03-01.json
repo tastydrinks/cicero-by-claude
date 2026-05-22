@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO APPIO IMP. S. D.",
+      "entity_id": "person:appius-claudius-pulcher",
+      "note": "The formal epistolary heading: \"Cicero to Appius, imperator, sends greeting.\" IMP. (imperator) was the honorific won by a victorious commander and saluted by his troops; Appius held it from his Cilician campaign. S. D. abbreviates salutem dicit."
+    },
+    {
+      "loc": "1",
+      "anchor": "your freedman Phania",
+      "entity_id": "person:phania",
+      "note": "A libertus was a manumitted slave who remained bound to his former master as patron; trusted freedmen routinely managed a Roman grandee's correspondence and confidential business, as Phania does for Appius."
+    },
+    {
+      "loc": "1",
+      "anchor": "not unwillingly --- nor unwilling, I trust, will Minerva be",
+      "entity_id": "god:minerva",
+      "note": "A play on the proverb invita Minerva (\"with Minerva unwilling,\" i.e. against one's natural aptitude); Minerva was the goddess of wisdom and craft."
+    },
+    {
+      "loc": "1",
+      "anchor": "I shall name not only \\textit{[Greek: Polias]} but \\textit{[Greek: Appias]}",
+      "entity_id": "god:minerva",
+      "note": "Polias (\"of the city\") was Athena's chief Athenian cult-title; Cicero coins \"Appias\" as a flattering parallel, joking that a Minerva-statue taken from Appius's household would be named after Appius himself."
+    },
+    {
+      "loc": "3",
+      "anchor": "the jurisconsult",
+      "entity_id": "person:l-valerius-jurisconsult",
+      "note": "A iurisconsultus was an expert in civil law who advised litigants and drafted legal formulas; Cicero puns that this Valerius needs better legal protection than he gives others."
+    }
+  ]
+}

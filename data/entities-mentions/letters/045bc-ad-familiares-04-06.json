@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-06",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO S. D. SER. SVLPICIO.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO S. D. SER. SVLPICIO.", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO S. D. SER. SVLPICIO.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "M. CICERO S. D. SER. SVLPICIO.", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "Servi", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "Servius", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "Servius tamen tuus", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "lat"},
+    {"loc": "1", "surface": "Your son Servius", "entity_id": "person:servius-sulpicius-rufus-younger", "in": "eng"},
+    {"loc": "1", "surface": "Q. Maximus", "entity_id": "person:q-fabius-maximus-cunctator", "in": "lat"},
+    {"loc": "1", "surface": "Q. Maximus", "entity_id": "person:q-fabius-maximus-cunctator", "in": "eng"},
+    {"loc": "1", "surface": "L. Paullus", "entity_id": "person:l-aemilius-paulus", "in": "lat"},
+    {"loc": "1", "surface": "L. Paullus", "entity_id": "person:l-aemilius-paulus", "in": "eng"},
+    {"loc": "1", "surface": "vester Galus", "entity_id": "person:c-sulpicius-gallus", "in": "lat"},
+    {"loc": "1", "surface": "your Galus", "entity_id": "person:c-sulpicius-gallus", "in": "eng"},
+    {"loc": "1", "surface": "M. Cato", "entity_id": "person:m-cato-censorius", "in": "lat"},
+    {"loc": "1", "surface": "M. Cato", "entity_id": "person:m-cato-censorius", "in": "eng"},
+    {"loc": "2", "surface": "in foro", "entity_id": "place:forum-romanum", "in": "lat"},
+    {"loc": "2", "surface": "in the Forum", "entity_id": "place:forum-romanum", "in": "eng"},
+    {"loc": "2", "surface": "curiam", "entity_id": "place:senate-curia", "in": "lat"},
+    {"loc": "2", "surface": "the Senate-house", "entity_id": "place:senate-curia", "in": "eng"},
+    {"loc": "2", "surface": "et foro", "entity_id": "place:forum-romanum", "in": "lat"},
+    {"loc": "2", "surface": "and from the Forum", "entity_id": "place:forum-romanum", "in": "eng"},
+    {"loc": "3", "surface": "ad unius voluntatem", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "3", "surface": "the will of one man", "entity_id": "person:caesar", "in": "eng"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-15",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "on the sixth day before the Kalends",
+      "entity_id": null,
+      "note": "Romans counted days inclusively backwards from three fixed points each month: the Kalends (1st), Nones (5th or 7th), and Ides (13th or 15th). The sixth day before the February Kalends is 24 January."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Senate decreed by name that he should at once go to Sicily",
+      "entity_id": null,
+      "note": "Sicily, a grain-supplying province strategically vital in a civil war, needed a commander loyal to the Pompeian cause; the Senate by name (nominatim) ordered Postumius to relieve the outgoing governor Furfanius before a regular successor could be installed."
+    },
+    {
+      "loc": "2",
+      "anchor": "He is being sent ahead to Sicily with imperium",
+      "entity_id": null,
+      "note": "Imperium was the formal power of military command and jurisdiction held by senior magistrates and promagistrates; sending Fannius ahead with imperium gave him lawful authority to govern and defend the province in the emergency."
+    },
+    {
+      "loc": "3",
+      "anchor": "the public money too, which is in the treasury",
+      "entity_id": "institution:aerarium",
+      "note": "The aerarium, the Roman state treasury, was housed in the temple of Saturn under quaestorian custody; the Pompeians' failure to secure it before evacuating Rome left its reserves to fall into Caesar's hands."
+    }
+  ]
+}

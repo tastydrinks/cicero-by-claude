@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-23",
+  "mentions": [
+    {"loc": "1", "surface": "ut cum Camillo communicares", "entity_id": "person:c-furius-camillus", "in": "lat"},
+    {"loc": "1", "surface": "de eo Camillus mihi scripsit", "entity_id": "person:c-furius-camillus", "in": "lat"},
+    {"loc": "1", "surface": "asking you to share it with Camillus", "entity_id": "person:c-furius-camillus", "in": "eng"},
+    {"loc": "1", "surface": "Camillus has written to me", "entity_id": "person:c-furius-camillus", "in": "eng"},
+    {"loc": "2", "surface": "Agusius quidam Rhodo venerat", "entity_id": "person:t-agusius", "in": "lat"},
+    {"loc": "2", "surface": "quidam Rhodo venerat", "entity_id": "place:rhodes", "in": "lat"},
+    {"loc": "2", "surface": "is nuntiabat Quintum filium ad Caesarem profectum", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "2", "surface": "Quintum filium ad Caesarem profectum", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Philotimum Rhodum pridie eum diem venisse", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "2", "surface": "Philotimum Rhodum pridie", "entity_id": "place:rhodes", "in": "lat"},
+    {"loc": "2", "surface": "ipsum Agusium audies", "entity_id": "person:t-agusius", "in": "lat"},
+    {"loc": "2", "surface": "mihi valde Quintus frater gratulatur", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "A man called Agusius had come from Rhodes", "entity_id": "person:t-agusius", "in": "eng"},
+    {"loc": "2", "surface": "had come from Rhodes", "entity_id": "place:rhodes", "in": "eng"},
+    {"loc": "2", "surface": "that my son Quintus had set out for Caesar", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "had set out for Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "that Philotimus had arrived at Rhodes", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "2", "surface": "had arrived at Rhodes the day before that", "entity_id": "place:rhodes", "in": "eng"},
+    {"loc": "2", "surface": "You will hear Agusius himself", "entity_id": "person:t-agusius", "in": "eng"},
+    {"loc": "2", "surface": "but my brother Quintus is offering me very strong congratulations", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "3", "surface": "te oro ut de hac misera cogites", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "3", "surface": "de statua Clodi", "entity_id": "person:clodius", "in": "lat"},
+    {"loc": "3", "surface": "generumne nostrum potissimum", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "3", "surface": "I beg you, think about this poor girl", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "3", "surface": "we hear about the statue of Clodius", "entity_id": "person:clodius", "in": "eng"},
+    {"loc": "3", "surface": "Our son-in-law, of all people", "entity_id": "person:dolabella", "in": "eng"}
+  ]
+}

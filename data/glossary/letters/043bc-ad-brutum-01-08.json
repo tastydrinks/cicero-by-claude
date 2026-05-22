@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-08",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "municipality of Suessa",
+      "entity_id": "place:suessa-aurunca",
+      "note": "Suessa Aurunca, a town in Latium Adiectum (modern Sessa Aurunca, Campania), was a Roman municipium whose citizens held full Roman citizenship."
+    },
+    {
+      "loc": "2",
+      "anchor": "In the Cretan war, under the command of Metellus",
+      "entity_id": "person:q-metellus-creticus",
+      "note": "The Cretan War (69–67 BC), fought by Q. Caecilius Metellus Creticus, who was awarded the cognomen Creticus for subduing the island. Nasennius's service here dates his military career to roughly a generation before 43 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "principal of the eighth company",
+      "entity_id": null,
+      "note": "\"Octavum principem\" designates the leading soldier (princeps) of the eighth maniple or century — a position of non-commissioned seniority in the hastati or principes line of a Republican legion."
+    },
+    {
+      "loc": "2",
+      "anchor": "some access to public distinction",
+      "entity_id": null,
+      "note": "Cicero asks Brutus (commanding in Macedonia) to give Nasennius a military post or honorific attachment to his staff; such commendations from Cicero to commanders were a standard form of political patronage."
+    }
+  ]
+}

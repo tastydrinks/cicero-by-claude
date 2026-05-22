@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "when Laevus and Nerva left me",
+      "entity_id": null,
+      "note": "Laevus and Nerva were the legates (legati) carrying Plancus's previous dispatch back to Rome; they appear only here and are otherwise unidentified. Cicero refers Plancus to their eyewitness account of his deliberations."
+    },
+    {
+      "loc": "2",
+      "anchor": "the inconstancy and unreliability of Lepidus's army",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Lepidus's troops were riddled with Caesarian sympathy for Antony; Plancus rightly fears they will go over, as they soon did, dragging Lepidus into open alliance with Antony at the end of May 43 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "to wait at the Is\\`ere until Brutus brought his army across",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "The Brutus here is Decimus Brutus Albinus, who after the relief of Mutina was marching from Cisalpine Gaul to join Plancus; the cautious plan was to await his crossing before engaging Antony. The two never effectively combined, and Decimus was killed fleeing Gaul later in 43 BC."
+    },
+    {
+      "loc": "3",
+      "anchor": "the muleteer Ventidius's camp",
+      "entity_id": "person:p-ventidius-bassus",
+      "note": "A sneer at P. Ventidius Bassus's low birth: tradition held he had begun life driving mules and supplying transport for armies. He nonetheless brought three legions to Antony and later, ironically, won Rome's great victories over the Parthians."
+    },
+    {
+      "loc": "4",
+      "anchor": "the bridge, however, which I had built across the Is\\`ere I have left in place, with two forts set at its heads",
+      "entity_id": "place:isara",
+      "note": "Plancus kept his pontoon bridge over the Isère (Latin Isara) garrisoned with twin bridgehead forts (castella ad capita) so that Decimus Brutus's army could cross without delay; standard Roman practice for securing a river passage."
+    }
+  ]
+}

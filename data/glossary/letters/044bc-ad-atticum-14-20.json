@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-20",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the hospitality of our friend Lucullus",
+      "entity_id": null,
+      "note": "The host is the younger Lucullus, son of the great L. Licinius Lucullus (cos. 74) and inheritor of the famous Lucullan luxury-villa on the bay near Misenum; he is not separately registered, so the surface is left unbound. The reference is to the estate's celebrated hospitality, a fixture of the Campanian coast."
+    },
+    {
+      "loc": "1",
+      "anchor": "on the sixth before the Ides",
+      "entity_id": null,
+      "note": "A Roman inclusive-counting date: \"the sixth day before the Ides of May,\" i.e. 10 May 44 BC. The Ides fell on the 15th in May, March, July, and October; dates are reckoned backward from it, counting both endpoints."
+    },
+    {
+      "loc": "2",
+      "anchor": "your Buthrotum",
+      "entity_id": "place:buthrotum",
+      "note": "Buthrotum was a town in Epirus where Atticus held large estates; Caesar had assigned its territory to veteran colonists, and clearing that settlement (\"the Buthrotum business\") to protect Atticus's interests is a running thread of these post-Ides letters."
+    },
+    {
+      "loc": "2",
+      "anchor": "into Samnium",
+      "entity_id": "place:samnium",
+      "note": "The mountainous region of central-southern Italy; Antony's journey there in May 44 BC was to canvass Caesar's settled veterans for armed support, hence Cicero's grim \"of which you can guess what you can hope.\""
+    },
+    {
+      "loc": "2",
+      "anchor": "Lucius Antonius's harangue",
+      "entity_id": "person:lucius-antonius",
+      "note": "Lucius Antonius, youngest brother of Mark Antony and tribune of the plebs in 44 BC; his public speech (contio) struck Cicero as menacing, in contrast to the consul Dolabella's, which he found \"brilliant.\""
+    },
+    {
+      "loc": "2",
+      "anchor": "I am sorry Tertulla has miscarried",
+      "entity_id": "person:iunia-tertia",
+      "note": "Tertulla is Iunia Tertia, half-sister of Brutus and wife of Cassius; the following joke (\"Cassii to plant as much as Bruti\") puns grimly on her miscarriage and the wish for more men like the tyrannicides."
+    },
+    {
+      "loc": "2",
+      "anchor": "About the queen --- and that ``Caesar'' of hers",
+      "entity_id": "person:cleopatra-vii",
+      "note": "\"The queen\" is Cleopatra VII, who had been Caesar's guest in Rome and was now departing after the assassination; \"that 'Caesar' of hers\" is her son Caesarion, whom she styled as Caesar's child. Caesarion has no separate registry entry, so that surface is left unbound."
+    },
+    {
+      "loc": "3",
+      "anchor": "About the Quintuses",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "\"De Quintis\" most likely groups the troublesome nephew Quintus Cicero the younger (Antony's \"right hand,\" see section 5) with his father; the surface is bound to the nephew, the active figure in these letters."
+    },
+    {
+      "loc": "3",
+      "anchor": "It is Atilius, the harshest of poets",
+      "entity_id": null,
+      "note": "Atilius was an early Roman dramatist (2nd century BC), proverbial for stiff, inelegant verse, whom Cicero quotes self-deprecatingly. He is not the same as the registry's Atilius the knight or Atilius Serranus, so the surface is left unbound."
+    },
+    {
+      "loc": "5",
+      "anchor": "Quintus my nephew, as you write, is Antony's little right hand",
+      "entity_id": "person:q-cicero-the-younger",
+      "note": "Cicero's nephew, Quintus Cicero the younger, had attached himself to Antony as a confidant (\"dextella,\" diminutive of dextra, \"right hand\"); Cicero proposes cynically to exploit the connection."
+    }
+  ]
+}

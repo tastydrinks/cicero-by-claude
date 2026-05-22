@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-57",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO THERMO PROPR. S.",
+      "entity_id": "person:q-minucius-thermus-pr",
+      "note": "The letter-heading. PROPR. = pro praetore, propraetor of Asia (51-50 BC). The last of Cicero's recommendation cluster to Thermus (Fam. 13.53-57); unusually it concerns Cicero's own legate, not a third-party client."
+    },
+    {
+      "loc": "1",
+      "anchor": "the war in Syria is a great one",
+      "entity_id": "place:syria",
+      "note": "After the destruction of Crassus's army at Carrhae (53 BC) Parthian incursions threatened Syria and the neighbouring province of Cilicia. The military pressure is Cicero's stated reason for recalling his experienced legate during his own proconsulship."
+    },
+    {
+      "loc": "1",
+      "anchor": "set out for Cilicia about the Kalends of May",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; here ca. 1 May 50 BC. Cicero, governor of Cilicia, needed M. Anneius back at headquarters before then."
+    },
+    {
+      "loc": "2",
+      "anchor": "his business with the people of Sardis",
+      "entity_id": "place:sardis",
+      "note": "Sardis, the old Lydian capital and a chief inland city of the province of Asia, was the seat of one of the province's assize districts (conventus). M. Anneius had a legal dispute with the city that fell under Thermus's jurisdiction."
+    }
+  ]
+}

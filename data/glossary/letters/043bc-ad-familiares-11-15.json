@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-15",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "you charged your colleague Plancus to excuse you to me by letter",
+      "entity_id": "person:munatius-plancus",
+      "note": "Plancus (governor of Transalpine Gaul) and Decimus Brutus were the two consuls designate for 42 BC, hence \"colleagues\"; in mid-43 BC they had joined their armies against Antony and Lepidus. Cicero is pleased that the busy Brutus had Plancus send his apologies for not writing."
+    },
+    {
+      "loc": "1",
+      "anchor": "the harmony between you that has been made plain in your joint dispatches",
+      "entity_id": null,
+      "note": "A joint dispatch (litterae communes) signed by both commanders was read in the Senate as proof of concord between Plancus and Decimus Brutus, reassuring senators that the two Gallic armies would act together."
+    }
+  ]
+}

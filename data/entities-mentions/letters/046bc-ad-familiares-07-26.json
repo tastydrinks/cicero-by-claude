@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-26",
+  "mentions": [
+    {"loc": "1", "surface": "GALLO", "entity_id": "person:m-fadius", "in": "lat"},
+    {"loc": "1", "surface": "GALLO", "entity_id": "person:m-fadius", "in": "eng"},
+    {"loc": "1", "surface": "Tusculanum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "Tusculum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "Epicurum tuum", "entity_id": "person:epicurus", "in": "lat"},
+    {"loc": "1", "surface": "your Epicurus", "entity_id": "person:epicurus", "in": "eng"},
+    {"loc": "1", "surface": "Stoici", "entity_id": "institution:stoic-school", "in": "lat"},
+    {"loc": "1", "surface": "the Stoics", "entity_id": "institution:stoic-school", "in": "eng"},
+    {"loc": "2", "surface": "lex sumptuaria", "entity_id": "law:lex-iulia-sumptuaria", "in": "lat"},
+    {"loc": "2", "surface": "the sumptuary law", "entity_id": "law:lex-iulia-sumptuaria", "in": "eng"},
+    {"loc": "2", "surface": "Lentulum", "entity_id": "person:p-lentulus-spinther-jr", "in": "lat"},
+    {"loc": "2", "surface": "Lentulus's", "entity_id": "person:p-lentulus-spinther-jr", "in": "eng"},
+    {"loc": "2", "surface": "Anicio", "entity_id": "person:anicius-c", "in": "lat"},
+    {"loc": "2", "surface": "Anicius", "entity_id": "person:anicius-c", "in": "eng"}
+  ]
+}

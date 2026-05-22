@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-11",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Cingulum",
+      "entity_id": "place:cingulum",
+      "note": "A hill-town in Picenum that Labienus had founded and fortified at his own cost; the dispatch quoted here reports it held for Pompey at the very start of the war, though Caesar soon took it. Cicero quotes a Pompeian bulletin word for word."
+    },
+    {
+      "loc": "1",
+      "anchor": "or about Hannibal",
+      "entity_id": "person:hannibal",
+      "note": "Cicero recoils that Caesar, a Roman commander, is being described as if he were Hannibal marching on Italy: an enemy seizing citizen towns, not a magistrate of the Roman people."
+    },
+    {
+      "loc": "3",
+      "anchor": "if the Gauls were coming",
+      "entity_id": null,
+      "note": "An allusion to the Gallic sack of Rome (traditionally 390 BC), when the Romans abandoned the city but held the Capitol; Cicero invokes it to argue that even then the citadel was kept, against Pompey's wholesale evacuation."
+    },
+    {
+      "loc": "3",
+      "anchor": "Themistocles did it",
+      "entity_id": "person:themistocles",
+      "note": "The Athenian who in 480 BC persuaded Athens to abandon the city and meet the Persians at sea (Salamis); Pompey's defenders cite the precedent, but Cicero answers that the cases differ - Athens faced a barbarian flood, Rome does not."
+    },
+    {
+      "loc": "3",
+      "anchor": "But Pericles did not do the same",
+      "entity_id": "person:pericles",
+      "note": "In the Peloponnesian War (from 431 BC) Pericles brought the Attic population inside the walls of Athens but did not surrender the city itself; Cicero offers him as the counter-precedent to Themistocles, about fifty years later."
+    },
+    {
+      "loc": "5",
+      "anchor": "to whom the levy and the chief matters of business shall be referred",
+      "entity_id": null,
+      "note": "Pompey commissioned Cicero to oversee Campania and the seaboard and to conduct the dilectus, the conscription of troops; the role made Cicero a regional supervisor for the Pompeian war effort along the coast where his villas lay."
+    }
+  ]
+}

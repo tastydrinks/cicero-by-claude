@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-24",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TERENTIAE SVAE", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "TERENTIAE SVAE", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "1", "surface": "Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "1", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "eng"}
+  ]
+}

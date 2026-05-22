@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-09",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "worthy of the Academy",
+      "entity_id": "place:academia-athens",
+      "note": "Cicero had named a colonnaded walk at his Tusculan villa \"the Academy,\" after Plato's school outside Athens. The art he asks Atticus to send is to suit this philosophically themed space."
+    },
+    {
+      "loc": "2",
+      "anchor": "in the gymnasium style",
+      "entity_id": null,
+      "note": "Cicero glosses his own Greek word gymnasiōdē: he wants pieces evoking the Greek gymnasium, the setting for athletic and intellectual culture that he was recreating in his villa."
+    },
+    {
+      "loc": "2",
+      "anchor": "Thyillus",
+      "entity_id": "person:thyillus",
+      "note": "A Greek poet in Cicero's and Atticus's circle, evidently an epigrammatist with antiquarian interests; he appears again at Att. 1.12."
+    },
+    {
+      "loc": "2",
+      "anchor": "the rites of the Eumolpidae",
+      "entity_id": null,
+      "note": "The Eumolpidae were the hereditary priestly clan of Eleusis who administered the Eleusinian Mysteries. Thyillus wanted material on their ancestral rites, presumably for a poem; Cicero passes on the request to Atticus in Athens."
+    }
+  ]
+}

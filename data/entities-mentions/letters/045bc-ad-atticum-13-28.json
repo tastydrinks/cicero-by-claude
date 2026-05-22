@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-28",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "de Faberio autem",
+      "entity_id": "person:faberius",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "About Faberius",
+      "entity_id": "person:faberius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "de epistula ad Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "quae sunt ad Alexandrum",
+      "entity_id": "person:alexander-magnus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "As for the letter to Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "those exhortations to Alexander",
+      "entity_id": "person:alexander-magnus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "ipsum illum Aristoteli discipulum",
+      "entity_id": "person:alexander-magnus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Aristoteli discipulum",
+      "entity_id": "person:aristotle",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "de pompa Quirini contubernalem",
+      "entity_id": "person:romulus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "πρόβλημα Ἀρχιδήμου",
+      "entity_id": "person:archedemus-tarsus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Nicias a Dolabella",
+      "entity_id": "person:nicias-cous",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "a Dolabella magno opere arcessitus",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "the very pupil of Aristotle",
+      "entity_id": "person:alexander-magnus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "pupil of Aristotle",
+      "entity_id": "person:aristotle",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "our own Quirinus's procession",
+      "entity_id": "person:romulus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Archidemus's puzzle",
+      "entity_id": "person:archedemus-tarsus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Nicias, sent for with great urgency",
+      "entity_id": "person:nicias-cous",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "sent for with great urgency by Dolabella",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "quaererem de philologis e Nicia",
+      "entity_id": "person:nicias-cous",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "petitam Cornificiam",
+      "entity_id": "person:cornificia",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "As I was asking Nicias",
+      "entity_id": "person:nicias-cous",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "that Cornificia",
+      "entity_id": "person:cornificia",
+      "in": "eng"
+    }
+  ]
+}

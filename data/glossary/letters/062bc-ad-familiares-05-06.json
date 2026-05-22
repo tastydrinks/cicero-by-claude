@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Decius the secretary",
+      "entity_id": "person:decius-librarius",
+      "note": "A librarius (clerk or copyist) acting for Sestius. The point of the letter is that Cicero blocked the appointment of a successor to Sestius's proquaestorship for the year."
+    },
+    {
+      "loc": "2",
+      "anchor": "HS 3,500,000",
+      "entity_id": null,
+      "note": "Three and a half million sesterces (HS = sestertii), the price Cicero paid Crassus for the famous house on the Palatine. The huge debt it left him is the running joke of this section."
+    },
+    {
+      "loc": "2",
+      "anchor": "the avenger of conspiracy",
+      "entity_id": "event:catilinarian-conspiracy",
+      "note": "Cicero as vindex coniurationis, the man who crushed Catiline's plot during his consulship of 63 BC. He jokes that creditors who hate him for it will not lend, while others assume the savior of the moneylenders cannot be short of cash."
+    },
+    {
+      "loc": "2",
+      "anchor": "a good name",
+      "entity_id": null,
+      "note": "Bonum nomen, a commercial-law idiom: a sound credit risk, a debtor whose name on the books is reliable. Cicero turns his political standing into financial creditworthiness."
+    },
+    {
+      "loc": "2",
+      "anchor": "half-percent",
+      "entity_id": null,
+      "note": "Semisses, interest at one half of one percent per month (six percent a year), the standard low rate; Cicero says money is freely available at it. The detail underscores how easily he could borrow."
+    }
+  ]
+}

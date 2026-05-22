@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-79",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO D. ALLIENO PROCOS. S.",
+      "entity_id": "person:a-allienus",
+      "note": "The letter-heading. The recipient is Aulus Allienus, proconsul; the praenomen \"D.\" transmitted here is a manuscript corruption for \"A.\" (the companion letter 13.78 correctly reads ALLIENO without praenomen, and the man is A. Allienus throughout). PROCOS. abbreviates proconsul, a former magistrate governing a province with consular authority."
+    },
+    {
+      "loc": "1",
+      "anchor": "His sons, who are wholly worthy of that father",
+      "entity_id": "person:c-avianius-flaccus-filius",
+      "note": "The two sons of Cicero's intimate friend C. Avianius Flaccus: one named Gaius after his father (then in Sicily) and one named Marcus (then with Cicero at Rome). Recommending the children of an old friend, on the strength of the father's standing, was a routine extension of a patronage bond across generations."
+    },
+    {
+      "loc": "1",
+      "anchor": "to defend the affairs of both",
+      "entity_id": null,
+      "note": "Cicero asks the governor both to uphold the dignitas (standing) of the son present in his province and to protect the legal and business interests (res) of both brothers - the practical substance of a commendatio addressed to a man with jurisdiction over the province where their affairs lay."
+    }
+  ]
+}

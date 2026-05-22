@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-04",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I wish you had invited me to dinner on the Ides of March: there would have been no leftovers.",
+      "entity_id": null,
+      "note": "A grim joke: the Ides of March (15 March 44 BC) was the day Cassius and the others killed Caesar; had Cicero been at the \"banquet\" he would have made sure Antony too was dispatched, leaving no surviving Caesarians (the \"leftovers\") to trouble them now."
+    },
+    {
+      "loc": "1",
+      "anchor": "Excellent consuls",
+      "entity_id": "office:consul",
+      "note": "The consuls of 43 BC, A. Hirtius and C. Vibius Pansa, who took office on 1 January and led the war against Antony at Mutina."
+    },
+    {
+      "loc": "1",
+      "anchor": "but the consulars are utterly disgraceful",
+      "entity_id": "office:consul",
+      "note": "Consulars (former consuls) were the Senate's most senior members; Cicero complains that the rank-and-file and junior senators showed more courage against Antony than the ex-consuls did."
+    },
+    {
+      "loc": "1",
+      "anchor": "by Hercules",
+      "entity_id": null,
+      "note": "Me hercule, a common conversational oath \"by Hercules,\" used for emphasis rather than any real invocation of the god."
+    },
+    {
+      "loc": "1",
+      "anchor": "the envoys Philippus and Piso",
+      "entity_id": null,
+      "note": "L. Marcius Philippus and L. Calpurnius Piso were among the senatorial legati sent in early 43 BC to deliver an ultimatum to Antony at Mutina; the embassy failed and returned with Antony's counter-demands."
+    },
+    {
+      "loc": "1",
+      "anchor": "in a cause that saves the state I have now turned popular",
+      "entity_id": null,
+      "note": "Cicero, long distrustful of mob favor, notes the irony that his stand against Antony has now made him popularis (a favorite of the people) in a genuinely patriotic cause."
+    },
+    {
+      "loc": "2",
+      "anchor": "he was so quick to succeed you",
+      "entity_id": "person:dolabella",
+      "note": "Dolabella had been assigned Syria as his province, displacing Cassius almost as soon as Cassius arrived; critics mocked the haste, and opinion held he ought to be barred from the province."
+    }
+  ]
+}

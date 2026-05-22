@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-07",
+  "mentions": [
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Ciceroni", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "Ciceroni", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "L. Bibulus", "entity_id": "person:l-calpurnius-bibulus", "in": "lat"},
+    {"loc": "1", "surface": "L. Bibulus", "entity_id": "person:l-calpurnius-bibulus", "in": "eng"},
+    {"loc": "1", "surface": "Pansae locum", "entity_id": "person:vibius-pansa", "in": "lat"},
+    {"loc": "1", "surface": "Pansa's place", "entity_id": "person:vibius-pansa", "in": "eng"},
+    {"loc": "1", "surface": "Bibulum", "entity_id": "person:l-calpurnius-bibulus", "in": "lat"},
+    {"loc": "1", "surface": "Bibulus", "entity_id": "person:l-calpurnius-bibulus", "in": "eng"},
+    {"loc": "2", "surface": "Domitio", "entity_id": "person:cn-domitius-ahenobarbus-cos32", "in": "lat"},
+    {"loc": "2", "surface": "Domitius", "entity_id": "person:cn-domitius-ahenobarbus-cos32", "in": "eng"},
+    {"loc": "2", "surface": "Apuleio", "entity_id": "person:m-appuleius", "in": "lat"},
+    {"loc": "2", "surface": "Apuleius", "entity_id": "person:m-appuleius", "in": "eng"},
+    {"loc": "2", "surface": "Bibulum", "entity_id": "person:l-calpurnius-bibulus", "in": "lat"},
+    {"loc": "2", "surface": "Bibulus", "entity_id": "person:l-calpurnius-bibulus", "in": "eng"}
+  ]
+}

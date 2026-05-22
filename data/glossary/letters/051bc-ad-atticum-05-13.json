@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "on the five hundred and sixtieth day after the battle of Bovillae",
+      "entity_id": "place:bovillae",
+      "note": "Cicero dates his arrival at Ephesus (22 July 51 BC) from the affray at Bovillae on the Appian Way (18 Jan. 52 BC) in which Clodius was killed by Milo's slaves --- a private, almost playful era marking how long he has been away from the Rome of that sensational event."
+    },
+    {
+      "loc": "1",
+      "anchor": "the tithe-farmers behaved as if I had come as their imperator",
+      "entity_id": null,
+      "note": "The decumani were the Roman tax-companies (publicani) who farmed the tithe of the eastern provinces; eager for a governor's favour, they greeted Cicero on Asian soil as if he were already their own commander, though Asia was not his province."
+    },
+    {
+      "loc": "2",
+      "anchor": "I commended to him Xeno of Apollonis",
+      "entity_id": "person:xeno-epicurean",
+      "note": "Cicero recommends Atticus's agents --- including Xeno, here styled \"of Apollonis\" (a town of Lydia) where he acted as banker --- to Q. Minucius Thermus, the propraetor governing Asia, so that Atticus's financial affairs in the province would be looked after."
+    },
+    {
+      "loc": "2",
+      "anchor": "I also disclosed to Philogenes the account of that exchange of currency I made with you",
+      "entity_id": "person:philogenes",
+      "note": "A permutatio was a banker's transfer by which money paid in at Rome could be drawn in the provinces, sparing the risk of shipping coin. Philogenes, Cicero's freedman-agent at Ephesus, was given the reckoning of the exchange Cicero had arranged with Atticus."
+    },
+    {
+      "loc": "3",
+      "anchor": "that ours be a one-year term, and not even an intercalary month added",
+      "entity_id": null,
+      "note": "Cicero dreads having his governorship prolonged and begs Atticus to ensure it lasts a single year; he even fears that the pontiffs might insert an intercalary month into the calendar, which would lengthen his tour of duty by those extra days."
+    }
+  ]
+}

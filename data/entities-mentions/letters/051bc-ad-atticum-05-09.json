@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-09",
+  "mentions": [
+    {"loc": "1", "surface": "Actium", "entity_id": "place:actium", "in": "lat"},
+    {"loc": "1", "surface": "Corcyrae", "entity_id": "place:corcyra", "in": "lat"},
+    {"loc": "1", "surface": "Sybotis", "entity_id": "place:sybota", "in": "lat"},
+    {"loc": "1", "surface": "Eutychides", "entity_id": "person:eutychides-libertus", "in": "lat"},
+    {"loc": "1", "surface": "Actio", "entity_id": "place:actium", "in": "lat"},
+    {"loc": "1", "surface": "Leucatam", "entity_id": "place:leucas", "in": "lat"},
+    {"loc": "1", "surface": "Patras", "entity_id": "place:patrae", "in": "lat"},
+    {"loc": "1", "surface": "Parthus", "entity_id": "place:parthia", "in": "lat"},
+    {"loc": "1", "surface": "Actium", "entity_id": "place:actium", "in": "eng"},
+    {"loc": "1", "surface": "Corcyra", "entity_id": "place:corcyra", "in": "eng"},
+    {"loc": "1", "surface": "Sybota", "entity_id": "place:sybota", "in": "eng"},
+    {"loc": "1", "surface": "Eutychides", "entity_id": "person:eutychides-libertus", "in": "eng"},
+    {"loc": "1", "surface": "From Actium", "entity_id": "place:actium", "in": "eng"},
+    {"loc": "1", "surface": "Leucas", "entity_id": "place:leucas", "in": "eng"},
+    {"loc": "1", "surface": "Patrae", "entity_id": "place:patrae", "in": "eng"},
+    {"loc": "1", "surface": "the Parthian", "entity_id": "place:parthia", "in": "eng"},
+    {"loc": "2", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Hortensium", "entity_id": "person:hortensius", "in": "lat"},
+    {"loc": "2", "surface": "Cicero meus", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "2", "surface": "Dionysium", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "2", "surface": "at Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Hortensius", "entity_id": "person:hortensius", "in": "eng"},
+    {"loc": "2", "surface": "My Cicero", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "eng"}
+  ]
+}

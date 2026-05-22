@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-03",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PLANCO", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCO", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "Furnium", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "1", "surface": "Furnius", "entity_id": "person:furnius", "in": "eng"},
+    {"loc": "1", "surface": "provincia", "entity_id": "place:gallia", "in": "lat"},
+    {"loc": "1", "surface": "the province", "entity_id": "place:gallia", "in": "eng"},
+    {"loc": "2", "surface": "Plance", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "2", "surface": "Plancus", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "3", "surface": "consul es designatus", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "3", "surface": "consul-designate", "entity_id": "person:munatius-plancus", "in": "eng"}
+  ]
+}

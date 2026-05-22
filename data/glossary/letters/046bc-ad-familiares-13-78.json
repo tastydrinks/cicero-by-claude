@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-78",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO ALLIENO S.",
+      "entity_id": "person:a-allienus",
+      "note": "The letter-heading. The recipient is Aulus Allienus, a Roman officer here addressed as a provincial governor (he is more fully styled proconsul in the companion letter 13.79). \"S.\" abbreviates salutem (dicit), \"sends greetings.\""
+    },
+    {
+      "loc": "1",
+      "anchor": "is not only my host",
+      "entity_id": "person:democritus-sicyonius",
+      "note": "\"Host\" renders hospes, a partner in hospitium: the formal, heritable bond of guest-friendship by which a Roman and a foreigner each owed the other lodging, protection, and good offices. It is the standing relationship that underwrites this letter of recommendation."
+    },
+    {
+      "loc": "1",
+      "anchor": "very nearly the foremost man of Achaea",
+      "entity_id": "place:achaia",
+      "note": "Achaea is the Greek mainland south of Macedonia (Athens, Corinth, the Peloponnese); Sicyon, Democritus's city, lay within it. To call a man princeps (foremost) of the region marks him as a leading provincial notable whose goodwill a governor would value."
+    },
+    {
+      "loc": "2",
+      "anchor": "you receive him into your good faith",
+      "entity_id": null,
+      "note": "To receive someone in fidem is to take him formally under one's protection and good faith - the core act Cicero requests in his letters of recommendation, binding the recipient to look after the man's interests as if they were the writer's own."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-08",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Bruto", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "2", "surface": "C. Nasenniun", "entity_id": "person:c-nasennius-suessanus", "in": "lat"},
+    {"loc": "2", "surface": "C. Nasennius", "entity_id": "person:c-nasennius-suessanus", "in": "eng"},
+    {"loc": "2", "surface": "municipem Suessanum", "entity_id": "place:suessa-aurunca", "in": "lat"},
+    {"loc": "2", "surface": "municipality of Suessa", "entity_id": "place:suessa-aurunca", "in": "eng"},
+    {"loc": "2", "surface": "Metello imperatore", "entity_id": "person:q-metellus-creticus", "in": "lat"},
+    {"loc": "2", "surface": "Metellus", "entity_id": "person:q-metellus-creticus", "in": "eng"},
+    {"loc": "2", "surface": "Brute", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"}
+  ]
+}

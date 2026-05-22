@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-16",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "2", "surface": "Laodiceae", "entity_id": "place:laodicea", "in": "lat"},
+    {"loc": "2", "surface": "Apameae", "entity_id": "place:apamea", "in": "lat"},
+    {"loc": "2", "surface": "Synnade", "entity_id": "place:synnada", "in": "lat"},
+    {"loc": "2", "surface": "Laodicea", "entity_id": "place:laodicea", "in": "eng"},
+    {"loc": "2", "surface": "Apamea", "entity_id": "place:apamea", "in": "eng"},
+    {"loc": "2", "surface": "Synnada", "entity_id": "place:synnada", "in": "eng"},
+    {"loc": "3", "surface": "quaestorem", "entity_id": "office:quaestor", "in": "lat"},
+    {"loc": "3", "surface": "lege Iulia", "entity_id": "law:lex-iulia-de-rebus-repetundis", "in": "lat"},
+    {"loc": "3", "surface": "me hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "3", "surface": "Ciceronis", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "3", "surface": "quaestor", "entity_id": "office:quaestor", "in": "eng"},
+    {"loc": "3", "surface": "Lex Julia", "entity_id": "law:lex-iulia-de-rebus-repetundis", "in": "eng"},
+    {"loc": "3", "surface": "By Hercules", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "3", "surface": "your Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "4", "surface": "Appius", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "4", "surface": "Tarsum", "entity_id": "place:tarsus", "in": "lat"},
+    {"loc": "4", "surface": "Partho", "entity_id": "place:parthia", "in": "lat"},
+    {"loc": "4", "surface": "Bibulus", "entity_id": "person:m-calpurnius-bibulus", "in": "lat"},
+    {"loc": "4", "surface": "Appius", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "4", "surface": "Tarsus", "entity_id": "place:tarsus", "in": "eng"},
+    {"loc": "4", "surface": "the Parthian", "entity_id": "place:parthia", "in": "eng"},
+    {"loc": "4", "surface": "Bibulus", "entity_id": "person:m-calpurnius-bibulus", "in": "eng"}
+  ]
+}

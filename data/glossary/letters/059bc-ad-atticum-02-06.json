@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Eratosthenes, whom I had set before me, is greatly rebuked by Serapion and Hipparchus",
+      "entity_id": null,
+      "note": "Cicero names the three pillars of Greek scientific geography: Eratosthenes of Cyrene (3rd c. BC), who measured the earth's circumference and was Cicero's model, and his critics Serapion and the astronomer Hipparchus of Nicaea (2nd c. BC), who faulted his data. The mutual contradictions are Cicero's excuse for abandoning the project."
+    },
+    {
+      "loc": "1",
+      "anchor": "if Tyrannio shall come in too",
+      "entity_id": "person:tyrannio",
+      "note": "Tyrannio of Amisus, a learned grammarian and geographer living at Rome, brought as a captive by Lucullus. Adding his views would only multiply the scholarly disputes Cicero already despairs of resolving."
+    },
+    {
+      "loc": "1",
+      "anchor": "I should rather be a duumvir",
+      "entity_id": null,
+      "note": "The duumviri were the two chief annual magistrates of a Roman colony or municipium such as Antium --- a small-town office. Cicero says, in self-mockery, that he would sooner hold petty local office at Antium than play any part in the capital."
+    },
+    {
+      "loc": "2",
+      "anchor": "who have never seen Vatinius",
+      "entity_id": "person:vatinius-tribune",
+      "note": "P. Vatinius, tribune of 59 BC and a notorious Caesarian agent, whom Cicero loathed. To live where no one has even laid eyes on him is Cicero's image of blessed retirement from Rome's politics."
+    },
+    {
+      "loc": "2",
+      "anchor": "any of the twenty-men",
+      "entity_id": "institution:vigintiviri",
+      "note": "The vigintiviri (\"twenty-men\"), the commission of twenty established by Caesar's agrarian law of 59 BC to distribute the Campanian and other public land. Cicero treats membership, and the whole board, as a badge of the new regime he detests."
+    },
+    {
+      "loc": "2",
+      "anchor": "in the Theopompian style",
+      "entity_id": "person:theopompus",
+      "note": "Theopompus of Chios (4th c. BC), historian famed for the bitterness of his invective. Cicero promises that his secret pamphlets against the wicked will match Theopompus's harshness or exceed it."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Pompeian cistophorus",
+      "entity_id": "person:pompey",
+      "note": "The cistophorus was the standard silver coin of the province of Asia, worth less than its face in Roman denarii. Atticus's money from Pompey's Eastern settlement stood in this depreciated coinage; Cicero fears his brother's funds will be \"left lying\" in it rather than paid out in good denarii."
+    }
+  ]
+}

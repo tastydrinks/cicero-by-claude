@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the assurance of Laterensis on the spot",
+      "entity_id": "person:iuventius-laterensis",
+      "note": "M. Iuventius Laterensis was a legate attached to Lepidus's army who acted as honest broker, vouching for Lepidus and urging Plancus to trust him; his subsequent disillusionment (sections 3 and 10.23.4) drives him to attempt suicide."
+    },
+    {
+      "loc": "2",
+      "anchor": "I had thrown a bridge across the river Isara in a single day",
+      "entity_id": "place:isara",
+      "note": "The Isara is the river Isère, a left-bank tributary of the Rhone in Transalpine Gaul; bridging it in a day to bring his army toward Lepidus was a feat Plancus advertises as proof of his energy."
+    },
+    {
+      "loc": "3",
+      "anchor": "I have sent a copy of his autograph to Titius",
+      "entity_id": "person:p-titius-tribune",
+      "note": "P. Titius, tribune of the plebs in 43, had earlier vetoed Cicero's motion honoring Plancus; Plancus forwards Laterensis's incriminating autograph letter to him, presumably to vindicate his own conduct before a hostile witness."
+    },
+    {
+      "loc": "3",
+      "anchor": "I shall give to Laevus Cispius to carry through, who was party to the whole affair",
+      "entity_id": null,
+      "note": "Laevus Cispius is otherwise unknown, a trusted member of Plancus's staff entrusted to carry the originals of the autograph letters as documentary proof."
+    },
+    {
+      "loc": "4",
+      "anchor": "men of the Canidius and Rufrenus stamp",
+      "entity_id": null,
+      "note": "Canidius and Rufrenus were officers in Lepidus's army whom Plancus blames for corrupting the troops toward Antony; he names them as types of the disloyal commanders he will identify in full later."
+    },
+    {
+      "loc": "4",
+      "anchor": "all the enemy declared public enemies at last and their goods confiscated",
+      "entity_id": "institution:senate",
+      "note": "A reference to the Senate's decrees of late April 43 declaring Antony and his followers hostes (public enemies), which entailed confiscation of their property; Lepidus's soldiers cite these very measures as reason not to fight for the Senate's side."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-05",
+  "mentions": [
+    {"loc": "1", "surface": "SERVIVS CICERONI S.", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIVS CICERONI S.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "SERVIVS CICERONI S.", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "SERVIVS CICERONI S.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Tulliae, filiae tuae", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "your daughter Tullia", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "4", "surface": "ex Asia", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "4", "surface": "from Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "4", "surface": "ab Aegina", "entity_id": "place:aegina", "in": "lat"},
+    {"loc": "4", "surface": "Aegina", "entity_id": "place:aegina", "in": "eng"},
+    {"loc": "4", "surface": "Megaram", "entity_id": "place:megara", "in": "lat"},
+    {"loc": "4", "surface": "Megara", "entity_id": "place:megara", "in": "eng"},
+    {"loc": "4", "surface": "post me erat Aegina", "entity_id": "place:aegina", "in": "lat"},
+    {"loc": "4", "surface": "ante me Megara", "entity_id": "place:megara", "in": "lat"},
+    {"loc": "4", "surface": "Behind me was Aegina", "entity_id": "place:aegina", "in": "eng"},
+    {"loc": "4", "surface": "before me Megara", "entity_id": "place:megara", "in": "eng"},
+    {"loc": "4", "surface": "dextra Piraeus", "entity_id": "place:piraeus", "in": "lat"},
+    {"loc": "4", "surface": "on my right the Piraeus", "entity_id": "place:piraeus", "in": "eng"},
+    {"loc": "4", "surface": "sinistra Corinthus", "entity_id": "place:corinthus", "in": "lat"},
+    {"loc": "4", "surface": "on my left Corinth", "entity_id": "place:corinthus", "in": "eng"},
+    {"loc": "4", "surface": "Servi", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "4", "surface": "Servius", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "4", "surface": "imperio populi Romani", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "4", "surface": "the empire of the Roman people", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "5", "surface": "Ciceronem esse", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "5", "surface": "you are Cicero", "entity_id": "person:cicero", "in": "eng"}
+  ]
+}

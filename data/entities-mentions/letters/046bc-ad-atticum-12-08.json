@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-08",
+  "mentions": [
+    {"loc": "1", "surface": "de Cicerone multis res placet", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "quid referat Celer egisse Caesarem cum candidatis", "entity_id": "person:q-pilius-celer", "in": "lat"},
+    {"loc": "1", "surface": "quid referat Celer egisse Caesarem cum candidatis", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "utrum ipse in fenicularium an in Martium campum cogitet", "entity_id": "place:hispania", "in": "lat"},
+    {"loc": "1", "surface": "an in Martium campum cogitet", "entity_id": "place:campus-martius", "in": "lat"},
+    {"loc": "1", "surface": "numquid necesse sit comitiis esse Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "nam et Piliae satis faciendum est", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "1", "surface": "et utique Atticae", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "About young Cicero --- the plan strikes many people as good", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "what Celer reports Caesar to have done with the candidates", "entity_id": "person:q-pilius-celer", "in": "eng"},
+    {"loc": "1", "surface": "what Celer reports Caesar to have done with the candidates", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "whether he himself has his thoughts on the Fennel-field of Spain", "entity_id": "place:hispania", "in": "eng"},
+    {"loc": "1", "surface": "or on the Campus Martius", "entity_id": "place:campus-martius", "in": "eng"},
+    {"loc": "1", "surface": "necessary that I be at Rome for the elections", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "I must keep my word to Pilia", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "1", "surface": "and certainly to Attica", "entity_id": "person:attica-pomponia", "in": "eng"}
+  ]
+}

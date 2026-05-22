@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-03",
+  "mentions": [
+    {"loc": "1", "surface": "non modo Tusculanum", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "nomen illud, quod a Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "aut Vettieni condicione semissem", "entity_id": "person:vettienus", "in": "lat"},
+    {"loc": "1", "surface": "tu Atticam, quaeso, cura", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "et ei salutem et Piliae", "entity_id": "person:pilia", "in": "lat"},
+    {"loc": "1", "surface": "et Piliae Tulliae quoque verbis plurimam", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "if my Tusculan villa", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "that debt of mine from Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "or, on Vettienus's terms, the half", "entity_id": "person:vettienus", "in": "eng"},
+    {"loc": "1", "surface": "You look after Attica, please", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "1", "surface": "and Pilia and Tullia's too", "entity_id": "person:pilia", "in": "eng"},
+    {"loc": "1", "surface": "and Pilia and Tullia's too", "entity_id": "person:tullia", "in": "eng"}
+  ]
+}

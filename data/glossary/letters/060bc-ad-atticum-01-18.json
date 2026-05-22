@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-18",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the case of the Clodian play",
+      "entity_id": "person:clodius",
+      "note": "The trial of P. Clodius Pulcher for sacrilege: in December 62 BC he had intruded, disguised as a woman, on the all-female rites of the Bona Dea held in Caesar's house. Cicero testified against him in the trial of 61 BC; Clodius was acquitted by a bribed jury, becoming Cicero's bitterest enemy."
+    },
+    {
+      "loc": "3",
+      "anchor": "the bought and corrupted trial",
+      "entity_id": null,
+      "note": "The Clodius jury was notoriously bribed to acquit; Cicero saw the verdict as proof that the courts themselves were now corrupt. The bribery scandal prompted the jury-law fight referred to just below."
+    },
+    {
+      "loc": "3",
+      "anchor": "the two foundations of the commonwealth which I alone had set up",
+      "entity_id": null,
+      "note": "The authority of the senate (auctoritas senatus) and the concord of the orders (concordia ordinum) --- the senate--equestrian alliance Cicero credited himself with cementing in his consulship of 63 BC and now saw collapsing."
+    },
+    {
+      "loc": "3",
+      "anchor": "no law has been carried",
+      "entity_id": null,
+      "note": "A senatorial decree (senatus consultum) called for a bribery law, but no statute was actually passed through the assembly; the jury-corruption inquiry that the equites feared therefore stalled, alienating them further."
+    },
+    {
+      "loc": "3",
+      "anchor": "the annual rites of Iuventas",
+      "entity_id": "god:iuventas",
+      "note": "The yearly sacrifices to Iuventas, goddess of youth, here neglected. Cicero uses the lapse as a sour omen opening the year, then pivots to the scandal of Memmius and Lucullus's wife."
+    },
+    {
+      "loc": "3",
+      "anchor": "this our Paris held neither Menelaus nor Agamemnon to be free",
+      "entity_id": null,
+      "note": "A Homeric jibe: Memmius (the new 'Paris') seduced not only the wife of M. Lucullus (cast as the cuckold Menelaus) but also the wife of his brother L. Lucullus (the elder 'Agamemnon'). The Trojan prince Paris had stolen only Menelaus's Helen."
+    },
+    {
+      "loc": "4",
+      "anchor": "transferring Publius Clodius to the plebs",
+      "entity_id": "person:clodius",
+      "note": "Clodius, a patrician, sought adoption into a plebeian family (transitio ad plebem) so as to stand for the tribunate, an office barred to patricians. He achieved it in 59 BC and used the tribunate of 58 to drive Cicero into exile."
+    },
+    {
+      "loc": "4",
+      "anchor": "he is your fellow tribesman",
+      "entity_id": null,
+      "note": "Roman citizens were enrolled in voting tribes; Herennius and Atticus belonged to the same one. Cicero's point is that Atticus might have influence with the man, whose father had bought that tribe's votes."
+    },
+    {
+      "loc": "5",
+      "anchor": "the son of Aulus",
+      "entity_id": "person:l-afranius",
+      "note": "L. Afranius, consul of 60 BC and Pompey's man, here scorned by his patronymic. Cicero mocks his military incompetence and his meekness before the demagogue Palicanus."
+    },
+    {
+      "loc": "6",
+      "anchor": "An agrarian law has been promulgated by Flavius",
+      "entity_id": "person:l-flavius-tr-pl-60",
+      "note": "L. Flavius, tribune of 60 BC and Pompey's agent, brought a land bill to settle Pompey's veterans, modelled on an earlier Plotian bill. Pompey backed it only feebly, to Cicero's disgust."
+    },
+    {
+      "loc": "6",
+      "anchor": "that little painted toga of his",
+      "entity_id": "person:pompey",
+      "note": "The toga picta, the gold-embroidered purple robe of a triumphing general, which Pompey had worn at his great triumph of 61 BC. Cicero's diminutive 'togula' mocks Pompey for hiding behind his past glory instead of acting."
+    },
+    {
+      "loc": "6",
+      "anchor": "their fish-ponds will be safe",
+      "entity_id": null,
+      "note": "The piscinarii --- wealthy nobles like Hortensius and Lucullus who lavished care on their ornamental fish-ponds while neglecting the state. A recurring sneer of Cicero's at the political idleness of the optimate grandees."
+    },
+    {
+      "loc": "7",
+      "anchor": "harassing the wretched publicans",
+      "entity_id": "institution:publicani",
+      "note": "Cato blocked the Asian tax-farmers' demand for relief on their over-bid contract (the affair of letter 1.17.9), holding up all other senate business for months. His rigour drove the equites toward Caesar, who granted the relief in 59 BC."
+    },
+    {
+      "loc": "7",
+      "anchor": "embassies, I think, will also have to be put off",
+      "entity_id": null,
+      "note": "The senate customarily heard foreign embassies (legationes) early in the year; Cato's filibuster over the publicani was paralysing even this routine business."
+    },
+    {
+      "loc": "8",
+      "anchor": "assessed at the very lustration",
+      "entity_id": null,
+      "note": "Roman citizens were registered (censiti) by the censors; the census closed with the lustrum, a purification rite. Cicero teases Atticus that leaving his registration to the last moment is the trick of a 'born tradesman' dodging the assessment."
+    },
+    {
+      "loc": "8",
+      "anchor": "Eleven days before the Kalends of February",
+      "entity_id": null,
+      "note": "The Roman date a.d. XI Kal. Febr., counted inclusively backward from the Kalends (1st) of February: 22 January 60 BC. The consular dating that follows names the year by its two consuls."
+    }
+  ]
+}

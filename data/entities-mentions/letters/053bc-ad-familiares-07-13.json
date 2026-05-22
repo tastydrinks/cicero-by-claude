@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-13",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "both"},
+    {"loc": "1", "surface": "TREBATIO", "entity_id": "person:c-trebatius-testa", "in": "both"},
+    {"loc": "1", "surface": "Testa mi", "entity_id": "person:c-trebatius-testa", "in": "lat"},
+    {"loc": "1", "surface": "my dear Testa", "entity_id": "person:c-trebatius-testa", "in": "eng"},
+    {"loc": "1", "surface": "imperator", "entity_id": "office:imperator", "in": "both"},
+    {"loc": "1", "surface": "Caesare", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "Treviros", "entity_id": "group:treveri", "in": "lat"},
+    {"loc": "2", "surface": "Treveri", "entity_id": "group:treveri", "in": "eng"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-22",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "over the cups",
+      "entity_id": null,
+      "note": "Inter scyphos: 'amid the wine-cups,' i.e. at a drinking-party the night before. Cicero teases that even tipsy and home late he could still settle the legal point."
+    },
+    {
+      "loc": "1",
+      "anchor": "an action of theft",
+      "entity_id": null,
+      "note": "Actio furti: the civil suit for theft in Roman law. The disputed point is whether an heir may bring it for a theft committed against the estate before the inheritance fell to him."
+    },
+    {
+      "loc": "1",
+      "anchor": "Sex. Aelius, M'. Manilius, and M. Brutus",
+      "entity_id": null,
+      "note": "Three foundational Republican jurists (2nd c. BC) whose authority Cicero cites to refute Trebatius: Sex. Aelius Paetus (author of the Tripertita), M'. Manilius (cos. 149), and M. Junius Brutus the jurisconsult."
+    },
+    {
+      "loc": "1",
+      "anchor": "I side with Scaevola and Testa",
+      "entity_id": "person:c-trebatius-testa",
+      "note": "The joke: Cicero ranks his young friend Trebatius ('Testa') alongside Q. Mucius Scaevola, the greatest of Roman jurists, as if they were co-equal authorities, while pointedly siding against the trio of old masters just cited."
+    }
+  ]
+}

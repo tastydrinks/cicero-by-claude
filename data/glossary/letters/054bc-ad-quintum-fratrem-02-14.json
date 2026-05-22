@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-14",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "Bribery is back, monstrous",
+      "entity_id": null,
+      "note": "Ambitus, electoral bribery, had reached an unprecedented pitch in the consular canvass of 54 BC; Cicero returns to it as the dominant scandal of the season."
+    },
+    {
+      "loc": "4",
+      "anchor": "the interest rate jumped from a third to two-thirds per cent",
+      "entity_id": null,
+      "note": "The rate (reckoned monthly) doubled because so much cash was being borrowed for bribery, draining the money market; the figures are monthly interest, so roughly four to eight per cent a year."
+    },
+    {
+      "loc": "4",
+      "anchor": "the syndicate of Memmius and the consuls with Domitius",
+      "entity_id": "person:c-memmius",
+      "note": "A coitio: the consular candidate C. Memmius struck a corrupt bargain with the sitting consuls of 54, L. Domitius Ahenobarbus and Ap. Claudius, to pool resources and rig the elections; M. Aemilius Scaurus, a rival candidate, was outbidding them."
+    },
+    {
+      "loc": "4",
+      "anchor": "to be announced at the praerogativa",
+      "entity_id": null,
+      "note": "The centuria praerogativa was the century that voted first in the comitia centuriata; its result, taken as an omen, often swayed the rest, so bribe-prices were quoted for securing it."
+    },
+    {
+      "loc": "4",
+      "anchor": "depositing 500,000 sesterces apiece with Marcus Cato",
+      "entity_id": "person:cato-minor",
+      "note": "M. Porcius Cato (Cato the Younger), byword for incorruptibility, was made stakeholder for the tribunician candidates: each lodged a forfeit with him, to be paid to him if convicted of bribery, so that Cato alone policed the election."
+    }
+  ]
+}

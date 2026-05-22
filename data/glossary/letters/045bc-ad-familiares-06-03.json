@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-03",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "since one or the other must conquer, what each victory --- this one or that one --- is going to be like",
+      "note": "Cicero's darkly even-handed assessment of the civil war's likely end: he sees little difference between a Pompeian and a Caesarian victory for the prospects of the traditional republic, a view he expressed more openly in his letters to Atticus. The argument serves consolatorily to detach Torquatus's anxiety from the battle's outcome."
+    },
+    {
+      "loc": "3",
+      "anchor": "to die no wise man has ever held to be wretched, not even for a man in happiness",
+      "note": "Standard Stoic (and Platonic) consolation: death is not an evil, only the loss of sensation; Cicero deploys this throughout his Tusculan Disputations (written the same year, 45 BC) and cites it here as the irreducible floor beneath Torquatus's anxiety."
+    },
+    {
+      "loc": "3",
+      "anchor": "you are in a city in which these things --- these and many more, and in ampler form --- the very walls would seem able to speak",
+      "entity_id": "place:athenae",
+      "note": "Athens, where Torquatus was residing; Cicero means that Athens, the home of philosophy (Plato's Academy, the Stoic Stoa, the Epicurean Garden), surrounds Torquatus with consolatory wisdom richer than anything Cicero can supply by letter."
+    },
+    {
+      "loc": "4",
+      "anchor": "owls to Athens",
+      "entity_id": "place:athenae",
+      "note": "The Greek proverb glaukos eis Athenas ('owls to Athens'), equivalent to 'coals to Newcastle': Athena's sacred bird was the owl, and Athens minted owl-coins; sending philosophical consolation to a man living in the philosophical capital is self-evidently superfluous. Cicero quotes the Greek in the Latin text."
+    },
+    {
+      "loc": "4",
+      "anchor": "as long as I am, I shall not be tormented by anything, since I am free of all fault; and if I am not, I shall be wholly without perception",
+      "note": "An Epicurean-Stoic double-lock consolation: while alive, freedom from guilt suffices for tranquillity; after death, there is no perception left to suffer. Cicero uses this same formula more elaborately in Fam. 6.4 and in the Tusculans."
+    }
+  ]
+}

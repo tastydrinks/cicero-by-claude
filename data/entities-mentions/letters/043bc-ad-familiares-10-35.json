@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-35",
+  "mentions": [
+    {"loc": "1", "surface": "M. LEPIDVS IMP. ITER. PONT. MAX.", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "1", "surface": "M. LEPIDVS IMP. ITER. PONT. MAX.", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "1", "surface": "SENATVI", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "SENATVI", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "POPVLO PLEBIQVE ROMANAE", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "POPVLO PLEBIQVE ROMANAE", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "1", "surface": "p. c.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "1", "surface": "senators", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "1", "surface": "civium Romanorum", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "1", "surface": "Roman citizens", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "2", "surface": "p. c.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "senators", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

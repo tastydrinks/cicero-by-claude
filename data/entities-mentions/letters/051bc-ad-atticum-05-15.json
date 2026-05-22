@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-15",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Laodiceam", "entity_id": "place:laodicea", "in": "lat"},
+    {"loc": "1", "surface": "Laodiceae", "entity_id": "place:laodicea", "in": "lat"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Laodicea", "entity_id": "place:laodicea", "in": "eng"},
+    {"loc": "1", "surface": "at Laodicea", "entity_id": "place:laodicea", "in": "eng"},
+    {"loc": "1", "surface": "at Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "you have only to be at Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Appi", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "2", "surface": "Laodicea", "entity_id": "place:laodicea", "in": "lat"},
+    {"loc": "2", "surface": "Lycaoniam", "entity_id": "place:lycaonia", "in": "lat"},
+    {"loc": "2", "surface": "Taurum", "entity_id": "place:taurus", "in": "lat"},
+    {"loc": "2", "surface": "senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "Puteolano", "entity_id": "place:puteoli", "in": "lat"},
+    {"loc": "2", "surface": "Appius's", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "2", "surface": "from Laodicea", "entity_id": "place:laodicea", "in": "eng"},
+    {"loc": "2", "surface": "Lycaonia", "entity_id": "place:lycaonia", "in": "eng"},
+    {"loc": "2", "surface": "Taurus", "entity_id": "place:taurus", "in": "eng"},
+    {"loc": "2", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "Puteoli", "entity_id": "place:puteoli", "in": "eng"}
+  ]
+}

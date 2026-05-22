@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-04-08a",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Dionysio", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "eng"},
+    {"loc": "2", "surface": "Trebonio", "entity_id": "person:c-trebonius", "in": "lat"},
+    {"loc": "2", "surface": "Domitio", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "lat"},
+    {"loc": "2", "surface": "Trebonius", "entity_id": "person:c-trebonius", "in": "eng"},
+    {"loc": "2", "surface": "Domitius", "entity_id": "person:l-domitius-ahenobarbus-cos54", "in": "eng"},
+    {"loc": "3", "surface": "Natta", "entity_id": "person:pinarius-natta", "in": "lat"},
+    {"loc": "3", "surface": "Natta", "entity_id": "person:pinarius-natta", "in": "eng"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-02-13",
+  "mentions": [
+    {"loc": "1", "surface": "Tribus Tabernis", "entity_id": "place:tres-tabernae", "in": "lat"},
+    {"loc": "1", "surface": "Tres Tabernae", "entity_id": "place:tres-tabernae", "in": "eng"},
+    {"loc": "1", "surface": "Formianum", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "1", "surface": "Formian villa", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "2", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "2", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Τηλέπυλον", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "2", "surface": "Telepylus", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "2", "surface": "Formias", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "2", "surface": "Formiae", "entity_id": "place:formiae", "in": "eng"},
+    {"loc": "2", "surface": "Magnus", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "2", "surface": "Magnus", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "2", "surface": "Crassi Divitis", "entity_id": "person:crassus", "in": "lat"},
+    {"loc": "2", "surface": "Crassus the Rich", "entity_id": "person:crassus", "in": "eng"},
+    {"loc": "2", "surface": "Sicyonios", "entity_id": "place:sicyon", "in": "lat"},
+    {"loc": "2", "surface": "Sicyonians", "entity_id": "place:sicyon", "in": "eng"},
+    {"loc": "2", "surface": "Formianum", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "2", "surface": "Formian villa", "entity_id": "place:formiae", "in": "eng"}
+  ]
+}

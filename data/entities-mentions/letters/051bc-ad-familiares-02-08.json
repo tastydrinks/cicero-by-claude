@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-08",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "M. CICERO PROCOS.",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO",
+      "entity_id": "person:caelius-defendant",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CICERO PROCOS.",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "M. CAELIO",
+      "entity_id": "person:caelius-defendant",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompeio",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompeium",
+      "entity_id": "person:pompey",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompey",
+      "entity_id": "person:pompey",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Athenis",
+      "entity_id": "place:athenae",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Gallus noster Caninius",
+      "entity_id": "person:gallus-canius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Athens",
+      "entity_id": "place:athenae",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "our friend Caninius Gallus",
+      "entity_id": "person:gallus-canius",
+      "in": "eng"
+    }
+  ]
+}

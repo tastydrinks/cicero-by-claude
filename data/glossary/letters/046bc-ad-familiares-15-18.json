@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Yours, indeed, is in the kitchen",
+      "note": "A jab at Cassius's new Epicureanism: Cicero pretends the school's 'philosophy' amounts to no more than the pleasures of the table, opposing it to his own (Academic/Stoic) philosophy that nags him as a moral taskmaster."
+    },
+    {
+      "loc": "1",
+      "anchor": "to avoid having to hear Plato's rebuke",
+      "entity_id": "person:plato",
+      "note": "Cicero, ashamed to 'serve' the present regime, busies himself with trivia so as not to face the reproach of Plato, whose ideal is that the philosopher should engage in public life rather than withdraw."
+    },
+    {
+      "loc": "2",
+      "anchor": "Of Spain nothing certain yet",
+      "entity_id": "place:hispania",
+      "note": "Again the awaited news of Caesar's campaign against the Pompeians in Spain (the Munda campaign), the dominant suspense of these last weeks of 46 BC."
+    }
+  ]
+}

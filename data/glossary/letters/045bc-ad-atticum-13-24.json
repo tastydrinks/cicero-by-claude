@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-24",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Hermogenes Clodius",
+      "entity_id": "person:hermogenes",
+      "note": "The relayer of a third-hand rumour: Hermogenes Clodius reported that Andromenes had seen Cicero's son. The double name marks him as a freedman or client of a Clodius."
+    },
+    {
+      "loc": "1",
+      "anchor": "Andromenes",
+      "entity_id": "person:andromenes",
+      "note": "The original source of the report that Cicero's son had been sighted at Corcyra, en route to or from his studies; otherwise unknown."
+    },
+    {
+      "loc": "1",
+      "anchor": "he had seen Cicero at Corcyra",
+      "entity_id": "person:m-cicero-the-younger",
+      "note": "'Cicero' here is the orator's son, Marcus the younger, then travelling to study in Athens. Corcyra (Corfu) lay on the sea route from Italy to Greece."
+    },
+    {
+      "loc": "1",
+      "anchor": "The four parchments",
+      "entity_id": null,
+      "note": "The diphtherai (Greek for prepared animal skins), here the four books of the Academica being made ready for Varro. Cicero leaves to Atticus whether to present them."
+    },
+    {
+      "loc": "2",
+      "anchor": "About the withholding",
+      "entity_id": null,
+      "note": "The retentio of letter 13.23: a debtor's clause holding back part of a payment. Cicero urges Atticus to close the account at once, without hesitation or reconsideration."
+    }
+  ]
+}

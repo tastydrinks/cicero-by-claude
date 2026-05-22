@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-16-21",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I had been waiting eagerly for the letter-carriers",
+      "note": "The writer is the younger Marcus Cicero, then a student at Athens (44 BC); the letter-carriers had taken forty-six days to reach him from Italy. The 'kind, dearest father' is the orator himself."
+    },
+    {
+      "loc": "2",
+      "anchor": "the errors of my youth",
+      "note": "Young Marcus had a reputation for dissipation; here he assures Tiro he has reformed and asks Tiro to be the 'trumpeter' of his improving good name to his father."
+    },
+    {
+      "loc": "3",
+      "anchor": "with Cratippus I am bound not as a pupil to his teacher but as a son to his father",
+      "entity_id": "person:cratippus-pergamenus",
+      "note": "Cratippus of Pergamum, the leading Peripatetic philosopher of the day, under whom Marcus studied at Athens; Cicero the elder admired him and dedicated De Officiis to his son partly on his account."
+    },
+    {
+      "loc": "4",
+      "anchor": "what shall I say of Bruttius?",
+      "entity_id": "person:l-bruttius",
+      "note": "Bruttius was Marcus's companion and Latin-declamation partner at Athens, living frugally near him; he is plausibly, though not certainly, the equestrian L. Bruttius known from Cicero's recommendations."
+    },
+    {
+      "loc": "5",
+      "anchor": "I have started to declaim in Greek with Cassius",
+      "entity_id": "person:cassius-rhetor",
+      "note": "A rhetorician named Cassius at Athens with whom Marcus practised Greek declamation; not the tyrannicide C. Cassius Longinus."
+    },
+    {
+      "loc": "5",
+      "anchor": "the friends Cratippus brought with him from Mytilene",
+      "entity_id": "place:mytilene",
+      "note": "Mytilene, the chief city of Lesbos, a noted seat of philosophy and rhetoric; Cratippus had taught there before coming to Athens and brought learned associates from it."
+    },
+    {
+      "loc": "5",
+      "anchor": "Epicrates, too, the leading man of Athens",
+      "entity_id": "person:epicrates-atheniensis",
+      "note": "Epicrates, a prominent Athenian citizen of Marcus's acquaintance, mentioned alongside Leonides as part of his social circle there. Otherwise unknown."
+    },
+    {
+      "loc": "6",
+      "anchor": "what you write me about Gorgias",
+      "entity_id": "person:gorgias-rhetor",
+      "note": "Gorgias was a rhetoric tutor useful for daily declamation, but Cicero the elder had written 'in so many words' (diarrheden) that Marcus dismiss him at once, apparently as a bad influence; the obedient son complied."
+    },
+    {
+      "loc": "8",
+      "anchor": "have a copyist sent to me as quickly as possible, a Greek one above all",
+      "note": "A librarius (copyist), preferably one trained in Greek, was needed to transcribe Marcus's hypomnemata (lecture-notebooks); the request shows the practical infrastructure of a student's study abroad."
+    },
+    {
+      "loc": "8",
+      "anchor": "I commend Anteros to you",
+      "entity_id": "person:anteros-servus",
+      "note": "Anteros, evidently a slave or freedman of the household whom young Marcus commends to Tiro's care, probably the bearer of the letter."
+    }
+  ]
+}

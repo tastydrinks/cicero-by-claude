@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-18",
+  "mentions": [
+    {"loc": "1", "surface": "placet enim mihi Cluati", "entity_id": "person:cluatius", "in": "lat"},
+    {"loc": "1", "surface": "non obturbavit Philippus", "entity_id": "person:l-marcius-philippus", "in": "lat"},
+    {"loc": "1", "surface": "statim Romam profectus est", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Cluatius's design pleases me", "entity_id": "person:cluatius", "in": "eng"},
+    {"loc": "1", "surface": "which Philippus, as I had feared, did not disturb", "entity_id": "person:l-marcius-philippus", "in": "eng"},
+    {"loc": "1", "surface": "he set out at once for Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "epistulam quam ad Brutum", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "2", "surface": "The letter I wrote to Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "3", "surface": "Cocceius vide ne frustretur", "entity_id": "person:cocceius", "in": "lat"},
+    {"loc": "3", "surface": "nam Libo quod pollicetur", "entity_id": "person:l-scribonius-libo-cos34", "in": "lat"},
+    {"loc": "3", "surface": "ut Eros scribit", "entity_id": "person:eros-turius", "in": "lat"},
+    {"loc": "3", "surface": "de sorte mea Sulpicio confido", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "3", "surface": "et Egnatio scilicet", "entity_id": "person:l-egnatius-rufus", "in": "lat"},
+    {"loc": "3", "surface": "de Appuleio quid est quod labores", "entity_id": "person:m-appuleius", "in": "lat"},
+    {"loc": "3", "surface": "See that Cocceius does not put me off", "entity_id": "person:cocceius", "in": "eng"},
+    {"loc": "3", "surface": "As for what Libo promises", "entity_id": "person:l-scribonius-libo-cos34", "in": "eng"},
+    {"loc": "3", "surface": "by what Eros writes", "entity_id": "person:eros-turius", "in": "eng"},
+    {"loc": "3", "surface": "For my own principal I trust Sulpicius", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "3", "surface": "and Egnatius, of course", "entity_id": "person:l-egnatius-rufus", "in": "eng"},
+    {"loc": "3", "surface": "About Appuleius, what need to trouble yourself", "entity_id": "person:m-appuleius", "in": "eng"}
+  ]
+}

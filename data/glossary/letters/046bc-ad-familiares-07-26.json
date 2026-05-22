@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-26",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "your Epicurus",
+      "entity_id": "person:epicurus",
+      "note": "Epicurus (341-270 BC), the Greek philosopher whose school Fadius Gallus followed; Cicero teases his Epicurean friend by recalling that the Stoics mocked Epicurus for admitting that bladder and bowel complaints (the price of the high life) distressed him."
+    },
+    {
+      "loc": "2",
+      "anchor": "the sumptuary law",
+      "entity_id": "law:lex-iulia-sumptuaria",
+      "note": "Caesar's sumptuary law of 46 BC capped spending on luxury foods (oysters, lampreys, imported delicacies) but exempted produce of the soil. Cicero's joke is that the law backfired: cooks lavished their art on the permitted vegetables, and the rich greens at the dinner gave him worse trouble than any banned dish."
+    },
+    {
+      "loc": "2",
+      "anchor": "an augural dinner at Lentulus's",
+      "entity_id": "person:p-lentulus-spinther-jr",
+      "note": "A cena auguralis, the lavish banquet a newly co-opted member of the college of augurs gave to mark his inauguration. The host is conventionally identified as P. Cornelius Lentulus Spinther the younger."
+    },
+    {
+      "loc": "2",
+      "anchor": "Anicius",
+      "entity_id": "person:anicius-c",
+      "note": "C. Anicius, a senatorial friend of Cicero, who witnessed Cicero's bout of sickness and reported it to Gallus."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-01-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the Ides of January",
+      "entity_id": null,
+      "note": "The Ides fell on the 13th of most months but the 15th of March, May, July, and October; here 13 January 56 BC. Cicero dates senate sittings by these fixed calendar points (Kalends, Nones, Ides)."
+    },
+    {
+      "loc": "1",
+      "anchor": "Bibulus's opinion be divided",
+      "entity_id": null,
+      "note": "A senatorial sententia containing distinct proposals could be split (divisio) so each part was voted separately. Here Bibulus's motion was divided so the senate could accept its religious clause while rejecting the three-legate clause."
+    },
+    {
+      "loc": "1",
+      "anchor": "went over to the other side",
+      "entity_id": null,
+      "note": "Senators voted by physically crossing the chamber to stand with the proposer they favoured (discessio, 'going over' / 'in alia omnia ire'). The 'full house' moving against the three-legate clause shows it was defeated."
+    },
+    {
+      "loc": "4",
+      "anchor": "while the auspices stand",
+      "entity_id": null,
+      "note": "By watching the sky for omens a magistrate could declare the auspices unfavourable (obnuntiatio) and so halt a popular assembly. Cicero means he has ensured no bill could be passed by the people except by breaking auspices, laws, or by open violence."
+    },
+    {
+      "loc": "4",
+      "anchor": "a most weighty resolution of the Senate was passed",
+      "entity_id": "institution:senate",
+      "note": "When a tribune vetoed (intercessit) a formal decree, the senate's expressed will was recorded instead as a senatus auctoritas. Cato's and Caninius's veto here downgraded the measure but it was still entered on record."
+    }
+  ]
+}

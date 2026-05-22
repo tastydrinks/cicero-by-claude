@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I want the commonwealth at last to be put on a firm footing",
+      "entity_id": "institution:senate",
+      "note": "Written in mid-April 44 BC, a month after Caesar's assassination, this phrase encodes Cicero's hope that the conspirators' act will restore republican government; by 'commonwealth on a firm footing' he means a restored Senate-led res publica, not a new autocracy."
+    },
+    {
+      "loc": "1",
+      "anchor": "the promise you make in your letter",
+      "entity_id": "person:pompeius-bithynicus",
+      "note": "Bithynicus had promised (in the letter preserved as Fam. 6.16) to come to Rome and live near Cicero if the political situation improved; Cicero treats this as a binding promissum and lists it as one of his personal reasons to want republican restoration."
+    },
+    {
+      "loc": "2",
+      "anchor": "the regard your father, a most distinguished man, had for me",
+      "entity_id": "person:pompeius-bithynicus",
+      "note": "Cicero alludes to the elder Bithynicus's friendship with him — probably a Pompeian connection — while noting that his own bond with the younger man surpasses any mere inherited obligation; the compliment ('most distinguished man') is a standard Roman obituary formula for a dead patron."
+    },
+    {
+      "loc": "2",
+      "anchor": "those who have prospered at the times that have favoured them are more closely bound to you than I am; in family ties, no one is",
+      "note": "A careful self-positioning: Cicero admits that Caesar's beneficiaries owe Bithynicus more material gratitude than he does, but claims superiority in genuine affection — a way of distinguishing himself from the transactional patronage of the Caesarian faction now dominant in Rome."
+    }
+  ]
+}

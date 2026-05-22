@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-28",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "About Faberius",
+      "entity_id": "person:faberius",
+      "note": "Faberius, Caesar's secretary, whose large debt to Cicero (the nomen Faberianum) was meant to fund the purchase of the gardens. Cicero awaits his arrival to settle the account."
+    },
+    {
+      "loc": "2",
+      "anchor": "those exhortations to Alexander",
+      "entity_id": "person:alexander-magnus",
+      "note": "The genre of the protreptic 'letter to Alexander the Great,' a stock rhetorical exercise (e.g. Isocrates and the so-called Aristotle) advising the young conqueror. Cicero invokes it as the impossible model his own letter of advice to Caesar would have had to match."
+    },
+    {
+      "loc": "3",
+      "anchor": "the very pupil of Aristotle",
+      "entity_id": "person:alexander-magnus",
+      "note": "Alexander the Great, tutored in his youth by Aristotle, who (Cicero says) grew arrogant and cruel once he was hailed as king --- a pointed warning about Caesar."
+    },
+    {
+      "loc": "3",
+      "anchor": "our own Quirinus's procession",
+      "entity_id": "person:romulus",
+      "note": "Quirinus is the deified Romulus. Caesar had been voted a statue carried in the procession of the gods and a place beside Quirinus, so Cicero calls him sardonically the 'messmate' (contubernalis) of Quirinus's procession --- a jab at his divine honours."
+    },
+    {
+      "loc": "3",
+      "anchor": "Archidemus's puzzle",
+      "entity_id": "person:archedemus-tarsus",
+      "note": "Archidemus (Archedemus) of Tarsus, a Stoic logician; the 'problema Archidemou' was a knotty dialectical problem Cicero had set Atticus. He uses it here as shorthand for the perplexity he no longer feels about the Caesar letter."
+    },
+    {
+      "loc": "3",
+      "anchor": "Nicias",
+      "entity_id": "person:nicias-cous",
+      "note": "Nicias of Cos, a learned grammarian and friend in Cicero's circle, summoned away by Dolabella. He is Cicero's source for the gossip about Cornificia in the next section."
+    },
+    {
+      "loc": "4",
+      "anchor": "the philologists",
+      "entity_id": null,
+      "note": "Philologi, scholars and literary men; Cicero pretends to question Nicias about them in order to draw out the real gossip about the marriage proposal."
+    },
+    {
+      "loc": "4",
+      "anchor": "we fell upon Thalna",
+      "entity_id": null,
+      "note": "The Thalna here is the would-be suitor of Cornificia, called modest and frugal; he is distinct from the corrupt juror Thalna of 61 BC (Att. 1.16) and is not otherwise identifiable. FLAG: no clean roster or registry match; left untagged."
+    },
+    {
+      "loc": "4",
+      "anchor": "Cornificia, the daughter of Quintus",
+      "entity_id": "person:cornificia",
+      "note": "Cornificia, daughter of Quintus Cornificius, an older much-married woman floated as a bride; Cicero finds the match unappealing. 'Quintus' here is her father Cornificius, not Cicero's brother."
+    },
+    {
+      "loc": "4",
+      "anchor": "the estate not more than 800,000",
+      "entity_id": null,
+      "note": "A sum in sesterces (HS 800,000), reckoned too small a fortune; the women of the family disapproved of the match on that ground. The bare numeral in the Latin (DCCC) is a standard abbreviation for the figure in thousands."
+    }
+  ]
+}

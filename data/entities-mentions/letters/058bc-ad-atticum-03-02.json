@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-02",
+  "mentions": [
+    {"loc": "1", "surface": "Siccae", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "1", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "lat"},
+    {"loc": "1", "surface": "Autronium", "entity_id": "person:p-autronius-paetus", "in": "lat"},
+    {"loc": "1", "surface": "naribus Luc.", "entity_id": "place:nares-lucanae", "in": "lat"},
+    {"loc": "1", "surface": "Sicca's", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "1", "surface": "Brundisium", "entity_id": "place:brundisium", "in": "eng"},
+    {"loc": "1", "surface": "Autronius", "entity_id": "person:p-autronius-paetus", "in": "eng"},
+    {"loc": "1", "surface": "Nares Lucanae", "entity_id": "place:nares-lucanae", "in": "eng"}
+  ]
+}

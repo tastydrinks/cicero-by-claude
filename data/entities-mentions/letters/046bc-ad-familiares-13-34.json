@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-34",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "lat"},
+    {"loc": "1", "surface": "ACILIO PROCONSVLI", "entity_id": "person:m-acilius-glabrio-procos-sicily", "in": "eng"},
+    {"loc": "1", "surface": "Lysone, Lysonis filio, Lilybitano", "entity_id": "person:lyso-lilybitanus-filius", "in": "lat"},
+    {"loc": "1", "surface": "Lyso of Lilybaeum, the son of Lyso", "entity_id": "person:lyso-lilybitanus-filius", "in": "eng"},
+    {"loc": "1", "surface": "Lysonis", "entity_id": "person:lyso-lilybitanus", "in": "lat"},
+    {"loc": "1", "surface": "son of Lyso", "entity_id": "person:lyso-lilybitanus", "in": "eng"},
+    {"loc": "1", "surface": "Lilybitano", "entity_id": "place:lilybaeum", "in": "lat"},
+    {"loc": "1", "surface": "Lilybaeum", "entity_id": "place:lilybaeum", "in": "eng"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Epirus",
+      "entity_id": "place:epirus",
+      "note": "The mountainous region of north-western Greece where Atticus owned the estate at Buthrotum. Atticus repeatedly pressed Cicero to break his exile journey there; Cicero kept declining."
+    },
+    {
+      "loc": "1",
+      "anchor": "Cyzicus",
+      "entity_id": "place:cyzicus",
+      "note": "A Greek city on the Propontis (Sea of Marmara), in the province of Asia. Cicero here still imagines fleeing east to Asia rather than settling in Macedonia, the plan he soon abandoned."
+    },
+    {
+      "loc": "1",
+      "anchor": "the fourteenth day before the Kalends of May",
+      "entity_id": null,
+      "note": "The Roman inclusive-counting date formula: ante diem XIV Kalendas Maias, i.e. 18 April 58 BC. The Kalends was the first day of the month."
+    }
+  ]
+}

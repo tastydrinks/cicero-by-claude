@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-49",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "About Tigellius",
+      "entity_id": "person:tigellius",
+      "note": "Tigellius Hermogenes, a Sardinian singer of Caesar's circle and grandson of Phamea, here estranged from Cicero and a source of gossip about Caesar's plans. Later satirized by Horace."
+    },
+    {
+      "loc": "1",
+      "anchor": "so Fadius Gallus writes me",
+      "entity_id": "person:m-fadius",
+      "note": "M. Fadius Gallus, a cultivated Epicurean friend of Cicero and art-collector, recipient of several letters in Ad Familiares 7; \"Gallus\" throughout this letter is the same man."
+    },
+    {
+      "loc": "1",
+      "anchor": "I let Phamea down",
+      "entity_id": "person:phamea",
+      "note": "Phamea, grandfather of Tigellius, whose lawsuit Cicero had agreed to take on; Tigellius's grievance is that Cicero withdrew from the case. The complaint is the source of the present coolness."
+    },
+    {
+      "loc": "1",
+      "anchor": "against the young Octavii, sons of Gnaeus",
+      "entity_id": null,
+      "note": "The opposing parties in Phamea's suit, sons of a Gnaeus Octavius; not securely identifiable with any Octavius elsewhere in the corpus, so left untagged."
+    },
+    {
+      "loc": "1",
+      "anchor": "verdict on our friend Sestius under the Lex Pompeia",
+      "entity_id": null,
+      "note": "P. Sestius, the tribune of 57 BC whom Cicero had defended; the trial here turns on the rigid schedule a Pompeian judicial statute imposed on the courts, which clashed with the date set for Phamea's case."
+    },
+    {
+      "loc": "2",
+      "anchor": "Balbus the younger",
+      "entity_id": "person:cornelius-balbus-younger",
+      "note": "The younger L. Cornelius Balbus, nephew of Caesar's confidant the elder Balbus; \"the man\" Cicero is careful not to name as the source of the rumour."
+    }
+  ]
+}

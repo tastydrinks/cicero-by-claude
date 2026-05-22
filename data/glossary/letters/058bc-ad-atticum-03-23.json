@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-23",
+  "notes": [
+    {"loc": "1", "anchor": "the eighth day before the Kalends of November", "entity_id": null, "note": "Reckoned inclusively backward from the Kalends (1st), this is 25 October 58 BC; the dating runs through the letter as Cicero collates Atticus's three letters."},
+    {"loc": "1", "anchor": "the law was promulgated by the eight tribunes of the plebs", "entity_id": "office:tribune", "note": "Eight of the ten tribunes of 58 BC drafted and posted the first bill for Cicero's recall; \"promulgate\" (promulgare) means to publish a bill's text and so begin the mandatory waiting period before a vote."},
+    {"loc": "1", "anchor": "the promulgation has brought", "entity_id": null, "note": "Promulgatio was the formal posting of a proposed law for the trinundinum (three market-days, about 24 days) so the people could consider it before voting."},
+    {"loc": "2", "anchor": "that bill of the old tribunes had three clauses", "entity_id": null, "note": "The \"old\" or outgoing tribunes of 58 BC; a rogatio (bill) was put to the people clause by clause (caput, \"head\"). Cicero dissects its three heads in turn."},
+    {"loc": "2", "anchor": "nothing is restored except citizenship and rank", "entity_id": null, "note": "The first clause restored Cicero's civic status (civitas) and senatorial standing (ordo) but not, he complains, his confiscated property or his razed house, which it left dangerously unaddressed."},
+    {"loc": "2", "anchor": "The second clause is the standard one on indemnity", "entity_id": null, "note": "A tralaticium (boilerplate) clause carried over from earlier statutes, granting immunity to anyone who in enacting this law transgressed some other law."},
+    {"loc": "2", "anchor": "the protective clauses of laws to be abrogated are never observed", "entity_id": null, "note": "A sanctio was the self-protective clause by which a law sought to bar its own repeal; to abrogate (abrogare) a law is to annul it wholly by a fresh vote of the people."},
+    {"loc": "3", "anchor": "promulgate, abrogate, derogate, obrogate", "entity_id": null, "note": "The four Roman verbs of legislation: promulgare, to publish a bill; abrogare, to repeal a law entirely; derogare, to repeal part of one; obrogare, to override one by passing a contrary law."},
+    {"loc": "3", "anchor": "by the laws or plebiscites", "entity_id": null, "note": "A plebiscite (plebis scitum) was a measure passed by the plebeian assembly; since the lex Tributa of 287 BC it bound the whole people, so Clodius's exile law had full statutory force."},
+    {"loc": "4", "anchor": "by the law of their own college they were not bound", "entity_id": null, "note": "The ten tribunes formed a single collegium; the self-protective clause of Clodius's law did not penalize fellow tribunes, so the eight ran no personal risk in the wording they inserted."},
+    {"loc": "4", "anchor": "he said in a contio", "entity_id": null, "note": "A contio was an informal public meeting at which a magistrate addressed the people without a vote; Clodius used it to argue that the inserted clause itself conceded the difficulty of repealing his law."},
+    {"loc": "4", "anchor": "Ninnius", "entity_id": "person:l-ninnius-quadratus", "note": "L. Ninnius Quadratus, tribune of 58 BC and the first to move Cicero's recall; Cicero wonders how so dangerous a clause slipped past so loyal a watchman."},
+    {"loc": "4", "anchor": "look at the law that Visellius drafted for T. Fadius", "entity_id": "person:visellius-varro", "note": "Visellius (a jurist and cousin of Cicero) drafted a rival recall bill for the tribune-elect T. Fadius; Cicero prefers it to the version sponsored by Sestius."},
+    {"loc": "5", "anchor": "on Crassus, on Pompey, on the rest", "entity_id": null, "note": "M. Licinius Crassus and Pompey, the great men whose hesitation Atticus reckoned was holding the recall back; Crassus was lukewarm, Pompey not yet committed."}
+  ]
+}

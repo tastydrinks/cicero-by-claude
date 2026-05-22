@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-52",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO REGI S.",
+      "entity_id": "person:rex-recipient",
+      "note": "The letter-heading. The recipient is addressed only by the cognomen Rex; the identification is uncertain, though he is likely Q. Marcius Rex. The bare cognomen is all the heading supplies."
+    },
+    {
+      "loc": "1",
+      "anchor": "is my oldest guest-friend",
+      "entity_id": "person:a-licinius-aristoteles",
+      "note": "Hospitium (guest-friendship) was a hereditary, reciprocal bond of hospitality and protection between families of different communities, here between Cicero and a Maltese household. To call Aristoteles his hospes antiquissimus is to claim the strongest non-kin obligation Roman custom recognised."
+    },
+    {
+      "loc": "1",
+      "anchor": "I obtained his pardon from Caesar",
+      "entity_id": "person:caesar",
+      "note": "After the civil war Caesar exercised personal clementia, granting pardon to former Pompeians; Cicero, restored to favour, frequently brokered such pardons. Aristoteles had taken the senatorial side even longer than Cicero, which made the intercession the more delicate."
+    }
+  ]
+}

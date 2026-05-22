@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-18",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TERENTIAE SVAE", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "TERENTIAE SVAE", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "1", "surface": "PATER", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "PATER", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SVAVISSIMAE FILIAE", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "SVAVISSIMAE FILIAE", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "MATRI", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "MATRI", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "1", "surface": "SORORI", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "SORORI", "entity_id": "person:tullia", "in": "eng"},
+    {"loc": "1", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Dolabellam", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "1", "surface": "Dolabella", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "1", "surface": "Roma", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "2", "surface": "Philotimo", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "2", "surface": "Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "2", "surface": "Formiis", "entity_id": "place:formiae", "in": "lat"},
+    {"loc": "2", "surface": "Formiae", "entity_id": "place:formiae", "in": "eng"}
+  ]
+}

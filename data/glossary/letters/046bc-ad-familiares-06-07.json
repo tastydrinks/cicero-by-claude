@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-07",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "I am to this day still paying the penalty of my pen",
+      "entity_id": "text:liber-querelarum",
+      "note": "Caecina refers to his ongoing exile as the direct consequence of his pamphlet (the Liber Querelarum), which had attacked Caesar or the Caesarian side; the Latin 'stili poenas' literally means 'the penalties of the stylus,' a vivid formulation for literary prosecution."
+    },
+    {
+      "loc": "1",
+      "anchor": "the sum of my crime being that, with arms in my hand, I spoke ill of an adversary",
+      "note": "Caecina's sardonic summary of his legal situation: in war you are allowed to fight your enemy, but apparently not to write against him. The distinction between the permitted violence of arms and the impermissible violence of words carries bitter irony throughout this letter."
+    },
+    {
+      "loc": "2",
+      "anchor": "not one who, even when he was sacrificing for some other reason, did not even at that moment pray that Caesar should be defeated as soon as possible",
+      "entity_id": "person:caesar",
+      "note": "Caecina argues that every Roman on the Pompeian side privately prayed for Caesar's defeat at every sacrifice, making his merely written complaint trivial by comparison; the argument turns on the universality of the sentiment Caesar chose to punish in Caecina alone."
+    },
+    {
+      "loc": "3",
+      "anchor": "this kind of writing ought to be not merely unfettered but full-speed and high-flying",
+      "entity_id": "text:liber-querelarum",
+      "note": "Caecina's literary-critical apology for his pamphlet: he argues that the genre of encomiastic or polemical prose demands freedom and energy, but that political fear obliged him to write so cautiously that the result was inevitably feeble. The image of a staircase with missing steps is one of the most vivid metaphors in the Ciceronian correspondence."
+    },
+    {
+      "loc": "4",
+      "anchor": "take cover behind Brutus and look for a partner in your excuse",
+      "entity_id": "text:orator",
+      "note": "Cicero's Orator (46 BC) is dedicated to M. Junius Brutus and deploys him as an interlocutor or addressee to shield the author from direct criticism of his stylistic judgements; Caecina sees the same nervous hedging in Cicero that he confesses in himself. The Orator was written in the same year as this correspondence."
+    },
+    {
+      "loc": "5",
+      "anchor": "You see the time has come when a decision must be made about me",
+      "note": "Caecina presses Cicero to intervene actively with Caesar on his behalf rather than merely offering encouragement; the letter shifts from literary discussion to urgent political pleading, revealing the real purpose behind what had begun as a discussion of the problematic pamphlet."
+    }
+  ]
+}

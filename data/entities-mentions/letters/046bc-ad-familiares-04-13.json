@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-13",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "P. FIGVLO", "entity_id": "person:p-nigidius-figulus", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "P. FIGVLO", "entity_id": "person:p-nigidius-figulus", "in": "eng"},
+    {"loc": "2", "surface": "Caesar", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "res publica", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "2", "surface": "ipsius Caesaris", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "2", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "2", "surface": "the state's defence", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "2", "surface": "Caesar's own utmost humanity", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "3", "surface": "P. Nigidio", "entity_id": "person:p-nigidius-figulus", "in": "lat"},
+    {"loc": "3", "surface": "P. Nigidius", "entity_id": "person:p-nigidius-figulus", "in": "eng"},
+    {"loc": "4", "surface": "Romae", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "4", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "5", "surface": "res publica", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "5", "surface": "the republic", "entity_id": "institution:populus-romanus", "in": "eng"}
+  ]
+}

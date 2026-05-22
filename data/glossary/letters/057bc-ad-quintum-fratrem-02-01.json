@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "We consulars were there",
+      "entity_id": "office:consul",
+      "note": "The consulares were ex-consuls, the most senior rank in the Senate, called on for their opinions first. Cicero, consul in 63 BC, was one of them."
+    },
+    {
+      "loc": "1",
+      "anchor": "the case of the Campanian land",
+      "entity_id": "place:ager-campanus",
+      "note": "The fertile public land of Campania, distributed to Caesar's veterans and the urban poor under his agrarian law of 59 BC. Reopening the question struck at the heart of the triumvirs' settlement, which is why the Senate fell silent rather than provoke the absent Pompey."
+    },
+    {
+      "loc": "2",
+      "anchor": "draw the judges by lot through the urban praetor",
+      "entity_id": "office:praetor",
+      "note": "The praetor urbanus, the chief judicial magistrate at Rome, supervised the empanelling of jurors by lot. Marcellinus wanted the bribery courts staffed and running before the elections."
+    },
+    {
+      "loc": "3",
+      "anchor": "from the Graecostasis and the steps",
+      "entity_id": "place:graecostasis",
+      "note": "The Graecostasis was a raised platform beside the Comitium where foreign envoys stood; together with the adjacent steps it gave Clodius's hired gangs a vantage from which to disrupt the proceedings."
+    },
+    {
+      "loc": "3",
+      "anchor": "Of the tribunes of the plebs, by far the best we have is Racilius",
+      "entity_id": "person:l-racilius-petitor",
+      "note": "L. Racilius, tribune of the plebs in 56 BC, who pressed for the bribery courts and harried Clodius; Cicero counts him a firm ally among the year's tribunes."
+    }
+  ]
+}

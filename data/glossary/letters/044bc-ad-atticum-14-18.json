@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-14-18",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Dolabella's exploit",
+      "entity_id": "person:dolabella",
+      "note": "Dolabella, consul-suffect in 44 BC, won Cicero's praise for violently suppressing the altar-cult that sprang up at the spot where Caesar's body was burned. The same Dolabella is also Cicero's debtor (he had married and divorced Cicero's daughter Tullia and owed back her dowry), which sours the praise here."
+    },
+    {
+      "loc": "1",
+      "anchor": "the Kalends of January",
+      "entity_id": null,
+      "note": "The Kalends (1st) of January, the standing date on which the instalment of Tullia's returned dowry fell due; Dolabella had still not paid."
+    },
+    {
+      "loc": "1",
+      "anchor": "Faberius's pen",
+      "entity_id": "person:faberius",
+      "note": "Faberius was Caesar's secretary (scriba); the phrase means Dolabella cleared his huge debts by means of a payment-order written up in Faberius's hand out of Caesar's papers and the public funds."
+    },
+    {
+      "loc": "1",
+      "anchor": "sought aid from Ops (opem ab Ope)",
+      "entity_id": null,
+      "note": "An untranslatable pun: opem ab Ope, \"help from Ops.\" Ops was the goddess of plenty whose temple on the Capitol held a vast treasure of Caesar's; Antony and his allies were drawing on it, so to seek opem (\"aid\") was literally to raid the temple of Ops."
+    },
+    {
+      "loc": "1",
+      "anchor": "the eighth before the Ides",
+      "entity_id": null,
+      "note": "Counting back inclusively from the Ides (here the 15th of May), the eighth day before is 8 May 44 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Patulcian debt",
+      "entity_id": null,
+      "note": "The \"Patulcian debt\" (nomen Patulcianum) was one of the loans in Cicero's tangled finances that Atticus was managing; the Latin here is corrupt (the editors dagger †suspendiatus est†), so the precise sense is uncertain."
+    },
+    {
+      "loc": "2",
+      "anchor": "†hung up†",
+      "entity_id": null,
+      "note": "The daggers mark a textual crux: the manuscript word (suspendiatus) is not good Latin, and editors cannot recover with certainty what Cicero wrote about how the Patulcian debt stood on his account."
+    },
+    {
+      "loc": "2",
+      "anchor": "Eros",
+      "entity_id": "person:eros-atticianus",
+      "note": "Eros, a slave or freedman in Atticus's service who kept Cicero's accounts and carried his correspondence; Cicero complains he had left Eros behind precisely to settle such financial matters."
+    },
+    {
+      "loc": "3",
+      "anchor": "That Servius",
+      "entity_id": "person:servius-sulpicius-rufus",
+      "note": "Ser. Sulpicius Rufus (cos. 51), Rome's leading jurist and a cautious friend of Cicero; his gloomy assessment of the political situation as he set off recurs across these letters."
+    },
+    {
+      "loc": "4",
+      "anchor": "the Ides of March",
+      "entity_id": "event:ides-of-march",
+      "note": "The assassination of Caesar on 15 March 44 BC. Cicero's bleak verdict here — that the Ides \"did not get us very far\" — captures the Liberators' failure to follow the killing with any political settlement."
+    }
+  ]
+}

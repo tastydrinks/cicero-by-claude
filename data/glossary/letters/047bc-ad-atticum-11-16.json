@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "in the Cassius business",
+      "entity_id": "person:cassius-longinus",
+      "note": "One of a string of reverses Cicero lists across the eastern theatre. The \"Cassius business\" refers to operations involving C. Cassius Longinus and the unsettled Pompeian remnant at sea, the details of which were reaching Cicero only as rumour."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Achaian party are now also holding out to Fufius the hope of suing for pardon",
+      "entity_id": "person:q-fufius-calenus",
+      "note": "The Pompeians stranded in Achaia were applying to Q. Fufius Calenus, Caesar's commander in Greece, for terms. Cicero contrasts their reviving prospects with his own: the delay at Alexandria \"set their cause right and overturned mine.\""
+    },
+    {
+      "loc": "4",
+      "anchor": "I, given these ills, am not unwilling to be at Patrae",
+      "entity_id": "place:patrae",
+      "note": "Patrae (modern Patras) on the Achaian coast was a frequent waystation and wintering place for Romans crossing to and from Greece. The quoted correspondent reports himself content to remain there."
+    },
+    {
+      "loc": "5",
+      "anchor": "to consult with Camillus",
+      "entity_id": "person:c-furius-camillus",
+      "note": "C. Furius Camillus was a jurist and financial adviser used by both Cicero and Atticus. Cicero wants him consulted on the legal drafting of Terentia's will."
+    },
+    {
+      "loc": "5",
+      "anchor": "advise Terentia about her will",
+      "entity_id": "person:terentia",
+      "note": "Cicero's wife Terentia; their marriage was breaking down amid quarrels over money. He suspects, on Philotimus's report, that she is mismanaging the family finances to Tullia's detriment, and wants her will set in order."
+    }
+  ]
+}

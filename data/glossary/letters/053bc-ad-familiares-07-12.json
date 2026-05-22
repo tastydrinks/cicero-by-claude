@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-07-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "you have turned Epicurean",
+      "entity_id": "institution:epicurean-school",
+      "note": "The Epicureans held that pleasure is the highest good and counselled withdrawal from public life. Cicero mock-laments that a serious jurist has adopted a creed that, taken literally, undermines the whole basis of civil law and public duty."
+    },
+    {
+      "loc": "2",
+      "anchor": "as it ought to be done well between honest men",
+      "entity_id": null,
+      "note": "A famous clause of the legal action on a fiduciary trust (fiducia): 'ut inter bonos bene agier oportet.' Cicero's pun is that an Epicurean, who acts only for his own pleasure, can never be the 'honest man' (bonus) the formula presupposes."
+    },
+    {
+      "loc": "2",
+      "anchor": "the action for partitioning common property",
+      "entity_id": null,
+      "note": "The actio communi dividundo, the lawsuit by which co-owners divided jointly held property. Cicero jokes that 'common' property is meaningless to a sect that measures everything by private pleasure."
+    },
+    {
+      "loc": "2",
+      "anchor": "Jupiter of the Stone",
+      "entity_id": "god:jupiter",
+      "note": "The oath 'per Iovem Lapidem' was the most solemn Roman oath, sworn holding a flint stone sacred to Jupiter. Cicero's barb: how can Trebatius administer this oath when Epicurean theology denies that the gods feel anger and so could punish a perjurer?"
+    },
+    {
+      "loc": "2",
+      "anchor": "the people of Ulubrae",
+      "entity_id": "place:ulubrae",
+      "note": "Ulubrae was a byword for a tiny, all-but-abandoned town in the Pomptine marshes. Cicero turns Trebatius's Epicurean withdrawal from politics into a comic crisis for these notional 'constituents,' picking up the frog joke of Fam. 7.18."
+    }
+  ]
+}

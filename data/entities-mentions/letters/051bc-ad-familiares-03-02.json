@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-03-02",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "PROCOS.", "entity_id": "office:proconsul", "in": "lat"},
+    {"loc": "1", "surface": "APPIO PVLCHRO", "entity_id": "person:appius-claudius-pulcher", "in": "lat"},
+    {"loc": "1", "surface": "IMP.", "entity_id": "office:imperator", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "PROCOS.", "entity_id": "office:proconsul", "in": "eng"},
+    {"loc": "1", "surface": "APPIO PVLCHRO", "entity_id": "person:appius-claudius-pulcher", "in": "eng"},
+    {"loc": "1", "surface": "IMP.", "entity_id": "office:imperator", "in": "eng"},
+    {"loc": "2", "surface": "senatus consulto", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "senatorial decree", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

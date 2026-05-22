@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-45",
+  "mentions": [
+    {"loc": "1", "surface": "de Attica optime", "entity_id": "person:attica-pomponia", "in": "lat"},
+    {"loc": "1", "surface": "in Tusculano eo commodius ero", "entity_id": "place:tusculum", "in": "lat"},
+    {"loc": "1", "surface": "ceteroqui ἀνεκτότερα erant Asturae", "entity_id": "place:astura", "in": "lat"},
+    {"loc": "1", "surface": "de Caesare vicino scripseram ad te", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "eum σύνναον Quirini malo quam Salutis", "entity_id": "person:romulus", "in": "lat"},
+    {"loc": "1", "surface": "eum σύνναον Quirini malo quam Salutis", "entity_id": "place:templum-salutis", "in": "lat"},
+    {"loc": "1", "surface": "tu vero pervulga Hirtium", "entity_id": "person:hirtius", "in": "lat"},
+    {"loc": "1", "surface": "vituperandi Catonis inrideretur", "entity_id": "person:cato-minor", "in": "lat"},
+    {"loc": "1", "surface": "Excellent news about Attica", "entity_id": "person:attica-pomponia", "in": "eng"},
+    {"loc": "1", "surface": "I shall be the more comfortably placed at the Tusculanum", "entity_id": "place:tusculum", "in": "eng"},
+    {"loc": "1", "surface": "things were more bearable [Greek: anektotera] at Astura", "entity_id": "place:astura", "in": "eng"},
+    {"loc": "1", "surface": "About Caesar as neighbour I had written to you", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "I would rather have him a temple-mate of Quirinus", "entity_id": "person:romulus", "in": "eng"},
+    {"loc": "1", "surface": "of Quirinus, than of Salus", "entity_id": "place:templum-salutis", "in": "eng"},
+    {"loc": "1", "surface": "But yes, do spread Hirtius about", "entity_id": "person:hirtius", "in": "eng"},
+    {"loc": "1", "surface": "the theme [Greek: hypothesis] of vilifying Cato", "entity_id": "person:cato-minor", "in": "eng"}
+  ]
+}

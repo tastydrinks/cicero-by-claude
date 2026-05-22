@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "against his father-in-law",
+      "entity_id": null,
+      "note": "Pansa's father-in-law is not named in the letter; he was a figure associated with the Antonian faction whom Pansa nonetheless attacked in the Senate, demonstrating his public commitment to the republican cause over family loyalty."
+    },
+    {
+      "loc": "1",
+      "anchor": "a consul to whom from the start spirit was not lacking, nor at the end fidelity",
+      "entity_id": "person:vibius-pansa",
+      "note": "Pansa (cos. 43) was wounded at the battle of Forum Gallorum (April 43 BC) and died shortly after; Cicero's phrase is a carefully worded epitaph for a man whose political courage he here endorses."
+    },
+    {
+      "loc": "2",
+      "anchor": "faults of Brutus's followed",
+      "entity_id": "person:decimus-brutus-albinus",
+      "note": "\"Brutus\" here is Decimus Iunius Brutus Albinus (not Marcus), who commanded the relieved force at Mutina; Cicero criticizes Decimus for failing to pursue Antony's retreating and disorganized army after the battles of Forum Gallorum and Mutina."
+    },
+    {
+      "loc": "2",
+      "anchor": "time was given to Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "M. Aemilius Lepidus, governor of Narbonese Gaul and Nearer Spain, had long been suspected of sympathy with Antony; the delay after Mutina allowed Antony to reach Lepidus, who joined him in May 43 BC, forming the nucleus of the future triumvirate."
+    },
+    {
+      "loc": "3",
+      "anchor": "a most settled hope of the consulship",
+      "entity_id": "person:octavian",
+      "note": "Octavian (the young Caesar) was pressing for a consulship despite being only nineteen — far below the legal minimum age; Cicero here acknowledges he had been outmanoeuvred, as Octavian secured the consulship in August 43 BC."
+    },
+    {
+      "loc": "4",
+      "anchor": "at Velia",
+      "entity_id": "place:velia",
+      "note": "Velia (modern Castellammare di Bruca, Campania) was a coastal town where Cicero met Brutus in August 44 BC as Cicero was about to sail for Greece; Brutus persuaded him to turn back and resume the fight at Rome."
+    },
+    {
+      "loc": "4",
+      "anchor": "shook Antony",
+      "entity_id": "person:antony",
+      "note": "Cicero refers to his Philippic orations, the series of speeches delivered from September 44 BC onward attacking Antony; the First Philippic was delivered in the Senate on 2 September 44 BC."
+    }
+  ]
+}

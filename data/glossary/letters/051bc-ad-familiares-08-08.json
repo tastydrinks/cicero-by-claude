@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "hit with the calumnia-penalty",
+      "note": "Calumnia was the offence of bringing a malicious or vexatious prosecution; a prosecutor convicted of it was branded with infamia. Sempronius's defeat in his own suit amounted to a calumnia-verdict against him."
+    },
+    {
+      "loc": "1",
+      "anchor": "under the Lex Plotia on violence",
+      "entity_id": "law:lex-plotia-de-vi",
+      "note": "The lex Plotia (or Plautia) de vi established the standing criminal court for public violence (vis); cases under it took precedence, which is why Sempronius used it to manufacture a trial that would crowd out his own."
+    },
+    {
+      "loc": "1",
+      "anchor": "ran to the defence-benches",
+      "note": "The subsellia were the benches in the law-court where parties, advocates and supporters sat; Caelius means he rushed over uninvited to join the defence of Tuccius and attack Sempronius."
+    },
+    {
+      "loc": "2",
+      "anchor": "prosecuted him for extortion",
+      "entity_id": "law:lex-iulia-de-rebus-repetundis",
+      "note": "A charge de repetundis, before the standing court for provincial extortion (the quaestio repetundarum), the chief instrument for calling former governors and officials to account."
+    },
+    {
+      "loc": "3",
+      "anchor": "sworn the oath against vexatious accusation",
+      "note": "Before two rivals could compete for the right to prosecute (the divinatio), each swore he was not acting in calumnia; Appius the younger, having sworn, dared not press his claim against Pilius."
+    },
+    {
+      "loc": "5",
+      "anchor": "in the temple of Apollo",
+      "entity_id": "god:apollo",
+      "note": "The temple of Apollo (in the Campus Martius, near the Circus Flaminius) was one of the meeting-places where the senate could lawfully convene outside the pomerium; the decree was drafted there on 30 September 51 BC."
+    },
+    {
+      "loc": "6",
+      "anchor": "there interposed",
+      "entity_id": "office:tribune",
+      "note": "A tribune of the plebs could veto (intercessio) any senatorial decree, reducing it to a mere auctoritas (recorded resolution); C. Caelius and his colleagues blocked the moves against Caesar in just this way."
+    }
+  ]
+}

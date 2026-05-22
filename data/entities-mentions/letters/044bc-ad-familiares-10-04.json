@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-04",
+  "mentions": [
+    {"loc": "1", "surface": "PLANCVS", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "PLANCUS", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERONI", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Furni", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "1", "surface": "Furnius's", "entity_id": "person:furnius", "in": "eng"},
+    {"loc": "1", "surface": "paternae necessitudinis", "entity_id": null, "in": "lat"},
+    {"loc": "1", "surface": "the bond of friendship with my father", "entity_id": null, "in": "eng"},
+    {"loc": "2", "surface": "mi Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "2", "surface": "my Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "3", "surface": "rei p.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "the republic", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "4", "surface": "Gallia citeriore", "entity_id": "place:gallia-cisalpina", "in": "lat"},
+    {"loc": "4", "surface": "Cisalpine Gaul", "entity_id": "place:gallia-cisalpina", "in": "eng"},
+    {"loc": "4", "surface": "urbe", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "4", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "4", "surface": "hae gentes", "entity_id": null, "in": "lat"},
+    {"loc": "4", "surface": "these peoples", "entity_id": null, "in": "eng"}
+  ]
+}

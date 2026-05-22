@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-01-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "later first,",
+      "entity_id": null,
+      "note": "Hysteron proteron, a Greek rhetorical term for reversing the natural order of two items. Cicero jokes that he will answer Atticus's second question first."
+    },
+    {
+      "loc": "1",
+      "anchor": "the senate's authority",
+      "entity_id": "institution:senate",
+      "note": "The auctoritas senatus: the moral and political weight of the senate's collective will, which Cicero presents himself as defending against Clodius's appeals to the popular assemblies."
+    },
+    {
+      "loc": "2",
+      "anchor": "the law about the sacrilege",
+      "entity_id": "person:clodius",
+      "note": "The special-court bill set up to try Clodius for violating the December 62 BC rites of Bona Dea, which he had infiltrated disguised as a woman. The dispute was over how the jury would be empanelled."
+    },
+    {
+      "loc": "2",
+      "anchor": "the consular bill",
+      "entity_id": null,
+      "note": "The original bill, backed by the consuls and the optimates, would have let the praetor hand-pick the jury, ensuring conviction. Fufius's substitute bill restored the ordinary lot-and-rejection method, opening the way to bribery."
+    },
+    {
+      "loc": "2",
+      "anchor": "by senate's decree",
+      "entity_id": "institution:senate",
+      "note": "Senatus consultum (SC): a formal resolution of the senate. A tribune could veto (intercessio) the legislation it recommended, which is the obstruction Hortensius feared from Fufius."
+    },
+    {
+      "loc": "2",
+      "anchor": "cut by a leaden sword",
+      "entity_id": null,
+      "note": "A proverb for an easy kill: even a blunt lead blade would do. Hortensius was so sure of conviction he accepted the weaker jury procedure."
+    },
+    {
+      "loc": "3",
+      "anchor": "naked equites",
+      "entity_id": "group:equites",
+      "note": "The equites (Roman knights) were one of the three jury classes after Pompey's settlement; Cicero sneers that these particular knights were destitute, hence open to bribes. The jury panel mixed senators, equites, and tribuni aerarii."
+    },
+    {
+      "loc": "3",
+      "anchor": "of the public account",
+      "entity_id": null,
+      "note": "A pun on the tribuni aerarii, the third jury class: Cicero twists aerati (\"of the treasury,\" i.e. moneyed) into aerarii to brand them paupers fit for bribery."
+    },
+    {
+      "loc": "4",
+      "anchor": "the books of Metellus Numidicus",
+      "entity_id": "person:q-metellus-numidicus",
+      "note": "Q. Caecilius Metellus Numidicus, the upright consul of 109 BC whose written deposition jurors once refused to read out of respect. Cicero cites it as a precedent for the honour shown him here."
+    },
+    {
+      "loc": "5",
+      "anchor": "Areopagites",
+      "entity_id": "institution:areopagus",
+      "note": "Cicero jokingly calls the honest jurors who escorted him home \"Areopagites,\" after the venerable Athenian homicide court on the Areopagus, a byword for incorruptible justice."
+    },
+    {
+      "loc": "5",
+      "anchor": "Calvus of the Nanneian estate",
+      "entity_id": "person:crassus",
+      "note": "A coded slur for M. Licinius Crassus, who organized the jury bribery: \"Calvus\" (baldhead) plus a reference to property he had bought up in the Sullan proscriptions of one Nanneius."
+    },
+    {
+      "loc": "8",
+      "anchor": "Syria, betrothed to him already",
+      "entity_id": "place:syria",
+      "note": "The consul Piso (M. Pupius Piso) expected Syria as his proconsular province; Cicero boasts of having maneuvered to deny it to him as punishment for mishandling the Clodius affair."
+    },
+    {
+      "loc": "9",
+      "anchor": "the Ides of May",
+      "entity_id": null,
+      "note": "The Ides fell on the 15th of March, May, July, and October, the 13th of other months; here 15 May 61 BC, the senate session at which Cicero confronted Clodius."
+    },
+    {
+      "loc": "10",
+      "anchor": "the Mysteries",
+      "entity_id": null,
+      "note": "In operto, \"in the secret place\": Cicero turns Clodius's jibe about Baiae into a barbed reminder of the Bona Dea rites Clodius profaned, which were strictly forbidden to men."
+    },
+    {
+      "loc": "10",
+      "anchor": "Rex made no mention of you",
+      "entity_id": "person:q-marcius-rex",
+      "note": "A double pun: Cicero denies being a \"king\" (rex) while noting that Q. Marcius Rex, Clodius's brother-in-law, left him nothing in his will, an inheritance Clodius had counted on."
+    },
+    {
+      "loc": "11",
+      "anchor": "this Magnus of ours",
+      "entity_id": "person:pompey",
+      "note": "\"Magnus\" (the Great) was Pompey's cognomen. Cicero plays on it, half-mockingly noting the cooling between them even as the urban plebs supposed him Pompey's intimate."
+    },
+    {
+      "loc": "12",
+      "anchor": "the son of Aulus",
+      "entity_id": "person:l-afranius",
+      "note": "L. Afranius, Pompey's loyal lieutenant, whom Pompey was pushing (with bribery) into the consulship of 60 BC. \"Auli filius\" hints at his undistinguished birth."
+    },
+    {
+      "loc": "12",
+      "anchor": "ass laden with gold",
+      "entity_id": "person:philip-ii-macedon",
+      "note": "The proverb attributed to Philip II of Macedon: no fortress is impregnable if an ass loaded with gold can reach its gate. Cicero applies it to Pompey's electoral bribery."
+    },
+    {
+      "loc": "12",
+      "anchor": "agents-of-bribery",
+      "entity_id": null,
+      "note": "Divisores: men who distributed bribe-money to voters tribe by tribe, a recognized (if illegal) electoral profession at Rome."
+    },
+    {
+      "loc": "12",
+      "anchor": "on the proposal of Cato and Domitius",
+      "entity_id": "person:cato-minor",
+      "note": "Two anti-bribery senatus consulta proposed by Cato the Younger and L. Domitius Ahenobarbus, aimed at the consul thought to be shielding the divisores in his house."
+    },
+    {
+      "loc": "13",
+      "anchor": "the Aelian and Fufian law",
+      "entity_id": "law:lex-aelia-fufia",
+      "note": "The leges Aelia et Fufia regulated obstruction of legislation by religious means (obnuntiatio). Lurco was exempted from them so his anti-bribery bill could proceed despite his entering office under a disqualifying technicality."
+    },
+    {
+      "loc": "13",
+      "anchor": "the Kalends of Sextilis",
+      "entity_id": null,
+      "note": "Sextilis was the sixth month (later renamed August); its Kalends fell on 1 August. \"The sixth day before\" by inclusive Roman reckoning is 27 July."
+    },
+    {
+      "loc": "13",
+      "anchor": "HS 3,000",
+      "entity_id": null,
+      "note": "Three thousand sesterces, the fine the new bribery law set per tribesman for a candidate who paid out after naming a price. HS is the standard sign for the sestertius."
+    },
+    {
+      "loc": "13",
+      "anchor": "Bean Mime",
+      "entity_id": null,
+      "note": "Fabam mimum: a low farce; the bean was a stock prop of the popular mime stage. Cicero fears his proud consulship will be reduced to a vulgar joke if Clodius's man wins."
+    },
+    {
+      "loc": "15",
+      "anchor": "the Amaltheum",
+      "entity_id": "place:amaltheum",
+      "note": "Atticus's private shrine and garden retreat at his Buthrotum estate in Epirus, named for the nymph Amalthea and adorned with epigrams; Cicero wants to build one at Arpinum."
+    },
+    {
+      "loc": "18",
+      "anchor": "Amalthea",
+      "entity_id": "god:amalthea",
+      "note": "The nymph (or she-goat) who nursed the infant Zeus; her name evokes abundance (the cornucopia), suiting a leisured rural shrine."
+    }
+  ]
+}

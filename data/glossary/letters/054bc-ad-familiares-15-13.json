@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-13",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the canvass for the consulship",
+      "entity_id": "person:l-aemilius-paulus-cos50",
+      "note": "The petitio consulatus was the formal candidacy and electioneering for the consulship; Paullus has now passed from candidate to consul-designate to consul of 50 BC."
+    },
+    {
+      "loc": "2",
+      "anchor": "the senate's decree on my achievements be made in the most honorific terms",
+      "entity_id": "institution:senate",
+      "note": "A senatus consultum praising a commander's res gestae was the formal prelude to a public thanksgiving and ultimately a triumph; Cicero is lobbying the consul to steer the decree on his Cilician campaign through the Senate in flattering terms."
+    },
+    {
+      "loc": "3",
+      "anchor": "worthy of honour and public thanksgiving",
+      "entity_id": "festival:supplicatio",
+      "note": "The supplicatio was a formal period of public thanksgiving to the gods voted by the Senate to honour a general's victory; it counted as official recognition and was a normal precondition for a later triumph. Cicero secured one for his Amanus campaign."
+    },
+    {
+      "loc": "3",
+      "anchor": "the official dispatches I have sent to you, to your colleague, and to the Senate",
+      "entity_id": "person:c-claudius-marcellus-cos50",
+      "note": "Paullus's consular colleague for 50 BC was C. Claudius Marcellus; commanders reported their victories by official letter (litterae publicae) to both consuls and to the Senate to win recognition."
+    }
+  ]
+}

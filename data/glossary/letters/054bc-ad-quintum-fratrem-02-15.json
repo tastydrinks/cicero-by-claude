@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-quintum-fratrem-02-15",
+  "notes": [
+    {
+      "loc": "3",
+      "anchor": "acquitted of collusion by the tribuni aerarii",
+      "entity_id": null,
+      "note": "Praevaricatio was the collusion of a prosecutor with the accused to throw a case. The tribuni aerarii formed the third decury of jurors (alongside senators and knights); here they alone voted to acquit Drusus, carrying it by four votes."
+    },
+    {
+      "loc": "3",
+      "anchor": "I am to defend Vatinius the same day",
+      "entity_id": "person:vatinius-tribune",
+      "note": "P. Vatinius, the Caesarian tribune of 59 BC whom Cicero had savagely attacked in 56; now, reconciled to the triumvirs, Cicero defends him --- a turn he found galling but politically unavoidable."
+    },
+    {
+      "loc": "3",
+      "anchor": "``The Banqueters of Sophocles''",
+      "entity_id": "person:sophocles",
+      "note": "A little tragedy Quintus had written (titled after Sophocles' lost Syndeipnoi, on the heroes at Tenedos); Cicero, playing critic, says he gave it no approval at all."
+    },
+    {
+      "loc": "4",
+      "anchor": "your letter about Britain",
+      "entity_id": "place:britannia",
+      "note": "Quintus was serving with Caesar on the second expedition to Britain in 54 BC; Cicero had dreaded the crossing of the Ocean but now relishes the literary subject the campaign offers his brother."
+    },
+    {
+      "loc": "4",
+      "anchor": "``an owl to Athens.''",
+      "entity_id": null,
+      "note": "A Greek proverb (glaukas eis Athenas) for a pointless gift --- carrying owls to Athens, where Athena's owl was everywhere; Cicero means his verses would add nothing to so rich a subject."
+    },
+    {
+      "loc": "5",
+      "anchor": "what does Caesar say about our verses",
+      "entity_id": "person:caesar",
+      "note": "Cicero had sent Caesar a poem (probably his epic on his own consulship or on Britain); Caesar praised the opening as better than anything in Greek but called a stretch slack, and Cicero anxiously wants Quintus's candid report."
+    }
+  ]
+}

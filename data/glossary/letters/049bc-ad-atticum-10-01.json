@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-10-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "On the third day before the Nones",
+      "entity_id": null,
+      "note": "Romans counted dates inclusively backward from three fixed monthly points; the Nones fell on the 5th (or 7th in March, May, July, October), so this is 3 April 49 BC. The reckoning includes both the start and end day, which is why the count seems off by one to modern readers."
+    },
+    {
+      "loc": "1",
+      "anchor": "on that famous Nones of December",
+      "entity_id": null,
+      "note": "The Nones of December 63 BC (5 December) was the day the Senate, under Cicero's consulship, voted to execute the captured Catilinarian conspirators. Sextus Peducaeus the elder had on that day urged Cicero to act greatly whatever the cost, and Cicero treasured his counsel ever after."
+    },
+    {
+      "loc": "2",
+      "anchor": "the law of Solon",
+      "entity_id": "person:solon",
+      "note": "The Athenian lawgiver Solon was traditionally said to have made it a capital offence to remain neutral in civil strife, forcing every citizen to take a side. Cicero invokes the law only to set it aside, justifying his own attempt at non-alignment between Caesar and Pompey."
+    },
+    {
+      "loc": "2",
+      "anchor": "Flavius is being given a legion and Sicily",
+      "entity_id": "person:l-flavius-tr-pl-60",
+      "note": "L. Flavius, a Caesarian, was being installed with a legion to hold the strategic grain-province of Sicily. Such appointments by Caesar's personal authority, bypassing the Senate, were among the acts Cicero regarded as the lawless seizure of the state."
+    },
+    {
+      "loc": "3",
+      "anchor": "to strip Pompey of army and province",
+      "entity_id": "person:pompey",
+      "note": "Pompey held a Spanish proconsular command (governed by legates) along with his army; Caesar's fixed aim was to deprive him of both. Cicero judged that no genuine peace talks were possible while this remained Caesar's settled purpose."
+    }
+  ]
+}

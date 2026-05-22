@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-10",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "lictoribus", "entity_id": "office:lictor", "in": "lat"},
+    {"loc": "1", "surface": "Gnaeus noster", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Italia", "entity_id": "place:italia", "in": "lat"},
+    {"loc": "1", "surface": "hercule", "entity_id": "god:hercules", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "the laurelled lictors", "entity_id": "office:lictor", "in": "eng"},
+    {"loc": "1", "surface": "by Hercules", "entity_id": "god:hercules", "in": "eng"},
+    {"loc": "1", "surface": "What course our Gnaeus has taken", "entity_id": "person:pompey", "in": "eng"},
+    {"loc": "1", "surface": "if he makes a stand in Italy", "entity_id": "place:italia", "in": "eng"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-42",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "M. CICERO greets L. CVLLEOLVS the proconsul",
+      "entity_id": "person:l-culleolus",
+      "note": "The letter-heading; addressed to L. Culleolus, proconsul (probably of Illyricum) about 59 BC. This is the original request on behalf of L. Lucceius's business interests; the companion 13.41 thanks Culleolus for having acted on it."
+    },
+    {
+      "loc": "1",
+      "anchor": "the most grateful man in the world",
+      "entity_id": "person:l-lucceius",
+      "note": "L. Lucceius (praetor 67 BC, the historian whom Cicero asked to write up his consulship in Fam. 5.12). Here Cicero commends his commercial interests in Culleolus's province, a dispute with the town of Bullis."
+    },
+    {
+      "loc": "1",
+      "anchor": "the men of Bullis have indicated that they will give Lucceius satisfaction at Pompey's arbitration",
+      "entity_id": "place:bullis",
+      "note": "Bullis, a town in southern Illyria, had agreed to settle Lucceius's claim by arbitration before Pompey (Pompei arbitratu) --- a private arbitration in which a powerful patron, here Pompey, served as the agreed judge. Cicero asks Culleolus to back this settlement with his official authority."
+    },
+    {
+      "loc": "2",
+      "anchor": "your authority, and your power as governor",
+      "entity_id": "person:l-culleolus",
+      "note": "Auctoritas and imperium: the personal weight and prestige of a Roman magistrate, and the formal power of military and civil command vested in a governor. Cicero asks that both be thrown behind Lucceius's case."
+    }
+  ]
+}

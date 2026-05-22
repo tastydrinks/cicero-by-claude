@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-02",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "formally entered upon the inheritance under the terms of the will",
+      "entity_id": null,
+      "note": "Roman heirs named in a will had to perform a formal act of acceptance (cretio) within a set period to take up an estate and its liabilities. The legacy gave Cicero liquid resources to defend his credit while stranded."
+    },
+    {
+      "loc": "2",
+      "anchor": "protect that unhappy girl",
+      "entity_id": "person:tullia",
+      "note": "Cicero's daughter Tullia, then married to Dolabella; her dowry was paid to her husband in instalments, and Cicero blames himself for the financial muddle that has left her short. \"That unhappy girl\" is one of book 11's recurring anxieties."
+    },
+    {
+      "loc": "2",
+      "anchor": "deducted from the dowry",
+      "entity_id": null,
+      "note": "A Roman dowry (dos) was the wife's property managed by the husband; sums improperly withheld from it threatened Tullia's security if the marriage to Dolabella failed. Cicero is alarmed that 60,000 sesterces were taken from it without his knowledge."
+    },
+    {
+      "loc": "3",
+      "anchor": "the report Chrysippus brought me about the house",
+      "entity_id": "person:chrysippus-vettius",
+      "note": "Chrysippus, a freedman, had brought word that Cicero's house (probably the Palatine residence) was under threat of seizure. Cicero dreads being singled out for a calamity others on his side will not share."
+    },
+    {
+      "loc": "4",
+      "anchor": "on account of the watchers set on me",
+      "entity_id": null,
+      "note": "Cicero, having abandoned Pompey's camp, was under Caesarian surveillance at Brundisium. He must omit his usual seal and handwriting from letters lest the guards identify and intercept his correspondence."
+    }
+  ]
+}

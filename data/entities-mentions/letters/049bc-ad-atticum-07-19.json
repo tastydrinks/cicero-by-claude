@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-07-19",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "ATTICO", "entity_id": "person:atticus", "in": "lat"},
+    {"loc": "1", "surface": "Philotimi", "entity_id": "person:philotimus", "in": "lat"},
+    {"loc": "1", "surface": "Furni", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "1", "surface": "Curionis", "entity_id": "person:c-scribonius-curio-tr", "in": "lat"},
+    {"loc": "1", "surface": "Furnium", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "1", "surface": "L. Caesaris", "entity_id": "person:l-iulius-caesar-son", "in": "lat"},
+    {"loc": "1", "surface": "Capuam", "entity_id": "place:capua", "in": "lat"},
+    {"loc": "1", "surface": "Pompei", "entity_id": "person:pompey", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Atticus", "entity_id": "person:atticus", "in": "eng"},
+    {"loc": "1", "surface": "letters from Philotimus", "entity_id": "person:philotimus", "in": "eng"},
+    {"loc": "1", "surface": "Furnius, and Curio to Furnius", "entity_id": "person:furnius", "in": "eng"},
+    {"loc": "1", "surface": "and Curio to Furnius", "entity_id": "person:c-scribonius-curio-tr", "in": "eng"},
+    {"loc": "1", "surface": "Curio to Furnius", "entity_id": "person:furnius", "in": "eng"},
+    {"loc": "1", "surface": "mocks Lucius Caesar's embassy", "entity_id": "person:l-iulius-caesar-son", "in": "eng"},
+    {"loc": "1", "surface": "setting out, all the same, for Capua", "entity_id": "place:capua", "in": "eng"},
+    {"loc": "1", "surface": "about Pompey's affairs", "entity_id": "person:pompey", "in": "eng"}
+  ]
+}

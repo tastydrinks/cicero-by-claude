@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-05",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Terentia",
+      "entity_id": "person:terentia",
+      "note": "Cicero's wife, who remained at Rome to manage the family's affairs and defend its property during the exile. Her thanks to Atticus acknowledge his help to the household in Cicero's absence."
+    },
+    {
+      "loc": "1",
+      "anchor": "My enemies have taken from me my own things, not myself",
+      "entity_id": null,
+      "note": "A Stoic-flavoured consolation tag: external goods (property, status) can be stripped away, but the self --- character and mind --- cannot. The 'enemies' are Clodius and the hostile consuls who engineered the exile."
+    },
+    {
+      "loc": "1",
+      "anchor": "Sent the fourth day before the Ides of April",
+      "entity_id": null,
+      "note": "A Roman date: the fourth day (counted inclusively) before the Ides of April, i.e. 10 April."
+    },
+    {
+      "loc": "1",
+      "anchor": "from Thurii",
+      "entity_id": "place:thurii",
+      "note": "Thurii was a town on the gulf of Tarentum in Lucania (southern Italy), a stage on Cicero's flight toward Brundisium and the crossing into exile."
+    }
+  ]
+}

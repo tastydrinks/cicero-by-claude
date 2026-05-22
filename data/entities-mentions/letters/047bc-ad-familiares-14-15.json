@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-14-15",
+  "mentions": [
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "TVLLIVS", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "TERENTIAE", "entity_id": "person:terentia", "in": "lat"},
+    {"loc": "1", "surface": "TERENTIAE", "entity_id": "person:terentia", "in": "eng"},
+    {"loc": "1", "surface": "Ciceronem", "entity_id": "person:m-cicero-the-younger", "in": "lat"},
+    {"loc": "1", "surface": "our Cicero", "entity_id": "person:m-cicero-the-younger", "in": "eng"},
+    {"loc": "1", "surface": "Caesari", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Caesar", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "Sicca", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "1", "surface": "Sicca", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "1", "surface": "Tulliam", "entity_id": "person:tullia", "in": "lat"},
+    {"loc": "1", "surface": "Tullia", "entity_id": "person:tullia", "in": "eng"}
+  ]
+}

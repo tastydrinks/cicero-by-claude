@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-01",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "my brother Metellus",
+      "entity_id": "person:metellus-nepos",
+      "note": "Q. Caecilius Metellus Nepos, Celer's brother and tribune of the plebs in 62 BC, whose clash with the outgoing consul Cicero this letter protests. Celer writes as proconsul of Cisalpine Gaul to complain that Cicero has assailed Nepos's standing."
+    },
+    {
+      "loc": "1",
+      "anchor": "the dignity of our family",
+      "entity_id": null,
+      "note": "Familiae nostrae dignitas: the standing of the Caecilii Metelli, one of the great consular houses of the late Republic. Celer invokes it as a defence that ought to have shielded his brother."
+    },
+    {
+      "loc": "2",
+      "anchor": "in the dress of mourning",
+      "entity_id": null,
+      "note": "In squalore: the squalid, unkempt mourning garb (sordes) a Roman put on to signal grief or to appeal for sympathy when himself or a kinsman was under attack. Celer stresses the indignity of a serving commander reduced to it."
+    }
+  ]
+}

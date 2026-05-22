@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "when Trebatius arrived",
+      "entity_id": "person:c-trebatius-testa",
+      "note": "Gaius Trebatius Testa, the jurist whom Cicero had commended to Caesar in Gaul and the recipient of the affectionate Ad Familiares book 7; by now a close friend in Cicero's circle. Later one of the great jurisconsults of the age."
+    },
+    {
+      "loc": "1",
+      "anchor": "and a little later Curtius",
+      "entity_id": null,
+      "note": "A visitor named Curtius who called to pay his respects. He cannot be securely identified with any of the several Curtii already in the registry."
+    },
+    {
+      "loc": "1",
+      "anchor": "to dictate it to Tiro",
+      "entity_id": "person:tiro",
+      "note": "Marcus Tullius Tiro, Cicero's freedman and confidential secretary, who took dictation and ran his literary affairs. The point is that even his most trusted amanuensis must not hear the matter."
+    },
+    {
+      "loc": "1",
+      "anchor": "It came round, however, to Quintus",
+      "entity_id": "person:quintus-cicero",
+      "note": "Quintus Cicero, the orator's younger brother; the talk turned to the bitter family rift of these years between the brothers and the younger Quintus. The \"unspeakable\" matter is the substance of that quarrel."
+    },
+    {
+      "loc": "1",
+      "anchor": "Torquatus came to me",
+      "entity_id": "person:l-manlius-torquatus",
+      "note": "Lucius Manlius Torquatus, a friend of Cicero whose legal or personal business Cicero had taken up; he is the Epicurean spokesman of Cicero's De Finibus book 1. Dolabella reports to him the care Cicero gave his case."
+    },
+    {
+      "loc": "2",
+      "anchor": "Nicias was thinking the thing settled",
+      "entity_id": "person:nicias-cous",
+      "note": "Curtius Nicias of Cos, a learned grammarian and friend in the circle of Cicero, Atticus, and Dolabella. Here he is a source of news about Brutus's domestic affairs."
+    },
+    {
+      "loc": "2",
+      "anchor": "I must go to Arpinum",
+      "entity_id": "place:arpinum",
+      "note": "Arpinum, the hill town of the Volsci in southern Latium that was Cicero's birthplace and where he held family estates. He needs to settle the rents on those small properties."
+    },
+    {
+      "loc": "2",
+      "anchor": "Messalla's letter",
+      "entity_id": null,
+      "note": "A letter of one of the Valerii Messallae from which Atticus had inferred the timing of Caesar's return to Italy. Which Messalla is meant cannot be determined with certainty."
+    }
+  ]
+}

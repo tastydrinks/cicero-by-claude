@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-05-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the sixth day before the Kalends of July",
+      "entity_id": null,
+      "note": "Reckoned inclusively in the Roman manner, this is 25 June 51 BC; the Kalends were the first of the month. Cicero is en route to his province of Cilicia."
+    },
+    {
+      "loc": "2",
+      "anchor": "Nothing is being taken under the Julian law",
+      "entity_id": "law:lex-iulia-de-rebus-repetundis",
+      "note": "Caesar's extortion law of 59 BC (lex Iulia de rebus repetundis) strictly capped what a provincial governor and his staff might requisition from local hosts. Cicero boasts that he is taking nothing even of what the law would have allowed him from his hosts."
+    },
+    {
+      "loc": "5",
+      "anchor": "if any is in Aristus, with whom I was staying",
+      "entity_id": "person:aristus-academicus",
+      "note": "Aristus of Ascalon was the head of the Academy at Athens and brother and successor of Antiochus, under whom Cicero had once studied; Cicero lodged with him but jokes that the philosophy on offer there was uneven."
+    },
+    {
+      "loc": "5",
+      "anchor": "For your Xeno --- or rather ours --- I had ceded to Quintus",
+      "entity_id": "person:xeno-epicurean",
+      "note": "Xeno, the Epicurean of Athens and a close friend of Atticus, also managed Cicero's finances in the East. Cicero made him the companion of his brother Quintus, though their houses were so near that they spent whole days together regardless."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-14",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "all those in Achaia who were pleading for pardon",
+      "entity_id": "place:achaia",
+      "note": "Achaia, the Roman province covering southern Greece, was full of former Pompeians who had stayed behind after Pharsalus to sue Caesar's officers for pardon. Cicero contrasts their growing reconciliation with his own isolation."
+    },
+    {
+      "loc": "1",
+      "anchor": "apart from Laelius I have no partner in my fault",
+      "entity_id": "person:d-laelius",
+      "note": "Decimus Laelius, a Pompeian naval commander who like Cicero had abandoned the cause and returned to Italy. Cicero counts him the one fellow-deserter in his \"fault,\" though Laelius had already been formally received back into favour."
+    },
+    {
+      "loc": "2",
+      "anchor": "he has written to Balbus and Oppius",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "L. Cornelius Balbus and C. Oppius were the two trusted equestrians who ran Caesar's affairs in Italy during his absence. Cicero treats them as the men through whom Caesar's intentions toward him would be signalled."
+    },
+    {
+      "loc": "3",
+      "anchor": "I shall write to Minucius at Tarentum",
+      "entity_id": "person:minucius-tarentum",
+      "note": "Minucius was a financial agent at Tarentum handling sums for Cicero in his straitened circumstances. Cicero is arranging to have money raised and a letter from Atticus forwarded through him."
+    },
+    {
+      "loc": "3",
+      "anchor": "the proceeds of the Fufidian estates",
+      "entity_id": "person:q-fufidius",
+      "note": "Income from the property of the Fufidian inheritance (see 11.13) was one of Cicero's few remaining resources. This is the estate matter, not the Caesarian officer Q. Fufius Calenus."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "ad-brutum-01-03",
+  "mentions": [
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "Cicero", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "Bruto", "entity_id": "person:brutus", "in": "lat"},
+    {"loc": "1", "surface": "Brutus", "entity_id": "person:brutus", "in": "eng"},
+    {"loc": "1", "surface": "consules", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "consuls", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "1", "surface": "Caesaris vero pueri", "entity_id": "person:octavian", "in": "lat"},
+    {"loc": "1", "surface": "the boy Caesar", "entity_id": "person:octavian", "in": "eng"},
+    {"loc": "1", "surface": "Antonium", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "1", "surface": "Antony", "entity_id": "person:antony", "in": "eng"},
+    {"loc": "2", "surface": "in Capitolium", "entity_id": "place:capitolium", "in": "lat"},
+    {"loc": "2", "surface": "the Capitol", "entity_id": "place:capitolium", "in": "eng"},
+    {"loc": "2", "surface": "in rostris", "entity_id": "place:forum-romanum", "in": "lat"},
+    {"loc": "2", "surface": "the Rostra", "entity_id": "place:forum-romanum", "in": "eng"},
+    {"loc": "3", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "The Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "3", "surface": "populus Romanus", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "3", "surface": "the Roman people", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "3", "surface": "trium fratrum", "entity_id": "person:antony", "in": "lat"},
+    {"loc": "3", "surface": "the three brothers", "entity_id": "person:antony", "in": "eng"}
+  ]
+}

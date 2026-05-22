@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-32",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "This part to you in my own hand",
+      "entity_id": null,
+      "note": "Cicero signals that what follows is autograph rather than dictated to a secretary, marking it as confidential. The private matter is the painful business of his estranged second wife, Publilia."
+    },
+    {
+      "loc": "1",
+      "anchor": "Publilia has written to me that her mother",
+      "entity_id": "person:publilia",
+      "note": "Publilia was Cicero's young second wife, whom he had married after divorcing Terentia and from whom he became estranged after Tullia's death. Here she and her family press for a reconciliation Cicero is determined to avoid, even by leaving the country."
+    },
+    {
+      "loc": "2",
+      "anchor": "within the rents from the Argiletum and Aventine",
+      "entity_id": null,
+      "note": "Cicero owned tenement blocks (insulae) in the Argiletum district and on the Aventine hill at Rome; their rents are to fund his son's allowance while studying at Athens. The Aventine has no separate entity record in this corpus."
+    },
+    {
+      "loc": "2",
+      "anchor": "neither Bibulus nor Acidinus nor Messalla, who I hear will be at Athens",
+      "entity_id": null,
+      "note": "Three young Roman nobles --- L. Calpurnius Bibulus, a Manlius Acidinus, and the future orator M. Valerius Messalla Corvinus --- were going to Athens to study at the same time as Cicero's son. Cicero uses their expected spending as the benchmark for his own son's budget."
+    }
+  ]
+}

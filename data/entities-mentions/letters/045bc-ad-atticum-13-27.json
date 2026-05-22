@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-27",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "de epistula ad Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "quasi Catonis μείλιγμα",
+      "entity_id": "person:cato-minor",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "About the letter to Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "as a kind of sop",
+      "entity_id": "person:cato-minor",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "operam in Faberio ponamus",
+      "entity_id": "person:faberius",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "qui e Cumano venerat",
+      "entity_id": "place:cumae",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "plane valere Atticam",
+      "entity_id": "person:attica-pomponia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "our effort into the Faberius business",
+      "entity_id": "person:faberius",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "had come from the Cumanum",
+      "entity_id": "place:cumae",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "that Attica is altogether well",
+      "entity_id": "person:attica-pomponia",
+      "in": "eng"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-15",
+  "mentions": [
+    {"loc": "1", "surface": "ille enim ita videtur Alexandream tenere", "entity_id": "person:caesar", "in": "lat"},
+    {"loc": "1", "surface": "Alexandream tenere", "entity_id": "place:alexandria", "in": "lat"},
+    {"loc": "1", "surface": "hi autem ex Africa iam adfuturi videntur", "entity_id": "place:africa", "in": "lat"},
+    {"loc": "1", "surface": "Achaici, item ex Asia redituri ad eos", "entity_id": "place:achaia", "in": "lat"},
+    {"loc": "1", "surface": "item ex Asia redituri", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "he, it seems, has so taken Alexandria in hand", "entity_id": "person:caesar", "in": "eng"},
+    {"loc": "1", "surface": "so taken Alexandria in hand", "entity_id": "place:alexandria", "in": "eng"},
+    {"loc": "1", "surface": "the men from Africa now appear to be at hand", "entity_id": "place:africa", "in": "eng"},
+    {"loc": "1", "surface": "the Achaian party as well are about to return", "entity_id": "place:achaia", "in": "eng"},
+    {"loc": "1", "surface": "to them out of Asia", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "2", "surface": "Minucium X_I_I_ sola curasse scripsi ad te antea", "entity_id": "person:minucius-tarentum", "in": "lat"},
+    {"loc": "2", "surface": "Quintus non modo non cum magna prece ad me sed acerbissime scripsit", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "2", "surface": "filius vero mirifico odio", "entity_id": "person:q-cicero-the-younger", "in": "lat"},
+    {"loc": "2", "surface": "qui sua voluntate ad Fufium venerunt", "entity_id": "person:q-fufius-calenus", "in": "lat"},
+    {"loc": "2", "surface": "solius enim meum peccatum corrigi non potest et fortasse Laeli", "entity_id": "person:d-laelius", "in": "lat"},
+    {"loc": "2", "surface": "nam C. quidem Cassium aiunt consilium Alexandream eundi mutavisse", "entity_id": "person:cassius-longinus", "in": "lat"},
+    {"loc": "2", "surface": "consilium Alexandream eundi", "entity_id": "place:alexandria", "in": "lat"},
+    {"loc": "2", "surface": "Minucius had taken care of only twelve thousand", "entity_id": "person:minucius-tarentum", "in": "eng"},
+    {"loc": "2", "surface": "Quintus has written to me not only with no humble entreaty but in the bitterest terms", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "2", "surface": "and his son with an extraordinary hatred", "entity_id": "person:q-cicero-the-younger", "in": "eng"},
+    {"loc": "2", "surface": "those very men who came of their own will to Fufius", "entity_id": "person:q-fufius-calenus", "in": "eng"},
+    {"loc": "2", "surface": "For mine alone, of all faults, cannot be repaired, and perhaps Laelius's too", "entity_id": "person:d-laelius", "in": "eng"},
+    {"loc": "2", "surface": "they say even Gaius Cassius has changed his plan of going to Alexandria", "entity_id": "person:cassius-longinus", "in": "eng"},
+    {"loc": "2", "surface": "his plan of going to Alexandria", "entity_id": "place:alexandria", "in": "eng"},
+    {"loc": "3", "surface": "ad quae gener accedit", "entity_id": "person:dolabella", "in": "lat"},
+    {"loc": "3", "surface": "on top of which there is my son-in-law", "entity_id": "person:dolabella", "in": "eng"},
+    {"loc": "3", "surface": "should I go in some secret way nearer to Rome", "entity_id": "place:roma", "in": "eng"}
+  ]
+}

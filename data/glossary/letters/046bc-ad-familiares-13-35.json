@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-35",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "CICERO ACILIO PROCONSVLI S.",
+      "entity_id": "person:m-acilius-glabrio-procos-sicily",
+      "note": "The letter-heading; one of five letters to the proconsul of Sicily M'. Acilius Glabrio, all recommending associates of Cicero."
+    },
+    {
+      "loc": "1",
+      "anchor": "Through my good offices Caesar enrolled him among the men of Novum Comum",
+      "entity_id": "place:novum-comum",
+      "note": "Novum Comum (modern Como) was a Cisalpine Gaul colony refounded by Julius Caesar in 59 BC with an injection of new colonists. Caesar's grants of Latin rights and Roman citizenship to its inhabitants were contentious — Marcellus, consul in 51, famously flogged a Comensian man to make the point that he was not a Roman citizen. Being \"enrolled among the men of Novum Comum\" meant acquiring Latin or Roman status through Caesar's dispensation."
+    },
+    {
+      "loc": "1",
+      "anchor": "he took the name of Avianius because no one stood him in better stead than Flaccus Avianius",
+      "entity_id": "person:c-avianius-flaccus",
+      "note": "When a non-citizen obtained Roman citizenship, he normally adopted as his nomen gentilicium the family name of his patron. Philoxenus took the name Avianius because C. Avianius Flaccus, a wealthy businessman and one of Cicero's closest intimates, had championed his interests. Flaccus Avianius appears again as the main subject of Cicero's recommendation letter 13.75 (c. 52 BC)."
+    },
+    {
+      "loc": "2",
+      "anchor": "count him among your own",
+      "entity_id": null,
+      "note": "\"In numero tuorum habere\" (count among your own people) is a standard formula in Cicero's recommendation letters to provincial governors, asking them to treat the recommended person as part of their own circle of intimates and to extend the informal protection that entailed."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-02-17",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "†CANINI SALVSTIO PROQ.",
+      "entity_id": "person:cn-sallustius",
+      "note": "The salutation is corrupt in all manuscript traditions: the obelus marks the name as unreadable. The proquaestor addressed is identified from context as Cn. Sallustius, who served under Cicero in Cilicia; the transmitted \"CANINI\" is a scribal garble of some form of his name or title."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Julian law",
+      "entity_id": "person:caesar",
+      "note": "The lex Iulia de repetundis of 59 BC (Caesar's consulship), which among other provisions regulated the submission of provincial accounts; Bibulus was apparently allowing his staff to skip the formal accounting, while Cicero insists on strict compliance."
+    },
+    {
+      "loc": "3",
+      "anchor": "the garrison at Apamea",
+      "entity_id": "place:apamea",
+      "note": "Apamea on the Orontes (modern Afamia, Syria) was a key garrison town on the border between Cicero's Cilician command and Bibulus's Syrian province; Cicero had stationed troops there against the Parthian threat and withdrew them when the alarm subsided."
+    },
+    {
+      "loc": "4",
+      "anchor": "At Laodicea I expect to take sureties",
+      "entity_id": "place:laodicea-asia",
+      "note": "Laodicea ad Lycum, the administrative centre of the Cibyratic conventus in Cicero's province; Cicero planned to deposit his financial sureties there before departing, avoiding the risk of transporting public monies by sea."
+    },
+    {
+      "loc": "6",
+      "anchor": "the augurate of his son",
+      "entity_id": "person:m-calpurnius-bibulus",
+      "note": "Bibulus wrote to Cicero solely to ask a favour regarding his son's admission to the college of augurs, a prestigious priestly office; Cicero, stung by Bibulus's hostility in every other matter, nonetheless interceded out of old friendship."
+    },
+    {
+      "loc": "7",
+      "anchor": "Ariobarzanes",
+      "entity_id": "person:ariobarzanes-iii",
+      "note": "Ariobarzanes III Eusebes Philoromaios, king of Cappadocia, whom the Roman Senate had formally recognised through Cicero's mediation; Bibulus's pointed refusal to call him \"king\" in his dispatches, using instead the periphrasis \"son of King Ariobarzanes,\" was a calculated slight against Cicero."
+    }
+  ]
+}

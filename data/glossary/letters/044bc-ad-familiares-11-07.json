@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-07",
+  "notes": [
+    {
+      "loc": "2",
+      "anchor": "the young man, or rather the boy, Caesar",
+      "entity_id": "person:octavian",
+      "note": "Octavian, Caesar's nineteen-year-old great-nephew and testamentary heir, who had raised a private army of Caesar's veterans against Antony on his own initiative in late 44 BC. \"Caesar\" here is the heir, not the murdered dictator."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Martian Legion, the Fourth Legion, which judged their own consul a public enemy",
+      "entity_id": "unit:legio-martia",
+      "note": "Two veteran legions that defected from the consul Antony to Octavian and the Republic in late 44 BC. Their \"own consul\" declared a public enemy (hostis) is Mark Antony, consul of 44."
+    },
+    {
+      "loc": "3",
+      "anchor": "first by the Ides of March",
+      "entity_id": null,
+      "note": "The Ides of March (15 March 44 BC), the day Decimus Brutus and the other Liberators assassinated Caesar; Cicero means that Brutus committed himself irrevocably by that act."
+    }
+  ]
+}

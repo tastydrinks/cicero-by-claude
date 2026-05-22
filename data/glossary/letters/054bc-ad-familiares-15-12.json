@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the Roman people would make you consul with the highest enthusiasm and by every vote",
+      "entity_id": "institution:populus-romanus",
+      "note": "The two consuls were elected each year by the comitia centuriata, the citizen assembly voting in property-graded units. Paullus has just been returned as one of the consuls-designate for 50 BC, the news of which Cicero is celebrating from Cilicia."
+    },
+    {
+      "loc": "1",
+      "anchor": "the supreme distinction of your family",
+      "entity_id": "person:l-aemilius-paulus-cos50",
+      "note": "L. Aemilius Paullus belonged to one of Rome's most illustrious patrician houses, the Aemilii Paulli, whose ancestors included the victor of Pydna; the family pedigree was itself a strong electoral asset."
+    },
+    {
+      "loc": "2",
+      "anchor": "no time be added to my year-long commission",
+      "note": "Cicero's governorship of Cilicia was fixed by law at a single year, but a senatorial decree could prolong it; he repeatedly begs his correspondents to ensure his term is not extended."
+    }
+  ]
+}

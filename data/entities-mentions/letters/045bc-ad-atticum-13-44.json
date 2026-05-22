@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-13-44",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "ne Victoriae quidem ploditur",
+      "entity_id": "god:victoria",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Brutus apud me fuit",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "me aliquid ad Caesarem",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "even Victory herself was not applauded",
+      "entity_id": "god:victoria",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Brutus has been with me",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "I should write something to Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "ausus es Varroni dare",
+      "entity_id": "person:m-terentius-varro",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "de Attica probo",
+      "entity_id": "person:attica-pomponia",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "you ventured to give it to Varro",
+      "entity_id": "person:m-terentius-varro",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "About Attica, I approve",
+      "entity_id": "person:attica-pomponia",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Libonem mecum habeo",
+      "entity_id": "person:l-scribonius-libo-cos34",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "habueram ante Cascam",
+      "entity_id": "person:p-servilius-casca",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Brutus mihi T. Ligari verbis nuntiavit",
+      "entity_id": "person:brutus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "T. Ligari verbis",
+      "entity_id": "person:q-ligarius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "appelletur L. Corfidius",
+      "entity_id": "person:l-corfidius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "sciebam Corfidium pernecessarium Ligariorum",
+      "entity_id": "person:l-corfidius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "pernecessarium Ligariorum",
+      "entity_id": "person:q-ligarius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "negotium Pharnaci",
+      "entity_id": "person:pharnaces-atticianus",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Antaeo",
+      "entity_id": "person:antaeus-librarius",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Salvio",
+      "entity_id": "person:salvius-courier",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "I have Libo with me",
+      "entity_id": "person:l-scribonius-libo-cos34",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "earlier I had Casca",
+      "entity_id": "person:p-servilius-casca",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Brutus told me, in the words of Titus Ligarius",
+      "entity_id": "person:brutus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "in the words of Titus Ligarius",
+      "entity_id": "person:q-ligarius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "the mention of Lucius Corfidius",
+      "entity_id": "person:l-corfidius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "I knew that Corfidius was a close intimate of the Ligarii",
+      "entity_id": "person:l-corfidius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "a close intimate of the Ligarii",
+      "entity_id": "person:q-ligarius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "give Pharnaces",
+      "entity_id": "person:pharnaces-atticianus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Antaeus",
+      "entity_id": "person:antaeus-librarius",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "and Salvius",
+      "entity_id": "person:salvius-courier",
+      "in": "eng"
+    }
+  ]
+}

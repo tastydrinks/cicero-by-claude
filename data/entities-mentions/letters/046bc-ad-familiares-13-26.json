@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-26",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "lat"},
+    {"loc": "1", "surface": "SERVIO", "entity_id": "person:servius-sulpicius-rufus", "in": "eng"},
+    {"loc": "1", "surface": "L. Mescinius", "entity_id": "person:l-mescinius", "in": "lat"},
+    {"loc": "1", "surface": "L. Mescinius", "entity_id": "person:l-mescinius", "in": "eng"},
+    {"loc": "1", "surface": "quaestor fuit", "entity_id": "office:quaestor", "in": "lat"},
+    {"loc": "1", "surface": "he was my quaestor", "entity_id": "office:quaestor", "in": "eng"},
+    {"loc": "2", "surface": "in Achaia", "entity_id": "place:achaia", "in": "lat"},
+    {"loc": "2", "surface": "in Achaia", "entity_id": "place:achaia", "in": "eng"},
+    {"loc": "2", "surface": "M. Mindio", "entity_id": "person:m-mindius", "in": "lat"},
+    {"loc": "2", "surface": "M. Mindius", "entity_id": "person:m-mindius", "in": "eng"},
+    {"loc": "2", "surface": "Elide negotiatus est", "entity_id": "place:elis", "in": "lat"},
+    {"loc": "2", "surface": "carried on trade at Elis", "entity_id": "place:elis", "in": "eng"},
+    {"loc": "3", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "3", "surface": "to Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "3", "surface": "M. Lepido consule", "entity_id": "person:lepidus-triumvir", "in": "lat"},
+    {"loc": "3", "surface": "M. Lepidus the consul", "entity_id": "person:lepidus-triumvir", "in": "eng"},
+    {"loc": "3", "surface": "senatore", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "a senator", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "4", "surface": "Mescinium", "entity_id": "person:l-mescinius", "in": "lat"},
+    {"loc": "4", "surface": "Mescinius", "entity_id": "person:l-mescinius", "in": "eng"}
+  ]
+}

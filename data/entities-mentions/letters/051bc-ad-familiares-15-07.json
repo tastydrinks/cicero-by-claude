@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-15-07",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO PROCOS.", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO PROCOS.", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "C. MARCELLO COS. DESIG.", "entity_id": "person:c-claudius-marcellus-cos50", "in": "lat"},
+    {"loc": "1", "surface": "C. MARCELLO COS. DESIG.", "entity_id": "person:c-claudius-marcellus-cos50", "in": "eng"},
+    {"loc": "1", "surface": "consulem te factum esse", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "1", "surface": "you had been made consul", "entity_id": "office:consul", "in": "eng"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-24",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "a formal vote of thanks",
+      "entity_id": "institution:senate",
+      "note": "Plancus alludes to Cicero's senatorial motion (gratiarum actio) on his behalf; in Fam. 10.13 Cicero reports carrying honours for Plancus and his troops through the Senate against opposition."
+    },
+    {
+      "loc": "2",
+      "anchor": "honoured by the Senate",
+      "entity_id": "person:munatius-plancus",
+      "note": "Plancus had asked Cicero to obtain senatorial honours for his soldiers; rewarding the rank and file (commoda militum) bound them to the republican cause and was a normal instrument of a commander's patronage."
+    },
+    {
+      "loc": "3",
+      "anchor": "the parricides",
+      "entity_id": "person:antony",
+      "note": "Parricidae (\"parricides,\" murderers of the fatherland) is the standard invective of the Ciceronian party for Antony and his followers, casting their war against the state as an attack on the patria itself."
+    },
+    {
+      "loc": "3",
+      "anchor": "three veteran legions",
+      "entity_id": null,
+      "note": "Plancus distinguishes veterani (seasoned legions) from tirones (raw recruits); the contrast is the letter's military crux, since recruits could not be trusted in a pitched line against Antony's hardened troops."
+    },
+    {
+      "loc": "4",
+      "anchor": "the African army",
+      "entity_id": "place:africa",
+      "note": "The veteran legions stationed in the province of Africa (under the proconsul Q. Cornificius), which the republican commanders hoped to summon to Italy to reinforce the war against Antony."
+    },
+    {
+      "loc": "6",
+      "anchor": "a two-month consulship",
+      "entity_id": "person:octavian",
+      "note": "Octavian was demanding the consulship for himself though only nineteen; in August 43 he would march on Rome and seize it. Plancus reads his refusal to bring his army north as ambition diverting him from finishing the war."
+    }
+  ]
+}

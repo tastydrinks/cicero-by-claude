@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-25",
+  "mentions": [
+    {"loc": "1", "surface": "scripsit ad me diligenter Sicca de Silio", "entity_id": "person:sicca", "in": "lat"},
+    {"loc": "1", "surface": "scripsit ad me diligenter Sicca de Silio", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "voluptarias enim possessiones nolet Silius", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "HS DC exprimes ab Hermogene", "entity_id": "person:hermogenes", "in": "lat"},
+    {"loc": "1", "surface": "reliquae pecuniae vel usuram Silio pendemus", "entity_id": "person:silius-villa", "in": "lat"},
+    {"loc": "1", "surface": "dum a Faberio vel cum aliquo qui Faberio debet repraesentabimus", "entity_id": "person:faberius", "in": "lat"},
+    {"loc": "1", "surface": "Sicca has written to me carefully about Silius", "entity_id": "person:sicca", "in": "eng"},
+    {"loc": "1", "surface": "Sicca has written to me carefully about Silius", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "For Silius will not want luxury holdings", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "You will press six hundred thousand sesterces out of Hermogenes", "entity_id": "person:hermogenes", "in": "eng"},
+    {"loc": "1", "surface": "we shall either pay Silius interest", "entity_id": "person:silius-villa", "in": "eng"},
+    {"loc": "1", "surface": "until we can settle in full from Faberius or from someone who owes Faberius", "entity_id": "person:faberius", "in": "eng"},
+    {"loc": "2", "surface": "Drusianis vero hortis multo antepono", "entity_id": "person:m-livius-drusus-claudianus", "in": "lat"},
+    {"loc": "2", "surface": "To Drusus's gardens, however, I much prefer it", "entity_id": "person:m-livius-drusus-claudianus", "in": "eng"}
+  ]
+}

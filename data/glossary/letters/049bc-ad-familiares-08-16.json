@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-08-16",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "by those vetoes he has been plainly inflamed",
+      "note": "The intercessiones (tribunician vetoes) cast by Mark Antony and Q. Cassius Longinus against the Senate's decree of 7 January 49 BC; their flight to Caesar gave him his pretext for crossing the Rubicon, and Caelius says the affront still rankles."
+    },
+    {
+      "loc": "1",
+      "anchor": "no place for an appeal",
+      "note": "deprecatio: the formal plea for mercy or intercession on a defeated man's behalf; Caelius warns that Caesar, for all his clemency to date, is in no mood to entertain such pleadings."
+    },
+    {
+      "loc": "2",
+      "anchor": "your son-in-law --- the excellent man",
+      "entity_id": "person:dolabella",
+      "note": "P. Cornelius Dolabella, who had married Cicero's daughter Tullia in 50 BC and was an active Caesarian; Caelius enlists his standing with Cicero as one more reason not to join Pompey."
+    },
+    {
+      "loc": "2",
+      "anchor": "too little of an optimate",
+      "note": "The optimates were the conservative, senatorial 'best men' whose cause Pompey now led; Caelius warns Cicero against letting a point of honour about that party-label push him into a ruinous choice."
+    },
+    {
+      "loc": "3",
+      "anchor": "the Spains --- which I report to you will be ours on Caesar's arrival",
+      "entity_id": "place:hispania",
+      "note": "The two Spanish provinces (Hispania Citerior and Ulterior), held for Pompey by his legates Afranius and Petreius; Caesar marched west in spring 49 and forced their surrender at Ilerda that summer, exactly as Caelius predicts."
+    },
+    {
+      "loc": "4",
+      "anchor": "He is taking me with him to Spain",
+      "entity_id": "person:caesar",
+      "note": "Caelius, as Caesar's man, accompanied him on the Ilerda campaign of 49 BC; this is why he cannot detour to dissuade Cicero in person and resorts to this urgent letter."
+    }
+  ]
+}

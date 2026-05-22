@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-24",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "lat"},
+    {"loc": "1", "surface": "CORNIFICIO", "entity_id": "person:q-cornificius", "in": "eng"},
+    {"loc": "2", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "senatui", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "populoque R.", "entity_id": "institution:populus-romanus", "in": "lat"},
+    {"loc": "2", "surface": "the Roman people", "entity_id": "institution:populus-romanus", "in": "eng"},
+    {"loc": "3", "surface": "T. Pinarium", "entity_id": "person:t-pinarius", "in": "lat"},
+    {"loc": "3", "surface": "T. Pinarius", "entity_id": "person:t-pinarius", "in": "eng"},
+    {"loc": "3", "surface": "Dionysi nostri", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "3", "surface": "our friend Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "eng"},
+    {"loc": "3", "surface": "Pinari", "entity_id": "person:t-pinarius", "in": "lat"},
+    {"loc": "3", "surface": "Pinarius", "entity_id": "person:t-pinarius", "in": "eng"},
+    {"loc": "3", "surface": "Dionysium", "entity_id": "person:m-pomponius-dionysius", "in": "lat"},
+    {"loc": "3", "surface": "Dionysius", "entity_id": "person:m-pomponius-dionysius", "in": "eng"}
+  ]
+}

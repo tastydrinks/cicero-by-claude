@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Achaia",
+      "entity_id": "place:achaia",
+      "note": "The Roman name for southern Greece (the Peloponnese and Attica). Cicero shunned it because it harboured exiled Catilinarian enemies, which is why he avoided Epirus and Athens."
+    },
+    {
+      "loc": "1",
+      "anchor": "Dyrrachium",
+      "entity_id": "place:dyrrachium",
+      "note": "The port on the Illyrian coast (modern Durres) where the Via Egnatia began. The normal landfall for travellers crossing from Brundisium toward Macedonia."
+    },
+    {
+      "loc": "1",
+      "anchor": "Ephesus",
+      "entity_id": "place:ephesus",
+      "note": "The great port-city of the province of Asia, point of departure for ships to Greece. Quintus Cicero was returning from his governorship of Asia and sailed from here."
+    },
+    {
+      "loc": "2",
+      "anchor": "Phaethon the freedman",
+      "entity_id": "person:phaethon-courier",
+      "note": "A freedman in Cicero's service acting as a courier during the exile, sent to intercept Quintus. Driven off course by weather, he failed to meet him and reached Cicero at Pella."
+    },
+    {
+      "loc": "2",
+      "anchor": "Ilium",
+      "entity_id": "place:ilium",
+      "note": "Troy, on the Asian coast near the Hellespont. Phaethon's ship was blown back from here, delaying his crossing into Macedonia."
+    },
+    {
+      "loc": "2",
+      "anchor": "Pella",
+      "entity_id": "place:pella",
+      "note": "The old Macedonian royal capital, on the road inland from the coast toward Thessalonica. Here Phaethon finally caught up with Cicero."
+    },
+    {
+      "loc": "2",
+      "anchor": "the Ides of May",
+      "entity_id": null,
+      "note": "Idus Maiae, i.e. 15 May 58 BC. The Ides fell on the 15th in March, May, July and October, and on the 13th in other months."
+    },
+    {
+      "loc": "3",
+      "anchor": "Caecilius Tryphon",
+      "entity_id": "person:caecilius-tryphon",
+      "note": "An agent or freedman (the name suggests a freedman of the Caecilii) whom Atticus had evidently sent or mentioned. Cicero notes only that he has not seen him; the man is otherwise unknown."
+    },
+    {
+      "loc": "3",
+      "anchor": "with Tigranes neglected",
+      "entity_id": "person:tigranes-the-younger",
+      "note": "Tigranes the Younger, the captive Armenian prince whom Clodius had freed for a bribe, to Pompey's anger. Cicero means that since even this affront failed to provoke a breach, there is no real political shift to hope for."
+    },
+    {
+      "loc": "3",
+      "anchor": "Hypsaeus",
+      "entity_id": "person:p-plautius-hypsaeus",
+      "note": "Publius Plautius Hypsaeus, a close lieutenant of Pompey. Cicero thanks him and Varro as intermediaries who had spoken to Pompey on his behalf."
+    },
+    {
+      "loc": "4",
+      "anchor": "Sent the fourth day before the Kalends of June",
+      "entity_id": null,
+      "note": "Ante diem IV Kalendas Iunias, i.e. 29 May 58 BC. The first dated letter Cicero sent from Thessalonica."
+    }
+  ]
+}

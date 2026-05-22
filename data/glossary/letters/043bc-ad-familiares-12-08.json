@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-08",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the proceedings I am sure are being sent to you",
+      "entity_id": null,
+      "note": "Renders ex actis: the acta, the official Roman gazette recording senatorial business and public news, regularly dispatched to provincial commanders such as Cassius."
+    },
+    {
+      "loc": "1",
+      "anchor": "the criminality of your kinsman Lepidus",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "M. Aemilius Lepidus, governor of Narbonese Gaul and Nearer Spain, joined his army to Antony's in late May 43 BC and was branded a public enemy. He is Cassius's adfinis (kinsman by marriage) through his wife Junia, half-sister of M. Brutus."
+    },
+    {
+      "loc": "1",
+      "anchor": "with the war finished --- as we supposed --- we are now waging a renewed war",
+      "entity_id": null,
+      "note": "After Antony's defeat at Mutina (April 43 BC) the war seemed over, but Lepidus's defection in May joined his legions to Antony's and reopened the conflict."
+    },
+    {
+      "loc": "1",
+      "anchor": "we have placed all our hope in D. Brutus and Plancus",
+      "entity_id": null,
+      "note": "Decimus Brutus, relieved at Mutina, and L. Munatius Plancus, governor of Long-haired Gaul, were the republican commanders expected to crush Antony and Lepidus in Gaul."
+    },
+    {
+      "loc": "2",
+      "anchor": "About Dolabella we were hearing here what we wanted to hear",
+      "entity_id": "person:dolabella",
+      "note": "P. Cornelius Dolabella, the Caesarian who had murdered Trebonius, was the republican enemy in the East; Cicero hopes for word that Cassius has crushed him (he was besieged at Laodicea in Syria)."
+    }
+  ]
+}

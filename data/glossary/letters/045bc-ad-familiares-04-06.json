@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-04-06",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "Your son Servius, by every office that the moment allowed, has shown me both how much he himself thought of me",
+      "entity_id": "person:servius-sulpicius-rufus-younger",
+      "note": "The younger Servius Sulpicius Rufus, the addressee's son, was in Italy (he was attached to Caesar's circle) and called on the grieving Cicero in person, performing the duties of condolence on his absent father's behalf."
+    },
+    {
+      "loc": "1",
+      "anchor": "Q. Maximus, who lost a son who had been consul",
+      "entity_id": "person:q-fabius-maximus-cunctator",
+      "note": "Q. Fabius Maximus 'Cunctator', the great delayer who wore down Hannibal, lost his son (consul in 213 BC) and famously delivered the son's funeral eulogy himself. Cicero cites him first in a canonical Roman list of fathers who bore the loss of distinguished sons with public composure."
+    },
+    {
+      "loc": "1",
+      "anchor": "L. Paullus, who lost two sons within seven days",
+      "entity_id": "person:l-aemilius-paulus",
+      "note": "L. Aemilius Paullus Macedonicus, conqueror of Perseus of Macedon at Pydna (168 BC), lost his two younger sons within days of his triumph and spoke of it publicly with Stoic resignation. (The registry also carries a duplicate stub entry, person:l-aemilius-paulus-macedonicus, for the same man.)"
+    },
+    {
+      "loc": "1",
+      "anchor": "your Galus",
+      "entity_id": "person:c-sulpicius-gallus",
+      "note": "C. Sulpicius Gallus (cos. 166 BC), the astronomer-statesman who predicted the lunar eclipse before Pydna, was a kinsman of the Sulpician house, which is why Cicero calls him 'your' Galus in addressing Servius Sulpicius. He too was remembered for bearing the loss of a son."
+    },
+    {
+      "loc": "1",
+      "anchor": "M. Cato, who lost a son of the highest character and the highest virtue",
+      "entity_id": "person:m-cato-censorius",
+      "note": "M. Porcius Cato 'the Censor' (234--149 BC) lost his elder son Cato Licinianus, a distinguished jurist who had served with valour at Pydna; the father's dignified mourning was a Roman exemplum. Cicero's point is that all four men had the consolation of an active public life, which the Caesarian dictatorship now denies him."
+    },
+    {
+      "loc": "2",
+      "anchor": "nothing pleased me to do in the Forum; I could not look at the Senate-house",
+      "entity_id": null,
+      "note": "The Forum and the Curia (Senate-house) were the arenas of Cicero's public life as advocate and statesman. Under Caesar's dictatorship his political activity was effectively ended, so that, as he says, neither home nor public life can now console him: bereavement and political ruin reinforce each other."
+    },
+    {
+      "loc": "3",
+      "anchor": "governed entirely by the will of one man --- a man of prudence, of generous bearing",
+      "entity_id": "person:caesar",
+      "note": "The unnamed 'one man' is Julius Caesar, by 45 BC sole master of the Roman state. Cicero's guarded, almost coded language --- praising Caesar's clemency while lamenting that life must be lived merely 'by his concession and favour' --- reflects both genuine gratitude for his own pardon and the careful self-censorship of correspondents under a dictatorship."
+    }
+  ]
+}

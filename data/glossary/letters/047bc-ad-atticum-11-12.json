@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-11-12",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the younger Balbus Cornelius",
+      "entity_id": "person:l-cornelius-balbus",
+      "note": "Cicero distinguishes the elder L. Cornelius Balbus, Caesar's powerful Spanish-born confidant and agent, from his nephew of the same name. Balbus and Oppius managed Caesar's correspondence and were Cicero's chief channels for sounding out Caesar's mood."
+    },
+    {
+      "loc": "3",
+      "anchor": "we have far more to worry about over Africa",
+      "entity_id": "place:africa",
+      "note": "After Pharsalus the surviving Pompeians regrouped in the Roman province of Africa, where Cato, Metellus Scipio, and King Juba were assembling a new army. Cicero, who had abandoned the cause and returned to Italy, dreaded that their resistance would prolong the war and expose his desertion."
+    },
+    {
+      "loc": "4",
+      "anchor": "the splendid performances of my son-in-law",
+      "entity_id": "person:dolabella",
+      "note": "Bitter sarcasm: Cicero's son-in-law was P. Cornelius Dolabella, then tribune at Rome, whose demagogic agitation for cancellation of debts had provoked rioting. His conduct, and his treatment of Tullia, were a fresh grief on top of Cicero's political ruin."
+    },
+    {
+      "loc": "4",
+      "anchor": "I have entered upon Galeo's inheritance",
+      "entity_id": "person:galeo",
+      "note": "Cicero had been named heir by one Galeo and formally accepted the bequest. The cretio was the legal act, performed within a set period, by which an instituted heir declared acceptance of an inheritance."
+    }
+  ]
+}

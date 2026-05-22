@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-05-09",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "the man under whose defence I learned how to win",
+      "entity_id": "person:cicero",
+      "note": "Vatinius recalls that Cicero, after savaging him as a hostile witness in 56 BC (In Vatinium), later defended him in court in 54 BC. The whole letter plays on the patron-client relationship that defence created."
+    },
+    {
+      "loc": "1",
+      "anchor": "The dispatch to the Senate on our exploits",
+      "entity_id": "institution:senate",
+      "note": "Litterae ad senatum: an official commander's report of victories, sent to the Senate to win a supplicatio (public thanksgiving) and a step toward a triumph. Vatinius encloses a copy for Cicero to lobby on his behalf."
+    },
+    {
+      "loc": "2",
+      "anchor": "among the Vardaeans",
+      "entity_id": "group:vardaei",
+      "note": "The Vardaei, an Illyrian people in the hinterland of Narona. Cicero's runaway slave-reader Dionysius had taken refuge among them."
+    },
+    {
+      "loc": "2",
+      "anchor": "from the camp at Narona",
+      "entity_id": "place:narona",
+      "note": "Narona, the Roman colony and trading town on the river Naro (Neretva) in southern Dalmatia, was Vatinius's base of operations against the Dalmatae in 45 BC."
+    }
+  ]
+}

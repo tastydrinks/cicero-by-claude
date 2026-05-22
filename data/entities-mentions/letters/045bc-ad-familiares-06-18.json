@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-06-18",
+  "mentions": [
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "LEPTAE",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "Balbo",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "decurionibus",
+      "entity_id": "institution:decuriones",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "senatum Romae",
+      "entity_id": "institution:senate",
+      "in": "lat"
+    },
+    {
+      "loc": "1",
+      "surface": "CICERO",
+      "entity_id": "person:cicero",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "LEPTAE",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "Balbus",
+      "entity_id": "person:l-cornelius-balbus",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "decurions",
+      "entity_id": "institution:decuriones",
+      "in": "eng"
+    },
+    {
+      "loc": "1",
+      "surface": "the Senate at Rome",
+      "entity_id": "institution:senate",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Hispaniis",
+      "entity_id": "place:hispania",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompeium",
+      "entity_id": "person:cn-pompeius-iunior",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "Messalla",
+      "entity_id": "person:m-valerius-messalla-rufus",
+      "in": "lat"
+    },
+    {
+      "loc": "2",
+      "surface": "the Spains",
+      "entity_id": "place:hispania",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Pompeius",
+      "entity_id": "person:cn-pompeius-iunior",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Caesar",
+      "entity_id": "person:caesar",
+      "in": "eng"
+    },
+    {
+      "loc": "2",
+      "surface": "Messalla",
+      "entity_id": "person:m-valerius-messalla-rufus",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompeio",
+      "entity_id": "person:cn-pompeius-iunior",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Galba",
+      "entity_id": "person:servius-sulpicius-galba",
+      "in": "lat"
+    },
+    {
+      "loc": "3",
+      "surface": "Pompeius",
+      "entity_id": "person:cn-pompeius-iunior",
+      "in": "eng"
+    },
+    {
+      "loc": "3",
+      "surface": "Galba",
+      "entity_id": "person:servius-sulpicius-galba",
+      "in": "eng"
+    },
+    {
+      "loc": "4",
+      "surface": "Leptam nostrum",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "lat"
+    },
+    {
+      "loc": "4",
+      "surface": "our young Lepta",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Tulliae",
+      "entity_id": "person:tullia",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Dolabellae",
+      "entity_id": "person:dolabella",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "Lepta",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "lat"
+    },
+    {
+      "loc": "5",
+      "surface": "my Tullia",
+      "entity_id": "person:tullia",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "Dolabella's",
+      "entity_id": "person:dolabella",
+      "in": "eng"
+    },
+    {
+      "loc": "5",
+      "surface": "our sweetest little Lepta",
+      "entity_id": "person:q-paconius-lepta",
+      "in": "eng"
+    }
+  ]
+}

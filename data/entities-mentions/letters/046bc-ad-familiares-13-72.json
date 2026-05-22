@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-13-72",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "P. SERVILIO CONLEGAE", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "lat"},
+    {"loc": "1", "surface": "P. SERVILIO CONLEGAE", "entity_id": "person:p-servilius-vatia-isauricus-minor", "in": "eng"},
+    {"loc": "1", "surface": "Caerelliae", "entity_id": "person:caerellia", "in": "lat"},
+    {"loc": "1", "surface": "Caerellia", "entity_id": "person:caerellia", "in": "eng"},
+    {"loc": "1", "surface": "possessiones Asiaticas", "entity_id": "place:asia-province", "in": "lat"},
+    {"loc": "1", "surface": "Asian holdings", "entity_id": "place:asia-province", "in": "eng"},
+    {"loc": "2", "surface": "s. c.", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "decree of the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "heredes C. Vennoni", "entity_id": "person:c-vennonius", "in": "lat"},
+    {"loc": "2", "surface": "the heirs of C. Vennonius", "entity_id": "person:c-vennonius", "in": "eng"},
+    {"loc": "2", "surface": "Caerelliae", "entity_id": "person:caerellia", "in": "lat"},
+    {"loc": "2", "surface": "Caerellia", "entity_id": "person:caerellia", "in": "eng"},
+    {"loc": "2", "surface": "senatus consultum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "that decree of the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "eius ordinis", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "that order", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}

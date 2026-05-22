@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-10-25",
+  "mentions": [
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "FVRNIO", "entity_id": "person:furnius", "in": "lat"},
+    {"loc": "1", "surface": "FVRNIO", "entity_id": "person:furnius", "in": "eng"},
+    {"loc": "1", "surface": "Planco", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "Plancus's", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "1", "surface": "Planci", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "1", "surface": "Plancus's own testimony", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "2", "surface": "Planco cos.", "entity_id": "person:munatius-plancus", "in": "lat"},
+    {"loc": "2", "surface": "Plancus as consul", "entity_id": "person:munatius-plancus", "in": "eng"},
+    {"loc": "3", "surface": "Quinto, fratre meo", "entity_id": "person:quintus-cicero", "in": "lat"},
+    {"loc": "3", "surface": "my brother Quintus", "entity_id": "person:quintus-cicero", "in": "eng"},
+    {"loc": "3", "surface": "Caecina", "entity_id": "person:a-caecina-friend", "in": "lat"},
+    {"loc": "3", "surface": "Caecina", "entity_id": "person:a-caecina-friend", "in": "eng"},
+    {"loc": "3", "surface": "Calvisio", "entity_id": "person:calvisius-sabinus", "in": "lat"},
+    {"loc": "3", "surface": "Calvisius", "entity_id": "person:calvisius-sabinus", "in": "eng"},
+    {"loc": "3", "surface": "Dardanus, libertus tuus", "entity_id": null, "in": "lat"},
+    {"loc": "3", "surface": "Dardanus your freedman", "entity_id": null, "in": "eng"}
+  ]
+}

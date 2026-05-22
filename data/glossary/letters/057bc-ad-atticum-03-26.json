@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-03-26",
+  "notes": [
+    {"loc": "1", "anchor": "the senatus consultum which has been passed about me", "entity_id": "institution:senate", "note": "A senatus consultum was a formal resolution of the Senate; this one, of 1 January 57 BC, commended Cicero's recall to the people and opened the legislative campaign that would bring him home."},
+    {"loc": "1", "anchor": "wait for the legislation", "entity_id": null, "note": "A senatorial decree could only recommend; Cicero's recall still required a law (lex) voted by the people, which is the legislation he resolves to await."},
+    {"loc": "1", "anchor": "I shall use the authority of the Senate", "entity_id": "institution:senate", "note": "If the bill were blocked, Cicero means to invoke the Senate's auctoritas --- its moral weight rather than binding force --- as warrant for returning even at the risk of his life."}
+  ]
+}

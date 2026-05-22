@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "ad-atticum-12-44",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "The book of his on Cato, which he sent to me",
+      "entity_id": "person:cato-minor",
+      "note": "Cicero had written a laudatory pamphlet, the Cato, praising Cato Uticensis after his suicide at Utica in 46 BC; Hirtius (and later Caesar himself in the Anticato) replied with attacks. Cicero wants Hirtius's hostile book circulated, confident its abuse will only set off the dead Cato's glory the more."
+    },
+    {
+      "loc": "2",
+      "anchor": "As for what you are doing through Mustela",
+      "entity_id": "person:mustela",
+      "note": "Mustela (Tamisius) was an agent connected with the estate Cicero hoped to buy, a co-surety on the Faberian bond and useful in securing a buyer's access to the heirs. Cicero treats him as a reliable go-between in the gardens negotiation."
+    },
+    {
+      "loc": "2",
+      "anchor": "ever since the time of Pontianus",
+      "entity_id": null,
+      "note": "An otherwise unknown acquaintance through whom Cicero's friendship with Mustela had begun; the reference is too compressed to identify the man or the affair securely."
+    },
+    {
+      "loc": "3",
+      "anchor": "Pompey is not being held at Carteia",
+      "entity_id": "person:cn-pompeius-iunior",
+      "note": "This \"Pompey\" is Cn. Pompeius the younger, elder son of Pompey the Great (long dead), who after his defeat by Caesar at Munda in March 45 BC fled to Carteia, a port near Gibraltar. The rumour that he was trapped there proved false, and Cicero is anxious that a fresh round of the Spanish war is still to come."
+    },
+    {
+      "loc": "3",
+      "anchor": "a regular little Fulvinius",
+      "entity_id": null,
+      "note": "Fulviniaster, Cicero's coinage from an otherwise obscure Fulvinius, brands Philotimus as a notorious purveyor of inflated or false news. The diminutive-pejorative suffix (-aster) marks him a second-rate, would-be version of the type."
+    },
+    {
+      "loc": "3",
+      "anchor": "Caninius' shipwreck",
+      "entity_id": null,
+      "note": "A current piece of news about a man named Caninius that Cicero wants explained; which of several contemporary Caninii is meant cannot be fixed with certainty. The remark shows how the grieving Cicero still followed the day's gossip from Rome."
+    }
+  ]
+}

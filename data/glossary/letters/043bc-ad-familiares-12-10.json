@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-12-10",
+  "notes": [
+    {
+      "loc": "1",
+      "anchor": "declared a public enemy by the Senate on 30 June by unanimous vote",
+      "entity_id": "person:lepidus-triumvir",
+      "note": "Renders hostis iudicatus: a formal Senate decree branding a citizen an enemy of the state, stripping his legal protections. Lepidus was so declared on 30 June 43 BC (Latin pridie Kalendas Quintilis) for joining Antony."
+    },
+    {
+      "loc": "1",
+      "anchor": "before the Kalends of September",
+      "entity_id": null,
+      "note": "The Kalends were the first day of the Roman month; here 1 September 43 BC, the deadline by which Lepidus's followers could return to allegiance and escape the enemy declaration."
+    },
+    {
+      "loc": "2",
+      "anchor": "by the letter you sent us from camp on the Nones of May",
+      "entity_id": null,
+      "note": "The Nones fell on the 5th (or 7th) of the month; here 7 May 43 BC. Cassius's dispatch from his camp had convinced Rome that he had crushed Dolabella and was marching to Italy."
+    },
+    {
+      "loc": "3",
+      "anchor": "had not Lepidus taken Antonius in --- stripped, unarmed, in flight",
+      "entity_id": "person:antony",
+      "note": "After his defeat at Mutina Antony fled westward over the Alps; Lepidus received him and merged their armies in late May 43 BC, reviving a war Cicero thought already won."
+    },
+    {
+      "loc": "3",
+      "anchor": "Against him we have the consuls-designate",
+      "entity_id": "office:consul",
+      "note": "With both consuls of 43 (Hirtius and Pansa) dead at Mutina, Cicero looks to the consuls-designate for 42 BC --- D. Brutus and Plancus --- to oppose Lepidus in Gaul."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "ad-familiares-11-06",
+  "mentions": [
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "lat"},
+    {"loc": "1", "surface": "M. CICERO", "entity_id": "person:cicero", "in": "eng"},
+    {"loc": "1", "surface": "D. BRVTO IMP. COS. DESIG.", "entity_id": "person:decimus-brutus-albinus", "in": "lat"},
+    {"loc": "1", "surface": "D. BRVTO IMP. COS. DESIG.", "entity_id": "person:decimus-brutus-albinus", "in": "eng"},
+    {"loc": "1", "surface": "Lupus noster", "entity_id": "person:p-rutilius-lupus", "in": "lat"},
+    {"loc": "1", "surface": "Our friend Lupus", "entity_id": "person:p-rutilius-lupus", "in": "eng"},
+    {"loc": "1", "surface": "Romam", "entity_id": "place:roma", "in": "lat"},
+    {"loc": "1", "surface": "Rome", "entity_id": "place:roma", "in": "eng"},
+    {"loc": "1", "surface": "Mutina", "entity_id": "place:mutina", "in": "lat"},
+    {"loc": "1", "surface": "Mutina", "entity_id": "place:mutina", "in": "eng"},
+    {"loc": "2", "surface": "tribuni pl.", "entity_id": "office:tribune", "in": "lat"},
+    {"loc": "2", "surface": "the tribunes of the plebs", "entity_id": "office:tribune", "in": "eng"},
+    {"loc": "2", "surface": "senatus", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "2", "surface": "consulum designatorum", "entity_id": "office:consul", "in": "lat"},
+    {"loc": "2", "surface": "the consuls-elect", "entity_id": "office:consul", "in": "eng"},
+    {"loc": "2", "surface": "in senatum", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "2", "surface": "to the Senate", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "3", "surface": "senatores", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "the senators", "entity_id": "institution:senate", "in": "eng"},
+    {"loc": "3", "surface": "in senatu", "entity_id": "institution:senate", "in": "lat"},
+    {"loc": "3", "surface": "in the Senate", "entity_id": "institution:senate", "in": "eng"}
+  ]
+}
